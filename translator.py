@@ -69,7 +69,7 @@ def reverse_dictionary(djastiz_to_english, djastiz_to_pos, english_to_notes, fil
 			f.write("{}\n:  _{}_\t**{}**".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
 			if djastiz_to_english[djastiz] in english_to_notes:
 				f.write("; {}".format(english_to_notes[djastiz_to_english[djastiz]]))
-			f.write("\n")
+			f.write("\n\n")
 
 
 if __name__ == '__main__':
