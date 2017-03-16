@@ -32,10 +32,10 @@ def load_dictionary(directory):
 	return eng_to_dja, dja_to_eng, pts_o_spc, notes
 
 
-def translate(filename, english_to_djastiz):
+def translate(filename, english_to_djastiz, hist=None):
 	"""replace every %4=2 line with the word-for-word translation of the previous line
 	and return a word frequency histogram"""
-	frequencies = {}
+	frequencies = {} if hist==None else hist
 	new_file = ""
 	with open(filename,'r') as f:
 		for i, line in enumerate(f):
@@ -77,6 +77,9 @@ def reverse_dictionary(djastiz_to_english, djastiz_to_pos, english_to_notes, fil
 if __name__ == '__main__':
 	eng_to_dja, dja_to_eng, dja_to_pos, eng_to_notes = load_dictionary('dictionary')
 	reverse_dictionary(dja_to_eng, dja_to_pos, eng_to_notes, 'word_guide.md')
-	hist = translate('idioms.txt', eng_to_dja)
+	hist = {}
+	hist = translate('idioms.txt', eng_to_dja, hist)
+	hist = translate('common_expressions.txt', eng_to_dja, hist)
+	hist = translate('examples.txt', eng_to_dja, hist)
 	for key in sorted(hist.keys(), key=lambda k: hist[k]):
 		print("{:03}\t{}".format(hist[key], key))
