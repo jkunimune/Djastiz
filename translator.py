@@ -65,11 +65,13 @@ def reverse_dictionary(djastiz_to_english, djastiz_to_pos, english_to_notes, fil
 	"""create a Djastiz-to-English dictionary and save it to filename"""
 	alphabetized = sorted(djastiz_to_english.keys())
 	with open(filename,'w') as f:
+		f.write("<dl>\n")
 		for djastiz in alphabetized:
-			f.write("{}\n:  _{}_\t**{}**".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
+			f.write("<dt>{}</dt>\n<dd><i>{}</i>\t<b>{}</b>".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
 			if djastiz_to_english[djastiz] in english_to_notes:
 				f.write("; {}".format(english_to_notes[djastiz_to_english[djastiz]]))
-			f.write("\n\n")
+			f.write("</dd>\n\n")
+		f.write("</dl>")
 
 
 if __name__ == '__main__':

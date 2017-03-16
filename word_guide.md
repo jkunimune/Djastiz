@@ -1,2682 +1,2684 @@
-aba
-:  _noun_	**enabling**
+<dl>
+<dt>aba</dt>
+<dd><i>noun</i>	<b>enabling</b></dd>
 
-abosh
-:  _noun_	**sibling-being**
+<dt>abosh</dt>
+<dd><i>noun</i>	<b>sibling-being</b></dd>
 
-abou
-:  _noun_	**3**
+<dt>abou</dt>
+<dd><i>noun</i>	<b>3</b></dd>
 
-adak
-:  _noun_	**willingness**
+<dt>adak</dt>
+<dd><i>noun</i>	<b>willingness</b></dd>
 
-adedo
-:  _noun-technical_	**physics.torque**
+<dt>adedo</dt>
+<dd><i>noun-technical</i>	<b>physics.torque</b></dd>
 
-adoub
-:  _noun_	**sphere**
+<dt>adoub</dt>
+<dd><i>noun</i>	<b>sphere</b></dd>
 
-agip
-:  _noun_	**meaning**
+<dt>agip</dt>
+<dd><i>noun</i>	<b>meaning</b></dd>
 
-agozi
-:  _noun-technical_	**physics.force**
+<dt>agozi</dt>
+<dd><i>noun-technical</i>	<b>physics.force</b></dd>
 
-aidop
-:  _noun_	**towardness**
+<dt>aidop</dt>
+<dd><i>noun</i>	<b>towardness</b></dd>
 
-aie
-:  _noun_	**active-perceiving**
+<dt>aie</dt>
+<dd><i>noun</i>	<b>active-perceiving</b></dd>
 
-aijosh
-:  _noun_	**eurypygimorphae**; a bunch of tropical birds
+<dt>aijosh</dt>
+<dd><i>noun</i>	<b>eurypygimorphae</b>; a bunch of tropical birds</dd>
 
-aipuj
-:  _noun_	**caddisfly**
+<dt>aipuj</dt>
+<dd><i>noun</i>	<b>caddisfly</b></dd>
 
-aishep
-:  _noun_	**1000**
+<dt>aishep</dt>
+<dd><i>noun</i>	<b>1000</b></dd>
 
-aishues
-:  _noun_	**dragonfruit**
+<dt>aishues</dt>
+<dd><i>noun</i>	<b>dragonfruit</b></dd>
 
-aizaip
-:  _noun_	**polypodizoa**; jellyfish-like parasites
+<dt>aizaip</dt>
+<dd><i>noun</i>	<b>polypodizoa</b>; jellyfish-like parasites</dd>
 
-aj
-:  _conjunction_	**"{**
+<dt>aj</dt>
+<dd><i>conjunction</i>	<b>"{</b></dd>
 
-ajud
-:  _noun_	**parenting**
+<dt>ajud</dt>
+<dd><i>noun</i>	<b>parenting</b></dd>
 
-akaj
-:  _noun_	**home**
+<dt>akaj</dt>
+<dd><i>noun</i>	<b>home</b></dd>
 
-akapa
-:  _noun-technical_	**physics.capacitance**
+<dt>akapa</dt>
+<dd><i>noun-technical</i>	<b>physics.capacitance</b></dd>
 
-ake
-:  _noun_	**skillfulness**
+<dt>ake</dt>
+<dd><i>noun</i>	<b>skillfulness</b></dd>
 
-akeik
-:  _noun_	**amount**
+<dt>akeik</dt>
+<dd><i>noun</i>	<b>amount</b></dd>
 
-akieg
-:  _noun_	**monoplacophora**; a type of molosk
+<dt>akieg</dt>
+<dd><i>noun</i>	<b>monoplacophora</b>; a type of molosk</dd>
 
-apagi
-:  _noun-technical_	**physics.energy**
+<dt>apagi</dt>
+<dd><i>noun-technical</i>	<b>physics.energy</b></dd>
 
-apeit
-:  _noun_	**palaeognatha**; ostriches rheas tinamous kiwis cassowaries and emus
+<dt>apeit</dt>
+<dd><i>noun</i>	<b>palaeognatha</b>; ostriches rheas tinamous kiwis cassowaries and emus</dd>
 
-apeub
-:  _noun_	**afroinsectiphilia**; golden moles tenrecs elephant shrews aardvarks and some other things
+<dt>apeub</dt>
+<dd><i>noun</i>	<b>afroinsectiphilia</b>; golden moles tenrecs elephant shrews aardvarks and some other things</dd>
 
-apik
-:  _noun_	**word**
+<dt>apik</dt>
+<dd><i>noun</i>	<b>word</b></dd>
 
-asab
-:  _noun_	**extracting**
+<dt>asab</dt>
+<dd><i>noun</i>	<b>extracting</b></dd>
 
-ashe
-:  _noun_	**location**
+<dt>ashe</dt>
+<dd><i>noun</i>	<b>location</b></dd>
 
-ashiob
-:  _noun_	**business-openness**
+<dt>ashiob</dt>
+<dd><i>noun</i>	<b>business-openness</b></dd>
 
-asioib
-:  _noun_	**stony-coral**
+<dt>asioib</dt>
+<dd><i>noun</i>	<b>stony-coral</b></dd>
 
-asog
-:  _noun_	**nextness**
+<dt>asog</dt>
+<dd><i>noun</i>	<b>nextness</b></dd>
 
-asosh
-:  _noun_	**flavor**
+<dt>asosh</dt>
+<dd><i>noun</i>	<b>flavor</b></dd>
 
-asoup
-:  _noun_	**imploring**
+<dt>asoup</dt>
+<dd><i>noun</i>	<b>imploring</b></dd>
 
-asoush
-:  _noun_	**reptile**
+<dt>asoush</dt>
+<dd><i>noun</i>	<b>reptile</b></dd>
 
-asu
-:  _noun_	**passive-perceiving**
+<dt>asu</dt>
+<dd><i>noun</i>	<b>passive-perceiving</b></dd>
 
-atad
-:  _noun_	**calling**; digital
+<dt>atad</dt>
+<dd><i>noun</i>	<b>calling</b>; digital</dd>
 
-atas
-:  _noun_	**autumn**
+<dt>atas</dt>
+<dd><i>noun</i>	<b>autumn</b></dd>
 
-ateiz
-:  _noun_	**containing**
+<dt>ateiz</dt>
+<dd><i>noun</i>	<b>containing</b></dd>
 
-atog
-:  _noun_	**desert**
+<dt>atog</dt>
+<dd><i>noun</i>	<b>desert</b></dd>
 
-auauj
-:  _noun_	**vombatiforme**; koalas and wombats
+<dt>auauj</dt>
+<dd><i>noun</i>	<b>vombatiforme</b>; koalas and wombats</dd>
 
-aub
-:  _fastener_	**howmany**; specifies amount degree or number
+<dt>aub</dt>
+<dd><i>fastener</i>	<b>howmany</b>; specifies amount degree or number</dd>
 
-aubaj
-:  _noun_	**sealily**
+<dt>aubaj</dt>
+<dd><i>noun</i>	<b>sealily</b></dd>
 
-auet
-:  _noun_	**plecaniforme**; pelicans and similar things
+<dt>auet</dt>
+<dd><i>noun</i>	<b>plecaniforme</b>; pelicans and similar things</dd>
 
-augok
-:  _noun_	**dog**; also describes wolves dingoes and foxes
+<dt>augok</dt>
+<dd><i>noun</i>	<b>dog</b>; also describes wolves dingoes and foxes</dd>
 
-aui
-:  _noun_	**multiplicity**
+<dt>aui</dt>
+<dd><i>noun</i>	<b>multiplicity</b></dd>
 
-aujak
-:  _noun_	**disease-having**
+<dt>aujak</dt>
+<dd><i>noun</i>	<b>disease-having</b></dd>
 
-aujod
-:  _noun_	**pointing**
+<dt>aujod</dt>
+<dd><i>noun</i>	<b>pointing</b></dd>
 
-aukig
-:  _noun_	**mass**
+<dt>aukig</dt>
+<dd><i>noun</i>	<b>mass</b></dd>
 
-aupi
-:  _noun_	**repeating**
+<dt>aupi</dt>
+<dd><i>noun</i>	<b>repeating</b></dd>
 
-aus
-:  _fastener_	**ie**; draws equality
+<dt>aus</dt>
+<dd><i>fastener</i>	<b>ie</b>; draws equality</dd>
 
-auta
-:  _noun_	**involving**
+<dt>auta</dt>
+<dd><i>noun</i>	<b>involving</b></dd>
 
-auzad
-:  _noun_	**polyhedron**
+<dt>auzad</dt>
+<dd><i>noun</i>	<b>polyhedron</b></dd>
 
-auzek
-:  _noun_	**continuing**
+<dt>auzek</dt>
+<dd><i>noun</i>	<b>continuing</b></dd>
 
-azaish
-:  _noun_	**reaching**
+<dt>azaish</dt>
+<dd><i>noun</i>	<b>reaching</b></dd>
 
-babais
-:  _noun_	**stabbing**
+<dt>babais</dt>
+<dd><i>noun</i>	<b>stabbing</b></dd>
 
-badiz
-:  _noun_	**winning**
+<dt>badiz</dt>
+<dd><i>noun</i>	<b>winning</b></dd>
 
-badob
-:  _noun_	**troubling**
+<dt>badob</dt>
+<dd><i>noun</i>	<b>troubling</b></dd>
 
-baduj
-:  _noun_	**sufficing**
+<dt>baduj</dt>
+<dd><i>noun</i>	<b>sufficing</b></dd>
 
-baga
-:  _noun_	**macropodiforme**; kangaroos and wallabies
+<dt>baga</dt>
+<dd><i>noun</i>	<b>macropodiforme</b>; kangaroos and wallabies</dd>
 
-baipok
-:  _noun_	**blue-coral**
+<dt>baipok</dt>
+<dd><i>noun</i>	<b>blue-coral</b></dd>
 
-baisu
-:  _noun_	**time-distance**
+<dt>baisu</dt>
+<dd><i>noun</i>	<b>time-distance</b></dd>
 
-bajut
-:  _noun_	**decimal-point**
+<dt>bajut</dt>
+<dd><i>noun</i>	<b>decimal-point</b></dd>
 
-bakeish
-:  _noun_	**consenting**
+<dt>bakeish</dt>
+<dd><i>noun</i>	<b>consenting</b></dd>
 
-bas
-:  _pronoun_	**me**; the speaker
+<dt>bas</dt>
+<dd><i>pronoun</i>	<b>me</b>; the speaker</dd>
 
-basash
-:  _noun_	**follow**
+<dt>basash</dt>
+<dd><i>noun</i>	<b>follow</b></dd>
 
-basho
-:  _noun_	**separation**
+<dt>basho</dt>
+<dd><i>noun</i>	<b>separation</b></dd>
 
-basis
-:  _noun_	**flash**; also applies to sound and other sensations
+<dt>basis</dt>
+<dd><i>noun</i>	<b>flash</b>; also applies to sound and other sensations</dd>
 
-baushauk
-:  _noun_	**eukaryote**
+<dt>baushauk</dt>
+<dd><i>noun</i>	<b>eukaryote</b></dd>
 
-baushish
-:  _noun_	**basil**
+<dt>baushish</dt>
+<dd><i>noun</i>	<b>basil</b></dd>
 
-bazob
-:  _noun_	**chevrotain**
+<dt>bazob</dt>
+<dd><i>noun</i>	<b>chevrotain</b></dd>
 
-beboip
-:  _noun_	**breadfruit**
+<dt>beboip</dt>
+<dd><i>noun</i>	<b>breadfruit</b></dd>
 
-beboj
-:  _noun_	**crab**; also includes lobsters
+<dt>beboj</dt>
+<dd><i>noun</i>	<b>crab</b>; also includes lobsters</dd>
 
-bebous
-:  _noun_	**leech**
+<dt>bebous</dt>
+<dd><i>noun</i>	<b>leech</b></dd>
 
-beishi
-:  _noun_	**amblypygus**; they look like spiders but produce no web or venom
+<dt>beishi</dt>
+<dd><i>noun</i>	<b>amblypygus</b>; they look like spiders but produce no web or venom</dd>
 
-beizu
-:  _noun_	**rodent**
+<dt>beizu</dt>
+<dd><i>noun</i>	<b>rodent</b></dd>
 
-bejaz
-:  _noun_	**squiggle**
+<dt>bejaz</dt>
+<dd><i>noun</i>	<b>squiggle</b></dd>
 
-bepes
-:  _noun_	**process-undergoing**
+<dt>bepes</dt>
+<dd><i>noun</i>	<b>process-undergoing</b></dd>
 
-bet
-:  _article_	**some**; subset
+<dt>bet</dt>
+<dd><i>article</i>	<b>some</b>; subset</dd>
 
-beue
-:  _noun_	**disposing**
+<dt>beue</dt>
+<dd><i>noun</i>	<b>disposing</b></dd>
 
-beuog
-:  _noun_	**emotion**
+<dt>beuog</dt>
+<dd><i>noun</i>	<b>emotion</b></dd>
 
-bezop
-:  _noun_	**wanting**
+<dt>bezop</dt>
+<dd><i>noun</i>	<b>wanting</b></dd>
 
-biapeb
-:  _noun_	**soft-coral**
+<dt>biapeb</dt>
+<dd><i>noun</i>	<b>soft-coral</b></dd>
 
-biapeup
-:  _noun_	**burying**
+<dt>biapeup</dt>
+<dd><i>noun</i>	<b>burying</b></dd>
 
-bidou
-:  _noun_	**scalidophora**; mud-dwelling tiny aquatic things
+<dt>bidou</dt>
+<dd><i>noun</i>	<b>scalidophora</b>; mud-dwelling tiny aquatic things</dd>
 
-bigab
-:  _noun_	**housing**
+<dt>bigab</dt>
+<dd><i>noun</i>	<b>housing</b></dd>
 
-bigij
-:  _noun_	**system**
+<dt>bigij</dt>
+<dd><i>noun</i>	<b>system</b></dd>
 
-bipoiz
-:  _noun_	**wall**
+<dt>bipoiz</dt>
+<dd><i>noun</i>	<b>wall</b></dd>
 
-bita
-:  _noun_	**representing**
+<dt>bita</dt>
+<dd><i>noun</i>	<b>representing</b></dd>
 
-bitip
-:  _noun_	**flamingo**
+<dt>bitip</dt>
+<dd><i>noun</i>	<b>flamingo</b></dd>
 
-bizep
-:  _noun_	**future**
+<dt>bizep</dt>
+<dd><i>noun</i>	<b>future</b></dd>
 
-bodij
-:  _noun_	**rectangle**
+<dt>bodij</dt>
+<dd><i>noun</i>	<b>rectangle</b></dd>
 
-boidush
-:  _noun_	**cauliflower**
+<dt>boidush</dt>
+<dd><i>noun</i>	<b>cauliflower</b></dd>
 
-boipi
-:  _noun_	**palpigrade**
+<dt>boipi</dt>
+<dd><i>noun</i>	<b>palpigrade</b></dd>
 
-bojis
-:  _noun_	**emitting**
+<dt>bojis</dt>
+<dd><i>noun</i>	<b>emitting</b></dd>
 
-boju
-:  _noun_	**city**
+<dt>boju</dt>
+<dd><i>noun</i>	<b>city</b></dd>
 
-bokis
-:  _noun_	**servicing**
+<dt>bokis</dt>
+<dd><i>noun</i>	<b>servicing</b></dd>
 
-bopa
-:  _noun_	**arc**
+<dt>bopa</dt>
+<dd><i>noun</i>	<b>arc</b></dd>
 
-bosish
-:  _noun_	**study**; a subject
+<dt>bosish</dt>
+<dd><i>noun</i>	<b>study</b>; a subject</dd>
 
-boteg
-:  _noun_	**position**; physical state
+<dt>boteg</dt>
+<dd><i>noun</i>	<b>position</b>; physical state</dd>
 
-bougob
-:  _noun_	**tomato**
+<dt>bougob</dt>
+<dd><i>noun</i>	<b>tomato</b></dd>
 
-boutus
-:  _noun_	**canola**
+<dt>boutus</dt>
+<dd><i>noun</i>	<b>canola</b></dd>
 
-bouzes
-:  _noun_	**lemon**
+<dt>bouzes</dt>
+<dd><i>noun</i>	<b>lemon</b></dd>
 
-bozub
-:  _noun_	**shrimp**; pretty loose descriptor of most eumalacostraca
+<dt>bozub</dt>
+<dd><i>noun</i>	<b>shrimp</b>; pretty loose descriptor of most eumalacostraca</dd>
 
-bu
-:  _preposition_	**sbj**; denotes subject
+<dt>bu</dt>
+<dd><i>preposition</i>	<b>sbj</b>; denotes subject</dd>
 
-budeg
-:  _noun_	**computational-intensity**
+<dt>budeg</dt>
+<dd><i>noun</i>	<b>computational-intensity</b></dd>
 
-bueubak
-:  _noun_	**potato**
+<dt>bueubak</dt>
+<dd><i>noun</i>	<b>potato</b></dd>
 
-buie
-:  _noun_	**lamprey**
+<dt>buie</dt>
+<dd><i>noun</i>	<b>lamprey</b></dd>
 
-bukat
-:  _noun_	**already**
+<dt>bukat</dt>
+<dd><i>noun</i>	<b>already</b></dd>
 
-bupash
-:  _noun_	**sweetness**
+<dt>bupash</dt>
+<dd><i>noun</i>	<b>sweetness</b></dd>
 
-bupiosh
-:  _noun_	**segmented-worm**; any member of annelida besides leeches and beardworms
+<dt>bupiosh</dt>
+<dd><i>noun</i>	<b>segmented-worm</b>; any member of annelida besides leeches and beardworms</dd>
 
-busaz
-:  _noun_	**driving**
+<dt>busaz</dt>
+<dd><i>noun</i>	<b>driving</b></dd>
 
-busut
-:  _noun_	**bear**
+<dt>busut</dt>
+<dd><i>noun</i>	<b>bear</b></dd>
 
-butud
-:  _noun_	**snakefly**
+<dt>butud</dt>
+<dd><i>noun</i>	<b>snakefly</b></dd>
 
-dabei
-:  _noun_	**keeping**
+<dt>dabei</dt>
+<dd><i>noun</i>	<b>keeping</b></dd>
 
-dadeg
-:  _noun_	**zorapteran**; a type of insect bug thing
+<dt>dadeg</dt>
+<dd><i>noun</i>	<b>zorapteran</b>; a type of insect bug thing</dd>
 
-daiau
-:  _noun_	**4**
+<dt>daiau</dt>
+<dd><i>noun</i>	<b>4</b></dd>
 
-daid
-:  _punctuation_	**merry**; salutory
+<dt>daid</dt>
+<dd><i>punctuation</i>	<b>merry</b>; salutory</dd>
 
-daijab
-:  _noun_	**bacterum**
+<dt>daijab</dt>
+<dd><i>noun</i>	<b>bacterum</b></dd>
 
-daipa
-:  _noun_	**imagining**
+<dt>daipa</dt>
+<dd><i>noun</i>	<b>imagining</b></dd>
 
-daishous
-:  _noun_	**anger**
+<dt>daishous</dt>
+<dd><i>noun</i>	<b>anger</b></dd>
 
-dakap
-:  _noun_	**insect**
+<dt>dakap</dt>
+<dd><i>noun</i>	<b>insect</b></dd>
 
-dakoij
-:  _noun_	**bewaring**
+<dt>dakoij</dt>
+<dd><i>noun</i>	<b>bewaring</b></dd>
 
-dapioug
-:  _noun_	**gorgonian**; sea fans and sea whips
+<dt>dapioug</dt>
+<dd><i>noun</i>	<b>gorgonian</b>; sea fans and sea whips</dd>
 
-daseug
-:  _noun_	**broccoli**
+<dt>daseug</dt>
+<dd><i>noun</i>	<b>broccoli</b></dd>
 
-dasuj
-:  _noun_	**hippopotamus**
+<dt>dasuj</dt>
+<dd><i>noun</i>	<b>hippopotamus</b></dd>
 
-daubop
-:  _noun_	**seapens**
+<dt>daubop</dt>
+<dd><i>noun</i>	<b>seapens</b></dd>
 
-daudut
-:  _noun_	**strawberry**
+<dt>daudut</dt>
+<dd><i>noun</i>	<b>strawberry</b></dd>
 
-debag
-:  _noun_	**writing**
+<dt>debag</dt>
+<dd><i>noun</i>	<b>writing</b></dd>
 
-degek
-:  _noun_	**revolving**
+<dt>degek</dt>
+<dd><i>noun</i>	<b>revolving</b></dd>
 
-dejat
-:  _noun_	**flower**
+<dt>dejat</dt>
+<dd><i>noun</i>	<b>flower</b></dd>
 
-dekob
-:  _noun_	**non-binary-gender**
+<dt>dekob</dt>
+<dd><i>noun</i>	<b>non-binary-gender</b></dd>
 
-depe
-:  _noun_	**tube**
+<dt>depe</dt>
+<dd><i>noun</i>	<b>tube</b></dd>
 
-deshu
-:  _noun_	**furthering**
+<dt>deshu</dt>
+<dd><i>noun</i>	<b>furthering</b></dd>
 
-deubu
-:  _noun_	**char**
+<dt>deubu</dt>
+<dd><i>noun</i>	<b>char</b></dd>
 
-dezej
-:  _noun_	**phasmid**; stick and leaf insects
+<dt>dezej</dt>
+<dd><i>noun</i>	<b>phasmid</b>; stick and leaf insects</dd>
 
-dietat
-:  _noun_	**anemone**
+<dt>dietat</dt>
+<dd><i>noun</i>	<b>anemone</b></dd>
 
-digo
-:  _noun_	**numeric-value**
+<dt>digo</dt>
+<dd><i>noun</i>	<b>numeric-value</b></dd>
 
-dij
-:  _preposition_	**for**; denotes purpose
+<dt>dij</dt>
+<dd><i>preposition</i>	<b>for</b>; denotes purpose</dd>
 
-dijad
-:  _noun_	**seeming**
+<dt>dijad</dt>
+<dd><i>noun</i>	<b>seeming</b></dd>
 
-dik
-:  _fastener_	**whatkind**; denotes variety or attributes
+<dt>dik</dt>
+<dd><i>fastener</i>	<b>whatkind</b>; denotes variety or attributes</dd>
 
-diopia
-:  _noun_	**jellyfish**
+<dt>diopia</dt>
+<dd><i>noun</i>	<b>jellyfish</b></dd>
 
-dishog
-:  _noun_	**seacucumber**
+<dt>dishog</dt>
+<dd><i>noun</i>	<b>seacucumber</b></dd>
 
-ditab
-:  _noun_	**sharing**
+<dt>ditab</dt>
+<dd><i>noun</i>	<b>sharing</b></dd>
 
-diuab
-:  _noun_	**freeness**; time management
+<dt>diuab</dt>
+<dd><i>noun</i>	<b>freeness</b>; time management</dd>
 
-diuis
-:  _noun_	**fun-having**
+<dt>diuis</dt>
+<dd><i>noun</i>	<b>fun-having</b></dd>
 
-diutij
-:  _noun_	**black-coral**
+<dt>diutij</dt>
+<dd><i>noun</i>	<b>black-coral</b></dd>
 
-dodiz
-:  _noun_	**employing**
+<dt>dodiz</dt>
+<dd><i>noun</i>	<b>employing</b></dd>
 
-doge
-:  _noun_	**reasoning**
+<dt>doge</dt>
+<dd><i>noun</i>	<b>reasoning</b></dd>
 
-doijaj
-:  _noun_	**pineapple**
+<dt>doijaj</dt>
+<dd><i>noun</i>	<b>pineapple</b></dd>
 
-doipu
-:  _noun_	**cat**
+<dt>doipu</dt>
+<dd><i>noun</i>	<b>cat</b></dd>
 
-doitit
-:  _noun_	**raspberry**
+<dt>doitit</dt>
+<dd><i>noun</i>	<b>raspberry</b></dd>
 
-dokish
-:  _noun_	**music-making**; an instrument
+<dt>dokish</dt>
+<dd><i>noun</i>	<b>music-making</b>; an instrument</dd>
 
-dopouk
-:  _noun_	**stalked-jellyfish**
+<dt>dopouk</dt>
+<dd><i>noun</i>	<b>stalked-jellyfish</b></dd>
 
-dopup
-:  _noun_	**velvetworm**
+<dt>dopup</dt>
+<dd><i>noun</i>	<b>velvetworm</b></dd>
 
-dosei
-:  _noun_	**spider**
+<dt>dosei</dt>
+<dd><i>noun</i>	<b>spider</b></dd>
 
-doses
-:  _noun_	**milk**
+<dt>doses</dt>
+<dd><i>noun</i>	<b>milk</b></dd>
 
-dosij
-:  _noun_	**acarus**; mites and ticks
+<dt>dosij</dt>
+<dd><i>noun</i>	<b>acarus</b>; mites and ticks</dd>
 
-dotib
-:  _noun_	**happiness**
+<dt>dotib</dt>
+<dd><i>noun</i>	<b>happiness</b></dd>
 
-dou
-:  _prefix_	**very**; exaggeration
+<dt>dou</dt>
+<dd><i>prefix</i>	<b>very</b>; exaggeration</dd>
 
-douseg
-:  _noun_	**vagina**
+<dt>douseg</dt>
+<dd><i>noun</i>	<b>vagina</b></dd>
 
-doze
-:  _noun_	**10**
+<dt>doze</dt>
+<dd><i>noun</i>	<b>10</b></dd>
 
-doziz
-:  _noun_	**spaciousness**
+<dt>doziz</dt>
+<dd><i>noun</i>	<b>spaciousness</b></dd>
 
-duadup
-:  _noun_	**medicine**
+<dt>duadup</dt>
+<dd><i>noun</i>	<b>medicine</b></dd>
 
-dudij
-:  _noun_	**up-teaming**
+<dt>dudij</dt>
+<dd><i>noun</i>	<b>up-teaming</b></dd>
 
-dueg
-:  _noun_	**no**
+<dt>dueg</dt>
+<dd><i>noun</i>	<b>no</b></dd>
 
-duigod
-:  _noun_	**entertaining**; as in a movie or play or skit
+<dt>duigod</dt>
+<dd><i>noun</i>	<b>entertaining</b>; as in a movie or play or skit</dd>
 
-dujash
-:  _noun_	**ricinulei**
+<dt>dujash</dt>
+<dd><i>noun</i>	<b>ricinulei</b></dd>
 
-dukes
-:  _noun_	**furniture**
+<dt>dukes</dt>
+<dd><i>noun</i>	<b>furniture</b></dd>
 
-dupo
-:  _noun_	**doing-staff-things**
+<dt>dupo</dt>
+<dd><i>noun</i>	<b>doing-staff-things</b></dd>
 
-dusas
-:  _noun_	**rotating**
+<dt>dusas</dt>
+<dd><i>noun</i>	<b>rotating</b></dd>
 
-duset
-:  _noun_	**tardigrade**
+<dt>duset</dt>
+<dd><i>noun</i>	<b>tardigrade</b></dd>
 
-e
-:  _preposition_	**pdc**; denotes predicate
+<dt>e</dt>
+<dd><i>preposition</i>	<b>pdc</b>; denotes predicate</dd>
 
-ebadu
-:  _noun-technical_	**math.vector**
+<dt>ebadu</dt>
+<dd><i>noun-technical</i>	<b>math.vector</b></dd>
 
-ebe
-:  _noun_	**believing**
+<dt>ebe</dt>
+<dd><i>noun</i>	<b>believing</b></dd>
 
-ebiaj
-:  _noun_	**doliolida**
+<dt>ebiaj</dt>
+<dd><i>noun</i>	<b>doliolida</b></dd>
 
-eboib
-:  _noun_	**rule-placing**
+<dt>eboib</dt>
+<dd><i>noun</i>	<b>rule-placing</b></dd>
 
-ebueg
-:  _noun_	**spring**; the season
+<dt>ebueg</dt>
+<dd><i>noun</i>	<b>spring</b>; the season</dd>
 
-edau
-:  _noun_	**interval**
+<dt>edau</dt>
+<dd><i>noun</i>	<b>interval</b></dd>
 
-edej
-:  _noun_	**courting**
+<dt>edej</dt>
+<dd><i>noun</i>	<b>courting</b></dd>
 
-edi
-:  _noun_	**computing**
+<dt>edi</dt>
+<dd><i>noun</i>	<b>computing</b></dd>
 
-edub
-:  _noun_	**flicker**; any rapid occilation
+<dt>edub</dt>
+<dd><i>noun</i>	<b>flicker</b>; any rapid occilation</dd>
 
-egai
-:  _noun_	**breaking**
+<dt>egai</dt>
+<dd><i>noun</i>	<b>breaking</b></dd>
 
-egieish
-:  _noun_	**blueberry**
+<dt>egieish</dt>
+<dd><i>noun</i>	<b>blueberry</b></dd>
 
-egop
-:  _noun_	**action-taking**
+<dt>egop</dt>
+<dd><i>noun</i>	<b>action-taking</b></dd>
 
-eiaij
-:  _noun_	**handing**
+<dt>eiaij</dt>
+<dd><i>noun</i>	<b>handing</b></dd>
 
-eibi
-:  _noun_	**born-being**
+<dt>eibi</dt>
+<dd><i>noun</i>	<b>born-being</b></dd>
 
-eibou
-:  _noun_	**recording**
+<dt>eibou</dt>
+<dd><i>noun</i>	<b>recording</b></dd>
 
-eiduid
-:  _noun_	**competing**
+<dt>eiduid</dt>
+<dd><i>noun</i>	<b>competing</b></dd>
 
-eiesh
-:  _noun_	**6**
+<dt>eiesh</dt>
+<dd><i>noun</i>	<b>6</b></dd>
 
-eijop
-:  _noun_	**governing**
+<dt>eijop</dt>
+<dd><i>noun</i>	<b>governing</b></dd>
 
-eik
-:  _article_	**that**; associated with listener
+<dt>eik</dt>
+<dd><i>article</i>	<b>that</b>; associated with listener</dd>
 
-eipish
-:  _noun_	**shorebird**
+<dt>eipish</dt>
+<dd><i>noun</i>	<b>shorebird</b></dd>
 
-eisash
-:  _noun_	**listing**
+<dt>eisash</dt>
+<dd><i>noun</i>	<b>listing</b></dd>
 
-eishub
-:  _noun_	**armadillo**
+<dt>eishub</dt>
+<dd><i>noun</i>	<b>armadillo</b></dd>
 
-eitu
-:  _noun_	**living**
+<dt>eitu</dt>
+<dd><i>noun</i>	<b>living</b></dd>
 
-eiugo
-:  _noun-technical_	**math.ellipsoid**
+<dt>eiugo</dt>
+<dd><i>noun-technical</i>	<b>math.ellipsoid</b></dd>
 
-ejaj
-:  _noun_	**logging-in**
+<dt>ejaj</dt>
+<dd><i>noun</i>	<b>logging-in</b></dd>
 
-ejid
-:  _noun_	**including**
+<dt>ejid</dt>
+<dd><i>noun</i>	<b>including</b></dd>
 
-ejoish
-:  _noun_	**mustelidae**; weasels badgers otters martens ferrets minks stoats and wolverines
+<dt>ejoish</dt>
+<dd><i>noun</i>	<b>mustelidae</b>; weasels badgers otters martens ferrets minks stoats and wolverines</dd>
 
-ekog
-:  _noun_	**sleeping**
+<dt>ekog</dt>
+<dd><i>noun</i>	<b>sleeping</b></dd>
 
-epeik
-:  _noun_	**entognatha**; six-legged bugs that are not insects
+<dt>epeik</dt>
+<dd><i>noun</i>	<b>entognatha</b>; six-legged bugs that are not insects</dd>
 
-esek
-:  _noun_	**day**; 24 hr
+<dt>esek</dt>
+<dd><i>noun</i>	<b>day</b>; 24 hr</dd>
 
-esheub
-:  _noun_	**columbimorphae**; pidgeons doves sandgrouses and mesites
+<dt>esheub</dt>
+<dd><i>noun</i>	<b>columbimorphae</b>; pidgeons doves sandgrouses and mesites</dd>
 
-eshish
-:  _noun_	**coraciimorpha**; some smallish generally tree-dwelling birds
+<dt>eshish</dt>
+<dd><i>noun</i>	<b>coraciimorpha</b>; some smallish generally tree-dwelling birds</dd>
 
-eshot
-:  _noun_	**melon**
+<dt>eshot</dt>
+<dd><i>noun</i>	<b>melon</b></dd>
 
-esos
-:  _noun_	**frequency**
+<dt>esos</dt>
+<dd><i>noun</i>	<b>frequency</b></dd>
 
-esup
-:  _noun_	**bit**; things like gravel and cereal
+<dt>esup</dt>
+<dd><i>noun</i>	<b>bit</b>; things like gravel and cereal</dd>
 
-eteid
-:  _noun_	**anteater**
+<dt>eteid</dt>
+<dd><i>noun</i>	<b>anteater</b></dd>
 
-etiez
-:  _noun_	**lepidoptera**; moths and butterflies
+<dt>etiez</dt>
+<dd><i>noun</i>	<b>lepidoptera</b>; moths and butterflies</dd>
 
-etob
-:  _noun_	**describing**
+<dt>etob</dt>
+<dd><i>noun</i>	<b>describing</b></dd>
 
-etu
-:  _noun_	**radius**; outside-inside
+<dt>etu</dt>
+<dd><i>noun</i>	<b>radius</b>; outside-inside</dd>
 
-eubid
-:  _noun_	**maxillopod**; barnacles and copepods
+<dt>eubid</dt>
+<dd><i>noun</i>	<b>maxillopod</b>; barnacles and copepods</dd>
 
-eubop
-:  _noun_	**holding**
+<dt>eubop</dt>
+<dd><i>noun</i>	<b>holding</b></dd>
 
-eudik
-:  _noun_	**rock**
+<dt>eudik</dt>
+<dd><i>noun</i>	<b>rock</b></dd>
 
-eugaup
-:  _noun_	**parasite**
+<dt>eugaup</dt>
+<dd><i>noun</i>	<b>parasite</b></dd>
 
-eugeush
-:  _noun_	**controlling**
+<dt>eugeush</dt>
+<dd><i>noun</i>	<b>controlling</b></dd>
 
-euig
-:  _noun_	**gifting**
+<dt>euig</dt>
+<dd><i>noun</i>	<b>gifting</b></dd>
 
-eukau
-:  _noun_	**honey**
+<dt>eukau</dt>
+<dd><i>noun</i>	<b>honey</b></dd>
 
-euko
-:  _noun_	**paper**
+<dt>euko</dt>
+<dd><i>noun</i>	<b>paper</b></dd>
 
-euo
-:  _noun_	**knowing**
+<dt>euo</dt>
+<dd><i>noun</i>	<b>knowing</b></dd>
 
-eupek
-:  _noun_	**participating**
+<dt>eupek</dt>
+<dd><i>noun</i>	<b>participating</b></dd>
 
-eushait
-:  _noun_	**lime**
+<dt>eushait</dt>
+<dd><i>noun</i>	<b>lime</b></dd>
 
-eusheis
-:  _noun_	**conquering**
+<dt>eusheis</dt>
+<dd><i>noun</i>	<b>conquering</b></dd>
 
-eushi
-:  _noun_	**killing**
+<dt>eushi</dt>
+<dd><i>noun</i>	<b>killing</b></dd>
 
-eutash
-:  _noun_	**shrew-oppossum**; more closely related to Australia than possums
+<dt>eutash</dt>
+<dd><i>noun</i>	<b>shrew-oppossum</b>; more closely related to Australia than possums</dd>
 
-euti
-:  _noun_	**random-generating**
+<dt>euti</dt>
+<dd><i>noun</i>	<b>random-generating</b></dd>
 
-ezaid
-:  _noun_	**film**; the original meaning - thin thanslucent surfaces
+<dt>ezaid</dt>
+<dd><i>noun</i>	<b>film</b>; the original meaning - thin thanslucent surfaces</dd>
 
-ezako
-:  _noun-technical_	**math.derivative**
+<dt>ezako</dt>
+<dd><i>noun-technical</i>	<b>math.derivative</b></dd>
 
-ezap
-:  _noun_	**recalling**
+<dt>ezap</dt>
+<dd><i>noun</i>	<b>recalling</b></dd>
 
-ezib
-:  _noun_	**plankton**; anything microscopic that belongs to nephrozoa
+<dt>ezib</dt>
+<dd><i>noun</i>	<b>plankton</b>; anything microscopic that belongs to nephrozoa</dd>
 
-ezo
-:  _noun_	**being**
+<dt>ezo</dt>
+<dd><i>noun</i>	<b>being</b></dd>
 
-ezozi
-:  _noun-technical_	**physics.resistance**
+<dt>ezozi</dt>
+<dd><i>noun-technical</i>	<b>physics.resistance</b></dd>
 
-gabos
-:  _noun_	**second**
+<dt>gabos</dt>
+<dd><i>noun</i>	<b>second</b></dd>
 
-gadi
-:  _noun_	**snake**
+<dt>gadi</dt>
+<dd><i>noun</i>	<b>snake</b></dd>
 
-gaioik
-:  _noun_	**ceiling**
+<dt>gaioik</dt>
+<dd><i>noun</i>	<b>ceiling</b></dd>
 
-gaisios
-:  _noun_	**asparagus**
+<dt>gaisios</dt>
+<dd><i>noun</i>	<b>asparagus</b></dd>
 
-gaiud
-:  _noun_	**mantisshrimp**
+<dt>gaiud</dt>
+<dd><i>noun</i>	<b>mantisshrimp</b></dd>
 
-gajeg
-:  _noun_	**bowfin**
+<dt>gajeg</dt>
+<dd><i>noun</i>	<b>bowfin</b></dd>
 
-gakui
-:  _noun_	**symphalan**
+<dt>gakui</dt>
+<dd><i>noun</i>	<b>symphalan</b></dd>
 
-gapat
-:  _noun_	**modeling**
+<dt>gapat</dt>
+<dd><i>noun</i>	<b>modeling</b></dd>
 
-gashu
-:  _noun_	**obeying**
+<dt>gashu</dt>
+<dd><i>noun</i>	<b>obeying</b></dd>
 
-gasi
-:  _noun_	**female**
+<dt>gasi</dt>
+<dd><i>noun</i>	<b>female</b></dd>
 
-gatu
-:  _noun_	**interesting**
+<dt>gatu</dt>
+<dd><i>noun</i>	<b>interesting</b></dd>
 
-gauib
-:  _noun_	**fly**; in the taxonomical sense excluding mosquitos and houseflies
+<dt>gauib</dt>
+<dd><i>noun</i>	<b>fly</b>; in the taxonomical sense excluding mosquitos and houseflies</dd>
 
-gautud
-:  _noun_	**spinach**
+<dt>gautud</dt>
+<dd><i>noun</i>	<b>spinach</b></dd>
 
-gebei
-:  _noun_	**allowing**
+<dt>gebei</dt>
+<dd><i>noun</i>	<b>allowing</b></dd>
 
-gebesh
-:  _noun_	**hour**
+<dt>gebesh</dt>
+<dd><i>noun</i>	<b>hour</b></dd>
 
-gebeud
-:  _noun_	**basing**; operations and such
+<dt>gebeud</dt>
+<dd><i>noun</i>	<b>basing</b>; operations and such</dd>
 
-gedu
-:  _noun_	**community-making**
+<dt>gedu</dt>
+<dd><i>noun</i>	<b>community-making</b></dd>
 
-geiak
-:  _noun_	**condor**; also encompasses New World vultures
+<dt>geiak</dt>
+<dd><i>noun</i>	<b>condor</b>; also encompasses New World vultures</dd>
 
-geitush
-:  _noun_	**prone-lying**
+<dt>geitush</dt>
+<dd><i>noun</i>	<b>prone-lying</b></dd>
 
-geiu
-:  _noun_	**leisuring**
+<dt>geiu</dt>
+<dd><i>noun</i>	<b>leisuring</b></dd>
 
-geje
-:  _noun_	**sound**
+<dt>geje</dt>
+<dd><i>noun</i>	<b>sound</b></dd>
 
-gepok
-:  _noun_	**cockoroach**
+<dt>gepok</dt>
+<dd><i>noun</i>	<b>cockoroach</b></dd>
 
-geta
-:  _noun_	**ceremony-participating**
+<dt>geta</dt>
+<dd><i>noun</i>	<b>ceremony-participating</b></dd>
 
-getoz
-:  _noun_	**winter**
+<dt>getoz</dt>
+<dd><i>noun</i>	<b>winter</b></dd>
 
-geua
-:  _noun_	**pseudoscorpion**
+<dt>geua</dt>
+<dd><i>noun</i>	<b>pseudoscorpion</b></dd>
 
-geutuz
-:  _noun_	**bracket-fungus**
+<dt>geutuz</dt>
+<dd><i>noun</i>	<b>bracket-fungus</b></dd>
 
-geuzeu
-:  _noun_	**tolerating**
+<dt>geuzeu</dt>
+<dd><i>noun</i>	<b>tolerating</b></dd>
 
-gideb
-:  _noun_	**lateralness**
+<dt>gideb</dt>
+<dd><i>noun</i>	<b>lateralness</b></dd>
 
-gidosh
-:  _noun_	**office**
+<dt>gidosh</dt>
+<dd><i>noun</i>	<b>office</b></dd>
 
-giegoiz
-:  _noun_	**alga**
+<dt>giegoiz</dt>
+<dd><i>noun</i>	<b>alga</b></dd>
 
-gikieud
-:  _noun_	**banana**
+<dt>gikieud</dt>
+<dd><i>noun</i>	<b>banana</b></dd>
 
-gikup
-:  _noun_	**embiidina**; web-spinning insects
+<dt>gikup</dt>
+<dd><i>noun</i>	<b>embiidina</b>; web-spinning insects</dd>
 
-gipoj
-:  _noun_	**hand**
+<dt>gipoj</dt>
+<dd><i>noun</i>	<b>hand</b></dd>
 
-gipot
-:  _noun_	**bovida**; cattle buffalo antelopes sheep goats etc.
+<dt>gipot</dt>
+<dd><i>noun</i>	<b>bovida</b>; cattle buffalo antelopes sheep goats etc.</dd>
 
-gisez
-:  _noun_	**tactility**; touch
+<dt>gisez</dt>
+<dd><i>noun</i>	<b>tactility</b>; touch</dd>
 
-giues
-:  _noun_	**hoatzin**; some weird kind of bird
+<dt>giues</dt>
+<dd><i>noun</i>	<b>hoatzin</b>; some weird kind of bird</dd>
 
-giushuk
-:  _noun_	**nautiloid**
+<dt>giushuk</dt>
+<dd><i>noun</i>	<b>nautiloid</b></dd>
 
-gizeid
-:  _noun_	**dear-holding**
+<dt>gizeid</dt>
+<dd><i>noun</i>	<b>dear-holding</b></dd>
 
-gizid
-:  _noun_	**tendril**
+<dt>gizid</dt>
+<dd><i>noun</i>	<b>tendril</b></dd>
 
-gobiug
-:  _noun_	**mango**
+<dt>gobiug</dt>
+<dd><i>noun</i>	<b>mango</b></dd>
 
-gobob
-:  _noun_	**money**
+<dt>gobob</dt>
+<dd><i>noun</i>	<b>money</b></dd>
 
-gobuk
-:  _noun_	**subjecting**; focusing on
+<dt>gobuk</dt>
+<dd><i>noun</i>	<b>subjecting</b>; focusing on</dd>
 
-godai
-:  _noun_	**flexing**
+<dt>godai</dt>
+<dd><i>noun</i>	<b>flexing</b></dd>
 
-gogez
-:  _noun_	**particularness**
+<dt>gogez</dt>
+<dd><i>noun</i>	<b>particularness</b></dd>
 
-goia
-:  _noun_	**art-making**
+<dt>goia</dt>
+<dd><i>noun</i>	<b>art-making</b></dd>
 
-goibej
-:  _noun_	**mushroom**
+<dt>goibej</dt>
+<dd><i>noun</i>	<b>mushroom</b></dd>
 
-goigip
-:  _noun_	**lichen**
+<dt>goigip</dt>
+<dd><i>noun</i>	<b>lichen</b></dd>
 
-goishek
-:  _noun_	**rebelling**
+<dt>goishek</dt>
+<dd><i>noun</i>	<b>rebelling</b></dd>
 
-goku
-:  _noun_	**information**
+<dt>goku</dt>
+<dd><i>noun</i>	<b>information</b></dd>
 
-gopet
-:  _noun_	**caecilian**; blind legless amphibians
+<dt>gopet</dt>
+<dd><i>noun</i>	<b>caecilian</b>; blind legless amphibians</dd>
 
-gopik
-:  _noun_	**ostracoda**; seed shrimp
+<dt>gopik</dt>
+<dd><i>noun</i>	<b>ostracoda</b>; seed shrimp</dd>
 
-goshai
-:  _noun_	**specialness**; uniqueness
+<dt>goshai</dt>
+<dd><i>noun</i>	<b>specialness</b>; uniqueness</dd>
 
-goshuk
-:  _noun_	**meat**
+<dt>goshuk</dt>
+<dd><i>noun</i>	<b>meat</b></dd>
 
-gozez
-:  _noun_	**root**; of a plant
+<dt>gozez</dt>
+<dd><i>noun</i>	<b>root</b>; of a plant</dd>
 
-gubet
-:  _noun_	**speed**
+<dt>gubet</dt>
+<dd><i>noun</i>	<b>speed</b></dd>
 
-gudak
-:  _noun_	**sloth**
+<dt>gudak</dt>
+<dd><i>noun</i>	<b>sloth</b></dd>
 
-gueposh
-:  _noun_	**decapodiforme**; includes squid and cuttlefish
+<dt>gueposh</dt>
+<dd><i>noun</i>	<b>decapodiforme</b>; includes squid and cuttlefish</dd>
 
-guesu
-:  _noun_	**coelacanth**
+<dt>guesu</dt>
+<dd><i>noun</i>	<b>coelacanth</b></dd>
 
-gugoz
-:  _noun_	**persisting**
+<dt>gugoz</dt>
+<dd><i>noun</i>	<b>persisting</b></dd>
 
-guiesh
-:  _noun_	**country**
+<dt>guiesh</dt>
+<dd><i>noun</i>	<b>country</b></dd>
 
-guis
-:  _prefix_	**completely**; maximum
+<dt>guis</dt>
+<dd><i>prefix</i>	<b>completely</b>; maximum</dd>
 
-gujei
-:  _noun_	**technology**
+<dt>gujei</dt>
+<dd><i>noun</i>	<b>technology</b></dd>
 
-gujob
-:  _noun_	**polygon**
+<dt>gujob</dt>
+<dd><i>noun</i>	<b>polygon</b></dd>
 
-gukuz
-:  _noun_	**science**; experimentation and learning
+<dt>gukuz</dt>
+<dd><i>noun</i>	<b>science</b>; experimentation and learning</dd>
 
-gupuk
-:  _noun_	**covering**; physical
+<dt>gupuk</dt>
+<dd><i>noun</i>	<b>covering</b>; physical</dd>
 
-gushab
-:  _noun_	**male**
+<dt>gushab</dt>
+<dd><i>noun</i>	<b>male</b></dd>
 
-guz
-:  _article_	**a**; not previously mentioned
+<dt>guz</dt>
+<dd><i>article</i>	<b>a</b>; not previously mentioned</dd>
 
-guzad
-:  _noun_	**lungfish**; fish that breathe air
+<dt>guzad</dt>
+<dd><i>noun</i>	<b>lungfish</b>; fish that breathe air</dd>
 
-guzeug
-:  _noun_	**soybean**
+<dt>guzeug</dt>
+<dd><i>noun</i>	<b>soybean</b></dd>
 
-guzib
-:  _noun_	**elopomorpha**; ladyfishes tarpons and bonefishes but not eels
+<dt>guzib</dt>
+<dd><i>noun</i>	<b>elopomorpha</b>; ladyfishes tarpons and bonefishes but not eels</dd>
 
-iaiga
-:  _noun_	**moving**; around but not necessarily with a direction
+<dt>iaiga</dt>
+<dd><i>noun</i>	<b>moving</b>; around but not necessarily with a direction</dd>
 
-iapiu
-:  _noun_	**assigning**
+<dt>iapiu</dt>
+<dd><i>noun</i>	<b>assigning</b></dd>
 
-iashu
-:  _noun_	**education**
+<dt>iashu</dt>
+<dd><i>noun</i>	<b>education</b></dd>
 
-iat
-:  _prefix_	**un**; opposite
+<dt>iat</dt>
+<dd><i>prefix</i>	<b>un</b>; opposite</dd>
 
-ibak
-:  _noun_	**comprising**
+<dt>ibak</dt>
+<dd><i>noun</i>	<b>comprising</b></dd>
 
-ibauk
-:  _noun_	**opossum**
+<dt>ibauk</dt>
+<dd><i>noun</i>	<b>opossum</b></dd>
 
-ibish
-:  _noun_	**year**
+<dt>ibish</dt>
+<dd><i>noun</i>	<b>year</b></dd>
 
-iboush
-:  _noun_	**color**
+<dt>iboush</dt>
+<dd><i>noun</i>	<b>color</b></dd>
 
-id
-:  _conjunction_	**}**
+<dt>id</dt>
+<dd><i>conjunction</i>	<b>}</b></dd>
 
-idauz
-:  _noun_	**waiting**
+<dt>idauz</dt>
+<dd><i>noun</i>	<b>waiting</b></dd>
 
-iduiu
-:  _noun-technical_	**physics.power**
+<dt>iduiu</dt>
+<dd><i>noun-technical</i>	<b>physics.power</b></dd>
 
-iduj
-:  _noun_	**notopteroide**; aba elephantfishes and featherfin knives
+<dt>iduj</dt>
+<dd><i>noun</i>	<b>notopteroide</b>; aba elephantfishes and featherfin knives</dd>
 
-ieboub
-:  _noun_	**fighting**; violence
+<dt>ieboub</dt>
+<dd><i>noun</i>	<b>fighting</b>; violence</dd>
 
-iedod
-:  _noun_	**apterygota**; silverfish firebrat and jumping bristletails
+<dt>iedod</dt>
+<dd><i>noun</i>	<b>apterygota</b>; silverfish firebrat and jumping bristletails</dd>
 
-ieguj
-:  _noun_	**requiring**
+<dt>ieguj</dt>
+<dd><i>noun</i>	<b>requiring</b></dd>
 
-iepo
-:  _noun_	**head**
+<dt>iepo</dt>
+<dd><i>noun</i>	<b>head</b></dd>
 
-ieshe
-:  _noun_	**truth**
+<dt>ieshe</dt>
+<dd><i>noun</i>	<b>truth</b></dd>
 
-ieshib
-:  _noun_	**ocean**
+<dt>ieshib</dt>
+<dd><i>noun</i>	<b>ocean</b></dd>
 
-ieshush
-:  _noun_	**designing**
+<dt>ieshush</dt>
+<dd><i>noun</i>	<b>designing</b></dd>
 
-ietou
-:  _noun_	**squalomorph-shark**
+<dt>ietou</dt>
+<dd><i>noun</i>	<b>squalomorph-shark</b></dd>
 
-igaga
-:  _noun-technical_	**physics.current**
+<dt>igaga</dt>
+<dd><i>noun-technical</i>	<b>physics.current</b></dd>
 
-igaz
-:  _noun_	**becoming**
+<dt>igaz</dt>
+<dd><i>noun</i>	<b>becoming</b></dd>
 
-ige
-:  _noun_	**moment**; 5 years from now
+<dt>ige</dt>
+<dd><i>noun</i>	<b>moment</b>; 5 years from now</dd>
 
-igib
-:  _noun_	**dividing**
+<dt>igib</dt>
+<dd><i>noun</i>	<b>dividing</b></dd>
 
-igosh
-:  _noun_	**power**; ability to enact change
+<dt>igosh</dt>
+<dd><i>noun</i>	<b>power</b>; ability to enact change</dd>
 
-iguk
-:  _noun_	**ascidiacea**; sea squirts
+<dt>iguk</dt>
+<dd><i>noun</i>	<b>ascidiacea</b>; sea squirts</dd>
 
-ija
-:  _noun_	**liking**
+<dt>ija</dt>
+<dd><i>noun</i>	<b>liking</b></dd>
 
-ijig
-:  _noun_	**zooming**; gotta go fast
+<dt>ijig</dt>
+<dd><i>noun</i>	<b>zooming</b>; gotta go fast</dd>
 
-ijus
-:  _noun_	**significance**
+<dt>ijus</dt>
+<dd><i>noun</i>	<b>significance</b></dd>
 
-ikaib
-:  _noun_	**substituting**
+<dt>ikaib</dt>
+<dd><i>noun</i>	<b>substituting</b></dd>
 
-iket
-:  _noun_	**mathematics**
+<dt>iket</dt>
+<dd><i>noun</i>	<b>mathematics</b></dd>
 
-ikie
-:  _noun_	**box**
+<dt>ikie</dt>
+<dd><i>noun</i>	<b>box</b></dd>
 
-iku
-:  _noun_	**doing**
+<dt>iku</dt>
+<dd><i>noun</i>	<b>doing</b></dd>
 
-iodij
-:  _noun_	**whale**; also refers to dolphins and porpoises
+<dt>iodij</dt>
+<dd><i>noun</i>	<b>whale</b>; also refers to dolphins and porpoises</dd>
 
-iogu
-:  _noun_	**dreaming**
+<dt>iogu</dt>
+<dd><i>noun</i>	<b>dreaming</b></dd>
 
-iojeij
-:  _noun_	**carrot**
+<dt>iojeij</dt>
+<dd><i>noun</i>	<b>carrot</b></dd>
 
-iopi
-:  _noun_	**society**
+<dt>iopi</dt>
+<dd><i>noun</i>	<b>society</b></dd>
 
-ipaj
-:  _noun_	**example**
+<dt>ipaj</dt>
+<dd><i>noun</i>	<b>example</b></dd>
 
-ipo
-:  _noun_	**morality**
+<dt>ipo</dt>
+<dd><i>noun</i>	<b>morality</b></dd>
 
-ipoug
-:  _noun_	**togetherness**
+<dt>ipoug</dt>
+<dd><i>noun</i>	<b>togetherness</b></dd>
 
-isesh
-:  _noun_	**foundation-forming**
+<dt>isesh</dt>
+<dd><i>noun</i>	<b>foundation-forming</b></dd>
 
-iseub
-:  _noun_	**horseshoe-crab**
+<dt>iseub</dt>
+<dd><i>noun</i>	<b>horseshoe-crab</b></dd>
 
-ish
-:  _conjunction_	**and**
+<dt>ish</dt>
+<dd><i>conjunction</i>	<b>and</b></dd>
 
-ishak
-:  _noun_	**experiencing**
+<dt>ishak</dt>
+<dd><i>noun</i>	<b>experiencing</b></dd>
 
-isheu
-:  _noun_	**cephalochordata**; lancelets and branchiostomidae
+<dt>isheu</dt>
+<dd><i>noun</i>	<b>cephalochordata</b>; lancelets and branchiostomidae</dd>
 
-ishez
-:  _noun_	**suggesting**
+<dt>ishez</dt>
+<dd><i>noun</i>	<b>suggesting</b></dd>
 
-ishupo
-:  _noun-technical_	**math.map-projection**
+<dt>ishupo</dt>
+<dd><i>noun-technical</i>	<b>math.map-projection</b></dd>
 
-isiag
-:  _noun_	**tanness**
+<dt>isiag</dt>
+<dd><i>noun</i>	<b>tanness</b></dd>
 
-iside
-:  _noun-technical_	**math.plane**
+<dt>iside</dt>
+<dd><i>noun-technical</i>	<b>math.plane</b></dd>
 
-isit
-:  _noun_	**platypus**
+<dt>isit</dt>
+<dd><i>noun</i>	<b>platypus</b></dd>
 
-isoiz
-:  _noun_	**salientia**; frogs and toads
+<dt>isoiz</dt>
+<dd><i>noun</i>	<b>salientia</b>; frogs and toads</dd>
 
-itash
-:  _noun_	**distance**
+<dt>itash</dt>
+<dd><i>noun</i>	<b>distance</b></dd>
 
-iteg
-:  _noun_	**polypteriforme**; bichirs and reedfishes or ropefishes
+<dt>iteg</dt>
+<dd><i>noun</i>	<b>polypteriforme</b>; bichirs and reedfishes or ropefishes</dd>
 
-iteut
-:  _noun_	**neoteleostei**; jellynoses lizardfishes lanternfishes beardfishes troutperches cods dories oarfishes opahs ribbonfishes and squirrelfishes
+<dt>iteut</dt>
+<dd><i>noun</i>	<b>neoteleostei</b>; jellynoses lizardfishes lanternfishes beardfishes troutperches cods dories oarfishes opahs ribbonfishes and squirrelfishes</dd>
 
-iu
-:  _preposition_	**obj**; denotes direct object
+<dt>iu</dt>
+<dd><i>preposition</i>	<b>obj</b>; denotes direct object</dd>
 
-iubu
-:  _noun_	**selling**
+<dt>iubu</dt>
+<dd><i>noun</i>	<b>selling</b></dd>
 
-iuguz
-:  _noun_	**situation**
+<dt>iuguz</dt>
+<dd><i>noun</i>	<b>situation</b></dd>
 
-iuish
-:  _noun_	**loon**
+<dt>iuish</dt>
+<dd><i>noun</i>	<b>loon</b></dd>
 
-iujib
-:  _noun_	**secretary-bird**
+<dt>iujib</dt>
+<dd><i>noun</i>	<b>secretary-bird</b></dd>
 
-iukep
-:  _noun_	**bird**
+<dt>iukep</dt>
+<dd><i>noun</i>	<b>bird</b></dd>
 
-iuoish
-:  _noun_	**scorpion**
+<dt>iuoish</dt>
+<dd><i>noun</i>	<b>scorpion</b></dd>
 
-iushish
-:  _noun_	**bread**
+<dt>iushish</dt>
+<dd><i>noun</i>	<b>bread</b></dd>
 
-iutag
-:  _noun_	**osprey**
+<dt>iutag</dt>
+<dd><i>noun</i>	<b>osprey</b></dd>
 
-ize
-:  _noun_	**forcing**
+<dt>ize</dt>
+<dd><i>noun</i>	<b>forcing</b></dd>
 
-izij
-:  _noun_	**boiling**
+<dt>izij</dt>
+<dd><i>noun</i>	<b>boiling</b></dd>
 
-izout
-:  _noun_	**fraction**; most/majority
+<dt>izout</dt>
+<dd><i>noun</i>	<b>fraction</b>; most/majority</dd>
 
-jabiut
-:  _noun_	**vampiresquid**
+<dt>jabiut</dt>
+<dd><i>noun</i>	<b>vampiresquid</b></dd>
 
-jadi
-:  _noun_	**generalizing**
+<dt>jadi</dt>
+<dd><i>noun</i>	<b>generalizing</b></dd>
 
-jadoi
-:  _noun_	**otidae**; bustards turacos cuckoos nightbirds swifts and hummingbirds
+<dt>jadoi</dt>
+<dd><i>noun</i>	<b>otidae</b>; bustards turacos cuckoos nightbirds swifts and hummingbirds</dd>
 
-jaget
-:  _noun_	**thinking-of**
+<dt>jaget</dt>
+<dd><i>noun</i>	<b>thinking-of</b></dd>
 
-jagez
-:  _noun_	**probability**
+<dt>jagez</dt>
+<dd><i>noun</i>	<b>probability</b></dd>
 
-jaido
-:  _noun_	**data-storing**
+<dt>jaido</dt>
+<dd><i>noun</i>	<b>data-storing</b></dd>
 
-jaied
-:  _noun_	**bowl**
+<dt>jaied</dt>
+<dd><i>noun</i>	<b>bowl</b></dd>
 
-jaiu
-:  _noun_	**sturgeon**
+<dt>jaiu</dt>
+<dd><i>noun</i>	<b>sturgeon</b></dd>
 
-jajeib
-:  _noun_	**freshness**
+<dt>jajeib</dt>
+<dd><i>noun</i>	<b>freshness</b></dd>
 
-jajuz
-:  _noun_	**rescuing**
+<dt>jajuz</dt>
+<dd><i>noun</i>	<b>rescuing</b></dd>
 
-jap
-:  _fastener_	**whichelement**; identifies element of a set
+<dt>jap</dt>
+<dd><i>fastener</i>	<b>whichelement</b>; identifies element of a set</dd>
 
-jape
-:  _noun_	**name**
+<dt>jape</dt>
+<dd><i>noun</i>	<b>name</b></dd>
 
-japud
-:  _noun_	**skunk**
+<dt>japud</dt>
+<dd><i>noun</i>	<b>skunk</b></dd>
 
-jasheug
-:  _noun_	**apple**
+<dt>jasheug</dt>
+<dd><i>noun</i>	<b>apple</b></dd>
 
-jasho
-:  _noun_	**finding**
+<dt>jasho</dt>
+<dd><i>noun</i>	<b>finding</b></dd>
 
-jatid
-:  _noun_	**helping**
+<dt>jatid</dt>
+<dd><i>noun</i>	<b>helping</b></dd>
 
-jatu
-:  _noun_	**gender**
+<dt>jatu</dt>
+<dd><i>noun</i>	<b>gender</b></dd>
 
-jau
-:  _preposition_	**than**; denotes extent or quantity
+<dt>jau</dt>
+<dd><i>preposition</i>	<b>than</b>; denotes extent or quantity</dd>
 
-jaubug
-:  _noun_	**rice**
+<dt>jaubug</dt>
+<dd><i>noun</i>	<b>rice</b></dd>
 
-jaujash
-:  _noun_	**grapefruit**
+<dt>jaujash</dt>
+<dd><i>noun</i>	<b>grapefruit</b></dd>
 
-je
-:  _other_	**jupede**; one * pdc ... ... what fullstop
+<dt>je</dt>
+<dd><i>other</i>	<b>jupede</b>; one * pdc ... ... what fullstop</dd>
 
-jebap
-:  _noun_	**cousin-being**
+<dt>jebap</dt>
+<dd><i>noun</i>	<b>cousin-being</b></dd>
 
-jeiju
-:  _noun_	**child**
+<dt>jeiju</dt>
+<dd><i>noun</i>	<b>child</b></dd>
 
-jeioip
-:  _noun_	**claw**; of the sharp variety
+<dt>jeioip</dt>
+<dd><i>noun</i>	<b>claw</b>; of the sharp variety</dd>
 
-jeiseg
-:  _noun_	**politeness**
+<dt>jeiseg</dt>
+<dd><i>noun</i>	<b>politeness</b></dd>
 
-jejaz
-:  _noun_	**deal-striking**
+<dt>jejaz</dt>
+<dd><i>noun</i>	<b>deal-striking</b></dd>
 
-jekish
-:  _noun_	**movie-making**
+<dt>jekish</dt>
+<dd><i>noun</i>	<b>movie-making</b></dd>
 
-jes
-:  _article_	**the**; previously mentioned
+<dt>jes</dt>
+<dd><i>article</i>	<b>the</b>; previously mentioned</dd>
 
-jesesh
-:  _noun_	**ease**
+<dt>jesesh</dt>
+<dd><i>noun</i>	<b>ease</b></dd>
 
-jesheuz
-:  _noun_	**moss**; any embryophyte without xyla like liverworts and hornworts
+<dt>jesheuz</dt>
+<dd><i>noun</i>	<b>moss</b>; any embryophyte without xyla like liverworts and hornworts</dd>
 
-jeshoid
-:  _noun_	**wheat**
+<dt>jeshoid</dt>
+<dd><i>noun</i>	<b>wheat</b></dd>
 
-jiapo
-:  _noun_	**percomorpha**; gobies cichlids flatfish wrasse and perches
+<dt>jiapo</dt>
+<dd><i>noun</i>	<b>percomorpha</b>; gobies cichlids flatfish wrasse and perches</dd>
 
-jibaut
-:  _noun_	**pumpkin**
+<dt>jibaut</dt>
+<dd><i>noun</i>	<b>pumpkin</b></dd>
 
-jidiz
-:  _noun_	**exceeding**
+<dt>jidiz</dt>
+<dd><i>noun</i>	<b>exceeding</b></dd>
 
-jidud
-:  _noun_	**offering**; suggesting
+<dt>jidud</dt>
+<dd><i>noun</i>	<b>offering</b>; suggesting</dd>
 
-jieshag
-:  _noun_	**bean**
+<dt>jieshag</dt>
+<dd><i>noun</i>	<b>bean</b></dd>
 
-jijop
-:  _noun_	**remipedia**; like ocean centipede things
+<dt>jijop</dt>
+<dd><i>noun</i>	<b>remipedia</b>; like ocean centipede things</dd>
 
-jioijeg
-:  _noun_	**cleanliness**
+<dt>jioijeg</dt>
+<dd><i>noun</i>	<b>cleanliness</b></dd>
 
-jisas
-:  _noun_	**turtle**; includes tortoises and terrapins
+<dt>jisas</dt>
+<dd><i>noun</i>	<b>turtle</b>; includes tortoises and terrapins</dd>
 
-jishep
-:  _noun_	**phalangeriforme**; possums... which are apparently different from opossums and tend to fly
+<dt>jishep</dt>
+<dd><i>noun</i>	<b>phalangeriforme</b>; possums... which are apparently different from opossums and tend to fly</dd>
 
-jobes
-:  _noun_	**lifting**
+<dt>jobes</dt>
+<dd><i>noun</i>	<b>lifting</b></dd>
 
-jogak
-:  _noun_	**cusk-eel**
+<dt>jogak</dt>
+<dd><i>noun</i>	<b>cusk-eel</b></dd>
 
-joiseb
-:  _noun_	**entrepreneurship**; solving large-scale problems
+<dt>joiseb</dt>
+<dd><i>noun</i>	<b>entrepreneurship</b>; solving large-scale problems</dd>
 
-jopa
-:  _noun_	**7**
+<dt>jopa</dt>
+<dd><i>noun</i>	<b>7</b></dd>
 
-jopib
-:  _noun_	**puzzel**
+<dt>jopib</dt>
+<dd><i>noun</i>	<b>puzzel</b></dd>
 
-josij
-:  _noun_	**certain-being**
+<dt>josij</dt>
+<dd><i>noun</i>	<b>certain-being</b></dd>
 
-joteb
-:  _noun_	**water**
+<dt>joteb</dt>
+<dd><i>noun</i>	<b>water</b></dd>
 
-jouat
-:  _noun_	**paddlefish**
+<dt>jouat</dt>
+<dd><i>noun</i>	<b>paddlefish</b></dd>
 
-jougosh
-:  _noun_	**avoiding**
+<dt>jougosh</dt>
+<dd><i>noun</i>	<b>avoiding</b></dd>
 
-jousaj
-:  _noun_	**element**; water earth fire air etc.
+<dt>jousaj</dt>
+<dd><i>noun</i>	<b>element</b>; water earth fire air etc.</dd>
 
-joutu
-:  _noun_	**watching**
+<dt>joutu</dt>
+<dd><i>noun</i>	<b>watching</b></dd>
 
-jouzui
-:  _noun_	**nemertea**; ribbon worms or probiscis worms
+<dt>jouzui</dt>
+<dd><i>noun</i>	<b>nemertea</b>; ribbon worms or probiscis worms</dd>
 
-ju
-:  _pronoun_	**one**; no meaning
+<dt>ju</dt>
+<dd><i>pronoun</i>	<b>one</b>; no meaning</dd>
 
-judot
-:  _noun_	**translating**
+<dt>judot</dt>
+<dd><i>noun</i>	<b>translating</b></dd>
 
-jujak
-:  _noun_	**corresponding**; relating - not writing
+<dt>jujak</dt>
+<dd><i>noun</i>	<b>corresponding</b>; relating - not writing</dd>
 
-jusek
-:  _noun_	**falling**
+<dt>jusek</dt>
+<dd><i>noun</i>	<b>falling</b></dd>
 
-juta
-:  _noun_	**branchiopod**; a few types of shrimp
+<dt>juta</dt>
+<dd><i>noun</i>	<b>branchiopod</b>; a few types of shrimp</dd>
 
-juzob
-:  _noun_	**spoiling**
+<dt>juzob</dt>
+<dd><i>noun</i>	<b>spoiling</b></dd>
 
-kadois
-:  _noun_	**purity**
+<dt>kadois</dt>
+<dd><i>noun</i>	<b>purity</b></dd>
 
-kadoj
-:  _noun_	**thing**
+<dt>kadoj</dt>
+<dd><i>noun</i>	<b>thing</b></dd>
 
-kaged
-:  _noun_	**kinship**
+<dt>kaged</dt>
+<dd><i>noun</i>	<b>kinship</b></dd>
 
-kajauj
-:  _noun_	**cosmos**
+<dt>kajauj</dt>
+<dd><i>noun</i>	<b>cosmos</b></dd>
 
-kajeiz
-:  _noun_	**honeydew**
+<dt>kajeiz</dt>
+<dd><i>noun</i>	<b>honeydew</b></dd>
 
-kakuj
-:  _noun_	**rate**
+<dt>kakuj</dt>
+<dd><i>noun</i>	<b>rate</b></dd>
 
-kapoz
-:  _noun_	**loving**
+<dt>kapoz</dt>
+<dd><i>noun</i>	<b>loving</b></dd>
 
-kashish
-:  _noun_	**curve**; any smooth path
+<dt>kashish</dt>
+<dd><i>noun</i>	<b>curve</b>; any smooth path</dd>
 
-kasok
-:  _noun_	**reading**
+<dt>kasok</dt>
+<dd><i>noun</i>	<b>reading</b></dd>
 
-kauo
-:  _noun_	**front-backness**
+<dt>kauo</dt>
+<dd><i>noun</i>	<b>front-backness</b></dd>
 
-kaup
-:  _noun_	**yes**
+<dt>kaup</dt>
+<dd><i>noun</i>	<b>yes</b></dd>
 
-keigus
-:  _noun_	**bamboo**
+<dt>keigus</dt>
+<dd><i>noun</i>	<b>bamboo</b></dd>
 
-kek
-:  _pronoun_	**you**; the listener
+<dt>kek</dt>
+<dd><i>pronoun</i>	<b>you</b>; the listener</dd>
 
-kekoi
-:  _noun_	**pecora**; basically anything else with horns besides chevrotain giraffe and bovines
+<dt>kekoi</dt>
+<dd><i>noun</i>	<b>pecora</b>; basically anything else with horns besides chevrotain giraffe and bovines</dd>
 
-kepo
-:  _noun_	**causing**
+<dt>kepo</dt>
+<dd><i>noun</i>	<b>causing</b></dd>
 
-kepoush
-:  _noun_	**sex-having**
+<dt>kepoush</dt>
+<dd><i>noun</i>	<b>sex-having</b></dd>
 
-kesha
-:  _noun_	**intending**
+<dt>kesha</dt>
+<dd><i>noun</i>	<b>intending</b></dd>
 
-keshush
-:  _noun_	**region**
+<dt>keshush</dt>
+<dd><i>noun</i>	<b>region</b></dd>
 
-keteg
-:  _noun_	**berry**
+<dt>keteg</dt>
+<dd><i>noun</i>	<b>berry</b></dd>
 
-ketop
-:  _noun_	**9**
+<dt>ketop</dt>
+<dd><i>noun</i>	<b>9</b></dd>
 
-keuda
-:  _noun_	**bitterness**
+<dt>keuda</dt>
+<dd><i>noun</i>	<b>bitterness</b></dd>
 
-keui
-:  _noun_	**minute**
+<dt>keui</dt>
+<dd><i>noun</i>	<b>minute</b></dd>
 
-keukib
-:  _noun_	**trichoplax**; real small and thin sponge-like animals
+<dt>keukib</dt>
+<dd><i>noun</i>	<b>trichoplax</b>; real small and thin sponge-like animals</dd>
 
-keusaz
-:  _noun_	**hole**
+<dt>keusaz</dt>
+<dd><i>noun</i>	<b>hole</b></dd>
 
-keuseij
-:  _noun_	**zoantharia**
+<dt>keuseij</dt>
+<dd><i>noun</i>	<b>zoantharia</b></dd>
 
-keusi
-:  _noun_	**australidelphia**; besides wombats koalas and kangaroos
+<dt>keusi</dt>
+<dd><i>noun</i>	<b>australidelphia</b>; besides wombats koalas and kangaroos</dd>
 
-kiashat
-:  _noun_	**maize**
+<dt>kiashat</dt>
+<dd><i>noun</i>	<b>maize</b></dd>
 
-kibib
-:  _noun_	**fullness**
+<dt>kibib</dt>
+<dd><i>noun</i>	<b>fullness</b></dd>
 
-kidash
-:  _noun_	**age**
+<dt>kidash</dt>
+<dd><i>noun</i>	<b>age</b></dd>
 
-kiduash
-:  _noun_	**mold**
+<dt>kiduash</dt>
+<dd><i>noun</i>	<b>mold</b></dd>
 
-kijoj
-:  _noun_	**surrounding**
+<dt>kijoj</dt>
+<dd><i>noun</i>	<b>surrounding</b></dd>
 
-kiju
-:  _noun_	**size**
+<dt>kiju</dt>
+<dd><i>noun</i>	<b>size</b></dd>
 
-kiogoz
-:  _noun_	**floor**
+<dt>kiogoz</dt>
+<dd><i>noun</i>	<b>floor</b></dd>
 
-kipij
-:  _noun_	**beetle**
+<dt>kipij</dt>
+<dd><i>noun</i>	<b>beetle</b></dd>
 
-kishij
-:  _noun_	**transitioning**; represents delta vector between any two states
+<dt>kishij</dt>
+<dd><i>noun</i>	<b>transitioning</b>; represents delta vector between any two states</dd>
 
-kisoid
-:  _noun_	**lettuce**
+<dt>kisoid</dt>
+<dd><i>noun</i>	<b>lettuce</b></dd>
 
-kit
-:  _punctuation_	**;**; noun clause
+<dt>kit</dt>
+<dd><i>punctuation</i>	<b>;</b>; noun clause</dd>
 
-kiteis
-:  _noun_	**chocolate**
+<dt>kiteis</dt>
+<dd><i>noun</i>	<b>chocolate</b></dd>
 
-kodid
-:  _noun_	**100**
+<dt>kodid</dt>
+<dd><i>noun</i>	<b>100</b></dd>
 
-kogaid
-:  _noun_	**feces**
+<dt>kogaid</dt>
+<dd><i>noun</i>	<b>feces</b></dd>
 
-koitib
-:  _noun_	**big-pictureness**
+<dt>koitib</dt>
+<dd><i>noun</i>	<b>big-pictureness</b></dd>
 
-koiu
-:  _noun_	**planning**
+<dt>koiu</dt>
+<dd><i>noun</i>	<b>planning</b></dd>
 
-kojup
-:  _noun_	**concernedness**
+<dt>kojup</dt>
+<dd><i>noun</i>	<b>concernedness</b></dd>
 
-kokat
-:  _noun_	**difference**
+<dt>kokat</dt>
+<dd><i>noun</i>	<b>difference</b></dd>
 
-kopish
-:  _noun_	**holocephali**
+<dt>kopish</dt>
+<dd><i>noun</i>	<b>holocephali</b></dd>
 
-koubi
-:  _noun_	**seahorse**
+<dt>koubi</dt>
+<dd><i>noun</i>	<b>seahorse</b></dd>
 
-koutep
-:  _noun_	**hiding**
+<dt>koutep</dt>
+<dd><i>noun</i>	<b>hiding</b></dd>
 
-kozoj
-:  _noun_	**flailing**
+<dt>kozoj</dt>
+<dd><i>noun</i>	<b>flailing</b></dd>
 
-kuaibod
-:  _noun_	**continent**
+<dt>kuaibod</dt>
+<dd><i>noun</i>	<b>continent</b></dd>
 
-kubop
-:  _noun_	**sitting**
+<dt>kubop</dt>
+<dd><i>noun</i>	<b>sitting</b></dd>
 
-kujou
-:  _noun_	**caring**
+<dt>kujou</dt>
+<dd><i>noun</i>	<b>caring</b></dd>
 
-kupa
-:  _noun_	**lagomorpha**; rabbits hares pikas
+<dt>kupa</dt>
+<dd><i>noun</i>	<b>lagomorpha</b>; rabbits hares pikas</dd>
 
-kupesh
-:  _noun_	**protacanthopterygii**; salmons trouts pikes dragonfishes and smelts
+<dt>kupesh</dt>
+<dd><i>noun</i>	<b>protacanthopterygii</b>; salmons trouts pikes dragonfishes and smelts</dd>
 
-kush
-:  _preposition_	**if**; denotes hypothetical conditions
+<dt>kush</dt>
+<dd><i>preposition</i>	<b>if</b>; denotes hypothetical conditions</dd>
 
-kushag
-:  _noun_	**shooting**
+<dt>kushag</dt>
+<dd><i>noun</i>	<b>shooting</b></dd>
 
-obaba
-:  _noun-technical_	**physics.momentum**
+<dt>obaba</dt>
+<dd><i>noun-technical</i>	<b>physics.momentum</b></dd>
 
-odaub
-:  _noun_	**fermenting**
+<dt>odaub</dt>
+<dd><i>noun</i>	<b>fermenting</b></dd>
 
-odeij
-:  _noun_	**attempting**; trying
+<dt>odeij</dt>
+<dd><i>noun</i>	<b>attempting</b>; trying</dd>
 
-odeji
-:  _noun-technical_	**physics.rotational-inertia**
+<dt>odeji</dt>
+<dd><i>noun-technical</i>	<b>physics.rotational-inertia</b></dd>
 
-odo
-:  _noun_	**time**; t = 13.7
+<dt>odo</dt>
+<dd><i>noun</i>	<b>time</b>; t = 13.7</dd>
 
-odut
-:  _noun_	**initiating**
+<dt>odut</dt>
+<dd><i>noun</i>	<b>initiating</b></dd>
 
-og
-:  _preposition_	**with**; denotes recipricator
+<dt>og</dt>
+<dd><i>preposition</i>	<b>with</b>; denotes recipricator</dd>
 
-ogesh
-:  _noun_	**giraffe**; and okapi
+<dt>ogesh</dt>
+<dd><i>noun</i>	<b>giraffe</b>; and okapi</dd>
 
-ogob
-:  _noun_	**mocking**
+<dt>ogob</dt>
+<dd><i>noun</i>	<b>mocking</b></dd>
 
-oiap
-:  _noun_	**jostling**; moving in place
+<dt>oiap</dt>
+<dd><i>noun</i>	<b>jostling</b>; moving in place</dd>
 
-oigut
-:  _noun_	**butt**
+<dt>oigut</dt>
+<dd><i>noun</i>	<b>butt</b></dd>
 
-oio
-:  _noun_	**aptitude**
+<dt>oio</dt>
+<dd><i>noun</i>	<b>aptitude</b></dd>
 
-oitik
-:  _noun_	**bee**
+<dt>oitik</dt>
+<dd><i>noun</i>	<b>bee</b></dd>
 
-oiud
-:  _noun_	**echidna**
+<dt>oiud</dt>
+<dd><i>noun</i>	<b>echidna</b></dd>
 
-oizid
-:  _noun_	**euliptyphla**; hedgehogs moles shrews and a few other rodent-like things
+<dt>oizid</dt>
+<dd><i>noun</i>	<b>euliptyphla</b>; hedgehogs moles shrews and a few other rodent-like things</dd>
 
-ojazi
-:  _noun-technical_	**math.acceleration**
+<dt>ojazi</dt>
+<dd><i>noun-technical</i>	<b>math.acceleration</b></dd>
 
-ojed
-:  _noun_	**publicity**
+<dt>ojed</dt>
+<dd><i>noun</i>	<b>publicity</b></dd>
 
-ojeut
-:  _noun_	**month**
+<dt>ojeut</dt>
+<dd><i>noun</i>	<b>month</b></dd>
 
-ojo
-:  _noun_	**saying**
+<dt>ojo</dt>
+<dd><i>noun</i>	<b>saying</b></dd>
 
-okeb
-:  _noun_	**world**
+<dt>okeb</dt>
+<dd><i>noun</i>	<b>world</b></dd>
 
-okoi
-:  _noun_	**metal**
+<dt>okoi</dt>
+<dd><i>noun</i>	<b>metal</b></dd>
 
-okoz
-:  _noun_	**churning**
+<dt>okoz</dt>
+<dd><i>noun</i>	<b>churning</b></dd>
 
-opeut
-:  _noun_	**wasp**
+<dt>opeut</dt>
+<dd><i>noun</i>	<b>wasp</b></dd>
 
-opit
-:  _noun_	**considering**
+<dt>opit</dt>
+<dd><i>noun</i>	<b>considering</b></dd>
 
-opiz
-:  _noun_	**zig-zag**; any erratic path
+<dt>opiz</dt>
+<dd><i>noun</i>	<b>zig-zag</b>; any erratic path</dd>
 
-oposh
-:  _noun_	**8**
+<dt>oposh</dt>
+<dd><i>noun</i>	<b>8</b></dd>
 
-opu
-:  _noun_	**person**
+<dt>opu</dt>
+<dd><i>noun</i>	<b>person</b></dd>
 
-osa
-:  _noun_	**obtaining**
+<dt>osa</dt>
+<dd><i>noun</i>	<b>obtaining</b></dd>
 
-osaish
-:  _noun_	**visiting**
+<dt>osaish</dt>
+<dd><i>noun</i>	<b>visiting</b></dd>
 
-oshab
-:  _noun_	**cutting**
+<dt>oshab</dt>
+<dd><i>noun</i>	<b>cutting</b></dd>
 
-oshik
-:  _noun_	**availability**
+<dt>oshik</dt>
+<dd><i>noun</i>	<b>availability</b></dd>
 
-oshiz
-:  _noun_	**light**
+<dt>oshiz</dt>
+<dd><i>noun</i>	<b>light</b></dd>
 
-oshua
-:  _noun_	**drawing**
+<dt>oshua</dt>
+<dd><i>noun</i>	<b>drawing</b></dd>
 
-osisha
-:  _noun-technical_	**physics.mass**
+<dt>osisha</dt>
+<dd><i>noun-technical</i>	<b>physics.mass</b></dd>
 
-osou
-:  _noun_	**automobile**
+<dt>osou</dt>
+<dd><i>noun</i>	<b>automobile</b></dd>
 
-ote
-:  _noun_	**excusing**
+<dt>ote</dt>
+<dd><i>noun</i>	<b>excusing</b></dd>
 
-oteik
-:  _noun_	**seaurchin**
+<dt>oteik</dt>
+<dd><i>noun</i>	<b>seaurchin</b></dd>
 
-oubos
-:  _noun_	**importance**
+<dt>oubos</dt>
+<dd><i>noun</i>	<b>importance</b></dd>
 
-oudis
-:  _noun_	**luck**
+<dt>oudis</dt>
+<dd><i>noun</i>	<b>luck</b></dd>
 
-oudush
-:  _noun_	**repository**; body of technical knowlege
+<dt>oudush</dt>
+<dd><i>noun</i>	<b>repository</b>; body of technical knowlege</dd>
 
-ougious
-:  _noun_	**toiletries**
+<dt>ougious</dt>
+<dd><i>noun</i>	<b>toiletries</b></dd>
 
-ouip
-:  _noun_	**ant**
+<dt>ouip</dt>
+<dd><i>noun</i>	<b>ant</b></dd>
 
-oukog
-:  _noun_	**grebe**
+<dt>oukog</dt>
+<dd><i>noun</i>	<b>grebe</b></dd>
 
-ouog
-:  _noun_	**pondering**
+<dt>ouog</dt>
+<dd><i>noun</i>	<b>pondering</b></dd>
 
-oupouz
-:  _noun_	**animal**
+<dt>oupouz</dt>
+<dd><i>noun</i>	<b>animal</b></dd>
 
-oush
-:  _preposition_	**via**; denotes tool or medium
+<dt>oush</dt>
+<dd><i>preposition</i>	<b>via</b>; denotes tool or medium</dd>
 
-oushois
-:  _noun_	**striking**; a swift decisive action
+<dt>oushois</dt>
+<dd><i>noun</i>	<b>striking</b>; a swift decisive action</dd>
 
-ozi
-:  _noun_	**altitude**
+<dt>ozi</dt>
+<dd><i>noun</i>	<b>altitude</b></dd>
 
-ozogo
-:  _noun-technical_	**physics.potential**
+<dt>ozogo</dt>
+<dd><i>noun-technical</i>	<b>physics.potential</b></dd>
 
-ozuaz
-:  _noun_	**mosquito**
+<dt>ozuaz</dt>
+<dd><i>noun</i>	<b>mosquito</b></dd>
 
-padis
-:  _noun_	**housefly**
+<dt>padis</dt>
+<dd><i>noun</i>	<b>housefly</b></dd>
 
-padup
-:  _noun_	**line**; of the segment or infinite variety
+<dt>padup</dt>
+<dd><i>noun</i>	<b>line</b>; of the segment or infinite variety</dd>
 
-paget
-:  _noun_	**scombroide**; tunas and mackerels
+<dt>paget</dt>
+<dd><i>noun</i>	<b>scombroide</b>; tunas and mackerels</dd>
 
-pago
-:  _noun_	**following**
+<dt>pago</dt>
+<dd><i>noun</i>	<b>following</b></dd>
 
-pagud
-:  _noun_	**into**; usually for long/deep things
+<dt>pagud</dt>
+<dd><i>noun</i>	<b>into</b>; usually for long/deep things</dd>
 
-paiboi
-:  _noun_	**pepper**
+<dt>paiboi</dt>
+<dd><i>noun</i>	<b>pepper</b></dd>
 
-pakai
-:  _noun_	**megaloptera**; alderflies dobsonflies and fishflies
+<dt>pakai</dt>
+<dd><i>noun</i>	<b>megaloptera</b>; alderflies dobsonflies and fishflies</dd>
 
-pakou
-:  _noun_	**strength**; ability to exact force
+<dt>pakou</dt>
+<dd><i>noun</i>	<b>strength</b>; ability to exact force</dd>
 
-papus
-:  _noun_	**standing**; structurally e.g. a building
+<dt>papus</dt>
+<dd><i>noun</i>	<b>standing</b>; structurally e.g. a building</dd>
 
-pasag
-:  _noun_	**saltiness**
+<dt>pasag</dt>
+<dd><i>noun</i>	<b>saltiness</b></dd>
 
-pazai
-:  _noun_	**structural-integrity**; resistance to breaking
+<dt>pazai</dt>
+<dd><i>noun</i>	<b>structural-integrity</b>; resistance to breaking</dd>
 
-pebib
-:  _noun_	**firmness**
+<dt>pebib</dt>
+<dd><i>noun</i>	<b>firmness</b></dd>
 
-peboz
-:  _noun_	**millipede**
+<dt>peboz</dt>
+<dd><i>noun</i>	<b>millipede</b></dd>
 
-pebu
-:  _noun_	**penguin**
+<dt>pebu</dt>
+<dd><i>noun</i>	<b>penguin</b></dd>
 
-ped
-:  _punctuation_	*****; modifier clause
+<dt>ped</dt>
+<dd><i>punctuation</i>	<b>*</b>; modifier clause</dd>
 
-pegug
-:  _noun_	**health**
+<dt>pegug</dt>
+<dd><i>noun</i>	<b>health</b></dd>
 
-peig
-:  _prefix_	**about**; approximation
+<dt>peig</dt>
+<dd><i>prefix</i>	<b>about</b>; approximation</dd>
 
-peioj
-:  _noun_	**salp**
+<dt>peioj</dt>
+<dd><i>noun</i>	<b>salp</b></dd>
 
-pejez
-:  _noun_	**lizard**
+<dt>pejez</dt>
+<dd><i>noun</i>	<b>lizard</b></dd>
 
-pekoiz
-:  _noun_	**breasts**
+<dt>pekoiz</dt>
+<dd><i>noun</i>	<b>breasts</b></dd>
 
-pekuz
-:  _noun_	**rigidity**
+<dt>pekuz</dt>
+<dd><i>noun</i>	<b>rigidity</b></dd>
 
-peshi
-:  _noun_	**fruit**
+<dt>peshi</dt>
+<dd><i>noun</i>	<b>fruit</b></dd>
 
-peuip
-:  _noun_	**face**
+<dt>peuip</dt>
+<dd><i>noun</i>	<b>face</b></dd>
 
-pi
-:  _conjunction_	**name{**
+<dt>pi</dt>
+<dd><i>conjunction</i>	<b>name{</b></dd>
 
-pideg
-:  _noun_	**supporting**
+<dt>pideg</dt>
+<dd><i>noun</i>	<b>supporting</b></dd>
 
-piga
-:  _noun_	**otocephala**; herrings slickheads milkfishes minnows carps loaches catfishes knifefishes and tetras
+<dt>piga</dt>
+<dd><i>noun</i>	<b>otocephala</b>; herrings slickheads milkfishes minnows carps loaches catfishes knifefishes and tetras</dd>
 
-pikeiz
-:  _noun_	**vine**
+<dt>pikeiz</dt>
+<dd><i>noun</i>	<b>vine</b></dd>
 
-piki
-:  _noun_	**circle**
+<dt>piki</dt>
+<dd><i>noun</i>	<b>circle</b></dd>
 
-pioip
-:  _punctuation_	**let**; beuracratic
+<dt>pioip</dt>
+<dd><i>punctuation</i>	<b>let</b>; beuracratic</dd>
 
-pip
-:  _article_	**each**; every element individually
+<dt>pip</dt>
+<dd><i>article</i>	<b>each</b>; every element individually</dd>
 
-pipeu
-:  _noun_	**leg**
+<dt>pipeu</dt>
+<dd><i>noun</i>	<b>leg</b></dd>
 
-pipez
-:  _noun_	**patronizing**; as in a customer going to a business
+<dt>pipez</dt>
+<dd><i>noun</i>	<b>patronizing</b>; as in a customer going to a business</dd>
 
-pishig
-:  _noun_	**role-filling**
+<dt>pishig</dt>
+<dd><i>noun</i>	<b>role-filling</b></dd>
 
-pitish
-:  _noun_	**letter**; character
+<dt>pitish</dt>
+<dd><i>noun</i>	<b>letter</b>; character</dd>
 
-pituj
-:  _noun_	**procyonidae**; raccoons coatis kinkajous olingos olinguitos ringtails and cacomistles
+<dt>pituj</dt>
+<dd><i>noun</i>	<b>procyonidae</b>; raccoons coatis kinkajous olingos olinguitos ringtails and cacomistles</dd>
 
-pobok
-:  _noun_	**book**
+<dt>pobok</dt>
+<dd><i>noun</i>	<b>book</b></dd>
 
-podi
-:  _noun_	**also**
+<dt>podi</dt>
+<dd><i>noun</i>	<b>also</b></dd>
 
-poijaish
-:  _noun_	**pomegranite**
+<dt>poijaish</dt>
+<dd><i>noun</i>	<b>pomegranite</b></dd>
 
-poiub
-:  _noun_	**5**
+<dt>poiub</dt>
+<dd><i>noun</i>	<b>5</b></dd>
 
-poj
-:  _punctuation_	**.**; declarative
+<dt>poj</dt>
+<dd><i>punctuation</i>	<b>.</b>; declarative</dd>
 
-popeb
-:  _noun_	**fact**
+<dt>popeb</dt>
+<dd><i>noun</i>	<b>fact</b></dd>
 
-popis
-:  _noun_	**green**
+<dt>popis</dt>
+<dd><i>noun</i>	<b>green</b></dd>
 
-poshosh
-:  _noun_	**mammal**
+<dt>poshosh</dt>
+<dd><i>noun</i>	<b>mammal</b></dd>
 
-poua
-:  _noun_	**gland**; node or organ
+<dt>poua</dt>
+<dd><i>noun</i>	<b>gland</b>; node or organ</dd>
 
-pouej
-:  _noun_	**pyrosome**
+<dt>pouej</dt>
+<dd><i>noun</i>	<b>pyrosome</b></dd>
 
-poushe
-:  _noun_	**learning**
+<dt>poushe</dt>
+<dd><i>noun</i>	<b>learning</b></dd>
 
-poushuj
-:  _noun_	**attention-paying**
+<dt>poushuj</dt>
+<dd><i>noun</i>	<b>attention-paying</b></dd>
 
-pozup
-:  _noun_	**amphibian**
+<dt>pozup</dt>
+<dd><i>noun</i>	<b>amphibian</b></dd>
 
-puba
-:  _noun_	**problem**
+<dt>puba</dt>
+<dd><i>noun</i>	<b>problem</b></dd>
 
-pubuk
-:  _noun_	**temperature**
+<dt>pubuk</dt>
+<dd><i>noun</i>	<b>temperature</b></dd>
 
-puk
-:  _article_	**thatoverthere**; associated with neither speaker nor listener
+<dt>puk</dt>
+<dd><i>article</i>	<b>thatoverthere</b>; associated with neither speaker nor listener</dd>
 
-pukud
-:  _noun_	**leptostrac**
+<dt>pukud</dt>
+<dd><i>noun</i>	<b>leptostrac</b></dd>
 
-pupik
-:  _noun_	**larvacea**
+<dt>pupik</dt>
+<dd><i>noun</i>	<b>larvacea</b></dd>
 
-pupish
-:  _noun_	**seastar**
+<dt>pupish</dt>
+<dd><i>noun</i>	<b>seastar</b></dd>
 
-pusheu
-:  _noun_	**friend**
+<dt>pusheu</dt>
+<dd><i>noun</i>	<b>friend</b></dd>
 
-pushuj
-:  _noun_	**individuality**
+<dt>pushuj</dt>
+<dd><i>noun</i>	<b>individuality</b></dd>
 
-puzed
-:  _noun_	**domesticating**
+<dt>puzed</dt>
+<dd><i>noun</i>	<b>domesticating</b></dd>
 
-sabig
-:  _noun_	**beauty**; of a person
+<dt>sabig</dt>
+<dd><i>noun</i>	<b>beauty</b>; of a person</dd>
 
-sabus
-:  _noun_	**exclusivity**
+<dt>sabus</dt>
+<dd><i>noun</i>	<b>exclusivity</b></dd>
 
-sadez
-:  _noun_	**freedom**
+<dt>sadez</dt>
+<dd><i>noun</i>	<b>freedom</b></dd>
 
-sadip
-:  _noun_	**termite**
+<dt>sadip</dt>
+<dd><i>noun</i>	<b>termite</b></dd>
 
-sadoj
-:  _noun_	**mayfly**
+<dt>sadoj</dt>
+<dd><i>noun</i>	<b>mayfly</b></dd>
 
-sagu
-:  _noun_	**burning**
+<dt>sagu</dt>
+<dd><i>noun</i>	<b>burning</b></dd>
 
-saia
-:  _noun_	**freshwater-butterflyfish**
+<dt>saia</dt>
+<dd><i>noun</i>	<b>freshwater-butterflyfish</b></dd>
 
-saidoj
-:  _noun_	**clustering**; being physically nearby
+<dt>saidoj</dt>
+<dd><i>noun</i>	<b>clustering</b>; being physically nearby</dd>
 
-saige
-:  _noun_	**outdoorsness**
+<dt>saige</dt>
+<dd><i>noun</i>	<b>outdoorsness</b></dd>
 
-saijib
-:  _noun_	**gunpowder**
+<dt>saijib</dt>
+<dd><i>noun</i>	<b>gunpowder</b></dd>
 
-sak
-:  _article_	**any**; single element
+<dt>sak</dt>
+<dd><i>article</i>	<b>any</b>; single element</dd>
 
-sapa
-:  _noun_	**vibrancy**
+<dt>sapa</dt>
+<dd><i>noun</i>	<b>vibrancy</b></dd>
 
-sashuz
-:  _noun_	**sawfly**
+<dt>sashuz</dt>
+<dd><i>noun</i>	<b>sawfly</b></dd>
 
-saubi
-:  _noun_	**salamander**
+<dt>saubi</dt>
+<dd><i>noun</i>	<b>salamander</b></dd>
 
-sauoj
-:  _noun_	**nut**; also seed
+<dt>sauoj</dt>
+<dd><i>noun</i>	<b>nut</b>; also seed</dd>
 
-saz
-:  _punctuation_	**!**; imperative
+<dt>saz</dt>
+<dd><i>punctuation</i>	<b>!</b>; imperative</dd>
 
-sedeud
-:  _noun_	**watermelon**
+<dt>sedeud</dt>
+<dd><i>noun</i>	<b>watermelon</b></dd>
 
-sedog
-:  _noun_	**electricity**
+<dt>sedog</dt>
+<dd><i>noun</i>	<b>electricity</b></dd>
 
-seja
-:  _noun_	**blackness**
+<dt>seja</dt>
+<dd><i>noun</i>	<b>blackness</b></dd>
 
-sesoz
-:  _noun_	**tapir**
+<dt>sesoz</dt>
+<dd><i>noun</i>	<b>tapir</b></dd>
 
-set
-:  _preposition_	**regarding**; denotes context
+<dt>set</dt>
+<dd><i>preposition</i>	<b>regarding</b>; denotes context</dd>
 
-setieus
-:  _noun_	**rye**
+<dt>setieus</dt>
+<dd><i>noun</i>	<b>rye</b></dd>
 
-sezeb
-:  _noun_	**red-panda**
+<dt>sezeb</dt>
+<dd><i>noun</i>	<b>red-panda</b></dd>
 
-sezush
-:  _noun_	**arowana**; bonytounges
+<dt>sezush</dt>
+<dd><i>noun</i>	<b>arowana</b>; bonytounges</dd>
 
-shabish
-:  _noun_	**hagfish**; slime-eel
+<dt>shabish</dt>
+<dd><i>noun</i>	<b>hagfish</b>; slime-eel</dd>
 
-shabo
-:  _noun_	**constructing**
+<dt>shabo</dt>
+<dd><i>noun</i>	<b>constructing</b></dd>
 
-shadu
-:  _noun_	**sorting**
+<dt>shadu</dt>
+<dd><i>noun</i>	<b>sorting</b></dd>
 
-shaiaz
-:  _noun_	**language**
+<dt>shaiaz</dt>
+<dd><i>noun</i>	<b>language</b></dd>
 
-shaigu
-:  _noun_	**pangolin**
+<dt>shaigu</dt>
+<dd><i>noun</i>	<b>pangolin</b></dd>
 
-shakip
-:  _noun_	**loop**
+<dt>shakip</dt>
+<dd><i>noun</i>	<b>loop</b></dd>
 
-shasat
-:  _noun_	**vegetable**; includes fruit
+<dt>shasat</dt>
+<dd><i>noun</i>	<b>vegetable</b>; includes fruit</dd>
 
-shasej
-:  _noun_	**chiroptera**; bats and flying foxes
+<dt>shasej</dt>
+<dd><i>noun</i>	<b>chiroptera</b>; bats and flying foxes</dd>
 
-shat
-:  _preposition_	**bool**; denotes whether it happened; the argument here is basically always `kaup` or `sob`
+<dt>shat</dt>
+<dd><i>preposition</i>	<b>bool</b>; denotes whether it happened; the argument here is basically always `kaup` or `sob`</dd>
 
-shatoj
-:  _noun_	**nematoid**; parasitic worms FTW!
+<dt>shatoj</dt>
+<dd><i>noun</i>	<b>nematoid</b>; parasitic worms FTW!</dd>
 
-shau
-:  _preposition_	**in**; denotes nonphysical non temporal state
+<dt>shau</dt>
+<dd><i>preposition</i>	<b>in</b>; denotes nonphysical non temporal state</dd>
 
-shauiz
-:  _noun_	**2**
+<dt>shauiz</dt>
+<dd><i>noun</i>	<b>2</b></dd>
 
-shaupip
-:  _noun_	**transforming**
+<dt>shaupip</dt>
+<dd><i>noun</i>	<b>transforming</b></dd>
 
-shaupub
-:  _noun_	**fungus**
+<dt>shaupub</dt>
+<dd><i>noun</i>	<b>fungus</b></dd>
 
-sheb
-:  _preposition_	**because**; denotes cause
+<dt>sheb</dt>
+<dd><i>preposition</i>	<b>because</b>; denotes cause</dd>
 
-shegesh
-:  _noun_	**freezing**
+<dt>shegesh</dt>
+<dd><i>noun</i>	<b>freezing</b></dd>
 
-shejob
-:  _noun_	**table**; furniture
+<dt>shejob</dt>
+<dd><i>noun</i>	<b>table</b>; furniture</dd>
 
-shepat
-:  _noun_	**foreignness**
+<dt>shepat</dt>
+<dd><i>noun</i>	<b>foreignness</b></dd>
 
-shesud
-:  _noun_	**mind**
+<dt>shesud</dt>
+<dd><i>noun</i>	<b>mind</b></dd>
 
-shetez
-:  _noun_	**scent**
+<dt>shetez</dt>
+<dd><i>noun</i>	<b>scent</b></dd>
 
-sheuduk
-:  _noun_	**forward-to-looking**
+<dt>sheuduk</dt>
+<dd><i>noun</i>	<b>forward-to-looking</b></dd>
 
-shezat
-:  _noun_	**primatomorpha**; basically monkeys and apes plus a few other types of primate
+<dt>shezat</dt>
+<dd><i>noun</i>	<b>primatomorpha</b>; basically monkeys and apes plus a few other types of primate</dd>
 
-shezes
-:  _noun_	**longitude**; east+
+<dt>shezes</dt>
+<dd><i>noun</i>	<b>longitude</b>; east+</dd>
 
-shiabu
-:  _noun_	**betweenness**
+<dt>shiabu</dt>
+<dd><i>noun</i>	<b>betweenness</b></dd>
 
-shiazash
-:  _noun_	**corallimorpharia**
+<dt>shiazash</dt>
+<dd><i>noun</i>	<b>corallimorpharia</b></dd>
 
-shibeus
-:  _noun_	**ink**
+<dt>shibeus</dt>
+<dd><i>noun</i>	<b>ink</b></dd>
 
-shijap
-:  _noun_	**war**
+<dt>shijap</dt>
+<dd><i>noun</i>	<b>war</b></dd>
 
-shijash
-:  _noun_	**recommending**
+<dt>shijash</dt>
+<dd><i>noun</i>	<b>recommending</b></dd>
 
-shijos
-:  _noun_	**come to be**
+<dt>shijos</dt>
+<dd><i>noun</i>	<b>come to be</b></dd>
 
-shikuz
-:  _noun_	**besideness**
+<dt>shikuz</dt>
+<dd><i>noun</i>	<b>besideness</b></dd>
 
-shisad
-:  _noun_	**owl**
+<dt>shisad</dt>
+<dd><i>noun</i>	<b>owl</b></dd>
 
-shizuj
-:  _noun_	**waterfowl**
+<dt>shizuj</dt>
+<dd><i>noun</i>	<b>waterfowl</b></dd>
 
-shoba
-:  _noun_	**seal**; includes walruses and maybe sea lions I think?
+<dt>shoba</dt>
+<dd><i>noun</i>	<b>seal</b>; includes walruses and maybe sea lions I think?</dd>
 
-shoduaz
-:  _noun_	**appeal**; of a picture sound etc.
+<dt>shoduaz</dt>
+<dd><i>noun</i>	<b>appeal</b>; of a picture sound etc.</dd>
 
-shoiosh
-:  _noun_	**policymaking**
+<dt>shoiosh</dt>
+<dd><i>noun</i>	<b>policymaking</b></dd>
 
-shoited
-:  _noun_	**octopus**
+<dt>shoited</dt>
+<dd><i>noun</i>	<b>octopus</b></dd>
 
-shojag
-:  _noun_	**standing-up**; posture
+<dt>shojag</dt>
+<dd><i>noun</i>	<b>standing-up</b>; posture</dd>
 
-shojouj
-:  _noun_	**hydra**
+<dt>shojouj</dt>
+<dd><i>noun</i>	<b>hydra</b></dd>
 
-shok
-:  _preposition_	**at**; denotes date/time
+<dt>shok</dt>
+<dd><i>preposition</i>	<b>at</b>; denotes date/time</dd>
 
-shokok
-:  _noun_	**egg**
+<dt>shokok</dt>
+<dd><i>noun</i>	<b>egg</b></dd>
 
-shopaij
-:  _noun_	**onion**
+<dt>shopaij</dt>
+<dd><i>noun</i>	<b>onion</b></dd>
 
-shopiai
-:  _noun_	**jungle**
+<dt>shopiai</dt>
+<dd><i>noun</i>	<b>jungle</b></dd>
 
-shopoud
-:  _noun_	**blade**
+<dt>shopoud</dt>
+<dd><i>noun</i>	<b>blade</b></dd>
 
-shos
-:  _fastener_	**whichone**; describes a specific instance
+<dt>shos</dt>
+<dd><i>fastener</i>	<b>whichone</b>; describes a specific instance</dd>
 
-shoshaj
-:  _noun_	**imprisoning**
+<dt>shoshaj</dt>
+<dd><i>noun</i>	<b>imprisoning</b></dd>
 
-shoshup
-:  _noun_	**horse**; includes zebras and several varieties of wild butt
+<dt>shoshup</dt>
+<dd><i>noun</i>	<b>horse</b>; includes zebras and several varieties of wild butt</dd>
 
-shosib
-:  _noun_	**appearing**
+<dt>shosib</dt>
+<dd><i>noun</i>	<b>appearing</b></dd>
 
-shosush
-:  _noun_	**spending time with**
+<dt>shosush</dt>
+<dd><i>noun</i>	<b>spending time with</b></dd>
 
-shoteip
-:  _noun_	**summoning**
+<dt>shoteip</dt>
+<dd><i>noun</i>	<b>summoning</b></dd>
 
-shoubag
-:  _noun_	**brussels-sprouts**
+<dt>shoubag</dt>
+<dd><i>noun</i>	<b>brussels-sprouts</b></dd>
 
-shoujei
-:  _noun_	**tree**
+<dt>shoujei</dt>
+<dd><i>noun</i>	<b>tree</b></dd>
 
-shuaij
-:  _punctuation_	**please**; polite imperative
+<dt>shuaij</dt>
+<dd><i>punctuation</i>	<b>please</b>; polite imperative</dd>
 
-shubei
-:  _noun_	**galean-shark**
+<dt>shubei</dt>
+<dd><i>noun</i>	<b>galean-shark</b></dd>
 
-shudaj
-:  _noun_	**asking**
+<dt>shudaj</dt>
+<dd><i>noun</i>	<b>asking</b></dd>
 
-shudog
-:  _noun_	**scandentia**; treeshrews
+<dt>shudog</dt>
+<dd><i>noun</i>	<b>scandentia</b>; treeshrews</dd>
 
-shug
-:  _preposition_	**on**; denotes physical location
+<dt>shug</dt>
+<dd><i>preposition</i>	<b>on</b>; denotes physical location</dd>
 
-shuigup
-:  _noun_	**canteloupe**
+<dt>shuigup</dt>
+<dd><i>noun</i>	<b>canteloupe</b></dd>
 
-shuip
-:  _punctuation_	**bless**; exclamatory
+<dt>shuip</dt>
+<dd><i>punctuation</i>	<b>bless</b>; exclamatory</dd>
 
-shuita
-:  _noun_	**air**
+<dt>shuita</dt>
+<dd><i>noun</i>	<b>air</b></dd>
 
-shukoi
-:  _noun_	**mecoptera**; flying scorpions!
+<dt>shukoi</dt>
+<dd><i>noun</i>	<b>mecoptera</b>; flying scorpions!</dd>
 
-shuodai
-:  _noun_	**blackberry**
+<dt>shuodai</dt>
+<dd><i>noun</i>	<b>blackberry</b></dd>
 
-shushuk
-:  _noun_	**correctness**
+<dt>shushuk</dt>
+<dd><i>noun</i>	<b>correctness</b></dd>
 
-shusob
-:  _noun_	**crocodilian**; crocodiles and alligators
+<dt>shusob</dt>
+<dd><i>noun</i>	<b>crocodilian</b>; crocodiles and alligators</dd>
 
-shute
-:  _noun_	**eufalconimorpha**; falcons passerines parrots caracaras and forest falcons
+<dt>shute</dt>
+<dd><i>noun</i>	<b>eufalconimorpha</b>; falcons passerines parrots caracaras and forest falcons</dd>
 
-shutua
-:  _noun_	**embarking**; in the metaphorical sense; it is similar to peuzauzek but it involves more of a habitual journey than a state
+<dt>shutua</dt>
+<dd><i>noun</i>	<b>embarking</b>; in the metaphorical sense; it is similar to peuzauzek but it involves more of a habitual journey than a state</dd>
 
-si
-:  _preposition_	**to**; denotes target
+<dt>si</dt>
+<dd><i>preposition</i>	<b>to</b>; denotes target</dd>
 
-siasesh
-:  _noun_	**wound-suffering**
+<dt>siasesh</dt>
+<dd><i>noun</i>	<b>wound-suffering</b></dd>
 
-sibaj
-:  _noun_	**matrix**; table of numbers
+<dt>sibaj</dt>
+<dd><i>noun</i>	<b>matrix</b>; table of numbers</dd>
 
-sibes
-:  _noun_	**mountain**
+<dt>sibes</dt>
+<dd><i>noun</i>	<b>mountain</b></dd>
 
-sibi
-:  _noun_	**angle**; difference with object being centrum
+<dt>sibi</dt>
+<dd><i>noun</i>	<b>angle</b>; difference with object being centrum</dd>
 
-sijid
-:  _noun_	**fish**
+<dt>sijid</dt>
+<dd><i>noun</i>	<b>fish</b></dd>
 
-sishuaish
-:  _noun_	**urine**
+<dt>sishuaish</dt>
+<dd><i>noun</i>	<b>urine</b></dd>
 
-sito
-:  _noun_	**implying**; if-then
+<dt>sito</dt>
+<dd><i>noun</i>	<b>implying</b>; if-then</dd>
 
-sizak
-:  _noun_	**note-leaving**
+<dt>sizak</dt>
+<dd><i>noun</i>	<b>note-leaving</b></dd>
 
-sob
-:  _pronoun_	**what**; missing information
+<dt>sob</dt>
+<dd><i>pronoun</i>	<b>what</b>; missing information</dd>
 
-sogeu
-:  _noun_	**phoronid**
+<dt>sogeu</dt>
+<dd><i>noun</i>	<b>phoronid</b></dd>
 
-soieu
-:  _noun_	**procellariid**; albatrosses and petrels
+<dt>soieu</dt>
+<dd><i>noun</i>	<b>procellariid</b>; albatrosses and petrels</dd>
 
-soiki
-:  _noun_	**cylinder**
+<dt>soiki</dt>
+<dd><i>noun</i>	<b>cylinder</b></dd>
 
-sopoid
-:  _noun_	**sponge**
+<dt>sopoid</dt>
+<dd><i>noun</i>	<b>sponge</b></dd>
 
-sopuk
-:  _noun_	**deciding**
+<dt>sopuk</dt>
+<dd><i>noun</i>	<b>deciding</b></dd>
 
-sosho
-:  _noun_	**gladiator**; it's a type of insect
+<dt>sosho</dt>
+<dd><i>noun</i>	<b>gladiator</b>; it's a type of insect</dd>
 
-sosu
-:  _noun_	**meeting**
+<dt>sosu</dt>
+<dd><i>noun</i>	<b>meeting</b></dd>
 
-sota
-:  _noun_	**centipede**
+<dt>sota</dt>
+<dd><i>noun</i>	<b>centipede</b></dd>
 
-suajosh
-:  _noun_	**penis**
+<dt>suajosh</dt>
+<dd><i>noun</i>	<b>penis</b></dd>
 
-subeu
-:  _noun_	**aplacophora**; shell-less molusks
+<dt>subeu</dt>
+<dd><i>noun</i>	<b>aplacophora</b>; shell-less molusks</dd>
 
-suge
-:  _noun_	**adding**
+<dt>suge</dt>
+<dd><i>noun</i>	<b>adding</b></dd>
 
-sujat
-:  _noun_	**stem**
+<dt>sujat</dt>
+<dd><i>noun</i>	<b>stem</b></dd>
 
-supeis
-:  _noun_	**wondering**
+<dt>supeis</dt>
+<dd><i>noun</i>	<b>wondering</b></dd>
 
-supek
-:  _noun_	**latitude**; south+
+<dt>supek</dt>
+<dd><i>noun</i>	<b>latitude</b>; south+</dd>
 
-supu
-:  _noun_	**summer**
+<dt>supu</dt>
+<dd><i>noun</i>	<b>summer</b></dd>
 
-susos
-:  _noun_	**openness**
+<dt>susos</dt>
+<dd><i>noun</i>	<b>openness</b></dd>
 
-sutuk
-:  _noun_	**pufferfish**
+<dt>sutuk</dt>
+<dd><i>noun</i>	<b>pufferfish</b></dd>
 
-suzus
-:  _noun_	**working**
+<dt>suzus</dt>
+<dd><i>noun</i>	<b>working</b></dd>
 
-suzut
-:  _noun_	**0**
+<dt>suzut</dt>
+<dd><i>noun</i>	<b>0</b></dd>
 
-tabag
-:  _noun_	**testing**
+<dt>tabag</dt>
+<dd><i>noun</i>	<b>testing</b></dd>
 
-tabius
-:  _noun_	**bivalve**; molusks with two valves
+<dt>tabius</dt>
+<dd><i>noun</i>	<b>bivalve</b>; molusks with two valves</dd>
 
-tadou
-:  _noun_	**communicating**
+<dt>tadou</dt>
+<dd><i>noun</i>	<b>communicating</b></dd>
 
-taipes
-:  _noun_	**tube-dwelling-anemone**
+<dt>taipes</dt>
+<dd><i>noun</i>	<b>tube-dwelling-anemone</b></dd>
 
-taisush
-:  _noun_	**sexual-attracting**
+<dt>taisush</dt>
+<dd><i>noun</i>	<b>sexual-attracting</b></dd>
 
-tajag
-:  _noun_	**grain**
+<dt>tajag</dt>
+<dd><i>noun</i>	<b>grain</b></dd>
 
-takat
-:  _noun_	**gar**
+<dt>takat</dt>
+<dd><i>noun</i>	<b>gar</b></dd>
 
-tasug
-:  _noun_	**powder**
+<dt>tasug</dt>
+<dd><i>noun</i>	<b>powder</b></dd>
 
-taupob
-:  _noun_	**grass**
+<dt>taupob</dt>
+<dd><i>noun</i>	<b>grass</b></dd>
 
-teba
-:  _noun_	**red**
+<dt>teba</dt>
+<dd><i>noun</i>	<b>red</b></dd>
 
-tedag
-:  _noun_	**body**
+<dt>tedag</dt>
+<dd><i>noun</i>	<b>body</b></dd>
 
-tegod
-:  _noun_	**rhinoceros**
+<dt>tegod</dt>
+<dd><i>noun</i>	<b>rhinoceros</b></dd>
 
-teia
-:  _noun_	**socializing**
+<dt>teia</dt>
+<dd><i>noun</i>	<b>socializing</b></dd>
 
-teisaish
-:  _noun_	**fame**
+<dt>teisaish</dt>
+<dd><i>noun</i>	<b>fame</b></dd>
 
-tejos
-:  _noun_	**shell**
+<dt>tejos</dt>
+<dd><i>noun</i>	<b>shell</b></dd>
 
-tejui
-:  _noun_	**savoriness**
+<dt>tejui</dt>
+<dd><i>noun</i>	<b>savoriness</b></dd>
 
-teku
-:  _noun_	**blue**
+<dt>teku</dt>
+<dd><i>noun</i>	<b>blue</b></dd>
 
-tepet
-:  _noun_	**land**
+<dt>tepet</dt>
+<dd><i>noun</i>	<b>land</b></dd>
 
-teseb
-:  _noun_	**activation**
+<dt>teseb</dt>
+<dd><i>noun</i>	<b>activation</b></dd>
 
-teshaj
-:  _noun_	**mighting**
+<dt>teshaj</dt>
+<dd><i>noun</i>	<b>mighting</b></dd>
 
-tetiz
-:  _noun_	**elephant**
+<dt>tetiz</dt>
+<dd><i>noun</i>	<b>elephant</b></dd>
 
-teujo
-:  _noun_	**torso**
+<dt>teujo</dt>
+<dd><i>noun</i>	<b>torso</b></dd>
 
-teuke
-:  _noun_	**stork**
+<dt>teuke</dt>
+<dd><i>noun</i>	<b>stork</b></dd>
 
-teusa
-:  _noun_	**throwing**
+<dt>teusa</dt>
+<dd><i>noun</i>	<b>throwing</b></dd>
 
-tezub
-:  _noun_	**joining**
+<dt>tezub</dt>
+<dd><i>noun</i>	<b>joining</b></dd>
 
-tibed
-:  _noun_	**order**; index in a list
+<dt>tibed</dt>
+<dd><i>noun</i>	<b>order</b>; index in a list</dd>
 
-tigez
-:  _noun_	**stonefly**
+<dt>tigez</dt>
+<dd><i>noun</i>	<b>stonefly</b></dd>
 
-tigis
-:  _noun_	**spicyness**
+<dt>tigis</dt>
+<dd><i>noun</i>	<b>spicyness</b></dd>
 
-tijie
-:  _noun_	**hyrax**; little rodent-like things
+<dt>tijie</dt>
+<dd><i>noun</i>	<b>hyrax</b>; little rodent-like things</dd>
 
-tijud
-:  _noun_	**detail**
+<dt>tijud</dt>
+<dd><i>noun</i>	<b>detail</b></dd>
 
-tisid
-:  _noun_	**giving**
+<dt>tisid</dt>
+<dd><i>noun</i>	<b>giving</b></dd>
 
-tius
-:  _prefix_	**derivative**; concept of becoming
+<dt>tius</dt>
+<dd><i>prefix</i>	<b>derivative</b>; concept of becoming</dd>
 
-tizi
-:  _noun_	**instructing**
+<dt>tizi</dt>
+<dd><i>noun</i>	<b>instructing</b></dd>
 
-to
-:  _conjunction_	**both{**
+<dt>to</dt>
+<dd><i>conjunction</i>	<b>both{</b></dd>
 
-tobi
-:  _noun_	**hoping**
+<dt>tobi</dt>
+<dd><i>noun</i>	<b>hoping</b></dd>
 
-toguk
-:  _noun_	**paint**
+<dt>toguk</dt>
+<dd><i>noun</i>	<b>paint</b></dd>
 
-toije
-:  _noun_	**grateful-feeling**
+<dt>toije</dt>
+<dd><i>noun</i>	<b>grateful-feeling</b></dd>
 
-toiot
-:  _noun_	**eel**
+<dt>toiot</dt>
+<dd><i>noun</i>	<b>eel</b></dd>
 
-tojot
-:  _noun_	**effectiveness**
+<dt>tojot</dt>
+<dd><i>noun</i>	<b>effectiveness</b></dd>
 
-tojush
-:  _noun_	**flea**
+<dt>tojush</dt>
+<dd><i>noun</i>	<b>flea</b></dd>
 
-toshap
-:  _noun_	**abandoning**
+<dt>toshap</dt>
+<dd><i>noun</i>	<b>abandoning</b></dd>
 
-toshoi
-:  _noun_	**showing**
+<dt>toshoi</dt>
+<dd><i>noun</i>	<b>showing</b></dd>
 
-toto
-:  _noun_	**primarity**; refers to generally being main or central
+<dt>toto</dt>
+<dd><i>noun</i>	<b>primarity</b>; refers to generally being main or central</dd>
 
-touas
-:  _noun_	**paraneoptera**; bugs thrips and lice
+<dt>touas</dt>
+<dd><i>noun</i>	<b>paraneoptera</b>; bugs thrips and lice</dd>
 
-toubais
-:  _noun_	**proctum**; encompasses entoprocta and ectoprocta
+<dt>toubais</dt>
+<dd><i>noun</i>	<b>proctum</b>; encompasses entoprocta and ectoprocta</dd>
 
-touk
-:  _other_	**backspace**; ingnore previous few words
+<dt>touk</dt>
+<dd><i>other</i>	<b>backspace</b>; ingnore previous few words</dd>
 
-toupa
-:  _noun_	**sheet**
+<dt>toupa</dt>
+<dd><i>noun</i>	<b>sheet</b></dd>
 
-tousap
-:  _noun_	**attacking**; a sudden violent engagement
+<dt>tousap</dt>
+<dd><i>noun</i>	<b>attacking</b>; a sudden violent engagement</dd>
 
-toza
-:  _noun_	**1**
+<dt>toza</dt>
+<dd><i>noun</i>	<b>1</b></dd>
 
-tuabij
-:  _noun_	**kale**
+<dt>tuabij</dt>
+<dd><i>noun</i>	<b>kale</b></dd>
 
-tubo
-:  _noun_	**history**
+<dt>tubo</dt>
+<dd><i>noun</i>	<b>history</b></dd>
 
-tudi
-:  _noun_	**pig**
+<dt>tudi</dt>
+<dd><i>noun</i>	<b>pig</b></dd>
 
-tugag
-:  _noun_	**activeness**; not lazy
+<dt>tugag</dt>
+<dd><i>noun</i>	<b>activeness</b>; not lazy</dd>
 
-tuj
-:  _pronoun_	**them**; an agent besides the speaker and listener
+<dt>tuj</dt>
+<dd><i>pronoun</i>	<b>them</b>; an agent besides the speaker and listener</dd>
 
-tukit
-:  _noun_	**needing**
+<dt>tukit</dt>
+<dd><i>noun</i>	<b>needing</b></dd>
 
-tupuj
-:  _noun_	**sugar**
+<dt>tupuj</dt>
+<dd><i>noun</i>	<b>sugar</b></dd>
 
-tuzak
-:  _noun_	**sea-cow**; like manatees
+<dt>tuzak</dt>
+<dd><i>noun</i>	<b>sea-cow</b>; like manatees</dd>
 
-tuze
-:  _noun_	**cooking**
+<dt>tuze</dt>
+<dd><i>noun</i>	<b>cooking</b></dd>
 
-uadid
-:  _noun_	**pantopod**; they're like spiders but in the ocean!
+<dt>uadid</dt>
+<dd><i>noun</i>	<b>pantopod</b>; they're like spiders but in the ocean!</dd>
 
-uages
-:  _noun_	**ray**; the ocean variety
+<dt>uages</dt>
+<dd><i>noun</i>	<b>ray</b>; the ocean variety</dd>
 
-uaipib
-:  _noun_	**box-jellyfish**
+<dt>uaipib</dt>
+<dd><i>noun</i>	<b>box-jellyfish</b></dd>
 
-uasa
-:  _noun_	**changing**
+<dt>uasa</dt>
+<dd><i>noun</i>	<b>changing</b></dd>
 
-uatoj
-:  _noun_	**storytelling**
+<dt>uatoj</dt>
+<dd><i>noun</i>	<b>storytelling</b></dd>
 
-uazat
-:  _noun_	**grylloblattodea**; ice bus ice crawlers and rock crawers
+<dt>uazat</dt>
+<dd><i>noun</i>	<b>grylloblattodea</b>; ice bus ice crawlers and rock crawers</dd>
 
-ubab
-:  _noun_	**crystal**
+<dt>ubab</dt>
+<dd><i>noun</i>	<b>crystal</b></dd>
 
-ubai
-:  _noun_	**dairy**
+<dt>ubai</dt>
+<dd><i>noun</i>	<b>dairy</b></dd>
 
-ubazi
-:  _noun-technical_	**physics.inductance**
+<dt>ubazi</dt>
+<dd><i>noun-technical</i>	<b>physics.inductance</b></dd>
 
-ubeit
-:  _noun_	**wood**
+<dt>ubeit</dt>
+<dd><i>noun</i>	<b>wood</b></dd>
 
-ubez
-:  _noun_	**throughness**
+<dt>ubez</dt>
+<dd><i>noun</i>	<b>throughness</b></dd>
 
-ubiu
-:  _noun_	**snail**
+<dt>ubiu</dt>
+<dd><i>noun</i>	<b>snail</b></dd>
 
-uboj
-:  _noun_	**researching**
+<dt>uboj</dt>
+<dd><i>noun</i>	<b>researching</b></dd>
 
-ubuoid
-:  _noun_	**deciduous**
+<dt>ubuoid</dt>
+<dd><i>noun</i>	<b>deciduous</b></dd>
 
-ubut
-:  _noun_	**skewness**
+<dt>ubut</dt>
+<dd><i>noun</i>	<b>skewness</b></dd>
 
-udoish
-:  _noun_	**invertebrate**
+<dt>udoish</dt>
+<dd><i>noun</i>	<b>invertebrate</b></dd>
 
-udosh
-:  _noun_	**playing**; a game or a sport
+<dt>udosh</dt>
+<dd><i>noun</i>	<b>playing</b>; a game or a sport</dd>
 
-udu
-:  _noun_	**creating**
+<dt>udu</dt>
+<dd><i>noun</i>	<b>creating</b></dd>
 
-uduash
-:  _noun_	**left-rightness**
+<dt>uduash</dt>
+<dd><i>noun</i>	<b>left-rightness</b></dd>
 
-uduzo
-:  _noun-technical_	**physics.field**
+<dt>uduzo</dt>
+<dd><i>noun-technical</i>	<b>physics.field</b></dd>
 
-uebeb
-:  _noun_	**using**
+<dt>uebeb</dt>
+<dd><i>noun</i>	<b>using</b></dd>
 
-uegaub
-:  _noun_	**evergreen**
+<dt>uegaub</dt>
+<dd><i>noun</i>	<b>evergreen</b></dd>
 
-ueisid
-:  _noun_	**beardworm**; giant tube worms
+<dt>ueisid</dt>
+<dd><i>noun</i>	<b>beardworm</b>; giant tube worms</dd>
 
-uetab
-:  _noun_	**accipitridae**; hawks eagles kites Old World vultures and a few other things
+<dt>uetab</dt>
+<dd><i>noun</i>	<b>accipitridae</b>; hawks eagles kites Old World vultures and a few other things</dd>
 
-ueujaij
-:  _noun_	**seaweed**
+<dt>ueujaij</dt>
+<dd><i>noun</i>	<b>seaweed</b></dd>
 
-ugi
-:  _noun_	**going**; from one place to another
+<dt>ugi</dt>
+<dd><i>noun</i>	<b>going</b>; from one place to another</dd>
 
-uia
-:  _noun_	**length**
+<dt>uia</dt>
+<dd><i>noun</i>	<b>length</b></dd>
 
-uidiz
-:  _noun_	**half**
+<dt>uidiz</dt>
+<dd><i>noun</i>	<b>half</b></dd>
 
-uidoj
-:  _noun_	**understanding**
+<dt>uidoj</dt>
+<dd><i>noun</i>	<b>understanding</b></dd>
 
-uiep
-:  _noun_	**bearing**; mathematical convention with object being origin
+<dt>uiep</dt>
+<dd><i>noun</i>	<b>bearing</b>; mathematical convention with object being origin</dd>
 
-uieuk
-:  _noun_	**partying**
+<dt>uieuk</dt>
+<dd><i>noun</i>	<b>partying</b></dd>
 
-uioush
-:  _noun_	**sky**
+<dt>uioush</dt>
+<dd><i>noun</i>	<b>sky</b></dd>
 
-uipad
-:  _noun_	**clearing**
+<dt>uipad</dt>
+<dd><i>noun</i>	<b>clearing</b></dd>
 
-uitag
-:  _noun_	**chiton**
+<dt>uitag</dt>
+<dd><i>noun</i>	<b>chiton</b></dd>
 
-ujeij
-:  _noun_	**acuteness**; of a corner
+<dt>ujeij</dt>
+<dd><i>noun</i>	<b>acuteness</b>; of a corner</dd>
 
-ujis
-:  _noun_	**owning**
+<dt>ujis</dt>
+<dd><i>noun</i>	<b>owning</b></dd>
 
-uka
-:  _noun_	**relating**; to
+<dt>uka</dt>
+<dd><i>noun</i>	<b>relating</b>; to</dd>
 
-ukiaj
-:  _noun_	**eating**
+<dt>ukiaj</dt>
+<dd><i>noun</i>	<b>eating</b></dd>
 
-ukipe
-:  _noun-technical_	**physics.charge**
+<dt>ukipe</dt>
+<dd><i>noun-technical</i>	<b>physics.charge</b></dd>
 
-ukoik
-:  _noun_	**pauropod**
+<dt>ukoik</dt>
+<dd><i>noun</i>	<b>pauropod</b></dd>
 
-ukouz
-:  _noun_	**tuatara**; a lizard-type thing
+<dt>ukouz</dt>
+<dd><i>noun</i>	<b>tuatara</b>; a lizard-type thing</dd>
 
-uobe
-:  _noun_	**computer**
+<dt>uobe</dt>
+<dd><i>noun</i>	<b>computer</b></dd>
 
-uodi
-:  _noun_	**door**
+<dt>uodi</dt>
+<dd><i>noun</i>	<b>door</b></dd>
 
-uoide
-:  _noun_	**schizomida**
+<dt>uoide</dt>
+<dd><i>noun</i>	<b>schizomida</b></dd>
 
-uoijub
-:  _noun_	**spam**
+<dt>uoijub</dt>
+<dd><i>noun</i>	<b>spam</b></dd>
 
-uotet
-:  _noun_	**passing**
+<dt>uotet</dt>
+<dd><i>noun</i>	<b>passing</b></dd>
 
-uoueuk
-:  _noun_	**scaphopod**; a type of molusk
+<dt>uoueuk</dt>
+<dd><i>noun</i>	<b>scaphopod</b>; a type of molusk</dd>
 
-uoui
-:  _noun_	**datetime**
+<dt>uoui</dt>
+<dd><i>noun</i>	<b>datetime</b></dd>
 
-uouod
-:  _noun_	**politicalness**
+<dt>uouod</dt>
+<dd><i>noun</i>	<b>politicalness</b></dd>
 
-up
-:  _punctuation_	**fullstop**; ends sentences and clauses
+<dt>up</dt>
+<dd><i>punctuation</i>	<b>fullstop</b>; ends sentences and clauses</dd>
 
-upaia
-:  _noun-technical_	**math.velocity**
+<dt>upaia</dt>
+<dd><i>noun-technical</i>	<b>math.velocity</b></dd>
 
-upak
-:  _noun_	**morning**
+<dt>upak</dt>
+<dd><i>noun</i>	<b>morning</b></dd>
 
-upop
-:  _noun_	**remembering**; to do something
+<dt>upop</dt>
+<dd><i>noun</i>	<b>remembering</b>; to do something</dd>
 
-upou
-:  _noun_	**ophiuroid**; think 'seastar' but less brittle
+<dt>upou</dt>
+<dd><i>noun</i>	<b>ophiuroid</b>; think 'seastar' but less brittle</dd>
 
-upoz
-:  _noun_	**level**
+<dt>upoz</dt>
+<dd><i>noun</i>	<b>level</b></dd>
 
-use
-:  _noun_	**posessing**
+<dt>use</dt>
+<dd><i>noun</i>	<b>posessing</b></dd>
 
-ususe
-:  _noun-technical_	**physics.angular-velocity**
+<dt>ususe</dt>
+<dd><i>noun-technical</i>	<b>physics.angular-velocity</b></dd>
 
-utik
-:  _noun_	**stepping**; the object is what you step on or in
+<dt>utik</dt>
+<dd><i>noun</i>	<b>stepping</b>; the object is what you step on or in</dd>
 
-utug
-:  _noun_	**path**
+<dt>utug</dt>
+<dd><i>noun</i>	<b>path</b></dd>
 
-uzeso
-:  _noun-technical_	**astronomy.galaxy**
+<dt>uzeso</dt>
+<dd><i>noun-technical</i>	<b>astronomy.galaxy</b></dd>
 
-uzezu
-:  _noun-technical_	**physics.angular-acceleration**
+<dt>uzezu</dt>
+<dd><i>noun-technical</i>	<b>physics.angular-acceleration</b></dd>
 
-uzios
-:  _noun_	**tylopoda**; camels and llamas
+<dt>uzios</dt>
+<dd><i>noun</i>	<b>tylopoda</b>; camels and llamas</dd>
 
-uzip
-:  _noun_	**agreeing**
+<dt>uzip</dt>
+<dd><i>noun</i>	<b>agreeing</b></dd>
 
-uzot
-:  _noun_	**explaining**
+<dt>uzot</dt>
+<dd><i>noun</i>	<b>explaining</b></dd>
 
-zabash
-:  _noun_	**brachiopod**
+<dt>zabash</dt>
+<dd><i>noun</i>	<b>brachiopod</b></dd>
 
-zabes
-:  _noun_	**reporting**
+<dt>zabes</dt>
+<dd><i>noun</i>	<b>reporting</b></dd>
 
-zad
-:  _punctuation_	**?**; interrogative
+<dt>zad</dt>
+<dd><i>punctuation</i>	<b>?</b>; interrogative</dd>
 
-zai
-:  _article_	**all**; set of all instances
+<dt>zai</dt>
+<dd><i>article</i>	<b>all</b>; set of all instances</dd>
 
-zaijot
-:  _noun_	**engineering**; solving technical problems
+<dt>zaijot</dt>
+<dd><i>noun</i>	<b>engineering</b>; solving technical problems</dd>
 
-zaikaish
-:  _noun_	**fearing**
+<dt>zaikaish</dt>
+<dd><i>noun</i>	<b>fearing</b></dd>
 
-zaikas
-:  _noun_	**plant**
+<dt>zaikas</dt>
+<dd><i>noun</i>	<b>plant</b></dd>
 
-zajos
-:  _noun_	**cariamiforme**; it's a flightless terrestrial bird
+<dt>zajos</dt>
+<dd><i>noun</i>	<b>cariamiforme</b>; it's a flightless terrestrial bird</dd>
 
-zapau
-:  _noun_	**orthoptera**; crickets tatydids grasshoppers etc.
+<dt>zapau</dt>
+<dd><i>noun</i>	<b>orthoptera</b>; crickets tatydids grasshoppers etc.</dd>
 
-zapia
-:  _noun_	**nice**
+<dt>zapia</dt>
+<dd><i>noun</i>	<b>nice</b></dd>
 
-zapos
-:  _noun_	**leaf**
+<dt>zapos</dt>
+<dd><i>noun</i>	<b>leaf</b></dd>
 
-zasha
-:  _noun_	**voice**
+<dt>zasha</dt>
+<dd><i>noun</i>	<b>voice</b></dd>
 
-zauap
-:  _noun_	**actuality**
+<dt>zauap</dt>
+<dd><i>noun</i>	<b>actuality</b></dd>
 
-zazes
-:  _noun_	**arm**
+<dt>zazes</dt>
+<dd><i>noun</i>	<b>arm</b></dd>
 
-zazik
-:  _noun_	**sharpness**; of an edge or blade
+<dt>zazik</dt>
+<dd><i>noun</i>	<b>sharpness</b>; of an edge or blade</dd>
 
-zega
-:  _noun_	**attention-trying**; e.g. yelling at someone or flashing bright colors
+<dt>zega</dt>
+<dd><i>noun</i>	<b>attention-trying</b>; e.g. yelling at someone or flashing bright colors</dd>
 
-zegip
-:  _noun_	**hitting**; the action of intentionally causing a collision with something
+<dt>zegip</dt>
+<dd><i>noun</i>	<b>hitting</b>; the action of intentionally causing a collision with something</dd>
 
-zeiguk
-:  _noun_	**fern**
+<dt>zeiguk</dt>
+<dd><i>noun</i>	<b>fern</b></dd>
 
-zeija
-:  _noun_	**walking**
+<dt>zeija</dt>
+<dd><i>noun</i>	<b>walking</b></dd>
 
-zejei
-:  _noun_	**neuroptera**; lacewings antlions owlflies and more
+<dt>zejei</dt>
+<dd><i>noun</i>	<b>neuroptera</b>; lacewings antlions owlflies and more</dd>
 
-zepuj
-:  _noun_	**defending**
+<dt>zepuj</dt>
+<dd><i>noun</i>	<b>defending</b></dd>
 
-zeshau
-:  _noun_	**goofing**
+<dt>zeshau</dt>
+<dd><i>noun</i>	<b>goofing</b></dd>
 
-zeshed
-:  _noun_	**arthropod**
+<dt>zeshed</dt>
+<dd><i>noun</i>	<b>arthropod</b></dd>
 
-zeudad
-:  _noun_	**string**
+<dt>zeudad</dt>
+<dd><i>noun</i>	<b>string</b></dd>
 
-zeujish
-:  _noun_	**orange**; fruit
+<dt>zeujish</dt>
+<dd><i>noun</i>	<b>orange</b>; fruit</dd>
 
-ziba
-:  _noun_	**mantid**
+<dt>ziba</dt>
+<dd><i>noun</i>	<b>mantid</b></dd>
 
-zibus
-:  _noun_	**solifuga**
+<dt>zibus</dt>
+<dd><i>noun</i>	<b>solifuga</b></dd>
 
-zidug
-:  _noun_	**daytime**
+<dt>zidug</dt>
+<dd><i>noun</i>	<b>daytime</b></dd>
 
-ziget
-:  _noun_	**sending**
+<dt>ziget</dt>
+<dd><i>noun</i>	<b>sending</b></dd>
 
-ziozid
-:  _noun_	**striving**; toward a goal
+<dt>ziozid</dt>
+<dd><i>noun</i>	<b>striving</b>; toward a goal</dd>
 
-zipez
-:  _noun_	**robing**
+<dt>zipez</dt>
+<dd><i>noun</i>	<b>robing</b></dd>
 
-zitu
-:  _noun_	**organization**
+<dt>zitu</dt>
+<dd><i>noun</i>	<b>organization</b></dd>
 
-zizip
-:  _noun_	**poison-applying**
+<dt>zizip</dt>
+<dd><i>noun</i>	<b>poison-applying</b></dd>
 
-zodab
-:  _noun_	**flying**
+<dt>zodab</dt>
+<dd><i>noun</i>	<b>flying</b></dd>
 
-zodaz
-:  _noun_	**star**
+<dt>zodaz</dt>
+<dd><i>noun</i>	<b>star</b></dd>
 
-zogag
-:  _noun_	**earwig**
+<dt>zogag</dt>
+<dd><i>noun</i>	<b>earwig</b></dd>
 
-zogoj
-:  _noun_	**weapon**
+<dt>zogoj</dt>
+<dd><i>noun</i>	<b>weapon</b></dd>
 
-zoiok
-:  _noun_	**landfowl**; chickens turkeys and pheasants
+<dt>zoiok</dt>
+<dd><i>noun</i>	<b>landfowl</b>; chickens turkeys and pheasants</dd>
 
-zoj
-:  _prefix_	**not**; inverse
+<dt>zoj</dt>
+<dd><i>prefix</i>	<b>not</b>; inverse</dd>
 
-zojib
-:  _noun_	**returning**
+<dt>zojib</dt>
+<dd><i>noun</i>	<b>returning</b></dd>
 
-zoke
-:  _noun_	**timeliness**
+<dt>zoke</dt>
+<dd><i>noun</i>	<b>timeliness</b></dd>
 
-zop
-:  _preposition_	**by**; denotes method
+<dt>zop</dt>
+<dd><i>preposition</i>	<b>by</b>; denotes method</dd>
 
-zopas
-:  _noun_	**magicalness**
+<dt>zopas</dt>
+<dd><i>noun</i>	<b>magicalness</b></dd>
 
-zopiud
-:  _noun_	**slug**
+<dt>zopiud</dt>
+<dd><i>noun</i>	<b>slug</b></dd>
 
-zose
-:  _noun_	**wholeness**
+<dt>zose</dt>
+<dd><i>noun</i>	<b>wholeness</b></dd>
 
-zoshas
-:  _noun_	**strepsiptera**; twisted-wing parasites
+<dt>zoshas</dt>
+<dd><i>noun</i>	<b>strepsiptera</b>; twisted-wing parasites</dd>
 
-zoshet
-:  _noun_	**swimming**
+<dt>zoshet</dt>
+<dd><i>noun</i>	<b>swimming</b></dd>
 
-zotaj
-:  _noun_	**oxygen**
+<dt>zotaj</dt>
+<dd><i>noun</i>	<b>oxygen</b></dd>
 
-zouoj
-:  _noun_	**toadfish**
+<dt>zouoj</dt>
+<dd><i>noun</i>	<b>toadfish</b></dd>
 
-zubop
-:  _noun_	**possibility**
+<dt>zubop</dt>
+<dd><i>noun</i>	<b>possibility</b></dd>
 
-zuguo
-:  _noun_	**odonatoptera**; dragonflies and damselflies
+<dt>zuguo</dt>
+<dd><i>noun</i>	<b>odonatoptera</b>; dragonflies and damselflies</dd>
 
-zuiog
-:  _noun_	**hemichordate**; weird ocean worm tree blobs
+<dt>zuiog</dt>
+<dd><i>noun</i>	<b>hemichordate</b>; weird ocean worm tree blobs</dd>
 
-zuisat
-:  _noun_	**virus**
+<dt>zuisat</dt>
+<dd><i>noun</i>	<b>virus</b></dd>
 
-zukei
-:  _noun_	**suliforme**; boobies and cormorants and a few other things
+<dt>zukei</dt>
+<dd><i>noun</i>	<b>suliforme</b>; boobies and cormorants and a few other things</dd>
 
-zukek
-:  _noun_	**thelyphonid**
+<dt>zukek</dt>
+<dd><i>noun</i>	<b>thelyphonid</b></dd>
 
-zukuauz
-:  _noun_	**jumping**
+<dt>zukuauz</dt>
+<dd><i>noun</i>	<b>jumping</b></dd>
 
-zupes
-:  _noun_	**cost**
+<dt>zupes</dt>
+<dd><i>noun</i>	<b>cost</b></dd>
 
-zupi
-:  _noun_	**anglerfish**
+<dt>zupi</dt>
+<dd><i>noun</i>	<b>anglerfish</b></dd>
 
-zushe
-:  _noun_	**scaling**; dilating or zooming
+<dt>zushe</dt>
+<dd><i>noun</i>	<b>scaling</b>; dilating or zooming</dd>
 
-zushik
-:  _noun_	**being in a category**
+<dt>zushik</dt>
+<dd><i>noun</i>	<b>being in a category</b></dd>
 
-zushoup
-:  _noun_	**peanut**
+<dt>zushoup</dt>
+<dd><i>noun</i>	<b>peanut</b></dd>
 
-zushuz
-:  _noun_	**grouping**; associating with one another
+<dt>zushuz</dt>
+<dd><i>noun</i>	<b>grouping</b>; associating with one another</dd>
 
-zusit
-:  _noun_	**week**
+<dt>zusit</dt>
+<dd><i>noun</i>	<b>week</b></dd>
 
-zusup
-:  _noun_	**opilione**; things that look like spiders
+<dt>zusup</dt>
+<dd><i>noun</i>	<b>opilione</b>; things that look like spiders</dd>
 
-zut
-:  _article_	**this**; associated with speaker
+<dt>zut</dt>
+<dd><i>article</i>	<b>this</b>; associated with speaker</dd>
 
-zutet
-:  _noun_	**parameter**
+<dt>zutet</dt>
+<dd><i>noun</i>	<b>parameter</b></dd>
 
+</dl>
