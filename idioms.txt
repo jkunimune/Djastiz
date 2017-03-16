@@ -1,0 +1,27 @@
+Running into a wall and falling over
+both{ ; to wall pdc very walking fullstop and ; via face head pdc falling fullstop }
+to kit si bipoiz e dou zeija up ish kit oush peuip iepo e jusek up id
+
+I smell what you're stepping in
+. pdc passive-perceiving scent obj one * obj what sbj you pdc stepping fullstop
+poj e asu shetez iu ju ped iu sob bu kek e utik up
+
+Let your freak flag fly
+! pdc enabling ; sbj sheet attention-trying whatkind specialness fullstop
+saz e aba kit bu toupa zega dik goshai up
+
+Be a cat
+! pdc being obj cat
+saz e ezo iu doipu
+
+Baker's dozen
+10 2 whatkind jupede cooking bread sbj
+doze shauiz dik je tuze iushish bu
+
+Jesus, Mary, and Joseph Stalin
+both{ name{ Jesus } and name{ Mary } and name{ Joseph Stalin } }
+to pi Jesus id ish pi Mary id ish pi Joseph Stalin id id
+
+Up your butt and around the corner
+both{ ; obj butt pdc into fullstop and ; obj acuteness pdc revolving fullstop }
+to kit iu oigut e pagud up ish kit iu ujeij e degek up id

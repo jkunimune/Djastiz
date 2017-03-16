@@ -1,0 +1,5 @@
+whatkind (denotes variety or attributes),dik
+howmany (specifies amount degree or number),aub
+whichone (describes a specific instance),shos
+ie (draws equality),aus
+whichelement (identifies element of a set),jap

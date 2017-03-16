@@ -1,0 +1,10 @@
+Vowels:
+i e a o u
+
+Hard Consonants:
+k t p
+g d b
+
+Hiss Consonants:
+s c
+z j

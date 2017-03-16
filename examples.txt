@@ -1,0 +1,43 @@
+At one time, Sam actually wanted to send a duck to his representative in congress for fun.
+. at time a sbj name{ Sam } obj ; pdc sending whatkind actuality obj waterfowl to person representing organization for fun-having fullstop pdc wanting
+poj shok odo guz bu pi Sam id iu kit e ziget dik zauap iu shizuj si opu bita zitu dij diuis up e bezop
+
+The quick fox jumped over the lazy brown dog.
+. sbj dog red whatkind speed on ; pdc altitude than dog domesticating whatkind un activeness pdc jumping
+poj bu augok teba dik gubet shug kit e ozi jau augok puzed dik iat tugag e zukuauz
+
+Where is the bathroom?
+? on what sbj jupede toiletries on
+zad shug sob bu je ougious shug
+
+You! You're standing in the way of everybody's hopes and dreams!
+. you . pdc standing-up on ; pdc betweenness to both{ hoping and dreaming } whichone person all fullstop
+poj kek poj e shojag shug kit e shiabu si to tobi ish iogu id shos opu zai up
+
+What happens if you roadkill a fish?
+? obj what pdc causing sbj ; via automobile pdc killing obj fish fullstop
+zad iu sob e kepo bu kit oush osou e eushi iu sijid up
+
+On occasion, fish rain from the sky.
+. at un frequency sbj fish on sky pdc falling
+poj shok iat esos bu sijid shug uioush e jusek
+
+I recommend eating a pomegranite at least once in your life.
+. pdc recommending ; at time * at living fullstop howmany 1 pdc eating obj pomegranite fullstop
+poj e shijash kit shok odo ped shok eitu up aub toza e ukiaj iu poijaish up
+
+Commonly, a map projection is a systematic transformation of the latitudes and longitudes of locations on the surface of a sphere or an ellipsoid into locations on a plane.
+. at frequency sbj "{ math.map-projection } obj jupede process-undergoing obj * via what pdc transforming obj both{ latitude and longitude } whichone both{ sphere and math.ellipsoid } any to location whatkind math.plane fullstop a
+poj shok esos bu aj ishupo id iu je bepes iu ped oush sob e shaupip iu to supek ish shezes id shos to adoub ish eiugo id sak si ashe dik iside up guz
+
+Fourscore and seven years ago our fathers brought forth, on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.
+. at ; pdc un time-distance fullstop than year howmany 8 10 7 fullstop one * pdc parenting obj both{ me and you } fullstop pdc creating on continent this obj country whatkind un age via freedom for ; sbj person whichone all pdc difference at creating fullstop
+poj shok kit e iat baisu up jau ibish aub oposh doze jopa up ju ped e ajud iu to bas ish kek id up e udu shug kuaibod zut iu guiesh dik iat kidash oush sadez dij kit bu opu shos zai e kokat shok udu up
+
+Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire.
+. sbj jupede going via cosmos whichone rebelling via ; pdc striking on ; transitioning obj jupede basing obj * pdc hiding fullstop fullstop fullstop pdc winning whichone 1 with name{ country conquering astronomy.galaxy } whatkind un morality
+poj bu je ugi oush kajauj shos goishek oush kit e oushois shug kit kishij iu je gebeud iu ped e koutep up up up e badiz shos toza og pi guiesh eusheis uzeso id dik iat ipo
+
+Please excuse my dear Aunt Sally.
+please pdc excusing obj cousin-being * sbj me pdc dear-holding fullstop ie name{ Sally }
+shuaij e ote iu jebap ped bu bas e gizeid up aus pi Sally id
