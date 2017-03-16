@@ -1,12 +1,12 @@
-#Djastiz
+# Djastiz
 
 So, you want to speak a better and less biased version of Esperanto. How do you do that? By speaking Djastiz, that's how! What's Djastiz? It's a basic, unambiguous, non-redundant language that I invented. Here's how it works.
 
-##Grammar
+## Grammar
 
 The grammar of Djastiz is designed to be nearly unambiguous and minimally redundant. As such, there are far more grammar tokens than in other languages. The primary advantage of this structure is increased control over which information is included and excluded. However, it can seem overwhelming at first. Worry not! Every Djastiz sentence can be broken down into several basic parts.
 
-###Punctuation markers
+### Punctuation markers
 
 Every full sentence in Djastiz starts with a _punctuation marker_. There are nine of them, and each creates a fundamentally different kind of sentence.
 - `poj` is the _declarative_ punctuation marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the speaker.
@@ -21,7 +21,7 @@ Every full sentence in Djastiz starts with a _punctuation marker_. There are nin
 
 In addition to labelling the type of sentence, the punctuation marker acts as the sentence's opening bracket. The sentence can be ended by the fullstop token, `up`, by the punctuation marker of the next sentence, or just with the silence after a person stops talking. Between these tokens lies the meat of the sentence: a list of _prepositional phrases_.
 
-###Prepositional phrases
+### Prepositional phrases
 
 Every prepositional phrase describes one aspect of the event described by the sentence, and comprises two parts: the _preposition_ and the _complement_, which is a _noun phrase_. The preposition specifies what aspect of the sentence is being described, and the complement describes that aspect. There are two types of preposition.
 
@@ -44,7 +44,7 @@ _Adjunctive prepositions_, by contrast, are always applicable, and can be used m
 - `jeu` denotes the extent or quantity of the action. This can be a number or another noun to be compared against.
 - `kush` denotes the hypothetical conditions surrounding the action (very similar to English's "if").
 
-###Noun phrases
+### Noun phrases
 
 Noun phrases are the primary building blocks with which one describes complex concepts. There are four primary ways to construct these.
 
@@ -59,7 +59,7 @@ The fourth way is _pronouns_, which function exactly as nouns do, but with meani
 
 Noun phrases can also technically be created with _conjunctions_, but then, so can prepositional phrases and modifiers. I'll explain those in a different paragraph.
 
-###Modifiers
+### Modifiers
 
 Modifiers are great ways to expand and enhance the meanings of nouns. There are several types of modifiers for uses in different contexts.
 
@@ -87,7 +87,7 @@ For fastener constructions that are too common to warrant even a fastener, there
 
 I guess _prefixes_ could be counted as a fourth kind of modifier, but they're pretty different, so I discuss them in &#167;2.1.
 
-###Conjunctions
+### Conjunctions
 
 The last major grammatical structure to be discussed here is the conjunction. Conjunctions are a small class of diverse words that transform phrases or sets of phrases. While they share some similarities, the three conjunctions are different enough that I might as well explain each separately.
 
@@ -97,7 +97,7 @@ The second conjunction may be more difficult to understand for English speakers.
 
 The final conjunction has no analog in English. `pi`-`id` constructions act similarly to `aj`-`id` constructions, but rather than describing the syllables contained between the `pi` and `id`, it describes the object named by said syllables. Whenever one wants to discuss a person, country, book, or corporation `pi` and `id` must be used so as not to confuse the named object with the literal meaning of the name.
 
-###Special words
+### Special words
 
 Most of the words discussed thus far have fallen into categories and followed simple rules. We now discuss a few of the more unique words that do not accept labels so easily.
 
@@ -111,11 +111,11 @@ Numbers can also be considered a special word in that they concatenate with each
 
 `je` is Djastiz's only contraction. It is short for `ju ped e`, and serves a very specific purpose. When `je` is followed by a single noun (note that modifiers and clauses may not be used here) and preposition, the phrase reads as `ju ped e`, the noun, the preposition, `sob up`. It is extremely useful for describing professions and objects associated with actions. For example, while Djastiz has no single word for "customer", `je pipez bu` works just fine. Note that while `je` is derived from `ju ped e`, they do not mean the same thing, as `je` also contains the `sob up` after the noun and preposition.
 
-##Vocabulary
+## Vocabulary
 
 In the grammar section, we defined every word in the language save two groups: nouns and prefixes. Prefixes will be defined in a bit, but there are far too many nouns to list here - hundreds upon hundreds. Instead, I will lay out the tools to interpret new nouns and create one's own when necessary.
 
-###Types of nouns
+### Types of nouns
 
 While all nouns behave the same way grammatically, an English-speaker perusing the list may believe that some do not belong under the category "nouns". To acknowledge the discrepancy between my and English's definition of "noun", I now explain the different kinds of nouns one might encounter and how they work.
 
@@ -125,7 +125,7 @@ Next, there are nouns like `idauz` and `ditab`, which describe actions. "Actions
 
 The third largest group of nouns is things along the lines of `pubuk` and `doziz`. These words describe qualities of objects and states, which seems okay to most English-speakers, but something must be said of the combination of these words with `e`. When a sentence contains a predicate that represents a quality of an object, it means that the subject possesses that quality, either to the extent designated by the `jeu` complement or to some implied high extent.
 
-###Prefixes
+### Prefixes
 
 While the existing nouns can describe a great many concepts and contexts given the rules outlined above, one will very frequently need words that are related to but different from existing words. One can describe a hot pan with `jaiedtuze dik pubuk`, for example, but how does one describe a cold pan? With `jaiedtuze dik iatpubuk`, of course! `iatpubuk` is an _expansion_ of `pubuk`, accomplished through the prefix `iat`. Prefixes modify words by preceding them and thus changing the meaning in some simple fashion. There are six of them.
 - `zoj` changes a word to mean anything but its original meaning.
@@ -134,23 +134,24 @@ While the existing nouns can describe a great many concepts and contexts given t
 - `peig` changes a word to encompass a range of meanings similar to its original meaning.
 - `guis` changes a word to refer to the maximum possible state of its original meaning.
 - `tius` changes a word to denote the action or concept associated with its original meaning becoming true. For example, since `ozi` means "altitude", `tiusozi` means "rising".
+
 Note that applying a prefix to a word creates a new word, not a phrase, and prefixes may not modify other prefixes. Therefore, any chain of prefixes should be evaluated last-first.
 
-###Compound words
+### Compound words
 
 In addition to the basic words, both found in the dictionary and created by combining those with prefixes, there are thousands of _compound words_. Compound words are formed by simply combining two preexisting words. The meaning is closest to the first word, with the second word providing additional detail. Don't go thinking you can just slap any two words together willy-nilly, though! Compound words are an elite sect, and new ones can only be created with the consent of the entire Djastiz-speaking population (me). There is a list of existing compound words available for use; I just haven't written it out. Therefore, simply exercise your best judgement to decide when a compound word is probably appropriate.
 
-###Technical nouns
+### Technical nouns
 
 It is a common practice among English-speaking practitioners of technical fields to, whenever a new phenomenon or concept is discovered or invented, simply take a word from colloquial English that describes it approximately and ascribe it a new, more specific and technical meaning. A fabulous example is, in physics, the concept of power, the time-derivative of energy ("derivative" and "energy" being two similarly defined words). Its meaning is somewhat similar to the colloquial meaning of "power", but really, the colloquial meaning of "power" is more accurately described as "control" or "chaos". This practice is called _overloading_, and I avoid it as much as possible.
 
 Instead of forcing said practitioners to reuse words, Djastiz contains a cache of some 100,000 words specifically set aside for such usage. If you are a practitioner of a technical field and feel that a technical concept requires a word (or even if you think I missed a non-technical word), by all means, submit a pull-request! One person is not enough to fill this part of the dictionary.
 
-###Causation and transitivity
+### Causation and transitivity
 
 It must be noted that, while in English, verbs often have multiple meanings for varying levels of transitivity (for example, the word "break" can mean either "to fall apart" or "to cause something else to fall apart"), in Djastiz, only the least transitive forms receive words. To describe a person causing something else to break, one must explicitly say, `poj e kepo iu kit e egai`. The purpose of this is to reduce ambiguity and redundancy. Two meanings are not necessary for this phenomenon, nor are two words. Furthermore, it prevents the occurrence of tritransitive and even potentially tetratransitive sentences (what if I were to mind-control your dog into forcing a child into making a vase break the plant inside it?), which would cause us to run out of argumentative prepositions. Therefore, if the transitivity of a Djastiz noun is unclear, always assume it to be as low as would make sense.
 
-##Writing and pronunciation
+## Writing and pronunciation
 
 Djastiz has a relatively simple written language. It uses a phonetic alphabet, and is written top-to-bottom, then left-to-right. There are 15 letters:
 - `id` is Romanized "i" and pronounced 'i' in the [IPA][1].
@@ -168,6 +169,7 @@ Djastiz has a relatively simple written language. It uses a phonetic alphabet, a
 - `zai` is Romanized "z" and pronounced 'z' in the [IPA][1].
 - `shau` is Romanized "sh" and pronounced '&#643;' in the [IPA][1].
 - `ju` is Romanized "j" and pronounced '&#658;' in the [IPA][1].
+
 The actual Djastiz character for each of these in svg format can be found in the "written language" folder of this repository. While there are no punctuation letter in Djastiz, words are separated by spaces of the same height as a letter. Compound words and expansions are single words and therefore do not contain spaces.
 
 [1]: http://www.internationalphoneticalphabet.org/ "International Phonetic Alphabet"
