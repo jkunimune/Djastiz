@@ -20,6 +20,8 @@ def load_dictionary(directory):
 					english = english[:english.index('(')-1]
 				else:
 					note = None
+				if len(english) == 0 or len(djastiz) == 0:
+					raise ValueError("I think you forgot something, Justin: '{}', `{}`".format(english, djastiz))
 				if english in eng_to_dja:
 					raise ValueError("There are two words for '{}'".format(english))
 				if djastiz in dja_to_eng:

@@ -8,7 +8,19 @@ pioip e ote
 
 Thank you.
 . pdc grateful-feeling
-poj e toije
+poj e tobi
+
+You're welcome.
+. with me
+poj og bas
+
+Sorry.
+. pdc sorry-feeling
+poj e ake
+
+No problem.
+. with me
+poj og bas
 
 I don't speak this language very well.
 ! pdc saying in very rate
@@ -60,11 +72,11 @@ daid pi Christmas id
 
 How are you?
 ? than what pdc health
-zad jau sob e pegug
+zad jau sob e oio
 
 I am well.
 . pdc health
-poj e pegug
+poj e oio
 
 My name is Claude.
 . obj name{ Bloo }

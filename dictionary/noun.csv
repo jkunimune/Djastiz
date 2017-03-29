@@ -1,8 +1,10 @@
 yes,kaup
 no,dueg
 excusing,ote
+sorry-feeling,ake
 being,ezo
 person,opu
+health,oio
 radius (outside-inside),etu
 posessing,use
 altitude,ozi
@@ -26,13 +28,12 @@ multiplicity,aui
 active-perceiving,aie
 passive-perceiving,asu
 morality,ipo
-skillfulness,ake
-aptitude,oio
+skillfulness,atas
+aptitude (fitting a situation well),pegug
 effectiveness,tojot
 exceeding,jidiz
 year,ibish
 giving,tisid
-health,pegug
 working,suzus
 using,uebeb
 light,oshiz
@@ -77,7 +78,7 @@ emotion,beuog
 jostling (moving in place),oiap
 troubling,badob
 puzzel,jopib
-writing,debag
+writing (etching symbols into something; recording something in a physical object),debag
 size,kiju
 attempting (trying),odeij
 abandoning,toshap
@@ -132,7 +133,7 @@ money,gobob
 fact,popeb
 region,keshush
 name,jape
-reading,kasok
+reading (parsing symbols into words with one's eyes),kasok
 friend,pusheu
 month,ojeut
 information,goku
@@ -148,7 +149,7 @@ holding,eubop
 servicing,bokis
 selling,iubu
 second,gabos
-loving,kapoz
+loving (romantically),kapoz
 employing,dodiz
 planning,koiu
 causing,kepo
@@ -159,10 +160,10 @@ business-openness,ashiob
 instructing,tizi
 following,pago
 understanding,uidoj
-grateful-feeling,toije
+grateful-feeling,tobi
 hour,gebesh
 face,peuip
-hoping,tobi
+hoping,toije
 thinking-of,jaget
 cost,zupes
 outdoorsness,saige
@@ -370,8 +371,6 @@ bearing (mathematical convention with object being origin),uiep
 corresponding (relating - not writing),jujak
 spring (the season),ebueg
 summer,supu
-autumn,atas
-winter,getoz
 imploring,asoup
 butt,oigut
 leg,pipeu
@@ -724,6 +723,7 @@ blackberry,shuodai
 blueberry,egieish
 raspberry,doitit
 potato,bueubak
+taro,jeiseg
 lettuce,kisoid
 cauliflower,boidush
 asparagus,gaisios
@@ -743,6 +743,7 @@ bean,jieshag
 soybean,guzeug
 canola,boutus
 maize,kiashat
+tofu,teisaish
 bamboo,keigus
 mushroom,goibej
 mold,kiduash
@@ -752,12 +753,12 @@ spam,uoijub
 chocolate,kiteis
 wound-suffering,siasesh
 summoning,shoteip
-politeness,jeiseg
-fame,teisaish
+politeness,getoz
+fame,iazais
 element (water earth fire air etc.),jousaj
-blade,shopoud
+slicing,shopoud
 claw (of the sharp variety),jeioip
-stabbing,babais
+stabbing (puncturing),babais
 bewaring,dakoij
 sex-having,kepoush
 anger,daishous
@@ -810,3 +811,17 @@ purity,kadois
 entertaining (as in a movie or play or skit),duigod
 tolerating,geuzeu
 attention-paying,poushuj
+code-writing,dusaus
+wearing-and-tearing,boubaib
+resisting,bieudi
+downstreamness (combine it with `tius` to get 'flowing'),tudoij
+cloud,augaip
+polluting,zaudaub
+weather (atmosphere),peijat
+floating,zejuaug
+parsing (interpreting information recorded in a physical object),zitoit
+waving (a hand or a flag),tutaub
+gesturing,ketout
+prosperity,zeusai
+meme,shaikei
+internet,iupiet

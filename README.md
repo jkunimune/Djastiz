@@ -173,3 +173,10 @@ Djastiz has a relatively simple written language. It uses a phonetic alphabet, a
 The actual Djastiz character for each of these in svg format can be found in the "written language" folder of this repository. While there are no punctuation letter in Djastiz, words are separated by spaces of the same height as a letter. Compound words and expansions are single words and therefore do not contain spaces.
 
 [1]: http://www.internationalphoneticalphabet.org/ "International Phonetic Alphabet"
+
+## Gesturing
+
+Hello
+
+Goodbye
+

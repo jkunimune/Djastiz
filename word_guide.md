@@ -57,7 +57,7 @@
 <dd><i>noun-technical</i>	<b>physics.capacitance</b></dd>
 
 <dt>ake</dt>
-<dd><i>noun</i>	<b>skillfulness</b></dd>
+<dd><i>noun</i>	<b>sorry-feeling</b></dd>
 
 <dt>akeik</dt>
 <dd><i>noun</i>	<b>amount</b></dd>
@@ -108,7 +108,7 @@
 <dd><i>noun</i>	<b>calling</b>; digital</dd>
 
 <dt>atas</dt>
-<dd><i>noun</i>	<b>autumn</b></dd>
+<dd><i>noun</i>	<b>skillfulness</b></dd>
 
 <dt>ateiz</dt>
 <dd><i>noun</i>	<b>containing</b></dd>
@@ -127,6 +127,9 @@
 
 <dt>auet</dt>
 <dd><i>noun</i>	<b>plecaniforme</b>; pelicans and similar things</dd>
+
+<dt>augaip</dt>
+<dd><i>noun</i>	<b>cloud</b></dd>
 
 <dt>augok</dt>
 <dd><i>noun</i>	<b>dog</b>; also describes wolves dingoes and foxes</dd>
@@ -162,7 +165,7 @@
 <dd><i>noun</i>	<b>reaching</b></dd>
 
 <dt>babais</dt>
-<dd><i>noun</i>	<b>stabbing</b></dd>
+<dd><i>noun</i>	<b>stabbing</b>; puncturing</dd>
 
 <dt>badiz</dt>
 <dd><i>noun</i>	<b>winning</b></dd>
@@ -251,6 +254,9 @@
 <dt>bidou</dt>
 <dd><i>noun</i>	<b>scalidophora</b>; mud-dwelling tiny aquatic things</dd>
 
+<dt>bieudi</dt>
+<dd><i>noun</i>	<b>resisting</b></dd>
+
 <dt>bigab</dt>
 <dd><i>noun</i>	<b>housing</b></dd>
 
@@ -295,6 +301,9 @@
 
 <dt>boteg</dt>
 <dd><i>noun</i>	<b>position</b>; physical state</dd>
+
+<dt>boubaib</dt>
+<dd><i>noun</i>	<b>wearing-and-tearing</b></dd>
 
 <dt>bougob</dt>
 <dd><i>noun</i>	<b>tomato</b></dd>
@@ -381,7 +390,7 @@
 <dd><i>noun</i>	<b>strawberry</b></dd>
 
 <dt>debag</dt>
-<dd><i>noun</i>	<b>writing</b></dd>
+<dd><i>noun</i>	<b>writing</b>; etching symbols into something; recording something in a physical object</dd>
 
 <dt>degek</dt>
 <dd><i>noun</i>	<b>revolving</b></dd>
@@ -509,6 +518,9 @@
 <dt>dusas</dt>
 <dd><i>noun</i>	<b>rotating</b></dd>
 
+<dt>dusaus</dt>
+<dd><i>noun</i>	<b>code-writing</b></dd>
+
 <dt>duset</dt>
 <dd><i>noun</i>	<b>tardigrade</b></dd>
 
@@ -544,6 +556,9 @@
 
 <dt>egai</dt>
 <dd><i>noun</i>	<b>breaking</b></dd>
+
+<dt>egezo</dt>
+<dd><i>noun-technical</i>	<b>physics.simple-harmonic-motion</b></dd>
 
 <dt>egieish</dt>
 <dd><i>noun</i>	<b>blueberry</b></dd>
@@ -765,7 +780,7 @@
 <dd><i>noun</i>	<b>ceremony-participating</b></dd>
 
 <dt>getoz</dt>
-<dd><i>noun</i>	<b>winter</b></dd>
+<dd><i>noun</i>	<b>politeness</b></dd>
 
 <dt>geua</dt>
 <dd><i>noun</i>	<b>pseudoscorpion</b></dd>
@@ -916,6 +931,9 @@
 
 <dt>iat</dt>
 <dd><i>prefix</i>	<b>un</b>; opposite</dd>
+
+<dt>iazais</dt>
+<dd><i>noun</i>	<b>fame</b></dd>
 
 <dt>ibak</dt>
 <dd><i>noun</i>	<b>comprising</b></dd>
@@ -1088,6 +1106,9 @@
 <dt>iuoish</dt>
 <dd><i>noun</i>	<b>scorpion</b></dd>
 
+<dt>iupiet</dt>
+<dd><i>noun</i>	<b>internet</b></dd>
+
 <dt>iushish</dt>
 <dd><i>noun</i>	<b>bread</b></dd>
 
@@ -1176,7 +1197,7 @@
 <dd><i>noun</i>	<b>claw</b>; of the sharp variety</dd>
 
 <dt>jeiseg</dt>
-<dd><i>noun</i>	<b>politeness</b></dd>
+<dd><i>noun</i>	<b>taro</b></dd>
 
 <dt>jejaz</dt>
 <dd><i>noun</i>	<b>deal-striking</b></dd>
@@ -1296,13 +1317,13 @@
 <dd><i>noun</i>	<b>rate</b></dd>
 
 <dt>kapoz</dt>
-<dd><i>noun</i>	<b>loving</b></dd>
+<dd><i>noun</i>	<b>loving</b>; romantically</dd>
 
 <dt>kashish</dt>
 <dd><i>noun</i>	<b>curve</b>; any smooth path</dd>
 
 <dt>kasok</dt>
-<dd><i>noun</i>	<b>reading</b></dd>
+<dd><i>noun</i>	<b>reading</b>; parsing symbols into words with one's eyes</dd>
 
 <dt>kauo</dt>
 <dd><i>noun</i>	<b>front-backness</b></dd>
@@ -1336,6 +1357,9 @@
 
 <dt>ketop</dt>
 <dd><i>noun</i>	<b>9</b></dd>
+
+<dt>ketout</dt>
+<dd><i>noun</i>	<b>gesturing</b></dd>
 
 <dt>keuda</dt>
 <dd><i>noun</i>	<b>bitterness</b></dd>
@@ -1476,7 +1500,7 @@
 <dd><i>noun</i>	<b>butt</b></dd>
 
 <dt>oio</dt>
-<dd><i>noun</i>	<b>aptitude</b></dd>
+<dd><i>noun</i>	<b>health</b></dd>
 
 <dt>oitik</dt>
 <dd><i>noun</i>	<b>bee</b></dd>
@@ -1638,10 +1662,13 @@
 <dd><i>punctuation</i>	<b>*</b>; modifier clause</dd>
 
 <dt>pegug</dt>
-<dd><i>noun</i>	<b>health</b></dd>
+<dd><i>noun</i>	<b>aptitude</b>; fitting a situation well</dd>
 
 <dt>peig</dt>
 <dd><i>prefix</i>	<b>about</b>; approximation</dd>
+
+<dt>peijat</dt>
+<dd><i>noun</i>	<b>weather</b>; atmosphere</dd>
 
 <dt>peioj</dt>
 <dd><i>noun</i>	<b>salp</b></dd>
@@ -1850,6 +1877,9 @@
 <dt>shaigu</dt>
 <dd><i>noun</i>	<b>pangolin</b></dd>
 
+<dt>shaikei</dt>
+<dd><i>noun</i>	<b>meme</b></dd>
+
 <dt>shakip</dt>
 <dd><i>noun</i>	<b>loop</b></dd>
 
@@ -1962,7 +1992,7 @@
 <dd><i>noun</i>	<b>jungle</b></dd>
 
 <dt>shopoud</dt>
-<dd><i>noun</i>	<b>blade</b></dd>
+<dd><i>noun</i>	<b>slicing</b></dd>
 
 <dt>shos</dt>
 <dd><i>fastener</i>	<b>whichone</b>; describes a specific instance</dd>
@@ -2157,7 +2187,7 @@
 <dd><i>noun</i>	<b>socializing</b></dd>
 
 <dt>teisaish</dt>
-<dd><i>noun</i>	<b>fame</b></dd>
+<dd><i>noun</i>	<b>tofu</b></dd>
 
 <dt>tejos</dt>
 <dd><i>noun</i>	<b>shell</b></dd>
@@ -2220,13 +2250,13 @@
 <dd><i>conjunction</i>	<b>both{</b></dd>
 
 <dt>tobi</dt>
-<dd><i>noun</i>	<b>hoping</b></dd>
+<dd><i>noun</i>	<b>grateful-feeling</b></dd>
 
 <dt>toguk</dt>
 <dd><i>noun</i>	<b>paint</b></dd>
 
 <dt>toije</dt>
-<dd><i>noun</i>	<b>grateful-feeling</b></dd>
+<dd><i>noun</i>	<b>hoping</b></dd>
 
 <dt>toiot</dt>
 <dd><i>noun</i>	<b>eel</b></dd>
@@ -2273,6 +2303,9 @@
 <dt>tudi</dt>
 <dd><i>noun</i>	<b>pig</b></dd>
 
+<dt>tudoij</dt>
+<dd><i>noun</i>	<b>downstreamness</b>; combine it with `tius` to get 'flowing'</dd>
+
 <dt>tugag</dt>
 <dd><i>noun</i>	<b>activeness</b>; not lazy</dd>
 
@@ -2284,6 +2317,9 @@
 
 <dt>tupuj</dt>
 <dd><i>noun</i>	<b>sugar</b></dd>
+
+<dt>tutaub</dt>
+<dd><i>noun</i>	<b>waving</b>; a hand or a flag</dd>
 
 <dt>tuzak</dt>
 <dd><i>noun</i>	<b>sea-cow</b>; like manatees</dd>
@@ -2522,6 +2558,9 @@
 <dt>zauap</dt>
 <dd><i>noun</i>	<b>actuality</b></dd>
 
+<dt>zaudaub</dt>
+<dd><i>noun</i>	<b>polluting</b></dd>
+
 <dt>zazes</dt>
 <dd><i>noun</i>	<b>arm</b></dd>
 
@@ -2543,6 +2582,9 @@
 <dt>zejei</dt>
 <dd><i>noun</i>	<b>neuroptera</b>; lacewings antlions owlflies and more</dd>
 
+<dt>zejuaug</dt>
+<dd><i>noun</i>	<b>floating</b></dd>
+
 <dt>zepuj</dt>
 <dd><i>noun</i>	<b>defending</b></dd>
 
@@ -2557,6 +2599,9 @@
 
 <dt>zeujish</dt>
 <dd><i>noun</i>	<b>orange</b>; fruit</dd>
+
+<dt>zeusai</dt>
+<dd><i>noun</i>	<b>prosperity</b></dd>
 
 <dt>ziba</dt>
 <dd><i>noun</i>	<b>mantid</b></dd>
@@ -2575,6 +2620,9 @@
 
 <dt>zipez</dt>
 <dd><i>noun</i>	<b>robing</b></dd>
+
+<dt>zitoit</dt>
+<dd><i>noun</i>	<b>parsing</b>; interpreting information recorded in a physical object</dd>
 
 <dt>zitu</dt>
 <dd><i>noun</i>	<b>organization</b></dd>
