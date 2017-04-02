@@ -258,7 +258,7 @@
 <dd><i>noun</i>	<b>resisting</b></dd>
 
 <dt>bigab</dt>
-<dd><i>noun</i>	<b>housing</b></dd>
+<dd><i>noun</i>	<b>residing</b>; as in at an address or in a house</dd>
 
 <dt>bigij</dt>
 <dd><i>noun</i>	<b>system</b></dd>
@@ -597,7 +597,7 @@
 <dd><i>noun</i>	<b>armadillo</b></dd>
 
 <dt>eitu</dt>
-<dd><i>noun</i>	<b>living</b></dd>
+<dd><i>noun</i>	<b>alive-being</b></dd>
 
 <dt>eiugo</dt>
 <dd><i>noun-technical</i>	<b>math.ellipsoid</b></dd>
@@ -839,6 +839,9 @@
 <dt>godai</dt>
 <dd><i>noun</i>	<b>flexing</b></dd>
 
+<dt>godauj</dt>
+<dd><i>noun</i>	<b>living</b>; as in living a life</dd>
+
 <dt>gogez</dt>
 <dd><i>noun</i>	<b>particularness</b></dd>
 
@@ -901,6 +904,9 @@
 
 <dt>gukuz</dt>
 <dd><i>noun</i>	<b>science</b>; experimentation and learning</dd>
+
+<dt>gupoush</dt>
+<dd><i>noun</i>	<b>self</b></dd>
 
 <dt>gupuk</dt>
 <dd><i>noun</i>	<b>covering</b>; physical</dd>
@@ -1207,6 +1213,9 @@
 
 <dt>jes</dt>
 <dd><i>article</i>	<b>the</b>; previously mentioned</dd>
+
+<dt>jeseiz</dt>
+<dd><i>noun</i>	<b>locking</b></dd>
 
 <dt>jesesh</dt>
 <dd><i>noun</i>	<b>ease</b></dd>
@@ -2240,6 +2249,9 @@
 <dt>tisid</dt>
 <dd><i>noun</i>	<b>giving</b></dd>
 
+<dt>tiujij</dt>
+<dd><i>noun</i>	<b>fance</b></dd>
+
 <dt>tius</dt>
 <dd><i>prefix</i>	<b>derivative</b>; concept of becoming</dd>
 
@@ -2602,6 +2614,9 @@
 
 <dt>zeusai</dt>
 <dd><i>noun</i>	<b>prosperity</b></dd>
+
+<dt>ziajoik</dt>
+<dd><i>noun</i>	<b>technicality</b>; a person who is not a layperson</dd>
 
 <dt>ziba</dt>
 <dd><i>noun</i>	<b>mantid</b></dd>

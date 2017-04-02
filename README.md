@@ -153,7 +153,7 @@ It must be noted that, while in English, verbs often have multiple meanings for 
 
 ## Writing and pronunciation
 
-Djastiz has a relatively simple written language. It uses a phonetic alphabet, and is written top-to-bottom, then left-to-right. There are 15 letters:
+Djastiz has a relatively simple written language. It uses a phonetic alphabet, and is written top-to-bottom, then left-to-right. There are 15 letters.
 - `id` is Romanized "i" and pronounced 'i' in the [IPA][1].
 - `e` is Romanized "e" and pronounced '&#603;' in the [IPA][1].
 - `aj` is Romanized "a" and pronounced '&#592;' in the [IPA][1].
@@ -167,16 +167,21 @@ Djastiz has a relatively simple written language. It uses a phonetic alphabet, a
 - `bu` is Romanized "b" and pronounced 'b' in the [IPA][1].
 - `si` is Romanized "s" and pronounced 's' in the [IPA][1].
 - `zai` is Romanized "z" and pronounced 'z' in the [IPA][1].
-- `shau` is Romanized "sh" and pronounced '&#643;' in the [IPA][1].
+- `shau` is Romanized "sh" or "c" and pronounced '&#643;' in the [IPA][1].
 - `ju` is Romanized "j" and pronounced '&#658;' in the [IPA][1].
 
 The actual Djastiz character for each of these in svg format can be found in the "written language" folder of this repository. While there are no punctuation letter in Djastiz, words are separated by spaces of the same height as a letter. Compound words and expansions are single words and therefore do not contain spaces.
 
 [1]: http://www.internationalphoneticalphabet.org/ "International Phonetic Alphabet"
 
-## Gesturing
+## Gestures
 
-Hello
-
-Goodbye
-
+Like any self-respecting language, Djastiz comes with a variety of gestures to express common sayings or feelings without the need to use one's voice. The most common are as follows.
+- When greeting someone, hold your hand in front of you and rub your forefinger and thumb or middle finger and thumb up and down.
+- When bidding someone farewell, wave one or both arms up and down in front of you. Optionally, apply a wave effect to the arm motion that moves away from you. If using both arms, make sure to alternate them so as to give the impression of an octopus.
+- When answering in the affirmative, display the back of your hand and splay the fingers.
+- When answering in the negative, face your palm to the floor and gently shake the hand back and forth, holding it at a constant height.
+- To display joy or excitement, hold your arm straight up with a clenched fist.
+- To display sadness or disappointment, press a clenched fist into an open palm.
+- To display approval or appreciation toward a person, place your palms together and slide the top hand forward, off of the bottom one.
+- To display disapproval or depreciation toward a person, point at them with two fingers and wag the fingers up and down in opposition to one another.

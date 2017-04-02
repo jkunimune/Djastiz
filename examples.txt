@@ -24,7 +24,7 @@ poj shok iat esos bu sijid shug uioush e jusek
 
 I recommend eating a pomegranite at least once in your life.
 . pdc recommending ; at time * at living fullstop howmany 1 pdc eating obj pomegranite fullstop
-poj e shijash kit shok odo ped shok eitu up aub toza e ukiaj iu poijaish up
+poj e shijash kit shok odo ped shok godauj up aub toza e ukiaj iu poijaish up
 
 Commonly, a map projection is a systematic transformation of the latitudes and longitudes of locations on the surface of a sphere or an ellipsoid into locations on a plane.
 . at frequency sbj "{ math.map-projection } obj jupede process-undergoing obj * via what pdc transforming obj both{ latitude and longitude } whichone both{ sphere and math.ellipsoid } any to location whatkind math.plane fullstop a
