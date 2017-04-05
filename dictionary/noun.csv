@@ -4,17 +4,17 @@ excusing,ote
 sorry-feeling,ake
 being,ezo
 person,opu
-health,oio
+prosperity,oio
 radius (outside-inside),etu
 posessing,use
 altitude,ozi
 doing,iku
 time (t = 13.7),odo
-moment (5 years from now),ige
-saying,ojo
+moment (e.g. 5 years from now),ige
+saying (using a declarative sentence),ojo
 going (from one place to another),ugi
 relating (to),uka
-enabling,aba
+able-being,aba
 location,ashe
 knowing,euo
 obtaining,osa
@@ -22,12 +22,13 @@ liking,ija
 computing,edi
 believing,ebe
 creating,udu
-length,uia
+length (distance),uia
 forcing,ize
-multiplicity,aui
+causing,aui
 active-perceiving,aie
 passive-perceiving,asu
-morality,ipo
+toward (creates compound words with states to convert them to transitions),ipo
+morality,aidop
 skillfulness,atas
 aptitude (fitting a situation well),pegug
 effectiveness,tojot
@@ -39,7 +40,7 @@ using,uebeb
 light,oshiz
 appearing,shosib
 wanting,bezop
-allowing,gebei
+allowing (permission-giving),gebei
 willingness,adak
 order (index in a list),tibed
 age,kidash
@@ -82,14 +83,14 @@ writing (etching symbols into something; recording something in a physical objec
 size,kiju
 attempting (trying),odeij
 abandoning,toshap
-amount,akeik
+amount (multiplicity),akeik
 assigning,iapiu
 owning,ujis
 comprising,ibak
 pointing,aujod
 helping,jatid
 rescuing,jajuz
-asking,shudaj
+asking (a question),shudaj
 meeting,sosu
 initiating,odut
 come to be,shijos
@@ -152,7 +153,6 @@ second,gabos
 loving (romantically),kapoz
 employing,dodiz
 planning,koiu
-causing,kepo
 distance,itash
 example,ipaj
 offering (suggesting),jidud
@@ -257,7 +257,6 @@ body,tedag
 requiring,ieguj
 waiting,idauz
 generalizing,jadi
-towardness,aidop
 up-teaming,dudij
 individuality,pushuj
 fullness,kibib
@@ -371,7 +370,7 @@ bearing (mathematical convention with object being origin),uiep
 corresponding (relating - not writing),jujak
 spring (the season),ebueg
 summer,supu
-imploring,asoup
+imploring (using an imperative sentence),asoup
 butt,oigut
 leg,pipeu
 torso,teujo
@@ -658,7 +657,7 @@ chiton,uitag
 monoplacophora (a type of molosk),akieg
 snail,ubiu
 slug,zopiud
-nautiloid,giushuk
+nautiloid,kepo
 decapodiforme (includes squid and cuttlefish),gueposh
 vampiresquid,jabiut
 octopus,shoited
@@ -743,6 +742,9 @@ bean,jieshag
 soybean,guzeug
 canola,boutus
 maize,kiashat
+nutmeg,pazeut
+coffee,zezout
+cinnamon,tedaus
 tofu,teisaish
 bamboo,keigus
 mushroom,goibej
@@ -822,11 +824,17 @@ floating,zejuaug
 parsing (interpreting information recorded in a physical object),zitoit
 waving (a hand or a flag),tutaub
 gesturing,ketout
-prosperity,zeusai
+health,zeusai
 meme,shaikei
 internet,iupiet
 self,gupoush
 fance,tiujij
 locking,jeseiz
 living (as in living a life),godauj
-technicality (a person who is not a layperson),ziajoik
+expertness (a person who is not a layperson),ziajoik
+obviousness,taiboj
+talking (forming words with one's voice),saijez
+literalness,piesaz
+technicality,doshoig
+sesquipedalianness,poitoik
+lying (deceiving),baupud

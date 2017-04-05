@@ -1,6 +1,6 @@
 <dl>
 <dt>aba</dt>
-<dd><i>noun</i>	<b>enabling</b></dd>
+<dd><i>noun</i>	<b>able-being</b></dd>
 
 <dt>abosh</dt>
 <dd><i>noun</i>	<b>sibling-being</b></dd>
@@ -24,7 +24,7 @@
 <dd><i>noun-technical</i>	<b>physics.force</b></dd>
 
 <dt>aidop</dt>
-<dd><i>noun</i>	<b>towardness</b></dd>
+<dd><i>noun</i>	<b>morality</b></dd>
 
 <dt>aie</dt>
 <dd><i>noun</i>	<b>active-perceiving</b></dd>
@@ -60,7 +60,7 @@
 <dd><i>noun</i>	<b>sorry-feeling</b></dd>
 
 <dt>akeik</dt>
-<dd><i>noun</i>	<b>amount</b></dd>
+<dd><i>noun</i>	<b>amount</b>; multiplicity</dd>
 
 <dt>akieg</dt>
 <dd><i>noun</i>	<b>monoplacophora</b>; a type of molosk</dd>
@@ -96,7 +96,7 @@
 <dd><i>noun</i>	<b>flavor</b></dd>
 
 <dt>asoup</dt>
-<dd><i>noun</i>	<b>imploring</b></dd>
+<dd><i>noun</i>	<b>imploring</b>; using an imperative sentence</dd>
 
 <dt>asoush</dt>
 <dd><i>noun</i>	<b>reptile</b></dd>
@@ -135,7 +135,7 @@
 <dd><i>noun</i>	<b>dog</b>; also describes wolves dingoes and foxes</dd>
 
 <dt>aui</dt>
-<dd><i>noun</i>	<b>multiplicity</b></dd>
+<dd><i>noun</i>	<b>causing</b></dd>
 
 <dt>aujak</dt>
 <dd><i>noun</i>	<b>disease-having</b></dd>
@@ -202,6 +202,9 @@
 
 <dt>basis</dt>
 <dd><i>noun</i>	<b>flash</b>; also applies to sound and other sensations</dd>
+
+<dt>baupud</dt>
+<dd><i>noun</i>	<b>lying</b>; deceiving</dd>
 
 <dt>baushauk</dt>
 <dd><i>noun</i>	<b>eukaryote</b></dd>
@@ -475,6 +478,9 @@
 
 <dt>doses</dt>
 <dd><i>noun</i>	<b>milk</b></dd>
+
+<dt>doshoig</dt>
+<dd><i>noun</i>	<b>technicality</b></dd>
 
 <dt>dosij</dt>
 <dd><i>noun</i>	<b>acarus</b>; mites and ticks</dd>
@@ -750,7 +756,7 @@
 <dd><i>noun</i>	<b>spinach</b></dd>
 
 <dt>gebei</dt>
-<dd><i>noun</i>	<b>allowing</b></dd>
+<dd><i>noun</i>	<b>allowing</b>; permission-giving</dd>
 
 <dt>gebesh</dt>
 <dd><i>noun</i>	<b>hour</b></dd>
@@ -817,9 +823,6 @@
 
 <dt>giues</dt>
 <dd><i>noun</i>	<b>hoatzin</b>; some weird kind of bird</dd>
-
-<dt>giushuk</dt>
-<dd><i>noun</i>	<b>nautiloid</b></dd>
 
 <dt>gizeid</dt>
 <dd><i>noun</i>	<b>dear-holding</b></dd>
@@ -996,7 +999,7 @@
 <dd><i>noun</i>	<b>becoming</b></dd>
 
 <dt>ige</dt>
-<dd><i>noun</i>	<b>moment</b>; 5 years from now</dd>
+<dd><i>noun</i>	<b>moment</b>; e.g. 5 years from now</dd>
 
 <dt>igib</dt>
 <dd><i>noun</i>	<b>dividing</b></dd>
@@ -1044,7 +1047,7 @@
 <dd><i>noun</i>	<b>example</b></dd>
 
 <dt>ipo</dt>
-<dd><i>noun</i>	<b>morality</b></dd>
+<dd><i>noun</i>	<b>toward</b>; creates compound words with states to convert them to transitions</dd>
 
 <dt>ipoug</dt>
 <dd><i>noun</i>	<b>togetherness</b></dd>
@@ -1350,7 +1353,7 @@
 <dd><i>noun</i>	<b>pecora</b>; basically anything else with horns besides chevrotain giraffe and bovines</dd>
 
 <dt>kepo</dt>
-<dd><i>noun</i>	<b>causing</b></dd>
+<dd><i>noun</i>	<b>nautiloid</b></dd>
 
 <dt>kepoush</dt>
 <dd><i>noun</i>	<b>sex-having</b></dd>
@@ -1509,7 +1512,7 @@
 <dd><i>noun</i>	<b>butt</b></dd>
 
 <dt>oio</dt>
-<dd><i>noun</i>	<b>health</b></dd>
+<dd><i>noun</i>	<b>prosperity</b></dd>
 
 <dt>oitik</dt>
 <dd><i>noun</i>	<b>bee</b></dd>
@@ -1530,7 +1533,7 @@
 <dd><i>noun</i>	<b>month</b></dd>
 
 <dt>ojo</dt>
-<dd><i>noun</i>	<b>saying</b></dd>
+<dd><i>noun</i>	<b>saying</b>; using a declarative sentence</dd>
 
 <dt>okeb</dt>
 <dd><i>noun</i>	<b>world</b></dd>
@@ -1658,6 +1661,9 @@
 <dt>pazai</dt>
 <dd><i>noun</i>	<b>structural-integrity</b>; resistance to breaking</dd>
 
+<dt>pazeut</dt>
+<dd><i>noun</i>	<b>nutmeg</b></dd>
+
 <dt>pebib</dt>
 <dd><i>noun</i>	<b>firmness</b></dd>
 
@@ -1703,6 +1709,9 @@
 <dt>pideg</dt>
 <dd><i>noun</i>	<b>supporting</b></dd>
 
+<dt>piesaz</dt>
+<dd><i>noun</i>	<b>literalness</b></dd>
+
 <dt>piga</dt>
 <dd><i>noun</i>	<b>otocephala</b>; herrings slickheads milkfishes minnows carps loaches catfishes knifefishes and tetras</dd>
 
@@ -1741,6 +1750,9 @@
 
 <dt>poijaish</dt>
 <dd><i>noun</i>	<b>pomegranite</b></dd>
+
+<dt>poitoik</dt>
+<dd><i>noun</i>	<b>sesquipedalianness</b></dd>
 
 <dt>poiub</dt>
 <dd><i>noun</i>	<b>5</b></dd>
@@ -1825,6 +1837,9 @@
 
 <dt>saige</dt>
 <dd><i>noun</i>	<b>outdoorsness</b></dd>
+
+<dt>saijez</dt>
+<dd><i>noun</i>	<b>talking</b>; forming words with one's voice</dd>
 
 <dt>saijib</dt>
 <dd><i>noun</i>	<b>gunpowder</b></dd>
@@ -2034,7 +2049,7 @@
 <dd><i>noun</i>	<b>galean-shark</b></dd>
 
 <dt>shudaj</dt>
-<dd><i>noun</i>	<b>asking</b></dd>
+<dd><i>noun</i>	<b>asking</b>; a question</dd>
 
 <dt>shudog</dt>
 <dd><i>noun</i>	<b>scandentia</b>; treeshrews</dd>
@@ -2165,6 +2180,9 @@
 <dt>tadou</dt>
 <dd><i>noun</i>	<b>communicating</b></dd>
 
+<dt>taiboj</dt>
+<dd><i>noun</i>	<b>obviousness</b></dd>
+
 <dt>taipes</dt>
 <dd><i>noun</i>	<b>tube-dwelling-anemone</b></dd>
 
@@ -2188,6 +2206,9 @@
 
 <dt>tedag</dt>
 <dd><i>noun</i>	<b>body</b></dd>
+
+<dt>tedaus</dt>
+<dd><i>noun</i>	<b>cinnamon</b></dd>
 
 <dt>tegod</dt>
 <dd><i>noun</i>	<b>rhinoceros</b></dd>
@@ -2418,7 +2439,7 @@
 <dd><i>noun</i>	<b>going</b>; from one place to another</dd>
 
 <dt>uia</dt>
-<dd><i>noun</i>	<b>length</b></dd>
+<dd><i>noun</i>	<b>length</b>; distance</dd>
 
 <dt>uidiz</dt>
 <dd><i>noun</i>	<b>half</b></dd>
@@ -2613,10 +2634,13 @@
 <dd><i>noun</i>	<b>orange</b>; fruit</dd>
 
 <dt>zeusai</dt>
-<dd><i>noun</i>	<b>prosperity</b></dd>
+<dd><i>noun</i>	<b>health</b></dd>
+
+<dt>zezout</dt>
+<dd><i>noun</i>	<b>coffee</b></dd>
 
 <dt>ziajoik</dt>
-<dd><i>noun</i>	<b>technicality</b>; a person who is not a layperson</dd>
+<dd><i>noun</i>	<b>expertness</b>; a person who is not a layperson</dd>
 
 <dt>ziba</dt>
 <dd><i>noun</i>	<b>mantid</b></dd>
