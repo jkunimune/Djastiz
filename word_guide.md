@@ -18,7 +18,7 @@
 <dd><i>noun</i>	<b>sphere</b></dd>
 
 <dt>agip</dt>
-<dd><i>noun</i>	<b>meaning</b></dd>
+<dd><i>noun</i>	<b>denoting</b>; meaning in terms of word definitions</dd>
 
 <dt>agozi</dt>
 <dd><i>noun-technical</i>	<b>physics.force</b></dd>
@@ -797,6 +797,9 @@
 <dt>geuzeu</dt>
 <dd><i>noun</i>	<b>tolerating</b></dd>
 
+<dt>giabouz</dt>
+<dd><i>noun</i>	<b>secret-keeping</b></dd>
+
 <dt>gideb</dt>
 <dd><i>noun</i>	<b>lateralness</b></dd>
 
@@ -823,6 +826,9 @@
 
 <dt>giues</dt>
 <dd><i>noun</i>	<b>hoatzin</b>; some weird kind of bird</dd>
+
+<dt>giushuk</dt>
+<dd><i>noun</i>	<b>opposing</b></dd>
 
 <dt>gizeid</dt>
 <dd><i>noun</i>	<b>dear-holding</b></dd>
@@ -1748,6 +1754,9 @@
 <dt>podi</dt>
 <dd><i>noun</i>	<b>also</b></dd>
 
+<dt>pogeis</dt>
+<dd><i>noun</i>	<b>meaning</b>; big-picture meaning of things</dd>
+
 <dt>poijaish</dt>
 <dd><i>noun</i>	<b>pomegranite</b></dd>
 
@@ -2116,6 +2125,9 @@
 
 <dt>sogeu</dt>
 <dd><i>noun</i>	<b>phoronid</b></dd>
+
+<dt>soidug</dt>
+<dd><i>noun</i>	<b>existing</b></dd>
 
 <dt>soieu</dt>
 <dd><i>noun</i>	<b>procellariid</b>; albatrosses and petrels</dd>

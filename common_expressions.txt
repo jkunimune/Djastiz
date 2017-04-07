@@ -1,83 +1,95 @@
-Excuse me.
+Excuse me. (3->4)
 please pdc excusing
 shuaij e ote
 
-You are excused.
+You are excused. (4->4)
 let pdc excusing
 pioip e ote
 
-Thank you.
+Thank you. (2->4)
 . pdc grateful-feeling
 poj e tobi
 
-You're welcome.
+You're welcome. (3->3)
 . with me
 poj og bas
 
-Sorry.
+Sorry. (2->4)
 . pdc sorry-feeling
 poj e ake
 
-No problem.
+No problem. (3->3)
 . with me
 poj og bas
 
-I don't speak this language very well.
+I don't speak this language very well. (9->8)
 ! pdc talking in very rate
 saz e saijez shau dou kakuj
 
-Fuck.
+What does that mean? (4->4)
+? pdc denoting
+zad e agip
+
+Fuck. (1->2)
 un bless
 iat shuip
 
-Fuck you.
+Fuck you. (2->3)
 un bless you
 iat shuip kek
 
-Hooray.
+Hooray. (2-1)
 bless
 shuip
 
-Hi.
+Hi. (1->1)
 merry
 daid
 
-Bye.
+Bye. (1->2)
 un merry
 iat daid
 
-Good night.
-merry sleeping
-daid ekog
+Good night. (2->4)
+un merry sleeping
+iat daid ekog
 
-Good morning.
+Good morning. (3->3)
 merry morning
 daid upak
 
-Good day.
+Good day. (2->3)
 merry daytime
 daid zidug
 
-Good evening.
+Good evening. (3->4)
 merry un morning
 daid iat upak
 
-Happy Birthday.
+Happy Birthday. (4->7)
 merry datetime day born-being
 daid uoui esek eibi
 
-Merry Christmas.
+Merry Christmas. (4->5)
 merry name{ Christmas }
 daid pi Christmas id
 
-How are you?
+How are you? (3->6)
 ? than what pdc prosperity
 zad jau sob e oio
 
-I am well.
+I am well. (3->4)
 . pdc prosperity
 poj e oio
 
-My name is Claude.
+What about you? (4->3)
+? sbj you
+zad bu kek
+
+My name is Claude. (4->5)
 . obj name{ Bloo }
 poj iu pi Bloo id
+
+Where is the bathroom? (5->9)
+? on what sbj jupede toiletries on
+zad shug sob bu je ougious shug
