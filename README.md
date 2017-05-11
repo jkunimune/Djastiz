@@ -74,7 +74,7 @@ The next type of modifier is much simpler, but also the most ambiguous part of D
 - `aus` draws an equality between two noun phrases without really changing the meaning of the sentence. It is especially useful for sharing names (e.g. `abosh aus pi Esteban id`).
 - `jap` identifies a specific element of a _set_ (a set is just a noun phrase that describes a group of things).
 
-For fastener constructions that are too common to warrant even a fastener, there are the simplest modifiers: _articles_. Articles are unique one-word modifiers that replace common `shos` constructions, manipulate sets, and other nifty things like that. Articles always take precedence over fasteners, so using fasteners together with articles is not ambiguous. There are nine articles.
+For fastener constructions that are too common to warrant even a fastener, there are the simplest modifiers: articles. Articles are unique one-word modifiers that replace common `shos` constructions, manipulate sets, and other nifty things like that. Articles always take precedence over fasteners, so using fasteners together with articles is not ambiguous. There are nine articles.
 - `zut` describes an instance of a noun phrase near or associated with the speaker.
 - `eik` describes an instance of a noun phrase near or associated with the listener.
 - `puk` describes an instance of a noun phrase neither near or associated with the speaker nor the listener.
@@ -83,7 +83,8 @@ For fastener constructions that are too common to warrant even a fastener, there
 - `zai` describes the set of all instances of a noun phrase.
 - `sak` describes a single unspecified element of a set.
 - `bet` describes an unspecified subset of a set.
-- `pip` describes each and every element of a set individually.
+- `dot` describes each and every element of a set individually.
+- `shij` describes a noun that is surprising and of particular import to the sentence.
 
 I guess _prefixes_ could be counted as a fourth kind of modifier, but they're pretty different, so I discuss them in &#167;2.1.
 
@@ -91,7 +92,7 @@ I guess _prefixes_ could be counted as a fourth kind of modifier, but they're pr
 
 The last major grammatical structure to be discussed here is the conjunction. Conjunctions are a small class of diverse words that transform phrases or sets of phrases. While they share some similarities, the three conjunctions are different enough that I might as well explain each separately.
 
-The first and most recognizably conjugative conjunction is the `to`-`ish`-`id` construction: `to`, followed by a list of `ish`-separated phrases, followed by `id`. All of the inner phrases must be of the same type (e.g. noun phrase, modifier clause, preposition), and the construction acts as the same type of each of its components, with a meaning equivalent to the combination of the meanings of all of the inner phrases. In other words, `to` means "both", and `ish` means "and", assuming there is an `id` on the end. It should be noted that `to`-`ish`-`id` constructions can be used with set-manipulation articles and, in fact, do so quite well. For example, `to oudis ish iogu id pip` refers to hopes and dreams individually.
+The first and most recognizably conjugative conjunction is the `to`-`ish`-`id` construction: `to`, followed by a list of `ish`-separated phrases, followed by `id`. All of the inner phrases must be of the same type (e.g. noun phrase, modifier clause, preposition), and the construction acts as the same type of each of its components, with a meaning equivalent to the combination of the meanings of all of the inner phrases. In other words, `to` means "both", and `ish` means "and", assuming there is an `id` on the end. It should be noted that `to`-`ish`-`id` constructions can be used with set-manipulation articles and, in fact, do so quite well. For example, `to oudis ish iogu id dot` refers to hopes and dreams individually.
 
 The second conjunction may be more difficult to understand for English speakers. This is the `aj`-`id` construction, which functions much like the quotation mark in English. Unlike the quotation mark, however, `aj`-`id` constructions must be spoken aloud. Any phrase in any language between the `aj` and the `id` should not be interpreted as actual Djastiz grammar, but rather as a sequence of letters or sounds. The entire phrase acts as a noun and references the phrase contained within. This is most commonly used for quoting dialogue and discussing language. `aj`-`id` constructions also concatenate with each other and other noun phrases, like so: `zad iu aj peigsaz e ukiaj iu id sob`
 
@@ -128,12 +129,12 @@ The third largest group of nouns is things along the lines of `pubuk` and `doziz
 ### Prefixes
 
 While the existing nouns can describe a great many concepts and contexts given the rules outlined above, one will very frequently need words that are related to but different from existing words. One can describe a hot pan with `jaiedtuze dik pubuk`, for example, but how does one describe a cold pan? With `jaiedtuze dik iatpubuk`, of course! `iatpubuk` is an _expansion_ of `pubuk`, accomplished through the prefix `iat`. Prefixes modify words by preceding them and thus changing the meaning in some simple fashion. There are six of them.
-- `zoj` changes a word to mean anything but its original meaning.
+- `guis` changes a word to mean anything but its original meaning.
 - `iat` changes a word to mean its opposite.
-- `dou` changes a word to mean a more extreme version of its original meaning.
+- `tius` changes a word to mean a more extreme version of its original meaning.
 - `peig` changes a word to encompass a range of meanings similar to its original meaning.
-- `guis` changes a word to refer to the maximum possible state of its original meaning.
-- `tius` changes a word to denote the action or concept associated with its original meaning becoming true. For example, since `ozi` means "altitude", `tiusozi` means "rising".
+- `zoj` changes a word to refer to the maximum possible state of its original meaning.
+- `dou` changes a word to denote the action or concept associated with its original meaning becoming true. For example, since `ozi` means "altitude", `tiusozi` means "rising".
 
 Note that applying a prefix to a word creates a new word, not a phrase, and prefixes may not modify other prefixes. Therefore, any chain of prefixes should be evaluated last-first.
 
@@ -154,25 +155,26 @@ It must be noted that, while in English, verbs often have multiple meanings for 
 ## Writing and pronunciation
 
 Djastiz has a relatively simple written language. It uses a phonetic alphabet, and is written top-to-bottom, then left-to-right. There are 15 letters.
-- `id` is Romanized "i" and pronounced 'i' in the [IPA][1].
-- `e` is Romanized "e" and pronounced '&#603;' in the [IPA][1].
-- `aj` is Romanized "a" and pronounced '&#592;' in the [IPA][1].
-- `og` is Romanized "o" and pronounced '&#596;' in the [IPA][1].
-- `up` is Romanized "u" and pronounced 'u' in the [IPA][1].
-- `kush` is Romanized "k" and pronounced 'k' in the [IPA][1].
-- `guz` is Romanized "g" and pronounced 'g' in the [IPA][1].
-- `to` is Romanized "t" and pronounced 't' in the [IPA][1].
-- `dik` is Romanized "d" and pronounced 'd' in the [IPA][1].
-- `pi` is Romanized "p" and pronounced 'p' in the [IPA][1].
-- `bu` is Romanized "b" and pronounced 'b' in the [IPA][1].
-- `si` is Romanized "s" and pronounced 's' in the [IPA][1].
-- `zai` is Romanized "z" and pronounced 'z' in the [IPA][1].
-- `shau` is Romanized "sh" or "c" and pronounced '&#643;' in the [IPA][1].
-- `ju` is Romanized "j" and pronounced '&#658;' in the [IPA][1].
+- [`id`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/id.svg) is Romanized "i" and pronounced 'i' or 'j' in the [IPA][1].
+- [`e`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/e.svg) is Romanized "e" and pronounced '&#603;' or '&#618;' in the [IPA][1].
+- [`aj`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/aj.svg) is Romanized "a" and pronounced '&#593;' or '&#228;' in the [IPA][1].
+- [`og`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/og.svg) is Romanized "o" and pronounced '&#596;' in the [IPA][1].
+- [`up`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/up.svg) is Romanized "u" and pronounced 'u' or 'w' in the [IPA][1].
+- [`kush`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/kush.svg) is Romanized "k" and pronounced 'k' in the [IPA][1].
+- [`guz`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/guz.svg) is Romanized "g" and pronounced 'g' in the [IPA][1].
+- [`to`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/to.svg) is Romanized "t" and pronounced 't' in the [IPA][1].
+- [`dik`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/dik.svg) is Romanized "d" and pronounced 'd' in the [IPA][1].
+- [`pi`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/pi.svg) is Romanized "p" and pronounced 'p' in the [IPA][1].
+- [`bu`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/bu.svg) is Romanized "b" and pronounced 'b' in the [IPA][1].
+- [`si`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/si.svg) is Romanized "s" and pronounced 's' in the [IPA][1].
+- [`zai`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/zai.svg) is Romanized "z" and pronounced 'z' in the [IPA][1].
+- [`shau`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/shau.svg) is Romanized "sh" or "c" and pronounced '&#643;' in the [IPA][1].
+- [`ju`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/ju.svg) is Romanized "j" and pronounced '&#658;' in the [IPA][1].
 
+If a single letter has multiple pronounciations, either can be used without affecting the meaning.
 The actual Djastiz character for each of these in svg format can be found in the "written language" folder of this repository. While there are no punctuation letter in Djastiz, words are separated by spaces of the same height as a letter. Compound words and expansions are single words and therefore do not contain spaces.
 
-[1]: http://www.internationalphoneticalphabet.org/ "International Phonetic Alphabet"
+[1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
 
 ## Gestures
 

@@ -4,7 +4,7 @@ poj shok odo guz bu pi Sam id iu kit e ziget dik zauap iu shizuj si opu bita zit
 
 The quick fox jumped over the lazy brown dog. (10->26)
 . sbj dog red whatkind speed on ; pdc altitude than dog domesticating whatkind un activeness pdc jumping
-poj bu augok teba dik gubet shug kit e ozi jau augok puzed dik iat tugag e zukuauz
+poj bu augok teba dik gubet shug kit e ozi jeu augok puzed dik iat tugag e zukuauz
 
 You! You're standing in the way of everybody's hopes and dreams! (15->24)
 . you . pdc standing-up on ; pdc betweenness to both{ hoping and dreaming } whichone person all fullstop
@@ -28,11 +28,11 @@ poj shok esos bu aj ishupo id iu je bepes iu ped oush sob e shaupip iu to supek 
 
 Fourscore and seven years ago our fathers brought forth, on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal. (48->61)
 . at ; pdc un time-distance fullstop than year howmany 8 10 7 fullstop one * pdc parenting obj both{ me and you } fullstop pdc creating on continent this obj country whatkind un age via freedom for ; sbj person whichone all pdc difference at creating fullstop
-poj shok kit e iat baisu up jau ibish aub oposh doze jopa up ju ped e ajud iu to bas ish kek id up e udu shug kuaibod zut iu guiesh dik iat kidash oush sadez dij kit bu opu shos zai e kokat shok udu up
+poj shok kit e iat baisu up jeu ibish aub oposh doze jopa up ju ped e ajud iu to bas ish kek id up e udu shug kuaibod zut iu guiesh dik iat kidash oush sadez dij kit bu opu shos zai e kokat shok udu up
 
 Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. (28->51)
 . sbj jupede going via cosmos whichone rebelling via ; pdc striking on ; transitioning obj jupede basing obj * pdc hiding fullstop fullstop fullstop pdc winning whichone 1 with name{ country conquering astronomy.galaxy } whatkind un morality
-poj bu je ugi oush kajauj shos goishek oush kit e oushois shug kit kishij iu je gebeud iu ped e koutep up up up e badiz shos toza og pi guiesh eusheis uzeso id dik iat aidop
+poj bu je ugi oush kajauj shos ougious oush kit e oushois shug kit kishij iu je gebeud iu ped e koutep up up up e badiz shos toza og pi guiesh eusheis uzeso id dik iat aidop
 
 Please excuse my dear Aunt Sally. (8->19)
 please pdc excusing obj cousin-being * sbj me pdc dear-holding fullstop ie name{ Sally }

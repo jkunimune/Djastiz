@@ -9,7 +9,7 @@ def load_dictionary(directory):
 	eng_to_dja, dja_to_eng, pts_o_spc, notes = {}, {}, {}, {}
 	for filename in os.listdir(directory):
 		if 'word_cache' in filename:	continue
-		with open('{}\\{}'.format(directory,filename),'r') as f:
+		with open(directory+'\\'+filename,'r') as f:
 			for line in f:
 				if len(line) <= 1:		break
 				if line[-1] == '\n':	line = line[:-1]
@@ -93,6 +93,7 @@ if __name__ == '__main__':
 	hist, arr = translate('examples.txt', eng_to_dja, hist, arr)
 	for key in sorted(hist.keys(), key=lambda k: hist[k]):
 		print("{:03}\t{}".format(hist[key], key))
+
 	arr = np.array(arr)
 	plt.plot(arr[:,0], arr[:,1], '.')
 	plt.xlim([0,70])

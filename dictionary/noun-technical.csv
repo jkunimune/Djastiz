@@ -5,6 +5,7 @@ math.acceleration,ojazi
 math.ellipsoid,eiugo
 math.plane,iside
 math.map-projection,ishupo
+math.weighted-averaging,akizi
 physics.mass,osisha
 physics.force,agozi
 physics.energy,apagi
@@ -23,3 +24,5 @@ physics.capacitance,akapa
 physics.inductance,ubazi
 physics.simple-harmonic-motion,egezo
 astronomy.galaxy,uzeso
+videogame.spamming,eiuku
+videogame.openworld,ekaji

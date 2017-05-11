@@ -25,8 +25,8 @@ creating,udu
 length (distance),uia
 forcing,ize
 causing,aui
-active-perceiving,aie
-passive-perceiving,asu
+active-perceiving (looking or listening or sniffing),aie
+passive-perceiving (seeing or hearing or smelling),asu
 toward (creates compound words with states to convert them to transitions),ipo
 morality,aidop
 skillfulness,atas
@@ -35,7 +35,7 @@ effectiveness,tojot
 exceeding,jidiz
 year,ibish
 giving,tisid
-working,suzus
+working (doing work) or being productive),suzus
 using,uebeb
 light,oshiz
 appearing,shosib
@@ -133,7 +133,6 @@ speed,gubet
 money,gobob
 fact,popeb
 region,keshush
-name,jape
 reading (parsing symbols into words with one's eyes),kasok
 friend,pusheu
 month,ojeut
@@ -141,7 +140,7 @@ information,goku
 openness,susos
 governing,eijop
 becoming,igaz
-star,zodaz
+star (sun),zodaz
 organization,zitu
 word,apik
 problem,puba
@@ -183,19 +182,18 @@ arc,bopa
 curve (any smooth path),kashish
 loop,shakip
 gifting,euig
-lateralness,gideb
 certain-being,josij
 process-undergoing,bepes
 flailing,kozoj
 publicity,ojed
 frequency,esos
 possibility,zubop
-probability,jagez
+sureness (probability),jagez
 actuality,zauap
 togetherness,ipoug
 considering,opit
 parenting,ajud
-ease,jesesh
+ease (for the target),jesesh
 firmness,pebib
 partying,uieuk
 foreignness,shepat
@@ -205,7 +203,7 @@ storytelling,uatoj
 continuing,auzek
 standing-up (posture),shojag
 wholeness,zose
-already,bukat
+sentence,bukat
 rate,kakuj
 caring,kujou
 sorting,shadu
@@ -224,7 +222,7 @@ returning,zojib
 mind,shesud
 office,gidosh
 recording,eibou
-recalling,ezap
+recalling (a fact),ezap
 remembering (to do something),upop
 sharing,ditab
 sitting,kubop
@@ -234,7 +232,7 @@ language,shaiaz
 subjecting (focusing on),gobuk
 dividing,igib
 minute,keui
-breaking,egai
+breaking (physically falling apart or cracking),egai
 leisuring,geiu
 clearing,uipad
 transitioning (represents delta vector between any two states),kishij
@@ -276,7 +274,6 @@ participating,eupek
 movie-making,jekish
 film (the original meaning - thin thanslucent surfaces),ezaid
 morning,upak
-war,shijap
 logging-in,ejaj
 significance,ijus
 designing,ieshush
@@ -305,7 +302,7 @@ mass,aukig
 eating,ukiaj
 stepping (the object is what you step on or in),utik
 communicating,tadou
-flavor,asosh
+flavor (taste),asosh
 drawing,oshua
 blackness,seja
 tanness,isiag
@@ -337,9 +334,9 @@ decimal-point,bajut
 1000,aishep
 beauty (of a person),sabig
 fun-having,diuis
-born-being,eibi
+birth-giving (the physical act),eibi
 activeness (not lazy),tugag
-happiness,dotib
+happy-feeling (the opposite of depression),dotib
 killing,eushi
 substituting,ikaib
 blue,teku
@@ -729,6 +726,7 @@ asparagus,gaisios
 broccoli,daseug
 basil,baushish
 pepper,paiboi
+alcohol,gideb
 spinach,gautud
 brussels-sprouts,shoubag
 carrot,iojeij
@@ -763,7 +761,7 @@ claw (of the sharp variety),jeioip
 stabbing (puncturing),babais
 bewaring,dakoij
 sex-having,kepoush
-anger,daishous
+angry-feeling,daishous
 fearing,zaikaish
 clustering (being physically nearby),saidoj
 prone-lying,geitush
@@ -783,13 +781,13 @@ conquering,eusheis
 dear-holding,gizeid
 cosmos,kajauj
 jumping,zukuauz
-rebelling,goishek
+rebelling,ougious
 continent,kuaibod
 cleanliness,jioijeg
-toiletries,ougious
+toiletries,goishek
 transforming,shaupip
 attacking (a sudden violent engagement),tousap
-fighting (violence),ieboub
+violence,ieboub
 competing,eiduid
 striking (a swift decisive action),oushois
 basing (operations and such),gebeud
@@ -813,7 +811,7 @@ purity,kadois
 entertaining (as in a movie or play or skit),duigod
 tolerating,geuzeu
 attention-paying,poushuj
-code-writing,dusaus
+code-writing (programming),dusaus
 wearing-and-tearing,boubaib
 resisting,bieudi
 downstreamness (combine it with `tius` to get 'flowing'),tudoij
@@ -842,3 +840,22 @@ opposing,giushuk
 secret-keeping,giabouz
 meaning (big-picture meaning of things),pogeis
 existing,soidug
+name,iti
+robot,shijap
+picture,gukoj
+topography (geography),atek
+humidity,jeti
+replacing,ibub
+printing (converting a digital object into a real one),ikok
+virtuality (digitalness),bakod
+sentient-being,tutaz
+intoxication (applies to alcohol as well as other drugs),aigush
+marriage,buso
+pleasure-feeling (euphoria e.g. from food music or sex),zugak
+pride-feeling (the happiness associated with feeling like a productive member of society),apoi
+amusement-feeling (reaction to comedy),kesei
+satisfaction-feeling (the good feeling produced by snapping parts together or popping bubble wrap),jegub
+apprehension-feeling (hesitative reaction to decisions),dushos
+dimensionality (i.e. 2D or 3D),deiap
+functioning (doing what one is supposed to),isui
+perusing,sudij

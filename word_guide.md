@@ -27,7 +27,10 @@
 <dd><i>noun</i>	<b>morality</b></dd>
 
 <dt>aie</dt>
-<dd><i>noun</i>	<b>active-perceiving</b></dd>
+<dd><i>noun</i>	<b>active-perceiving</b>; looking or listening or sniffing</dd>
+
+<dt>aigush</dt>
+<dd><i>noun</i>	<b>intoxication</b>; applies to alcohol as well as other drugs</dd>
 
 <dt>aijosh</dt>
 <dd><i>noun</i>	<b>eurypygimorphae</b>; a bunch of tropical birds</dd>
@@ -65,6 +68,9 @@
 <dt>akieg</dt>
 <dd><i>noun</i>	<b>monoplacophora</b>; a type of molosk</dd>
 
+<dt>akizi</dt>
+<dd><i>noun-technical</i>	<b>math.weighted-averaging</b></dd>
+
 <dt>apagi</dt>
 <dd><i>noun-technical</i>	<b>physics.energy</b></dd>
 
@@ -76,6 +82,9 @@
 
 <dt>apik</dt>
 <dd><i>noun</i>	<b>word</b></dd>
+
+<dt>apoi</dt>
+<dd><i>noun</i>	<b>pride-feeling</b>; the happiness associated with feeling like a productive member of society</dd>
 
 <dt>asab</dt>
 <dd><i>noun</i>	<b>extracting</b></dd>
@@ -93,7 +102,7 @@
 <dd><i>noun</i>	<b>nextness</b></dd>
 
 <dt>asosh</dt>
-<dd><i>noun</i>	<b>flavor</b></dd>
+<dd><i>noun</i>	<b>flavor</b>; taste</dd>
 
 <dt>asoup</dt>
 <dd><i>noun</i>	<b>imploring</b>; using an imperative sentence</dd>
@@ -102,7 +111,7 @@
 <dd><i>noun</i>	<b>reptile</b></dd>
 
 <dt>asu</dt>
-<dd><i>noun</i>	<b>passive-perceiving</b></dd>
+<dd><i>noun</i>	<b>passive-perceiving</b>; seeing or hearing or smelling</dd>
 
 <dt>atad</dt>
 <dd><i>noun</i>	<b>calling</b>; digital</dd>
@@ -112,6 +121,9 @@
 
 <dt>ateiz</dt>
 <dd><i>noun</i>	<b>containing</b></dd>
+
+<dt>atek</dt>
+<dd><i>noun</i>	<b>topography</b>; geography</dd>
 
 <dt>atog</dt>
 <dd><i>noun</i>	<b>desert</b></dd>
@@ -190,6 +202,9 @@
 
 <dt>bakeish</dt>
 <dd><i>noun</i>	<b>consenting</b></dd>
+
+<dt>bakod</dt>
+<dd><i>noun</i>	<b>virtuality</b>; digitalness</dd>
 
 <dt>bas</dt>
 <dd><i>pronoun</i>	<b>me</b>; the speaker</dd>
@@ -333,7 +348,7 @@
 <dd><i>noun</i>	<b>lamprey</b></dd>
 
 <dt>bukat</dt>
-<dd><i>noun</i>	<b>already</b></dd>
+<dd><i>noun</i>	<b>sentence</b></dd>
 
 <dt>bupash</dt>
 <dd><i>noun</i>	<b>sweetness</b></dd>
@@ -343,6 +358,9 @@
 
 <dt>busaz</dt>
 <dd><i>noun</i>	<b>driving</b></dd>
+
+<dt>buso</dt>
+<dd><i>noun</i>	<b>marriage</b></dd>
 
 <dt>busut</dt>
 <dd><i>noun</i>	<b>bear</b></dd>
@@ -369,7 +387,7 @@
 <dd><i>noun</i>	<b>imagining</b></dd>
 
 <dt>daishous</dt>
-<dd><i>noun</i>	<b>anger</b></dd>
+<dd><i>noun</i>	<b>angry-feeling</b></dd>
 
 <dt>dakap</dt>
 <dd><i>noun</i>	<b>insect</b></dd>
@@ -397,6 +415,9 @@
 
 <dt>degek</dt>
 <dd><i>noun</i>	<b>revolving</b></dd>
+
+<dt>deiap</dt>
+<dd><i>noun</i>	<b>dimensionality</b>; i.e. 2D or 3D</dd>
 
 <dt>dejat</dt>
 <dd><i>noun</i>	<b>flower</b></dd>
@@ -485,11 +506,14 @@
 <dt>dosij</dt>
 <dd><i>noun</i>	<b>acarus</b>; mites and ticks</dd>
 
+<dt>dot</dt>
+<dd><i>article</i>	<b>each</b>; every element individually</dd>
+
 <dt>dotib</dt>
-<dd><i>noun</i>	<b>happiness</b></dd>
+<dd><i>noun</i>	<b>happy-feeling</b>; the opposite of depression</dd>
 
 <dt>dou</dt>
-<dd><i>prefix</i>	<b>very</b>; exaggeration</dd>
+<dd><i>prefix</i>	<b>derivative</b>; concept of becoming</dd>
 
 <dt>douseg</dt>
 <dd><i>noun</i>	<b>vagina</b></dd>
@@ -525,10 +549,13 @@
 <dd><i>noun</i>	<b>rotating</b></dd>
 
 <dt>dusaus</dt>
-<dd><i>noun</i>	<b>code-writing</b></dd>
+<dd><i>noun</i>	<b>code-writing</b>; programming</dd>
 
 <dt>duset</dt>
 <dd><i>noun</i>	<b>tardigrade</b></dd>
+
+<dt>dushos</dt>
+<dd><i>noun</i>	<b>apprehension-feeling</b>; hesitative reaction to decisions</dd>
 
 <dt>e</dt>
 <dd><i>preposition</i>	<b>pdc</b>; denotes predicate</dd>
@@ -561,7 +588,7 @@
 <dd><i>noun</i>	<b>flicker</b>; any rapid occilation</dd>
 
 <dt>egai</dt>
-<dd><i>noun</i>	<b>breaking</b></dd>
+<dd><i>noun</i>	<b>breaking</b>; physically falling apart or cracking</dd>
 
 <dt>egezo</dt>
 <dd><i>noun-technical</i>	<b>physics.simple-harmonic-motion</b></dd>
@@ -576,7 +603,7 @@
 <dd><i>noun</i>	<b>handing</b></dd>
 
 <dt>eibi</dt>
-<dd><i>noun</i>	<b>born-being</b></dd>
+<dd><i>noun</i>	<b>birth-giving</b>; the physical act</dd>
 
 <dt>eibou</dt>
 <dd><i>noun</i>	<b>recording</b></dd>
@@ -608,6 +635,9 @@
 <dt>eiugo</dt>
 <dd><i>noun-technical</i>	<b>math.ellipsoid</b></dd>
 
+<dt>eiuku</dt>
+<dd><i>noun-technical</i>	<b>videogame.spamming</b></dd>
+
 <dt>ejaj</dt>
 <dd><i>noun</i>	<b>logging-in</b></dd>
 
@@ -616,6 +646,9 @@
 
 <dt>ejoish</dt>
 <dd><i>noun</i>	<b>mustelidae</b>; weasels badgers otters martens ferrets minks stoats and wolverines</dd>
+
+<dt>ekaji</dt>
+<dd><i>noun-technical</i>	<b>videogame.openworld</b></dd>
 
 <dt>ekog</dt>
 <dd><i>noun</i>	<b>sleeping</b></dd>
@@ -705,7 +738,7 @@
 <dd><i>noun-technical</i>	<b>math.derivative</b></dd>
 
 <dt>ezap</dt>
-<dd><i>noun</i>	<b>recalling</b></dd>
+<dd><i>noun</i>	<b>recalling</b>; a fact</dd>
 
 <dt>ezib</dt>
 <dd><i>noun</i>	<b>plankton</b>; anything microscopic that belongs to nephrozoa</dd>
@@ -801,7 +834,7 @@
 <dd><i>noun</i>	<b>secret-keeping</b></dd>
 
 <dt>gideb</dt>
-<dd><i>noun</i>	<b>lateralness</b></dd>
+<dd><i>noun</i>	<b>alcohol</b></dd>
 
 <dt>gidosh</dt>
 <dd><i>noun</i>	<b>office</b></dd>
@@ -864,7 +897,7 @@
 <dd><i>noun</i>	<b>lichen</b></dd>
 
 <dt>goishek</dt>
-<dd><i>noun</i>	<b>rebelling</b></dd>
+<dd><i>noun</i>	<b>toiletries</b></dd>
 
 <dt>goku</dt>
 <dd><i>noun</i>	<b>information</b></dd>
@@ -903,13 +936,16 @@
 <dd><i>noun</i>	<b>country</b></dd>
 
 <dt>guis</dt>
-<dd><i>prefix</i>	<b>completely</b>; maximum</dd>
+<dd><i>prefix</i>	<b>not</b>; inverse</dd>
 
 <dt>gujei</dt>
 <dd><i>noun</i>	<b>technology</b></dd>
 
 <dt>gujob</dt>
 <dd><i>noun</i>	<b>polygon</b></dd>
+
+<dt>gukoj</dt>
+<dd><i>noun</i>	<b>picture</b></dd>
 
 <dt>gukuz</dt>
 <dd><i>noun</i>	<b>science</b>; experimentation and learning</dd>
@@ -962,6 +998,9 @@
 <dt>iboush</dt>
 <dd><i>noun</i>	<b>color</b></dd>
 
+<dt>ibub</dt>
+<dd><i>noun</i>	<b>replacing</b></dd>
+
 <dt>id</dt>
 <dd><i>conjunction</i>	<b>}</b></dd>
 
@@ -975,7 +1014,7 @@
 <dd><i>noun</i>	<b>notopteroide</b>; aba elephantfishes and featherfin knives</dd>
 
 <dt>ieboub</dt>
-<dd><i>noun</i>	<b>fighting</b>; violence</dd>
+<dd><i>noun</i>	<b>violence</b></dd>
 
 <dt>iedod</dt>
 <dd><i>noun</i>	<b>apterygota</b>; silverfish firebrat and jumping bristletails</dd>
@@ -1034,6 +1073,9 @@
 <dt>ikie</dt>
 <dd><i>noun</i>	<b>box</b></dd>
 
+<dt>ikok</dt>
+<dd><i>noun</i>	<b>printing</b>; converting a digital object into a real one</dd>
+
 <dt>iku</dt>
 <dd><i>noun</i>	<b>doing</b></dd>
 
@@ -1091,6 +1133,9 @@
 <dt>isoiz</dt>
 <dd><i>noun</i>	<b>salientia</b>; frogs and toads</dd>
 
+<dt>isui</dt>
+<dd><i>noun</i>	<b>functioning</b>; doing what one is supposed to</dd>
+
 <dt>itash</dt>
 <dd><i>noun</i>	<b>distance</b></dd>
 
@@ -1099,6 +1144,9 @@
 
 <dt>iteut</dt>
 <dd><i>noun</i>	<b>neoteleostei</b>; jellynoses lizardfishes lanternfishes beardfishes troutperches cods dories oarfishes opahs ribbonfishes and squirrelfishes</dd>
+
+<dt>iti</dt>
+<dd><i>noun</i>	<b>name</b></dd>
 
 <dt>iu</dt>
 <dd><i>preposition</i>	<b>obj</b>; denotes direct object</dd>
@@ -1152,7 +1200,7 @@
 <dd><i>noun</i>	<b>thinking-of</b></dd>
 
 <dt>jagez</dt>
-<dd><i>noun</i>	<b>probability</b></dd>
+<dd><i>noun</i>	<b>sureness</b>; probability</dd>
 
 <dt>jaido</dt>
 <dd><i>noun</i>	<b>data-storing</b></dd>
@@ -1172,9 +1220,6 @@
 <dt>jap</dt>
 <dd><i>fastener</i>	<b>whichelement</b>; identifies element of a set</dd>
 
-<dt>jape</dt>
-<dd><i>noun</i>	<b>name</b></dd>
-
 <dt>japud</dt>
 <dd><i>noun</i>	<b>skunk</b></dd>
 
@@ -1190,9 +1235,6 @@
 <dt>jatu</dt>
 <dd><i>noun</i>	<b>gender</b></dd>
 
-<dt>jau</dt>
-<dd><i>preposition</i>	<b>than</b>; denotes extent or quantity</dd>
-
 <dt>jaubug</dt>
 <dd><i>noun</i>	<b>rice</b></dd>
 
@@ -1204,6 +1246,9 @@
 
 <dt>jebap</dt>
 <dd><i>noun</i>	<b>cousin-being</b></dd>
+
+<dt>jegub</dt>
+<dd><i>noun</i>	<b>satisfaction-feeling</b>; the good feeling produced by snapping parts together or popping bubble wrap</dd>
 
 <dt>jeiju</dt>
 <dd><i>noun</i>	<b>child</b></dd>
@@ -1227,13 +1272,19 @@
 <dd><i>noun</i>	<b>locking</b></dd>
 
 <dt>jesesh</dt>
-<dd><i>noun</i>	<b>ease</b></dd>
+<dd><i>noun</i>	<b>ease</b>; for the target</dd>
 
 <dt>jesheuz</dt>
 <dd><i>noun</i>	<b>moss</b>; any embryophyte without xyla like liverworts and hornworts</dd>
 
 <dt>jeshoid</dt>
 <dd><i>noun</i>	<b>wheat</b></dd>
+
+<dt>jeti</dt>
+<dd><i>noun</i>	<b>humidity</b></dd>
+
+<dt>jeu</dt>
+<dd><i>preposition</i>	<b>than</b>; denotes extent or quantity</dd>
 
 <dt>jiapo</dt>
 <dd><i>noun</i>	<b>percomorpha</b>; gobies cichlids flatfish wrasse and perches</dd>
@@ -1363,6 +1414,9 @@
 
 <dt>kepoush</dt>
 <dd><i>noun</i>	<b>sex-having</b></dd>
+
+<dt>kesei</dt>
+<dd><i>noun</i>	<b>amusement-feeling</b>; reaction to comedy</dd>
 
 <dt>kesha</dt>
 <dd><i>noun</i>	<b>intending</b></dd>
@@ -1605,7 +1659,7 @@
 <dd><i>noun</i>	<b>repository</b>; body of technical knowlege</dd>
 
 <dt>ougious</dt>
-<dd><i>noun</i>	<b>toiletries</b></dd>
+<dd><i>noun</i>	<b>rebelling</b></dd>
 
 <dt>ouip</dt>
 <dd><i>noun</i>	<b>ant</b></dd>
@@ -1686,7 +1740,7 @@
 <dd><i>noun</i>	<b>aptitude</b>; fitting a situation well</dd>
 
 <dt>peig</dt>
-<dd><i>prefix</i>	<b>about</b>; approximation</dd>
+<dd><i>prefix</i>	<b>very</b>; exaggeration</dd>
 
 <dt>peijat</dt>
 <dd><i>noun</i>	<b>weather</b>; atmosphere</dd>
@@ -1729,9 +1783,6 @@
 
 <dt>pioip</dt>
 <dd><i>punctuation</i>	<b>let</b>; beuracratic</dd>
-
-<dt>pip</dt>
-<dd><i>article</i>	<b>each</b>; every element individually</dd>
 
 <dt>pipeu</dt>
 <dd><i>noun</i>	<b>leg</b></dd>
@@ -1976,8 +2027,11 @@
 <dt>shibeus</dt>
 <dd><i>noun</i>	<b>ink</b></dd>
 
+<dt>shij</dt>
+<dd><i>article</i>	<b>even</b>; stressed</dd>
+
 <dt>shijap</dt>
-<dd><i>noun</i>	<b>war</b></dd>
+<dd><i>noun</i>	<b>robot</b></dd>
 
 <dt>shijash</dt>
 <dd><i>noun</i>	<b>recommending</b></dd>
@@ -2156,6 +2210,9 @@
 <dt>subeu</dt>
 <dd><i>noun</i>	<b>aplacophora</b>; shell-less molusks</dd>
 
+<dt>sudij</dt>
+<dd><i>noun</i>	<b>perusing</b></dd>
+
 <dt>suge</dt>
 <dd><i>noun</i>	<b>adding</b></dd>
 
@@ -2178,7 +2235,7 @@
 <dd><i>noun</i>	<b>pufferfish</b></dd>
 
 <dt>suzus</dt>
-<dd><i>noun</i>	<b>working</b></dd>
+<dd><i>noun</i>	<b>working</b>; doing work</dd>
 
 <dt>suzut</dt>
 <dd><i>noun</i>	<b>0</b></dd>
@@ -2286,7 +2343,7 @@
 <dd><i>noun</i>	<b>fance</b></dd>
 
 <dt>tius</dt>
-<dd><i>prefix</i>	<b>derivative</b>; concept of becoming</dd>
+<dd><i>prefix</i>	<b>about</b>; approximation</dd>
 
 <dt>tizi</dt>
 <dd><i>noun</i>	<b>instructing</b></dd>
@@ -2365,6 +2422,9 @@
 
 <dt>tutaub</dt>
 <dd><i>noun</i>	<b>waving</b>; a hand or a flag</dd>
+
+<dt>tutaz</dt>
+<dd><i>noun</i>	<b>sentient-being</b></dd>
 
 <dt>tuzak</dt>
 <dd><i>noun</i>	<b>sea-cow</b>; like manatees</dd>
@@ -2685,7 +2745,7 @@
 <dd><i>noun</i>	<b>flying</b></dd>
 
 <dt>zodaz</dt>
-<dd><i>noun</i>	<b>star</b></dd>
+<dd><i>noun</i>	<b>star</b>; sun</dd>
 
 <dt>zogag</dt>
 <dd><i>noun</i>	<b>earwig</b></dd>
@@ -2697,7 +2757,7 @@
 <dd><i>noun</i>	<b>landfowl</b>; chickens turkeys and pheasants</dd>
 
 <dt>zoj</dt>
-<dd><i>prefix</i>	<b>not</b>; inverse</dd>
+<dd><i>prefix</i>	<b>completely</b>; maximum</dd>
 
 <dt>zojib</dt>
 <dd><i>noun</i>	<b>returning</b></dd>
@@ -2731,6 +2791,9 @@
 
 <dt>zubop</dt>
 <dd><i>noun</i>	<b>possibility</b></dd>
+
+<dt>zugak</dt>
+<dd><i>noun</i>	<b>pleasure-feeling</b>; euphoria e.g. from food music or sex</dd>
 
 <dt>zuguo</dt>
 <dd><i>noun</i>	<b>odonatoptera</b>; dragonflies and damselflies</dd>

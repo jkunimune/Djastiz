@@ -18,13 +18,17 @@ Sorry. (2->4)
 . pdc sorry-feeling
 poj e ake
 
-No problem. (3->3)
+Apology accepted. (7->3)
 . with me
 poj og bas
 
+Don't worry about it. (6->5)
+! pdc not sorry-feeling
+saz e guis ake
+
 I don't speak this language very well. (9->8)
 ! pdc talking in very rate
-saz e saijez shau dou kakuj
+saz e saijez shau peig kakuj
 
 What does that mean? (4->4)
 ? pdc denoting
@@ -68,7 +72,7 @@ daid iat upak
 
 Happy Birthday. (4->7)
 merry datetime day born-being
-daid uoui esek eibi
+daid uoui esek born-being
 
 Merry Christmas. (4->5)
 merry name{ Christmas }
@@ -76,9 +80,9 @@ daid pi Christmas id
 
 How are you? (3->6)
 ? than what pdc prosperity
-zad jau sob e oio
+zad jeu sob e oio
 
-I am well. (3->4)
+Well. (1->2)
 . pdc prosperity
 poj e oio
 
@@ -92,4 +96,4 @@ poj iu pi Bloo id
 
 Where is the bathroom? (5->9)
 ? on what sbj jupede toiletries on
-zad shug sob bu je ougious shug
+zad shug sob bu je goishek shug

@@ -1,5 +1,6 @@
 # word generator
 import copy
+import os
 import random
 
 
@@ -87,12 +88,46 @@ def new_word(num_syl):
 	return word
 
 
+def load_all_words(directory, max_size=0):
+	"""return a list of all the words in this directory"""
+	words = []
+	for filename in os.listdir(directory):
+		with open(directory+'\\'+filename, 'r') as f:
+			lines = f.readlines()
+			if max_size == 0 or len(lines) < max_size:
+				for line in lines:
+					if len(line) > 1:
+						try:
+							words.append(line[line.index(',')+1:].replace('sh','c').replace('\n',''))
+						except ValueError:
+							words.append(line.replace('sh','c').replace('\n',''))
+						if words[-1] == '':
+							print("! {}".format(filename))
+	return words
+
+
+def check_words(directory):
+	"""verify that no two words are too similar"""
+	words = load_all_words(directory, max_size=1000)
+	problem = False
+	for i, wordi in enumerate(words):
+		for j, wordj in enumerate(words[:i]):
+			if similar(wordi, wordj):
+				print("Are you aware that {} and {} are both words?".format(wordi, wordj))
+				problem = True
+	if problem:
+		return 1
+	else:
+		print("All clear")
+		return 0
+
+
 def generate_dictionary(num_words_syl=[5,5], seed=None, filename=None):
 	"""generate a bunch of random unique words"""
-	if seed == None:
-		cache = []
-	else:
-		cache = seed
+	if seed == None: #pre-existing words
+		seed = []
+
+	cache = [] #words from previous syllable counts
 
 	for i, num_words in enumerate(num_words_syl): # for each syllable-count set
 		words = []
@@ -102,7 +137,7 @@ def generate_dictionary(num_words_syl=[5,5], seed=None, filename=None):
 			word = new_word(num_syl) # think of a word
 
 			too_similar = False # check that it is not too similar to any other words
-			for w in cache+words:
+			for w in seed+cache+words:
 				if similar(word, w):
 					too_similar = True
 					break
@@ -131,7 +166,7 @@ def generate_dictionary(num_words_syl=[5,5], seed=None, filename=None):
 
 
 if __name__ == '__main__':
-	words = generate_dictionary([1])
+	words = generate_dictionary([0,100], seed=load_all_words('dictionary'))
 	#words = generate_dictionary([60,5000,100000], filename='dictionary/word_cache')
 	for word in words:
 		print(word)
