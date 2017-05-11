@@ -4,7 +4,7 @@ So, you want to speak a better and less biased version of Esperanto. How do you 
 
 ## Grammar
 
-The grammar of Djastiz is designed to be nearly unambiguous and minimally redundant. As such, there are far more grammar tokens than in other languages. The primary advantage of this structure is increased control over which information is included and excluded. However, it can seem overwhelming at first. Worry not! Every Djastiz sentence can be broken down into several basic parts.
+The grammar of Djastiz is designed to be nearly unambiguous and minimally redundant. As such, there are far more grammar tokens than in other languages. The primary advantage of this structure is increased control over which information is included and excluded. However, it does tend to whelm at first. Worry not! Every Djastiz sentence can be broken down into several basic parts.
 
 ### Punctuation markers
 
