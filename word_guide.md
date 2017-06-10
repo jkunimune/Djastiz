@@ -269,8 +269,14 @@
 <dt>biapeup</dt>
 <dd><i>noun</i>	<b>burying</b></dd>
 
+<dt>bibush</dt>
+<dd><i>noun</i>	<b>disgustingness</b></dd>
+
 <dt>bidou</dt>
 <dd><i>noun</i>	<b>scalidophora</b>; mud-dwelling tiny aquatic things</dd>
+
+<dt>biedi</dt>
+<dd><i>noun</i>	<b>cleverness</b>; the innate ability to solve riddles and puzzles</dd>
 
 <dt>bieudi</dt>
 <dd><i>noun</i>	<b>resisting</b></dd>
@@ -289,6 +295,9 @@
 
 <dt>bitip</dt>
 <dd><i>noun</i>	<b>flamingo</b></dd>
+
+<dt>biuit</dt>
+<dd><i>noun</i>	<b>wisdom</b></dd>
 
 <dt>bizep</dt>
 <dd><i>noun</i>	<b>future</b></dd>
@@ -461,6 +470,9 @@
 <dt>ditab</dt>
 <dd><i>noun</i>	<b>sharing</b></dd>
 
+<dt>ditesh</dt>
+<dd><i>noun</i>	<b>smartness</b>; the quality of understanding a lot of abstract concepts</dd>
+
 <dt>diuab</dt>
 <dd><i>noun</i>	<b>freeness</b>; time management</dd>
 
@@ -609,7 +621,7 @@
 <dd><i>noun</i>	<b>recording</b></dd>
 
 <dt>eiduid</dt>
-<dd><i>noun</i>	<b>competing</b></dd>
+<dd><i>noun</i>	<b>opposing</b>; competing with</dd>
 
 <dt>eiesh</dt>
 <dd><i>noun</i>	<b>6</b></dd>
@@ -619,6 +631,9 @@
 
 <dt>eik</dt>
 <dd><i>article</i>	<b>that</b>; associated with listener</dd>
+
+<dt>eiog</dt>
+<dd><i>noun</i>	<b>to-and-fro</b>; compounded with a word that has a positive direction to refer to both directions (instead of saying oziiatozi or iatoziozi or something dumb like that</dd>
 
 <dt>eipish</dt>
 <dd><i>noun</i>	<b>shorebird</b></dd>
@@ -657,7 +672,7 @@
 <dd><i>noun</i>	<b>entognatha</b>; six-legged bugs that are not insects</dd>
 
 <dt>esek</dt>
-<dd><i>noun</i>	<b>day</b>; 24 hr</dd>
+<dd><i>noun</i>	<b>day</b>; time unit</dd>
 
 <dt>esheub</dt>
 <dd><i>noun</i>	<b>columbimorphae</b>; pidgeons doves sandgrouses and mesites</dd>
@@ -744,13 +759,13 @@
 <dd><i>noun</i>	<b>plankton</b>; anything microscopic that belongs to nephrozoa</dd>
 
 <dt>ezo</dt>
-<dd><i>noun</i>	<b>being</b></dd>
+<dd><i>noun</i>	<b>being</b>; this is ==; not .equals(</dd>
 
 <dt>ezozi</dt>
 <dd><i>noun-technical</i>	<b>physics.resistance</b></dd>
 
 <dt>gabos</dt>
-<dd><i>noun</i>	<b>second</b></dd>
+<dd><i>noun</i>	<b>snap</b>; 10^-5 days</dd>
 
 <dt>gadi</dt>
 <dd><i>noun</i>	<b>snake</b></dd>
@@ -782,6 +797,9 @@
 <dt>gatu</dt>
 <dd><i>noun</i>	<b>interesting</b></dd>
 
+<dt>gaude</dt>
+<dd><i>noun</i>	<b>charisma</b></dd>
+
 <dt>gauib</dt>
 <dd><i>noun</i>	<b>fly</b>; in the taxonomical sense excluding mosquitos and houseflies</dd>
 
@@ -792,7 +810,7 @@
 <dd><i>noun</i>	<b>allowing</b>; permission-giving</dd>
 
 <dt>gebesh</dt>
-<dd><i>noun</i>	<b>hour</b></dd>
+<dd><i>noun</i>	<b>level</b></dd>
 
 <dt>gebeud</dt>
 <dd><i>noun</i>	<b>basing</b>; operations and such</dd>
@@ -861,7 +879,7 @@
 <dd><i>noun</i>	<b>hoatzin</b>; some weird kind of bird</dd>
 
 <dt>giushuk</dt>
-<dd><i>noun</i>	<b>opposing</b></dd>
+<dd><i>noun</i>	<b>physicality</b>; describes things in the physical realm</dd>
 
 <dt>gizeid</dt>
 <dd><i>noun</i>	<b>dear-holding</b></dd>
@@ -1062,7 +1080,7 @@
 <dd><i>noun</i>	<b>zooming</b>; gotta go fast</dd>
 
 <dt>ijus</dt>
-<dd><i>noun</i>	<b>significance</b></dd>
+<dd><i>noun</i>	<b>morning</b></dd>
 
 <dt>ikaib</dt>
 <dd><i>noun</i>	<b>substituting</b></dd>
@@ -1112,6 +1130,9 @@
 <dt>ishak</dt>
 <dd><i>noun</i>	<b>experiencing</b></dd>
 
+<dt>ishas</dt>
+<dd><i>noun</i>	<b>to-pee-having</b></dd>
+
 <dt>isheu</dt>
 <dd><i>noun</i>	<b>cephalochordata</b>; lancelets and branchiostomidae</dd>
 
@@ -1146,7 +1167,7 @@
 <dd><i>noun</i>	<b>neoteleostei</b>; jellynoses lizardfishes lanternfishes beardfishes troutperches cods dories oarfishes opahs ribbonfishes and squirrelfishes</dd>
 
 <dt>iti</dt>
-<dd><i>noun</i>	<b>name</b></dd>
+<dd><i>noun</i>	<b>exceeding</b>; the subject exceeds the reciprocator in the object</dd>
 
 <dt>iu</dt>
 <dd><i>preposition</i>	<b>obj</b>; denotes direct object</dd>
@@ -1177,6 +1198,9 @@
 
 <dt>iutag</dt>
 <dd><i>noun</i>	<b>osprey</b></dd>
+
+<dt>izaig</dt>
+<dd><i>noun</i>	<b>chunk</b>; 10^4 days</dd>
 
 <dt>ize</dt>
 <dd><i>noun</i>	<b>forcing</b></dd>
@@ -1248,7 +1272,7 @@
 <dd><i>noun</i>	<b>cousin-being</b></dd>
 
 <dt>jegub</dt>
-<dd><i>noun</i>	<b>satisfaction-feeling</b>; the good feeling produced by snapping parts together or popping bubble wrap</dd>
+<dd><i>noun</i>	<b>satisfyingness</b>; the good feeling produced by snapping parts together or popping bubble wrap</dd>
 
 <dt>jeiju</dt>
 <dd><i>noun</i>	<b>child</b></dd>
@@ -1264,6 +1288,9 @@
 
 <dt>jekish</dt>
 <dd><i>noun</i>	<b>movie-making</b></dd>
+
+<dt>jepik</dt>
+<dd><i>noun</i>	<b>altitude</b>; angle from horizon</dd>
 
 <dt>jes</dt>
 <dd><i>article</i>	<b>the</b>; previously mentioned</dd>
@@ -1293,7 +1320,7 @@
 <dd><i>noun</i>	<b>pumpkin</b></dd>
 
 <dt>jidiz</dt>
-<dd><i>noun</i>	<b>exceeding</b></dd>
+<dd><i>noun</i>	<b>name</b></dd>
 
 <dt>jidud</dt>
 <dd><i>noun</i>	<b>offering</b>; suggesting</dd>
@@ -1392,7 +1419,7 @@
 <dd><i>noun</i>	<b>curve</b>; any smooth path</dd>
 
 <dt>kasok</dt>
-<dd><i>noun</i>	<b>reading</b>; parsing symbols into words with one's eyes</dd>
+<dd><i>noun</i>	<b>written-language</b>; parsing symbols into words with one's eyes</dd>
 
 <dt>kauo</dt>
 <dd><i>noun</i>	<b>front-backness</b></dd>
@@ -1416,7 +1443,7 @@
 <dd><i>noun</i>	<b>sex-having</b></dd>
 
 <dt>kesei</dt>
-<dd><i>noun</i>	<b>amusement-feeling</b>; reaction to comedy</dd>
+<dd><i>noun</i>	<b>amusingness</b>; object is the person amused</dd>
 
 <dt>kesha</dt>
 <dd><i>noun</i>	<b>intending</b></dd>
@@ -1437,7 +1464,7 @@
 <dd><i>noun</i>	<b>bitterness</b></dd>
 
 <dt>keui</dt>
-<dd><i>noun</i>	<b>minute</b></dd>
+<dd><i>noun</i>	<b>span</b>; 10^-3 days</dd>
 
 <dt>keukib</dt>
 <dd><i>noun</i>	<b>trichoplax</b>; real small and thin sponge-like animals</dd>
@@ -1523,6 +1550,9 @@
 <dt>kubop</dt>
 <dd><i>noun</i>	<b>sitting</b></dd>
 
+<dt>kuiak</dt>
+<dd><i>noun</i>	<b>knowledge</b>; the quality of knowing a lot of facts</dd>
+
 <dt>kujou</dt>
 <dd><i>noun</i>	<b>caring</b></dd>
 
@@ -1537,6 +1567,9 @@
 
 <dt>kushag</dt>
 <dd><i>noun</i>	<b>shooting</b></dd>
+
+<dt>kuzi</dt>
+<dd><i>noun</i>	<b>rapidity</b>; of communication; the idea with this word is to distinguish rapid SMS texting from unrapid email</dd>
 
 <dt>obaba</dt>
 <dd><i>noun-technical</i>	<b>physics.momentum</b></dd>
@@ -1590,7 +1623,7 @@
 <dd><i>noun</i>	<b>publicity</b></dd>
 
 <dt>ojeut</dt>
-<dd><i>noun</i>	<b>month</b></dd>
+<dd><i>noun</i>	<b>term</b>; 10^2 days</dd>
 
 <dt>ojo</dt>
 <dd><i>noun</i>	<b>saying</b>; using a declarative sentence</dd>
@@ -1680,7 +1713,7 @@
 <dd><i>noun</i>	<b>striking</b>; a swift decisive action</dd>
 
 <dt>ozi</dt>
-<dd><i>noun</i>	<b>altitude</b></dd>
+<dd><i>noun</i>	<b>height</b>; vertical coordinate</dd>
 
 <dt>ozogo</dt>
 <dd><i>noun-technical</i>	<b>physics.potential</b></dd>
@@ -1719,7 +1752,7 @@
 <dd><i>noun</i>	<b>saltiness</b></dd>
 
 <dt>pazai</dt>
-<dd><i>noun</i>	<b>structural-integrity</b>; resistance to breaking</dd>
+<dd><i>noun</i>	<b>structural-integrity</b>; resistance to breaking bending or deforming</dd>
 
 <dt>pazeut</dt>
 <dd><i>noun</i>	<b>nutmeg</b></dd>
@@ -1762,6 +1795,9 @@
 
 <dt>peuip</dt>
 <dd><i>noun</i>	<b>face</b></dd>
+
+<dt>pezis</dt>
+<dd><i>noun</i>	<b>preparing</b>; as in food</dd>
 
 <dt>pi</dt>
 <dd><i>conjunction</i>	<b>name{</b></dd>
@@ -1850,8 +1886,14 @@
 <dt>pubuk</dt>
 <dd><i>noun</i>	<b>temperature</b></dd>
 
+<dt>pudaz</dt>
+<dd><i>noun</i>	<b>orientation</b>; angular position from the point of view of the object</dd>
+
 <dt>puk</dt>
 <dd><i>article</i>	<b>thatoverthere</b>; associated with neither speaker nor listener</dd>
+
+<dt>pukeg</dt>
+<dd><i>noun</i>	<b>season</b>; a time of year when something is "in"</dd>
 
 <dt>pukud</dt>
 <dd><i>noun</i>	<b>leptostrac</b></dd>
@@ -2003,6 +2045,12 @@
 <dt>shepat</dt>
 <dd><i>noun</i>	<b>foreignness</b></dd>
 
+<dt>shepeg</dt>
+<dd><i>noun</i>	<b>disk</b>; a place where a computer stores information</dd>
+
+<dt>sheshiz</dt>
+<dd><i>noun</i>	<b>spoken-language</b>; combining this with active-perceiving means listening or compehending</dd>
+
 <dt>shesud</dt>
 <dd><i>noun</i>	<b>mind</b></dd>
 
@@ -2069,6 +2117,9 @@
 <dt>shok</dt>
 <dd><i>preposition</i>	<b>at</b>; denotes date/time</dd>
 
+<dt>shokas</dt>
+<dd><i>noun</i>	<b>whispering</b>; speaking without voicing vowels or consonants</dd>
+
 <dt>shokok</dt>
 <dd><i>noun</i>	<b>egg</b></dd>
 
@@ -2129,6 +2180,9 @@
 <dt>shuita</dt>
 <dd><i>noun</i>	<b>air</b></dd>
 
+<dt>shuked</dt>
+<dd><i>noun</i>	<b>durability</b>; resistance to breaking</dd>
+
 <dt>shukoi</dt>
 <dd><i>noun</i>	<b>mecoptera</b>; flying scorpions!</dd>
 
@@ -2160,7 +2214,7 @@
 <dd><i>noun</i>	<b>mountain</b></dd>
 
 <dt>sibi</dt>
-<dd><i>noun</i>	<b>angle</b>; difference with object being centrum</dd>
+<dd><i>noun</i>	<b>angle</b>; angular difference with object being centrum</dd>
 
 <dt>sijid</dt>
 <dd><i>noun</i>	<b>fish</b></dd>
@@ -2520,7 +2574,7 @@
 <dd><i>noun</i>	<b>understanding</b></dd>
 
 <dt>uiep</dt>
-<dd><i>noun</i>	<b>bearing</b>; mathematical convention with object being origin</dd>
+<dd><i>noun</i>	<b>bearing</b>; counterclockwise from straight ahead with object being origin</dd>
 
 <dt>uieuk</dt>
 <dd><i>noun</i>	<b>partying</b></dd>
@@ -2586,7 +2640,7 @@
 <dd><i>noun-technical</i>	<b>math.velocity</b></dd>
 
 <dt>upak</dt>
-<dd><i>noun</i>	<b>morning</b></dd>
+<dd><i>noun</i>	<b>significance</b></dd>
 
 <dt>upop</dt>
 <dd><i>noun</i>	<b>remembering</b>; to do something</dd>
@@ -2595,7 +2649,7 @@
 <dd><i>noun</i>	<b>ophiuroid</b>; think 'seastar' but less brittle</dd>
 
 <dt>upoz</dt>
-<dd><i>noun</i>	<b>level</b></dd>
+<dd><i>noun</i>	<b>ke</b>; 10^-2 days</dd>
 
 <dt>use</dt>
 <dd><i>noun</i>	<b>posessing</b></dd>
@@ -2608,6 +2662,9 @@
 
 <dt>utug</dt>
 <dd><i>noun</i>	<b>path</b></dd>
+
+<dt>uza</dt>
+<dd><i>noun</i>	<b>equaling</b>; the subject matches the reciprocator in the object</dd>
 
 <dt>uzeso</dt>
 <dd><i>noun-technical</i>	<b>astronomy.galaxy</b></dd>
@@ -2832,7 +2889,7 @@
 <dd><i>noun</i>	<b>grouping</b>; associating with one another</dd>
 
 <dt>zusit</dt>
-<dd><i>noun</i>	<b>week</b></dd>
+<dd><i>noun</i>	<b>cycle</b>; 10 days</dd>
 
 <dt>zusup</dt>
 <dd><i>noun</i>	<b>opilione</b>; things that look like spiders</dd>

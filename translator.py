@@ -53,8 +53,9 @@ def translate(filename, english_to_djastiz, hist=None, arr = None):
 						dja_line=dja_line+ dja_word+" "
 						frequencies[dja_word] = frequencies.get(dja_word,0)+1
 					else:
-						dja_line=dja_line+ eng_word+" "
-						print("Warning: There is no word for '{}'".format(eng_word))
+						dja_line=dja_line+ eng_word+" " #ignore capitalized words
+						if eng_word[0] != eng_word[0].upper():
+							print("Warning: There is no word for '{}'".format(eng_word))
 				new_file=new_file+ dja_line[:-1]+'\n'
 			else:
 				new_file=new_file+ line

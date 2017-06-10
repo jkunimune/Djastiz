@@ -60,7 +60,7 @@ iat daid ekog
 
 Good morning. (3->3)
 merry morning
-daid upak
+daid ijus
 
 Good day. (2->3)
 merry daytime
@@ -68,11 +68,11 @@ daid zidug
 
 Good evening. (3->4)
 merry un morning
-daid iat upak
+daid iat ijus
 
 Happy Birthday. (4->7)
-merry datetime day born-being
-daid uoui esek born-being
+merry datetime day birth-giving
+daid uoui esek eibi
 
 Merry Christmas. (4->5)
 merry name{ Christmas }

@@ -2,12 +2,12 @@ yes,kaup
 no,dueg
 excusing,ote
 sorry-feeling,ake
-being,ezo
+being (this is ==; not .equals()),ezo
 person,opu
 prosperity,oio
 radius (outside-inside),etu
 posessing,use
-altitude,ozi
+height (vertical coordinate),ozi
 doing,iku
 time (t = 13.7),odo
 moment (e.g. 5 years from now),ige
@@ -28,11 +28,12 @@ causing,aui
 active-perceiving (looking or listening or sniffing),aie
 passive-perceiving (seeing or hearing or smelling),asu
 toward (creates compound words with states to convert them to transitions),ipo
+exceeding (the subject exceeds the reciprocator in the object),iti
+equaling (the subject matches the reciprocator in the object),uza
 morality,aidop
 skillfulness,atas
 aptitude (fitting a situation well),pegug
 effectiveness,tojot
-exceeding,jidiz
 year,ibish
 giving,tisid
 working (doing work) or being productive),suzus
@@ -46,7 +47,7 @@ order (index in a list),tibed
 age,kidash
 path,utug
 finding,jasho
-day (24 hr),esek
+day (time unit),esek
 thing,kadoj
 half,uidiz
 recommending,shijash
@@ -101,7 +102,7 @@ timeliness,zoke
 activation,teseb
 interval,edau
 world,okeb
-week,zusit
+cycle (10 days),zusit
 music-making (an instrument),dokish
 goofing,zeshau
 mighting,teshaj
@@ -133,9 +134,9 @@ speed,gubet
 money,gobob
 fact,popeb
 region,keshush
-reading (parsing symbols into words with one's eyes),kasok
+written-language (parsing symbols into words with one's eyes),kasok
 friend,pusheu
-month,ojeut
+term (10^2 days),ojeut
 information,goku
 openness,susos
 governing,eijop
@@ -148,7 +149,7 @@ constructing,shabo
 holding,eubop
 servicing,bokis
 selling,iubu
-second,gabos
+snap (10^-5 days),gabos
 loving (romantically),kapoz
 employing,dodiz
 planning,koiu
@@ -160,7 +161,7 @@ instructing,tizi
 following,pago
 understanding,uidoj
 grateful-feeling,tobi
-hour,gebesh
+ke (10^-2 days),upoz
 face,peuip
 hoping,toije
 thinking-of,jaget
@@ -171,7 +172,7 @@ future,bizep
 reasoning,doge
 head,iepo
 automobile,osou
-level,upoz
+level,gebesh
 experiencing,ishak
 sufficing,baduj
 city,boju
@@ -231,7 +232,7 @@ deciding,sopuk
 language,shaiaz
 subjecting (focusing on),gobuk
 dividing,igib
-minute,keui
+span (10^-3 days),keui
 breaking (physically falling apart or cracking),egai
 leisuring,geiu
 clearing,uipad
@@ -273,9 +274,9 @@ doing-staff-things,dupo
 participating,eupek
 movie-making,jekish
 film (the original meaning - thin thanslucent surfaces),ezaid
-morning,upak
+morning,ijus
 logging-in,ejaj
-significance,ijus
+significance,upak
 designing,ieshush
 specialness (uniqueness),goshai
 parameter,zutet
@@ -362,9 +363,13 @@ luck,oudis
 dreaming,iogu
 latitude (south+),supek
 longitude (east+),shezes
-angle (difference with object being centrum),sibi
-bearing (mathematical convention with object being origin),uiep
+angle (angular difference with object being centrum),sibi
+altitude (angle from horizon),jepik
+bearing (counterclockwise from straight ahead with object being origin),uiep
+orientation (angular position from the point of view of the object),pudaz
 corresponding (relating - not writing),jujak
+chunk (10^4 days),izaig
+season (a time of year when something is "in"),pukeg
 spring (the season),ebueg
 summer,supu
 imploring (using an imperative sentence),asoup
@@ -384,7 +389,8 @@ revolving,degek
 mocking,ogob
 disease-having,aujak
 embarking (in the metaphorical sense; it is similar to peuzauzek but it involves more of a habitual journey than a state),shutua
-structural-integrity (resistance to breaking),pazai
+structural-integrity (resistance to breaking bending or deforming),pazai
+durability (resistance to breaking),shuked
 strength (ability to exact force),pakou
 translating,judot
 standing (structurally e.g. a building),papus
@@ -788,7 +794,7 @@ toiletries,goishek
 transforming,shaupip
 attacking (a sudden violent engagement),tousap
 violence,ieboub
-competing,eiduid
+opposing (competing with),eiduid
 striking (a swift decisive action),oushois
 basing (operations and such),gebeud
 hiding,koutep
@@ -836,11 +842,11 @@ literalness,piesaz
 technicality,doshoig
 sesquipedalianness,poitoik
 lying (deceiving),baupud
-opposing,giushuk
+physicality (describes things in the physical realm),giushuk
 secret-keeping,giabouz
 meaning (big-picture meaning of things),pogeis
 existing,soidug
-name,iti
+name,jidiz
 robot,shijap
 picture,gukoj
 topography (geography),atek
@@ -853,9 +859,22 @@ intoxication (applies to alcohol as well as other drugs),aigush
 marriage,buso
 pleasure-feeling (euphoria e.g. from food music or sex),zugak
 pride-feeling (the happiness associated with feeling like a productive member of society),apoi
-amusement-feeling (reaction to comedy),kesei
-satisfaction-feeling (the good feeling produced by snapping parts together or popping bubble wrap),jegub
+amusingness (object is the person amused),kesei
+satisfyingness (the good feeling produced by snapping parts together or popping bubble wrap),jegub
 apprehension-feeling (hesitative reaction to decisions),dushos
 dimensionality (i.e. 2D or 3D),deiap
 functioning (doing what one is supposed to),isui
 perusing,sudij
+rapidity (of communication; the idea with this word is to distinguish rapid SMS texting from unrapid email),kuzi
+to-pee-having,ishas
+disgustingness,bibush
+spoken-language (combining this with active-perceiving means listening or compehending),sheshiz
+knowledge (the quality of knowing a lot of facts),kuiak
+smartness (the quality of understanding a lot of abstract concepts),ditesh
+wisdom,biuit
+cleverness (the innate ability to solve riddles and puzzles),biedi
+charisma,gaude
+whispering (speaking without voicing vowels or consonants),shokas
+disk (a place where a computer stores information),shepeg
+to-and-fro (compounded with a word that has a positive direction to refer to both directions (instead of saying oziiatozi or iatoziozi or something dumb like that)),eiog
+preparing (as in food),pezis

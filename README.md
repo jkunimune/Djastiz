@@ -112,6 +112,8 @@ Numbers can also be considered a special word in that they concatenate with each
 
 `je` is Djastiz's only contraction. It is short for `ju ped e`, and serves a very specific purpose. When `je` is followed by a single noun (note that modifiers and clauses may not be used here) and preposition, the phrase reads as `ju ped e`, the noun, the preposition, `sob up`. It is extremely useful for describing professions and objects associated with actions. For example, while Djastiz has no single word for "customer", `je pipez bu` works just fine. Note that while `je` is derived from `ju ped e`, they do not mean the same thing, as `je` also contains the `sob up` after the noun and preposition.
 
+It should also be noted that when describing rotation in three dimensions, the rotation is described as a vector, applying the right-hand-rule. This is generally more precise and succinct than using terms like "clockwise" and "counter-clockwise", or whatever we do in English with that "righty-tighty" nonsense. What does that even mean?
+
 ## Vocabulary
 
 In the grammar section, we defined every word in the language save two groups: nouns and prefixes. Prefixes will be defined in a bit, but there are far too many nouns to list here - hundreds upon hundreds. Instead, I will lay out the tools to interpret new nouns and create one's own when necessary.
@@ -160,16 +162,16 @@ Djastiz has a relatively simple written language. It uses a phonetic alphabet, a
 - [`aj`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/aj.svg) is Romanized "a" and pronounced '&#593;' or '&#228;' in the [IPA][1].
 - [`og`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/og.svg) is Romanized "o" and pronounced '&#596;' in the [IPA][1].
 - [`up`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/up.svg) is Romanized "u" and pronounced 'u' or 'w' in the [IPA][1].
-- [`kush`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/kush.svg) is Romanized "k" and pronounced 'k' in the [IPA][1].
 - [`guz`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/guz.svg) is Romanized "g" and pronounced 'g' in the [IPA][1].
-- [`to`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/to.svg) is Romanized "t" and pronounced 't' in the [IPA][1].
+- [`kush`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/kush.svg) is Romanized "k" and pronounced 'k' in the [IPA][1].
 - [`dik`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/dik.svg) is Romanized "d" and pronounced 'd' in the [IPA][1].
-- [`pi`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/pi.svg) is Romanized "p" and pronounced 'p' in the [IPA][1].
+- [`to`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/to.svg) is Romanized "t" and pronounced 't' in the [IPA][1].
 - [`bu`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/bu.svg) is Romanized "b" and pronounced 'b' in the [IPA][1].
-- [`si`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/si.svg) is Romanized "s" and pronounced 's' in the [IPA][1].
+- [`pi`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/pi.svg) is Romanized "p" and pronounced 'p' in the [IPA][1].
 - [`zai`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/zai.svg) is Romanized "z" and pronounced 'z' in the [IPA][1].
-- [`shau`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/shau.svg) is Romanized "sh" or "c" and pronounced '&#643;' in the [IPA][1].
+- [`si`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/si.svg) is Romanized "s" and pronounced 's' in the [IPA][1].
 - [`ju`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/ju.svg) is Romanized "j" and pronounced '&#658;' in the [IPA][1].
+- [`shau`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/shau.svg) is Romanized "sh" or "c" and pronounced '&#643;' in the [IPA][1].
 
 If a single letter has multiple pronounciations, either can be used without affecting the meaning.
 The actual Djastiz character for each of these in svg format can be found in the "written language" folder of this repository. While there are no punctuation letter in Djastiz, words are separated by spaces of the same height as a letter. Compound words and expansions are single words and therefore do not contain spaces.
