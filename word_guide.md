@@ -90,7 +90,7 @@
 <dd><i>noun</i>	<b>extracting</b></dd>
 
 <dt>ashe</dt>
-<dd><i>noun</i>	<b>location</b></dd>
+<dd><i>noun</i>	<b>space</b>; the subject is located at the object</dd>
 
 <dt>ashiob</dt>
 <dd><i>noun</i>	<b>business-openness</b></dd>
@@ -327,7 +327,7 @@
 <dd><i>noun</i>	<b>study</b>; a subject</dd>
 
 <dt>boteg</dt>
-<dd><i>noun</i>	<b>position</b>; physical state</dd>
+<dd><i>noun</i>	<b>position</b>; physical state other than location</dd>
 
 <dt>boubaib</dt>
 <dd><i>noun</i>	<b>wearing-and-tearing</b></dd>
@@ -594,7 +594,7 @@
 <dd><i>noun</i>	<b>courting</b></dd>
 
 <dt>edi</dt>
-<dd><i>noun</i>	<b>computing</b></dd>
+<dd><i>noun</i>	<b>accepting</b>; this applies to apologies thanks challenges etc.</dd>
 
 <dt>edub</dt>
 <dd><i>noun</i>	<b>flicker</b>; any rapid occilation</dd>
@@ -699,7 +699,7 @@
 <dd><i>noun</i>	<b>describing</b></dd>
 
 <dt>etu</dt>
-<dd><i>noun</i>	<b>radius</b>; outside-inside</dd>
+<dd><i>noun</i>	<b>region</b>; an area in space of a period of time</dd>
 
 <dt>eubid</dt>
 <dd><i>noun</i>	<b>maxillopod</b>; barnacles and copepods</dd>
@@ -938,6 +938,9 @@
 <dt>gubet</dt>
 <dd><i>noun</i>	<b>speed</b></dd>
 
+<dt>gubu</dt>
+<dd><i>noun</i>	<b>sympathyzing</b></dd>
+
 <dt>gudak</dt>
 <dd><i>noun</i>	<b>sloth</b></dd>
 
@@ -1062,7 +1065,7 @@
 <dd><i>noun</i>	<b>becoming</b></dd>
 
 <dt>ige</dt>
-<dd><i>noun</i>	<b>moment</b>; e.g. 5 years from now</dd>
+<dd><i>noun</i>	<b>point</b>; a particular time or place</dd>
 
 <dt>igib</dt>
 <dd><i>noun</i>	<b>dividing</b></dd>
@@ -1427,6 +1430,9 @@
 <dt>kaup</dt>
 <dd><i>noun</i>	<b>yes</b></dd>
 
+<dt>kegu</dt>
+<dd><i>noun</i>	<b>pushing</b></dd>
+
 <dt>keigus</dt>
 <dd><i>noun</i>	<b>bamboo</b></dd>
 
@@ -1449,7 +1455,7 @@
 <dd><i>noun</i>	<b>intending</b></dd>
 
 <dt>keshush</dt>
-<dd><i>noun</i>	<b>region</b></dd>
+<dd><i>noun</i>	<b>radius</b>; outside-inside</dd>
 
 <dt>keteg</dt>
 <dd><i>noun</i>	<b>berry</b></dd>
@@ -1584,7 +1590,7 @@
 <dd><i>noun-technical</i>	<b>physics.rotational-inertia</b></dd>
 
 <dt>odo</dt>
-<dd><i>noun</i>	<b>time</b>; t = 13.7</dd>
+<dd><i>noun</i>	<b>time</b>; e.g. t = 13.7</dd>
 
 <dt>odut</dt>
 <dd><i>noun</i>	<b>initiating</b></dd>
@@ -2156,6 +2162,9 @@
 <dt>shoujei</dt>
 <dd><i>noun</i>	<b>tree</b></dd>
 
+<dt>shouso</dt>
+<dd><i>noun</i>	<b>challenging</b></dd>
+
 <dt>shuaij</dt>
 <dd><i>punctuation</i>	<b>please</b>; polite imperative</dd>
 
@@ -2242,6 +2251,9 @@
 
 <dt>soiki</dt>
 <dd><i>noun</i>	<b>cylinder</b></dd>
+
+<dt>soisa</dt>
+<dd><i>noun</i>	<b>computing</b></dd>
 
 <dt>sopoid</dt>
 <dd><i>noun</i>	<b>sponge</b></dd>
@@ -2866,6 +2878,9 @@
 
 <dt>zukek</dt>
 <dd><i>noun</i>	<b>thelyphonid</b></dd>
+
+<dt>zuko</dt>
+<dd><i>noun</i>	<b>wiseness</b>; of a decision</dd>
 
 <dt>zukuauz</dt>
 <dd><i>noun</i>	<b>jumping</b></dd>

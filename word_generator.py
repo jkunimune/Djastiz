@@ -166,7 +166,7 @@ def generate_dictionary(num_words_syl=[5,5], seed=None, filename=None):
 
 
 if __name__ == '__main__':
-	words = generate_dictionary([0,20], seed=load_all_words('dictionary'))
-	#words = generate_dictionary([60,5000,100000], filename='dictionary/word_cache')
-	for word in words:
-		print(word)
+	print(check_words('dictionary'))
+	# words = generate_dictionary([0,20], seed=load_all_words('dictionary'))
+	# for word in words:
+	# 	print(word)

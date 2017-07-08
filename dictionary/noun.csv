@@ -5,21 +5,22 @@ sorry-feeling,ake
 being (this is ==; not .equals()),ezo
 person,opu
 prosperity,oio
-radius (outside-inside),etu
+radius (outside-inside),keshush
 posessing,use
 height (vertical coordinate),ozi
 doing,iku
-time (t = 13.7),odo
-moment (e.g. 5 years from now),ige
+time (e.g. t = 13.7),odo
+space (the subject is located at the object),ashe
+point (a particular time or place),ige
+region (an area in space of a period of time),etu
 saying (using a declarative sentence),ojo
 going (from one place to another),ugi
 relating (to),uka
 able-being,aba
-location,ashe
 knowing,euo
 obtaining,osa
 liking,ija
-computing,edi
+accepting (this applies to apologies thanks challenges etc.),edi
 believing,ebe
 creating,udu
 length (distance),uia
@@ -133,7 +134,6 @@ handing,eiaij
 speed,gubet
 money,gobob
 fact,popeb
-region,keshush
 written-language (parsing symbols into words with one's eyes),kasok
 friend,pusheu
 term (10^2 days),ojeut
@@ -267,7 +267,7 @@ agreeing,uzip
 researching,uboj
 covering (physical),gupuk
 paper,euko
-position (physical state),boteg
+position (physical state other than location),boteg
 computer,uobe
 situation,iuguz
 doing-staff-things,dupo
@@ -878,3 +878,8 @@ whispering (speaking without voicing vowels or consonants),shokas
 disk (a place where a computer stores information),shepeg
 to-and-fro (compounded with a word that has a positive direction to refer to both directions (instead of saying oziiatozi or iatoziozi or something dumb like that)),eiog
 preparing (as in food),pezis
+sympathyzing,gubu
+challenging,shouso
+computing,soisa
+wiseness (of a decision),zuko
+pushing,kegu

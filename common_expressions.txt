@@ -1,99 +1,103 @@
-Excuse me. (3->4)
+Excuse me. [3->4]
 please pdc excusing
 shuaij e ote
 
-You are excused. (4->4)
+You are excused. [4->4]
 let pdc excusing
 pioip e ote
 
-Thank you. (2->4)
+Thank you. [2->4]
 . pdc grateful-feeling
 poj e tobi
 
-You're welcome. (3->3)
-. with me
-poj og bas
+You're welcome. [3->3]
+. pdc accepting
+poj e edi
 
-Sorry. (2->4)
+Sorry [apology]. [2->4]
 . pdc sorry-feeling
 poj e ake
 
-Apology accepted. (7->3)
-. with me
-poj og bas
+Apology accepted. [7->3]
+. pdc accepting
+poj e edi
 
-Don't worry about it. (6->5)
+Don't worry about it. [6->5]
 ! pdc not sorry-feeling
 saz e guis ake
 
-I don't speak this language very well. (9->8)
+Sorry [sympathetic]. [2->4]
+. pdc sympathyzing
+poj e gubu
+
+I don't speak this language very well. [9->8]
 ! pdc talking in very rate
 saz e saijez shau peig kakuj
 
-What does that mean? (4->4)
+What does that mean? [4->4]
 ? pdc denoting
 zad e agip
 
-Fuck. (1->2)
+Fuck. [1->2]
 un bless
 iat shuip
 
-Fuck you. (2->3)
+Fuck you. [2->3]
 un bless you
 iat shuip kek
 
-Hooray. (2-1)
+Hooray. [2-1]
 bless
 shuip
 
-Hi. (1->1)
+Hi. [1->1]
 merry
 daid
 
-Bye. (1->2)
+Bye. [1->2]
 un merry
 iat daid
 
-Good night. (2->4)
+Good night. [2->4]
 un merry sleeping
 iat daid ekog
 
-Good morning. (3->3)
+Good morning. [3->3]
 merry morning
 daid ijus
 
-Good day. (2->3)
+Good day. [2->3]
 merry daytime
 daid zidug
 
-Good evening. (3->4)
+Good evening. [3->4]
 merry un morning
 daid iat ijus
 
-Happy Birthday. (4->7)
+Happy Birthday. [4->7]
 merry datetime day birth-giving
 daid uoui esek eibi
 
-Merry Christmas. (4->5)
+Merry Christmas. [4->5]
 merry name{ Christmas }
 daid pi Christmas id
 
-How are you? (3->6)
+How are you? [3->6]
 ? than what pdc prosperity
 zad jeu sob e oio
 
-Well. (1->2)
+Well. [1->2]
 . pdc prosperity
 poj e oio
 
-What about you? (4->3)
+What about you? [4->3]
 ? sbj you
 zad bu kek
 
-My name is Claude. (4->5)
+My name is Claude. [4->5]
 . obj name{ Bloo }
 poj iu pi Bloo id
 
-Where is the bathroom? (5->9)
+Where is the bathroom? [5->9]
 ? on what sbj jupede toiletries on
 zad shug sob bu je goishek shug

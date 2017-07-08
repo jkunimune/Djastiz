@@ -63,7 +63,7 @@ def translate(filename, english_to_djastiz, hist=None, arr = None):
 				eng_sent = line
 			if i%4 == 0:
 				if '->' in line:
-					n_e, n_d = line[line.index('(')+1:line.index(')')].split('->')
+					n_e, n_d = line[line.rindex('[')+1:line.rindex(']')].split('->')
 					syl_counts.append([int(n_e), int(n_d)])
 
 	with open(filename,'w') as f:
@@ -89,7 +89,7 @@ if __name__ == '__main__':
 	reverse_dictionary(dja_to_eng, dja_to_pos, eng_to_notes, 'word_guide.md')
 	hist = {}
 	arr = []
-	hist, arr = translate('idioms.txt', eng_to_dja, hist, arr)
+	hist, arr = translate('proverbs.txt', eng_to_dja, hist, arr)
 	hist, arr = translate('common_expressions.txt', eng_to_dja, hist, arr)
 	hist, arr = translate('examples.txt', eng_to_dja, hist, arr)
 	for key in sorted(hist.keys(), key=lambda k: hist[k]):
