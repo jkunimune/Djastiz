@@ -7,7 +7,7 @@ let pdc excusing
 pioip e ote
 
 Thank you. [2->4]
-. pdc grateful-feeling
+. pdc gratitude
 poj e tobi
 
 You're welcome. [3->3]
@@ -15,7 +15,7 @@ You're welcome. [3->3]
 poj e edi
 
 Sorry [apology]. [2->4]
-. pdc sorry-feeling
+. pdc sorriness
 poj e ake
 
 Apology accepted. [7->3]
@@ -23,7 +23,7 @@ Apology accepted. [7->3]
 poj e edi
 
 Don't worry about it. [6->5]
-! pdc not sorry-feeling
+! pdc not sorriness
 saz e guis ake
 
 Sorry [sympathetic]. [2->4]

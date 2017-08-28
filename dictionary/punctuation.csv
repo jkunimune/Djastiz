@@ -1,10 +1,10 @@
-fullstop (ends sentences and clauses),up
-. (declarative),poj
-? (interrogative),zad
-! (imperative),saz
-; (noun clause),kit
-* (modifier clause),ped
-let (beuracratic),pioip
-please (polite imperative),shuaij
-merry (salutory),daid
-bless (exclamatory),shuip
+fullstop (ends sentences and clauses):up
+. (declarative):poj
+? (interrogative):zad
+! (imperative):saz
+; (noun clause):kit
+* (modifier clause):ped
+let (beuracratic):pioip
+please (polite imperative):shuaij
+merry (salutory):daid
+bless (exclamatory):shuip

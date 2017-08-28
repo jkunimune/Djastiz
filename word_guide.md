@@ -4,2973 +4,3984 @@ This complete Djastiz-to-English dictionary gives the part of speech and English
 
 ## Aj
 
-<dl>
-<dt>aba</dt>
-<dd><i>noun</i>	<b>able-being</b></dd>
+### aba
+_noun_  
+	*able-being*
 
-<dt>abosh</dt>
-<dd><i>noun</i>	<b>sibling-being</b></dd>
+### abosh
+_noun_  
+	*sibling-being*
 
-<dt>abou</dt>
-<dd><i>noun</i>	<b>3</b></dd>
+### abou
+_noun_  
+	*3*
 
-<dt>adak</dt>
-<dd><i>noun</i>	<b>willingness</b></dd>
+### adak
+_noun_  
+	*willingness*
 
-<dt>adedo</dt>
-<dd><i>noun-technical</i>	<b>physics.torque</b></dd>
+### adedo
+_noun-technical_  
+	*physics.torque*
 
-<dt>adoub</dt>
-<dd><i>noun</i>	<b>sphere</b></dd>
+### adoub
+_noun_  
+	*sphere*
 
-<dt>agip</dt>
-<dd><i>noun</i>	<b>denoting</b>; meaning in terms of word definitions</dd>
+### agej
+_noun_  
+	*voicing*; concern, gratitude, sorriness, etc.
 
-<dt>agozi</dt>
-<dd><i>noun-technical</i>	<b>physics.force</b></dd>
+### agip
+_noun_  
+	*denoting*; meaning in terms of word definitions
 
-<dt>aidop</dt>
-<dd><i>noun</i>	<b>morality</b></dd>
+### agozi
+_noun-technical_  
+	*physics.force*
 
-<dt>aie</dt>
-<dd><i>noun</i>	<b>active-perceiving</b>; looking or listening or sniffing</dd>
+### aidop
+_noun_  
+	*morality*
 
-<dt>aigush</dt>
-<dd><i>noun</i>	<b>intoxication</b>; applies to alcohol as well as other drugs</dd>
+### aie
+_noun_  
+	*active-perceiving*; looking or listening or sniffing
 
-<dt>aijosh</dt>
-<dd><i>noun</i>	<b>eurypygimorphae</b>; a bunch of tropical birds</dd>
+### aigush
+_noun_  
+	*intoxication*; applies to alcohol as well as other drugs
 
-<dt>aipuj</dt>
-<dd><i>noun</i>	<b>caddisfly</b></dd>
+### aijosh
+_noun_  
+	*eurypygimorphae*; a bunch of tropical birds
 
-<dt>aishep</dt>
-<dd><i>noun</i>	<b>1000</b></dd>
+### aipuj
+_noun_  
+	*caddisfly*
 
-<dt>aishues</dt>
-<dd><i>noun</i>	<b>dragonfruit</b></dd>
+### aishep
+_noun_  
+	*1000*
 
-<dt>aizaip</dt>
-<dd><i>noun</i>	<b>polypodizoa</b>; jellyfish-like parasites</dd>
+### aishues
+_noun_  
+	*dragonfruit*
 
-<dt>aj</dt>
-<dd><i>conjunction</i>	<b>"{</b></dd>
+### aizaip
+_noun_  
+	*polypodizoa*; jellyfish-like parasites
 
-<dt>ajud</dt>
-<dd><i>noun</i>	<b>parenting</b></dd>
+### aj
+_conjunction_  
+	*"{*
 
-<dt>akaj</dt>
-<dd><i>noun</i>	<b>home</b></dd>
+### ajud
+_noun_  
+	*parenting*
 
-<dt>akapa</dt>
-<dd><i>noun-technical</i>	<b>physics.capacitance</b></dd>
+### akaj
+_noun_  
+	*home*
 
-<dt>ake</dt>
-<dd><i>noun</i>	<b>sorry-feeling</b></dd>
+### akapa
+_noun-technical_  
+	*physics.capacitance*
 
-<dt>akeik</dt>
-<dd><i>noun</i>	<b>amount</b>; multiplicity</dd>
+### ake
+_noun_  
+	*sorriness*
 
-<dt>akieg</dt>
-<dd><i>noun</i>	<b>monoplacophora</b>; a type of molosk</dd>
+### akeik
+_noun_  
+	*amount*; multiplicity
 
-<dt>akizi</dt>
-<dd><i>noun-technical</i>	<b>math.weighted-averaging</b></dd>
+### akieg
+_noun_  
+	*monoplacophora*; a type of molosk
 
-<dt>apagi</dt>
-<dd><i>noun-technical</i>	<b>physics.energy</b></dd>
+### akizi
+_noun-technical_  
+	*math.weighted-averaging*
 
-<dt>apeit</dt>
-<dd><i>noun</i>	<b>palaeognatha</b>; ostriches rheas tinamous kiwis cassowaries and emus</dd>
+### apagi
+_noun-technical_  
+	*physics.energy*
 
-<dt>apeub</dt>
-<dd><i>noun</i>	<b>afroinsectiphilia</b>; golden moles tenrecs elephant shrews aardvarks and some other things</dd>
+### apeit
+_noun_  
+	*palaeognatha*; ostriches, rheas, tinamous, kiwis, cassowaries, and emus
 
-<dt>apik</dt>
-<dd><i>noun</i>	<b>word</b></dd>
+### apeub
+_noun_  
+	*afroinsectiphilia*; golden moles, tenrecs, elephant, shrews, aardvarks, and some other things
 
-<dt>apoi</dt>
-<dd><i>noun</i>	<b>pride-feeling</b>; the happiness associated with feeling like a productive member of society</dd>
+### apik
+_noun_  
+	*word*
 
-<dt>asab</dt>
-<dd><i>noun</i>	<b>extracting</b></dd>
+### apoi
+_noun_  
+	*pride-feeling*; the happiness associated with feeling like a productive member of society
 
-<dt>ashe</dt>
-<dd><i>noun</i>	<b>space</b>; the subject is located at the object</dd>
+### asab
+_noun_  
+	*extracting*
 
-<dt>ashiob</dt>
-<dd><i>noun</i>	<b>business-openness</b></dd>
+### ashe
+_noun_  
+	*space*; the subject is located at the object
 
-<dt>asioib</dt>
-<dd><i>noun</i>	<b>stony-coral</b></dd>
+### ashiob
+_noun_  
+	*business-openness*
 
-<dt>asog</dt>
-<dd><i>noun</i>	<b>nextness</b></dd>
+### asioib
+_noun_  
+	*stony-coral*
 
-<dt>asosh</dt>
-<dd><i>noun</i>	<b>flavor</b>; taste</dd>
+### asog
+_noun_  
+	*nextness*
 
-<dt>asoup</dt>
-<dd><i>noun</i>	<b>imploring</b>; using an imperative sentence</dd>
+### asosh
+_noun_  
+	*flavor*; taste
 
-<dt>asoush</dt>
-<dd><i>noun</i>	<b>reptile</b></dd>
+### asoup
+_noun_  
+	*imploring*; using an imperative sentence
 
-<dt>asu</dt>
-<dd><i>noun</i>	<b>passive-perceiving</b>; seeing or hearing or smelling</dd>
+### asoush
+_noun_  
+	*reptile*
 
-<dt>atad</dt>
-<dd><i>noun</i>	<b>calling</b>; digital</dd>
+### asu
+_noun_  
+	*passive-perceiving*; seeing or hearing or smelling
 
-<dt>atas</dt>
-<dd><i>noun</i>	<b>skillfulness</b></dd>
+### atad
+_noun_  
+	*calling*; digital
 
-<dt>ateiz</dt>
-<dd><i>noun</i>	<b>containing</b></dd>
+### atas
+_noun_  
+	*skillfulness*
 
-<dt>atek</dt>
-<dd><i>noun</i>	<b>topography</b>; geography</dd>
+### ateiz
+_noun_  
+	*containing*
 
-<dt>atog</dt>
-<dd><i>noun</i>	<b>desert</b></dd>
+### atek
+_noun_  
+	*topography*; geography
 
-<dt>auauj</dt>
-<dd><i>noun</i>	<b>vombatiforme</b>; koalas and wombats</dd>
+### atog
+_noun_  
+	*desert*
 
-<dt>aub</dt>
-<dd><i>fastener</i>	<b>howmany</b>; specifies amount degree or number</dd>
+### auauj
+_noun_  
+	*vombatiforme*; koalas and wombats
 
-<dt>aubaj</dt>
-<dd><i>noun</i>	<b>sealily</b></dd>
+### aub
+_fastener_  
+	*howmany*; specifies amount degree or number
 
-<dt>auet</dt>
-<dd><i>noun</i>	<b>plecaniforme</b>; pelicans and similar things</dd>
+### aubaj
+_noun_  
+	*sealily*
 
-<dt>augaip</dt>
-<dd><i>noun</i>	<b>cloud</b></dd>
+### auet
+_noun_  
+	*plecaniforme*; pelicans and similar things
 
-<dt>augok</dt>
-<dd><i>noun</i>	<b>dog</b>; also describes wolves dingoes and foxes</dd>
+### augaip
+_noun_  
+	*cloud*
 
-<dt>aui</dt>
-<dd><i>noun</i>	<b>causing</b></dd>
+### augok
+_noun_  
+	*dog*; also describes wolves, dingoes, and foxes
 
-<dt>aujak</dt>
-<dd><i>noun</i>	<b>disease-having</b></dd>
+### aui
+_noun_  
+	*causing*
 
-<dt>aujod</dt>
-<dd><i>noun</i>	<b>pointing</b></dd>
+### aujak
+_noun_  
+	*disease-having*
 
-<dt>aukig</dt>
-<dd><i>noun</i>	<b>mass</b></dd>
+### aujod
+_noun_  
+	*pointing*
 
-<dt>aupi</dt>
-<dd><i>noun</i>	<b>repeating</b></dd>
+### aukig
+_noun_  
+	*mass*
 
-<dt>aus</dt>
-<dd><i>fastener</i>	<b>ie</b>; draws equality</dd>
+### aupi
+_noun_  
+	*repeating*
 
-<dt>auta</dt>
-<dd><i>noun</i>	<b>involving</b></dd>
+### aus
+_fastener_  
+	*ie*; draws equality
 
-<dt>auzad</dt>
-<dd><i>noun</i>	<b>polyhedron</b></dd>
+### auta
+_noun_  
+	*involving*
 
-<dt>auzek</dt>
-<dd><i>noun</i>	<b>continuing</b></dd>
+### auzad
+_noun_  
+	*polyhedron*
 
-<dt>azaish</dt>
-<dd><i>noun</i>	<b>reaching</b></dd>
-</dl>
+### auzek
+_noun_  
+	*continuing*
+
+### azaish
+_noun_  
+	*reaching*
 
 ## Bu
 
-<dl>
-<dt>babais</dt>
-<dd><i>noun</i>	<b>stabbing</b>; puncturing</dd>
+### babais
+_noun_  
+	*stabbing*; puncturing
+
+### badiz
+_noun_  
+	*winning*
+
+### badob
+_noun_  
+	*troubling*
+
+### baduj
+_noun_  
+	*sufficing*
+
+### baga
+_noun_  
+	*macropodiforme*; kangaroos and wallabies
+
+### baipok
+_noun_  
+	*blue-coral*
+
+### baisu
+_noun_  
+	*time-distance*
+
+### bajut
+_noun_  
+	*decimal-point*
+
+### bakeish
+_noun_  
+	*consenting*
+
+### bakod
+_noun_  
+	*virtuality*; digitalness
+
+### bas
+_pronoun_  
+	*me*; the speaker
+
+### basash
+_noun_  
+	*follow*
+
+### basho
+_noun_  
+	*separation*
+
+### basis
+_noun_  
+	*flash*; also applies to sound and other sensations
+
+### baupud
+_noun_  
+	*lying*; deceiving
+
+### baushauk
+_noun_  
+	*eukaryote*
+
+### baushish
+_noun_  
+	*basil*
+
+### bazob
+_noun_  
+	*chevrotain*
+
+### beboip
+_noun_  
+	*breadfruit*
+
+### beboj
+_noun_  
+	*crab*; also includes lobsters
+
+### bebous
+_noun_  
+	*leech*
+
+### beishi
+_noun_  
+	*amblypygus*; they look like spiders, but produce no web or venom
+
+### beizu
+_noun_  
+	*rodent*
+
+### bejaz
+_noun_  
+	*squiggle*
+
+### bepes
+_noun_  
+	*process-undergoing*
+
+### bet
+_article_  
+	*some*; subset
+
+### beue
+_noun_  
+	*disposing*
+
+### beuog
+_noun_  
+	*emotion*
+
+### bezop
+_noun_  
+	*wanting*
+
+### biapeb
+_noun_  
+	*soft-coral*
+
+### biapeup
+_noun_  
+	*burying*
+
+### bibush
+_noun_  
+	*disgustingness*
+
+### bidou
+_noun_  
+	*scalidophora*; mud-dwelling tiny aquatic things
+
+### biedi
+_noun_  
+	*cleverness*; the innate ability to solve riddles and puzzles
+
+### bieudi
+_noun_  
+	*resisting*
+
+### bigab
+_noun_  
+	*residing*; as in at an address or in a house
+
+### bigij
+_noun_  
+	*system*
+
+### bipoiz
+_noun_  
+	*wall*
+
+### bita
+_noun_  
+	*representing*
+
+### bitip
+_noun_  
+	*flamingo*
+
+### biuit
+_noun_  
+	*wisdom*
+
+### bizep
+_noun_  
+	*future*
+
+### bodij
+_noun_  
+	*rectangle*
 
-<dt>badiz</dt>
-<dd><i>noun</i>	<b>winning</b></dd>
+### boidush
+_noun_  
+	*cauliflower*
 
-<dt>badob</dt>
-<dd><i>noun</i>	<b>troubling</b></dd>
+### boipi
+_noun_  
+	*palpigrade*
 
-<dt>baduj</dt>
-<dd><i>noun</i>	<b>sufficing</b></dd>
+### bojis
+_noun_  
+	*emitting*
 
-<dt>baga</dt>
-<dd><i>noun</i>	<b>macropodiforme</b>; kangaroos and wallabies</dd>
+### boju
+_noun_  
+	*city*
 
-<dt>baipok</dt>
-<dd><i>noun</i>	<b>blue-coral</b></dd>
+### bokis
+_noun_  
+	*servicing*
 
-<dt>baisu</dt>
-<dd><i>noun</i>	<b>time-distance</b></dd>
+### bopa
+_noun_  
+	*arc*
 
-<dt>bajut</dt>
-<dd><i>noun</i>	<b>decimal-point</b></dd>
+### bosish
+_noun_  
+	*study*; a subject
 
-<dt>bakeish</dt>
-<dd><i>noun</i>	<b>consenting</b></dd>
+### boteg
+_noun_  
+	*position*; physical state other than location
 
-<dt>bakod</dt>
-<dd><i>noun</i>	<b>virtuality</b>; digitalness</dd>
+### boubaib
+_noun_  
+	*wearing-and-tearing*
 
-<dt>bas</dt>
-<dd><i>pronoun</i>	<b>me</b>; the speaker</dd>
+### bougob
+_noun_  
+	*tomato*
 
-<dt>basash</dt>
-<dd><i>noun</i>	<b>follow</b></dd>
+### boutus
+_noun_  
+	*canola*
 
-<dt>basho</dt>
-<dd><i>noun</i>	<b>separation</b></dd>
+### bouzes
+_noun_  
+	*lemon*
 
-<dt>basis</dt>
-<dd><i>noun</i>	<b>flash</b>; also applies to sound and other sensations</dd>
+### bozub
+_noun_  
+	*shrimp*; pretty loose descriptor of most eumalacostraca
 
-<dt>baupud</dt>
-<dd><i>noun</i>	<b>lying</b>; deceiving</dd>
+### bu
+_preposition_  
+	*sbj*; denotes subject
 
-<dt>baushauk</dt>
-<dd><i>noun</i>	<b>eukaryote</b></dd>
+### budeg
+_noun_  
+	*computational-intensity*
 
-<dt>baushish</dt>
-<dd><i>noun</i>	<b>basil</b></dd>
+### bueubak
+_noun_  
+	*potato*
 
-<dt>bazob</dt>
-<dd><i>noun</i>	<b>chevrotain</b></dd>
+### buie
+_noun_  
+	*lamprey*
 
-<dt>beboip</dt>
-<dd><i>noun</i>	<b>breadfruit</b></dd>
+### bukat
+_noun_  
+	*sentence*
 
-<dt>beboj</dt>
-<dd><i>noun</i>	<b>crab</b>; also includes lobsters</dd>
+### bupash
+_noun_  
+	*sweetness*
 
-<dt>bebous</dt>
-<dd><i>noun</i>	<b>leech</b></dd>
+### bupiosh
+_noun_  
+	*segmented-worm*; any member of annelida besides leeches and beardworms
 
-<dt>beishi</dt>
-<dd><i>noun</i>	<b>amblypygus</b>; they look like spiders but produce no web or venom</dd>
+### busaz
+_noun_  
+	*driving*
 
-<dt>beizu</dt>
-<dd><i>noun</i>	<b>rodent</b></dd>
+### buso
+_noun_  
+	*marriage*
 
-<dt>bejaz</dt>
-<dd><i>noun</i>	<b>squiggle</b></dd>
+### busut
+_noun_  
+	*bear*
 
-<dt>bepes</dt>
-<dd><i>noun</i>	<b>process-undergoing</b></dd>
+### butud
+_noun_  
+	*snakefly*
 
-<dt>bet</dt>
-<dd><i>article</i>	<b>some</b>; subset</dd>
-
-<dt>beue</dt>
-<dd><i>noun</i>	<b>disposing</b></dd>
-
-<dt>beuog</dt>
-<dd><i>noun</i>	<b>emotion</b></dd>
-
-<dt>bezop</dt>
-<dd><i>noun</i>	<b>wanting</b></dd>
-
-<dt>biapeb</dt>
-<dd><i>noun</i>	<b>soft-coral</b></dd>
-
-<dt>biapeup</dt>
-<dd><i>noun</i>	<b>burying</b></dd>
-
-<dt>bibush</dt>
-<dd><i>noun</i>	<b>disgustingness</b></dd>
-
-<dt>bidou</dt>
-<dd><i>noun</i>	<b>scalidophora</b>; mud-dwelling tiny aquatic things</dd>
-
-<dt>biedi</dt>
-<dd><i>noun</i>	<b>cleverness</b>; the innate ability to solve riddles and puzzles</dd>
-
-<dt>bieudi</dt>
-<dd><i>noun</i>	<b>resisting</b></dd>
-
-<dt>bigab</dt>
-<dd><i>noun</i>	<b>residing</b>; as in at an address or in a house</dd>
-
-<dt>bigij</dt>
-<dd><i>noun</i>	<b>system</b></dd>
-
-<dt>bipoiz</dt>
-<dd><i>noun</i>	<b>wall</b></dd>
-
-<dt>bita</dt>
-<dd><i>noun</i>	<b>representing</b></dd>
-
-<dt>bitip</dt>
-<dd><i>noun</i>	<b>flamingo</b></dd>
-
-<dt>biuit</dt>
-<dd><i>noun</i>	<b>wisdom</b></dd>
-
-<dt>bizep</dt>
-<dd><i>noun</i>	<b>future</b></dd>
-
-<dt>bodij</dt>
-<dd><i>noun</i>	<b>rectangle</b></dd>
-
-<dt>boidush</dt>
-<dd><i>noun</i>	<b>cauliflower</b></dd>
-
-<dt>boipi</dt>
-<dd><i>noun</i>	<b>palpigrade</b></dd>
-
-<dt>bojis</dt>
-<dd><i>noun</i>	<b>emitting</b></dd>
-
-<dt>boju</dt>
-<dd><i>noun</i>	<b>city</b></dd>
-
-<dt>bokis</dt>
-<dd><i>noun</i>	<b>servicing</b></dd>
-
-<dt>bopa</dt>
-<dd><i>noun</i>	<b>arc</b></dd>
-
-<dt>bosish</dt>
-<dd><i>noun</i>	<b>study</b>; a subject</dd>
-
-<dt>boteg</dt>
-<dd><i>noun</i>	<b>position</b>; physical state other than location</dd>
-
-<dt>boubaib</dt>
-<dd><i>noun</i>	<b>wearing-and-tearing</b></dd>
-
-<dt>bougob</dt>
-<dd><i>noun</i>	<b>tomato</b></dd>
-
-<dt>boutus</dt>
-<dd><i>noun</i>	<b>canola</b></dd>
-
-<dt>bouzes</dt>
-<dd><i>noun</i>	<b>lemon</b></dd>
-
-<dt>bozub</dt>
-<dd><i>noun</i>	<b>shrimp</b>; pretty loose descriptor of most eumalacostraca</dd>
-
-<dt>bu</dt>
-<dd><i>preposition</i>	<b>sbj</b>; denotes subject</dd>
-
-<dt>budeg</dt>
-<dd><i>noun</i>	<b>computational-intensity</b></dd>
-
-<dt>bueubak</dt>
-<dd><i>noun</i>	<b>potato</b></dd>
-
-<dt>buie</dt>
-<dd><i>noun</i>	<b>lamprey</b></dd>
-
-<dt>bukat</dt>
-<dd><i>noun</i>	<b>sentence</b></dd>
-
-<dt>bupash</dt>
-<dd><i>noun</i>	<b>sweetness</b></dd>
-
-<dt>bupiosh</dt>
-<dd><i>noun</i>	<b>segmented-worm</b>; any member of annelida besides leeches and beardworms</dd>
-
-<dt>busaz</dt>
-<dd><i>noun</i>	<b>driving</b></dd>
-
-<dt>buso</dt>
-<dd><i>noun</i>	<b>marriage</b></dd>
-
-<dt>busut</dt>
-<dd><i>noun</i>	<b>bear</b></dd>
-
-<dt>butud</dt>
-<dd><i>noun</i>	<b>snakefly</b></dd>
-</dl>
-
-# Dik
-
-<dl>
-<dt>dabei</dt>
-<dd><i>noun</i>	<b>keeping</b></dd>
-
-<dt>dadeg</dt>
-<dd><i>noun</i>	<b>zorapteran</b>; a type of insect bug thing</dd>
-
-<dt>daiau</dt>
-<dd><i>noun</i>	<b>4</b></dd>
-
-<dt>daid</dt>
-<dd><i>punctuation</i>	<b>merry</b>; salutory</dd>
-
-<dt>daijab</dt>
-<dd><i>noun</i>	<b>bacterum</b></dd>
-
-<dt>daipa</dt>
-<dd><i>noun</i>	<b>imagining</b></dd>
-
-<dt>daishous</dt>
-<dd><i>noun</i>	<b>angry-feeling</b></dd>
-
-<dt>dakap</dt>
-<dd><i>noun</i>	<b>insect</b></dd>
-
-<dt>dakoij</dt>
-<dd><i>noun</i>	<b>bewaring</b></dd>
-
-<dt>dapioug</dt>
-<dd><i>noun</i>	<b>gorgonian</b>; sea fans and sea whips</dd>
-
-<dt>daseug</dt>
-<dd><i>noun</i>	<b>broccoli</b></dd>
-
-<dt>dasuj</dt>
-<dd><i>noun</i>	<b>hippopotamus</b></dd>
-
-<dt>daubop</dt>
-<dd><i>noun</i>	<b>seapens</b></dd>
-
-<dt>daudut</dt>
-<dd><i>noun</i>	<b>strawberry</b></dd>
-
-<dt>debag</dt>
-<dd><i>noun</i>	<b>writing</b>; etching symbols into something; recording something in a physical object</dd>
-
-<dt>degek</dt>
-<dd><i>noun</i>	<b>revolving</b></dd>
-
-<dt>deiap</dt>
-<dd><i>noun</i>	<b>dimensionality</b>; i.e. 2D or 3D</dd>
-
-<dt>dejat</dt>
-<dd><i>noun</i>	<b>flower</b></dd>
-
-<dt>dekob</dt>
-<dd><i>noun</i>	<b>non-binary-gender</b></dd>
-
-<dt>depe</dt>
-<dd><i>noun</i>	<b>tube</b></dd>
-
-<dt>deshu</dt>
-<dd><i>noun</i>	<b>furthering</b></dd>
-
-<dt>deubu</dt>
-<dd><i>noun</i>	<b>char</b></dd>
-
-<dt>dezej</dt>
-<dd><i>noun</i>	<b>phasmid</b>; stick and leaf insects</dd>
-
-<dt>dietat</dt>
-<dd><i>noun</i>	<b>anemone</b></dd>
-
-<dt>digo</dt>
-<dd><i>noun</i>	<b>numeric-value</b></dd>
-
-<dt>dij</dt>
-<dd><i>preposition</i>	<b>for</b>; denotes purpose</dd>
-
-<dt>dijad</dt>
-<dd><i>noun</i>	<b>seeming</b></dd>
-
-<dt>dik</dt>
-<dd><i>fastener</i>	<b>whatkind</b>; denotes variety or attributes</dd>
-
-<dt>diopia</dt>
-<dd><i>noun</i>	<b>jellyfish</b></dd>
-
-<dt>dishog</dt>
-<dd><i>noun</i>	<b>seacucumber</b></dd>
-
-<dt>ditab</dt>
-<dd><i>noun</i>	<b>sharing</b></dd>
-
-<dt>ditesh</dt>
-<dd><i>noun</i>	<b>smartness</b>; the quality of understanding a lot of abstract concepts</dd>
-
-<dt>diuab</dt>
-<dd><i>noun</i>	<b>freeness</b>; time management</dd>
-
-<dt>diuis</dt>
-<dd><i>noun</i>	<b>fun-having</b></dd>
-
-<dt>diutij</dt>
-<dd><i>noun</i>	<b>black-coral</b></dd>
-
-<dt>dodiz</dt>
-<dd><i>noun</i>	<b>employing</b></dd>
-
-<dt>doge</dt>
-<dd><i>noun</i>	<b>reasoning</b></dd>
-
-<dt>doijaj</dt>
-<dd><i>noun</i>	<b>pineapple</b></dd>
-
-<dt>doipu</dt>
-<dd><i>noun</i>	<b>cat</b></dd>
-
-<dt>doitit</dt>
-<dd><i>noun</i>	<b>raspberry</b></dd>
-
-<dt>dokish</dt>
-<dd><i>noun</i>	<b>music-making</b>; an instrument</dd>
-
-<dt>dopouk</dt>
-<dd><i>noun</i>	<b>stalked-jellyfish</b></dd>
-
-<dt>dopup</dt>
-<dd><i>noun</i>	<b>velvetworm</b></dd>
-
-<dt>dosei</dt>
-<dd><i>noun</i>	<b>spider</b></dd>
-
-<dt>doses</dt>
-<dd><i>noun</i>	<b>milk</b></dd>
-
-<dt>doshoig</dt>
-<dd><i>noun</i>	<b>technicality</b></dd>
-
-<dt>dosij</dt>
-<dd><i>noun</i>	<b>acarus</b>; mites and ticks</dd>
-
-<dt>dot</dt>
-<dd><i>article</i>	<b>each</b>; every element individually</dd>
-
-<dt>dotib</dt>
-<dd><i>noun</i>	<b>happy-feeling</b>; the opposite of depression</dd>
-
-<dt>dou</dt>
-<dd><i>prefix</i>	<b>derivative</b>; concept of becoming</dd>
-
-<dt>douseg</dt>
-<dd><i>noun</i>	<b>vagina</b></dd>
-
-<dt>doze</dt>
-<dd><i>noun</i>	<b>10</b></dd>
-
-<dt>doziz</dt>
-<dd><i>noun</i>	<b>spaciousness</b></dd>
-
-<dt>duadup</dt>
-<dd><i>noun</i>	<b>medicine</b></dd>
-
-<dt>dudij</dt>
-<dd><i>noun</i>	<b>up-teaming</b></dd>
-
-<dt>dueg</dt>
-<dd><i>noun</i>	<b>no</b></dd>
-
-<dt>duigod</dt>
-<dd><i>noun</i>	<b>entertaining</b>; as in a movie or play or skit</dd>
-
-<dt>dujash</dt>
-<dd><i>noun</i>	<b>ricinulei</b></dd>
-
-<dt>dukes</dt>
-<dd><i>noun</i>	<b>furniture</b></dd>
-
-<dt>dupo</dt>
-<dd><i>noun</i>	<b>doing-staff-things</b></dd>
-
-<dt>dusas</dt>
-<dd><i>noun</i>	<b>rotating</b></dd>
-
-<dt>dusaus</dt>
-<dd><i>noun</i>	<b>code-writing</b>; programming</dd>
-
-<dt>duset</dt>
-<dd><i>noun</i>	<b>tardigrade</b></dd>
-
-<dt>dushos</dt>
-<dd><i>noun</i>	<b>apprehension-feeling</b>; hesitative reaction to decisions</dd>
-</dl>
+## Dik
+
+### dabei
+_noun_  
+	*keeping*
+
+### dadeg
+_noun_  
+	*zorapteran*; a type of insect bug thing
+
+### daiau
+_noun_  
+	*4*
+
+### daid
+_punctuation_  
+	*merry*; salutory
+
+### daijab
+_noun_  
+	*bacterum*
+
+### daipa
+_noun_  
+	*imagining*
+
+### daishous
+_noun_  
+	*angry-feeling*
+
+### dakap
+_noun_  
+	*insect*
+
+### dakoij
+_noun_  
+	*bewaring*
+
+### dapioug
+_noun_  
+	*gorgonian*; sea fans and sea whips
+
+### daseug
+_noun_  
+	*broccoli*
+
+### dashup
+_noun_  
+	*loading*; specifically for computers
+
+### dasuj
+_noun_  
+	*hippopotamus*
+
+### daubop
+_noun_  
+	*seapens*
+
+### daudut
+_noun_  
+	*strawberry*
+
+### debag
+_noun_  
+	*writing*; etching symbols into something; recording something in a physical object
+
+### degek
+_noun_  
+	*revolving*
+
+### deiap
+_noun_  
+	*dimensionality*; i.e. 2D or 3D
+
+### dejat
+_noun_  
+	*flower*
+
+### dekob
+_noun_  
+	*non-binary-gender*
+
+### depe
+_noun_  
+	*tube*
+
+### deshu
+_noun_  
+	*furthering*
+
+### detig
+_noun_  
+	*approving*
+
+### deubu
+_noun_  
+	*char*
+
+### dezej
+_noun_  
+	*phasmid*; stick and leaf insects
+
+### dietat
+_noun_  
+	*anemone*
+
+### digo
+_noun_  
+	*numeric-value*
+
+### dij
+_preposition_  
+	*for*; denotes purpose
+
+### dijad
+_noun_  
+	*seeming*
+
+### dik
+_fastener_  
+	*whatkind*; denotes variety or attributes
+
+### dikej
+_noun_  
+	*screening*; projecting or rendering images onto a surface
+
+### diopia
+_noun_  
+	*jellyfish*
+
+### dishog
+_noun_  
+	*seacucumber*
+
+### ditab
+_noun_  
+	*sharing*
+
+### ditesh
+_noun_  
+	*smartness*; the quality of understanding a lot of abstract concepts
+
+### diuab
+_noun_  
+	*freeness*; time management
+
+### diuis
+_noun_  
+	*fun-having*
+
+### diutij
+_noun_  
+	*black-coral*
+
+### dizeg
+_noun_  
+	*roughness*
+
+### dodiz
+_noun_  
+	*employing*
+
+### doge
+_noun_  
+	*reasoning*
+
+### doijaj
+_noun_  
+	*pineapple*
+
+### doipu
+_noun_  
+	*cat*
+
+### doitit
+_noun_  
+	*raspberry*
+
+### dokish
+_noun_  
+	*music-making*; an instrument
+
+### dopouk
+_noun_  
+	*stalked-jellyfish*
+
+### dopup
+_noun_  
+	*velvetworm*
+
+### dosei
+_noun_  
+	*spider*
+
+### doses
+_noun_  
+	*milk*
+
+### doshas
+_noun_  
+	*give*; tendency to bend and then spring back
+
+### doshoig
+_noun_  
+	*technicality*
+
+### dosij
+_noun_  
+	*acarus*; mites and ticks
+
+### dot
+_article_  
+	*each*; every element individually
+
+### dotib
+_noun_  
+	*happy-feeling*; the opposite of depression
+
+### dou
+_prefix_  
+	*derivative*; concept of becoming
+
+### douseg
+_noun_  
+	*vagina*
+
+### doze
+_noun_  
+	*10*
+
+### doziz
+_noun_  
+	*spaciousness*
+
+### duadup
+_noun_  
+	*medicine*
+
+### dudij
+_noun_  
+	*up-teaming*
+
+### dueg
+_noun_  
+	*no*
+
+### duigod
+_noun_  
+	*entertaining*; as in a movie, play, or skit
+
+### dujash
+_noun_  
+	*ricinulei*
+
+### dukes
+_noun_  
+	*furniture*
+
+### dupo
+_noun_  
+	*doing-staff-things*
+
+### dusas
+_noun_  
+	*rotating*
+
+### dusaus
+_noun_  
+	*code-writing*; programming
+
+### duset
+_noun_  
+	*tardigrade*
+
+### dushos
+_noun_  
+	*apprehension-feeling*; hesitative reaction to decisions
 
 ## E
 
-<dl>
-<dt>e</dt>
-<dd><i>preposition</i>	<b>pdc</b>; denotes predicate</dd>
-
-<dt>ebadu</dt>
-<dd><i>noun-technical</i>	<b>math.vector</b></dd>
-
-<dt>ebe</dt>
-<dd><i>noun</i>	<b>believing</b></dd>
-
-<dt>ebiaj</dt>
-<dd><i>noun</i>	<b>doliolida</b></dd>
-
-<dt>eboib</dt>
-<dd><i>noun</i>	<b>rule-placing</b></dd>
-
-<dt>ebueg</dt>
-<dd><i>noun</i>	<b>spring</b>; the season</dd>
-
-<dt>edau</dt>
-<dd><i>noun</i>	<b>interval</b></dd>
-
-<dt>edej</dt>
-<dd><i>noun</i>	<b>courting</b></dd>
-
-<dt>edi</dt>
-<dd><i>noun</i>	<b>accepting</b>; this applies to apologies thanks challenges etc.</dd>
-
-<dt>edub</dt>
-<dd><i>noun</i>	<b>flicker</b>; any rapid occilation</dd>
-
-<dt>egai</dt>
-<dd><i>noun</i>	<b>breaking</b>; physically falling apart or cracking</dd>
-
-<dt>egezo</dt>
-<dd><i>noun-technical</i>	<b>physics.simple-harmonic-motion</b></dd>
-
-<dt>egieish</dt>
-<dd><i>noun</i>	<b>blueberry</b></dd>
-
-<dt>egop</dt>
-<dd><i>noun</i>	<b>action-taking</b></dd>
-
-<dt>eiaij</dt>
-<dd><i>noun</i>	<b>handing</b></dd>
-
-<dt>eibi</dt>
-<dd><i>noun</i>	<b>birth-giving</b>; the physical act</dd>
-
-<dt>eibou</dt>
-<dd><i>noun</i>	<b>recording</b></dd>
-
-<dt>eiduid</dt>
-<dd><i>noun</i>	<b>opposing</b>; competing with</dd>
-
-<dt>eiesh</dt>
-<dd><i>noun</i>	<b>6</b></dd>
-
-<dt>eijop</dt>
-<dd><i>noun</i>	<b>governing</b></dd>
-
-<dt>eik</dt>
-<dd><i>article</i>	<b>that</b>; associated with listener</dd>
-
-<dt>eiog</dt>
-<dd><i>noun</i>	<b>to-and-fro</b>; compounded with a word that has a positive direction to refer to both directions (instead of saying oziiatozi or iatoziozi or something dumb like that</dd>
-
-<dt>eipish</dt>
-<dd><i>noun</i>	<b>shorebird</b></dd>
-
-<dt>eisash</dt>
-<dd><i>noun</i>	<b>listing</b></dd>
-
-<dt>eishub</dt>
-<dd><i>noun</i>	<b>armadillo</b></dd>
-
-<dt>eitu</dt>
-<dd><i>noun</i>	<b>alive-being</b></dd>
-
-<dt>eiugo</dt>
-<dd><i>noun-technical</i>	<b>math.ellipsoid</b></dd>
-
-<dt>eiuku</dt>
-<dd><i>noun-technical</i>	<b>videogame.spamming</b></dd>
-
-<dt>ejaj</dt>
-<dd><i>noun</i>	<b>logging-in</b></dd>
-
-<dt>ejid</dt>
-<dd><i>noun</i>	<b>including</b></dd>
-
-<dt>ejoish</dt>
-<dd><i>noun</i>	<b>mustelidae</b>; weasels badgers otters martens ferrets minks stoats and wolverines</dd>
-
-<dt>ekaji</dt>
-<dd><i>noun-technical</i>	<b>videogame.openworld</b></dd>
-
-<dt>ekog</dt>
-<dd><i>noun</i>	<b>sleeping</b></dd>
-
-<dt>epeik</dt>
-<dd><i>noun</i>	<b>entognatha</b>; six-legged bugs that are not insects</dd>
-
-<dt>esek</dt>
-<dd><i>noun</i>	<b>day</b>; time unit</dd>
-
-<dt>esheub</dt>
-<dd><i>noun</i>	<b>columbimorphae</b>; pidgeons doves sandgrouses and mesites</dd>
-
-<dt>eshish</dt>
-<dd><i>noun</i>	<b>coraciimorpha</b>; some smallish generally tree-dwelling birds</dd>
-
-<dt>eshot</dt>
-<dd><i>noun</i>	<b>melon</b></dd>
-
-<dt>esos</dt>
-<dd><i>noun</i>	<b>frequency</b></dd>
-
-<dt>esup</dt>
-<dd><i>noun</i>	<b>bit</b>; things like gravel and cereal</dd>
-
-<dt>eteid</dt>
-<dd><i>noun</i>	<b>anteater</b></dd>
-
-<dt>etiez</dt>
-<dd><i>noun</i>	<b>lepidoptera</b>; moths and butterflies</dd>
-
-<dt>etob</dt>
-<dd><i>noun</i>	<b>describing</b></dd>
-
-<dt>etu</dt>
-<dd><i>noun</i>	<b>region</b>; an area in space of a period of time</dd>
-
-<dt>eubid</dt>
-<dd><i>noun</i>	<b>maxillopod</b>; barnacles and copepods</dd>
-
-<dt>eubop</dt>
-<dd><i>noun</i>	<b>holding</b></dd>
-
-<dt>eudik</dt>
-<dd><i>noun</i>	<b>rock</b></dd>
-
-<dt>eugaup</dt>
-<dd><i>noun</i>	<b>parasite</b></dd>
-
-<dt>eugeush</dt>
-<dd><i>noun</i>	<b>controlling</b></dd>
-
-<dt>euig</dt>
-<dd><i>noun</i>	<b>gifting</b></dd>
-
-<dt>eukau</dt>
-<dd><i>noun</i>	<b>honey</b></dd>
-
-<dt>euko</dt>
-<dd><i>noun</i>	<b>paper</b></dd>
-
-<dt>euo</dt>
-<dd><i>noun</i>	<b>knowing</b></dd>
-
-<dt>eupek</dt>
-<dd><i>noun</i>	<b>participating</b></dd>
-
-<dt>eushait</dt>
-<dd><i>noun</i>	<b>lime</b></dd>
-
-<dt>eusheis</dt>
-<dd><i>noun</i>	<b>conquering</b></dd>
-
-<dt>eushi</dt>
-<dd><i>noun</i>	<b>killing</b></dd>
-
-<dt>eutash</dt>
-<dd><i>noun</i>	<b>shrew-oppossum</b>; more closely related to Australia than possums</dd>
-
-<dt>euti</dt>
-<dd><i>noun</i>	<b>random-generating</b></dd>
-
-<dt>ezaid</dt>
-<dd><i>noun</i>	<b>film</b>; the original meaning - thin thanslucent surfaces</dd>
-
-<dt>ezako</dt>
-<dd><i>noun-technical</i>	<b>math.derivative</b></dd>
-
-<dt>ezap</dt>
-<dd><i>noun</i>	<b>recalling</b>; a fact</dd>
-
-<dt>ezib</dt>
-<dd><i>noun</i>	<b>plankton</b>; anything microscopic that belongs to nephrozoa</dd>
-
-<dt>ezo</dt>
-<dd><i>noun</i>	<b>being</b>; this is ==; not .equals(</dd>
-
-<dt>ezozi</dt>
-<dd><i>noun-technical</i>	<b>physics.resistance</b></dd>
-</dl>
+### e
+_preposition_  
+	*pdc*; denotes predicate
+
+### ebadu
+_noun-technical_  
+	*math.vector*
+
+### ebe
+_noun_  
+	*believing*; accepting a fact on a subconcious level; contrast with "thinking"
+
+### ebiaj
+_noun_  
+	*doliolida*
+
+### eboib
+_noun_  
+	*rule-placing*
+
+### ebueg
+_noun_  
+	*spring*; the season
+
+### edau
+_noun_  
+	*interval*
+
+### edej
+_noun_  
+	*courting*
+
+### edi
+_noun_  
+	*accepting*; this applies to apologies thanks challenges etc.
+
+### edub
+_noun_  
+	*flicker*; any rapid occilation
+
+### egai
+_noun_  
+	*breaking*; physically falling apart or cracking
+
+### egezo
+_noun-technical_  
+	*physics.simple-harmonic-motion*
+
+### egieish
+_noun_  
+	*blueberry*
+
+### egop
+_noun_  
+	*action-taking*
+
+### egoug
+_noun_  
+	*ladder*
+
+### eiaij
+_noun_  
+	*handing*
+
+### eibi
+_noun_  
+	*birth-giving*; the physical act
+
+### eibou
+_noun_  
+	*recording*
+
+### eiduid
+_noun_  
+	*opposing*; competing with
+
+### eiesh
+_noun_  
+	*6*
+
+### eijop
+_noun_  
+	*governing*
+
+### eik
+_article_  
+	*that*; associated with listener
+
+### eiog
+_noun_  
+	*to-and-fro*; compounded with a word that has a positive direction to refer to both directions (so you can say eiogozi instead of oziiatozi or iatoziozi or something dumb like that
+
+### eipish
+_noun_  
+	*shorebird*
+
+### eisash
+_noun_  
+	*listing*
+
+### eishub
+_noun_  
+	*armadillo*
+
+### eitu
+_noun_  
+	*alive-being*
+
+### eiugo
+_noun-technical_  
+	*math.ellipsoid*
+
+### eiuku
+_noun-technical_  
+	*videogame.spamming*
+
+### ejaj
+_noun_  
+	*logging-in*
+
+### ejid
+_noun_  
+	*including*
+
+### ejoish
+_noun_  
+	*mustelidae*; weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines
+
+### ekaji
+_noun-technical_  
+	*videogame.openworld*
+
+### ekog
+_noun_  
+	*sleeping*
+
+### epeik
+_noun_  
+	*entognatha*; six-legged bugs that are not insects
+
+### esek
+_noun_  
+	*day*; time unit
+
+### esheub
+_noun_  
+	*columbimorphae*; pidgeons, doves, sandgrouses, and mesites
+
+### eshish
+_noun_  
+	*coraciimorpha*; some smallish generally tree-dwelling birds
+
+### eshot
+_noun_  
+	*melon*
+
+### esos
+_noun_  
+	*frequency*
+
+### esup
+_noun_  
+	*bit*; things like gravel and cereal
+
+### eteid
+_noun_  
+	*anteater*
+
+### etiez
+_noun_  
+	*lepidoptera*; moths and butterflies
+
+### etob
+_noun_  
+	*describing*
+
+### etu
+_noun_  
+	*region*; an area in space of a period of time
+
+### eubid
+_noun_  
+	*maxillopod*; barnacles and copepods
+
+### eubop
+_noun_  
+	*holding*
+
+### eudik
+_noun_  
+	*rock*
+
+### eugaup
+_noun_  
+	*parasite*
+
+### eugeush
+_noun_  
+	*controlling*
+
+### euig
+_noun_  
+	*gifting*
+
+### eukau
+_noun_  
+	*honey*
+
+### euko
+_noun_  
+	*paper*
+
+### euo
+_noun_  
+	*knowing*
+
+### eupek
+_noun_  
+	*participating*
+
+### eushait
+_noun_  
+	*lime*
+
+### eusheis
+_noun_  
+	*conquering*
+
+### eushi
+_noun_  
+	*killing*
+
+### eutash
+_noun_  
+	*shrew-oppossum*; more closely related to Australia than possums
+
+### euti
+_noun_  
+	*random-generating*
+
+### ezaid
+_noun_  
+	*film*; the original meaning - thin thanslucent surfaces
+
+### ezako
+_noun-technical_  
+	*math.derivative*
+
+### ezap
+_noun_  
+	*recalling*; a fact
+
+### ezib
+_noun_  
+	*plankton*; anything microscopic that belongs to nephrozoa
+
+### ezo
+_noun_  
+	*being*; this is ==, not .equals(
+
+### ezozi
+_noun-technical_  
+	*physics.resistance*
 
 ## Guz
 
-<dl>
-<dt>gabos</dt>
-<dd><i>noun</i>	<b>snap</b>; 10^-5 days</dd>
-
-<dt>gadi</dt>
-<dd><i>noun</i>	<b>snake</b></dd>
-
-<dt>gaioik</dt>
-<dd><i>noun</i>	<b>ceiling</b></dd>
-
-<dt>gaisios</dt>
-<dd><i>noun</i>	<b>asparagus</b></dd>
-
-<dt>gaiud</dt>
-<dd><i>noun</i>	<b>mantisshrimp</b></dd>
-
-<dt>gajeg</dt>
-<dd><i>noun</i>	<b>bowfin</b></dd>
-
-<dt>gakui</dt>
-<dd><i>noun</i>	<b>symphalan</b></dd>
-
-<dt>gapat</dt>
-<dd><i>noun</i>	<b>modeling</b></dd>
-
-<dt>gashu</dt>
-<dd><i>noun</i>	<b>obeying</b></dd>
-
-<dt>gasi</dt>
-<dd><i>noun</i>	<b>female</b></dd>
-
-<dt>gatu</dt>
-<dd><i>noun</i>	<b>interesting</b></dd>
-
-<dt>gaude</dt>
-<dd><i>noun</i>	<b>charisma</b></dd>
-
-<dt>gauib</dt>
-<dd><i>noun</i>	<b>fly</b>; in the taxonomical sense excluding mosquitos and houseflies</dd>
-
-<dt>gautud</dt>
-<dd><i>noun</i>	<b>spinach</b></dd>
-
-<dt>gebei</dt>
-<dd><i>noun</i>	<b>allowing</b>; permission-giving</dd>
-
-<dt>gebesh</dt>
-<dd><i>noun</i>	<b>level</b></dd>
-
-<dt>gebeud</dt>
-<dd><i>noun</i>	<b>basing</b>; operations and such</dd>
-
-<dt>gedu</dt>
-<dd><i>noun</i>	<b>community-making</b></dd>
-
-<dt>geiak</dt>
-<dd><i>noun</i>	<b>condor</b>; also encompasses New World vultures</dd>
-
-<dt>geitush</dt>
-<dd><i>noun</i>	<b>prone-lying</b></dd>
-
-<dt>geiu</dt>
-<dd><i>noun</i>	<b>leisuring</b></dd>
-
-<dt>geje</dt>
-<dd><i>noun</i>	<b>sound</b></dd>
-
-<dt>gepok</dt>
-<dd><i>noun</i>	<b>cockoroach</b></dd>
-
-<dt>geta</dt>
-<dd><i>noun</i>	<b>ceremony-participating</b></dd>
-
-<dt>getoz</dt>
-<dd><i>noun</i>	<b>politeness</b></dd>
-
-<dt>geua</dt>
-<dd><i>noun</i>	<b>pseudoscorpion</b></dd>
-
-<dt>geutuz</dt>
-<dd><i>noun</i>	<b>bracket-fungus</b></dd>
-
-<dt>geuzeu</dt>
-<dd><i>noun</i>	<b>tolerating</b></dd>
-
-<dt>giabouz</dt>
-<dd><i>noun</i>	<b>secret-keeping</b></dd>
-
-<dt>gideb</dt>
-<dd><i>noun</i>	<b>alcohol</b></dd>
-
-<dt>gidosh</dt>
-<dd><i>noun</i>	<b>office</b></dd>
-
-<dt>giegoiz</dt>
-<dd><i>noun</i>	<b>alga</b></dd>
-
-<dt>gikieud</dt>
-<dd><i>noun</i>	<b>banana</b></dd>
-
-<dt>gikup</dt>
-<dd><i>noun</i>	<b>embiidina</b>; web-spinning insects</dd>
-
-<dt>gipoj</dt>
-<dd><i>noun</i>	<b>hand</b></dd>
-
-<dt>gipot</dt>
-<dd><i>noun</i>	<b>bovida</b>; cattle buffalo antelopes sheep goats etc.</dd>
-
-<dt>gisez</dt>
-<dd><i>noun</i>	<b>tactility</b>; touch</dd>
-
-<dt>giues</dt>
-<dd><i>noun</i>	<b>hoatzin</b>; some weird kind of bird</dd>
-
-<dt>giushuk</dt>
-<dd><i>noun</i>	<b>physicality</b>; describes things in the physical realm</dd>
-
-<dt>gizeid</dt>
-<dd><i>noun</i>	<b>dear-holding</b></dd>
-
-<dt>gizid</dt>
-<dd><i>noun</i>	<b>tendril</b></dd>
-
-<dt>gobiug</dt>
-<dd><i>noun</i>	<b>mango</b></dd>
-
-<dt>gobob</dt>
-<dd><i>noun</i>	<b>money</b></dd>
-
-<dt>gobuk</dt>
-<dd><i>noun</i>	<b>subjecting</b>; focusing on</dd>
-
-<dt>godai</dt>
-<dd><i>noun</i>	<b>flexing</b></dd>
-
-<dt>godauj</dt>
-<dd><i>noun</i>	<b>living</b>; as in living a life</dd>
-
-<dt>gogez</dt>
-<dd><i>noun</i>	<b>particularness</b></dd>
-
-<dt>goia</dt>
-<dd><i>noun</i>	<b>art-making</b></dd>
-
-<dt>goibej</dt>
-<dd><i>noun</i>	<b>mushroom</b></dd>
-
-<dt>goigip</dt>
-<dd><i>noun</i>	<b>lichen</b></dd>
-
-<dt>goishek</dt>
-<dd><i>noun</i>	<b>toiletries</b></dd>
-
-<dt>goku</dt>
-<dd><i>noun</i>	<b>information</b></dd>
-
-<dt>gopet</dt>
-<dd><i>noun</i>	<b>caecilian</b>; blind legless amphibians</dd>
-
-<dt>gopik</dt>
-<dd><i>noun</i>	<b>ostracoda</b>; seed shrimp</dd>
-
-<dt>goshai</dt>
-<dd><i>noun</i>	<b>specialness</b>; uniqueness</dd>
-
-<dt>goshuk</dt>
-<dd><i>noun</i>	<b>meat</b></dd>
-
-<dt>gozez</dt>
-<dd><i>noun</i>	<b>root</b>; of a plant</dd>
-
-<dt>gubet</dt>
-<dd><i>noun</i>	<b>speed</b></dd>
-
-<dt>gubu</dt>
-<dd><i>noun</i>	<b>sympathyzing</b></dd>
-
-<dt>gudak</dt>
-<dd><i>noun</i>	<b>sloth</b></dd>
-
-<dt>gueposh</dt>
-<dd><i>noun</i>	<b>decapodiforme</b>; includes squid and cuttlefish</dd>
-
-<dt>guesu</dt>
-<dd><i>noun</i>	<b>coelacanth</b></dd>
-
-<dt>gugoz</dt>
-<dd><i>noun</i>	<b>persisting</b></dd>
-
-<dt>guiesh</dt>
-<dd><i>noun</i>	<b>country</b></dd>
-
-<dt>guis</dt>
-<dd><i>prefix</i>	<b>not</b>; inverse</dd>
-
-<dt>gujei</dt>
-<dd><i>noun</i>	<b>technology</b></dd>
-
-<dt>gujob</dt>
-<dd><i>noun</i>	<b>polygon</b></dd>
-
-<dt>gukoj</dt>
-<dd><i>noun</i>	<b>picture</b></dd>
-
-<dt>gukuz</dt>
-<dd><i>noun</i>	<b>science</b>; experimentation and learning</dd>
-
-<dt>gupoush</dt>
-<dd><i>noun</i>	<b>self</b></dd>
-
-<dt>gupuk</dt>
-<dd><i>noun</i>	<b>covering</b>; physical</dd>
-
-<dt>gushab</dt>
-<dd><i>noun</i>	<b>male</b></dd>
-
-<dt>guz</dt>
-<dd><i>article</i>	<b>a</b>; not previously mentioned</dd>
-
-<dt>guzad</dt>
-<dd><i>noun</i>	<b>lungfish</b>; fish that breathe air</dd>
-
-<dt>guzeug</dt>
-<dd><i>noun</i>	<b>soybean</b></dd>
-
-<dt>guzib</dt>
-<dd><i>noun</i>	<b>elopomorpha</b>; ladyfishes tarpons and bonefishes but not eels</dd>
-</dl>
+### gabos
+_noun_  
+	*snap*; 10^-5 days
+
+### gadi
+_noun_  
+	*snake*
+
+### gaioik
+_noun_  
+	*ceiling*
+
+### gaisios
+_noun_  
+	*asparagus*
+
+### gaiud
+_noun_  
+	*mantisshrimp*
+
+### gajeg
+_noun_  
+	*bowfin*
+
+### gakui
+_noun_  
+	*symphalan*
+
+### gapat
+_noun_  
+	*modeling*
+
+### gashu
+_noun_  
+	*obeying*
+
+### gasi
+_noun_  
+	*robing*
+
+### gatu
+_noun_  
+	*interesting*
+
+### gaude
+_noun_  
+	*charisma*
+
+### gauib
+_noun_  
+	*fly*; in the taxonomical sense excluding mosquitos and houseflies
+
+### gautud
+_noun_  
+	*spinach*
+
+### gebei
+_noun_  
+	*allowing*; permission-giving
+
+### gebesh
+_noun_  
+	*level*
+
+### gebeud
+_noun_  
+	*basing*; operations and such
+
+### gedu
+_noun_  
+	*community-making*
+
+### geiak
+_noun_  
+	*condor*; also encompasses New World vultures
+
+### geitush
+_noun_  
+	*prone-lying*
+
+### geiu
+_noun_  
+	*leisuring*
+
+### geje
+_noun_  
+	*sound*
+
+### gepok
+_noun_  
+	*cockoroach*
+
+### geta
+_noun_  
+	*ceremony-participating*
+
+### getoz
+_noun_  
+	*politeness*
+
+### geua
+_noun_  
+	*pseudoscorpion*
+
+### geutuz
+_noun_  
+	*bracket-fungus*
+
+### geuzeu
+_noun_  
+	*tolerating*
+
+### giabouz
+_noun_  
+	*secret-keeping*
+
+### gideb
+_noun_  
+	*alcohol*
+
+### gidosh
+_noun_  
+	*office*
+
+### giegoiz
+_noun_  
+	*alga*
+
+### gikieud
+_noun_  
+	*banana*
+
+### gikup
+_noun_  
+	*embiidina*; web-spinning insects
+
+### gipoj
+_noun_  
+	*hand*
+
+### gipot
+_noun_  
+	*bovida*; cattle, buffalo, antelopes, sheep, goats, etc.
+
+### gisez
+_noun_  
+	*tactility*; touch
+
+### giues
+_noun_  
+	*hoatzin*; some weird kind of bird
+
+### giushuk
+_noun_  
+	*physicality*; describes things in the physical realm
+
+### gizeid
+_noun_  
+	*dear-holding*
+
+### gizid
+_noun_  
+	*tendril*
+
+### gobiug
+_noun_  
+	*mango*
+
+### gobob
+_noun_  
+	*money*
+
+### gobuk
+_noun_  
+	*subjecting*; focusing on
+
+### godai
+_noun_  
+	*flexing*
+
+### godauj
+_noun_  
+	*living*; as in living a life
+
+### gogez
+_noun_  
+	*particularness*
+
+### goia
+_noun_  
+	*art-making*
+
+### goibej
+_noun_  
+	*mushroom*
+
+### goigip
+_noun_  
+	*lichen*
+
+### goishek
+_noun_  
+	*toiletries*
+
+### goku
+_noun_  
+	*information*
+
+### gopet
+_noun_  
+	*caecilian*; blind legless amphibians
+
+### gopik
+_noun_  
+	*ostracoda*; seed shrimp
+
+### goshai
+_noun_  
+	*specialness*; uniqueness
+
+### goshuk
+_noun_  
+	*meat*
+
+### gozez
+_noun_  
+	*root*; of a plant
+
+### gubet
+_noun_  
+	*speed*
+
+### gubu
+_noun_  
+	*sympathyzing*
+
+### gudak
+_noun_  
+	*sloth*
+
+### gueposh
+_noun_  
+	*decapodiforme*; includes squid and cuttlefish
+
+### guesu
+_noun_  
+	*coelacanth*
+
+### gugoz
+_noun_  
+	*persisting*
+
+### guiesh
+_noun_  
+	*country*
+
+### guis
+_prefix_  
+	*not*; inverse
+
+### gujei
+_noun_  
+	*technology*
+
+### gujob
+_noun_  
+	*polygon*
+
+### gukoj
+_noun_  
+	*picture*
+
+### gukuz
+_noun_  
+	*science*; experimentation and learning
+
+### gupoush
+_noun_  
+	*self*
+
+### gupuk
+_noun_  
+	*covering*; physical
+
+### gushab
+_noun_  
+	*male*
+
+### guz
+_article_  
+	*a*; not previously mentioned
+
+### guzad
+_noun_  
+	*lungfish*; fish that breathe air
+
+### guzeug
+_noun_  
+	*soybean*
+
+### guzib
+_noun_  
+	*elopomorpha*; ladyfishes, tarpons, and bonefishes, but not eels
 
 ## Id
 
-<dl>
-<dt>iaiga</dt>
-<dd><i>noun</i>	<b>moving</b>; around but not necessarily with a direction</dd>
-
-<dt>iapiu</dt>
-<dd><i>noun</i>	<b>assigning</b></dd>
-
-<dt>iashu</dt>
-<dd><i>noun</i>	<b>education</b></dd>
-
-<dt>iat</dt>
-<dd><i>prefix</i>	<b>un</b>; opposite</dd>
-
-<dt>iazais</dt>
-<dd><i>noun</i>	<b>fame</b></dd>
-
-<dt>ibak</dt>
-<dd><i>noun</i>	<b>comprising</b></dd>
-
-<dt>ibauk</dt>
-<dd><i>noun</i>	<b>opossum</b></dd>
-
-<dt>ibish</dt>
-<dd><i>noun</i>	<b>year</b></dd>
-
-<dt>iboush</dt>
-<dd><i>noun</i>	<b>color</b></dd>
-
-<dt>ibub</dt>
-<dd><i>noun</i>	<b>replacing</b></dd>
-
-<dt>id</dt>
-<dd><i>conjunction</i>	<b>}</b></dd>
-
-<dt>idauz</dt>
-<dd><i>noun</i>	<b>waiting</b></dd>
-
-<dt>iduiu</dt>
-<dd><i>noun-technical</i>	<b>physics.power</b></dd>
-
-<dt>iduj</dt>
-<dd><i>noun</i>	<b>notopteroide</b>; aba elephantfishes and featherfin knives</dd>
-
-<dt>ieboub</dt>
-<dd><i>noun</i>	<b>violence</b></dd>
-
-<dt>iedod</dt>
-<dd><i>noun</i>	<b>apterygota</b>; silverfish firebrat and jumping bristletails</dd>
-
-<dt>ieguj</dt>
-<dd><i>noun</i>	<b>requiring</b></dd>
-
-<dt>iepo</dt>
-<dd><i>noun</i>	<b>head</b></dd>
-
-<dt>ieshe</dt>
-<dd><i>noun</i>	<b>truth</b></dd>
-
-<dt>ieshib</dt>
-<dd><i>noun</i>	<b>ocean</b></dd>
-
-<dt>ieshush</dt>
-<dd><i>noun</i>	<b>designing</b></dd>
-
-<dt>ietou</dt>
-<dd><i>noun</i>	<b>squalomorph-shark</b></dd>
-
-<dt>igaga</dt>
-<dd><i>noun-technical</i>	<b>physics.current</b></dd>
-
-<dt>igaz</dt>
-<dd><i>noun</i>	<b>becoming</b></dd>
-
-<dt>ige</dt>
-<dd><i>noun</i>	<b>point</b>; a particular time or place</dd>
-
-<dt>igib</dt>
-<dd><i>noun</i>	<b>dividing</b></dd>
-
-<dt>igosh</dt>
-<dd><i>noun</i>	<b>power</b>; ability to enact change</dd>
-
-<dt>iguk</dt>
-<dd><i>noun</i>	<b>ascidiacea</b>; sea squirts</dd>
-
-<dt>ija</dt>
-<dd><i>noun</i>	<b>liking</b></dd>
-
-<dt>ijig</dt>
-<dd><i>noun</i>	<b>zooming</b>; gotta go fast</dd>
-
-<dt>ijus</dt>
-<dd><i>noun</i>	<b>morning</b></dd>
-
-<dt>ikaib</dt>
-<dd><i>noun</i>	<b>substituting</b></dd>
-
-<dt>iket</dt>
-<dd><i>noun</i>	<b>mathematics</b></dd>
-
-<dt>ikie</dt>
-<dd><i>noun</i>	<b>box</b></dd>
-
-<dt>ikok</dt>
-<dd><i>noun</i>	<b>printing</b>; converting a digital object into a real one</dd>
-
-<dt>iku</dt>
-<dd><i>noun</i>	<b>doing</b></dd>
-
-<dt>iodij</dt>
-<dd><i>noun</i>	<b>whale</b>; also refers to dolphins and porpoises</dd>
-
-<dt>iogu</dt>
-<dd><i>noun</i>	<b>dreaming</b></dd>
-
-<dt>iojeij</dt>
-<dd><i>noun</i>	<b>carrot</b></dd>
-
-<dt>iopi</dt>
-<dd><i>noun</i>	<b>society</b></dd>
-
-<dt>ipaj</dt>
-<dd><i>noun</i>	<b>example</b></dd>
-
-<dt>ipo</dt>
-<dd><i>noun</i>	<b>toward</b>; creates compound words with states to convert them to transitions</dd>
-
-<dt>ipoug</dt>
-<dd><i>noun</i>	<b>togetherness</b></dd>
-
-<dt>isesh</dt>
-<dd><i>noun</i>	<b>foundation-forming</b></dd>
-
-<dt>iseub</dt>
-<dd><i>noun</i>	<b>horseshoe-crab</b></dd>
-
-<dt>ish</dt>
-<dd><i>conjunction</i>	<b>and</b></dd>
-
-<dt>ishak</dt>
-<dd><i>noun</i>	<b>experiencing</b></dd>
-
-<dt>ishas</dt>
-<dd><i>noun</i>	<b>to-pee-having</b></dd>
-
-<dt>isheu</dt>
-<dd><i>noun</i>	<b>cephalochordata</b>; lancelets and branchiostomidae</dd>
-
-<dt>ishez</dt>
-<dd><i>noun</i>	<b>suggesting</b></dd>
-
-<dt>ishupo</dt>
-<dd><i>noun-technical</i>	<b>math.map-projection</b></dd>
-
-<dt>isiag</dt>
-<dd><i>noun</i>	<b>tanness</b></dd>
-
-<dt>iside</dt>
-<dd><i>noun-technical</i>	<b>math.plane</b></dd>
-
-<dt>isit</dt>
-<dd><i>noun</i>	<b>platypus</b></dd>
-
-<dt>isoiz</dt>
-<dd><i>noun</i>	<b>salientia</b>; frogs and toads</dd>
-
-<dt>isui</dt>
-<dd><i>noun</i>	<b>functioning</b>; doing what one is supposed to</dd>
-
-<dt>itash</dt>
-<dd><i>noun</i>	<b>distance</b></dd>
-
-<dt>iteg</dt>
-<dd><i>noun</i>	<b>polypteriforme</b>; bichirs and reedfishes or ropefishes</dd>
-
-<dt>iteut</dt>
-<dd><i>noun</i>	<b>neoteleostei</b>; jellynoses lizardfishes lanternfishes beardfishes troutperches cods dories oarfishes opahs ribbonfishes and squirrelfishes</dd>
-
-<dt>iti</dt>
-<dd><i>noun</i>	<b>exceeding</b>; the subject exceeds the reciprocator in the object</dd>
-
-<dt>iu</dt>
-<dd><i>preposition</i>	<b>obj</b>; denotes direct object</dd>
-
-<dt>iubu</dt>
-<dd><i>noun</i>	<b>selling</b></dd>
-
-<dt>iuguz</dt>
-<dd><i>noun</i>	<b>situation</b></dd>
-
-<dt>iuish</dt>
-<dd><i>noun</i>	<b>loon</b></dd>
-
-<dt>iujib</dt>
-<dd><i>noun</i>	<b>secretary-bird</b></dd>
-
-<dt>iukep</dt>
-<dd><i>noun</i>	<b>bird</b></dd>
-
-<dt>iuoish</dt>
-<dd><i>noun</i>	<b>scorpion</b></dd>
-
-<dt>iupiet</dt>
-<dd><i>noun</i>	<b>internet</b></dd>
-
-<dt>iushish</dt>
-<dd><i>noun</i>	<b>bread</b></dd>
-
-<dt>iutag</dt>
-<dd><i>noun</i>	<b>osprey</b></dd>
-
-<dt>izaig</dt>
-<dd><i>noun</i>	<b>chunk</b>; 10^4 days</dd>
-
-<dt>ize</dt>
-<dd><i>noun</i>	<b>forcing</b></dd>
-
-<dt>izij</dt>
-<dd><i>noun</i>	<b>boiling</b></dd>
-
-<dt>izout</dt>
-<dd><i>noun</i>	<b>fraction</b>; most/majority</dd>
-</dl>
+### iaiga
+_noun_  
+	*moving*; around but not necessarily with a direction
+
+### iapiu
+_noun_  
+	*assigning*
+
+### iashu
+_noun_  
+	*education*
+
+### iat
+_prefix_  
+	*un*; opposite
+
+### iazais
+_noun_  
+	*fame*
+
+### ibak
+_noun_  
+	*comprising*
+
+### ibauk
+_noun_  
+	*opossum*
+
+### ibish
+_noun_  
+	*year*
+
+### ibope
+_noun-technical_  
+	*computer.desktop*
+
+### iboush
+_noun_  
+	*color*
+
+### ibub
+_noun_  
+	*replacing*
+
+### id
+_conjunction_  
+	*}*
+
+### idauz
+_noun_  
+	*waiting*
+
+### iduiu
+_noun-technical_  
+	*physics.power*
+
+### iduj
+_noun_  
+	*notopteroide*; aba, elephantfishes, and featherfin knives
+
+### ieboub
+_noun_  
+	*violence*
+
+### iedod
+_noun_  
+	*apterygota*; silverfish, firebrat, and jumping bristletails
+
+### ieguj
+_noun_  
+	*requiring*
+
+### iepo
+_noun_  
+	*head*
+
+### ieshe
+_noun_  
+	*truth*
+
+### ieshib
+_noun_  
+	*ocean*
+
+### ieshush
+_noun_  
+	*designing*
+
+### ietou
+_noun_  
+	*squalomorph-shark*
+
+### igaga
+_noun-technical_  
+	*physics.current*
+
+### igaz
+_noun_  
+	*becoming*
+
+### ige
+_noun_  
+	*point*; a particular time or place
+
+### igib
+_noun_  
+	*dividing*
+
+### igosh
+_noun_  
+	*power*; ability to enact change
+
+### iguk
+_noun_  
+	*ascidiacea*; sea squirts
+
+### ija
+_noun_  
+	*liking*
+
+### ijig
+_noun_  
+	*zooming*; gotta go fast
+
+### ijus
+_noun_  
+	*morning*
+
+### ikaib
+_noun_  
+	*substituting*
+
+### iket
+_noun_  
+	*mathematics*
+
+### ikie
+_noun_  
+	*box*
+
+### ikok
+_noun_  
+	*printing*; converting a digital object into a real one
+
+### iku
+_noun_  
+	*doing*
+
+### iodij
+_noun_  
+	*whale*; also refers to dolphins and porpoises
+
+### iogu
+_noun_  
+	*dreaming*
+
+### iojeij
+_noun_  
+	*carrot*
+
+### iopi
+_noun_  
+	*society*
+
+### ipaj
+_noun_  
+	*example*
+
+### ipo
+_noun_  
+	*toward*; creates compound words with states to convert them to transitions
+
+### ipoug
+_noun_  
+	*togetherness*
+
+### isesh
+_noun_  
+	*foundation-forming*
+
+### iseub
+_noun_  
+	*horseshoe-crab*
+
+### ish
+_conjunction_  
+	*and*
+
+### ishak
+_noun_  
+	*experiencing*
+
+### ishas
+_noun_  
+	*to-pee-having*
+
+### isheu
+_noun_  
+	*cephalochordata*; lancelets and branchiostomidae
+
+### ishez
+_noun_  
+	*suggesting*
+
+### ishupo
+_noun-technical_  
+	*math.map-projection*
+
+### isiag
+_noun_  
+	*tanness*
+
+### iside
+_noun-technical_  
+	*math.plane*
+
+### isit
+_noun_  
+	*platypus*
+
+### isoiz
+_noun_  
+	*salientia*; frogs and toads
+
+### isui
+_noun_  
+	*functioning*; doing what one is supposed to
+
+### itagu
+_noun-technical_  
+	*computer.window*
+
+### itash
+_noun_  
+	*distance*
+
+### iteg
+_noun_  
+	*polypteriforme*; bichirs and reedfishes or ropefishes
+
+### iteut
+_noun_  
+	*neoteleostei*; jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes
+
+### iti
+_noun_  
+	*exceeding*; the subject exceeds the reciprocator in the object
+
+### iu
+_preposition_  
+	*obj*; denotes direct object
+
+### iubu
+_noun_  
+	*selling*
+
+### iuguz
+_noun_  
+	*situation*
+
+### iuiab
+_noun_  
+	*admiring*
+
+### iuish
+_noun_  
+	*loon*
+
+### iujib
+_noun_  
+	*secretary-bird*
+
+### iukep
+_noun_  
+	*bird*
+
+### iuoish
+_noun_  
+	*scorpion*
+
+### iupiet
+_noun_  
+	*internet*
+
+### iushish
+_noun_  
+	*bread*
+
+### iutag
+_noun_  
+	*osprey*
+
+### izaig
+_noun_  
+	*chunk*; 10^4 days
+
+### ize
+_noun_  
+	*forcing*
+
+### izij
+_noun_  
+	*boiling*
+
+### izout
+_noun_  
+	*fraction*; most/majority
 
 ## Ju
 
-<dl>
-<dt>jabiut</dt>
-<dd><i>noun</i>	<b>vampiresquid</b></dd>
+### jabiut
+_noun_  
+	*vampiresquid*
 
-<dt>jadi</dt>
-<dd><i>noun</i>	<b>generalizing</b></dd>
+### jadi
+_noun_  
+	*generalizing*
 
-<dt>jadoi</dt>
-<dd><i>noun</i>	<b>otidae</b>; bustards turacos cuckoos nightbirds swifts and hummingbirds</dd>
+### jadoi
+_noun_  
+	*otidae*; bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds
 
-<dt>jaget</dt>
-<dd><i>noun</i>	<b>thinking-of</b></dd>
+### jaget
+_noun_  
+	*thinking-of*
 
-<dt>jagez</dt>
-<dd><i>noun</i>	<b>sureness</b>; probability</dd>
+### jagez
+_noun_  
+	*sureness*; probability
 
-<dt>jaido</dt>
-<dd><i>noun</i>	<b>data-storing</b></dd>
+### jaido
+_noun_  
+	*data-storing*
 
-<dt>jaied</dt>
-<dd><i>noun</i>	<b>bowl</b></dd>
+### jaied
+_noun_  
+	*bowl*
 
-<dt>jaiu</dt>
-<dd><i>noun</i>	<b>sturgeon</b></dd>
+### jaiu
+_noun_  
+	*sturgeon*
 
-<dt>jajeib</dt>
-<dd><i>noun</i>	<b>freshness</b></dd>
+### jajeib
+_noun_  
+	*freshness*
 
-<dt>jajuz</dt>
-<dd><i>noun</i>	<b>rescuing</b></dd>
+### jajuz
+_noun_  
+	*rescuing*
 
-<dt>jap</dt>
-<dd><i>fastener</i>	<b>whichelement</b>; identifies element of a set</dd>
+### jap
+_fastener_  
+	*whichelement*; identifies element of a set
 
-<dt>japud</dt>
-<dd><i>noun</i>	<b>skunk</b></dd>
+### japud
+_noun_  
+	*skunk*
 
-<dt>jasheug</dt>
-<dd><i>noun</i>	<b>apple</b></dd>
+### jasheug
+_noun_  
+	*apple*
 
-<dt>jasho</dt>
-<dd><i>noun</i>	<b>finding</b></dd>
+### jasho
+_noun_  
+	*finding*
 
-<dt>jatid</dt>
-<dd><i>noun</i>	<b>helping</b></dd>
+### jatid
+_noun_  
+	*helping*
 
-<dt>jatu</dt>
-<dd><i>noun</i>	<b>gender</b></dd>
+### jatu
+_noun_  
+	*gender*
 
-<dt>jaubug</dt>
-<dd><i>noun</i>	<b>rice</b></dd>
+### jaubug
+_noun_  
+	*rice*
 
-<dt>jaujash</dt>
-<dd><i>noun</i>	<b>grapefruit</b></dd>
+### jaujash
+_noun_  
+	*grapefruit*
 
-<dt>je</dt>
-<dd><i>other</i>	<b>jupede</b>; one * pdc ... ... what fullstop</dd>
+### je
+_special_  
+	*jupede*; one * pdc ... ... what fullstop
 
-<dt>jebap</dt>
-<dd><i>noun</i>	<b>cousin-being</b></dd>
+### jebap
+_noun_  
+	*cousin-being*
 
-<dt>jegub</dt>
-<dd><i>noun</i>	<b>satisfyingness</b>; the good feeling produced by snapping parts together or popping bubble wrap</dd>
+### jegub
+_noun_  
+	*satisfyingness*; the good feeling produced by snapping parts together or popping bubble wrap
 
-<dt>jeiju</dt>
-<dd><i>noun</i>	<b>child</b></dd>
+### jeiju
+_noun_  
+	*child*
 
-<dt>jeioip</dt>
-<dd><i>noun</i>	<b>claw</b>; of the sharp variety</dd>
+### jeioip
+_noun_  
+	*claw*; of the sharp variety
 
-<dt>jeiseg</dt>
-<dd><i>noun</i>	<b>taro</b></dd>
+### jeiseg
+_noun_  
+	*taro*
 
-<dt>jejaz</dt>
-<dd><i>noun</i>	<b>deal-striking</b></dd>
+### jejaz
+_noun_  
+	*deal-striking*
 
-<dt>jekish</dt>
-<dd><i>noun</i>	<b>movie-making</b></dd>
+### jekish
+_noun_  
+	*movie-making*
 
-<dt>jepik</dt>
-<dd><i>noun</i>	<b>altitude</b>; angle from horizon</dd>
+### jepik
+_noun_  
+	*altitude*; angle from horizon
 
-<dt>jes</dt>
-<dd><i>article</i>	<b>the</b>; previously mentioned</dd>
+### jes
+_article_  
+	*the*; previously mentioned
 
-<dt>jeseiz</dt>
-<dd><i>noun</i>	<b>locking</b></dd>
+### jeseiz
+_noun_  
+	*locking*
 
-<dt>jesesh</dt>
-<dd><i>noun</i>	<b>ease</b>; for the target</dd>
+### jesesh
+_noun_  
+	*ease*; for the target
 
-<dt>jesheuz</dt>
-<dd><i>noun</i>	<b>moss</b>; any embryophyte without xyla like liverworts and hornworts</dd>
+### jesheuz
+_noun_  
+	*moss*; any embryophyte without xyla, like liverworts and hornworts
 
-<dt>jeshoid</dt>
-<dd><i>noun</i>	<b>wheat</b></dd>
+### jeshoid
+_noun_  
+	*wheat*
 
-<dt>jeti</dt>
-<dd><i>noun</i>	<b>humidity</b></dd>
+### jeti
+_noun_  
+	*humidity*
 
-<dt>jeu</dt>
-<dd><i>preposition</i>	<b>than</b>; denotes extent or quantity</dd>
+### jeu
+_preposition_  
+	*than*; denotes extent or quantity
 
-<dt>jiapo</dt>
-<dd><i>noun</i>	<b>percomorpha</b>; gobies cichlids flatfish wrasse and perches</dd>
+### jiapo
+_noun_  
+	*percomorpha*; gobies, cichlids, flatfish, wrasse, and perches
 
-<dt>jibaut</dt>
-<dd><i>noun</i>	<b>pumpkin</b></dd>
+### jibaut
+_noun_  
+	*pumpkin*
 
-<dt>jidiz</dt>
-<dd><i>noun</i>	<b>name</b></dd>
+### jidiz
+_noun_  
+	*name*
 
-<dt>jidud</dt>
-<dd><i>noun</i>	<b>offering</b>; suggesting</dd>
+### jidud
+_noun_  
+	*offering*; suggesting
 
-<dt>jieshag</dt>
-<dd><i>noun</i>	<b>bean</b></dd>
+### jieshag
+_noun_  
+	*bean*
 
-<dt>jijop</dt>
-<dd><i>noun</i>	<b>remipedia</b>; like ocean centipede things</dd>
+### jije
+_noun_  
+	*class*; the quality of being expensive and unneccesary
 
-<dt>jioijeg</dt>
-<dd><i>noun</i>	<b>cleanliness</b></dd>
+### jijop
+_noun_  
+	*remipedia*; like ocean centipede things
 
-<dt>jisas</dt>
-<dd><i>noun</i>	<b>turtle</b>; includes tortoises and terrapins</dd>
+### jioijeg
+_noun_  
+	*cleanliness*
 
-<dt>jishep</dt>
-<dd><i>noun</i>	<b>phalangeriforme</b>; possums... which are apparently different from opossums and tend to fly</dd>
+### jisas
+_noun_  
+	*turtle*; includes tortoises and terrapins
 
-<dt>jobes</dt>
-<dd><i>noun</i>	<b>lifting</b></dd>
+### jishep
+_noun_  
+	*phalangeriforme*; possums... which are apparently different from opossums and tend to fly
 
-<dt>jogak</dt>
-<dd><i>noun</i>	<b>cusk-eel</b></dd>
+### jobes
+_noun_  
+	*lifting*
 
-<dt>joiseb</dt>
-<dd><i>noun</i>	<b>entrepreneurship</b>; solving large-scale problems</dd>
+### jogak
+_noun_  
+	*cusk-eel*
 
-<dt>jopa</dt>
-<dd><i>noun</i>	<b>7</b></dd>
+### joiseb
+_noun_  
+	*entrepreneurship*; solving large-scale problems
 
-<dt>jopib</dt>
-<dd><i>noun</i>	<b>puzzel</b></dd>
+### jopa
+_noun_  
+	*7*
 
-<dt>josij</dt>
-<dd><i>noun</i>	<b>certain-being</b></dd>
+### jopib
+_noun_  
+	*puzzel*
 
-<dt>joteb</dt>
-<dd><i>noun</i>	<b>water</b></dd>
+### joshej
+_noun_  
+	*viscocity*
 
-<dt>jouat</dt>
-<dd><i>noun</i>	<b>paddlefish</b></dd>
+### josij
+_noun_  
+	*certain-being*
 
-<dt>jougosh</dt>
-<dd><i>noun</i>	<b>avoiding</b></dd>
+### joteb
+_noun_  
+	*water*
 
-<dt>jousaj</dt>
-<dd><i>noun</i>	<b>element</b>; water earth fire air etc.</dd>
+### jouat
+_noun_  
+	*paddlefish*
 
-<dt>joutu</dt>
-<dd><i>noun</i>	<b>watching</b></dd>
+### jougosh
+_noun_  
+	*avoiding*
 
-<dt>jouzui</dt>
-<dd><i>noun</i>	<b>nemertea</b>; ribbon worms or probiscis worms</dd>
+### jousaj
+_noun_  
+	*element*; water, earth, fire, air, etc.
 
-<dt>ju</dt>
-<dd><i>pronoun</i>	<b>one</b>; no meaning</dd>
+### joutu
+_noun_  
+	*watching*
 
-<dt>judot</dt>
-<dd><i>noun</i>	<b>translating</b></dd>
+### jouzui
+_noun_  
+	*nemertea*; ribbon worms or probiscis worms
 
-<dt>jujak</dt>
-<dd><i>noun</i>	<b>corresponding</b>; relating - not writing</dd>
+### ju
+_pronoun_  
+	*one*; no meaning
 
-<dt>jusek</dt>
-<dd><i>noun</i>	<b>falling</b></dd>
+### judot
+_noun_  
+	*translating*
 
-<dt>juta</dt>
-<dd><i>noun</i>	<b>branchiopod</b>; a few types of shrimp</dd>
+### jujak
+_noun_  
+	*corresponding*; relating - not writing
 
-<dt>juzob</dt>
-<dd><i>noun</i>	<b>spoiling</b></dd>
-</dl>
+### jusek
+_noun_  
+	*falling*
+
+### juta
+_noun_  
+	*branchiopod*; a few types of shrimp
+
+### juzob
+_noun_  
+	*spoiling*
 
 ## Kush
 
-<dl>
-<dt>kadois</dt>
-<dd><i>noun</i>	<b>purity</b></dd>
+### kadois
+_noun_  
+	*purity*
 
-<dt>kadoj</dt>
-<dd><i>noun</i>	<b>thing</b></dd>
+### kadoj
+_noun_  
+	*thing*
 
-<dt>kaged</dt>
-<dd><i>noun</i>	<b>kinship</b></dd>
+### kaged
+_noun_  
+	*kinship*
 
-<dt>kajauj</dt>
-<dd><i>noun</i>	<b>cosmos</b></dd>
+### kajauj
+_noun_  
+	*cosmos*
 
-<dt>kajeiz</dt>
-<dd><i>noun</i>	<b>honeydew</b></dd>
+### kajeiz
+_noun_  
+	*honeydew*
 
-<dt>kakuj</dt>
-<dd><i>noun</i>	<b>rate</b></dd>
+### kakuj
+_noun_  
+	*rate*
 
-<dt>kapoz</dt>
-<dd><i>noun</i>	<b>loving</b>; romantically</dd>
+### kapoz
+_noun_  
+	*loving*; romantically
 
-<dt>kashish</dt>
-<dd><i>noun</i>	<b>curve</b>; any smooth path</dd>
+### kashish
+_noun_  
+	*curve*; any smooth path
 
-<dt>kasok</dt>
-<dd><i>noun</i>	<b>written-language</b>; parsing symbols into words with one's eyes</dd>
+### kasok
+_noun_  
+	*written-language*; parsing symbols into words with one's eyes
 
-<dt>kauo</dt>
-<dd><i>noun</i>	<b>front-backness</b></dd>
+### kauo
+_noun_  
+	*front-backness*
 
-<dt>kaup</dt>
-<dd><i>noun</i>	<b>yes</b></dd>
+### kaup
+_noun_  
+	*yes*
 
-<dt>kegu</dt>
-<dd><i>noun</i>	<b>pushing</b></dd>
+### kegu
+_noun_  
+	*pushing*
 
-<dt>keigus</dt>
-<dd><i>noun</i>	<b>bamboo</b></dd>
+### keigus
+_noun_  
+	*bamboo*
 
-<dt>kek</dt>
-<dd><i>pronoun</i>	<b>you</b>; the listener</dd>
+### kek
+_pronoun_  
+	*you*; the listener
 
-<dt>kekoi</dt>
-<dd><i>noun</i>	<b>pecora</b>; basically anything else with horns besides chevrotain giraffe and bovines</dd>
+### kekoi
+_noun_  
+	*pecora*; basically anything with horns besides chevrotains, giraffes, and bovines
 
-<dt>kepo</dt>
-<dd><i>noun</i>	<b>nautiloid</b></dd>
+### kepo
+_noun_  
+	*nautiloid*
 
-<dt>kepoush</dt>
-<dd><i>noun</i>	<b>sex-having</b></dd>
+### kepoush
+_noun_  
+	*sex-having*
 
-<dt>kesei</dt>
-<dd><i>noun</i>	<b>amusingness</b>; object is the person amused</dd>
+### kesei
+_noun_  
+	*amusingness*; the object is the person amused
 
-<dt>kesha</dt>
-<dd><i>noun</i>	<b>intending</b></dd>
+### kesha
+_noun_  
+	*intending*
 
-<dt>keshush</dt>
-<dd><i>noun</i>	<b>radius</b>; outside-inside</dd>
+### keshush
+_noun_  
+	*radius*; outside-inside
 
-<dt>keteg</dt>
-<dd><i>noun</i>	<b>berry</b></dd>
+### keteg
+_noun_  
+	*berry*
 
-<dt>ketop</dt>
-<dd><i>noun</i>	<b>9</b></dd>
+### ketop
+_noun_  
+	*9*
 
-<dt>ketout</dt>
-<dd><i>noun</i>	<b>gesturing</b></dd>
+### ketout
+_noun_  
+	*gesturing*
 
-<dt>keuda</dt>
-<dd><i>noun</i>	<b>bitterness</b></dd>
+### keuda
+_noun_  
+	*bitterness*
 
-<dt>keui</dt>
-<dd><i>noun</i>	<b>span</b>; 10^-3 days</dd>
+### keui
+_noun_  
+	*span*; 10^-3 days
 
-<dt>keukib</dt>
-<dd><i>noun</i>	<b>trichoplax</b>; real small and thin sponge-like animals</dd>
+### keukib
+_noun_  
+	*trichoplax*; real small and thin sponge-like animals
 
-<dt>keusaz</dt>
-<dd><i>noun</i>	<b>hole</b></dd>
+### keusaz
+_noun_  
+	*hole*
 
-<dt>keuseij</dt>
-<dd><i>noun</i>	<b>zoantharia</b></dd>
+### keuseij
+_noun_  
+	*zoantharia*
 
-<dt>keusi</dt>
-<dd><i>noun</i>	<b>australidelphia</b>; besides wombats koalas and kangaroos</dd>
+### keusi
+_noun_  
+	*australidelphia*; besides wombats, koalas, and kangaroos
 
-<dt>kiashat</dt>
-<dd><i>noun</i>	<b>maize</b></dd>
+### kiashat
+_noun_  
+	*maize*
 
-<dt>kibib</dt>
-<dd><i>noun</i>	<b>fullness</b></dd>
+### kibib
+_noun_  
+	*fullness*
 
-<dt>kidash</dt>
-<dd><i>noun</i>	<b>age</b></dd>
+### kidash
+_noun_  
+	*age*
 
-<dt>kiduash</dt>
-<dd><i>noun</i>	<b>mold</b></dd>
+### kiduash
+_noun_  
+	*mold*
 
-<dt>kijoj</dt>
-<dd><i>noun</i>	<b>surrounding</b></dd>
+### kijoj
+_noun_  
+	*surrounding*
 
-<dt>kiju</dt>
-<dd><i>noun</i>	<b>size</b></dd>
+### kiju
+_noun_  
+	*size*
 
-<dt>kiogoz</dt>
-<dd><i>noun</i>	<b>floor</b></dd>
+### kiogoz
+_noun_  
+	*floor*
 
-<dt>kipij</dt>
-<dd><i>noun</i>	<b>beetle</b></dd>
+### kipij
+_noun_  
+	*beetle*
 
-<dt>kishij</dt>
-<dd><i>noun</i>	<b>transitioning</b>; represents delta vector between any two states</dd>
+### kishij
+_noun_  
+	*transitioning*; represents delta vector between any two states
 
-<dt>kisoid</dt>
-<dd><i>noun</i>	<b>lettuce</b></dd>
+### kisoid
+_noun_  
+	*lettuce*
 
-<dt>kit</dt>
-<dd><i>punctuation</i>	<b>;</b>; noun clause</dd>
+### kit
+_punctuation_  
+	*;*; noun clause
 
-<dt>kiteis</dt>
-<dd><i>noun</i>	<b>chocolate</b></dd>
+### kiteis
+_noun_  
+	*chocolate*
 
-<dt>kodid</dt>
-<dd><i>noun</i>	<b>100</b></dd>
+### kodid
+_noun_  
+	*100*
 
-<dt>kogaid</dt>
-<dd><i>noun</i>	<b>feces</b></dd>
+### kogaid
+_noun_  
+	*feces*
 
-<dt>koitib</dt>
-<dd><i>noun</i>	<b>big-pictureness</b></dd>
+### koitib
+_noun_  
+	*big-pictureness*
 
-<dt>koiu</dt>
-<dd><i>noun</i>	<b>planning</b></dd>
+### koiu
+_noun_  
+	*planning*
 
-<dt>kojup</dt>
-<dd><i>noun</i>	<b>concernedness</b></dd>
+### kojup
+_noun_  
+	*concern*
 
-<dt>kokat</dt>
-<dd><i>noun</i>	<b>difference</b></dd>
+### kokat
+_noun_  
+	*difference*
 
-<dt>kopish</dt>
-<dd><i>noun</i>	<b>holocephali</b></dd>
+### kopish
+_noun_  
+	*holocephali*
 
-<dt>koubi</dt>
-<dd><i>noun</i>	<b>seahorse</b></dd>
+### koubi
+_noun_  
+	*seahorse*
 
-<dt>koutep</dt>
-<dd><i>noun</i>	<b>hiding</b></dd>
+### koutep
+_noun_  
+	*hiding*
 
-<dt>kozoj</dt>
-<dd><i>noun</i>	<b>flailing</b></dd>
+### kozoj
+_noun_  
+	*flailing*
 
-<dt>kuaibod</dt>
-<dd><i>noun</i>	<b>continent</b></dd>
+### kuaibod
+_noun_  
+	*continent*
 
-<dt>kubop</dt>
-<dd><i>noun</i>	<b>sitting</b></dd>
+### kubop
+_noun_  
+	*sitting*
 
-<dt>kuiak</dt>
-<dd><i>noun</i>	<b>knowledge</b>; the quality of knowing a lot of facts</dd>
+### kuiak
+_noun_  
+	*knowledge*; the quality of knowing a lot of facts
 
-<dt>kujou</dt>
-<dd><i>noun</i>	<b>caring</b></dd>
+### kujou
+_noun_  
+	*caring*
 
-<dt>kupa</dt>
-<dd><i>noun</i>	<b>lagomorpha</b>; rabbits hares pikas</dd>
+### kupa
+_noun_  
+	*lagomorpha*; rabbits, hares, pikas
 
-<dt>kupesh</dt>
-<dd><i>noun</i>	<b>protacanthopterygii</b>; salmons trouts pikes dragonfishes and smelts</dd>
+### kupesh
+_noun_  
+	*protacanthopterygii*; salmons, trouts, pikes, dragonfishes, and smelts
 
-<dt>kush</dt>
-<dd><i>preposition</i>	<b>if</b>; denotes hypothetical conditions</dd>
+### kush
+_preposition_  
+	*if*; denotes hypothetical conditions
 
-<dt>kushag</dt>
-<dd><i>noun</i>	<b>shooting</b></dd>
+### kushag
+_noun_  
+	*shooting*
 
-<dt>kuzi</dt>
-<dd><i>noun</i>	<b>rapidity</b>; of communication; the idea with this word is to distinguish rapid SMS texting from unrapid email</dd>
-</dl>
+### kuzi
+_noun_  
+	*rapidity*; of communication; the idea with this word is to distinguish rapid SMS texting from unrapid email
 
 ## Og
 
-<dl>
-<dt>obaba</dt>
-<dd><i>noun-technical</i>	<b>physics.momentum</b></dd>
+### obaba
+_noun-technical_  
+	*physics.momentum*
 
-<dt>odaub</dt>
-<dd><i>noun</i>	<b>fermenting</b></dd>
+### odaub
+_noun_  
+	*fermenting*
 
-<dt>odeij</dt>
-<dd><i>noun</i>	<b>attempting</b>; trying</dd>
+### odeij
+_noun_  
+	*attempting*; trying
 
-<dt>odeji</dt>
-<dd><i>noun-technical</i>	<b>physics.rotational-inertia</b></dd>
+### odeji
+_noun-technical_  
+	*physics.rotational-inertia*
 
-<dt>odo</dt>
-<dd><i>noun</i>	<b>time</b>; e.g. t = 13.7</dd>
+### odo
+_noun_  
+	*time*; e.g. t = 13.7
 
-<dt>odut</dt>
-<dd><i>noun</i>	<b>initiating</b></dd>
+### odut
+_noun_  
+	*initiating*
 
-<dt>og</dt>
-<dd><i>preposition</i>	<b>with</b>; denotes recipricator</dd>
+### og
+_preposition_  
+	*with*; denotes recipricator
 
-<dt>ogesh</dt>
-<dd><i>noun</i>	<b>giraffe</b>; and okapi</dd>
+### ogesh
+_noun_  
+	*giraffe*; and okapi
 
-<dt>ogob</dt>
-<dd><i>noun</i>	<b>mocking</b></dd>
+### ogob
+_noun_  
+	*mocking*
 
-<dt>oiap</dt>
-<dd><i>noun</i>	<b>jostling</b>; moving in place</dd>
+### oiap
+_noun_  
+	*jostling*; moving in place
 
-<dt>oigut</dt>
-<dd><i>noun</i>	<b>butt</b></dd>
+### oigut
+_noun_  
+	*butt*
 
-<dt>oio</dt>
-<dd><i>noun</i>	<b>prosperity</b></dd>
+### oio
+_noun_  
+	*prosperity*
 
-<dt>oitik</dt>
-<dd><i>noun</i>	<b>bee</b></dd>
+### oioib
+_noun_  
+	*procrastinating*
 
-<dt>oiud</dt>
-<dd><i>noun</i>	<b>echidna</b></dd>
+### oitik
+_noun_  
+	*bee*
 
-<dt>oizid</dt>
-<dd><i>noun</i>	<b>euliptyphla</b>; hedgehogs moles shrews and a few other rodent-like things</dd>
+### oiud
+_noun_  
+	*echidna*
 
-<dt>ojazi</dt>
-<dd><i>noun-technical</i>	<b>math.acceleration</b></dd>
+### oizid
+_noun_  
+	*euliptyphla*; hedgehogs, moles, shrews, and a few other rodent-like things
 
-<dt>ojed</dt>
-<dd><i>noun</i>	<b>publicity</b></dd>
+### ojazi
+_noun-technical_  
+	*math.acceleration*
 
-<dt>ojeut</dt>
-<dd><i>noun</i>	<b>term</b>; 10^2 days</dd>
+### ojed
+_noun_  
+	*publicity*
 
-<dt>ojo</dt>
-<dd><i>noun</i>	<b>saying</b>; using a declarative sentence</dd>
+### ojeut
+_noun_  
+	*term*; 10^2 days
 
-<dt>okeb</dt>
-<dd><i>noun</i>	<b>world</b></dd>
+### ojo
+_noun_  
+	*saying*; using a declarative sentence
 
-<dt>okoi</dt>
-<dd><i>noun</i>	<b>metal</b></dd>
+### okeb
+_noun_  
+	*world*
 
-<dt>okoz</dt>
-<dd><i>noun</i>	<b>churning</b></dd>
+### okoi
+_noun_  
+	*metal*
 
-<dt>opeut</dt>
-<dd><i>noun</i>	<b>wasp</b></dd>
+### okoz
+_noun_  
+	*churning*
 
-<dt>opit</dt>
-<dd><i>noun</i>	<b>considering</b></dd>
+### opeut
+_noun_  
+	*wasp*
 
-<dt>opiz</dt>
-<dd><i>noun</i>	<b>zig-zag</b>; any erratic path</dd>
+### opit
+_noun_  
+	*considering*
 
-<dt>oposh</dt>
-<dd><i>noun</i>	<b>8</b></dd>
+### opiz
+_noun_  
+	*zig-zag*; any erratic path
 
-<dt>opu</dt>
-<dd><i>noun</i>	<b>person</b></dd>
+### oposh
+_noun_  
+	*8*
 
-<dt>osa</dt>
-<dd><i>noun</i>	<b>obtaining</b></dd>
+### opu
+_noun_  
+	*person*
 
-<dt>osaish</dt>
-<dd><i>noun</i>	<b>visiting</b></dd>
+### osa
+_noun_  
+	*obtaining*
 
-<dt>oshab</dt>
-<dd><i>noun</i>	<b>cutting</b></dd>
+### osaish
+_noun_  
+	*visiting*
 
-<dt>oshik</dt>
-<dd><i>noun</i>	<b>availability</b></dd>
+### oshab
+_noun_  
+	*cutting*
 
-<dt>oshiz</dt>
-<dd><i>noun</i>	<b>light</b></dd>
+### oshik
+_noun_  
+	*availability*
 
-<dt>oshua</dt>
-<dd><i>noun</i>	<b>drawing</b></dd>
+### oshiz
+_noun_  
+	*light*
 
-<dt>osisha</dt>
-<dd><i>noun-technical</i>	<b>physics.mass</b></dd>
+### oshua
+_noun_  
+	*drawing*
 
-<dt>osou</dt>
-<dd><i>noun</i>	<b>automobile</b></dd>
+### osisha
+_noun-technical_  
+	*physics.mass*
 
-<dt>ote</dt>
-<dd><i>noun</i>	<b>excusing</b></dd>
+### osou
+_noun_  
+	*automobile*
 
-<dt>oteik</dt>
-<dd><i>noun</i>	<b>seaurchin</b></dd>
+### ote
+_noun_  
+	*excusing*
 
-<dt>oubos</dt>
-<dd><i>noun</i>	<b>importance</b></dd>
+### oteik
+_noun_  
+	*seaurchin*
 
-<dt>oudis</dt>
-<dd><i>noun</i>	<b>luck</b></dd>
+### otiuz
+_noun_  
+	*thinking*; conciously deciding that a fact is true; contrast with "believing"
 
-<dt>oudush</dt>
-<dd><i>noun</i>	<b>repository</b>; body of technical knowlege</dd>
+### oubos
+_noun_  
+	*importance*
 
-<dt>ougious</dt>
-<dd><i>noun</i>	<b>rebelling</b></dd>
+### oudis
+_noun_  
+	*remarkability*; unlikeliness
 
-<dt>ouip</dt>
-<dd><i>noun</i>	<b>ant</b></dd>
+### oudush
+_noun_  
+	*repository*; body of technical knowlege
 
-<dt>oukog</dt>
-<dd><i>noun</i>	<b>grebe</b></dd>
+### ougious
+_noun_  
+	*rebelling*
 
-<dt>ouog</dt>
-<dd><i>noun</i>	<b>pondering</b></dd>
+### ouip
+_noun_  
+	*ant*
 
-<dt>oupouz</dt>
-<dd><i>noun</i>	<b>animal</b></dd>
+### oukog
+_noun_  
+	*grebe*
 
-<dt>oush</dt>
-<dd><i>preposition</i>	<b>via</b>; denotes tool or medium</dd>
+### ouog
+_noun_  
+	*pondering*
 
-<dt>oushois</dt>
-<dd><i>noun</i>	<b>striking</b>; a swift decisive action</dd>
+### oupouz
+_noun_  
+	*animal*
 
-<dt>ozi</dt>
-<dd><i>noun</i>	<b>height</b>; vertical coordinate</dd>
+### oush
+_preposition_  
+	*via*; denotes tool or medium
 
-<dt>ozogo</dt>
-<dd><i>noun-technical</i>	<b>physics.potential</b></dd>
+### oushois
+_noun_  
+	*striking*; a swift decisive action
 
-<dt>ozuaz</dt>
-<dd><i>noun</i>	<b>mosquito</b></dd>
-</dl>
+### ozi
+_noun_  
+	*height*; vertical coordinate
+
+### ozogo
+_noun-technical_  
+	*physics.potential*
+
+### ozuaz
+_noun_  
+	*mosquito*
 
 ## Pi
 
-<dl>
-<dt>padis</dt>
-<dd><i>noun</i>	<b>housefly</b></dd>
+### padis
+_noun_  
+	*housefly*
 
-<dt>padup</dt>
-<dd><i>noun</i>	<b>line</b>; of the segment or infinite variety</dd>
+### padup
+_noun_  
+	*line*; of the segment or infinite variety
 
-<dt>paget</dt>
-<dd><i>noun</i>	<b>scombroide</b>; tunas and mackerels</dd>
+### paget
+_noun_  
+	*scombroide*; tunas and mackerels
 
-<dt>pago</dt>
-<dd><i>noun</i>	<b>following</b></dd>
+### pago
+_noun_  
+	*following*
 
-<dt>pagud</dt>
-<dd><i>noun</i>	<b>into</b>; usually for long/deep things</dd>
+### pagud
+_noun_  
+	*into*; usually for long/deep things
 
-<dt>paiboi</dt>
-<dd><i>noun</i>	<b>pepper</b></dd>
+### paiboi
+_noun_  
+	*pepper*
 
-<dt>pakai</dt>
-<dd><i>noun</i>	<b>megaloptera</b>; alderflies dobsonflies and fishflies</dd>
+### pakai
+_noun_  
+	*megaloptera*; alderflies, dobsonflies, and fishflies
 
-<dt>pakou</dt>
-<dd><i>noun</i>	<b>strength</b>; ability to exact force</dd>
+### pakou
+_noun_  
+	*strength*; ability to exact force
 
-<dt>papus</dt>
-<dd><i>noun</i>	<b>standing</b>; structurally e.g. a building</dd>
+### papus
+_noun_  
+	*standing*; structurally e.g. a building
 
-<dt>pasag</dt>
-<dd><i>noun</i>	<b>saltiness</b></dd>
+### pasag
+_noun_  
+	*saltiness*
 
-<dt>pazai</dt>
-<dd><i>noun</i>	<b>structural-integrity</b>; resistance to breaking bending or deforming</dd>
+### pazai
+_noun_  
+	*structural-integrity*; resistance to breaking bending or deforming
 
-<dt>pazeut</dt>
-<dd><i>noun</i>	<b>nutmeg</b></dd>
+### pazeut
+_noun_  
+	*nutmeg*
 
-<dt>pebib</dt>
-<dd><i>noun</i>	<b>firmness</b></dd>
+### pebib
+_noun_  
+	*softness*; tendency to conform shape
 
-<dt>peboz</dt>
-<dd><i>noun</i>	<b>millipede</b></dd>
+### peboz
+_noun_  
+	*millipede*
 
-<dt>pebu</dt>
-<dd><i>noun</i>	<b>penguin</b></dd>
+### pebu
+_noun_  
+	*penguin*
 
-<dt>ped</dt>
-<dd><i>punctuation</i>	<b>*</b>; modifier clause</dd>
+### ped
+_punctuation_  
+	***; modifier clause
 
-<dt>pegug</dt>
-<dd><i>noun</i>	<b>aptitude</b>; fitting a situation well</dd>
+### pegug
+_noun_  
+	*aptitude*; fitting a situation well
 
-<dt>peig</dt>
-<dd><i>prefix</i>	<b>very</b>; exaggeration</dd>
+### peig
+_prefix_  
+	*very*; exaggeration
 
-<dt>peijat</dt>
-<dd><i>noun</i>	<b>weather</b>; atmosphere</dd>
+### peijat
+_noun_  
+	*weather*; atmosphere
 
-<dt>peioj</dt>
-<dd><i>noun</i>	<b>salp</b></dd>
+### peioj
+_noun_  
+	*salp*
 
-<dt>pejez</dt>
-<dd><i>noun</i>	<b>lizard</b></dd>
+### pejez
+_noun_  
+	*lizard*
 
-<dt>pekoiz</dt>
-<dd><i>noun</i>	<b>breasts</b></dd>
+### pekoiz
+_noun_  
+	*breasts*
 
-<dt>pekuz</dt>
-<dd><i>noun</i>	<b>rigidity</b></dd>
+### pekuz
+_noun_  
+	*rigidity*
 
-<dt>peshi</dt>
-<dd><i>noun</i>	<b>fruit</b></dd>
+### peshek
+_noun_  
+	*remotely-controling*
 
-<dt>peuip</dt>
-<dd><i>noun</i>	<b>face</b></dd>
+### peshi
+_noun_  
+	*fruit*
 
-<dt>pezis</dt>
-<dd><i>noun</i>	<b>preparing</b>; as in food</dd>
+### peuip
+_noun_  
+	*face*
 
-<dt>pi</dt>
-<dd><i>conjunction</i>	<b>name{</b></dd>
+### pezis
+_noun_  
+	*preparing*; as in food
 
-<dt>pideg</dt>
-<dd><i>noun</i>	<b>supporting</b></dd>
+### pi
+_conjunction_  
+	*name{*
 
-<dt>piesaz</dt>
-<dd><i>noun</i>	<b>literalness</b></dd>
+### pideg
+_noun_  
+	*supporting*
 
-<dt>piga</dt>
-<dd><i>noun</i>	<b>otocephala</b>; herrings slickheads milkfishes minnows carps loaches catfishes knifefishes and tetras</dd>
+### piesaz
+_noun_  
+	*literalness*
 
-<dt>pikeiz</dt>
-<dd><i>noun</i>	<b>vine</b></dd>
+### piga
+_noun_  
+	*otocephala*; herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras
 
-<dt>piki</dt>
-<dd><i>noun</i>	<b>circle</b></dd>
+### pikeiz
+_noun_  
+	*vine*
 
-<dt>pioip</dt>
-<dd><i>punctuation</i>	<b>let</b>; beuracratic</dd>
+### piki
+_noun_  
+	*circle*
 
-<dt>pipeu</dt>
-<dd><i>noun</i>	<b>leg</b></dd>
+### pioip
+_punctuation_  
+	*let*; beuracratic
 
-<dt>pipez</dt>
-<dd><i>noun</i>	<b>patronizing</b>; as in a customer going to a business</dd>
+### pipeu
+_noun_  
+	*leg*
 
-<dt>pishig</dt>
-<dd><i>noun</i>	<b>role-filling</b></dd>
+### pipez
+_noun_  
+	*patronizing*; as in a customer going to a business
 
-<dt>pitish</dt>
-<dd><i>noun</i>	<b>letter</b>; character</dd>
+### pishig
+_noun_  
+	*role-filling*
 
-<dt>pituj</dt>
-<dd><i>noun</i>	<b>procyonidae</b>; raccoons coatis kinkajous olingos olinguitos ringtails and cacomistles</dd>
+### pitish
+_noun_  
+	*letter*; character
 
-<dt>pobok</dt>
-<dd><i>noun</i>	<b>book</b></dd>
+### pituj
+_noun_  
+	*procyonidae*; raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles
 
-<dt>podi</dt>
-<dd><i>noun</i>	<b>also</b></dd>
+### pobok
+_noun_  
+	*book*
 
-<dt>pogeis</dt>
-<dd><i>noun</i>	<b>meaning</b>; big-picture meaning of things</dd>
+### podi
+_noun_  
+	*also*
 
-<dt>poijaish</dt>
-<dd><i>noun</i>	<b>pomegranite</b></dd>
+### pogeis
+_noun_  
+	*meaning*; big-picture meaning of things
 
-<dt>poitoik</dt>
-<dd><i>noun</i>	<b>sesquipedalianness</b></dd>
+### poijaish
+_noun_  
+	*pomegranite*
 
-<dt>poiub</dt>
-<dd><i>noun</i>	<b>5</b></dd>
+### poitoik
+_noun_  
+	*sesquipedalianness*
 
-<dt>poj</dt>
-<dd><i>punctuation</i>	<b>.</b>; declarative</dd>
+### poiub
+_noun_  
+	*5*
 
-<dt>popeb</dt>
-<dd><i>noun</i>	<b>fact</b></dd>
+### poj
+_punctuation_  
+	*.*; declarative
 
-<dt>popis</dt>
-<dd><i>noun</i>	<b>green</b></dd>
+### popeb
+_noun_  
+	*fact*
 
-<dt>poshosh</dt>
-<dd><i>noun</i>	<b>mammal</b></dd>
+### popis
+_noun_  
+	*green*
 
-<dt>poua</dt>
-<dd><i>noun</i>	<b>gland</b>; node or organ</dd>
+### poshosh
+_noun_  
+	*mammal*
 
-<dt>pouej</dt>
-<dd><i>noun</i>	<b>pyrosome</b></dd>
+### poua
+_noun_  
+	*gland*; node or organ
 
-<dt>poushe</dt>
-<dd><i>noun</i>	<b>learning</b></dd>
+### pouej
+_noun_  
+	*pyrosome*
 
-<dt>poushuj</dt>
-<dd><i>noun</i>	<b>attention-paying</b></dd>
+### poushe
+_noun_  
+	*learning*
 
-<dt>pozup</dt>
-<dd><i>noun</i>	<b>amphibian</b></dd>
+### poushuj
+_noun_  
+	*attention-paying*
 
-<dt>puba</dt>
-<dd><i>noun</i>	<b>problem</b></dd>
+### pozup
+_noun_  
+	*amphibian*
 
-<dt>pubuk</dt>
-<dd><i>noun</i>	<b>temperature</b></dd>
+### puba
+_noun_  
+	*problem*
 
-<dt>pudaz</dt>
-<dd><i>noun</i>	<b>orientation</b>; angular position from the point of view of the object</dd>
+### pubuk
+_noun_  
+	*temperature*
 
-<dt>puk</dt>
-<dd><i>article</i>	<b>thatoverthere</b>; associated with neither speaker nor listener</dd>
+### pudaz
+_noun_  
+	*orientation*; angular position from the point of view of the object
 
-<dt>pukeg</dt>
-<dd><i>noun</i>	<b>season</b>; a time of year when something is "in"</dd>
+### puk
+_article_  
+	*thatoverthere*; associated with neither speaker nor listener
 
-<dt>pukud</dt>
-<dd><i>noun</i>	<b>leptostrac</b></dd>
+### pukeg
+_noun_  
+	*season*; a time of year when something is "in"
 
-<dt>pupik</dt>
-<dd><i>noun</i>	<b>larvacea</b></dd>
+### pukud
+_noun_  
+	*leptostrac*
 
-<dt>pupish</dt>
-<dd><i>noun</i>	<b>seastar</b></dd>
+### pupik
+_noun_  
+	*larvacea*
 
-<dt>pusheu</dt>
-<dd><i>noun</i>	<b>friend</b></dd>
+### pupish
+_noun_  
+	*seastar*
 
-<dt>pushuj</dt>
-<dd><i>noun</i>	<b>individuality</b></dd>
+### pusheu
+_noun_  
+	*friend*
 
-<dt>puzed</dt>
-<dd><i>noun</i>	<b>domesticating</b></dd>
-</dl>
+### pushuj
+_noun_  
+	*individuality*
+
+### puzed
+_noun_  
+	*domesticating*
 
 ## Si and Shau
 
-<dl>
-<dt>sabig</dt>
-<dd><i>noun</i>	<b>beauty</b>; of a person</dd>
-
-<dt>sabus</dt>
-<dd><i>noun</i>	<b>exclusivity</b></dd>
-
-<dt>sadez</dt>
-<dd><i>noun</i>	<b>freedom</b></dd>
-
-<dt>sadip</dt>
-<dd><i>noun</i>	<b>termite</b></dd>
-
-<dt>sadoj</dt>
-<dd><i>noun</i>	<b>mayfly</b></dd>
-
-<dt>sagu</dt>
-<dd><i>noun</i>	<b>burning</b></dd>
-
-<dt>saia</dt>
-<dd><i>noun</i>	<b>freshwater-butterflyfish</b></dd>
-
-<dt>saidoj</dt>
-<dd><i>noun</i>	<b>clustering</b>; being physically nearby</dd>
-
-<dt>saige</dt>
-<dd><i>noun</i>	<b>outdoorsness</b></dd>
-
-<dt>saijez</dt>
-<dd><i>noun</i>	<b>talking</b>; forming words with one's voice</dd>
-
-<dt>saijib</dt>
-<dd><i>noun</i>	<b>gunpowder</b></dd>
-
-<dt>sak</dt>
-<dd><i>article</i>	<b>any</b>; single element</dd>
-
-<dt>sapa</dt>
-<dd><i>noun</i>	<b>vibrancy</b></dd>
-
-<dt>sashuz</dt>
-<dd><i>noun</i>	<b>sawfly</b></dd>
-
-<dt>saubi</dt>
-<dd><i>noun</i>	<b>salamander</b></dd>
-
-<dt>sauoj</dt>
-<dd><i>noun</i>	<b>nut</b>; also seed</dd>
-
-<dt>saz</dt>
-<dd><i>punctuation</i>	<b>!</b>; imperative</dd>
-
-<dt>sedeud</dt>
-<dd><i>noun</i>	<b>watermelon</b></dd>
-
-<dt>sedog</dt>
-<dd><i>noun</i>	<b>electricity</b></dd>
-
-<dt>seja</dt>
-<dd><i>noun</i>	<b>blackness</b></dd>
-
-<dt>sesoz</dt>
-<dd><i>noun</i>	<b>tapir</b></dd>
-
-<dt>set</dt>
-<dd><i>preposition</i>	<b>regarding</b>; denotes context</dd>
-
-<dt>setieus</dt>
-<dd><i>noun</i>	<b>rye</b></dd>
-
-<dt>sezeb</dt>
-<dd><i>noun</i>	<b>red-panda</b></dd>
-
-<dt>sezush</dt>
-<dd><i>noun</i>	<b>arowana</b>; bonytounges</dd>
-
-<dt>shabish</dt>
-<dd><i>noun</i>	<b>hagfish</b>; slime-eel</dd>
-
-<dt>shabo</dt>
-<dd><i>noun</i>	<b>constructing</b></dd>
-
-<dt>shadu</dt>
-<dd><i>noun</i>	<b>sorting</b></dd>
-
-<dt>shaiaz</dt>
-<dd><i>noun</i>	<b>language</b></dd>
-
-<dt>shaigu</dt>
-<dd><i>noun</i>	<b>pangolin</b></dd>
-
-<dt>shaikei</dt>
-<dd><i>noun</i>	<b>meme</b></dd>
-
-<dt>shakip</dt>
-<dd><i>noun</i>	<b>loop</b></dd>
-
-<dt>shasat</dt>
-<dd><i>noun</i>	<b>vegetable</b>; includes fruit</dd>
-
-<dt>shasej</dt>
-<dd><i>noun</i>	<b>chiroptera</b>; bats and flying foxes</dd>
-
-<dt>shat</dt>
-<dd><i>preposition</i>	<b>bool</b>; denotes whether it happened; the argument here is basically always `kaup` or `sob`</dd>
-
-<dt>shatoj</dt>
-<dd><i>noun</i>	<b>nematoid</b>; parasitic worms FTW!</dd>
-
-<dt>shau</dt>
-<dd><i>preposition</i>	<b>in</b>; denotes nonphysical non temporal state</dd>
-
-<dt>shauiz</dt>
-<dd><i>noun</i>	<b>2</b></dd>
-
-<dt>shaupip</dt>
-<dd><i>noun</i>	<b>transforming</b></dd>
-
-<dt>shaupub</dt>
-<dd><i>noun</i>	<b>fungus</b></dd>
-
-<dt>sheb</dt>
-<dd><i>preposition</i>	<b>because</b>; denotes cause</dd>
-
-<dt>shegesh</dt>
-<dd><i>noun</i>	<b>freezing</b></dd>
-
-<dt>shejob</dt>
-<dd><i>noun</i>	<b>table</b>; furniture</dd>
-
-<dt>shepat</dt>
-<dd><i>noun</i>	<b>foreignness</b></dd>
-
-<dt>shepeg</dt>
-<dd><i>noun</i>	<b>disk</b>; a place where a computer stores information</dd>
-
-<dt>sheshiz</dt>
-<dd><i>noun</i>	<b>spoken-language</b>; combining this with active-perceiving means listening or compehending</dd>
-
-<dt>shesud</dt>
-<dd><i>noun</i>	<b>mind</b></dd>
-
-<dt>shetez</dt>
-<dd><i>noun</i>	<b>scent</b></dd>
-
-<dt>sheuduk</dt>
-<dd><i>noun</i>	<b>forward-to-looking</b></dd>
-
-<dt>shezat</dt>
-<dd><i>noun</i>	<b>primatomorpha</b>; basically monkeys and apes plus a few other types of primate</dd>
-
-<dt>shezes</dt>
-<dd><i>noun</i>	<b>longitude</b>; east+</dd>
-
-<dt>shiabu</dt>
-<dd><i>noun</i>	<b>betweenness</b></dd>
-
-<dt>shiazash</dt>
-<dd><i>noun</i>	<b>corallimorpharia</b></dd>
-
-<dt>shibeus</dt>
-<dd><i>noun</i>	<b>ink</b></dd>
-
-<dt>shij</dt>
-<dd><i>article</i>	<b>even</b>; stressed</dd>
-
-<dt>shijap</dt>
-<dd><i>noun</i>	<b>robot</b></dd>
-
-<dt>shijash</dt>
-<dd><i>noun</i>	<b>recommending</b></dd>
-
-<dt>shijos</dt>
-<dd><i>noun</i>	<b>come to be</b></dd>
-
-<dt>shikuz</dt>
-<dd><i>noun</i>	<b>besideness</b></dd>
-
-<dt>shisad</dt>
-<dd><i>noun</i>	<b>owl</b></dd>
-
-<dt>shizuj</dt>
-<dd><i>noun</i>	<b>waterfowl</b></dd>
-
-<dt>shoba</dt>
-<dd><i>noun</i>	<b>seal</b>; includes walruses and maybe sea lions I think?</dd>
-
-<dt>shoduaz</dt>
-<dd><i>noun</i>	<b>appeal</b>; of a picture sound etc.</dd>
-
-<dt>shoiosh</dt>
-<dd><i>noun</i>	<b>policymaking</b></dd>
-
-<dt>shoited</dt>
-<dd><i>noun</i>	<b>octopus</b></dd>
-
-<dt>shojag</dt>
-<dd><i>noun</i>	<b>standing-up</b>; posture</dd>
-
-<dt>shojouj</dt>
-<dd><i>noun</i>	<b>hydra</b></dd>
-
-<dt>shok</dt>
-<dd><i>preposition</i>	<b>at</b>; denotes date/time</dd>
-
-<dt>shokas</dt>
-<dd><i>noun</i>	<b>whispering</b>; speaking without voicing vowels or consonants</dd>
-
-<dt>shokok</dt>
-<dd><i>noun</i>	<b>egg</b></dd>
-
-<dt>shopaij</dt>
-<dd><i>noun</i>	<b>onion</b></dd>
-
-<dt>shopiai</dt>
-<dd><i>noun</i>	<b>jungle</b></dd>
-
-<dt>shopoud</dt>
-<dd><i>noun</i>	<b>slicing</b></dd>
-
-<dt>shos</dt>
-<dd><i>fastener</i>	<b>whichone</b>; describes a specific instance</dd>
-
-<dt>shoshaj</dt>
-<dd><i>noun</i>	<b>imprisoning</b></dd>
-
-<dt>shoshup</dt>
-<dd><i>noun</i>	<b>horse</b>; includes zebras and several varieties of wild butt</dd>
-
-<dt>shosib</dt>
-<dd><i>noun</i>	<b>appearing</b></dd>
-
-<dt>shosush</dt>
-<dd><i>noun</i>	<b>spending time with</b></dd>
-
-<dt>shoteip</dt>
-<dd><i>noun</i>	<b>summoning</b></dd>
-
-<dt>shoubag</dt>
-<dd><i>noun</i>	<b>brussels-sprouts</b></dd>
-
-<dt>shoujei</dt>
-<dd><i>noun</i>	<b>tree</b></dd>
-
-<dt>shouso</dt>
-<dd><i>noun</i>	<b>challenging</b></dd>
-
-<dt>shuaij</dt>
-<dd><i>punctuation</i>	<b>please</b>; polite imperative</dd>
-
-<dt>shubei</dt>
-<dd><i>noun</i>	<b>galean-shark</b></dd>
-
-<dt>shudaj</dt>
-<dd><i>noun</i>	<b>asking</b>; a question</dd>
-
-<dt>shudog</dt>
-<dd><i>noun</i>	<b>scandentia</b>; treeshrews</dd>
-
-<dt>shug</dt>
-<dd><i>preposition</i>	<b>on</b>; denotes physical location</dd>
-
-<dt>shuigup</dt>
-<dd><i>noun</i>	<b>canteloupe</b></dd>
-
-<dt>shuip</dt>
-<dd><i>punctuation</i>	<b>bless</b>; exclamatory</dd>
-
-<dt>shuita</dt>
-<dd><i>noun</i>	<b>air</b></dd>
-
-<dt>shuked</dt>
-<dd><i>noun</i>	<b>durability</b>; resistance to breaking</dd>
-
-<dt>shukoi</dt>
-<dd><i>noun</i>	<b>mecoptera</b>; flying scorpions!</dd>
-
-<dt>shuodai</dt>
-<dd><i>noun</i>	<b>blackberry</b></dd>
-
-<dt>shushuk</dt>
-<dd><i>noun</i>	<b>correctness</b></dd>
-
-<dt>shusob</dt>
-<dd><i>noun</i>	<b>crocodilian</b>; crocodiles and alligators</dd>
-
-<dt>shute</dt>
-<dd><i>noun</i>	<b>eufalconimorpha</b>; falcons passerines parrots caracaras and forest falcons</dd>
-
-<dt>shutua</dt>
-<dd><i>noun</i>	<b>embarking</b>; in the metaphorical sense; it is similar to peuzauzek but it involves more of a habitual journey than a state</dd>
-
-<dt>si</dt>
-<dd><i>preposition</i>	<b>to</b>; denotes target</dd>
-
-<dt>siasesh</dt>
-<dd><i>noun</i>	<b>wound-suffering</b></dd>
-
-<dt>sibaj</dt>
-<dd><i>noun</i>	<b>matrix</b>; table of numbers</dd>
-
-<dt>sibes</dt>
-<dd><i>noun</i>	<b>mountain</b></dd>
-
-<dt>sibi</dt>
-<dd><i>noun</i>	<b>angle</b>; angular difference with object being centrum</dd>
-
-<dt>sijid</dt>
-<dd><i>noun</i>	<b>fish</b></dd>
-
-<dt>sishuaish</dt>
-<dd><i>noun</i>	<b>urine</b></dd>
-
-<dt>sito</dt>
-<dd><i>noun</i>	<b>implying</b>; if-then</dd>
-
-<dt>sizak</dt>
-<dd><i>noun</i>	<b>note-leaving</b></dd>
-
-<dt>sob</dt>
-<dd><i>pronoun</i>	<b>what</b>; missing information</dd>
-
-<dt>sogeu</dt>
-<dd><i>noun</i>	<b>phoronid</b></dd>
-
-<dt>soidug</dt>
-<dd><i>noun</i>	<b>existing</b></dd>
-
-<dt>soieu</dt>
-<dd><i>noun</i>	<b>procellariid</b>; albatrosses and petrels</dd>
-
-<dt>soiki</dt>
-<dd><i>noun</i>	<b>cylinder</b></dd>
-
-<dt>soisa</dt>
-<dd><i>noun</i>	<b>computing</b></dd>
-
-<dt>sopoid</dt>
-<dd><i>noun</i>	<b>sponge</b></dd>
-
-<dt>sopuk</dt>
-<dd><i>noun</i>	<b>deciding</b></dd>
-
-<dt>sosho</dt>
-<dd><i>noun</i>	<b>gladiator</b>; it's a type of insect</dd>
-
-<dt>sosu</dt>
-<dd><i>noun</i>	<b>meeting</b></dd>
-
-<dt>sota</dt>
-<dd><i>noun</i>	<b>centipede</b></dd>
-
-<dt>suajosh</dt>
-<dd><i>noun</i>	<b>penis</b></dd>
-
-<dt>subeu</dt>
-<dd><i>noun</i>	<b>aplacophora</b>; shell-less molusks</dd>
-
-<dt>sudij</dt>
-<dd><i>noun</i>	<b>perusing</b></dd>
-
-<dt>suge</dt>
-<dd><i>noun</i>	<b>adding</b></dd>
-
-<dt>sujat</dt>
-<dd><i>noun</i>	<b>stem</b></dd>
-
-<dt>supeis</dt>
-<dd><i>noun</i>	<b>wondering</b></dd>
-
-<dt>supek</dt>
-<dd><i>noun</i>	<b>latitude</b>; south+</dd>
-
-<dt>supu</dt>
-<dd><i>noun</i>	<b>summer</b></dd>
-
-<dt>susos</dt>
-<dd><i>noun</i>	<b>openness</b></dd>
-
-<dt>sutuk</dt>
-<dd><i>noun</i>	<b>pufferfish</b></dd>
-
-<dt>suzus</dt>
-<dd><i>noun</i>	<b>working</b>; doing work</dd>
-
-<dt>suzut</dt>
-<dd><i>noun</i>	<b>0</b></dd>
-</dl>
+### sabig
+_noun_  
+	*beauty*; of a person
+
+### sabus
+_noun_  
+	*exclusivity*
+
+### sadez
+_noun_  
+	*freedom*
+
+### sadip
+_noun_  
+	*termite*
+
+### sadoj
+_noun_  
+	*mayfly*
+
+### sagu
+_noun_  
+	*burning*
+
+### saia
+_noun_  
+	*freshwater-butterflyfish*
+
+### saidoj
+_noun_  
+	*clustering*; being physically nearby
+
+### saige
+_noun_  
+	*outdoorsness*
+
+### saijez
+_noun_  
+	*talking*; forming words with one's voice
+
+### saijib
+_noun_  
+	*gunpowder*
+
+### sak
+_article_  
+	*any*; single element
+
+### sapa
+_noun_  
+	*vibrancy*
+
+### sashuz
+_noun_  
+	*sawfly*
+
+### sauaz
+_noun_  
+	*expecting*
+
+### saubi
+_noun_  
+	*salamander*
+
+### sauoj
+_noun_  
+	*nut*; also seed
+
+### saz
+_punctuation_  
+	*!*; imperative
+
+### sedeud
+_noun_  
+	*watermelon*
+
+### sedog
+_noun_  
+	*electricity*
+
+### seja
+_noun_  
+	*blackness*
+
+### sesoz
+_noun_  
+	*tapir*
+
+### set
+_preposition_  
+	*regarding*; denotes context
+
+### setieus
+_noun_  
+	*rye*
+
+### sezeb
+_noun_  
+	*red-panda*
+
+### sezush
+_noun_  
+	*arowana*; bonytounges
+
+### shabish
+_noun_  
+	*hagfish*; slime-eel
+
+### shabo
+_noun_  
+	*constructing*
+
+### shadu
+_noun_  
+	*sorting*
+
+### shaiaz
+_noun_  
+	*language*
+
+### shaigu
+_noun_  
+	*pangolin*
+
+### shaikei
+_noun_  
+	*meme*
+
+### shakip
+_noun_  
+	*loop*
+
+### shasat
+_noun_  
+	*vegetable*; includes fruit
+
+### shasej
+_noun_  
+	*chiroptera*; bats and flying foxes
+
+### shat
+_preposition_  
+	*bool*; denotes whether it happened; the argument here is basically always `kaup` or `sob`
+
+### shatoj
+_noun_  
+	*nematoid*; parasitic worms FTW!
+
+### shau
+_preposition_  
+	*in*; denotes nonphysical non temporal state
+
+### shauiz
+_noun_  
+	*2*
+
+### shaupip
+_noun_  
+	*transforming*
+
+### shaupub
+_noun_  
+	*fungus*
+
+### sheb
+_preposition_  
+	*because*; denotes cause
+
+### shegesh
+_noun_  
+	*freezing*
+
+### shejob
+_noun_  
+	*table*; furniture
+
+### shepat
+_noun_  
+	*foreignness*
+
+### shepeg
+_noun_  
+	*disk*; a place where a computer stores information
+
+### sheshiz
+_noun_  
+	*spoken-language*; combining this with active-perceiving means listening or compehending
+
+### shesud
+_noun_  
+	*mind*
+
+### shetez
+_noun_  
+	*scent*
+
+### sheuduk
+_noun_  
+	*forward-to-looking*
+
+### shezat
+_noun_  
+	*primatomorpha*; basically monkeys and apes plus a few other types of primate
+
+### shezes
+_noun_  
+	*longitude*; east+
+
+### shiabu
+_noun_  
+	*betweenness*
+
+### shiazash
+_noun_  
+	*corallimorpharia*
+
+### shibeus
+_noun_  
+	*ink*
+
+### shij
+_article_  
+	*even*; stressed
+
+### shijap
+_noun_  
+	*robot*; anything with automated actuation
+
+### shijash
+_noun_  
+	*recommending*
+
+### shijos
+_noun_  
+	*come to be*
+
+### shikuz
+_noun_  
+	*besideness*; to be on the side of
+
+### shisad
+_noun_  
+	*owl*
+
+### shizuj
+_noun_  
+	*waterfowl*
+
+### shoba
+_noun_  
+	*seal*; includes walruses and maybe sea lions I think?
+
+### shoduaz
+_noun_  
+	*appeal*; of a picture, sound, etc.
+
+### shoiosh
+_noun_  
+	*policymaking*
+
+### shoited
+_noun_  
+	*octopus*
+
+### shojag
+_noun_  
+	*standing-up*; posture
+
+### shojouj
+_noun_  
+	*hydra*
+
+### shok
+_preposition_  
+	*at*; denotes date/time
+
+### shokas
+_noun_  
+	*whispering*; speaking without voicing vowels or consonants
+
+### shokok
+_noun_  
+	*egg*
+
+### shopaij
+_noun_  
+	*onion*
+
+### shopiai
+_noun_  
+	*jungle*
+
+### shopoud
+_noun_  
+	*slicing*
+
+### shos
+_fastener_  
+	*whichone*; describes a specific instance
+
+### shoshaj
+_noun_  
+	*imprisoning*
+
+### shoshup
+_noun_  
+	*horse*; includes zebras and several varieties of wild butt
+
+### shosib
+_noun_  
+	*appearing*
+
+### shosush
+_noun_  
+	*spending time with*
+
+### shoteip
+_noun_  
+	*summoning*
+
+### shoubag
+_noun_  
+	*brussels-sprouts*
+
+### shoujei
+_noun_  
+	*tree*
+
+### shouso
+_noun_  
+	*challenging*
+
+### shozod
+_noun_  
+	*zigzag*; a polygonal pah thing
+
+### shuaij
+_punctuation_  
+	*please*; polite imperative
+
+### shubei
+_noun_  
+	*galean-shark*
+
+### shudaj
+_noun_  
+	*asking*; a question
+
+### shudog
+_noun_  
+	*scandentia*; treeshrews
+
+### shug
+_preposition_  
+	*on*; denotes physical location
+
+### shuigup
+_noun_  
+	*canteloupe*
+
+### shuip
+_punctuation_  
+	*bless*; exclamatory
+
+### shuita
+_noun_  
+	*air*
+
+### shuked
+_noun_  
+	*durability*; resistance to breaking
+
+### shukoi
+_noun_  
+	*mecoptera*; flying scorpions!
+
+### shuodai
+_noun_  
+	*blackberry*
+
+### shushuk
+_noun_  
+	*correctness*
+
+### shusob
+_noun_  
+	*crocodilian*; crocodiles and alligators
+
+### shute
+_noun_  
+	*eufalconimorpha*; falcons, passerines, parrots, caracaras, and forest falcons
+
+### shutua
+_noun_  
+	*embarking*; in the metaphorical sense; it is similar to peuzauzek but it involves more of a habitual journey than a state
+
+### si
+_preposition_  
+	*to*; denotes target
+
+### siasesh
+_noun_  
+	*wound-suffering*
+
+### sibaj
+_noun_  
+	*matrix*; table of numbers
+
+### sibes
+_noun_  
+	*mountain*
+
+### sibi
+_noun_  
+	*angle*; angular difference with object being centrum
+
+### sijid
+_noun_  
+	*fish*
+
+### sishuaish
+_noun_  
+	*urine*
+
+### sito
+_noun_  
+	*implying*; if-then
+
+### sizak
+_noun_  
+	*note-leaving*
+
+### sob
+_pronoun_  
+	*what*; missing information
+
+### sogeu
+_noun_  
+	*phoronid*
+
+### soidug
+_noun_  
+	*existing*
+
+### soieu
+_noun_  
+	*procellariid*; albatrosses and petrels
+
+### soiki
+_noun_  
+	*cylinder*
+
+### soisa
+_noun_  
+	*computing*
+
+### sopoid
+_noun_  
+	*sponge*
+
+### sopuk
+_noun_  
+	*deciding*
+
+### sosho
+_noun_  
+	*gladiator*; it's a type of insect
+
+### sosu
+_noun_  
+	*meeting*
+
+### sota
+_noun_  
+	*centipede*
+
+### suajosh
+_noun_  
+	*penis*
+
+### subeu
+_noun_  
+	*aplacophora*; shell-less molusks
+
+### sudij
+_noun_  
+	*perusing*
+
+### suge
+_noun_  
+	*adding*
+
+### sujat
+_noun_  
+	*stem*
+
+### supeis
+_noun_  
+	*wondering*
+
+### supek
+_noun_  
+	*latitude*; south+
+
+### supu
+_noun_  
+	*summer*
+
+### susos
+_noun_  
+	*openness*
+
+### sutuk
+_noun_  
+	*pufferfish*
+
+### suzus
+_noun_  
+	*working*; doing work or being productive
+
+### suzut
+_noun_  
+	*0*
 
 ## To
 
-<dl>
-<dt>tabag</dt>
-<dd><i>noun</i>	<b>testing</b></dd>
+### tabag
+_noun_  
+	*testing*
 
-<dt>tabius</dt>
-<dd><i>noun</i>	<b>bivalve</b>; molusks with two valves</dd>
+### tabius
+_noun_  
+	*bivalve*; molusks with two valves
 
-<dt>tadou</dt>
-<dd><i>noun</i>	<b>communicating</b></dd>
+### tadou
+_noun_  
+	*communicating*
 
-<dt>taiboj</dt>
-<dd><i>noun</i>	<b>obviousness</b></dd>
+### taiboj
+_noun_  
+	*obviousness*
 
-<dt>taipes</dt>
-<dd><i>noun</i>	<b>tube-dwelling-anemone</b></dd>
+### taipes
+_noun_  
+	*tube-dwelling-anemone*
 
-<dt>taisush</dt>
-<dd><i>noun</i>	<b>sexual-attracting</b></dd>
+### taisush
+_noun_  
+	*sexual-attracting*
 
-<dt>tajag</dt>
-<dd><i>noun</i>	<b>grain</b></dd>
+### tajag
+_noun_  
+	*grain*
 
-<dt>takat</dt>
-<dd><i>noun</i>	<b>gar</b></dd>
+### takat
+_noun_  
+	*gar*
 
-<dt>tasug</dt>
-<dd><i>noun</i>	<b>powder</b></dd>
+### tasug
+_noun_  
+	*powder*
 
-<dt>taupob</dt>
-<dd><i>noun</i>	<b>grass</b></dd>
+### taupob
+_noun_  
+	*grass*
 
-<dt>teba</dt>
-<dd><i>noun</i>	<b>red</b></dd>
+### teba
+_noun_  
+	*red*
 
-<dt>tedag</dt>
-<dd><i>noun</i>	<b>body</b></dd>
+### tedag
+_noun_  
+	*body*
 
-<dt>tedaus</dt>
-<dd><i>noun</i>	<b>cinnamon</b></dd>
+### tedaus
+_noun_  
+	*cinnamon*
 
-<dt>tegod</dt>
-<dd><i>noun</i>	<b>rhinoceros</b></dd>
+### tegod
+_noun_  
+	*rhinoceros*
 
-<dt>teia</dt>
-<dd><i>noun</i>	<b>socializing</b></dd>
+### teia
+_noun_  
+	*socializing*
 
-<dt>teisaish</dt>
-<dd><i>noun</i>	<b>tofu</b></dd>
+### teisaish
+_noun_  
+	*tofu*
 
-<dt>tejos</dt>
-<dd><i>noun</i>	<b>shell</b></dd>
+### tejos
+_noun_  
+	*shell*
 
-<dt>tejui</dt>
-<dd><i>noun</i>	<b>savoriness</b></dd>
+### tejui
+_noun_  
+	*savoriness*
 
-<dt>teku</dt>
-<dd><i>noun</i>	<b>blue</b></dd>
+### teku
+_noun_  
+	*blue*
 
-<dt>tepet</dt>
-<dd><i>noun</i>	<b>land</b></dd>
+### tepet
+_noun_  
+	*land*
 
-<dt>teseb</dt>
-<dd><i>noun</i>	<b>activation</b></dd>
+### teseb
+_noun_  
+	*activation*
 
-<dt>teshaj</dt>
-<dd><i>noun</i>	<b>mighting</b></dd>
+### teshaj
+_noun_  
+	*mighting*
 
-<dt>tetiz</dt>
-<dd><i>noun</i>	<b>elephant</b></dd>
+### tetiz
+_noun_  
+	*elephant*
 
-<dt>teujo</dt>
-<dd><i>noun</i>	<b>torso</b></dd>
+### teujo
+_noun_  
+	*torso*
 
-<dt>teuke</dt>
-<dd><i>noun</i>	<b>stork</b></dd>
+### teuke
+_noun_  
+	*stork*
 
-<dt>teusa</dt>
-<dd><i>noun</i>	<b>throwing</b></dd>
+### teusa
+_noun_  
+	*throwing*
 
-<dt>tezub</dt>
-<dd><i>noun</i>	<b>joining</b></dd>
+### tezub
+_noun_  
+	*joining*
 
-<dt>tibed</dt>
-<dd><i>noun</i>	<b>order</b>; index in a list</dd>
+### tibed
+_noun_  
+	*order*; index in a list
 
-<dt>tigez</dt>
-<dd><i>noun</i>	<b>stonefly</b></dd>
+### tigez
+_noun_  
+	*stonefly*
 
-<dt>tigis</dt>
-<dd><i>noun</i>	<b>spicyness</b></dd>
+### tigis
+_noun_  
+	*spicyness*
 
-<dt>tijie</dt>
-<dd><i>noun</i>	<b>hyrax</b>; little rodent-like things</dd>
+### tijie
+_noun_  
+	*hyrax*; little rodent-like things
 
-<dt>tijud</dt>
-<dd><i>noun</i>	<b>detail</b></dd>
+### tijud
+_noun_  
+	*detail*
 
-<dt>tisid</dt>
-<dd><i>noun</i>	<b>giving</b></dd>
+### tisid
+_noun_  
+	*giving*
 
-<dt>tiujij</dt>
-<dd><i>noun</i>	<b>fance</b></dd>
+### tiujij
+_noun_  
+	*fance*
 
-<dt>tius</dt>
-<dd><i>prefix</i>	<b>about</b>; approximation</dd>
+### tius
+_prefix_  
+	*about*; approximation
 
-<dt>tizi</dt>
-<dd><i>noun</i>	<b>instructing</b></dd>
+### tizi
+_noun_  
+	*instructing*
 
-<dt>to</dt>
-<dd><i>conjunction</i>	<b>both{</b></dd>
+### to
+_conjunction_  
+	*both{*
 
-<dt>tobi</dt>
-<dd><i>noun</i>	<b>grateful-feeling</b></dd>
+### tobi
+_noun_  
+	*gratitude*
 
-<dt>toguk</dt>
-<dd><i>noun</i>	<b>paint</b></dd>
+### toguk
+_noun_  
+	*paint*
 
-<dt>toije</dt>
-<dd><i>noun</i>	<b>hoping</b></dd>
+### toije
+_noun_  
+	*hoping*
 
-<dt>toiot</dt>
-<dd><i>noun</i>	<b>eel</b></dd>
+### toiot
+_noun_  
+	*eel*
 
-<dt>tojot</dt>
-<dd><i>noun</i>	<b>effectiveness</b></dd>
+### tojot
+_noun_  
+	*effectiveness*
 
-<dt>tojush</dt>
-<dd><i>noun</i>	<b>flea</b></dd>
+### tojush
+_noun_  
+	*flea*
 
-<dt>toshap</dt>
-<dd><i>noun</i>	<b>abandoning</b></dd>
+### toshap
+_noun_  
+	*abandoning*
 
-<dt>toshoi</dt>
-<dd><i>noun</i>	<b>showing</b></dd>
+### toshoi
+_noun_  
+	*showing*
 
-<dt>toto</dt>
-<dd><i>noun</i>	<b>primarity</b>; refers to generally being main or central</dd>
+### toto
+_noun_  
+	*primarity*; refers to generally being main or central
 
-<dt>touas</dt>
-<dd><i>noun</i>	<b>paraneoptera</b>; bugs thrips and lice</dd>
+### touas
+_noun_  
+	*paraneoptera*; bugs, thrips, and lice
 
-<dt>toubais</dt>
-<dd><i>noun</i>	<b>proctum</b>; encompasses entoprocta and ectoprocta</dd>
+### toubais
+_noun_  
+	*proctum*; encompasses entoprocta and ectoprocta
 
-<dt>touk</dt>
-<dd><i>other</i>	<b>backspace</b>; ingnore previous few words</dd>
+### touk
+_special_  
+	*backspace*; ingnore previous few words
 
-<dt>toupa</dt>
-<dd><i>noun</i>	<b>sheet</b></dd>
+### toupa
+_noun_  
+	*sheet*
 
-<dt>tousap</dt>
-<dd><i>noun</i>	<b>attacking</b>; a sudden violent engagement</dd>
+### tousap
+_noun_  
+	*attacking*; a sudden violent engagement
 
-<dt>toza</dt>
-<dd><i>noun</i>	<b>1</b></dd>
+### toza
+_noun_  
+	*1*
 
-<dt>tuabij</dt>
-<dd><i>noun</i>	<b>kale</b></dd>
+### tuabij
+_noun_  
+	*kale*
 
-<dt>tubo</dt>
-<dd><i>noun</i>	<b>history</b></dd>
+### tubo
+_noun_  
+	*history*
 
-<dt>tudi</dt>
-<dd><i>noun</i>	<b>pig</b></dd>
+### tudi
+_noun_  
+	*pig*
 
-<dt>tudoij</dt>
-<dd><i>noun</i>	<b>downstreamness</b>; combine it with `tius` to get 'flowing'</dd>
+### tudoij
+_noun_  
+	*downstreamness*; combine it with `tius` to get 'flowing'
 
-<dt>tugag</dt>
-<dd><i>noun</i>	<b>activeness</b>; not lazy</dd>
+### tugag
+_noun_  
+	*activeness*; not lazy
 
-<dt>tuj</dt>
-<dd><i>pronoun</i>	<b>them</b>; an agent besides the speaker and listener</dd>
+### tuj
+_pronoun_  
+	*them*; an agent besides the speaker and listener
 
-<dt>tukit</dt>
-<dd><i>noun</i>	<b>needing</b></dd>
+### tukit
+_noun_  
+	*needing*
 
-<dt>tupuj</dt>
-<dd><i>noun</i>	<b>sugar</b></dd>
+### tupuj
+_noun_  
+	*sugar*
 
-<dt>tutaub</dt>
-<dd><i>noun</i>	<b>waving</b>; a hand or a flag</dd>
+### tutaub
+_noun_  
+	*waving*; a hand or a flag
 
-<dt>tutaz</dt>
-<dd><i>noun</i>	<b>sentient-being</b></dd>
+### tutaz
+_noun_  
+	*sentient-being*
 
-<dt>tuzak</dt>
-<dd><i>noun</i>	<b>sea-cow</b>; like manatees</dd>
+### tuzak
+_noun_  
+	*sea-cow*; like manatees
 
-<dt>tuze</dt>
-<dd><i>noun</i>	<b>cooking</b></dd>
-</dl>
+### tuze
+_noun_  
+	*cooking*
 
 ## Up
 
-<dl>
-<dt>uadid</dt>
-<dd><i>noun</i>	<b>pantopod</b>; they're like spiders but in the ocean!</dd>
-
-<dt>uages</dt>
-<dd><i>noun</i>	<b>ray</b>; the ocean variety</dd>
-
-<dt>uaipib</dt>
-<dd><i>noun</i>	<b>box-jellyfish</b></dd>
-
-<dt>uasa</dt>
-<dd><i>noun</i>	<b>changing</b></dd>
-
-<dt>uatoj</dt>
-<dd><i>noun</i>	<b>storytelling</b></dd>
-
-<dt>uazat</dt>
-<dd><i>noun</i>	<b>grylloblattodea</b>; ice bus ice crawlers and rock crawers</dd>
-
-<dt>ubab</dt>
-<dd><i>noun</i>	<b>crystal</b></dd>
-
-<dt>ubai</dt>
-<dd><i>noun</i>	<b>dairy</b></dd>
-
-<dt>ubazi</dt>
-<dd><i>noun-technical</i>	<b>physics.inductance</b></dd>
-
-<dt>ubeit</dt>
-<dd><i>noun</i>	<b>wood</b></dd>
-
-<dt>ubez</dt>
-<dd><i>noun</i>	<b>throughness</b></dd>
-
-<dt>ubiu</dt>
-<dd><i>noun</i>	<b>snail</b></dd>
-
-<dt>uboj</dt>
-<dd><i>noun</i>	<b>researching</b></dd>
-
-<dt>ubuoid</dt>
-<dd><i>noun</i>	<b>deciduous</b></dd>
-
-<dt>ubut</dt>
-<dd><i>noun</i>	<b>skewness</b></dd>
-
-<dt>udoish</dt>
-<dd><i>noun</i>	<b>invertebrate</b></dd>
-
-<dt>udosh</dt>
-<dd><i>noun</i>	<b>playing</b>; a game or a sport</dd>
-
-<dt>udu</dt>
-<dd><i>noun</i>	<b>creating</b></dd>
-
-<dt>uduash</dt>
-<dd><i>noun</i>	<b>left-rightness</b></dd>
-
-<dt>uduzo</dt>
-<dd><i>noun-technical</i>	<b>physics.field</b></dd>
-
-<dt>uebeb</dt>
-<dd><i>noun</i>	<b>using</b></dd>
-
-<dt>uegaub</dt>
-<dd><i>noun</i>	<b>evergreen</b></dd>
-
-<dt>ueisid</dt>
-<dd><i>noun</i>	<b>beardworm</b>; giant tube worms</dd>
-
-<dt>uetab</dt>
-<dd><i>noun</i>	<b>accipitridae</b>; hawks eagles kites Old World vultures and a few other things</dd>
-
-<dt>ueujaij</dt>
-<dd><i>noun</i>	<b>seaweed</b></dd>
-
-<dt>ugi</dt>
-<dd><i>noun</i>	<b>going</b>; from one place to another</dd>
-
-<dt>uia</dt>
-<dd><i>noun</i>	<b>length</b>; distance</dd>
-
-<dt>uidiz</dt>
-<dd><i>noun</i>	<b>half</b></dd>
-
-<dt>uidoj</dt>
-<dd><i>noun</i>	<b>understanding</b></dd>
-
-<dt>uiep</dt>
-<dd><i>noun</i>	<b>bearing</b>; counterclockwise from straight ahead with object being origin</dd>
-
-<dt>uieuk</dt>
-<dd><i>noun</i>	<b>partying</b></dd>
-
-<dt>uioush</dt>
-<dd><i>noun</i>	<b>sky</b></dd>
-
-<dt>uipad</dt>
-<dd><i>noun</i>	<b>clearing</b></dd>
-
-<dt>uitag</dt>
-<dd><i>noun</i>	<b>chiton</b></dd>
-
-<dt>ujeij</dt>
-<dd><i>noun</i>	<b>acuteness</b>; of a corner</dd>
-
-<dt>ujis</dt>
-<dd><i>noun</i>	<b>owning</b></dd>
-
-<dt>uka</dt>
-<dd><i>noun</i>	<b>relating</b>; to</dd>
-
-<dt>ukiaj</dt>
-<dd><i>noun</i>	<b>eating</b></dd>
-
-<dt>ukipe</dt>
-<dd><i>noun-technical</i>	<b>physics.charge</b></dd>
-
-<dt>ukoik</dt>
-<dd><i>noun</i>	<b>pauropod</b></dd>
-
-<dt>ukouz</dt>
-<dd><i>noun</i>	<b>tuatara</b>; a lizard-type thing</dd>
-
-<dt>uobe</dt>
-<dd><i>noun</i>	<b>computer</b></dd>
-
-<dt>uodi</dt>
-<dd><i>noun</i>	<b>door</b></dd>
-
-<dt>uoide</dt>
-<dd><i>noun</i>	<b>schizomida</b></dd>
-
-<dt>uoijub</dt>
-<dd><i>noun</i>	<b>spam</b></dd>
-
-<dt>uotet</dt>
-<dd><i>noun</i>	<b>passing</b></dd>
-
-<dt>uoueuk</dt>
-<dd><i>noun</i>	<b>scaphopod</b>; a type of molusk</dd>
-
-<dt>uoui</dt>
-<dd><i>noun</i>	<b>datetime</b></dd>
-
-<dt>uouod</dt>
-<dd><i>noun</i>	<b>politicalness</b></dd>
-
-<dt>up</dt>
-<dd><i>punctuation</i>	<b>fullstop</b>; ends sentences and clauses</dd>
-
-<dt>upaia</dt>
-<dd><i>noun-technical</i>	<b>math.velocity</b></dd>
-
-<dt>upak</dt>
-<dd><i>noun</i>	<b>significance</b></dd>
-
-<dt>upop</dt>
-<dd><i>noun</i>	<b>remembering</b>; to do something</dd>
-
-<dt>upou</dt>
-<dd><i>noun</i>	<b>ophiuroid</b>; think 'seastar' but less brittle</dd>
-
-<dt>upoz</dt>
-<dd><i>noun</i>	<b>ke</b>; 10^-2 days</dd>
-
-<dt>use</dt>
-<dd><i>noun</i>	<b>posessing</b></dd>
-
-<dt>ususe</dt>
-<dd><i>noun-technical</i>	<b>physics.angular-velocity</b></dd>
-
-<dt>utik</dt>
-<dd><i>noun</i>	<b>stepping</b>; the object is what you step on or in</dd>
-
-<dt>utug</dt>
-<dd><i>noun</i>	<b>path</b></dd>
-
-<dt>uza</dt>
-<dd><i>noun</i>	<b>equaling</b>; the subject matches the reciprocator in the object</dd>
-
-<dt>uzeso</dt>
-<dd><i>noun-technical</i>	<b>astronomy.galaxy</b></dd>
-
-<dt>uzezu</dt>
-<dd><i>noun-technical</i>	<b>physics.angular-acceleration</b></dd>
-
-<dt>uzios</dt>
-<dd><i>noun</i>	<b>tylopoda</b>; camels and llamas</dd>
-
-<dt>uzip</dt>
-<dd><i>noun</i>	<b>agreeing</b></dd>
-
-<dt>uzot</dt>
-<dd><i>noun</i>	<b>explaining</b></dd>
-</dl>
+### uadid
+_noun_  
+	*pantopod*; they're like spiders but in the ocean!
+
+### uages
+_noun_  
+	*ray*; the ocean variety
+
+### uaipib
+_noun_  
+	*box-jellyfish*
+
+### uasa
+_noun_  
+	*changing*
+
+### uatoj
+_noun_  
+	*storytelling*
+
+### uazat
+_noun_  
+	*grylloblattodea*; ice bus, ice crawlers, and rock crawers
+
+### ubab
+_noun_  
+	*crystal*
+
+### ubai
+_noun_  
+	*dairy*
+
+### ubazi
+_noun-technical_  
+	*physics.inductance*
+
+### ubeit
+_noun_  
+	*wood*
+
+### ubez
+_noun_  
+	*throughness*
+
+### ubiu
+_noun_  
+	*snail*
+
+### uboj
+_noun_  
+	*researching*
+
+### ubuoid
+_noun_  
+	*deciduous*
+
+### ubut
+_noun_  
+	*skewness*
+
+### udoish
+_noun_  
+	*invertebrate*
+
+### udosh
+_noun_  
+	*playing*; a game or a sport
+
+### udu
+_noun_  
+	*creating*
+
+### uduash
+_noun_  
+	*left-rightness*
+
+### uduzo
+_noun-technical_  
+	*physics.field*
+
+### uebeb
+_noun_  
+	*using*
+
+### uegaub
+_noun_  
+	*evergreen*
+
+### ueisid
+_noun_  
+	*beardworm*; giant tube worms
+
+### uetab
+_noun_  
+	*accipitridae*; hawks, eagles, kites, Old World vultures, and a few other things
+
+### ueujaij
+_noun_  
+	*seaweed*
+
+### ugi
+_noun_  
+	*going*; from one place to another
+
+### uia
+_noun_  
+	*length*; distance
+
+### uidiz
+_noun_  
+	*half*
+
+### uidoj
+_noun_  
+	*understanding*
+
+### uiep
+_noun_  
+	*bearing*; counterclockwise from straight ahead with object being origin
+
+### uieuk
+_noun_  
+	*partying*
+
+### uioush
+_noun_  
+	*sky*
+
+### uipad
+_noun_  
+	*clearing*
+
+### uitag
+_noun_  
+	*chiton*
+
+### ujeij
+_noun_  
+	*acuteness*; of a corner
+
+### ujis
+_noun_  
+	*owning*
+
+### uka
+_noun_  
+	*relating*; to
+
+### ukiaj
+_noun_  
+	*eating*
+
+### ukipe
+_noun-technical_  
+	*physics.charge*
+
+### ukoik
+_noun_  
+	*pauropod*
+
+### ukouz
+_noun_  
+	*tuatara*; a lizard-type thing
+
+### uobe
+_noun_  
+	*computer*
+
+### uodi
+_noun_  
+	*door*
+
+### uoide
+_noun_  
+	*schizomida*
+
+### uoijub
+_noun_  
+	*spam*
+
+### uotet
+_noun_  
+	*passing*
+
+### uoueuk
+_noun_  
+	*scaphopod*; a type of molusk
+
+### uoui
+_noun_  
+	*datetime*
+
+### uouod
+_noun_  
+	*politicalness*
+
+### up
+_punctuation_  
+	*fullstop*; ends sentences and clauses
+
+### upaia
+_noun-technical_  
+	*math.velocity*
+
+### upak
+_noun_  
+	*significance*
+
+### upop
+_noun_  
+	*remembering*; to do something
+
+### upou
+_noun_  
+	*ophiuroid*; think 'seastar', but less brittle
+
+### upoz
+_noun_  
+	*ke*; 10^-2 days
+
+### use
+_noun_  
+	*posessing*
+
+### ususe
+_noun-technical_  
+	*physics.angular-velocity*
+
+### utik
+_noun_  
+	*stepping*; the object is what you step on or in
+
+### utug
+_noun_  
+	*path*
+
+### uza
+_noun_  
+	*equaling*; the subject matches the reciprocator in the object
+
+### uzeso
+_noun-technical_  
+	*astronomy.galaxy*
+
+### uzezu
+_noun-technical_  
+	*physics.angular-acceleration*
+
+### uzios
+_noun_  
+	*tylopoda*; camels and llamas
+
+### uzip
+_noun_  
+	*agreeing*
+
+### uzot
+_noun_  
+	*explaining*
 
 ## Zai
 
-<dl>
-<dt>zabash</dt>
-<dd><i>noun</i>	<b>brachiopod</b></dd>
-
-<dt>zabes</dt>
-<dd><i>noun</i>	<b>reporting</b></dd>
-
-<dt>zad</dt>
-<dd><i>punctuation</i>	<b>?</b>; interrogative</dd>
-
-<dt>zai</dt>
-<dd><i>article</i>	<b>all</b>; set of all instances</dd>
-
-<dt>zaijot</dt>
-<dd><i>noun</i>	<b>engineering</b>; solving technical problems</dd>
-
-<dt>zaikaish</dt>
-<dd><i>noun</i>	<b>fearing</b></dd>
-
-<dt>zaikas</dt>
-<dd><i>noun</i>	<b>plant</b></dd>
-
-<dt>zajos</dt>
-<dd><i>noun</i>	<b>cariamiforme</b>; it's a flightless terrestrial bird</dd>
-
-<dt>zapau</dt>
-<dd><i>noun</i>	<b>orthoptera</b>; crickets tatydids grasshoppers etc.</dd>
-
-<dt>zapia</dt>
-<dd><i>noun</i>	<b>nice</b></dd>
-
-<dt>zapos</dt>
-<dd><i>noun</i>	<b>leaf</b></dd>
-
-<dt>zasha</dt>
-<dd><i>noun</i>	<b>voice</b></dd>
-
-<dt>zauap</dt>
-<dd><i>noun</i>	<b>actuality</b></dd>
-
-<dt>zaudaub</dt>
-<dd><i>noun</i>	<b>polluting</b></dd>
-
-<dt>zazes</dt>
-<dd><i>noun</i>	<b>arm</b></dd>
-
-<dt>zazik</dt>
-<dd><i>noun</i>	<b>sharpness</b>; of an edge or blade</dd>
-
-<dt>zega</dt>
-<dd><i>noun</i>	<b>attention-trying</b>; e.g. yelling at someone or flashing bright colors</dd>
-
-<dt>zegip</dt>
-<dd><i>noun</i>	<b>hitting</b>; the action of intentionally causing a collision with something</dd>
-
-<dt>zeiguk</dt>
-<dd><i>noun</i>	<b>fern</b></dd>
-
-<dt>zeija</dt>
-<dd><i>noun</i>	<b>walking</b></dd>
-
-<dt>zejei</dt>
-<dd><i>noun</i>	<b>neuroptera</b>; lacewings antlions owlflies and more</dd>
-
-<dt>zejuaug</dt>
-<dd><i>noun</i>	<b>floating</b></dd>
-
-<dt>zepuj</dt>
-<dd><i>noun</i>	<b>defending</b></dd>
-
-<dt>zeshau</dt>
-<dd><i>noun</i>	<b>goofing</b></dd>
-
-<dt>zeshed</dt>
-<dd><i>noun</i>	<b>arthropod</b></dd>
-
-<dt>zeudad</dt>
-<dd><i>noun</i>	<b>string</b></dd>
-
-<dt>zeujish</dt>
-<dd><i>noun</i>	<b>orange</b>; fruit</dd>
-
-<dt>zeusai</dt>
-<dd><i>noun</i>	<b>health</b></dd>
-
-<dt>zezout</dt>
-<dd><i>noun</i>	<b>coffee</b></dd>
-
-<dt>ziajoik</dt>
-<dd><i>noun</i>	<b>expertness</b>; a person who is not a layperson</dd>
-
-<dt>ziba</dt>
-<dd><i>noun</i>	<b>mantid</b></dd>
-
-<dt>zibus</dt>
-<dd><i>noun</i>	<b>solifuga</b></dd>
-
-<dt>zidug</dt>
-<dd><i>noun</i>	<b>daytime</b></dd>
-
-<dt>ziget</dt>
-<dd><i>noun</i>	<b>sending</b></dd>
-
-<dt>ziozid</dt>
-<dd><i>noun</i>	<b>striving</b>; toward a goal</dd>
-
-<dt>zipez</dt>
-<dd><i>noun</i>	<b>robing</b></dd>
-
-<dt>zitoit</dt>
-<dd><i>noun</i>	<b>parsing</b>; interpreting information recorded in a physical object</dd>
-
-<dt>zitu</dt>
-<dd><i>noun</i>	<b>organization</b></dd>
-
-<dt>zizip</dt>
-<dd><i>noun</i>	<b>poison-applying</b></dd>
-
-<dt>zodab</dt>
-<dd><i>noun</i>	<b>flying</b></dd>
-
-<dt>zodaz</dt>
-<dd><i>noun</i>	<b>star</b>; sun</dd>
-
-<dt>zogag</dt>
-<dd><i>noun</i>	<b>earwig</b></dd>
-
-<dt>zogoj</dt>
-<dd><i>noun</i>	<b>weapon</b></dd>
-
-<dt>zoiok</dt>
-<dd><i>noun</i>	<b>landfowl</b>; chickens turkeys and pheasants</dd>
-
-<dt>zoj</dt>
-<dd><i>prefix</i>	<b>completely</b>; maximum</dd>
-
-<dt>zojib</dt>
-<dd><i>noun</i>	<b>returning</b></dd>
-
-<dt>zoke</dt>
-<dd><i>noun</i>	<b>timeliness</b></dd>
-
-<dt>zop</dt>
-<dd><i>preposition</i>	<b>by</b>; denotes method</dd>
-
-<dt>zopas</dt>
-<dd><i>noun</i>	<b>magicalness</b></dd>
-
-<dt>zopiud</dt>
-<dd><i>noun</i>	<b>slug</b></dd>
-
-<dt>zose</dt>
-<dd><i>noun</i>	<b>wholeness</b></dd>
-
-<dt>zoshas</dt>
-<dd><i>noun</i>	<b>strepsiptera</b>; twisted-wing parasites</dd>
-
-<dt>zoshet</dt>
-<dd><i>noun</i>	<b>swimming</b></dd>
-
-<dt>zotaj</dt>
-<dd><i>noun</i>	<b>oxygen</b></dd>
-
-<dt>zouoj</dt>
-<dd><i>noun</i>	<b>toadfish</b></dd>
-
-<dt>zubop</dt>
-<dd><i>noun</i>	<b>possibility</b></dd>
-
-<dt>zugak</dt>
-<dd><i>noun</i>	<b>pleasure-feeling</b>; euphoria e.g. from food music or sex</dd>
-
-<dt>zuguo</dt>
-<dd><i>noun</i>	<b>odonatoptera</b>; dragonflies and damselflies</dd>
-
-<dt>zuiog</dt>
-<dd><i>noun</i>	<b>hemichordate</b>; weird ocean worm tree blobs</dd>
-
-<dt>zuisat</dt>
-<dd><i>noun</i>	<b>virus</b></dd>
-
-<dt>zukei</dt>
-<dd><i>noun</i>	<b>suliforme</b>; boobies and cormorants and a few other things</dd>
-
-<dt>zukek</dt>
-<dd><i>noun</i>	<b>thelyphonid</b></dd>
-
-<dt>zuko</dt>
-<dd><i>noun</i>	<b>wiseness</b>; of a decision</dd>
-
-<dt>zukuauz</dt>
-<dd><i>noun</i>	<b>jumping</b></dd>
-
-<dt>zupes</dt>
-<dd><i>noun</i>	<b>cost</b></dd>
-
-<dt>zupi</dt>
-<dd><i>noun</i>	<b>anglerfish</b></dd>
-
-<dt>zushe</dt>
-<dd><i>noun</i>	<b>scaling</b>; dilating or zooming</dd>
-
-<dt>zushik</dt>
-<dd><i>noun</i>	<b>being in a category</b></dd>
-
-<dt>zushoup</dt>
-<dd><i>noun</i>	<b>peanut</b></dd>
-
-<dt>zushuz</dt>
-<dd><i>noun</i>	<b>grouping</b>; associating with one another</dd>
-
-<dt>zusit</dt>
-<dd><i>noun</i>	<b>cycle</b>; 10 days</dd>
-
-<dt>zusup</dt>
-<dd><i>noun</i>	<b>opilione</b>; things that look like spiders</dd>
-
-<dt>zut</dt>
-<dd><i>article</i>	<b>this</b>; associated with speaker</dd>
-
-<dt>zutet</dt>
-<dd><i>noun</i>	<b>parameter</b></dd>
-
-</dl>
+### zabash
+_noun_  
+	*brachiopod*
+
+### zabes
+_noun_  
+	*reporting*
+
+### zad
+_punctuation_  
+	*?*; interrogative
+
+### zai
+_article_  
+	*all*; set of all instances
+
+### zaijot
+_noun_  
+	*engineering*; solving technical problems
+
+### zaikaish
+_noun_  
+	*fearing*
+
+### zaikas
+_noun_  
+	*plant*
+
+### zajos
+_noun_  
+	*cariamiforme*; it's a flightless terrestrial bird
+
+### zapau
+_noun_  
+	*orthoptera*; crickets, tatydids, grasshoppers, etc.
+
+### zapia
+_noun_  
+	*nice*
+
+### zapos
+_noun_  
+	*leaf*
+
+### zasha
+_noun_  
+	*voice*
+
+### zauap
+_noun_  
+	*actuality*
+
+### zaudaub
+_noun_  
+	*polluting*
+
+### zazes
+_noun_  
+	*arm*
+
+### zazik
+_noun_  
+	*sharpness*; of an edge or blade
+
+### zega
+_noun_  
+	*attention-trying*; e.g. yelling at someone or flashing bright colors
+
+### zegip
+_noun_  
+	*hitting*; the action of intentionally causing a collision with something
+
+### zeiguk
+_noun_  
+	*fern*
+
+### zeija
+_noun_  
+	*walking*
+
+### zejei
+_noun_  
+	*neuroptera*; lacewings, antlions, owlflies, and more
+
+### zejuaug
+_noun_  
+	*floating*
+
+### zepuj
+_noun_  
+	*defending*
+
+### zeshau
+_noun_  
+	*goofing*
+
+### zeshed
+_noun_  
+	*arthropod*
+
+### zeudad
+_noun_  
+	*string*
+
+### zeujish
+_noun_  
+	*orange*; fruit
+
+### zeusai
+_noun_  
+	*health*
+
+### zezout
+_noun_  
+	*coffee*
+
+### ziajoik
+_noun_  
+	*expertness*; a person who is not a layperson
+
+### ziba
+_noun_  
+	*mantid*
+
+### zibus
+_noun_  
+	*solifuga*
+
+### zidug
+_noun_  
+	*daytime*
+
+### ziget
+_noun_  
+	*sending*
+
+### ziozid
+_noun_  
+	*striving*; toward a goal
+
+### zipez
+_noun_  
+	*female*
+
+### zitoit
+_noun_  
+	*parsing*; interpreting information recorded in a physical object
+
+### zitu
+_noun_  
+	*organization*
+
+### zizip
+_noun_  
+	*poison-applying*
+
+### zodab
+_noun_  
+	*flying*
+
+### zodaz
+_noun_  
+	*star*; sun
+
+### zogag
+_noun_  
+	*earwig*
+
+### zogoj
+_noun_  
+	*weapon*
+
+### zoiok
+_noun_  
+	*landfowl*; chickens, turkeys, and pheasants
+
+### zoj
+_prefix_  
+	*completely*; maximum
+
+### zojib
+_noun_  
+	*returning*
+
+### zoke
+_noun_  
+	*timeliness*
+
+### zop
+_preposition_  
+	*by*; denotes method
+
+### zopas
+_noun_  
+	*magicalness*
+
+### zopiud
+_noun_  
+	*slug*
+
+### zose
+_noun_  
+	*wholeness*
+
+### zoshas
+_noun_  
+	*strepsiptera*; twisted-wing parasites
+
+### zoshet
+_noun_  
+	*swimming*
+
+### zotaj
+_noun_  
+	*oxygen*
+
+### zouoj
+_noun_  
+	*toadfish*
+
+### zubop
+_noun_  
+	*possibility*
+
+### zugak
+_noun_  
+	*pleasure-feeling*; basic euphoria from food, music, or sex
+
+### zuguo
+_noun_  
+	*odonatoptera*; dragonflies and damselflies
+
+### zuiog
+_noun_  
+	*hemichordate*; weird ocean worm tree blobs
+
+### zuisat
+_noun_  
+	*virus*
+
+### zukei
+_noun_  
+	*suliforme*; boobies and cormorants and a few other things
+
+### zukek
+_noun_  
+	*thelyphonid*
+
+### zuko
+_noun_  
+	*wiseness*; of a decision
+
+### zukuauz
+_noun_  
+	*jumping*
+
+### zupes
+_noun_  
+	*cost*
+
+### zupi
+_noun_  
+	*anglerfish*
+
+### zushe
+_noun_  
+	*scaling*; dilating or zooming
+
+### zushik
+_noun_  
+	*being in a category*
+
+### zushoup
+_noun_  
+	*peanut*
+
+### zushuz
+_noun_  
+	*grouping*; associating with one another
+
+### zusit
+_noun_  
+	*cycle*; 10 days
+
+### zusup
+_noun_  
+	*opilione*; things that look like spiders
+
+### zut
+_article_  
+	*this*; associated with speaker
+
+### zutet
+_noun_  
+	*parameter*

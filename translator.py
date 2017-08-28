@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
+LETTER_NAMES = {'i':"Id",'e':"E",'a':"Aj",'o':"Og",'u':"Up",'g':"Guz",'k':"Kush",'d':"Dik",'t':"To",'b':"Bu",'p':"Pi",'z':"Zai",'s':"Si and Shau",'j':"Ju"}
+
 def load_dictionary(directory):
 	"""return a dict mapping English words to Djastiz words, Djastiz words to English words,
 	Djastiz words to part of speech, and English words to notes"""
@@ -14,9 +16,9 @@ def load_dictionary(directory):
 				if len(line) <= 1:		break
 				if line[-1] == '\n':	line = line[:-1]
 				try:
-					english, djastiz = tuple(line.split(','))
+					english, djastiz = tuple(line.split(':'))
 				except ValueError:
-					raise ValueError("There are too many commas in '{}'".format(line))
+					raise ValueError("There are too many colons in '{}'".format(line))
 				if '(' in english:
 					note = english[english.index('(')+1:english.index(')')]
 					english = english[:english.index('(')-1]
@@ -50,15 +52,16 @@ def translate(filename, english_to_djastiz, hist=None, arr = None):
 				for eng_word in eng_words:
 					if eng_word in english_to_djastiz:
 						dja_word = english_to_djastiz[eng_word]
-						dja_line=dja_line+ dja_word+" "
+						dja_line += dja_word+" "
 						frequencies[dja_word] = frequencies.get(dja_word,0)+1
 					else:
-						dja_line=dja_line+ eng_word+" " #ignore capitalized words
-						if eng_word[0] != eng_word[0].upper():
-							print("Warning: There is no word for '{}'".format(eng_word))
-				new_file=new_file+ dja_line[:-1]+'\n'
+						if eng_word[0] != eng_word[0].upper(): #ignore capitalized words
+							raise ValueError("There is no word for '{}'".format(eng_word))
+						else:
+							dja_line += eng_word+" "
+				new_file += dja_line[:-1]+'\n'
 			else:
-				new_file=new_file+ line
+				new_file += line
 			if i%4 == 1:
 				eng_sent = line
 			if i%4 == 0:
@@ -75,13 +78,17 @@ def reverse_dictionary(djastiz_to_english, djastiz_to_pos, english_to_notes, fil
 	"""create a Djastiz-to-English dictionary and save it to filename"""
 	alphabetized = sorted(djastiz_to_english.keys())
 	with open(filename,'w') as f:
-		f.write("<dl>\n")
+		f.write("# Word Guide\n\n")
+		f.write("This complete Djastiz-to-English dictionary gives the part of speech and English meaning of each Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.\n")
+		lastLetter = ''
 		for djastiz in alphabetized:
-			f.write("<dt>{}</dt>\n<dd><i>{}</i>\t<b>{}</b>".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
+			if lastLetter != djastiz[0]:
+				f.write("\n## {}\n".format(LETTER_NAMES[djastiz[0]]))
+				lastLetter = djastiz[0]
+			f.write("\n### {}\n_{}_  \n\t*{}*".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
 			if djastiz_to_english[djastiz] in english_to_notes:
 				f.write("; {}".format(english_to_notes[djastiz_to_english[djastiz]]))
-			f.write("</dd>\n\n")
-		f.write("</dl>")
+			f.write("\n")
 
 
 if __name__ == '__main__':
