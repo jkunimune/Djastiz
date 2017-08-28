@@ -1,3 +1,9 @@
+# Word Guide
+
+This complete Djastiz-to-English dictionary gives the part of speech and English meaning of each Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.
+
+## Aj
+
 <dl>
 <dt>aba</dt>
 <dd><i>noun</i>	<b>able-being</b></dd>
@@ -175,7 +181,11 @@
 
 <dt>azaish</dt>
 <dd><i>noun</i>	<b>reaching</b></dd>
+</dl>
 
+## Bu
+
+<dl>
 <dt>babais</dt>
 <dd><i>noun</i>	<b>stabbing</b>; puncturing</dd>
 
@@ -376,7 +386,11 @@
 
 <dt>butud</dt>
 <dd><i>noun</i>	<b>snakefly</b></dd>
+</dl>
 
+# Dik
+
+<dl>
 <dt>dabei</dt>
 <dd><i>noun</i>	<b>keeping</b></dd>
 
@@ -568,7 +582,11 @@
 
 <dt>dushos</dt>
 <dd><i>noun</i>	<b>apprehension-feeling</b>; hesitative reaction to decisions</dd>
+</dl>
 
+## E
+
+<dl>
 <dt>e</dt>
 <dd><i>preposition</i>	<b>pdc</b>; denotes predicate</dd>
 
@@ -763,7 +781,11 @@
 
 <dt>ezozi</dt>
 <dd><i>noun-technical</i>	<b>physics.resistance</b></dd>
+</dl>
 
+## Guz
+
+<dl>
 <dt>gabos</dt>
 <dd><i>noun</i>	<b>snap</b>; 10^-5 days</dd>
 
@@ -991,7 +1013,11 @@
 
 <dt>guzib</dt>
 <dd><i>noun</i>	<b>elopomorpha</b>; ladyfishes tarpons and bonefishes but not eels</dd>
+</dl>
 
+## Id
+
+<dl>
 <dt>iaiga</dt>
 <dd><i>noun</i>	<b>moving</b>; around but not necessarily with a direction</dd>
 
@@ -1213,7 +1239,11 @@
 
 <dt>izout</dt>
 <dd><i>noun</i>	<b>fraction</b>; most/majority</dd>
+</dl>
 
+## Ju
+
+<dl>
 <dt>jabiut</dt>
 <dd><i>noun</i>	<b>vampiresquid</b></dd>
 
@@ -1396,7 +1426,11 @@
 
 <dt>juzob</dt>
 <dd><i>noun</i>	<b>spoiling</b></dd>
+</dl>
 
+## Kush
+
+<dl>
 <dt>kadois</dt>
 <dd><i>noun</i>	<b>purity</b></dd>
 
@@ -1576,7 +1610,11 @@
 
 <dt>kuzi</dt>
 <dd><i>noun</i>	<b>rapidity</b>; of communication; the idea with this word is to distinguish rapid SMS texting from unrapid email</dd>
+</dl>
 
+## Og
+
+<dl>
 <dt>obaba</dt>
 <dd><i>noun-technical</i>	<b>physics.momentum</b></dd>
 
@@ -1726,7 +1764,11 @@
 
 <dt>ozuaz</dt>
 <dd><i>noun</i>	<b>mosquito</b></dd>
+</dl>
 
+## Pi
+
+<dl>
 <dt>padis</dt>
 <dd><i>noun</i>	<b>housefly</b></dd>
 
@@ -1918,7 +1960,11 @@
 
 <dt>puzed</dt>
 <dd><i>noun</i>	<b>domesticating</b></dd>
+</dl>
 
+## Si and Shau
+
+<dl>
 <dt>sabig</dt>
 <dd><i>noun</i>	<b>beauty</b>; of a person</dd>
 
@@ -2305,7 +2351,11 @@
 
 <dt>suzut</dt>
 <dd><i>noun</i>	<b>0</b></dd>
+</dl>
 
+## To
+
+<dl>
 <dt>tabag</dt>
 <dd><i>noun</i>	<b>testing</b></dd>
 
@@ -2497,7 +2547,11 @@
 
 <dt>tuze</dt>
 <dd><i>noun</i>	<b>cooking</b></dd>
+</dl>
 
+## Up
+
+<dl>
 <dt>uadid</dt>
 <dd><i>noun</i>	<b>pantopod</b>; they're like spiders but in the ocean!</dd>
 
@@ -2692,7 +2746,11 @@
 
 <dt>uzot</dt>
 <dd><i>noun</i>	<b>explaining</b></dd>
+</dl>
 
+## Zai
+
+<dl>
 <dt>zabash</dt>
 <dd><i>noun</i>	<b>brachiopod</b></dd>
 
