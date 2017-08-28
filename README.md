@@ -1,6 +1,6 @@
 # Djastiz
 
-So, you want to speak a better and less biased version of Esperanto. How do you do that? By speaking Djastiz, that's how! What's Djastiz? It's a basic, unambiguous, non-redundant language that I invented. Here's how it works.
+So, you want to speak a better and less biased version of Esperanto. How do you do that? By speaking Djastiz, that's how! What's Djastiz? It's a low-level, unambiguous, non-redundant language that I invented. Here's how it works.
 
 ## Grammar
 
