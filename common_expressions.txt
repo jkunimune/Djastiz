@@ -11,16 +11,16 @@ Thank you. [2->4]
 poj e tobi
 
 You're welcome. [3->3]
-. pdc accepting
-poj e edi
+. with me
+poj og bas
 
 Sorry [apology]. [2->4]
 . pdc sorriness
 poj e ake
 
 Apology accepted. [7->3]
-. pdc accepting
-poj e edi
+. with me
+poj og bas
 
 Don't worry about it. [6->5]
 ! pdc not sorriness

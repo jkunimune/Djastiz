@@ -3,12 +3,12 @@ At one time, Sam actually wanted to send a duck to his representative in congres
 poj shok odo guz bu pi Sam id iu kit e ziget dik zauap iu shizuj si opu bita zitu dij diuis up e bezop
 
 The quick fox jumped over the lazy brown dog. [10->26]
-. sbj dog red whatkind speed on ; pdc height than dog domesticating whatkind un activeness pdc jumping
-poj bu augok teba dik gubet shug kit e ozi jeu augok puzed dik iat tugag e zukuauz
+. sbj dog red whatkind speed on ; pdc un depth than dog domesticating whatkind un activeness pdc jumping
+poj bu augok teba dik gubet shug kit e iat ozi jeu augok puzed dik iat tugag e zukuauz
 
 You! You're standing in the way of everybody's hopes and dreams! [15->24]
-. you . pdc standing-up on ; pdc betweenness to both{ hoping and dreaming } whichone person all fullstop
-poj kek poj e shojag shug kit e shiabu si to toije ish iogu id shos opu zai up
+you . pdc standing-up on ; pdc betweenness to both{ hoping and dreaming } whichone person all fullstop
+kek poj e shojag shug kit e shiabu si to toije ish iogu id shos opu zai up
 
 What happens if you roadkill a fish? [9->18]
 ? obj what pdc causing sbj ; via automobile pdc killing obj fish fullstop
@@ -32,7 +32,7 @@ poj shok kit e iat baisu up jeu ibish aub oposh doze jopa up ju ped e ajud iu to
 
 Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. [28->51]
 . sbj jupede going via cosmos whichone rebelling via ; pdc striking on ; transitioning obj jupede basing obj * pdc hiding fullstop fullstop fullstop pdc winning whichone 1 with name{ country conquering astronomy.galaxy } whatkind un morality
-poj bu je ugi oush kajauj shos ougious oush kit e oushois shug kit kishij iu je gebeud iu ped e koutep up up up e badiz shos toza og pi guiesh eusheis uzeso id dik iat aidop
+poj bu je ugi oush kajauj shos ougious oush kit e oushois shug kit kishij iu je gebeud iu ped e koutep up up up e badiz shos toza og pi guiesh eusheis uzeso id dik iat edi
 
 Please excuse my dear Aunt Sally. [8->19]
 please pdc excusing obj cousin-being * sbj me pdc dear-holding fullstop ie name{ Sally }

@@ -7,7 +7,7 @@ person:opu
 prosperity:oio
 radius (outside-inside):keshush
 posessing:use
-height (vertical coordinate):ozi
+depth (vertical coordinate where down is positive):ozi
 doing:iku
 time (e.g. t = 13.7):odo
 space (the subject is located at the object):ashe
@@ -20,7 +20,6 @@ able-being:aba
 knowing:euo
 obtaining:osa
 liking:ija
-accepting (this applies to apologies thanks challenges etc.):edi
 believing (accepting a fact on a subconcious level; contrast with "thinking"):ebe
 creating:udu
 length (distance):uia
@@ -31,7 +30,7 @@ passive-perceiving (seeing or hearing or smelling):asu
 toward (creates compound words with states to convert them to transitions):ipo
 exceeding (the subject exceeds the reciprocator in the object):iti
 equaling (the subject matches the reciprocator in the object):uza
-morality:aidop
+morality:edi
 skillfulness:atas
 aptitude (fitting a situation well):pegug
 effectiveness:tojot
@@ -898,3 +897,7 @@ softness (tendency to conform shape):pebib
 give (tendency to bend and then spring back):doshas
 viscocity:joshej
 class (the quality of being expensive and unneccesary):jije
+positive-sentiment-holding:pegaj
+congratulating:uitoib
+sarcasm:aidop
+after-naming:zejop

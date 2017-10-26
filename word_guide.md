@@ -42,7 +42,7 @@ _noun-technical_
 
 ### aidop
 _noun_  
-	*morality*
+	*sarcasm*
 
 ### aie
 _noun_  
@@ -115,6 +115,10 @@ _noun_
 ### apeub
 _noun_  
 	*afroinsectiphilia*; golden moles, tenrecs, elephant, shrews, aardvarks, and some other things
+
+### apigo
+_noun-technical_  
+	*biology.mitochondria*; the powerhouse of the cell
 
 ### apik
 _noun_  
@@ -828,7 +832,7 @@ _noun_
 
 ### edi
 _noun_  
-	*accepting*; this applies to apologies thanks challenges etc.
+	*morality*
 
 ### edub
 _noun_  
@@ -2370,7 +2374,7 @@ _noun_
 
 ### ozi
 _noun_  
-	*height*; vertical coordinate
+	*depth*; vertical coordinate where down is positive
 
 ### ozogo
 _noun-technical_  
@@ -2445,6 +2449,10 @@ _noun_
 ### ped
 _punctuation_  
 	***; modifier clause
+
+### pegaj
+_noun_  
+	*positive-sentiment-holding*
 
 ### pegug
 _noun_  
@@ -3564,6 +3572,10 @@ _noun_
 _noun_  
 	*chiton*
 
+### uitoib
+_noun_  
+	*congratulating*
+
 ### ujeij
 _noun_  
 	*acuteness*; of a corner
@@ -3773,6 +3785,10 @@ _noun_
 ### zejei
 _noun_  
 	*neuroptera*; lacewings, antlions, owlflies, and more
+
+### zejop
+_noun_  
+	*after-naming*
 
 ### zejuaug
 _noun_  
