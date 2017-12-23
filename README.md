@@ -2,6 +2,30 @@
 
 So, you want to speak a better and less biased version of Esperanto. How do you do that? By speaking Djastiz, that's how! What's Djastiz? It's a low-level, unambiguous, non-redundant language that I invented. Here's how it works.
 
+## Writing and pronunciation
+
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily for you, Djastiz only has 15 letters, and a relatively simple written language. It uses a phonetic alphabet, and is written top-to-bottom, then left-to-right. The alphabet is as follows.
+- [`id`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/id.svg) is Romanized "i" and pronounced 'i' or 'j' in the [IPA][1].
+- [`e`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/e.svg) is Romanized "e" and pronounced '&#603;' or '&#618;' in the [IPA][1].
+- [`aj`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/aj.svg) is Romanized "a" and pronounced '&#593;' or '&#228;' in the [IPA][1].
+- [`og`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/og.svg) is Romanized "o" and pronounced '&#596;' in the [IPA][1].
+- [`up`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/up.svg) is Romanized "u" and pronounced 'u' or 'w' in the [IPA][1].
+- [`guz`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/guz.svg) is Romanized "g" and pronounced 'g' in the [IPA][1].
+- [`kush`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/kush.svg) is Romanized "k" and pronounced 'k' in the [IPA][1].
+- [`dik`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/dik.svg) is Romanized "d" and pronounced 'd' in the [IPA][1].
+- [`to`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/to.svg) is Romanized "t" and pronounced 't' in the [IPA][1].
+- [`bu`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/bu.svg) is Romanized "b" and pronounced 'b' in the [IPA][1].
+- [`pi`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/pi.svg) is Romanized "p" and pronounced 'p' in the [IPA][1].
+- [`zai`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/zai.svg) is Romanized "z" and pronounced 'z' in the [IPA][1].
+- [`si`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/si.svg) is Romanized "s" and pronounced 's' in the [IPA][1].
+- [`ju`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/ju.svg) is Romanized "j" and pronounced '&#658;' in the [IPA][1].
+- [`shau`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/shau.svg) is Romanized "sh" or "c" and pronounced '&#643;' in the [IPA][1].
+
+If a single letter has multiple pronounciations, either can be used without affecting the meaning.
+The actual Djastiz character for each of these in svg format can be found in the "written language" folder of this repository. While there are no punctuation letter in Djastiz, words are separated by dots that occupy the same vertical space as a letter. Compound words and expansions are single words and therefore do not contain spaces.
+
+[1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
+
 ## Grammar
 
 The grammar of Djastiz is designed to be nearly unambiguous and minimally redundant. As such, there are far more grammar tokens than in other languages. The primary advantage of this structure is increased control over which information is included and excluded. However, it does tend to whelm at first. Worry not! Every Djastiz sentence can be broken down into several basic parts.
@@ -12,11 +36,11 @@ Every full sentence in Djastiz starts with a _punctuation marker_. There are nin
 - `poj` is the _declarative_ punctuation marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the speaker.
 - `zad` is the _interrogative_ punctuation marker. It precedes a sentence that requests information. An interrogative sentence usually contains the word `sob` at least once, though the position of `sob` can also be implied. In either case, `sob` represents a piece of information missing from the sentence that the speaker would like to know.
 - `saz` is the _imperative_ punctuation marker. It precedes a sentence that requests action. An imperative sentence describes an event or action that the speaker wants to happen.
-- `kit` is a bit more complicated. It does not create sentences at all, but rather _noun clauses_. These will be discussed in &#167;1.3.
-- `ped` also does not create sentences, but _modifier clauses_. They are described in more detail in &#167;1.4.
+- `kit` is a bit more complicated. It does not create sentences at all, but rather _noun clauses_. These will be discussed in &#167;2.3.
+- `ped` also does not create sentences, but _modifier clauses_. They are described in more detail in &#167;2.4.
 - `pioip` is the _bureaucratic_ punctuation marker. It behaves similarly to `poj`, specifically in contexts where saying a sentence causes it to be true. Bureaucratic sentences are especially useful for proclamations, definitions, and assumptions in mathematical proofs.
 - `shuaij` behaves exactly like `saz`, but frames the request as less mandatory and more polite. The frequency with which one uses `shuaij` versus `saz` completely depends on the society, and since no society actually speaks Djastiz, I have no idea how useful this word is.
-- `daid` is the _salutary_ punctuation marker. It is used to construct simple greetings. `daid` is a _simple_ punctuation marker. These obey special rules and will be discussed again in &#167;1.6.
+- `daid` is the _salutary_ punctuation marker. It is used to construct simple greetings. `daid` is a _simple_ punctuation marker. These obey special rules and will be discussed again in &#167;2.6.
 - `shuip` is the _exclamatory_ punctuation marker, and, like `daid`, is simple. It expresses concise feelings and opinions.
 
 In addition to labelling the type of sentence, the punctuation marker acts as the sentence's opening bracket. The sentence can be ended by the fullstop token, `up`, by the punctuation marker of the next sentence, or just with the silence after a person stops talking. Between these tokens lies the meat of the sentence: a list of _prepositional phrases_.
@@ -28,7 +52,7 @@ Every prepositional phrase describes one aspect of the event described by the se
 _Argumentative prepositions_ may only be included once per sentence. The first, and most important, is `e`. `e` denotes the _predicate_ of the sentence &#8211; the noun phrase that describes the action in question. The other argumentative prepositions may or may not be _applicable_ based on the predicate. If an argumentative preposition is applicable, it may be included in the sentence, but does not need to be if its complement is implied. A proper Djastiz dictionary would list the applicable argumentative prepositions for every noun in the language, as well as their precise meanings in each case. Let's be real, though. There's no way I'm going to do that. Instead, I'll leave it up to the speakers' discretion when each preposition is applicable. In general:
 - `bu` denotes the _subject_ of the action, the agent that initializes and/or carries out the action (e.g. the writer of `debag`). `bu` is almost always applicable.
 - `iu` denotes the _direct object_, usually but not necessarily, inanimate. Use `iu` when an action is applied directly to something (e.g. the food of `ukiaj`).
-- `si` denotes the _target_ of the action, usually an inanimate object, location, or concept. Use `si` when an action occurs toward some object or location (e.g. the destination of `ugi`). It often serves as the complement of `iu` (e.g. the old and new values in `ikaib`)
+- `si` denotes the _target_ of the action, usually an inanimate object, location, or concept. Use `si` when an action occurs toward some object or location (e.g. the destination of `ugi`). It often functions in tandem with `iu` (e.g. the old and new values in `ikaib`)
 - `og` denotes the _reciprocator_ of the action, the agent that receives the action. Use `og` when an agent must carry out an opposite action when the subject carries out the action in question (e.g. the loser of `badiz`).
 
 _Adjunctive prepositions_, by contrast, are always applicable, and can be used multiple times in one sentence if being used in different contexts (e.g. using `shug` once for the location in virtual space and again for the location in real space). They denote, in a sense, the "who, where, when, why, how" of the sentence.
@@ -86,7 +110,7 @@ For fastener constructions that are too common to warrant even a fastener, there
 - `dot` describes each and every element of a set individually.
 - `shij` describes a noun that is surprising and of particular import to the sentence.
 
-I guess _prefixes_ could be counted as a fourth kind of modifier, but they're pretty different, so I discuss them in &#167;2.1.
+I guess _prefixes_ could be counted as a fourth kind of modifier, but they're pretty different, so I discuss them in &#167;3.1.
 
 ### Conjunctions
 
@@ -102,7 +126,7 @@ The final conjunction has no analog in English. `pi`-`id` constructions act simi
 
 Most of the words discussed thus far have fallen into categories and followed simple rules. We now discuss a few of the more unique words that do not accept labels so easily.
 
-`daid` and `shuip` compose the entirety of the simple punctuation markers. Simple punctuation markers are used when a sentence is too common or basic to warrant a full list of prepositional phrases. Instead, one follows the marker with a single noun phrase. When using `daid`, the noun phrase represents the current occasion, and the full sentence forms a greeting or congratulation. Thus, `daid zidug` greets people during the day, `daid pi Christmas id` during Christmas, and `daid iatshutua` immediately after a graduation. `shuip`, on the other hand, expresses happiness or respect toward a noun phrase. For example, `shuip iatpeuzpubuksedog` praises air conditioning, `shuip pi Hitler id` hails Hitler, and `iatshuip kek` fucks you (see &#167;2.2). Simple punctuation markers can also be used independently, `daid` expressing a general greeting and `shuip` an exclamation of general happiness.
+`daid` and `shuip` compose the entirety of the simple punctuation markers. Simple punctuation markers are used when a sentence is too common or basic to warrant a full list of prepositional phrases. Instead, one follows the marker with a single noun phrase. When using `daid`, the noun phrase represents the current occasion, and the full sentence forms a greeting or congratulation. Thus, `daid zidug` greets people during the day, `daid pi Christmas id` during Christmas, and `daid iatshutua` immediately after a graduation. `shuip`, on the other hand, expresses happiness or respect toward a noun phrase. For example, `shuip iatpeuzpubuksedog` praises air conditioning, `shuip pi Hitler id` hails Hitler, and `iatshuip kek` fucks you (see &#167;3.2). Simple punctuation markers can also be used independently, `daid` expressing a general greeting and `shuip` an exclamation of general happiness.
 
 `sob` is the question word, very similar to "what" in English. Rather than carrying information, like most words, `sob` denotes a lack of information. `sob` is only used in `zad` and `ped` clauses, but neither clause requires a `sob`. In many cases, the position of `sob` can be inferred from contextual clues (e.g. `shat sob` is rarely necessary).
 
@@ -153,30 +177,6 @@ Instead of forcing said practitioners to reuse words, Djastiz contains a cache o
 ### Causation and transitivity
 
 It must be noted that, while in English, verbs often have multiple meanings for varying levels of transitivity (for example, the word "break" can mean either "to fall apart" or "to cause something else to fall apart"), in Djastiz, only the least transitive forms receive words. To describe a person causing something else to break, one must explicitly say, `poj e kepo iu kit e egai`. The purpose of this is to reduce ambiguity and redundancy. Two meanings are not necessary for this phenomenon, nor are two words. Furthermore, it prevents the occurrence of tritransitive and even potentially tetratransitive sentences (what if I were to mind-control your dog into forcing a child into making a vase break the plant inside it?), which would cause us to run out of argumentative prepositions. Therefore, if the transitivity of a Djastiz noun is unclear, always assume it to be as low as would make sense.
-
-## Writing and pronunciation
-
-Djastiz has a relatively simple written language. It uses a phonetic alphabet, and is written top-to-bottom, then left-to-right. There are 15 letters.
-- [`id`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/id.svg) is Romanized "i" and pronounced 'i' or 'j' in the [IPA][1].
-- [`e`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/e.svg) is Romanized "e" and pronounced '&#603;' or '&#618;' in the [IPA][1].
-- [`aj`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/aj.svg) is Romanized "a" and pronounced '&#593;' or '&#228;' in the [IPA][1].
-- [`og`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/og.svg) is Romanized "o" and pronounced '&#596;' in the [IPA][1].
-- [`up`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/up.svg) is Romanized "u" and pronounced 'u' or 'w' in the [IPA][1].
-- [`guz`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/guz.svg) is Romanized "g" and pronounced 'g' in the [IPA][1].
-- [`kush`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/kush.svg) is Romanized "k" and pronounced 'k' in the [IPA][1].
-- [`dik`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/dik.svg) is Romanized "d" and pronounced 'd' in the [IPA][1].
-- [`to`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/to.svg) is Romanized "t" and pronounced 't' in the [IPA][1].
-- [`bu`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/bu.svg) is Romanized "b" and pronounced 'b' in the [IPA][1].
-- [`pi`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/pi.svg) is Romanized "p" and pronounced 'p' in the [IPA][1].
-- [`zai`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/zai.svg) is Romanized "z" and pronounced 'z' in the [IPA][1].
-- [`si`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/si.svg) is Romanized "s" and pronounced 's' in the [IPA][1].
-- [`ju`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/ju.svg) is Romanized "j" and pronounced '&#658;' in the [IPA][1].
-- [`shau`](https://github.com/jkunimune15/Djastiz/blob/master/written%20language/shau.svg) is Romanized "sh" or "c" and pronounced '&#643;' in the [IPA][1].
-
-If a single letter has multiple pronounciations, either can be used without affecting the meaning.
-The actual Djastiz character for each of these in svg format can be found in the "written language" folder of this repository. While there are no punctuation letter in Djastiz, words are separated by spaces of the same height as a letter. Compound words and expansions are single words and therefore do not contain spaces.
-
-[1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
 
 ## Gestures
 
