@@ -1,903 +1,930 @@
-yes:kaup
-no:dueg
-excusing:ote
-sorriness:ake
-being (this is ==, not .equals()):ezo
-person:opu
-prosperity:oio
-radius (outside-inside):keshush
-posessing:use
-depth (vertical coordinate where down is positive):ozi
-doing:iku
-time (e.g. t = 13.7):odo
-space (the subject is located at the object):ashe
-point (a particular time or place):ige
-region (an area in space of a period of time):etu
-saying (using a declarative sentence):ojo
-going (from one place to another):ugi
-relating (to):uka
-able-being:aba
-knowing:euo
-obtaining:osa
-liking:ija
-believing (accepting a fact on a subconcious level; contrast with "thinking"):ebe
-creating:udu
-length (distance):uia
-forcing:ize
-causing:aui
-active-perceiving (looking or listening or sniffing):aie
-passive-perceiving (seeing or hearing or smelling):asu
-toward (creates compound words with states to convert them to transitions):ipo
-exceeding (the subject exceeds the reciprocator in the object):iti
-equaling (the subject matches the reciprocator in the object):uza
-morality:edi
-skillfulness:atas
-aptitude (fitting a situation well):pegug
-effectiveness:tojot
-year:ibish
-giving:tisid
-working (doing work or being productive):suzus
-using:uebeb
-light:oshiz
-appearing:shosib
-wanting:bezop
-allowing (permission-giving):gebei
-willingness:adak
-order (index in a list):tibed
-age:kidash
-path:utug
-finding:jasho
-day (time unit):esek
-thing:kadoj
-half:uidiz
-recommending:shijash
-needing:tukit
-left-rightness:uduash
-correctness:shushuk
-front-backness:kauo
-denoting (meaning in terms of word definitions):agip
-nextness:asog
-persisting:gugoz
-truth:ieshe
-attention-trying (e.g. yelling at someone or flashing bright colors):zega
-calling (digital):atad
-kinship:kaged
-spending time with:shosush
-throughness:ubez
-showing:toshoi
-alive-being:eitu
-female:zipez
-male:gushab
-non-binary-gender:dekob
-gender:jatu
-changing:uasa
-robing:gasi
-moving (around but not necessarily with a direction):iaiga
-betweenness:shiabu
-tactility (touch):gisez
-scent:shetez
-emotion:beuog
-jostling (moving in place):oiap
-troubling:badob
-puzzel:jopib
-writing (etching symbols into something; recording something in a physical object):debag
-size:kiju
-attempting (trying):odeij
-abandoning:toshap
-amount (multiplicity):akeik
-assigning:iapiu
-owning:ujis
-comprising:ibak
-pointing:aujod
-helping:jatid
-rescuing:jajuz
-asking (a question):shudaj
-meeting:sosu
-initiating:odut
-come to be:shijos
-interesting:gatu
-country:guiesh
-learning:poushe
-timeliness:zoke
-activation:teseb
-interval:edau
-world:okeb
-cycle (10 days):zusit
-music-making (an instrument):dokish
-goofing:zeshau
-mighting:teshaj
-home:akaj
-including:ejid
-residing (as in at an address or in a house):bigab
-reporting:zabes
-grouping (associating with one another):zushuz
-surrounding:kijoj
-defending:zepuj
-seeming:dijad
-repeating:aupi
-nice:zapia
-being in a category:zushik
-keeping:dabei
-sound:geje
-system:bigij
-obeying:gashu
-containing:ateiz
-study (a subject):bosish
-follow:basash
-importance:oubos
-primarity (refers to generally being main or central):toto
-walking:zeija
-rotating:dusas
-hand:gipoj
-handing:eiaij
-speed:gubet
-money:gobob
-fact:popeb
-written-language (parsing symbols into words with one's eyes):kasok
-friend:pusheu
-term (10^2 days):ojeut
-information:goku
-openness:susos
-governing:eijop
-becoming:igaz
-star (sun):zodaz
-organization:zitu
-word:apik
-problem:puba
-constructing:shabo
-holding:eubop
-servicing:bokis
-selling:iubu
-snap (10^-5 days):gabos
-loving (romantically):kapoz
-employing:dodiz
-planning:koiu
-distance:itash
-example:ipaj
-offering (suggesting):jidud
-business-openness:ashiob
-instructing:tizi
-following:pago
-understanding:uidoj
-gratitude:tobi
-ke (10^-2 days):upoz
-face:peuip
-hoping:toije
-thinking-of:jaget
-cost:zupes
-outdoorsness:saige
-spaciousness:doziz
-future:bizep
-reasoning:doge
-head:iepo
-automobile:osou
-level:gebesh
-experiencing:ishak
-sufficing:baduj
-city:boju
-daytime:zidug
-supporting:pideg
-line (of the segment or infinite variety):padup
-arc:bopa
-curve (any smooth path):kashish
-zigzag (a polygonal pah thing):shozod
-loop:shakip
-gifting:euig
-certain-being:josij
-process-undergoing:bepes
-flailing:kozoj
-publicity:ojed
-frequency:esos
-possibility:zubop
-sureness (probability):jagez
-actuality:zauap
-togetherness:ipoug
-considering:opit
-parenting:ajud
-ease (for the target):jesesh
-partying:uieuk
-foreignness:shepat
-concern:kojup
-winning:badiz
-storytelling:uatoj
-continuing:auzek
-standing-up (posture):shojag
-wholeness:zose
-sentence:bukat
-rate:kakuj
-caring:kujou
-sorting:shadu
-falling:jusek
-deal-striking:jejaz
-water:joteb
-sending:ziget
-watching:joutu
-foundation-forming:isesh
-suggesting:ishez
-power (ability to enact change):igosh
-testing:tabag
-visiting:osaish
-skewness:ubut
-returning:zojib
-mind:shesud
-office:gidosh
-recording:eibou
-recalling (a fact):ezap
-remembering (to do something):upop
-sharing:ditab
-sitting:kubop
-char:deubu
-deciding:sopuk
-language:shaiaz
-subjecting (focusing on):gobuk
-dividing:igib
-span (10^-3 days):keui
-breaking (physically falling apart or cracking):egai
-leisuring:geiu
-clearing:uipad
-transitioning (represents delta vector between any two states):kishij
-time-distance:baisu
-separation:basho
-color:iboush
-involving:auta
-reaching:azaish
-socializing:teia
-note-leaving:sizak
-history:tubo
-driving:busaz
-gland (node or organ):poua
-playing (a game or a sport):udosh
-politicalness:uouod
-freedom:sadez
-policymaking:shoiosh
-furthering:deshu
-body:tedag
-requiring:ieguj
-waiting:idauz
-generalizing:jadi
-up-teaming:dudij
-individuality:pushuj
-fullness:kibib
-adding:suge
-rule-placing:eboib
-passing:uotet
-numeric-value:digo
-agreeing:uzip
-researching:uboj
-covering (physical):gupuk
-paper:euko
-position (physical state other than location):boteg
-computer:uobe
-situation:iuguz
-doing-staff-things:dupo
-participating:eupek
-movie-making:jekish
-film (the original meaning - thin thanslucent surfaces):ezaid
-morning:ijus
-logging-in:ejaj
-significance:upak
-designing:ieshush
-specialness (uniqueness):goshai
-parameter:zutet
-lifting:jobes
-table (furniture):shejob
-matrix (table of numbers):sibaj
-fraction (most/majority):izout
-random-generating:euti
-disposing:beue
-cutting:oshab
-describing:etob
-availability:oshik
-freeness (time management):diuab
-weapon:zogoj
-child:jeiju
-community-making:gedu
-particularness:gogez
-role-filling:pishig
-joining:tezub
-detail:tijud
-difference:kokat
-action-taking:egop
-mass:aukig
-eating:ukiaj
-stepping (the object is what you step on or in):utik
-communicating:tadou
-flavor (taste):asosh
-drawing:oshua
-blackness:seja
-tanness:isiag
-datetime:uoui
-courting:edej
-voice:zasha
-modeling:gapat
-patronizing (as in a customer going to a business):pipez
-explaining:uzot
-door:uodi
-computational-intensity:budeg
-data-storing:jaido
-imagining:daipa
-pondering:ouog
-temperature:pubuk
-decimal-point:bajut
-0:suzut
-1:toza
-2:shauiz
-3:abou
-4:daiau
-5:poiub
-6:eiesh
-7:jopa
-8:oposh
-9:ketop
-10:doze
-100:kodid
-1000:aishep
-beauty (of a person):sabig
-fun-having:diuis
-birth-giving (the physical act):eibi
-activeness (not lazy):tugag
-happy-feeling (the opposite of depression):dotib
-killing:eushi
-substituting:ikaib
-blue:teku
-red:teba
-green:popis
-vibrancy:sapa
-sleeping:ekog
-representing:bita
-insect:dakap
-exclusivity:sabus
-also:podi
-implying (if-then):sito
-swimming:zoshet
-zooming (gotta go fast):ijig
-besideness (to be on the side of):shikuz
-sibling-being:abosh
-cousin-being:jebap
-shooting:kushag
-technology:gujei
-education:iashu
-book:pobok
-remarkability (unlikeliness):oudis
-dreaming:iogu
-latitude (south+):supek
-longitude (east+):shezes
-angle (angular difference with object being centrum):sibi
-altitude (angle from horizon):jepik
-bearing (counterclockwise from straight ahead with object being origin):uiep
-orientation (angular position from the point of view of the object):pudaz
-corresponding (relating - not writing):jujak
-chunk (10^4 days):izaig
-season (a time of year when something is "in"):pukeg
-spring (the season):ebueg
-summer:supu
-imploring (using an imperative sentence):asoup
-butt:oigut
-leg:pipeu
-torso:teujo
-arm:zazes
-mountain:sibes
-acuteness (of a corner):ujeij
-sharpness (of an edge or blade):zazik
-flying:zodab
-throwing:teusa
-intending:kesha
-scaling (dilating or zooming):zushe
-into (usually for long/deep things):pagud
-revolving:degek
-mocking:ogob
-disease-having:aujak
-embarking (in the metaphorical sense; it is similar to peuzauzek but it involves more of a habitual journey than a state):shutua
-structural-integrity (resistance to breaking bending or deforming):pazai
-durability (resistance to breaking):shuked
-strength (ability to exact force):pakou
-translating:judot
-standing (structurally e.g. a building):papus
-imprisoning:shoshaj
-letter (character):pitish
-listing:eisash
-furniture:dukes
-science (experimentation and learning):gukuz
-repository (body of technical knowlege):oudush
-paint:toguk
-mathematics:iket
-art-making:goia
-society:iopi
-air:shuita
-oxygen:zotaj
-rock:eudik
-metal:okoi
-wood:ubeit
-crystal:ubab
-electricity:sedog
-magicalness:zopas
-powder:tasug
-bit (things like gravel and cereal):esup
-freezing:shegesh
-burning:sagu
-boiling:izij
-emitting:bojis
-hitting (the action of intentionally causing a collision with something):zegip
-flash (also applies to sound and other sensations):basis
-flicker (any rapid occilation):edub
-ceremony-participating:geta
-extracting:asab
-poison-applying:zizip
-cooking:tuze
-grain:tajag
-meat:goshuk
-sugar:tupuj
-vegetable (includes fruit):shasat
-dairy:ubai
-milk:doses
-honey:eukau
-egg:shokok
-fermenting:odaub
-churning:okoz
-spoiling:juzob
-bread:iushish
-nut (also seed):sauoj
-leaf:zapos
-fruit:peshi
-berry:keteg
-melon:eshot
-stem:sujat
-root (of a plant):gozez
-flower:dejat
-sweetness:bupash
-saltiness:pasag
-bitterness:keuda
-spicyness:tigis
-savoriness:tejui
-sphere:adoub
-box:ikie
-sheet:toupa
-rigidity:pekuz
-flexing:godai
-shell:tejos
-cylinder:soiki
-tendril:gizid
-bowl:jaied
-tube:depe
-polyhedron:auzad
-circle:piki
-rectangle:bodij
-polygon:gujob
-zig-zag (any erratic path):opiz
-desert:atog
-squiggle:bejaz
-land:tepet
-ocean:ieshib
-sky:uioush
-domesticating:puzed
-primatomorpha (basically monkeys and apes plus a few other types of primate):shezat
-scandentia (treeshrews):shudog
-lagomorpha (rabbits, hares, pikas):kupa
-rodent:beizu
-euliptyphla (hedgehogs, moles, shrews, and a few other rodent-like things):oizid
-chiroptera (bats and flying foxes):shasej
-pangolin:shaigu
-cat:doipu
-dog (also describes wolves, dingoes, and foxes):augok
-bear:busut
-seal (includes walruses and maybe sea lions I think?):shoba
-red-panda:sezeb
-skunk:japud
-procyonidae (raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles):pituj
-mustelidae (weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines):ejoish
-horse (includes zebras and several varieties of wild butt):shoshup
-tapir:sesoz
-rhinoceros:tegod
-tylopoda (camels and llamas):uzios
-pig:tudi
-chevrotain:bazob
-giraffe (and okapi):ogesh
-bovida (cattle, buffalo, antelopes, sheep, goats, etc.):gipot
-pecora (basically anything with horns besides chevrotains, giraffes, and bovines):kekoi
-hippopotamus:dasuj
-whale (also refers to dolphins and porpoises):iodij
-armadillo:eishub
-anteater:eteid
-sloth:gudak
-afroinsectiphilia (golden moles, tenrecs, elephant, shrews, aardvarks, and some other things):apeub
-elephant:tetiz
-sea-cow (like manatees):tuzak
-hyrax (little rodent-like things):tijie
-opossum:ibauk
-shrew-oppossum (more closely related to Australia than possums):eutash
-vombatiforme (koalas and wombats):auauj
-phalangeriforme (possums... which are apparently different from opossums and tend to fly):jishep
-macropodiforme (kangaroos and wallabies):baga
-australidelphia (besides wombats, koalas, and kangaroos):keusi
-platypus:isit
-echidna:oiud
-mammal:poshosh
-reptile:asoush
-bird:iukep
-tuatara (a lizard-type thing):ukouz
-lizard:pejez
-snake:gadi
-palaeognatha (ostriches, rheas, tinamous, kiwis, cassowaries, and emus):apeit
-waterfowl:shizuj
-landfowl (chickens, turkeys, and pheasants):zoiok
-flamingo:bitip
-grebe:oukog
-columbimorphae (pidgeons, doves, sandgrouses, and mesites):esheub
-otidae (bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds):jadoi
-hoatzin (some weird kind of bird):giues
-shorebird:eipish
-eurypygimorphae (a bunch of tropical birds):aijosh
-loon:iuish
-penguin:pebu
-procellariid (albatrosses and petrels):soieu
-stork:teuke
-suliforme (boobies and cormorants and a few other things):zukei
-plecaniforme (pelicans and similar things):auet
-condor (also encompasses New World vultures):geiak
-secretary-bird:iujib
-osprey:iutag
-accipitridae (hawks, eagles, kites, Old World vultures, and a few other things):uetab
-owl:shisad
-coraciimorpha (some smallish generally tree-dwelling birds):eshish
-cariamiforme (it's a flightless terrestrial bird):zajos
-eufalconimorpha (falcons, passerines, parrots, caracaras, and forest falcons):shute
-crocodilian (crocodiles and alligators):shusob
-turtle (includes tortoises and terrapins):jisas
-amphibian:pozup
-salientia (frogs and toads):isoiz
-salamander:saubi
-caecilian (blind legless amphibians):gopet
-fish:sijid
-lungfish (fish that breathe air):guzad
-coelacanth:guesu
-polypteriforme (bichirs and reedfishes or ropefishes):iteg
-sturgeon:jaiu
-paddlefish:jouat
-bowfin:gajeg
-gar:takat
-eel:toiot
-elopomorpha (ladyfishes, tarpons, and bonefishes, but not eels):guzib
-freshwater-butterflyfish:saia
-arowana (bonytounges):sezush
-notopteroide (aba, elephantfishes, and featherfin knives):iduj
-otocephala (herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras):piga
-protacanthopterygii (salmons, trouts, pikes, dragonfishes, and smelts):kupesh
-cusk-eel:jogak
-toadfish:zouoj
-scombroide (tunas and mackerels):paget
-seahorse:koubi
-anglerfish:zupi
-pufferfish:sutuk
-percomorpha (gobies, cichlids, flatfish, wrasse, and perches):jiapo
-neoteleostei (jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes):iteut
-galean-shark:shubei
-squalomorph-shark:ietou
-ray (the ocean variety):uages
-invertebrate:udoish
-arthropod:zeshed
-holocephali:kopish
-lamprey:buie
-hagfish (slime-eel):shabish
-ascidiacea (sea squirts):iguk
-pyrosome:pouej
-salp:peioj
-doliolida:ebiaj
-larvacea:pupik
-cephalochordata (lancelets and branchiostomidae):isheu
-hemichordate (weird ocean worm tree blobs):zuiog
-sealily:aubaj
-seastar:pupish
-ophiuroid (think 'seastar', but less brittle):upou
-seaurchin:oteik
-seacucumber:dishog
-scalidophora (mud-dwelling tiny aquatic things):bidou
-nematoid (parasitic worms FTW!):shatoj
-tardigrade:duset
-acarus (mites and ticks):dosij
-amblypygus (they look like spiders, but produce no web or venom):beishi
-spider:dosei
-opilione (things that look like spiders):zusup
-palpigrade:boipi
-pseudoscorpion:geua
-ricinulei:dujash
-schizomida:uoide
-scorpion:iuoish
-solifuga:zibus
-thelyphonid:zukek
-pantopod (they're like spiders but in the ocean!):uadid
-horseshoe-crab:iseub
-centipede:sota
-millipede:peboz
-pauropod:ukoik
-symphalan:gakui
-branchiopod (a few types of shrimp):juta
-remipedia (like ocean centipede things):jijop
-maxillopod (barnacles and copepods):eubid
-ostracoda (seed shrimp):gopik
-leptostrac:pukud
-mantisshrimp:gaiud
-crab (also includes lobsters):beboj
-shrimp (pretty loose descriptor of most eumalacostraca):bozub
-apterygota (silverfish, firebrat, and jumping bristletails):iedod
-mayfly:sadoj
-odonatoptera (dragonflies and damselflies):zuguo
-paraneoptera (bugs, thrips, and lice):touas
-megaloptera (alderflies, dobsonflies, and fishflies):pakai
-snakefly:butud
-neuroptera (lacewings, antlions, owlflies, and more):zejei
-beetle:kipij
-strepsiptera (twisted-wing parasites):zoshas
-mosquito:ozuaz
-housefly:padis
-fly (in the taxonomical sense excluding mosquitos and houseflies):gauib
-mecoptera (flying scorpions!):shukoi
-flea:tojush
-caddisfly:aipuj
-lepidoptera (moths and butterflies):etiez
-wasp:opeut
-ant:ouip
-bee:oitik
-sawfly:sashuz
-stonefly:tigez
-embiidina (web-spinning insects):gikup
-phasmid (stick and leaf insects):dezej
-orthoptera (crickets, tatydids, grasshoppers, etc.):zapau
-gladiator (it's a type of insect):sosho
-zorapteran (a type of insect bug thing):dadeg
-cockoroach:gepok
-termite:sadip
-mantid:ziba
-earwig:zogag
-grylloblattodea (ice bus, ice crawlers, and rock crawers):uazat
-entognatha (six-legged bugs that are not insects):epeik
-velvetworm:dopup
-plankton (anything microscopic that belongs to nephrozoa):ezib
-brachiopod:zabash
-phoronid:sogeu
-aplacophora (shell-less molusks):subeu
-chiton:uitag
-monoplacophora (a type of molosk):akieg
-snail:ubiu
-slug:zopiud
-nautiloid:kepo
-decapodiforme (includes squid and cuttlefish):gueposh
-vampiresquid:jabiut
-octopus:shoited
-bivalve (molusks with two valves):tabius
-scaphopod (a type of molusk):uoueuk
-beardworm (giant tube worms):ueisid
-leech:bebous
-segmented-worm (any member of annelida besides leeches and beardworms):bupiosh
-nemertea (ribbon worms or probiscis worms):jouzui
-proctum (encompasses entoprocta and ectoprocta):toubais
-gorgonian (sea fans and sea whips):dapioug
-seapens:daubop
-soft-coral:biapeb
-blue-coral:baipok
-black-coral:diutij
-stony-coral:asioib
-corallimorpharia:shiazash
-zoantharia:keuseij
-anemone:dietat
-tube-dwelling-anemone:taipes
-jellyfish:diopia
-box-jellyfish:uaipib
-stalked-jellyfish:dopouk
-hydra:shojouj
-polypodizoa (jellyfish-like parasites):aizaip
-parasite:eugaup
-sponge:sopoid
-trichoplax (real small and thin sponge-like animals):keukib
-animal:oupouz
-plant:zaikas
-fungus:shaupub
-eukaryote:baushauk
-bacterum:daijab
-virus:zuisat
-alga:giegoiz
-moss (any embryophyte without xyla, like liverworts and hornworts):jesheuz
-grass:taupob
-fern:zeiguk
-vine:pikeiz
-tree:shoujei
-seaweed:ueujaij
-deciduous:ubuoid
-evergreen:uegaub
-tomato:bougob
-orange (fruit):zeujish
-lemon:bouzes
-pomegranite:poijaish
-lime:eushait
-apple:jasheug
-banana:gikieud
-mango:gobiug
-pumpkin:jibaut
-honeydew:kajeiz
-watermelon:sedeud
-canteloupe:shuigup
-breadfruit:beboip
-grapefruit:jaujash
-dragonfruit:aishues
-pineapple:doijaj
-strawberry:daudut
-blackberry:shuodai
-blueberry:egieish
-raspberry:doitit
-potato:bueubak
-taro:jeiseg
-lettuce:kisoid
-cauliflower:boidush
-asparagus:gaisios
-broccoli:daseug
-basil:baushish
-pepper:paiboi
-alcohol:gideb
-spinach:gautud
-brussels-sprouts:shoubag
-carrot:iojeij
-kale:tuabij
-onion:shopaij
-peanut:zushoup
-rice:jaubug
-wheat:jeshoid
-rye:setieus
-bean:jieshag
-soybean:guzeug
-canola:boutus
-maize:kiashat
-nutmeg:pazeut
-coffee:zezout
-cinnamon:tedaus
-tofu:teisaish
-bamboo:keigus
-mushroom:goibej
-mold:kiduash
-bracket-fungus:geutuz
-lichen:goigip
-spam:uoijub
-chocolate:kiteis
-wound-suffering:siasesh
-summoning:shoteip
-politeness:getoz
-fame:iazais
-element (water, earth, fire, air, etc.):jousaj
-slicing:shopoud
-claw (of the sharp variety):jeioip
-stabbing (puncturing):babais
-bewaring:dakoij
-sex-having:kepoush
-angry-feeling:daishous
-fearing:zaikaish
-clustering (being physically nearby):saidoj
-prone-lying:geitush
-floor:kiogoz
-wall:bipoiz
-ceiling:gaioik
-hole:keusaz
-controlling:eugeush
-engineering (solving technical problems):zaijot
-entrepreneurship (solving large-scale problems):joiseb
-appeal (of a picture, sound, etc.):shoduaz
-big-pictureness:koitib
-ink:shibeus
-string:zeudad
-jungle:shopiai
-conquering:eusheis
-dear-holding:gizeid
-cosmos:kajauj
-jumping:zukuauz
-rebelling:ougious
-continent:kuaibod
-cleanliness:jioijeg
-toiletries:goishek
-transforming:shaupip
-attacking (a sudden violent engagement):tousap
-violence:ieboub
-opposing (competing with):eiduid
-striking (a swift decisive action):oushois
-basing (operations and such):gebeud
-hiding:koutep
-penis:suajosh
-vagina:douseg
-breasts:pekoiz
-sexual-attracting:taisush
-avoiding:jougosh
-wondering:supeis
-gunpowder:saijib
-consenting:bakeish
-freshness:jajeib
-urine:sishuaish
-feces:kogaid
-medicine:duadup
-burying:biapeup
-forward-to-looking:sheuduk
-striving (toward a goal):ziozid
-purity:kadois
-entertaining (as in a movie, play, or skit):duigod
-tolerating:geuzeu
-attention-paying:poushuj
-code-writing (programming):dusaus
-wearing-and-tearing:boubaib
-resisting:bieudi
-downstreamness (combine it with `tius` to get 'flowing'):tudoij
-cloud:augaip
-polluting:zaudaub
-weather (atmosphere):peijat
-floating:zejuaug
-parsing (interpreting information recorded in a physical object):zitoit
-waving (a hand or a flag):tutaub
-gesturing:ketout
-health:zeusai
-meme:shaikei
-internet:iupiet
-self:gupoush
-fance:tiujij
-locking:jeseiz
-living (as in living a life):godauj
-expertness (a person who is not a layperson):ziajoik
-obviousness:taiboj
-talking (forming words with one's voice):saijez
-literalness:piesaz
-technicality:doshoig
-sesquipedalianness:poitoik
-lying (deceiving):baupud
-physicality (describes things in the physical realm):giushuk
-secret-keeping:giabouz
-meaning (big-picture meaning of things):pogeis
-existing:soidug
-name:jidiz
-robot (anything with automated actuation):shijap
-picture:gukoj
-topography (geography):atek
-humidity:jeti
-replacing:ibub
-printing (converting a digital object into a real one):ikok
-virtuality (digitalness):bakod
-sentient-being:tutaz
-intoxication (applies to alcohol as well as other drugs):aigush
-marriage:buso
-pleasure-feeling (basic euphoria from food, music, or sex):zugak
-pride-feeling (the happiness associated with feeling like a productive member of society):apoi
-amusingness (the object is the person amused):kesei
-satisfyingness (the good feeling produced by snapping parts together or popping bubble wrap):jegub
-apprehension-feeling (hesitative reaction to decisions):dushos
-dimensionality (i.e. 2D or 3D):deiap
-functioning (doing what one is supposed to):isui
-perusing:sudij
-rapidity (of communication; the idea with this word is to distinguish rapid SMS texting from unrapid email):kuzi
-to-pee-having:ishas
-disgustingness:bibush
-spoken-language (combining this with active-perceiving means listening or compehending):sheshiz
-knowledge (the quality of knowing a lot of facts):kuiak
-smartness (the quality of understanding a lot of abstract concepts):ditesh
-wisdom:biuit
-cleverness (the innate ability to solve riddles and puzzles):biedi
-charisma:gaude
-whispering (speaking without voicing vowels or consonants):shokas
-disk (a place where a computer stores information):shepeg
-to-and-fro (compounded with a word that has a positive direction to refer to both directions (so you can say eiogozi instead of oziiatozi or iatoziozi or something dumb like that)):eiog
-preparing (as in food):pezis
-sympathyzing:gubu
-challenging:shouso
-computing:soisa
-wiseness (of a decision):zuko
-pushing:kegu
-voicing (concern, gratitude, sorriness, etc.):agej
-admiring:iuiab
-approving:detig
-expecting:sauaz
-thinking (conciously deciding that a fact is true; contrast with "believing"):otiuz
-loading (specifically for computers):dashup
-screening (projecting or rendering images onto a surface):dikej
-remotely-controling:peshek
-procrastinating:oioib
-ladder:egoug
-roughness:dizeg
-softness (tendency to conform shape):pebib
-give (tendency to bend and then spring back):doshas
-viscocity:joshej
-class (the quality of being expensive and unneccesary):jije
-positive-sentiment-holding:pegaj
-congratulating:uitoib
-sarcasm:aidop
-after-naming:zejop
+"the letter ""k""",
+"the letter ""t""",
+"the letter ""p""",
+"the letter ""g""",
+"the letter ""d""",
+"the letter ""b""",
+"the letter ""h""",
+"the letter ""th""",
+"the letter ""f""",
+"the letter ""y""",
+"the letter ""dh""",
+"the letter ""v""",
+"the letter ""ng""",
+"the letter ""n""",
+"the letter ""m""",
+"the letter ""sh""",
+"the letter ""ss""",
+"the letter ""s""",
+"the letter ""zh""",
+"the letter ""j""",
+"the letter ""z""",
+"the letter ""i""",
+"the letter ""r""",
+"the letter ""u""",
+"the letter ""e""",
+"the letter ""a""",
+"the letter ""o""",
+"yes",
+"no",
+"excusing",
+"sorriness",
+"being (this is ==, not .equals())",
+"person",
+"prosperity",
+"radius (outside-inside)",
+"posessing",
+"depth (vertical coordinate where down is positive)",
+"doing",
+"time (e.g. t = 13.7)",
+"space (the subject is located at the object)",
+"point (a particular time or place)",
+"region (an area in space of a period of time)",
+"saying (using a declarative sentence)",
+"going (from one place to another)",
+"relating (to)",
+"able-being",
+"knowing",
+"obtaining",
+"liking",
+"believing (accepting a fact on a subconcious level; contrast with "thinking")",
+"creating",
+"length (distance)",
+"forcing",
+"causing",
+"active-perceiving (looking or listening or sniffing)",
+"passive-perceiving (seeing or hearing or smelling)",
+"toward (creates compound words with states to convert them to transitions)",
+"exceeding (the subject exceeds the reciprocator in the object)",
+"equaling (the subject matches the reciprocator in the object)",
+"morality",
+"skillfulness",
+"aptitude (fitting a situation well)",
+"effectiveness",
+"year",
+"giving",
+"working (doing work or being productive)",
+"using",
+"light",
+"appearing",
+"wanting",
+"allowing (permission-giving)",
+"willingness",
+"order (index in a list)",
+"age",
+"path",
+"finding",
+"day (time unit)",
+"thing",
+"half",
+"recommending",
+"needing",
+"left-rightness",
+"correctness",
+"front-backness",
+"denoting (meaning in terms of word definitions)",
+"nextness",
+"persisting",
+"truth",
+"attention-trying (e.g. yelling at someone or flashing bright colors)",
+"calling (digital)",
+"kinship",
+"spending time with",
+"throughness",
+"showing",
+"alive-being",
+"female",
+"male",
+"non-binary-gender",
+"gender",
+"changing",
+"robing",
+"moving (around but not necessarily with a direction)",
+"betweenness",
+"tactility (touch)",
+"scent",
+"emotion",
+"jostling (moving in place)",
+"troubling",
+"puzzel",
+"writing (etching symbols into something; recording something in a physical object)",
+"size",
+"attempting (trying)",
+"abandoning",
+"amount (multiplicity)",
+"assigning",
+"owning",
+"comprising",
+"pointing",
+"helping",
+"rescuing",
+"asking (a question)",
+"meeting",
+"initiating",
+"come to be",
+"interesting",
+"country",
+"learning",
+"timeliness",
+"activation",
+"interval",
+"world",
+"cycle (10 days)",
+"music-making (an instrument)",
+"goofing",
+"mighting",
+"home",
+"including",
+"residing (as in at an address or in a house)",
+"reporting",
+"grouping (associating with one another)",
+"surrounding",
+"defending",
+"seeming",
+"repeating",
+"nice",
+"being in a category",
+"keeping",
+"sound",
+"system",
+"obeying",
+"containing",
+"study (a subject)",
+"follow",
+"importance",
+"primarity (refers to generally being main or central)",
+"walking",
+"rotating",
+"hand",
+"handing",
+"speed",
+"money",
+"fact",
+"written-language (parsing symbols into words with one's eyes)",
+"friend",
+"term (10^2 days)",
+"information",
+"openness",
+"governing",
+"becoming",
+"star (sun)",
+"organization",
+"word",
+"problem",
+"constructing",
+"holding",
+"servicing",
+"selling",
+"snap (10^-5 days)",
+"loving (romantically)",
+"employing",
+"planning",
+"distance",
+"example",
+"offering (suggesting)",
+"business-openness",
+"instructing",
+"following",
+"understanding",
+"gratitude",
+"ke (10^-2 days)",
+"face",
+"hoping",
+"thinking-of",
+"cost",
+"outdoorsness",
+"spaciousness",
+"future",
+"reasoning",
+"head",
+"automobile",
+"level",
+"experiencing",
+"sufficing",
+"city",
+"daytime",
+"supporting",
+"line (of the segment or infinite variety)",
+"arc",
+"curve (any smooth path)",
+"zigzag (a polygonal pah thing)",
+"loop",
+"gifting",
+"certain-being",
+"process-undergoing",
+"flailing",
+"publicity",
+"frequency",
+"possibility",
+"sureness (probability)",
+"actuality",
+"togetherness",
+"considering",
+"parenting",
+"ease (for the target)",
+"partying",
+"foreignness",
+"concern",
+"winning",
+"storytelling",
+"continuing",
+"standing-up (posture)",
+"wholeness",
+"sentence",
+"rate",
+"caring",
+"sorting",
+"falling",
+"deal-striking",
+"water",
+"sending",
+"watching",
+"foundation-forming",
+"suggesting",
+"power (ability to enact change)",
+"testing",
+"visiting",
+"skewness",
+"returning",
+"mind",
+"office",
+"recording",
+"recalling (a fact)",
+"remembering (to do something)",
+"sharing",
+"sitting",
+"char",
+"deciding",
+"language",
+"subjecting (focusing on)",
+"dividing",
+"span (10^-3 days)",
+"breaking (physically falling apart or cracking)",
+"leisuring",
+"clearing",
+"transitioning (represents delta vector between any two states)",
+"time-distance",
+"separation",
+"color",
+"involving",
+"reaching",
+"socializing",
+"note-leaving",
+"history",
+"driving",
+"gland (node or organ)",
+"playing (a game or a sport)",
+"politicalness",
+"freedom",
+"policymaking",
+"furthering",
+"body",
+"requiring",
+"waiting",
+"generalizing",
+"up-teaming",
+"individuality",
+"fullness",
+"adding",
+"rule-placing",
+"passing",
+"numeric-value",
+"agreeing",
+"researching",
+"covering (physical)",
+"paper",
+"position (physical state other than location)",
+"computer",
+"situation",
+"doing-staff-things",
+"participating",
+"movie-making",
+"film (the original meaning - thin thanslucent surfaces)",
+"morning",
+"logging-in",
+"significance",
+"designing",
+"specialness (uniqueness)",
+"parameter",
+"lifting",
+"table (furniture)",
+"matrix (table of numbers)",
+"fraction (most/majority)",
+"random-generating",
+"disposing",
+"cutting",
+"describing",
+"availability",
+"freeness (time management)",
+"weapon",
+"child",
+"community-making",
+"particularness",
+"role-filling",
+"joining",
+"detail",
+"difference",
+"action-taking",
+"mass",
+"eating",
+"stepping (the object is what you step on or in)",
+"communicating",
+"flavor (taste)",
+"drawing",
+"blackness",
+"tanness",
+"datetime",
+"courting",
+"voice",
+"modeling",
+"patronizing (as in a customer going to a business)",
+"explaining",
+"door",
+"computational-intensity",
+"data-storing",
+"imagining",
+"pondering",
+"temperature",
+"decimal-point",
+"0",
+"1",
+"2",
+"3",
+"4",
+"5",
+"6",
+"7",
+"8",
+"9",
+"10",
+"100",
+"1000",
+"beauty (of a person)",
+"fun-having",
+"birth-giving (the physical act)",
+"activeness (not lazy)",
+"happy-feeling (the opposite of depression)",
+"killing",
+"substituting",
+"blue",
+"red",
+"green",
+"vibrancy",
+"sleeping",
+"representing",
+"insect",
+"exclusivity",
+"also",
+"implying (if-then)",
+"swimming",
+"zooming (gotta go fast)",
+"besideness (to be on the side of)",
+"sibling-being",
+"cousin-being",
+"shooting",
+"technology",
+"education",
+"book",
+"remarkability (unlikeliness)",
+"dreaming",
+"latitude (south+)",
+"longitude (east+)",
+"angle (angular difference with object being centrum)",
+"altitude (angle from horizon)",
+"bearing (counterclockwise from straight ahead with object being origin)",
+"orientation (angular position from the point of view of the object)",
+"corresponding (relating - not writing)",
+"chunk (10^4 days)",
+"season (a time of year when something is "in")",
+"spring (the season)",
+"summer",
+"imploring (using an imperative sentence)",
+"butt",
+"leg",
+"torso",
+"arm",
+"mountain",
+"acuteness (of a corner)",
+"sharpness (of an edge or blade)",
+"flying",
+"throwing",
+"intending",
+"scaling (dilating or zooming)",
+"into (usually for long/deep things)",
+"revolving",
+"mocking",
+"disease-having",
+"embarking (in the metaphorical sense; it is similar to peuzauzek but it involves more of a habitual journey than a state)",
+"structural-integrity (resistance to breaking bending or deforming)",
+"durability (resistance to breaking)",
+"strength (ability to exact force)",
+"translating",
+"standing (structurally e.g. a building)",
+"imprisoning",
+"letter (character)",
+"listing",
+"furniture",
+"science (experimentation and learning)",
+"repository (body of technical knowlege)",
+"paint",
+"mathematics",
+"art-making",
+"society",
+"air",
+"oxygen",
+"rock",
+"metal",
+"wood",
+"crystal",
+"electricity",
+"magicalness",
+"powder",
+"bit (things like gravel and cereal)",
+"freezing",
+"burning",
+"boiling",
+"emitting",
+"hitting (the action of intentionally causing a collision with something)",
+"flash (also applies to sound and other sensations)",
+"flicker (any rapid occilation)",
+"ceremony-participating",
+"extracting",
+"poison-applying",
+"cooking",
+"grain",
+"meat",
+"sugar",
+"vegetable (includes fruit)",
+"dairy",
+"milk",
+"honey",
+"egg",
+"fermenting",
+"churning",
+"spoiling",
+"bread",
+"nut (also seed)",
+"leaf",
+"fruit",
+"berry",
+"melon",
+"stem",
+"root (of a plant)",
+"flower",
+"sweetness",
+"saltiness",
+"bitterness",
+"spicyness",
+"savoriness",
+"sphere",
+"box",
+"sheet",
+"rigidity",
+"flexing",
+"shell",
+"cylinder",
+"tendril",
+"bowl",
+"tube",
+"polyhedron",
+"circle",
+"rectangle",
+"polygon",
+"zig-zag (any erratic path)",
+"desert",
+"squiggle",
+"land",
+"ocean",
+"sky",
+"domesticating",
+"primatomorpha (basically monkeys and apes plus a few other types of primate)",
+"scandentia (treeshrews)",
+"lagomorpha (rabbits, hares, pikas)",
+"rodent",
+"euliptyphla (hedgehogs, moles, shrews, and a few other rodent-like things)",
+"chiroptera (bats and flying foxes)",
+"pangolin",
+"cat",
+"dog (also describes wolves, dingoes, and foxes)",
+"bear",
+"seal (includes walruses and maybe sea lions I think?)",
+"red-panda",
+"skunk",
+"procyonidae (raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles)",
+"mustelidae (weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines)",
+"horse (includes zebras and several varieties of wild butt)",
+"tapir",
+"rhinoceros",
+"tylopoda (camels and llamas)",
+"pig",
+"chevrotain",
+"giraffe (and okapi)",
+"bovida (cattle, buffalo, antelopes, sheep, goats, etc.)",
+"pecora (basically anything with horns besides chevrotains, giraffes, and bovines)",
+"hippopotamus",
+"whale (also refers to dolphins and porpoises)",
+"armadillo",
+"anteater",
+"sloth",
+"afroinsectiphilia (golden moles, tenrecs, elephant, shrews, aardvarks, and some other things)",
+"elephant",
+"sea-cow (like manatees)",
+"hyrax (little rodent-like things)",
+"opossum",
+"shrew-oppossum (more closely related to Australia than possums)",
+"vombatiforme (koalas and wombats)",
+"phalangeriforme (possums... which are apparently different from opossums and tend to fly)",
+"macropodiforme (kangaroos and wallabies)",
+"australidelphia (besides wombats, koalas, and kangaroos)",
+"platypus",
+"echidna",
+"mammal",
+"reptile",
+"bird",
+"tuatara (a lizard-type thing)",
+"lizard",
+"snake",
+"palaeognatha (ostriches, rheas, tinamous, kiwis, cassowaries, and emus)",
+"waterfowl",
+"landfowl (chickens, turkeys, and pheasants)",
+"flamingo",
+"grebe",
+"columbimorphae (pidgeons, doves, sandgrouses, and mesites)",
+"otidae (bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds)",
+"hoatzin (some weird kind of bird)",
+"shorebird",
+"eurypygimorphae (a bunch of tropical birds)",
+"loon",
+"penguin",
+"procellariid (albatrosses and petrels)",
+"stork",
+"suliforme (boobies and cormorants and a few other things)",
+"plecaniforme (pelicans and similar things)",
+"condor (also encompasses New World vultures)",
+"secretary-bird",
+"osprey",
+"accipitridae (hawks, eagles, kites, Old World vultures, and a few other things)",
+"owl",
+"coraciimorpha (some smallish generally tree-dwelling birds)",
+"cariamiforme (it's a flightless terrestrial bird)",
+"eufalconimorpha (falcons, passerines, parrots, caracaras, and forest falcons)",
+"crocodilian (crocodiles and alligators)",
+"turtle (includes tortoises and terrapins)",
+"amphibian",
+"salientia (frogs and toads)",
+"salamander",
+"caecilian (blind legless amphibians)",
+"fish",
+"lungfish (fish that breathe air)",
+"coelacanth",
+"polypteriforme (bichirs and reedfishes or ropefishes)",
+"sturgeon",
+"paddlefish",
+"bowfin",
+"gar",
+"eel",
+"elopomorpha (ladyfishes, tarpons, and bonefishes, but not eels)",
+"freshwater-butterflyfish",
+"arowana (bonytounges)",
+"notopteroide (aba, elephantfishes, and featherfin knives)",
+"otocephala (herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras)",
+"protacanthopterygii (salmons, trouts, pikes, dragonfishes, and smelts)",
+"cusk-eel",
+"toadfish",
+"scombroide (tunas and mackerels)",
+"seahorse",
+"anglerfish",
+"pufferfish",
+"percomorpha (gobies, cichlids, flatfish, wrasse, and perches)",
+"neoteleostei (jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes)",
+"galean-shark",
+"squalomorph-shark",
+"ray (the ocean variety)",
+"invertebrate",
+"arthropod",
+"holocephali",
+"lamprey",
+"hagfish (slime-eel)",
+"ascidiacea (sea squirts)",
+"pyrosome",
+"salp",
+"doliolida",
+"larvacea",
+"cephalochordata (lancelets and branchiostomidae)",
+"hemichordate (weird ocean worm tree blobs)",
+"sealily",
+"seastar",
+"ophiuroid (think 'seastar', but less brittle)",
+"seaurchin",
+"seacucumber",
+"scalidophora (mud-dwelling tiny aquatic things)",
+"nematoid (parasitic worms FTW!)",
+"tardigrade",
+"acarus (mites and ticks)",
+"amblypygus (they look like spiders, but produce no web or venom)",
+"spider",
+"opilione (things that look like spiders)",
+"palpigrade",
+"pseudoscorpion",
+"ricinulei",
+"schizomida",
+"scorpion",
+"solifuga",
+"thelyphonid",
+"pantopod (they're like spiders but in the ocean!)",
+"horseshoe-crab",
+"centipede",
+"millipede",
+"pauropod",
+"symphalan",
+"branchiopod (a few types of shrimp)",
+"remipedia (like ocean centipede things)",
+"maxillopod (barnacles and copepods)",
+"ostracoda (seed shrimp)",
+"leptostrac",
+"mantisshrimp",
+"crab (also includes lobsters)",
+"shrimp (pretty loose descriptor of most eumalacostraca)",
+"apterygota (silverfish, firebrat, and jumping bristletails)",
+"mayfly",
+"odonatoptera (dragonflies and damselflies)",
+"paraneoptera (bugs, thrips, and lice)",
+"megaloptera (alderflies, dobsonflies, and fishflies)",
+"snakefly",
+"neuroptera (lacewings, antlions, owlflies, and more)",
+"beetle",
+"strepsiptera (twisted-wing parasites)",
+"mosquito",
+"housefly",
+"fly (in the taxonomical sense excluding mosquitos and houseflies)",
+"mecoptera (flying scorpions!)",
+"flea",
+"caddisfly",
+"lepidoptera (moths and butterflies)",
+"wasp",
+"ant",
+"bee",
+"sawfly",
+"stonefly",
+"embiidina (web-spinning insects)",
+"phasmid (stick and leaf insects)",
+"orthoptera (crickets, tatydids, grasshoppers, etc.)",
+"gladiator (it's a type of insect)",
+"zorapteran (a type of insect bug thing)",
+"cockoroach",
+"termite",
+"mantid",
+"earwig",
+"grylloblattodea (ice bus, ice crawlers, and rock crawers)",
+"entognatha (six-legged bugs that are not insects)",
+"velvetworm",
+"plankton (anything microscopic that belongs to nephrozoa)",
+"brachiopod",
+"phoronid",
+"aplacophora (shell-less molusks)",
+"chiton",
+"monoplacophora (a type of molosk)",
+"snail",
+"slug",
+"nautiloid",
+"decapodiforme (includes squid and cuttlefish)",
+"vampiresquid",
+"octopus",
+"bivalve (molusks with two valves)",
+"scaphopod (a type of molusk)",
+"beardworm (giant tube worms)",
+"leech",
+"segmented-worm (any member of annelida besides leeches and beardworms)",
+"nemertea (ribbon worms or probiscis worms)",
+"proctum (encompasses entoprocta and ectoprocta)",
+"gorgonian (sea fans and sea whips)",
+"seapens",
+"soft-coral",
+"blue-coral",
+"black-coral",
+"stony-coral",
+"corallimorpharia",
+"zoantharia",
+"anemone",
+"tube-dwelling-anemone",
+"jellyfish",
+"box-jellyfish",
+"stalked-jellyfish",
+"hydra",
+"polypodizoa (jellyfish-like parasites)",
+"parasite",
+"sponge",
+"trichoplax (real small and thin sponge-like animals)",
+"animal",
+"plant",
+"fungus",
+"eukaryote",
+"bacterum",
+"virus",
+"alga",
+"moss (any embryophyte without xyla, like liverworts and hornworts)",
+"grass",
+"fern",
+"vine",
+"tree",
+"seaweed",
+"deciduous",
+"evergreen",
+"tomato",
+"orange (fruit)",
+"lemon",
+"pomegranite",
+"lime",
+"apple",
+"banana",
+"mango",
+"pumpkin",
+"honeydew",
+"watermelon",
+"canteloupe",
+"breadfruit",
+"grapefruit",
+"dragonfruit",
+"pineapple",
+"strawberry",
+"blackberry",
+"blueberry",
+"raspberry",
+"potato",
+"taro",
+"lettuce",
+"cauliflower",
+"asparagus",
+"broccoli",
+"basil",
+"pepper",
+"alcohol",
+"spinach",
+"brussels-sprouts",
+"carrot",
+"kale",
+"onion",
+"peanut",
+"rice",
+"wheat",
+"rye",
+"bean",
+"soybean",
+"canola",
+"maize",
+"nutmeg",
+"coffee",
+"cinnamon",
+"tofu",
+"bamboo",
+"mushroom",
+"mold",
+"bracket-fungus",
+"lichen",
+"spam",
+"chocolate",
+"wound-suffering",
+"summoning",
+"politeness",
+"fame",
+"element (water, earth, fire, air, etc.)",
+"slicing",
+"claw (of the sharp variety)",
+"stabbing (puncturing)",
+"bewaring",
+"sex-having",
+"angry-feeling",
+"fearing",
+"clustering (being physically nearby)",
+"prone-lying",
+"floor",
+"wall",
+"ceiling",
+"hole",
+"controlling",
+"engineering (solving technical problems)",
+"entrepreneurship (solving large-scale problems)",
+"appeal (of a picture, sound, etc.)",
+"big-pictureness",
+"ink",
+"string",
+"jungle",
+"conquering",
+"dear-holding",
+"cosmos",
+"jumping",
+"rebelling",
+"continent",
+"cleanliness",
+"toiletries",
+"transforming",
+"attacking (a sudden violent engagement)",
+"violence",
+"opposing (competing with)",
+"striking (a swift decisive action)",
+"basing (operations and such)",
+"hiding",
+"penis",
+"vagina",
+"breasts",
+"sexual-attracting",
+"avoiding",
+"wondering",
+"gunpowder",
+"consenting",
+"freshness",
+"urine",
+"feces",
+"medicine",
+"burying",
+"forward-to-looking",
+"striving (toward a goal)",
+"purity",
+"entertaining (as in a movie, play, or skit)",
+"tolerating",
+"attention-paying",
+"code-writing (programming)",
+"wearing-and-tearing",
+"resisting",
+"downstreamness (combine it with `tius` to get 'flowing')",
+"cloud",
+"polluting",
+"weather (atmosphere)",
+"floating",
+"parsing (interpreting information recorded in a physical object)",
+"waving (a hand or a flag)",
+"gesturing",
+"health",
+"meme",
+"internet",
+"self",
+"fance",
+"locking",
+"living (as in living a life)",
+"expertness (a person who is not a layperson)",
+"obviousness",
+"talking (forming words with one's voice)",
+"literalness",
+"technicality",
+"sesquipedalianness",
+"lying (deceiving)",
+"physicality (describes things in the physical realm)",
+"secret-keeping",
+"meaning (big-picture meaning of things)",
+"existing",
+"name",
+"robot (anything with automated actuation)",
+"picture",
+"topography (geography)",
+"humidity",
+"replacing",
+"printing (converting a digital object into a real one)",
+"virtuality (digitalness)",
+"sentient-being",
+"intoxication (applies to alcohol as well as other drugs)",
+"marriage",
+"pleasure-feeling (basic euphoria from food, music, or sex)",
+"pride-feeling (the happiness associated with feeling like a productive member of society)",
+"amusingness (the object is the person amused)",
+"satisfyingness (the good feeling produced by snapping parts together or popping bubble wrap)",
+"apprehension-feeling (hesitative reaction to decisions)",
+"dimensionality (i.e. 2D or 3D)",
+"functioning (doing what one is supposed to)",
+"perusing",
+"rapidity (of communication; the idea with this word is to distinguish rapid SMS texting from unrapid email)",
+"to-pee-having",
+"disgustingness",
+"spoken-language (combining this with active-perceiving means listening or compehending)",
+"knowledge (the quality of knowing a lot of facts)",
+"smartness (the quality of understanding a lot of abstract concepts)",
+"wisdom",
+"cleverness (the innate ability to solve riddles and puzzles)",
+"charisma",
+"whispering (speaking without voicing vowels or consonants)",
+"disk (a place where a computer stores information)",
+"to-and-fro (compounded with a word that has a positive direction to refer to both directions (so you can say eiogozi instead of oziiatozi or iatoziozi or something dumb like that))",
+"preparing (as in food)",
+"sympathyzing",
+"challenging",
+"computing",
+"wiseness (of a decision)",
+"pushing",
+"voicing (concern, gratitude, sorriness, etc.)",
+"admiring",
+"approving",
+"expecting",
+"thinking (conciously deciding that a fact is true; contrast with "believing")",
+"loading (specifically for computers)",
+"screening (projecting or rendering images onto a surface)",
+"remotely-controling",
+"procrastinating",
+"ladder",
+"roughness",
+"softness (tendency to conform shape)",
+"give (tendency to bend and then spring back)",
+"viscocity",
+"class (the quality of being expensive and unneccesary)",
+"positive-sentiment-holding",
+"congratulating",
+"sarcasm",
+"after-naming",
