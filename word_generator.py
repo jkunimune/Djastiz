@@ -4,10 +4,10 @@ import os
 import random
 
 
-CONSONANTS = [{'k','t','p'},{'g','d','b'}, {'h','th','f'},{'y','dh','v'}, {'ng','n','m'}, {'sh','ss','s'},{'zh','j','z'}, {'l'}]
-VOWELS = [{'e','a','o'}, {'i','r','u'}]
+CONSONANTS = [{'k','t','p'},{'g','d','b'}, {'h','th','f'},{'y','dh','v'}, {'ng','n','m'}, {'ss','sh','s'},{'j','zh','z'}]
+VOWELS = [{'a','e','o'}, {'r','i','u','l'}]
 
-VALID_CHAINS = [[5,7], [6,7], [7], [4,7], [], [0,4,7], [4,7], []]
+VALID_CHAINS = [[5], [6], [], [4], [], [0,4], [4]]
 
 
 def random_choice(s):
@@ -38,61 +38,65 @@ def length(word):
 	return len(word.replace('th',' ').replace('dh',' ').replace('sh',' ').replace('zh',' ').replace('ng',' ').replace('ss',' '))
 
 
-def new_consonant_group(l_allowed=0):
-	""" generate a string of CONSONANTS that make a single sound together
-		l_allowed is 0 if 'l' is not allowed at all, 1 if 'l' is always allowed, and -1 if 'l' is allowed, but only if it's alone"""
-	if l_allowed != 0:
-		row = random.randrange(0,len(CONSONANTS))
-	else:
-		row = random.randrange(0,len(CONSONANTS)-1)
+def new_consonant_group():
+	""" generate a string of CONSONANTS that make a single sound together"""
+	row = random.randrange(0,len(CONSONANTS))
 	group = random_choice(CONSONANTS[row])
-	if VALID_CHAINS[row] and random.random() < .4:
+	if VALID_CHAINS[row] and random.random() < .3:
 		row = random_choice(VALID_CHAINS[row])
-		if row != 7 or (l_allowed == 1 and group not in ('t','d','h','y')):
-			group += random_choice(CONSONANTS[row])
+		group += random_choice(CONSONANTS[row])
 	return group
 
 
-def new_strong_vowel(previous=''):
+def new_strong_vowel(previous='', l_allowed=False):
 	"""choose a consonant-like vowel that fits here"""
-	if previous.endswith('sh'):
-		return 'i'
-	elif previous.endswith('ss'):
-		return 'r'
-	elif previous.endswith('s') or previous.endswith('d') or previous.endswith('t'):
-		return 'u'
-	else:
-		return random_choice(VOWELS[1])
+	possibilities = VOWELS[1]
+	if previous[-1:] in VOWELS[1]:
+		possibilities = possibilities - {previous[-1:]} #apparently "a-=b" in Python is _not_ equivalent to "a=a-b".
+	elif previous.endswith('ss') or previous.endswith('j'):
+		possibilities = possibilities - {'i', 'u'} #because you know. It's not like that's exactly what that means or anything
+	elif previous.endswith('sh') or previous.endswith('zh'):
+		possibilities = possibilities - {'r', 'u'}
+	elif previous.endswith('s') or previous.endswith('z'):
+		possibilities = possibilities - {'r', 'i'}
+	elif previous.endswith('d') or previous.endswith('t'):
+		possibilities = possibilities - {'r', 'i', 'l'}
+	if not l_allowed or previous.endswith('h') or previous.endswith('y'):
+		possibilities = possibilities - {'l'}
+	return random_choice(possibilities)
 
 
 def new_vowel_group(previous=''):
 	"""generate 1-2 VOWELS that make a single sound together"""
-	last_letter = {previous[-1:]}
+	last_letter = previous[-1:]
 	if random.random() < .2:
-		return random_choice(VOWELS[0]) + random_choice(VOWELS[1]-last_letter)
+		return random_choice(VOWELS[0]) + random_choice(VOWELS[1])
 	else:
-		return random_choice(VOWELS[0]|VOWELS[1]-last_letter)
+		return random_choice(VOWELS[0]|VOWELS[1]-{'l'}-{last_letter}) #l cannot be a standalone vowel, nor may the vowel repeat the last letter
 
 
 def new_word(num_syl):
 	"""generate a random word with num_syl syllables"""
 	if random.random() < .7:
-		word = new_consonant_group(l_allowed=0)
+		word = new_consonant_group()
 	else:
 		word = ''
 	if random.random() < .3:
-		word += new_strong_vowel(word)
+		word += new_strong_vowel(word, l_allowed=False)
 	word += new_vowel_group(word)
 
 	for i in range(num_syl-1):
-		if random.random() < .8:
-			word += new_consonant_group(l_allowed=1)
+		if random.random() < .5:
+			word += new_consonant_group()
+		elif random.random() < .8:
+			word += new_strong_vowel(word, l_allowed=True)
 		else:
-			word += new_strong_vowel()
+			word += new_consonant_group()
+			word += new_strong_vowel(word, l_allowed=True)
 		word += new_vowel_group(word)
 
 	if random.random() < .7:
-		word += new_consonant_group(l_allowed=-1)
+		word += new_consonant_group()
 	return word
 
 
