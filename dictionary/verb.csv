@@ -1,649 +1,649 @@
-"excuse",vngi
-"sorry",sskrs
-"be (this is ==, not .equals())",iu
-"do",sa
-"exist",ssr
-"happen",si
-"become (the act of a state transitioning from falsehood to truth; often used in compound words with states)",da
-"unbecome (the act of a state ceasing to be true; often used in compound words with states)",if
-"start",zr
-"end",bu
-"begin",ngr
-"end (stop happening)",ij
-"prosper",it
-"quantity (number or amount)",de
-"scarcity (opposite of quantity)",ik
-"outside (large distance from center)",ui
-"inside (small distance from center)",ezh
-"posses",ath
-"say (use a declarative sentence)",ri
-"tell (use an imperative sentence)",op
-"ask (use an interrogative sentence)",eth
-"go (from one place to another)",ye
-"relate (to a topic)",rz
-"be able",edh
-"know (to believe that something is true with certainty and be right)",rm
-"believe (accepting a fact on a subconcious level; contrast with ""think"")",oh
-"think (conciously deciding that a fact is true; contrast with ""believe"")",esh
-"disbelieve (have a negative reaction to an idea)",je
-"like",ko
-"dislike",oj
-"create",odh
-"length (distance)",sso
-"shortness (distance)",am
-"force (impose one's will to make something be true)",fo
-"cause",iv
-"active-perceive (look or listen or sniff)",se
-"passive-perceive (see or hear or smell)",sse
-"toward (creates compound words with states to convert them to transitions)",ith
-"exceed (the subject exceeds the reciprocator in the object)",og
-"equal (the subject matches the reciprocator in the object)",thi
-"lessness (the subject does not exceed or match the reciprocator in the object)",ez
-"morality",ey
-"immorality",bi
-"skillfulness",ve
-"suckiness (unskillfulness)",gi
-"aptitude (fitting a situation well)",az
-"mismatch (failing to fit a situation well)",as
-"effectiveness",ru
-"ineffectiveness",pe
-"give",nu
-"take",rss
-"working (doing work or being productive)",om
-"using",ab
-"brightness",hr
-"darkness",thr
-"appear",uzh
-"disappear",iss
-"want",uth
-"unwant (actively not want an object)",ash
-"allow (giving permission)",rv
-"willingness",ue
-"aversion (to a task)",br
-"index (order in a list)",ir
-"age",ua
-"youth",or
-"follow (a path)",es
-"lead",uo
-"find",ag
-"misplace (lose an object)",zi
-"recommend",uk
-"need",ush
-"lateness (+t)",
-"earliness (-t)",
-"depth (-z)",zhe
-"height (+z)",eg
-"right (+x)",sho
-"left (-x)",ie
-"forwardness (+y)",in
-"rearwardness (-y)",do
-"correctness",pi
-"denote (meaning in terms of word definitions)",nga
-"next (to be next in an order)",av
-"persist",dho
-"quit (give up)",ji
-"truthiness",fe
-"attention-try (e.g. yelling at someone or flashing bright colors)",ug
-"hide",eng
-"call (digital)",jo
-"kinship",rj
-"spending-time (with someone)",tho
-"throughness",rd
-"show",on
-"liveniness (be alive)",gr
-"death",ot
-"neutered-or-spayed",rn
-"change",zhr
-"constancy (stay the same)",idh
-"clothedness",ei
-"move (around but not necessarily with a direction)",uj
-"jostle (moving in place)",za
-"stillness",rp
-"betweenness",ngo
-"sense",ge
-"obliviousness",osh
-"write (etching symbols into something; recording something in a physical object; saving a file)",of
-"read (deriving meaning from a physical object; loading a file; contrast with ""written-language"" and ""active-perceive"", which together mean more specifically reading text)",ja
-"size",ish
-"smallness",vu
-"attempt (try)",ni
-"undo",uy
-"succeed",ass
-"fail",hu
-"abandon",ol
-"assign",dhu
-"own",ak
-"comprise",go
-"point-gesture",ssi
-"help",aj
-"hinder",ar
-"rescue",tr
-"meet",ej
-"salutate",id
-"goodbye-say",um
-"initiate",ut
-"interestingness",dha
-"boringness",nr
-"learn",hi
-"timeliness (for meetings and such, or habitually)",vr
-"tardiness (for meetings and such, or habitually)",pr
-"activate",te
-"music-make (an instrument)",ob
-"goof (off)",oz
-"might (possibly happen)",zhu
-"include",ga
-"reside (as in at an address or in a house)",dhr
-"report",uz
-"truth-tell",up
-"lie (deceive)",rs
-"group (associating with one another)",udh
-"surround",uf
-"attack",ok
-"defend",zhi
-"seem",rk
-"repeat",is
-"niceness",ke
-"meanness",ya
-"politeness",et
-"rudeness",rsh
-"categorize (be in a category)",ju
-"systemize (be part of a system)",tha
-"keep",ep
-"obey",po
-"contain",dr
-"study (a subject)",er
-"trail (a person or thing)",no
-"importance",en
-"unimportance",adh
-"primarity (refers to generally being main or central)",dhe
-"fringity (refers to being secondary or minor)",ai
-"notoriety",ed
-"obscurity",ta
-"walk",rt
-"run",to
-"traverse (typically compounded to make things like ""swim"", ""climb"", ""gallop"", etc.",ev
-"rotate (about the object)",ay
-"hand-off (exchange object via hands)",rb
-"speed",ov
-"slowness",zu
-"befriend (the state of being friends)",ssa
-"openness",af
-"closedness",em
-"govern",iy
-"organize-oneself",hurb
-"problem (to pose a challenge, but not necessarily in a bad way)",zhiel
-"construct",gje
-"hold",iuksh
-"service",thugzh
-"sell",rks
-"buy",kshie
-"romantic-love",pizhng
-"platonic-love",nop
-"employ",vno
-"plan",psse
-"distance",ssrdh
-"nearness",uad
-"example-pose",keudh
-"angle (angular distance with object being centrum)",oudh
-"acuteness (angular closeness with object being centrum)",ual
-"business-openness (can refer to activity in general)",thebj
-"business-closedness (can refer to dormancy in general)",uek
-"understand",hizh
-"gratitude",erv
-"malice",ueis
-"hope",ury
-"cost",shoz
-"outdoorsness",djath
-"indoorsness",dussn
-"spaciousness",jrud
-"crampedness",iel
-"reason",maj
-"craze (act erratically or illogically; does not necessarily refer to mental illness)",nopss
-"level (general discrete measure of progress)",snod
-"experience",esm
-"sentience (I'm not going to try to define it here; I have a definition, but it cannot be put into words)",fok
-"suffice",pru
-"expectation-exceed",tued
-"precipitate",ueth
-"gust (windiness)",bess
-"smite (lightning strike)",shal
-"support",ngaip
-"oppose",thass
-"gift",kaj
-"undergo (a process)",gioj
-"flail",rass
-"publicity (being exposed to others)",zhioth
-"privacy (being concealed or sheltered from the world)",dhing
-"sector-publicity (being in the public sector)",ietss
-"sector-privacy (being in the private sector)",ksrn
-"frequency",boish
-"infrequency",thin
-"pitch",zhna
-"sonority (lowness of pitch)",ngess
-"unstable (diminished chord or scale)",ran
-"stable (satisfying chord or scale)",hot
-"possibility",znu
-"sureness (Bayesian probability)",vre
-"skepticality",fam
-"togetherness (working as a team)",sherz
-"separation (individuality)",nuiy
-"consider",mrssm
-"parent (raise)",hazh
-"ease (of the subject for the target)",zhmuj
-"difficulty (of the subject for the target)",hudhng
-"party",thon
-"foreignness",nak
-"locality",ordh
-"concern",zhrdh
-"reassure",sij
-"win",madh
-"lose (a contest)",mri
-"storytell",hror
-"continue",shpo
-"cease",zem
-"stand-up (posture)",thed
-"sit",vuof
-"prone-lie",thuo
-"wholeness",ssub
-"piecewiseness",iayng
-"convert (as in a rate or ratio)",boh
-"care (believe that something merits concern on a subconcious level; contrast with ""deem-important"")",gja
-"deem-important (think that something is worthy of concern and act as such; contrast with ""care"")",ssta
-"care-take",theb
-"sort",krus
-"randomize",goi
-"fall",dhelsh
-"deal-strike",yen
-"send",nua
-"recept (receive something sent, not something given)",nim
-"watch",hui
-"foundation-form",euz
-"off-build",tou
-"suggest",vnrp
-"power (ability to enact change)",ving
-"inability (to enact change)",jnel
-"test",nort
-"visit",pshu
-"orthogonality (straightness, evenness)",frh
-"skewness",baj
-"return",vngosh
-"mind",bing
-"bureaucrate (be a bureaucrat in a bureaucracy)",tshaz
-"record",urh
-"recall (a fact)",ngalf
-"forget (a fact)",reuf
-"remember (to do something)",keith
-"share",kabzh
-"hog",ssra
-"decide",van
-"subject (focus on)",shio
-"ignore",ubzh
-"divide",thef
-"combine",naij
-"break (physically falling apart or cracking)",nrum
-"leisure",naz
-"fill (target with object)",tath
-"clear",taf
-"transition (represents delta vector between any two states)",ritss
-"time-distance",yuad
-"redness (stimulation of L cones)",nuov
-"cyanness (stimulation of M and S cones)",eug
-"greenness (stimulation of M cones)",juh
-"magentaness (stimulation of L and S cones)",yeiv
-"blueness (stimulation of S cones)",mam
-"yellowness (stimulation of L and M cones)",tssig
-"hue (expressed colloquially as a color name, not an angle)",rask
-"lightness (value of color)",fih
-"shade (darkness of color)",nioj
-"chroma (saturation of color)",iuzh
-"desaturation (blandness of color)",bozh
-"warmth (of a color)",fah
-"coolness (of a color)",zhiei
-"whiteness (for egshell, cream, etc.)",uip
-"blackness (for jet, onyx, etc.)",mirt
-"opacity",smro
-"transparency",nah
-"color (amount is a color value, not a number)",gak
-"involve",frth
-"reach",trt
-"sociality (amount of socialization)",vir
-"isolation (socially)",fog
-"note-leave",grep
-"drive",thioz
-"ride",muy
-"play (a game or a sport)",heh
-"freedom",srng
-"legislate",alt
-"further (a goal or agenda)",uits
-"rescind (progress to a goal or agenda)",zob
-"require",ouk
-"wait",nolg
-"generalize",sua
-"team-up",bjosh
-"split-up",bun
-"individuality",fol
-"fullness",gzas
-"emptiness",igj
-"add",suth
-"remove",kirt
-"rule-place",nre
-"violate (a rule)",ssto
-"pass (go nearby something)",yro
-"numeric-value",yeu
-"numeric-smallness",vian
-"agree",hrb
-"disagree",beg
-"research",alp
-"cover (physical)",shtij
-"be-in (a situation)",suai
-"staff (provide support in a manner not directly related to the main thing)",fuo
-"participate",ngak
-"cinematograph",morv
-"log-in",pezh
-"log-out",kezhn
-"significance",oshk
-"insignificance",yuy
-"design",seth
-"specialness (uniqueness)",jeg
-"normality (ununiqueness)",yne
-"lift",nrn
-"table (furniture)",gazm
-"matrix (table of numbers)",rissng
-fraction (most/majority),norn
-"random-generate",jaup
-"dispose",thakss
-"cut",mash
-"describe",you
-"availability",gioz
-"freeness (time management)",auth
-"community-make",gzho
-"particularness",viry
-"role-fill",vnoth
-"join (a group)",tur
-"differ",ngath
-"action-take (the object is the action)",giz
-"mass",ngelk
-"eat",djad
-"regurgitate",ngon
-"step (the object is what you step on or in)",aim
-"communicate",dhrer
-"draw",uam
-"tanness (skin-color)",rah
-"fairness (skin-color)",vrk
-"datetime (like ""time"", but more numeric and detail-oriented)",ngissk
-"model (make an image of something)",sngud
-"court (date)",vib
-"patronize (as in a customer going to a business)",tuizh
-"explain",murn
-"lead-to (be a door; subject is door, object is thing on this side, target is thing on other side)",guag
-"wall-off (be a wall; subject is wall, object is thing on this side, target is thing on other side)",gip
-"computational-intensity",sah
-"computational-ease",pudh
-"imagine",hrzhm
-"think-of (come up with an idea)",durdh
-"ponder (a subject)",dzhuv
-"compute (a number or something)",pon
-"temperature",shol
-"coldness",gadh
-"beauty (of a person)",zhuks
-"ugliness (of a person)",muth
-"fun-have",ojn
-"birth-give (the physical act)",dhuj
-"kill",ngoiy
-"activeness (not lazy)",zhmung
-"laziness",asp
-"feel (an emotion or feeling)",shieth
-"apathy",thrsng
-"shame",rdhm
-"disgust",ots
-"fear",due
-"joy",orf
-"sadness",shier
-"surprise",elm
-"anger",yney
-"anticipation (like ""forward-to-look"", but not necessarily positive)",frzh
-"excitement",dhurdh
-"boredom",nuei
-"fatigue",nrav
-"anxiety",zhah
-"satisfaction",vosht
-"sleepiness",ymeng
-"hunger (for food, sex, etc.)",ssod
-"pleasure (basic euphoria from food, music, or sex)",thra
-"pride (the happiness associated with feeling like a productive member of society)",jrj
-"amusement",kuzh
-"satisfyingness (the good feeling produced by snapping parts together or popping bubble wrap)",ujm
-"schadenfreude",bzhrs
-"nostalgia",hiop
-"awe",krssn
-"courage",vung
-"curiosity",gzhio
-"terror (the brief reaction to jump-scares that comes before actual fear or annoyance)",dup
-"apprehension (hesitative reaction to decisions)",tueh
-"worry",mie
-"trouble (cause someone troubled feelings)",nozh
-"puzzle (present someone with confusion)",reg
-"substitute",uedh
-"vibrancy (diversity of color)",bjep
-"sleep",zaish
-"represent",mue
-"insert",vngif
-"exclusivity",tuek
-"also-happen (describes things that happen in tandem)",zavm
-"imply (if-then)",hou
-"zoom (gotta go fast)",ngih
-"besideness (to be on the side of)",marg
-"sibling-be",grn
-"cousin-be",odhm
-"shoot (a projectile at something)",eush
-"invent",ojng
-"get-educated",kiuh
-"likeliness (P-value)",ruy
-"remarkability (unlikeliness)",ssorj
-"hallucinate (dream)",odhn
-"easternness",uod
-"westernness",thoiss
-"southernness",vneu
-"northernness",ngia
-"zenith (angle down from azimuth; distance down page)",zit
-"elevation (angle from horizon; height on page)",vab
-"bearing (clockwise from straight ahead with object being origin)",jop
-"antibearing (widdershins from straight ahead with object being origin)",duo
-"clockwiseness (angular orientation from the point of view of the object)",huodh
-"widdershinsness (angular orientation from the point of view of the object)",urzh
-"correspond (relating - not writing)",thrass
-"in-season (a time of year when something is ""in"")",hedj
-"sharpness (of an edge or blade)",shirng
-"throw",hiuy
-"intend",yeg
-"dilate (an image)",egj
-"compress (an image)",besh
-into-ness (usually for long/deep things),iuk
-outof-ness (usually for long/deep things),jiss
-"revolve",dai
-"mock",olh
-"disease-have",uazh
-"embark (in the metaphorical sense)",skr
-"finish (a long habitual journey)",vngu
-"structural-integrity (resistance to breaking bending or deforming)",fiuth
-"brittleness (tendency to shatter when force is applied, without bending)",tuo
-"flexibility (tendency to bend when force is applied)",kssra
-"firmness (tendency to hold shape)",tharp
-"durability (resistance to breaking)",shry
-"fragility (tendency to break)",ssrod
-"strength (ability to exact force)",ksseth
-"weakness (inability to exact force)",jah
-"dexterity",fuoj
-"undexterity",jivng
-"charisma",kshio
-"awkwardness (as a character trait)",dhash
-"translate",vaf
-"stand (structurally e.g. a building)",gzur
-"imprison",jngom
-"list",zur
-"furnish (as in furniture)",ngua
-"science (experimentation and learning; yes, this is a verb)",turv
-"engineer (solve technical problems)",fob
-"entrepreneur (solve large-scale problems)",dhneng
-"paint",shni
-"art-make",pin
-"magicalness",tun
-"freeze",nruh
-"burn",rerd
-"boil",bie
-"emit",nuss
-"hit (intentionally cause a collision with something)",halb
-"flash (quickly emit bright light; also applies to sound and other sensations)",gej
-"amplitude (brightness; volume; strength)",fou
-"quietness (dimness; softness; faintness)",ars
-"flicker (any rapid oscillation)",mrob
-"ceremony-participate",gier
-"extract",shirv
-"cook (boil; steam; broil; marinate; grill; smoke; bake; toast; microwave)",both
-"wound-suffer",arbz
-"summon",kiz
-"dismiss",veh
-"fame",aub
-"obscurity",pik
-"slice",firss
-"stab (puncturing)",shiej
-"beware",zhngeh
-"sex-have",nguon
-"cluster (being physically nearby)",vazh
-"control",orkss
-"appeal (of a picture, sound, etc.)",fief
-"unappeal (of a picture, sound, etc.)",aup
-"big-pictureness",thing
-"detail-orientation",jig
-"conquer",vrt
-"hold-dear",ssok
-"jump",iezh
-"rebel",jidh
-"cleanliness",ymot
-"griminess",djr
-"tidiness",thuh
-"messiness",iavm
-"transform",rerh
-"attack (a sudden violent engagement)",kuz
-"violence (physical violence)",gars
-"oppose (compete with)",bzoth
-"strike (a swift decisive action)",grdh
-"base (operations and such)",shuth
-"penis",noy
-"vagina",zham
-"breasts",znue
-"sexually-attract",ssnu
-"avoid",geuth
-"wonder",sskuo
-"consent",ssog
-"freshness",tuob
-"mustiness",uaf
-"rot",biuf
-"dispose-of",djra
-"poison-apply",vrik
-"medicate (tend-to; treat; doctor)",zhoz
-"bury",youv
-"exhume (uncover)",old
-"forward-to-look (like ""anticipation"", but necessarily positive)",yod
-"strive (toward a goal)",zheng
-"purity",fuib
-"taintedness",zhog
-"entertain (as in a movie, play, or skit)",dhnif
-"tolerate",uon
-"attention-pay",thaing
-"code-write (program)",barv
-"wear-and-tear (gradually sustain minor damage)",yoith
-"resist",bjass
-"give-in",iam
-"downstreamness (combine it with ""derivative"" to get ""flow"")",zhuth
-"cloud",dhoj
-"pollute",reu
-"act (behave as though the object is true; do things in a certain manner)",ngun
-"float",arsh
-"sink",iah
-"encode",koh
-"parse (interpret information encoded somehow)",nosh
-"wave (a hand or a flag)",ngid
-"gesture",irng
-"health",tad
-"illness",fel
-"internet",shpih
-"fance",yuar
-"lameness (the slangy definition, not the disability one)",iauth
-"lock",iuy
-"unlock",kuoz
-"live (as in living a life)",hro
-"expertness (a person who is not a layperson)",thong
-"mediocrity (being a layperson)",fir
-"obviousness",tshu
-"crypticness",shpe
-"literalness",zhium
-"technicality",iuss
-"sesquipedalianness",erk
-"physicality (describes things in the physical realm)",znon
-"secret-keep",tiss
-"secret-share",irss
-"meaning (big-picture meaning of things)",dhnov
-"existing",jel
-"name",zme
-"humidity",fusp
-"unhumidity",hoi
-"replace",kiar
-"print (converting a digital object into a real one)",shmid
-"transcribe",drgzh
-"virtuality (digitalness)",gjro
-"sentient-being",thoj
-"intoxication (applies to alcohol as well as other drugs)",thio
-"sobriety",thav
-"marry",zoung
-"dimensionality (i.e. 2D or 3D)",snrv
-"function (do what one is supposed to)",dzhuf
-"peruse",rdhn
-"rapidity (of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email)",sngen
-"lethargy (of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting)",dhushn
-"bladder-fullness (the feeling of having to pee)",vet
-"knowledge (the quality of knowing a lot of facts)",niay
-"ignorance (the quality of not knowing a lot of facts)",aip
-"smartness (the quality of understanding a lot of abstract concepts)",riym
-"dumbness (the quality of not understanding many abstract concepts)",dhovn
-"cleverness (the innate ability to solve riddles and puzzles)",uishk
-"stupidity (the innate inability to solve riddles and puzzles)",gop
-"intelligence (the innate ability to grasp a subject or concept)",bra
-"unintelligence (the innate inability to grasp a subject or concept)",pshuth
-stupidity (https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382),ngalj
-"wisdom",zath
-"foolishness",dun
-"whisper (speaking without voicing vowels or consonants)",jnip
-"shout (raise one's voice)",mia
-"prepare (as in food)",mirsh
-"sympathize",rzng
-"challenge",ieuss
-"wiseness (of a decision)",seksh
-"ill-informedness (of a decision)",desh
-"push",piy
-"pull",dhrn
-"voice (concern, gratitude, sorriness, etc.)",sur
-"admire",ssruzh
-"approve",sry
-"expect",des
-"screen (projecting or rendering images onto a surface)",alzh
-"remotely-control",ngrj
-"procrastinate",erth
-"roughness",srshng
-"smoothness",nauth
-"softness (tendency to conform shape)",teuth
-"elasticity (tendency to bend and then spring back)",trks
-"viscocity",thar
-"class (the quality of being expensive and unneccesary)",ssre
-"practicality",uoj
-"positive-sentiment",rashng
-"negative-sentiment",ssess
-"congratulate",ged
-"sarcasm",jre
-"after-name",iuth
-"nationality (subject is citizen, object is nation/tribe/clan, like Kurdistan or Tibet)",shie
-"citizenship (subject is citizen, object is state/sovereign/polity, like India or The Vatican)",ist
-"liberalness",buing
-"conservativeness",oug
-"maturity",dhog
-"have-faith",kian
+excuse,thez
+"sorry",nuem
+"be (this is ==, not .equals())",ro
+"do",ep
+"exist",ud
+"happen",ri
+"become (the act of a state transitioning from falsehood to truth; often used in compound words with states)",ing
+"unbecome (the act of a state ceasing to be true; often used in compound words with states)",um
+"start",ju
+"end",oz
+"begin",ah
+"end (stop happening)",up
+"prosper",ak
+"quantity (number or amount)",idh
+"scarcity (opposite of quantity)",ag
+"outside (large distance from center)",ek
+"inside (small distance from center)",no
+"posses",oh
+"say (use a declarative sentence)",uz
+"tell (use an imperative sentence)",of
+"ask (use an interrogative sentence)",es
+"go (from one place to another)",se
+"relate (to a topic)",sso
+"be able",rv
+"know (to believe that something is true with certainty and be right)",ui
+"believe (accepting a fact on a subconcious level; contrast with ""think"")",an
+"think (conciously deciding that a fact is true; contrast with ""believe"")",ur
+"disbelieve (have a negative reaction to an idea)",vu
+"like",en
+"dislike",rp
+"create",hi
+"length (distance)",at
+"shortness (distance)",ngr
+"force (impose one's will to make something be true)",uth
+"cause",sr
+"active-perceive (look or listen or sniff)",ash
+"passive-perceive (see or hear or smell)",br
+"toward (creates compound words with states to convert them to transitions)",zr
+"exceed (the subject exceeds the reciprocator in the object)",ut
+"equal (the subject matches the reciprocator in the object)",ra
+"lessness (the subject does not exceed or match the reciprocator in the object)",is
+"morality",iss
+"immorality",di
+"skillfulness",ngi
+"suckiness (unskillfulness)",rf
+"aptitude (fitting a situation well)",so
+"mismatch (failing to fit a situation well)",oy
+"effectiveness",edh
+"ineffectiveness",vr
+"give",ga
+"take",op
+"working (doing work or being productive)",uv
+"using",rb
+"brightness",uy
+"darkness",zi
+"appear",eg
+"disappear",nge
+"want",rth
+"unwant (actively not want an object)",ta
+"allow (giving permission)",dho
+"willingness",em
+"aversion (to a task)",ush
+"index (order in a list)",on
+"age",zhu
+"youth",ha
+"follow (a path)",pe
+"lead",om
+"find",it
+"misplace (lose an object)",esh
+"recommend",eu
+"need",izh
+"lateness (+t)",rs
+"earliness (-t)",ngo
+"depth (-z)",ess
+"height (+z)",rd
+"right (+x)",iv
+"left (-x)",na
+"forwardness (+y)",og
+"rearwardness (-y)",am
+"correctness",nu
+"denote (meaning in terms of word definitions)",eth
+"next (to be next in an order)",ass
+"persist",ru
+"quit (give up)",thi
+"truthiness",ap
+"attention-try (e.g. yelling at someone or flashing bright colors)",oi
+"hide",ez
+"call (digital)",ssi
+"kinship",ti
+"spending-time (with someone)",rj
+"throughness",ua
+"show",to
+"liveniness (be alive)",azh
+"death",sse
+"neutered-or-spayed",tha
+"change",rg
+"constancy (stay the same)",ie
+"clothedness",nr
+"move (around but not necessarily with a direction)",bo
+"jostle (moving in place)",us
+"stillness",uzh
+"betweenness",rsh
+"sense",ith
+"obliviousness",tr
+"write (etching symbols into something; recording something in a physical object; saving a file)",pi
+"read (deriving meaning from a physical object; loading a file; contrast with ""written-language"" and ""active-perceive"", which together mean more specifically reading text)",the
+"size",yo
+"smallness",gi
+"attempt (try)",hr
+"undo",ezh
+"succeed",dr
+"fail",zhe
+"abandon",in
+"assign",ik
+"own",te
+"comprise",zo
+"point-gesture",uk
+"help",ih
+"hinder",ej
+"rescue",ye
+"meet",ba
+"salutate",rt
+"goodbye-say",ov
+"initiate",ke
+"interestingness",du
+"boringness",ub
+"learn",do
+"timeliness (for meetings and such, or habitually)",ad
+"tardiness (for meetings and such, or habitually)",udh
+"activate",rss
+"music-make (an instrument)",eb
+"goof (off)",je
+"might (possibly happen)",uh
+"include",ish
+"reside (as in at an address or in a house)",af
+"report",kru
+"truth-tell",ots
+"lie (deceive)",nof
+"group (associating with one another)",jol
+"surround",tong
+"attack",yiak
+"defend",merf
+"seem",jry
+"repeat",sprth
+"niceness",pizh
+"meanness",thel
+"politeness",jadh
+"rudeness",thouz
+"categorize (be in a category)",bioth
+"systemize (be part of a system)",halj
+"keep",uam
+"obey",erng
+"contain",ueib
+"study (a subject)",nued
+"trail (a person or thing)",jrs
+"importance",koup
+"unimportance",zhiad
+"primarity (refers to generally being main or central)",firg
+"fringity (refers to being secondary or minor)",pen
+"notoriety",ordh
+"obscurity",rozh
+"walk",dhan
+"run",ssrof
+"traverse (typically compounded to make things like ""swim"", ""climb"", ""gallop"", etc.",ngud
+"rotate (about the object)",rey
+"hand-off (exchange object via hands)",zuh
+"speed",vong
+"slowness",iuss
+"befriend (the state of being friends)",vuth
+"openness",yuai
+"closedness",ngoim
+"govern",uerk
+"organize-oneself",iang
+"problem (to pose a challenge, but not necessarily in a bad way)",kuh
+"construct",yarzh
+"hold",rpss
+"service",gorzh
+"sell",nguz
+"buy",foz
+"romantic-love",hiol
+"platonic-love",gith
+"employ",gim
+"plan",rih
+"distance",mung
+"nearness",fraj
+"example-pose",raun
+"angle (angular distance with object being centrum)",irv
+"acuteness (angular closeness with object being centrum)",hioss
+"business-openness (can refer to activity in general)",mrss
+"business-closedness (can refer to dormancy in general)",oibj
+"understand",fei
+"gratitude",mosh
+"malice",zeib
+"hope",daung
+"cost",duj
+"outdoorsness",yikss
+"indoorsness",frey
+"spaciousness",kom
+"crampedness",zhiu
+"reason",shtep
+"craze (act erratically or illogically; does not necessarily refer to mental illness)",thoub
+"level (general discrete measure of progress)",zrng
+"experience",zuau
+"sentience (I'm not going to try to define it here; I have a definition, but it cannot be put into words)",nubj
+"suffice",urt
+"expectation-exceed",tap
+"precipitate",ring
+"gust (windiness)",dhioss
+"smite (lightning strike)",ets
+"support",ieik
+"oppose",ngang
+"gift",dhiog
+"undergo (a process)",ssrig
+"flail",yrag
+"publicity (being exposed to others)",zher
+"privacy (being concealed or sheltered from the world)",dop
+"sector-publicity (being in the public sector)",duar
+"sector-privacy (being in the private sector)",hot
+"frequency",vel
+"infrequency",jrat
+"pitch",dzog
+"sonority (lowness of pitch)",piar
+"unstable (diminished chord or scale)",skadh
+"stable (satisfying chord or scale)",zhiah
+"possibility",nal
+"sureness (Bayesian probability)",dheg
+"skepticality",rish
+"togetherness (working as a team)",orh
+"separation (individuality)",vrdh
+"consider",kith
+"parent (raise)",thrm
+"ease (of the subject for the target)",urth
+"difficulty (of the subject for the target)",houz
+"party",aiss
+"foreignness",zheu
+"locality",rer
+"concern",yal
+"reassure",gzoi
+"win",erzh
+"lose (a contest)",zoiss
+"storytell",eif
+"continue",alz
+"cease",jrov
+"stand-up (posture)",jrdh
+"sit",ngod
+"prone-lie",ksso
+"wholeness",kolf
+"piecewiseness",shaz
+"convert (as in a rate or ratio)",zuoss
+"care (believe that something merits concern on a subconcious level; contrast with ""deem-important"")",pess
+"deem-important (think that something is worthy of concern and act as such; contrast with ""care"")",frzh
+"care-take",radz
+"sort",hid
+"randomize",ruy
+"fall",doz
+"deal-strike",bery
+"send",dza
+"recept (receive something sent, not something given)",kozh
+"watch",rapss
+"foundation-form",ngek
+"off-build",ssouh
+"suggest",bjer
+"power (ability to enact change)",thoj
+"inability (to enact change)",bzhr
+"test",skozh
+"visit",sspuf
+"orthogonality (straightness, evenness)",dzhiu
+"skewness",ngra
+"return",ssruth
+"mind",uez
+"bureaucrate (be a bureaucrat in a bureaucracy)",hom
+"record",thets
+"recall (a fact)",thelp
+"forget (a fact)",meth
+"remember (to do something)",pej
+"share",hauh
+"hog",sstoj
+"decide",kssi
+"subject (focus on)",shiodh
+"ignore",iazh
+"divide",shif
+"combine",ngerz
+"break (physically falling apart or cracking)",yeu
+"leisure",uebj
+"fill (target with object)",dhual
+"clear",zhau
+"transition (represents delta vector between any two states)",nguih
+"time-distance",vrak
+"redness (stimulation of L cones)",mej
+"cyanness (stimulation of M and S cones)",zhir
+"greenness (stimulation of M cones)",drz
+"magentaness (stimulation of L and S cones)",yesh
+"blueness (stimulation of S cones)",ior
+"yellowness (stimulation of L and M cones)",feg
+"hue (expressed colloquially as a color name, not an angle)",madj
+"lightness (value of color)",ueid
+"shade (darkness of color)",zuey
+"chroma (saturation of color)",bes
+"desaturation (blandness of color)",kef
+"warmth (of a color)",eidh
+"coolness (of a color)",zhes
+"whiteness (for egshell, cream, etc.)",sspith
+"blackness (for jet, onyx, etc.)",ngig
+"opacity",shuz
+"transparency",thur
+"color (amount is a color value, not a number)",thru
+"involve",durng
+"reach",jron
+"sociality (amount of socialization)",dhue
+"isolation (socially)",dhelb
+"note-leave",zhie
+"drive",zhon
+"ride",jeuth
+"play (a game or a sport)",zizh
+"freedom",grz
+"legislate",zhou
+"further (a goal or agenda)",tueth
+"rescind (progress to a goal or agenda)",yurng
+"require",goi
+"wait",fass
+"generalize",ssub
+"team-up",dhadh
+"split-up",iuth
+"individuality",vrf
+"fullness",ssrol
+"emptiness",horth
+"add",duv
+"remove",frdh
+"rule-place",jem
+"violate (a rule)",horss
+"pass (go nearby something)",thar
+"numeric-value",sseum
+"numeric-smallness",pso
+"agree",aizh
+"disagree",shkri
+"research",kaiz
+"cover (physical)",gof
+"be-in (a situation)",jreu
+"staff (provide support in a manner not directly related to the main thing)",duai
+"participate",bius
+"cinematograph",yardh
+"log-in",nuj
+"log-out",ngis
+"significance",jrun
+"insignificance",zesh
+"design",duev
+"specialness (uniqueness)",shrng
+"normality (ununiqueness)",bang
+"lift",foh
+"table (furniture)",thuth
+"matrix (table of numbers)",duesh
+"fraction (most/majority)",mih
+"random-generate",noy
+"dispose",urk
+"cut",teih
+"describe",yraz
+"availability",ref
+"freeness (time management)",ssrh
+"community-make",nrp
+"particularness",tai
+"role-fill",zipss
+"join (a group)",ngidh
+"differ",jri
+"action-take (the object is the action)",dus
+"mass",guy
+"eat",tshaf
+"regurgitate",edj
+"step (the object is what you step on or in)",dhiak
+"communicate",gid
+"draw",dhirm
+"tanness (skin-color)",soth
+"fairness (skin-color)",merzh
+"datetime (like ""time"", but more numeric and detail-oriented)",futh
+"model (make an image of something)",yror
+"court (date)",zhior
+"patronize (as in a customer going to a business)",prth
+"explain",vey
+"lead-to (be a door; subject is door, object is thing on this side, target is thing on other side)",pij
+"wall-off (be a wall; subject is wall, object is thing on this side, target is thing on other side)",irz
+"computational-intensity",seu
+"computational-ease",iesh
+"imagine",uopss
+"think-of (come up with an idea)",uoi
+"ponder (a subject)",nre
+"compute (a number or something)",biam
+"temperature",ped
+"coldness",jarz
+"beauty (of a person)",thorn
+"ugliness (of a person)",uim
+"fun-have",zush
+"birth-give (the physical act)",ngrag
+"kill",oik
+"activeness (not lazy)",dhedh
+"laziness",tan
+"feel (an emotion or feeling)",veth
+"apathy",ngob
+"shame",tozh
+"disgust",duih
+"fear",ksse
+"joy",dji
+"sadness",deidh
+"surprise",shir
+"anger",tif
+"anticipation (like ""forward-to-look"", but not necessarily positive)",yeing
+"excitement",joz
+"boredom",dhuik
+"fatigue",rong
+"anxiety",ium
+"satisfaction",noj
+"sleepiness",ursh
+"hunger (for food, sex, etc.)",melt
+"pleasure (basic euphoria from food, music, or sex)",kaih
+"pride (the happiness associated with feeling like a productive member of society)",moudh
+"amusement",uay
+"satisfyingness (the good feeling produced by snapping parts together or popping bubble wrap)",jork
+"schadenfreude",kerf
+"nostalgia",dhri
+"awe",asp
+"courage",bjau
+"curiosity",gai
+"terror (the brief reaction to jump-scares that comes before actual fear or annoyance)",uorm
+"apprehension (hesitative reaction to decisions)",tshat
+"worry",dze
+"trouble (cause someone troubled feelings)",voln
+"puzzle (present someone with confusion)",zhij
+"substitute",hues
+"vibrancy (diversity of color)",ngip
+"sleep",shoh
+"represent",soup
+"insert",ein
+"exclusivity",urdh
+"also-happen (describes things that happen in tandem)",mred
+"imply (if-then)",ssta
+"zoom (gotta go fast)",meng
+"besideness (to be on the side of)",eing
+"sibling-be",jot
+"cousin-be",surh
+"shoot (a projectile at something)",zheth
+"invent",voj
+"get-educated",faith
+"likeliness (P-value)",dhrol
+"remarkability (unlikeliness)",thelb
+"hallucinate (dream)",shko
+"easternness",iudh
+"westernness",fozh
+"southernness",iol
+"northernness",zhupsh
+"zenith (angle down from azimuth; distance down page)",bav
+"elevation (angle from horizon; height on page)",ssri
+"bearing (clockwise from straight ahead with object being origin)",dong
+"antibearing (widdershins from straight ahead with object being origin)",urss
+"clockwiseness (angular orientation from the point of view of the object)",thiy
+"widdershinsness (angular orientation from the point of view of the object)",thrudh
+"correspond (relating - not writing)",keng
+"in-season (a time of year when something is ""in"")",soih
+"sharpness (of an edge or blade)",zhio
+"throw",ssuth
+"intend",vrum
+"dilate (an image)",puong
+"compress (an image)",veuth
+"into-ness (usually for long/deep things)",risp
+"outof-ness (usually for long/deep things)",dut
+"revolve",eks
+"mock",mra
+"disease-have",kssra
+"embark (in the metaphorical sense)",ram
+"finish (a long habitual journey)",ngad
+"structural-integrity (resistance to breaking bending or deforming)",kshath
+"brittleness (tendency to shatter when force is applied, without bending)",shorss
+"flexibility (tendency to bend when force is applied)",van
+"firmness (tendency to hold shape)",pal
+"durability (resistance to breaking)",ielh
+"fragility (tendency to break)",throdh
+"strength (ability to exact force)",pun
+"weakness (inability to exact force)",nguzh
+"dexterity",ngieng
+"undexterity",tue
+"charisma",rang
+"awkwardness (as a character trait)",vip
+"translate",derg
+"stand (structurally e.g. a building)",thiath
+"imprison",prts
+"list",fis
+"furnish (as in furniture)",tuov
+"science (experimentation and learning; yes, this is a verb)",gruth
+"engineer (solve technical problems)",zung
+"entrepreneur (solve large-scale problems)",nruv
+"paint",dhir
+"art-make",shkam
+"magicalness",iei
+"freeze",ubz
+"burn",shtu
+"boil",sob
+"emit",this
+"hit (intentionally cause a collision with something)",zudh
+"flash (quickly emit bright light; also applies to sound and other sensations)",zhar
+"amplitude (brightness; volume; strength)",iet
+"quietness (dimness; softness; faintness)",dalv
+"flicker (any rapid oscillation)",yua
+"ceremony-participate",yrev
+"extract",radh
+"cook (boil; steam; broil; marinate; grill; smoke; bake; toast; microwave)",iuv
+"wound-suffer",spa
+"summon",zurng
+"dismiss",bolt
+"fame",yrei
+"obscurity",nuo
+"slice",vuadh
+"stab (puncturing)",tel
+"beware",hos
+"sex-have",ssroy
+"cluster (being physically nearby)",ssuss
+"control",ask
+"appeal (of a picture, sound, etc.)",ngrh
+"unappeal (of a picture, sound, etc.)",pshazh
+"big-pictureness",yrad
+"detail-orientation",zrsht
+"conquer",suoh
+"hold-dear",fav
+"jump",ops
+"rebel",iav
+"cleanliness",huy
+"griminess",gju
+"tidiness",bin
+"messiness",sou
+"transform",pie
+"attack (a sudden violent engagement)",giud
+"violence (physical violence)",odj
+"oppose (compete with)",ngro
+"strike (a swift decisive action)",uis
+"base (operations and such)",bie
+"penis",iub
+"vagina",yaz
+"breasts",zhion
+"sexually-attract",dzezh
+"avoid",dhuk
+"wonder",tsej
+"consent",yev
+"freshness",soy
+"mustiness",bzur
+"rot",ion
+"dispose-of",mam
+"poison-apply",nol
+"medicate (tend-to; treat; doctor)",kaj
+"bury",dham
+"exhume (uncover)",iuz
+"forward-to-look (like ""anticipation"", but necessarily positive)",rav
+"strive (toward a goal)",uauh
+"purity",hrey
+"taintedness",olz
+"entertain (as in a movie, play, or skit)",zuev
+"tolerate",vry
+"attention-pay",fus
+"code-write (program)",kiej
+"wear-and-tear (gradually sustain minor damage)",fov
+"resist",hin
+"give-in",fuosh
+"downstreamness (combine it with ""derivative"" to get ""flow"")",mro
+"cloud",jra
+"pollute",sodh
+"act (behave as though the object is true; do things in a certain manner)",pshu
+"float",fuj
+"sink",vrong
+"encode",dhrbj
+"parse (interpret information encoded somehow)",kish
+"wave (a hand or a flag)",dhrgj
+"gesture",ngalth
+"health",ngry
+"illness",yoi
+"internet",urn
+"fance",ngorz
+"lameness (the slangy definition, not the disability one)",dhek
+"lock",ouzh
+"unlock",dhou
+"live (as in living a life)",giazh
+"expertness (a person who is not a layperson)",throg
+"mediocrity (being a layperson)",ngoj
+"obviousness",orzh
+"crypticness",irdh
+"literalness",zok
+"technicality",shto
+"sesquipedalianness",nuazh
+"physicality (describes things in the physical realm)",girg
+"secret-keep",ssrdh
+"secret-share",pssidh
+"meaning (big-picture meaning of things)",tholz
+"existing",bjav
+"name",sspoj
+"humidity",rerj
+"unhumidity",zhom
+"replace",dharng
+"print (converting a digital object into a real one)",moi
+"transcribe",zhizh
+"virtuality (digitalness)",tur
+"sentient-being",ksu
+"intoxication (applies to alcohol as well as other drugs)",yih
+"sobriety",prf
+"marry",sui
+"dimensionality (i.e. 2D or 3D)",ken
+"function (do what one is supposed to)",nuag
+"peruse",ksek
+"rapidity (of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email)",yay
+"lethargy (of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting)",guap
+"bladder-fullness (the feeling of having to pee)",erj
+"knowledge (the quality of knowing a lot of facts)",dzhaz
+"ignorance (the quality of not knowing a lot of facts)",tssuj
+"smartness (the quality of understanding a lot of abstract concepts)",iof
+"dumbness (the quality of not understanding many abstract concepts)",elshk
+"cleverness (the innate ability to solve riddles and puzzles)",peu
+"stupidity (the innate inability to solve riddles and puzzles)",zrm
+"intelligence (the innate ability to grasp a subject or concept)",mis
+"unintelligence (the innate inability to grasp a subject or concept)",zuoth
+"stupidity (https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382)",zual
+"wisdom",ielng
+"foolishness",geis
+"whisper (speaking without voicing vowels or consonants)",jugzh
+"shout (raise one's voice)",tes
+"prepare (as in food)",vuam
+"sympathize",jos
+"challenge",uodh
+"wiseness (of a decision)",nguath
+"ill-informedness (of a decision)",spej
+"push",dhazh
+"pull",srz
+"voice (concern, gratitude, sorriness, etc.)",eij
+"admire",day
+"approve",gouy
+"expect",thut
+"screen (projecting or rendering images onto a surface)",bots
+"remotely-control",gir
+"procrastinate",ioth
+"roughness",dhuen
+"smoothness",bzhe
+"softness (tendency to conform shape)",jrot
+"elasticity (tendency to bend and then spring back)",erb
+"viscocity",giss
+"class (the quality of being expensive and unneccesary)",mral
+"practicality",viay
+"positive-sentiment",aln
+"negative-sentiment",huh
+"congratulate",shuf
+"sarcasm",mrh
+"after-name",esht
+"nationality (subject is citizen, object is nation/tribe/clan, like Kurdistan or Tibet)",hoth
+"citizenship (subject is citizen, object is state/sovereign/polity, like India or The Vatican)",pshr
+"liberalness",psav
+"conservativeness",djri
+"maturity",poj
+"have-faith",uin

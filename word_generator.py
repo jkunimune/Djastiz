@@ -7,7 +7,7 @@ import random
 CONSONANTS = [{'k','t','p'},{'g','d','b'}, {'h','th','f'},{'y','dh','v'}, {'ng','n','m'}, {'ss','sh','s'},{'j','zh','z'}]
 VOWELS = [{'a','e','o'}, {'r','i','u','l'}]
 
-VALID_CHAINS = [[5], [6], [], [4], [], [0,4], [4]]
+VALID_CHAINS = [[5], [6], [], [], [], [0], []]
 
 
 def random_choice(s):
@@ -18,19 +18,6 @@ def random_choice(s):
 def similar(a, b):
 	"""return True if a and b might sound too similar"""
 	return a == b
-	# for i in range(3):
-	# 	if len(a) != len(b):
-	# 		return False
-	# 	else:
-	# 		one_diff = False
-	# 		for i in range(len(a)):
-	# 			if char_type[a[i]] != char_type[b[i]]:
-	# 				return False
-	# 			if a[i] != b[i]:
-	# 				if one_diff:
-	# 					return False
-	# 				one_diff = True
-	# 		return True
 
 
 def length(word):
@@ -116,8 +103,8 @@ def load_all_words(directory, max_size=0):
 								djastiz_word = line.strip()
 							if djastiz_word:
 								words.append(djastiz_word)
-							# if words[-1] == '':
-							# 	print("! {}".format(filename))
+							if words[-1] == '':
+								print("! {}".format(filename))
 	return words
 
 
@@ -176,7 +163,7 @@ def generate_dictionary(num_words_syl=[5,5], seed=None, filename=None):
 
 
 if __name__ == '__main__':
-	# print(check_words('dictionary'))
-	words = generate_dictionary([10000, 100000], seed=load_all_words('dictionary'), filename='dictionary/word_cache')
+	print(check_words('dictionary'))
+	words = generate_dictionary([2000], seed=load_all_words('dictionary'), filename='dictionary/word_cache')
 	for word in words:
 		print(word)

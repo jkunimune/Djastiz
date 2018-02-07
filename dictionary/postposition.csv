@@ -2,15 +2,15 @@
 "obj (denotes direct object)",a
 "to (at; denotes indirect object)",u
 "with (to; denotes recipricator)",r
-"than (denotes extent, amount, or quantity)",ang
-"on (at; in; denotes physical location)",el
-"at (on; in; denotes date/time)",ib
-"in (as; on; denotes nonphysical non temporal state)",ry
-"because (denotes cause)",ozh
-"for (so; denotes purpose)",au
-"regarding (WRT; denotes context)",ih
-"by (as; denotes method)",ad
-"via (with; through; denotes tool or medium)",izh
-"bool (denotes whether it happened; the argument here is basically always ""yes"" or ""what"")",un
-"if (denotes hypothetical conditions)",ou
-"ly (denotes manner)",us
+"than (denotes extent, amount, or quantity)",os
+"on (at; in; denotes physical location)",odh
+"at (on; in; denotes date/time)",ia
+"in (as; on; denotes nonphysical non temporal state)",eng
+"because (denotes cause)",uj
+"for (so; denotes purpose)",ue
+"regarding (WRT; denotes context)",rk
+"by (as; denotes method)",or
+"via (with; through; denotes tool or medium)",im
+"bool (denotes whether it happened; the argument here is basically always ""yes"" or ""what"")",iy
+"if (denotes hypothetical conditions)",er
+"ly (denotes manner)",au
