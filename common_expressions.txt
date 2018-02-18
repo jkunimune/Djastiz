@@ -1,103 +1,107 @@
 Excuse me. [3->4]
-please pdc excusing
-shuaij e ote
+please excuse
+tong thez
 
 You are excused. [4->4]
-let pdc excusing
-pioip e ote
+let excuse
+yidh thez
 
 Thank you. [2->4]
-. pdc gratitude
-poj e tobi
+. gratitude
+dhi mosh
 
 You're welcome. [3->3]
-. with me
-poj og bas
+me obj
+sh u
 
 Sorry [apology]. [2->4]
-. pdc sorriness
-poj e ake
+. sorriness
+dhi nuem
 
 Apology accepted. [7->3]
-. with me
-poj og bas
+me obj
+sh u
 
 Don't worry about it. [6->5]
-! pdc not sorriness
-saz e guis ake
+! not sorriness
+bu be nuem
 
 Sorry [sympathetic]. [2->4]
-. pdc sympathyzing
-poj e gubu
+sympathize
+jos
 
 I don't speak this language very well. [9->8]
-! pdc talking in very rate
-saz e saijez shau peig kakuj
+please ; more than speed ly talk
+tong ; gath ia vong au gidzhaps
 
 What does that mean? [4->4]
-? pdc denoting
-zad e agip
+? denote
+ung eth
 
 Fuck. [1->2]
-un bless
-iat shuip
+fuck
+oj
 
 Fuck you. [2->3]
-un bless you
-iat shuip kek
+fuck you
+oj k
 
 Hooray. [2-1]
 bless
-shuip
+ja
 
 Hi. [1->1]
 merry
-daid
+oth
 
 Bye. [1->2]
-un merry
-iat daid
-
-Good night. [2->4]
-un merry sleeping
-iat daid ekog
+good
+thu
 
 Good morning. [3->3]
 merry morning
-daid ijus
+oth voy
 
 Good day. [2->3]
 merry daytime
-daid zidug
+oth vorng
 
 Good evening. [3->4]
-merry un morning
-daid iat ijus
+merry evening
+oth dhoub
+
+Good night. [2->4]
+good ; sleep
+thu ; shoh
 
 Happy Birthday. [4->7]
-merry datetime day birth-giving
-daid uoui esek eibi
+merry birthday
+oth futhjopsngrag
 
 Merry Christmas. [4->5]
-merry name{ Christmas }
-daid pi Christmas id
+merry Christmas
+oth krismes
 
 How are you? [3->6]
-? than what pdc prosperity
-zad jeu sob e oio
+? how-much prosper
+ung lia ak
 
 Well. [1->2]
-. pdc prosperity
-poj e oio
+prosper
+ak
+
+Not well. [2->2]
+not do
+be ssr
 
 What about you? [4->3]
-? sbj you
-zad bu kek
+? you sbj
+ung k i
 
 My name is Claude. [4->5]
-. obj name{ Bloo }
-poj iu pi Bloo id
+name `` Bloo " obj
+sspoj yr Bloo ssu u
 
 Where is the bathroom? [5->9]
-? on what sbj jupede toiletries on
-zad shug sob bu je goishek shug
+? what on bathroom sbj
+ung l ep fluirz'huy i

@@ -1,16 +1,15 @@
 "sbj (denotes subject)",i
-"obj (denotes direct object)",a
-"to (at; denotes indirect object)",u
-"with (to; denotes recipricator)",r
-"than (denotes extent, amount, or quantity)",os
-"on (at; in; denotes physical location)",odh
-"at (on; in; denotes date/time)",ia
+"obj (denotes direct object)",u
+"ind (with; at; denotes indirect object)",r
+"than (denotes extent, amount, or quantity)",ia
+"on (at; in; denotes physical location)",ep
+"at (on; in; denotes date/time or instance number)",os
 "in (as; on; denotes nonphysical non temporal state)",eng
 "because (denotes cause)",uj
 "for (so; denotes purpose)",ue
 "regarding (WRT; denotes context)",rk
 "by (as; denotes method)",or
 "via (with; through; denotes tool or medium)",im
-"bool (denotes whether it happened; the argument here is basically always ""yes"" or ""what"")",iy
+"whether (denotes whether it happened; the argument here is basically always ""yes"" or ""what"")",iy
 "if (denotes hypothetical conditions)",er
 "ly (denotes manner)",au

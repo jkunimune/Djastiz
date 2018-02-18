@@ -20,11 +20,11 @@ Djastiz,djastiz
 "the letter ""zh""",zhr
 "the letter ""j""",jo
 "the letter ""z""",zu
-"the letter ""i""",iz
 "the letter ""r""",rm
+"the letter ""i""",iz
 "the letter ""u""",uss
-"the letter ""e""",ey
 "the letter ""a""",ar
+"the letter ""e""",ey
 "the letter ""o""",ou
 "the letter ""l""",al
 "yes",av
@@ -34,7 +34,7 @@ Djastiz,djastiz
 "2",od
 "3",re
 "4",ang
-"5",ja
+"5",zha
 "6",ev
 "7",po
 "8",rh
@@ -43,14 +43,16 @@ Djastiz,djastiz
 "B (11; only used for duodecimal and hexadecimal)",ath
 "C (12; only used for hexadecimal)",ngu
 "D (13; only used for hexadecimal)",ug
-"E (14; only used for hexadecimal)",zhi
+"E (14; only used for hexadecimal)",shi
 "F (15; only used for hexadecimal)",iu
 "Hexadec (16; only used to describe hexadecimal)",sa
 "- (negative)",me
-"point (decimal point)",ho
+"dot (decimal point)",ho
 "10^ (or 12^, or whatever depending on the radix)",uo
 "radix",adh
 "maximum (the absolute)",ai
+"more (the comparison is assumed; for more precise comparisons, use ""exceed"")",gath
+"less (the comparison is assumed; for more precise comparisons, use ""lessness"")",uou
 "the-past",vi
 "the-future",ay
 "the-present",if
@@ -66,7 +68,8 @@ Djastiz,djastiz
 "daytime (;25-;75 or 06:00-18:00 or whenever the sun is up)",vorng
 "evening (;50-;00 or 12:00-00:00)",dhoub
 "nighttime (;75-;25 or 18:00-06:00 or whenever the sun is down)",gei
-"notion (not necessarily true or objective)",tshe
+"notion (idea; not necessarily true or objective)",tshe
+"instance",nguih
 "point (a particular time or place)",ngij
 "region (an area in space of a period of time)",shasht
 "interval",iah
@@ -85,16 +88,18 @@ Djastiz,djastiz
 "powder",yrang
 "bit (describes gravel and cereal)",zeg
 "string",vri
-"hole",ngaim
-"thing",ngrzh
+"hole (hallway; tube; gap)",ngaim
+"concept (intangible)",uokss
+"thing (tangible)",ngrzh
 "light",jelt
+"sight",ralp
 "sound",darh
 "tactility (touch)",dhun
 "scent",vobz
 "flavor",fuadh
-"spoken-language (combining this with ""active-perceive"" means ""listening"")",zhaps
+"spoken-language",zhaps
 "written-language",zhiodh
-"image",jraf
+"image (in the most general sense)",jraf
 "tool",dhuih
 "female",ngubj
 "male",reuzh
@@ -108,7 +113,8 @@ Djastiz,djastiz
 "Sol (our sun)",judh
 "planet",hiai
 "Earth",irj
-"landmass",thom
+"landmass (e.g. America, Afro-Eurasia)",thom
+"continent (e.g. North America, Eurasia)",kru
 "settlement (like a city or a town)",prj
 "society",alm
 "mountain",dhoh
@@ -120,21 +126,31 @@ Djastiz,djastiz
 "atmosphere (weather)",ngia
 "home",nueb
 "body",thrz
+"hair",zhung
 "face",thob
 "head",ouss
 "torso",shke
 "arm",zhry
+"bicep (thigh)",gup
+"forearm (shin)",prdh
 "hand",yrudh
-"finger",mish
+"finger (toe)",mish
+"pelvis (hips)",zazh
+"butt",djru
 "leg",taud
 "foot",duaf
-"toe",prdh
 "gland (node or organ)",vrud
-"mind",zou
+"soul (mind)",zou
 "claw (of the sharp variety)",zhors
 "wing",zozh
 "shell",upsh
 "antenna",nrim
+"leaf",fibzh
+"fruit",hrub
+"root",ngikss
+"stem (trunk)",yut
+"blade (of grass)",thuss
+"flower",shiom
 "appendage",tey
 "money",gel
 "fact (not necessarily true, but necessarily objective)",rosk
@@ -171,8 +187,8 @@ Djastiz,djastiz
 "urine",fiozh
 "feces",opsh
 "gunpowder",zuef
-"toiletries",jok
-"language",ueuz
+"toiletries",ueuz
+"language",jok
 "culture",yuozh
 "topography (geography)",kiong
 "history",pua
@@ -190,8 +206,8 @@ Djastiz,djastiz
 "euliptyphla (hedgehogs, moles, shrews, and a few other rodent-like things)",psseth
 "chiroptera (bats and flying foxes)",gress
 "pangolin",hith
-"cat",vrod
-"dog (also describes wolves, dingoes, and foxes)",juj
+"feline",vrod
+"canine (describes wolves, dingoes, and foxes)",juj
 "bear",jriy
 "seal (includes walruses and maybe sea lions I think?)",nioz
 "red-panda",vun
@@ -306,7 +322,6 @@ Djastiz,djastiz
 "scalidophora (mud-dwelling tiny aquatic things)",ngru
 "nematoid (parasitic worms FTW!)",zuip
 "tardigrade",yej
-"arthropod",ngaf
 "acarus (mites and ticks)",sof
 "amblypygus (they look like spiders, but produce no web or venom)",rtsh
 "spider",yrai

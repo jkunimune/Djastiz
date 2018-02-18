@@ -1,39 +1,43 @@
 At one time, Sam actually wanted to send a duck to his representative in congress for fun. [26->33]
-. at time a sbj name{ Sam } obj ; pdc sending whatkind actuality obj waterfowl to person representing organization for fun-having fullstop pdc wanting
-poj shok odo guz bu pi Sam id iu kit e ziget dik zauap iu shizuj si opu bita zitu dij diuis up e bezop
+. time a at Sam sbj to send one-that- represent what-kind congress which-one them ind even waterfowl obj fun-have for obj want
+dhi flos of os Sam i e dza flisoup ji kanggres o m r se irg u zush ue u rth
 
 The quick fox jumped over the lazy brown dog. [10->26]
-. sbj dog red whatkind speed on ; pdc un depth than dog domesticating whatkind un activeness pdc jumping
-poj bu augok teba dik gubet shug kit e iat ozi jeu augok puzed dik iat tugag e zukuauz
+. fox what-kind speed sbj to height dog what-kind laziness than on rise
+dhi vulpes ji vong i e rd jujdhing ji tan ia ep ingrd
 
 You! You're standing in the way of everybody's hopes and dreams! [15->24]
-you . pdc standing-up on ; pdc betweenness to both{ hoping and dreaming } whichone person all fullstop
-kek poj e shojag shug kit e shiabu si to toije ish iogu id shos opu zai up
+you . stand-up to betweenness both one-that-gets- hope and one-that-gets- dream which-one each person ind on
+k dhi jrdh e rsh ni fludaung ri fluflubrshoh o vu dhap r ep
 
-What happens if you roadkill a fish? [9->18]
-? obj what pdc causing sbj ; via automobile pdc killing obj fish fullstop
-zad iu sob e aui bu kit oush osou e eushi iu sijid up
+You shall not pass!
+let you sbj progress
+yidh k i ingfuj
 
 On occasion, fish rain from the sky. [9->19]
-. at un frequency sbj fish on sky pdc falling
-poj shok iat esos bu sijid shug uioush e jusek
+. at uncommonness fish sbj one-that- height on fall
+dhi os higj yarsh i flird ep doz
 
 I recommend eating a pomegranite at least once in your life. [17->23]
-. pdc recommending ; at time * at living fullstop howmany 1 pdc eating obj pomegranite fullstop
-poj e shijash kit shok odo ped shok godauj up aub toza e ukiaj iu poijaish up
+. recommend to one-that-gets- not lessness 1 sbj at to liveliness at pomegranite obj eat
+dhi ijnguath e flube is uf i os e azh os dadima u tshaf
 
 Commonly, a map projection is a systematic transformation of the latitudes and longitudes of locations on the surface of a sphere or an ellipsoid into locations on a plane. [51->49]
-. at frequency sbj "{ math.map-projection } obj jupede process-undergoing obj one * via what pdc transforming obj both{ latitude and longitude } whichone both{ sphere and math.ellipsoid } any to one jupede point than ; on math.plane fullstop fullstop a
-poj shok esos bu aj ishupo id iu je bepes iu ju ped oush sob e shaupip iu to supek ish shezes id shos to adoub ish eiugo id sak si ju je ige jeu kit shug iside up up guz
+. instance who commonness at be map-projection sbj one-that- apply what by transform both amount-of southernness and amount-of easternness which-one any both sphere and ellipsoid obj point who plane on ind a obj
+dhi nguih li gef os ro florpiejrafkiong i flissrig l or pie ni flia iol ri flia iudh o dhe ni nguoh ri ilepsoid u ngij li flujeuthyuo ep r of u
 
 Fourscore and seven years ago our fathers brought forth, on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal. [48->61]
-. at ; pdc un time-distance fullstop than year howmany 8 10 7 fullstop one * pdc parenting obj both{ me and you } fullstop pdc creating on continent this obj country whatkind un age via freedom for ; sbj person whichone all pdc difference at creating fullstop
-poj shok kit e iat baisu up jeu ibish aub oposh doze jopa up ju ped e ajud iu to bas ish kek id up e udu shug kuaibod zut iu guiesh dik iat kidash oush sadez dij kit bu opu shos zai e kokat shok udu up
+. to 8 7 than ago at one-that- parent which-one us-here sbj continent this on create one-that-gets- citizenship what youth of-which birth-give freedom via of-which notion aka to all person obj to equal in for
+dhi e rh po ia ngo os flithrm o shm i kru osh ep ah flupshr l rs lu ngrag grz im lu tshe va e io dhap u e ra eng ue
 
 Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. [28->51]
-. sbj jupede going via cosmos whichone rebelling via ; pdc striking on ; transitioning obj jupede basing obj * pdc hiding fullstop fullstop fullstop pdc winning whichone 1 with name{ country conquering astronomy.galaxy } whatkind un morality
-poj bu je ugi oush kajauj shos ougious oush kit e oushois shug kit kishij iu je gebeud iu ped e koutep up up up e badiz shos toza og pi guiesh eusheis uzeso id dik iat edi
+. spaceship what-kind one-that- rebel sbj to strike to originate base one-that-gets- hide obj at by to win which-one 1 obj obtain empire which-one galaxy who immorality ind
+dhi flujeuthtsrsh ji fliiav i e uis e ry bie fluez u os or e erzh o uf u ingoh flupshryo o galaksi li di r
 
-Please excuse my dear Aunt Sally. [8->19]
-please pdc excusing obj cousin-being * sbj me pdc dear-holding fullstop ie name{ Sally }
-shuaij e ote iu jebap ped bu bas e gizeid up aus pi Sally id
+Just do it! [8->19]
+! yes whether
+bu av iy
+
+This complete New-Djastiz-to-English dictionary gives the part of speech and English meaning of each New Djastiz word in latin alphabetical order. It is a crucial reference for anyone living in this post-Djastiz society.
+. dictionary what-kind to New-Djastiz obj English ind who completeness this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind New-Djastiz obj say to arrange alphabet which-one Latium ind ly . one-that-gets- reference of-which need person of-which society who New-Djastiz obj follow any sbj obj
+dhi flrfisdhem ji e djastizrs u jokinggland r li hok osh i ni flrbiothdhem ri flueth o jokinggland o vu dhem ji djastizrs u ij e shaid fliutoryuosh o latium r au dhi fluiks lu izh dhap lu alm li djastizrs u ut'ha dhe i u

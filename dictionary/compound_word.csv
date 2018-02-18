@@ -1,0 +1,68 @@
+"a (not previously mentioned)",which-one one
+"the (previously mentioned)",which-one it
+"this (associated with speaker)",which-one me
+"that (associated with listener)",which-one you
+"that-over-there (associated with neither speaker nor listener)",which-one them
+"who (functions as the separate words ""what"" and ""sbj"")",what sbj
+"of-which (functions as the separate words ""what"" and ""obj"")",what obj
+"to-which (functions as the separate words ""what"" and ""ind"")",what ind
+"how-much (functions as the separate words ""what"" and ""than"")",what than
+"one-that- (-er; the subject of the following verb)",one what sbj
+"one-that-gets- (the direct object of the following verb)",one what obj
+"one-to-which- (the indirect object of the following verb)",one what ind
+"amount-of (the extent of the following verb)",one what than
+"place",one what on
+"time (e.g. Tuesday, 4pm, 3;42)",one what at
+"state",one what in
+"cause-event",one what because
+"purpose",one what for
+"context",one what regarding
+"method",one what by
+"medium (tool)",one what via
+"New-Djastiz",Djastiz youth
+"English",language England
+"Japanese",language Japan
+"German",language Germany
+"dictionary",one-to-which- list word
+"alphabet",one-that- obj set letter
+"part-of-speech",one-to-which- categorize word
+"follow (be after)",exceed hence
+"precede (be before)",exceed ago
+"sink (crouch)",become depth
+"rise (jump)",become height
+"progress",become progress-level
+"unprogress",become backwardness
+"see",passive-perceive sight
+"hear",passive-perceive sound
+"smell",passive-perceive scent
+"taste",passive-perceive flavor
+"passive-feel",passive-perceive tactility
+"comprehend",passive-perceive spoken-language
+"passive-read",passive-perceive written-language
+"look",active-perceive sight
+"listen",active-perceive sound
+"sniff",active-perceive scent
+"active-taste",active-perceive flavor
+"touch",active-perceive tactility
+"listen-carefully (listen to and parse words, not just sounds)",active-perceive spoken-language
+"active-read",active-perceive written-language
+"talk",communicate spoken-language
+"compose (prose)",communicate written-language
+"obtain (the direct object from the indirect object)",become possess
+"date",datetime day
+"birthday",date birth-give
+"pass (go near something)",go nearness
+"recommend",say wiseness
+"bake",cook dryness
+"boat",one-that-gets- ride sea
+"plane",one-that-gets- ride air
+"spaceship",one-that-gets- ride cosmos
+"bathroom",one-that-gets- wall-off cleanliness
+"butthole",hole feces
+"cat",feline human
+"dog",canine human
+"subcontinent (e.g. Europe, South Asia)",continent smallness
+"dream",one-that-gets- passive-perceive sleep
+"map",image topography
+"map-projection",one what by transform map
+"empire",one-that-gets- citizenship size
