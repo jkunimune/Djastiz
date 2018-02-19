@@ -214,9 +214,9 @@
 "sector-publicity (be in the public sector)",duar
 "sector-privacy (be in the private sector)",hot
 "frequency (rate at which something oscillates, progresses, or decays)",vel
-"infrequency (inverse of rate at which something oscillates, progresses, or decays)",jrat
+"period (inverse of rate at which something oscillates, progresses, or decays)",jrat
 "commonness (inverse of time between events in a series of happenings)",gef
-"uncommonness (time between events in a series) of happenings)",higj
+"uncommonness (time between events in a series of happenings)",higj
 "pitch",dzog
 "sonority (lowness of pitch)",piar
 "unstable (diminished chord or scale)",skadh
@@ -297,13 +297,12 @@
 "desaturation (blandness of color)",kef
 "warmth (of a color)",eidh
 "coolness (of a color)",zhes
-"whiteness (for egshell, cream, etc.)",sspith
-"blackness (for jet, onyx, etc.)",ngig
 "opacity",shuz
 "transparency",thur
 "color (amount is a color value, not a number)",thru
 "involve",durng
 "reach",jron
+"jump (over the indirect object onto the direct object)",sspith
 "sociality (amount of socialization)",dhue
 "isolation (socially)",dhelb
 "note-leave",zhie
@@ -439,16 +438,16 @@
 "likeliness (P-value)",dhrol
 "remarkability (unlikeliness)",thelb
 "hallucinate (dream)",shko
-"easternness",iudh
-"westernness",fozh
-"southernness",iol
+"southernness",bav
 "northernness",zhupsh
-"zenith (angle down from azimuth; distance down page)",bav
-"elevation (angle from horizon; height on page)",ssri
+"easternness",iol
+"westernness",fozh
+"zenith (angle down from azimuth; distance down page)",iudh
+"elevation (angle up from antiazimuth; height on page)",ssri
 "bearing (clockwise from straight ahead with direct object being origin)",dong
 "antibearing (widdershins from straight ahead with direct object being origin)",urss
-"clockwiseness (angular orientation from the point of view of the direct object)",thiy
 "widdershinsness (angular orientation from the point of view of the direct object)",thrudh
+"clockwiseness (angular orientation from the point of view of the direct object)",thiy
 "correspond (relate - not write)",keng
 "in-season (a time of year when something is ""in"")",soih
 "sharpness (of an edge or blade)",zhio

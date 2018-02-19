@@ -1,43 +1,43 @@
-At one time, Sam actually wanted to send a duck to his representative in congress for fun. [26->33]
-. time a at Sam sbj to send one-that- represent what-kind congress which-one them ind even waterfowl obj fun-have for obj want
-dhi flos of os Sam i e dza flisoup ji kanggres o m r se irg u zush ue u rth
+At one time, Sam actually wanted to send a duck to his representative in congress for fun. [26->21]
+time a at Sam sbj to send one-that- represent what-kind congress which-one them ind even waterfowl obj fun-have for obj want
+flos of os Sam i e dza flisoup ji kanggres o m r se irg u zush ue u rth
 
-The quick fox jumped over the lazy brown dog. [10->26]
-. fox what-kind speed sbj to height dog what-kind laziness than on rise
-dhi vulpes ji vong i e rd jujdhing ji tan ia ep ingrd
+The quick fox jumped over the lazy brown dog. [10->14]
+fox who speed sbj dog who laziness who brownness ind jump
+vulpes li vong i jujdhing li tan li mejzuey r sspith
 
-You! You're standing in the way of everybody's hopes and dreams! [15->24]
-you . stand-up to betweenness both one-that-gets- hope and one-that-gets- dream which-one each person ind on
-k dhi jrdh e rsh ni fludaung ri fluflubrshoh o vu dhap r ep
+You! You're standing in the way of everybody's hopes and dreams! [15->15]
+you . stand-up both one-that-gets- hope and one-that-gets- dream which-one each person betweenness on
+k dhi jrdh ni fludaung a flubrshoh o vu dhap rsh ep
 
-You shall not pass!
-let you sbj progress
-yidh k i ingfuj
+You shall not pass![4->5]
+let you sbj not progress
+yidh k i be ingfuj
 
-On occasion, fish rain from the sky. [9->19]
-. at uncommonness fish sbj one-that- height on fall
-dhi os higj yarsh i flird ep doz
+On occasion, fish rain from the sky. [9->7]
+uncommonness at fish sbj one-that- height on fall
+higj os yarsh i flird ep doz
 
-I recommend eating a pomegranite at least once in your life. [17->23]
-. recommend to one-that-gets- not lessness 1 sbj at to liveliness at pomegranite obj eat
-dhi ijnguath e flube is uf i os e azh os dadima u tshaf
+I recommend eating a pomegranite at least once in your life. [17->15]
+recommend not one-that- lessness 1 obj than liveliness at pomegranite obj eat
+ijnguath be fliis uf u ia azh os dadima u tshaf
 
 Commonly, a map projection is a systematic transformation of the latitudes and longitudes of locations on the surface of a sphere or an ellipsoid into locations on a plane. [51->49]
-. instance who commonness at be map-projection sbj one-that- apply what by transform both amount-of southernness and amount-of easternness which-one any both sphere and ellipsoid obj point who plane on ind a obj
-dhi nguih li gef os ro florpiejrafkiong i flissrig l or pie ni flia iol ri flia iudh o dhe ni nguoh ri ilepsoid u ngij li flujeuthyuo ep r of u
+instance who commonness at be map-projection sbj one-that- apply what by transform both amount-of- southernness and amount-of- easternness which-one any both sphere and ellipsoid obj point who plane on ind a obj
+nguih li gef os ro florpiejrafkiong i flissrig l or pie ni fliabav a fliaiol o dhe ni nguoh a ilepsoid u ngij li flujeuthyuo ep r of u
 
-Fourscore and seven years ago our fathers brought forth, on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal. [48->61]
-. to 8 7 than ago at one-that- parent which-one us-here sbj continent this on create one-that-gets- citizenship what youth of-which birth-give freedom via of-which notion aka to all person obj to equal in for
-dhi e rh po ia ngo os flithrm o shm i kru osh ep ah flupshr l rs lu ngrag grz im lu tshe va e io dhap u e ra eng ue
+Fourscore and seven years ago our fathers brought forth, on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal. [48->33]
+year 8 7 ago at one-that- parent which-one us-here sbj continent this on create one-that-gets- citizenship what youth obj freedom via of-which notion aka to each person obj equal ly for
+fliajratirj rh po ngo os flithrm o shm i kru osh ep ah flupshr l rs u grz im lu tshe va e vu dhap u ra au ue
 
-Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. [28->51]
-. spaceship what-kind one-that- rebel sbj to strike to originate base one-that-gets- hide obj at by to win which-one 1 obj obtain empire which-one galaxy who immorality ind
-dhi flujeuthtsrsh ji fliiav i e uis e ry bie fluez u os or e erzh o uf u ingoh flupshryo o galaksi li di r
+Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. [28->32]
+spaceship what-kind one-that- rebel sbj to strike base of-which hide originate at by to win which-one 1 obj obtain empire which-one galaxy who immorality ind
+flujeuthtsrsh ji fliiav i e uis bie lu ez ry os or e erzh o uf u ingoh flupshryo o galaksi li di r
 
-Just do it! [8->19]
+Just do it! [3->3]
 ! yes whether
 bu av iy
 
-This complete New-Djastiz-to-English dictionary gives the part of speech and English meaning of each New Djastiz word in latin alphabetical order. It is a crucial reference for anyone living in this post-Djastiz society.
-. dictionary what-kind to New-Djastiz obj English ind who completeness this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind New-Djastiz obj say to arrange alphabet which-one Latium ind ly . one-that-gets- reference of-which need person of-which society who New-Djastiz obj follow any sbj obj
-dhi flrfisdhem ji e djastizrs u jokinggland r li hok osh i ni flrbiothdhem ri flueth o jokinggland o vu dhem ji djastizrs u ij e shaid fliutoryuosh o latium r au dhi fluiks lu izh dhap lu alm li djastizrs u ut'ha dhe i u
+This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in Latin alphabetical order. It is a crucial reference for anyone living in this post-Djastiz society.[63->62]
+dictionary what-kind to Modern-Djastiz obj English ind who completeness this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind Modern-Djastiz obj say alphabet which-one Latium one arrange by . one-that-gets- reference of-which need person of-which society who Modern-Djastiz obj follow any sbj obj
+flrfisdhem ji e djastizrs u jokinggland r li hok osh i ni flrbiothdhem a flueth o jokinggland o vu dhem ji djastizrs u ij fliutoryuosh o latium f shaid or dhi fluiks lu izh dhap lu alm li djastizrs u ut'ha dhe i u

@@ -10,16 +10,15 @@
 "one-that- (-er; the subject of the following verb)",one what sbj
 "one-that-gets- (the direct object of the following verb)",one what obj
 "one-to-which- (the indirect object of the following verb)",one what ind
-"amount-of (the extent of the following verb)",one what than
+"amount-of- (the extent of the following verb)",one what than
 "place",one what on
 "time (e.g. Tuesday, 4pm, 3;42)",one what at
-"state",one what in
 "cause-event",one what because
 "purpose",one what for
 "context",one what regarding
 "method",one what by
 "medium (tool)",one what via
-"New-Djastiz",Djastiz youth
+"Modern-Djastiz",Djastiz youth
 "English",language England
 "Japanese",language Japan
 "German",language Germany
@@ -49,6 +48,7 @@
 "talk",communicate spoken-language
 "compose (prose)",communicate written-language
 "obtain (the direct object from the indirect object)",become possess
+"year",amount-of- period Earth
 "date",datetime day
 "birthday",date birth-give
 "pass (go near something)",go nearness
@@ -62,7 +62,8 @@
 "cat",feline human
 "dog",canine human
 "subcontinent (e.g. Europe, South Asia)",continent smallness
-"dream",one-that-gets- passive-perceive sleep
+"dream",passive-perceive sleep
 "map",image topography
 "map-projection",one what by transform map
 "empire",one-that-gets- citizenship size
+"brownness",redness shade

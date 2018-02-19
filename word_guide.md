@@ -1,9 +1,13 @@
 # Word Guide
 
-This complete New-Djastiz-to-English dictionary gives the part of speech and English meaning of each New Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.
+This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.
 
-dhi flrfisdhem ji e djastizrs u jokinggland r li hok osh i ni flrbiothdhem ri flueth o jokinggland o vu dhem ji djastizrs u ij e shaid fliutoryuosh o latium r au dhi fluiks lu izh dhap lu alm li djastizrs u ut'ha dhe i u
+flrfisdhem ji e djastizrs u jokinggland r li hok osh i ni flrbiothdhem a flueth o jokinggland o vu dhem ji djastizrs u ij fliutoryuosh o latium f shaid or dhi fluiks lu izh dhap lu alm li djastizrs u ut'ha dhe i u
 ______
+
+### a
+_conjunction_  
+	*and*
 
 ### ad
 _verb_  
@@ -183,7 +187,7 @@ _verb_
 
 ### bav
 _verb_  
-	*zenith*; None
+	*southernness*
 
 ### be
 _qualifier_  
@@ -268,6 +272,10 @@ _compound verb_
 ### brralp
 _compound verb_  
 	*see*
+
+### brshoh
+_compound verb_  
+	*dream*
 
 ### bru
 _noun_  
@@ -591,7 +599,7 @@ _noun_
 
 ### djastizrs
 _compound noun_  
-	*New-Djastiz*
+	*Modern-Djastiz*
 
 ### dji
 _verb_  
@@ -809,10 +817,6 @@ _verb_
 _verb_  
 	*like*
 
-### eng
-_postposition_  
-	*in*; None
-
 ### ep
 _postposition_  
 	*on*; None
@@ -961,10 +965,6 @@ _verb_
 _noun_  
 	*bovida*; None
 
-### fleng
-_compound pronoun_  
-	*state*
-
 ### flep
 _compound pronoun_  
 	*place*
@@ -975,7 +975,11 @@ _compound pronoun_
 
 ### flia
 _compound pronoun_  
-	*amount-of*; None
+	*amount-of-*; None
+
+### fliajratirj
+_compound noun_  
+	*year*
 
 ### flim
 _compound pronoun_  
@@ -1016,10 +1020,6 @@ _compound pronoun_
 ### flu
 _compound pronoun_  
 	*one-that-gets-*; None
-
-### flubrshoh
-_compound noun_  
-	*dream*
 
 ### flue
 _compound pronoun_  
@@ -1635,7 +1635,7 @@ _verb_
 
 ### iol
 _verb_  
-	*southernness*
+	*easternness*
 
 ### ion
 _verb_  
@@ -1723,7 +1723,7 @@ _verb_
 
 ### iudh
 _verb_  
-	*easternness*
+	*zenith*; None
 
 ### ium
 _verb_  
@@ -1899,7 +1899,7 @@ _compound noun_
 
 ### jrat
 _verb_  
-	*infrequency*; None
+	*period*; None
 
 ### jrdh
 _verb_  
@@ -2217,6 +2217,10 @@ _noun_
 _verb_  
 	*redness*; None
 
+### mejzuey
+_compound verb_  
+	*brownness*
+
 ### melt
 _verb_  
 	*hunger*; None
@@ -2448,10 +2452,6 @@ _verb_
 ### ngif
 _noun_  
 	*soft-coral*
-
-### ngig
-_verb_  
-	*blackness*; None
 
 ### ngij
 _noun_  
@@ -3169,10 +3169,6 @@ _verb_
 _noun_  
 	*8*
 
-### ri
-_conjunction_  
-	*and*
-
 ### rih
 _verb_  
 	*plan*
@@ -3611,7 +3607,7 @@ _verb_
 
 ### sspith
 _verb_  
-	*whiteness*; None
+	*jump*; None
 
 ### sspoi
 _noun_  

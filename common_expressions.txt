@@ -1,48 +1,48 @@
-Excuse me. [3->4]
+Excuse me. [3->2]
 please excuse
 tong thez
 
-You are excused. [4->4]
+You are excused. [4->2]
 let excuse
 yidh thez
 
-Thank you. [2->4]
-. gratitude
-dhi mosh
+Thank you. [2->1]
+gratitude
+mosh
 
-You're welcome. [3->3]
+You're welcome. [3->1]
 me obj
 sh u
 
-Sorry [apology]. [2->4]
-. sorriness
-dhi nuem
+Sorry [apology]. [3->1]
+sorriness
+nuem
 
-Apology accepted. [7->3]
+Apology accepted. [7->1]
 me obj
 sh u
 
-Don't worry about it. [6->5]
+Don't worry about it. [6->3]
 ! not sorriness
 bu be nuem
 
-Sorry [sympathetic]. [2->4]
+Sorry [sympathetic]. [2->1]
 sympathize
 jos
 
 I don't speak this language very well. [9->8]
-please ; more than speed ly talk
-tong ; gath ia vong au gidzhaps
+please to more than speed ly talk
+tong e gath ia vong au gidzhaps
 
-What does that mean? [4->4]
+What does that mean? [4->2]
 ? denote
 ung eth
 
-Fuck. [1->2]
+Fuck. [1->1]
 fuck
 oj
 
-Fuck you. [2->3]
+Fuck you. [2->2]
 fuck you
 oj k
 
@@ -54,39 +54,39 @@ Hi. [1->1]
 merry
 oth
 
-Bye. [1->2]
+Bye. [1->1]
 good
 thu
 
-Good morning. [3->3]
+Good morning. [3->2]
 merry morning
 oth voy
 
-Good day. [2->3]
+Good day. [2->2]
 merry daytime
 oth vorng
 
-Good evening. [3->4]
+Good evening. [3->2]
 merry evening
 oth dhoub
 
-Good night. [2->4]
-good ; sleep
-thu ; shoh
+Good night. [2->3]
+good to sleep
+thu e shoh
 
-Happy Birthday. [4->7]
+Happy Birthday. [4->4]
 merry birthday
 oth futhjopsngrag
 
-Merry Christmas. [4->5]
+Merry Christmas. [4->3]
 merry Christmas
 oth krismes
 
-How are you? [3->6]
+How are you? [3->3]
 ? how-much prosper
 ung lia ak
 
-Well. [1->2]
+Well. [1->1]
 prosper
 ak
 
@@ -94,7 +94,7 @@ Not well. [2->2]
 not do
 be ssr
 
-What about you? [4->3]
+What about you? [4->2]
 ? you sbj
 ung k i
 
@@ -102,6 +102,6 @@ My name is Claude. [4->5]
 name `` Bloo " obj
 sspoj yr Bloo ssu u
 
-Where is the bathroom? [5->9]
+Where is the bathroom? [5->5]
 ? what on bathroom sbj
 ung l ep fluirz'huy i

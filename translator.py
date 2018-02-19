@@ -129,9 +129,9 @@ def reverse_dictionary(djastiz_to_english, english_to_djastiz, djastiz_to_pos, e
 	alphabetized = sorted(djastiz_to_english.keys())
 	with open(filename,'w') as f:
 		f.write("# Word Guide\n\n")
-		f.write("This complete New-Djastiz-to-English dictionary gives the part of speech and English meaning of each New Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.\n\n")
+		f.write("This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.\n\n")
 		f.write(translate_line(
-				". dictionary what-kind to New-Djastiz obj English ind who completeness this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind New-Djastiz obj say to arrange alphabet which-one Latium ind ly . one-that-gets- reference of-which need person of-which society who New-Djastiz obj follow any sbj obj",
+				"dictionary what-kind to Modern-Djastiz obj English ind who completeness this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind Modern-Djastiz obj say alphabet which-one Latium one arrange by . one-that-gets- reference of-which need person of-which society who Modern-Djastiz obj follow any sbj obj",
 				english_to_djastiz)+"\n")
 		f.write("______\n")
 		for djastiz in alphabetized:
@@ -153,8 +153,7 @@ if __name__ == '__main__':
 		print("{:03}\t{}".format(hist[key], key))
 
 	arr = np.array(arr)
+	plt.plot([0, max(arr[:,0])], [0, max(arr[:,0])])
 	plt.plot(arr[:,0], arr[:,1], '.')
-	plt.xlim([0,70])
-	plt.ylim([0,70])
 	plt.axis('square')
 	plt.savefig('syllable_comparison.png')
