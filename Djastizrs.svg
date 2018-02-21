@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="148mm" height="105mm"  viewBox="-1 -1 56 42">
+	<style>
+		use {
+			fill: none;
+			stroke: #000000;
+			stroke-width: 1;
+			stroke-linecap: square;
+			stroke-linejoin: miter;
+			stroke-miterlimit: 3;
+		}
+		text {
+			font-family: Georgia, serif;
+			font-size: 10pt;
+			alignment-baseline: hanging;
+		}
+	</style>
+	<use href="writing/de.svg#char" x="0" y="0" />
+	<use href="writing/jo.svg#char" x="0" y="14" />
+	<use href="writing/ar.svg#char" x="0" y="28" />
+	<use href="writing/si.svg#char" x="21" y="0" />
+	<use href="writing/tu.svg#char" x="21" y="14" />
+	<use href="writing/iz.svg#char" x="21" y="28" />
+	<use href="writing/zu.svg#char" x="42" y="0" />
+	<use href="writing/rm.svg#char" x="42" y="14" />
+	<use href="writing/si.svg#char" x="42" y="28" />
+</svg>
