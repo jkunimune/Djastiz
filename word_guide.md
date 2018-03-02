@@ -1025,6 +1025,10 @@ _compound pronoun_
 _compound pronoun_  
 	*context*
 
+### flrsrjarzyuo
+_compound noun_  
+	*air-conditioning*
+
 ### flrutoryuosh
 _compound noun_  
 	*alphabet*
@@ -3641,9 +3645,25 @@ _verb_
 _noun_  
 	*pandan*; a type of plant
 
+### sress
+_compound verb_  
+	*lower*
+
 ### sringyeu
 _compound verb_  
 	*cause-to-break*
+
+### srjarz
+_compound verb_  
+	*cool*
+
+### srped
+_compound verb_  
+	*heat*
+
+### srrd
+_compound verb_  
+	*raise*
 
 ### srz
 _verb_  

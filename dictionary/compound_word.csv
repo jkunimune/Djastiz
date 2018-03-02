@@ -47,6 +47,10 @@
 "talk",communicate spoken-language
 "compose (prose)",communicate written-language
 "cause-to-break",cause break
+"lower",cause depth
+"raise",cause height
+"heat",cause temperature
+"cool",cause coldness
 "obtain (the direct object from the indirect object)",become possess
 "year",amount-of- period Earth
 "date",datetime day
@@ -67,6 +71,7 @@
 "map-projection",one what by transform map
 "empire",one-that-gets- citizenship size
 "brownness",redness shade
+"air-conditioning",one-that- cool air
 "divide-in-half",divide 2
 "divide-in-thirds",divide 3
 "divide-in-quarters",divide 4
