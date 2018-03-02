@@ -1,6 +1,6 @@
 # Modern Djastiz
 
-So, you want to speak a better and more succinct version of Olde Djastiz. How do you do that? By speaking Modern Djastiz\*, that's how! What's Modern Djastiz? It's a high-level language optimised for efficiency that I invented. Here's how it works.
+So, you want to speak a better and more succinct version of [Olde Djastiz](https://github.com/jkunimune15/Djastiz/tree/master). How do you do that? By speaking Modern Djastiz\*, that's how! What's Modern Djastiz? It's a high-level language optimised for efficiency that I invented. Here's how it works.
 
 ## Writing and pronunciation
 
