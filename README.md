@@ -1,4 +1,4 @@
-# Djastiz
+# Olde Djastiz
 
 So, you want to speak a better and less biased version of Esperanto. How do you do that? By speaking Olde Djastiz\*, that's how! What's Olde Djastiz? It's a low-level, unambiguous, non-redundant language that I invented. Here's how it works.
 
