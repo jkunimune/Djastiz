@@ -1,6 +1,6 @@
 # Modern Djastiz
 
-So, you want to speak a better and more succinct version of Olde Djastiz. How do you do that? By speaking Modern Djastiz\*, that's how! What's Modern Djastiz? It's a high-level language optimised for efficiency that I invented. Here's how it works.
+So, you want to speak a better and more succinct version of [Olde Djastiz](https://github.com/jkunimune15/Djastiz/tree/master). How do you do that? By speaking Modern Djastiz\*, that's how! What's Modern Djastiz? It's a high-level language optimised for efficiency that I invented. Here's how it works.
 
 ## Writing and pronunciation
 
@@ -214,3 +214,7 @@ Like any self-respecting language, Djastiz comes with a variety of gestures to e
 - To display sadness or disappointment, press a clenched fist into an open palm.
 - To display approval or appreciation toward a person, place your palms together, holding them horizontally, and slide the top hand forward, off of the bottom one.
 - To display disapproval or depreciation toward a person, point at them with two fingers and wag the fingers up and down in opposition to one another.
+
+______
+
+\*This article is about the updated, streamlined version of Djastiz, invented in March of 2018. For other varieties, see other branches of this repository.
