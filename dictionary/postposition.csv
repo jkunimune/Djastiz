@@ -1,6 +1,6 @@
-"sbj (denotes subject)",i
+"sbj (denotes subject)",r
 "obj (denotes direct object)",u
-"ind (with; at; denotes indirect object)",r
+"ind (with; at; denotes indirect object)",i
 "than (denotes extent, amount, or quantity)",ia
 "on (at; in; denotes physical location)",ep
 "at (on; in; denotes date/time or instance number)",os
@@ -12,3 +12,4 @@
 "whether (denotes whether it happened; the argument here is basically always ""yes"" or ""what"")",iy
 "if (denotes hypothetical conditions)",er
 "ly (denotes manner)",au
+", (denotes addressee)",eng

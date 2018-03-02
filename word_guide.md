@@ -2,7 +2,7 @@
 
 This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.
 
-flrfisdhem ji e djastizrs u jokinggland r li hok osh i ni flrbiothdhem a flueth o jokinggland o vu dhem ji djastizrs u ij fliutoryuosh o latium f shaid or dhi fluiks lu izh dhap lu alm li djastizrs u ut'ha dhe i u
+flifisdhem ji e djastizrs u jokinggland i lr hok osh r ni flibiothdhem a flueth o jokinggland o vu dhem ji djastizrs u ij flrutoryuosh o latium f shaid or dhi fluiks lu izh dhap lu alm lr djastizrs u ha dhe r u
 ______
 
 ### a
@@ -11,19 +11,23 @@ _conjunction_
 
 ### ad
 _verb_  
-	*timeliness*; None
+	*timeliness*; for meetings and such, or habitually
 
 ### adh
 _noun_  
 	*radix*
 
+### af
+_verb_  
+	*originate*; used to describe things coming "from"
+
 ### ag
 _verb_  
-	*go*; None
+	*go*; from one place to another
 
 ### agfraj
 _compound verb_  
-	*pass*; None
+	*pass*; go near something
 
 ### agj
 _noun_  
@@ -35,7 +39,7 @@ _verb_
 
 ### ai
 _noun_  
-	*maximum*; None
+	*maximum*; the absolute
 
 ### aiss
 _verb_  
@@ -43,7 +47,7 @@ _verb_
 
 ### aissp
 _noun_  
-	*warm-season-grass*; None
+	*warm-season-grass*; includes sugarcane, maize, sorghum, and switchgrass
 
 ### aiv
 _noun_  
@@ -75,11 +79,11 @@ _verb_
 
 ### am
 _verb_  
-	*rearwardness*; None
+	*rearwardness*; -y
 
 ### an
 _verb_  
-	*believe*; None
+	*believe*; accept a fact on a subconcious level; contrast with [`ur`](#ur)
 
 ### ang
 _noun_  
@@ -95,15 +99,15 @@ _noun_
 
 ### arj
 _noun_  
-	*orthoptera*; None
+	*orthoptera*; crickets, tatydids, grasshoppers, etc.
 
 ### arth
 _noun_  
-	*maxillopod*; None
+	*maxillopod*; barnacles and copepods
 
 ### ash
 _verb_  
-	*active-perceive*; None
+	*active-perceive*; look or listen or sniff
 
 ### ashdarh
 _compound verb_  
@@ -127,7 +131,7 @@ _compound verb_
 
 ### ashzhaps
 _compound verb_  
-	*listen-carefully*; None
+	*listen-carefully*; listen to and parse words, not just sounds
 
 ### ashzhiodh
 _compound verb_  
@@ -143,15 +147,15 @@ _verb_
 
 ### ass
 _verb_  
-	*next*; None
+	*next*; to be next in an order
 
 ### at
 _verb_  
-	*length*; None
+	*length*; physical distance; see [`zhu`](#zhu)
 
 ### ath
 _noun_  
-	*B*; None
+	*B*; 11; only used for duodecimal and hexadecimal
 
 ### atss
 _noun_  
@@ -159,11 +163,11 @@ _noun_
 
 ### au
 _postposition_  
-	*ly*; None
+	*ly*; denotes manner
 
 ### auv
 _noun_  
-	*line*; None
+	*line*; of the segment or infinite variety
 
 ### av
 _noun_  
@@ -175,7 +179,7 @@ _noun_
 
 ### azh
 _verb_  
-	*liveliness*; None
+	*liveliness*; be alive
 
 ### ba
 _verb_  
@@ -183,7 +187,7 @@ _verb_
 
 ### bang
 _verb_  
-	*normality*; None
+	*normality*; ununiqueness
 
 ### bav
 _verb_  
@@ -191,7 +195,7 @@ _verb_
 
 ### be
 _qualifier_  
-	*not*; None
+	*not*; anything but
 
 ### bery
 _verb_  
@@ -199,7 +203,7 @@ _verb_
 
 ### bes
 _verb_  
-	*chroma*; None
+	*chroma*; saturation of color
 
 ### bi
 _noun_  
@@ -207,11 +211,11 @@ _noun_
 
 ### biam
 _verb_  
-	*compute*; None
+	*compute*; a number or something
 
 ### bie
 _verb_  
-	*base*; None
+	*base*; operations and such
 
 ### bin
 _verb_  
@@ -219,7 +223,7 @@ _verb_
 
 ### bioth
 _verb_  
-	*categorize*; None
+	*categorize*; place something in a category; interpret something as belonging in a group
 
 ### bius
 _verb_  
@@ -235,11 +239,11 @@ _verb_
 
 ### bjru
 _noun_  
-	*eurypygimorphae*; None
+	*eurypygimorphae*; a bunch of tropical birds
 
 ### bo
 _verb_  
-	*move*; None
+	*move*; around but not necessarily with a direction
 
 ### bolt
 _verb_  
@@ -247,11 +251,11 @@ _verb_
 
 ### bots
 _verb_  
-	*screen*; None
+	*screen*; project or render images onto a surface
 
 ### br
 _verb_  
-	*passive-perceive*; None
+	*passive-perceive*; see or hear or smell
 
 ### brdarh
 _compound verb_  
@@ -279,7 +283,7 @@ _compound verb_
 
 ### bru
 _noun_  
-	*araucarian*; None
+	*araucarian*; a type of very tall evergreen
 
 ### brvobz
 _compound verb_  
@@ -295,7 +299,7 @@ _compound verb_
 
 ### bu
 _tense-marker_  
-	*!*; None
+	*!*; imperative
 
 ### bzhe
 _verb_  
@@ -307,11 +311,11 @@ _noun_
 
 ### bzhia
 _noun_  
-	*hagfish*; None
+	*hagfish*; slime-eel
 
 ### bzhr
 _verb_  
-	*inability*; None
+	*inability*; to enact change
 
 ### bzing
 _noun_  
@@ -319,7 +323,7 @@ _noun_
 
 ### bzu
 _noun_  
-	*suliforme*; None
+	*suliforme*; boobies and cormorants and a few other things
 
 ### bzur
 _verb_  
@@ -339,11 +343,11 @@ _loanword_
 
 ### dakss
 _noun_  
-	*poale*; None
+	*poale*; grass-likes such as sedges, excluding grasses, typhaceae, and bromeliads
 
 ### dalv
 _verb_  
-	*quietness*; None
+	*quietness*; dimness; softness; faintness
 
 ### darh
 _noun_  
@@ -371,7 +375,7 @@ _noun_
 
 ### dh
 _pronoun_  
-	*it*; None
+	*it*; a previously mentioned noun phrase
 
 ### dha
 _noun_  
@@ -383,7 +387,7 @@ _verb_
 
 ### dhaj
 _noun_  
-	*remipedia*; None
+	*remipedia*; like ocean centipede things
 
 ### dham
 _verb_  
@@ -399,7 +403,7 @@ _noun_
 
 ### dhar
 _noun_  
-	*repository*; None
+	*repository*; a body of technical knowledge we might call [`gruth`](#gruth)
 
 ### dharng
 _verb_  
@@ -415,7 +419,7 @@ _noun_
 
 ### dhay
 _noun_  
-	*magnoliid*; None
+	*magnoliid*; a type of flowering plant that includes magnolias, nutmeg, cinnamon, avocado, black pepper, and tulips
 
 ### dhazh
 _verb_  
@@ -423,23 +427,23 @@ _verb_
 
 ### dhe
 _qualifier_  
-	*any*; None
+	*any*; single element
 
 ### dhedh
 _verb_  
-	*activeness*; None
+	*activeness*; not lazy
 
 ### dheg
 _verb_  
-	*sureness*; None
+	*sureness*; Bayesian probability
 
 ### dhek
 _verb_  
-	*lameness*; None
+	*lameness*; the slangy definition, not the disability one
 
 ### dhelb
 _verb_  
-	*isolation*; None
+	*isolation*; socially
 
 ### dhem
 _noun_  
@@ -447,19 +451,19 @@ _noun_
 
 ### dhi
 _tense-marker_  
-	*.*; None
+	*.*; declarative
 
 ### dhiak
 _verb_  
-	*step*; None
+	*step*; the direct object is what you step on or in
 
 ### dhial
 _noun_  
-	*proctum*; None
+	*proctum*; encompasses entoprocta and ectoprocta
 
 ### dhij
 _noun_  
-	*accipitridae*; None
+	*accipitridae*; hawks, eagles, kites, Old World vultures, and a few other things
 
 ### dhing
 _noun_  
@@ -471,7 +475,7 @@ _verb_
 
 ### dhioss
 _verb_  
-	*gust*; None
+	*gust*; windiness
 
 ### dhir
 _verb_  
@@ -483,11 +487,11 @@ _verb_
 
 ### dho
 _verb_  
-	*allow*; None
+	*allow*; give permission
 
 ### dhodh
 _noun_  
-	*lepidoptera*; None
+	*lepidoptera*; moths and butterflies
 
 ### dhoh
 _noun_  
@@ -503,7 +507,7 @@ _verb_
 
 ### dhoub
 _noun_  
-	*evening*; None
+	*evening*; ;50-;00 or 12:00-00:00
 
 ### dhrbj
 _verb_  
@@ -511,7 +515,7 @@ _verb_
 
 ### dhrgj
 _verb_  
-	*wave*; None
+	*wave*; a hand or a flag
 
 ### dhri
 _verb_  
@@ -519,11 +523,11 @@ _verb_
 
 ### dhrol
 _verb_  
-	*likeliness*; None
+	*likeliness*; P-value
 
 ### dhrozh
 _noun_  
-	*salientia*; None
+	*salientia*; frogs and toads
 
 ### dhrth
 _noun_  
@@ -543,15 +547,15 @@ _verb_
 
 ### dhual
 _verb_  
-	*fill*; None
+	*fill*; indirect object with direct object
 
 ### dhuan
 _noun_  
-	*liliale*; None
+	*liliale*; a type of flowering plants that includes lilies
 
 ### dhue
 _verb_  
-	*sociality*; None
+	*sociality*; amount of socialization
 
 ### dhuen
 _verb_  
@@ -559,7 +563,7 @@ _verb_
 
 ### dhuh
 _noun_  
-	*macropodiforme*; None
+	*macropodiforme*; kangaroos and wallabies
 
 ### dhuih
 _noun_  
@@ -571,7 +575,7 @@ _verb_
 
 ### dhuj
 _noun_  
-	*bunt*; None
+	*bunt*; fungus
 
 ### dhuk
 _verb_  
@@ -579,7 +583,7 @@ _verb_
 
 ### dhun
 _noun_  
-	*tactility*; None
+	*tactility*; touch
 
 ### dhur
 _noun_  
@@ -607,7 +611,7 @@ _verb_
 
 ### djozh
 _noun_  
-	*information*; None
+	*information*; a notion, number, etc.
 
 ### djri
 _verb_  
@@ -627,11 +631,11 @@ _noun_
 
 ### dong
 _verb_  
-	*bearing*; None
+	*bearing*; clockwise from straight ahead with indirect object being origin
 
 ### dop
 _verb_  
-	*privacy*; None
+	*privacy*; be concealed or sheltered from the world
 
 ### doz
 _verb_  
@@ -643,7 +647,7 @@ _verb_
 
 ### drz
 _verb_  
-	*greenness*; None
+	*greenness*; stimulation of M cones
 
 ### du
 _verb_  
@@ -655,11 +659,11 @@ _noun_
 
 ### duai
 _verb_  
-	*staff*; None
+	*staff*; provide support in a manner not directly related to the main thing
 
 ### duar
 _verb_  
-	*sector-publicity*; None
+	*sector-publicity*; be in the public sector
 
 ### due
 _noun_  
@@ -667,7 +671,7 @@ _noun_
 
 ### duesh
 _verb_  
-	*matrix*; None
+	*matrix*; table of numbers
 
 ### duev
 _verb_  
@@ -683,7 +687,7 @@ _verb_
 
 ### duor
 _noun_  
-	*Reality*; None
+	*Reality*; the physical world of our human bodies and the four forces etc.
 
 ### durng
 _verb_  
@@ -691,15 +695,15 @@ _verb_
 
 ### durss
 _verb_  
-	*attention*; None
+	*attention*; be occupied by the direct object; see [`oi`](#oi)
 
 ### dus
 _verb_  
-	*action-take*; None
+	*action-take*; the direct object is the action
 
 ### dut
 _verb_  
-	*outof-ness*; None
+	*outof-ness*; direct object is long/deep thing
 
 ### duv
 _verb_  
@@ -719,11 +723,11 @@ _verb_
 
 ### dzhaz
 _verb_  
-	*knowledge*; None
+	*knowledge*; the quality of knowing a lot of facts
 
 ### dzhiu
 _verb_  
-	*orthogonality*; None
+	*orthogonality*; straightness, evenness
 
 ### dzho
 _noun_  
@@ -735,11 +739,11 @@ _verb_
 
 ### e
 _tense-marker_  
-	*to*; None
+	*to*; infinitive
 
 ### eb
 _verb_  
-	*music-make*; None
+	*music-make*; an instrument
 
 ### edh
 _verb_  
@@ -751,7 +755,7 @@ _verb_
 
 ### ef
 _noun_  
-	*times*; None
+	*times*; habitual tense
 
 ### eg
 _verb_  
@@ -759,7 +763,7 @@ _verb_
 
 ### eidh
 _verb_  
-	*warmth*; None
+	*warmth*; of a color
 
 ### eif
 _verb_  
@@ -767,7 +771,7 @@ _verb_
 
 ### eij
 _verb_  
-	*voice*; None
+	*voice*; concern, gratitude, sorriness, etc.
 
 ### ein
 _verb_  
@@ -775,7 +779,7 @@ _verb_
 
 ### eing
 _verb_  
-	*besideness*; None
+	*besideness*; to be on the side of
 
 ### ej
 _verb_  
@@ -783,11 +787,15 @@ _verb_
 
 ### ek
 _verb_  
-	*outside*; None
+	*outside*; large distance from center
 
 ### eks
 _verb_  
 	*revolve*
+
+### ektaculampaymiliampey
+_loanword_  
+	*hectacoulomb-per-milliampere*
 
 ### elf
 _noun_  
@@ -799,15 +807,15 @@ _noun_
 
 ### elng
 _noun_  
-	*reality*; None
+	*reality*; any imagined or simulated or real universe
 
 ### elshk
 _verb_  
-	*dumbness*; None
+	*dumbness*; the quality of not understanding many abstract concepts
 
 ### elz
 _noun_  
-	*hemichordate*; None
+	*hemichordate*; weird ocean worm tree blobs
 
 ### em
 _verb_  
@@ -817,21 +825,25 @@ _verb_
 _verb_  
 	*like*
 
+### eng
+_postposition_  
+	*,*; denotes addressee
+
 ### ep
 _postposition_  
-	*on*; None
+	*on*; at; in; denotes physical location
 
 ### er
 _postposition_  
-	*if*; None
+	*if*; denotes hypothetical conditions
 
 ### erb
 _verb_  
-	*elasticity*; None
+	*elasticity*; tendency to bend and then spring back
 
 ### erj
 _verb_  
-	*bladder-fullness*; None
+	*bladder-fullness*; the feeling of having to pee
 
 ### erng
 _verb_  
@@ -847,11 +859,11 @@ _verb_
 
 ### es
 _fastener_  
-	*which-element*; None
+	*which-element*; identifies element of a set
 
 ### esh
 _verb_  
-	*misplace*; None
+	*misplace*; lose an object
 
 ### esht
 _verb_  
@@ -859,23 +871,23 @@ _verb_
 
 ### ess
 _verb_  
-	*depth*; None
+	*depth*; -z
 
 ### eth
 _verb_  
-	*denote*; None
+	*denote*; mean in terms of word definitions
 
 ### ets
 _verb_  
-	*smite*; None
+	*smite*; lightning strike
 
 ### eu
 _verb_  
-	*number*; None
+	*number*; exclusively applies to things with discrete amounts, like instances
 
 ### eug
 _noun_  
-	*segmented-worm*; None
+	*segmented-worm*; any member of annelida besides leeches and beardworms
 
 ### ev
 _noun_  
@@ -895,11 +907,11 @@ _verb_
 
 ### f
 _pronoun_  
-	*one*; None
+	*one*; no meaning
 
 ### faing
 _noun_  
-	*cycle*; None
+	*cycle*; 10^1 days
 
 ### faith
 _verb_  
@@ -911,7 +923,7 @@ _verb_
 
 ### fau
 _noun_  
-	*ostracoda*; None
+	*ostracoda*; seed shrimp
 
 ### fav
 _verb_  
@@ -923,7 +935,7 @@ _noun_
 
 ### feg
 _verb_  
-	*yellowness*; None
+	*yellowness*; stimulation of L and M cones
 
 ### fei
 _verb_  
@@ -931,7 +943,7 @@ _verb_
 
 ### feip
 _noun_  
-	*columbimorphae*; None
+	*columbimorphae*; pidgeons, doves, sandgrouses, and mesites
 
 ### fen
 _noun_  
@@ -939,7 +951,7 @@ _noun_
 
 ### fia
 _noun_  
-	*condor*; None
+	*condor*; also encompasses New World vultures
 
 ### fibzh
 _noun_  
@@ -955,7 +967,7 @@ _noun_
 
 ### firg
 _verb_  
-	*primarity*; None
+	*primarity*; refers to generally being main or central
 
 ### fis
 _verb_  
@@ -963,7 +975,7 @@ _verb_
 
 ### fium
 _noun_  
-	*bovida*; None
+	*bovida*; cattle, buffalo, antelopes, sheep, goats, etc.
 
 ### flep
 _compound pronoun_  
@@ -971,23 +983,27 @@ _compound pronoun_
 
 ### fli
 _compound pronoun_  
-	*one-that-*; None
+	*one-to-which-*; the indirect object of the following verb
 
 ### flia
 _compound pronoun_  
-	*amount-of-*; None
+	*amount-of-*; the extent of the following verb
 
 ### fliajratirj
 _compound noun_  
 	*year*
 
+### flibiothdhem
+_compound noun_  
+	*part-of-speech*
+
+### flifisdhem
+_compound noun_  
+	*dictionary*
+
 ### flim
 _compound pronoun_  
-	*medium*; None
-
-### fliutoryuosh
-_compound noun_  
-	*alphabet*
+	*medium*; tool
 
 ### flor
 _compound pronoun_  
@@ -999,27 +1015,23 @@ _compound pronoun_
 
 ### flos
 _compound pronoun_  
-	*time*; None
+	*time*; e.g. Tuesday, 4pm, 3;42
 
 ### flr
 _compound pronoun_  
-	*one-to-which-*; None
-
-### flrbiothdhem
-_compound noun_  
-	*part-of-speech*
-
-### flrfisdhem
-_compound noun_  
-	*dictionary*
+	*one-that-*; -er; the subject of the following verb
 
 ### flrk
 _compound pronoun_  
 	*context*
 
+### flrutoryuosh
+_compound noun_  
+	*alphabet*
+
 ### flu
 _compound pronoun_  
-	*one-that-gets-*; None
+	*one-that-gets-*; the direct object of the following verb
 
 ### flue
 _compound pronoun_  
@@ -1051,7 +1063,7 @@ _compound noun_
 
 ### fo
 _verb_  
-	*quantity*; None
+	*quantity*; number or amount
 
 ### foh
 _verb_  
@@ -1063,7 +1075,7 @@ _noun_
 
 ### fov
 _verb_  
-	*wear-and-tear*; None
+	*wear-and-tear*; gradually sustain minor damage
 
 ### foz
 _verb_  
@@ -1075,7 +1087,7 @@ _verb_
 
 ### fraj
 _verb_  
-	*nearness*; None
+	*nearness*; physical or numerical
 
 ### frdh
 _verb_  
@@ -1091,7 +1103,7 @@ _noun_
 
 ### frng
 _noun_  
-	*crocodilian*; None
+	*crocodilian*; crocodiles and alligators
 
 ### frosh
 _noun_  
@@ -1107,7 +1119,7 @@ _noun_
 
 ### frzh
 _verb_  
-	*deem-important*; None
+	*deem-important*; think that something is worthy of concern and act as such; contrast with [`pess`](#pess)
 
 ### fuadh
 _noun_  
@@ -1115,7 +1127,7 @@ _noun_
 
 ### fuam
 _noun_  
-	*chanterelle*; None
+	*chanterelle*; a type of fungus
 
 ### fui
 _noun_  
@@ -1123,7 +1135,7 @@ _noun_
 
 ### fuj
 _verb_  
-	*progress-level*; None
+	*progress-level*; distance or fraction toward a goal or destination
 
 ### fuksh
 _noun_  
@@ -1143,7 +1155,7 @@ _noun_
 
 ### futh
 _verb_  
-	*datetime*; None
+	*datetime*; like [`ha`](#ha)
 
 ### futhjops
 _compound verb_  
@@ -1167,7 +1179,7 @@ _loanword_
 
 ### gath
 _noun_  
-	*more*; None
+	*more*; the comparison is assumed; for more precise comparisons, use [`ut`](#ut)
 
 ### ged
 _noun_  
@@ -1175,11 +1187,11 @@ _noun_
 
 ### gef
 _verb_  
-	*commonness*; None
+	*commonness*; inverse of time between events in a series of happenings
 
 ### gei
 _noun_  
-	*nighttime*; None
+	*nighttime*; ;75-;25 or 18:00-06:00 or whenever the sun is down
 
 ### geis
 _verb_  
@@ -1187,7 +1199,7 @@ _verb_
 
 ### gek
 _noun_  
-	*smut*; None
+	*smut*; fungus
 
 ### gel
 _noun_  
@@ -1203,7 +1215,7 @@ _verb_
 
 ### giazh
 _verb_  
-	*live*; None
+	*live*; as in live a life
 
 ### gid
 _verb_  
@@ -1215,7 +1227,7 @@ _compound verb_
 
 ### gidzhiodh
 _compound verb_  
-	*compose*; None
+	*compose*; prose
 
 ### gim
 _verb_  
@@ -1227,7 +1239,7 @@ _verb_
 
 ### girg
 _verb_  
-	*physicality*; None
+	*physicality*; describes things in the physical realm
 
 ### giss
 _verb_  
@@ -1251,7 +1263,7 @@ _noun_
 
 ### gof
 _verb_  
-	*cover*; None
+	*cover*; physical
 
 ### goi
 _verb_  
@@ -1279,7 +1291,7 @@ _noun_
 
 ### gress
 _noun_  
-	*chiroptera*; None
+	*chiroptera*; bats and flying foxes
 
 ### grh
 _noun_  
@@ -1287,7 +1299,7 @@ _noun_
 
 ### gruth
 _verb_  
-	*science*; None
+	*science*; experimentation and learning; yes, this is a verb
 
 ### grz
 _verb_  
@@ -1295,11 +1307,11 @@ _verb_
 
 ### guap
 _verb_  
-	*lethargy*; None
+	*lethargy*; of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting
 
 ### gup
 _noun_  
-	*bicep*; None
+	*bicep*; thigh
 
 ### gus
 _noun_  
@@ -1311,7 +1323,7 @@ _verb_
 
 ### gzej
 _noun_  
-	*rust*; None
+	*rust*; fungus
 
 ### gzoi
 _verb_  
@@ -1323,11 +1335,11 @@ _noun_
 
 ### gzu
 _noun_  
-	*ray*; None
+	*ray*; the ocean variety
 
 ### ha
 _verb_  
-	*hence*; None
+	*hence*; +t
 
 ### hadj
 _noun_  
@@ -1335,11 +1347,11 @@ _noun_
 
 ### haf
 _noun_  
-	*lagomorpha*; None
+	*lagomorpha*; rabbits, hares, pikas
 
 ### halj
 _verb_  
-	*systemize*; None
+	*systemize*; place something in a system; interpret something as being part of a whole
 
 ### hauh
 _verb_  
@@ -1351,7 +1363,7 @@ _noun_
 
 ### hi
 _qualifier_  
-	*some*; None
+	*some*; subset
 
 ### hiai
 _noun_  
@@ -1363,7 +1375,7 @@ _verb_
 
 ### higj
 _verb_  
-	*uncommonness*; None
+	*uncommonness*; time between events in a series of happenings
 
 ### hin
 _verb_  
@@ -1375,11 +1387,11 @@ _verb_
 
 ### hion
 _noun_  
-	*polypteriforme*; None
+	*polypteriforme*; bichirs and reedfishes or ropefishes
 
 ### hioss
 _verb_  
-	*acuteness*; None
+	*acuteness*; angular closeness with indirect object being centrum
 
 ### hirp
 _noun_  
@@ -1395,7 +1407,7 @@ _noun_
 
 ### ho
 _noun_  
-	*dot*; None
+	*dot*; decimal point
 
 ### hok
 _verb_  
@@ -1403,11 +1415,11 @@ _verb_
 
 ### hom
 _verb_  
-	*bureaucrate*; None
+	*bureaucrate*; be a bureaucrat in a bureaucracy
 
 ### horss
 _verb_  
-	*violate*; None
+	*violate*; a rule
 
 ### horth
 _verb_  
@@ -1419,27 +1431,27 @@ _verb_
 
 ### hot
 _verb_  
-	*sector-privacy*; None
+	*sector-privacy*; be in the private sector
 
 ### hoth
 _verb_  
-	*nationality*; None
+	*nationality*; subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet
 
 ### houz
 _verb_  
-	*difficulty*; None
+	*difficulty*; of the subject for the direct object
 
 ### hr
 _verb_  
-	*attempt*; None
+	*attempt*; try
 
 ### hred
 _noun_  
-	*star*; None
+	*star*; sun
 
 ### hret
 _noun_  
-	*australidelphia*; None
+	*australidelphia*; besides wombats, koalas, and kangaroos
 
 ### hrey
 _verb_  
@@ -1475,19 +1487,19 @@ _verb_
 
 ### i
 _postposition_  
-	*sbj*; None
+	*ind*; with; at; denotes indirect object
 
 ### ia
 _postposition_  
-	*than*; None
+	*than*; denotes extent, amount, or quantity
 
 ### iadh
 _noun_  
-	*phalangeriforme*; None
+	*phalangeriforme*; possums... which are apparently different from opossums and tend to fly
 
 ### iag
 _noun_  
-	*procyonidae*; None
+	*procyonidae*; raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles
 
 ### iah
 _noun_  
@@ -1507,15 +1519,15 @@ _verb_
 
 ### ibj
 _verb_  
-	*cancel-out*; None
+	*cancel-out*; destructively interfere
 
 ### idh
 _verb_  
-	*ask*; None
+	*ask*; use an interrogative sentence; request information
 
 ### ie
 _verb_  
-	*constancy*; None
+	*constancy*; stay the same
 
 ### ief
 _noun_  
@@ -1527,7 +1539,7 @@ _verb_
 
 ### ieid
 _noun_  
-	*grylloblattodea*; None
+	*grylloblattodea*; ice bus, ice crawlers, and rock crawers
 
 ### ieik
 _verb_  
@@ -1535,7 +1547,7 @@ _verb_
 
 ### ielh
 _verb_  
-	*durability*; None
+	*durability*; resistance to breaking
 
 ### ielng
 _verb_  
@@ -1547,7 +1559,7 @@ _noun_
 
 ### iery
 _noun_  
-	*aplacophora*; None
+	*aplacophora*; shell-less molusks
 
 ### iesh
 _verb_  
@@ -1555,7 +1567,7 @@ _verb_
 
 ### iet
 _verb_  
-	*amplitude*; None
+	*amplitude*; brightness; volume; strength
 
 ### if
 _noun_  
@@ -1571,7 +1583,7 @@ _verb_
 
 ### ij
 _verb_  
-	*say*; None
+	*say*; use a declarative sentence; give information
 
 ### ijnguath
 _compound verb_  
@@ -1583,7 +1595,7 @@ _verb_
 
 ### iks
 _verb_  
-	*reference*; None
+	*reference*; refer to; consult with
 
 ### ilepsoid
 _loanword_  
@@ -1591,7 +1603,7 @@ _loanword_
 
 ### im
 _postposition_  
-	*via*; None
+	*via*; with; through; denotes tool or medium
 
 ### in
 _verb_  
@@ -1599,11 +1611,11 @@ _verb_
 
 ### ing
 _verb_  
-	*become*; None
+	*become*; the act of a state transitioning from falsehood to truth; often used in compound words with states
 
 ### ingess
 _compound verb_  
-	*sink*; None
+	*sink*; crouch
 
 ### ingfuj
 _compound verb_  
@@ -1615,23 +1627,27 @@ _loanword_
 
 ### ingoh
 _compound verb_  
-	*obtain*; None
+	*obtain*; the direct object from the indirect object
 
 ### ingrd
 _compound verb_  
-	*rise*; None
+	*rise*; jump
 
 ### ingvrong
 _compound verb_  
 	*unprogress*
 
+### ingyeu
+_compound verb_  
+	*break*; fall apart or crack
+
 ### io
 _qualifier_  
-	*all*; None
+	*all*; set of all instances
 
 ### iof
 _verb_  
-	*smartness*; None
+	*smartness*; the quality of understanding a lot of abstract concepts
 
 ### iol
 _verb_  
@@ -1643,7 +1659,7 @@ _verb_
 
 ### ior
 _verb_  
-	*blueness*; None
+	*blueness*; stimulation of S cones
 
 ### iory
 _noun_  
@@ -1659,7 +1675,7 @@ _verb_
 
 ### ir
 _fastener_  
-	*how-many*; None
+	*how-many*; specifies amount degree or number
 
 ### irdh
 _verb_  
@@ -1679,15 +1695,15 @@ _noun_
 
 ### irv
 _verb_  
-	*angle*; None
+	*angle*; angular distance with indirect object being centrum
 
 ### irz
 _verb_  
-	*wall-off*; None
+	*wall-off*; be a wall; subject is wall, direct object is thing on this side, indirect object is thing on other side
 
 ### is
 _verb_  
-	*lessness*; None
+	*lessness*; the subject does not exceed or match the indirect object in the direct object
 
 ### ish
 _verb_  
@@ -1715,7 +1731,7 @@ _noun_
 
 ### iu
 _noun_  
-	*F*; None
+	*F*; 15; only used for hexadecimal
 
 ### iub
 _verb_  
@@ -1723,15 +1739,19 @@ _verb_
 
 ### iudh
 _verb_  
-	*zenith*; None
+	*zenith*; angle down from azimuth with indirect object being origin; distance down page
 
 ### ium
 _verb_  
 	*anxiety*
 
+### iunaitedsteits
+_loanword_  
+	*United States*
+
 ### iuss
 _verb_  
-	*slowness*; None
+	*slowness*; inverse of rate of spacial motion
 
 ### iuth
 _verb_  
@@ -1739,11 +1759,11 @@ _verb_
 
 ### iuts
 _noun_  
-	*odonatoptera*; None
+	*odonatoptera*; dragonflies and damselflies
 
 ### iuv
 _verb_  
-	*cook*; None
+	*cook*; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave
 
 ### iuvthoy
 _compound verb_  
@@ -1751,15 +1771,15 @@ _compound verb_
 
 ### iuz
 _verb_  
-	*exhume*; None
+	*exhume*; uncover
 
 ### iv
 _verb_  
-	*right*; None
+	*right*; +x
 
 ### iy
 _postposition_  
-	*whether*; None
+	*whether*; denotes whether it happened; the argument here is basically always [`av`](#av) or [`l`](#l)
 
 ### iz
 _noun_  
@@ -1771,7 +1791,7 @@ _verb_
 
 ### ja
 _tense-marker_  
-	*bless*; None
+	*bless*; exclamatory
 
 ### jadh
 _verb_  
@@ -1783,15 +1803,15 @@ _noun_
 
 ### japss
 _noun_  
-	*ophiuroid*; None
+	*ophiuroid*; think 'seastar', but less brittle
 
 ### jarz
 _verb_  
 	*coldness*
 
 ### je
-_verb_  
-	*goof*; None
+_special_  
+	*\*; escape word
 
 ### jedh
 _noun_  
@@ -1799,7 +1819,7 @@ _noun_
 
 ### jeih
 _noun_  
-	*zigzag*; None
+	*zigzag*; a polygonal path thing
 
 ### jelt
 _noun_  
@@ -1819,7 +1839,7 @@ _verb_
 
 ### ji
 _fastener_  
-	*what-kind*; None
+	*what-kind*; denotes variety or attributes
 
 ### jid
 _noun_  
@@ -1835,11 +1855,11 @@ _noun_
 
 ### jobj
 _noun_  
-	*otidae*; None
+	*otidae*; bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds
 
 ### joh
 _noun_  
-	*ascidiacea*; None
+	*ascidiacea*; sea squirts
 
 ### jok
 _noun_  
@@ -1859,19 +1879,19 @@ _compound noun_
 
 ### jol
 _verb_  
-	*group*; None
+	*group*; associate with one another
 
 ### jolz
 _noun_  
-	*arowana*; None
+	*arowana*; bonytounges
 
 ### jops
 _noun_  
-	*day*; None
+	*day*; time unit
 
 ### jork
 _verb_  
-	*satisfyingness*; None
+	*satisfyingness*; the good feeling produced by snapping parts together or popping bubble wrap
 
 ### jos
 _verb_  
@@ -1891,7 +1911,7 @@ _verb_
 
 ### jraf
 _noun_  
-	*image*; None
+	*image*; in the most general sense
 
 ### jrafkiong
 _compound noun_  
@@ -1899,19 +1919,19 @@ _compound noun_
 
 ### jrat
 _verb_  
-	*period*; None
+	*period*; inverse of rate at which something oscillates, progresses, or decays
 
 ### jrdh
 _verb_  
-	*stand-up*; None
+	*stand-up*; posture
 
 ### jre
 _noun_  
-	*zamiaceae*; None
+	*zamiaceae*; cycads that are superficially palm or fern-like
 
 ### jreu
 _verb_  
-	*be-in*; None
+	*be-in*; a situation
 
 ### jri
 _verb_  
@@ -1927,7 +1947,7 @@ _verb_
 
 ### jrot
 _verb_  
-	*softness*; None
+	*softness*; tendency to conform shape
 
 ### jrov
 _verb_  
@@ -1935,7 +1955,7 @@ _verb_
 
 ### jrs
 _verb_  
-	*trail*; None
+	*trail*; a person or thing
 
 ### jrun
 _verb_  
@@ -1951,15 +1971,15 @@ _verb_
 
 ### judh
 _noun_  
-	*Sol*; None
+	*Sol*; our sun
 
 ### jugzh
 _verb_  
-	*whisper*; None
+	*whisper*; speak without voicing
 
 ### juj
 _noun_  
-	*canine*; None
+	*canine*; describes wolves, dingoes, and foxes
 
 ### jujdhing
 _compound noun_  
@@ -1967,11 +1987,11 @@ _compound noun_
 
 ### k
 _pronoun_  
-	*you*; None
+	*you*; the listener
 
 ### kaih
 _verb_  
-	*pleasure*; None
+	*pleasure*; basic euphoria from food, music, or sex
 
 ### kaiz
 _verb_  
@@ -1979,7 +1999,7 @@ _verb_
 
 ### kaj
 _verb_  
-	*medicate*; None
+	*medicate*; tend-to; treat; doctor
 
 ### kanggres
 _loanword_  
@@ -2003,7 +2023,7 @@ _verb_
 
 ### kef
 _verb_  
-	*desaturation*; None
+	*desaturation*; blandness of color
 
 ### kej
 _noun_  
@@ -2011,11 +2031,11 @@ _noun_
 
 ### ken
 _verb_  
-	*dimensionality*; None
+	*dimensionality*; i.e. 2D or 3D
 
 ### keng
 _verb_  
-	*correspond*; None
+	*correspond*; relate - not write
 
 ### kerf
 _verb_  
@@ -2027,19 +2047,23 @@ _noun_
 
 ### kez
 _noun_  
-	*puffball*; None
+	*puffball*; fungus
 
 ### kiej
 _verb_  
-	*code-write*; None
+	*code-write*; program
+
+### kilogyam
+_loanword_  
+	*kilogram*
 
 ### kiong
 _noun_  
-	*topography*; None
+	*topography*; geography
 
 ### kish
 _verb_  
-	*parse*; None
+	*parse*; interpret information encoded somehow
 
 ### kisk
 _noun_  
@@ -2075,7 +2099,7 @@ _verb_
 
 ### kozh
 _verb_  
-	*recept*; None
+	*recept*; receive something sent, not something given
 
 ### kre
 _noun_  
@@ -2087,19 +2111,19 @@ _loanword_
 
 ### kru
 _noun_  
-	*continent*; None
+	*continent*; e.g. North America, Eurasia
 
 ### krugi
 _compound noun_  
-	*subcontinent*; None
+	*subcontinent*; e.g. Europe, South Asia
 
 ### krv
 _noun_  
-	*crab*; None
+	*crab*; also includes lobsters
 
 ### kse
 _noun_  
-	*phasmid*; None
+	*phasmid*; stick and leaf insects
 
 ### ksedh
 _noun_  
@@ -2111,11 +2135,11 @@ _verb_
 
 ### ksh
 _pronoun_  
-	*us*; None
+	*us-here*; the speaker and the listener
 
 ### kshath
 _verb_  
-	*structural-integrity*; None
+	*structural-integrity*; resistance to breaking bending or deforming
 
 ### kshe
 _noun_  
@@ -2123,11 +2147,11 @@ _noun_
 
 ### kshim
 _noun_  
-	*tylopoda*; None
+	*tylopoda*; camels and llamas
 
 ### kshm
 _pronoun_  
-	*us-all*; None
+	*us-all*; the speaker, the listener, and others
 
 ### ksse
 _verb_  
@@ -2147,7 +2171,7 @@ _verb_
 
 ### kssri
 _noun_  
-	*percomorpha*; None
+	*percomorpha*; gobies, cichlids, flatfish, wrasse, and perches
 
 ### kssu
 _noun_  
@@ -2159,15 +2183,15 @@ _noun_
 
 ### kuh
 _verb_  
-	*problem*; None
+	*problem*; to pose a challenge, but not necessarily in a bad way
 
 ### kur
 _noun_  
-	*hoatzin*; None
+	*hoatzin*; some weird kind of bird
 
 ### l
 _special_  
-	*what*; None
+	*what*; missing information
 
 ### latium
 _loanword_  
@@ -2175,31 +2199,35 @@ _loanword_
 
 ### li
 _compound special_  
-	*who*; None
+	*to-which*; functions as the separate words [`l`](#l) and [`i`](#i)
 
 ### lia
 _compound special_  
-	*how-much*; None
+	*how-much*; functions as the separate words [`l`](#l) and [`ia`](#ia)
+
+### lity
+_loanword_  
+	*litre*
 
 ### lr
 _compound special_  
-	*to-which*; None
+	*who*; functions as the separate words [`l`](#l) and [`r`](#r)
 
 ### lu
 _compound special_  
-	*of-which*; None
+	*of-which*; functions as the separate words [`l`](#l) and [`u`](#u)
 
 ### m
 _pronoun_  
-	*them*; None
+	*them*; an agent besides the speaker and listener
 
 ### madh
 _noun_  
-	*philydracea*; None
+	*philydracea*; herbaceous monocotyledonous plants
 
 ### madj
 _verb_  
-	*hue*; None
+	*hue*; expressed colloquially as a color name, not an angle
 
 ### mam
 _verb_  
@@ -2211,11 +2239,11 @@ _verb_
 
 ### me
 _noun_  
-	*-*; None
+	*-*; negative
 
 ### mej
 _verb_  
-	*redness*; None
+	*redness*; stimulation of L cones
 
 ### mejzuey
 _compound verb_  
@@ -2223,11 +2251,11 @@ _compound verb_
 
 ### melt
 _verb_  
-	*hunger*; None
+	*hunger*; for food, sex, etc.
 
 ### meng
 _verb_  
-	*zoom*; None
+	*zoom*; gotta go fast
 
 ### merf
 _verb_  
@@ -2235,7 +2263,7 @@ _verb_
 
 ### merzh
 _verb_  
-	*fairness*; None
+	*fairness*; skin-color
 
 ### met
 _noun_  
@@ -2243,23 +2271,27 @@ _noun_
 
 ### meth
 _verb_  
-	*forget*; None
+	*forget*; a fact
+
+### mety
+_loanword_  
+	*meter*
 
 ### mih
 _verb_  
-	*fraction*; None
+	*fraction*; most/majority
 
 ### mis
 _verb_  
-	*intelligence*; None
+	*intelligence*; the innate ability to grasp a subject or concept
 
 ### mish
 _noun_  
-	*finger*; None
+	*finger*; toe
 
 ### mk
 _pronoun_  
-	*y'all*; None
+	*y'all*; the listener and others
 
 ### mo
 _noun_  
@@ -2267,7 +2299,7 @@ _noun_
 
 ### moi
 _verb_  
-	*print*; None
+	*print*; convert a digital object into a real one
 
 ### molp
 _noun_  
@@ -2279,7 +2311,7 @@ _verb_
 
 ### moudh
 _verb_  
-	*pride*; None
+	*pride*; the happiness associated with feeling like a productive member of society
 
 ### mozh
 _noun_  
@@ -2291,11 +2323,11 @@ _verb_
 
 ### mral
 _verb_  
-	*class*; None
+	*class*; the quality of being expensive and unneccesary
 
 ### mred
 _verb_  
-	*also-happen*; None
+	*also-happen*; describes things that happen in tandem
 
 ### mrh
 _verb_  
@@ -2303,11 +2335,11 @@ _verb_
 
 ### mro
 _verb_  
-	*downstreamness*; None
+	*downstreamness*; combine it with [`ing`](#ing) to get "flow"
 
 ### mrss
 _verb_  
-	*business-openness*; None
+	*business-openness*; can refer to activity in general
 
 ### mua
 _noun_  
@@ -2319,7 +2351,7 @@ _noun_
 
 ### mung
 _verb_  
-	*distance*; None
+	*distance*; physical or numerical
 
 ### mus
 _loanword_  
@@ -2331,7 +2363,7 @@ _noun_
 
 ### na
 _verb_  
-	*left*; None
+	*left*; -x
 
 ### nal
 _verb_  
@@ -2339,11 +2371,11 @@ _verb_
 
 ### nan
 _noun_  
-	*petrosaviaceae*; None
+	*petrosaviaceae*; flowering plants of Petrosaviales
 
 ### napsh
 _noun_  
-	*cycas*; None
+	*cycas*; some ancient tree-palm-fern things
 
 ### nar
 _noun_  
@@ -2351,11 +2383,11 @@ _noun_
 
 ### nas
 _noun_  
-	*automobile*; None
+	*automobile*; machine
 
 ### nay
 _noun_  
-	*cariamiforme*; None
+	*cariamiforme*; it's a flightless terrestrial bird
 
 ### ne
 _noun_  
@@ -2367,11 +2399,11 @@ _noun_
 
 ### nerb
 _noun_  
-	*otocephala*; None
+	*otocephala*; herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras
 
 ### ney
 _noun_  
-	*film*; None
+	*film*; the original meaning - thin thanslucent surfaces
 
 ### nga
 _noun_  
@@ -2379,7 +2411,7 @@ _noun_
 
 ### ngad
 _verb_  
-	*finish*; None
+	*finish*; end a long habitual process
 
 ### ngaf
 _verb_  
@@ -2387,7 +2419,7 @@ _verb_
 
 ### ngaim
 _noun_  
-	*hole*; None
+	*hole*; hallway; tube; gap
 
 ### ngaimopsh
 _compound noun_  
@@ -2395,7 +2427,7 @@ _compound noun_
 
 ### ngaj
 _noun_  
-	*eudicot*; None
+	*eudicot*; a generic plant clade
 
 ### ngalth
 _verb_  
@@ -2403,7 +2435,7 @@ _verb_
 
 ### ngang
 _verb_  
-	*oppose*; None
+	*oppose*; compete with
 
 ### ngaz
 _noun_  
@@ -2423,7 +2455,7 @@ _verb_
 
 ### ngelt
 _noun_  
-	*neoteleostei*; None
+	*neoteleostei*; jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes
 
 ### ngerz
 _verb_  
@@ -2435,7 +2467,7 @@ _verb_
 
 ### ngia
 _noun_  
-	*atmosphere*; None
+	*atmosphere*; weather
 
 ### ngiaj
 _noun_  
@@ -2443,7 +2475,7 @@ _noun_
 
 ### ngidh
 _verb_  
-	*join*; None
+	*join*; a group
 
 ### ngieng
 _verb_  
@@ -2453,9 +2485,13 @@ _verb_
 _noun_  
 	*soft-coral*
 
+### ngig
+_verb_  
+	*goof*; off
+
 ### ngij
 _noun_  
-	*point*; None
+	*point*; a particular time or place
 
 ### ngikss
 _noun_  
@@ -2463,11 +2499,11 @@ _noun_
 
 ### ngin
 _noun_  
-	*zorapteran*; None
+	*zorapteran*; a type of insect bug thing
 
 ### ngip
 _verb_  
-	*vibrancy*; None
+	*vibrancy*; diversity of color
 
 ### ngis
 _verb_  
@@ -2479,7 +2515,7 @@ _noun_
 
 ### ngo
 _verb_  
-	*ago*; None
+	*ago*; -t
 
 ### ngob
 _verb_  
@@ -2495,7 +2531,7 @@ _verb_
 
 ### ngoj
 _verb_  
-	*mediocrity*; None
+	*mediocrity*; be a layperson
 
 ### ngorz
 _verb_  
@@ -2503,7 +2539,7 @@ _verb_
 
 ### ngr
 _verb_  
-	*shortness*; None
+	*shortness*; physical distance; see [`rs`](#rs)
 
 ### ngra
 _verb_  
@@ -2511,15 +2547,15 @@ _verb_
 
 ### ngrag
 _verb_  
-	*birth-give*; None
+	*birth-give*; the physical act
 
 ### ngrh
 _verb_  
-	*appeal*; None
+	*appeal*; of a picture, sound, etc.
 
 ### ngrij
 _noun_  
-	*pecora*; None
+	*pecora*; basically anything with horns besides chevrotains, giraffes, and bovines
 
 ### ngrpsh
 _noun_  
@@ -2527,7 +2563,7 @@ _noun_
 
 ### ngru
 _noun_  
-	*scalidophora*; None
+	*scalidophora*; mud-dwelling tiny aquatic things
 
 ### ngry
 _verb_  
@@ -2535,15 +2571,15 @@ _verb_
 
 ### ngrzh
 _noun_  
-	*thing*; None
+	*thing*; tangible
 
 ### ngu
 _noun_  
-	*C*; None
+	*C*; 12; only used for hexadecimal
 
 ### nguath
 _verb_  
-	*wiseness*; None
+	*wiseness*; of a decision
 
 ### ngubj
 _noun_  
@@ -2551,7 +2587,7 @@ _noun_
 
 ### ngud
 _verb_  
-	*traverse*; None
+	*traverse*; typically compounded to make things like "swim", "climb", "gallop"
 
 ### nguei
 _noun_  
@@ -2579,7 +2615,7 @@ _verb_
 
 ### nguzh
 _verb_  
-	*weakness*; None
+	*weakness*; inability to exact force
 
 ### ni
 _conjunction_  
@@ -2595,7 +2631,7 @@ _noun_
 
 ### nioz
 _noun_  
-	*seal*; None
+	*seal*; includes walruses and maybe sea lions I think?
 
 ### nirzh
 _noun_  
@@ -2607,11 +2643,11 @@ _noun_
 
 ### no
 _verb_  
-	*inside*; None
+	*inside*; small distance from center
 
 ### nof
 _verb_  
-	*lie*; None
+	*lie*; deceive
 
 ### noj
 _verb_  
@@ -2623,7 +2659,7 @@ _verb_
 
 ### nop
 _noun_  
-	*primatomorpha*; None
+	*primatomorpha*; basically monkeys and apes plus a few other types of primate
 
 ### nosp
 _noun_  
@@ -2639,11 +2675,11 @@ _verb_
 
 ### nral
 _noun_  
-	*gladiator*; None
+	*gladiator*; it's a type of insect
 
 ### nre
 _verb_  
-	*ponder*; None
+	*ponder*; a subject
 
 ### nrim
 _noun_  
@@ -2659,7 +2695,7 @@ _noun_
 
 ### nruv
 _verb_  
-	*entrepreneur*; None
+	*entrepreneur*; solve large-scale problems
 
 ### nrzh
 _noun_  
@@ -2671,7 +2707,7 @@ _noun_
 
 ### nuag
 _verb_  
-	*function*; None
+	*function*; do what one is supposed to
 
 ### nuazh
 _verb_  
@@ -2679,7 +2715,7 @@ _verb_
 
 ### nubj
 _verb_  
-	*sentience*; None
+	*sentience*; I'm not going to try to define it here; I have a definition, but it cannot be put into words
 
 ### nueb
 _noun_  
@@ -2687,7 +2723,7 @@ _noun_
 
 ### nued
 _verb_  
-	*study*; None
+	*study*; a subject
 
 ### nuem
 _verb_  
@@ -2711,7 +2747,7 @@ _noun_
 
 ### o
 _fastener_  
-	*which-one*; None
+	*which-one*; describes a specific instance
 
 ### od
 _noun_  
@@ -2719,19 +2755,19 @@ _noun_
 
 ### odh
 _compound modifier_  
-	*the*; None
+	*the*; previously mentioned
 
 ### odj
 _verb_  
-	*violence*; None
+	*violence*; physical violence
 
 ### of
 _compound modifier_  
-	*a*; None
+	*a*; not previously mentioned
 
 ### og
 _verb_  
-	*forwardness*; None
+	*forwardness*; +y
 
 ### oh
 _verb_  
@@ -2739,7 +2775,7 @@ _verb_
 
 ### oi
 _verb_  
-	*attention-try*; None
+	*attention-try*; e.g. yell at the direct object or flash bright colors; see [`durss`](#durss)
 
 ### oib
 _noun_  
@@ -2747,7 +2783,7 @@ _noun_
 
 ### oibj
 _verb_  
-	*business-closedness*; None
+	*business-closedness*; can refer to dormancy in general
 
 ### oik
 _verb_  
@@ -2763,19 +2799,19 @@ _noun_
 
 ### oj
 _tense-marker_  
-	*fuck*; None
+	*fuck*; antiexclamatory
 
 ### ok
 _compound modifier_  
-	*that*; None
+	*that*; associated with listener
 
 ### olf
 _noun_  
-	*sea-cow*; None
+	*sea-cow*; like manatees
 
 ### ols
 _noun_  
-	*asparagoid-lily*; None
+	*asparagoid-lily*; minus orchids
 
 ### oltss
 _noun_  
@@ -2791,11 +2827,11 @@ _verb_
 
 ### om
 _compound modifier_  
-	*that-over-there*; None
+	*that-over-there*; associated with neither speaker nor listener
 
 ### on
 _verb_  
-	*index*; None
+	*index*; order in a list
 
 ### op
 _verb_  
@@ -2807,7 +2843,7 @@ _noun_
 
 ### or
 _postposition_  
-	*by*; None
+	*by*; as; denotes method
 
 ### ordh
 _verb_  
@@ -2815,7 +2851,7 @@ _verb_
 
 ### orh
 _verb_  
-	*togetherness*; None
+	*togetherness*; work as a team
 
 ### ory
 _noun_  
@@ -2827,15 +2863,15 @@ _verb_
 
 ### os
 _postposition_  
-	*at*; None
+	*at*; on; in; denotes date/time or instance number
 
 ### osh
 _compound modifier_  
-	*this*; None
+	*this*; associated with speaker
 
 ### oth
 _tense-marker_  
-	*merry*; None
+	*merry*; salutory
 
 ### ots
 _verb_  
@@ -2859,7 +2895,7 @@ _verb_
 
 ### oy
 _verb_  
-	*mismatch*; None
+	*mismatch*; fail to fit a situation well
 
 ### pa
 _noun_  
@@ -2867,15 +2903,15 @@ _noun_
 
 ### pai
 _noun_  
-	*gorgonian*; None
+	*gorgonian*; sea fans and sea whips
 
 ### pal
 _verb_  
-	*firmness*; None
+	*firmness*; tendency to hold shape
 
 ### pe
 _verb_  
-	*track*; None
+	*track*; follow a path
 
 ### ped
 _verb_  
@@ -2887,7 +2923,7 @@ _noun_
 
 ### pej
 _verb_  
-	*remember*; None
+	*remember*; to do something
 
 ### pel
 _noun_  
@@ -2899,35 +2935,35 @@ _noun_
 
 ### pen
 _verb_  
-	*fringity*; None
+	*fringity*; refers to being secondary or minor
 
 ### pess
 _verb_  
-	*care*; None
+	*care*; believe that something merits concern on a subconcious level; contrast with [`frzh`](#frzh)
 
 ### peu
 _verb_  
-	*cleverness*; None
+	*cleverness*; the innate ability to solve riddles and puzzles
 
 ### pey
 _noun_  
-	*chunk*; None
+	*chunk*; 10^3 days
 
 ### pezh
 _noun_  
-	*pine-tree*; None
+	*pine-tree*; includes cedars, firs, hemlocks, larches, and spruces
 
 ### pi
 _verb_  
-	*write*; None
+	*write*; etch symbols into something; record something in a physical object; save a file
 
 ### piam
 _noun_  
-	*moss*; None
+	*moss*; any embryophyte without xyla, like liverworts and hornworts, plus clubmoss and spikemoss and firemoss
 
 ### piar
 _verb_  
-	*sonority*; None
+	*sonority*; lowness of pitch
 
 ### pie
 _verb_  
@@ -2939,7 +2975,7 @@ _noun_
 
 ### pij
 _verb_  
-	*lead-to*; None
+	*lead-to*; be a door; subject is door, direct object is thing on this side, indirect object is thing on other side
 
 ### pizh
 _verb_  
@@ -2959,7 +2995,7 @@ _noun_
 
 ### prdh
 _noun_  
-	*forearm*; None
+	*forearm*; shin
 
 ### preu
 _noun_  
@@ -2971,11 +3007,11 @@ _verb_
 
 ### prj
 _noun_  
-	*settlement*; None
+	*settlement*; like a city or a town
 
 ### prth
 _verb_  
-	*patronize*; None
+	*patronize*; as in a customer going to a business
 
 ### prts
 _verb_  
@@ -2987,7 +3023,7 @@ _verb_
 
 ### pshazh
 _verb_  
-	*unappeal*; None
+	*unappeal*; of a picture, sound, etc.
 
 ### pshet
 _noun_  
@@ -2995,7 +3031,7 @@ _noun_
 
 ### pshr
 _verb_  
-	*citizenship*; None
+	*citizenship*; subject is citizen, direct object is state/sovereign/polity, like India or The Vatican
 
 ### pshrg
 _noun_  
@@ -3003,7 +3039,7 @@ _noun_
 
 ### pshu
 _verb_  
-	*act*; None
+	*act*; behave as though the direct object is true; do things in a certain manner
 
 ### pso
 _verb_  
@@ -3011,7 +3047,7 @@ _verb_
 
 ### psseth
 _noun_  
-	*euliptyphla*; None
+	*euliptyphla*; hedgehogs, moles, shrews, and a few other rodent-like things
 
 ### pssidh
 _verb_  
@@ -3023,11 +3059,11 @@ _noun_
 
 ### pssu
 _noun_  
-	*turtle*; None
+	*turtle*; includes tortoises and terrapins
 
 ### psu
 _noun_  
-	*monoplacophora*; None
+	*monoplacophora*; a type of molosk
 
 ### pu
 _verb_  
@@ -3043,23 +3079,23 @@ _noun_
 
 ### pun
 _verb_  
-	*strength*; None
+	*strength*; ability to exact force
 
 ### puong
 _verb_  
-	*dilate*; None
+	*dilate*; an image
 
 ### puop
 _noun_  
-	*era*; None
+	*era*; 10^5 days
 
 ### r
 _postposition_  
-	*ind*; None
+	*sbj*; denotes subject
 
 ### ra
 _verb_  
-	*equal*; None
+	*equal*; the subject matches the indirect object in the direct object
 
 ### radh
 _verb_  
@@ -3075,7 +3111,7 @@ _noun_
 
 ### rak
 _verb_  
-	*rest-on*; None
+	*rest-on*; to be on something
 
 ### ralp
 _noun_  
@@ -3083,7 +3119,7 @@ _noun_
 
 ### ram
 _verb_  
-	*embark*; None
+	*embark*; in the metaphorical sense; begin a long habitual process
 
 ### rang
 _verb_  
@@ -3095,11 +3131,11 @@ _verb_
 
 ### rat
 _noun_  
-	*chloranthale*; None
+	*chloranthale*; a family of unique tropical flowering shrubs
 
 ### rauj
 _noun_  
-	*palaeognatha*; None
+	*palaeognatha*; ostriches, rheas, tinamous, kiwis, cassowaries, and emus
 
 ### raun
 _verb_  
@@ -3107,7 +3143,7 @@ _verb_
 
 ### rav
 _verb_  
-	*forward-to-look*; None
+	*forward-to-look*; like [`yeing`](#yeing)
 
 ### rb
 _verb_  
@@ -3119,11 +3155,11 @@ _noun_
 
 ### rd
 _verb_  
-	*height*; None
+	*height*; +z
 
 ### rdh
 _verb_  
-	*disbelieve*; None
+	*disbelieve*; have a negative reaction to an idea
 
 ### re
 _noun_  
@@ -3133,13 +3169,17 @@ _noun_
 _verb_  
 	*availability*
 
+### reidien
+_loanword_  
+	*radian*
+
 ### relb
 _noun_  
 	*loon*
 
 ### rem
 _verb_  
-	*synergize*; None
+	*synergize*; constructively interfere
 
 ### rer
 _verb_  
@@ -3155,11 +3195,11 @@ _noun_
 
 ### rey
 _verb_  
-	*rotate*; None
+	*rotate*; about the direct object
 
 ### rf
 _verb_  
-	*suckiness*; None
+	*suckiness*; unskillfulness
 
 ### rg
 _verb_  
@@ -3168,6 +3208,10 @@ _verb_
 ### rh
 _noun_  
 	*8*
+
+### ri
+_verb_  
+	*amongness*; among the object
 
 ### rih
 _verb_  
@@ -3179,7 +3223,7 @@ _verb_
 
 ### rip
 _noun_  
-	*ginkgo biloba*; None
+	*ginkgo biloba*; a unique Japanese tree
 
 ### rish
 _verb_  
@@ -3187,15 +3231,15 @@ _verb_
 
 ### risp
 _verb_  
-	*into-ness*; None
+	*into-ness*; direct object is long/deep thing
 
 ### rj
 _verb_  
-	*spend-time*; None
+	*spend-time*; with someone
 
 ### rk
 _postposition_  
-	*regarding*; None
+	*regarding*; WRT; denotes context
 
 ### rm
 _noun_  
@@ -3203,19 +3247,19 @@ _noun_
 
 ### rng
 _noun_  
-	*A*; None
+	*A*; 10; only used for duodecimal and hexadecimal
 
 ### ro
 _verb_  
-	*be*; None
+	*be*; this is ==, not .equals(
 
 ### rodh
 _noun_  
-	*notopteroide*; None
+	*notopteroide*; aba, elephantfishes, and featherfin knives
 
 ### rof
 _noun_  
-	*eufalconimorpha*; None
+	*eufalconimorpha*; falcons, passerines, parrots, caracaras, and forest falcons
 
 ### roh
 _noun_  
@@ -3231,11 +3275,11 @@ _verb_
 
 ### ror
 _noun_  
-	*mustelidae*; None
+	*mustelidae*; weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines
 
 ### rosk
 _noun_  
-	*fact*; None
+	*fact*; not necessarily true, but necessarily objective
 
 ### roth
 _noun_  
@@ -3243,7 +3287,7 @@ _noun_
 
 ### rou
 _noun_  
-	*adult*; None
+	*adult*; older than 7 chunks or so
 
 ### rozh
 _verb_  
@@ -3259,15 +3303,15 @@ _verb_
 
 ### rs
 _verb_  
-	*youth*; None
+	*youth*; length of time; applies to objects and events as well as people
 
 ### rsh
 _verb_  
-	*betweenness*
+	*betweenness*; between the direct and indirect objects
 
 ### rsk
 _noun_  
-	*coraciimorpha*; None
+	*coraciimorpha*; some smallish generally tree-dwelling birds
 
 ### rss
 _verb_  
@@ -3275,7 +3319,7 @@ _verb_
 
 ### rt
 _verb_  
-	*salutate*
+	*greet*
 
 ### rth
 _verb_  
@@ -3283,7 +3327,7 @@ _verb_
 
 ### rtsh
 _noun_  
-	*amblypygus*; None
+	*amblypygus*; they look like spiders, but produce no web or venom
 
 ### ru
 _verb_  
@@ -3303,15 +3347,15 @@ _verb_
 
 ### ry
 _verb_  
-	*originate*; None
+	*transition*; represents delta vector between any two states
 
 ### sa
 _noun_  
-	*Hexadec*; None
+	*Hexadec*; 16; only used to describe hexadecimal
 
 ### se
 _qualifier_  
-	*even*; None
+	*even*; stressed
 
 ### seu
 _verb_  
@@ -3319,19 +3363,19 @@ _verb_
 
 ### sh
 _pronoun_  
-	*me*; None
+	*me*; the speaker
 
 ### shaid
 _verb_  
-	*arrange*; None
+	*arrange*; in an order
 
 ### sharm
 _noun_  
-	*trichoplax*; None
+	*trichoplax*; real small and thin sponge-like animals
 
 ### shasht
 _noun_  
-	*region*; None
+	*region*; an area in space of a period of time
 
 ### shaz
 _verb_  
@@ -3347,11 +3391,11 @@ _noun_
 
 ### shi
 _noun_  
-	*E*; None
+	*E*; 14; only used for hexadecimal
 
 ### shib
 _noun_  
-	*hanguanacea*; None
+	*hanguanacea*; terrestrial herbaceous Austrolasian plants
 
 ### shie
 _noun_  
@@ -3363,7 +3407,43 @@ _noun_
 
 ### shif
 _verb_  
-	*divide*
+	*divide*; into the direct object
+
+### shifang
+_compound verb_  
+	*divide-in-quarters*
+
+### shifev
+_compound verb_  
+	*divide-in-sixths*
+
+### shifiu
+_compound verb_  
+	*divide-in-fifteenths*
+
+### shifngu
+_compound verb_  
+	*divide-in-twelfths*
+
+### shifod
+_compound verb_  
+	*divide-in-half*
+
+### shifpo
+_compound verb_  
+	*divide-in-sevenths*
+
+### shifre
+_compound verb_  
+	*divide-in-thirds*
+
+### shifrng
+_compound verb_  
+	*divide-in-tenths*
+
+### shifzha
+_compound verb_  
+	*divide-in-fifths*
 
 ### shin
 _noun_  
@@ -3371,7 +3451,7 @@ _noun_
 
 ### shiodh
 _verb_  
-	*subject*; None
+	*subject*; focus on
 
 ### shiom
 _noun_  
@@ -3387,7 +3467,7 @@ _verb_
 
 ### shis
 _noun_  
-	*cattail-plant*; None
+	*cattail-plant*; typhaceae
 
 ### shkam
 _verb_  
@@ -3399,7 +3479,7 @@ _noun_
 
 ### shko
 _verb_  
-	*hallucinate*; None
+	*hallucinate*; dream
 
 ### shkri
 _verb_  
@@ -3407,7 +3487,7 @@ _verb_
 
 ### shm
 _pronoun_  
-	*us-here*; None
+	*us*; the speaker and others
 
 ### sho
 _noun_  
@@ -3419,11 +3499,11 @@ _verb_
 
 ### shoish
 _noun_  
-	*discoreales*; None
+	*discoreales*; monocotyledonous flowering plants
 
 ### shorss
 _verb_  
-	*brittleness*; None
+	*brittleness*; tendency to shatter when force is applied, without bending
 
 ### shoy
 _noun_  
@@ -3435,11 +3515,11 @@ _noun_
 
 ### shpel
 _noun_  
-	*embiidina*; None
+	*embiidina*; web-spinning insects
 
 ### shpep
 _noun_  
-	*elder*; None
+	*elder*; senior citizen
 
 ### shpi
 _noun_  
@@ -3447,15 +3527,15 @@ _noun_
 
 ### shpum
 _noun_  
-	*plecaniforme*; None
+	*plecaniforme*; pelicans and similar things
 
 ### shrf
 _noun_  
-	*earth-star*; None
+	*earth-star*; fungus
 
 ### shrng
 _verb_  
-	*specialness*; None
+	*specialness*; uniqueness
 
 ### shtep
 _verb_  
@@ -3483,15 +3563,15 @@ _noun_
 
 ### sig
 _noun_  
-	*whale*; None
+	*whale*; also refers to dolphins and porpoises
 
 ### skadh
 _verb_  
-	*unstable*; None
+	*unstable*; diminished chord or scale
 
 ### skelf
 _special_  
-	*backspace*; None
+	*backspace*; ingnore previous few words
 
 ### ski
 _noun_  
@@ -3503,7 +3583,7 @@ _verb_
 
 ### so
 _verb_  
-	*aptitude*; None
+	*aptitude*; fit a situation well
 
 ### sob
 _verb_  
@@ -3515,19 +3595,19 @@ _verb_
 
 ### sof
 _noun_  
-	*acarus*; None
+	*acarus*; mites and ticks
 
 ### soih
 _verb_  
-	*in-season*; None
+	*in-season*; a time of year when something is "in"
 
 ### son
 _noun_  
-	*curve*; None
+	*curve*; any smooth path
 
 ### soth
 _verb_  
-	*tanness*; None
+	*tanness*; skin-color
 
 ### sou
 _verb_  
@@ -3547,7 +3627,7 @@ _verb_
 
 ### spej
 _verb_  
-	*ill-informedness*; None
+	*ill-informedness*; of a decision
 
 ### sprth
 _verb_  
@@ -3559,7 +3639,11 @@ _verb_
 
 ### srdh
 _noun_  
-	*pandan*; None
+	*pandan*; a type of plant
+
+### sringyeu
+_compound verb_  
+	*cause-to-break*
 
 ### srz
 _verb_  
@@ -3571,7 +3655,7 @@ _noun_
 
 ### ssazh
 _noun_  
-	*apterygota*; None
+	*apterygota*; silverfish, firebrat, and jumping bristletails
 
 ### sse
 _verb_  
@@ -3579,7 +3663,7 @@ _verb_
 
 ### ssek
 _noun_  
-	*span*; None
+	*span*; 10^-3 days
 
 ### sseu
 _noun_  
@@ -3591,15 +3675,15 @@ _verb_
 
 ### ssi
 _verb_  
-	*call*; None
+	*call*; digital
 
 ### ssissp
 _noun_  
-	*giraffe*; None
+	*giraffe*; and okapi
 
 ### sso
 _verb_  
-	*relate*; None
+	*relate*; to a topic
 
 ### ssouh
 _verb_  
@@ -3607,15 +3691,15 @@ _verb_
 
 ### sspith
 _verb_  
-	*jump*; None
+	*jump*; over the indirect object onto the direct object
 
 ### sspoi
 _noun_  
-	*elopomorpha*; None
+	*elopomorpha*; ladyfishes, tarpons, and bonefishes, but not eels
 
 ### sspoj
 _verb_  
-	*name*; None
+	*name*; indirect object is person, direct object is name
 
 ### sspuf
 _verb_  
@@ -3631,15 +3715,15 @@ _verb_
 
 ### ssrek
 _noun_  
-	*protacanthopterygii*; None
+	*protacanthopterygii*; salmons, trouts, pikes, dragonfishes, and smelts
 
 ### ssrh
 _verb_  
-	*freeness*; None
+	*freeness*; time management
 
 ### ssri
 _verb_  
-	*elevation*; None
+	*elevation*; angle up from antiazimuth with indirect object being origin; height on page
 
 ### ssridh
 _noun_  
@@ -3647,11 +3731,11 @@ _noun_
 
 ### ssrig
 _verb_  
-	*apply*; None
+	*apply*; the subject is a process, the direct object is something that undergoes that process
 
 ### ssro
 _noun_  
-	*branchiopod*; None
+	*branchiopod*; a few types of shrimp
 
 ### ssrof
 _verb_  
@@ -3671,7 +3755,7 @@ _verb_
 
 ### ssta
 _verb_  
-	*imply*; None
+	*imply*; if-then
 
 ### sstoj
 _verb_  
@@ -3679,15 +3763,15 @@ _verb_
 
 ### sstua
 _noun_  
-	*landfowl*; None
+	*landfowl*; chickens, turkeys, and pheasants
 
 ### sstue
 _noun_  
-	*mecoptera*; None
+	*mecoptera*; flying scorpions!
 
 ### ssu
 _conjunction_  
-	*"*
+	*unquote*
 
 ### ssub
 _verb_  
@@ -3695,11 +3779,11 @@ _verb_
 
 ### ssuf
 _noun_  
-	*pontederiacea*; None
+	*pontederiacea*; a family of aquatic wetland plants
 
 ### ssuss
 _verb_  
-	*cluster*; None
+	*cluster*; be physically nearby
 
 ### ssuth
 _verb_  
@@ -3711,7 +3795,7 @@ _noun_
 
 ### suet
 _noun_  
-	*strepsiptera*; None
+	*strepsiptera*; twisted-wing parasites
 
 ### sui
 _verb_  
@@ -3731,7 +3815,7 @@ _noun_
 
 ### ta
 _verb_  
-	*unwant*; None
+	*unwant*; actively not want an object
 
 ### tai
 _verb_  
@@ -3759,19 +3843,19 @@ _verb_
 
 ### teizh
 _noun_  
-	*podocarpaceae*; None
+	*podocarpaceae*; a family of southern-hemisphere conifers
 
 ### tel
 _verb_  
-	*stab*; None
+	*stab*; puncture
 
 ### telng
 _noun_  
-	*plankton*; None
+	*plankton*; anything microscopic that belongs to nephrozoa
 
 ### tes
 _verb_  
-	*shout*; None
+	*shout*; raise one's voice
 
 ### tey
 _noun_  
@@ -3787,7 +3871,7 @@ _noun_
 
 ### the
 _verb_  
-	*read*; None
+	*read*; derive meaning from a physical object; load a file; contrast with [`ashzhiodh`](#ashzhiodh)
 
 ### thel
 _verb_  
@@ -3795,15 +3879,15 @@ _verb_
 
 ### thelb
 _verb_  
-	*remarkability*; None
+	*remarkability*; unlikeliness
 
 ### thelh
 _noun_  
-	*decapodiforme*; None
+	*decapodiforme*; includes squid and cuttlefish
 
 ### thelp
 _verb_  
-	*recall*; None
+	*recall*; a fact
 
 ### thengga
 _loanword_  
@@ -3811,7 +3895,7 @@ _loanword_
 
 ### ther
 _noun_  
-	*grass*; None
+	*grass*; poaceae
 
 ### thets
 _verb_  
@@ -3819,7 +3903,7 @@ _verb_
 
 ### theuz
 _noun_  
-	*alismatid-monocots*; None
+	*alismatid-monocots*; acorales and alismatales
 
 ### thez
 _verb_  
@@ -3827,11 +3911,11 @@ _verb_
 
 ### thi
 _verb_  
-	*quit*; None
+	*quit*; give up
 
 ### thiath
 _verb_  
-	*stand*; None
+	*stand*; structurally e.g. a building
 
 ### thiem
 _noun_  
@@ -3841,9 +3925,9 @@ _noun_
 _verb_  
 	*emit*
 
-### thiy
+### thiyk
 _verb_  
-	*clockwiseness*; None
+	*clockwiseness*; angular orientation from the point of view of the direct object
 
 ### tho
 _noun_  
@@ -3855,23 +3939,23 @@ _noun_
 
 ### thoj
 _verb_  
-	*power*; None
+	*power*; ability to enact change
 
 ### tholz
 _verb_  
-	*mean*; None
+	*mean*; big-picture meaning of things
 
 ### thom
 _noun_  
-	*landmass*; None
+	*landmass*; e.g. America, Afro-Eurasia
 
 ### thorn
 _verb_  
-	*beauty*; None
+	*beauty*; of a person
 
 ### thoub
 _verb_  
-	*craze*; None
+	*craze*; act erratically or illogically; does not necessarily refer to mental illness
 
 ### thouz
 _verb_  
@@ -3891,31 +3975,31 @@ _noun_
 
 ### thri
 _noun_  
-	*pantopod*; None
+	*pantopod*; they're like spiders, but in the ocean!
 
 ### thrm
 _verb_  
-	*parent*; None
+	*parent*; raise
 
 ### throdh
 _verb_  
-	*fragility*; None
+	*fragility*; tendency to break
 
 ### throg
 _verb_  
-	*expertness*; None
+	*expertness*; a person who is not a layperson
 
 ### thru
 _verb_  
-	*color*; None
+	*color*; ojbect is a color value, not a number
 
 ### thrudh
 _verb_  
-	*widdershinsness*; None
+	*widdershinsness*; angular orientation from the point of view of the direct object
 
 ### thrup
 _noun_  
-	*snap*; None
+	*snap*; 10^-5 days
 
 ### thruv
 _noun_  
@@ -3927,11 +4011,11 @@ _noun_
 
 ### thu
 _tense-marker_  
-	*good*; None
+	*good*; antisalutory
 
 ### thueth
 _noun_  
-	*lungfish*; None
+	*lungfish*; fish that breathe air
 
 ### thui
 _noun_  
@@ -3939,11 +4023,11 @@ _noun_
 
 ### thung
 _noun_  
-	*scandentia*; None
+	*scandentia*; treeshrews
 
 ### thup
 _noun_  
-	*megaloptera*; None
+	*megaloptera*; alderflies, dobsonflies, and fishflies
 
 ### thur
 _verb_  
@@ -3955,7 +4039,7 @@ _noun_
 
 ### thuss
 _noun_  
-	*blade*; None
+	*blade*; of grass
 
 ### thut
 _verb_  
@@ -3963,7 +4047,7 @@ _verb_
 
 ### thuth
 _verb_  
-	*table*; None
+	*table*; furniture
 
 ### ti
 _verb_  
@@ -3981,17 +4065,13 @@ _verb_
 _noun_  
 	*cockoroach*
 
-### tong
-_tense-marker_  
-	*please*; None
-
 ### tor
 _verb_  
-	*set*; None
+	*set*; be in a discrete collection with a finite number of other entities
 
 ### tosh
 _noun_  
-	*amborella*; None
+	*amborella*; a specific understory shrub on Grande Terre
 
 ### tozh
 _verb_  
@@ -4007,7 +4087,7 @@ _noun_
 
 ### trth
 _noun_  
-	*loop*; None
+	*loop*; closed path
 
 ### tsej
 _verb_  
@@ -4019,11 +4099,11 @@ _verb_
 
 ### tshat
 _verb_  
-	*apprehension*; None
+	*apprehension*; hesitative reaction to decisions
 
 ### tshe
 _noun_  
-	*notion*; None
+	*notion*; idea; not necessarily true or objective
 
 ### tsi
 _noun_  
@@ -4035,7 +4115,7 @@ _noun_
 
 ### tssat
 _noun_  
-	*shrew-oppossum*; None
+	*shrew-oppossum*; more closely related to Australia than possums
 
 ### tssov
 _noun_  
@@ -4047,7 +4127,7 @@ _noun_
 
 ### tssuj
 _verb_  
-	*ignorance*; None
+	*ignorance*; the quality of not knowing a lot of facts
 
 ### tssum
 _noun_  
@@ -4055,7 +4135,7 @@ _noun_
 
 ### tsu
 _noun_  
-	*opilione*; None
+	*opilione*; things that look like spiders
 
 ### tu
 _noun_  
@@ -4063,7 +4143,7 @@ _noun_
 
 ### tuash
 _noun_  
-	*umbrella-pine*; None
+	*umbrella-pine*; not technically a pine
 
 ### tue
 _verb_  
@@ -4071,19 +4151,19 @@ _verb_
 
 ### tueth
 _verb_  
-	*further*; None
+	*further*; a goal or agenda
 
 ### tuov
 _verb_  
-	*furnish*; None
+	*furnish*; as in furniture
 
 ### tur
 _verb_  
-	*virtuality*; None
+	*virtuality*; digitalness
 
 ### u
 _postposition_  
-	*obj*; None
+	*obj*; denotes direct object
 
 ### ua
 _verb_  
@@ -4111,11 +4191,11 @@ _noun_
 
 ### uau
 _noun_  
-	*tuatara*; None
+	*tuatara*; a lizard-type thing
 
 ### uauh
 _verb_  
-	*strive*; None
+	*strive*; toward a goal
 
 ### uay
 _verb_  
@@ -4135,15 +4215,15 @@ _noun_
 
 ### ud
 _verb_  
-	*tell*; None
+	*tell*; use an imperative sentence; instruct; command
 
 ### udh
 _verb_  
-	*tardiness*; None
+	*tardiness*; for meetings and such, or habitually
 
 ### ue
 _postposition_  
-	*for*; None
+	*for*; so; denotes purpose
 
 ### uebj
 _verb_  
@@ -4155,11 +4235,11 @@ _verb_
 
 ### ueid
 _verb_  
-	*lightness*; None
+	*lightness*; value of color
 
 ### ueps
 _noun_  
-	*rock*; None
+	*rock*; not necessarily earthy
 
 ### uerk
 _verb_  
@@ -4183,19 +4263,19 @@ _noun_
 
 ### ug
 _noun_  
-	*D*; None
+	*D*; 13; only used for hexadecimal
 
 ### uh
 _verb_  
-	*might*; None
+	*might*; possibly happen
 
 ### ui
 _verb_  
-	*know*; None
+	*know*; believe that something is true with certainty and be right
 
 ### uim
 _verb_  
-	*ugliness*; None
+	*ugliness*; of a person
 
 ### uin
 _verb_  
@@ -4203,11 +4283,11 @@ _verb_
 
 ### uis
 _verb_  
-	*strike*; None
+	*strike*; a swift decisive action
 
 ### uj
 _postposition_  
-	*because*; None
+	*because*; denotes cause
 
 ### uk
 _verb_  
@@ -4215,15 +4295,15 @@ _verb_
 
 ### um
 _verb_  
-	*unbecome*; None
+	*unbecome*; the act of a state ceasing to be true; often used in compound words with states
 
 ### ung
 _tense-marker_  
-	*?*; None
+	*?*; interrogative
 
 ### uo
 _noun_  
-	*10^*; None
+	*10^*; or 12^, or whatever depending on the radix
 
 ### uodh
 _verb_  
@@ -4231,15 +4311,15 @@ _verb_
 
 ### uoi
 _verb_  
-	*think-of*; None
+	*think-of*; come up with an idea
 
 ### uokss
 _noun_  
-	*concept*; None
+	*concept*; intangible
 
 ### uop
 _noun_  
-	*haemodoraceae*; None
+	*haemodoraceae*; plants that grow in dry places with distichous, equitable, isobifacial leaves
 
 ### uopss
 _verb_  
@@ -4247,11 +4327,11 @@ _verb_
 
 ### uorm
 _verb_  
-	*terror*; None
+	*terror*; the brief reaction to jump-scares that comes before actual fear or annoyance
 
 ### uory
 _noun_  
-	*scaphopod*; None
+	*scaphopod*; a type of molusk
 
 ### uos
 _noun_  
@@ -4259,11 +4339,11 @@ _noun_
 
 ### uou
 _noun_  
-	*less*; None
+	*less*; the comparison is assumed; for more precise comparisons, use [`is`](#is)
 
 ### up
 _verb_  
-	*end*; None
+	*end*; stop happening
 
 ### upsh
 _noun_  
@@ -4271,7 +4351,7 @@ _noun_
 
 ### ur
 _verb_  
-	*think*; None
+	*think*; conciously deciding that a fact is true; contrast with [`an`](#an)
 
 ### urdh
 _verb_  
@@ -4299,7 +4379,7 @@ _verb_
 
 ### urss
 _verb_  
-	*antibearing*; None
+	*antibearing*; widdershins from straight ahead with indirect object being origin
 
 ### urt
 _verb_  
@@ -4307,7 +4387,7 @@ _verb_
 
 ### urth
 _verb_  
-	*ease*; None
+	*ease*; of the subject for the direct object
 
 ### urzh
 _noun_  
@@ -4315,11 +4395,11 @@ _noun_
 
 ### us
 _verb_  
-	*jostle*; None
+	*jostle*; move in place
 
 ### ush
 _verb_  
-	*aversion*; None
+	*aversion*; to a task
 
 ### uss
 _noun_  
@@ -4327,23 +4407,15 @@ _noun_
 
 ### ut
 _verb_  
-	*exceed*; None
-
-### ut'ha
-_compound verb_  
-	*follow*; None
+	*exceed*; the subject exceeds the indirect object in the direct object
 
 ### uth
 _verb_  
-	*force*; None
-
-### utngo
-_compound verb_  
-	*precede*; None
+	*force*; impose one's will to make something be true
 
 ### uv
 _verb_  
-	*work*; None
+	*work*; do work or be productive
 
 ### uy
 _verb_  
@@ -4359,31 +4431,31 @@ _verb_
 
 ### va
 _fastener_  
-	*aka*; None
+	*aka*; draws equality
 
 ### van
 _verb_  
-	*flexibility*; None
+	*flexibility*; tendency to bend when force is applied
 
 ### vau
 _noun_  
-	*procellariid*; None
+	*procellariid*; albatrosses and petrels
 
 ### vej
 _noun_  
-	*bivalve*; None
+	*bivalve*; molusks with two valves
 
 ### vel
 _verb_  
-	*frequency*; None
+	*frequency*; rate at which something oscillates, progresses, or decays
 
 ### veth
 _verb_  
-	*feel*; None
+	*feel*; an emotion or feeling
 
 ### veuth
 _verb_  
-	*shrink*; None
+	*shrink*; an image
 
 ### vey
 _verb_  
@@ -4399,11 +4471,11 @@ _verb_
 
 ### vim
 _noun_  
-	*austrobaileyale*; None
+	*austrobaileyale*; a type of woody plant that produces anise and essential oils
 
 ### vip
 _verb_  
-	*awkwardness*; None
+	*awkwardness*; as a character trait
 
 ### vis
 _noun_  
@@ -4427,19 +4499,19 @@ _verb_
 
 ### vol
 _noun_  
-	*nymphaelaeale*; None
+	*nymphaelaeale*; a type of aquatic flowering plant, like lillies
 
 ### voln
 _verb_  
-	*trouble*; None
+	*trouble*; cause someone troubled feelings
 
 ### vong
 _verb_  
-	*speed*; None
+	*speed*; rate of spacial motion
 
 ### vorng
 _noun_  
-	*daytime*; None
+	*daytime*; ;25-;75 or 06:00-18:00 or whenever the sun is up
 
 ### voth
 _noun_  
@@ -4455,7 +4527,7 @@ _noun_
 
 ### voy
 _noun_  
-	*morning*; None
+	*morning*; ;00-;50 or 00:00-12:00
 
 ### vr
 _verb_  
@@ -4471,7 +4543,7 @@ _noun_
 
 ### vrdh
 _verb_  
-	*separation*; None
+	*separation*; individuality
 
 ### vrf
 _verb_  
@@ -4491,15 +4563,15 @@ _compound noun_
 
 ### vrong
 _verb_  
-	*backwardness*; None
+	*backwardness*; distance or fraction away from a goal or destination
 
 ### vrth
 _noun_  
-	*neuroptera*; None
+	*neuroptera*; lacewings, antlions, owlflies, and more
 
 ### vrud
 _noun_  
-	*gland*; None
+	*gland*; node or organ
 
 ### vrum
 _verb_  
@@ -4515,7 +4587,7 @@ _noun_
 
 ### vu
 _qualifier_  
-	*each*; None
+	*each*; every element individually
 
 ### vuadh
 _verb_  
@@ -4523,7 +4595,11 @@ _verb_
 
 ### vuam
 _verb_  
-	*prepare*; None
+	*prepare*; as in food
+
+### vub
+_tense-marker_  
+	*please*; polite imperative
 
 ### vulpes
 _loanword_  
@@ -4539,11 +4615,11 @@ _noun_
 
 ### vus
 _noun_  
-	*mushroom*; None
+	*mushroom*; or toadstool
 
 ### vuth
 _verb_  
-	*befriend*; None
+	*befriend*; the state of being friends
 
 ### vuv
 _noun_  
@@ -4567,7 +4643,7 @@ _verb_
 
 ### yay
 _verb_  
-	*rapidity*; None
+	*rapidity*; of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email
 
 ### yaz
 _verb_  
@@ -4579,7 +4655,7 @@ _verb_
 
 ### yeing
 _verb_  
-	*anticipation*; None
+	*anticipation*; like [`rav`](#rav)
 
 ### yej
 _noun_  
@@ -4587,11 +4663,11 @@ _noun_
 
 ### yesh
 _verb_  
-	*magentaness*; None
+	*magentaness*; stimulation of L and S cones
 
 ### yeu
 _verb_  
-	*break*; None
+	*brokenness*; having fallen apart or cracked
 
 ### yev
 _verb_  
@@ -4603,19 +4679,19 @@ _noun_
 
 ### yiai
 _noun_  
-	*vombatiforme*; None
+	*vombatiforme*; koalas and wombats
 
 ### yiak
 _verb_  
-	*attack*; None
+	*attack*; a sudden violent engagement
 
 ### yidh
 _tense-marker_  
-	*let*; None
+	*let*; beuracratic
 
 ### yih
 _verb_  
-	*intoxication*; None
+	*intoxication*; applies to alcohol as well as other drugs
 
 ### yikss
 _verb_  
@@ -4635,11 +4711,11 @@ _noun_
 
 ### yoth
 _noun_  
-	*horse*; None
+	*horse*; includes zebras and several varieties of wild butt
 
 ### yr
 _conjunction_  
-	*``*
+	*quote*
 
 ### yrad
 _verb_  
@@ -4671,7 +4747,7 @@ _verb_
 
 ### yror
 _verb_  
-	*model*; None
+	*model*; make an image of something
 
 ### yrudh
 _noun_  
@@ -4679,7 +4755,7 @@ _noun_
 
 ### yrv
 _noun_  
-	*fly*; None
+	*fly*; in the taxonomical sense excluding mosquitos and houseflies
 
 ### yu
 _noun_  
@@ -4687,7 +4763,7 @@ _noun_
 
 ### yua
 _verb_  
-	*flicker*; None
+	*flicker*; any rapid oscillation
 
 ### yuai
 _verb_  
@@ -4695,7 +4771,7 @@ _verb_
 
 ### yuev
 _noun_  
-	*entognatha*; None
+	*entognatha*; six-legged bugs that are not insects
 
 ### yuo
 _noun_  
@@ -4703,7 +4779,7 @@ _noun_
 
 ### yuosh
 _noun_  
-	*letter*; None
+	*letter*; phoneme; character
 
 ### yuozh
 _noun_  
@@ -4711,19 +4787,19 @@ _noun_
 
 ### yurng
 _verb_  
-	*rescind*; None
+	*rescind*; progress to a goal or agenda
 
 ### yut
 _noun_  
-	*stem*; None
+	*stem*; trunk
 
 ### zabz
 _noun_  
-	*beardworm*; None
+	*beardworm*; giant tube worms
 
 ### zadh
 _noun_  
-	*cupressacea*; None
+	*cupressacea*; junipers, redwoods, and some other types of conifers
 
 ### zait
 _verb_  
@@ -4731,7 +4807,7 @@ _verb_
 
 ### zaj
 _noun_  
-	*nemertea*; None
+	*nemertea*; ribbon worms or probiscis worms
 
 ### zau
 _noun_  
@@ -4739,11 +4815,11 @@ _noun_
 
 ### zazh
 _noun_  
-	*pelvis*; None
+	*pelvis*; hips
 
 ### zedh
 _noun_  
-	*element*; None
+	*element*; water, earth, fire, air, etc.
 
 ### zef
 _noun_  
@@ -4751,7 +4827,7 @@ _noun_
 
 ### zeg
 _noun_  
-	*bit*; None
+	*bit*; describes gravel and cereal
 
 ### zeib
 _verb_  
@@ -4763,7 +4839,7 @@ _verb_
 
 ### zeu
 _noun_  
-	*robot*; None
+	*robot*; anything with automated actuation
 
 ### zha
 _noun_  
@@ -4779,7 +4855,7 @@ _noun_
 
 ### zhar
 _verb_  
-	*flash*; None
+	*flash*; quickly emit bright light; also applies to sound and other sensations
 
 ### zhau
 _verb_  
@@ -4787,11 +4863,11 @@ _verb_
 
 ### zhay
 _noun_  
-	*ephedra*; None
+	*ephedra*; a type of shrub
 
 ### zhaz
 _noun_  
-	*shrimp*; None
+	*shrimp*; pretty loose descriptor of most eumalacostraca
 
 ### zhe
 _verb_  
@@ -4799,15 +4875,15 @@ _verb_
 
 ### zher
 _verb_  
-	*publicity*; None
+	*publicity*; be exposed to others
 
 ### zhes
 _verb_  
-	*coolness*; None
+	*coolness*; of a color
 
 ### zheth
 _verb_  
-	*shoot*; None
+	*shoot*; a projectile at something
 
 ### zheu
 _verb_  
@@ -4823,7 +4899,7 @@ _noun_
 
 ### zhiab
 _noun_  
-	*commelinacea*; None
+	*commelinacea*; plants with fleshy succulent leaves
 
 ### zhiad
 _verb_  
@@ -4831,7 +4907,7 @@ _verb_
 
 ### zhiah
 _verb_  
-	*stable*; None
+	*stable*; satisfying chord or scale
 
 ### zhie
 _verb_  
@@ -4839,15 +4915,15 @@ _verb_
 
 ### zhij
 _verb_  
-	*puzzle*; None
+	*puzzle*; present someone with confusion
 
 ### zhik
 _noun_  
-	*paraneoptera*; None
+	*paraneoptera*; bugs, thrips, and lice
 
 ### zhio
 _verb_  
-	*sharpness*; None
+	*sharpness*; of an edge or blade
 
 ### zhiodh
 _noun_  
@@ -4863,11 +4939,11 @@ _verb_
 
 ### zhior
 _verb_  
-	*court*; None
+	*court*; date
 
 ### zhir
 _verb_  
-	*cyanness*; None
+	*cyanness*; stimulation of M and S cones
 
 ### zhirng
 _noun_  
@@ -4895,7 +4971,7 @@ _verb_
 
 ### zho
 _verb_  
-	*scarcity*; None
+	*scarcity*; opposite of quantity
 
 ### zhom
 _verb_  
@@ -4907,7 +4983,7 @@ _verb_
 
 ### zhors
 _noun_  
-	*claw*; None
+	*claw*; of the sharp variety
 
 ### zhou
 _verb_  
@@ -4919,7 +4995,7 @@ _noun_
 
 ### zhrj
 _noun_  
-	*zingiberale*; None
+	*zingiberale*; a type of fowering plant that includes bananas, ginger, and birds of paradise
 
 ### zhrng
 _noun_  
@@ -4927,7 +5003,7 @@ _noun_
 
 ### zhrs
 _noun_  
-	*caecilian*; None
+	*caecilian*; blind legless amphibians
 
 ### zhry
 _noun_  
@@ -4935,7 +5011,7 @@ _noun_
 
 ### zhu
 _verb_  
-	*age*; None
+	*age*; length of time; applies to objects an events as well as people
 
 ### zhung
 _noun_  
@@ -4955,7 +5031,7 @@ _verb_
 
 ### zizh
 _verb_  
-	*play*; None
+	*play*; a game or a sport
 
 ### zo
 _verb_  
@@ -4967,7 +5043,7 @@ _noun_
 
 ### zoiss
 _verb_  
-	*lose*; None
+	*lose*; a contest
 
 ### zok
 _verb_  
@@ -4975,7 +5051,7 @@ _verb_
 
 ### zold
 _noun_  
-	*afroinsectiphilia*; None
+	*afroinsectiphilia*; golden moles, tenrecs, elephant, shrews, aardvarks, and some other things
 
 ### zom
 _noun_  
@@ -4987,11 +5063,11 @@ _noun_
 
 ### zoth
 _noun_  
-	*ke*; None
+	*ke*; 10^-2 days
 
 ### zou
 _noun_  
-	*soul*; None
+	*soul*; mind
 
 ### zoudh
 _noun_  
@@ -5003,15 +5079,15 @@ _noun_
 
 ### zr
 _verb_  
-	*toward*; None
+	*toward*; creates compound words with states to convert them to transitions
 
 ### zrm
 _verb_  
-	*idiocy*; None
+	*idiocy*; the innate inability to solve riddles and puzzles
 
 ### zrng
 _verb_  
-	*level*; None
+	*level*; general discrete measure of progress
 
 ### zrsht
 _verb_  
@@ -5035,7 +5111,7 @@ _noun_
 
 ### zual
 _verb_  
-	*stupidity*; None
+	*stupidity*; [https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]
 
 ### zuau
 _verb_  
@@ -5043,7 +5119,7 @@ _verb_
 
 ### zudh
 _verb_  
-	*hit*; None
+	*hit*; intentionally cause a collision with something
 
 ### zuef
 _noun_  
@@ -5051,15 +5127,15 @@ _noun_
 
 ### zuev
 _verb_  
-	*entertain*; None
+	*entertain*; as in a movie, play, or skit
 
 ### zuey
 _verb_  
-	*shade*; None
+	*shade*; darkness of color
 
 ### zuh
 _verb_  
-	*hand-off*; None
+	*hand-off*; exchange direct object via hands
 
 ### zui
 _noun_  
@@ -5067,39 +5143,39 @@ _noun_
 
 ### zuip
 _noun_  
-	*nematoid*; None
+	*nematoid*; parasitic worms FTW!
 
 ### zuis
 _noun_  
-	*polypodizoa*; None
+	*polypodizoa*; jellyfish-like parasites
 
 ### zun
 _noun_  
-	*scombroide*; None
+	*scombroide*; tunas and mackerels
 
 ### zung
 _verb_  
-	*engineer*; None
+	*engineer*; solve technical problems
 
 ### zuoss
 _verb_  
-	*convert*; None
+	*convert*; as in a rate or ratio
 
 ### zuot
 _noun_  
-	*cool-season-grass*; None
+	*cool-season-grass*; includes wheat, barley, oat, rye, and some lawn grasses
 
 ### zuoth
 _verb_  
-	*unintelligence*; None
+	*unintelligence*; the innate inability to grasp a subject or concept
 
 ### zuou
 _noun_  
-	*cephalochordata*; None
+	*cephalochordata*; lancelets and branchiostomidae
 
 ### zuov
 _noun_  
-	*hyrax*; None
+	*hyrax*; little rodent-like things
 
 ### zurn
 _noun_  

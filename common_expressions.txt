@@ -1,6 +1,6 @@
 Excuse me. [3->2]
 please excuse
-tong thez
+vub thez
 
 You are excused. [4->2]
 let excuse
@@ -32,7 +32,7 @@ jos
 
 I don't speak this language very well. [9->8]
 please to more than speed ly talk
-tong e gath ia vong au gidzhaps
+vub e gath ia vong au gidzhaps
 
 What does that mean? [4->2]
 ? denote
@@ -96,12 +96,12 @@ be ssr
 
 What about you? [4->2]
 ? you sbj
-ung k i
+ung k r
 
 My name is Claude. [4->5]
 name `` Bloo " obj
-sspoj yr Bloo ssu u
+sspoj `` Bloo " u
 
 Where is the bathroom? [5->5]
 ? what on bathroom sbj
-ung l ep fluirz'huy i
+ung l ep fluirz'huy r

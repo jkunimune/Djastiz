@@ -3,7 +3,7 @@
 "me (the speaker)",sh
 "you (the listener)",k
 "them (an agent besides the speaker and listener)",m
-"us-here (the speaker and the listener)",shm
+"us (the speaker and others)",shm
 "y'all (the listener and others)",mk
-"us (the speaker and others)",ksh
+"us-here (the speaker and the listener)",ksh
 "us-all (the speaker, the listener, and others)",kshm

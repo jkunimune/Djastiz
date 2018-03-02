@@ -25,12 +25,11 @@
 "dictionary",one-to-which- list word
 "alphabet",one-that- obj set letter
 "part-of-speech",one-to-which- categorize word
-"follow (be after)",exceed hence
-"precede (be before)",exceed ago
 "sink (crouch)",become depth
 "rise (jump)",become height
 "progress",become progress-level
 "unprogress",become backwardness
+"break (fall apart or crack)",become brokenness
 "see",passive-perceive sight
 "hear",passive-perceive sound
 "smell",passive-perceive scent
@@ -47,6 +46,7 @@
 "active-read",active-perceive written-language
 "talk",communicate spoken-language
 "compose (prose)",communicate written-language
+"cause-to-break",cause break
 "obtain (the direct object from the indirect object)",become possess
 "year",amount-of- period Earth
 "date",datetime day
@@ -67,3 +67,12 @@
 "map-projection",one what by transform map
 "empire",one-that-gets- citizenship size
 "brownness",redness shade
+"divide-in-half",divide 2
+"divide-in-thirds",divide 3
+"divide-in-quarters",divide 4
+"divide-in-fifths",divide 5
+"divide-in-sixths",divide 6
+"divide-in-sevenths",divide 7
+"divide-in-tenths",divide A
+"divide-in-twelfths",divide C
+"divide-in-fifteenths",divide F

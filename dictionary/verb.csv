@@ -76,6 +76,16 @@
 "left (-x)",na
 "forwardness (+y)",og
 "rearwardness (-y)",am
+"southernness",bav
+"northernness",zhupsh
+"easternness",iol
+"westernness",fozh
+"zenith (angle down from azimuth with indirect object being origin; distance down page)",iudh
+"elevation (angle up from antiazimuth with indirect object being origin; height on page)",ssri
+"bearing (clockwise from straight ahead with indirect object being origin)",dong
+"antibearing (widdershins from straight ahead with indirect object being origin)",urss
+"widdershinsness (angular orientation from the point of view of the direct object)",thrudh
+"clockwiseness (angular orientation from the point of view of the direct object)",thiyk
 "denote (mean in terms of word definitions)",eth
 "next (to be next in an order)",ass
 "persist",ru
@@ -97,7 +107,8 @@
 "move (around but not necessarily with a direction)",bo
 "jostle (move in place)",us
 "stillness",uzh
-"betweenness",rsh
+"betweenness (between the direct and indirect objects)",rsh
+"amongness (among the object)",ri
 "sense",ith
 "obliviousness",tr
 "write (etch symbols into something; record something in a physical object; save a file)",pi
@@ -117,7 +128,7 @@
 "hinder",ej
 "rescue",ye
 "meet",ba
-"salutate",rt
+"greet",rt
 "goodbye-say",ov
 "initiate",ke
 "interestingness",du
@@ -127,13 +138,13 @@
 "tardiness (for meetings and such, or habitually)",udh
 "activate",rss
 "music-make (an instrument)",eb
-"goof (off)",je
 "might (possibly happen)",uh
 "include",ish
-"originate (used to describe things coming ""from""),ia
+"originate (used to describe things coming ""from"")",af
 "transition (represents delta vector between any two states)",ry
 "truth-tell",ots
 "lie (deceive)",nof
+"goof (off)",ngig
 "group (associate with one another)",jol
 "set (be in a discrete collection with a finite number of other entities)",tor
 "surround",ngaf
@@ -182,8 +193,8 @@
 "distance (physical or numerical)",mung
 "nearness (physical or numerical)",fraj
 "example-pose",raun
-"angle (angular distance with direct object being centrum)",irv
-"acuteness (angular closeness with direct object being centrum)",hioss
+"angle (angular distance with indirect object being centrum)",irv
+"acuteness (angular closeness with indirect object being centrum)",hioss
 "business-openness (can refer to activity in general)",mrss
 "business-closedness (can refer to dormancy in general)",oibj
 "understand",fei
@@ -277,9 +288,9 @@
 "decide",kssi
 "subject (focus on)",shiodh
 "ignore",iazh
-"divide",shif
+"divide (into the direct object)",shif
 "combine",ngerz
-"break (physically fall apart or crack)",yeu
+"brokenness (having fallen apart or cracked)",yeu
 "leisure",uebj
 "fill (indirect object with direct object)",dhual
 "clear",zhau
@@ -299,7 +310,7 @@
 "coolness (of a color)",zhes
 "opacity",shuz
 "transparency",thur
-"color (amount is a color value, not a number)",thru
+"color (ojbect is a color value, not a number)",thru
 "involve",durng
 "reach",jron
 "jump (over the indirect object onto the direct object)",sspith
@@ -438,16 +449,6 @@
 "likeliness (P-value)",dhrol
 "remarkability (unlikeliness)",thelb
 "hallucinate (dream)",shko
-"southernness",bav
-"northernness",zhupsh
-"easternness",iol
-"westernness",fozh
-"zenith (angle down from azimuth; distance down page)",iudh
-"elevation (angle up from antiazimuth; height on page)",ssri
-"bearing (clockwise from straight ahead with direct object being origin)",dong
-"antibearing (widdershins from straight ahead with direct object being origin)",urss
-"widdershinsness (angular orientation from the point of view of the direct object)",thrudh
-"clockwiseness (angular orientation from the point of view of the direct object)",thiy
 "correspond (relate - not write)",keng
 "in-season (a time of year when something is ""in"")",soih
 "sharpness (of an edge or blade)",zhio
@@ -460,8 +461,8 @@
 "revolve",eks
 "mock",mra
 "disease-have",kssra
-"embark (in the metaphorical sense)",ram
-"finish (a long habitual journey)",ngad
+"embark (in the metaphorical sense; begin a long habitual process)",ram
+"finish (end a long habitual process)",ngad
 "structural-integrity (resistance to breaking bending or deforming)",kshath
 "brittleness (tendency to shatter when force is applied, without bending)",shorss
 "flexibility (tendency to bend when force is applied)",van

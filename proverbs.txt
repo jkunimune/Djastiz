@@ -1,6 +1,6 @@
 Running into a wall and falling over (failing monumentally at a simple task) [11->9]
 both to one-that- wall-off obj run and to fall
-ni e fliirz u ssrof a e doz
+ni e flrirz u ssrof a e doz
 
 I smell what you're stepping in. (I understand what you are saying.) [7->6]
 smell one of-which obj step obj
@@ -12,7 +12,7 @@ e ro vroddhing u
 
 Baker's dozen (14) [4->6]
 1 2 what-kind one-that- bake
-uf od ji fliiuvthoy
+uf od ji flriuvthoy
 
 Jesus, Mary, and Joseph Stalin (exclamation of surprise) [9->11]
 both Jesus and Mary and Joseph Stalin
@@ -20,12 +20,12 @@ ni Jesus a Mary a Joseph Stalin
 
 Up your butt and around the corner. (I don't know or care where that is.) [9->9]
 both butt which-one you into-ness and one-that- acuteness revolve at
-ni djru o k risp a flihioss eks os
+ni djru o k risp a flrhioss eks os
 
 We should take Bikini Bottom, and push it somewhere else! (That idea might just be crazy enough... ind GET US ALL KILLED!)[14->12]
 wiseness Bikini Bottom obj push place not this ind
-nguath Bikini Bottom u dhazh flep be osh r
+nguath Bikini Bottom u dhazh flep be osh i
 
 Are you so busy fighting you cannot see that your own ship has gone out to sea? (Your animosity has clouded your perception of unrelated, more important things.)[20->22]
 ? amount-of- attention violence obj because not be-able to see to boat which-one you sbj sea ind go obj obj
-ung fliadurss odj u uj be rv e brralp e flujeuthzef o k i zef r ag u u
+ung fliadurss odj u uj be rv e brralp e flujeuthzef o k r zef i ag u u

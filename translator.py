@@ -34,10 +34,11 @@ def translate_quoted(phrase, eng_to_dja={}):
 		for i in range(0, len(pieces)-1, 2):
 			try:
 				translated = translate_line(pieces[i+1], eng_to_dja)
-				phrase += pieces[i] + '`[' + translated + ']`(#' + translated + ')'
+				phrase += pieces[i] + '[`' + translated + '`](#' + translated + ')'
 			except ValueError as e:
 				phrase += pieces[i] + '"' + pieces[i+1] + '"'
 				print("Warning: missing word in definition notes" + str(e)[str(e).index(':'):])
+	return phrase
 
 
 def load_dictionary(directory):
@@ -131,7 +132,7 @@ def reverse_dictionary(djastiz_to_english, english_to_djastiz, djastiz_to_pos, e
 		f.write("# Word Guide\n\n")
 		f.write("This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.\n\n")
 		f.write(translate_line(
-				"dictionary what-kind to Modern-Djastiz obj English ind who completeness this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind Modern-Djastiz obj say alphabet which-one Latium one arrange by . one-that-gets- reference of-which need person of-which society who Modern-Djastiz obj follow any sbj obj",
+				"dictionary what-kind to Modern-Djastiz obj English ind who completeness this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind Modern-Djastiz obj say alphabet which-one Latium one arrange by . one-that-gets- reference of-which need person of-which society who Modern-Djastiz obj hence any sbj obj",
 				english_to_djastiz)+"\n")
 		f.write("______\n")
 		for djastiz in alphabetized:
