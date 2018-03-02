@@ -12,7 +12,7 @@
 		}
 		text {
 			font-family: Georgia, serif;
-			font-size: 10pt;
+			font-size: 2pt;
 			alignment-baseline: hanging;
 		}
 	</style>

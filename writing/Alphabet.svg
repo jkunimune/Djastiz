@@ -3,17 +3,17 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="-1 -1 99 140">
 	<style>
 		use {
-			fill: none;
-			stroke: #000000;
-			stroke-width: 1;
-			stroke-linecap: square;
-			stroke-linejoin: miter;
-			stroke-miterlimit: 3;
+			fill:none;stroke:#000000;
+			stroke:#000000;
+			stroke-width:1;
+			stroke-linecap:square;
+			stroke-linejoin:miter;
+			stroke-miterlimit:3;
 		}
 		text {
-			font-family: Georgia, serif;
-			font-size: 10pt;
-			alignment-baseline: hanging;
+			font-family:Georgia, serif;
+			font-size:10pt;
+			dominant-baseline:hanging;
 		}
 	</style>
 	<use href="ko.svg#char" x="0" y="0" />
