@@ -51,8 +51,6 @@ Djastiz,djastiz
 "10^ (or 12^, or whatever depending on the radix)",uo
 "radix",adh
 "maximum (the absolute)",ai
-"more (the comparison is assumed; for more precise comparisons, use ""exceed"")",gath
-"less (the comparison is assumed; for more precise comparisons, use ""lessness"")",uou
 "the-past",vi
 "the-future",ay
 "the-present",if
@@ -103,6 +101,7 @@ Djastiz,djastiz
 "tool",dhuih
 "female",ngubj
 "male",reuzh
+"neutered-or-spayed",shiy
 "person",dhap
 "child",jid
 "adolescent",ngrpsh
@@ -140,6 +139,9 @@ Djastiz,djastiz
 "leg",taud
 "foot",duaf
 "gland (node or organ)",vrud
+"penis",iub
+"vagina",yaz
+"breast",zhion
 "soul (mind)",zou
 "claw (of the sharp variety)",zhors
 "wing",zozh

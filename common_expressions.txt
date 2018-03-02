@@ -15,7 +15,7 @@ me obj
 sh u
 
 Sorry [apology]. [3->1]
-sorriness
+sorry
 nuem
 
 Apology accepted. [7->1]
@@ -23,16 +23,16 @@ me obj
 sh u
 
 Don't worry about it. [6->3]
-! not sorriness
+! not sorry
 bu be nuem
 
 Sorry [sympathetic]. [2->1]
 sympathize
 jos
 
-I don't speak this language very well. [9->8]
-please to more than speed ly talk
-vub e gath ia vong au gidzhaps
+I don't speak Djastiz very well. [9->8]
+please to more than to frequent ly talk
+vub e ut ia e vel au gidzhaps
 
 What does that mean? [4->2]
 ? denote

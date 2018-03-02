@@ -13,23 +13,25 @@
 "amount-of- (the extent of the following verb)",one what than
 "place",one what on
 "time (e.g. Tuesday, 4pm, 3;42)",one what at
-"cause-event",one what because
+"cause-event",one what thats-why
 "purpose",one what for
 "context",one what regarding
 "method",one what by
 "medium (tool)",one what via
-"Modern-Djastiz",Djastiz youth
+"Modern-Djastiz",Djastiz young
 "English",language England
 "Japanese",language Japan
 "German",language Germany
 "dictionary",one-to-which- list word
 "alphabet",one-that- obj set letter
 "part-of-speech",one-to-which- categorize word
-"sink (crouch)",become depth
-"rise (jump)",become height
-"progress",become progress-level
-"unprogress",become backwardness
-"break (fall apart or crack)",become brokenness
+"can-remember",can recall
+"memorize",become can-remember
+"sink (crouch)",become low
+"rise (jump)",become high
+"progress",become progressed
+"step-backward",become lagging
+"break (fall apart or crack)",become broken
 "see",passive-perceive sight
 "hear",passive-perceive sound
 "smell",passive-perceive scent
@@ -47,31 +49,31 @@
 "talk",communicate spoken-language
 "compose (prose)",communicate written-language
 "cause-to-break",cause break
-"lower",cause depth
-"raise",cause height
-"heat",cause temperature
-"cool",cause coldness
+"lower",cause sink
+"raise",cause rise
+"heat",cause hot
+"keep-cool",cause cold
 "obtain (the direct object from the indirect object)",become possess
-"year",amount-of- period Earth
-"date",datetime day
+"year",amount-of- periodic Earth
+"date",late day
 "birthday",date birth-give
-"pass (go near something)",go nearness
-"recommend",say wiseness
-"bake",cook dryness
+"pass (go near something)",go near
+"recommend",say should
+"bake",cook dry
 "boat",one-that-gets- ride sea
 "plane",one-that-gets- ride air
 "spaceship",one-that-gets- ride cosmos
-"bathroom",one-that-gets- wall-off cleanliness
+"bathroom",one-that-gets- wall-off clean
 "butthole",hole feces
 "cat",feline human
 "dog",canine human
-"subcontinent (e.g. Europe, South Asia)",continent smallness
+"subcontinent (e.g. Europe, South Asia)",continent small
 "dream",passive-perceive sleep
 "map",image topography
 "map-projection",one what by transform map
-"empire",one-that-gets- citizenship size
-"brownness",redness shade
-"air-conditioning",one-that- cool air
+"empire",one-that-gets- citizen big
+"brown",red dark
+"air-conditioning",one-that- keep-cool air
 "divide-in-half",divide 2
 "divide-in-thirds",divide 3
 "divide-in-quarters",divide 4

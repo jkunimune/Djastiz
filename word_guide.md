@@ -71,7 +71,7 @@ _noun_
 
 ### aln
 _verb_  
-	*positive-sentiment*
+	*positive-sentimental*
 
 ### alz
 _verb_  
@@ -79,7 +79,7 @@ _verb_
 
 ### am
 _verb_  
-	*rearwardness*; -y
+	*backward*; -y
 
 ### an
 _verb_  
@@ -91,7 +91,7 @@ _noun_
 
 ### ap
 _verb_  
-	*truthiness*
+	*true*
 
 ### ar
 _noun_  
@@ -143,7 +143,7 @@ _verb_
 
 ### asp
 _verb_  
-	*awe*
+	*awed*
 
 ### ass
 _verb_  
@@ -151,7 +151,7 @@ _verb_
 
 ### at
 _verb_  
-	*length*; physical distance; see [`zhu`](#zhu)
+	*long*; physical distance; maximum dimension; see "age"
 
 ### ath
 _noun_  
@@ -179,7 +179,7 @@ _noun_
 
 ### azh
 _verb_  
-	*liveliness*; be alive
+	*lively*; be alive
 
 ### ba
 _verb_  
@@ -187,11 +187,11 @@ _verb_
 
 ### bang
 _verb_  
-	*normality*; ununiqueness
+	*normal*; ununiqueness
 
 ### bav
 _verb_  
-	*southernness*
+	*south*
 
 ### be
 _qualifier_  
@@ -219,7 +219,7 @@ _verb_
 
 ### bin
 _verb_  
-	*tidiness*
+	*tidy*
 
 ### bioth
 _verb_  
@@ -231,7 +231,7 @@ _verb_
 
 ### bjau
 _verb_  
-	*courage*
+	*courageous*
 
 ### bjer
 _verb_  
@@ -303,7 +303,7 @@ _tense-marker_
 
 ### bzhe
 _verb_  
-	*smoothness*
+	*smooth*
 
 ### bzhesh
 _noun_  
@@ -315,7 +315,7 @@ _noun_
 
 ### bzhr
 _verb_  
-	*inability*; to enact change
+	*unable*; to enact change
 
 ### bzing
 _noun_  
@@ -327,7 +327,7 @@ _noun_
 
 ### bzur
 _verb_  
-	*mustiness*
+	*musty*
 
 ### da
 _verb_  
@@ -347,7 +347,7 @@ _noun_
 
 ### dalv
 _verb_  
-	*quietness*; dimness; softness; faintness
+	*quiet*; dimness; softness; faintness
 
 ### darh
 _noun_  
@@ -367,7 +367,7 @@ _noun_
 
 ### deidh
 _verb_  
-	*sadness*
+	*sad*
 
 ### delzh
 _noun_  
@@ -431,19 +431,19 @@ _qualifier_
 
 ### dhedh
 _verb_  
-	*activeness*; not lazy
+	*active*; not lazy
 
 ### dheg
 _verb_  
-	*sureness*; Bayesian probability
+	*sure*; Bayesian probability
 
 ### dhek
 _verb_  
-	*lameness*; the slangy definition, not the disability one
+	*lame*; the slangy definition, not the disability one
 
 ### dhelb
 _verb_  
-	*isolation*; socially
+	*introversion*
 
 ### dhem
 _noun_  
@@ -503,7 +503,7 @@ _noun_
 
 ### dhou
 _verb_  
-	*unlock*
+	*unlocked*
 
 ### dhoub
 _noun_  
@@ -519,11 +519,11 @@ _verb_
 
 ### dhri
 _verb_  
-	*nostalgia*
+	*nostalgic*
 
 ### dhrol
 _verb_  
-	*likeliness*; P-value
+	*likely*; P-value
 
 ### dhrozh
 _noun_  
@@ -547,7 +547,7 @@ _verb_
 
 ### dhual
 _verb_  
-	*fill*; indirect object with direct object
+	*full*; of indirect object
 
 ### dhuan
 _noun_  
@@ -555,11 +555,11 @@ _noun_
 
 ### dhue
 _verb_  
-	*sociality*; amount of socialization
+	*social*; amount of socialization
 
 ### dhuen
 _verb_  
-	*roughness*
+	*rough*
 
 ### dhuh
 _noun_  
@@ -571,7 +571,7 @@ _noun_
 
 ### dhuik
 _verb_  
-	*boredom*
+	*bored*; by the indirect object
 
 ### dhuj
 _noun_  
@@ -591,7 +591,7 @@ _noun_
 
 ### di
 _verb_  
-	*immorality*
+	*evil*
 
 ### dis
 _noun_  
@@ -607,7 +607,7 @@ _compound noun_
 
 ### dji
 _verb_  
-	*joy*
+	*joyful*
 
 ### djozh
 _noun_  
@@ -615,15 +615,11 @@ _noun_
 
 ### djri
 _verb_  
-	*conservativeness*
+	*conservative*; political
 
 ### djru
 _noun_  
 	*butt*
-
-### do
-_verb_  
-	*learn*
 
 ### dolt
 _noun_  
@@ -631,11 +627,11 @@ _noun_
 
 ### dong
 _verb_  
-	*bearing*; clockwise from straight ahead with indirect object being origin
+	*port*; clockwise from straight ahead with indirect object being origin
 
 ### dop
 _verb_  
-	*privacy*; be concealed or sheltered from the world
+	*private*; be concealed or sheltered from the world
 
 ### doz
 _verb_  
@@ -647,11 +643,11 @@ _verb_
 
 ### drz
 _verb_  
-	*greenness*; stimulation of M cones
+	*green*; stimulation of M cones
 
 ### du
 _verb_  
-	*interestingness*
+	*thin*; minimum dimension
 
 ### duaf
 _noun_  
@@ -663,7 +659,7 @@ _verb_
 
 ### duar
 _verb_  
-	*sector-publicity*; be in the public sector
+	*sector-public*; be in the public sector
 
 ### due
 _noun_  
@@ -679,7 +675,7 @@ _verb_
 
 ### duih
 _verb_  
-	*disgust*
+	*disgusted*
 
 ### duj
 _verb_  
@@ -703,7 +699,7 @@ _verb_
 
 ### dut
 _verb_  
-	*outof-ness*; direct object is long/deep thing
+	*out-of*; direct object is long/deep thing
 
 ### duv
 _verb_  
@@ -715,7 +711,7 @@ _verb_
 
 ### dze
 _verb_  
-	*worry*
+	*worried*
 
 ### dzezh
 _verb_  
@@ -723,11 +719,11 @@ _verb_
 
 ### dzhaz
 _verb_  
-	*knowledge*; the quality of knowing a lot of facts
+	*knowledgeable*; the state of knowing a lot of facts about the indirect object
 
 ### dzhiu
 _verb_  
-	*orthogonality*; straightness, evenness
+	*orthogonal*; straightness, evenness
 
 ### dzho
 _noun_  
@@ -735,7 +731,7 @@ _noun_
 
 ### dzog
 _verb_  
-	*pitch*
+	*shrill*; high pitch
 
 ### e
 _tense-marker_  
@@ -747,7 +743,7 @@ _verb_
 
 ### edh
 _verb_  
-	*effectiveness*
+	*effective*
 
 ### edj
 _verb_  
@@ -763,7 +759,7 @@ _verb_
 
 ### eidh
 _verb_  
-	*warmth*; of a color
+	*warm*; of a color
 
 ### eif
 _verb_  
@@ -779,7 +775,7 @@ _verb_
 
 ### eing
 _verb_  
-	*besideness*; to be on the side of
+	*beside*; to be on the side of
 
 ### ej
 _verb_  
@@ -811,7 +807,7 @@ _noun_
 
 ### elshk
 _verb_  
-	*dumbness*; the quality of not understanding many abstract concepts
+	*dumb*; the quality of not understanding many abstract concepts regarding the indirect object
 
 ### elz
 _noun_  
@@ -819,7 +815,7 @@ _noun_
 
 ### em
 _verb_  
-	*willingness*
+	*willing*
 
 ### en
 _verb_  
@@ -839,11 +835,11 @@ _postposition_
 
 ### erb
 _verb_  
-	*elasticity*; tendency to bend and then spring back
+	*elastic*; tendency to bend and then spring back
 
 ### erj
 _verb_  
-	*bladder-fullness*; the feeling of having to pee
+	*bladder-full*; the feeling of having to pee
 
 ### erng
 _verb_  
@@ -867,11 +863,11 @@ _verb_
 
 ### esht
 _verb_  
-	*after-name*
+	*interested*; in the indirect object
 
 ### ess
 _verb_  
-	*depth*; -z
+	*low*; -z
 
 ### eth
 _verb_  
@@ -883,7 +879,7 @@ _verb_
 
 ### eu
 _verb_  
-	*number*; exclusively applies to things with discrete amounts, like instances
+	*many*; exclusively applies to things with discrete amounts, like instances
 
 ### eug
 _noun_  
@@ -935,7 +931,7 @@ _noun_
 
 ### feg
 _verb_  
-	*yellowness*; stimulation of L and M cones
+	*yellow*; stimulation of L and M cones
 
 ### fei
 _verb_  
@@ -967,7 +963,7 @@ _noun_
 
 ### firg
 _verb_  
-	*primarity*; refers to generally being main or central
+	*primary*; refers to generally being main or central
 
 ### fis
 _verb_  
@@ -1067,7 +1063,7 @@ _compound noun_
 
 ### fo
 _verb_  
-	*quantity*; number or amount
+	*much*; number or amount
 
 ### foh
 _verb_  
@@ -1087,11 +1083,11 @@ _verb_
 
 ### fozh
 _verb_  
-	*westernness*
+	*west*
 
 ### fraj
 _verb_  
-	*nearness*; physical or numerical
+	*near*; physical or numerical
 
 ### frdh
 _verb_  
@@ -1139,7 +1135,7 @@ _noun_
 
 ### fuj
 _verb_  
-	*progress-level*; distance or fraction toward a goal or destination
+	*progressed*; distance or fraction toward a goal or destination
 
 ### fuksh
 _noun_  
@@ -1159,7 +1155,7 @@ _noun_
 
 ### futh
 _verb_  
-	*datetime*; like [`ha`](#ha)
+	*late*; +t; like [`ha`](#ha)
 
 ### futhjops
 _compound verb_  
@@ -1175,15 +1171,15 @@ _verb_
 
 ### gai
 _verb_  
-	*curiosity*
+	*curious*
 
 ### galaksi
 _loanword_  
 	*galaxy*
 
-### gath
-_noun_  
-	*more*; the comparison is assumed; for more precise comparisons, use [`ut`](#ut)
+### geb
+_verb_  
+	*dull*; of an edge or blade
 
 ### ged
 _noun_  
@@ -1191,7 +1187,7 @@ _noun_
 
 ### gef
 _verb_  
-	*commonness*; inverse of time between events in a series of happenings
+	*common*; inverse of time between events in a series of happenings
 
 ### gei
 _noun_  
@@ -1199,7 +1195,7 @@ _noun_
 
 ### geis
 _verb_  
-	*foolishness*
+	*foolish*; the state of not knowing how the world functions and how to live life well
 
 ### gek
 _noun_  
@@ -1215,7 +1211,7 @@ _noun_
 
 ### gi
 _verb_  
-	*smallness*
+	*small*
 
 ### giazh
 _verb_  
@@ -1243,11 +1239,11 @@ _verb_
 
 ### girg
 _verb_  
-	*physicality*; describes things in the physical realm
+	*physical*; describes things in the physical realm
 
 ### giss
 _verb_  
-	*viscocity*
+	*viscous*
 
 ### gith
 _verb_  
@@ -1259,7 +1255,7 @@ _noun_
 
 ### gju
 _verb_  
-	*griminess*
+	*dirty*
 
 ### gjuzh
 _noun_  
@@ -1307,11 +1303,11 @@ _verb_
 
 ### grz
 _verb_  
-	*freedom*
+	*free*
 
 ### guap
 _verb_  
-	*lethargy*; of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting
+	*laggy*; of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting
 
 ### gup
 _noun_  
@@ -1323,7 +1319,7 @@ _noun_
 
 ### guy
 _verb_  
-	*mass*
+	*massive*
 
 ### gzej
 _noun_  
@@ -1343,7 +1339,7 @@ _noun_
 
 ### ha
 _verb_  
-	*hence*; +t
+	*after*; +t
 
 ### hadj
 _noun_  
@@ -1379,7 +1375,7 @@ _verb_
 
 ### higj
 _verb_  
-	*uncommonness*; time between events in a series of happenings
+	*uncommon*; time between events in a series of happenings
 
 ### hin
 _verb_  
@@ -1395,7 +1391,7 @@ _noun_
 
 ### hioss
 _verb_  
-	*acuteness*; angular closeness with indirect object being centrum
+	*acute*; angular closeness with indirect object being centrum
 
 ### hirp
 _noun_  
@@ -1415,7 +1411,7 @@ _noun_
 
 ### hok
 _verb_  
-	*completeness*
+	*complete*
 
 ### hom
 _verb_  
@@ -1425,25 +1421,21 @@ _verb_
 _verb_  
 	*violate*; a rule
 
-### horth
-_verb_  
-	*emptiness*
-
 ### hos
 _verb_  
 	*beware*
 
 ### hot
 _verb_  
-	*sector-privacy*; be in the private sector
+	*sector-private*; be in the private sector
 
 ### hoth
 _verb_  
-	*nationality*; subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet
+	*national*; subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet
 
 ### houz
 _verb_  
-	*difficulty*; of the subject for the direct object
+	*difficult*; of the subject for the direct object
 
 ### hr
 _verb_  
@@ -1459,7 +1451,7 @@ _noun_
 
 ### hrey
 _verb_  
-	*purity*
+	*pure*
 
 ### hrng
 _noun_  
@@ -1483,11 +1475,11 @@ _verb_
 
 ### huh
 _verb_  
-	*negative-sentiment*
+	*negative-sentimental*
 
 ### huy
 _verb_  
-	*cleanliness*
+	*clean*
 
 ### i
 _postposition_  
@@ -1539,7 +1531,7 @@ _noun_
 
 ### iei
 _verb_  
-	*magicalness*
+	*magical*
 
 ### ieid
 _noun_  
@@ -1551,11 +1543,11 @@ _verb_
 
 ### ielh
 _verb_  
-	*durability*; resistance to breaking
+	*durable*; resistance to breaking
 
 ### ielng
 _verb_  
-	*wisdom*
+	*wise*; the state of knowing how the world functions and how to live life well
 
 ### ier
 _noun_  
@@ -1567,11 +1559,11 @@ _noun_
 
 ### iesh
 _verb_  
-	*computational-ease*
+	*quick*; computationally
 
 ### iet
 _verb_  
-	*amplitude*; brightness; volume; strength
+	*loud*; brightness; volume; strength
 
 ### if
 _noun_  
@@ -1637,9 +1629,13 @@ _compound verb_
 _compound verb_  
 	*rise*; jump
 
+### ingrvthelp
+_compound verb_  
+	*memorize*
+
 ### ingvrong
 _compound verb_  
-	*unprogress*
+	*step-backward*
 
 ### ingyeu
 _compound verb_  
@@ -1651,19 +1647,19 @@ _qualifier_
 
 ### iof
 _verb_  
-	*smartness*; the quality of understanding a lot of abstract concepts
+	*smart*; the quality of understanding a lot of abstract concepts regarding the indirect object
 
 ### iol
 _verb_  
-	*easternness*
+	*east*
 
 ### ion
 _verb_  
-	*rot*
+	*rotten*
 
 ### ior
 _verb_  
-	*blueness*; stimulation of S cones
+	*blue*; stimulation of S cones
 
 ### iory
 _noun_  
@@ -1683,7 +1679,7 @@ _fastener_
 
 ### irdh
 _verb_  
-	*crypticness*
+	*cryptic*
 
 ### irf
 _noun_  
@@ -1699,7 +1695,7 @@ _noun_
 
 ### irv
 _verb_  
-	*angle*; angular distance with indirect object being centrum
+	*wide*; angular distance with indirect object being centrum
 
 ### irz
 _verb_  
@@ -1707,7 +1703,7 @@ _verb_
 
 ### is
 _verb_  
-	*lessness*; the subject does not exceed or match the indirect object in the direct object
+	*less*; the subject is less than the indirect object
 
 ### ish
 _verb_  
@@ -1719,7 +1715,7 @@ _noun_
 
 ### iss
 _verb_  
-	*morality*
+	*moral*
 
 ### it
 _verb_  
@@ -1727,7 +1723,7 @@ _verb_
 
 ### ith
 _verb_  
-	*sense*
+	*thick*; minimum dimension
 
 ### itss
 _noun_  
@@ -1738,16 +1734,16 @@ _noun_
 	*F*; 15; only used for hexadecimal
 
 ### iub
-_verb_  
+_noun_  
 	*penis*
 
 ### iudh
 _verb_  
-	*zenith*; angle down from azimuth with indirect object being origin; distance down page
+	*down*; angle down from azimuth with indirect object being origin; distance down page
 
 ### ium
 _verb_  
-	*anxiety*
+	*anxious*
 
 ### iunaitedsteits
 _loanword_  
@@ -1755,7 +1751,7 @@ _loanword_
 
 ### iuss
 _verb_  
-	*slowness*; inverse of rate of spacial motion
+	*slow*; unmagnitude of time derivative of position
 
 ### iuth
 _verb_  
@@ -1799,7 +1795,7 @@ _tense-marker_
 
 ### jadh
 _verb_  
-	*politeness*
+	*polite*
 
 ### jan
 _noun_  
@@ -1811,7 +1807,7 @@ _noun_
 
 ### jarz
 _verb_  
-	*coldness*
+	*cold*
 
 ### je
 _special_  
@@ -1895,7 +1891,7 @@ _noun_
 
 ### jork
 _verb_  
-	*satisfyingness*; the good feeling produced by snapping parts together or popping bubble wrap
+	*satisfied*; the good feeling produced by snapping parts together or popping bubble wrap
 
 ### jos
 _verb_  
@@ -1907,7 +1903,7 @@ _verb_
 
 ### joz
 _verb_  
-	*excitement*
+	*excited*
 
 ### jra
 _verb_  
@@ -1923,7 +1919,7 @@ _compound noun_
 
 ### jrat
 _verb_  
-	*period*; inverse of rate at which something oscillates, progresses, or decays
+	*periodic*; inverse of rate at which something oscillates, progresses, or decays with respect to time
 
 ### jrdh
 _verb_  
@@ -1951,7 +1947,7 @@ _verb_
 
 ### jrot
 _verb_  
-	*softness*; tendency to conform shape
+	*soft*; tendency to conform shape
 
 ### jrov
 _verb_  
@@ -1963,7 +1959,7 @@ _verb_
 
 ### jrun
 _verb_  
-	*significance*
+	*significant*
 
 ### jry
 _verb_  
@@ -1995,7 +1991,7 @@ _pronoun_
 
 ### kaih
 _verb_  
-	*pleasure*; basic euphoria from food, music, or sex
+	*pleased*; basic euphoria from food, music, or sex
 
 ### kaiz
 _verb_  
@@ -2027,7 +2023,7 @@ _verb_
 
 ### kef
 _verb_  
-	*desaturation*; blandness of color
+	*desaturated*; blandness of color
 
 ### kej
 _noun_  
@@ -2035,7 +2031,7 @@ _noun_
 
 ### ken
 _verb_  
-	*dimensionality*; i.e. 2D or 3D
+	*dimensional*; i.e. 2D or 3D
 
 ### keng
 _verb_  
@@ -2043,7 +2039,7 @@ _verb_
 
 ### kerf
 _verb_  
-	*schadenfreude*
+	*schadenfreude-ful*
 
 ### keug
 _noun_  
@@ -2087,7 +2083,7 @@ _noun_
 
 ### kolf
 _verb_  
-	*wholeness*
+	*whole*
 
 ### kolng
 _noun_  
@@ -2099,7 +2095,7 @@ _verb_
 
 ### koup
 _verb_  
-	*importance*
+	*important*
 
 ### kozh
 _verb_  
@@ -2143,7 +2139,7 @@ _pronoun_
 
 ### kshath
 _verb_  
-	*structural-integrity*; resistance to breaking bending or deforming
+	*structural-strong*; resistance to breaking bending or deforming
 
 ### kshe
 _noun_  
@@ -2159,7 +2155,7 @@ _pronoun_
 
 ### ksse
 _verb_  
-	*fear*
+	*fearful*
 
 ### kssi
 _verb_  
@@ -2239,7 +2235,7 @@ _verb_
 
 ### mash
 _verb_  
-	*incompleteness*
+	*incomplete*
 
 ### me
 _noun_  
@@ -2247,15 +2243,15 @@ _noun_
 
 ### mej
 _verb_  
-	*redness*; stimulation of L cones
+	*red*; stimulation of L cones
 
 ### mejzuey
 _compound verb_  
-	*brownness*
+	*brown*
 
 ### melt
 _verb_  
-	*hunger*; for food, sex, etc.
+	*hungry*; for food, sex, etc.
 
 ### meng
 _verb_  
@@ -2267,7 +2263,7 @@ _verb_
 
 ### merzh
 _verb_  
-	*fairness*; skin-color
+	*fair*; skin-color
 
 ### met
 _noun_  
@@ -2275,7 +2271,7 @@ _noun_
 
 ### meth
 _verb_  
-	*forget*; a fact
+	*unmassive*
 
 ### mety
 _loanword_  
@@ -2283,11 +2279,11 @@ _loanword_
 
 ### mih
 _verb_  
-	*fraction*; most/majority
+	*much-of*; fraction; majority
 
 ### mis
 _verb_  
-	*intelligence*; the innate ability to grasp a subject or concept
+	*intelligent*; the innate ability to grasp a subject or concept
 
 ### mish
 _noun_  
@@ -2315,7 +2311,7 @@ _verb_
 
 ### moudh
 _verb_  
-	*pride*; the happiness associated with feeling like a productive member of society
+	*proud*; the happiness associated with feeling like a productive member of society
 
 ### mozh
 _noun_  
@@ -2327,7 +2323,7 @@ _verb_
 
 ### mral
 _verb_  
-	*class*; the quality of being expensive and unneccesary
+	*classy*; the quality of being expensive and unneccesary
 
 ### mred
 _verb_  
@@ -2335,15 +2331,15 @@ _verb_
 
 ### mrh
 _verb_  
-	*sarcasm*
+	*sarcastic*
 
 ### mro
 _verb_  
-	*downstreamness*; combine it with [`ing`](#ing) to get "flow"
+	*downstream*; combine it with [`ing`](#ing) to get "flow"
 
 ### mrss
 _verb_  
-	*business-openness*; can refer to activity in general
+	*business-open*; can refer to activity in general
 
 ### mua
 _noun_  
@@ -2355,7 +2351,7 @@ _noun_
 
 ### mung
 _verb_  
-	*distance*; physical or numerical
+	*far*; physical or numerical
 
 ### mus
 _loanword_  
@@ -2371,7 +2367,7 @@ _verb_
 
 ### nal
 _verb_  
-	*possibility*
+	*possible*
 
 ### nan
 _noun_  
@@ -2467,7 +2463,7 @@ _verb_
 
 ### ngi
 _verb_  
-	*skillfulness*
+	*skillful*
 
 ### ngia
 _noun_  
@@ -2483,7 +2479,7 @@ _verb_
 
 ### ngieng
 _verb_  
-	*dexterity*
+	*dexterous*
 
 ### ngif
 _noun_  
@@ -2507,7 +2503,7 @@ _noun_
 
 ### ngip
 _verb_  
-	*vibrancy*; diversity of color
+	*vibrant*; diversity of color
 
 ### ngis
 _verb_  
@@ -2519,11 +2515,11 @@ _noun_
 
 ### ngo
 _verb_  
-	*ago*; -t
+	*before*; -t
 
 ### ngob
 _verb_  
-	*apathy*
+	*apathetic*
 
 ### ngod
 _verb_  
@@ -2531,23 +2527,23 @@ _verb_
 
 ### ngoim
 _verb_  
-	*closedness*
+	*closed*
 
 ### ngoj
 _verb_  
-	*mediocrity*; be a layperson
+	*mediocre*; be a layperson
 
 ### ngorz
 _verb_  
-	*fance*
+	*fancy*
 
 ### ngr
 _verb_  
-	*shortness*; physical distance; see [`rs`](#rs)
+	*short*; physical distance; maximum dimension; see "youth"
 
 ### ngra
 _verb_  
-	*skewness*
+	*skew*
 
 ### ngrag
 _verb_  
@@ -2555,7 +2551,7 @@ _verb_
 
 ### ngrh
 _verb_  
-	*appeal*; of a picture, sound, etc.
+	*appealing*; of a picture, sound, etc.
 
 ### ngrij
 _noun_  
@@ -2571,7 +2567,7 @@ _noun_
 
 ### ngry
 _verb_  
-	*health*
+	*healthy*
 
 ### ngrzh
 _noun_  
@@ -2583,7 +2579,7 @@ _noun_
 
 ### nguath
 _verb_  
-	*wiseness*; of a decision
+	*should*; how good a decision is
 
 ### ngubj
 _noun_  
@@ -2619,7 +2615,7 @@ _verb_
 
 ### nguzh
 _verb_  
-	*weakness*; inability to exact force
+	*weak*; inability to exact force
 
 ### ni
 _conjunction_  
@@ -2653,10 +2649,6 @@ _verb_
 _verb_  
 	*lie*; deceive
 
-### noj
-_verb_  
-	*satisfaction*
-
 ### nol
 _verb_  
 	*poison-apply*
@@ -2675,7 +2667,7 @@ _verb_
 
 ### nr
 _verb_  
-	*clothedness*
+	*clothed*
 
 ### nral
 _noun_  
@@ -2715,7 +2707,7 @@ _verb_
 
 ### nuazh
 _verb_  
-	*sesquipedalianness*
+	*sesquipedalian*
 
 ### nubj
 _verb_  
@@ -2731,7 +2723,7 @@ _verb_
 
 ### nuem
 _verb_  
-	*sorriness*
+	*sorry*
 
 ### nuj
 _verb_  
@@ -2739,7 +2731,7 @@ _verb_
 
 ### nuo
 _verb_  
-	*obscurity*
+	*obscure*
 
 ### nup
 _noun_  
@@ -2763,7 +2755,7 @@ _compound modifier_
 
 ### odj
 _verb_  
-	*violence*; physical violence
+	*violent*; physical violence
 
 ### of
 _compound modifier_  
@@ -2771,7 +2763,7 @@ _compound modifier_
 
 ### og
 _verb_  
-	*forwardness*; +y
+	*forward*; +y
 
 ### oh
 _verb_  
@@ -2787,7 +2779,7 @@ _noun_
 
 ### oibj
 _verb_  
-	*business-closedness*; can refer to dormancy in general
+	*business-closed*; can refer to dormancy in general
 
 ### oik
 _verb_  
@@ -2827,7 +2819,7 @@ _noun_
 
 ### olz
 _verb_  
-	*taintedness*
+	*tainted*
 
 ### om
 _compound modifier_  
@@ -2851,11 +2843,11 @@ _postposition_
 
 ### ordh
 _verb_  
-	*notoriety*
+	*notorious*
 
 ### orh
 _verb_  
-	*togetherness*; work as a team
+	*together*; work as a team
 
 ### ory
 _noun_  
@@ -2863,7 +2855,7 @@ _noun_
 
 ### orzh
 _verb_  
-	*obviousness*
+	*obvious*
 
 ### os
 _postposition_  
@@ -2891,7 +2883,7 @@ _noun_
 
 ### ouzh
 _verb_  
-	*lock*
+	*locked*
 
 ### ov
 _verb_  
@@ -2899,7 +2891,7 @@ _verb_
 
 ### oy
 _verb_  
-	*mismatch*; fail to fit a situation well
+	*inapt*; fail to fit a situation well
 
 ### pa
 _noun_  
@@ -2911,7 +2903,7 @@ _noun_
 
 ### pal
 _verb_  
-	*firmness*; tendency to hold shape
+	*firm*; tendency to hold shape
 
 ### pe
 _verb_  
@@ -2919,7 +2911,7 @@ _verb_
 
 ### ped
 _verb_  
-	*temperature*
+	*hot*
 
 ### peiv
 _noun_  
@@ -2939,7 +2931,7 @@ _noun_
 
 ### pen
 _verb_  
-	*fringity*; refers to being secondary or minor
+	*fringe*; refers to being secondary or minor
 
 ### pess
 _verb_  
@@ -2947,7 +2939,7 @@ _verb_
 
 ### peu
 _verb_  
-	*cleverness*; the innate ability to solve riddles and puzzles
+	*clever*; the innate ability to solve riddles and puzzles
 
 ### pey
 _noun_  
@@ -2967,7 +2959,7 @@ _noun_
 
 ### piar
 _verb_  
-	*sonority*; lowness of pitch
+	*sonorous*; low pitch
 
 ### pie
 _verb_  
@@ -2983,7 +2975,7 @@ _verb_
 
 ### pizh
 _verb_  
-	*niceness*
+	*nice*
 
 ### po
 _noun_  
@@ -2991,7 +2983,7 @@ _noun_
 
 ### poj
 _verb_  
-	*maturity*
+	*mature*
 
 ### por
 _noun_  
@@ -3007,7 +2999,7 @@ _noun_
 
 ### prf
 _verb_  
-	*sobriety*
+	*sober*
 
 ### prj
 _noun_  
@@ -3023,11 +3015,11 @@ _verb_
 
 ### psav
 _verb_  
-	*liberalness*
+	*liberal*; political
 
 ### pshazh
 _verb_  
-	*unappeal*; of a picture, sound, etc.
+	*unappealing*; of a picture, sound, etc.
 
 ### pshet
 _noun_  
@@ -3035,7 +3027,7 @@ _noun_
 
 ### pshr
 _verb_  
-	*citizenship*; subject is citizen, direct object is state/sovereign/polity, like India or The Vatican
+	*citizen*; subject is citizen, direct object is state/sovereign/polity, like India or The Vatican
 
 ### pshrg
 _noun_  
@@ -3047,7 +3039,7 @@ _verb_
 
 ### pso
 _verb_  
-	*numeric-smallness*
+	*lesser*; small numeric value
 
 ### psseth
 _noun_  
@@ -3083,11 +3075,11 @@ _noun_
 
 ### pun
 _verb_  
-	*strength*; ability to exact force
+	*strong*; ability to exact force
 
 ### puong
 _verb_  
-	*dilate*; an image
+	*angularly-large*
 
 ### puop
 _noun_  
@@ -3099,7 +3091,7 @@ _postposition_
 
 ### ra
 _verb_  
-	*equal*; the subject matches the indirect object in the direct object
+	*same*; the subject equalls the indirect object
 
 ### radh
 _verb_  
@@ -3115,7 +3107,7 @@ _noun_
 
 ### rak
 _verb_  
-	*rest-on*; to be on something
+	*brief*
 
 ### ralp
 _noun_  
@@ -3127,7 +3119,7 @@ _verb_
 
 ### rang
 _verb_  
-	*charisma*
+	*charismatic*
 
 ### rapss
 _verb_  
@@ -3147,7 +3139,7 @@ _verb_
 
 ### rav
 _verb_  
-	*forward-to-look*; like [`yeing`](#yeing)
+	*forward-to-look*; like "anticipation"
 
 ### rb
 _verb_  
@@ -3159,7 +3151,7 @@ _noun_
 
 ### rd
 _verb_  
-	*height*; +z
+	*high*; +z
 
 ### rdh
 _verb_  
@@ -3171,7 +3163,7 @@ _noun_
 
 ### ref
 _verb_  
-	*availability*
+	*available*; time management at a point
 
 ### reidien
 _loanword_  
@@ -3187,11 +3179,11 @@ _verb_
 
 ### rer
 _verb_  
-	*locality*
+	*local*
 
 ### rerj
 _verb_  
-	*humidity*
+	*humid*
 
 ### reuzh
 _noun_  
@@ -3203,7 +3195,7 @@ _verb_
 
 ### rf
 _verb_  
-	*suckiness*; unskillfulness
+	*inept*; unskillfulness
 
 ### rg
 _verb_  
@@ -3215,7 +3207,7 @@ _noun_
 
 ### ri
 _verb_  
-	*amongness*; among the object
+	*among*; among the object
 
 ### rih
 _verb_  
@@ -3231,11 +3223,11 @@ _noun_
 
 ### rish
 _verb_  
-	*skepticality*
+	*skeptical*
 
 ### risp
 _verb_  
-	*into-ness*; direct object is long/deep thing
+	*into*; direct object is long/deep thing
 
 ### rj
 _verb_  
@@ -3275,7 +3267,7 @@ _noun_
 
 ### rong
 _verb_  
-	*fatigue*
+	*fatigued*
 
 ### ror
 _noun_  
@@ -3293,10 +3285,6 @@ _noun_
 _noun_  
 	*adult*; older than 7 chunks or so
 
-### rozh
-_verb_  
-	*infamy*
-
 ### rp
 _verb_  
 	*dislike*
@@ -3307,11 +3295,11 @@ _verb_
 
 ### rs
 _verb_  
-	*youth*; length of time; applies to objects and events as well as people
+	*young*; length of time; applies to objects and events as well as people
 
 ### rsh
 _verb_  
-	*betweenness*; between the direct and indirect objects
+	*between*; between the direct and indirect objects
 
 ### rsk
 _noun_  
@@ -3343,11 +3331,15 @@ _noun_
 
 ### ruy
 _verb_  
-	*randomize*
+	*randomize*; an order or setup
 
 ### rv
 _verb_  
-	*be-able*
+	*can*
+
+### rvthelp
+_compound verb_  
+	*can-remember*
 
 ### ry
 _verb_  
@@ -3363,7 +3355,7 @@ _qualifier_
 
 ### seu
 _verb_  
-	*computational-intensity*
+	*intense*; computationally
 
 ### sh
 _pronoun_  
@@ -3383,7 +3375,7 @@ _noun_
 
 ### shaz
 _verb_  
-	*piecewiseness*
+	*piecewise*
 
 ### she
 _noun_  
@@ -3467,11 +3459,15 @@ _noun_
 
 ### shir
 _verb_  
-	*surprise*
+	*surprised*
 
 ### shis
 _noun_  
 	*cattail-plant*; typhaceae
+
+### shiy
+_noun_  
+	*neutered-or-spayed*
 
 ### shkam
 _verb_  
@@ -3507,7 +3503,7 @@ _noun_
 
 ### shorss
 _verb_  
-	*brittleness*; tendency to shatter when force is applied, without bending
+	*brittle*; tendency to shatter when force is applied, without bending
 
 ### shoy
 _noun_  
@@ -3539,7 +3535,7 @@ _noun_
 
 ### shrng
 _verb_  
-	*specialness*; uniqueness
+	*special*; uniqueness
 
 ### shtep
 _verb_  
@@ -3547,7 +3543,7 @@ _verb_
 
 ### shto
 _verb_  
-	*technicality*
+	*technical*
 
 ### shtu
 _verb_  
@@ -3559,7 +3555,7 @@ _verb_
 
 ### shuz
 _verb_  
-	*opacity*
+	*opaque*
 
 ### si
 _noun_  
@@ -3587,7 +3583,7 @@ _verb_
 
 ### so
 _verb_  
-	*aptitude*; fit a situation well
+	*apt*; fit a situation well
 
 ### sob
 _verb_  
@@ -3611,11 +3607,11 @@ _noun_
 
 ### soth
 _verb_  
-	*tanness*; skin-color
+	*tan*; skin-color
 
 ### sou
 _verb_  
-	*messiness*
+	*messy*
 
 ### soup
 _verb_  
@@ -3623,7 +3619,7 @@ _verb_
 
 ### soy
 _verb_  
-	*freshness*
+	*fresh*
 
 ### spa
 _verb_  
@@ -3631,7 +3627,7 @@ _verb_
 
 ### spej
 _verb_  
-	*ill-informedness*; of a decision
+	*shouldn't*; how bad a decision is
 
 ### sprth
 _verb_  
@@ -3645,9 +3641,13 @@ _verb_
 _noun_  
 	*pandan*; a type of plant
 
-### sress
+### sringess
 _compound verb_  
 	*lower*
+
+### sringrd
+_compound verb_  
+	*raise*
 
 ### sringyeu
 _compound verb_  
@@ -3655,15 +3655,11 @@ _compound verb_
 
 ### srjarz
 _compound verb_  
-	*cool*
+	*keep-cool*
 
 ### srped
 _compound verb_  
 	*heat*
-
-### srrd
-_compound verb_  
-	*raise*
 
 ### srz
 _verb_  
@@ -3679,7 +3675,7 @@ _noun_
 
 ### sse
 _verb_  
-	*death*
+	*dead*
 
 ### ssek
 _noun_  
@@ -3691,7 +3687,7 @@ _noun_
 
 ### sseum
 _verb_  
-	*numeric-value*
+	*great*; numerically
 
 ### ssi
 _verb_  
@@ -3737,13 +3733,9 @@ _verb_
 _noun_  
 	*protacanthopterygii*; salmons, trouts, pikes, dragonfishes, and smelts
 
-### ssrh
-_verb_  
-	*freeness*; time management
-
 ### ssri
 _verb_  
-	*elevation*; angle up from antiazimuth with indirect object being origin; height on page
+	*up*; angle up from antiazimuth with indirect object being origin; height on page
 
 ### ssridh
 _noun_  
@@ -3760,10 +3752,6 @@ _noun_
 ### ssrof
 _verb_  
 	*run*
-
-### ssrol
-_verb_  
-	*fullness*
 
 ### ssroy
 _verb_  
@@ -3839,11 +3827,11 @@ _verb_
 
 ### tai
 _verb_  
-	*particularness*
+	*particular*
 
 ### tan
 _verb_  
-	*laziness*
+	*lazy*
 
 ### tap
 _verb_  
@@ -3883,7 +3871,7 @@ _noun_
 
 ### tha
 _verb_  
-	*neutered-or-spayed*
+	*broad*; middle dimension
 
 ### thai
 _noun_  
@@ -3895,11 +3883,11 @@ _verb_
 
 ### thel
 _verb_  
-	*meanness*
+	*harsh*; mean
 
 ### thelb
 _verb_  
-	*remarkability*; unlikeliness
+	*remarkable*; unlikeliness
 
 ### thelh
 _noun_  
@@ -3907,7 +3895,7 @@ _noun_
 
 ### thelp
 _verb_  
-	*recall*; a fact
+	*recall*; draw a fact from memory; contrast with related concepts [`rvthelp`](#rvthelp) and [`ingrvthelp`](#ingrvthelp)
 
 ### thengga
 _loanword_  
@@ -3947,7 +3935,7 @@ _verb_
 
 ### thiyk
 _verb_  
-	*clockwiseness*; angular orientation from the point of view of the direct object
+	*clockwise*; angular orientation from the point of view of the direct object
 
 ### tho
 _noun_  
@@ -3959,7 +3947,7 @@ _noun_
 
 ### thoj
 _verb_  
-	*power*; ability to enact change
+	*powerful*; ability to enact change
 
 ### tholz
 _verb_  
@@ -3971,7 +3959,7 @@ _noun_
 
 ### thorn
 _verb_  
-	*beauty*; of a person
+	*beautiful*; of a person
 
 ### thoub
 _verb_  
@@ -3979,11 +3967,11 @@ _verb_
 
 ### thouz
 _verb_  
-	*rudeness*
+	*rude*
 
 ### thoy
 _verb_  
-	*dryness*
+	*dry*
 
 ### thr
 _noun_  
@@ -4003,11 +3991,11 @@ _verb_
 
 ### throdh
 _verb_  
-	*fragility*; tendency to break
+	*fragile*; tendency to break
 
 ### throg
 _verb_  
-	*expertness*; a person who is not a layperson
+	*expert*; a person who is not a layperson
 
 ### thru
 _verb_  
@@ -4015,7 +4003,7 @@ _verb_
 
 ### thrudh
 _verb_  
-	*widdershinsness*; angular orientation from the point of view of the direct object
+	*widdershins*; angular orientation from the point of view of the direct object
 
 ### thrup
 _noun_  
@@ -4051,7 +4039,7 @@ _noun_
 
 ### thur
 _verb_  
-	*transparency*
+	*transparent*
 
 ### thush
 _noun_  
@@ -4067,15 +4055,15 @@ _verb_
 
 ### thuth
 _verb_  
-	*table*; furniture
+	*rest*; to be on something
 
 ### ti
 _verb_  
-	*kinship*
+	*related*; by blood or familial ties
 
 ### tif
 _verb_  
-	*anger*
+	*angry*
 
 ### to
 _verb_  
@@ -4095,11 +4083,11 @@ _noun_
 
 ### tozh
 _verb_  
-	*shame*
+	*shameful*
 
 ### tr
 _verb_  
-	*obliviousness*
+	*oblivious*
 
 ### trssp
 _noun_  
@@ -4119,7 +4107,7 @@ _verb_
 
 ### tshat
 _verb_  
-	*apprehension*; hesitative reaction to decisions
+	*apprehensive*; hesitative reaction to decisions
 
 ### tshe
 _noun_  
@@ -4147,7 +4135,7 @@ _noun_
 
 ### tssuj
 _verb_  
-	*ignorance*; the quality of not knowing a lot of facts
+	*ignorant*; the quality of not knowing a lot of facts about the indirect object
 
 ### tssum
 _noun_  
@@ -4167,7 +4155,7 @@ _noun_
 
 ### tue
 _verb_  
-	*undexterity*
+	*clumsy*
 
 ### tueth
 _verb_  
@@ -4179,7 +4167,7 @@ _verb_
 
 ### tur
 _verb_  
-	*virtuality*; digitalness
+	*virtual*; digitalness
 
 ### u
 _postposition_  
@@ -4187,7 +4175,7 @@ _postposition_
 
 ### ua
 _verb_  
-	*throughness*
+	*through*
 
 ### uaj
 _noun_  
@@ -4219,11 +4207,11 @@ _verb_
 
 ### uay
 _verb_  
-	*amusement*
+	*amused*
 
 ### ub
 _verb_  
-	*boringness*
+	*narrow*; middle dimension
 
 ### ubz
 _verb_  
@@ -4255,7 +4243,7 @@ _verb_
 
 ### ueid
 _verb_  
-	*lightness*; value of color
+	*pastel*; value of color
 
 ### ueps
 _noun_  
@@ -4295,7 +4283,7 @@ _verb_
 
 ### uim
 _verb_  
-	*ugliness*; of a person
+	*ugly*; of a person
 
 ### uin
 _verb_  
@@ -4307,11 +4295,11 @@ _verb_
 
 ### uj
 _postposition_  
-	*because*; denotes cause
+	*thats-why*; denotes cause
 
 ### uk
 _verb_  
-	*point-gesture*
+	*point-gesture*; point at something
 
 ### um
 _verb_  
@@ -4347,7 +4335,7 @@ _verb_
 
 ### uorm
 _verb_  
-	*terror*; the brief reaction to jump-scares that comes before actual fear or annoyance
+	*terrified*; the brief reaction to jump-scares that comes before actual fear or annoyance
 
 ### uory
 _noun_  
@@ -4356,10 +4344,6 @@ _noun_
 ### uos
 _noun_  
 	*snow*
-
-### uou
-_noun_  
-	*less*; the comparison is assumed; for more precise comparisons, use [`is`](#is)
 
 ### up
 _verb_  
@@ -4375,7 +4359,7 @@ _verb_
 
 ### urdh
 _verb_  
-	*exclusivity*
+	*exclusive*
 
 ### urf
 _noun_  
@@ -4395,19 +4379,19 @@ _noun_
 
 ### ursh
 _verb_  
-	*sleepiness*
+	*sleepy*
 
 ### urss
 _verb_  
-	*antibearing*; widdershins from straight ahead with indirect object being origin
+	*starboard*; widdershins from straight ahead with indirect object being origin
 
 ### urt
 _verb_  
-	*suffice*
+	*suffice*; be enough
 
 ### urth
 _verb_  
-	*ease*; of the subject for the direct object
+	*easy*; of the subject for the direct object
 
 ### urzh
 _noun_  
@@ -4419,7 +4403,7 @@ _verb_
 
 ### ush
 _verb_  
-	*aversion*; to a task
+	*averse*; to a task
 
 ### uss
 _noun_  
@@ -4427,7 +4411,7 @@ _noun_
 
 ### ut
 _verb_  
-	*exceed*; the subject exceeds the indirect object in the direct object
+	*more*; the subject exceeds the indirect object
 
 ### uth
 _verb_  
@@ -4439,7 +4423,7 @@ _verb_
 
 ### uy
 _verb_  
-	*brightness*
+	*bright*
 
 ### uz
 _verb_  
@@ -4447,7 +4431,7 @@ _verb_
 
 ### uzh
 _verb_  
-	*stillness*
+	*still*
 
 ### va
 _fastener_  
@@ -4455,7 +4439,7 @@ _fastener_
 
 ### van
 _verb_  
-	*flexibility*; tendency to bend when force is applied
+	*flexible*; tendency to bend when force is applied
 
 ### vau
 _noun_  
@@ -4467,7 +4451,7 @@ _noun_
 
 ### vel
 _verb_  
-	*frequency*; rate at which something oscillates, progresses, or decays
+	*frequent*; rate at which something oscillates, progresses, or decays with respect to time
 
 ### veth
 _verb_  
@@ -4475,7 +4459,7 @@ _verb_
 
 ### veuth
 _verb_  
-	*shrink*; an image
+	*angularly-small*
 
 ### vey
 _verb_  
@@ -4487,7 +4471,7 @@ _noun_
 
 ### viay
 _verb_  
-	*practicality*
+	*practical*
 
 ### vim
 _noun_  
@@ -4495,7 +4479,7 @@ _noun_
 
 ### vip
 _verb_  
-	*awkwardness*; as a character trait
+	*awkward*; as a character trait
 
 ### vis
 _noun_  
@@ -4523,11 +4507,11 @@ _noun_
 
 ### voln
 _verb_  
-	*trouble*; cause someone troubled feelings
+	*troubled*; have troubled feelings from the indirect object
 
 ### vong
 _verb_  
-	*speed*; rate of spacial motion
+	*fast*; magnitude of time derivative of position
 
 ### vorng
 _noun_  
@@ -4551,7 +4535,7 @@ _noun_
 
 ### vr
 _verb_  
-	*ineffectiveness*
+	*ineffective*
 
 ### vrak
 _verb_  
@@ -4563,11 +4547,11 @@ _noun_
 
 ### vrdh
 _verb_  
-	*separation*; individuality
+	*separated*; individuality
 
 ### vrf
 _verb_  
-	*individuality*
+	*individual*
 
 ### vri
 _noun_  
@@ -4583,7 +4567,7 @@ _compound noun_
 
 ### vrong
 _verb_  
-	*backwardness*; distance or fraction away from a goal or destination
+	*lagging*; distance or fraction away from a goal or destination
 
 ### vrth
 _noun_  
@@ -4663,10 +4647,10 @@ _verb_
 
 ### yay
 _verb_  
-	*rapidity*; of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email
+	*rapid*; of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email
 
 ### yaz
-_verb_  
+_noun_  
 	*vagina*
 
 ### ye
@@ -4675,7 +4659,7 @@ _verb_
 
 ### yeing
 _verb_  
-	*anticipation*; like [`rav`](#rav)
+	*anticipating*; like [`rav`](#rav)
 
 ### yej
 _noun_  
@@ -4683,11 +4667,11 @@ _noun_
 
 ### yesh
 _verb_  
-	*magentaness*; stimulation of L and S cones
+	*magenta*; stimulation of L and S cones
 
 ### yeu
 _verb_  
-	*brokenness*; having fallen apart or cracked
+	*broken*; having fallen apart or cracked
 
 ### yev
 _verb_  
@@ -4711,7 +4695,7 @@ _tense-marker_
 
 ### yih
 _verb_  
-	*intoxication*; applies to alcohol as well as other drugs
+	*drunk*; applies to alcohol as well as other drugs
 
 ### yikss
 _verb_  
@@ -4719,11 +4703,11 @@ _verb_
 
 ### yo
 _verb_  
-	*size*
+	*big*
 
 ### yoi
 _verb_  
-	*illness*
+	*ill*
 
 ### yoj
 _noun_  
@@ -4739,7 +4723,7 @@ _conjunction_
 
 ### yrad
 _verb_  
-	*big-pictureness*
+	*big-picture*
 
 ### yrag
 _verb_  
@@ -4759,7 +4743,7 @@ _verb_
 
 ### yrei
 _verb_  
-	*fame*
+	*famous*
 
 ### yrev
 _verb_  
@@ -4787,7 +4771,7 @@ _verb_
 
 ### yuai
 _verb_  
-	*openness*
+	*open*
 
 ### yuev
 _noun_  
@@ -4823,7 +4807,7 @@ _noun_
 
 ### zait
 _verb_  
-	*wetness*
+	*wet*
 
 ### zaj
 _noun_  
@@ -4855,7 +4839,7 @@ _verb_
 
 ### zesh
 _verb_  
-	*insignificance*
+	*insignificant*
 
 ### zeu
 _noun_  
@@ -4879,7 +4863,7 @@ _verb_
 
 ### zhau
 _verb_  
-	*clear*
+	*empty*; of indirect object
 
 ### zhay
 _noun_  
@@ -4895,11 +4879,11 @@ _verb_
 
 ### zher
 _verb_  
-	*publicity*; be exposed to others
+	*public*; be exposed to others
 
 ### zhes
 _verb_  
-	*coolness*; of a color
+	*cool*; of a color
 
 ### zheth
 _verb_  
@@ -4907,7 +4891,7 @@ _verb_
 
 ### zheu
 _verb_  
-	*foreignness*
+	*foreign*
 
 ### zheuv
 _noun_  
@@ -4923,7 +4907,7 @@ _noun_
 
 ### zhiad
 _verb_  
-	*unimportance*
+	*unimportant*
 
 ### zhiah
 _verb_  
@@ -4935,7 +4919,7 @@ _verb_
 
 ### zhij
 _verb_  
-	*puzzle*; present someone with confusion
+	*puzzled*; have confusion from the indirect object
 
 ### zhik
 _noun_  
@@ -4943,7 +4927,7 @@ _noun_
 
 ### zhio
 _verb_  
-	*sharpness*; of an edge or blade
+	*sharp*; of an edge or blade
 
 ### zhiodh
 _noun_  
@@ -4954,8 +4938,8 @@ _noun_
 	*pauropod*
 
 ### zhion
-_verb_  
-	*breasts*
+_noun_  
+	*breast*
 
 ### zhior
 _verb_  
@@ -4963,7 +4947,7 @@ _verb_
 
 ### zhir
 _verb_  
-	*cyanness*; stimulation of M and S cones
+	*cyan*; stimulation of M and S cones
 
 ### zhirng
 _noun_  
@@ -4991,11 +4975,11 @@ _verb_
 
 ### zho
 _verb_  
-	*scarcity*; opposite of quantity
+	*little*; opposite of [`fo`](#fo)
 
 ### zhom
 _verb_  
-	*unhumidity*
+	*unhumid*
 
 ### zhon
 _verb_  
@@ -5031,7 +5015,7 @@ _noun_
 
 ### zhu
 _verb_  
-	*age*; length of time; applies to objects an events as well as people
+	*old*; length of time; applies to objects an events as well as people
 
 ### zhung
 _noun_  
@@ -5039,11 +5023,11 @@ _noun_
 
 ### zhupsh
 _verb_  
-	*northernness*
+	*north*
 
 ### zi
 _verb_  
-	*darkness*
+	*dim*
 
 ### zipss
 _verb_  
@@ -5067,7 +5051,7 @@ _verb_
 
 ### zok
 _verb_  
-	*literalness*
+	*literal*
 
 ### zold
 _noun_  
@@ -5103,7 +5087,7 @@ _verb_
 
 ### zrm
 _verb_  
-	*idiocy*; the innate inability to solve riddles and puzzles
+	*idiotic*; the innate inability to solve riddles and puzzles
 
 ### zrng
 _verb_  
@@ -5111,7 +5095,7 @@ _verb_
 
 ### zrsht
 _verb_  
-	*detail-orientation*
+	*detail-oriented*
 
 ### zu
 _noun_  
@@ -5131,7 +5115,7 @@ _noun_
 
 ### zual
 _verb_  
-	*stupidity*; [https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]
+	*stupid*; [https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]
 
 ### zuau
 _verb_  
@@ -5151,7 +5135,7 @@ _verb_
 
 ### zuey
 _verb_  
-	*shade*; darkness of color
+	*dark*; darkness of color
 
 ### zuh
 _verb_  
@@ -5187,7 +5171,7 @@ _noun_
 
 ### zuoth
 _verb_  
-	*unintelligence*; the innate inability to grasp a subject or concept
+	*unintelligent*; the innate inability to grasp a subject or concept
 
 ### zuou
 _noun_  
