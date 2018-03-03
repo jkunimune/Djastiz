@@ -63,7 +63,7 @@ _verb_
 
 ### `al`
 _noun_  
-	**the letter "l"**
+	**the letter `l`**
 
 ### `alm`
 _noun_  
@@ -95,7 +95,7 @@ _verb_
 
 ### `ar`
 _noun_  
-	**the letter "a"**
+	**the letter `a`**
 
 ### `arj`
 _noun_  
@@ -207,7 +207,7 @@ _verb_
 
 ### `bi`
 _noun_  
-	**the letter "b"**
+	**the letter `b`**
 
 ### `biam`
 _verb_  
@@ -363,7 +363,7 @@ _verb_
 
 ### `de`
 _noun_  
-	**the letter "d"**
+	**the letter `d`**
 
 ### `deidh`
 _verb_  
@@ -379,7 +379,7 @@ _pronoun_
 
 ### `dha`
 _noun_  
-	**the letter "dh"**
+	**the letter `dh`**
 
 ### `dhadh`
 _verb_  
@@ -891,7 +891,7 @@ _noun_
 
 ### `ey`
 _noun_  
-	**the letter "e"**
+	**the letter `e`**
 
 ### `ez`
 _verb_  
@@ -927,7 +927,7 @@ _verb_
 
 ### `fe`
 _noun_  
-	**the letter "f"**
+	**the letter `f`**
 
 ### `feg`
 _verb_  
@@ -1283,7 +1283,7 @@ _verb_
 
 ### `gr`
 _noun_  
-	**the letter "g"**
+	**the letter `g`**
 
 ### `grd`
 _noun_  
@@ -1467,7 +1467,7 @@ _noun_
 
 ### `hu`
 _noun_  
-	**the letter "h"**
+	**the letter `h`**
 
 ### `hues`
 _verb_  
@@ -1783,7 +1783,7 @@ _postposition_
 
 ### `iz`
 _noun_  
-	**the letter "i"**
+	**the letter `i`**
 
 ### `izh`
 _verb_  
@@ -1851,7 +1851,7 @@ _noun_
 
 ### `jo`
 _noun_  
-	**the letter "j"**
+	**the letter `j`**
 
 ### `jobj`
 _noun_  
@@ -2075,7 +2075,7 @@ _verb_
 
 ### `ko`
 _noun_  
-	**the letter "k"**
+	**the letter `k`**
 
 ### `koksh`
 _noun_  
@@ -2295,7 +2295,7 @@ _pronoun_
 
 ### `mo`
 _noun_  
-	**the letter "m"**
+	**the letter `m`**
 
 ### `moi`
 _verb_  
@@ -2391,7 +2391,7 @@ _noun_
 
 ### `ne`
 _noun_  
-	**the letter "n"**
+	**the letter `n`**
 
 ### `nei`
 _noun_  
@@ -2407,7 +2407,7 @@ _noun_
 
 ### `nga`
 _noun_  
-	**the letter "ng"**
+	**the letter `ng`**
 
 ### `ngad`
 _verb_  
@@ -2875,7 +2875,7 @@ _verb_
 
 ### `ou`
 _noun_  
-	**the letter "o"**
+	**the letter `o`**
 
 ### `ouss`
 _noun_  
@@ -2895,7 +2895,7 @@ _verb_
 
 ### `pa`
 _noun_  
-	**the letter "p"**
+	**the letter `p`**
 
 ### `pai`
 _noun_  
@@ -3239,7 +3239,7 @@ _postposition_
 
 ### `rm`
 _noun_  
-	**the letter "r"**
+	**the letter `r`**
 
 ### `rng`
 _noun_  
@@ -3379,7 +3379,7 @@ _verb_
 
 ### `she`
 _noun_  
-	**the letter "sh"**
+	**the letter `sh`**
 
 ### `shei`
 _noun_  
@@ -3559,7 +3559,7 @@ _verb_
 
 ### `si`
 _noun_  
-	**the letter "s"**
+	**the letter `s`**
 
 ### `sig`
 _noun_  
@@ -3667,7 +3667,7 @@ _verb_
 
 ### `ssa`
 _noun_  
-	**the letter "ss"**
+	**the letter `ss`**
 
 ### `ssazh`
 _noun_  
@@ -3975,7 +3975,7 @@ _verb_
 
 ### `thr`
 _noun_  
-	**the letter "th"**
+	**the letter `th`**
 
 ### `thra`
 _noun_  
@@ -4147,7 +4147,7 @@ _noun_
 
 ### `tu`
 _noun_  
-	**the letter "t"**
+	**the letter `t`**
 
 ### `tuash`
 _noun_  
@@ -4407,7 +4407,7 @@ _verb_
 
 ### `uss`
 _noun_  
-	**the letter "u"**
+	**the letter `u`**
 
 ### `ut`
 _verb_  
@@ -4491,7 +4491,7 @@ _noun_
 
 ### `vo`
 _noun_  
-	**the letter "v"**
+	**the letter `v`**
 
 ### `vobz`
 _noun_  
@@ -4679,7 +4679,7 @@ _verb_
 
 ### `yi`
 _noun_  
-	**the letter "y"**
+	**the letter `y`**
 
 ### `yiai`
 _noun_  
@@ -4995,7 +4995,7 @@ _verb_
 
 ### `zhr`
 _noun_  
-	**the letter "zh"**
+	**the letter `zh`**
 
 ### `zhrj`
 _noun_  
@@ -5099,7 +5099,7 @@ _verb_
 
 ### `zu`
 _noun_  
-	**the letter "z"**
+	**the letter `z`**
 
 ### `zua`
 _noun_  
