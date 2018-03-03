@@ -7,5192 +7,5192 @@ ______
 
 ### `a`
 _conjunction_  
-	*and*
+	**and**
 
 ### `ad`
 _verb_  
-	*timeliness*; for meetings and such, or habitually
+	**timeliness**; for meetings and such, or habitually
 
 ### `adh`
 _noun_  
-	*radix*
+	**radix**
 
 ### `af`
 _verb_  
-	*originate*; used to describe things coming "from"
+	**originate**; used to describe things coming "from"
 
 ### `ag`
 _verb_  
-	*go*; from one place to another
+	**go**; from one place to another
 
 ### `agfraj`
 _compound verb_  
-	*pass*; go near something
+	**pass**; go near something
 
 ### `agj`
 _noun_  
-	*pyrosome*
+	**pyrosome**
 
 ### `ah`
 _verb_  
-	*create*
+	**create**
 
 ### `ai`
 _noun_  
-	*maximum*; the absolute
+	**maximum**; the absolute
 
 ### `aiss`
 _verb_  
-	*party*
+	**party**
 
 ### `aissp`
 _noun_  
-	*warm-season-grass*; includes sugarcane, maize, sorghum, and switchgrass
+	**warm-season-grass**; includes sugarcane, maize, sorghum, and switchgrass
 
 ### `aiv`
 _noun_  
-	*animal*
+	**animal**
 
 ### `aizh`
 _verb_  
-	*agree*
+	**agree**
 
 ### `ak`
 _verb_  
-	*prosper*
+	**prosper**
 
 ### `al`
 _noun_  
-	*the letter "l"*
+	**the letter "l"**
 
 ### `alm`
 _noun_  
-	*society*
+	**society**
 
 ### `aln`
 _verb_  
-	*positive-sentimental*
+	**positive-sentimental**
 
 ### `alz`
 _verb_  
-	*continue*
+	**continue**
 
 ### `am`
 _verb_  
-	*backward*; -y
+	**backward**; -y
 
 ### `an`
 _verb_  
-	*believe*; accept a fact on a subconcious level; contrast with [`ur`](#ur)
+	**believe**; accept a fact on a subconcious level; contrast with [`ur`](#ur)
 
 ### `ang`
 _noun_  
-	*4*
+	**4**
 
 ### `ap`
 _verb_  
-	*true*
+	**true**
 
 ### `ar`
 _noun_  
-	*the letter "a"*
+	**the letter "a"**
 
 ### `arj`
 _noun_  
-	*orthoptera*; crickets, tatydids, grasshoppers, etc.
+	**orthoptera**; crickets, tatydids, grasshoppers, etc.
 
 ### `arth`
 _noun_  
-	*maxillopod*; barnacles and copepods
+	**maxillopod**; barnacles and copepods
 
 ### `ash`
 _verb_  
-	*active-perceive*; look or listen or sniff
+	**active-perceive**; look or listen or sniff
 
 ### `ashdarh`
 _compound verb_  
-	*listen*
+	**listen**
 
 ### `ashdhun`
 _compound verb_  
-	*touch*
+	**touch**
 
 ### `ashfuadh`
 _compound verb_  
-	*active-taste*
+	**active-taste**
 
 ### `ashralp`
 _compound verb_  
-	*look*
+	**look**
 
 ### `ashvobz`
 _compound verb_  
-	*sniff*
+	**sniff**
 
 ### `ashzhaps`
 _compound verb_  
-	*listen-carefully*; listen to and parse words, not just sounds
+	**listen-carefully**; listen to and parse words, not just sounds
 
 ### `ashzhiodh`
 _compound verb_  
-	*active-read*
+	**active-read**
 
 ### `ask`
 _verb_  
-	*control*
+	**control**
 
 ### `asp`
 _verb_  
-	*awed*
+	**awed**
 
 ### `ass`
 _verb_  
-	*next*; to be next in an order
+	**next**; to be next in an order
 
 ### `at`
 _verb_  
-	*long*; physical distance; maximum dimension; see "age"
+	**long**; physical distance; maximum dimension; see "age"
 
 ### `ath`
 _noun_  
-	*B*; 11; only used for duodecimal and hexadecimal
+	**B**; 11; only used for duodecimal and hexadecimal
 
 ### `atss`
 _noun_  
-	*stalked-jellyfish*
+	**stalked-jellyfish**
 
 ### `au`
 _postposition_  
-	*ly*; denotes manner
+	**ly**; denotes manner
 
 ### `auv`
 _noun_  
-	*line*; of the segment or infinite variety
+	**line**; of the segment or infinite variety
 
 ### `av`
 _noun_  
-	*yes*
+	**yes**
 
 ### `ay`
 _noun_  
-	*the-future*
+	**the-future**
 
 ### `azh`
 _verb_  
-	*lively*; be alive
+	**lively**; be alive
 
 ### `ba`
 _verb_  
-	*meet*
+	**meet**
 
 ### `bang`
 _verb_  
-	*normal*; ununiqueness
+	**normal**; ununiqueness
 
 ### `bav`
 _verb_  
-	*south*
+	**south**
 
 ### `be`
 _qualifier_  
-	*not*; anything but
+	**not**; anything but
 
 ### `bery`
 _verb_  
-	*deal-strike*
+	**deal-strike**
 
 ### `bes`
 _verb_  
-	*chroma*; saturation of color
+	**chroma**; saturation of color
 
 ### `bi`
 _noun_  
-	*the letter "b"*
+	**the letter "b"**
 
 ### `biam`
 _verb_  
-	*compute*; a number or something
+	**compute**; a number or something
 
 ### `bie`
 _verb_  
-	*base*; operations and such
+	**base**; operations and such
 
 ### `bin`
 _verb_  
-	*tidy*
+	**tidy**
 
 ### `bioth`
 _verb_  
-	*categorize*; place something in a category; interpret something as belonging in a group
+	**categorize**; place something in a category; interpret something as belonging in a group
 
 ### `bius`
 _verb_  
-	*participate*
+	**participate**
 
 ### `bjau`
 _verb_  
-	*courageous*
+	**courageous**
 
 ### `bjer`
 _verb_  
-	*suggest*
+	**suggest**
 
 ### `bjru`
 _noun_  
-	*eurypygimorphae*; a bunch of tropical birds
+	**eurypygimorphae**; a bunch of tropical birds
 
 ### `bo`
 _verb_  
-	*move*; around but not necessarily with a direction
+	**move**; around but not necessarily with a direction
 
 ### `bolt`
 _verb_  
-	*dismiss*
+	**dismiss**
 
 ### `bots`
 _verb_  
-	*screen*; project or render images onto a surface
+	**screen**; project or render images onto a surface
 
 ### `br`
 _verb_  
-	*passive-perceive*; see or hear or smell
+	**passive-perceive**; see or hear or smell
 
 ### `brdarh`
 _compound verb_  
-	*hear*
+	**hear**
 
 ### `brdhun`
 _compound verb_  
-	*passive-feel*
+	**passive-feel**
 
 ### `bre`
 _noun_  
-	*sloth*
+	**sloth**
 
 ### `brfuadh`
 _compound verb_  
-	*taste*
+	**taste**
 
 ### `brralp`
 _compound verb_  
-	*see*
+	**see**
 
 ### `brshoh`
 _compound verb_  
-	*dream*
+	**dream**
 
 ### `bru`
 _noun_  
-	*araucarian*; a type of very tall evergreen
+	**araucarian**; a type of very tall evergreen
 
 ### `brvobz`
 _compound verb_  
-	*smell*
+	**smell**
 
 ### `brzhaps`
 _compound verb_  
-	*comprehend*
+	**comprehend**
 
 ### `brzhiodh`
 _compound verb_  
-	*passive-read*
+	**passive-read**
 
 ### `bu`
 _tense-marker_  
-	*!*; imperative
+	**!**; imperative
 
 ### `bzhe`
 _verb_  
-	*smooth*
+	**smooth**
 
 ### `bzhesh`
 _noun_  
-	*electricity*
+	**electricity**
 
 ### `bzhia`
 _noun_  
-	*hagfish*; slime-eel
+	**hagfish**; slime-eel
 
 ### `bzhr`
 _verb_  
-	*unable*; to enact change
+	**unable**; to enact change
 
 ### `bzing`
 _noun_  
-	*galean-shark*
+	**galean-shark**
 
 ### `bzu`
 _noun_  
-	*suliforme*; boobies and cormorants and a few other things
+	**suliforme**; boobies and cormorants and a few other things
 
 ### `bzur`
 _verb_  
-	*musty*
+	**musty**
 
 ### `da`
 _verb_  
-	*happen*
+	**happen**
 
 ### `dadima`
 _loanword_  
-	*pomegranite*
+	**pomegranite**
 
 ### `daitssland`
 _loanword_  
-	*Germany*
+	**Germany**
 
 ### `dakss`
 _noun_  
-	*poale*; grass-likes such as sedges, excluding grasses, typhaceae, and bromeliads
+	**poale**; grass-likes such as sedges, excluding grasses, typhaceae, and bromeliads
 
 ### `dalv`
 _verb_  
-	*quiet*; dimness; softness; faintness
+	**quiet**; dimness; softness; faintness
 
 ### `darh`
 _noun_  
-	*sound*
+	**sound**
 
 ### `daung`
 _verb_  
-	*hope*
+	**hope**
 
 ### `day`
 _verb_  
-	*admire*
+	**admire**
 
 ### `de`
 _noun_  
-	*the letter "d"*
+	**the letter "d"**
 
 ### `deidh`
 _verb_  
-	*sad*
+	**sad**
 
 ### `delzh`
 _noun_  
-	*spring*
+	**spring**
 
 ### `dh`
 _pronoun_  
-	*it*; a previously mentioned noun phrase
+	**it**; a previously mentioned noun phrase
 
 ### `dha`
 _noun_  
-	*the letter "dh"*
+	**the letter "dh"**
 
 ### `dhadh`
 _verb_  
-	*team-up*
+	**team-up**
 
 ### `dhaj`
 _noun_  
-	*remipedia*; like ocean centipede things
+	**remipedia**; like ocean centipede things
 
 ### `dham`
 _verb_  
-	*bury*
+	**bury**
 
 ### `dhan`
 _verb_  
-	*walk*
+	**walk**
 
 ### `dhap`
 _noun_  
-	*person*
+	**person**
 
 ### `dhar`
 _noun_  
-	*repository*; a body of technical knowledge we might call [`gruth`](#gruth)
+	**repository**; a body of technical knowledge we might call [`gruth`](#gruth)
 
 ### `dharng`
 _verb_  
-	*replace*
+	**replace**
 
 ### `dhath`
 _noun_  
-	*reptile*
+	**reptile**
 
 ### `dhaup`
 _noun_  
-	*skunk*
+	**skunk**
 
 ### `dhay`
 _noun_  
-	*magnoliid*; a type of flowering plant that includes magnolias, nutmeg, cinnamon, avocado, black pepper, and tulips
+	**magnoliid**; a type of flowering plant that includes magnolias, nutmeg, cinnamon, avocado, black pepper, and tulips
 
 ### `dhazh`
 _verb_  
-	*push*
+	**push**
 
 ### `dhe`
 _qualifier_  
-	*any*; single element
+	**any**; single element
 
 ### `dhedh`
 _verb_  
-	*active*; not lazy
+	**active**; not lazy
 
 ### `dheg`
 _verb_  
-	*sure*; Bayesian probability
+	**sure**; Bayesian probability
 
 ### `dhek`
 _verb_  
-	*lame*; the slangy definition, not the disability one
+	**lame**; the slangy definition, not the disability one
 
 ### `dhelb`
 _verb_  
-	*introversion*
+	**introversion**
 
 ### `dhem`
 _noun_  
-	*word*
+	**word**
 
 ### `dhi`
 _tense-marker_  
-	*.*; declarative
+	**.**; declarative
 
 ### `dhiak`
 _verb_  
-	*step*; the direct object is what you step on or in
+	**step**; the direct object is what you step on or in
 
 ### `dhial`
 _noun_  
-	*proctum*; encompasses entoprocta and ectoprocta
+	**proctum**; encompasses entoprocta and ectoprocta
 
 ### `dhij`
 _noun_  
-	*accipitridae*; hawks, eagles, kites, Old World vultures, and a few other things
+	**accipitridae**; hawks, eagles, kites, Old World vultures, and a few other things
 
 ### `dhing`
 _noun_  
-	*human*
+	**human**
 
 ### `dhiog`
 _verb_  
-	*gift*
+	**gift**
 
 ### `dhioss`
 _verb_  
-	*gust*; windiness
+	**gust**; windiness
 
 ### `dhir`
 _verb_  
-	*paint*
+	**paint**
 
 ### `dhirm`
 _verb_  
-	*draw*
+	**draw**
 
 ### `dho`
 _verb_  
-	*allow*; give permission
+	**allow**; give permission
 
 ### `dhodh`
 _noun_  
-	*lepidoptera*; moths and butterflies
+	**lepidoptera**; moths and butterflies
 
 ### `dhoh`
 _noun_  
-	*mountain*
+	**mountain**
 
 ### `dholg`
 _noun_  
-	*ceramic*
+	**ceramic**
 
 ### `dhou`
 _verb_  
-	*unlocked*
+	**unlocked**
 
 ### `dhoub`
 _noun_  
-	*evening*; ;50-;00 or 12:00-00:00
+	**evening**; ;50-;00 or 12:00-00:00
 
 ### `dhrbj`
 _verb_  
-	*encode*
+	**encode**
 
 ### `dhrgj`
 _verb_  
-	*wave*; a hand or a flag
+	**wave**; a hand or a flag
 
 ### `dhri`
 _verb_  
-	*nostalgic*
+	**nostalgic**
 
 ### `dhrol`
 _verb_  
-	*likely*; P-value
+	**likely**; P-value
 
 ### `dhrozh`
 _noun_  
-	*salientia*; frogs and toads
+	**salientia**; frogs and toads
 
 ### `dhrth`
 _noun_  
-	*snake*
+	**snake**
 
 ### `dhru`
 _noun_  
-	*lizard*
+	**lizard**
 
 ### `dhrv`
 _noun_  
-	*termite*
+	**termite**
 
 ### `dhu`
 _verb_  
-	*lead*
+	**lead**
 
 ### `dhual`
 _verb_  
-	*full*; of indirect object
+	**full**; of indirect object
 
 ### `dhuan`
 _noun_  
-	*liliale*; a type of flowering plants that includes lilies
+	**liliale**; a type of flowering plants that includes lilies
 
 ### `dhue`
 _verb_  
-	*social*; amount of socialization
+	**social**; amount of socialization
 
 ### `dhuen`
 _verb_  
-	*rough*
+	**rough**
 
 ### `dhuh`
 _noun_  
-	*macropodiforme*; kangaroos and wallabies
+	**macropodiforme**; kangaroos and wallabies
 
 ### `dhuih`
 _noun_  
-	*tool*
+	**tool**
 
 ### `dhuik`
 _verb_  
-	*bored*; by the indirect object
+	**bored**; by the indirect object
 
 ### `dhuj`
 _noun_  
-	*bunt*; fungus
+	**bunt**; fungus
 
 ### `dhuk`
 _verb_  
-	*avoid*
+	**avoid**
 
 ### `dhun`
 _noun_  
-	*tactility*; touch
+	**tactility**; touch
 
 ### `dhur`
 _noun_  
-	*chemicals*
+	**chemicals**
 
 ### `di`
 _verb_  
-	*evil*
+	**evil**
 
 ### `dis`
 _noun_  
-	*bowfin*
+	**bowfin**
 
 ### `djastiz`
 _noun_  
-	*Djastiz*
+	**Djastiz**
 
 ### `djastizrs`
 _compound noun_  
-	*Modern-Djastiz*
+	**Modern-Djastiz**
 
 ### `dji`
 _verb_  
-	*joyful*
+	**joyful**
 
 ### `djozh`
 _noun_  
-	*information*; a notion, number, etc.
+	**information**; a notion, number, etc.
 
 ### `djri`
 _verb_  
-	*conservative*; political
+	**conservative**; political
 
 ### `djru`
 _noun_  
-	*butt*
+	**butt**
 
 ### `dolt`
 _noun_  
-	*winter*
+	**winter**
 
 ### `dong`
 _verb_  
-	*port*; clockwise from straight ahead with indirect object being origin
+	**port**; clockwise from straight ahead with indirect object being origin
 
 ### `dop`
 _verb_  
-	*private*; be concealed or sheltered from the world
+	**private**; be concealed or sheltered from the world
 
 ### `doz`
 _verb_  
-	*fall*
+	**fall**
 
 ### `dr`
 _verb_  
-	*succeed*
+	**succeed**
 
 ### `drz`
 _verb_  
-	*green*; stimulation of M cones
+	**green**; stimulation of M cones
 
 ### `du`
 _verb_  
-	*thin*; minimum dimension
+	**thin**; minimum dimension
 
 ### `duaf`
 _noun_  
-	*foot*
+	**foot**
 
 ### `duai`
 _verb_  
-	*staff*; provide support in a manner not directly related to the main thing
+	**staff**; provide support in a manner not directly related to the main thing
 
 ### `duar`
 _verb_  
-	*sector-public*; be in the public sector
+	**sector-public**; be in the public sector
 
 ### `due`
 _noun_  
-	*South-Asia*
+	**South-Asia**
 
 ### `duesh`
 _verb_  
-	*matrix*; table of numbers
+	**matrix**; table of numbers
 
 ### `duev`
 _verb_  
-	*design*
+	**design**
 
 ### `duih`
 _verb_  
-	*disgusted*
+	**disgusted**
 
 ### `duj`
 _verb_  
-	*cost*
+	**cost**
 
 ### `duor`
 _noun_  
-	*Reality*; the physical world of our human bodies and the four forces etc.
+	**Reality**; the physical world of our human bodies and the four forces etc.
 
 ### `durng`
 _verb_  
-	*involve*
+	**involve**
 
 ### `durss`
 _verb_  
-	*attention*; be occupied by the direct object; see [`oi`](#oi)
+	**attention**; be occupied by the direct object; see [`oi`](#oi)
 
 ### `dus`
 _verb_  
-	*action-take*; the direct object is the action
+	**action-take**; the direct object is the action
 
 ### `dut`
 _verb_  
-	*out-of*; direct object is long/deep thing
+	**out-of**; direct object is long/deep thing
 
 ### `duv`
 _verb_  
-	*add*
+	**add**
 
 ### `dza`
 _verb_  
-	*send*
+	**send**
 
 ### `dze`
 _verb_  
-	*worried*
+	**worried**
 
 ### `dzezh`
 _verb_  
-	*sexually-attract*
+	**sexually-attract**
 
 ### `dzhaz`
 _verb_  
-	*knowledgeable*; the state of knowing a lot of facts about the indirect object
+	**knowledgeable**; the state of knowing a lot of facts about the indirect object
 
 ### `dzhiu`
 _verb_  
-	*orthogonal*; straightness, evenness
+	**orthogonal**; straightness, evenness
 
 ### `dzho`
 _noun_  
-	*seahorse*
+	**seahorse**
 
 ### `dzog`
 _verb_  
-	*shrill*; high pitch
+	**shrill**; high pitch
 
 ### `e`
 _tense-marker_  
-	*to*; infinitive
+	**to**; infinitive
 
 ### `eb`
 _verb_  
-	*music-make*; an instrument
+	**music-make**; an instrument
 
 ### `edh`
 _verb_  
-	*effective*
+	**effective**
 
 ### `edj`
 _verb_  
-	*regurgitate*
+	**regurgitate**
 
 ### `ef`
 _noun_  
-	*times*; habitual tense
+	**times**; habitual tense
 
 ### `eg`
 _verb_  
-	*appear*
+	**appear**
 
 ### `eidh`
 _verb_  
-	*warm*; of a color
+	**warm**; of a color
 
 ### `eif`
 _verb_  
-	*storytell*
+	**storytell**
 
 ### `eij`
 _verb_  
-	*voice*; concern, gratitude, sorriness, etc.
+	**voice**; concern, gratitude, sorriness, etc.
 
 ### `ein`
 _verb_  
-	*insert*
+	**insert**
 
 ### `eing`
 _verb_  
-	*beside*; to be on the side of
+	**beside**; to be on the side of
 
 ### `ej`
 _verb_  
-	*hinder*
+	**hinder**
 
 ### `ek`
 _verb_  
-	*outside*; large distance from center
+	**outside**; large distance from center
 
 ### `eks`
 _verb_  
-	*revolve*
+	**revolve**
 
 ### `ektaculampaymiliampey`
 _loanword_  
-	*hectacoulomb-per-milliampere*
+	**hectacoulomb-per-milliampere**
 
 ### `elf`
 _noun_  
-	*flea*
+	**flea**
 
 ### `elh`
 _noun_  
-	*metal*
+	**metal**
 
 ### `elng`
 _noun_  
-	*reality*; any imagined or simulated or real universe
+	**reality**; any imagined or simulated or real universe
 
 ### `elshk`
 _verb_  
-	*dumb*; the quality of not understanding many abstract concepts regarding the indirect object
+	**dumb**; the quality of not understanding many abstract concepts regarding the indirect object
 
 ### `elz`
 _noun_  
-	*hemichordate*; weird ocean worm tree blobs
+	**hemichordate**; weird ocean worm tree blobs
 
 ### `em`
 _verb_  
-	*willing*
+	**willing**
 
 ### `en`
 _verb_  
-	*like*
+	**like**
 
 ### `eng`
 _postposition_  
-	*,*; denotes addressee
+	**,**; denotes addressee
 
 ### `ep`
 _postposition_  
-	*on*; at; in; denotes physical location
+	**on**; at; in; denotes physical location
 
 ### `er`
 _postposition_  
-	*if*; denotes hypothetical conditions
+	**if**; denotes hypothetical conditions
 
 ### `erb`
 _verb_  
-	*elastic*; tendency to bend and then spring back
+	**elastic**; tendency to bend and then spring back
 
 ### `erj`
 _verb_  
-	*bladder-full*; the feeling of having to pee
+	**bladder-full**; the feeling of having to pee
 
 ### `erng`
 _verb_  
-	*obey*
+	**obey**
 
 ### `erz`
 _noun_  
-	*armadillo*
+	**armadillo**
 
 ### `erzh`
 _verb_  
-	*win*
+	**win**
 
 ### `es`
 _fastener_  
-	*which-element*; identifies element of a set
+	**which-element**; identifies element of a set
 
 ### `esh`
 _verb_  
-	*misplace*; lose an object
+	**misplace**; lose an object
 
 ### `esht`
 _verb_  
-	*interested*; in the indirect object
+	**interested**; in the indirect object
 
 ### `ess`
 _verb_  
-	*low*; -z
+	**low**; -z
 
 ### `eth`
 _verb_  
-	*denote*; mean in terms of word definitions
+	**denote**; mean in terms of word definitions
 
 ### `ets`
 _verb_  
-	*smite*; lightning strike
+	**smite**; lightning strike
 
 ### `eu`
 _verb_  
-	*many*; exclusively applies to things with discrete amounts, like instances
+	**many**; exclusively applies to things with discrete amounts, like instances
 
 ### `eug`
 _noun_  
-	*segmented-worm*; any member of annelida besides leeches and beardworms
+	**segmented-worm**; any member of annelida besides leeches and beardworms
 
 ### `ev`
 _noun_  
-	*6*
+	**6**
 
 ### `ey`
 _noun_  
-	*the letter "e"*
+	**the letter "e"**
 
 ### `ez`
 _verb_  
-	*hide*
+	**hide**
 
 ### `ezh`
 _verb_  
-	*undo*
+	**undo**
 
 ### `f`
 _pronoun_  
-	*one*; no meaning
+	**one**; no meaning
 
 ### `faing`
 _noun_  
-	*cycle*; 10^1 days
+	**cycle**; 10^1 days
 
 ### `faith`
 _verb_  
-	*get-educated*
+	**get-educated**
 
 ### `fass`
 _verb_  
-	*wait*
+	**wait**
 
 ### `fau`
 _noun_  
-	*ostracoda*; seed shrimp
+	**ostracoda**; seed shrimp
 
 ### `fav`
 _verb_  
-	*hold-dear*
+	**hold-dear**
 
 ### `fe`
 _noun_  
-	*the letter "f"*
+	**the letter "f"**
 
 ### `feg`
 _verb_  
-	*yellow*; stimulation of L and M cones
+	**yellow**; stimulation of L and M cones
 
 ### `fei`
 _verb_  
-	*understand*
+	**understand**
 
 ### `feip`
 _noun_  
-	*columbimorphae*; pidgeons, doves, sandgrouses, and mesites
+	**columbimorphae**; pidgeons, doves, sandgrouses, and mesites
 
 ### `fen`
 _noun_  
-	*Sub-Saharan-Africa*
+	**Sub-Saharan-Africa**
 
 ### `fia`
 _noun_  
-	*condor*; also encompasses New World vultures
+	**condor**; also encompasses New World vultures
 
 ### `fibzh`
 _noun_  
-	*leaf*
+	**leaf**
 
 ### `fiedh`
 _noun_  
-	*oxygen*
+	**oxygen**
 
 ### `fiozh`
 _noun_  
-	*urine*
+	**urine**
 
 ### `firg`
 _verb_  
-	*primary*; refers to generally being main or central
+	**primary**; refers to generally being main or central
 
 ### `fis`
 _verb_  
-	*list*
+	**list**
 
 ### `fium`
 _noun_  
-	*bovida*; cattle, buffalo, antelopes, sheep, goats, etc.
+	**bovida**; cattle, buffalo, antelopes, sheep, goats, etc.
 
 ### `flep`
 _compound pronoun_  
-	*place*
+	**place**
 
 ### `fli`
 _compound pronoun_  
-	*one-to-which-*; the indirect object of the following verb
+	**one-to-which-**; the indirect object of the following verb
 
 ### `flia`
 _compound pronoun_  
-	*amount-of-*; the extent of the following verb
+	**amount-of-**; the extent of the following verb
 
 ### `fliajratirj`
 _compound noun_  
-	*year*
+	**year**
 
 ### `flibiothdhem`
 _compound noun_  
-	*part-of-speech*
+	**part-of-speech**
 
 ### `flifisdhem`
 _compound noun_  
-	*dictionary*
+	**dictionary**
 
 ### `flim`
 _compound pronoun_  
-	*medium*; tool
+	**medium**; tool
 
 ### `flor`
 _compound pronoun_  
-	*method*
+	**method**
 
 ### `florpiejrafkiong`
 _compound pronoun_  
-	*map-projection*
+	**map-projection**
 
 ### `flos`
 _compound pronoun_  
-	*time*; e.g. Tuesday, 4pm, 3;42
+	**time**; e.g. Tuesday, 4pm, 3;42
 
 ### `flr`
 _compound pronoun_  
-	*one-that-*; -er; the subject of the following verb
+	**one-that-**; -er; the subject of the following verb
 
 ### `flrk`
 _compound pronoun_  
-	*context*
+	**context**
 
 ### `flrsrjarzyuo`
 _compound noun_  
-	*air-conditioning*
+	**air-conditioning**
 
 ### `flrutoryuosh`
 _compound noun_  
-	*alphabet*
+	**alphabet**
 
 ### `flu`
 _compound pronoun_  
-	*one-that-gets-*; the direct object of the following verb
+	**one-that-gets-**; the direct object of the following verb
 
 ### `flue`
 _compound pronoun_  
-	*purpose*
+	**purpose**
 
 ### `fluirz'huy`
 _compound noun_  
-	*bathroom*
+	**bathroom**
 
 ### `fluj`
 _compound pronoun_  
-	*cause-event*
+	**cause-event**
 
 ### `flujeuthtsrsh`
 _compound noun_  
-	*spaceship*
+	**spaceship**
 
 ### `flujeuthyuo`
 _compound noun_  
-	*plane*
+	**plane**
 
 ### `flujeuthzef`
 _compound noun_  
-	*boat*
+	**boat**
 
 ### `flupshryo`
 _compound noun_  
-	*empire*
+	**empire**
 
 ### `fo`
 _verb_  
-	*much*; number or amount
+	**much**; number or amount
 
 ### `foh`
 _verb_  
-	*lift*
+	**lift**
 
 ### `fou`
 _noun_  
-	*beetle*
+	**beetle**
 
 ### `fov`
 _verb_  
-	*wear-and-tear*; gradually sustain minor damage
+	**wear-and-tear**; gradually sustain minor damage
 
 ### `foz`
 _verb_  
-	*buy*
+	**buy**
 
 ### `fozh`
 _verb_  
-	*west*
+	**west**
 
 ### `fraj`
 _verb_  
-	*near*; physical or numerical
+	**near**; physical or numerical
 
 ### `frdh`
 _verb_  
-	*remove*
+	**remove**
 
 ### `frey`
 _verb_  
-	*indoorsness*
+	**indoorsness**
 
 ### `frg`
 _noun_  
-	*mammal*
+	**mammal**
 
 ### `frng`
 _noun_  
-	*crocodilian*; crocodiles and alligators
+	**crocodilian**; crocodiles and alligators
 
 ### `frosh`
 _noun_  
-	*seacucumber*
+	**seacucumber**
 
 ### `frs`
 _noun_  
-	*mosquito*
+	**mosquito**
 
 ### `frst`
 _noun_  
-	*box-jellyfish*
+	**box-jellyfish**
 
 ### `frzh`
 _verb_  
-	*deem-important*; think that something is worthy of concern and act as such; contrast with [`pess`](#pess)
+	**deem-important**; think that something is worthy of concern and act as such; contrast with [`pess`](#pess)
 
 ### `fuadh`
 _noun_  
-	*flavor*
+	**flavor**
 
 ### `fuam`
 _noun_  
-	*chanterelle*; a type of fungus
+	**chanterelle**; a type of fungus
 
 ### `fui`
 _noun_  
-	*amphibian*
+	**amphibian**
 
 ### `fuj`
 _verb_  
-	*progressed*; distance or fraction toward a goal or destination
+	**progressed**; distance or fraction toward a goal or destination
 
 ### `fuksh`
 _noun_  
-	*rhinoceros*
+	**rhinoceros**
 
 ### `fuosh`
 _verb_  
-	*give-in*
+	**give-in**
 
 ### `fus`
 _verb_  
-	*attention-pay*
+	**attention-pay**
 
 ### `fut`
 _noun_  
-	*desert*
+	**desert**
 
 ### `futh`
 _verb_  
-	*late*; +t; like [`ha`](#ha)
+	**late**; +t; like [`ha`](#ha)
 
 ### `futhjops`
 _compound verb_  
-	*date*
+	**date**
 
 ### `futhjopsngrag`
 _compound verb_  
-	*birthday*
+	**birthday**
 
 ### `ga`
 _verb_  
-	*give*
+	**give**
 
 ### `gai`
 _verb_  
-	*curious*
+	**curious**
 
 ### `galaksi`
 _loanword_  
-	*galaxy*
+	**galaxy**
 
 ### `geb`
 _verb_  
-	*dull*; of an edge or blade
+	**dull**; of an edge or blade
 
 ### `ged`
 _noun_  
-	*South-America*
+	**South-America**
 
 ### `gef`
 _verb_  
-	*common*; inverse of time between events in a series of happenings
+	**common**; inverse of time between events in a series of happenings
 
 ### `gei`
 _noun_  
-	*nighttime*; ;75-;25 or 18:00-06:00 or whenever the sun is down
+	**nighttime**; ;75-;25 or 18:00-06:00 or whenever the sun is down
 
 ### `geis`
 _verb_  
-	*foolish*; the state of not knowing how the world functions and how to live life well
+	**foolish**; the state of not knowing how the world functions and how to live life well
 
 ### `gek`
 _noun_  
-	*smut*; fungus
+	**smut**; fungus
 
 ### `gel`
 _noun_  
-	*money*
+	**money**
 
 ### `gev`
 _noun_  
-	*bacterium*
+	**bacterium**
 
 ### `gi`
 _verb_  
-	*small*
+	**small**
 
 ### `giazh`
 _verb_  
-	*live*; as in live a life
+	**live**; as in live a life
 
 ### `gid`
 _verb_  
-	*communicate*
+	**communicate**
 
 ### `gidzhaps`
 _compound verb_  
-	*talk*
+	**talk**
 
 ### `gidzhiodh`
 _compound verb_  
-	*compose*; prose
+	**compose**; prose
 
 ### `gim`
 _verb_  
-	*employ*
+	**employ**
 
 ### `gir`
 _verb_  
-	*remotely-control*
+	**remotely-control**
 
 ### `girg`
 _verb_  
-	*physical*; describes things in the physical realm
+	**physical**; describes things in the physical realm
 
 ### `giss`
 _verb_  
-	*viscous*
+	**viscous**
 
 ### `gith`
 _verb_  
-	*platonic-love*
+	**platonic-love**
 
 ### `gjok`
 _noun_  
-	*summer*
+	**summer**
 
 ### `gju`
 _verb_  
-	*dirty*
+	**dirty**
 
 ### `gjuzh`
 _noun_  
-	*The-Arctic*
+	**The-Arctic**
 
 ### `gof`
 _verb_  
-	*cover*; physical
+	**cover**; physical
 
 ### `goi`
 _verb_  
-	*require*
+	**require**
 
 ### `gorzh`
 _verb_  
-	*service*
+	**service**
 
 ### `goss`
 _noun_  
-	*wasp*
+	**wasp**
 
 ### `gouy`
 _verb_  
-	*approve*
+	**approve**
 
 ### `gr`
 _noun_  
-	*the letter "g"*
+	**the letter "g"**
 
 ### `grd`
 _noun_  
-	*tube-dwelling-anemone*
+	**tube-dwelling-anemone**
 
 ### `gress`
 _noun_  
-	*chiroptera*; bats and flying foxes
+	**chiroptera**; bats and flying foxes
 
 ### `grh`
 _noun_  
-	*tundra*
+	**tundra**
 
 ### `gruth`
 _verb_  
-	*science*; experimentation and learning; yes, this is a verb
+	**science**; experimentation and learning; yes, this is a verb
 
 ### `grz`
 _verb_  
-	*free*
+	**free**
 
 ### `guap`
 _verb_  
-	*laggy*; of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting
+	**laggy**; of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting
 
 ### `gup`
 _noun_  
-	*bicep*; thigh
+	**bicep**; thigh
 
 ### `gus`
 _noun_  
-	*virus*
+	**virus**
 
 ### `guy`
 _verb_  
-	*massive*
+	**massive**
 
 ### `gzej`
 _noun_  
-	*rust*; fungus
+	**rust**; fungus
 
 ### `gzoi`
 _verb_  
-	*reassure*
+	**reassure**
 
 ### `gzoth`
 _noun_  
-	*yam-plant*
+	**yam-plant**
 
 ### `gzu`
 _noun_  
-	*ray*; the ocean variety
+	**ray**; the ocean variety
 
 ### `ha`
 _verb_  
-	*after*; +t
+	**after**; +t
 
 ### `hadj`
 _noun_  
-	*flamingo*
+	**flamingo**
 
 ### `haf`
 _noun_  
-	*lagomorpha*; rabbits, hares, pikas
+	**lagomorpha**; rabbits, hares, pikas
 
 ### `halj`
 _verb_  
-	*systemize*; place something in a system; interpret something as being part of a whole
+	**systemize**; place something in a system; interpret something as being part of a whole
 
 ### `hauh`
 _verb_  
-	*share*
+	**share**
 
 ### `helss`
 _noun_  
-	*housefly*
+	**housefly**
 
 ### `hi`
 _qualifier_  
-	*some*; subset
+	**some**; subset
 
 ### `hiai`
 _noun_  
-	*planet*
+	**planet**
 
 ### `hid`
 _verb_  
-	*sort*
+	**sort**
 
 ### `higj`
 _verb_  
-	*uncommon*; time between events in a series of happenings
+	**uncommon**; time between events in a series of happenings
 
 ### `hin`
 _verb_  
-	*resist*
+	**resist**
 
 ### `hiol`
 _verb_  
-	*romantic-love*
+	**romantic-love**
 
 ### `hion`
 _noun_  
-	*polypteriforme*; bichirs and reedfishes or ropefishes
+	**polypteriforme**; bichirs and reedfishes or ropefishes
 
 ### `hioss`
 _verb_  
-	*acute*; angular closeness with indirect object being centrum
+	**acute**; angular closeness with indirect object being centrum
 
 ### `hirp`
 _noun_  
-	*sand*
+	**sand**
 
 ### `hith`
 _noun_  
-	*pangolin*
+	**pangolin**
 
 ### `hizh`
 _noun_  
-	*tapir*
+	**tapir**
 
 ### `ho`
 _noun_  
-	*dot*; decimal point
+	**dot**; decimal point
 
 ### `hok`
 _verb_  
-	*complete*
+	**complete**
 
 ### `hom`
 _verb_  
-	*bureaucrate*; be a bureaucrat in a bureaucracy
+	**bureaucrate**; be a bureaucrat in a bureaucracy
 
 ### `horss`
 _verb_  
-	*violate*; a rule
+	**violate**; a rule
 
 ### `hos`
 _verb_  
-	*beware*
+	**beware**
 
 ### `hot`
 _verb_  
-	*sector-private*; be in the private sector
+	**sector-private**; be in the private sector
 
 ### `hoth`
 _verb_  
-	*national*; subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet
+	**national**; subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet
 
 ### `houz`
 _verb_  
-	*difficult*; of the subject for the direct object
+	**difficult**; of the subject for the direct object
 
 ### `hr`
 _verb_  
-	*attempt*; try
+	**attempt**; try
 
 ### `hred`
 _noun_  
-	*star*; sun
+	**star**; sun
 
 ### `hret`
 _noun_  
-	*australidelphia*; besides wombats, koalas, and kangaroos
+	**australidelphia**; besides wombats, koalas, and kangaroos
 
 ### `hrey`
 _verb_  
-	*pure*
+	**pure**
 
 ### `hrng`
 _noun_  
-	*polygon*
+	**polygon**
 
 ### `hrok`
 _noun_  
-	*phoronid*
+	**phoronid**
 
 ### `hrub`
 _noun_  
-	*fruit*
+	**fruit**
 
 ### `hu`
 _noun_  
-	*the letter "h"*
+	**the letter "h"**
 
 ### `hues`
 _verb_  
-	*substitute*
+	**substitute**
 
 ### `huh`
 _verb_  
-	*negative-sentimental*
+	**negative-sentimental**
 
 ### `huy`
 _verb_  
-	*clean*
+	**clean**
 
 ### `i`
 _postposition_  
-	*ind*; with; at; denotes indirect object
+	**ind**; with; at; denotes indirect object
 
 ### `ia`
 _postposition_  
-	*than*; denotes extent, amount, or quantity
+	**than**; denotes extent, amount, or quantity
 
 ### `iadh`
 _noun_  
-	*phalangeriforme*; possums... which are apparently different from opossums and tend to fly
+	**phalangeriforme**; possums... which are apparently different from opossums and tend to fly
 
 ### `iag`
 _noun_  
-	*procyonidae*; raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles
+	**procyonidae**; raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles
 
 ### `iah`
 _noun_  
-	*interval*
+	**interval**
 
 ### `iang`
 _verb_  
-	*organize-oneself*
+	**organize-oneself**
 
 ### `iav`
 _verb_  
-	*rebel*
+	**rebel**
 
 ### `iazh`
 _verb_  
-	*ignore*
+	**ignore**
 
 ### `ibj`
 _verb_  
-	*cancel-out*; destructively interfere
+	**cancel-out**; destructively interfere
 
 ### `idh`
 _verb_  
-	*ask*; use an interrogative sentence; request information
+	**ask**; use an interrogative sentence; request information
 
 ### `ie`
 _verb_  
-	*constancy*; stay the same
+	**constancy**; stay the same
 
 ### `ief`
 _noun_  
-	*palm-tree*
+	**palm-tree**
 
 ### `iei`
 _verb_  
-	*magical*
+	**magical**
 
 ### `ieid`
 _noun_  
-	*grylloblattodea*; ice bus, ice crawlers, and rock crawers
+	**grylloblattodea**; ice bus, ice crawlers, and rock crawers
 
 ### `ieik`
 _verb_  
-	*support*
+	**support**
 
 ### `ielh`
 _verb_  
-	*durable*; resistance to breaking
+	**durable**; resistance to breaking
 
 ### `ielng`
 _verb_  
-	*wise*; the state of knowing how the world functions and how to live life well
+	**wise**; the state of knowing how the world functions and how to live life well
 
 ### `ier`
 _noun_  
-	*larvacea*
+	**larvacea**
 
 ### `iery`
 _noun_  
-	*aplacophora*; shell-less molusks
+	**aplacophora**; shell-less molusks
 
 ### `iesh`
 _verb_  
-	*quick*; computationally
+	**quick**; computationally
 
 ### `iet`
 _verb_  
-	*loud*; brightness; volume; strength
+	**loud**; brightness; volume; strength
 
 ### `if`
 _noun_  
-	*the-present*
+	**the-present**
 
 ### `igzh`
 _noun_  
-	*jelly-fungus*
+	**jelly-fungus**
 
 ### `ih`
 _verb_  
-	*help*
+	**help**
 
 ### `ij`
 _verb_  
-	*say*; use a declarative sentence; give information
+	**say**; use a declarative sentence; give information
 
 ### `ijnguath`
 _compound verb_  
-	*recommend*
+	**recommend**
 
 ### `ik`
 _verb_  
-	*assign*
+	**assign**
 
 ### `iks`
 _verb_  
-	*reference*; refer to; consult with
+	**reference**; refer to; consult with
 
 ### `ilepsoid`
 _loanword_  
-	*ellipsoid*
+	**ellipsoid**
 
 ### `im`
 _postposition_  
-	*via*; with; through; denotes tool or medium
+	**via**; with; through; denotes tool or medium
 
 ### `in`
 _verb_  
-	*abandon*
+	**abandon**
 
 ### `ing`
 _verb_  
-	*become*; the act of a state transitioning from falsehood to truth; often used in compound words with states
+	**become**; the act of a state transitioning from falsehood to truth; often used in compound words with states
 
 ### `ingess`
 _compound verb_  
-	*sink*; crouch
+	**sink**; crouch
 
 ### `ingfuj`
 _compound verb_  
-	*progress*
+	**progress**
 
 ### `inggland`
 _loanword_  
-	*England*
+	**England**
 
 ### `ingoh`
 _compound verb_  
-	*obtain*; the direct object from the indirect object
+	**obtain**; the direct object from the indirect object
 
 ### `ingrd`
 _compound verb_  
-	*rise*; jump
+	**rise**; jump
 
 ### `ingrvthelp`
 _compound verb_  
-	*memorize*
+	**memorize**
 
 ### `ingvrong`
 _compound verb_  
-	*step-backward*
+	**step-backward**
 
 ### `ingyeu`
 _compound verb_  
-	*break*; fall apart or crack
+	**break**; fall apart or crack
 
 ### `io`
 _qualifier_  
-	*all*; set of all instances
+	**all**; set of all instances
 
 ### `iof`
 _verb_  
-	*smart*; the quality of understanding a lot of abstract concepts regarding the indirect object
+	**smart**; the quality of understanding a lot of abstract concepts regarding the indirect object
 
 ### `iol`
 _verb_  
-	*east*
+	**east**
 
 ### `ion`
 _verb_  
-	*rotten*
+	**rotten**
 
 ### `ior`
 _verb_  
-	*blue*; stimulation of S cones
+	**blue**; stimulation of S cones
 
 ### `iory`
 _noun_  
-	*owl*
+	**owl**
 
 ### `iosh`
 _noun_  
-	*seaurchin*
+	**seaurchin**
 
 ### `ioth`
 _verb_  
-	*procrastinate*
+	**procrastinate**
 
 ### `ir`
 _fastener_  
-	*how-many*; specifies amount degree or number
+	**how-many**; specifies amount degree or number
 
 ### `irdh`
 _verb_  
-	*cryptic*
+	**cryptic**
 
 ### `irf`
 _noun_  
-	*hippopotamus*
+	**hippopotamus**
 
 ### `irg`
 _noun_  
-	*waterfowl*
+	**waterfowl**
 
 ### `irj`
 _noun_  
-	*Earth*
+	**Earth**
 
 ### `irv`
 _verb_  
-	*wide*; angular distance with indirect object being centrum
+	**wide**; angular distance with indirect object being centrum
 
 ### `irz`
 _verb_  
-	*wall-off*; be a wall; subject is wall, direct object is thing on this side, indirect object is thing on other side
+	**wall-off**; be a wall; subject is wall, direct object is thing on this side, indirect object is thing on other side
 
 ### `is`
 _verb_  
-	*less*; the subject is less than the indirect object
+	**less**; the subject is less than the indirect object
 
 ### `ish`
 _verb_  
-	*include*
+	**include**
 
 ### `ishk`
 _noun_  
-	*Africa*
+	**Africa**
 
 ### `iss`
 _verb_  
-	*moral*
+	**moral**
 
 ### `it`
 _verb_  
-	*find*
+	**find**
 
 ### `ith`
 _verb_  
-	*thick*; minimum dimension
+	**thick**; minimum dimension
 
 ### `itss`
 _noun_  
-	*Eurasia*
+	**Eurasia**
 
 ### `iu`
 _noun_  
-	*F*; 15; only used for hexadecimal
+	**F**; 15; only used for hexadecimal
 
 ### `iub`
 _noun_  
-	*penis*
+	**penis**
 
 ### `iudh`
 _verb_  
-	*down*; angle down from azimuth with indirect object being origin; distance down page
+	**down**; angle down from azimuth with indirect object being origin; distance down page
 
 ### `ium`
 _verb_  
-	*anxious*
+	**anxious**
 
 ### `iunaitedsteits`
 _loanword_  
-	*United States*
+	**United States**
 
 ### `iuss`
 _verb_  
-	*slow*; unmagnitude of time derivative of position
+	**slow**; unmagnitude of time derivative of position
 
 ### `iuth`
 _verb_  
-	*split-up*
+	**split-up**
 
 ### `iuts`
 _noun_  
-	*odonatoptera*; dragonflies and damselflies
+	**odonatoptera**; dragonflies and damselflies
 
 ### `iuv`
 _verb_  
-	*cook*; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave
+	**cook**; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave
 
 ### `iuvthoy`
 _compound verb_  
-	*bake*
+	**bake**
 
 ### `iuz`
 _verb_  
-	*exhume*; uncover
+	**exhume**; uncover
 
 ### `iv`
 _verb_  
-	*right*; +x
+	**right**; +x
 
 ### `iy`
 _postposition_  
-	*whether*; denotes whether it happened; the argument here is basically always [`av`](#av) or [`l`](#l)
+	**whether**; denotes whether it happened; the argument here is basically always [`av`](#av) or [`l`](#l)
 
 ### `iz`
 _noun_  
-	*the letter "i"*
+	**the letter "i"**
 
 ### `izh`
 _verb_  
-	*need*
+	**need**
 
 ### `ja`
 _tense-marker_  
-	*bless*; exclamatory
+	**bless**; exclamatory
 
 ### `jadh`
 _verb_  
-	*polite*
+	**polite**
 
 ### `jan`
 _noun_  
-	*elephant*
+	**elephant**
 
 ### `japss`
 _noun_  
-	*ophiuroid*; think 'seastar', but less brittle
+	**ophiuroid**; think 'seastar', but less brittle
 
 ### `jarz`
 _verb_  
-	*cold*
+	**cold**
 
 ### `je`
 _special_  
-	*\*; escape word
+	**\**; escape word
 
 ### `jedh`
 _noun_  
-	*pseudoscorpion*
+	**pseudoscorpion**
 
 ### `jeih`
 _noun_  
-	*zigzag*; a polygonal path thing
+	**zigzag**; a polygonal path thing
 
 ### `jelt`
 _noun_  
-	*light*
+	**light**
 
 ### `jely`
 _noun_  
-	*salamander*
+	**salamander**
 
 ### `jem`
 _verb_  
-	*rule-place*
+	**rule-place**
 
 ### `jeuth`
 _verb_  
-	*ride*
+	**ride**
 
 ### `ji`
 _fastener_  
-	*what-kind*; denotes variety or attributes
+	**what-kind**; denotes variety or attributes
 
 ### `jid`
 _noun_  
-	*child*
+	**child**
 
 ### `jizh`
 _noun_  
-	*snakefly*
+	**snakefly**
 
 ### `jo`
 _noun_  
-	*the letter "j"*
+	**the letter "j"**
 
 ### `jobj`
 _noun_  
-	*otidae*; bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds
+	**otidae**; bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds
 
 ### `joh`
 _noun_  
-	*ascidiacea*; sea squirts
+	**ascidiacea**; sea squirts
 
 ### `jok`
 _noun_  
-	*language*
+	**language**
 
 ### `jokdaitssland`
 _compound noun_  
-	*German*
+	**German**
 
 ### `jokinggland`
 _compound noun_  
-	*English*
+	**English**
 
 ### `joknihong`
 _compound noun_  
-	*Japanese*
+	**Japanese**
 
 ### `jol`
 _verb_  
-	*group*; associate with one another
+	**group**; associate with one another
 
 ### `jolz`
 _noun_  
-	*arowana*; bonytounges
+	**arowana**; bonytounges
 
 ### `jops`
 _noun_  
-	*day*; time unit
+	**day**; time unit
 
 ### `jork`
 _verb_  
-	*satisfied*; the good feeling produced by snapping parts together or popping bubble wrap
+	**satisfied**; the good feeling produced by snapping parts together or popping bubble wrap
 
 ### `jos`
 _verb_  
-	*sympathize*
+	**sympathize**
 
 ### `jot`
 _verb_  
-	*sibling-be*
+	**sibling-be**
 
 ### `joz`
 _verb_  
-	*excited*
+	**excited**
 
 ### `jra`
 _verb_  
-	*cloud*
+	**cloud**
 
 ### `jraf`
 _noun_  
-	*image*; in the most general sense
+	**image**; in the most general sense
 
 ### `jrafkiong`
 _compound noun_  
-	*map*
+	**map**
 
 ### `jrat`
 _verb_  
-	*periodic*; inverse of rate at which something oscillates, progresses, or decays with respect to time
+	**periodic**; inverse of rate at which something oscillates, progresses, or decays with respect to time
 
 ### `jrdh`
 _verb_  
-	*stand-up*; posture
+	**stand-up**; posture
 
 ### `jre`
 _noun_  
-	*zamiaceae*; cycads that are superficially palm or fern-like
+	**zamiaceae**; cycads that are superficially palm or fern-like
 
 ### `jreu`
 _verb_  
-	*be-in*; a situation
+	**be-in**; a situation
 
 ### `jri`
 _verb_  
-	*differ*
+	**differ**
 
 ### `jriy`
 _noun_  
-	*bear*
+	**bear**
 
 ### `jron`
 _verb_  
-	*reach*
+	**reach**
 
 ### `jrot`
 _verb_  
-	*soft*; tendency to conform shape
+	**soft**; tendency to conform shape
 
 ### `jrov`
 _verb_  
-	*cease*
+	**cease**
 
 ### `jrs`
 _verb_  
-	*trail*; a person or thing
+	**trail**; a person or thing
 
 ### `jrun`
 _verb_  
-	*significant*
+	**significant**
 
 ### `jry`
 _verb_  
-	*seem*
+	**seem**
 
 ### `ju`
 _verb_  
-	*start*
+	**start**
 
 ### `judh`
 _noun_  
-	*Sol*; our sun
+	**Sol**; our sun
 
 ### `jugzh`
 _verb_  
-	*whisper*; speak without voicing
+	**whisper**; speak without voicing
 
 ### `juj`
 _noun_  
-	*canine*; describes wolves, dingoes, and foxes
+	**canine**; describes wolves, dingoes, and foxes
 
 ### `jujdhing`
 _compound noun_  
-	*dog*
+	**dog**
 
 ### `k`
 _pronoun_  
-	*you*; the listener
+	**you**; the listener
 
 ### `kaih`
 _verb_  
-	*pleased*; basic euphoria from food, music, or sex
+	**pleased**; basic euphoria from food, music, or sex
 
 ### `kaiz`
 _verb_  
-	*research*
+	**research**
 
 ### `kaj`
 _verb_  
-	*medicate*; tend-to; treat; doctor
+	**medicate**; tend-to; treat; doctor
 
 ### `kanggres`
 _loanword_  
-	*congress*
+	**congress**
 
 ### `kas`
 _noun_  
-	*centipede*
+	**centipede**
 
 ### `kath`
 _noun_  
-	*ant*
+	**ant**
 
 ### `kaz`
 _noun_  
-	*grebe*
+	**grebe**
 
 ### `ke`
 _verb_  
-	*initiate*
+	**initiate**
 
 ### `kef`
 _verb_  
-	*desaturated*; blandness of color
+	**desaturated**; blandness of color
 
 ### `kej`
 _noun_  
-	*chevrotain*
+	**chevrotain**
 
 ### `ken`
 _verb_  
-	*dimensional*; i.e. 2D or 3D
+	**dimensional**; i.e. 2D or 3D
 
 ### `keng`
 _verb_  
-	*correspond*; relate - not write
+	**correspond**; relate - not write
 
 ### `kerf`
 _verb_  
-	*schadenfreude-ful*
+	**schadenfreude-ful**
 
 ### `keug`
 _noun_  
-	*echidna*
+	**echidna**
 
 ### `kez`
 _noun_  
-	*puffball*; fungus
+	**puffball**; fungus
 
 ### `kiej`
 _verb_  
-	*code-write*; program
+	**code-write**; program
 
 ### `kilogyam`
 _loanword_  
-	*kilogram*
+	**kilogram**
 
 ### `kiong`
 _noun_  
-	*topography*; geography
+	**topography**; geography
 
 ### `kish`
 _verb_  
-	*parse*; interpret information encoded somehow
+	**parse**; interpret information encoded somehow
 
 ### `kisk`
 _noun_  
-	*cusk-eel*
+	**cusk-eel**
 
 ### `kith`
 _verb_  
-	*consider*
+	**consider**
 
 ### `ko`
 _noun_  
-	*the letter "k"*
+	**the letter "k"**
 
 ### `koksh`
 _noun_  
-	*sponge*
+	**sponge**
 
 ### `kolf`
 _verb_  
-	*whole*
+	**whole**
 
 ### `kolng`
 _noun_  
-	*holocephali*
+	**holocephali**
 
 ### `kom`
 _verb_  
-	*spaciousness*
+	**spaciousness**
 
 ### `koup`
 _verb_  
-	*important*
+	**important**
 
 ### `kozh`
 _verb_  
-	*recept*; receive something sent, not something given
+	**recept**; receive something sent, not something given
 
 ### `kre`
 _noun_  
-	*ladder*
+	**ladder**
 
 ### `krismes`
 _loanword_  
-	*Christmas*
+	**Christmas**
 
 ### `kru`
 _noun_  
-	*continent*; e.g. North America, Eurasia
+	**continent**; e.g. North America, Eurasia
 
 ### `krugi`
 _compound noun_  
-	*subcontinent*; e.g. Europe, South Asia
+	**subcontinent**; e.g. Europe, South Asia
 
 ### `krv`
 _noun_  
-	*crab*; also includes lobsters
+	**crab**; also includes lobsters
 
 ### `kse`
 _noun_  
-	*phasmid*; stick and leaf insects
+	**phasmid**; stick and leaf insects
 
 ### `ksedh`
 _noun_  
-	*paddlefish*
+	**paddlefish**
 
 ### `ksek`
 _verb_  
-	*peruse*
+	**peruse**
 
 ### `ksh`
 _pronoun_  
-	*us-here*; the speaker and the listener
+	**us-here**; the speaker and the listener
 
 ### `kshath`
 _verb_  
-	*structural-strong*; resistance to breaking bending or deforming
+	**structural-strong**; resistance to breaking bending or deforming
 
 ### `kshe`
 _noun_  
-	*symphalan*
+	**symphalan**
 
 ### `kshim`
 _noun_  
-	*tylopoda*; camels and llamas
+	**tylopoda**; camels and llamas
 
 ### `kshm`
 _pronoun_  
-	*us-all*; the speaker, the listener, and others
+	**us-all**; the speaker, the listener, and others
 
 ### `ksse`
 _verb_  
-	*fearful*
+	**fearful**
 
 ### `kssi`
 _verb_  
-	*decide*
+	**decide**
 
 ### `ksso`
 _verb_  
-	*prone-lie*
+	**prone-lie**
 
 ### `kssra`
 _verb_  
-	*disease-have*
+	**disease-have**
 
 ### `kssri`
 _noun_  
-	*percomorpha*; gobies, cichlids, flatfish, wrasse, and perches
+	**percomorpha**; gobies, cichlids, flatfish, wrasse, and perches
 
 ### `kssu`
 _noun_  
-	*octopus*
+	**octopus**
 
 ### `kuey`
 _noun_  
-	*tree*
+	**tree**
 
 ### `kuh`
 _verb_  
-	*problem*; to pose a challenge, but not necessarily in a bad way
+	**problem**; to pose a challenge, but not necessarily in a bad way
 
 ### `kur`
 _noun_  
-	*hoatzin*; some weird kind of bird
+	**hoatzin**; some weird kind of bird
 
 ### `l`
 _special_  
-	*what*; missing information
+	**what**; missing information
 
 ### `latium`
 _loanword_  
-	*Latium*
+	**Latium**
 
 ### `li`
 _compound special_  
-	*to-which*; functions as the separate words [`l`](#l) and [`i`](#i)
+	**to-which**; functions as the separate words [`l`](#l) and [`i`](#i)
 
 ### `lia`
 _compound special_  
-	*how-much*; functions as the separate words [`l`](#l) and [`ia`](#ia)
+	**how-much**; functions as the separate words [`l`](#l) and [`ia`](#ia)
 
 ### `lity`
 _loanword_  
-	*litre*
+	**litre**
 
 ### `lr`
 _compound special_  
-	*who*; functions as the separate words [`l`](#l) and [`r`](#r)
+	**who**; functions as the separate words [`l`](#l) and [`r`](#r)
 
 ### `lu`
 _compound special_  
-	*of-which*; functions as the separate words [`l`](#l) and [`u`](#u)
+	**of-which**; functions as the separate words [`l`](#l) and [`u`](#u)
 
 ### `m`
 _pronoun_  
-	*them*; an agent besides the speaker and listener
+	**them**; an agent besides the speaker and listener
 
 ### `madh`
 _noun_  
-	*philydracea*; herbaceous monocotyledonous plants
+	**philydracea**; herbaceous monocotyledonous plants
 
 ### `madj`
 _verb_  
-	*hue*; expressed colloquially as a color name, not an angle
+	**hue**; expressed colloquially as a color name, not an angle
 
 ### `mam`
 _verb_  
-	*dispose-of*
+	**dispose-of**
 
 ### `mash`
 _verb_  
-	*incomplete*
+	**incomplete**
 
 ### `me`
 _noun_  
-	*-*; negative
+	**-**; negative
 
 ### `mej`
 _verb_  
-	*red*; stimulation of L cones
+	**red**; stimulation of L cones
 
 ### `mejzuey`
 _compound verb_  
-	*brown*
+	**brown**
 
 ### `melt`
 _verb_  
-	*hungry*; for food, sex, etc.
+	**hungry**; for food, sex, etc.
 
 ### `meng`
 _verb_  
-	*zoom*; gotta go fast
+	**zoom**; gotta go fast
 
 ### `merf`
 _verb_  
-	*defend*
+	**defend**
 
 ### `merzh`
 _verb_  
-	*fair*; skin-color
+	**fair**; skin-color
 
 ### `met`
 _noun_  
-	*bird*
+	**bird**
 
 ### `meth`
 _verb_  
-	*unmassive*
+	**unmassive**
 
 ### `mety`
 _loanword_  
-	*meter*
+	**meter**
 
 ### `mih`
 _verb_  
-	*much-of*; fraction; majority
+	**much-of**; fraction; majority
 
 ### `mis`
 _verb_  
-	*intelligent*; the innate ability to grasp a subject or concept
+	**intelligent**; the innate ability to grasp a subject or concept
 
 ### `mish`
 _noun_  
-	*finger*; toe
+	**finger**; toe
 
 ### `mk`
 _pronoun_  
-	*y'all*; the listener and others
+	**y'all**; the listener and others
 
 ### `mo`
 _noun_  
-	*the letter "m"*
+	**the letter "m"**
 
 ### `moi`
 _verb_  
-	*print*; convert a digital object into a real one
+	**print**; convert a digital object into a real one
 
 ### `molp`
 _noun_  
-	*gar*
+	**gar**
 
 ### `mosh`
 _verb_  
-	*gratitude*
+	**gratitude**
 
 ### `moudh`
 _verb_  
-	*proud*; the happiness associated with feeling like a productive member of society
+	**proud**; the happiness associated with feeling like a productive member of society
 
 ### `mozh`
 _noun_  
-	*Antarctica*
+	**Antarctica**
 
 ### `mra`
 _verb_  
-	*mock*
+	**mock**
 
 ### `mral`
 _verb_  
-	*classy*; the quality of being expensive and unneccesary
+	**classy**; the quality of being expensive and unneccesary
 
 ### `mred`
 _verb_  
-	*also-happen*; describes things that happen in tandem
+	**also-happen**; describes things that happen in tandem
 
 ### `mrh`
 _verb_  
-	*sarcastic*
+	**sarcastic**
 
 ### `mro`
 _verb_  
-	*downstream*; combine it with [`ing`](#ing) to get "flow"
+	**downstream**; combine it with [`ing`](#ing) to get "flow"
 
 ### `mrss`
 _verb_  
-	*business-open*; can refer to activity in general
+	**business-open**; can refer to activity in general
 
 ### `mua`
 _noun_  
-	*blob*
+	**blob**
 
 ### `mue`
 _noun_  
-	*sealily*
+	**sealily**
 
 ### `mung`
 _verb_  
-	*far*; physical or numerical
+	**far**; physical or numerical
 
 ### `mus`
 _loanword_  
-	*banana*
+	**banana**
 
 ### `muz`
 _noun_  
-	*mantid*
+	**mantid**
 
 ### `na`
 _verb_  
-	*left*; -x
+	**left**; -x
 
 ### `nal`
 _verb_  
-	*possible*
+	**possible**
 
 ### `nan`
 _noun_  
-	*petrosaviaceae*; flowering plants of Petrosaviales
+	**petrosaviaceae**; flowering plants of Petrosaviales
 
 ### `napsh`
 _noun_  
-	*cycas*; some ancient tree-palm-fern things
+	**cycas**; some ancient tree-palm-fern things
 
 ### `nar`
 _noun_  
-	*box*
+	**box**
 
 ### `nas`
 _noun_  
-	*automobile*; machine
+	**automobile**; machine
 
 ### `nay`
 _noun_  
-	*cariamiforme*; it's a flightless terrestrial bird
+	**cariamiforme**; it's a flightless terrestrial bird
 
 ### `ne`
 _noun_  
-	*the letter "n"*
+	**the letter "n"**
 
 ### `nei`
 _noun_  
-	*doliolida*
+	**doliolida**
 
 ### `nerb`
 _noun_  
-	*otocephala*; herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras
+	**otocephala**; herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras
 
 ### `ney`
 _noun_  
-	*film*; the original meaning - thin thanslucent surfaces
+	**film**; the original meaning - thin thanslucent surfaces
 
 ### `nga`
 _noun_  
-	*the letter "ng"*
+	**the letter "ng"**
 
 ### `ngad`
 _verb_  
-	*finish*; end a long habitual process
+	**finish**; end a long habitual process
 
 ### `ngaf`
 _verb_  
-	*surround*
+	**surround**
 
 ### `ngaim`
 _noun_  
-	*hole*; hallway; tube; gap
+	**hole**; hallway; tube; gap
 
 ### `ngaimopsh`
 _compound noun_  
-	*butthole*
+	**butthole**
 
 ### `ngaj`
 _noun_  
-	*eudicot*; a generic plant clade
+	**eudicot**; a generic plant clade
 
 ### `ngalth`
 _verb_  
-	*gesture*
+	**gesture**
 
 ### `ngang`
 _verb_  
-	*oppose*; compete with
+	**oppose**; compete with
 
 ### `ngaz`
 _noun_  
-	*zoantharia*
+	**zoantharia**
 
 ### `nge`
 _verb_  
-	*disappear*
+	**disappear**
 
 ### `ngeith`
 _noun_  
-	*physics*
+	**physics**
 
 ### `ngek`
 _verb_  
-	*foundation-form*
+	**foundation-form**
 
 ### `ngelt`
 _noun_  
-	*neoteleostei*; jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes
+	**neoteleostei**; jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes
 
 ### `ngerz`
 _verb_  
-	*combine*
+	**combine**
 
 ### `ngi`
 _verb_  
-	*skillful*
+	**skillful**
 
 ### `ngia`
 _noun_  
-	*atmosphere*; weather
+	**atmosphere**; weather
 
 ### `ngiaj`
 _noun_  
-	*pufferfish*
+	**pufferfish**
 
 ### `ngidh`
 _verb_  
-	*join*; a group
+	**join**; a group
 
 ### `ngieng`
 _verb_  
-	*dexterous*
+	**dexterous**
 
 ### `ngif`
 _noun_  
-	*soft-coral*
+	**soft-coral**
 
 ### `ngig`
 _verb_  
-	*goof*; off
+	**goof**; off
 
 ### `ngij`
 _noun_  
-	*point*; a particular time or place
+	**point**; a particular time or place
 
 ### `ngikss`
 _noun_  
-	*root*
+	**root**
 
 ### `ngin`
 _noun_  
-	*zorapteran*; a type of insect bug thing
+	**zorapteran**; a type of insect bug thing
 
 ### `ngip`
 _verb_  
-	*vibrant*; diversity of color
+	**vibrant**; diversity of color
 
 ### `ngis`
 _verb_  
-	*log-out*
+	**log-out**
 
 ### `ngiuf`
 _noun_  
-	*plant*
+	**plant**
 
 ### `ngo`
 _verb_  
-	*before*; -t
+	**before**; -t
 
 ### `ngob`
 _verb_  
-	*apathetic*
+	**apathetic**
 
 ### `ngod`
 _verb_  
-	*sit*
+	**sit**
 
 ### `ngoim`
 _verb_  
-	*closed*
+	**closed**
 
 ### `ngoj`
 _verb_  
-	*mediocre*; be a layperson
+	**mediocre**; be a layperson
 
 ### `ngorz`
 _verb_  
-	*fancy*
+	**fancy**
 
 ### `ngr`
 _verb_  
-	*short*; physical distance; maximum dimension; see "youth"
+	**short**; physical distance; maximum dimension; see "youth"
 
 ### `ngra`
 _verb_  
-	*skew*
+	**skew**
 
 ### `ngrag`
 _verb_  
-	*birth-give*; the physical act
+	**birth-give**; the physical act
 
 ### `ngrh`
 _verb_  
-	*appealing*; of a picture, sound, etc.
+	**appealing**; of a picture, sound, etc.
 
 ### `ngrij`
 _noun_  
-	*pecora*; basically anything with horns besides chevrotains, giraffes, and bovines
+	**pecora**; basically anything with horns besides chevrotains, giraffes, and bovines
 
 ### `ngrpsh`
 _noun_  
-	*adolescent*
+	**adolescent**
 
 ### `ngru`
 _noun_  
-	*scalidophora*; mud-dwelling tiny aquatic things
+	**scalidophora**; mud-dwelling tiny aquatic things
 
 ### `ngry`
 _verb_  
-	*healthy*
+	**healthy**
 
 ### `ngrzh`
 _noun_  
-	*thing*; tangible
+	**thing**; tangible
 
 ### `ngu`
 _noun_  
-	*C*; 12; only used for hexadecimal
+	**C**; 12; only used for hexadecimal
 
 ### `nguath`
 _verb_  
-	*should*; how good a decision is
+	**should**; how good a decision is
 
 ### `ngubj`
 _noun_  
-	*female*
+	**female**
 
 ### `ngud`
 _verb_  
-	*traverse*; typically compounded to make things like "swim", "climb", "gallop"
+	**traverse**; typically compounded to make things like "swim", "climb", "gallop"
 
 ### `nguei`
 _noun_  
-	*bracket-fungus*
+	**bracket-fungus**
 
 ### `nguet`
 _noun_  
-	*hydra*
+	**hydra**
 
 ### `nguih`
 _noun_  
-	*instance*
+	**instance**
 
 ### `nguoh`
 _noun_  
-	*sphere*
+	**sphere**
 
 ### `ngurdh`
 _noun_  
-	*bolete*
+	**bolete**
 
 ### `nguz`
 _verb_  
-	*sell*
+	**sell**
 
 ### `nguzh`
 _verb_  
-	*weak*; inability to exact force
+	**weak**; inability to exact force
 
 ### `ni`
 _conjunction_  
-	*both*
+	**both**
 
 ### `nihong`
 _loanword_  
-	*Japan*
+	**Japan**
 
 ### `ning`
 _noun_  
-	*bee*
+	**bee**
 
 ### `nioz`
 _noun_  
-	*seal*; includes walruses and maybe sea lions I think?
+	**seal**; includes walruses and maybe sea lions I think?
 
 ### `nirzh`
 _noun_  
-	*sawfly*
+	**sawfly**
 
 ### `niy`
 _noun_  
-	*stony-coral*
+	**stony-coral**
 
 ### `no`
 _verb_  
-	*inside*; small distance from center
+	**inside**; small distance from center
 
 ### `nof`
 _verb_  
-	*lie*; deceive
+	**lie**; deceive
 
 ### `nol`
 _verb_  
-	*poison-apply*
+	**poison-apply**
 
 ### `nop`
 _noun_  
-	*primatomorpha*; basically monkeys and apes plus a few other types of primate
+	**primatomorpha**; basically monkeys and apes plus a few other types of primate
 
 ### `nosp`
 _noun_  
-	*shorebird*
+	**shorebird**
 
 ### `noy`
 _verb_  
-	*random-generate*
+	**random-generate**
 
 ### `nr`
 _verb_  
-	*clothed*
+	**clothed**
 
 ### `nral`
 _noun_  
-	*gladiator*; it's a type of insect
+	**gladiator**; it's a type of insect
 
 ### `nre`
 _verb_  
-	*ponder*; a subject
+	**ponder**; a subject
 
 ### `nrim`
 _noun_  
-	*antenna*
+	**antenna**
 
 ### `nrp`
 _verb_  
-	*community-make*
+	**community-make**
 
 ### `nru`
 _noun_  
-	*invertebrate*
+	**invertebrate**
 
 ### `nruv`
 _verb_  
-	*entrepreneur*; solve large-scale problems
+	**entrepreneur**; solve large-scale problems
 
 ### `nrzh`
 _noun_  
-	*mathematics*
+	**mathematics**
 
 ### `nuab`
 _noun_  
-	*quillwort*
+	**quillwort**
 
 ### `nuag`
 _verb_  
-	*function*; do what one is supposed to
+	**function**; do what one is supposed to
 
 ### `nuazh`
 _verb_  
-	*sesquipedalian*
+	**sesquipedalian**
 
 ### `nubj`
 _verb_  
-	*sentience*; I'm not going to try to define it here; I have a definition, but it cannot be put into words
+	**sentience**; I'm not going to try to define it here; I have a definition, but it cannot be put into words
 
 ### `nueb`
 _noun_  
-	*home*
+	**home**
 
 ### `nued`
 _verb_  
-	*study*; a subject
+	**study**; a subject
 
 ### `nuem`
 _verb_  
-	*sorry*
+	**sorry**
 
 ### `nuj`
 _verb_  
-	*log-in*
+	**log-in**
 
 ### `nuo`
 _verb_  
-	*obscure*
+	**obscure**
 
 ### `nup`
 _noun_  
-	*rod*
+	**rod**
 
 ### `nuz`
 _noun_  
-	*Eastern-Asia*
+	**Eastern-Asia**
 
 ### `o`
 _fastener_  
-	*which-one*; describes a specific instance
+	**which-one**; describes a specific instance
 
 ### `od`
 _noun_  
-	*2*
+	**2**
 
 ### `odh`
 _compound modifier_  
-	*the*; previously mentioned
+	**the**; previously mentioned
 
 ### `odj`
 _verb_  
-	*violent*; physical violence
+	**violent**; physical violence
 
 ### `of`
 _compound modifier_  
-	*a*; not previously mentioned
+	**a**; not previously mentioned
 
 ### `og`
 _verb_  
-	*forward*; +y
+	**forward**; +y
 
 ### `oh`
 _verb_  
-	*possess*
+	**possess**
 
 ### `oi`
 _verb_  
-	*attention-try*; e.g. yell at the direct object or flash bright colors; see [`durss`](#durss)
+	**attention-try**; e.g. yell at the direct object or flash bright colors; see [`durss`](#durss)
 
 ### `oib`
 _noun_  
-	*chiton*
+	**chiton**
 
 ### `oibj`
 _verb_  
-	*business-closed*; can refer to dormancy in general
+	**business-closed**; can refer to dormancy in general
 
 ### `oik`
 _verb_  
-	*kill*
+	**kill**
 
 ### `oiks`
 _noun_  
-	*millipede*
+	**millipede**
 
 ### `oishk`
 _noun_  
-	*fern*
+	**fern**
 
 ### `oj`
 _tense-marker_  
-	*fuck*; antiexclamatory
+	**fuck**; antiexclamatory
 
 ### `ok`
 _compound modifier_  
-	*that*; associated with listener
+	**that**; associated with listener
 
 ### `olf`
 _noun_  
-	*sea-cow*; like manatees
+	**sea-cow**; like manatees
 
 ### `ols`
 _noun_  
-	*asparagoid-lily*; minus orchids
+	**asparagoid-lily**; minus orchids
 
 ### `oltss`
 _noun_  
-	*rectangle*
+	**rectangle**
 
 ### `olv`
 _noun_  
-	*solifuga*
+	**solifuga**
 
 ### `olz`
 _verb_  
-	*tainted*
+	**tainted**
 
 ### `om`
 _compound modifier_  
-	*that-over-there*; associated with neither speaker nor listener
+	**that-over-there**; associated with neither speaker nor listener
 
 ### `on`
 _verb_  
-	*index*; order in a list
+	**index**; order in a list
 
 ### `op`
 _verb_  
-	*take*
+	**take**
 
 ### `opsh`
 _noun_  
-	*feces*
+	**feces**
 
 ### `or`
 _postposition_  
-	*by*; as; denotes method
+	**by**; as; denotes method
 
 ### `ordh`
 _verb_  
-	*notorious*
+	**notorious**
 
 ### `orh`
 _verb_  
-	*together*; work as a team
+	**together**; work as a team
 
 ### `ory`
 _noun_  
-	*meme*
+	**meme**
 
 ### `orzh`
 _verb_  
-	*obvious*
+	**obvious**
 
 ### `os`
 _postposition_  
-	*at*; on; in; denotes date/time or instance number
+	**at**; on; in; denotes date/time or instance number
 
 ### `osh`
 _compound modifier_  
-	*this*; associated with speaker
+	**this**; associated with speaker
 
 ### `oth`
 _tense-marker_  
-	*merry*; salutory
+	**merry**; salutory
 
 ### `ots`
 _verb_  
-	*truth-tell*
+	**truth-tell**
 
 ### `ou`
 _noun_  
-	*the letter "o"*
+	**the letter "o"**
 
 ### `ouss`
 _noun_  
-	*head*
+	**head**
 
 ### `ouzh`
 _verb_  
-	*locked*
+	**locked**
 
 ### `ov`
 _verb_  
-	*goodbye-say*
+	**goodbye-say**
 
 ### `oy`
 _verb_  
-	*inapt*; fail to fit a situation well
+	**inapt**; fail to fit a situation well
 
 ### `pa`
 _noun_  
-	*the letter "p"*
+	**the letter "p"**
 
 ### `pai`
 _noun_  
-	*gorgonian*; sea fans and sea whips
+	**gorgonian**; sea fans and sea whips
 
 ### `pal`
 _verb_  
-	*firm*; tendency to hold shape
+	**firm**; tendency to hold shape
 
 ### `pe`
 _verb_  
-	*track*; follow a path
+	**track**; follow a path
 
 ### `ped`
 _verb_  
-	*hot*
+	**hot**
 
 ### `peiv`
 _noun_  
-	*scorpion*
+	**scorpion**
 
 ### `pej`
 _verb_  
-	*remember*; to do something
+	**remember**; to do something
 
 ### `pel`
 _noun_  
-	*penguin*
+	**penguin**
 
 ### `pels`
 _noun_  
-	*autumn*
+	**autumn**
 
 ### `pen`
 _verb_  
-	*fringe*; refers to being secondary or minor
+	**fringe**; refers to being secondary or minor
 
 ### `pess`
 _verb_  
-	*care*; believe that something merits concern on a subconcious level; contrast with [`frzh`](#frzh)
+	**care**; believe that something merits concern on a subconcious level; contrast with [`frzh`](#frzh)
 
 ### `peu`
 _verb_  
-	*clever*; the innate ability to solve riddles and puzzles
+	**clever**; the innate ability to solve riddles and puzzles
 
 ### `pey`
 _noun_  
-	*chunk*; 10^3 days
+	**chunk**; 10^3 days
 
 ### `pezh`
 _noun_  
-	*pine-tree*; includes cedars, firs, hemlocks, larches, and spruces
+	**pine-tree**; includes cedars, firs, hemlocks, larches, and spruces
 
 ### `pi`
 _verb_  
-	*write*; etch symbols into something; record something in a physical object; save a file
+	**write**; etch symbols into something; record something in a physical object; save a file
 
 ### `piam`
 _noun_  
-	*moss*; any embryophyte without xyla, like liverworts and hornworts, plus clubmoss and spikemoss and firemoss
+	**moss**; any embryophyte without xyla, like liverworts and hornworts, plus clubmoss and spikemoss and firemoss
 
 ### `piar`
 _verb_  
-	*sonorous*; low pitch
+	**sonorous**; low pitch
 
 ### `pie`
 _verb_  
-	*transform*
+	**transform**
 
 ### `pih`
 _noun_  
-	*paper*
+	**paper**
 
 ### `pij`
 _verb_  
-	*lead-to*; be a door; subject is door, direct object is thing on this side, indirect object is thing on other side
+	**lead-to**; be a door; subject is door, direct object is thing on this side, indirect object is thing on other side
 
 ### `pizh`
 _verb_  
-	*nice*
+	**nice**
 
 ### `po`
 _noun_  
-	*7*
+	**7**
 
 ### `poj`
 _verb_  
-	*mature*
+	**mature**
 
 ### `por`
 _noun_  
-	*US-Canada*
+	**US-Canada**
 
 ### `prdh`
 _noun_  
-	*forearm*; shin
+	**forearm**; shin
 
 ### `preu`
 _noun_  
-	*Central-Asia*
+	**Central-Asia**
 
 ### `prf`
 _verb_  
-	*sober*
+	**sober**
 
 ### `prj`
 _noun_  
-	*settlement*; like a city or a town
+	**settlement**; like a city or a town
 
 ### `prth`
 _verb_  
-	*patronize*; as in a customer going to a business
+	**patronize**; as in a customer going to a business
 
 ### `prts`
 _verb_  
-	*imprison*
+	**imprison**
 
 ### `psav`
 _verb_  
-	*liberal*; political
+	**liberal**; political
 
 ### `pshazh`
 _verb_  
-	*unappealing*; of a picture, sound, etc.
+	**unappealing**; of a picture, sound, etc.
 
 ### `pshet`
 _noun_  
-	*blue-coral*
+	**blue-coral**
 
 ### `pshr`
 _verb_  
-	*citizen*; subject is citizen, direct object is state/sovereign/polity, like India or The Vatican
+	**citizen**; subject is citizen, direct object is state/sovereign/polity, like India or The Vatican
 
 ### `pshrg`
 _noun_  
-	*osprey*
+	**osprey**
 
 ### `pshu`
 _verb_  
-	*act*; behave as though the direct object is true; do things in a certain manner
+	**act**; behave as though the direct object is true; do things in a certain manner
 
 ### `pso`
 _verb_  
-	*lesser*; small numeric value
+	**lesser**; small numeric value
 
 ### `psseth`
 _noun_  
-	*euliptyphla*; hedgehogs, moles, shrews, and a few other rodent-like things
+	**euliptyphla**; hedgehogs, moles, shrews, and a few other rodent-like things
 
 ### `pssidh`
 _verb_  
-	*secret-share*
+	**secret-share**
 
 ### `pssr`
 _noun_  
-	*coelacanth*
+	**coelacanth**
 
 ### `pssu`
 _noun_  
-	*turtle*; includes tortoises and terrapins
+	**turtle**; includes tortoises and terrapins
 
 ### `psu`
 _noun_  
-	*monoplacophora*; a type of molosk
+	**monoplacophora**; a type of molosk
 
 ### `pu`
 _verb_  
-	*exist*
+	**exist**
 
 ### `pua`
 _noun_  
-	*history*
+	**history**
 
 ### `puedh`
 _noun_  
-	*Europe*
+	**Europe**
 
 ### `pun`
 _verb_  
-	*strong*; ability to exact force
+	**strong**; ability to exact force
 
 ### `puong`
 _verb_  
-	*angularly-large*
+	**angularly-large**
 
 ### `puop`
 _noun_  
-	*era*; 10^5 days
+	**era**; 10^5 days
 
 ### `r`
 _postposition_  
-	*sbj*; denotes subject
+	**sbj**; denotes subject
 
 ### `ra`
 _verb_  
-	*same*; the subject equalls the indirect object
+	**same**; the subject equalls the indirect object
 
 ### `radh`
 _verb_  
-	*extract*
+	**extract**
 
 ### `radz`
 _verb_  
-	*care-take*
+	**care-take**
 
 ### `raij`
 _noun_  
-	*anemone*
+	**anemone**
 
 ### `rak`
 _verb_  
-	*brief*
+	**brief**
 
 ### `ralp`
 _noun_  
-	*sight*
+	**sight**
 
 ### `ram`
 _verb_  
-	*embark*; in the metaphorical sense; begin a long habitual process
+	**embark**; in the metaphorical sense; begin a long habitual process
 
 ### `rang`
 _verb_  
-	*charismatic*
+	**charismatic**
 
 ### `rapss`
 _verb_  
-	*watch*
+	**watch**
 
 ### `rat`
 _noun_  
-	*chloranthale*; a family of unique tropical flowering shrubs
+	**chloranthale**; a family of unique tropical flowering shrubs
 
 ### `rauj`
 _noun_  
-	*palaeognatha*; ostriches, rheas, tinamous, kiwis, cassowaries, and emus
+	**palaeognatha**; ostriches, rheas, tinamous, kiwis, cassowaries, and emus
 
 ### `raun`
 _verb_  
-	*example-pose*
+	**example-pose**
 
 ### `rav`
 _verb_  
-	*forward-to-look*; like "anticipation"
+	**forward-to-look**; like "anticipation"
 
 ### `rb`
 _verb_  
-	*use*
+	**use**
 
 ### `rbj`
 _noun_  
-	*ricinulei*
+	**ricinulei**
 
 ### `rd`
 _verb_  
-	*high*; +z
+	**high**; +z
 
 ### `rdh`
 _verb_  
-	*disbelieve*; have a negative reaction to an idea
+	**disbelieve**; have a negative reaction to an idea
 
 ### `re`
 _noun_  
-	*3*
+	**3**
 
 ### `ref`
 _verb_  
-	*available*; time management at a point
+	**available**; time management at a point
 
 ### `reidien`
 _loanword_  
-	*radian*
+	**radian**
 
 ### `relb`
 _noun_  
-	*loon*
+	**loon**
 
 ### `rem`
 _verb_  
-	*synergize*; constructively interfere
+	**synergize**; constructively interfere
 
 ### `rer`
 _verb_  
-	*local*
+	**local**
 
 ### `rerj`
 _verb_  
-	*humid*
+	**humid**
 
 ### `reuzh`
 _noun_  
-	*male*
+	**male**
 
 ### `rey`
 _verb_  
-	*rotate*; about the direct object
+	**rotate**; about the direct object
 
 ### `rf`
 _verb_  
-	*inept*; unskillfulness
+	**inept**; unskillfulness
 
 ### `rg`
 _verb_  
-	*change*
+	**change**
 
 ### `rh`
 _noun_  
-	*8*
+	**8**
 
 ### `ri`
 _verb_  
-	*among*; among the object
+	**among**; among the object
 
 ### `rih`
 _verb_  
-	*plan*
+	**plan**
 
 ### `ring`
 _verb_  
-	*precipitate*
+	**precipitate**
 
 ### `rip`
 _noun_  
-	*ginkgo biloba*; a unique Japanese tree
+	**ginkgo biloba**; a unique Japanese tree
 
 ### `rish`
 _verb_  
-	*skeptical*
+	**skeptical**
 
 ### `risp`
 _verb_  
-	*into*; direct object is long/deep thing
+	**into**; direct object is long/deep thing
 
 ### `rj`
 _verb_  
-	*spend-time*; with someone
+	**spend-time**; with someone
 
 ### `rk`
 _postposition_  
-	*regarding*; WRT; denotes context
+	**regarding**; WRT; denotes context
 
 ### `rm`
 _noun_  
-	*the letter "r"*
+	**the letter "r"**
 
 ### `rng`
 _noun_  
-	*A*; 10; only used for duodecimal and hexadecimal
+	**A**; 10; only used for duodecimal and hexadecimal
 
 ### `ro`
 _verb_  
-	*be*; this is ==, not .equals(
+	**be**; this is ==, not .equals(
 
 ### `rodh`
 _noun_  
-	*notopteroide*; aba, elephantfishes, and featherfin knives
+	**notopteroide**; aba, elephantfishes, and featherfin knives
 
 ### `rof`
 _noun_  
-	*eufalconimorpha*; falcons, passerines, parrots, caracaras, and forest falcons
+	**eufalconimorpha**; falcons, passerines, parrots, caracaras, and forest falcons
 
 ### `roh`
 _noun_  
-	*yew*
+	**yew**
 
 ### `rolj`
 _noun_  
-	*jungle*
+	**jungle**
 
 ### `rong`
 _verb_  
-	*fatigued*
+	**fatigued**
 
 ### `ror`
 _noun_  
-	*mustelidae*; weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines
+	**mustelidae**; weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines
 
 ### `rosk`
 _noun_  
-	*fact*; not necessarily true, but necessarily objective
+	**fact**; not necessarily true, but necessarily objective
 
 ### `roth`
 _noun_  
-	*jellyfish*
+	**jellyfish**
 
 ### `rou`
 _noun_  
-	*adult*; older than 7 chunks or so
+	**adult**; older than 7 chunks or so
 
 ### `rp`
 _verb_  
-	*dislike*
+	**dislike**
 
 ### `rpss`
 _verb_  
-	*hold*
+	**hold**
 
 ### `rs`
 _verb_  
-	*young*; length of time; applies to objects and events as well as people
+	**young**; length of time; applies to objects and events as well as people
 
 ### `rsh`
 _verb_  
-	*between*; between the direct and indirect objects
+	**between**; between the direct and indirect objects
 
 ### `rsk`
 _noun_  
-	*coraciimorpha*; some smallish generally tree-dwelling birds
+	**coraciimorpha**; some smallish generally tree-dwelling birds
 
 ### `rss`
 _verb_  
-	*activate*
+	**activate**
 
 ### `rt`
 _verb_  
-	*greet*
+	**greet**
 
 ### `rth`
 _verb_  
-	*want*
+	**want**
 
 ### `rtsh`
 _noun_  
-	*amblypygus*; they look like spiders, but produce no web or venom
+	**amblypygus**; they look like spiders, but produce no web or venom
 
 ### `ru`
 _verb_  
-	*persist*
+	**persist**
 
 ### `ruj`
 _noun_  
-	*fungus*
+	**fungus**
 
 ### `ruy`
 _verb_  
-	*randomize*; an order or setup
+	**randomize**; an order or setup
 
 ### `rv`
 _verb_  
-	*can*
+	**can**
 
 ### `rvthelp`
 _compound verb_  
-	*can-remember*
+	**can-remember**
 
 ### `ry`
 _verb_  
-	*transition*; represents delta vector between any two states
+	**transition**; represents delta vector between any two states
 
 ### `sa`
 _noun_  
-	*Hexadec*; 16; only used to describe hexadecimal
+	**Hexadec**; 16; only used to describe hexadecimal
 
 ### `se`
 _qualifier_  
-	*even*; stressed
+	**even**; stressed
 
 ### `seu`
 _verb_  
-	*intense*; computationally
+	**intense**; computationally
 
 ### `sh`
 _pronoun_  
-	*me*; the speaker
+	**me**; the speaker
 
 ### `shaid`
 _verb_  
-	*arrange*; in an order
+	**arrange**; in an order
 
 ### `sharm`
 _noun_  
-	*trichoplax*; real small and thin sponge-like animals
+	**trichoplax**; real small and thin sponge-like animals
 
 ### `shasht`
 _noun_  
-	*region*; an area in space of a period of time
+	**region**; an area in space of a period of time
 
 ### `shaz`
 _verb_  
-	*piecewise*
+	**piecewise**
 
 ### `she`
 _noun_  
-	*the letter "sh"*
+	**the letter "sh"**
 
 ### `shei`
 _noun_  
-	*earth*
+	**earth**
 
 ### `shi`
 _noun_  
-	*E*; 14; only used for hexadecimal
+	**E**; 14; only used for hexadecimal
 
 ### `shib`
 _noun_  
-	*hanguanacea*; terrestrial herbaceous Austrolasian plants
+	**hanguanacea**; terrestrial herbaceous Austrolasian plants
 
 ### `shie`
 _noun_  
-	*salp*
+	**salp**
 
 ### `shiezh`
 _noun_  
-	*snail*
+	**snail**
 
 ### `shif`
 _verb_  
-	*divide*; into the direct object
+	**divide**; into the direct object
 
 ### `shifang`
 _compound verb_  
-	*divide-in-quarters*
+	**divide-in-quarters**
 
 ### `shifev`
 _compound verb_  
-	*divide-in-sixths*
+	**divide-in-sixths**
 
 ### `shifiu`
 _compound verb_  
-	*divide-in-fifteenths*
+	**divide-in-fifteenths**
 
 ### `shifngu`
 _compound verb_  
-	*divide-in-twelfths*
+	**divide-in-twelfths**
 
 ### `shifod`
 _compound verb_  
-	*divide-in-half*
+	**divide-in-half**
 
 ### `shifpo`
 _compound verb_  
-	*divide-in-sevenths*
+	**divide-in-sevenths**
 
 ### `shifre`
 _compound verb_  
-	*divide-in-thirds*
+	**divide-in-thirds**
 
 ### `shifrng`
 _compound verb_  
-	*divide-in-tenths*
+	**divide-in-tenths**
 
 ### `shifzha`
 _compound verb_  
-	*divide-in-fifths*
+	**divide-in-fifths**
 
 ### `shin`
 _noun_  
-	*wood*
+	**wood**
 
 ### `shiodh`
 _verb_  
-	*subject*; focus on
+	**subject**; focus on
 
 ### `shiom`
 _noun_  
-	*flower*
+	**flower**
 
 ### `shion`
 _noun_  
-	*squalomorph-shark*
+	**squalomorph-shark**
 
 ### `shir`
 _verb_  
-	*surprised*
+	**surprised**
 
 ### `shis`
 _noun_  
-	*cattail-plant*; typhaceae
+	**cattail-plant**; typhaceae
 
 ### `shiy`
 _noun_  
-	*neutered-or-spayed*
+	**neutered-or-spayed**
 
 ### `shkam`
 _verb_  
-	*art-make*
+	**art-make**
 
 ### `shke`
 _noun_  
-	*torso*
+	**torso**
 
 ### `shko`
 _verb_  
-	*hallucinate*; dream
+	**hallucinate**; dream
 
 ### `shkri`
 _verb_  
-	*disagree*
+	**disagree**
 
 ### `shm`
 _pronoun_  
-	*us*; the speaker and others
+	**us**; the speaker and others
 
 ### `sho`
 _noun_  
-	*no*
+	**no**
 
 ### `shoh`
 _verb_  
-	*sleep*
+	**sleep**
 
 ### `shoish`
 _noun_  
-	*discoreales*; monocotyledonous flowering plants
+	**discoreales**; monocotyledonous flowering plants
 
 ### `shorss`
 _verb_  
-	*brittle*; tendency to shatter when force is applied, without bending
+	**brittle**; tendency to shatter when force is applied, without bending
 
 ### `shoy`
 _noun_  
-	*rodent*
+	**rodent**
 
 ### `shpef`
 _noun_  
-	*black-coral*
+	**black-coral**
 
 ### `shpel`
 _noun_  
-	*embiidina*; web-spinning insects
+	**embiidina**; web-spinning insects
 
 ### `shpep`
 _noun_  
-	*elder*; senior citizen
+	**elder**; senior citizen
 
 ### `shpi`
 _noun_  
-	*Central-America*
+	**Central-America**
 
 ### `shpum`
 _noun_  
-	*plecaniforme*; pelicans and similar things
+	**plecaniforme**; pelicans and similar things
 
 ### `shrf`
 _noun_  
-	*earth-star*; fungus
+	**earth-star**; fungus
 
 ### `shrng`
 _verb_  
-	*special*; uniqueness
+	**special**; uniqueness
 
 ### `shtep`
 _verb_  
-	*reason*
+	**reason**
 
 ### `shto`
 _verb_  
-	*technical*
+	**technical**
 
 ### `shtu`
 _verb_  
-	*burn*
+	**burn**
 
 ### `shuf`
 _verb_  
-	*congratulate*
+	**congratulate**
 
 ### `shuz`
 _verb_  
-	*opaque*
+	**opaque**
 
 ### `si`
 _noun_  
-	*the letter "s"*
+	**the letter "s"**
 
 ### `sig`
 _noun_  
-	*whale*; also refers to dolphins and porpoises
+	**whale**; also refers to dolphins and porpoises
 
 ### `skadh`
 _verb_  
-	*unstable*; diminished chord or scale
+	**unstable**; diminished chord or scale
 
 ### `skelf`
 _special_  
-	*backspace*; ingnore previous few words
+	**backspace**; ingnore previous few words
 
 ### `ski`
 _noun_  
-	*parasite*
+	**parasite**
 
 ### `skozh`
 _verb_  
-	*test*
+	**test**
 
 ### `so`
 _verb_  
-	*apt*; fit a situation well
+	**apt**; fit a situation well
 
 ### `sob`
 _verb_  
-	*boil*
+	**boil**
 
 ### `sodh`
 _verb_  
-	*pollute*
+	**pollute**
 
 ### `sof`
 _noun_  
-	*acarus*; mites and ticks
+	**acarus**; mites and ticks
 
 ### `soih`
 _verb_  
-	*in-season*; a time of year when something is "in"
+	**in-season**; a time of year when something is "in"
 
 ### `son`
 _noun_  
-	*curve*; any smooth path
+	**curve**; any smooth path
 
 ### `soth`
 _verb_  
-	*tan*; skin-color
+	**tan**; skin-color
 
 ### `sou`
 _verb_  
-	*messy*
+	**messy**
 
 ### `soup`
 _verb_  
-	*represent*
+	**represent**
 
 ### `soy`
 _verb_  
-	*fresh*
+	**fresh**
 
 ### `spa`
 _verb_  
-	*wound-suffer*
+	**wound-suffer**
 
 ### `spej`
 _verb_  
-	*shouldn't*; how bad a decision is
+	**shouldn't**; how bad a decision is
 
 ### `sprth`
 _verb_  
-	*repeat*
+	**repeat**
 
 ### `sr`
 _verb_  
-	*cause*
+	**cause**
 
 ### `srdh`
 _noun_  
-	*pandan*; a type of plant
+	**pandan**; a type of plant
 
 ### `sringess`
 _compound verb_  
-	*lower*
+	**lower**
 
 ### `sringrd`
 _compound verb_  
-	*raise*
+	**raise**
 
 ### `sringyeu`
 _compound verb_  
-	*cause-to-break*
+	**cause-to-break**
 
 ### `srjarz`
 _compound verb_  
-	*keep-cool*
+	**keep-cool**
 
 ### `srped`
 _compound verb_  
-	*heat*
+	**heat**
 
 ### `srz`
 _verb_  
-	*pull*
+	**pull**
 
 ### `ssa`
 _noun_  
-	*the letter "ss"*
+	**the letter "ss"**
 
 ### `ssazh`
 _noun_  
-	*apterygota*; silverfish, firebrat, and jumping bristletails
+	**apterygota**; silverfish, firebrat, and jumping bristletails
 
 ### `sse`
 _verb_  
-	*dead*
+	**dead**
 
 ### `ssek`
 _noun_  
-	*span*; 10^-3 days
+	**span**; 10^-3 days
 
 ### `sseu`
 _noun_  
-	*life*
+	**life**
 
 ### `sseum`
 _verb_  
-	*great*; numerically
+	**great**; numerically
 
 ### `ssi`
 _verb_  
-	*call*; digital
+	**call**; digital
 
 ### `ssissp`
 _noun_  
-	*giraffe*; and okapi
+	**giraffe**; and okapi
 
 ### `sso`
 _verb_  
-	*relate*; to a topic
+	**relate**; to a topic
 
 ### `ssouh`
 _verb_  
-	*off-build*
+	**off-build**
 
 ### `sspith`
 _verb_  
-	*jump*; over the indirect object onto the direct object
+	**jump**; over the indirect object onto the direct object
 
 ### `sspoi`
 _noun_  
-	*elopomorpha*; ladyfishes, tarpons, and bonefishes, but not eels
+	**elopomorpha**; ladyfishes, tarpons, and bonefishes, but not eels
 
 ### `sspoj`
 _verb_  
-	*name*; indirect object is person, direct object is name
+	**name**; indirect object is person, direct object is name
 
 ### `sspuf`
 _verb_  
-	*visit*
+	**visit**
 
 ### `ssr`
 _verb_  
-	*do*
+	**do**
 
 ### `ssrdh`
 _verb_  
-	*secret-keep*
+	**secret-keep**
 
 ### `ssrek`
 _noun_  
-	*protacanthopterygii*; salmons, trouts, pikes, dragonfishes, and smelts
+	**protacanthopterygii**; salmons, trouts, pikes, dragonfishes, and smelts
 
 ### `ssri`
 _verb_  
-	*up*; angle up from antiazimuth with indirect object being origin; height on page
+	**up**; angle up from antiazimuth with indirect object being origin; height on page
 
 ### `ssridh`
 _noun_  
-	*palpigrade*
+	**palpigrade**
 
 ### `ssrig`
 _verb_  
-	*apply*; the subject is a process, the direct object is something that undergoes that process
+	**apply**; the subject is a process, the direct object is something that undergoes that process
 
 ### `ssro`
 _noun_  
-	*branchiopod*; a few types of shrimp
+	**branchiopod**; a few types of shrimp
 
 ### `ssrof`
 _verb_  
-	*run*
+	**run**
 
 ### `ssroy`
 _verb_  
-	*sex-have*
+	**sex-have**
 
 ### `ssruth`
 _verb_  
-	*return*
+	**return**
 
 ### `ssta`
 _verb_  
-	*imply*; if-then
+	**imply**; if-then
 
 ### `sstoj`
 _verb_  
-	*hog*
+	**hog**
 
 ### `sstua`
 _noun_  
-	*landfowl*; chickens, turkeys, and pheasants
+	**landfowl**; chickens, turkeys, and pheasants
 
 ### `sstue`
 _noun_  
-	*mecoptera*; flying scorpions!
+	**mecoptera**; flying scorpions!
 
 ### `ssu`
 _conjunction_  
-	*unquote*
+	**unquote**
 
 ### `ssub`
 _verb_  
-	*generalize*
+	**generalize**
 
 ### `ssuf`
 _noun_  
-	*pontederiacea*; a family of aquatic wetland plants
+	**pontederiacea**; a family of aquatic wetland plants
 
 ### `ssuss`
 _verb_  
-	*cluster*; be physically nearby
+	**cluster**; be physically nearby
 
 ### `ssuth`
 _verb_  
-	*throw*
+	**throw**
 
 ### `sta`
 _noun_  
-	*leptostrac*
+	**leptostrac**
 
 ### `suet`
 _noun_  
-	*strepsiptera*; twisted-wing parasites
+	**strepsiptera**; twisted-wing parasites
 
 ### `sui`
 _verb_  
-	*marry*
+	**marry**
 
 ### `suoh`
 _verb_  
-	*conquer*
+	**conquer**
 
 ### `surh`
 _verb_  
-	*cousin-be*
+	**cousin-be**
 
 ### `suy`
 _noun_  
-	*sentence*
+	**sentence**
 
 ### `ta`
 _verb_  
-	*unwant*; actively not want an object
+	**unwant**; actively not want an object
 
 ### `tai`
 _verb_  
-	*particular*
+	**particular**
 
 ### `tan`
 _verb_  
-	*lazy*
+	**lazy**
 
 ### `tap`
 _verb_  
-	*expectation-exceed*
+	**expectation-exceed**
 
 ### `taud`
 _noun_  
-	*leg*
+	**leg**
 
 ### `te`
 _verb_  
-	*own*
+	**own**
 
 ### `teih`
 _verb_  
-	*cut*
+	**cut**
 
 ### `teizh`
 _noun_  
-	*podocarpaceae*; a family of southern-hemisphere conifers
+	**podocarpaceae**; a family of southern-hemisphere conifers
 
 ### `tel`
 _verb_  
-	*stab*; puncture
+	**stab**; puncture
 
 ### `telng`
 _noun_  
-	*plankton*; anything microscopic that belongs to nephrozoa
+	**plankton**; anything microscopic that belongs to nephrozoa
 
 ### `tes`
 _verb_  
-	*shout*; raise one's voice
+	**shout**; raise one's voice
 
 ### `tey`
 _noun_  
-	*appendage*
+	**appendage**
 
 ### `tha`
 _verb_  
-	*broad*; middle dimension
+	**broad**; middle dimension
 
 ### `thai`
 _noun_  
-	*fire*
+	**fire**
 
 ### `the`
 _verb_  
-	*read*; derive meaning from a physical object; load a file; contrast with [`ashzhiodh`](#ashzhiodh)
+	**read**; derive meaning from a physical object; load a file; contrast with [`ashzhiodh`](#ashzhiodh)
 
 ### `thel`
 _verb_  
-	*harsh*; mean
+	**harsh**; mean
 
 ### `thelb`
 _verb_  
-	*remarkable*; unlikeliness
+	**remarkable**; unlikeliness
 
 ### `thelh`
 _noun_  
-	*decapodiforme*; includes squid and cuttlefish
+	**decapodiforme**; includes squid and cuttlefish
 
 ### `thelp`
 _verb_  
-	*recall*; draw a fact from memory; contrast with related concepts [`rvthelp`](#rvthelp) and [`ingrvthelp`](#ingrvthelp)
+	**recall**; draw a fact from memory; contrast with related concepts [`rvthelp`](#rvthelp) and [`ingrvthelp`](#ingrvthelp)
 
 ### `thengga`
 _loanword_  
-	*coconut*
+	**coconut**
 
 ### `ther`
 _noun_  
-	*grass*; poaceae
+	**grass**; poaceae
 
 ### `thets`
 _verb_  
-	*record*
+	**record**
 
 ### `theuz`
 _noun_  
-	*alismatid-monocots*; acorales and alismatales
+	**alismatid-monocots**; acorales and alismatales
 
 ### `thez`
 _verb_  
-	*excuse*
+	**excuse**
 
 ### `thi`
 _verb_  
-	*quit*; give up
+	**quit**; give up
 
 ### `thiath`
 _verb_  
-	*stand*; structurally e.g. a building
+	**stand**; structurally e.g. a building
 
 ### `thiem`
 _noun_  
-	*ink*
+	**ink**
 
 ### `this`
 _verb_  
-	*emit*
+	**emit**
 
 ### `thiyk`
 _verb_  
-	*clockwise*; angular orientation from the point of view of the direct object
+	**clockwise**; angular orientation from the point of view of the direct object
 
 ### `tho`
 _noun_  
-	*9*
+	**9**
 
 ### `thob`
 _noun_  
-	*face*
+	**face**
 
 ### `thoj`
 _verb_  
-	*powerful*; ability to enact change
+	**powerful**; ability to enact change
 
 ### `tholz`
 _verb_  
-	*mean*; big-picture meaning of things
+	**mean**; big-picture meaning of things
 
 ### `thom`
 _noun_  
-	*landmass*; e.g. America, Afro-Eurasia
+	**landmass**; e.g. America, Afro-Eurasia
 
 ### `thorn`
 _verb_  
-	*beautiful*; of a person
+	**beautiful**; of a person
 
 ### `thoub`
 _verb_  
-	*craze*; act erratically or illogically; does not necessarily refer to mental illness
+	**craze**; act erratically or illogically; does not necessarily refer to mental illness
 
 ### `thouz`
 _verb_  
-	*rude*
+	**rude**
 
 ### `thoy`
 _verb_  
-	*dry*
+	**dry**
 
 ### `thr`
 _noun_  
-	*the letter "th"*
+	**the letter "th"**
 
 ### `thra`
 _noun_  
-	*computer*
+	**computer**
 
 ### `thri`
 _noun_  
-	*pantopod*; they're like spiders, but in the ocean!
+	**pantopod**; they're like spiders, but in the ocean!
 
 ### `thrm`
 _verb_  
-	*parent*; raise
+	**parent**; raise
 
 ### `throdh`
 _verb_  
-	*fragile*; tendency to break
+	**fragile**; tendency to break
 
 ### `throg`
 _verb_  
-	*expert*; a person who is not a layperson
+	**expert**; a person who is not a layperson
 
 ### `thru`
 _verb_  
-	*color*; ojbect is a color value, not a number
+	**color**; ojbect is a color value, not a number
 
 ### `thrudh`
 _verb_  
-	*widdershins*; angular orientation from the point of view of the direct object
+	**widdershins**; angular orientation from the point of view of the direct object
 
 ### `thrup`
 _noun_  
-	*snap*; 10^-5 days
+	**snap**; 10^-5 days
 
 ### `thruv`
 _noun_  
-	*alga*
+	**alga**
 
 ### `thrz`
 _noun_  
-	*body*
+	**body**
 
 ### `thu`
 _tense-marker_  
-	*good*; antisalutory
+	**good**; antisalutory
 
 ### `thueth`
 _noun_  
-	*lungfish*; fish that breathe air
+	**lungfish**; fish that breathe air
 
 ### `thui`
 _noun_  
-	*thelyphonid*
+	**thelyphonid**
 
 ### `thung`
 _noun_  
-	*scandentia*; treeshrews
+	**scandentia**; treeshrews
 
 ### `thup`
 _noun_  
-	*megaloptera*; alderflies, dobsonflies, and fishflies
+	**megaloptera**; alderflies, dobsonflies, and fishflies
 
 ### `thur`
 _verb_  
-	*transparent*
+	**transparent**
 
 ### `thush`
 _noun_  
-	*schizomida*
+	**schizomida**
 
 ### `thuss`
 _noun_  
-	*blade*; of grass
+	**blade**; of grass
 
 ### `thut`
 _verb_  
-	*expect*
+	**expect**
 
 ### `thuth`
 _verb_  
-	*rest*; to be on something
+	**rest**; to be on something
 
 ### `ti`
 _verb_  
-	*related*; by blood or familial ties
+	**related**; by blood or familial ties
 
 ### `tif`
 _verb_  
-	*angry*
+	**angry**
 
 ### `to`
 _verb_  
-	*show*
+	**show**
 
 ### `tol`
 _noun_  
-	*cockoroach*
+	**cockoroach**
 
 ### `tor`
 _verb_  
-	*set*; be in a discrete collection with a finite number of other entities
+	**set**; be in a discrete collection with a finite number of other entities
 
 ### `tosh`
 _noun_  
-	*amborella*; a specific understory shrub on Grande Terre
+	**amborella**; a specific understory shrub on Grande Terre
 
 ### `tozh`
 _verb_  
-	*shameful*
+	**shameful**
 
 ### `tr`
 _verb_  
-	*oblivious*
+	**oblivious**
 
 ### `trssp`
 _noun_  
-	*caddisfly*
+	**caddisfly**
 
 ### `trth`
 _noun_  
-	*loop*; closed path
+	**loop**; closed path
 
 ### `tsej`
 _verb_  
-	*wonder*
+	**wonder**
 
 ### `tshaf`
 _verb_  
-	*eat*
+	**eat**
 
 ### `tshat`
 _verb_  
-	*apprehensive*; hesitative reaction to decisions
+	**apprehensive**; hesitative reaction to decisions
 
 ### `tshe`
 _noun_  
-	*notion*; idea; not necessarily true or objective
+	**notion**; idea; not necessarily true or objective
 
 ### `tsi`
 _noun_  
-	*crystal*
+	**crystal**
 
 ### `tsrsh`
 _noun_  
-	*cosmos*
+	**cosmos**
 
 ### `tssat`
 _noun_  
-	*shrew-oppossum*; more closely related to Australia than possums
+	**shrew-oppossum**; more closely related to Australia than possums
 
 ### `tssov`
 _noun_  
-	*slug*
+	**slug**
 
 ### `tssru`
 _noun_  
-	*book*
+	**book**
 
 ### `tssuj`
 _verb_  
-	*ignorant*; the quality of not knowing a lot of facts about the indirect object
+	**ignorant**; the quality of not knowing a lot of facts about the indirect object
 
 ### `tssum`
 _noun_  
-	*toadfish*
+	**toadfish**
 
 ### `tsu`
 _noun_  
-	*opilione*; things that look like spiders
+	**opilione**; things that look like spiders
 
 ### `tu`
 _noun_  
-	*the letter "t"*
+	**the letter "t"**
 
 ### `tuash`
 _noun_  
-	*umbrella-pine*; not technically a pine
+	**umbrella-pine**; not technically a pine
 
 ### `tue`
 _verb_  
-	*clumsy*
+	**clumsy**
 
 ### `tueth`
 _verb_  
-	*further*; a goal or agenda
+	**further**; a goal or agenda
 
 ### `tuov`
 _verb_  
-	*furnish*; as in furniture
+	**furnish**; as in furniture
 
 ### `tur`
 _verb_  
-	*virtual*; digitalness
+	**virtual**; digitalness
 
 ### `u`
 _postposition_  
-	*obj*; denotes direct object
+	**obj**; denotes direct object
 
 ### `ua`
 _verb_  
-	*through*
+	**through**
 
 ### `uaj`
 _noun_  
-	*North-Africa*
+	**North-Africa**
 
 ### `uam`
 _verb_  
-	*keep*
+	**keep**
 
 ### `uar`
 _noun_  
-	*freshwater-butterflyfish*
+	**freshwater-butterflyfish**
 
 ### `uash`
 _noun_  
-	*pig*
+	**pig**
 
 ### `uashp`
 _noun_  
-	*horseshoe-crab*
+	**horseshoe-crab**
 
 ### `uau`
 _noun_  
-	*tuatara*; a lizard-type thing
+	**tuatara**; a lizard-type thing
 
 ### `uauh`
 _verb_  
-	*strive*; toward a goal
+	**strive**; toward a goal
 
 ### `uay`
 _verb_  
-	*amused*
+	**amused**
 
 ### `ub`
 _verb_  
-	*narrow*; middle dimension
+	**narrow**; middle dimension
 
 ### `ubz`
 _verb_  
-	*freeze*
+	**freeze**
 
 ### `ubzh`
 _noun_  
-	*sturgeon*
+	**sturgeon**
 
 ### `ud`
 _verb_  
-	*tell*; use an imperative sentence; instruct; command
+	**tell**; use an imperative sentence; instruct; command
 
 ### `udh`
 _verb_  
-	*tardiness*; for meetings and such, or habitually
+	**tardiness**; for meetings and such, or habitually
 
 ### `ue`
 _postposition_  
-	*for*; so; denotes purpose
+	**for**; so; denotes purpose
 
 ### `uebj`
 _verb_  
-	*leisure*
+	**leisure**
 
 ### `ueib`
 _verb_  
-	*contain*
+	**contain**
 
 ### `ueid`
 _verb_  
-	*pastel*; value of color
+	**pastel**; value of color
 
 ### `ueps`
 _noun_  
-	*rock*; not necessarily earthy
+	**rock**; not necessarily earthy
 
 ### `uerk`
 _verb_  
-	*govern*
+	**govern**
 
 ### `ueu`
 _noun_  
-	*orchid*
+	**orchid**
 
 ### `ueuz`
 _noun_  
-	*toiletries*
+	**toiletries**
 
 ### `uez`
 _verb_  
-	*mind*
+	**mind**
 
 ### `uf`
 _noun_  
-	*1*
+	**1**
 
 ### `ug`
 _noun_  
-	*D*; 13; only used for hexadecimal
+	**D**; 13; only used for hexadecimal
 
 ### `uh`
 _verb_  
-	*might*; possibly happen
+	**might**; possibly happen
 
 ### `ui`
 _verb_  
-	*know*; believe that something is true with certainty and be right
+	**know**; believe that something is true with certainty and be right
 
 ### `uim`
 _verb_  
-	*ugly*; of a person
+	**ugly**; of a person
 
 ### `uin`
 _verb_  
-	*have-faith*
+	**have-faith**
 
 ### `uis`
 _verb_  
-	*strike*; a swift decisive action
+	**strike**; a swift decisive action
 
 ### `uj`
 _postposition_  
-	*thats-why*; denotes cause
+	**thats-why**; denotes cause
 
 ### `uk`
 _verb_  
-	*point-gesture*; point at something
+	**point-gesture**; point at something
 
 ### `um`
 _verb_  
-	*unbecome*; the act of a state ceasing to be true; often used in compound words with states
+	**unbecome**; the act of a state ceasing to be true; often used in compound words with states
 
 ### `ung`
 _tense-marker_  
-	*?*; interrogative
+	**?**; interrogative
 
 ### `uo`
 _noun_  
-	*10^*; or 12^, or whatever depending on the radix
+	**10^**; or 12^, or whatever depending on the radix
 
 ### `uodh`
 _verb_  
-	*challenge*
+	**challenge**
 
 ### `uoi`
 _verb_  
-	*think-of*; come up with an idea
+	**think-of**; come up with an idea
 
 ### `uokss`
 _noun_  
-	*concept*; intangible
+	**concept**; intangible
 
 ### `uop`
 _noun_  
-	*haemodoraceae*; plants that grow in dry places with distichous, equitable, isobifacial leaves
+	**haemodoraceae**; plants that grow in dry places with distichous, equitable, isobifacial leaves
 
 ### `uopss`
 _verb_  
-	*imagine*
+	**imagine**
 
 ### `uorm`
 _verb_  
-	*terrified*; the brief reaction to jump-scares that comes before actual fear or annoyance
+	**terrified**; the brief reaction to jump-scares that comes before actual fear or annoyance
 
 ### `uory`
 _noun_  
-	*scaphopod*; a type of molusk
+	**scaphopod**; a type of molusk
 
 ### `uos`
 _noun_  
-	*snow*
+	**snow**
 
 ### `up`
 _verb_  
-	*end*; stop happening
+	**end**; stop happening
 
 ### `upsh`
 _noun_  
-	*shell*
+	**shell**
 
 ### `ur`
 _verb_  
-	*think*; conciously deciding that a fact is true; contrast with [`an`](#an)
+	**think**; conciously deciding that a fact is true; contrast with [`an`](#an)
 
 ### `urdh`
 _verb_  
-	*exclusive*
+	**exclusive**
 
 ### `urf`
 _noun_  
-	*stinkhorn*
+	**stinkhorn**
 
 ### `urk`
 _verb_  
-	*dispose*
+	**dispose**
 
 ### `urn`
 _verb_  
-	*internet*
+	**internet**
 
 ### `urng`
 _noun_  
-	*arthropod*
+	**arthropod**
 
 ### `ursh`
 _verb_  
-	*sleepy*
+	**sleepy**
 
 ### `urss`
 _verb_  
-	*starboard*; widdershins from straight ahead with indirect object being origin
+	**starboard**; widdershins from straight ahead with indirect object being origin
 
 ### `urt`
 _verb_  
-	*suffice*; be enough
+	**suffice**; be enough
 
 ### `urth`
 _verb_  
-	*easy*; of the subject for the direct object
+	**easy**; of the subject for the direct object
 
 ### `urzh`
 _noun_  
-	*lamprey*
+	**lamprey**
 
 ### `us`
 _verb_  
-	*jostle*; move in place
+	**jostle**; move in place
 
 ### `ush`
 _verb_  
-	*averse*; to a task
+	**averse**; to a task
 
 ### `uss`
 _noun_  
-	*the letter "u"*
+	**the letter "u"**
 
 ### `ut`
 _verb_  
-	*more*; the subject exceeds the indirect object
+	**more**; the subject exceeds the indirect object
 
 ### `uth`
 _verb_  
-	*force*; impose one's will to make something be true
+	**force**; impose one's will to make something be true
 
 ### `uv`
 _verb_  
-	*work*; do work or be productive
+	**work**; do work or be productive
 
 ### `uy`
 _verb_  
-	*bright*
+	**bright**
 
 ### `uz`
 _verb_  
-	*begin*
+	**begin**
 
 ### `uzh`
 _verb_  
-	*still*
+	**still**
 
 ### `va`
 _fastener_  
-	*aka*; draws equality
+	**aka**; draws equality
 
 ### `van`
 _verb_  
-	*flexible*; tendency to bend when force is applied
+	**flexible**; tendency to bend when force is applied
 
 ### `vau`
 _noun_  
-	*procellariid*; albatrosses and petrels
+	**procellariid**; albatrosses and petrels
 
 ### `vej`
 _noun_  
-	*bivalve*; molusks with two valves
+	**bivalve**; molusks with two valves
 
 ### `vel`
 _verb_  
-	*frequent*; rate at which something oscillates, progresses, or decays with respect to time
+	**frequent**; rate at which something oscillates, progresses, or decays with respect to time
 
 ### `veth`
 _verb_  
-	*feel*; an emotion or feeling
+	**feel**; an emotion or feeling
 
 ### `veuth`
 _verb_  
-	*angularly-small*
+	**angularly-small**
 
 ### `vey`
 _verb_  
-	*explain*
+	**explain**
 
 ### `vi`
 _noun_  
-	*the-past*
+	**the-past**
 
 ### `viay`
 _verb_  
-	*practical*
+	**practical**
 
 ### `vim`
 _noun_  
-	*austrobaileyale*; a type of woody plant that produces anise and essential oils
+	**austrobaileyale**; a type of woody plant that produces anise and essential oils
 
 ### `vip`
 _verb_  
-	*awkward*; as a character trait
+	**awkward**; as a character trait
 
 ### `vis`
 _noun_  
-	*earwig*
+	**earwig**
 
 ### `viu`
 _noun_  
-	*secretary-bird*
+	**secretary-bird**
 
 ### `vo`
 _noun_  
-	*the letter "v"*
+	**the letter "v"**
 
 ### `vobz`
 _noun_  
-	*scent*
+	**scent**
 
 ### `voj`
 _verb_  
-	*invent*
+	**invent**
 
 ### `vol`
 _noun_  
-	*nymphaelaeale*; a type of aquatic flowering plant, like lillies
+	**nymphaelaeale**; a type of aquatic flowering plant, like lillies
 
 ### `voln`
 _verb_  
-	*troubled*; have troubled feelings from the indirect object
+	**troubled**; have troubled feelings from the indirect object
 
 ### `vong`
 _verb_  
-	*fast*; magnitude of time derivative of position
+	**fast**; magnitude of time derivative of position
 
 ### `vorng`
 _noun_  
-	*daytime*; ;25-;75 or 06:00-18:00 or whenever the sun is up
+	**daytime**; ;25-;75 or 06:00-18:00 or whenever the sun is up
 
 ### `voth`
 _noun_  
-	*brachiopod*
+	**brachiopod**
 
 ### `vou`
 _noun_  
-	*circle*
+	**circle**
 
 ### `vov`
 _noun_  
-	*bamboo*
+	**bamboo**
 
 ### `voy`
 _noun_  
-	*morning*; ;00-;50 or 00:00-12:00
+	**morning**; ;00-;50 or 00:00-12:00
 
 ### `vr`
 _verb_  
-	*ineffective*
+	**ineffective**
 
 ### `vrak`
 _verb_  
-	*time-distance*
+	**time-distance**
 
 ### `vrb`
 _noun_  
-	*vampiresquid*
+	**vampiresquid**
 
 ### `vrdh`
 _verb_  
-	*separated*; individuality
+	**separated**; individuality
 
 ### `vrf`
 _verb_  
-	*individual*
+	**individual**
 
 ### `vri`
 _noun_  
-	*string*
+	**string**
 
 ### `vrod`
 _noun_  
-	*feline*
+	**feline**
 
 ### `vroddhing`
 _compound noun_  
-	*cat*
+	**cat**
 
 ### `vrong`
 _verb_  
-	*lagging*; distance or fraction away from a goal or destination
+	**lagging**; distance or fraction away from a goal or destination
 
 ### `vrth`
 _noun_  
-	*neuroptera*; lacewings, antlions, owlflies, and more
+	**neuroptera**; lacewings, antlions, owlflies, and more
 
 ### `vrud`
 _noun_  
-	*gland*; node or organ
+	**gland**; node or organ
 
 ### `vrum`
 _verb_  
-	*intend*
+	**intend**
 
 ### `vry`
 _verb_  
-	*tolerate*
+	**tolerate**
 
 ### `vrzh`
 _noun_  
-	*stork*
+	**stork**
 
 ### `vu`
 _qualifier_  
-	*each*; every element individually
+	**each**; every element individually
 
 ### `vuadh`
 _verb_  
-	*slice*
+	**slice**
 
 ### `vuam`
 _verb_  
-	*prepare*; as in food
+	**prepare**; as in food
 
 ### `vub`
 _tense-marker_  
-	*please*; polite imperative
+	**please**; polite imperative
 
 ### `vulpes`
 _loanword_  
-	*fox*
+	**fox**
 
 ### `vun`
 _noun_  
-	*red-panda*
+	**red-panda**
 
 ### `vuong`
 _noun_  
-	*stonefly*
+	**stonefly**
 
 ### `vus`
 _noun_  
-	*mushroom*; or toadstool
+	**mushroom**; or toadstool
 
 ### `vuth`
 _verb_  
-	*befriend*; the state of being friends
+	**befriend**; the state of being friends
 
 ### `vuv`
 _noun_  
-	*mayfly*
+	**mayfly**
 
 ### `yal`
 _verb_  
-	*concern*
+	**concern**
 
 ### `yardh`
 _verb_  
-	*cinematograph*
+	**cinematograph**
 
 ### `yarsh`
 _noun_  
-	*fish*
+	**fish**
 
 ### `yarzh`
 _verb_  
-	*construct*
+	**construct**
 
 ### `yay`
 _verb_  
-	*rapid*; of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email
+	**rapid**; of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email
 
 ### `yaz`
 _noun_  
-	*vagina*
+	**vagina**
 
 ### `ye`
 _verb_  
-	*rescue*
+	**rescue**
 
 ### `yeing`
 _verb_  
-	*anticipating*; like [`rav`](#rav)
+	**anticipating**; like [`rav`](#rav)
 
 ### `yej`
 _noun_  
-	*tardigrade*
+	**tardigrade**
 
 ### `yesh`
 _verb_  
-	*magenta*; stimulation of L and S cones
+	**magenta**; stimulation of L and S cones
 
 ### `yeu`
 _verb_  
-	*broken*; having fallen apart or cracked
+	**broken**; having fallen apart or cracked
 
 ### `yev`
 _verb_  
-	*consent*
+	**consent**
 
 ### `yi`
 _noun_  
-	*the letter "y"*
+	**the letter "y"**
 
 ### `yiai`
 _noun_  
-	*vombatiforme*; koalas and wombats
+	**vombatiforme**; koalas and wombats
 
 ### `yiak`
 _verb_  
-	*attack*; a sudden violent engagement
+	**attack**; a sudden violent engagement
 
 ### `yidh`
 _tense-marker_  
-	*let*; beuracratic
+	**let**; beuracratic
 
 ### `yih`
 _verb_  
-	*drunk*; applies to alcohol as well as other drugs
+	**drunk**; applies to alcohol as well as other drugs
 
 ### `yikss`
 _verb_  
-	*outdoorsness*
+	**outdoorsness**
 
 ### `yo`
 _verb_  
-	*big*
+	**big**
 
 ### `yoi`
 _verb_  
-	*ill*
+	**ill**
 
 ### `yoj`
 _noun_  
-	*nautiloid*
+	**nautiloid**
 
 ### `yoth`
 _noun_  
-	*horse*; includes zebras and several varieties of wild butt
+	**horse**; includes zebras and several varieties of wild butt
 
 ### `yr`
 _conjunction_  
-	*quote*
+	**quote**
 
 ### `yrad`
 _verb_  
-	*big-picture*
+	**big-picture**
 
 ### `yrag`
 _verb_  
-	*flail*
+	**flail**
 
 ### `yrai`
 _noun_  
-	*spider*
+	**spider**
 
 ### `yrang`
 _noun_  
-	*powder*
+	**powder**
 
 ### `yraz`
 _verb_  
-	*describe*
+	**describe**
 
 ### `yrei`
 _verb_  
-	*famous*
+	**famous**
 
 ### `yrev`
 _verb_  
-	*ceremony-participate*
+	**ceremony-participate**
 
 ### `yror`
 _verb_  
-	*model*; make an image of something
+	**model**; make an image of something
 
 ### `yrudh`
 _noun_  
-	*hand*
+	**hand**
 
 ### `yrv`
 _noun_  
-	*fly*; in the taxonomical sense excluding mosquitos and houseflies
+	**fly**; in the taxonomical sense excluding mosquitos and houseflies
 
 ### `yu`
 _noun_  
-	*0*
+	**0**
 
 ### `yua`
 _verb_  
-	*flicker*; any rapid oscillation
+	**flicker**; any rapid oscillation
 
 ### `yuai`
 _verb_  
-	*open*
+	**open**
 
 ### `yuev`
 _noun_  
-	*entognatha*; six-legged bugs that are not insects
+	**entognatha**; six-legged bugs that are not insects
 
 ### `yuo`
 _noun_  
-	*air*
+	**air**
 
 ### `yuosh`
 _noun_  
-	*letter*; phoneme; character
+	**letter**; phoneme; character
 
 ### `yuozh`
 _noun_  
-	*culture*
+	**culture**
 
 ### `yurng`
 _verb_  
-	*rescind*; progress to a goal or agenda
+	**rescind**; progress to a goal or agenda
 
 ### `yut`
 _noun_  
-	*stem*; trunk
+	**stem**; trunk
 
 ### `zabz`
 _noun_  
-	*beardworm*; giant tube worms
+	**beardworm**; giant tube worms
 
 ### `zadh`
 _noun_  
-	*cupressacea*; junipers, redwoods, and some other types of conifers
+	**cupressacea**; junipers, redwoods, and some other types of conifers
 
 ### `zait`
 _verb_  
-	*wet*
+	**wet**
 
 ### `zaj`
 _noun_  
-	*nemertea*; ribbon worms or probiscis worms
+	**nemertea**; ribbon worms or probiscis worms
 
 ### `zau`
 _noun_  
-	*corallimorpharia*
+	**corallimorpharia**
 
 ### `zazh`
 _noun_  
-	*pelvis*; hips
+	**pelvis**; hips
 
 ### `zedh`
 _noun_  
-	*element*; water, earth, fire, air, etc.
+	**element**; water, earth, fire, air, etc.
 
 ### `zef`
 _noun_  
-	*sea*
+	**sea**
 
 ### `zeg`
 _noun_  
-	*bit*; describes gravel and cereal
+	**bit**; describes gravel and cereal
 
 ### `zeib`
 _verb_  
-	*malice*
+	**malice**
 
 ### `zesh`
 _verb_  
-	*insignificant*
+	**insignificant**
 
 ### `zeu`
 _noun_  
-	*robot*; anything with automated actuation
+	**robot**; anything with automated actuation
 
 ### `zha`
 _noun_  
-	*5*
+	**5**
 
 ### `zhang`
 _noun_  
-	*mantisshrimp*
+	**mantisshrimp**
 
 ### `zhaps`
 _noun_  
-	*spoken-language*
+	**spoken-language**
 
 ### `zhar`
 _verb_  
-	*flash*; quickly emit bright light; also applies to sound and other sensations
+	**flash**; quickly emit bright light; also applies to sound and other sensations
 
 ### `zhau`
 _verb_  
-	*empty*; of indirect object
+	**empty**; of indirect object
 
 ### `zhay`
 _noun_  
-	*ephedra*; a type of shrub
+	**ephedra**; a type of shrub
 
 ### `zhaz`
 _noun_  
-	*shrimp*; pretty loose descriptor of most eumalacostraca
+	**shrimp**; pretty loose descriptor of most eumalacostraca
 
 ### `zhe`
 _verb_  
-	*fail*
+	**fail**
 
 ### `zher`
 _verb_  
-	*public*; be exposed to others
+	**public**; be exposed to others
 
 ### `zhes`
 _verb_  
-	*cool*; of a color
+	**cool**; of a color
 
 ### `zheth`
 _verb_  
-	*shoot*; a projectile at something
+	**shoot**; a projectile at something
 
 ### `zheu`
 _verb_  
-	*foreign*
+	**foreign**
 
 ### `zheuv`
 _noun_  
-	*opossum*
+	**opossum**
 
 ### `zhey`
 _noun_  
-	*plains*
+	**plains**
 
 ### `zhiab`
 _noun_  
-	*commelinacea*; plants with fleshy succulent leaves
+	**commelinacea**; plants with fleshy succulent leaves
 
 ### `zhiad`
 _verb_  
-	*unimportant*
+	**unimportant**
 
 ### `zhiah`
 _verb_  
-	*stable*; satisfying chord or scale
+	**stable**; satisfying chord or scale
 
 ### `zhie`
 _verb_  
-	*note-leave*
+	**note-leave**
 
 ### `zhij`
 _verb_  
-	*puzzled*; have confusion from the indirect object
+	**puzzled**; have confusion from the indirect object
 
 ### `zhik`
 _noun_  
-	*paraneoptera*; bugs, thrips, and lice
+	**paraneoptera**; bugs, thrips, and lice
 
 ### `zhio`
 _verb_  
-	*sharp*; of an edge or blade
+	**sharp**; of an edge or blade
 
 ### `zhiodh`
 _noun_  
-	*written-language*
+	**written-language**
 
 ### `zhiom`
 _noun_  
-	*pauropod*
+	**pauropod**
 
 ### `zhion`
 _noun_  
-	*breast*
+	**breast**
 
 ### `zhior`
 _verb_  
-	*court*; date
+	**court**; date
 
 ### `zhir`
 _verb_  
-	*cyan*; stimulation of M and S cones
+	**cyan**; stimulation of M and S cones
 
 ### `zhirng`
 _noun_  
-	*seapens*
+	**seapens**
 
 ### `zhirth`
 _noun_  
-	*detail*
+	**detail**
 
 ### `zhiu`
 _verb_  
-	*crampedness*
+	**crampedness**
 
 ### `zhiuf`
 _noun_  
-	*velvetworm*
+	**velvetworm**
 
 ### `zhiung`
 _noun_  
-	*Oceania*
+	**Oceania**
 
 ### `zhizh`
 _verb_  
-	*transcribe*
+	**transcribe**
 
 ### `zho`
 _verb_  
-	*little*; opposite of [`fo`](#fo)
+	**little**; opposite of [`fo`](#fo)
 
 ### `zhom`
 _verb_  
-	*unhumid*
+	**unhumid**
 
 ### `zhon`
 _verb_  
-	*drive*
+	**drive**
 
 ### `zhors`
 _noun_  
-	*claw*; of the sharp variety
+	**claw**; of the sharp variety
 
 ### `zhou`
 _verb_  
-	*legislate*
+	**legislate**
 
 ### `zhr`
 _noun_  
-	*the letter "zh"*
+	**the letter "zh"**
 
 ### `zhrj`
 _noun_  
-	*zingiberale*; a type of fowering plant that includes bananas, ginger, and birds of paradise
+	**zingiberale**; a type of fowering plant that includes bananas, ginger, and birds of paradise
 
 ### `zhrng`
 _noun_  
-	*water*
+	**water**
 
 ### `zhrs`
 _noun_  
-	*caecilian*; blind legless amphibians
+	**caecilian**; blind legless amphibians
 
 ### `zhry`
 _noun_  
-	*arm*
+	**arm**
 
 ### `zhu`
 _verb_  
-	*old*; length of time; applies to objects an events as well as people
+	**old**; length of time; applies to objects an events as well as people
 
 ### `zhung`
 _noun_  
-	*hair*
+	**hair**
 
 ### `zhupsh`
 _verb_  
-	*north*
+	**north**
 
 ### `zi`
 _verb_  
-	*dim*
+	**dim**
 
 ### `zipss`
 _verb_  
-	*role-fill*
+	**role-fill**
 
 ### `zizh`
 _verb_  
-	*play*; a game or a sport
+	**play**; a game or a sport
 
 ### `zo`
 _verb_  
-	*comprise*
+	**comprise**
 
 ### `zoh`
 _noun_  
-	*anteater*
+	**anteater**
 
 ### `zoiss`
 _verb_  
-	*lose*; a contest
+	**lose**; a contest
 
 ### `zok`
 _verb_  
-	*literal*
+	**literal**
 
 ### `zold`
 _noun_  
-	*afroinsectiphilia*; golden moles, tenrecs, elephant, shrews, aardvarks, and some other things
+	**afroinsectiphilia**; golden moles, tenrecs, elephant, shrews, aardvarks, and some other things
 
 ### `zom`
 _noun_  
-	*eel*
+	**eel**
 
 ### `zoss`
 _noun_  
-	*leech*
+	**leech**
 
 ### `zoth`
 _noun_  
-	*ke*; 10^-2 days
+	**ke**; 10^-2 days
 
 ### `zou`
 _noun_  
-	*soul*; mind
+	**soul**; mind
 
 ### `zoudh`
 _noun_  
-	*vacuum*
+	**vacuum**
 
 ### `zozh`
 _noun_  
-	*wing*
+	**wing**
 
 ### `zr`
 _verb_  
-	*toward*; creates compound words with states to convert them to transitions
+	**toward**; creates compound words with states to convert them to transitions
 
 ### `zrm`
 _verb_  
-	*idiotic*; the innate inability to solve riddles and puzzles
+	**idiotic**; the innate inability to solve riddles and puzzles
 
 ### `zrng`
 _verb_  
-	*level*; general discrete measure of progress
+	**level**; general discrete measure of progress
 
 ### `zrsht`
 _verb_  
-	*detail-oriented*
+	**detail-oriented**
 
 ### `zu`
 _noun_  
-	*the letter "z"*
+	**the letter "z"**
 
 ### `zua`
 _noun_  
-	*plastic*
+	**plastic**
 
 ### `zuab`
 _noun_  
-	*platypus*
+	**platypus**
 
 ### `zuai`
 _noun_  
-	*Middle-East*
+	**Middle-East**
 
 ### `zual`
 _verb_  
-	*stupid*; [https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]
+	**stupid**; [https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]
 
 ### `zuau`
 _verb_  
-	*experience*
+	**experience**
 
 ### `zudh`
 _verb_  
-	*hit*; intentionally cause a collision with something
+	**hit**; intentionally cause a collision with something
 
 ### `zuef`
 _noun_  
-	*gunpowder*
+	**gunpowder**
 
 ### `zuev`
 _verb_  
-	*entertain*; as in a movie, play, or skit
+	**entertain**; as in a movie, play, or skit
 
 ### `zuey`
 _verb_  
-	*dark*; darkness of color
+	**dark**; darkness of color
 
 ### `zuh`
 _verb_  
-	*hand-off*; exchange direct object via hands
+	**hand-off**; exchange direct object via hands
 
 ### `zui`
 _noun_  
-	*seastar*
+	**seastar**
 
 ### `zuip`
 _noun_  
-	*nematoid*; parasitic worms FTW!
+	**nematoid**; parasitic worms FTW!
 
 ### `zuis`
 _noun_  
-	*polypodizoa*; jellyfish-like parasites
+	**polypodizoa**; jellyfish-like parasites
 
 ### `zun`
 _noun_  
-	*scombroide*; tunas and mackerels
+	**scombroide**; tunas and mackerels
 
 ### `zung`
 _verb_  
-	*engineer*; solve technical problems
+	**engineer**; solve technical problems
 
 ### `zuoss`
 _verb_  
-	*convert*; as in a rate or ratio
+	**convert**; as in a rate or ratio
 
 ### `zuot`
 _noun_  
-	*cool-season-grass*; includes wheat, barley, oat, rye, and some lawn grasses
+	**cool-season-grass**; includes wheat, barley, oat, rye, and some lawn grasses
 
 ### `zuoth`
 _verb_  
-	*unintelligent*; the innate inability to grasp a subject or concept
+	**unintelligent**; the innate inability to grasp a subject or concept
 
 ### `zuou`
 _noun_  
-	*cephalochordata*; lancelets and branchiostomidae
+	**cephalochordata**; lancelets and branchiostomidae
 
 ### `zuov`
 _noun_  
-	*hyrax*; little rodent-like things
+	**hyrax**; little rodent-like things
 
 ### `zurn`
 _noun_  
-	*North-America*
+	**North-America**
 
 ### `zurng`
 _verb_  
-	*summon*
+	**summon**
 
 ### `zurv`
 _noun_  
-	*anglerfish*
+	**anglerfish**
 
 ### `zush`
 _verb_  
-	*fun-have*
+	**fun-have**

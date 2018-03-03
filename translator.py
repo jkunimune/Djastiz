@@ -136,7 +136,7 @@ def reverse_dictionary(djastiz_to_english, english_to_djastiz, djastiz_to_pos, e
 				english_to_djastiz)+"`\n")
 		f.write("______\n")
 		for djastiz in alphabetized:
-			f.write("\n### `{}`\n_{}_  \n\t*{}*".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
+			f.write("\n### `{}`\n_{}_  \n\t**{}**".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
 			if djastiz_to_english[djastiz] in english_to_notes:
 				f.write("; {}".format(translate_quoted(english_to_notes[djastiz_to_english[djastiz]], english_to_djastiz)))
 			f.write("\n")
