@@ -72,4 +72,7 @@
 	<text x="81" y="112">u</text>
 	<use href="al.svg#char" x="0" y="126" />
 	<text x="15" y="126">l</text>
+	<text x="23" y="126" style="font-size:3">You may need to download the repo and view this on</text>
+	<text x="23" y="130" style="font-size:3">a program that properly implements &lt;use&gt; tags to</text>
+	<text x="23" y="134" style="font-size:3">see the symbols.</text>
 </svg>
