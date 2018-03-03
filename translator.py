@@ -131,12 +131,12 @@ def reverse_dictionary(djastiz_to_english, english_to_djastiz, djastiz_to_pos, e
 	with open(filename,'w') as f:
 		f.write("# Word Guide\n\n")
 		f.write("This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.\n\n")
-		f.write(translate_line(
+		f.write("`"+translate_line(
 				"dictionary what-kind to Modern-Djastiz obj English ind who complete this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind Modern-Djastiz obj say alphabet which-one Latium one arrange by . one-that-gets- reference of-which need person of-which society who Modern-Djastiz obj after any sbj obj",
-				english_to_djastiz)+"\n")
+				english_to_djastiz)+"`\n")
 		f.write("______\n")
 		for djastiz in alphabetized:
-			f.write("\n### {}\n_{}_  \n\t*{}*".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
+			f.write("\n### `{}`\n_{}_  \n\t*{}*".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
 			if djastiz_to_english[djastiz] in english_to_notes:
 				f.write("; {}".format(translate_quoted(english_to_notes[djastiz_to_english[djastiz]], english_to_djastiz)))
 			f.write("\n")
