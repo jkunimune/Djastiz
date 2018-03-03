@@ -16,36 +16,36 @@
 			dominant-baseline:hanging;
 		}
 	</style>
-	<use href="ko.svg#char" x="0" y="0" />
-	<text x="15" y="0">k</text>
-	<use href="tu.svg#char" x="33" y="0" />
-	<text x="48" y="0">t</text>
-	<use href="pa.svg#char" x="66" y="0" />
-	<text x="81" y="0">p</text>
-	<use href="gr.svg#char" x="0" y="14" />
-	<text x="15" y="14">g</text>
-	<use href="de.svg#char" x="33" y="14" />
-	<text x="48" y="14">d</text>
-	<use href="bi.svg#char" x="66" y="14" />
-	<text x="81" y="14">b</text>
-	<use href="hu.svg#char" x="0" y="28" />
-	<text x="15" y="28">x</text>
-	<use href="thr.svg#char" x="33" y="28" />
-	<text x="48" y="28">θ</text>
-	<use href="fe.svg#char" x="66" y="28" />
-	<text x="81" y="28">ɸ</text>
-	<use href="yi.svg#char" x="0" y="42" />
-	<text x="15" y="42">ɣ</text>
-	<use href="dha.svg#char" x="33" y="42" />
-	<text x="48" y="42">ð</text>
-	<use href="vo.svg#char" x="66" y="42" />
-	<text x="81" y="42">β</text>
-	<use href="nga.svg#char" x="0" y="56" />
-	<text x="15" y="56">ŋ</text>
-	<use href="ne.svg#char" x="33" y="56" />
-	<text x="48" y="56">n</text>
-	<use href="mo.svg#char" x="66" y="56" />
-	<text x="81" y="56">m</text>
+	<use href="nga.svg#char" x="0" y="0" />
+	<text x="15" y="0">ŋ</text>
+	<use href="ne.svg#char" x="33" y="0" />
+	<text x="48" y="0">n</text>
+	<use href="mo.svg#char" x="66" y="0" />
+	<text x="81" y="0">m</text>
+	<use href="ko.svg#char" x="0" y="14" />
+	<text x="15" y="14">k</text>
+	<use href="tu.svg#char" x="33" y="14" />
+	<text x="48" y="14">t</text>
+	<use href="pa.svg#char" x="66" y="14" />
+	<text x="81" y="14">p</text>
+	<use href="gr.svg#char" x="0" y="28" />
+	<text x="15" y="28">g</text>
+	<use href="de.svg#char" x="33" y="28" />
+	<text x="48" y="28">d</text>
+	<use href="bi.svg#char" x="66" y="28" />
+	<text x="81" y="28">b</text>
+	<use href="hu.svg#char" x="0" y="42" />
+	<text x="15" y="42">x</text>
+	<use href="thr.svg#char" x="33" y="42" />
+	<text x="48" y="42">θ</text>
+	<use href="fe.svg#char" x="66" y="42" />
+	<text x="81" y="42">ɸ</text>
+	<use href="yi.svg#char" x="0" y="56" />
+	<text x="15" y="56">ɣ</text>
+	<use href="dha.svg#char" x="33" y="56" />
+	<text x="48" y="56">ð</text>
+	<use href="vo.svg#char" x="66" y="56" />
+	<text x="81" y="56">β</text>
 	<use href="she.svg#char" x="0" y="70" />
 	<text x="15" y="70">ʂ</text>
 	<use href="ssa.svg#char" x="33" y="70" />
