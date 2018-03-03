@@ -35,7 +35,8 @@ Before you read any further, you'll need to know how to read, say, and write the
 - [`al`](writing/al.svg) is Romanized "l" and pronounced /l&#809;/ or /l/ in the [IPA][1].
 
 If a single letter has multiple pronounciations, either can be used without affecting the meaning. Syllables are often built such that one pronounciation is easier to use than the other. Clusters of latin consonants that can be interpreted as a single phoneme should always be interpreted as a single phoneme; in the rare case that two adjacent romanised phonemes would normally appear to be a diagraph, for example a `ne` immediately preceding a `gr`, an apostraphe shall be used to prevent the confuson of this consonant cluster with a `nga`: `n'g`.
-The actual Djastiz character for each letter in svg format can be found in the "writing" folder of this repository. While there are no punctuation glyphs in Djastiz, words are separated by spaces that occupy the same vertical space as a letter. In polysyllabic words, the stress is placed on the second syllable.
+
+The actual Djastiz character for each letter in svg format can be found in the "[writing](writing)" folder of this repository. While there are no punctuation glyphs in Djastiz, words are separated by spaces that occupy the same vertical space as a letter. In polysyllabic words, the stress is placed on the second syllable. Arabic numerals are the preferred method for writing numbers, but be sure to use the slashes for 0 and 7 to distinguish them from `ko` and `ey`.
 
 [1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
 
@@ -49,10 +50,10 @@ A tense marker gives the general purpose of a sentence. If included, it is the f
 - `dhi` is the _declarative_ tense marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the speaker.
 - `ung` is the _interrogative_ tense marker. It precedes a sentence that requests information. An interrogative sentence usually contains the word `l` at least once, though the position of `l` can also be implied. In either case, `l` represents a piece of information missing from the sentence that the speaker would like to know.
 - `bu` is the _imperative_ tense marker. It precedes a sentence that requests action. An imperative sentence describes an event or action that the speaker wants to happen.
-- `e` is a bit more complicated. It does not create sentences at all, but rather _noun clauses_. These will be discussed in [&#167;2.3](#Noun-phrases).
+- `e` is a bit more complicated. It does not create sentences at all, but rather _noun clauses_. These will be discussed in [&#167;2.3](#noun-phrases).
 - `yidh` is the _bureaucratic_ tense marker. It behaves similarly to `dhu`, specifically in contexts where saying a sentence causes it to be true. Bureaucratic sentences are especially useful for proclamations, definitions, and assumptions in mathematical proofs.
 - `vub` behaves exactly like `bu`, but frames the request as less mandatory and more polite. The frequency with which one uses `vub` versus `bu` completely depends on the society, and since no society actually speaks Djastiz, I have no idea how useful this word is.
-- `oth` is the _salutary_ tense marker. It is used to construct basic greetings. `oth` is a _simple tense marker_, which means that it can be used with simpler sentence patters. These will be discussed further in [&#167;2.7](#Special-words).
+- `oth` is the _salutary_ tense marker. It is used to construct basic greetings. `oth` is a _simple tense marker_, which means that it can be used with simpler sentence patters. These will be discussed further in [&#167;2.7](#special-words).
 - `thu` is the _antisalutory_ tense marker. It is used to construct basic parting statements and, like `oth`, is simple.
 - `ja` is the _exclamatory_ tense marker and is used to express general happiness or approval. It is also a simple tense marker.
 - `oj` is the _antiexclamatory_ tense marker, which expresses general unhappiness or disapproval. It is also a simple tense marker.
@@ -98,7 +99,7 @@ The next method is the prependix of a _qualifier_ to a noun phrase. There are si
 - `vu` creates a phrase that refers to every element of the following set or instance of the following concept individually. The sentence is true for each element of the set.
 - `se` emphasizes a particularly important or surprising noun phrase.
 
-The third method is the appendix of a _modifier_. Modifiers are attached to the ends of noun phrases to create new noun phrases. There are two types of modifier, each of which has its own quirks, so they will be discussed at length in [&#167;2.4](#Modifiers).
+The third method is the appendix of a _modifier_. Modifiers are attached to the ends of noun phrases to create new noun phrases. There are two types of modifier, each of which has its own quirks, so they will be discussed at length in [&#167;2.4](#modifiers).
 
 The fourth and perhaps most complicated method is a noun clause. A noun clause comprises `e` followed by a list of postpositional phrases. Noun clauses appear at first to be sentences with `e` as their punctuation marker. However, do not be misled. These are nouns that refer to the meaning of the sentence they appear to be. They are commonly used with verbs such as `ij` and `ur`.
 
