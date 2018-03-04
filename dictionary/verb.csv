@@ -10,8 +10,6 @@
 "begin",uz
 "end (stop happening)",up
 "prosper",ak
-"much (number or amount)",fo
-"little (opposite of ""much"")",zho
 "many (exclusively applies to things with discrete amounts, like instances)",eu
 "outside (large distance from center)",ek
 "inside (small distance from center)",no
@@ -19,7 +17,7 @@
 "say (use a declarative sentence; give information)",ij
 "tell (use an imperative sentence; instruct; command)",ud
 "ask (use an interrogative sentence; request information)",idh
-"go (from one place to another)",ag
+"go (from the indirect object to the direct object)",ag
 "relate (to a topic)",sso
 "can",rv
 "know (believe that something is true with certainty and be right)",ui
@@ -29,8 +27,8 @@
 "like",en
 "dislike",rp
 "create",ah
-"long (physical distance; maximum dimension; see ""age"")",at
-"short (physical distance; maximum dimension; see ""youth"")",ngr
+"long (physical distance; maximum dimension; see ""old"")",at
+"short (physical distance; maximum dimension; see ""young"")",ngr
 "thick (minimum dimension)",ith
 "thin (minimum dimension)",du
 "broad (middle dimension)",tha
@@ -39,10 +37,9 @@
 "cause",sr
 "active-perceive (look or listen or sniff)",ash
 "passive-perceive (see or hear or smell)",br
-"toward (creates compound words with states to convert them to transitions)",zr
-"more (the subject exceeds the indirect object)",ut
-"same (the subject equalls the indirect object)",ra
-"less (the subject is less than the indirect object)",is
+"much (more; the subject exceeds the direct object by the amount)",ut
+"same (none; the subject equals the direct object numerically)",ra
+"little (less; the subject is less than the direct object by the amount)",is
 "moral",iss
 "evil",di
 "skillful",ngi
@@ -71,7 +68,7 @@
 "lead",dhu
 "find",it
 "misplace (lose an object)",esh
-"need",izh
+"necessary (the subject must be true in order for the direct object to be true)",izh
 "after (+t)",ha
 "before (-t)",ngo
 "low (-z)",ess
@@ -140,7 +137,7 @@
 "might (possibly happen)",uh
 "include",ish
 "originate (used to describe things coming ""from"")",af
-"transition (represents delta vector between any two states)",ry
+"transition (represents delta vector from indirect object to direct object)",ry
 "truth-tell",ots
 "lie (deceive)",nof
 "goof (off)",ngig
@@ -267,7 +264,7 @@
 "watch",rapss
 "foundation-form",ngek
 "off-build",ssouh
-"suggest",bjer
+"suggest (encourage an action)",bjer
 "powerful (ability to enact change)",thoj
 "unable (to enact change)",bzhr
 "test",skozh
@@ -377,8 +374,8 @@
 "court (date)",zhior
 "patronize (as in a customer going to a business)",prth
 "explain",vey
-"lead-to (be a door; subject is door, direct object is thing on this side, indirect object is thing on other side)",pij
-"wall-off (be a wall; subject is wall, direct object is thing on this side, indirect object is thing on other side)",irz
+"lead-to (be a door; subject is door, direct object is thing on other side, indirect object is thing on this side)",pij
+"wall-off (be a wall; subject is wall, direct object is thing on other side, indirect object is thing on this side)",irz
 "intense (computationally)",seu
 "quick (computationally)",iesh
 "imagine",uopss
@@ -423,8 +420,8 @@
 "terrified (the brief reaction to jump-scares that comes before actual fear or annoyance)",uorm
 "apprehensive (hesitative reaction to decisions)",tshat
 "worried",dze
-"troubled (have troubled feelings from the indirect object)",voln
-"puzzled (have confusion from the indirect object)",zhij
+"troubled (have troubled feelings from the direct object)",voln
+"puzzled (have confusion from the direct object)",zhij
 "substitute",hues
 "vibrant (diversity of color)",ngip
 "sleep",shoh
@@ -532,7 +529,7 @@
 "medicate (tend-to; treat; doctor)",kaj
 "bury",dham
 "exhume (uncover)",iuz
-"forward-to-look (like ""anticipation"", but necessarily positive)",rav
+"forward-to-look (like ""anticipating"", but necessarily positive)",rav
 "strive (toward a goal)",uauh
 "pure",hrey
 "tainted",olz
@@ -621,8 +618,6 @@
 "viscous",giss
 "classy (the quality of being expensive and unneccesary)",mral
 "practical",viay
-"positive-sentimental",aln
-"negative-sentimental",huh
 "congratulate",shuf
 "sarcastic",mrh
 "national (subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet)",hoth

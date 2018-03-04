@@ -2,7 +2,7 @@
 
 This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.
 
-`flifisdhem ji e djastizrs u jokinggland i lr hok osh r ni flibiothdhem a flueth o jokinggland o vu dhem ji djastizrs u ij flrutoryuosh o latium f shaid or dhi fluiks lu izh dhap lu alm lr djastizrs u ha dhe r u`
+`flifisdhem ji e djastizrs u jokinggland i lr hok osh r ni flibiothdhem a flueth o jokinggland o vu dhem ji djastizrs u ij flrutoryuosh o latium f shaid or dhi fluiks lu izhoh dhap lu alm lr djastizrs u ha dhe r u`
 ______
 
 ### `a`
@@ -23,7 +23,7 @@ _verb_
 
 ### `ag`
 _verb_  
-	**go**; from one place to another
+	**go**; from the indirect object to the direct object
 
 ### `agfraj`
 _compound verb_  
@@ -68,10 +68,6 @@ _noun_
 ### `alm`
 _noun_  
 	**society**
-
-### `aln`
-_verb_  
-	**positive-sentimental**
 
 ### `alz`
 _verb_  
@@ -151,7 +147,7 @@ _verb_
 
 ### `at`
 _verb_  
-	**long**; physical distance; maximum dimension; see "age"
+	**long**; physical distance; maximum dimension; see [`zhu`](#zhu)
 
 ### `ath`
 _noun_  
@@ -235,7 +231,11 @@ _verb_
 
 ### `bjer`
 _verb_  
-	**suggest**
+	**suggest**; encourage an action
+
+### `bjerdi`
+_compound verb_  
+	**tempt**
 
 ### `bjru`
 _noun_  
@@ -825,6 +825,10 @@ _verb_
 _postposition_  
 	**,**; denotes addressee
 
+### `enuin`
+_compound verb_  
+	**worship**
+
 ### `ep`
 _postposition_  
 	**on**; at; in; denotes physical location
@@ -977,6 +981,10 @@ _noun_
 _compound pronoun_  
 	**place**
 
+### `flepuerkuf`
+_compound pronoun_  
+	**kingdom**
+
 ### `fli`
 _compound pronoun_  
 	**one-to-which-**; the indirect object of the following verb
@@ -1025,6 +1033,10 @@ _compound pronoun_
 _compound noun_  
 	**air-conditioning**
 
+### `flruerkuf`
+_compound noun_  
+	**king**
+
 ### `flrutoryuosh`
 _compound noun_  
 	**alphabet**
@@ -1061,9 +1073,9 @@ _compound noun_
 _compound noun_  
 	**empire**
 
-### `fo`
-_verb_  
-	**much**; number or amount
+### `fluuerkuf`
+_compound noun_  
+	**peasant**
 
 ### `foh`
 _verb_  
@@ -1473,10 +1485,6 @@ _noun_
 _verb_  
 	**substitute**
 
-### `huh`
-_verb_  
-	**negative-sentimental**
-
 ### `huy`
 _verb_  
 	**clean**
@@ -1609,9 +1617,17 @@ _verb_
 _verb_  
 	**become**; the act of a state transitioning from falsehood to truth; often used in compound words with states
 
+### `ingbetif`
+_compound verb_  
+	**forgive**
+
 ### `ingess`
 _compound verb_  
 	**sink**; crouch
+
+### `ingfraj`
+_compound verb_  
+	**approach**
 
 ### `ingfuj`
 _compound verb_  
@@ -1620,6 +1636,10 @@ _compound verb_
 ### `inggland`
 _loanword_  
 	**England**
+
+### `ingmung`
+_compound verb_  
+	**depart**
 
 ### `ingoh`
 _compound verb_  
@@ -1699,11 +1719,11 @@ _verb_
 
 ### `irz`
 _verb_  
-	**wall-off**; be a wall; subject is wall, direct object is thing on this side, indirect object is thing on other side
+	**wall-off**; be a wall; subject is wall, direct object is thing on other side, indirect object is thing on this side
 
 ### `is`
 _verb_  
-	**less**; the subject is less than the indirect object
+	**little**; less; the subject is less than the direct object by the amount
 
 ### `ish`
 _verb_  
@@ -1787,7 +1807,11 @@ _noun_
 
 ### `izh`
 _verb_  
-	**need**
+	**necessary**; the subject must be true in order for the direct object to be true
+
+### `izhoh`
+_compound verb_  
+	**need**; the subject must possess the direct object for the indirect object to be true
 
 ### `ja`
 _tense-marker_  
@@ -2539,7 +2563,7 @@ _verb_
 
 ### `ngr`
 _verb_  
-	**short**; physical distance; maximum dimension; see "youth"
+	**short**; physical distance; maximum dimension; see [`rs`](#rs)
 
 ### `ngra`
 _verb_  
@@ -2971,7 +2995,7 @@ _noun_
 
 ### `pij`
 _verb_  
-	**lead-to**; be a door; subject is door, direct object is thing on this side, indirect object is thing on other side
+	**lead-to**; be a door; subject is door, direct object is thing on other side, indirect object is thing on this side
 
 ### `pizh`
 _verb_  
@@ -3091,7 +3115,7 @@ _postposition_
 
 ### `ra`
 _verb_  
-	**same**; the subject equalls the indirect object
+	**same**; none; the subject equals the direct object numerically
 
 ### `radh`
 _verb_  
@@ -3117,6 +3141,10 @@ _noun_
 _verb_  
 	**embark**; in the metaphorical sense; begin a long habitual process
 
+### `ramen`
+_loanword_  
+	**amen**
+
 ### `rang`
 _verb_  
 	**charismatic**
@@ -3139,7 +3167,7 @@ _verb_
 
 ### `rav`
 _verb_  
-	**forward-to-look**; like "anticipation"
+	**forward-to-look**; like [`yeing`](#yeing)
 
 ### `rb`
 _verb_  
@@ -3343,7 +3371,7 @@ _compound verb_
 
 ### `ry`
 _verb_  
-	**transition**; represents delta vector between any two states
+	**transition**; represents delta vector from indirect object to direct object
 
 ### `sa`
 _noun_  
@@ -3637,6 +3665,10 @@ _verb_
 _verb_  
 	**cause**
 
+### `srag`
+_compound verb_  
+	**deliver**; move the direct object to the indirect object
+
 ### `srdh`
 _noun_  
 	**pandan**; a type of plant
@@ -3668,6 +3700,10 @@ _verb_
 ### `ssa`
 _noun_  
 	**the letter `ss`**
+
+### `ssamaim`
+_loanword_  
+	**heaven**; Christian
 
 ### `ssazh`
 _noun_  
@@ -4253,6 +4289,10 @@ _noun_
 _verb_  
 	**govern**
 
+### `uerkuf`
+_compound verb_  
+	**rule-monarchially**
+
 ### `ueu`
 _noun_  
 	**orchid**
@@ -4411,7 +4451,7 @@ _noun_
 
 ### `ut`
 _verb_  
-	**more**; the subject exceeds the indirect object
+	**much**; more; the subject exceeds the direct object by the amount
 
 ### `uth`
 _verb_  
@@ -4507,7 +4547,7 @@ _noun_
 
 ### `voln`
 _verb_  
-	**troubled**; have troubled feelings from the indirect object
+	**troubled**; have troubled feelings from the direct object
 
 ### `vong`
 _verb_  
@@ -4919,7 +4959,7 @@ _verb_
 
 ### `zhij`
 _verb_  
-	**puzzled**; have confusion from the indirect object
+	**puzzled**; have confusion from the direct object
 
 ### `zhik`
 _noun_  
@@ -4972,10 +5012,6 @@ _noun_
 ### `zhizh`
 _verb_  
 	**transcribe**
-
-### `zho`
-_verb_  
-	**little**; opposite of [`fo`](#fo)
 
 ### `zhom`
 _verb_  
@@ -5080,10 +5116,6 @@ _noun_
 ### `zozh`
 _noun_  
 	**wing**
-
-### `zr`
-_verb_  
-	**toward**; creates compound words with states to convert them to transitions
 
 ### `zrm`
 _verb_  

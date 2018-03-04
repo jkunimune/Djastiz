@@ -29,9 +29,13 @@
 "memorize",become can-remember
 "sink (crouch)",become low
 "rise (jump)",become high
+"depart",become far
+"approach",become near
 "progress",become progressed
 "step-backward",become lagging
+"forgive",become not angry
 "break (fall apart or crack)",become broken
+"need (the subject must possess the direct object for the indirect object to be true)",necessary possess
 "see",passive-perceive sight
 "hear",passive-perceive sound
 "smell",passive-perceive scent
@@ -53,6 +57,7 @@
 "raise",cause rise
 "heat",cause hot
 "keep-cool",cause cold
+"deliver (move the direct object to the indirect object)",cause go
 "obtain (the direct object from the indirect object)",become possess
 "year",amount-of- periodic Earth
 "date",late day
@@ -83,3 +88,9 @@
 "divide-in-tenths",divide A
 "divide-in-twelfths",divide C
 "divide-in-fifteenths",divide F
+"worship",like have-faith
+"rule-monarchially",govern 1
+"peasant",one-that-gets- rule-monarchially
+"king",one-that- rule-monarchially
+"kingdom",one what on rule-monarchially
+"tempt",suggest evil

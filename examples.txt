@@ -6,6 +6,10 @@ The quick fox jumped over the lazy brown dog. [10->14]
 fox who fast sbj dog who lazy who brown ind jump
 vulpes lr vong r jujdhing lr tan lr mejzuey i sspith
 
+They ran behind the trees.[6->8]
+run them sbj tree the forward on before at
+ssrof m r kuey odh og ep ngo os
+
 You! You're standing in the way of everybody's hopes and dreams! [15->15]
 you , . stand-up both one-that-gets- hope and one-that-gets- dream which-one each person between on
 k eng dhi jrdh ni fludaung a flubrshoh o vu dhap rsh ep
@@ -19,7 +23,7 @@ uncommon at fish sbj one-that- high on fall
 higj os yarsh r flrrd ep doz
 
 I recommend eating a pomegranite at least once in your life. [17->15]
-recommend not one-that- less 1 obj than lively at pomegranite obj eat
+recommend not one-that- little 1 obj than lively at pomegranite obj eat
 ijnguath be flris uf u ia azh os dadima u tshaf
 
 Commonly, a map projection is a systematic transformation of the latitudes and longitudes of locations on the surface of a sphere or an ellipsoid into locations on a plane. [51->49]
@@ -38,6 +42,18 @@ Just do it! [3->3]
 ! yes whether
 bu av iy
 
-This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in Latin alphabetical order. It is a crucial reference for anyone living in this post-Djastiz society.[63->62]
+Our father who is in heaven, your name is hallowed. Your kingdom comes. Your will is done on Earth as it is in heaven.[29->32]
+one-that- parent who sbj heaven on , worship name which-one you obj . kingdom which-one you approach . one what obj you sbj tell sbj happen Earth on to heaven on ly
+flrthrm lr r ssamaim ep eng enuin sspoj o k u dhi flepuerkuf o k ingfraj dhi f l u k r ud r da irj ep e ssamaim ep au
+
+Give us our daily bread today, and forgive us for our trespasses as we forgive those who trespass against us.[28->32]
+both ! give us obj day this at one-that-gets- bake which-one all day and ! forgive us obj to violate ind to us sbj forgive them both who violate and of-which troubled us sbj ly
+ni bu ga shm u jops osh os fluiuvthoy o io jops a bu ingbetif shm u e horss i e shm r ingbetif m ni lr horss a lu voln shm r au
+
+And do not lead us into temptation, but deliver us from evil, for your kingdom and the power and the glory are yours forever and ever. Amen.[40->41]
+and ! lead us obj not to tempt ind and ! cause to go us sbj to evil ind obj to you sbj own both kingdom which-one you and amount-of- powerful and amount-of- awed obj for both each time and each time at amen
+a bu dhu shm u be e bjerdi i a bu sr e ag shm r e di i u e k r te ni flepuerkuf o k a fliathoj a fliaasp u ue ni vu flos a vu flos os ramen
+
+This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in Latin alphabetical order. It is a crucial reference for anyone living in this post-Djastiz society.[63->63]
 dictionary what-kind to Modern-Djastiz obj English ind who complete this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind Modern-Djastiz obj say alphabet which-one Latium one arrange by . one-that-gets- reference of-which need person of-which society who Modern-Djastiz obj after any sbj obj
-flifisdhem ji e djastizrs u jokinggland i lr hok osh r ni flibiothdhem a flueth o jokinggland o vu dhem ji djastizrs u ij flrutoryuosh o latium f shaid or dhi fluiks lu izh dhap lu alm lr djastizrs u ha dhe r u
+flifisdhem ji e djastizrs u jokinggland i lr hok osh r ni flibiothdhem a flueth o jokinggland o vu dhem ji djastizrs u ij flrutoryuosh o latium f shaid or dhi fluiks lu izhoh dhap lu alm lr djastizrs u ha dhe r u
