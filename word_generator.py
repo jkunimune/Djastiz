@@ -4,11 +4,9 @@ import os
 import random
 
 
-CONSONANTS = [{'k','t','p'},{'g','d','b'}, {'h','th','f'},{'y','dh','v'}, {'ng','n','m'}, {'ss','sh','s'},{'j','zh','z'}]
-VOWELS = [{'a','e','o'}, {'r','i','u','l'}]
-
-VALID_CHAINS = [[5], [6], [], [], [], [0], []]
-
+CONSONANTS = [{'m','l',''},{'p','j','r'}]
+VOWELS = {'a','e','u'}
+TONES = ['``', '`', '-', "'", '"']
 
 def random_choice(s):
 	"""because random_choice doesn't work for sets"""
@@ -22,68 +20,57 @@ def similar(a, b):
 
 def length(word):
 	"""the number of Djastiz letters in the word"""
-	return len(word.replace('th',' ').replace('dh',' ').replace('sh',' ').replace('zh',' ').replace('ng',' ').replace('ss',' '))
+	return len(word.replace('`','').replace("'","").replace('-','').replace('"',''))
 
 
-def new_consonant_group():
-	""" generate a string of CONSONANTS that make a single sound together"""
-	row = random.randrange(0,len(CONSONANTS))
-	group = random_choice(CONSONANTS[row])
-	if VALID_CHAINS[row] and random.random() < .3:
-		row = random_choice(VALID_CHAINS[row])
-		group += random_choice(CONSONANTS[row])
-	return group
-
-
-def new_strong_vowel(previous='', l_allowed=False):
-	"""choose a consonant-like vowel that fits here"""
-	possibilities = VOWELS[1]
-	if previous[-1:] in VOWELS[1]:
-		possibilities = possibilities - {previous[-1:]} #apparently "a-=b" in Python is _not_ equivalent to "a=a-b".
-	elif previous.endswith('ss') or previous.endswith('j'):
-		possibilities = possibilities - {'i', 'u'} #because you know. It's not like that's exactly what that means or anything
-	elif previous.endswith('sh') or previous.endswith('zh'):
-		possibilities = possibilities - {'r', 'u'}
-	elif previous.endswith('s') or previous.endswith('z'):
-		possibilities = possibilities - {'r', 'i'}
-	elif previous.endswith('d') or previous.endswith('t'):
-		possibilities = possibilities - {'r', 'i', 'l'}
-	if not l_allowed or previous.endswith('h') or previous.endswith('y'):
-		possibilities = possibilities - {'l'}
-	return random_choice(possibilities)
-
-
-def new_vowel_group(previous=''):
-	"""generate 1-2 VOWELS that make a single sound together"""
-	last_letter = previous[-1:]
-	if random.random() < .2:
-		return random_choice(VOWELS[0]) + random_choice(VOWELS[1])
+def random_consonant(ending=False):
+	"""choose a consonant to go here"""
+	if ending:
+		return random_choice(CONSONANTS[0])
 	else:
-		return random_choice(VOWELS[0]|VOWELS[1]-{'l'}-{last_letter}) #l cannot be a standalone vowel, nor may the vowel repeat the last letter
+		return random_choice(CONSONANTS[0]|CONSONANTS[1])
 
 
-def new_word(num_syl):
-	"""generate a random word with num_syl syllables"""
+def random_tone(tonic=False):
+	if tonic:
+		return random.choice([TONES[0], TONES[-1]])
+	else:
+		return random.choice(TONES[1:-1])
+
+
+def new_tense_marker():
+	"""create a new monosyllabic tonic word"""
+	return random_consonant() + random_choice(VOWELS) + TONES[0]
+
+
+def new_particle():
+	"""create a new monosyllabic non-tonic word"""
+	word = ''
 	if random.random() < .7:
-		word = new_consonant_group()
-	else:
-		word = ''
-	if random.random() < .3:
-		word += new_strong_vowel(word, l_allowed=False)
-	word += new_vowel_group(word)
+		word += random_consonant()
+	word += random_choice(VOWELS) + random_tone()
+	if random.random() < .7:
+		word += random_consonant(ending=True)
+	return word
 
+
+def new_verb():
+	"""create a new polysyllabic pseudo-tonic word"""
+	word = ''
+	num_syl = int(random.random()*2.5+1)
 	for i in range(num_syl-1):
-		if random.random() < .5:
-			word += new_consonant_group()
-		elif random.random() < .8:
-			word += new_strong_vowel(word, l_allowed=True)
-		else:
-			word += new_consonant_group()
-			word += new_strong_vowel(word, l_allowed=True)
-		word += new_vowel_group(word)
+		word += random_consonant() + random_choice(VOWELS) + random_tone()
+	word += random_choice(VOWELS) + random_tone(tonic=True) + random_consonant(ending=True)
+	return word
 
-	if random.random() < .7:
-		word += new_consonant_group()
+
+def new_noun():
+	"""create a new polysyllabic non-tonic word"""
+	word = ''
+	num_syl = int(random.random()*2.5+1)
+	for i in range(num_syl-1):
+		word += random_consonant() + random_choice(VOWELS) + random_tone()
+	word += random_choice(VOWELS) + random_tone(tonic=False) + random_consonant(ending=True)
 	return word
 
 
@@ -124,17 +111,24 @@ def check_words(directory):
 		return 0
 
 
-def generate_dictionary(num_words_syl=[5,5], seed=None, filename=None):
+def generate_dictionary(num_words=[9, 43, 639, 499], seed=None, filename=None):
 	"""generate a bunch of random unique words"""
 	if seed is None:
 		seed = []
 
-	words = []
-	for i, num_words in enumerate(num_words_syl): # for each syllable-count set
-		num_syl = i+1
+	ordered_words = []
+	for i, num in enumerate(num_words): # for each syllable-count set
+		words = []
 		j = 0
-		while j < num_words: # until you have created the correct number of words
-			word = new_word(num_syl) # think of a word
+		while j < num: # until you have created the correct number of words
+			if i == 0:
+				word = new_tense_marker()
+			elif i == 1:
+				word = new_particle()
+			elif i == 2:
+				word = new_verb()
+			else:
+				word = new_noun()
 
 			too_similar = False # check that it is not too similar to any other words
 			for w in seed+words:
@@ -146,24 +140,24 @@ def generate_dictionary(num_words_syl=[5,5], seed=None, filename=None):
 			min_idx, max_idx = 0, len(words)
 			while True:
 				idx = (min_idx+max_idx)//2
-				if idx >= 0 and idx < len(words) and (length(words[idx])-1)//2 <= (length(word)-1)//2:
+				if idx >= 0 and idx < len(words) and length(words[idx]) <= length(word):
 					min_idx = idx+1
-				elif idx > 0 and idx <= len(words) and (length(words[idx-1])-1)//2 > (length(word)-1)//2:
+				elif idx > 0 and idx <= len(words) and length(words[idx-1]) > length(word):
 					max_idx = idx-1
 				else:
 					words.insert(idx, word) # insert it into the list, sorted by number of characters
 					break
 			j += 1 # count it
 
-			if j % 1000 == 0:
-				with open(filename+'.csv','w') as f:
-					for word in words:
-						f.write(word+'\n')
-	return words
+		ordered_words += words
+		with open(filename+'.csv','w') as f:
+			for word in ordered_words:
+				f.write(word+'\n')
+	return ordered_words
 
 
 if __name__ == '__main__':
 	print(check_words('dictionary'))
-	words = generate_dictionary([2000], seed=load_all_words('dictionary'), filename='dictionary/word_cache')
+	words = generate_dictionary(seed=load_all_words('dictionary'), filename='dictionary/word_cache')
 	for word in words:
 		print(word)

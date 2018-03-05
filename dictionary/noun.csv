@@ -1,499 +1,470 @@
-Djastiz,djastiz
-"yes",av
-"no",sho
-"the letter `ng`",nga
-"the letter `n`",ne
-"the letter `m`",mo
-"the letter `k`",ko
-"the letter `t`",tu
-"the letter `p`",pa
-"the letter `g`",gr
-"the letter `d`",de
-"the letter `b`",bi
-"the letter `h`",hu
-"the letter `th`",thr
-"the letter `f`",fe
-"the letter `y`",yi
-"the letter `dh`",dha
-"the letter `v`",vo
-"the letter `sh`",she
-"the letter `ss`",ssa
-"the letter `s`",si
-"the letter `zh`",zhr
-"the letter `j`",jo
-"the letter `z`",zu
-"the letter `r`",rm
-"the letter `i`",iz
-"the letter `u`",uss
-"the letter `a`",ar
-"the letter `e`",ey
-"the letter `o`",ou
-"the letter `l`",al
-"0",yu
-"1",uf
-"2",od
-"3",re
-"4",ang
-"5",zha
-"6",ev
-"7",po
-"8",rh
-"9",tho
-"A (10; only used for duodecimal and hexadecimal)",rng
-"B (11; only used for duodecimal and hexadecimal)",ath
-"C (12; only used for hexadecimal)",ngu
-"D (13; only used for hexadecimal)",ug
-"E (14; only used for hexadecimal)",shi
-"F (15; only used for hexadecimal)",iu
-"Hexadec (16; only used to describe hexadecimal)",sa
-"- (negative)",me
-"dot (decimal point)",ho
-"10^ (or 12^, or whatever depending on the radix)",uo
-"radix",adh
-"maximum (the absolute)",ai
-"the-past",vi
-"the-future",ay
-"the-present",if
-"times (habitual tense)",ef
-"era (10^5 days)",puop
-"chunk (10^3 days)",pey
-"cycle (10^1 days)",faing
-"day (time unit)",jops
-"ke (10^-2 days)",zoth
-"span (10^-3 days)",ssek
-"snap (10^-5 days)",thrup
-"morning (;00-;50 or 00:00-12:00)",voy
-"daytime (;25-;75 or 06:00-18:00 or whenever the sun is up)",vorng
-"evening (;50-;00 or 12:00-00:00)",dhoub
-"nighttime (;75-;25 or 18:00-06:00 or whenever the sun is down)",gei
-"notion (idea; not necessarily true or objective)",tshe
-"instance",nguih
-"point (a particular time or place)",ngij
-"region (an area in space of a period of time)",shasht
-"interval",iah
-"line (of the segment or infinite variety)",auv
-"circle",vou
-"curve (any smooth path)",son
-"zigzag (a polygonal path thing)",jeih
-"loop (closed path)",trth
-"polygon",hrng
-"rod",nup
-"blob",mua
-"sphere",nguoh
-"rectangle",oltss
-"box",nar
-"film (the original meaning - thin thanslucent surfaces)",ney
-"powder",yrang
-"bit (describes gravel and cereal)",zeg
-"string",vri
-"hole (hallway; tube; gap)",ngaim
-"concept (intangible)",uokss
-"thing (tangible)",ngrzh
-"light",jelt
-"sight",ralp
-"sound",darh
-"tactility (touch)",dhun
-"scent",vobz
-"flavor",fuadh
-"spoken-language",zhaps
-"written-language",zhiodh
-"image (in the most general sense)",jraf
-"tool",dhuih
-"female",ngubj
-"male",reuzh
-"neutered-or-spayed",shiy
-"person",dhap
-"child",jid
-"adolescent",ngrpsh
-"adult (older than 7 chunks or so)",rou
-"elder (senior citizen)",shpep
-"cosmos",tsrsh
-"star (sun)",hred
-"Sol (our sun)",judh
-"planet",hiai
-"Earth",irj
-"landmass (e.g. America, Afro-Eurasia)",thom
-"continent (e.g. North America, Eurasia)",kru
-"settlement (like a city or a town)",prj
-"society",alm
-"mountain",dhoh
-"sea",zef
-"jungle",rolj
-"desert",fut
-"tundra",grh
-"plains",zhey
-"atmosphere (weather)",ngia
-"home",nueb
-"body",thrz
-"hair",zhung
-"face",thob
-"head",ouss
-"torso",shke
-"arm",zhry
-"bicep (thigh)",gup
-"forearm (shin)",prdh
-"hand",yrudh
-"finger (toe)",mish
-"pelvis (hips)",zazh
-"butt",djru
-"leg",taud
-"foot",duaf
-"gland (node or organ)",vrud
-"penis",iub
-"vagina",yaz
-"breast",zhion
-"soul (mind)",zou
-"claw (of the sharp variety)",zhors
-"wing",zozh
-"shell",upsh
-"antenna",nrim
-"leaf",fibzh
-"fruit",hrub
-"root",ngikss
-"stem (trunk)",yut
-"blade (of grass)",thuss
-"flower",shiom
-"appendage",tey
-"money",gel
-"fact (not necessarily true, but necessarily objective)",rosk
-"information (a notion, number, etc.)",djozh
-"detail",zhirth
-"sentence",suy
-"word",dhem
-"letter (phoneme; character)",yuosh
-"Reality (the physical world of our human bodies and the four forces etc.)",duor
-"reality (any imagined or simulated or real universe)",elng
-"spring",delzh
-"summer",gjok
-"autumn",pels
-"winter",dolt
-"water",zhrng
-"earth",shei
-"fire",thai
-"air",yuo
-"wood",shin
-"metal",elh
-"vacuum",zoudh
-"electricity",bzhesh
-"crystal",tsi
-"meme",ory
-"rock (not necessarily earthy)",ueps
-"sand",hirp
-"snow",uos
-"element (water, earth, fire, air, etc.)",zedh
-"paper",pih
-"ceramic",dholg
-"plastic",zua
-"ink",thiem
-"oxygen",fiedh
-"urine",fiozh
-"feces",opsh
-"gunpowder",zuef
-"toiletries",ueuz
-"language",jok
-"culture",yuozh
-"topography (geography)",kiong
-"history",pua
-"life",sseu
-"physics",ngeith
-"chemicals",dhur
-"repository (a body of technical knowledge we might call ""science"")",dhar
-"mathematics",nrzh
-"computer",thra
-"human",dhing
-"primatomorpha (basically monkeys and apes plus a few other types of primate)",nop
-"scandentia (treeshrews)",thung
-"lagomorpha (rabbits, hares, pikas)",haf
-"rodent",shoy
-"euliptyphla (hedgehogs, moles, shrews, and a few other rodent-like things)",psseth
-"chiroptera (bats and flying foxes)",gress
-"pangolin",hith
-"feline",vrod
-"canine (describes wolves, dingoes, and foxes)",juj
-"bear",jriy
-"seal (includes walruses and maybe sea lions I think?)",nioz
-"red-panda",vun
-"skunk",dhaup
-"procyonidae (raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles)",iag
-"mustelidae (weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines)",ror
-"horse (includes zebras and several varieties of wild butt)",yoth
-"tapir",hizh
-"rhinoceros",fuksh
-"tylopoda (camels and llamas)",kshim
-"pig",uash
-"chevrotain",kej
-"giraffe (and okapi)",ssissp
-"bovida (cattle, buffalo, antelopes, sheep, goats, etc.)",fium
-"pecora (basically anything with horns besides chevrotains, giraffes, and bovines)",ngrij
-"hippopotamus",irf
-"whale (also refers to dolphins and porpoises)",sig
-"armadillo",erz
-"anteater",zoh
-"sloth",bre
-"afroinsectiphilia (golden moles, tenrecs, elephant, shrews, aardvarks, and some other things)",zold
-"elephant",jan
-"sea-cow (like manatees)",olf
-"hyrax (little rodent-like things)",zuov
-"opossum",zheuv
-"shrew-oppossum (more closely related to Australia than possums)",tssat
-"vombatiforme (koalas and wombats)",yiai
-"phalangeriforme (possums... which are apparently different from opossums and tend to fly)",iadh
-"macropodiforme (kangaroos and wallabies)",dhuh
-"australidelphia (besides wombats, koalas, and kangaroos)",hret
-"platypus",zuab
-"echidna",keug
-"mammal",frg
-"reptile",dhath
-"bird",met
-"tuatara (a lizard-type thing)",uau
-"lizard",dhru
-"snake",dhrth
-"palaeognatha (ostriches, rheas, tinamous, kiwis, cassowaries, and emus)",rauj
-"waterfowl",irg
-"landfowl (chickens, turkeys, and pheasants)",sstua
-"flamingo",hadj
-"grebe",kaz
-"columbimorphae (pidgeons, doves, sandgrouses, and mesites)",feip
-"otidae (bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds)",jobj
-"hoatzin (some weird kind of bird)",kur
-"shorebird",nosp
-"eurypygimorphae (a bunch of tropical birds)",bjru
-"loon",relb
-"penguin",pel
-"procellariid (albatrosses and petrels)",vau
-"stork",vrzh
-"suliforme (boobies and cormorants and a few other things)",bzu
-"plecaniforme (pelicans and similar things)",shpum
-"condor (also encompasses New World vultures)",fia
-"secretary-bird",viu
-"osprey",pshrg
-"accipitridae (hawks, eagles, kites, Old World vultures, and a few other things)",dhij
-"owl",iory
-"coraciimorpha (some smallish generally tree-dwelling birds)",rsk
-"cariamiforme (it's a flightless terrestrial bird)",nay
-"eufalconimorpha (falcons, passerines, parrots, caracaras, and forest falcons)",rof
-"crocodilian (crocodiles and alligators)",frng
-"turtle (includes tortoises and terrapins)",pssu
-"amphibian",fui
-"salientia (frogs and toads)",dhrozh
-"salamander",jely
-"caecilian (blind legless amphibians)",zhrs
-"fish",yarsh
-"lungfish (fish that breathe air)",thueth
-"coelacanth",pssr
-"polypteriforme (bichirs and reedfishes or ropefishes)",hion
-"sturgeon",ubzh
-"paddlefish",ksedh
-"bowfin",dis
-"gar",molp
-"eel",zom
-"elopomorpha (ladyfishes, tarpons, and bonefishes, but not eels)",sspoi
-"freshwater-butterflyfish",uar
-"arowana (bonytounges)",jolz
-"notopteroide (aba, elephantfishes, and featherfin knives)",rodh
-"otocephala (herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras)",nerb
-"protacanthopterygii (salmons, trouts, pikes, dragonfishes, and smelts)",ssrek
-"cusk-eel",kisk
-"toadfish",tssum
-"scombroide (tunas and mackerels)",zun
-"seahorse",dzho
-"anglerfish",zurv
-"pufferfish",ngiaj
-"percomorpha (gobies, cichlids, flatfish, wrasse, and perches)",kssri
-"neoteleostei (jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes)",ngelt
-"galean-shark",bzing
-"squalomorph-shark",shion
-"ray (the ocean variety)",gzu
-"invertebrate",nru
-"arthropod",urng
-"holocephali",kolng
-"lamprey",urzh
-"hagfish (slime-eel)",bzhia
-"ascidiacea (sea squirts)",joh
-"pyrosome",agj
-"salp",shie
-"doliolida",nei
-"larvacea",ier
-"cephalochordata (lancelets and branchiostomidae)",zuou
-"hemichordate (weird ocean worm tree blobs)",elz
-"sealily",mue
-"seastar",zui
-"ophiuroid (think 'seastar', but less brittle)",japss
-"seaurchin",iosh
-"seacucumber",frosh
-"scalidophora (mud-dwelling tiny aquatic things)",ngru
-"nematoid (parasitic worms FTW!)",zuip
-"tardigrade",yej
-"acarus (mites and ticks)",sof
-"amblypygus (they look like spiders, but produce no web or venom)",rtsh
-"spider",yrai
-"opilione (things that look like spiders)",tsu
-"palpigrade",ssridh
-"pseudoscorpion",jedh
-"ricinulei",rbj
-"schizomida",thush
-"scorpion",peiv
-"solifuga",olv
-"thelyphonid",thui
-"pantopod (they're like spiders, but in the ocean!)",thri
-"horseshoe-crab",uashp
-"centipede",kas
-"millipede",oiks
-"pauropod",zhiom
-"symphalan",kshe
-"branchiopod (a few types of shrimp)",ssro
-"remipedia (like ocean centipede things)",dhaj
-"maxillopod (barnacles and copepods)",arth
-"ostracoda (seed shrimp)",fau
-"leptostrac",sta
-"mantisshrimp",zhang
-"crab (also includes lobsters)",krv
-"shrimp (pretty loose descriptor of most eumalacostraca)",zhaz
-"apterygota (silverfish, firebrat, and jumping bristletails)",ssazh
-"mayfly",vuv
-"odonatoptera (dragonflies and damselflies)",iuts
-"paraneoptera (bugs, thrips, and lice)",zhik
-"megaloptera (alderflies, dobsonflies, and fishflies)",thup
-"snakefly",jizh
-"neuroptera (lacewings, antlions, owlflies, and more)",vrth
-"beetle",fou
-"strepsiptera (twisted-wing parasites)",suet
-"mosquito",frs
-"housefly",helss
-"fly (in the taxonomical sense excluding mosquitos and houseflies)",yrv
-"mecoptera (flying scorpions!)",sstue
-"flea",elf
-"caddisfly",trssp
-"lepidoptera (moths and butterflies)",dhodh
-"wasp",goss
-"ant",kath
-"bee",ning
-"sawfly",nirzh
-"stonefly",vuong
-"embiidina (web-spinning insects)",shpel
-"phasmid (stick and leaf insects)",kse
-"orthoptera (crickets, tatydids, grasshoppers, etc.)",arj
-"gladiator (it's a type of insect)",nral
-"zorapteran (a type of insect bug thing)",ngin
-"cockoroach",tol
-"termite",dhrv
-"mantid",muz
-"earwig",vis
-"grylloblattodea (ice bus, ice crawlers, and rock crawers)",ieid
-"entognatha (six-legged bugs that are not insects)",yuev
-"velvetworm",zhiuf
-"plankton (anything microscopic that belongs to nephrozoa)",telng
-"brachiopod",voth
-"phoronid",hrok
-"aplacophora (shell-less molusks)",iery
-"chiton",oib
-"monoplacophora (a type of molosk)",psu
-"snail",shiezh
-"slug",tssov
-"nautiloid",yoj
-"decapodiforme (includes squid and cuttlefish)",thelh
-"vampiresquid",vrb
-"octopus",kssu
-"bivalve (molusks with two valves)",vej
-"scaphopod (a type of molusk)",uory
-"beardworm (giant tube worms)",zabz
-"leech",zoss
-"segmented-worm (any member of annelida besides leeches and beardworms)",eug
-"nemertea (ribbon worms or probiscis worms)",zaj
-"proctum (encompasses entoprocta and ectoprocta)",dhial
-"gorgonian (sea fans and sea whips)",pai
-"seapens",zhirng
-"soft-coral",ngif
-"blue-coral",pshet
-"black-coral",shpef
-"stony-coral",niy
-"corallimorpharia",zau
-"zoantharia",ngaz
-"anemone",raij
-"tube-dwelling-anemone",grd
-"jellyfish",roth
-"box-jellyfish",frst
-"stalked-jellyfish",atss
-"hydra",nguet
-"polypodizoa (jellyfish-like parasites)",zuis
-"parasite",ski
-"sponge",koksh
-"trichoplax (real small and thin sponge-like animals)",sharm
-"animal",aiv
-"plant",ngiuf
-"fungus",ruj
-"mushroom (or toadstool)",vus
-"puffball (fungus)",kez
-"stinkhorn",urf
-"bracket-fungus",nguei
-"jelly-fungus",igzh
-"bolete",ngurdh
-"smut (fungus)",gek
-"bunt (fungus)",dhuj
-"rust (fungus)",gzej
-"chanterelle (a type of fungus)",fuam
-"earth-star (fungus)",shrf
-"bacterium",gev
-"virus",gus
-"alga",thruv
-"moss (any embryophyte without xyla, like liverworts and hornworts, plus clubmoss and spikemoss and firemoss)",piam
-"quillwort",nuab
-"fern",oishk
-"tree",kuey
-"zamiaceae (cycads that are superficially palm or fern-like)",jre
-"cycas (some ancient tree-palm-fern things)",napsh
-"ginkgo biloba (a unique Japanese tree)",rip
-"ephedra (a type of shrub)",zhay
-"umbrella-pine (not technically a pine)",tuash
-"araucarian (a type of very tall evergreen)",bru
-"cupressacea (junipers, redwoods, and some other types of conifers)",zadh
-"pine-tree (includes cedars, firs, hemlocks, larches, and spruces)",pezh
-"podocarpaceae (a family of southern-hemisphere conifers)",teizh
-"yew",roh
-"pontederiacea (a family of aquatic wetland plants)",ssuf
-"commelinacea (plants with fleshy succulent leaves)",zhiab
-"haemodoraceae (plants that grow in dry places with distichous, equitable, isobifacial leaves)",uop
-"hanguanacea (terrestrial herbaceous Austrolasian plants)",shib
-"philydracea (herbaceous monocotyledonous plants)",madh
-"alismatid-monocots (acorales and alismatales)",theuz
-"petrosaviaceae (flowering plants of Petrosaviales)",nan
-"discoreales (monocotyledonous flowering plants)",shoish
-"yam-plant",gzoth
-"pandan (a type of plant)",srdh
-"liliale (a type of flowering plants that includes lilies)",dhuan
-"asparagoid-lily (minus orchids)",ols
-"orchid",ueu
-"palm-tree",ief
-"cattail-plant (typhaceae)",shis
-"grass (poaceae)",ther
-"cool-season-grass (includes wheat, barley, oat, rye, and some lawn grasses)",zuot
-"warm-season-grass (includes sugarcane, maize, sorghum, and switchgrass)",aissp
-"bamboo",vov
-"poale (grass-likes such as sedges, excluding grasses, typhaceae, and bromeliads)",dakss
-"zingiberale (a type of fowering plant that includes bananas, ginger, and birds of paradise)",zhrj
-"magnoliid (a type of flowering plant that includes magnolias, nutmeg, cinnamon, avocado, black pepper, and tulips)",dhay
-"chloranthale (a family of unique tropical flowering shrubs)",rat
-"austrobaileyale (a type of woody plant that produces anise and essential oils)",vim
-"nymphaelaeale (a type of aquatic flowering plant, like lillies)",vol
-"amborella (a specific understory shrub on Grande Terre)",tosh
-"eudicot (a generic plant clade)",ngaj
-"Antarctica",mozh
-"Oceania",zhiung
-"Africa",ishk
-"Eurasia",itss
-"North-America",zurn
-"South-America",ged
-"The-Arctic",gjuzh
-"Europe",puedh
-"Middle-East",zuai
-"North-Africa",uaj
-"Sub-Saharan-Africa",fen
-"South-Asia",due
-"Eastern-Asia",nuz
-"Central-Asia",preu
-"US-Canada",por
-"Central-America",shpi
-"book",tssru
-"ladder",kre
-"robot (anything with automated actuation)",zeu
-"automobile (machine)",nas
+Djastiz,ja`pi-
+yes,e`
+no,e'
+0,e-
+1,a'
+2,a-
+3,u'
+4,e-l
+5,u'm
+6,u'l
+7,a`l
+8,e`m
+9,e`l
+A (10; only used for duodecimal and hexadecimal),a-m
+B (11; only used for duodecimal and hexadecimal),a`m
+C (12; only used for hexadecimal),u-l
+D (13; only used for hexadecimal),e-m
+E (14; only used for hexadecimal),u`l
+F (15; only used for hexadecimal),e'l
+Hexadec (16; only used to describe hexadecimal),e-u`
+#NAME?,a-l
+dot (decimal point),u-m
+"10^ (or 12^, or whatever depending on the radix)",a'a-
+radix,a'm
+maximum (the absolute),e`e-
+the-past,u`a'
+the-future,e`a`
+the-present,a-e-
+times (habitual tense),e`u'
+era (10^5 days),a`u`
+chunk (10^3 days),a'e'
+cycle (10^1 days),u-u`
+day (time unit),u`e'
+ke (10^-2 days),e`e'
+span (10^-3 days),a-u-
+snap (10^-5 days),u-e-
+morning (;00-;50 or 00:00-12:00),u'e`
+daytime (;25-;75 or 06:00-18:00 or whenever the sun is up),u-e`
+evening (;50-;00 or 12:00-00:00),a-u`
+nighttime (;75-;25 or 18:00-06:00 or whenever the sun is down),e`e`
+notion (idea; not necessarily true or objective),a-a`
+instance,lu`u'
+point (a particular time or place),me-e`
+region (an area in space of a period of time),mu`u'
+interval,u`u-m
+line (of the segment or infinite variety),a-a`m
+circle,ma`a-
+curve (any smooth path),pe'e`
+zigzag (a polygonal path thing),mu-u'
+loop (closed path),e-u`l
+polygon,pu-e`
+rod,le`e'
+blob,e-u-l
+sphere,ju-u`
+rectangle,ru'a-
+box,le-e`
+film (the original meaning - thin thanslucent surfaces),pu'a`
+powder,lu`e'
+bit (describes gravel and cereal),pu`u-
+string,le-a`
+hole (hallway; tube; gap),e-e`l
+concept (intangible),me-a'
+thing (tangible),u-u'l
+light,e`e`l
+sight,a'a-m
+sound,pa`a`
+tactility (touch),pu'e-
+scent,me`u`
+flavor,le`u`
+spoken-language,le'u'
+written-language,la`a-
+image (in the most general sense),pa'a`
+tool,ru`e-
+female,a'e`l
+male,pu`e-
+neutered-or-spayed,a'u`m
+person,pe`e'
+child,pe-a-
+adolescent,lu-u'
+adult (older than 7 chunks or so),pa`a'
+elder (senior citizen),e`a-l
+cosmos,ra`e`
+star (sun),ra'u'
+Sol (our sun),e`a`l
+planet,la-u'
+Earth,u`e`l
+"landmass (e.g. America, Afro-Eurasia)",le`u-
+"continent (e.g. North America, Eurasia)",u`a`m
+settlement (like a city or a town),e'u-l
+society,a-u'l
+mountain,ja-a'
+sea,a`u-m
+jungle,e'a`m
+desert,pu'e`
+tundra,lu`a'
+plains,u-e-l
+atmosphere (weather),u`e'm
+home,pu`u'
+body,me`u-
+hair,u-e'm
+face,e`u'm
+head,pe`e`
+torso,mu'e`
+arm,lu-a-
+bicep (thigh),ja'a`
+forearm (shin),je`a'
+hand,le'u`
+finger (toe),u-a'l
+pelvis (hips),ra`u'
+butt,lu`e`
+leg,pe`u'
+foot,u'a`m
+gland (node or organ),pe`u`
+penis,re`e'
+vagina,re-e`
+breast,pu-a`
+soul (mind),mu-e-
+claw (of the sharp variety),ja-u`
+wing,je-u-
+shell,pa`e`
+antenna,me'u'
+leaf,ra'e`
+fruit,la`u'
+root,e'u`m
+stem (trunk),lu'e`
+blade (of grass),u-u-m
+flower,u-e'l
+appendage,ju-e`
+money,ja'u`
+"fact (not necessarily true, but necessarily objective)",pa`u`
+"information (a notion, number, etc.)",ja-e-
+detail,a'a'l
+sentence,pa'e'
+word,ja'a'
+letter (phoneme; character),e-a-m
+Reality (the physical world of our human bodies and the four forces etc.),ra-a`
+reality (any imagined or simulated or real universe),ju-a-
+spring,mu-e'
+summer,je-u`
+autumn,la'e-
+winter,ma`e-
+water,u-e`m
+earth,u'u`l
+fire,ra`a-
+air,pe-u`
+wood,pa-a'
+metal,mu'u`
+vacuum,pu-u'
+electricity,e'a-m
+crystal,a'u-m
+meme,la'u`
+rock (not necessarily earthy),ra'a-
+sand,ru`e'
+snow,ru-e-
+"element (water, earth, fire, air, etc.)",a'a`l
+paper,lu`e-
+ceramic,ju-a'
+plastic,ru-a`
+ink,ma-a'l
+oxygen,ra-u-l
+urine,lu-e-m
+feces,re`a`m
+gunpowder,pe'e'm
+toiletries,me`u'm
+language,ja`a'm
+culture,pa'a'm
+topography (geography),ja`e'm
+history,le-u`m
+life,la`a-m
+physics,la`u'l
+chemicals,pu'a`m
+"repository (a body of technical knowledge we might call ""science"")",pu`e`m
+mathematics,mu`u-l
+computer,ru`u`m
+human,la'a'm
+primatomorpha (basically monkeys and apes plus a few other types of primate),u'mu`e'
+scandentia (treeshrews),pa'a-l
+"lagomorpha (rabbits, hares, pikas)",ja-e-a-
+rodent,mu`a`l
+"euliptyphla (hedgehogs, moles, shrews, and a few other rodent-like things)",le`u`m
+chiroptera (bats and flying foxes),re'e`l
+pangolin,ja'u'l
+feline,pe`a'm
+"canine (describes wolves, dingoes, and foxes)",ra-u'l
+bear,le'a-l
+seal (includes walruses and maybe sea lions I think?),pu`u'm
+red-panda,lu-e-l
+skunk,mu'e'l
+"procyonidae (raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles)",a-la-e-
+"mustelidae (weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines)",lu-u-l
+horse (includes zebras and several varieties of wild butt),ma-e'l
+tapir,re'e'm
+rhinoceros,pu`u-l
+tylopoda (camels and llamas),lu`a`u-
+pig,la-a'm
+chevrotain,ra`a'm
+giraffe (and okapi),le'a`l
+"bovida (cattle, buffalo, antelopes, sheep, goats, etc.)",pe-e'm
+"pecora (basically anything with horns besides chevrotains, giraffes, and bovines)",ju-a-l
+hippopotamus,pa-e`m
+whale (also refers to dolphins and porpoises),je`u'l
+armadillo,a-je`u`
+anteater,ru`u'l
+sloth,pe`u-l
+"afroinsectiphilia (golden moles, tenrecs, elephant, shrews, aardvarks, and some other things)",le-a-m
+elephant,pa'e`l
+sea-cow (like manatees),pu`e'l
+hyrax (little rodent-like things),ru'a`l
+opossum,pe'a`m
+shrew-oppossum (more closely related to Australia than possums),pe`a-m
+vombatiforme (koalas and wombats),mu-u'l
+phalangeriforme (possums... which are apparently different from opossums and tend to fly),re-a`l
+macropodiforme (kangaroos and wallabies),pa`a-l
+"australidelphia (besides wombats, koalas, and kangaroos)",ru-a'l
+platypus,me'a-m
+echidna,pu-a'm
+mammal,pa'u-l
+reptile,me'e`l
+bird,je-u`m
+tuatara (a lizard-type thing),ru'a`m
+lizard,me`e`l
+snake,u'e-a`l
+"palaeognatha (ostriches, rheas, tinamous, kiwis, cassowaries, and emus)",ma'u`m
+waterfowl,ja`a-m
+"landfowl (chickens, turkeys, and pheasants)",a-e-u`l
+flamingo,le'e`l
+grebe,pa`e`m
+"columbimorphae (pidgeons, doves, sandgrouses, and mesites)",me-a'e-
+"otidae (bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds)",pe-e-m
+hoatzin (some weird kind of bird),la'a`m
+shorebird,me'u'l
+eurypygimorphae (a bunch of tropical birds),ja-u'm
+loon,le'e-l
+penguin,ju-e-m
+procellariid (albatrosses and petrels),le-a`m
+stork,lu'u-m
+suliforme (boobies and cormorants and a few other things),ju`e'l
+plecaniforme (pelicans and similar things),ma'a'l
+condor (also encompasses New World vultures),je-u'm
+secretary-bird,je'e-l
+osprey,le`u-m
+"accipitridae (hawks, eagles, kites, Old World vultures, and a few other things)",pe`u-m
+owl,le`e'l
+coraciimorpha (some smallish generally tree-dwelling birds),lu'u`m
+cariamiforme (it's a flightless terrestrial bird),pe`a'l
+"eufalconimorpha (falcons, passerines, parrots, caracaras, and forest falcons)",le`u'm
+crocodilian (crocodiles and alligators),le-a'l
+turtle (includes tortoises and terrapins),ru`a'l
+amphibian,ru-a-l
+salientia (frogs and toads),pa-e`l
+salamander,pe-e'l
+caecilian (blind legless amphibians),me'e-m
+fish,le`a-m
+lungfish (fish that breathe air),me'a`m
+coelacanth,la`u-m
+polypteriforme (bichirs and reedfishes or ropefishes),pu-a-m
+sturgeon,pe-u-m
+paddlefish,mu'u-m
+bowfin,ja'a-l
+gar,ja'a-m
+eel,ma-u`m
+"elopomorpha (ladyfishes, tarpons, and bonefishes, but not eels)",mu-e`l
+freshwater-butterflyfish,la-u'l
+arowana (bonytounges),ru'a-m
+"notopteroide (aba, elephantfishes, and featherfin knives)",mu'u-l
+"otocephala (herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras)",me'u`l
+"protacanthopterygii (salmons, trouts, pikes, dragonfishes, and smelts)",pa-u'm
+cusk-eel,lu'a-m
+toadfish,pa-a-m
+scombroide (tunas and mackerels),le`u-l
+seahorse,ra'u'm
+anglerfish,le-u`l
+pufferfish,me-u`l
+"percomorpha (gobies, cichlids, flatfish, wrasse, and perches)",pa`u`l
+"neoteleostei (jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes)",ru-u'l
+galean-shark,ja'e'l
+squalomorph-shark,ja'a'l
+ray (the ocean variety),je-u'e`
+invertebrate,lu-a-m
+arthropod,ju'e'l
+holocephali,ja'a-u'
+lamprey,mu`a`m
+hagfish (slime-eel),pu`a-l
+ascidiacea (sea squirts),me`u-a`
+pyrosome,ma-e-l
+salp,je`a`m
+doliolida,pa-u'a`
+larvacea,pu`a`m
+cephalochordata (lancelets and branchiostomidae),la'u`l
+hemichordate (weird ocean worm tree blobs),pe-u'm
+sealily,pa-a'l
+seastar,re'a`l
+"ophiuroid (think 'seastar', but less brittle)",ma-a-l
+seaurchin,mu'u`m
+seacucumber,ra`u'l
+scalidophora (mud-dwelling tiny aquatic things),ja`u-m
+nematoid (parasitic worms FTW!),lu-u'm
+tardigrade,pe`a`m
+acarus (mites and ticks),ja'e-m
+"amblypygus (they look like spiders, but produce no web or venom)",ju`a`l
+spider,ju'e'm
+opilione (things that look like spiders),ra-a-m
+palpigrade,re-u'l
+pseudoscorpion,re'a'm
+ricinulei,re'a`m
+schizomida,mu-u-m
+scorpion,ju`u-l
+solifuga,ma`u`m
+thelyphonid,pu'e-m
+"pantopod (they're like spiders, but in the ocean!)",ja`a`l
+horseshoe-crab,la-u`m
+centipede,u'e-e-m
+millipede,pa`e'l
+pauropod,ja`a`m
+symphalan,me`e'm
+branchiopod (a few types of shrimp),ju-e'l
+remipedia (like ocean centipede things),je`u-l
+maxillopod (barnacles and copepods),a'u-u'l
+ostracoda (seed shrimp),ru`a-m
+leptostrac,pa'a'l
+mantisshrimp,ra-a`l
+crab (also includes lobsters),pu`u`m
+shrimp (pretty loose descriptor of most eumalacostraca),ra`a-m
+"apterygota (silverfish, firebrat, and jumping bristletails)",me-a'm
+mayfly,ma`a`m
+odonatoptera (dragonflies and damselflies),mu`u'l
+"paraneoptera (bugs, thrips, and lice)",ru`a`m
+"megaloptera (alderflies, dobsonflies, and fishflies)",pa`e'm
+snakefly,mu-a-l
+"neuroptera (lacewings, antlions, owlflies, and more)",je`u`l
+beetle,ju'a'm
+strepsiptera (twisted-wing parasites),re`a-l
+mosquito,pa-a`u'
+housefly,pu-e'l
+fly (in the taxonomical sense excluding mosquitos and houseflies),ju`a`m
+mecoptera (flying scorpions!),ju-e-l
+flea,la'a-m
+caddisfly,ru'u`l
+lepidoptera (moths and butterflies),ja-u`l
+wasp,mu`e'm
+ant,la-e`u-m
+bee,pu`me`u`
+sawfly,la'ra-e-
+stonefly,re-je'u-
+embiidina (web-spinning insects),le`a`e-m
+phasmid (stick and leaf insects),la-e'a-m
+"orthoptera (crickets, tatydids, grasshoppers, etc.)",re`e-e`m
+gladiator (it's a type of insect),ru-me-u'
+zorapteran (a type of insect bug thing),pe'u-a`l
+cockoroach,pa'ra`u`
+termite,lu`pe-a-
+mantid,ru-e`a-m
+earwig,ma`ma-u`
+"grylloblattodea (ice bus, ice crawlers, and rock crawers)",pu'ra-e'
+entognatha (six-legged bugs that are not insects),mu`e`e-l
+velvetworm,u`mu`a`m
+plankton (anything microscopic that belongs to nephrozoa),ju-e-u`m
+brachiopod,u're'e`m
+phoronid,le-pa-a-
+aplacophora (shell-less molusks),lu`u'u-l
+chiton,pa'je`e-
+monoplacophora (a type of molosk),a-le`e'm
+snail,mu'pe`a'
+slug,ju`je'e`
+nautiloid,le-lu`a'
+decapodiforme (includes squid and cuttlefish),pe`me'u'
+vampiresquid,a`re-u-m
+octopus,le'e'u'l
+bivalve (molusks with two valves),u`pa'u'l
+scaphopod (a type of molusk),la-u'a'm
+beardworm (giant tube worms),ja-me`u-
+leech,le'la-e-
+segmented-worm (any member of annelida besides leeches and beardworms),e-mu'u-m
+nemertea (ribbon worms or probiscis worms),e`pa'e-l
+proctum (encompasses entoprocta and ectoprocta),ru-ma'a'
+gorgonian (sea fans and sea whips),pu-ja-a`
+seapens,ju'ju-a`
+soft-coral,ja-pu-u'
+blue-coral,ru`lu`a`
+black-coral,mu`e-u'l
+stony-coral,lu'me-a`
+corallimorpharia,me'la'e`
+zoantharia,ru-a`e`m
+anemone,pe're-e-
+tube-dwelling-anemone,e'pu`a-m
+jellyfish,e're`u'm
+box-jellyfish,la-ra'a-
+stalked-jellyfish,ra'ma`e'
+hydra,u-ja`u-l
+polypodizoa (jellyfish-like parasites),me`u'a-l
+parasite,la`a-a`m
+sponge,ja-me`u`
+trichoplax (real small and thin sponge-like animals),mu'e'u-l
+animal,ru`pa`a`
+plant,pu`re-e-
+fungus,a-mu'a'm
+mushroom (or toadstool),me`pu`e`
+puffball (fungus),e`ja`u'm
+stinkhorn,la'e-e'm
+bracket-fungus,mu-e-e'l
+jelly-fungus,ma-ju'u-
+bolete,e-ja`u-m
+smut (fungus),ra-e-e'm
+bunt (fungus),le-u-u'm
+rust (fungus),re-a`e`m
+chanterelle (a type of fungus),a'la-e`l
+earth-star (fungus),ma'lu'e`
+bacterium,pe'mu'a`
+virus,e`me-e`m
+alga,pe'ja'a`
+"moss (any embryophyte without xyla, like liverworts and hornworts, plus clubmoss and spikemoss and firemoss)",ma-mu'u-
+quillwort,me-e`u-l
+fern,mu'me'e-
+tree,ja`e`u`l
+zamiaceae (cycads that are superficially palm or fern-like),mu`pe`e-m
+cycas (some ancient tree-palm-fern things),je`ru`e'm
+ginkgo biloba (a unique Japanese tree),mu'ja`a'l
+ephedra (a type of shrub),je'ju`e'l
+umbrella-pine (not technically a pine),la-le`e-l
+araucarian (a type of very tall evergreen),la'pu-a`l
+"cupressacea (junipers, redwoods, and some other types of conifers)",ja`me'u'm
+"pine-tree (includes cedars, firs, hemlocks, larches, and spruces)",pa'mu-e-m
+podocarpaceae (a family of southern-hemisphere conifers),lu`je'e-l
+yew,la'pe-a`l
+pontederiacea (a family of aquatic wetland plants),la'pa'a-m
+commelinacea (plants with fleshy succulent leaves),ru-lu`a`m
+"haemodoraceae (plants that grow in dry places with distichous, equitable, isobifacial leaves)",ja-ja`e`m
+hanguanacea (terrestrial herbaceous Austrolasian plants),me-la`e'm
+philydracea (herbaceous monocotyledonous plants),ru`lu'u`m
+alismatid-monocots (acorales and alismatales),pa`ra'a`m
+petrosaviaceae (flowering plants of Petrosaviales),ma'ju-a`l
+discoreales (monocotyledonous flowering plants),le'pu'u'l
+yam-plant,ju-pu`e`l
+pandan (a type of plant),ja-ju'a`l
+liliale (a type of flowering plants that includes lilies),pu`lu'a'm
+asparagoid-lily (minus orchids),pu`je-e'm
+orchid,pe-pe-a-m
+palm-tree,pe-me'u`m
+cattail-plant (typhaceae),pu'la-e-m
+grass (poaceae),ma'ru-a`l
+"cool-season-grass (includes wheat, barley, oat, rye, and some lawn grasses)",re'ru-u-m
+"warm-season-grass (includes sugarcane, maize, sorghum, and switchgrass)",mu'ru'e'm
+bamboo,la're'u`l
+"poale (grass-likes such as sedges, excluding grasses, typhaceae, and bromeliads)",ra'pa`a`m
+"zingiberale (a type of fowering plant that includes bananas, ginger, and birds of paradise)",ja-je'u-l
+"magnoliid (a type of flowering plant that includes magnolias, nutmeg, cinnamon, avocado, black pepper, and tulips)",lu're`e'l
+chloranthale (a family of unique tropical flowering shrubs),ra-ma'a'm
+austrobaileyale (a type of woody plant that produces anise and essential oils),me'ru'u'l
+"nymphaelaeale (a type of aquatic flowering plant, like lillies)",ru-la-a-l
+amborella (a specific understory shrub on Grande Terre),ra`ja`e-m
+eudicot (a generic plant clade),ru`pe-u`l
+Antarctica,la'le`u`l
+Oceania,ra'pa`e-l
+Africa,je-pe-u-m
+Eurasia,lu'la`e-l
+North-America,ja'pu'u-m
+South-America,pa'ja`e-m
+The-Arctic,le'ra'a`m
+Europe,ju'le'e-l
+Middle-East,ra`re`e'l
+North-Africa,ra`ju`u`m
+Sub-Saharan-Africa,lu-ma-a-m
+South-Asia,ma-pe'a-l
+Eastern-Asia,ma'je`a-m
+Central-Asia,pe-le`a`l
+US-Canada,pu-ra-u'l
+Central-America,pa'me`u`m
+ladder,ru`pu`a-m
+robot (anything with automated actuation),re`ju`u-l
+automobile (machine),ru'je'u-m

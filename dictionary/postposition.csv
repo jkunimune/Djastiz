@@ -1,15 +1,15 @@
-"sbj (denotes subject)",r
-"obj (denotes direct object)",u
-"ind (with; at; denotes indirect object)",i
-"than (denotes extent, amount, or quantity)",ia
-"on (at; in; denotes physical location)",ep
-"at (on; in; denotes date/time or instance number)",os
-"thats-why (denotes cause)",uj
-"for (so; denotes purpose)",ue
-"regarding (WRT; denotes context)",rk
-"by (as; denotes method)",or
-"via (with; through; denotes tool or medium)",im
-"whether (denotes whether it happened; the argument here is basically always ""yes"" or ""what"")",iy
-"if (denotes hypothetical conditions)",er
-"ly (denotes manner)",au
-", (denotes addressee)",eng
+"sbj (denotes subject)",e-
+"obj (denotes direct object)",e'
+"ind (with; at; denotes indirect object)",e`
+"than (denotes extent, amount, or quantity)",a-
+"on (at; in; denotes physical location)",a-m
+"at (on; in; denotes date/time or instance number)",e`l
+"thats-why (denotes cause)",e'l
+"for (so; denotes purpose)",u`l
+"regarding (WRT; denotes context)",e-l
+"by (as; denotes method)",u'l
+"via (with; through; denotes tool or medium)",a'm
+"whether (denotes whether it happened; the argument here is basically always ""yes"" or ""what"")",u-m
+"if (denotes hypothetical conditions)",u'm
+"ly (denotes manner)",a-l
+", (denotes addressee)",re-
