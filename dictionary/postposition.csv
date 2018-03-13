@@ -1,15 +1,16 @@
-"sbj (denotes subject)",e-
-"obj (denotes direct object)",e'
-"ind (with; at; denotes indirect object)",e`
-"than (denotes extent, amount, or quantity)",a-
-"on (at; in; denotes physical location)",a-m
-"at (on; in; denotes date/time or instance number)",e`l
-"thats-why (denotes cause)",e'l
-"for (so; denotes purpose)",u`l
-"regarding (WRT; denotes context)",e-l
-"by (as; denotes method)",u'l
-"via (with; through; denotes tool or medium)",a'm
-"whether (denotes whether it happened; the argument here is basically always ""yes"" or ""what"")",u-m
-"if (denotes hypothetical conditions)",u'm
-"ly (denotes manner)",a-l
-", (denotes addressee)",re-
+"sbj (denotes subject)",ù
+"obj (denotes direct object)",è
+"ind (with; at; denotes indirect object)",ū
+"than (denotes extent, amount, or quantity)",pá
+"on (at; in; denotes physical location)",jē
+"at (on; in; denotes date/time or instance number)",úm
+"thats-why (denotes cause)",mé
+"for (so; denotes purpose)",àm
+"regarding (WRT; denotes context)",úl
+"by (as; denotes method)",āl
+"via (with; through; denotes tool or medium)",pā
+"whether (denotes whether it happened; the argument here is basically always ""yes"" or ""what"")",jū
+"if (denotes hypothetical conditions)",lā
+"ly (denotes manner)",púm
+", (denotes addressee)",lùl
+"according-to (denotes source)",mēm

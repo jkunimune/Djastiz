@@ -6,7 +6,7 @@ import random
 
 CONSONANTS = [{'m','l',''},{'p','j','r'}]
 VOWELS = {'a','e','u'}
-TONES = ['``', '`', '-', "'", '"']
+TONES = [u'\u030F', u'\u0300', u'\u0304', u"\u0301", u'\u030B']
 
 def random_choice(s):
 	"""because random_choice doesn't work for sets"""
@@ -60,7 +60,7 @@ def new_verb():
 	num_syl = int(random.random()*2.5+1)
 	for i in range(num_syl-1):
 		word += random_consonant() + random_choice(VOWELS) + random_tone()
-	word += random_choice(VOWELS) + random_tone(tonic=True) + random_consonant(ending=True)
+	word += random_consonant() + random_choice(VOWELS) + random_tone(tonic=True) + random_consonant(ending=True)
 	return word
 
 
@@ -70,7 +70,7 @@ def new_noun():
 	num_syl = int(random.random()*2.5+1)
 	for i in range(num_syl-1):
 		word += random_consonant() + random_choice(VOWELS) + random_tone()
-	word += random_choice(VOWELS) + random_tone(tonic=False) + random_consonant(ending=True)
+	word += random_consonant() + random_choice(VOWELS) + random_tone(tonic=False) + random_consonant(ending=True)
 	return word
 
 
@@ -79,7 +79,7 @@ def load_all_words(directory, max_size=0):
 	words = []
 	for filename in os.listdir(directory):
 		if 'cache' not in filename:
-			with open(directory+'\\'+filename, 'r') as f:
+			with open(directory+'\\'+filename, 'r', encoding='utf-8') as f:
 				lines = f.readlines()
 				if max_size == 0 or len(lines) < max_size:
 					for line in lines:
@@ -111,12 +111,12 @@ def check_words(directory):
 		return 0
 
 
-def generate_dictionary(num_words=[9, 43, 639, 499], seed=None, filename=None):
-	"""generate a bunch of random unique words"""
+def generate_dictionary(num_words=[1,1,1,1], seed=None, filename=None):
+	"""generate a bunch of random unique words that do not conflict with seed"""
 	if seed is None:
 		seed = []
-
-	ordered_words = []
+	
+	all_words = []
 	for i, num in enumerate(num_words): # for each syllable-count set
 		words = []
 		j = 0
@@ -131,7 +131,7 @@ def generate_dictionary(num_words=[9, 43, 639, 499], seed=None, filename=None):
 				word = new_noun()
 
 			too_similar = False # check that it is not too similar to any other words
-			for w in seed+words:
+			for w in seed+all_words+words:
 				if similar(word, w):
 					too_similar = True
 					break
@@ -149,15 +149,15 @@ def generate_dictionary(num_words=[9, 43, 639, 499], seed=None, filename=None):
 					break
 			j += 1 # count it
 
-		ordered_words += words
-		with open(filename+'.csv','w') as f:
-			for word in ordered_words:
+		all_words += words
+		with open(filename+'.csv', 'w', encoding='utf-8') as f:
+			for word in all_words:
 				f.write(word+'\n')
-	return ordered_words
+	return all_words
 
 
 if __name__ == '__main__':
 	print(check_words('dictionary'))
-	words = generate_dictionary(seed=load_all_words('dictionary'), filename='dictionary/word_cache')
+	words = generate_dictionary(num_words=[10, 45, 639, 499], seed=load_all_words('dictionary'), filename='dictionary/word_cache')
 	for word in words:
 		print(word)

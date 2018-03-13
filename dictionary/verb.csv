@@ -1,637 +1,638 @@
-"be (this is ==, not .equals())","e"""
-do,"u"""
-exist,a``
-happen,"a"""
-become (the act of a state transitioning from falsehood to truth; often used in compound words with states),u``l
-unbecome (the act of a state ceasing to be true; often used in compound words with states),u``m
-begin,"a""m"
-end (stop happening),"u""l"
-can,u-e``
-cause,a``m
-allow (give permission),"u`e"""
-want,"e""l"
-unwant (actively not want an object),"u`u"""
-necessary (the subject must be true in order for the direct object to be true),"a-e"""
-should (how good a decision is),e``l
-shouldn't (how bad a decision is),a``l
-go (from the indirect object to the direct object),u'e``
-possess,e``m
-create,"e'a"""
-relate (to a topic),"e""m"
-active-perceive (look or listen or sniff),"a-a"""
-passive-perceive (see or hear or smell),"u""m"
-give,"a'u"""
-take,e-e``
-use,a`e``
-"many (exclusively applies to things with discrete amounts, like instances)","u`a"""
-say (use a declarative sentence; give information),"e`a"""
-tell (use an imperative sentence; instruct; command),u'u``
-ask (use an interrogative sentence; request information),"a`a"""
-prosper,a`a``
-excuse,e'u``
-sorry,a`u``
-outside (large distance from center),e'e``
-inside (small distance from center),e'a``
-know (believe that something is true with certainty and be right),"e-u"""
-"believe (accept a fact on a subconcious level; contrast with ""think"")","a`u"""
-"think (conciously deciding that a fact is true; contrast with ""believe"")","e'e"""
-disbelieve (have a negative reaction to an idea),"je`u"""
-like,"re`e"""
-dislike,ra`u``
-"long (physical distance; maximum dimension; see ""old"")","le`a"""
-"short (physical distance; maximum dimension; see ""young"")","ra`a"""
-thick (minimum dimension),e'e``l
-thin (minimum dimension),re`u``
-broad (middle dimension),"ra'e"""
-narrow (middle dimension),re'u``
-force (impose one's will to make something be true),"lu-e"""
-much (more; the subject exceeds the direct object by the amount),"pe`u"""
-same (none; the subject equals the direct object numerically),e`u``m
-little (less; the subject is less than the direct object by the amount),pa`u``
-moral,"le'e"""
-evil,"ja'e"""
-skillful,me'e``
-inept (unskillfulness),pe`u``
-apt (fit a situation well),u`e``l
-inapt (fail to fit a situation well),ru'a``
-effective,"pa`a"""
-ineffective,ru'u``
-work (do work or be productive),ju`e``
-bright,"ja`a"""
-dim,"lu'e"""
-appear,"ma'e"""
-disappear,ja-a``
-willing,ra-u``
-averse (to a task),u`e``m
-index (order in a list),"le'u"""
-old (length of time; applies to objects an events as well as people),ju'a``
-young (length of time; applies to objects and events as well as people),a'a``m
-track (follow a path),"a-u""m"
-lead,pa-a``
-find,"a`e""m"
-misplace (lose an object),je'u``
-after (+t),"pe'e"""
-before (-t),"u'u""m"
-low (-z),lu'u``
-high (+z),"ja-e"""
-right (+x),e-a``m
-left (-x),"pa`e"""
-forward (+y),je-u``
-backward (-y),"mu'a"""
-south,pu-e``
-north,"le-u"""
-east,"u`u""m"
-west,ja'e``
-down (angle down from azimuth with indirect object being origin; distance down page),"e'u""l"
-up (angle up from antiazimuth with indirect object being origin; height on page),"ju`u"""
-port (clockwise from straight ahead with indirect object being origin),la`u``
-starboard (widdershins from straight ahead with indirect object being origin),"e-e""l"
-widdershins (angular orientation from the point of view of the direct object),la`e``
-clockwise (angular orientation from the point of view of the direct object),je`u``
-denote (mean in terms of word definitions),me-a``
-next (to be next in an order),"pa'u"""
-persist,"ru`e"""
-quit (give up),u-u``l
-TRUE,"ra'a"""
-"attention-try (e.g. yell at the direct object or flash bright colors; see ""attention"")",a'a``l
-hide,"pu-u"""
-call (digital),"u'u""l"
-related (by blood or familial ties),"a`a""m"
-spend-time (with someone),"u-u""m"
-through,pe`e``
-show,"e'u""m"
-lively (be alive),ju-u``
-dead,la`a``
-change,"lu'a"""
-constancy (stay the same),"pe-a"""
-clothed,a`e``m
-move (around but not necessarily with a direction),"a`e""l"
-jostle (move in place),"ma'a"""
-still,"ru'u"""
-between (between the direct and indirect objects),ra'u``
-among (among the object),la'a``
-oblivious,lu-a``
-write (etch symbols into something; record something in a physical object; save a file),"u-a""m"
-"read (derive meaning from a physical object; load a file; contrast with ""active-read"", which means more specifically read text)","je`a"""
-big,"me'e"""
-small,e-e``m
-attempt (try),u-a``m
-undo,"ju-a"""
-succeed,"a'u""m"
-fail,"la'e"""
-abandon,"u-u""l"
-assign,a`a``l
-own,je'a``
-comprise,"pa-u"""
-point-gesture (point at something),"re'e"""
-help,pu-a``
-hinder,mu-e``
-rescue,ja`e``
-meet,"me'u"""
-greet,pe`a``
-goodbye-say,"pa'e"""
-initiate,"e'e""m"
-"timeliness (for meetings and such, or habitually)",mu`u``
-"tardiness (for meetings and such, or habitually)",le-e``
-activate,ma`e``
-music-make (an instrument),pu'u``
-might (possibly happen),ja-e``
-include,"pu`e"""
-"originate (used to describe things coming ""from"")","u`e""l"
-transition (represents delta vector from indirect object to direct object),u'a``l
-truth-tell,"lu'u"""
-lie (deceive),"ju-u"""
-goof (off),"la'a"""
-group (associate with one another),"a-e""l"
-set (be in a discrete collection with a finite number of other entities),e`a``m
-surround,u'e``l
-defend,ra`a``
-seem,"lu`u"""
-repeat,"pe`a"""
-nice,"lu`e"""
-harsh (mean),lu`u``
-polite,pe'a``
-rude,"ja-a"""
-categorize (place something in a category; interpret something as belonging in a group),"ju`a"""
-systemize (place something in a system; interpret something as being part of a whole),"a-a""m"
-keep,ru`e``
-obey,"e-e""m"
-contain,mu'a``
-study (a subject),ra'e``
-trail (a person or thing),"re-a"""
-important,pa'a``
-unimportant,"ru`a"""
-primary (refers to generally being main or central),"u'a""l"
-fringe (refers to being secondary or minor),"ra-a"""
-notorious,me`u``
-walk,ma-u``
-run,le`a``
-"traverse (typically compounded to make things like ""swim"", ""climb"", ""gallop"", etc.)",ju-a``
-rotate (about the direct object),"ra-e"""
-hand-off (exchange direct object via hands),"ja-u"""
-fast (magnitude of time derivative of position),pe'u``
-slow (unmagnitude of time derivative of position),lu`a``
-befriend (the state of being friends),"e`e""m"
-open,ja`u``
-closed,"pu-a"""
-govern,me'a``
-organize-oneself,e-u``l
-"problem (to pose a challenge, but not necessarily in a bad way)",me-e``
-construct,mu`e``
-hold,"u`e""m"
-service,ra-a``
-sell,"mu-a"""
-buy,"ma-u"""
-romantic-love,"e'a""l"
-platonic-love,le`u``
-employ,"ra`e"""
-plan,"ra-e""l"
-far (physical or numerical),"ru-u""m"
-near (physical or numerical),"pu'e""m"
-example-pose,"ma`u""m"
-wide (angular distance with indirect object being centrum),ja-u``m
-acute (angular closeness with indirect object being centrum),pa`a``m
-business-open (can refer to activity in general),"ju'a""m"
-business-closed (can refer to dormancy in general),"ju`a""l"
-understand,pa'e``l
-gratitude,"je-u""m"
-malice,pu`e``m
-hope,pu`u``l
-cost,"ra-a""m"
-outdoorsness,"ru`e""l"
-indoorsness,la`a``l
-spaciousness,u'ra`u``
-crampedness,u-re'a``
-reason,"ra-a""l"
-craze (act erratically or illogically; does not necessarily refer to mental illness),"le-a""l"
-level (general discrete measure of progress),"pe`e""l"
-experience,ra'a``l
-"sentience (I'm not going to try to define it here; I have a definition, but it cannot be put into words)",ju-u'u``
-suffice (be enough),a-je'a``
-expectation-exceed,"lu`e""l"
-precipitate,pe`u``l
-gust (windiness),"me'a""m"
-smite (lightning strike),me-u``m
-support,ra'e``m
-gift,"ma`e""l"
-"apply (the subject is a process, the direct object is something that undergoes that process)","a-la`a"""
-flail,ja`e``m
-public (be exposed to others),"le-u""m"
-private (be concealed or sheltered from the world),"ja'u""l"
-sector-public (be in the public sector),mu-a``l
-sector-private (be in the private sector),re'a``m
-"frequent (rate at which something oscillates, progresses, or decays with respect to time)",pa'e``m
-"periodic (inverse of rate at which something oscillates, progresses, or decays with respect to time)","pe-u""m"
-common (inverse of time between events in a series of happenings),mu'e``m
-uncommon (time between events in a series of happenings),"lu-u""l"
-shrill (high pitch),"ru`a""m"
-sonorous (low pitch),"pa`u""m"
-unstable (diminished chord or scale),"ra`u""m"
-stable (satisfying chord or scale),pu'u``l
-possible,me'u``m
-sure (Bayesian probability),"le`a""l"
-skeptical,"u`ru`u"""
-together (work as a team),ra`e``l
-separated (individuality),ru-e``m
-consider,re`u``l
-parent (raise),a-ja'e``
-easy (of the subject for the direct object),mu-e``m
-difficult (of the subject for the direct object),"mu'a""l"
-party,"re-a""m"
-foreign,"je'u""l"
-local,"je-e""m"
-concern,me`a``m
-reassure,pu-a``m
-win,"pe'e""l"
-lose (a contest),"pu`u""m"
-storytell,re'u``l
-continue,me-a``l
-cease,ja`u``m
-stand-up (posture),"pa'u""m"
-sit,je`a``l
-prone-lie,"le-u""l"
-whole,"a`la'a"""
-piecewise,re-e``m
-convert (as in a rate or ratio),"pe'e""m"
-"care (believe that something merits concern on a subconcious level; contrast with ""deem-important"")","re'e""m"
-"deem-important (think that something is worthy of concern and act as such; contrast with ""care"")",pe'u'u``
-care-take,le'u``l
-sort,ru`u`e``
-randomize (an order or setup),"ja-e""m"
-fall,pe'u`u``
-deal-strike,la`u``l
-send,ju'e``m
-"recept (receive something sent, not something given)","ja-u""l"
-watch,le-a``m
-foundation-form,ma-e``m
-off-build,"ju`a""m"
-suggest (encourage an action),"ja'e""m"
-powerful (ability to enact change),"pu`a""m"
-unable (to enact change),ru'e``l
-test,"ra'a""l"
-visit,"ja-a""m"
-"orthogonal (straightness, evenness)",lu`a``l
-skew,"ma'a""m"
-return,"mu'e""m"
-mind,"la'a""m"
-bureaucrate (be a bureaucrat in a bureaucracy),"e'pa-e"""
-record,ju-u``m
-"recall (draw a fact from memory; contrast with related concepts ""can-remember"" and ""memorize"")","mu-u""l"
-remember (to do something),le'u``m
-share,"pa`u""l"
-hog,ru'a``m
-decide,"mu`a""m"
-subject (focus on),"ru'e""m"
-ignore,pe`a``l
-divide (into the direct object),la'e``m
-combine,ja'a``m
-broken (having fallen apart or cracked),"la-a""m"
-leisure,"ma`a""l"
-full (of indirect object),ja-e``l
-empty (of indirect object),je-u``m
-time-distance,pa-a``l
-red (stimulation of L cones),"re`e'e"""
-cyan (stimulation of M and S cones),"je'u""m"
-green (stimulation of M cones),"ju'a""l"
-magenta (stimulation of L and S cones),"le`e""l"
-blue (stimulation of S cones),lu-a``l
-yellow (stimulation of L and M cones),"re-a'u"""
-"hue (expressed colloquially as a color name, not an angle)","je`e""m"
-pastel (value of color),"re`u""m"
-dark (darkness of color),a-u`e``m
-chroma (saturation of color),le-u``m
-desaturated (blandness of color),"pa'u""l"
-warm (of a color),"pe-a""l"
-cool (of a color),"ju-u""m"
-opaque,ma'e``l
-transparent,"pa'a""m"
-"color (ojbect is a color value, not a number)",ja-e``m
-involve,"pu-e""m"
-reach,le'e``m
-jump (over the indirect object onto the direct object),"pa-a""l"
-social (amount of socialization),"le-a""m"
-introversion,"ra'e""m"
-note-leave,ru'a``l
-drive,"le`u""l"
-ride,la'u``l
-play (a game or a sport),"pu'a""m"
-free,u-u'u``l
-legislate,u`ra'u``
-further (a goal or agenda),"lu`a""l"
-rescind (progress to a goal or agenda),ra'u``m
-require,"me-u""m"
-wait,"re'a""m"
-generalize,"le-e""m"
-team-up,"ra-e""m"
-split-up,je'u``m
-individual,"ra'u""l"
-add,ju-e``m
-remove,"me`a""m"
-rule-place,pa`a'u``
-violate (a rule),"pa-a""m"
-great (numerically),ma-u``l
-lesser (small numeric value),la`u``m
-agree,ju`u``l
-disagree,pe-a``m
-research,mu'u``m
-cover (physical),"ru-e""m"
-be-in (a situation),lu-u``l
-staff (provide support in a manner not directly related to the main thing),"mu`a""l"
-participate,"ra`a""l"
-cinematograph,ru'e``m
-log-in,"mu'u""m"
-log-out,la-a``l
-significant,"mu'a""m"
-insignificant,"pu-e""l"
-design,la-e``m
-special (uniqueness),ra-u``m
-normal (ununiqueness),"ju'u""m"
-lift,"pe`a""m"
-rest (to be on something),pe'a``l
-matrix (table of numbers),"re`e""l"
-much-of (fraction; majority),"ma-a""m"
-random-generate,"le'u""l"
-dispose,la-a``m
-cut,je`e``l
-describe,"ju-a""m"
-available (time management at a point),lu`e``l
-community-make,"re`u""l"
-particular,ma`a``m
-role-fill,"ma`u""l"
-join (a group),je'u``l
-differ,lu'u``m
-action-take (the direct object is the action),mu-a``m
-massive,"lu-a""m"
-unmassive,ru-a``l
-eat,a-re'a``
-regurgitate,"ju'u""l"
-step (the direct object is what you step on or in),ma'a``l
-communicate,pe`e``l
-draw,"lu'e""m"
-tan (skin-color),re-a``l
-fair (skin-color),re'e``l
-"late (+t; like ""after"", but more numeric and detail-oriented)","le`e""m"
-model (make an image of something),re`e``m
-court (date),"u-pu-e"""
-patronize (as in a customer going to a business),"pu'u""m"
-explain,la'a``l
-"lead-to (be a door; subject is door, direct object is thing on other side, indirect object is thing on this side)","le`a""m"
-"wall-off (be a wall; subject is wall, direct object is thing on other side, indirect object is thing on this side)","pu'u""l"
-intense (computationally),"ma'u""m"
-quick (computationally),la-u``m
-imagine,la`e``l
-think-of (come up with an idea),ju'a``l
-ponder (a subject),"pu-a""l"
-compute (a number or something),ru`a``m
-hot,"re'e-u"""
-cold,re-u``m
-beautiful (of a person),ja`a``m
-ugly (of a person),pe'e``l
-fun-have,a-mu`a``
-birth-give (the physical act),re-e``l
-kill,"lu-a-a"""
-active (not lazy),"ru-a""l"
-lazy,"ra-u""m"
-feel (an emotion or feeling),e`re`a``
-apathetic,le`e``l
-shameful,lu'a``m
-disgusted,"re'u""m"
-fearful,a'lu`u``
-joyful,ma`e``l
-sad,ma`u``l
-surprised,"la'e""l"
-angry,"me`a""l"
-"anticipating (like ""forward-to-look"", but not necessarily positive)",je'e``l
-excited,"ru'u""l"
-interested (in the indirect object),"lu`u""l"
-bored (by the indirect object),le`e``m
-fatigued,ma-a``l
-anxious,"pu'e""l"
-sleepy,"re-u""l"
-"hungry (for food, sex, etc.)","lu`a""m"
-"pleased (basic euphoria from food, music, or sex)",me-u``l
-proud (the happiness associated with feeling like a productive member of society),pa'u``l
-amused,ra'u``l
-satisfied (the good feeling produced by snapping parts together or popping bubble wrap),la-u``l
-schadenfreude-ful,ru`u``l
-nostalgic,"ju-a""l"
-awed,ja-u``l
-courageous,ru-e``l
-curious,"ja-a""l"
-terrified (the brief reaction to jump-scares that comes before actual fear or annoyance),ma`u``m
-apprehensive (hesitative reaction to decisions),"ru-e-u"""
-worried,a`pu'a``
-troubled (have troubled feelings from the direct object),re`a``l
-puzzled (have confusion from the direct object),"le'e`a"""
-substitute,"pe`u""l"
-vibrant (diversity of color),"pe'u""l"
-sleep,pu`a``l
-represent,je`u``m
-insert,re'e`a``
-exclusive,"ra'e""l"
-also-happen (describes things that happen in tandem),ra'e``l
-imply (if-then),u`ma'u``m
-zoom (gotta go fast),"e'mu`a""l"
-beside (to be on the side of),"re-ma'u"""
-sibling-be,u'ru'e``m
-cousin-be,"lu-je-a"""
-shoot (a projectile at something),pe'la`e``
-invent,"me'u`u""m"
-get-educated,"le'lu`u"""
-likely (P-value),"e`ju`u""l"
-remarkable (unlikeliness),ra-re-a``
-hallucinate (dream),a'lu`a``m
-correspond (relate - not write),le-a`a``l
-"in-season (a time of year when something is ""in"")","e-pu`a""l"
-sharp (of an edge or blade),"ra-e'a""m"
-dull (of an edge or blade),"ju'a-a""m"
-throw,"pe`lu-u"""
-intend,"mu'le-u"""
-angularly-large,ru-pa-u``
-angularly-small,ja`pe'a``
-into (direct object is long/deep thing),ru-la'a``
-out-of (direct object is long/deep thing),pa'u'e``m
-revolve,"ja`a`e""l"
-mock,ra-ra'e``
-disease-have,ju`ru'e``
-embark (in the metaphorical sense; begin a long habitual process),ja-re-u``
-finish (end a long habitual process),"pe-je-u"""
-structural-strong (resistance to breaking bending or deforming),le-a'u``l
-"brittle (tendency to shatter when force is applied, without bending)","a'ja'u""m"
-flexible (tendency to bend when force is applied),mu'pa-e``
-firm (tendency to hold shape),mu'ru`e``
-durable (resistance to breaking),pu`ju-u``
-fragile (tendency to break),lu'pe-a``
-strong (ability to exact force),le'ja'u``
-weak (inability to exact force),le'pa-e``
-dexterous,"e`je'e""l"
-clumsy,a-la-u``l
-charismatic,pu-a'a``m
-awkward (as a character trait),"ma'a-a""l"
-stand (structurally e.g. a building),ra'e-a``m
-imprison,"u'la`u""l"
-list,pe`mu'u``
-furnish (as in furniture),ra'a-a``m
-"science (experimentation and learning; yes, this is a verb)",pa-e'a``m
-engineer (solve technical problems),a'ma-u``l
-entrepreneur (solve large-scale problems),"e'le`a""l"
-paint,"je-ju-e"""
-art-make,ra`u'u``l
-magical,la-me`u``
-freeze,"ma-e'u""m"
-burn,ju`lu-a``
-boil,"a`lu'u""m"
-emit,"je-e'e""l"
-hit (intentionally cause a collision with something),"me-ra'u"""
-flash (quickly emit bright light; also applies to sound and other sensations),ra`ra'u``
-loud (brightness; volume; strength),"je-pu`a"""
-quiet (dimness; softness; faintness),"la'a`a""l"
-flicker (any rapid oscillation),"le-u`e""l"
-ceremony-participate,"u-ma-e""m"
-extract,e-je`a``m
-cook (boil; steam; broil; marinate; grill; smoke; bake; toast; microwave),le-la`u``
-wound-suffer,u-la`a``l
-summon,a'mu`u``l
-dismiss,"ju`pa'a"""
-famous,"re-u'a""l"
-obscure,je-lu-u``
-slice,"ru'pe-u"""
-stab (puncture),pe-je-a``
-beware,e'je'a``l
-sex-have,le-ju`e``
-cluster (be physically nearby),la-e-u``m
-control,e-ja'a``m
-"appealing (of a picture, sound, etc.)",pa`la'u``
-"unappealing (of a picture, sound, etc.)",a`pe`u``l
-big-picture,re'a-e``l
-detail-oriented,pe`a`a``m
-conquer,la-lu-a``
-hold-dear,lu`ju'a``
-rebel,"ru'ru-u"""
-clean,pa`re`e``
-dirty,ja`a`a``l
-tidy,"pu'e'e""l"
-messy,"ja-a`e""m"
-transform,"ra`a'u""l"
-attack (a sudden violent engagement),ju-e'e``m
-violent (physical violence),"ju-je'e"""
-oppose (compete with),"a-ja`e""l"
-strike (a swift decisive action),"re'pe-e"""
-base (operations and such),"ru'pu-u"""
-sexually-attract,"ja'a'a""l"
-avoid,u`le-e``l
-wonder,me`je-a``
-consent,"mu'ju-a"""
-fresh,e-pe`u``l
-musty,"ju'le`e"""
-rotten,me`e'u``m
-dispose-of,u`pu'e``m
-poison-apply,mu'pa-u``
-medicate (tend-to; treat; doctor),"mu-lu'e"""
-bury,e-lu'a``l
-exhume (uncover),"ru`pa`a"""
-"forward-to-look (like ""anticipating"", but necessarily positive)",ru'pu`u``
-strive (toward a goal),"lu'e'e""m"
-pure,ru-ja'e``
-tainted,pe'pe'e``
-"entertain (as in a movie, play, or skit)","ju`ma-e"""
-tolerate,"la-ja-a"""
-attention-pay,e'mu-e``m
-code-write (program),"ma`pu'u""m"
-wear-and-tear (gradually sustain minor damage),ra'la`u``l
-resist,mu'ru-a``l
-give-in,pa-ma'u``l
-"downstream (combine it with ""become"" to get ""flow"")",lu'ra-u``l
-cloud,"lu`ra'e""m"
-pollute,le`pu`a``l
-act (behave as though the direct object is true; do things in a certain manner),ru-je'e``m
-encode,"me-ja-u""l"
-parse (interpret information encoded somehow),"la-ru'e""m"
-wave (a hand or a flag),la'mu`a``m
-gesture,ja-ru`a``m
-healthy,"ru`pu'e""m"
-ill,ru-ma-a``l
-internet,pu'ma`u``l
-fancy,ma-je'e``l
-"lame (the slangy definition, not the disability one)",pe'me`u``l
-locked,pa-pa'e``l
-unlocked,me'je`e``m
-live (as in live a life),"mu-ja-e""l"
-expert (a person who is not a layperson),"pu'ru-u""l"
-mediocre (be a layperson),"lu`ru`a""l"
-obvious,"pe're-e""m"
-cryptic,"re-mu`e""m"
-literal,pa'pe-e``l
-technical,"lu-re'e""l"
-sesquipedalian,"pu`pu-a""m"
-brief,"le`re`u""m"
-physical (describes things in the physical realm),ma'pa-e``m
-secret-keep,ja-mu'u``l
-secret-share,je`pe'a``m
-mean (big-picture meaning of things),"le'pa-u""l"
-"name (indirect object is person, direct object is name)",pe`la'u``l
-humid,ra-re-u``l
-unhumid,la'me-a``m
-replace,lu-pu'e``l
-print (convert a digital object into a real one),"ma`re'e""l"
-transcribe,re`re'a``l
-virtual (digitalness),"ju`la'a""m"
-drunk (applies to alcohol as well as other drugs),re'pe`e``m
-sober,"me-me'e""l"
-marry,"ra'ja'a""m"
-dimensional (i.e. 2D or 3D),"mu`le`e""m"
-function (do what one is supposed to),"le`la'u""m"
-peruse,"la-pa'a""l"
-rapid (of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email),"mu'pu-a""l"
-laggy (of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting),"pe-mu`e""l"
-bladder-full (the feeling of having to pee),"la`ja'a""l"
-knowledgeable (the state of knowing a lot of facts about the indirect object),pu'lu`u``l
-ignorant (the quality of not knowing a lot of facts about the indirect object),"me'me'a""m"
-smart (the quality of understanding a lot of abstract concepts regarding the indirect object),ja'pa`e``l
-dumb (the quality of not understanding many abstract concepts regarding the indirect object),la-lu`e``m
-clever (the innate ability to solve riddles and puzzles),ju-re-a``m
-idiotic (the innate inability to solve riddles and puzzles),me-ra`e``m
-intelligent (the innate ability to grasp a subject or concept),ma-ju`a``m
-unintelligent (the innate inability to grasp a subject or concept),"mu-la'e""l"
-stupid ([https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]),le-ru-a``l
-wise (the state of knowing how the world functions and how to live life well),"ru`ma`a""m"
-foolish (the state of not knowing how the world functions and how to live life well),lu-je'a``l
-whisper (speak without voicing),ru'ru-e``l
-shout (raise one's voice),mu-le-e``m
-prepare (as in food),ja-lu'u``l
-sympathize,"ju`ra'a""m"
-challenge,pu`re`e``m
-push,"mu-ja-a""m"
-"voice (concern, gratitude, sorriness, etc.)",lu'pe`a``m
-admire,ru-pe-u``m
-approve,"ju'la-a""m"
-expect,"pu`ma`a""m"
-screen (project or render images onto a surface),"la-lu`e""m"
-remotely-control,pu`je`e``m
-procrastinate,"me-le-u""m"
-rough,ju'pa'e``m
-smooth,le`pu'a``m
-soft (tendency to conform shape),ja-je'e``l
-elastic (tendency to bend and then spring back),"re`pe`e""m"
-viscous,pe'ma-e``m
-classy (the quality of being expensive and unneccesary),ju'ju-u``m
-practical,"pa`mu'e""l"
-congratulate,"me`ru-a""l"
-sarcastic,le'pu'e``l
-"national (subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet)",pa`ju`e``m
-"citizen (subject is citizen, direct object is state/sovereign/polity, like India or The Vatican)","ju'me-e""l"
-liberal (political),la`pu'e``l
-conservative (political),ma`lu'u``l
-mature,"ru'le`u""l"
-have-faith,ja'le'e``m
-complete,pa`me`a``l
-incomplete,ju`ma-a``m
-reference (refer to; consult with),pu-ma-e``m
-arrange (in an order),re-je`e``m
-wet,re`pa-a``m
-dry,"pe-pe-u""m"
-"attention (be occupied by the direct object; see ""attention-try"")","lu'le'u""m"
-synergize (constructively interfere),ju`lu-e``l
-cancel-out (destructively interfere),"ju'lu-a""l"
-progressed (distance or fraction toward a goal or destination),"ma`je'e""m"
-lagging (distance or fraction away from a goal or destination),ju'mu`u``l
+"be (this is ==, not .equals())",a̋
+do,e̋
+exist,ȕ
+happen,ja̋
+become (the act of a state transitioning from falsehood to truth; often used in compound words with states),ȁm
+unbecome (the act of a state ceasing to be true; often used in compound words with states),rȁ
+begin,űm
+end (stop happening),pe̋
+can,ma̋
+cause,mȕ
+allow (give permission),mȁ
+want,űl
+unwant (actively not want an object),ȁl
+necessary (the subject must be true in order for the direct object to be true),e̋m
+should (how good a decision is),lȅ
+shouldn't (how bad a decision is),mű
+go (from the indirect object to the direct object),la̋
+possess,ȕl
+create,a̋m
+relate (to a topic),ra̋
+active-perceive (look or listen or sniff),lű
+passive-perceive (see or hear or smell),jű
+give,ȅm
+take,je̋
+use,jȅ
+"many (exclusively applies to things with discrete amounts, like instances)",e̋l
+say (use a declarative sentence; give information),lȕ
+tell (use an imperative sentence; instruct; command),pȁ
+ask (use an interrogative sentence; request information),pa̋
+prosper,ȅl
+excuse,rű
+sorry,le̋
+outside (large distance from center),re̋
+inside (small distance from center),me̋
+know (believe that something is true with certainty and be right),pű
+"believe (accept a fact on a subconcious level; contrast with ""think"")",ȕm
+"think (conciously deciding that a fact is true; contrast with ""believe"")",a̋l
+disbelieve (have a negative reaction to an idea),jȕm
+like,pȅm
+dislike,lȕl
+"long (physical distance; maximum dimension; see ""old"")",rűm
+"short (physical distance; maximum dimension; see ""young"")",jűm
+thick (minimum dimension),je̋l
+thin (minimum dimension),ma̋m
+broad (middle dimension),le̋l
+narrow (middle dimension),lűl
+force (impose one's will to make something be true),je̋m
+much (more; the subject exceeds the direct object by the amount),rȅl
+same (none; the subject equals the direct object numerically),lȅl
+little (less; the subject is less than the direct object by the amount),mȁm
+moral,lȕm
+evil,àȅ
+skillful,jȅl
+inept (unskillfulness),me̋m
+apt (fit a situation well),jȁl
+inapt (fail to fit a situation well),rȅm
+effective,le̋m
+ineffective,jűl
+work (do work or be productive),pa̋l
+bright,mȁl
+dim,ja̋l
+appear,pűl
+disappear,műl
+willing,műm
+averse (to a task),mȅm
+index (order in a list),mȕl
+old (length of time; applies to objects an events as well as people),lȁm
+young (length of time; applies to objects and events as well as people),la̋m
+track (follow a path),ēa̋
+lead,me̋l
+find,pȕm
+misplace (lose an object),mȅl
+after (+t),pȕl
+before (-t),ra̋l
+low (-z),pȁl
+high (+z),āȕ
+right (+x),rȁl
+left (-x),mȕm
+forward (+y),ja̋m
+backward (-y),rűl
+south,pȁm
+north,rȁm
+east,rȕl
+west,lȅm
+down (angle down from azimuth with indirect object being origin; distance down page),lȁl
+up (angle up from antiazimuth with indirect object being origin; height on page),rȕm
+port (clockwise from straight ahead with indirect object being origin),lűm
+starboard (widdershins from straight ahead with indirect object being origin),la̋l
+widdershins (angular orientation from the point of view of the direct object),pe̋m
+clockwise (angular orientation from the point of view of the direct object),pa̋m
+denote (mean in terms of word definitions),re̋m
+next (to be next in an order),pe̋l
+persist,jȕl
+quit (give up),ūȕ
+TRUE,pȅl
+"attention-try (e.g. yell at the direct object or flash bright colors; see ""attention"")",jȅm
+hide,pűm
+call (digital),jȁm
+related (by blood or familial ties),ra̋m
+spend-time (with someone),re̋l
+through,ūma̋
+show,èűl
+lively (be alive),èra̋
+dead,ūe̋m
+change,rùȅ
+constancy (stay the same),àma̋
+clothed,ùȁl
+move (around but not necessarily with a direction),réű
+jostle (move in place),jāe̋
+still,ùlű
+between (between the direct and indirect objects),álű
+among (among the object),ráȕ
+oblivious,jùȕ
+write (etch symbols into something; record something in a physical object; save a file),mūȕ
+"read (derive meaning from a physical object; load a file; contrast with ""active-read"", which means more specifically read text)",máa̋
+big,èpȕ
+small,ùmȕ
+attempt (try),méa̋
+undo,ùa̋m
+succeed,pēȕ
+fail,àrű
+abandon,éra̋
+assign,árȕ
+own,júȁ
+comprise,āpȅ
+point-gesture (point at something),mùe̋
+help,āpe̋
+hinder,àe̋m
+rescue,āȁm
+meet,álȕ
+greet,méȕ
+goodbye-say,jùe̋
+initiate,láe̋
+"timeliness (for meetings and such, or habitually)",ùa̋l
+"tardiness (for meetings and such, or habitually)",mūa̋
+activate,làa̋
+music-make (an instrument),ále̋
+might (possibly happen),léa̋l
+include,èlȅm
+"originate (used to describe things coming ""from"")",jújȕ
+transition (represents delta vector from indirect object to direct object),pūlȅ
+truth-tell,ēja̋m
+lie (deceive),rárȅ
+goof (off),újȕl
+group (associate with one another),ápa̋m
+set (be in a discrete collection with a finite number of other entities),ēlȁm
+surround,jāra̋
+defend,rùlȁ
+seem,rēlȅ
+repeat,lèa̋l
+nice,mùa̋l
+harsh (mean),ūmȅl
+polite,lājȕ
+rude,épȅl
+categorize (place something in a category; interpret something as belonging in a group),ēmȁl
+systemize (place something in a system; interpret something as being part of a whole),péȁl
+keep,jèe̋m
+obey,rēpȅ
+contain,mùma̋
+study (a subject),jāpȁ
+trail (a person or thing),ēle̋m
+important,rárȁ
+unimportant,ùma̋m
+primary (refers to generally being main or central),ùjȕm
+fringe (refers to being secondary or minor),lámű
+notorious,jūȕl
+walk,jùlű
+run,mèrȅ
+"traverse (typically compounded to make things like ""swim"", ""climb"", ""gallop"", etc.)",rùrȅ
+rotate (about the direct object),lùrű
+hand-off (exchange direct object via hands),rèlȁ
+fast (magnitude of time derivative of position),jáje̋
+slow (unmagnitude of time derivative of position),rēlȕ
+befriend (the state of being friends),ùma̋l
+open,lère̋
+closed,ára̋m
+govern,ála̋l
+organize-oneself,léla̋
+"problem (to pose a challenge, but not necessarily in a bad way)",émȁm
+construct,jūjű
+hold,úpȅm
+service,lámȁ
+sell,ārȁm
+buy,pée̋l
+romantic-love,lēȅm
+platonic-love,rāpȅ
+employ,jūa̋l
+plan,lēma̋
+far (physical or numerical),jàmȅ
+near (physical or numerical),páȅm
+example-pose,rúla̋
+wide (angular distance with indirect object being centrum),rùȁl
+acute (angular closeness with indirect object being centrum),pájű
+business-open (can refer to activity in general),māja̋
+business-closed (can refer to dormancy in general),lēpȁ
+understand,rúrȅ
+gratitude,jāȕl
+malice,jūűm
+hope,mùlȁ
+cost,púja̋
+outdoorsness,mūjȕ
+indoorsness,rāe̋m
+spaciousness,mépȁ
+crampedness,lùmű
+reason,máȅm
+craze (act erratically or illogically; does not necessarily refer to mental illness),ūmȁl
+level (general discrete measure of progress),mējȁ
+experience,júrȅ
+"sentience (I'm not going to try to define it here; I have a definition, but it cannot be put into words)",úlȁl
+suffice (be enough),péȅl
+expectation-exceed,pāpa̋
+precipitate,lùrȕ
+gust (windiness),péȕl
+smite (lightning strike),jāpe̋
+support,àlȕm
+gift,rēȅl
+"apply (the subject is a process, the direct object is something that undergoes that process)",púlȅ
+flail,làȅm
+public (be exposed to others),ráje̋
+private (be concealed or sheltered from the world),lāmȁ
+sector-public (be in the public sector),èpa̋m
+sector-private (be in the private sector),púpű
+"frequent (rate at which something oscillates, progresses, or decays with respect to time)",álȁl
+"periodic (inverse of rate at which something oscillates, progresses, or decays with respect to time)",lùa̋l
+common (inverse of time between events in a series of happenings),ùre̋m
+uncommon (time between events in a series of happenings),jūpȕ
+shrill (high pitch),pūȕm
+sonorous (low pitch),ēmȁm
+unstable (diminished chord or scale),jújȅ
+stable (satisfying chord or scale),làmű
+possible,pèȁl
+sure (Bayesian probability),jēja̋
+skeptical,rálȕ
+together (work as a team),árȁl
+separated (individuality),àjűm
+consider,mùjȁ
+parent (raise),jēűm
+easy (of the subject for the direct object),èrȅl
+difficult (of the subject for the direct object),jūȕm
+party,ámȁm
+foreign,rājȕ
+local,lùrȅ
+concern,jáa̋m
+reassure,púpa̋
+win,àme̋l
+lose (a contest),māȕm
+storytell,rāȁl
+continue,lájȁ
+cease,léȕm
+stand-up (posture),púlȁ
+sit,éja̋l
+prone-lie,léra̋
+whole,mājȕ
+piecewise,làa̋m
+convert (as in a rate or ratio),ērȁl
+"care (believe that something merits concern on a subconcious level; contrast with ""deem-important"")",múmȕ
+"deem-important (think that something is worthy of concern and act as such; contrast with ""care"")",rāja̋
+care-take,pàe̋m
+sort,rūlȁ
+randomize (an order or setup),pàe̋l
+fall,úrűm
+deal-strike,ūpȅl
+send,mára̋
+"recept (receive something sent, not something given)",lūjȅ
+watch,lùpű
+foundation-form,júe̋l
+off-build,pàpȕ
+suggest (encourage an action),lárȁ
+powerful (ability to enact change),māa̋l
+unable (to enact change),jélű
+test,ēma̋m
+visit,jēűl
+"orthogonal (straightness, evenness)",lēlȕ
+skew,lèrȅ
+return,jèe̋l
+mind,ēpȁm
+bureaucrate (be a bureaucrat in a bureaucracy),rúja̋
+record,áműm
+"recall (draw a fact from memory; contrast with related concepts ""can-remember"" and ""memorize"")",jáȅm
+remember (to do something),jāpű
+share,lūȁm
+hog,rùpȁ
+decide,ūműm
+subject (focus on),rūlȕ
+ignore,lúpa̋
+divide (into the direct object),júrȕ
+combine,mèrȕm
+broken (having fallen apart or cracked),púmȁl
+leisure,mélȕl
+full (of indirect object),ràme̋m
+empty (of indirect object),pūrȅm
+time-distance,mùjȕl
+red (stimulation of L cones),pùmȅl
+cyan (stimulation of M and S cones),lèjȕm
+green (stimulation of M cones),lúpȁl
+magenta (stimulation of L and S cones),jēje̋m
+blue (stimulation of S cones),rērűl
+yellow (stimulation of L and M cones),pēla̋m
+"hue (expressed colloquially as a color name, not an angle)",rūpe̋l
+pastel (value of color),pēmȅm
+dark (darkness of color),rújȕl
+chroma (saturation of color),rēpȕm
+desaturated (blandness of color),rūra̋m
+warm (of a color),māpűl
+cool (of a color),páje̋m
+opaque,lūlȕl
+transparent,lūmȁm
+"color (ojbect is a color value, not a number)",rùlȕl
+involve,lèrȁm
+reach,màrȁl
+jump (over the indirect object onto the direct object),lāre̋m
+social (amount of socialization),lūma̋l
+introversion,mèjȕm
+note-leave,mūmȕm
+drive,màmȕl
+ride,pēje̋m
+play (a game or a sport),rélȅm
+free,jújűm
+legislate,pérűm
+further (a goal or agenda),múlȕl
+rescind (progress to a goal or agenda),rērȕm
+require,jéla̋m
+wait,mùműm
+generalize,pámȅl
+team-up,púlȕl
+split-up,rárűl
+individual,māme̋m
+add,màme̋m
+remove,pèja̋l
+rule-place,rùpȕm
+violate (a rule),lélȕl
+great (numerically),pèrȁl
+lesser (small numeric value),léjűm
+agree,pépȕm
+disagree,rùmȁm
+research,màme̋l
+cover (physical),mùmȕl
+be-in (a situation),rāpȅl
+staff (provide support in a manner not directly related to the main thing),māmȁl
+participate,lèjȁl
+cinematograph,rápe̋m
+log-in,jùpűm
+log-out,mújȁl
+significant,mūpűm
+insignificant,lúpȕm
+design,jápűl
+special (uniqueness),mēpȁl
+normal (ununiqueness),lērȁm
+lift,lùjȅm
+rest (to be on something),mémȁm
+matrix (table of numbers),mēra̋l
+much-of (fraction; majority),jéjűl
+random-generate,pārűl
+dispose,mēmȁm
+cut,lājȅl
+describe,māmȕm
+available (time management at a point),lūjȕl
+community-make,èjāű
+particular,jéle̋m
+role-fill,lāme̋m
+join (a group),léma̋l
+differ,lēja̋l
+action-take (the direct object is the action),jāja̋l
+massive,rùrűl
+unmassive,jāre̋l
+eat,lùjȁl
+regurgitate,làjȁm
+step (the direct object is what you step on or in),rèjűm
+communicate,làja̋m
+draw,jèrȁm
+tan (skin-color),jūpȅl
+fair (skin-color),lúpȅl
+"late (+t; like ""after"", but more numeric and detail-oriented)",méle̋l
+model (make an image of something),rūpa̋l
+court (date),mūjȁm
+patronize (as in a customer going to a business),rēja̋l
+explain,jélűl
+"lead-to (be a door; subject is door, direct object is thing on other side, indirect object is thing on this side)",lùre̋l
+"wall-off (be a wall; subject is wall, direct object is thing on other side, indirect object is thing on this side)",làlȕm
+intense (computationally),jàlȕl
+quick (computationally),pāpa̋m
+imagine,lùle̋l
+think-of (come up with an idea),mājȁl
+ponder (a subject),lēpe̋m
+compute (a number or something),lùma̋m
+hot,jàjȅl
+cold,lèlűl
+beautiful (of a person),jàre̋l
+ugly (of a person),rája̋m
+fun-have,rére̋l
+birth-give (the physical act),rèma̋l
+kill,múműm
+active (not lazy),rūpȅl
+lazy,lāre̋l
+feel (an emotion or feeling),pēma̋m
+apathetic,járȅm
+shameful,pérȁl
+disgusted,lūpȅl
+fearful,rámȁl
+joyful,mēlȁl
+sad,pápűl
+surprised,lēma̋m
+angry,rēle̋m
+"anticipating (like ""forward-to-look"", but not necessarily positive)",pèpȁm
+excited,làmȅm
+interested (in the indirect object),mūpa̋m
+bored (by the indirect object),rème̋m
+fatigued,úmūű
+anxious,pàpȅl
+sleepy,múrȕl
+"hungry (for food, sex, etc.)",rámȅl
+"pleased (basic euphoria from food, music, or sex)",pàrűl
+proud (the happiness associated with feeling like a productive member of society),pálȕm
+amused,mèmȕm
+satisfied (the good feeling produced by snapping parts together or popping bubble wrap),júrȁl
+schadenfreude-ful,jépȅm
+nostalgic,mùra̋l
+awed,jèrȅm
+courageous,jélȕl
+curious,jàme̋l
+terrified (the brief reaction to jump-scares that comes before actual fear or annoyance),rère̋m
+apprehensive (hesitative reaction to decisions),léjȅm
+worried,múme̋m
+troubled (have troubled feelings from the direct object),rējȕl
+puzzled (have confusion from the direct object),pùlȕl
+adore (find something cute),rèlȁl
+substitute,lúmȁm
+vibrant (diversity of color),lùrȅl
+sleep,rùja̋l
+represent,làrȁl
+insert,júmȁl
+exclusive,pāme̋l
+also-happen (describes things that happen in tandem),lēje̋l
+imply (if-then),rúmȕm
+zoom (gotta go fast),rúműm
+beside (to be on the side of),rūjȅm
+sibling-be,pāla̋m
+cousin-be,rárȁl
+shoot (a projectile at something),lálȕm
+invent,èpūa̋
+get-educated,pèra̋l
+likely (P-value),ràrűm
+remarkable (unlikeliness),mùjȁl
+hallucinate (dream),lùrȁl
+correspond (relate - not write),réma̋m
+"in-season (a time of year when something is ""in"")",múmȁm
+sharp (of an edge or blade),rājȁl
+dull (of an edge or blade),mūle̋l
+throw,mùpȕm
+intend,jēpȅm
+angularly-large,lémȕl
+angularly-small,pùéȕ
+into (direct object is long/deep thing),ràlȅl
+out-of (direct object is long/deep thing),ràpe̋m
+revolve,jārűl
+mock,lēma̋l
+disease-have,jùlȅl
+embark (in the metaphorical sense; begin a long habitual process),àlèlȁ
+finish (end a long habitual process),làūpe̋
+structural-strong (resistance to breaking bending or deforming),èrūra̋
+"brittle (tendency to shatter when force is applied, without bending)",rāùrȕ
+flexible (tendency to bend when force is applied),jèéȅm
+firm (tendency to hold shape),jáèjȕ
+durable (resistance to breaking),āémȕl
+fragile (tendency to break),ùlūa̋l
+strong (ability to exact force),rémāȁ
+weak (inability to exact force),àjàmȕ
+dexterous,pēérȁ
+clumsy,pūērȕ
+charismatic,lèējȅ
+awkward (as a character trait),ūēműl
+stand (structurally e.g. a building),àráje̋
+imprison,àrēma̋
+list,jàáa̋l
+furnish (as in furniture),ràpēȁ
+"science (experimentation and learning; yes, this is a verb)",lúēȁm
+engineer (solve technical problems),éléűm
+entrepreneur (solve large-scale problems),mājéȁ
+paint,lùùmȅ
+art-make,jēèle̋
+magical,ájùpa̋
+freeze,jépùjű
+burn,élúra̋m
+boil,mùūrűl
+emit,úpùmȕm
+hit (intentionally cause a collision with something),rējūlȅ
+flash (quickly emit bright light; also applies to sound and other sensations),rūùrȅm
+loud (brightness; volume; strength),pāmàlȅ
+quiet (dimness; softness; faintness),ālūje̋l
+flicker (any rapid oscillation),pálūjȅ
+ceremony-participate,pējèűm
+extract,émāmȅl
+cook (boil; steam; broil; marinate; grill; smoke; bake; toast; microwave),álēpȅl
+wound-suffer,rèàrűm
+summon,pámáe̋l
+dismiss,rúújȅm
+famous,jèlújȁ
+obscure,ārūma̋m
+slice,múlūjȕ
+stab (puncture),ēpēlűl
+beware,mājūme̋
+sex-have,péájűl
+cluster (be physically nearby),pùrálű
+control,júlélȁ
+"appealing (of a picture, sound, etc.)",láréa̋m
+"unappealing (of a picture, sound, etc.)",ùrálȅl
+big-picture,māùpȁm
+detail-oriented,mùmúra̋
+conquer,ūràme̋m
+hold-dear,málūle̋
+rebel,rùjája̋
+clean,mùjàpe̋
+dirty,jámēa̋l
+tidy,réūpȅm
+messy,lūmúȁl
+transform,pèùpa̋m
+attack (a sudden violent engagement),pēújȕm
+violent (physical violence),púàrȁl
+oppose (compete with),pújāmȅ
+strike (a swift decisive action),lùrāȅl
+base (operations and such),lēmàűm
+sexually-attract,èmūpűl
+avoid,rémùa̋m
+wonder,ràméme̋
+consent,jēmérȕ
+fresh,māpūȕm
+musty,mārèpa̋
+rotten,pūmùlȁ
+dispose-of,pūrāpa̋
+poison-apply,épùrȁl
+medicate (tend-to; treat; doctor),lūméűl
+bury,pèlūlȕ
+exhume (uncover),lūmérȕ
+"forward-to-look (like ""anticipating"", but necessarily positive)",mèàlȁm
+strive (toward a goal),màlùrű
+pure,rèère̋l
+tainted,ùlúlȁm
+"entertain (as in a movie, play, or skit)",múúja̋m
+tolerate,jūlārȕ
+attention-pay,āpápe̋l
+code-write (program),màpùűm
+wear-and-tear (gradually sustain minor damage),jūlējű
+resist,pùpùre̋
+give-in,jūrùȕm
+"downstream (combine it with ""become"" to get ""flow"")",júrājȕ
+cloud,ējère̋l
+pollute,mālúla̋
+act (behave as though the direct object is true; do things in a certain manner),júlērȅ
+encode,rējālȁ
+parse (interpret information encoded somehow),mēmēje̋
+wave (a hand or a flag),lémùpȁ
+gesture,rērāre̋
+healthy,ràrāȕm
+ill,ápēpȅm
+internet,rāājȁm
+fancy,màpèlȅ
+"lame (the slangy definition, not the disability one)",ràpūle̋
+locked,àmára̋l
+unlocked,mēlāra̋
+live (as in live a life),léárȕm
+expert (a person who is not a layperson),èpèpe̋l
+mediocre (be a layperson),rēpùle̋
+obvious,pēmūpe̋
+cryptic,rēmāle̋
+literal,rápálȁl
+technical,lāpāpȁl
+sesquipedalian,pàlàjűl
+brief,pàmálȕl
+physical (describes things in the physical realm),jújūlűl
+secret-keep,rūjèrȕl
+secret-share,jéjējȅl
+mean (big-picture meaning of things),màlējȁl
+"name (indirect object is person, direct object is name)",múlāpȁm
+humid,lūjàjȕl
+unhumid,rùléla̋l
+replace,pājèpűl
+print (convert a digital object into a real one),jèrère̋l
+transcribe,jélèja̋m
+virtual (digitalness),mèpùrȅm
+drunk (applies to alcohol as well as other drugs),rérùlűm
+sober,méjūpȁl
+marry,lēràjȅm
+dimensional (i.e. 2D or 3D),pārèma̋l
+function (do what one is supposed to),pálàpe̋l
+peruse,māléje̋m
+rapid (of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email),mépámȕl
+laggy (of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting),párúpa̋l
+bladder-full (the feeling of having to pee),mèpūla̋l
+knowledgeable (the state of knowing a lot of facts about the indirect object),pápùlȕm
+ignorant (the quality of not knowing a lot of facts about the indirect object),ràmàrȁm
+smart (the quality of understanding a lot of abstract concepts regarding the indirect object),rárējȁl
+dumb (the quality of not understanding many abstract concepts regarding the indirect object),ràpúmȅl
+clever (the innate ability to solve riddles and puzzles),jēpéma̋l
+idiotic (the innate inability to solve riddles and puzzles),járùmȕl
+intelligent (the innate ability to grasp a subject or concept),rújēlűm
+unintelligent (the innate inability to grasp a subject or concept),pàjápȁl
+stupid ([https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]),mājéműm
+wise (the state of knowing how the world functions and how to live life well),lérélȅl
+foolish (the state of not knowing how the world functions and how to live life well),jàlùmȅl
+whisper (speak without voicing),pāpèle̋m
+shout (raise one's voice),jàpèla̋l
+prepare (as in food),làpúpa̋l
+sympathize,mèréje̋m
+challenge,lāmùpe̋m
+push,rúpálȅm
+"voice (concern, gratitude, sorriness, etc.)",ràrēpȅm
+admire,rèréjűm
+approve,júlérȅm
+expect,répàjűm
+screen (project or render images onto a surface),rējàrȕm
+remotely-control,jájàle̋m
+procrastinate,pūjēma̋l
+rough,mūlūpa̋l
+smooth,pérūjȁm
+soft (tendency to conform shape),rárālȁl
+elastic (tendency to bend and then spring back),lūràle̋l
+viscous,jújūműm
+classy (the quality of being expensive and unneccesary),mārāma̋m
+practical,mājērȕm
+congratulate,jēlúmȅm
+sarcastic,rúmùpȕm
+"national (subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet)",júpālűl
+"citizen (subject is citizen, direct object is state/sovereign/polity, like India or The Vatican)",jàrāla̋l
+liberal (political),mèrūpȕm
+conservative (political),mājèpȕl
+mature,jámēla̋m
+have-faith,lúmùrȕm
+complete,mámèlȁl
+incomplete,mùpápa̋m
+reference (refer to; consult with),léjúle̋m
+arrange (in an order),jùpàje̋l
+wet,lálàrȕl
+dry,pēpùpe̋l
+"attention (be occupied by the direct object; see ""attention-try"")",rúlálűl
+synergize (constructively interfere),lāmēla̋m
+cancel-out (destructively interfere),pépùrűm
+progressed (distance or fraction toward a goal or destination),lājālȅm
+lagging (distance or fraction away from a goal or destination),lùmēlȅl

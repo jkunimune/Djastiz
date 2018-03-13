@@ -33,7 +33,7 @@ def translate_quoted(phrase, eng_to_dja={}):
 		phrase = ''
 		for i in range(0, len(pieces)-1, 2):
 			try:
-				translated = translate_line(pieces[i+1], eng_to_dja)
+				translated, melody = translate_line(pieces[i+1], eng_to_dja)
 				phrase += pieces[i] + '[`' + translated + '`](#' + translated + ')'
 			except ValueError as e:
 				phrase += pieces[i] + '"' + pieces[i+1] + '"'
@@ -50,7 +50,7 @@ def load_dictionary(directory):
 	all_filenames.remove('compound_word.csv')
 	all_filenames.append('compound_word.csv') #do the compound words last
 	for filename in all_filenames:
-		with open(directory+'\\'+filename,'r') as csvfile:
+		with open(directory+'\\'+filename, 'r', encoding='utf-8') as csvfile:
 			for line in csv.reader(csvfile):
 				if len(line) < 2:
 					raise ValueError("There are not enough commas in {}".format(line))
@@ -86,6 +86,7 @@ def translate_line(eng_sent, english_to_djastiz, hist=None):
 	frequencies = {} if hist==None else hist
 	eng_words = eng_sent.split()
 	dja_line = ""
+	melody = []
 	for eng_word in eng_words:
 		if eng_word in english_to_djastiz:
 			dja_word = english_to_djastiz[eng_word]
@@ -98,7 +99,7 @@ def translate_line(eng_sent, english_to_djastiz, hist=None):
 				raise ValueError("Missing word in '{}': There is no word for '{}'".format(eng_sent.strip(), eng_word))
 			else:
 				dja_line += eng_word+" "
-	return dja_line[:-1]
+	return dja_line[:-1], melody
 
 
 def translate(filename, english_to_djastiz, hist=None, arr=None):
@@ -106,11 +107,14 @@ def translate(filename, english_to_djastiz, hist=None, arr=None):
 	and return a word frequency histogram and an array of syllable counts from encountered sentences"""
 	frequencies = {} if hist==None else hist
 	syl_counts = [] if arr==None else arr
+	notes = []
 	new_file = ""
-	with open(filename,'r') as f:
+	with open(filename, 'r', encoding='utf-8') as f:
 		for i, line in enumerate(f):
 			if i%4 == 2:
-				new_file += translate_line(eng_sent, english_to_djastiz, hist=frequencies)+'\n'
+				sentence, melody = translate_line(eng_sent, english_to_djastiz, hist=frequencies)
+				new_file += sentence+'\n'
+				notes += melody
 			else:
 				new_file += line
 			if i%4 == 1:
@@ -120,20 +124,25 @@ def translate(filename, english_to_djastiz, hist=None, arr=None):
 					n_e, n_d = line[line.rindex('[')+1:line.rindex(']')].split('->')
 					syl_counts.append([int(n_e), int(n_d)])
 
-	with open(filename,'w') as f:
+	with open(filename, 'w', encoding='utf-8') as f:
 		f.write(new_file)
+	save_to_midi(notes, filename)
 	return frequencies, syl_counts
+
+
+def save_to_midi(notes, filename):
+	pass
 
 
 def reverse_dictionary(djastiz_to_english, english_to_djastiz, djastiz_to_pos, english_to_notes, filename):
 	"""create a Djastiz-to-English dictionary and save it to filename"""
 	alphabetized = sorted(djastiz_to_english.keys())
-	with open(filename,'w') as f:
+	with open(filename, 'w', encoding='utf-8') as f:
 		f.write("# Word Guide\n\n")
 		f.write("This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.\n\n")
 		f.write("`"+translate_line(
 				"dictionary what-kind to Modern-Djastiz obj English ind who complete this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind Modern-Djastiz obj say alphabet which-one Latium one arrange by . one-that-gets- reference of-which need person of-which society who Modern-Djastiz obj after any sbj obj",
-				english_to_djastiz)+"`\n")
+				english_to_djastiz)[0]+"`\n")
 		f.write("______\n")
 		for djastiz in alphabetized:
 			f.write("\n### `{}`\n_{}_  \n\t**{}**".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))

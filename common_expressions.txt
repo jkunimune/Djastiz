@@ -1,107 +1,107 @@
 Excuse me. [3->2]
 please excuse
-vub thez
+pȕ rű
 
 You are excused. [4->2]
 let excuse
-yidh thez
+jȁ rű
 
 Thank you. [2->1]
 gratitude
-mosh
+jāȕl
 
 You're welcome. [3->1]
 me obj
-sh u
+rāl è
 
 Sorry [apology]. [3->1]
 sorry
-nuem
+le̋
 
 Apology accepted. [7->1]
 me obj
-sh u
+rāl è
 
 Don't worry about it. [6->3]
 ! not sorry
-bu be nuem
+rȅ èm le̋
 
 Sorry [sympathetic]. [2->1]
 sympathize
-jos
+mèréje̋m
 
 I don't speak Djastiz very well. [9->8]
 please to much than to frequent ly talk
-vub e ut ia e vel au gidzhaps
+pȕ á rȅl pá á álȁl púm làja̋mmél
 
 What does that mean? [4->2]
 ? denote
-ung eth
+ȁ re̋m
 
 Fuck. [1->1]
 fuck
-oj
+jȕ
 
 Fuck you. [2->2]
 fuck you
-oj k
+jȕ mūm
 
 Hooray. [2-1]
 bless
-ja
+rȕ
 
 Hi. [1->1]
 merry
-oth
+pȅ
 
 Bye. [1->1]
 good
-thu
+mȅ
 
 Good morning. [3->2]
 merry morning
-oth voy
+pȅ lè
 
 Good day. [2->2]
 merry daytime
-oth vorng
+pȅ lū
 
 Good evening. [3->2]
 merry evening
-oth dhoub
+pȅ pám
 
 Good night. [2->3]
 good to sleep
-thu e shoh
+mȅ á rùja̋l
 
 Happy Birthday. [4->4]
 merry birthday
-oth futhjopsngrag
+pȅ méle̋llárèma̋l
 
 Merry Christmas. [4->3]
 merry Christmas
-oth krismes
+pȅ krismes
 
 How are you? [3->3]
 ? how-much prosper
-ung lia ak
+ȁ púlpá ȅl
 
 Well. [1->1]
 prosper
-ak
+ȅl
 
 Not well. [2->2]
 not do
-be ssr
+èm e̋
 
 What about you? [4->2]
 ? you sbj
-ung k r
+ȁ mūm ù
 
 My name is Claude. [4->5]
 name `` Bloo " obj
-sspoj `` Bloo " u
+múlāpȁm `` Bloo " è
 
 Where is the bathroom? [5->5]
 ? what on bathroom sbj
-ung l ep fluirz'huy r
+ȁ púl jē rápúlèlàlȕmmùjàpe̋ ù
