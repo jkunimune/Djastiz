@@ -3,6 +3,10 @@ import csv
 import matplotlib.pyplot as plt
 import numpy as np
 import os
+import random
+
+
+TONES = {u'\u030F':0, u'\u0300':4, u'\u0304':7, u"\u0301":10, u'\u030B':12}
 
 
 def compound(english, components, eng_to_dja={}, pts_o_spch={}):
@@ -33,7 +37,7 @@ def translate_quoted(phrase, eng_to_dja={}):
 		phrase = ''
 		for i in range(0, len(pieces)-1, 2):
 			try:
-				translated, melody = translate_line(pieces[i+1], eng_to_dja)
+				translated, melody = translate_line(pieces[i+1], eng_to_dja, {})
 				phrase += pieces[i] + '[`' + translated + '`](#' + translated + ')'
 			except ValueError as e:
 				phrase += pieces[i] + '"' + pieces[i+1] + '"'
@@ -81,7 +85,29 @@ def load_dictionary(directory):
 	return eng_to_dja, dja_to_eng, pts_o_spch, notes
 
 
-def translate_line(eng_sent, english_to_djastiz, hist=None):
+def word_to_notes(djastiz, djastiz_to_pos):
+	"""return a list of pitch numbers and lengths for this word"""
+	part_of_speech = djastiz_to_pos.get(djastiz, None)
+	if part_of_speech == 'tense-marker':
+		for char in djastiz:
+			if char in TONES:
+				if TONES[char] == 0:
+					return [(None, 1), (0, .5)]
+				else:
+					return [(TONES[char], .5)]
+	elif part_of_speech in {'postposition','conjunction','fasteners','qualifiers'}:
+		for char in djastiz:
+			if char in TONES:
+				return [(TONES[char], .5)]
+	else:
+		notes = []
+		for char in djastiz:
+			if char in TONES:
+				notes.append(TONES[char])
+		return [(note, 1/min(4,len(notes))) for note in notes]
+
+
+def translate_line(eng_sent, english_to_djastiz, djastiz_to_pos, hist=None):
 	"""return the word-for-word translation of this line"""
 	frequencies = {} if hist==None else hist
 	eng_words = eng_sent.split()
@@ -92,6 +118,7 @@ def translate_line(eng_sent, english_to_djastiz, hist=None):
 			dja_word = english_to_djastiz[eng_word]
 			dja_line += dja_word
 			if not eng_word.endswith("-"):
+				melody += word_to_notes(dja_line[dja_line.rfind(' ')+1:], djastiz_to_pos)
 				dja_line += " "
 			frequencies[dja_word] = frequencies.get(dja_word,0)+1
 		else:
@@ -102,7 +129,7 @@ def translate_line(eng_sent, english_to_djastiz, hist=None):
 	return dja_line[:-1], melody
 
 
-def translate(filename, english_to_djastiz, hist=None, arr=None):
+def translate(filename, english_to_djastiz, djastiz_to_pos, djastiz_to_hist=None, arr=None):
 	"""replace every %4=2 line with the word-for-word translation of the previous line
 	and return a word frequency histogram and an array of syllable counts from encountered sentences"""
 	frequencies = {} if hist==None else hist
@@ -112,9 +139,9 @@ def translate(filename, english_to_djastiz, hist=None, arr=None):
 	with open(filename, 'r', encoding='utf-8') as f:
 		for i, line in enumerate(f):
 			if i%4 == 2:
-				sentence, melody = translate_line(eng_sent, english_to_djastiz, hist=frequencies)
+				sentence, melody = translate_line(eng_sent, english_to_djastiz, djastiz_to_pos, hist=frequencies)
 				new_file += sentence+'\n'
-				notes += melody
+				notes += melody + [(None,4)]
 			else:
 				new_file += line
 			if i%4 == 1:
@@ -131,7 +158,25 @@ def translate(filename, english_to_djastiz, hist=None, arr=None):
 
 
 def save_to_midi(notes, filename):
-	pass
+	print(filename.replace('txt','mid'))
+	with open(filename.replace('txt', 'mid'), 'wb') as f:
+		f.write(b'MThd\x00\x00\x00\x06\x00\x00\x00\x01\x00\x78')
+		track_chunk = b''
+		tonic = 60
+		delay = 0
+		for note, length in notes:
+			if note is None:
+				if length < 1:
+					track_chunk += bytes([round(length*120), 0b10000000, 0, 0])
+				else:
+					num = round(length*120)
+					track_chunk += bytes([128+num//128, num%128, 0b10000000, 0, 0])
+				tonic = random.randint(58,62)
+			else:
+				track_chunk += bytes([0,                 0b10010000, tonic+note, 96]) #note on
+				track_chunk += bytes([round(length*120), 0b10000000, tonic+note, 96]) #note off
+		track_chunk += b'\x00\xFF\x2F\x00'
+		f.write(b'MTrk' + (len(track_chunk)).to_bytes(4,'big') + track_chunk)
 
 
 def reverse_dictionary(djastiz_to_english, english_to_djastiz, djastiz_to_pos, english_to_notes, filename):
@@ -139,10 +184,10 @@ def reverse_dictionary(djastiz_to_english, english_to_djastiz, djastiz_to_pos, e
 	alphabetized = sorted(djastiz_to_english.keys())
 	with open(filename, 'w', encoding='utf-8') as f:
 		f.write("# Word Guide\n\n")
-		f.write("This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.\n\n")
+		f.write("This complete Musical-Djastiz-to-English dictionary gives the part of speech and English meaning of each Musical Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.\n\n")
 		f.write("`"+translate_line(
-				"dictionary what-kind to Modern-Djastiz obj English ind who complete this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind Modern-Djastiz obj say alphabet which-one Latium one arrange by . one-that-gets- reference of-which need person of-which society who Modern-Djastiz obj after any sbj obj",
-				english_to_djastiz)[0]+"`\n")
+				"dictionary what-kind to Musical-Djastiz obj English ind who complete this sbj both part-of-speech and one-that-gets- denote which-one English which-one each word what-kind Musical-Djastiz obj say alphabet which-one Latium one arrange by . one-that-gets- reference of-which need person of-which society who Musical-Djastiz obj after any sbj obj",
+				english_to_djastiz, djastiz_to_pos)[0]+"`\n")
 		f.write("______\n")
 		for djastiz in alphabetized:
 			f.write("\n### `{}`\n_{}_  \n\t**{}**".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
@@ -156,9 +201,10 @@ if __name__ == '__main__':
 	reverse_dictionary(dja_to_eng, eng_to_dja, dja_to_pos, eng_to_notes, 'word_guide.md')
 	hist = {}
 	arr = []
-	hist, arr = translate('proverbs.txt', eng_to_dja, hist, arr)
-	hist, arr = translate('common_expressions.txt', eng_to_dja, hist, arr)
-	hist, arr = translate('examples.txt', eng_to_dja, hist, arr)
+	hist, arr = translate('proverbs.txt', eng_to_dja, dja_to_pos, hist, arr)
+	hist, arr = translate('common_expressions.txt', eng_to_dja, dja_to_pos, hist, arr)
+	hist, arr = translate('examples.txt', eng_to_dja, dja_to_pos, hist, arr)
+	translate('alphabet_song.txt', eng_to_dja, dja_to_pos)
 	for key in sorted(hist.keys(), key=lambda k: hist[k]):
 		print("{:03}\t{}".format(hist[key], key))
 

@@ -1,3 +1,5 @@
+true,pȅl
+false,jűm
 "be (this is ==, not .equals())",a̋
 do,e̋
 exist,ȕ
@@ -6,7 +8,7 @@ become (the act of a state transitioning from falsehood to truth; often used in 
 unbecome (the act of a state ceasing to be true; often used in compound words with states),rȁ
 begin,űm
 end (stop happening),pe̋
-can,ma̋
+possible (can happen),ma̋
 cause,mȕ
 allow (give permission),mȁ
 want,űl
@@ -39,7 +41,7 @@ disbelieve (have a negative reaction to an idea),jȕm
 like,pȅm
 dislike,lȕl
 "long (physical distance; maximum dimension; see ""old"")",rűm
-"short (physical distance; maximum dimension; see ""young"")",jűm
+"short (physical distance; maximum dimension; see ""young"")",re̋l
 thick (minimum dimension),je̋l
 thin (minimum dimension),ma̋m
 broad (middle dimension),le̋l
@@ -92,12 +94,11 @@ denote (mean in terms of word definitions),re̋m
 next (to be next in an order),pe̋l
 persist,jȕl
 quit (give up),ūȕ
-TRUE,pȅl
 "attention-try (e.g. yell at the direct object or flash bright colors; see ""attention"")",jȅm
 hide,pűm
 call (digital),jȁm
 related (by blood or familial ties),ra̋m
-spend-time (with someone),re̋l
+spend-time (with someone),lājālȅm
 through,ūma̋
 show,èűl
 lively (be alive),èra̋
@@ -135,7 +136,6 @@ initiate,láe̋
 "tardiness (for meetings and such, or habitually)",mūa̋
 activate,làa̋
 music-make (an instrument),ále̋
-might (possibly happen),léa̋l
 include,èlȅm
 "originate (used to describe things coming ""from"")",jújȕ
 transition (represents delta vector from indirect object to direct object),pūlȅ
@@ -228,7 +228,6 @@ shrill (high pitch),pūȕm
 sonorous (low pitch),ēmȁm
 unstable (diminished chord or scale),jújȅ
 stable (satisfying chord or scale),làmű
-possible,pèȁl
 sure (Bayesian probability),jēja̋
 skeptical,rálȕ
 together (work as a team),árȁl
@@ -532,7 +531,7 @@ medicate (tend-to; treat; doctor),lūméűl
 bury,pèlūlȕ
 exhume (uncover),lūmérȕ
 "forward-to-look (like ""anticipating"", but necessarily positive)",mèàlȁm
-strive (toward a goal),màlùrű
+achieve (a goal),màlùrű
 pure,rèère̋l
 tainted,ùlúlȁm
 "entertain (as in a movie, play, or skit)",múúja̋m
@@ -634,5 +633,5 @@ dry,pēpùpe̋l
 "attention (be occupied by the direct object; see ""attention-try"")",rúlálűl
 synergize (constructively interfere),lāmēla̋m
 cancel-out (destructively interfere),pépùrűm
-progressed (distance or fraction toward a goal or destination),lājālȅm
+progressed (distance or fraction toward a goal or destination),lājājȅm
 lagging (distance or fraction away from a goal or destination),lùmēlȅl

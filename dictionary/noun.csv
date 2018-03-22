@@ -1,6 +1,4 @@
 Djastiz,jàpī
-yes,ú
-no,à
 0,ā
 1,é
 2,mè
@@ -18,7 +16,7 @@ D (13; only used for hexadecimal),mē
 E (14; only used for hexadecimal),rù
 F (15; only used for hexadecimal),ām
 Hexadec (16; only used to describe hexadecimal),ēl
-#NAME?,ém
+"-",ém
 dot (decimal point),rū
 "10^ (or 12^, or whatever depending on the radix)",ál
 radix,jú

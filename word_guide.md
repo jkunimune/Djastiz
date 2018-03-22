@@ -1,13 +1,9 @@
 # Word Guide
 
-This complete Modern-Djastiz-to-English dictionary gives the part of speech and English meaning of each Modern Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.
+This complete Musical-Djastiz-to-English dictionary gives the part of speech and English meaning of each Musical Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.
 
-`rápúlūjàáa̋lēlúm má á jàpīla̋m è lūálinggland ū púlù mámèlȁl ámrāl ù lē rápúlūēmȁlēlúm ē rápúlère̋m ám lūálinggland ám ré ēlúm má jàpīla̋m è lȕ rápúlùèēlȁmúpùm ám latium rá jùpàje̋l āl ȅ rápúlèléjúle̋m púlè e̋mȕl jàl púlè lām púlù jàpīla̋m è pȕl rà ù è`
+`rápúlūjàáa̋lēlúm má á jàpīále̋ è lūálinggland ū púlù mámèlȁl ámrāl ù lē rápúlūēmȁlēlúm ē rápúlère̋m ám lūálinggland ám ré ēlúm má jàpīále̋ è lȕ rápúlùèēlȁmúpùm ám latium rá jùpàje̋l āl ȅ rápúlèléjúle̋m púlè e̋mȕl jàl púlè lām púlù jàpīále̋ è pȕl rà ù è`
 ______
-
-### `à`
-_noun_  
-	**no**
 
 ### `àe̋m`
 _verb_  
@@ -313,7 +309,7 @@ _compound verb_
 _compound verb_  
 	**depart**
 
-### `ȁmlājālȅm`
+### `ȁmlājājȅm`
 _compound verb_  
 	**progress**
 
@@ -321,7 +317,7 @@ _compound verb_
 _compound verb_  
 	**step-backward**
 
-### `ȁmma̋jáȅm`
+### `ȁmma̋e̋jáȅm`
 _compound verb_  
 	**memorize**
 
@@ -483,7 +479,7 @@ _verb_
 
 ### `ém`
 _noun_  
-	**#NAME?**
+	**-**
 
 ### `émāmȅl`
 _verb_  
@@ -709,9 +705,9 @@ _verb_
 _noun_  
 	**Djastiz**
 
-### `jàpīla̋m`
+### `jàpīále̋`
 _compound noun_  
-	**Modern-Djastiz**
+	**Musical-Djastiz**
 
 ### `jàpú`
 _noun_  
@@ -759,7 +755,7 @@ _noun_
 
 ### `jáȅm`
 _verb_  
-	**recall**; draw a fact from memory; contrast with related concepts [`ma̋jáȅm`](#ma̋jáȅm) and [`ȁmma̋jáȅm`](#ȁmma̋jáȅm)
+	**recall**; draw a fact from memory; contrast with related concepts [`ma̋e̋jáȅm`](#ma̋e̋jáȅm) and [`ȁmma̋e̋jáȅm`](#ȁmma̋e̋jáȅm)
 
 ### `jájàle̋m`
 _verb_  
@@ -1371,7 +1367,7 @@ _noun_
 
 ### `jū`
 _postposition_  
-	**whether**; denotes whether it happened; the argument here is basically always [`ú`](#ú) or [`púl`](#púl)
+	**whether**; denotes whether it happened; the argument here is basically always "yes" or [`púl`](#púl)
 
 ### `jūa̋l`
 _verb_  
@@ -1467,7 +1463,7 @@ _compound verb_
 
 ### `jűm`
 _verb_  
-	**short**; physical distance; maximum dimension; see [`la̋m`](#la̋m)
+	**false**
 
 ### `jűmél`
 _compound verb_  
@@ -1705,9 +1701,13 @@ _noun_
 _noun_  
 	**chloranthale**; a family of unique tropical flowering shrubs
 
-### `lājālȅm`
+### `lājājȅm`
 _verb_  
 	**progressed**; distance or fraction toward a goal or destination
+
+### `lājālȅm`
+_verb_  
+	**spend-time**; with someone
 
 ### `lājȅl`
 _verb_  
@@ -1888,10 +1888,6 @@ _noun_
 ### `léárȕm`
 _verb_  
 	**live**; as in live a life
-
-### `léa̋l`
-_verb_  
-	**might**; possibly happen
 
 ### `léjám`
 _noun_  
@@ -2435,7 +2431,7 @@ _verb_
 
 ### `màlùrű`
 _verb_  
-	**strive**; toward a goal
+	**achieve**; a goal
 
 ### `màmém`
 _noun_  
@@ -2643,9 +2639,13 @@ _verb_
 
 ### `ma̋`
 _verb_  
+	**possible**; can happen
+
+### `ma̋e̋`
+_compound verb_  
 	**can**
 
-### `ma̋jáȅm`
+### `ma̋e̋jáȅm`
 _compound verb_  
 	**can-remember**
 
@@ -3429,10 +3429,6 @@ _noun_
 _noun_  
 	**lizard**
 
-### `pèȁl`
-_verb_  
-	**possible**
-
 ### `pèjāmé`
 _noun_  
 	**yew**
@@ -3671,7 +3667,7 @@ _tense-marker_
 
 ### `pȅl`
 _verb_  
-	**TRUE**
+	**true**
 
 ### `pȅm`
 _verb_  
@@ -4559,7 +4555,7 @@ _verb_
 
 ### `re̋l`
 _verb_  
-	**spend-time**; with someone
+	**short**; physical distance; maximum dimension; see [`la̋m`](#la̋m)
 
 ### `re̋m`
 _verb_  
@@ -4956,10 +4952,6 @@ _verb_
 ### `ùrū`
 _noun_  
 	**vagina**
-
-### `ú`
-_noun_  
-	**yes**
 
 ### `úē`
 _noun_  

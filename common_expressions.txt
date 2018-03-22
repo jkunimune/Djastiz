@@ -7,28 +7,28 @@ let excuse
 jȁ rű
 
 Thank you. [2->1]
-gratitude
-jāȕl
+. gratitude
+ȅ jāȕl
 
 You're welcome. [3->1]
-me obj
-rāl è
+. me obj do
+ȅ rāl è e̋
 
 Sorry [apology]. [3->1]
-sorry
-le̋
+. sorry
+ȅ le̋
 
 Apology accepted. [7->1]
-me obj
-rāl è
+. me obj do
+ȅ rāl è e̋
 
 Don't worry about it. [6->3]
 ! not sorry
 rȅ èm le̋
 
 Sorry [sympathetic]. [2->1]
-sympathize
-mèréje̋m
+. sympathize
+ȅ mèréje̋m
 
 I don't speak Djastiz very well. [9->8]
 please to much than to frequent ly talk
@@ -87,21 +87,21 @@ How are you? [3->3]
 ȁ púlpá ȅl
 
 Well. [1->1]
-prosper
-ȅl
+. prosper
+ȅ ȅl
 
 Not well. [2->2]
-not do
-èm e̋
+. not do
+ȅ èm e̋
 
 What about you? [4->2]
-? you sbj
-ȁ mūm ù
+? you sbj do
+ȁ mūm ù e̋
 
 My name is Claude. [4->5]
-name `` Bloo " obj
-múlāpȁm `` Bloo " è
+. name `` Bloo " obj be
+ȅ múlāpȁm `` Bloo " è a̋
 
 Where is the bathroom? [5->5]
-? what on bathroom sbj
-ȁ púl jē rápúlèlàlȕmmùjàpe̋ ù
+? what on bathroom sbj exist
+ȁ púl jē rápúlèlàlȕmmùjàpe̋ ù ȕ
