@@ -1,8 +1,8 @@
-At one time, Sam actually wanted to send a duck to his representative in congress for fun. [26->21]
+At one time, Sam actually wanted to send a duck to his representative in congress for fun.
 time a at Sam sbj to send one-that- represent what-kind congress which-one them ind even waterfowl obj fun-have for obj want
 rápúlúm ámrá úm Sam ù á mára̋ rápúlùlàrȁl má kanggres ám rēl ū mú pàmē è rére̋l àm è űl
 
-The quick fox jumped over the lazy brown dog. [10->14]
+The quick fox jumped over the lazy brown dog.
 fox who fast sbj dog who lazy who brown ind jump
 vulpes púlù jáje̋ ù pèjéjàpè púlù lāre̋l púlù pùmȅlrújȕl ū lāre̋m
 
@@ -10,7 +10,7 @@ They ran behind the trees.[6->8]
 run them sbj tree the forward on before at
 mèrȅ rēl ù pālújá ámlà ja̋m jē ra̋l úm
 
-You! You're standing in the way of everybody's hopes and dreams! [15->15]
+You! You're standing in the way of everybody's hopes and dreams!
 you , . stand-up both one-that-gets- hope and one-that-gets- dream which-one each person between on
 mūm lùl ȅ púlȁ lē rápúlèmùlȁ ē rápúlèjűrùja̋l ám ré jàl álű jē
 
@@ -18,27 +18,27 @@ You shall not pass![4->5]
 let you sbj not progress
 jȁ mūm ù èm ȁmlājājȅm
 
-On occasion, fish rain from the sky. [9->7]
+On occasion, fish rain from the sky.
 uncommon at fish sbj one-that- high on fall
 jūpȕ úm pūjàl ù rápúlùāȕ jē úrűm
 
-I recommend eating a pomegranite at least once in your life. [17->15]
+I recommend eating a pomegranite at least once in your life.
 recommend not one-that- little 1 obj than lively at pomegranite obj eat
 lȕlȅ èm rápúlùmȁm é è pá èra̋ úm dadima è lùjȁl
 
-Commonly, a map projection is a systematic transformation of the latitudes and longitudes of locations on the surface of a sphere or an ellipsoid into locations on a plane. [51->49]
+Commonly, a map projection is a systematic transformation of the latitudes and longitudes of locations on the surface of a sphere or an ellipsoid into locations on a plane.
 instance who common at be map-projection sbj one-that- apply what by transform both amount-of- south and amount-of- east which-one any both sphere and ellipsoid obj point who plane on ind a obj
 lūm púlù ùre̋m úm a̋ rápúlālpèùpa̋mlūljàmù ù rápúlùpúlȅ púl āl pèùpa̋m lē rápúlpápȁm ē rápúlpárȕl ám rà lē múl ē ilepsoid è èú púlù rápúlèpēje̋mlāmé jē ū ámrá è
 
-Fourscore and seven years ago our fathers brought forth, on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal. [48->33]
+Fourscore and seven years ago our fathers brought forth, on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.
 year 8 7 before at one-that- parent which-one us-here sbj continent this on create one-that-gets- citizen what young obj free via of-which notion aka to each person obj same ly for
 rápúlpálùa̋lpém pū lù ra̋l úm rápúlùjēűm ám mēl ù rèl ámrāl jē a̋m rápúlèjàrāla̋l púl la̋m è jújűm pā púlè rèm pām á ré jàl è lȅl púm àm
 
-Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. [28->32]
+Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire.
 spaceship what-kind one-that- rebel sbj to strike base who hide originate at by to win which-one 1 obj obtain empire which-one galaxy who evil ind
 rápúlèpēje̋mpēm má rápúlùrùjája̋ ù á lùrāȅl lēmàűm púlù pűm jújȕ úm āl á àme̋l ám é è ȁmȕl rápúlèjàrāla̋lèpȕ ám galaksi púlù àȅ ū
 
-Just do it! [3->3]
+Just do it!
 ! true whether
 rȅ pȅl jū
 

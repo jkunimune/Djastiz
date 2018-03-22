@@ -129,11 +129,10 @@ def translate_line(eng_sent, english_to_djastiz, djastiz_to_pos, hist=None):
 	return dja_line[:-1], melody
 
 
-def translate(filename, english_to_djastiz, djastiz_to_pos, djastiz_to_hist=None, arr=None):
+def translate(filename, english_to_djastiz, djastiz_to_pos, djastiz_to_hist=None):
 	"""replace every %4=2 line with the word-for-word translation of the previous line
 	and return a word frequency histogram and an array of syllable counts from encountered sentences"""
 	frequencies = {} if hist==None else hist
-	syl_counts = [] if arr==None else arr
 	notes = []
 	new_file = ""
 	with open(filename, 'r', encoding='utf-8') as f:
@@ -146,15 +145,11 @@ def translate(filename, english_to_djastiz, djastiz_to_pos, djastiz_to_hist=None
 				new_file += line
 			if i%4 == 1:
 				eng_sent = line
-			if i%4 == 0:
-				if '->' in line:
-					n_e, n_d = line[line.rindex('[')+1:line.rindex(']')].split('->')
-					syl_counts.append([int(n_e), int(n_d)])
 
 	with open(filename, 'w', encoding='utf-8') as f:
 		f.write(new_file)
 	save_to_midi(notes, filename)
-	return frequencies, syl_counts
+	return frequencies
 
 
 def save_to_midi(notes, filename):
@@ -200,16 +195,9 @@ if __name__ == '__main__':
 	eng_to_dja, dja_to_eng, dja_to_pos, eng_to_notes = load_dictionary('dictionary')
 	reverse_dictionary(dja_to_eng, eng_to_dja, dja_to_pos, eng_to_notes, 'word_guide.md')
 	hist = {}
-	arr = []
-	hist, arr = translate('proverbs.txt', eng_to_dja, dja_to_pos, hist, arr)
-	hist, arr = translate('common_expressions.txt', eng_to_dja, dja_to_pos, hist, arr)
-	hist, arr = translate('examples.txt', eng_to_dja, dja_to_pos, hist, arr)
+	hist = translate('proverbs.txt', eng_to_dja, dja_to_pos, hist)
+	hist = translate('common_expressions.txt', eng_to_dja, dja_to_pos, hist)
+	hist = translate('examples.txt', eng_to_dja, dja_to_pos, hist)
 	translate('alphabet_song.txt', eng_to_dja, dja_to_pos)
 	for key in sorted(hist.keys(), key=lambda k: hist[k]):
 		print("{:03}\t{}".format(hist[key], key))
-
-	arr = np.array(arr)
-	plt.plot([0, max(arr[:,0])], [0, max(arr[:,0])])
-	plt.plot(arr[:,0], arr[:,1], '.')
-	plt.axis('square')
-	plt.savefig('syllable_comparison.png')
