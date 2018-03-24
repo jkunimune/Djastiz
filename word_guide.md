@@ -1835,7 +1835,7 @@ _verb_
 
 ### `je`
 _special_  
-	**\**; escape word
+	**&#92;**; escape word
 
 ### `jedh`
 _noun_  
