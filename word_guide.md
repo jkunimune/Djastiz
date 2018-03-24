@@ -2,340 +2,196 @@
 
 This complete Musical-Djastiz-to-English dictionary gives the part of speech and English meaning of each Musical Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.
 
-`rápúlūjàáa̋lēlúm má á jàpīále̋ è lūálinggland ū púlù mámèlȁl ámrāl ù lē rápúlūēmȁlēlúm ē rápúlère̋m ám lūálinggland ám ré ēlúm má jàpīále̋ è lȕ rápúlùèēlȁmúpùm ám latium rá jùpàje̋l āl ȅ rápúlèléjúle̋m púlè e̋mȕl jàl púlè lām púlù jàpīále̋ è pȕl rà ù è`
+`ōpèmàle̋lȕllúl am pā jàpīpoje̋ ē ēmelinggland à pèmó ra̋la̋m alúl ó ā ōpèmàajőmlúl pe ōpèmēre̋m al ēmelinggland al ūl lúl am jàpīpoje̋ ē űm ōpèmóēújȍóro al latium ō mújȁm mó ȅ ōpèmēpāra̋m pèmē rȅőm jèl pèmē jèm pèmó jàpīpoje̋ ē mȁm mum ó ē`
 ______
 
-### `àe̋m`
+### `aȁ`
 _verb_  
-	**hinder**
+	**create**
 
-### `àȅ`
-_verb_  
-	**evil**
-
-### `àjàm`
+### `aēēl`
 _noun_  
-	**chiroptera**; bats and flying foxes
+	**beetle**
 
-### `àjàmȕ`
+### `ajőm`
 _verb_  
-	**weak**; inability to exact force
+	**categorize**; place something in a category; interpret something as belonging in a group
 
-### `àjűm`
+### `ajȕm`
 _verb_  
-	**separated**; individuality
+	**run**
 
-### `àlèlȁ`
-_verb_  
-	**embark**; in the metaphorical sense; begin a long habitual process
-
-### `àlèm`
-_noun_  
-	**chemicals**
-
-### `àlùm`
-_noun_  
-	**afroinsectiphilia**; golden moles, tenrecs, elephant, shrews, aardvarks, and some other things
-
-### `àlȕm`
-_verb_  
-	**support**
-
-### `àm`
-_postposition_  
-	**for**; so; denotes purpose
-
-### `àmára̋l`
-_verb_  
-	**locked**
-
-### `àmāl`
-_noun_  
-	**toiletries**
-
-### `àma̋`
-_verb_  
-	**constancy**; stay the same
-
-### `àme̋l`
-_verb_  
-	**win**
-
-### `àpúm`
-_noun_  
-	**earth**
-
-### `àpūl`
-_noun_  
-	**flower**
-
-### `àràl`
-_noun_  
-	**armadillo**
-
-### `àrájàm`
-_noun_  
-	**grass**; poaceae
-
-### `àráje̋`
-_verb_  
-	**stand**; structurally e.g. a building
-
-### `àrēma̋`
-_verb_  
-	**imprison**
-
-### `àrű`
-_verb_  
-	**fail**
-
-### `á`
-_tense-marker_  
-	**to**; infinitive
-
-### `ájùpa̋`
-_verb_  
-	**magical**
-
-### `ál`
-_noun_  
-	**10^**; or 12^, or whatever depending on the radix
-
-### `ála̋l`
-_verb_  
-	**govern**
-
-### `ála̋lé`
-_compound verb_  
-	**rule-monarchially**
-
-### `álȁl`
-_verb_  
-	**frequent**; rate at which something oscillates, progresses, or decays with respect to time
-
-### `álèjù`
-_noun_  
-	**octopus**
-
-### `álél`
-_noun_  
-	**money**
-
-### `álēpȅl`
-_verb_  
-	**cook**; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave
-
-### `álēpȅlpēpùpe̋l`
-_compound verb_  
-	**bake**
-
-### `ále̋`
-_verb_  
-	**music-make**; an instrument
-
-### `álú`
-_noun_  
-	**forearm**; shin
-
-### `álű`
-_verb_  
-	**between**; between the direct and indirect objects
-
-### `álȕ`
-_verb_  
-	**meet**
-
-### `ám`
+### `al`
 _fastener_  
 	**which-one**; describes a specific instance
 
-### `ámȁm`
-_verb_  
-	**party**
+### `alel`
+_noun_  
+	**wood**
 
-### `ámlà`
-_compound modifier_  
-	**the**; previously mentioned
-
-### `ámmūm`
-_compound modifier_  
-	**that**; associated with listener
-
-### `ámrá`
-_compound modifier_  
-	**a**; not previously mentioned
-
-### `ámrāl`
-_compound modifier_  
-	**this**; associated with speaker
-
-### `ámrēl`
+### `aljul`
 _compound modifier_  
 	**that-over-there**; associated with neither speaker nor listener
 
+### `alòm`
+_compound modifier_  
+	**the**; previously mentioned
+
+### `alō`
+_compound modifier_  
+	**a**; not previously mentioned
+
+### `alől`
+_verb_  
+	**hold**
+
+### `alpò`
+_compound modifier_  
+	**that**; associated with listener
+
+### `alúl`
+_compound modifier_  
+	**this**; associated with speaker
+
+### `alű`
+_verb_  
+	**starboard**; widdershins from straight ahead with indirect object being origin
+
+### `am`
+_fastener_  
+	**what-kind**; denotes variety or attributes
+
+### `ape̋l`
+_verb_  
+	**traverse**; typically compounded to make things like "swim", "climb", "gallop"
+
+### `ara̋`
+_verb_  
+	**hinder**
+
+### `arel`
+_noun_  
+	**water**
+
+### `aré`
+_noun_  
+	**Reality**; the physical world of our human bodies and the four forces etc.
+
+### `arém`
+_noun_  
+	**pecora**; basically anything with horns besides chevrotains, giraffes, and bovines
+
+### `arőm`
+_verb_  
+	**outdoorsness**
+
+### `à`
+_postposition_  
+	**ind**; with; at; denotes indirect object
+
+### `àjē`
+_noun_  
+	**chevrotain**
+
+### `àjom`
+_noun_  
+	**chiroptera**; bats and flying foxes
+
+### `àme̋m`
+_verb_  
+	**dark**; darkness of color
+
+### `àpe̋`
+_verb_  
+	**near**; physical or numerical
+
+### `á`
+_postposition_  
+	**than**; denotes extent, amount, or quantity
+
+### `áe`
+_noun_  
+	**rectangle**
+
+### `ámá`
+_noun_  
+	**afroinsectiphilia**; golden moles, tenrecs, elephant, shrews, aardvarks, and some other things
+
+### `ámò`
+_noun_  
+	**echidna**
+
 ### `áműm`
 _verb_  
-	**record**
+	**angry**
 
-### `ápa̋m`
-_verb_  
-	**group**; associate with one another
-
-### `ápēpȅm`
-_verb_  
-	**ill**
-
-### `ára̋m`
-_verb_  
-	**closed**
-
-### `árȁl`
-_verb_  
-	**together**; work as a team
-
-### `árēmám`
+### `árul`
 _noun_  
-	**pandan**; a type of plant
+	**lagomorpha**; rabbits, hares, pikas
 
-### `árȕ`
-_verb_  
-	**assign**
-
-### `áúlúm`
+### `ául`
 _noun_  
-	**brachiopod**
+	**element**; water, earth, fire, air, etc.
 
 ### `ā`
+_conjunction_  
+	**both**
+
+### `āél`
 _noun_  
-	**0**
+	**life**
 
-### `āȁm`
-_verb_  
-	**rescue**
-
-### `āémȕl`
-_verb_  
-	**durable**; resistance to breaking
-
-### `āl`
-_postposition_  
-	**by**; as; denotes method
-
-### `āléém`
+### `ājū`
 _noun_  
-	**phoronid**
+	**australidelphia**; besides wombats, koalas, and kangaroos
 
-### `ālù`
+### `āle̋m`
+_verb_  
+	**describe**
+
+### `ālȕ`
+_verb_  
+	**surround**
+
+### `āmēm`
 _noun_  
-	**pelvis**; hips
+	**lungfish**; fish that breathe air
 
-### `ālūje̋l`
+### `āmȍ`
 _verb_  
-	**quiet**; dimness; softness; faintness
+	**study**; a subject
 
-### `ām`
+### `ārōl`
 _noun_  
-	**F**; 15; only used for hexadecimal
+	**bee**
 
-### `āmè`
-_noun_  
-	**wing**
-
-### `āpápe̋l`
+### `ārȍ`
 _verb_  
-	**attention-pay**
-
-### `āpém`
-_noun_  
-	**suliforme**; boobies and cormorants and a few other things
-
-### `āpe̋`
-_verb_  
-	**help**
-
-### `āpȅ`
-_verb_  
-	**comprise**
-
-### `ārȁm`
-_verb_  
-	**sell**
-
-### `ārūm`
-_noun_  
-	**rhinoceros**
-
-### `ārūma̋m`
-_verb_  
-	**obscure**
-
-### `āȕ`
-_verb_  
-	**high**; +z
+	**hope**
 
 ### `a̋`
 _verb_  
-	**be**; this is ==, not .equals(
+	**exist**
 
-### `a̋l`
+### `a̋ēmȁ`
 _verb_  
-	**think**; conciously deciding that a fact is true; contrast with [`ȕm`](#ȕm)
+	**screen**; project or render images onto a surface
 
-### `a̋m`
+### `a̋la̋m`
 _verb_  
-	**create**
+	**action-take**; the direct object is the action
+
+### `a̋lȕ`
+_verb_  
+	**fast**; magnitude of time derivative of position
 
 ### `ȁ`
 _tense-marker_  
 	**?**; interrogative
 
-### `ȁl`
+### `ȁȅle̋`
 _verb_  
-	**unwant**; actively not want an object
-
-### `ȁm`
-_verb_  
-	**become**; the act of a state transitioning from falsehood to truth; often used in compound words with states
-
-### `ȁmāȕ`
-_compound verb_  
-	**rise**; jump
-
-### `ȁmèmrēle̋m`
-_compound verb_  
-	**forgive**
-
-### `ȁmjàmȅ`
-_compound verb_  
-	**depart**
-
-### `ȁmlājājȅm`
-_compound verb_  
-	**progress**
-
-### `ȁmlùmēlȅl`
-_compound verb_  
-	**step-backward**
-
-### `ȁmma̋e̋jáȅm`
-_compound verb_  
-	**memorize**
-
-### `ȁmpáȅm`
-_compound verb_  
-	**approach**
-
-### `ȁmpȁl`
-_compound verb_  
-	**sink**; crouch
-
-### `ȁmpúmȁl`
-_compound verb_  
-	**break**; fall apart or crack
-
-### `ȁmȕl`
-_compound verb_  
-	**obtain**; the direct object from the indirect object
+	**humid**
 
 ### `dadima`
 _loanword_  
@@ -349,289 +205,261 @@ _loanword_
 _loanword_  
 	**hectacoulomb-per-milliampere**
 
-### `è`
-_postposition_  
-	**obj**; denotes direct object
-
-### `èàūl`
+### `elám`
 _noun_  
-	**holocephali**
+	**macropodiforme**; kangaroos and wallabies
 
-### `èálēl`
-_noun_  
-	**grylloblattodea**; ice bus, ice crawlers, and rock crawers
-
-### `èjāű`
+### `emȕl`
 _verb_  
-	**community-make**
+	**wide**; angular distance with indirect object being centrum
 
-### `èjúm`
+### `eȍm`
+_verb_  
+	**attempt**; try
+
+### `epōl`
 _noun_  
-	**repository**; a body of technical knowledge we might call [`lúēȁm`](#lúēȁm)
+	**tylopoda**; camels and llamas
+
+### `è`
+_fastener_  
+	**which-element**; identifies element of a set
 
 ### `èl`
 _noun_  
-	**A**; 10; only used for duodecimal and hexadecimal
-
-### `èlā`
-_noun_  
-	**leg**
-
-### `èlémām`
-_noun_  
-	**bunt**; fungus
-
-### `èlȅm`
-_verb_  
-	**include**
-
-### `èlùm`
-_noun_  
-	**sloth**
-
-### `èm`
-_qualifier_  
-	**not**; anything but
-
-### `èmūpűl`
-_verb_  
-	**sexually-attract**
-
-### `èpa̋m`
-_verb_  
-	**sector-public**; be in the public sector
-
-### `èpèpe̋l`
-_verb_  
-	**expert**; a person who is not a layperson
-
-### `èpél`
-_noun_  
-	**penguin**
-
-### `èpūa̋`
-_verb_  
-	**invent**
-
-### `èpūjúl`
-_noun_  
-	**moss**; any embryophyte without xyla, like liverworts and hornworts, plus clubmoss and spikemoss and firemoss
-
-### `èpȕ`
-_verb_  
-	**big**
-
-### `èrá`
-_noun_  
-	**antenna**
-
-### `èra̋`
-_verb_  
-	**lively**; be alive
-
-### `èrȅl`
-_verb_  
-	**easy**; of the subject for the direct object
-
-### `èrúl`
-_noun_  
-	**plastic**
-
-### `èrūra̋`
-_verb_  
-	**structural-strong**; resistance to breaking bending or deforming
-
-### `èú`
-_noun_  
 	**point**; a particular time or place
 
-### `èū`
+### `èlē`
 _noun_  
-	**planet**
+	**palaeognatha**; ostriches, rheas, tinamous, kiwis, cassowaries, and emus
 
-### `èűl`
+### `èlȕ`
 _verb_  
-	**show**
+	**malice**
+
+### `èm`
+_noun_  
+	**notion**; idea; not necessarily true or objective
+
+### `èmȍl`
+_verb_  
+	**subject**; focus on
+
+### `èpȕl`
+_verb_  
+	**significant**
+
+### `èrapel`
+_noun_  
+	**earth-star**; fungus
+
+### `èrő`
+_verb_  
+	**primary**; refers to generally being main or central
+
+### `èrú`
+_noun_  
+	**rhinoceros**
 
 ### `é`
-_noun_  
-	**1**
-
-### `éja̋l`
-_verb_  
-	**sit**
-
-### `éjél`
-_noun_  
-	**pangolin**
-
-### `éjélúl`
-_noun_  
-	**cattail-plant**; typhaceae
-
-### `éléűm`
-_verb_  
-	**engineer**; solve technical problems
-
-### `élúra̋m`
-_verb_  
-	**burn**
-
-### `ém`
-_noun_  
-	**-**
-
-### `émāmȅl`
-_verb_  
-	**extract**
-
-### `émȁm`
-_verb_  
-	**problem**; to pose a challenge, but not necessarily in a bad way
-
-### `émèpém`
-_noun_  
-	**sponge**
-
-### `épȅl`
-_verb_  
-	**rude**
-
-### `épùrȁl`
-_verb_  
-	**poison-apply**
-
-### `éra̋`
-_verb_  
-	**abandon**
-
-### `érù`
-_noun_  
-	**breast**
-
-### `éù`
-_noun_  
-	**circle**
-
-### `ē`
-_conjunction_  
-	**and**
-
-### `ēa̋`
-_verb_  
-	**track**; follow a path
-
-### `ēēm`
-_noun_  
-	**leaf**
-
-### `ēēmūl`
-_noun_  
-	**plankton**; anything microscopic that belongs to nephrozoa
-
-### `ēja̋m`
-_verb_  
-	**truth-tell**
-
-### `ējère̋l`
-_verb_  
-	**cloud**
-
-### `ējūmùm`
-_noun_  
-	**hanguanacea**; terrestrial herbaceous Austrolasian plants
-
-### `ēl`
-_noun_  
-	**Hexadec**; 16; only used to describe hexadecimal
-
-### `ēlàmùm`
-_noun_  
-	**jelly-fungus**
-
-### `ēlȁm`
-_verb_  
-	**set**; be in a discrete collection with a finite number of other entities
-
-### `ēle̋m`
-_verb_  
-	**trail**; a person or thing
-
-### `ēlúm`
-_noun_  
-	**word**
-
-### `ēm`
 _conjunction_  
 	**quote**
 
-### `ēma̋m`
-_verb_  
-	**test**
-
-### `ēmȁl`
-_verb_  
-	**categorize**; place something in a category; interpret something as belonging in a group
-
-### `ēmȁm`
-_verb_  
-	**sonorous**; low pitch
-
-### `ēmūm`
+### `éàl`
 _noun_  
-	**procellariid**; albatrosses and petrels
+	**vombatiforme**; koalas and wombats
 
-### `ēpȁm`
+### `éȁm`
 _verb_  
-	**mind**
+	**platonic-love**
 
-### `ēpēlűl`
+### `éja̋`
 _verb_  
-	**stab**; puncture
+	**far**; physical or numerical
 
-### `ērālē`
+### `él`
+_qualifier_  
+	**not**; anything but
+
+### `élal`
 _noun_  
-	**velvetworm**
+	**pig**
 
-### `ērȁl`
+### `ém`
+_noun_  
+	**line**; of the segment or infinite variety
+
+### `émőm`
 _verb_  
-	**convert**; as in a rate or ratio
+	**add**
 
-### `ērē`
+### `éòl`
 _noun_  
-	**finger**; toe
+	**horse**; includes zebras and several varieties of wild butt
 
-### `ēù`
+### `érūm`
 _noun_  
-	**face**
+	**secretary-bird**
+
+### `ē`
+_postposition_  
+	**obj**; denotes direct object
+
+### `ēja̋m`
+_verb_  
+	**cyan**; stimulation of M and S cones
+
+### `ēje̋l`
+_verb_  
+	**feel**; an emotion or feeling
+
+### `ēl`
+_noun_  
+	**maximum**; the absolute
+
+### `ēlȅl`
+_verb_  
+	**quick**; computationally
+
+### `ēm`
+_noun_  
+	**3**
+
+### `ēmel`
+_noun_  
+	**language**
+
+### `ēmeldaitssland`
+_compound noun_  
+	**German**
+
+### `ēmelinggland`
+_compound noun_  
+	**English**
+
+### `ēmelnihong`
+_compound noun_  
+	**Japanese**
+
+### `ēpa̋l`
+_verb_  
+	**lesser**; small numeric value
+
+### `ēpòm`
+_noun_  
+	**gar**
+
+### `ērő`
+_verb_  
+	**important**
+
+### `ēulem`
+_noun_  
+	**mantisshrimp**
 
 ### `e̋`
 _verb_  
-	**do**
+	**false**
+
+### `e̋ja̋m`
+_verb_  
+	**communicate**
+
+### `e̋ja̋mpòl`
+_compound verb_  
+	**talk**
+
+### `e̋ja̋mpūm`
+_compound verb_  
+	**compose**; prose
+
+### `e̋jȅ`
+_verb_  
+	**problem**; to pose a challenge, but not necessarily in a bad way
+
+### `e̋jȍl`
+_verb_  
+	**pastel**; value of color
 
 ### `e̋l`
 _verb_  
-	**many**; exclusively applies to things with discrete amounts, like instances
+	**ask**; use an interrogative sentence; request information
+
+### `e̋lȁl`
+_verb_  
+	**unstable**; diminished chord or scale
 
 ### `e̋m`
 _verb_  
-	**necessary**; the subject must be true in order for the direct object to be true
+	**know**; believe that something is true with certainty and be right
 
-### `e̋mȕl`
-_compound verb_  
-	**need**; the subject must possess the direct object for the indirect object to be true
+### `e̋pőm`
+_verb_  
+	**decide**
 
 ### `ȅ`
 _tense-marker_  
 	**.**; declarative
 
+### `ȅjape̋`
+_verb_  
+	**adore**; find something cute
+
 ### `ȅl`
 _verb_  
-	**prosper**
+	**possible**; can happen
+
+### `ȅlȕ`
+_compound verb_  
+	**can**
+
+### `ȅlȕjēőm`
+_compound verb_  
+	**can-remember**
 
 ### `ȅm`
 _verb_  
-	**give**
+	**become**; the act of a state transitioning from falsehood to truth; often used in compound words with states
+
+### `ȅmàpe̋`
+_compound verb_  
+	**approach**
+
+### `ȅméja̋`
+_compound verb_  
+	**depart**
+
+### `ȅméláműm`
+_compound verb_  
+	**forgive**
+
+### `ȅmȅlȕjēőm`
+_compound verb_  
+	**memorize**
+
+### `ȅmjȅropű`
+_compound verb_  
+	**progress**
+
+### `ȅmlèmȕ`
+_compound verb_  
+	**break**; fall apart or crack
+
+### `ȅmlűm`
+_compound verb_  
+	**rise**; jump
+
+### `ȅmójȅȕm`
+_compound verb_  
+	**step-backward**
+
+### `ȅmőm`
+_compound verb_  
+	**obtain**; the direct object from the indirect object
+
+### `ȅmrȁm`
+_compound verb_  
+	**sink**; crouch
 
 ### `galaksi`
 _loanword_  
@@ -649,853 +477,805 @@ _loanword_
 _loanword_  
 	**United States**
 
+### `jajȍjű`
+_verb_  
+	**synergize**; constructively interfere
+
+### `jajȕ`
+_verb_  
+	**crampedness**
+
+### `jal`
+_pronoun_  
+	**us**; the speaker and others
+
+### `jalȅm`
+_verb_  
+	**piecewise**
+
+### `jalōm`
+_noun_  
+	**amphibian**
+
+### `jamȕl`
+_verb_  
+	**sleepy**
+
+### `jara̋m`
+_verb_  
+	**compute**; a number or something
+
+### `jarol`
+_noun_  
+	**phalangeriforme**; possums... which are apparently different from opossums and tend to fly
+
+### `jaűl`
+_verb_  
+	**seem**
+
+### `jaȕl`
+_verb_  
+	**transition**; represents delta vector from indirect object to direct object
+
 ### `jà`
 _noun_  
-	**9**
+	**loop**; closed path
 
-### `jàáa̋l`
+### `jàȅm`
 _verb_  
-	**list**
+	**excited**
 
-### `jàjȅl`
+### `jàjȁl`
 _verb_  
-	**hot**
+	**pure**
 
-### `jàjūl`
-_noun_  
-	**mayfly**
-
-### `jàl`
-_noun_  
-	**person**
-
-### `jàlùmȅl`
+### `jàlȍm`
 _verb_  
-	**foolish**; the state of not knowing how the world functions and how to live life well
-
-### `jàlȕl`
-_verb_  
-	**intense**; computationally
+	**satisfied**; the good feeling produced by snapping parts together or popping bubble wrap
 
 ### `jàm`
 _noun_  
-	**zigzag**; a polygonal path thing
+	**earth**
 
-### `jàme̋l`
-_verb_  
-	**curious**
-
-### `jàmȅ`
-_verb_  
-	**far**; physical or numerical
-
-### `jàmù`
+### `jàma`
 _noun_  
-	**topography**; geography
+	**suliforme**; boobies and cormorants and a few other things
 
-### `jàpè`
+### `jàmál`
 _noun_  
-	**human**
+	**alismatid-monocots**; acorales and alismatales
 
-### `jàpèla̋l`
+### `jàmél`
+_noun_  
+	**jellyfish**
+
+### `jàmó`
+_noun_  
+	**branchiopod**; a few types of shrimp
+
+### `jàmőm`
 _verb_  
-	**shout**; raise one's voice
+	**ill**
+
+### `jàőm`
+_verb_  
+	**hot**
 
 ### `jàpī`
 _noun_  
 	**Djastiz**
 
-### `jàpīále̋`
+### `jàpīpoje̋`
 _compound noun_  
 	**Musical-Djastiz**
 
-### `jàpú`
-_noun_  
-	**tylopoda**; camels and llamas
-
-### `jàràrèm`
-_noun_  
-	**zingiberale**; a type of fowering plant that includes bananas, ginger, and birds of paradise
-
-### `jàrāla̋l`
+### `jàpő`
 _verb_  
-	**citizen**; subject is citizen, direct object is state/sovereign/polity, like India or The Vatican
-
-### `jàré`
-_noun_  
-	**tuatara**; a lizard-type thing
-
-### `jàrēl`
-_noun_  
-	**salientia**; frogs and toads
-
-### `jàre̋l`
-_verb_  
-	**beautiful**; of a person
-
-### `jàùm`
-_noun_  
-	**seal**; includes walruses and maybe sea lions I think?
+	**active**; not lazy
 
 ### `já`
 _noun_  
-	**maximum**; the absolute
+	**Hexadec**; 16; only used to describe hexadecimal
 
-### `jáa̋m`
+### `jálűl`
 _verb_  
-	**concern**
-
-### `jáèjȕ`
-_verb_  
-	**firm**; tendency to hold shape
-
-### `jáèrèm`
-_noun_  
-	**mushroom**; or toadstool
-
-### `jáȅm`
-_verb_  
-	**recall**; draw a fact from memory; contrast with related concepts [`ma̋e̋jáȅm`](#ma̋e̋jáȅm) and [`ȁmma̋e̋jáȅm`](#ȁmma̋e̋jáȅm)
-
-### `jájàle̋m`
-_verb_  
-	**remotely-control**
-
-### `jájàpū`
-_noun_  
-	**hydra**
-
-### `jájā`
-_noun_  
-	**culture**
-
-### `jáje̋`
-_verb_  
-	**fast**; magnitude of time derivative of position
-
-### `jájù`
-_noun_  
-	**feline**
-
-### `jájùjàpè`
-_compound noun_  
-	**cat**
-
-### `jál`
-_fastener_  
-	**which-element**; identifies element of a set
-
-### `jálū`
-_noun_  
-	**autumn**
+	**appealing**; of a picture, sound, etc.
 
 ### `jám`
 _noun_  
-	**home**
+	**autumn**
 
-### `jámēa̋l`
-_verb_  
-	**dirty**
-
-### `jámēla̋m`
-_verb_  
-	**mature**
-
-### `jámūpēm`
+### `jámóm`
 _noun_  
-	**austrobaileyale**; a type of woody plant that produces anise and essential oils
+	**pine-tree**; includes cedars, firs, hemlocks, larches, and spruces
 
-### `jápám`
+### `jápàm`
 _noun_  
-	**hemichordate**; weird ocean worm tree blobs
+	**asparagoid-lily**; minus orchids
 
-### `jápél`
+### `jáù`
 _noun_  
-	**doliolida**
-
-### `jápélá`
-_noun_  
-	**haemodoraceae**; plants that grow in dry places with distichous, equitable, isobifacial leaves
-
-### `jápēmú`
-_noun_  
-	**blue-coral**
-
-### `jápűl`
-_verb_  
-	**design**
-
-### `járájùl`
-_noun_  
-	**automobile**; machine
-
-### `járȅm`
-_verb_  
-	**apathetic**
-
-### `járùmȕl`
-_verb_  
-	**idiotic**; the innate inability to solve riddles and puzzles
-
-### `jáūl`
-_noun_  
-	**paper**
+	**loon**
 
 ### `jā`
-_qualifier_  
-	**some**; subset
-
-### `jāál`
 _noun_  
-	**blade**; of grass
+	**1**
 
-### `jāélūm`
-_noun_  
-	**zoantharia**
-
-### `jāe̋`
-_verb_  
-	**jostle**; move in place
-
-### `jājārāl`
-_noun_  
-	**bamboo**
-
-### `jāja̋l`
-_verb_  
-	**action-take**; the direct object is the action
-
-### `jājúl`
-_noun_  
-	**seacucumber**
-
-### `jālèm`
-_noun_  
-	**amphibian**
-
-### `jālēm`
-_noun_  
-	**thelyphonid**
-
-### `jām`
-_pronoun_  
-	**us**; the speaker and others
-
-### `jāpȁ`
-_verb_  
-	**study**; a subject
-
-### `jāpépám`
-_noun_  
-	**poale**; grass-likes such as sedges, excluding grasses, typhaceae, and bromeliads
-
-### `jāpe̋`
-_verb_  
-	**smite**; lightning strike
-
-### `jāpű`
-_verb_  
-	**remember**; to do something
-
-### `jārāl`
-_noun_  
-	**opilione**; things that look like spiders
-
-### `jāra̋`
-_verb_  
-	**surround**
-
-### `jāre̋l`
-_verb_  
-	**unmassive**
-
-### `jārűl`
-_verb_  
-	**revolve**
-
-### `jāȕl`
-_verb_  
-	**gratitude**
-
-### `ja̋`
-_verb_  
-	**happen**
-
-### `ja̋l`
-_verb_  
-	**dim**
-
-### `ja̋m`
-_verb_  
-	**forward**; +y
-
-### `jȁ`
-_tense-marker_  
-	**let**; beuracratic
-
-### `jȁl`
-_verb_  
-	**apt**; fit a situation well
-
-### `jȁm`
-_verb_  
-	**call**; digital
-
-### `jèèmā`
-_noun_  
-	**snail**
-
-### `jèéȅm`
-_verb_  
-	**flexible**; tendency to bend when force is applied
-
-### `jèépē`
-_noun_  
-	**chiton**
-
-### `jèe̋l`
-_verb_  
-	**return**
-
-### `jèe̋m`
-_verb_  
-	**keep**
-
-### `jèl`
-_noun_  
-	**settlement**; like a city or a town
-
-### `jèlújȁ`
-_verb_  
-	**famous**
-
-### `jèpūm`
-_noun_  
-	**pyrosome**
-
-### `jèrȁm`
-_verb_  
-	**draw**
-
-### `jèrère̋l`
-_verb_  
-	**print**; convert a digital object into a real one
-
-### `jèrȅm`
-_verb_  
-	**awed**
-
-### `jé`
-_conjunction_  
-	**unquote**
-
-### `jéjējȅl`
-_verb_  
-	**secret-share**
-
-### `jéjúl`
-_noun_  
-	**ophiuroid**; think 'seastar', but less brittle
-
-### `jéjűl`
-_verb_  
-	**much-of**; fraction; majority
-
-### `jél`
-_noun_  
-	**film**; the original meaning - thin thanslucent surfaces
-
-### `jélálà`
-_noun_  
-	**fern**
-
-### `jéla̋m`
-_verb_  
-	**require**
-
-### `jélè`
-_noun_  
-	**scandentia**; treeshrews
-
-### `jélèja̋m`
-_verb_  
-	**transcribe**
-
-### `jélém`
-_noun_  
-	**scorpion**
-
-### `jéléùl`
-_noun_  
-	**animal**
-
-### `jéle̋m`
-_verb_  
-	**particular**
-
-### `jélű`
-_verb_  
-	**unable**; to enact change
-
-### `jélűl`
-_verb_  
-	**explain**
-
-### `jélȕl`
-_verb_  
-	**courageous**
-
-### `jém`
-_noun_  
-	**jungle**
-
-### `jémàrā`
-_noun_  
-	**pontederiacea**; a family of aquatic wetland plants
-
-### `jépȅm`
-_verb_  
-	**schadenfreude-ful**
-
-### `jépùjű`
-_verb_  
-	**freeze**
-
-### `jérá`
-_noun_  
-	**snow**
-
-### `jē`
-_postposition_  
-	**on**; at; in; denotes physical location
-
-### `jēèle̋`
-_verb_  
-	**art-make**
-
-### `jēèm`
-_noun_  
-	**bear**
-
-### `jēja̋`
-_verb_  
-	**sure**; Bayesian probability
-
-### `jēje̋m`
-_verb_  
-	**magenta**; stimulation of L and S cones
-
-### `jēl`
-_noun_  
-	**atmosphere**; weather
-
-### `jēlúmȅm`
-_verb_  
-	**congratulate**
-
-### `jēm`
-_noun_  
-	**blob**
-
-### `jēmārām`
-_noun_  
-	**Central-America**
-
-### `jēmé`
-_noun_  
-	**metal**
-
-### `jēmérȕ`
-_verb_  
-	**consent**
-
-### `jēpéma̋l`
+### `jāȁl`
 _verb_  
-	**clever**; the innate ability to solve riddles and puzzles
-
-### `jēpȅm`
-_verb_  
-	**intend**
-
-### `jēúl`
-_noun_  
-	**anteater**
-
-### `jēūlúm`
-_noun_  
-	**earth-star**; fungus
-
-### `jēűl`
-_verb_  
-	**visit**
-
-### `jēűm`
-_verb_  
-	**parent**; raise
-
-### `je̋`
-_verb_  
-	**take**
-
-### `je̋l`
-_verb_  
-	**thick**; minimum dimension
-
-### `je̋m`
-_verb_  
-	**force**; impose one's will to make something be true
-
-### `jȅ`
-_verb_  
-	**use**
-
-### `jȅl`
-_verb_  
-	**skillful**
-
-### `jȅm`
-_verb_  
-	**attention-try**; e.g. yell at the direct object or flash bright colors; see [`rúlálűl`](#rúlálűl)
-
-### `jùàm`
-_noun_  
-	**primatomorpha**; basically monkeys and apes plus a few other types of primate
-
-### `jùē`
-_noun_  
-	**head**
-
-### `jùe̋`
-_verb_  
-	**goodbye-say**
-
-### `jùjál`
-_noun_  
-	**galean-shark**
-
-### `jùjùm`
-_noun_  
-	**orthoptera**; crickets, tatydids, grasshoppers, etc.
-
-### `jùl`
-_noun_  
-	**hair**
-
-### `jùlāl`
-_noun_  
-	**accipitridae**; hawks, eagles, kites, Old World vultures, and a few other things
-
-### `jùlȅl`
-_verb_  
-	**disease-have**
-
-### `jùlű`
-_verb_  
-	**walk**
-
-### `jùmāl`
-_noun_  
-	**owl**
-
-### `jùmū`
-_noun_  
-	**sand**
-
-### `jùpàje̋l`
-_verb_  
-	**arrange**; in an order
-
-### `jùpűm`
-_verb_  
-	**log-in**
-
-### `jùrā`
-_noun_  
-	**rodent**
-
-### `jùȕ`
-_verb_  
-	**oblivious**
-
-### `jú`
-_noun_  
-	**radix**
-
-### `júájā`
-_noun_  
-	**mantid**
-
-### `júȁ`
-_verb_  
-	**own**
-
-### `júe̋l`
-_verb_  
-	**foundation-form**
-
-### `jújà`
-_noun_  
-	**flamingo**
-
-### `jújēm`
-_noun_  
-	**salamander**
-
-### `jújȅ`
-_verb_  
-	**unstable**; diminished chord or scale
-
-### `jújúl`
-_noun_  
-	**coelacanth**
-
-### `jújūlűl`
-_verb_  
-	**physical**; describes things in the physical realm
-
-### `jújūműm`
-_verb_  
-	**viscous**
-
-### `jújűm`
-_verb_  
-	**free**
-
-### `jújȕ`
-_verb_  
-	**originate**; used to describe things coming "from"
-
-### `júl`
-_noun_  
-	**female**
-
-### `júlám`
-_noun_  
-	**lepidoptera**; moths and butterflies
-
-### `júlèl`
-_noun_  
-	**squalomorph-shark**
-
-### `júlélȁ`
-_verb_  
-	**control**
-
-### `júlérȅm`
-_verb_  
-	**approve**
-
-### `júlērȅ`
-_verb_  
-	**act**; behave as though the direct object is true; do things in a certain manner
-
-### `júm`
-_noun_  
-	**curve**; any smooth path
-
-### `júmȁl`
-_verb_  
-	**insert**
-
-### `júpālűl`
-_verb_  
-	**national**; subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet
-
-### `júrám`
-_noun_  
-	**branchiopod**; a few types of shrimp
-
-### `júrājȕ`
-_verb_  
-	**downstream**; combine it with [`ȁm`](#ȁm) to get "flow"
-
-### `júrȁl`
-_verb_  
-	**satisfied**; the good feeling produced by snapping parts together or popping bubble wrap
-
-### `júrél`
-_noun_  
-	**freshwater-butterflyfish**
-
-### `júrȅ`
-_verb_  
-	**experience**
-
-### `júrȕ`
-_verb_  
-	**divide**; into the direct object
-
-### `júrȕām`
-_compound verb_  
-	**divide-in-fifteenths**
-
-### `júrȕèl`
-_compound verb_  
-	**divide-in-tenths**
-
-### `júrȕlù`
-_compound verb_  
-	**divide-in-sevenths**
-
-### `júrȕmā`
-_compound verb_  
-	**divide-in-fifths**
-
-### `júrȕmè`
-_compound verb_  
-	**divide-in-half**
-
-### `júrȕpé`
-_compound verb_  
-	**divide-in-twelfths**
-
-### `júrȕpù`
-_compound verb_  
-	**divide-in-sixths**
-
-### `júrȕrā`
-_compound verb_  
-	**divide-in-thirds**
-
-### `júrȕrú`
-_compound verb_  
-	**divide-in-quarters**
-
-### `júùl`
-_noun_  
-	**ceramic**
-
-### `jū`
-_postposition_  
-	**whether**; denotes whether it happened; the argument here is basically always "yes" or [`púl`](#púl)
-
-### `jūa̋l`
-_verb_  
-	**employ**
-
-### `jūépāl`
-_noun_  
-	**commelinacea**; plants with fleshy succulent leaves
-
-### `jūjű`
-_verb_  
-	**construct**
-
-### `jūl`
-_noun_  
-	**powder**
-
-### `jūlà`
-_noun_  
-	**hippopotamus**
+	**stand-up**; posture
 
-### `jūlārȕ`
+### `jāje̋m`
 _verb_  
 	**tolerate**
 
-### `jūlèpám`
+### `jām`
 _noun_  
-	**Sub-Saharan-Africa**
+	**flower**
 
-### `jūlējű`
+### `jāpe`
+_noun_  
+	**pangolin**
+
+### `jāpēm`
+_noun_  
+	**Eurasia**
+
+### `jārȁl`
 _verb_  
-	**wear-and-tear**; gradually sustain minor damage
+	**art-make**
 
-### `jūm`
+### `jārȅl`
+_verb_  
+	**angularly-large**
+
+### `ja̋`
+_verb_  
+	**use**
+
+### `ja̋a̋l`
+_verb_  
+	**apply**; the subject is a process, the direct object is something that undergoes that process
+
+### `ja̋m`
+_verb_  
+	**read**; derive meaning from a physical object; load a file; contrast with [`jȁpūm`](#jȁpūm)
+
+### `ja̋pa̋m`
+_verb_  
+	**internet**
+
+### `jȁ`
+_verb_  
+	**active-perceive**; look or listen or sniff
+
+### `jȁjȅm`
+_verb_  
+	**represent**
+
+### `jȁm`
+_verb_  
+	**misplace**; lose an object
+
+### `jȁmèm`
+_compound verb_  
+	**listen**
+
+### `jȁmȕm`
+_verb_  
+	**quiet**; dimness; softness; faintness
+
+### `jȁpém`
+_compound verb_  
+	**active-taste**
+
+### `jȁpòl`
+_compound verb_  
+	**listen-carefully**; listen to and parse words, not just sounds
+
+### `jȁpūm`
+_compound verb_  
+	**active-read**
+
+### `jȁrāl`
+_compound verb_  
+	**look**
+
+### `jȁrém`
+_compound verb_  
+	**touch**
+
+### `jȁrōm`
+_compound verb_  
+	**sniff**
+
+### `jejūm`
 _noun_  
-	**flavor**
+	**embiidina**; web-spinning insects
 
-### `jūpè`
+### `jelől`
+_verb_  
+	**great**; numerically
+
+### `jelȕl`
+_verb_  
+	**consider**
+
+### `jema̋`
+_verb_  
+	**goodbye-say**
+
+### `jema̋l`
+_verb_  
+	**imagine**
+
+### `jepȕl`
+_verb_  
+	**team-up**
+
+### `jerám`
 _noun_  
-	**electricity**
+	**thelyphonid**
 
-### `jūpém`
+### `jè`
 _noun_  
-	**pauropod**
+	**era**; 10^5 days
 
-### `jūpȅl`
+### `jèjēl`
+_noun_  
+	**segmented-worm**; any member of annelida besides leeches and beardworms
+
+### `jèl`
+_noun_  
+	**person**
+
+### `jèlȁ`
+_verb_  
+	**generalize**
+
+### `jèlűm`
+_verb_  
+	**drunk**; applies to alcohol as well as other drugs
+
+### `jèm`
+_noun_  
+	**society**
+
+### `jèmȅl`
+_verb_  
+	**national**; subject is citizen, direct object is nation/tribe/clan, like Kurdistan or Tibet
+
+### `jèpō`
+_noun_  
+	**cephalochordata**; lancelets and branchiostomidae
+
+### `jèpȕm`
+_verb_  
+	**cluster**; be physically nearby
+
+### `jèrèm`
+_noun_  
+	**bacterium**
+
+### `jère̋`
+_verb_  
+	**jump**; over the indirect object onto the direct object
+
+### `jèrú`
+_noun_  
+	**housefly**
+
+### `jèrűl`
+_verb_  
+	**oppose**; compete with
+
+### `jèuű`
+_verb_  
+	**sonorous**; low pitch
+
+### `jé`
+_postposition_  
+	**on**; at; in; denotes physical location
+
+### `jéa̋`
+_verb_  
+	**sell**
+
+### `jée̋`
+_verb_  
+	**polite**
+
+### `jél`
+_noun_  
+	**light**
+
+### `jélàm`
+_noun_  
+	**The-Arctic**
+
+### `jélòl`
+_noun_  
+	**North-Africa**
+
+### `jém`
+_noun_  
+	**torso**
+
+### `jéme̋`
+_verb_  
+	**precipitate**
+
+### `jémȅm`
+_verb_  
+	**ignorant**; the quality of not knowing a lot of facts about the indirect object
+
+### `jépȁm`
+_verb_  
+	**paint**
+
+### `jéűl`
+_verb_  
+	**free**
+
+### `jē`
+_postposition_  
+	**for**; so; denotes purpose
+
+### `jējől`
+_verb_  
+	**puzzled**; have confusion from the direct object
+
+### `jēl`
+_noun_  
+	**child**
+
+### `jēlē`
+_noun_  
+	**lepidoptera**; moths and butterflies
+
+### `jēlō`
+_noun_  
+	**caddisfly**
+
+### `jēm`
+_noun_  
+	**image**; in the most general sense
+
+### `jēmȍm`
+_verb_  
+	**flicker**; any rapid oscillation
+
+### `jēmum`
+_noun_  
+	**velvetworm**
+
+### `jēmùlò`
+_compound noun_  
+	**map**
+
+### `jēőm`
+_verb_  
+	**recall**; draw a fact from memory; contrast with related concepts [`ȅlȕjēőm`](#ȅlȕjēőm) and [`ȅmȅlȕjēőm`](#ȅmȅlȕjēőm)
+
+### `jēpá`
+_noun_  
+	**ant**
+
+### `jēpȍ`
+_verb_  
+	**hog**
+
+### `je̋`
+_verb_  
+	**go**; from the indirect object to the direct object
+
+### `je̋àpe̋`
+_compound verb_  
+	**pass**; go near something
+
+### `je̋l`
+_verb_  
+	**among**; among the object
+
+### `je̋lȁm`
+_verb_  
+	**knowledgeable**; the state of knowing a lot of facts about the indirect object
+
+### `je̋m`
+_verb_  
+	**quit**; give up
+
+### `je̋òő`
+_verb_  
+	**wave**; a hand or a flag
+
+### `je̋pȁl`
+_verb_  
+	**rebel**
+
+### `je̋rȕ`
+_verb_  
+	**matrix**; table of numbers
+
+### `jȅ`
+_verb_  
+	**thick**; minimum dimension
+
+### `jȅa̋l`
+_verb_  
+	**note-leave**
+
+### `jȅȅm`
+_verb_  
+	**full**; of indirect object
+
+### `jȅl`
+_verb_  
+	**hide**
+
+### `jȅm`
+_verb_  
+	**oblivious**
+
+### `jȅropű`
+_verb_  
+	**progressed**; distance or fraction toward a goal or destination
+
+### `joa̋l`
+_verb_  
+	**group**; associate with one another
+
+### `joȁl`
+_verb_  
+	**obey**
+
+### `jojúm`
+_noun_  
+	**seaurchin**
+
+### `jojű`
+_verb_  
+	**originate**; used to describe things coming "from"
+
+### `jol`
+_postposition_  
+	**whether**; denotes whether it happened; the argument here is basically always "yes" or [`pèm`](#pèm)
+
+### `jorȕl`
 _verb_  
 	**tan**; skin-color
 
-### `jūpȕ`
+### `joűm`
 _verb_  
-	**uncommon**; time between events in a series of happenings
+	**harsh**; mean
 
-### `jūrùȕm`
-_verb_  
-	**give-in**
-
-### `jūúl`
+### `jò`
 _noun_  
-	**hyrax**; little rodent-like things
+	**day**; time unit
 
-### `jūűm`
+### `jòjűm`
 _verb_  
-	**malice**
+	**flash**; quickly emit bright light; also applies to sound and other sensations
 
-### `jūȕl`
+### `jòlȅm`
 _verb_  
-	**notorious**
+	**revolve**
 
-### `jūȕm`
+### `jòm`
+_noun_  
+	**root**
+
+### `jòmál`
+_noun_  
+	**chloranthale**; a family of unique tropical flowering shrubs
+
+### `jòma̋`
 _verb_  
-	**difficult**; of the subject for the direct object
+	**suggest**; encourage an action
+
+### `jòma̋le̋m`
+_compound verb_  
+	**tempt**
+
+### `jòmȍm`
+_verb_  
+	**intend**
+
+### `jòpù`
+_noun_  
+	**millipede**
+
+### `jòra̋`
+_verb_  
+	**step**; the direct object is what you step on or in
+
+### `jòre̋`
+_verb_  
+	**disgusted**
+
+### `jó`
+_postposition_  
+	**,**; denotes addressee
+
+### `jóa̋m`
+_verb_  
+	**cut**
+
+### `jólűm`
+_verb_  
+	**sex-have**
+
+### `jóm`
+_noun_  
+	**Earth**
+
+### `jópȁm`
+_verb_  
+	**incomplete**
+
+### `jóróm`
+_noun_  
+	**liliale**; a type of flowering plants that includes lilies
+
+### `jórūm`
+_noun_  
+	**slug**
+
+### `jō`
+_noun_  
+	**F**; 15; only used for hexadecimal
+
+### `jōèm`
+_noun_  
+	**eufalconimorpha**; falcons, passerines, parrots, caracaras, and forest falcons
+
+### `jōja̋m`
+_verb_  
+	**marry**
+
+### `jōjùm`
+_noun_  
+	**anemone**
+
+### `jōjȕm`
+_verb_  
+	**code-write**; program
+
+### `jōlȍl`
+_verb_  
+	**downstream**; combine it with [`ȅm`](#ȅm) to get "flow"
+
+### `jōm`
+_noun_  
+	**concept**; intangible
+
+### `jōől`
+_verb_  
+	**joyful**
+
+### `jōpő`
+_verb_  
+	**wall-off**; be a wall; subject is wall, direct object is thing on other side, indirect object is thing on this side
+
+### `jōrel`
+_noun_  
+	**symphalan**
+
+### `jōrē`
+_noun_  
+	**centipede**
+
+### `jōro`
+_noun_  
+	**toiletries**
+
+### `jōrōl`
+_noun_  
+	**zamiaceae**; cycads that are superficially palm or fern-like
+
+### `jōȕm`
+_verb_  
+	**visit**
+
+### `jő`
+_verb_  
+	**end**; stop happening
+
+### `jőlȁl`
+_verb_  
+	**rough**
+
+### `jőlő`
+_verb_  
+	**storytell**
+
+### `jőm`
+_verb_  
+	**inept**; unskillfulness
+
+### `jőpȕ`
+_verb_  
+	**send**
+
+### `jȍ`
+_tense-marker_  
+	**merry**; salutory
+
+### `jȍm`
+_verb_  
+	**related**; by blood or familial ties
+
+### `jȍmee̋`
+_verb_  
+	**expect**
+
+### `jȍpȁl`
+_verb_  
+	**cryptic**
+
+### `jȍpȍl`
+_verb_  
+	**wear-and-tear**; gradually sustain minor damage
+
+### `jȍrȍ`
+_verb_  
+	**color**; ojbect is a color value, not a number
+
+### `jȍű`
+_verb_  
+	**business-open**; can refer to activity in general
+
+### `jue̋m`
+_verb_  
+	**indoorsness**
+
+### `jujȅ`
+_verb_  
+	**befriend**; the state of being friends
+
+### `jul`
+_pronoun_  
+	**them**; an agent besides the speaker and listener
+
+### `jupal`
+_noun_  
+	**landfowl**; chickens, turkeys, and pheasants
+
+### `jurál`
+_noun_  
+	**eel**
+
+### `jù`
+_noun_  
+	**circle**
+
+### `jùjà`
+_noun_  
+	**pseudoscorpion**
+
+### `jùjàm`
+_noun_  
+	**automobile**; machine
+
+### `jùmām`
+_noun_  
+	**tree**
+
+### `jùpȅl`
+_verb_  
+	**boil**
+
+### `jùpol`
+_noun_  
+	**salamander**
+
+### `jùpóm`
+_noun_  
+	**bolete**
+
+### `jùpōm`
+_noun_  
+	**bunt**; fungus
+
+### `jùre̋m`
+_verb_  
+	**secret-keep**
+
+### `jú`
+_noun_  
+	**polygon**
+
+### `júja̋l`
+_verb_  
+	**citizen**; subject is citizen, direct object is state/sovereign/polity, like India or The Vatican
+
+### `jújom`
+_noun_  
+	**ophiuroid**; think 'seastar', but less brittle
+
+### `júō`
+_noun_  
+	**reptile**
+
+### `júȍl`
+_verb_  
+	**blue**; stimulation of S cones
+
+### `júpa̋l`
+_verb_  
+	**also-happen**; describes things that happen in tandem
+
+### `júpȁ`
+_verb_  
+	**kill**
+
+### `júrúl`
+_noun_  
+	**animal**
+
+### `júūl`
+_noun_  
+	**salp**
+
+### `jū`
+_noun_  
+	**chunk**; 10^3 days
+
+### `jūjém`
+_noun_  
+	**beardworm**; giant tube worms
+
+### `jūlél`
+_noun_  
+	**parasite**
+
+### `jūmēl`
+_noun_  
+	**haemodoraceae**; plants that grow in dry places with distichous, equitable, isobifacial leaves
+
+### `jūme̋m`
+_verb_  
+	**violent**; physical violence
+
+### `jūmő`
+_verb_  
+	**intense**; computationally
+
+### `jūmù`
+_noun_  
+	**odonatoptera**; dragonflies and damselflies
+
+### `jūpől`
+_verb_  
+	**mature**
 
 ### `jű`
 _verb_  
-	**passive-perceive**; see or hear or smell
+	**shouldn't**; how bad a decision is
 
-### `jűjūm`
-_compound verb_  
-	**taste**
-
-### `jűl`
+### `jűjűl`
 _verb_  
-	**ineffective**
-
-### `jűlél`
-_compound verb_  
-	**smell**
-
-### `jűlúm`
-_compound verb_  
-	**passive-feel**
-
-### `jűm`
-_verb_  
-	**false**
-
-### `jűmél`
-_compound verb_  
-	**comprehend**
-
-### `jűpūm`
-_compound verb_  
-	**hear**
-
-### `jűrém`
-_compound verb_  
-	**see**
-
-### `jűrùja̋l`
-_compound verb_  
-	**dream**
-
-### `jűrùl`
-_compound verb_  
-	**passive-read**
+	**hallucinate**; dream
 
 ### `jȕ`
-_tense-marker_  
-	**fuck**; cursal
-
-### `jȕl`
 _verb_  
-	**persist**
+	**tell**; use an imperative sentence; instruct; command
 
-### `jȕm`
+### `jȕȅl`
 _verb_  
-	**disbelieve**; have a negative reaction to an idea
+	**ignore**
+
+### `jȕlȕm`
+_verb_  
+	**resist**
+
+### `jȕma̋l`
+_verb_  
+	**imply**; if-then
+
+### `jȕmȁ`
+_verb_  
+	**shrill**; high pitch
 
 ### `kanggres`
 _loanword_  
@@ -1509,3357 +1289,3597 @@ _loanword_
 _loanword_  
 	**Christmas**
 
+### `lajȅl`
+_verb_  
+	**research**
+
+### `lajȅm`
+_verb_  
+	**hue**; expressed colloquially as a color name, not an angle
+
+### `lamél`
+_noun_  
+	**earwig**
+
 ### `latium`
 _loanword_  
 	**Latium**
 
 ### `là`
-_pronoun_  
-	**it**; a previously mentioned noun phrase
-
-### `lààm`
 _noun_  
-	**horse**; includes zebras and several varieties of wild butt
+	**B**; 11; only used for duodecimal and hexadecimal
 
-### `làa̋`
+### `làa̋l`
 _verb_  
-	**activate**
+	**bored**; by the indirect object
 
-### `làa̋m`
+### `làeől`
 _verb_  
-	**piecewise**
-
-### `làèpà`
-_noun_  
-	**earwig**
-
-### `làȅm`
-_verb_  
-	**flail**
-
-### `làja̋m`
-_verb_  
-	**communicate**
-
-### `làja̋mmél`
-_compound verb_  
-	**talk**
-
-### `làja̋mrùl`
-_compound verb_  
-	**compose**; prose
-
-### `làjȁm`
-_verb_  
-	**regurgitate**
-
-### `làjél`
-_noun_  
-	**seastar**
-
-### `làjém`
-_noun_  
-	**hagfish**; slime-eel
-
-### `làjūm`
-_noun_  
-	**larvacea**
+	**wise**; the state of knowing how the world functions and how to live life well
 
 ### `làl`
 _noun_  
-	**body**
-
-### `làlàm`
-_noun_  
-	**sturgeon**
-
-### `làlèl`
-_noun_  
-	**seaurchin**
-
-### `làlúré`
-_noun_  
-	**zamiaceae**; cycads that are superficially palm or fern-like
-
-### `làlūl`
-_noun_  
-	**fly**; in the taxonomical sense excluding mosquitos and houseflies
-
-### `làlȕm`
-_verb_  
-	**wall-off**; be a wall; subject is wall, direct object is thing on other side, indirect object is thing on this side
+	**forearm**; shin
 
 ### `làm`
 _noun_  
-	**loop**; closed path
+	**antenna**
 
-### `làmá`
+### `làmè`
 _noun_  
-	**appendage**
+	**schizomida**
 
-### `làmēpū`
+### `làóm`
 _noun_  
-	**alismatid-monocots**; acorales and alismatales
+	**anglerfish**
 
-### `làmȅm`
-_verb_  
-	**excited**
-
-### `làmű`
-_verb_  
-	**stable**; satisfying chord or scale
-
-### `làpārè`
+### `làpèl`
 _noun_  
-	**palm-tree**
+	**Africa**
 
-### `làpém`
+### `làról`
 _noun_  
-	**megaloptera**; alderflies, dobsonflies, and fishflies
-
-### `làpúpa̋l`
-_verb_  
-	**prepare**; as in food
-
-### `làpūēm`
-_noun_  
-	**bracket-fungus**
-
-### `làrȁl`
-_verb_  
-	**represent**
-
-### `làūpe̋`
-_verb_  
-	**finish**; end a long habitual process
+	**black-coral**
 
 ### `lá`
 _noun_  
-	**day**; time unit
+	**8**
 
-### `láe̋`
+### `láȅ`
 _verb_  
-	**initiate**
+	**romantic-love**
 
-### `lájȁ`
+### `lájȁl`
 _verb_  
-	**continue**
+	**extract**
+
+### `lájè`
+_noun_  
+	**neoteleostei**; jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes
 
 ### `lál`
 _noun_  
-	**tool**
+	**soul**; mind
 
-### `lálàrȕl`
+### `lálȅ`
 _verb_  
-	**wet**
-
-### `lálȕm`
-_verb_  
-	**shoot**; a projectile at something
+	**log-in**
 
 ### `lám`
 _noun_  
-	**polygon**
+	**male**
 
-### `lámȁ`
+### `lápe̋`
 _verb_  
-	**service**
+	**sad**
 
-### `lámúl`
+### `lárōl`
 _noun_  
-	**flea**
+	**umbrella-pine**; not technically a pine
 
-### `lámű`
+### `lárű`
 _verb_  
-	**fringe**; refers to being secondary or minor
-
-### `lápàm`
-_noun_  
-	**millipede**
-
-### `lárȁ`
-_verb_  
-	**suggest**; encourage an action
-
-### `lárȁàȅ`
-_compound verb_  
-	**tempt**
-
-### `láréa̋m`
-_verb_  
-	**appealing**; of a picture, sound, etc.
+	**introversion**
 
 ### `lā`
-_postposition_  
-	**if**; denotes hypothetical conditions
-
-### `lāēpél`
 _noun_  
-	**jellyfish**
+	**zigzag**; a polygonal path thing
 
-### `lājámém`
+### `lājom`
 _noun_  
-	**chloranthale**; a family of unique tropical flowering shrubs
+	**phasmid**; stick and leaf insects
 
-### `lājājȅm`
+### `lājȍl`
 _verb_  
-	**progressed**; distance or fraction toward a goal or destination
+	**brief**
 
-### `lājālȅm`
-_verb_  
-	**spend-time**; with someone
-
-### `lājȅl`
-_verb_  
-	**cut**
-
-### `lājūmél`
+### `lājuē`
 _noun_  
-	**Eastern-Asia**
-
-### `lājȕ`
-_verb_  
-	**polite**
+	**Europe**
 
 ### `lāl`
 _noun_  
-	**nighttime**; ;75-;25 or 18:00-06:00 or whenever the sun is down
+	**fact**; not necessarily true, but necessarily objective
+
+### `lālúl`
+_noun_  
+	**Antarctica**
 
 ### `lālúm`
 _noun_  
-	**maxillopod**; barnacles and copepods
+	**Eastern-Asia**
+
+### `lālűl`
+_verb_  
+	**slice**
 
 ### `lām`
 _noun_  
-	**society**
+	**landmass**; e.g. America, Afro-Eurasia
 
-### `lāmȁ`
-_verb_  
-	**private**; be concealed or sheltered from the world
-
-### `lāmé`
+### `lāmām`
 _noun_  
-	**air**
+	**palm-tree**
 
-### `lāmēla̋m`
+### `lāma̋l`
 _verb_  
-	**synergize**; constructively interfere
+	**durable**; resistance to breaking
 
-### `lāme̋m`
+### `lāmȕl`
 _verb_  
-	**role-fill**
+	**likely**; P-value
 
-### `lāmùpe̋m`
+### `lāpȅl`
 _verb_  
-	**challenge**
+	**clean**
 
-### `lāpāpȁl`
-_verb_  
-	**technical**
-
-### `lāpūm`
+### `lārē`
 _noun_  
-	**bee**
+	**caecilian**; blind legless amphibians
 
-### `lāre̋l`
+### `lārȅm`
 _verb_  
-	**lazy**
-
-### `lāre̋m`
-_verb_  
-	**jump**; over the indirect object onto the direct object
-
-### `lārùré`
-_noun_  
-	**trichoplax**; real small and thin sponge-like animals
+	**sibling-be**
 
 ### `la̋`
 _verb_  
-	**go**; from the indirect object to the direct object
+	**sorry**
 
 ### `la̋l`
 _verb_  
-	**starboard**; widdershins from straight ahead with indirect object being origin
+	**right**; +x
+
+### `la̋lȕ`
+_verb_  
+	**staff**; provide support in a manner not directly related to the main thing
 
 ### `la̋m`
 _verb_  
 	**young**; length of time; applies to objects and events as well as people
 
-### `la̋páȅm`
-_compound verb_  
-	**pass**; go near something
-
 ### `lȁ`
 _tense-marker_  
-	**wow**; exclamatory
+	**bless**; positive exclamatory
 
-### `lȁl`
+### `lȁjȁm`
 _verb_  
-	**down**; angle down from azimuth with indirect object being origin; distance down page
+	**clever**; the innate ability to solve riddles and puzzles
 
-### `lȁm`
-_verb_  
-	**old**; length of time; applies to objects an events as well as people
-
-### `lè`
-_noun_  
-	**morning**; ;00-;50 or 00:00-12:00
-
-### `lèāl`
-_noun_  
-	**echidna**
-
-### `lèa̋l`
-_verb_  
-	**repeat**
-
-### `lèējȅ`
-_verb_  
-	**charismatic**
-
-### `lèjȁl`
-_verb_  
-	**participate**
-
-### `lèjèl`
-_noun_  
-	**otocephala**; herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras
-
-### `lèjú`
-_noun_  
-	**columbimorphae**; pidgeons, doves, sandgrouses, and mesites
-
-### `lèjȕm`
-_verb_  
-	**cyan**; stimulation of M and S cones
-
-### `lèl`
-_special_  
-	**\**; escape word
-
-### `lèlā`
-_noun_  
-	**vacuum**
-
-### `lèlűl`
-_verb_  
-	**cold**
-
-### `lèpà`
-_noun_  
-	**Reality**; the physical world of our human bodies and the four forces etc.
-
-### `lèpájám`
-_noun_  
-	**robot**; anything with automated actuation
-
-### `lèpám`
-_noun_  
-	**secretary-bird**
-
-### `lèràm`
-_noun_  
-	**paddlefish**
-
-### `lèrām`
-_noun_  
-	**wasp**
-
-### `lèrȁm`
-_verb_  
-	**involve**
-
-### `lèrèrūl`
-_noun_  
-	**amborella**; a specific understory shrub on Grande Terre
-
-### `lère̋`
-_verb_  
-	**open**
-
-### `lèrȅ`
-_verb_  
-	**skew**
-
-### `lé`
-_noun_  
-	**the-present**
-
-### `léárȕm`
-_verb_  
-	**live**; as in live a life
-
-### `léjám`
-_noun_  
-	**ant**
-
-### `léjèè`
-_noun_  
-	**nautiloid**
-
-### `léjȅm`
+### `lȁjűm`
 _verb_  
 	**apprehensive**; hesitative reaction to decisions
 
-### `léjúle̋m`
+### `lȁl`
 _verb_  
-	**reference**; refer to; consult with
+	**west**
 
-### `léjűm`
+### `lȁm`
 _verb_  
-	**lesser**; small numeric value
+	**widdershins**; angular orientation from the point of view of the direct object
+
+### `lȁmȍl`
+_verb_  
+	**gesture**
+
+### `lȁpőm`
+_verb_  
+	**stab**; puncture
+
+### `lȁrȁl`
+_verb_  
+	**charismatic**
+
+### `leel`
+_noun_  
+	**pelvis**; hips
+
+### `leȅ`
+_verb_  
+	**little**; less; the subject is less than the direct object by the amount
+
+### `leré`
+_noun_  
+	**skunk**
+
+### `lerē`
+_noun_  
+	**giraffe**; and okapi
+
+### `leȕlȍ`
+_verb_  
+	**act**; behave as though the direct object is true; do things in a certain manner
+
+### `lè`
+_noun_  
+	**curve**; any smooth path
+
+### `lèjól`
+_noun_  
+	**ginkgo biloba**; a unique Japanese tree
+
+### `lèl`
+_noun_  
+	**female**
+
+### `lèle̋l`
+_verb_  
+	**mean**; big-picture meaning of things
+
+### `lèlűm`
+_verb_  
+	**practical**
+
+### `lèm`
+_noun_  
+	**star**; sun
+
+### `lèmȅm`
+_verb_  
+	**exhume**; uncover
+
+### `lèmò`
+_noun_  
+	**condor**; also encompasses New World vultures
+
+### `lèmȕ`
+_verb_  
+	**broken**; having fallen apart or cracked
+
+### `lèȍ`
+_verb_  
+	**contain**
+
+### `lèràm`
+_noun_  
+	**gorgonian**; sea fans and sea whips
+
+### `lèűl`
+_verb_  
+	**late**; +t; like [`mȁm`](#mȁm)
+
+### `lèűljò`
+_compound verb_  
+	**date**
+
+### `lèűljòōre̋m`
+_compound verb_  
+	**birthday**
+
+### `lé`
+_noun_  
+	**E**; 14; only used for hexadecimal
+
+### `léjem`
+_noun_  
+	**otocephala**; herrings, slickheads, milkfishes, minnows, carps, loaches, catfishes, knifefishes, and tetras
+
+### `léje̋`
+_verb_  
+	**return**
 
 ### `lél`
 _noun_  
-	**scent**
+	**atmosphere**; weather
 
-### `lélā`
+### `lélam`
 _noun_  
-	**euliptyphla**; hedgehogs, moles, shrews, and a few other rodent-like things
+	**amblypygus**; they look like spiders, but produce no web or venom
 
-### `léla̋`
-_verb_  
-	**organize-oneself**
-
-### `lélù`
+### `lélèm`
 _noun_  
-	**mustelidae**; weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines
+	**nemertea**; ribbon worms or probiscis worms
 
-### `lélȕl`
-_verb_  
-	**violate**; a rule
-
-### `léma̋l`
-_verb_  
-	**join**; a group
-
-### `lémùpȁ`
-_verb_  
-	**wave**; a hand or a flag
-
-### `lémȕl`
-_verb_  
-	**angularly-large**
-
-### `lépūēl`
-_noun_  
-	**stony-coral**
-
-### `léra̋`
-_verb_  
-	**prone-lie**
-
-### `lérélȅl`
-_verb_  
-	**wise**; the state of knowing how the world functions and how to live life well
-
-### `léȕm`
-_verb_  
-	**cease**
-
-### `lē`
-_conjunction_  
-	**both**
-
-### `lēȅm`
-_verb_  
-	**romantic-love**
-
-### `lēja̋l`
-_verb_  
-	**differ**
-
-### `lēje̋l`
-_verb_  
-	**also-happen**; describes things that happen in tandem
-
-### `lējūrē`
-_noun_  
-	**bolete**
-
-### `lēl`
-_noun_  
-	**sea**
-
-### `lēlȕ`
-_verb_  
-	**orthogonal**; straightness, evenness
-
-### `lēm`
-_noun_  
-	**thing**; tangible
-
-### `lēmàl`
+### `lélol`
 _noun_  
 	**spider**
 
-### `lēmàűm`
+### `lélȍ`
 _verb_  
-	**base**; operations and such
+	**recept**; receive something sent, not something given
 
-### `lēmā`
+### `lém`
 _noun_  
-	**winter**
+	**air**
 
-### `lēmāūl`
+### `léme̋m`
+_verb_  
+	**proud**; the happiness associated with feeling like a productive member of society
+
+### `lémom`
 _noun_  
-	**virus**
+	**hagfish**; slime-eel
 
-### `lēma̋`
-_verb_  
-	**plan**
-
-### `lēma̋l`
-_verb_  
-	**mock**
-
-### `lēma̋m`
-_verb_  
-	**surprised**
-
-### `lēpȁ`
-_verb_  
-	**business-closed**; can refer to dormancy in general
-
-### `lēpe̋m`
-_verb_  
-	**ponder**; a subject
-
-### `lēpūl`
+### `lépèm`
 _noun_  
-	**schizomida**
+	**austrobaileyale**; a type of woody plant that produces anise and essential oils
 
-### `lēràjȅm`
+### `lē`
+_noun_  
+	**5**
+
+### `lēl`
+_noun_  
+	**paper**
+
+### `lēlȕ`
 _verb_  
-	**marry**
+	**desaturated**; blandness of color
 
-### `lērȁm`
+### `lēm`
+_noun_  
+	**cosmos**
+
+### `lēőm`
 _verb_  
 	**normal**; ununiqueness
 
+### `lēȍl`
+_verb_  
+	**empty**; of indirect object
+
 ### `le̋`
 _verb_  
-	**sorry**
+	**begin**
 
 ### `le̋l`
 _verb_  
-	**broad**; middle dimension
+	**down**; angle down from azimuth with indirect object being origin; distance down page
+
+### `le̋lȕl`
+_verb_  
+	**list**
 
 ### `le̋m`
 _verb_  
-	**effective**
+	**evil**
+
+### `le̋ma̋l`
+_verb_  
+	**fresh**
+
+### `le̋pȍm`
+_verb_  
+	**terrified**; the brief reaction to jump-scares that comes before actual fear or annoyance
 
 ### `lȅ`
+_tense-marker_  
+	**wow**; neutral exclamatory
+
+### `lȅajő`
 _verb_  
-	**should**; how good a decision is
+	**invent**
 
 ### `lȅl`
 _verb_  
-	**same**; none; the subject equals the direct object numerically
+	**dim**
 
 ### `lȅm`
 _verb_  
-	**west**
+	**east**
+
+### `lȅműm`
+_verb_  
+	**lame**; the slangy definition, not the disability one
+
+### `lȅra̋m`
+_verb_  
+	**sympathize**
 
 ### `lity`
 _loanword_  
 	**litre**
 
-### `lù`
-_noun_  
-	**7**
+### `loȁl`
+_verb_  
+	**notorious**
 
-### `lùāmù`
+### `loē`
 _noun_  
-	**leech**
+	**appendage**
 
-### `lùāmūm`
-_noun_  
-	**proctum**; encompasses entoprocta and ectoprocta
+### `lolȍm`
+_verb_  
+	**fatigued**
 
-### `lùa̋l`
+### `lopue̋m`
+_verb_  
+	**print**; convert a digital object into a real one
+
+### `lorȁm`
 _verb_  
 	**periodic**; inverse of rate at which something oscillates, progresses, or decays with respect to time
 
-### `lùèrùm`
+### `lòjùl`
 _noun_  
-	**chanterelle**; a type of fungus
+	**zingiberale**; a type of fowering plant that includes bananas, ginger, and birds of paradise
 
-### `lùjā`
+### `lòl`
 _noun_  
-	**ink**
+	**sand**
 
-### `lùjāl`
+### `lòlȅl`
+_verb_  
+	**tainted**
+
+### `lòlùl`
 _noun_  
-	**shrimp**; pretty loose descriptor of most eumalacostraca
+	**chiton**
 
-### `lùjȁl`
-_verb_  
-	**eat**
-
-### `lùjȅm`
-_verb_  
-	**lift**
-
-### `lùl`
-_postposition_  
-	**,**; denotes addressee
-
-### `lùle̋l`
-_verb_  
-	**imagine**
-
-### `lùm`
-_special_  
-	**backspace**; ingnore previous few words
-
-### `lùma̋m`
-_verb_  
-	**compute**; a number or something
-
-### `lùmēlȅl`
-_verb_  
-	**lagging**; distance or fraction away from a goal or destination
-
-### `lùmű`
-_verb_  
-	**crampedness**
-
-### `lùpàū`
+### `lòm`
 _noun_  
-	**scaphopod**; a type of molusk
+	**information**; a notion, number, etc.
 
-### `lùpű`
+### `lòmȕ`
 _verb_  
-	**watch**
+	**bureaucrate**; be a bureaucrat in a bureaucracy
 
-### `lùrāȅl`
-_verb_  
-	**strike**; a swift decisive action
-
-### `lùrȁl`
-_verb_  
-	**hallucinate**; dream
-
-### `lùre̋l`
-_verb_  
-	**lead-to**; be a door; subject is door, direct object is thing on other side, indirect object is thing on this side
-
-### `lùrȅ`
-_verb_  
-	**local**
-
-### `lùrȅl`
-_verb_  
-	**vibrant**; diversity of color
-
-### `lùrű`
-_verb_  
-	**rotate**; about the direct object
-
-### `lùrȕ`
-_verb_  
-	**precipitate**
-
-### `lùùmȅ`
-_verb_  
-	**paint**
-
-### `lú`
+### `lòom`
 _noun_  
-	**cycle**; 10^1 days
+	**eurypygimorphae**; a bunch of tropical birds
 
-### `lúēȁm`
+### `lòròm`
+_noun_  
+	**fungus**
+
+### `lòről`
 _verb_  
-	**science**; experimentation and learning; yes, this is a verb
+	**furnish**; as in furniture
 
-### `lúl`
-_noun_  
-	**hole**; hallway; tube; gap
-
-### `lúlàm`
-_noun_  
-	**crocodilian**; crocodiles and alligators
-
-### `lúlmélā`
-_compound noun_  
-	**butthole**
-
-### `lúm`
-_noun_  
-	**tactility**; touch
-
-### `lúmȁm`
-_verb_  
-	**substitute**
-
-### `lúmùm`
-_noun_  
-	**gladiator**; it's a type of insect
-
-### `lúmùrȕm`
-_verb_  
-	**have-faith**
-
-### `lúmúm`
-_noun_  
-	**notopteroide**; aba, elephantfishes, and featherfin knives
-
-### `lúmū`
-_noun_  
-	**grebe**
-
-### `lúpa̋`
-_verb_  
-	**ignore**
-
-### `lúpȁl`
+### `lòȕm`
 _verb_  
 	**green**; stimulation of M cones
 
-### `lúpè`
-_noun_  
-	**bird**
+### `ló`
+_qualifier_  
+	**all**; set of all instances
 
-### `lúpèrèm`
+### `lójèm`
 _noun_  
-	**South-America**
+	**proctum**; encompasses entoprocta and ectoprocta
 
-### `lúpȅl`
+### `lójul`
+_noun_  
+	**remipedia**; like ocean centipede things
+
+### `lól`
+_noun_  
+	**hand**
+
+### `lólàl`
+_noun_  
+	**nautiloid**
+
+### `lóm`
+_noun_  
+	**stem**; trunk
+
+### `lómȍ`
 _verb_  
-	**fair**; skin-color
+	**cease**
 
-### `lúpúm`
+### `lóom`
 _noun_  
-	**protacanthopterygii**; salmons, trouts, pikes, dragonfishes, and smelts
+	**rodent**
 
-### `lúpȕm`
+### `lópé`
+_noun_  
+	**percomorpha**; gobies, cichlids, flatfish, wrasse, and perches
+
+### `lópòm`
+_noun_  
+	**moss**; any embryophyte without xyla, like liverworts and hornworts, plus clubmoss and spikemoss and firemoss
+
+### `lō`
+_postposition_  
+	**thats-why**; denotes cause
+
+### `lōá`
+_noun_  
+	**sloth**
+
+### `lōjȅ`
 _verb_  
-	**insignificant**
+	**sure**; Bayesian probability
 
-### `lúrèjàm`
+### `lōl`
 _noun_  
-	**Middle-East**
+	**Sol**; our sun
 
-### `lū`
+### `lōm`
 _noun_  
-	**daytime**; ;25-;75 or 06:00-18:00 or whenever the sun is up
+	**film**; the original meaning - thin thanslucent surfaces
 
-### `lūál`
-_noun_  
-	**language**
-
-### `lūáldaitssland`
-_compound noun_  
-	**German**
-
-### `lūálinggland`
-_compound noun_  
-	**English**
-
-### `lūálnihong`
-_compound noun_  
-	**Japanese**
-
-### `lūȁm`
+### `lōma̋m`
 _verb_  
-	**share**
+	**viscous**
 
-### `lūèm`
+### `lōpul`
 _noun_  
-	**oxygen**
+	**mantid**
 
-### `lūjàjȕl`
+### `lōrű`
 _verb_  
-	**humid**
+	**apathetic**
 
-### `lūjȅ`
+### `lő`
 _verb_  
-	**recept**; receive something sent, not something given
+	**many**; exclusively applies to things with discrete amounts, like instances
 
-### `lūjȕl`
+### `lőe̋m`
 _verb_  
-	**available**; time management at a point
+	**mind**
 
-### `lūl`
-_noun_  
-	**image**; in the most general sense
-
-### `lūléūm`
-_noun_  
-	**anemone**
-
-### `lūlēm`
-_noun_  
-	**toadfish**
-
-### `lūljàmù`
-_compound noun_  
-	**map**
-
-### `lūlùàm`
-_noun_  
-	**yam-plant**
-
-### `lūlúl`
-_noun_  
-	**scalidophora**; mud-dwelling tiny aquatic things
-
-### `lūlȕl`
+### `lől`
 _verb_  
-	**opaque**
+	**clockwise**; angular orientation from the point of view of the direct object
 
-### `lūm`
-_noun_  
-	**instance**
-
-### `lūmàrù`
-_noun_  
-	**alga**
-
-### `lūma̋l`
-_verb_  
-	**social**; amount of socialization
-
-### `lūmȁm`
-_verb_  
-	**transparent**
-
-### `lūmérȕ`
-_verb_  
-	**exhume**; uncover
-
-### `lūméűl`
-_verb_  
-	**medicate**; tend-to; treat; doctor
-
-### `lūmēpúl`
-_noun_  
-	**Africa**
-
-### `lūmúȁl`
-_verb_  
-	**messy**
-
-### `lūpȅl`
-_verb_  
-	**disgusted**
-
-### `lūpù`
-_noun_  
-	**platypus**
-
-### `lūràle̋l`
-_verb_  
-	**elastic**; tendency to bend and then spring back
-
-### `lūrārúl`
-_noun_  
-	**magnoliid**; a type of flowering plant that includes magnolias, nutmeg, cinnamon, avocado, black pepper, and tulips
-
-### `lūrèā`
-_noun_  
-	**bivalve**; molusks with two valves
-
-### `lű`
-_verb_  
-	**active-perceive**; look or listen or sniff
-
-### `lűjūm`
-_compound verb_  
-	**active-taste**
-
-### `lűl`
-_verb_  
-	**narrow**; middle dimension
-
-### `lűlél`
-_compound verb_  
-	**sniff**
-
-### `lűlúm`
-_compound verb_  
-	**touch**
-
-### `lűm`
+### `lőm`
 _verb_  
 	**port**; clockwise from straight ahead with indirect object being origin
 
-### `lűmél`
-_compound verb_  
-	**listen-carefully**; listen to and parse words, not just sounds
-
-### `lűpūm`
-_compound verb_  
-	**listen**
-
-### `lűrém`
-_compound verb_  
-	**look**
-
-### `lűrùl`
-_compound verb_  
-	**active-read**
-
-### `lȕ`
+### `lőmȅ`
 _verb_  
-	**say**; use a declarative sentence; give information
+	**transparent**
 
-### `lȕl`
+### `lőműl`
 _verb_  
-	**dislike**
+	**forward-to-look**; like [`pòȅl`](#pòȅl)
 
-### `lȕlȅ`
-_compound verb_  
-	**recommend**
-
-### `lȕm`
+### `lőra̋l`
 _verb_  
-	**moral**
+	**locked**
 
-### `mà`
+### `lȍ`
+_tense-marker_  
+	**good**; antisalutory
+
+### `lȍl`
+_verb_  
+	**attention-try**; e.g. yell at the direct object or flash bright colors; see [`lȍlaȁm`](#lȍlaȁm)
+
+### `lȍlaȁm`
+_verb_  
+	**attention**; be occupied by the direct object; see [`lȍl`](#lȍl)
+
+### `lȍm`
+_verb_  
+	**disappear**
+
+### `lȍmȕ`
+_verb_  
+	**level**; general discrete measure of progress
+
+### `luēl`
 _noun_  
-	**ke**; 10^-2 days
+	**sea-cow**; like manatees
 
-### `màl`
-_noun_  
-	**string**
-
-### `màlējȁl`
+### `lujȅm`
 _verb_  
-	**mean**; big-picture meaning of things
+	**agree**
 
-### `màlùrű`
-_verb_  
-	**achieve**; a goal
-
-### `màmém`
+### `lulól`
 _noun_  
 	**turtle**; includes tortoises and terrapins
 
-### `màme̋l`
+### `lumȅ`
 _verb_  
-	**research**
+	**truth-tell**
 
-### `màme̋m`
-_verb_  
-	**add**
-
-### `màmȕl`
-_verb_  
-	**drive**
-
-### `màpèlȅ`
-_verb_  
-	**fancy**
-
-### `màpùűm`
-_verb_  
-	**code-write**; program
-
-### `màrȁl`
-_verb_  
-	**reach**
-
-### `má`
-_fastener_  
-	**what-kind**; denotes variety or attributes
-
-### `máà`
+### `lumòm`
 _noun_  
-	**butt**
+	**protacanthopterygii**; salmons, trouts, pikes, dragonfishes, and smelts
 
-### `máāl`
-_noun_  
-	**phalangeriforme**; possums... which are apparently different from opossums and tend to fly
-
-### `máa̋`
+### `lupȅ`
 _verb_  
-	**read**; derive meaning from a physical object; load a file; contrast with [`lűrùl`](#lűrùl)
+	**employ**
 
-### `máȅm`
+### `lupű`
 _verb_  
-	**reason**
+	**cost**
 
-### `májē`
-_noun_  
-	**gunpowder**
-
-### `mál`
-_noun_  
-	**desert**
-
-### `málùm`
-_noun_  
-	**arowana**; bonytounges
-
-### `málūle̋`
+### `luȕl`
 _verb_  
-	**hold-dear**
+	**unimportant**
 
-### `mámàūl`
-_noun_  
-	**tube-dwelling-anemone**
-
-### `mámèlȁl`
+### `lùȁm`
 _verb_  
-	**complete**
+	**remember**; to do something
 
-### `mára̋`
+### `lùjűl`
 _verb_  
-	**send**
+	**admire**
 
-### `mā`
+### `lùl`
 _noun_  
-	**5**
+	**home**
 
-### `māa̋l`
+### `lùlȕ`
+_verb_  
+	**particular**
+
+### `lùm`
+_noun_  
+	**plains**
+
+### `lùpoal`
+_noun_  
+	**smut**; fungus
+
+### `lùrőm`
+_verb_  
+	**beside**; to be on the side of
+
+### `lú`
+_noun_  
+	**times**; habitual tense
+
+### `lúȅ`
+_verb_  
+	**organize-oneself**
+
+### `lújàm`
+_noun_  
+	**vampiresquid**
+
+### `lújē`
+_noun_  
+	**apterygota**; silverfish, firebrat, and jumping bristletails
+
+### `lújū`
+_noun_  
+	**coraciimorpha**; some smallish generally tree-dwelling birds
+
+### `lúl`
+_noun_  
+	**word**
+
+### `lúm`
+_noun_  
+	**tool**
+
+### `lúmol`
+_noun_  
+	**ricinulei**
+
+### `lúpȍ`
+_verb_  
+	**community-make**
+
+### `lúpűl`
+_verb_  
+	**shout**; raise one's voice
+
+### `lúpȕl`
+_verb_  
+	**angularly-small**
+
+### `lúrȍ`
 _verb_  
 	**powerful**; ability to enact change
 
-### `māēl`
+### `lúrűm`
+_verb_  
+	**sharp**; of an edge or blade
+
+### `lū`
 _noun_  
-	**loon**
+	**region**; an area in space of a period of time
 
-### `māja̋`
+### `lūjȕ`
 _verb_  
-	**business-open**; can refer to activity in general
+	**leisure**
 
-### `mājȁl`
-_verb_  
-	**think-of**; come up with an idea
-
-### `mājè`
+### `lūl`
 _noun_  
-	**otidae**; bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds
+	**tundra**
 
-### `mājèpȕl`
-_verb_  
-	**conservative**; political
-
-### `mājéȁ`
-_verb_  
-	**entrepreneur**; solve large-scale problems
-
-### `mājéműm`
-_verb_  
-	**stupid**; [https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]
-
-### `mājērȕm`
-_verb_  
-	**practical**
-
-### `mājūme̋`
-_verb_  
-	**beware**
-
-### `mājȕ`
-_verb_  
-	**whole**
-
-### `māl`
+### `lūm`
 _noun_  
-	**landmass**; e.g. America, Afro-Eurasia
+	**plastic**
 
-### `māléje̋m`
+### `lūpȕl`
 _verb_  
-	**peruse**
+	**troubled**; have troubled feelings from the direct object
 
-### `mālúla̋`
-_verb_  
-	**pollute**
-
-### `mālúpùl`
+### `lūrū`
 _noun_  
-	**North-America**
+	**neuroptera**; lacewings, antlions, owlflies, and more
 
-### `mām`
+### `lű`
+_verb_  
+	**think**; conciously deciding that a fact is true; contrast with [`pő`](#pő)
+
+### `lűl`
+_verb_  
+	**dead**
+
+### `lűlȅ`
+_verb_  
+	**much-of**; fraction; majority
+
+### `lűm`
+_verb_  
+	**high**; +z
+
+### `lȕ`
+_tense-marker_  
+	**let**; beuracratic
+
+### `lȕȅ`
+_verb_  
+	**construct**
+
+### `lȕjȁm`
+_verb_  
+	**avoid**
+
+### `lȕl`
+_verb_  
+	**spend-time**; with someone
+
+### `lȕlȕ`
+_verb_  
+	**concern**
+
+### `lȕm`
+_verb_  
+	**between**; between the direct and indirect objects
+
+### `lȕpőm`
+_verb_  
+	**wound-suffer**
+
+### `majōl`
+_noun_  
+	**tardigrade**
+
+### `malȕ`
+_verb_  
+	**include**
+
+### `mamèe̋`
+_verb_  
+	**throw**
+
+### `mamòl`
+_noun_  
+	**pyrosome**
+
+### `mà`
+_noun_  
+	**C**; 12; only used for hexadecimal
+
+### `màȅ`
+_verb_  
+	**understand**
+
+### `màjāl`
+_noun_  
+	**stony-coral**
+
+### `màl`
+_noun_  
+	**adolescent**
+
+### `màm`
+_noun_  
+	**foot**
+
+### `màma̋l`
+_verb_  
+	**mock**
+
+### `màmu`
+_noun_  
+	**repository**; a body of technical knowledge we might call [`rāpűm`](#rāpűm)
+
+### `màpál`
+_noun_  
+	**yew**
+
+### `màpām`
+_noun_  
+	**scaphopod**; a type of molusk
+
+### `má`
+_noun_  
+	**sphere**
+
+### `máē`
+_noun_  
+	**columbimorphae**; pidgeons, doves, sandgrouses, and mesites
+
+### `májèl`
+_noun_  
+	**warm-season-grass**; includes sugarcane, maize, sorghum, and switchgrass
+
+### `májȕl`
+_verb_  
+	**dimensional**; i.e. 2D or 3D
+
+### `májȕm`
+_verb_  
+	**approve**
+
+### `málȁl`
+_verb_  
+	**sarcastic**
+
+### `málūl`
+_noun_  
+	**cattail-plant**; typhaceae
+
+### `mám`
+_noun_  
+	**metal**
+
+### `mámá`
+_noun_  
+	**termite**
+
+### `mámāl`
+_noun_  
+	**South-America**
+
+### `mámȕ`
+_verb_  
+	**watch**
+
+### `mápe̋l`
+_verb_  
+	**dexterous**
+
+### `mápe̋m`
+_verb_  
+	**imprison**
+
+### `márȁ`
+_verb_  
+	**shameful**
+
+### `máré`
+_noun_  
+	**cockoroach**
+
+### `márúl`
+_noun_  
+	**yam-plant**
+
+### `márúm`
+_noun_  
+	**grass**; poaceae
+
+### `máù`
+_noun_  
+	**tuatara**; a lizard-type thing
+
+### `mā`
 _pronoun_  
 	**us-all**; the speaker, the listener, and others
 
-### `māmá`
+### `māal`
 _noun_  
-	**mammal**
+	**canine**; describes wolves, dingoes, and foxes
+
+### `māalòlà`
+_compound noun_  
+	**dog**
+
+### `mājȕ`
+_verb_  
+	**further**; a goal or agenda
+
+### `māl`
+_noun_  
+	**money**
+
+### `mālal`
+_noun_  
+	**crab**; also includes lobsters
+
+### `mālé`
+_noun_  
+	**freshwater-butterflyfish**
+
+### `mālūm`
+_noun_  
+	**US-Canada**
+
+### `mām`
+_noun_  
+	**adult**; older than 7 chunks or so
+
+### `māmȁ`
+_verb_  
+	**rule-place**
 
 ### `māmȁl`
 _verb_  
-	**staff**; provide support in a manner not directly related to the main thing
+	**correspond**; relate - not write
 
-### `māmèré`
+### `māmèm`
 _noun_  
-	**bacterium**
+	**soft-coral**
 
-### `māmèú`
+### `māme̋`
+_verb_  
+	**remove**
+
+### `māmō`
 _noun_  
-	**monoplacophora**; a type of molosk
+	**maxillopod**; barnacles and copepods
 
-### `māmém`
-_noun_  
-	**eel**
-
-### `māme̋m`
+### `māpȁl`
 _verb_  
-	**individual**
-
-### `māmȕm`
-_verb_  
-	**describe**
-
-### `māpá`
-_noun_  
-	**lagomorpha**; rabbits, hares, pikas
-
-### `māpūȕm`
-_verb_  
-	**fresh**
-
-### `māpűl`
-_verb_  
-	**warm**; of a color
-
-### `mārà`
-_noun_  
-	**fire**
-
-### `mārāma̋m`
-_verb_  
-	**classy**; the quality of being expensive and unneccesary
-
-### `mārèpa̋`
-_verb_  
-	**musty**
-
-### `māùpȁm`
-_verb_  
-	**big-picture**
-
-### `māȕm`
-_verb_  
-	**lose**; a contest
+	**attention-pay**
 
 ### `ma̋`
 _verb_  
-	**possible**; can happen
+	**want**
 
-### `ma̋e̋`
-_compound verb_  
-	**can**
+### `ma̋ȁ`
+_verb_  
+	**trail**; a person or thing
 
-### `ma̋e̋jáȅm`
-_compound verb_  
-	**can-remember**
+### `ma̋l`
+_verb_  
+	**index**; order in a list
+
+### `ma̋la̋l`
+_verb_  
+	**finish**; end a long habitual process
 
 ### `ma̋m`
 _verb_  
-	**thin**; minimum dimension
+	**effective**
+
+### `ma̋mȍm`
+_verb_  
+	**achieve**; a goal
+
+### `ma̋pa̋l`
+_verb_  
+	**remotely-control**
+
+### `ma̋pȁl`
+_verb_  
+	**cook**; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave
+
+### `ma̋pȁlmȅpȕm`
+_compound verb_  
+	**bake**
+
+### `ma̋ra̋`
+_verb_  
+	**interested**; in the indirect object
+
+### `ma̋ra̋m`
+_verb_  
+	**amused**
+
+### `ma̋rȁ`
+_verb_  
+	**frequent**; rate at which something oscillates, progresses, or decays with respect to time
+
+### `ma̋rőm`
+_verb_  
+	**hit**; intentionally cause a collision with something
 
 ### `mȁ`
 _verb_  
-	**allow**; give permission
+	**inside**; small distance from center
 
 ### `mȁl`
 _verb_  
-	**bright**
+	**move**; around but not necessarily with a direction
 
 ### `mȁm`
 _verb_  
-	**little**; less; the subject is less than the direct object by the amount
+	**after**; +t
+
+### `mȁmȁ`
+_verb_  
+	**sort**
+
+### `mȁpő`
+_verb_  
+	**design**
+
+### `mejumȁ`
+_verb_  
+	**famous**
+
+### `meőm`
+_verb_  
+	**systemize**; place something in a system; interpret something as being part of a whole
+
+### `mepám`
+_noun_  
+	**fly**; in the taxonomical sense excluding mosquitos and houseflies
+
+### `mepȕl`
+_verb_  
+	**join**; a group
+
+### `merōl`
+_noun_  
+	**palpigrade**
+
+### `merȕl`
+_verb_  
+	**separated**; individuality
 
 ### `mety`
 _loanword_  
 	**meter**
 
+### `meù`
+_noun_  
+	**rock**; not necessarily earthy
+
 ### `mè`
-_noun_  
-	**2**
+_pronoun_  
+	**y'all**; the listener and others
 
-### `mèàlȁm`
+### `mèe̋m`
 _verb_  
-	**forward-to-look**; like [`pèpȁm`](#pèpȁm)
+	**record**
 
-### `mèè`
-_noun_  
-	**foot**
-
-### `mèējēl`
-_noun_  
-	**cool-season-grass**; includes wheat, barley, oat, rye, and some lawn grasses
-
-### `mèjȕm`
+### `mèjȍ`
 _verb_  
-	**introversion**
+	**smite**; lightning strike
 
-### `mèlūm`
-_noun_  
-	**pufferfish**
-
-### `mèmȕm`
+### `mèjȍl`
 _verb_  
-	**amused**
+	**dumb**; the quality of not understanding many abstract concepts regarding the indirect object
 
-### `mèpā`
+### `mèjű`
+_verb_  
+	**role-fill**
+
+### `mèlȅm`
+_verb_  
+	**obvious**
+
+### `mèlol`
+_noun_  
+	**cariamiforme**; it's a flightless terrestrial bird
+
+### `mèlom`
+_noun_  
+	**plankton**; anything microscopic that belongs to nephrozoa
+
+### `mèm`
+_noun_  
+	**sound**
+
+### `mèmā`
+_noun_  
+	**horseshoe-crab**
+
+### `mèmém`
+_noun_  
+	**Middle-East**
+
+### `mèmūl`
+_noun_  
+	**polypodizoa**; jellyfish-like parasites
+
+### `mèpe̋l`
+_verb_  
+	**substitute**
+
+### `mèul`
 _noun_  
 	**physics**
 
-### `mèpùrȅm`
-_verb_  
-	**virtual**; digitalness
-
-### `mèpūla̋l`
-_verb_  
-	**bladder-full**; the feeling of having to pee
-
-### `mèréje̋m`
-_verb_  
-	**sympathize**
-
-### `mèrȅ`
-_verb_  
-	**run**
-
-### `mèrūpȕm`
-_verb_  
-	**liberal**; political
-
-### `mèrȕm`
-_verb_  
-	**combine**
-
 ### `mé`
-_postposition_  
-	**thats-why**; denotes cause
-
-### `méa̋`
-_verb_  
-	**attempt**; try
-
-### `méjām`
 _noun_  
-	**mosquito**
+	**2**
 
-### `méjū`
-_noun_  
-	**whale**; also refers to dolphins and porpoises
-
-### `méjūpȁl`
+### `méa̋m`
 _verb_  
-	**sober**
+	**reassure**
+
+### `méjű`
+_verb_  
+	**whole**
 
 ### `mél`
 _noun_  
-	**spoken-language**
+	**reality**; any imagined or simulated or real universe
 
-### `mélā`
+### `mélē`
 _noun_  
-	**feces**
-
-### `méle̋l`
-_verb_  
-	**late**; +t; like [`pȕl`](#pȕl)
-
-### `méle̋llá`
-_compound verb_  
-	**date**
-
-### `méle̋llárèma̋l`
-_compound verb_  
-	**birthday**
-
-### `mélùl`
-_noun_  
-	**cockoroach**
-
-### `mélūl`
-_noun_  
-	**bowfin**
-
-### `mélȕl`
-_verb_  
-	**leisure**
+	**pufferfish**
 
 ### `mém`
 _noun_  
-	**line**; of the segment or infinite variety
+	**meme**
 
-### `mémȁm`
+### `méme̋`
 _verb_  
-	**rest**; to be on something
+	**lose**; a contest
 
-### `mépàm`
+### `mémú`
 _noun_  
-	**arthropod**
+	**shrimp**; pretty loose descriptor of most eumalacostraca
 
-### `mépámȕl`
-_verb_  
-	**rapid**; of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email
+### `mémūl`
+_noun_  
+	**zoantharia**
 
-### `mépȁ`
-_verb_  
-	**spaciousness**
+### `méól`
+_noun_  
+	**fish**
 
-### `méȕ`
+### `mépő`
 _verb_  
-	**greet**
+	**warm**; of a color
 
 ### `mē`
 _noun_  
-	**D**; 13; only used for hexadecimal
+	**blob**
 
-### `mējà`
-_noun_  
-	**elephant**
-
-### `mējàám`
-_noun_  
-	**cupressacea**; junipers, redwoods, and some other types of conifers
-
-### `mējȁ`
+### `mēa̋l`
 _verb_  
-	**level**; general discrete measure of progress
+	**chroma**; saturation of color
 
-### `mējùál`
+### `mējòm`
 _noun_  
-	**box-jellyfish**
-
-### `mējúrā`
-_noun_  
-	**ginkgo biloba**; a unique Japanese tree
+	**petrosaviaceae**; flowering plants of Petrosaviales
 
 ### `mēl`
-_pronoun_  
-	**us-here**; the speaker and the listener
-
-### `mēlāra̋`
-_verb_  
-	**unlocked**
-
-### `mēlȁl`
-_verb_  
-	**joyful**
+_noun_  
+	**summer**
 
 ### `mēm`
-_postposition_  
-	**according-to**; denotes source
+_noun_  
+	**fruit**
 
-### `mēmȁm`
+### `mēmől`
 _verb_  
-	**dispose**
+	**dirty**
 
-### `mēmél`
-_noun_  
-	**lamprey**
-
-### `mēmēje̋`
+### `mēpő`
 _verb_  
-	**parse**; interpret information encoded somehow
+	**cover**; physical
 
-### `mēmūl`
-_noun_  
-	**zorapteran**; a type of insect bug thing
-
-### `mēpȁl`
+### `mēre̋`
 _verb_  
-	**special**; uniqueness
+	**divide**; into the direct object
 
-### `mēpēl`
+### `mēre̋ēm`
+_compound verb_  
+	**divide-in-thirds**
+
+### `mēre̋jō`
+_compound verb_  
+	**divide-in-fifteenths**
+
+### `mēre̋lē`
+_compound verb_  
+	**divide-in-fifths**
+
+### `mēre̋mà`
+_compound verb_  
+	**divide-in-twelfths**
+
+### `mēre̋mé`
+_compound verb_  
+	**divide-in-half**
+
+### `mēre̋pá`
+_compound verb_  
+	**divide-in-sixths**
+
+### `mēre̋pú`
+_compound verb_  
+	**divide-in-quarters**
+
+### `mēre̋rù`
+_compound verb_  
+	**divide-in-tenths**
+
+### `mēre̋rú`
+_compound verb_  
+	**divide-in-sevenths**
+
+### `mērùl`
 _noun_  
-	**seahorse**
-
-### `mēra̋l`
-_verb_  
-	**matrix**; table of numbers
-
-### `mērúm`
-_noun_  
-	**pantopod**; they're like spiders, but in the ocean!
-
-### `mērūl`
-_noun_  
-	**beetle**
+	**monoplacophora**; a type of molosk
 
 ### `me̋`
 _verb_  
-	**inside**; small distance from center
+	**outside**; large distance from center
+
+### `me̋jȅ`
+_verb_  
+	**uncommon**; time between events in a series of happenings
 
 ### `me̋l`
 _verb_  
-	**lead**
+	**clothed**
+
+### `me̋lȅm`
+_verb_  
+	**pollute**
 
 ### `me̋m`
 _verb_  
-	**inept**; unskillfulness
+	**next**; to be next in an order
+
+### `me̋ópȕ`
+_verb_  
+	**cancel-out**; destructively interfere
+
+### `me̋ől`
+_verb_  
+	**massive**
+
+### `me̋rȍ`
+_verb_  
+	**wait**
+
+### `me̋rȍm`
+_verb_  
+	**idiotic**; the innate inability to solve riddles and puzzles
+
+### `me̋rű`
+_verb_  
+	**hungry**; for food, sex, etc.
+
+### `me̋űl`
+_verb_  
+	**ponder**; a subject
 
 ### `mȅ`
-_tense-marker_  
-	**good**; antisalutory
+_verb_  
+	**short**; physical distance; maximum dimension; see [`la̋m`](#la̋m)
+
+### `mȅjȕm`
+_verb_  
+	**structural-strong**; resistance to breaking bending or deforming
 
 ### `mȅl`
 _verb_  
-	**misplace**; lose an object
+	**same**; none; the subject equals the direct object numerically
 
 ### `mȅm`
 _verb_  
-	**averse**; to a task
+	**fail**
+
+### `mȅpȕm`
+_verb_  
+	**dry**
+
+### `moja`
+_noun_  
+	**detail**
+
+### `molȁm`
+_verb_  
+	**eat**
+
+### `mom`
+_postposition_  
+	**ly**; denotes manner
+
+### `momőm`
+_verb_  
+	**win**
+
+### `morȁ`
+_verb_  
+	**walk**
+
+### `morȁm`
+_verb_  
+	**explain**
+
+### `morőm`
+_verb_  
+	**convert**; as in a rate or ratio
+
+### `moúl`
+_noun_  
+	**shrew-oppossum**; more closely related to Australia than possums
+
+### `moű`
+_verb_  
+	**lively**; be alive
+
+### `mò`
+_noun_  
+	**10^**; or 12^, or whatever depending on the radix
+
+### `mòe̋`
+_verb_  
+	**reason**
+
+### `mòje`
+_noun_  
+	**whale**; also refers to dolphins and porpoises
+
+### `mòjōm`
+_noun_  
+	**robot**; anything with automated actuation
+
+### `mòjȍ`
+_verb_  
+	**lead-to**; be a door; subject is door, direct object is thing on other side, indirect object is thing on this side
+
+### `mòjȕ`
+_verb_  
+	**lift**
+
+### `mòl`
+_noun_  
+	**box**
+
+### `mòmȁl`
+_verb_  
+	**out-of**; direct object is long/deep thing
+
+### `mòu`
+_noun_  
+	**feces**
+
+### `mó`
+_postposition_  
+	**by**; as; denotes method
+
+### `mól`
+_noun_  
+	**string**
+
+### `mólō`
+_noun_  
+	**squalomorph-shark**
+
+### `mópém`
+_noun_  
+	**pontederiacea**; a family of aquatic wetland plants
+
+### `mō`
+_noun_  
+	**-**
+
+### `mōjàl`
+_noun_  
+	**eudicot**; a generic plant clade
+
+### `mōl`
+_noun_  
+	**head**
+
+### `mōlȍ`
+_verb_  
+	**play**; a game or a sport
+
+### `mōma̋m`
+_verb_  
+	**stand**; structurally e.g. a building
+
+### `mōmō`
+_noun_  
+	**galean-shark**
+
+### `mōpűl`
+_verb_  
+	**poison-apply**
+
+### `mōre̋l`
+_verb_  
+	**weak**; inability to exact force
+
+### `mōrȅm`
+_verb_  
+	**entertain**; as in a movie, play, or skit
+
+### `mő`
+_verb_  
+	**prosper**
+
+### `mől`
+_verb_  
+	**still**
+
+### `mőma̋m`
+_verb_  
+	**encode**
+
+### `mőpȁ`
+_verb_  
+	**fun-have**
+
+### `mőpȍ`
+_verb_  
+	**legislate**
+
+### `mȍ`
+_verb_  
+	**broad**; middle dimension
+
+### `mȍl`
+_verb_  
+	**succeed**
+
+### `mȍra̋m`
+_verb_  
+	**shoot**; a projectile at something
+
+### `mulé`
+_noun_  
+	**stork**
+
+### `mulūē`
+_noun_  
+	**fern**
+
+### `mulȕl`
+_verb_  
+	**violate**; a rule
+
+### `mum`
+_qualifier_  
+	**any**; single element
+
+### `mumȅl`
+_verb_  
+	**split-up**
+
+### `mupām`
+_noun_  
+	**paraneoptera**; bugs, thrips, and lice
+
+### `muróm`
+_noun_  
+	**phoronid**
 
 ### `mus`
 _loanword_  
 	**banana**
 
+### `muùl`
+_noun_  
+	**penguin**
+
 ### `mù`
-_fastener_  
-	**how-many**; specifies amount degree or number
-
-### `mùājá`
 _noun_  
-	**decapodiforme**; includes squid and cuttlefish
+	**morning**; ;00-;50 or 00:00-12:00
 
-### `mùa̋l`
+### `mùjȅm`
 _verb_  
-	**nice**
-
-### `mùe̋`
-_verb_  
-	**point-gesture**; point at something
-
-### `mùjàpe̋`
-_verb_  
-	**clean**
-
-### `mùjȁ`
-_verb_  
-	**consider**
-
-### `mùjȁl`
-_verb_  
-	**remarkable**; unlikeliness
-
-### `mùjēm`
-_noun_  
-	**sealily**
-
-### `mùjúlū`
-_noun_  
-	**stalked-jellyfish**
-
-### `mùjȕl`
-_verb_  
-	**time-distance**
+	**expert**; a person who is not a layperson
 
 ### `mùl`
 _noun_  
-	**male**
+	**elder**; senior citizen
 
-### `mùlȁ`
-_verb_  
-	**hope**
-
-### `mùmāré`
+### `mùlum`
 _noun_  
-	**pine-tree**; includes cedars, firs, hemlocks, larches, and spruces
+	**sealily**
 
-### `mùma̋`
-_verb_  
-	**contain**
-
-### `mùmúra̋`
-_verb_  
-	**detail-oriented**
-
-### `mùműm`
-_verb_  
-	**wait**
-
-### `mùmȕl`
-_verb_  
-	**cover**; physical
-
-### `mùpápa̋m`
-_verb_  
-	**incomplete**
-
-### `mùpȕm`
-_verb_  
-	**throw**
-
-### `mùrāl`
+### `mùlù`
 _noun_  
-	**leptostrac**
+	**owl**
 
-### `mùra̋l`
-_verb_  
-	**nostalgic**
-
-### `mùrél`
+### `mùmól`
 _noun_  
-	**condor**; also encompasses New World vultures
+	**Sub-Saharan-Africa**
 
-### `mùūrűl`
+### `mùō`
+_noun_  
+	**snake**
+
+### `mùȍ`
 _verb_  
-	**boil**
+	**fringe**; refers to being secondary or minor
+
+### `mùpȁl`
+_verb_  
+	**flexible**; tendency to bend when force is applied
+
+### `mùra̋`
+_verb_  
+	**cinematograph**
+
+### `mùre̋l`
+_verb_  
+	**fragile**; tendency to break
+
+### `mùről`
+_verb_  
+	**pleased**; basic euphoria from food, music, or sex
+
+### `mùrȍl`
+_verb_  
+	**rotten**
 
 ### `mú`
-_qualifier_  
-	**even**; stressed
-
-### `mújȁl`
-_verb_  
-	**log-out**
-
-### `mújúrē`
 _noun_  
-	**segmented-worm**; any member of annelida besides leeches and beardworms
+	**rod**
+
+### `múȅl`
+_verb_  
+	**beautiful**; of a person
+
+### `mújȁm`
+_verb_  
+	**arrange**; in an order
+
+### `mújul`
+_noun_  
+	**elopomorpha**; ladyfishes, tarpons, and bonefishes, but not eels
+
+### `mújūm`
+_noun_  
+	**blue-coral**
 
 ### `múl`
 _noun_  
-	**sphere**
+	**ceramic**
 
-### `múlāpȁm`
+### `múmű`
 _verb_  
-	**name**; indirect object is person, direct object is name
-
-### `múlūjȕ`
-_verb_  
-	**slice**
-
-### `múlȕl`
-_verb_  
-	**further**; a goal or agenda
-
-### `múmȁm`
-_verb_  
-	**in-season**; a time of year when something is "in"
-
-### `múmèmà`
-_noun_  
-	**nemertea**; ribbon worms or probiscis worms
-
-### `múme̋m`
-_verb_  
-	**worried**
+	**share**
 
 ### `múműm`
 _verb_  
-	**kill**
+	**wonder**
 
-### `múmȕ`
-_verb_  
-	**care**; believe that something merits concern on a subconcious level; contrast with [`rāja̋`](#rāja̋)
-
-### `múpàl`
+### `múpam`
 _noun_  
-	**paraneoptera**; bugs, thrips, and lice
+	**ray**; the ocean variety
 
-### `múrȕl`
-_verb_  
-	**sleepy**
-
-### `múúja̋m`
-_verb_  
-	**entertain**; as in a movie, play, or skit
-
-### `múūm`
+### `múpel`
 _noun_  
-	**meme**
+	**mayfly**
+
+### `múpom`
+_noun_  
+	**ostracoda**; seed shrimp
+
+### `múpōl`
+_noun_  
+	**alga**
+
+### `múrāl`
+_noun_  
+	**philydracea**; herbaceous monocotyledonous plants
 
 ### `mū`
 _noun_  
-	**the-past**
+	**evening**; ;50-;00 or 12:00-00:00
 
-### `mūàm`
+### `mūa`
 _noun_  
-	**skunk**
+	**fire**
 
-### `mūa̋`
-_verb_  
-	**tardiness**; for meetings and such, or habitually
-
-### `mūèl`
+### `mūjē`
 _noun_  
-	**pig**
+	**accipitridae**; hawks, eagles, kites, Old World vultures, and a few other things
 
-### `mūjȁm`
+### `mūjȍm`
 _verb_  
-	**court**; date
+	**insert**
 
-### `mūjȕ`
+### `mūmȕl`
 _verb_  
-	**outdoorsness**
+	**fancy**
 
-### `mūl`
+### `mūpȍm`
+_verb_  
+	**unhumid**
+
+### `mūrȁ`
+_verb_  
+	**unmassive**
+
+### `mūrom`
 _noun_  
-	**plains**
-
-### `mūle̋l`
-_verb_  
-	**dull**; of an edge or blade
-
-### `mūlūpa̋l`
-_verb_  
-	**rough**
-
-### `mūm`
-_pronoun_  
-	**you**; the listener
-
-### `mūmál`
-_noun_  
-	**stonefly**
-
-### `mūmé`
-_noun_  
-	**information**; a notion, number, etc.
-
-### `mūmȕm`
-_verb_  
-	**note-leave**
-
-### `mūpālā`
-_noun_  
-	**corallimorpharia**
-
-### `mūpa̋m`
-_verb_  
-	**interested**; in the indirect object
-
-### `mūpú`
-_noun_  
-	**tapir**
-
-### `mūpűm`
-_verb_  
-	**significant**
-
-### `mūùm`
-_noun_  
-	**chevrotain**
-
-### `mūȕ`
-_verb_  
-	**write**; etch symbols into something; record something in a physical object; save a file
+	**mecoptera**; flying scorpions!
 
 ### `mű`
 _verb_  
-	**shouldn't**; how bad a decision is
+	**relate**; to a topic
 
 ### `műl`
 _verb_  
-	**disappear**
+	**comprise**
 
-### `műm`
+### `műmőm`
 _verb_  
-	**willing**
+	**unintelligent**; the innate inability to grasp a subject or concept
+
+### `műmȕm`
+_verb_  
+	**worried**
+
+### `műről`
+_verb_  
+	**vibrant**; diversity of color
 
 ### `mȕ`
+_tense-marker_  
+	**!**; imperative
+
+### `mȕje̋`
 _verb_  
-	**cause**
+	**expectation-exceed**
 
-### `mȕȁmāȕ`
-_compound verb_  
-	**raise**
-
-### `mȕȁmpȁl`
-_compound verb_  
-	**lower**
-
-### `mȕȁmpúmȁl`
-_compound verb_  
-	**cause-to-break**
-
-### `mȕjàjȅl`
-_compound verb_  
-	**heat**
+### `mȕjől`
+_verb_  
+	**detail-oriented**
 
 ### `mȕl`
 _verb_  
-	**index**; order in a list
+	**write**; etch symbols into something; record something in a physical object; save a file
 
-### `mȕla̋`
-_compound verb_  
-	**deliver**; move the direct object to the indirect object
-
-### `mȕlèlűl`
-_compound verb_  
-	**keep-cool**
-
-### `mȕm`
+### `mȕla̋m`
 _verb_  
-	**left**; -x
+	**unappealing**; of a picture, sound, etc.
+
+### `mȕrȍm`
+_verb_  
+	**name**; indirect object is person, direct object is name
 
 ### `nihong`
 _loanword_  
 	**Japan**
 
+### `ojàrol`
+_noun_  
+	**commelinacea**; plants with fleshy succulent leaves
+
+### `ojȅl`
+_verb_  
+	**plan**
+
+### `olȕ`
+_verb_  
+	**small**
+
+### `orām`
+_noun_  
+	**computer**
+
+### `orȕm`
+_verb_  
+	**craze**; act erratically or illogically; does not necessarily refer to mental illness
+
+### `ò`
+_conjunction_  
+	**unquote**
+
+### `òjàm`
+_noun_  
+	**flea**
+
+### `òje̋m`
+_verb_  
+	**public**; be exposed to others
+
+### `òjȅ`
+_verb_  
+	**rude**
+
+### `òl`
+_noun_  
+	**span**; 10^-3 days
+
+### `òlal`
+_noun_  
+	**red-panda**
+
+### `òlà`
+_noun_  
+	**human**
+
+### `òm`
+_pronoun_  
+	**it**; a previously mentioned noun phrase
+
+### `òmō`
+_noun_  
+	**bird**
+
+### `òmúm`
+_noun_  
+	**brachiopod**
+
+### `òòl`
+_noun_  
+	**elephant**
+
+### `òóm`
+_noun_  
+	**scandentia**; treeshrews
+
+### `òpaűl`
+_verb_  
+	**courageous**
+
+### `òpeȍl`
+_verb_  
+	**hold-dear**
+
+### `òpȕl`
+_verb_  
+	**sentience**; I'm not going to try to define it here; I have a definition, but it cannot be put into words
+
+### `òré`
+_noun_  
+	**lizard**
+
+### `ó`
+_postposition_  
+	**sbj**; denotes subject
+
+### `ójȅȕm`
+_verb_  
+	**lagging**; distance or fraction away from a goal or destination
+
+### `ól`
+_noun_  
+	**daytime**; ;25-;75 or 06:00-18:00 or whenever the sun is up
+
+### `óló`
+_noun_  
+	**primatomorpha**; basically monkeys and apes plus a few other types of primate
+
+### `ólul`
+_noun_  
+	**otidae**; bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds
+
+### `óm`
+_noun_  
+	**instance**
+
+### `ómò`
+_noun_  
+	**hyrax**; little rodent-like things
+
+### `ómul`
+_noun_  
+	**hippopotamus**
+
+### `ópè`
+_noun_  
+	**shorebird**
+
+### `óro`
+_noun_  
+	**letter**; phoneme; character
+
+### `ō`
+_pronoun_  
+	**one**; no meaning
+
+### `ōél`
+_noun_  
+	**opossum**
+
+### `ōl`
+_qualifier_  
+	**even**; stressed
+
+### `ōlȍl`
+_verb_  
+	**suffice**; be enough
+
+### `ōlūl`
+_noun_  
+	**entognatha**; six-legged bugs that are not insects
+
+### `ōm`
+_postposition_  
+	**according-to**; denotes source
+
+### `ōmóm`
+_noun_  
+	**ascidiacea**; sea squirts
+
+### `ōmő`
+_verb_  
+	**repeat**
+
+### `ōpèmà`
+_compound pronoun_  
+	**one-to-which-**; the indirect object of the following verb
+
+### `ōpèmàajőmlúl`
+_compound noun_  
+	**part-of-speech**
+
+### `ōpèmàle̋lȕllúl`
+_compound noun_  
+	**dictionary**
+
+### `ōpèmá`
+_compound pronoun_  
+	**amount-of-**; the extent of the following verb
+
+### `ōpèmálorȁmjóm`
+_compound noun_  
+	**year**
+
+### `ōpèmē`
+_compound pronoun_  
+	**one-that-gets-**; the direct object of the following verb
+
+### `ōpèmējōpőlāpȅl`
+_compound noun_  
+	**bathroom**
+
+### `ōpèmējúja̋lraȁ`
+_compound noun_  
+	**empire**
+
+### `ōpèmērālȕlém`
+_compound noun_  
+	**plane**
+
+### `ōpèmērālȕlēm`
+_compound noun_  
+	**spaceship**
+
+### `ōpèmērālȕràm`
+_compound noun_  
+	**boat**
+
+### `ōpèmērùȅjā`
+_compound noun_  
+	**peasant**
+
+### `ōpèmjé`
+_compound pronoun_  
+	**place**
+
+### `ōpèmjérùȅjā`
+_compound pronoun_  
+	**kingdom**
+
+### `ōpèmjē`
+_compound pronoun_  
+	**purpose**
+
+### `ōpèmlō`
+_compound pronoun_  
+	**cause-event**
+
+### `ōpèmmó`
+_compound pronoun_  
+	**method**
+
+### `ōpèmmórómȍljēmùlò`
+_compound pronoun_  
+	**map-projection**
+
+### `ōpèmó`
+_compound pronoun_  
+	**one-that-**; -er; the subject of the following verb
+
+### `ōpèmóēújȍóro`
+_compound noun_  
+	**alphabet**
+
+### `ōpèmórùȅjā`
+_compound noun_  
+	**king**
+
+### `ōpèmórȕōrȕllém`
+_compound noun_  
+	**air-conditioning**
+
+### `ōpèmrē`
+_compound pronoun_  
+	**context**
+
+### `ōpèmrol`
+_compound pronoun_  
+	**medium**; tool
+
+### `ōpèmùm`
+_compound pronoun_  
+	**time**; e.g. Tuesday, 4pm, 3;42
+
+### `ōpe̋`
+_verb_  
+	**rescue**
+
+### `ōpo`
+_noun_  
+	**gland**; node or organ
+
+### `ōrȁl`
+_verb_  
+	**regurgitate**
+
+### `ōre̋m`
+_verb_  
+	**birth-give**; the physical act
+
+### `ōrūl`
+_noun_  
+	**lamprey**
+
+### `ōrȕl`
+_verb_  
+	**cold**
+
+### `ő`
+_verb_  
+	**be**; this is ==, not .equals(
+
+### `őa̋`
+_verb_  
+	**jostle**; move in place
+
+### `őe̋m`
+_verb_  
+	**lie**; deceive
+
+### `őȅm`
+_verb_  
+	**open**
+
+### `ől`
+_verb_  
+	**thin**; minimum dimension
+
+### `őm`
+_verb_  
+	**possess**
+
+### `őrȅl`
+_verb_  
+	**foundation-form**
+
+### `ȍ`
+_verb_  
+	**happen**
+
+### `ȍl`
+_verb_  
+	**unbecome**; the act of a state ceasing to be true; often used in compound words with states
+
+### `ȍle̋m`
+_verb_  
+	**together**; work as a team
+
+### `ȍm`
+_verb_  
+	**allow**; give permission
+
+### `ȍmőm`
+_verb_  
+	**magenta**; stimulation of L and S cones
+
+### `ȍmȍm`
+_verb_  
+	**log-out**
+
+### `ȍpòő`
+_verb_  
+	**exclusive**
+
+### `ȍrȕl`
+_verb_  
+	**foreign**
+
+### `pajà`
+_noun_  
+	**feline**
+
+### `pajàòlà`
+_compound noun_  
+	**cat**
+
+### `palȕm`
+_verb_  
+	**anxious**
+
+### `pamóà`
+_noun_  
+	**mushroom**; or toadstool
+
+### `papòl`
+_noun_  
+	**scorpion**
+
+### `parȅ`
+_verb_  
+	**meet**
+
+### `parȅl`
+_verb_  
+	**difficult**; of the subject for the direct object
+
 ### `pà`
 _noun_  
 	**snap**; 10^-5 days
 
-### `pàe̋l`
-_verb_  
-	**randomize**; an order or setup
-
-### `pàe̋m`
-_verb_  
-	**care-take**
-
-### `pàjá`
+### `pàe`
 _noun_  
-	**landfowl**; chickens, turkeys, and pheasants
+	**snow**
 
-### `pàjápȁl`
+### `pàjő`
 _verb_  
-	**unintelligent**; the innate inability to grasp a subject or concept
+	**dispose**
 
 ### `pàl`
 _noun_  
-	**elder**; senior citizen
+	**leg**
 
-### `pàlàjűl`
-_verb_  
-	**sesquipedalian**
-
-### `pàm`
+### `pàlam`
 _noun_  
-	**adolescent**
+	**seastar**
 
-### `pàmálȕl`
-_verb_  
-	**brief**
-
-### `pàmē`
-_noun_  
-	**waterfowl**
-
-### `pàpȅl`
-_verb_  
-	**anxious**
-
-### `pàpū`
-_noun_  
-	**water**
-
-### `pàpȕ`
-_verb_  
-	**off-build**
-
-### `pàrűl`
-_verb_  
-	**pleased**; basic euphoria from food, music, or sex
-
-### `pàù`
-_noun_  
-	**penis**
-
-### `pá`
-_postposition_  
-	**than**; denotes extent, amount, or quantity
-
-### `páèl`
-_noun_  
-	**vombatiforme**; koalas and wombats
-
-### `páém`
-_noun_  
-	**mathematics**
-
-### `páȅm`
-_verb_  
-	**near**; physical or numerical
-
-### `páje̋m`
-_verb_  
-	**cool**; of a color
-
-### `pájű`
-_verb_  
-	**acute**; angular closeness with indirect object being centrum
-
-### `pálàpe̋l`
-_verb_  
-	**function**; do what one is supposed to
-
-### `pálél`
-_noun_  
-	**phasmid**; stick and leaf insects
-
-### `pálūjȅ`
-_verb_  
-	**flicker**; any rapid oscillation
-
-### `pálȕm`
-_verb_  
-	**proud**; the happiness associated with feeling like a productive member of society
-
-### `pám`
-_noun_  
-	**evening**; ;50-;00 or 12:00-00:00
-
-### `pámáe̋l`
-_verb_  
-	**summon**
-
-### `pámējū`
-_noun_  
-	**stinkhorn**
-
-### `pámȅl`
-_verb_  
-	**generalize**
-
-### `pámúl`
-_noun_  
-	**caddisfly**
-
-### `pápùlȕm`
-_verb_  
-	**knowledgeable**; the state of knowing a lot of facts about the indirect object
-
-### `pápűl`
-_verb_  
-	**sad**
-
-### `páràm`
-_noun_  
-	**cariamiforme**; it's a flightless terrestrial bird
-
-### `párúpa̋l`
-_verb_  
-	**laggy**; of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting
-
-### `pā`
-_postposition_  
-	**via**; with; through; denotes tool or medium
-
-### `pāā`
-_noun_  
-	**arm**
-
-### `pājèpűl`
-_verb_  
-	**replace**
-
-### `pāl`
-_noun_  
-	**child**
-
-### `pāla̋m`
-_verb_  
-	**sibling-be**
-
-### `pālújá`
-_noun_  
-	**tree**
-
-### `pām`
-_fastener_  
-	**aka**; draws equality
-
-### `pāmàlȅ`
-_verb_  
-	**loud**; brightness; volume; strength
-
-### `pāmèpàl`
-_noun_  
-	**warm-season-grass**; includes sugarcane, maize, sorghum, and switchgrass
-
-### `pāme̋l`
-_verb_  
-	**exclusive**
-
-### `pāpájùl`
-_noun_  
-	**North-Africa**
-
-### `pāpa̋`
-_verb_  
-	**expectation-exceed**
-
-### `pāpa̋m`
-_verb_  
-	**quick**; computationally
-
-### `pāpèle̋m`
-_verb_  
-	**whisper**; speak without voicing
-
-### `pāpùm`
-_noun_  
-	**ricinulei**
-
-### `pārèma̋l`
-_verb_  
-	**dimensional**; i.e. 2D or 3D
-
-### `pārúl`
-_noun_  
-	**embiidina**; web-spinning insects
-
-### `pārűl`
-_verb_  
-	**random-generate**
-
-### `pa̋`
-_verb_  
-	**ask**; use an interrogative sentence; request information
-
-### `pa̋l`
-_verb_  
-	**work**; do work or be productive
-
-### `pa̋m`
-_verb_  
-	**clockwise**; angular orientation from the point of view of the direct object
-
-### `pȁ`
-_verb_  
-	**tell**; use an imperative sentence; instruct; command
-
-### `pȁl`
-_verb_  
-	**low**; -z
-
-### `pȁm`
-_verb_  
-	**south**
-
-### `pè`
-_noun_  
-	**the-future**
-
-### `pèàm`
-_noun_  
-	**lizard**
-
-### `pèjāmé`
-_noun_  
-	**yew**
-
-### `pèja̋l`
-_verb_  
-	**remove**
-
-### `pèjé`
-_noun_  
-	**canine**; describes wolves, dingoes, and foxes
-
-### `pèjéjàpè`
-_compound noun_  
-	**dog**
-
-### `pèl`
-_noun_  
-	**tundra**
-
-### `pèlámēl`
-_noun_  
-	**eudicot**; a generic plant clade
-
-### `pèlāl`
-_noun_  
-	**centipede**
-
-### `pèlūlȕ`
-_verb_  
-	**bury**
-
-### `pèm`
-_noun_  
-	**neutered-or-spayed**
-
-### `pèmù`
-_noun_  
-	**fact**; not necessarily true, but necessarily objective
-
-### `pèpȁm`
-_verb_  
-	**anticipating**; like [`mèàlȁm`](#mèàlȁm)
-
-### `pèpél`
-_noun_  
-	**snakefly**
-
-### `pèpérúl`
-_noun_  
-	**Antarctica**
-
-### `pèpúm`
-_noun_  
-	**lungfish**; fish that breathe air
-
-### `pèrāl`
-_noun_  
-	**tardigrade**
-
-### `pèra̋l`
-_verb_  
-	**get-educated**
-
-### `pèrȁl`
-_verb_  
-	**great**; numerically
-
-### `pèrú`
-_noun_  
-	**bovida**; cattle, buffalo, antelopes, sheep, goats, etc.
-
-### `pèùpa̋m`
-_verb_  
-	**transform**
-
-### `pèú`
-_noun_  
-	**torso**
-
-### `pé`
-_noun_  
-	**C**; 12; only used for hexadecimal
-
-### `péájűl`
-_verb_  
-	**sex-have**
-
-### `péȁl`
-_verb_  
-	**systemize**; place something in a system; interpret something as being part of a whole
-
-### `pée̋l`
-_verb_  
-	**buy**
-
-### `péȅl`
-_verb_  
-	**suffice**; be enough
-
-### `péjàpúl`
-_noun_  
-	**Eurasia**
-
-### `pél`
-_noun_  
-	**interval**
-
-### `péláú`
-_noun_  
-	**beardworm**; giant tube worms
-
-### `pélúl`
-_noun_  
-	**symphalan**
-
-### `pém`
-_noun_  
-	**Earth**
-
-### `pémérú`
+### `pàlāl`
 _noun_  
 	**discoreales**; monocotyledonous flowering plants
 
-### `pépùrűm`
-_verb_  
-	**cancel-out**; destructively interfere
-
-### `pépȕm`
-_verb_  
-	**agree**
-
-### `pérȁl`
-_verb_  
-	**shameful**
-
-### `pérūjȁm`
-_verb_  
-	**smooth**
-
-### `pérűm`
-_verb_  
-	**legislate**
-
-### `péūm`
-_noun_  
-	**stem**; trunk
-
-### `péȕl`
-_verb_  
-	**gust**; windiness
-
-### `pēérȁ`
-_verb_  
-	**dexterous**
-
-### `pēēlé`
-_noun_  
-	**aplacophora**; shell-less molusks
-
-### `pējèűm`
-_verb_  
-	**ceremony-participate**
-
-### `pēje̋m`
-_verb_  
-	**ride**
-
-### `pēl`
-_noun_  
-	**box**
-
-### `pēla̋m`
-_verb_  
-	**yellow**; stimulation of L and M cones
-
-### `pēm`
-_noun_  
-	**cosmos**
-
-### `pēma̋m`
-_verb_  
-	**feel**; an emotion or feeling
-
-### `pēmȅm`
-_verb_  
-	**pastel**; value of color
-
-### `pēmùl`
-_noun_  
-	**apterygota**; silverfish, firebrat, and jumping bristletails
-
-### `pēmūpe̋`
-_verb_  
-	**obvious**
-
-### `pēpājā`
-_noun_  
-	**cycas**; some ancient tree-palm-fern things
-
-### `pēpùpe̋l`
-_verb_  
-	**dry**
-
-### `pērāmē`
-_noun_  
-	**podocarpaceae**; a family of southern-hemisphere conifers
-
-### `pērè`
-_noun_  
-	**rock**; not necessarily earthy
-
-### `pēújȕm`
-_verb_  
-	**attack**; a sudden violent engagement
-
-### `pēȕ`
-_verb_  
-	**succeed**
-
-### `pe̋`
-_verb_  
-	**end**; stop happening
-
-### `pe̋l`
-_verb_  
-	**next**; to be next in an order
-
-### `pe̋m`
-_verb_  
-	**widdershins**; angular orientation from the point of view of the direct object
-
-### `pȅ`
-_tense-marker_  
-	**merry**; salutory
-
-### `pȅl`
-_verb_  
-	**true**
-
-### `pȅm`
-_verb_  
-	**like**
-
-### `pȅmlúmùrȕm`
-_compound verb_  
-	**worship**
-
-### `pù`
-_noun_  
-	**6**
-
-### `pùá`
-_noun_  
-	**soul**; mind
-
-### `pùāé`
-_noun_  
-	**solifuga**
-
-### `pùéȕ`
-_verb_  
-	**angularly-small**
-
-### `pùjú`
-_noun_  
-	**macropodiforme**; kangaroos and wallabies
-
-### `pùlā`
-_noun_  
-	**root**
-
-### `pùlēm`
-_noun_  
-	**amblypygus**; they look like spiders, but produce no web or venom
-
-### `pùlȕl`
-_verb_  
-	**puzzled**; have confusion from the direct object
-
-### `pùm`
-_noun_  
-	**mountain**
-
-### `pùmȅl`
-_verb_  
-	**red**; stimulation of L cones
-
-### `pùmȅlrújȕl`
-_compound verb_  
-	**brown**
-
-### `pùmū`
-_noun_  
-	**shrew-oppossum**; more closely related to Australia than possums
-
-### `pùpùre̋`
-_verb_  
-	**resist**
-
-### `pùrálű`
-_verb_  
-	**cluster**; be physically nearby
-
-### `pú`
-_noun_  
-	**span**; 10^-3 days
-
-### `púàrȁl`
-_verb_  
-	**violent**; physical violence
-
-### `pújájál`
-_noun_  
-	**ladder**
-
-### `pújāmȅ`
-_verb_  
-	**oppose**; compete with
-
-### `púja̋`
-_verb_  
-	**cost**
-
-### `púl`
-_special_  
-	**what**; missing information
-
-### `púlál`
-_noun_  
-	**anglerfish**
-
-### `púlȁ`
-_verb_  
-	**stand-up**; posture
-
-### `púlè`
-_compound special_  
-	**of-which**; functions as the separate words [`púl`](#púl) and [`è`](#è)
-
-### `púlȅ`
-_verb_  
-	**apply**; the subject is a process, the direct object is something that undergoes that process
-
-### `púlpá`
-_compound special_  
-	**how-much**; functions as the separate words [`púl`](#púl) and [`pá`](#pá)
-
-### `púlù`
-_compound special_  
-	**who**; functions as the separate words [`púl`](#púl) and [`ù`](#ù)
-
-### `púlū`
-_compound special_  
-	**to-which**; functions as the separate words [`púl`](#púl) and [`ū`](#ū)
-
-### `púlȕl`
-_verb_  
-	**team-up**
-
-### `púm`
-_postposition_  
-	**ly**; denotes manner
-
-### `púmȁl`
-_verb_  
-	**broken**; having fallen apart or cracked
-
-### `púpāmàl`
-_noun_  
-	**South-Asia**
-
-### `púpa̋`
-_verb_  
-	**reassure**
-
-### `púpű`
-_verb_  
-	**sector-private**; be in the private sector
-
-### `púrùpū`
-_noun_  
-	**seapens**
-
-### `púùjàm`
-_noun_  
-	**parasite**
-
-### `pū`
-_noun_  
-	**8**
-
-### `pūēè`
-_noun_  
-	**neoteleostei**; jellynoses, lizardfishes, lanternfishes, beardfishes, troutperches, cods, dories, oarfishes, opahs, ribbonfishes, and squirrelfishes
-
-### `pūērȕ`
+### `pàle̋l`
 _verb_  
 	**clumsy**
 
-### `pūjàl`
-_noun_  
-	**fish**
-
-### `pūjàrū`
-_noun_  
-	**polypodizoa**; jellyfish-like parasites
-
-### `pūjēma̋l`
+### `pàlűm`
 _verb_  
-	**procrastinate**
+	**zoom**; gotta go fast
 
-### `pūjúm`
+### `pàm`
 _noun_  
-	**neuroptera**; lacewings, antlions, owlflies, and more
+	**wing**
 
-### `pūlȅ`
-_verb_  
-	**transition**; represents delta vector from indirect object to direct object
-
-### `pūm`
+### `pàmè`
 _noun_  
-	**sound**
+	**hemichordate**; weird ocean worm tree blobs
 
-### `pūmùlȁ`
+### `pàpű`
 _verb_  
-	**rotten**
+	**skeptical**
 
-### `pūpépēl`
+### `pàràl`
 _noun_  
-	**US-Canada**
+	**aplacophora**; shell-less molusks
 
-### `pūpēl`
+### `pàrūl`
 _noun_  
-	**ascidiacea**; sea squirts
+	**pandan**; a type of plant
 
-### `pūrāpa̋`
-_verb_  
-	**dispose-of**
-
-### `pūrȅm`
-_verb_  
-	**empty**; of indirect object
-
-### `pūúm`
+### `pá`
 _noun_  
-	**eurypygimorphae**; a bunch of tropical birds
+	**6**
 
-### `pūȕm`
+### `pájȕm`
 _verb_  
-	**shrill**; high pitch
+	**congratulate**
 
-### `pű`
+### `pálòl`
+_noun_  
+	**corallimorpharia**
+
+### `pám`
+_noun_  
+	**blade**; of grass
+
+### `pápùm`
+_noun_  
+	**puffball**; fungus
+
+### `pā`
+_tense-marker_  
+	**to**; infinitive
+
+### `pājōl`
+_noun_  
+	**stinkhorn**
+
+### `pāl`
+_noun_  
+	**spring**
+
+### `pām`
+_noun_  
+	**planet**
+
+### `pāmēl`
+_noun_  
+	**Central-America**
+
+### `pāmūm`
+_noun_  
+	**stalked-jellyfish**
+
+### `pāpűm`
 _verb_  
-	**know**; believe that something is true with certainty and be right
+	**stupid**; [https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]
 
-### `pűl`
+### `pāra̋m`
+_verb_  
+	**reference**; refer to; consult with
+
+### `pa̋`
+_verb_  
+	**disbelieve**; have a negative reaction to an idea
+
+### `pa̋ja̋l`
+_verb_  
+	**healthy**
+
+### `pa̋jűm`
+_verb_  
+	**firm**; tendency to hold shape
+
+### `pa̋l`
+_verb_  
+	**show**
+
+### `pa̋m`
 _verb_  
 	**appear**
 
-### `pűm`
+### `pa̋me̋`
 _verb_  
-	**hide**
+	**available**; time management at a point
 
-### `pȕ`
+### `pa̋rő`
+_verb_  
+	**gift**
+
+### `pa̋rȕm`
+_verb_  
+	**voice**; concern, gratitude, sorriness, etc.
+
+### `pȁ`
 _tense-marker_  
 	**please**; polite imperative
 
+### `pȁȁ`
+_verb_  
+	**nice**
+
+### `pȁjȕl`
+_verb_  
+	**cousin-be**
+
+### `pȁl`
+_verb_  
+	**north**
+
+### `pȁlű`
+_verb_  
+	**sit**
+
+### `pȁm`
+_verb_  
+	**old**; length of time; applies to objects an events as well as people
+
+### `pȁműl`
+_verb_  
+	**control**
+
+### `pȁȍ`
+_verb_  
+	**slow**; unmagnitude of time derivative of position
+
+### `pȁrȁm`
+_verb_  
+	**liberal**; political
+
+### `pe`
+_conjunction_  
+	**and**
+
+### `peól`
+_noun_  
+	**mustelidae**; weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines
+
+### `peȕl`
+_verb_  
+	**rotate**; about the direct object
+
+### `pèèm`
+_noun_  
+	**mosquito**
+
+### `pèl`
+_noun_  
+	**electricity**
+
+### `pèlál`
+_noun_  
+	**tube-dwelling-anemone**
+
+### `pèlòl`
+_noun_  
+	**nymphaelaeale**; a type of aquatic flowering plant, like lillies
+
+### `pèm`
+_special_  
+	**what**; missing information
+
+### `pèmà`
+_compound special_  
+	**to-which**; functions as the separate words [`pèm`](#pèm) and [`à`](#à)
+
+### `pèmá`
+_compound special_  
+	**how-much**; functions as the separate words [`pèm`](#pèm) and [`á`](#á)
+
+### `pèmē`
+_compound special_  
+	**of-which**; functions as the separate words [`pèm`](#pèm) and [`ē`](#ē)
+
+### `pèmó`
+_compound special_  
+	**who**; functions as the separate words [`pèm`](#pèm) and [`ó`](#ó)
+
+### `pèmȕm`
+_verb_  
+	**big-picture**
+
+### `pèpà`
+_noun_  
+	**invertebrate**
+
+### `pèpȁm`
+_verb_  
+	**loud**; brightness; volume; strength
+
+### `pèúù`
+_noun_  
+	**chanterelle**; a type of fungus
+
+### `pèű`
+_verb_  
+	**goof**; off
+
+### `péa̋`
+_verb_  
+	**initiate**
+
+### `péa̋m`
+_verb_  
+	**differ**
+
+### `pél`
+_noun_  
+	**claw**; of the sharp variety
+
+### `pém`
+_noun_  
+	**flavor**
+
+### `pémől`
+_verb_  
+	**soft**; tendency to conform shape
+
+### `pémȍ`
+_verb_  
+	**rest**; to be on something
+
+### `péōl`
+_noun_  
+	**wasp**
+
+### `pépél`
+_noun_  
+	**bamboo**
+
+### `pépȅ`
+_verb_  
+	**think-of**; come up with an idea
+
+### `pépo`
+_noun_  
+	**chemicals**
+
+### `pérém`
+_noun_  
+	**orchid**
+
+### `pēa̋l`
+_verb_  
+	**easy**; of the subject for the direct object
+
+### `pēl`
+_noun_  
+	**powder**
+
+### `pēm`
+_noun_  
+	**desert**
+
+### `pēme̋m`
+_verb_  
+	**beware**
+
+### `pēpam`
+_noun_  
+	**scombroide**; tunas and mackerels
+
+### `pēróm`
+_noun_  
+	**hydra**
+
+### `pe̋l`
+_verb_  
+	**constancy**; stay the same
+
+### `pe̋lűm`
+_verb_  
+	**function**; do what one is supposed to
+
+### `pe̋m`
+_verb_  
+	**call**; digital
+
+### `pe̋mű`
+_verb_  
+	**gust**; windiness
+
+### `pe̋műl`
+_verb_  
+	**embark**; in the metaphorical sense; begin a long habitual process
+
+### `pe̋ojű`
+_verb_  
+	**disease-have**
+
+### `pe̋pe̋`
+_verb_  
+	**care-take**
+
+### `pe̋pő`
+_verb_  
+	**patronize**; as in a customer going to a business
+
+### `pe̋pől`
+_verb_  
+	**have-faith**
+
+### `pȅl`
+_verb_  
+	**up**; angle up from antiazimuth with indirect object being origin; height on page
+
+### `pȅm`
+_verb_  
+	**bright**
+
+### `pȅpűl`
+_verb_  
+	**engineer**; solve technical problems
+
+### `pȅrȅm`
+_verb_  
+	**in-season**; a time of year when something is "in"
+
+### `poém`
+_noun_  
+	**waterfowl**
+
+### `poje̋`
+_verb_  
+	**music-make**; an instrument
+
+### `pomōm`
+_noun_  
+	**cusk-eel**
+
+### `poő`
+_verb_  
+	**abandon**
+
+### `porùm`
+_noun_  
+	**sawfly**
+
+### `pò`
+_pronoun_  
+	**you**; the listener
+
+### `pòàm`
+_noun_  
+	**zorapteran**; a type of insect bug thing
+
+### `pòȅl`
+_verb_  
+	**anticipating**; like [`lőműl`](#lőműl)
+
+### `pòl`
+_noun_  
+	**spoken-language**
+
+### `pòlo`
+_noun_  
+	**seal**; includes walruses and maybe sea lions I think?
+
+### `pòlűm`
+_verb_  
+	**foolish**; the state of not knowing how the world functions and how to live life well
+
+### `pòm`
+_noun_  
+	**breast**
+
+### `pòmá`
+_noun_  
+	**larvacea**
+
+### `pòma̋m`
+_verb_  
+	**live**; as in live a life
+
+### `pòmȅm`
+_verb_  
+	**freeze**
+
+### `pòpeá`
+_noun_  
+	**sponge**
+
+### `pó`
+_noun_  
+	**the-present**
+
+### `pól`
+_noun_  
+	**oxygen**
+
+### `pólȕl`
+_verb_  
+	**emit**
+
+### `póm`
+_noun_  
+	**arm**
+
+### `pómu`
+_noun_  
+	**mathematics**
+
+### `pómȕl`
+_verb_  
+	**secret-share**
+
+### `pópȁ`
+_verb_  
+	**model**; make an image of something
+
+### `pópű`
+_verb_  
+	**insignificant**
+
+### `pórà`
+_noun_  
+	**crocodilian**; crocodiles and alligators
+
+### `pórél`
+_noun_  
+	**plant**
+
+### `pórȅl`
+_verb_  
+	**rapid**; of communication; the idea with this word is to distinguish rapid SMS texting from lethargic email
+
+### `pō`
+_noun_  
+	**radix**
+
+### `pōè`
+_noun_  
+	**gunpowder**
+
+### `pōja̋l`
+_verb_  
+	**transcribe**
+
+### `pōjől`
+_verb_  
+	**attack**; a sudden violent engagement
+
+### `pōl`
+_noun_  
+	**continent**; e.g. North America, Eurasia
+
+### `pōlȅ`
+_verb_  
+	**continue**
+
+### `pōlol`
+_noun_  
+	**toadfish**
+
+### `pōlolȕ`
+_compound noun_  
+	**subcontinent**; e.g. Europe, South Asia
+
+### `pōm`
+_noun_  
+	**vacuum**
+
+### `pōpal`
+_noun_  
+	**sturgeon**
+
+### `pōpa̋`
+_verb_  
+	**prone-lie**
+
+### `pōpȁ`
+_verb_  
+	**fearful**
+
+### `pōpȕm`
+_verb_  
+	**get-educated**
+
+### `pōra̋m`
+_verb_  
+	**intelligent**; the innate ability to grasp a subject or concept
+
+### `pōrőm`
+_verb_  
+	**laggy**; of communication; the idea with this word is to distinguish lethargic email from rapid SMS texting
+
+### `pő`
+_verb_  
+	**believe**; accept a fact on a subconcious level; contrast with [`lű`](#lű)
+
+### `pőjȕ`
+_verb_  
+	**deal-strike**
+
+### `pől`
+_verb_  
+	**inapt**; fail to fit a situation well
+
+### `pőm`
+_verb_  
+	**backward**; -y
+
+### `pȍ`
+_verb_  
+	**long**; physical distance; maximum dimension; see [`pȁm`](#pȁm)
+
+### `pȍȁ`
+_verb_  
+	**business-closed**; can refer to dormancy in general
+
+### `pȍl`
+_verb_  
+	**willing**
+
+### `pȍm`
+_verb_  
+	**work**; do work or be productive
+
+### `pȍpȅm`
+_verb_  
+	**sesquipedalian**
+
+### `pȍre̋l`
+_verb_  
+	**procrastinate**
+
+### `pujèl`
+_noun_  
+	**nematoid**; parasitic worms FTW!
+
+### `pumèm`
+_noun_  
+	**seahorse**
+
+### `puȕ`
+_verb_  
+	**assign**
+
+### `pùȁm`
+_verb_  
+	**special**; uniqueness
+
+### `pùl`
+_noun_  
+	**penis**
+
+### `pùm`
+_noun_  
+	**vagina**
+
+### `pùȍl`
+_verb_  
+	**stable**; satisfying chord or scale
+
+### `pùrēm`
+_noun_  
+	**ephedra**; a type of shrub
+
+### `pùró`
+_noun_  
+	**scalidophora**; mud-dwelling tiny aquatic things
+
+### `pùrúl`
+_noun_  
+	**snail**
+
+### `pùrȕ`
+_verb_  
+	**individual**
+
+### `pùù`
+_noun_  
+	**procyonidae**; raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles
+
+### `pú`
+_noun_  
+	**4**
+
+### `pújȁl`
+_verb_  
+	**awed**
+
+### `púl`
+_noun_  
+	**finger**; toe
+
+### `púlȁ`
+_verb_  
+	**experience**
+
+### `púlȍl`
+_verb_  
+	**smooth**
+
+### `púlú`
+_noun_  
+	**notopteroide**; aba, elephantfishes, and featherfin knives
+
+### `púlūl`
+_noun_  
+	**poale**; grass-likes such as sedges, excluding grasses, typhaceae, and bromeliads
+
+### `púlűm`
+_verb_  
+	**prepare**; as in food
+
+### `púm`
+_noun_  
+	**bit**; describes gravel and cereal
+
+### `púrāl`
+_noun_  
+	**ladder**
+
+### `pū`
+_postposition_  
+	**if**; denotes hypothetical conditions
+
+### `pūl`
+_noun_  
+	**settlement**; like a city or a town
+
+### `pūlēl`
+_noun_  
+	**quillwort**
+
+### `pūm`
+_noun_  
+	**written-language**
+
+### `pūmȁ`
+_verb_  
+	**be-in**; a situation
+
+### `pūmől`
+_verb_  
+	**curious**
+
+### `pūmȕl`
+_verb_  
+	**into**; direct object is long/deep thing
+
+### `pūóm`
+_noun_  
+	**grylloblattodea**; ice bus, ice crawlers, and rock crawers
+
+### `pūpē`
+_noun_  
+	**gladiator**; it's a type of insect
+
+### `pūrè`
+_noun_  
+	**strepsiptera**; twisted-wing parasites
+
+### `pūre̋m`
+_verb_  
+	**whisper**; speak without voicing
+
+### `pūrȅm`
+_verb_  
+	**medicate**; tend-to; treat; doctor
+
+### `pű`
+_verb_  
+	**passive-perceive**; see or hear or smell
+
+### `pűl`
+_verb_  
+	**find**
+
+### `pűm`
+_verb_  
+	**forward**; +y
+
+### `pűma̋l`
+_verb_  
+	**literal**
+
+### `pűmèm`
+_compound verb_  
+	**hear**
+
+### `pűmȕl`
+_verb_  
+	**summon**
+
+### `pűpém`
+_compound verb_  
+	**taste**
+
+### `pűpòl`
+_compound verb_  
+	**comprehend**
+
+### `pűpūm`
+_compound verb_  
+	**passive-read**
+
+### `pűrāl`
+_compound verb_  
+	**see**
+
+### `pűrém`
+_compound verb_  
+	**passive-feel**
+
+### `pűròlȍl`
+_compound verb_  
+	**dream**
+
+### `pűrōm`
+_compound verb_  
+	**smell**
+
+### `pűűl`
+_verb_  
+	**sector-private**; be in the private sector
+
+### `pȕ`
+_tense-marker_  
+	**fuck**; negative exclamatory
+
 ### `pȕl`
 _verb_  
-	**after**; +t
+	**before**; -t
 
 ### `pȕm`
 _verb_  
-	**find**
+	**south**
+
+### `pȕrȅm`
+_verb_  
+	**burn**
+
+### `pȕrűm`
+_verb_  
+	**replace**
+
+### `pȕűm`
+_verb_  
+	**drive**
+
+### `raȁ`
+_verb_  
+	**big**
+
+### `raēlem`
+_noun_  
+	**box-jellyfish**
+
+### `rajȕm`
+_verb_  
+	**fair**; skin-color
 
 ### `ramen`
 _loanword_  
 	**amen**
 
+### `ramól`
+_noun_  
+	**coelacanth**
+
+### `ramȍm`
+_verb_  
+	**parent**; raise
+
+### `rape̋m`
+_verb_  
+	**cool**; of a color
+
+### `rarőm`
+_verb_  
+	**disagree**
+
 ### `rà`
-_qualifier_  
-	**any**; single element
-
-### `ràjēm`
 _noun_  
-	**horseshoe-crab**
+	**dot**; decimal point
 
-### `ràjūm`
+### `ràjēl`
 _noun_  
-	**ray**; the ocean variety
+	**cycas**; some ancient tree-palm-fern things
 
 ### `ràl`
-_pronoun_  
-	**y'all**; the listener and others
+_special_  
+	**backspace**; ingnore previous few words
 
-### `ràlà`
+### `ràm`
 _noun_  
-	**sentence**
-
-### `ràlé`
-_noun_  
-	**shorebird**
-
-### `ràlȅl`
-_verb_  
-	**into**; direct object is long/deep thing
-
-### `ràmàrȁm`
-_verb_  
-	**ignorant**; the quality of not knowing a lot of facts about the indirect object
-
-### `ràméme̋`
-_verb_  
-	**wonder**
+	**sea**
 
 ### `ràme̋m`
 _verb_  
-	**full**; of indirect object
+	**virtual**; digitalness
 
-### `ràmúēm`
+### `ràpe̋l`
+_verb_  
+	**ceremony-participate**
+
+### `ràrú`
 _noun_  
-	**petrosaviaceae**; flowering plants of Petrosaviales
-
-### `ràpà`
-_noun_  
-	**crystal**
-
-### `ràpèmū`
-_noun_  
-	**ephedra**; a type of shrub
-
-### `ràpēȁ`
-_verb_  
-	**furnish**; as in furniture
-
-### `ràpe̋m`
-_verb_  
-	**out-of**; direct object is long/deep thing
-
-### `ràpúmȅl`
-_verb_  
-	**dumb**; the quality of not understanding many abstract concepts regarding the indirect object
-
-### `ràpūle̋`
-_verb_  
-	**lame**; the slangy definition, not the disability one
-
-### `ràrāȕm`
-_verb_  
-	**healthy**
-
-### `ràrēpȅm`
-_verb_  
-	**voice**; concern, gratitude, sorriness, etc.
-
-### `ràrűm`
-_verb_  
-	**likely**; P-value
-
-### `ràūl`
-_noun_  
-	**pecora**; basically anything with horns besides chevrotains, giraffes, and bovines
+	**polypteriforme**; bichirs and reedfishes or ropefishes
 
 ### `rá`
-_pronoun_  
-	**one**; no meaning
-
-### `ráāl`
 _noun_  
-	**opossum**
+	**nighttime**; ;75-;25 or 18:00-06:00 or whenever the sun is down
 
-### `rája̋m`
-_verb_  
-	**ugly**; of a person
-
-### `ráje̋`
-_verb_  
-	**public**; be exposed to others
-
-### `rálùl`
+### `rál`
 _noun_  
-	**elopomorpha**; ladyfishes, tarpons, and bonefishes, but not eels
-
-### `rálȕ`
-_verb_  
-	**skeptical**
+	**mountain**
 
 ### `rám`
 _noun_  
-	**bit**; describes gravel and cereal
+	**butt**
 
-### `rámȁl`
-_verb_  
-	**fearful**
-
-### `rámȅl`
-_verb_  
-	**hungry**; for food, sex, etc.
-
-### `rámūl`
-_noun_  
-	**termite**
-
-### `rápálȁl`
-_verb_  
-	**literal**
-
-### `rápáúm`
-_noun_  
-	**plant**
-
-### `rápe̋m`
-_verb_  
-	**cinematograph**
-
-### `rápúlàm`
-_compound pronoun_  
-	**purpose**
-
-### `rápúlāl`
-_compound pronoun_  
-	**method**
-
-### `rápúlālpèùpa̋mlūljàmù`
-_compound pronoun_  
-	**map-projection**
-
-### `rápúlè`
-_compound pronoun_  
-	**one-that-gets-**; the direct object of the following verb
-
-### `rápúlèála̋lé`
-_compound noun_  
-	**peasant**
-
-### `rápúlèjàrāla̋lèpȕ`
-_compound noun_  
-	**empire**
-
-### `rápúlèlàlȕmmùjàpe̋`
-_compound noun_  
-	**bathroom**
-
-### `rápúlèpēje̋mlāmé`
-_compound noun_  
-	**plane**
-
-### `rápúlèpēje̋mlēl`
-_compound noun_  
-	**boat**
-
-### `rápúlèpēje̋mpēm`
-_compound noun_  
-	**spaceship**
-
-### `rápúljē`
-_compound pronoun_  
-	**place**
-
-### `rápúljēála̋lé`
-_compound pronoun_  
-	**kingdom**
-
-### `rápúlmé`
-_compound pronoun_  
-	**cause-event**
-
-### `rápúlpá`
-_compound pronoun_  
-	**amount-of-**; the extent of the following verb
-
-### `rápúlpálùa̋lpém`
-_compound noun_  
-	**year**
-
-### `rápúlpā`
-_compound pronoun_  
-	**medium**; tool
-
-### `rápúlù`
-_compound pronoun_  
-	**one-that-**; -er; the subject of the following verb
-
-### `rápúlùála̋lé`
-_compound noun_  
-	**king**
-
-### `rápúlùèēlȁmúpùm`
-_compound noun_  
-	**alphabet**
-
-### `rápúlùmȕlèlűllāmé`
-_compound noun_  
-	**air-conditioning**
-
-### `rápúlúl`
-_compound pronoun_  
-	**context**
-
-### `rápúlúm`
-_compound pronoun_  
-	**time**; e.g. Tuesday, 4pm, 3;42
-
-### `rápúlū`
-_compound pronoun_  
-	**one-to-which-**; the indirect object of the following verb
-
-### `rápúlūēmȁlēlúm`
-_compound noun_  
-	**part-of-speech**
-
-### `rápúlūjàáa̋lēlúm`
-_compound noun_  
-	**dictionary**
-
-### `rárālȁl`
-_verb_  
-	**soft**; tendency to conform shape
-
-### `rárȁ`
-_verb_  
-	**important**
-
-### `rárȁl`
-_verb_  
-	**cousin-be**
-
-### `rárém`
-_noun_  
-	**crab**; also includes lobsters
-
-### `rárējȁl`
+### `rámől`
 _verb_  
 	**smart**; the quality of understanding a lot of abstract concepts regarding the indirect object
 
-### `rárȅ`
-_verb_  
-	**lie**; deceive
-
-### `rárú`
+### `rámúl`
 _noun_  
-	**element**; water, earth, fire, air, etc.
+	**rust**; fungus
 
-### `rárúl`
+### `rápȍm`
+_verb_  
+	**peruse**
+
+### `rára̋l`
+_verb_  
+	**strike**; a swift decisive action
+
+### `rárȅm`
+_verb_  
+	**dispose-of**
+
+### `ráū`
 _noun_  
-	**pseudoscorpion**
-
-### `rárűl`
-_verb_  
-	**split-up**
-
-### `ráȕ`
-_verb_  
-	**among**; among the object
+	**armadillo**
 
 ### `rā`
 _noun_  
-	**3**
-
-### `rāājȁm`
-_verb_  
-	**internet**
-
-### `rāȁl`
-_verb_  
-	**storytell**
-
-### `rāe̋m`
-_verb_  
-	**indoorsness**
-
-### `rājà`
-_noun_  
-	**wood**
-
-### `rājàm`
-_noun_  
-	**housefly**
-
-### `rāja̋`
-_verb_  
-	**deem-important**; think that something is worthy of concern and act as such; contrast with [`múmȕ`](#múmȕ)
-
-### `rājȁl`
-_verb_  
-	**sharp**; of an edge or blade
-
-### `rājū`
-_noun_  
-	**australidelphia**; besides wombats, koalas, and kangaroos
-
-### `rājȕ`
-_verb_  
-	**foreign**
+	**interval**
 
 ### `rāl`
-_pronoun_  
-	**me**; the speaker
-
-### `rālā`
 _noun_  
-	**palaeognatha**; ostriches, rheas, tinamous, kiwis, cassowaries, and emus
+	**sight**
 
-### `rālèl`
+### `rālēm`
 _noun_  
-	**odonatoptera**; dragonflies and damselflies
+	**leech**
+
+### `rālȕ`
+_verb_  
+	**ride**
 
 ### `rām`
 _noun_  
-	**adult**; older than 7 chunks or so
+	**body**
 
-### `rāmē`
-_noun_  
-	**sea-cow**; like manatees
-
-### `rāpȅ`
+### `rāpa̋l`
 _verb_  
-	**platonic-love**
+	**classy**; the quality of being expensive and unneccesary
 
-### `rāpȅl`
+### `rāpűm`
 _verb_  
-	**be-in**; a situation
+	**science**; experimentation and learning; yes, this is a verb
 
-### `rāpū`
-_noun_  
-	**spring**
-
-### `rārèjùm`
-_noun_  
-	**Oceania**
-
-### `rāùrȕ`
+### `rāra̋l`
 _verb_  
-	**brittle**; tendency to shatter when force is applied, without bending
-
-### `rāúm`
-_noun_  
-	**stork**
-
-### `rāū`
-_noun_  
-	**shell**
+	**messy**
 
 ### `ra̋`
 _verb_  
-	**relate**; to a topic
+	**like**
 
 ### `ra̋l`
 _verb_  
-	**before**; -t
+	**skillful**
+
+### `ra̋la̋l`
+_verb_  
+	**entrepreneur**; solve large-scale problems
+
+### `ra̋la̋m`
+_verb_  
+	**complete**
 
 ### `ra̋m`
 _verb_  
-	**related**; by blood or familial ties
+	**track**; follow a path
+
+### `ra̋mȕm`
+_verb_  
+	**unlocked**
+
+### `ra̋pȁ`
+_verb_  
+	**require**
+
+### `ra̋pe̋pől`
+_compound verb_  
+	**worship**
+
+### `ra̋rűl`
+_verb_  
+	**mediocre**; be a layperson
 
 ### `rȁ`
 _verb_  
-	**unbecome**; the act of a state ceasing to be true; often used in compound words with states
+	**force**; impose one's will to make something be true
 
 ### `rȁl`
 _verb_  
-	**right**; +x
+	**change**
 
 ### `rȁm`
 _verb_  
-	**north**
+	**low**; -z
+
+### `ree̋l`
+_verb_  
+	**spaciousness**
 
 ### `reidien`
 _loanword_  
 	**radian**
 
+### `rejùre`
+_noun_  
+	**North-America**
+
+### `relȅm`
+_verb_  
+	**test**
+
+### `repàm`
+_noun_  
+	**leptostrac**
+
+### `repùm`
+_noun_  
+	**pantopod**; they're like spiders, but in the ocean!
+
+### `rera`
+_noun_  
+	**winter**
+
+### `reru`
+_noun_  
+	**crystal**
+
+### `reūrő`
+_verb_  
+	**cloud**
+
 ### `rè`
-_noun_  
-	**chunk**; 10^3 days
-
-### `rèàrűm`
-_verb_  
-	**wound-suffer**
-
-### `rèāl`
-_noun_  
-	**detail**
-
-### `rèām`
-_noun_  
-	**procyonidae**; raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles
-
-### `rèère̋l`
-_verb_  
-	**pure**
-
-### `rèjèrēl`
-_noun_  
-	**Central-Asia**
-
-### `rèjūl`
-_noun_  
-	**coraciimorpha**; some smallish generally tree-dwelling birds
-
-### `rèjűm`
-_verb_  
-	**step**; the direct object is what you step on or in
+_pronoun_  
+	**us-here**; the speaker and the listener
 
 ### `rèl`
-_noun_  
-	**continent**; e.g. North America, Eurasia
-
-### `rèlȁ`
-_verb_  
-	**hand-off**; exchange direct object via hands
-
-### `rèlȁl`
-_verb_  
-	**adore**; find something cute
-
-### `rèlēm`
-_noun_  
-	**acarus**; mites and ticks
-
-### `rèlùmȕ`
-_compound noun_  
-	**subcontinent**; e.g. Europe, South Asia
+_special_  
+	**&#54;**; escape word
 
 ### `rèm`
 _noun_  
-	**notion**; idea; not necessarily true or objective
+	**jungle**
 
-### `rèma̋l`
+### `rèmȅm`
 _verb_  
-	**birth-give**; the physical act
+	**remarkable**; unlikeliness
 
-### `rèmém`
-_noun_  
-	**cusk-eel**
-
-### `rème̋m`
+### `rèȍ`
 _verb_  
-	**bored**; by the indirect object
+	**defend**
 
-### `rèpāām`
-_noun_  
-	**fungus**
-
-### `rèpèm`
-_noun_  
-	**invertebrate**
-
-### `rèrèl`
-_noun_  
-	**eufalconimorpha**; falcons, passerines, parrots, caracaras, and forest falcons
-
-### `rèrèm`
-_noun_  
-	**mantisshrimp**
-
-### `rèréjűm`
+### `rèpȕm`
 _verb_  
-	**admire**
+	**conservative**; political
 
-### `rère̋m`
-_verb_  
-	**terrified**; the brief reaction to jump-scares that comes before actual fear or annoyance
-
-### `ré`
-_qualifier_  
-	**each**; every element individually
-
-### `réépàl`
+### `rèrè`
 _noun_  
-	**quillwort**
+	**salientia**; frogs and toads
 
-### `rél`
-_noun_  
-	**region**; an area in space of a period of time
-
-### `rélȅm`
-_verb_  
-	**play**; a game or a sport
-
-### `rém`
-_noun_  
-	**sight**
-
-### `rémám`
-_noun_  
-	**caecilian**; blind legless amphibians
-
-### `rémāȁ`
-_verb_  
-	**strong**; ability to exact force
-
-### `réma̋m`
-_verb_  
-	**correspond**; relate - not write
-
-### `rémùa̋m`
-_verb_  
-	**avoid**
-
-### `répàjűm`
-_verb_  
-	**expect**
-
-### `répémēl`
-_noun_  
-	**The-Arctic**
-
-### `rérám`
-_noun_  
-	**sawfly**
-
-### `rére̋l`
-_verb_  
-	**fun-have**
-
-### `rérùlűm`
-_verb_  
-	**drunk**; applies to alcohol as well as other drugs
-
-### `réúmúm`
-_noun_  
-	**umbrella-pine**; not technically a pine
-
-### `réūpȅm`
+### `rèrűl`
 _verb_  
 	**tidy**
 
-### `réű`
+### `rèűm`
 _verb_  
-	**move**; around but not necessarily with a direction
+	**time-distance**
+
+### `ré`
+_qualifier_  
+	**some**; subset
+
+### `réȅl`
+_verb_  
+	**deem-important**; think that something is worthy of concern and act as such; contrast with [`ùjȕm`](#ùjȕm)
+
+### `rél`
+_noun_  
+	**leaf**
+
+### `rém`
+_noun_  
+	**tactility**; touch
+
+### `rémól`
+_noun_  
+	**cupressacea**; junipers, redwoods, and some other types of conifers
+
+### `réolȁ`
+_verb_  
+	**base**; operations and such
+
+### `répèl`
+_noun_  
+	**amborella**; a specific understory shrub on Grande Terre
+
+### `répȍl`
+_verb_  
+	**wet**
+
+### `répȕ`
+_verb_  
+	**flail**
+
+### `rérȁm`
+_verb_  
+	**brittle**; tendency to shatter when force is applied, without bending
 
 ### `rē`
-_qualifier_  
-	**all**; set of all instances
+_postposition_  
+	**regarding**; WRT; denotes context
 
-### `rēȅl`
-_verb_  
-	**gift**
-
-### `rējàrȕm`
-_verb_  
-	**screen**; project or render images onto a surface
-
-### `rējālȁ`
-_verb_  
-	**encode**
-
-### `rēja̋l`
-_verb_  
-	**patronize**; as in a customer going to a business
-
-### `rējūlȅ`
-_verb_  
-	**hit**; intentionally cause a collision with something
-
-### `rējȕl`
-_verb_  
-	**troubled**; have troubled feelings from the direct object
+### `rēél`
+_noun_  
+	**megaloptera**; alderflies, dobsonflies, and fishflies
 
 ### `rēl`
-_pronoun_  
-	**them**; an agent besides the speaker and listener
-
-### `rēlél`
 _noun_  
-	**gar**
+	**bicep**; thigh
 
-### `rēle̋m`
+### `rēlȍm`
 _verb_  
-	**angry**
+	**awkward**; as a character trait
 
-### `rēlȅ`
+### `rēlűl`
 _verb_  
-	**seem**
+	**challenge**
 
-### `rēlȕ`
+### `rēmű`
 _verb_  
-	**slow**; unmagnitude of time derivative of position
+	**participate**
 
-### `rēmāle̋`
-_verb_  
-	**cryptic**
-
-### `rēmūlé`
+### `rēpà`
 _noun_  
-	**philydracea**; herbaceous monocotyledonous plants
+	**arthropod**
 
-### `rēpȅ`
-_verb_  
-	**obey**
-
-### `rēpùle̋`
-_verb_  
-	**mediocre**; be a layperson
-
-### `rēpūjúm`
+### `rērúl`
 _noun_  
-	**Europe**
-
-### `rēpȕm`
-_verb_  
-	**chroma**; saturation of color
-
-### `rērál`
-_noun_  
-	**cephalochordata**; lancelets and branchiostomidae
-
-### `rērāre̋`
-_verb_  
-	**gesture**
-
-### `rērűl`
-_verb_  
-	**blue**; stimulation of S cones
-
-### `rērȕm`
-_verb_  
-	**rescind**; progress to a goal or agenda
+	**virus**
 
 ### `re̋`
 _verb_  
-	**outside**; large distance from center
+	**dislike**
+
+### `re̋ȅl`
+_verb_  
+	**fall**
 
 ### `re̋l`
 _verb_  
-	**short**; physical distance; maximum dimension; see [`la̋m`](#la̋m)
+	**moral**
+
+### `re̋la̋m`
+_verb_  
+	**push**
 
 ### `re̋m`
 _verb_  
 	**denote**; mean in terms of word definitions
 
+### `re̋pa̋`
+_verb_  
+	**reach**
+
+### `re̋pȕ`
+_verb_  
+	**unable**; to enact change
+
+### `re̋ra̋`
+_verb_  
+	**combine**
+
 ### `rȅ`
-_tense-marker_  
-	**!**; imperative
+_verb_  
+	**necessary**; the subject must be true in order for the direct object to be true
+
+### `rȅjȁl`
+_verb_  
+	**sober**
 
 ### `rȅl`
 _verb_  
-	**much**; more; the subject exceeds the direct object by the amount
+	**through**
 
 ### `rȅm`
 _verb_  
-	**inapt**; fail to fit a situation well
+	**ineffective**
 
-### `rù`
+### `rȅmőm`
+_verb_  
+	**physical**; describes things in the physical realm
+
+### `rȅőm`
+_compound verb_  
+	**need**; the subject must possess the direct object for the indirect object to be true
+
+### `rȅrȕl`
+_verb_  
+	**schadenfreude-ful**
+
+### `roalol`
 _noun_  
-	**E**; 14; only used for hexadecimal
+	**acarus**; mites and ticks
 
-### `rùȁl`
-_verb_  
-	**wide**; angular distance with indirect object being centrum
-
-### `rùȅ`
-_verb_  
-	**change**
-
-### `rùjàpēl`
+### `rojó`
 _noun_  
-	**nymphaelaeale**; a type of aquatic flowering plant, like lillies
+	**platypus**
 
-### `rùjája̋`
+### `rol`
+_postposition_  
+	**via**; with; through; denotes tool or medium
+
+### `rolumè`
+_noun_  
+	**magnoliid**; a type of flowering plant that includes magnolias, nutmeg, cinnamon, avocado, black pepper, and tulips
+
+### `rolúl`
+_noun_  
+	**holocephali**
+
+### `roōm`
+_noun_  
+	**bear**
+
+### `roré`
+_noun_  
+	**anteater**
+
+### `rorȍ`
 _verb_  
-	**rebel**
+	**acute**; angular closeness with indirect object being centrum
 
-### `rùja̋l`
+### `rò`
+_noun_  
+	**9**
+
+### `ròjűm`
+_verb_  
+	**consent**
+
+### `ròlem`
+_noun_  
+	**solifuga**
+
+### `ròlȍl`
 _verb_  
 	**sleep**
 
-### `rùjūm`
+### `ròlu`
 _noun_  
-	**mecoptera**; flying scorpions!
+	**flamingo**
 
-### `rùl`
+### `ròm`
 _noun_  
-	**written-language**
+	**hole**; hallway; tube; gap
 
-### `rùlȁ`
+### `ròma̋m`
 _verb_  
-	**defend**
+	**magical**
 
-### `rùléla̋l`
-_verb_  
-	**unhumid**
+### `ròmmòu`
+_compound noun_  
+	**butthole**
 
-### `rùlȕl`
-_verb_  
-	**color**; ojbect is a color value, not a number
-
-### `rùm`
+### `ròpá`
 _noun_  
-	**concept**; intangible
+	**arowana**; bonytounges
 
-### `rùmȁm`
+### `ró`
+_noun_  
+	**ke**; 10^-2 days
+
+### `rójèm`
+_noun_  
+	**jelly-fungus**
+
+### `rójōm`
+_noun_  
+	**hanguanacea**; terrestrial herbaceous Austrolasian plants
+
+### `rójum`
+_noun_  
+	**seacucumber**
+
+### `rójȕl`
 _verb_  
-	**disagree**
+	**obscure**
 
-### `rùmè`
+### `rólál`
+_noun_  
+	**bracket-fungus**
+
+### `rólē`
+_noun_  
+	**pauropod**
+
+### `róm`
+_noun_  
+	**shell**
+
+### `rómōl`
+_noun_  
+	**Oceania**
+
+### `rómȍl`
+_verb_  
+	**transform**
+
+### `róműm`
+_verb_  
+	**conquer**
+
+### `róő`
+_verb_  
+	**keep**
+
+### `rópe`
+_noun_  
+	**mammal**
+
+### `rō`
+_noun_  
+	**cycle**; 10^1 days
+
+### `rōe̋l`
+_verb_  
+	**skew**
+
+### `rōjá`
+_noun_  
+	**opilione**; things that look like spiders
+
+### `rōjȍ`
+_verb_  
+	**surprised**
+
+### `rōjùm`
+_noun_  
+	**podocarpaceae**; a family of southern-hemisphere conifers
+
+### `rōlȁl`
+_verb_  
+	**elastic**; tendency to bend and then spring back
+
+### `rōlùl`
+_noun_  
+	**South-Asia**
+
+### `rōm`
+_noun_  
+	**scent**
+
+### `rōma̋`
+_verb_  
+	**court**; date
+
+### `rő`
+_verb_  
+	**take**
+
+### `rőlȁ`
+_verb_  
+	**orthogonal**; straightness, evenness
+
+### `rőm`
+_verb_  
+	**lead**
+
+### `rőre̋l`
+_verb_  
+	**technical**
+
+### `rőűl`
+_verb_  
+	**common**; inverse of time between events in a series of happenings
+
+### `rȍ`
+_verb_  
+	**give**
+
+### `rȍla̋m`
+_verb_  
+	**sexually-attract**
+
+### `rȍlȍ`
+_verb_  
+	**local**
+
+### `rȍm`
+_verb_  
+	**averse**; to a task
+
+### `rȍmőm`
+_verb_  
+	**nostalgic**
+
+### `rȍpa̋`
+_verb_  
+	**lazy**
+
+### `rȍpe̋l`
+_verb_  
+	**bladder-full**; the feeling of having to pee
+
+### `rȍrȅl`
+_verb_  
+	**give-in**
+
+### `rulōol`
+_noun_  
+	**trichoplax**; real small and thin sponge-like animals
+
+### `rulū`
+_noun_  
+	**tapir**
+
+### `rume̋`
+_verb_  
+	**activate**
+
+### `rù`
+_noun_  
+	**A**; 10; only used for duodecimal and hexadecimal
+
+### `rùá`
 _noun_  
 	**history**
 
-### `rùmējū`
-_noun_  
-	**rust**; fungus
-
-### `rùpàém`
-_noun_  
-	**soft-coral**
-
-### `rùpām`
-_noun_  
-	**scombroide**; tunas and mackerels
-
-### `rùpȁ`
+### `rùȅ`
 _verb_  
-	**hog**
+	**govern**
 
-### `rùpúl`
+### `rùȅjā`
+_compound verb_  
+	**rule-monarchially**
+
+### `rùjòm`
 _noun_  
-	**nematoid**; parasitic worms FTW!
+	**octopus**
 
-### `rùpȕm`
+### `rùla̋`
 _verb_  
-	**rule-place**
+	**private**; be concealed or sheltered from the world
 
-### `rùrām`
+### `rùm`
 _noun_  
-	**strepsiptera**; twisted-wing parasites
+	**sentence**
 
-### `rùrȅ`
-_verb_  
-	**traverse**; typically compounded to make things like "swim", "climb", "gallop"
-
-### `rùrűl`
-_verb_  
-	**massive**
-
-### `rùùlē`
+### `rùmà`
 _noun_  
-	**slug**
+	**plecaniforme**; pelicans and similar things
+
+### `rùma̋m`
+_verb_  
+	**parse**; interpret information encoded somehow
+
+### `rùmól`
+_noun_  
+	**cool-season-grass**; includes wheat, barley, oat, rye, and some lawn grasses
+
+### `rùpól`
+_noun_  
+	**seapens**
 
 ### `rú`
 _noun_  
-	**4**
+	**7**
 
-### `rúàl`
+### `rúá`
 _noun_  
-	**red-panda**
+	**grebe**
 
-### `rúja̋`
+### `rúje̋`
 _verb_  
-	**bureaucrate**; be a bureaucrat in a bureaucracy
+	**rescind**; progress to a goal or agenda
 
-### `rújél`
+### `rúlál`
 _noun_  
-	**salp**
-
-### `rújēlűm`
-_verb_  
-	**intelligent**; the innate ability to grasp a subject or concept
-
-### `rújúm`
-_noun_  
-	**percomorpha**; gobies, cichlids, flatfish, wrasse, and perches
-
-### `rújȕl`
-_verb_  
-	**dark**; darkness of color
-
-### `rúl`
-_noun_  
-	**light**
-
-### `rúlálűl`
-_verb_  
-	**attention**; be occupied by the direct object; see [`jȅm`](#jȅm)
-
-### `rúla̋`
-_verb_  
-	**example-pose**
-
-### `rúlém`
-_noun_  
-	**polypteriforme**; bichirs and reedfishes or ropefishes
+	**bivalve**; molusks with two valves
 
 ### `rúm`
 _noun_  
-	**star**; sun
+	**thing**; tangible
 
-### `rúmùpȕm`
+### `rúra̋`
 _verb_  
-	**sarcastic**
+	**random-generate**
 
-### `rúmú`
-_noun_  
-	**urine**
-
-### `rúműm`
+### `rúűm`
 _verb_  
-	**zoom**; gotta go fast
+	**red**; stimulation of L cones
 
-### `rúmȕm`
-_verb_  
-	**imply**; if-then
-
-### `rúpálȅm`
-_verb_  
-	**push**
-
-### `rúpáūm`
-_noun_  
-	**gorgonian**; sea fans and sea whips
-
-### `rúpèm`
-_noun_  
-	**osprey**
-
-### `rúrȅ`
-_verb_  
-	**understand**
-
-### `rúújȅm`
-_verb_  
-	**dismiss**
-
-### `rúūl`
-_noun_  
-	**snake**
+### `rúűmàme̋m`
+_compound verb_  
+	**brown**
 
 ### `rū`
 _noun_  
-	**dot**; decimal point
+	**D**; 13; only used for hexadecimal
 
-### `rūál`
-_noun_  
-	**life**
-
-### `rūjàál`
-_noun_  
-	**orchid**
-
-### `rūjèrȕl`
+### `rūȁ`
 _verb_  
-	**secret-keep**
-
-### `rūjȅm`
-_verb_  
-	**beside**; to be on the side of
-
-### `rūjújé`
-_noun_  
-	**puffball**; fungus
+	**tardiness**; for meetings and such, or habitually
 
 ### `rūl`
 _noun_  
-	**rod**
+	**face**
 
-### `rūlȁ`
-_verb_  
-	**sort**
-
-### `rūlùl`
+### `rūlám`
 _noun_  
-	**palpigrade**
+	**Central-Asia**
 
-### `rūlȕ`
+### `rūlò`
+_noun_  
+	**bowfin**
+
+### `rūlő`
 _verb_  
-	**subject**; focus on
+	**ugly**; of a person
 
 ### `rūm`
 _noun_  
-	**rectangle**
+	**neutered-or-spayed**
 
-### `rūmà`
+### `rūpúm`
 _noun_  
-	**computer**
+	**decapodiforme**; includes squid and cuttlefish
 
-### `rūmūmè`
+### `rūrȍl`
+_verb_  
+	**strong**; ability to exact force
+
+### `rūūm`
 _noun_  
-	**liliale**; a type of flowering plants that includes lilies
-
-### `rūpa̋l`
-_verb_  
-	**model**; make an image of something
-
-### `rūpe̋l`
-_verb_  
-	**hue**; expressed colloquially as a color name, not an angle
-
-### `rūpȅl`
-_verb_  
-	**active**; not lazy
-
-### `rūra̋m`
-_verb_  
-	**desaturated**; blandness of color
-
-### `rūrú`
-_noun_  
-	**reptile**
-
-### `rūrūl`
-_noun_  
-	**remipedia**; like ocean centipede things
-
-### `rūùrȅm`
-_verb_  
-	**flash**; quickly emit bright light; also applies to sound and other sensations
+	**paddlefish**
 
 ### `rű`
 _verb_  
-	**excuse**
+	**should**; how good a decision is
+
+### `rűjȍl`
+_verb_  
+	**bury**
 
 ### `rűl`
 _verb_  
-	**backward**; -y
+	**apt**; fit a situation well
 
 ### `rűm`
 _verb_  
-	**long**; physical distance; maximum dimension; see [`lȁm`](#lȁm)
+	**much**; more; the subject exceeds the direct object by the amount
+
+### `rűrȕm`
+_verb_  
+	**musty**
 
 ### `rȕ`
-_tense-marker_  
-	**bless**; praisal
+_verb_  
+	**cause**
+
+### `rȕȅmlèmȕ`
+_compound verb_  
+	**cause-to-break**
+
+### `rȕȅmlűm`
+_compound verb_  
+	**raise**
+
+### `rȕȅmrȁm`
+_compound verb_  
+	**lower**
+
+### `rȕjàőm`
+_compound verb_  
+	**heat**
+
+### `rȕje̋`
+_compound verb_  
+	**deliver**; move the direct object to the indirect object
+
+### `rȕje̋m`
+_verb_  
+	**dull**; of an edge or blade
 
 ### `rȕl`
 _verb_  
-	**east**
+	**persist**
+
+### `rȕlȁm`
+_verb_  
+	**dismiss**
 
 ### `rȕm`
 _verb_  
-	**up**; angle up from antiazimuth with indirect object being origin; height on page
+	**own**
+
+### `rȕōrȕl`
+_compound verb_  
+	**keep-cool**
 
 ### `ssamaim`
 _loanword_  
@@ -4869,241 +4889,221 @@ _loanword_
 _loanword_  
 	**coconut**
 
-### `ù`
-_postposition_  
-	**sbj**; denotes subject
-
-### `ùa̋l`
-_verb_  
-	**timeliness**; for meetings and such, or habitually
-
-### `ùa̋m`
-_verb_  
-	**undo**
-
-### `ùȁl`
-_verb_  
-	**clothed**
-
-### `ùjūl`
-_noun_  
-	**plecaniforme**; pelicans and similar things
-
-### `ùjȕm`
-_verb_  
-	**primary**; refers to generally being main or central
-
-### `ùl`
-_noun_  
-	**era**; 10^5 days
-
-### `ùlā`
-_noun_  
-	**fruit**
-
-### `ùlúlȁm`
-_verb_  
-	**tainted**
-
-### `ùlūa̋l`
-_verb_  
-	**fragile**; tendency to break
-
-### `ùlű`
-_verb_  
-	**still**
-
-### `ùm`
-_noun_  
-	**B**; 11; only used for duodecimal and hexadecimal
-
-### `ùma̋l`
-_verb_  
-	**befriend**; the state of being friends
-
-### `ùma̋m`
-_verb_  
-	**unimportant**
-
-### `ùmējúl`
-_noun_  
-	**black-coral**
-
-### `ùmȕ`
-_verb_  
-	**small**
-
-### `ùpùm`
-_noun_  
-	**reality**; any imagined or simulated or real universe
-
-### `ùrálȅl`
-_verb_  
-	**unappealing**; of a picture, sound, etc.
-
-### `ùrè`
-_noun_  
-	**bicep**; thigh
-
-### `ùre̋m`
-_verb_  
-	**common**; inverse of time between events in a series of happenings
-
-### `ùrū`
-_noun_  
-	**vagina**
-
-### `úē`
-_noun_  
-	**Sol**; our sun
-
-### `újāā`
-_noun_  
-	**ostracoda**; seed shrimp
-
-### `újéjá`
-_noun_  
-	**vampiresquid**
-
-### `újȕl`
-_verb_  
-	**goof**; off
-
-### `úl`
-_postposition_  
-	**regarding**; WRT; denotes context
-
-### `úlàjém`
-_noun_  
-	**smut**; fungus
-
-### `úlȁl`
-_verb_  
-	**sentience**; I'm not going to try to define it here; I have a definition, but it cannot be put into words
-
-### `úm`
-_postposition_  
-	**at**; on; in; denotes date/time or instance number
-
-### `úmūű`
-_verb_  
-	**fatigued**
-
-### `úpájā`
-_noun_  
-	**entognatha**; six-legged bugs that are not insects
-
-### `úpél`
+### `umém`
 _noun_  
 	**hoatzin**; some weird kind of bird
 
-### `úpȅm`
+### `uȍm`
 _verb_  
-	**hold**
+	**undo**
 
-### `úpùm`
+### `ù`
+_fastener_  
+	**how-many**; specifies amount degree or number
+
+### `ùa̋`
+_verb_  
+	**help**
+
+### `ùjȕm`
+_verb_  
+	**care**; believe that something merits concern on a subconcious level; contrast with [`réȅl`](#réȅl)
+
+### `ùl`
 _noun_  
-	**letter**; phoneme; character
+	**the-future**
 
-### `úpùmȕm`
-_verb_  
-	**emit**
+### `ùlò`
+_noun_  
+	**topography**; geography
 
-### `úrārál`
+### `ùm`
+_postposition_  
+	**at**; on; in; denotes date/time or instance number
+
+### `ùpo`
+_noun_  
+	**ink**
+
+### `ùrūla`
 _noun_  
 	**araucarian**; a type of very tall evergreen
 
-### `úrè`
-_noun_  
-	**hand**
+### `ú`
+_fastener_  
+	**aka**; draws equality
 
-### `úrùm`
-_noun_  
-	**summer**
-
-### `úrűm`
+### `úa̋l`
 _verb_  
-	**fall**
+	**closed**
 
-### `úūm`
+### `újāl`
 _noun_  
-	**claw**; of the sharp variety
+	**osprey**
 
-### `ū`
-_postposition_  
-	**ind**; with; at; denotes indirect object
-
-### `ūēműl`
-_verb_  
-	**awkward**; as a character trait
-
-### `ūe̋m`
-_verb_  
-	**dead**
-
-### `ūlūjàl`
+### `újè`
 _noun_  
-	**asparagoid-lily**; minus orchids
+	**procellariid**; albatrosses and petrels
+
+### `újèl`
+_noun_  
+	**snakefly**
+
+### `újȍ`
+_verb_  
+	**set**; be in a discrete collection with a finite number of other entities
+
+### `újȕ`
+_verb_  
+	**example-pose**
+
+### `úl`
+_pronoun_  
+	**me**; the speaker
+
+### `úlā`
+_noun_  
+	**culture**
+
+### `úlȁm`
+_verb_  
+	**support**
+
+### `úm`
+_noun_  
+	**the-past**
+
+### `úmől`
+_verb_  
+	**yellow**; stimulation of L and M cones
+
+### `úpa̋m`
+_verb_  
+	**opaque**
+
+### `ūe̋`
+_verb_  
+	**point-gesture**; point at something
+
+### `ūje`
+_noun_  
+	**hair**
+
+### `ūl`
+_qualifier_  
+	**each**; every element individually
+
+### `ūle`
+_noun_  
+	**urine**
+
+### `ūlō`
+_noun_  
+	**euliptyphla**; hedgehogs, moles, shrews, and a few other rodent-like things
+
+### `ūlőm`
+_verb_  
+	**social**; amount of socialization
+
+### `ūlūm`
+_noun_  
+	**orthoptera**; crickets, tatydids, grasshoppers, etc.
 
 ### `ūm`
 _noun_  
-	**times**; habitual tense
+	**0**
 
-### `ūma̋`
-_verb_  
-	**through**
-
-### `ūmȁl`
-_verb_  
-	**craze**; act erratically or illogically; does not necessarily refer to mental illness
-
-### `ūmȅl`
-_verb_  
-	**harsh**; mean
-
-### `ūműm`
-_verb_  
-	**decide**
-
-### `ūpȅl`
-_verb_  
-	**deal-strike**
-
-### `ūràme̋m`
-_verb_  
-	**conquer**
-
-### `ūrém`
+### `ūmūl`
 _noun_  
-	**giraffe**; and okapi
+	**doliolida**
 
-### `ūúl`
-_noun_  
-	**gland**; node or organ
-
-### `ūȕ`
+### `ūmű`
 _verb_  
-	**quit**; give up
+	**greet**
+
+### `ūól`
+_noun_  
+	**bovida**; cattle, buffalo, antelopes, sheep, goats, etc.
+
+### `ūpūl`
+_noun_  
+	**stonefly**
+
+### `ūre̋l`
+_verb_  
+	**off-build**
+
+### `ű`
+_verb_  
+	**true**
 
 ### `űl`
 _verb_  
-	**want**
+	**unwant**; actively not want an object
+
+### `űlőm`
+_verb_  
+	**sector-public**; be in the public sector
 
 ### `űm`
 _verb_  
-	**begin**
+	**say**; use a declarative sentence; give information
+
+### `űma̋m`
+_verb_  
+	**party**
+
+### `űmȁl`
+_verb_  
+	**randomize**; an order or setup
+
+### `űme̋`
+_verb_  
+	**gratitude**
+
+### `űmrű`
+_compound verb_  
+	**recommend**
 
 ### `ȕ`
 _verb_  
-	**exist**
+	**do**
+
+### `ȕa̋`
+_verb_  
+	**left**; -x
 
 ### `ȕl`
 _verb_  
-	**possess**
+	**excuse**
+
+### `ȕla̋`
+_verb_  
+	**timeliness**; for meetings and such, or habitually
+
+### `ȕlű`
+_verb_  
+	**hand-off**; exchange direct object via hands
 
 ### `ȕm`
 _verb_  
-	**believe**; accept a fact on a subconcious level; contrast with [`a̋l`](#a̋l)
+	**narrow**; middle dimension
+
+### `ȕmȅ`
+_verb_  
+	**buy**
+
+### `ȕmő`
+_verb_  
+	**service**
+
+### `ȕpȁl`
+_verb_  
+	**involve**
+
+### `ȕpȅm`
+_verb_  
+	**draw**
 
 ### `vulpes`
 _loanword_  

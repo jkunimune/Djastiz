@@ -1,38 +1,38 @@
 Excuse me.
 please excuse
-pȕ rű
+pȁ ȕl
 
 You are excused.
 let excuse
-jȁ rű
+lȕ ȕl
 
 Thank you.
 . gratitude
-ȅ jāȕl
+ȅ űme̋
 
 You're welcome.
 . me obj do
-ȅ rāl è e̋
+ȅ úl ē ȕ
 
 Sorry [apology].
 . sorry
-ȅ le̋
+ȅ la̋
 
 Apology accepted.
 . me obj do
-ȅ rāl è e̋
+ȅ úl ē ȕ
 
 Don't worry about it.
 ! not sorry
-rȅ èm le̋
+mȕ él la̋
 
 Sorry [sympathetic].
 . sympathize
-ȅ mèréje̋m
+ȅ lȅra̋m
 
 I don't speak Djastiz very well.
 please to much than to frequent ly talk
-pȕ á rȅl pá á álȁl púm làja̋mmél
+pȁ pā rűm á pā ma̋rȁ mom e̋ja̋mpòl
 
 What does that mean?
 ? denote
@@ -40,68 +40,68 @@ ȁ re̋m
 
 Fuck.
 fuck
-jȕ
+pȕ
 
 Fuck you.
 fuck you
-jȕ mūm
+pȕ pò
 
 Hooray. [2-1]
 bless
-rȕ
+lȁ
 
 Hi.
 merry
-pȅ
+jȍ
 
 Bye.
 good
-mȅ
+lȍ
 
 Good morning.
 merry morning
-pȅ lè
+jȍ mù
 
 Good day.
 merry daytime
-pȅ lū
+jȍ ól
 
 Good evening.
 merry evening
-pȅ pám
+jȍ mū
 
 Good night.
 good to sleep
-mȅ á rùja̋l
+lȍ pā ròlȍl
 
 Happy Birthday.
 merry birthday
-pȅ méle̋llárèma̋l
+jȍ lèűljòōre̋m
 
 Merry Christmas.
 merry Christmas
-pȅ krismes
+jȍ krismes
 
 How are you?
 ? how-much prosper
-ȁ púlpá ȅl
+ȁ pèmá mő
 
 Well.
 . prosper
-ȅ ȅl
+ȅ mő
 
 Not well.
 . not do
-ȅ èm e̋
+ȅ él ȕ
 
 What about you?
 ? you sbj do
-ȁ mūm ù e̋
+ȁ pò ó ȕ
 
 My name is Claude.
-. name `` Bloo " obj be
-ȅ múlāpȁm `` Bloo " è a̋
+. name quote Bloo unquote obj be
+ȅ mȕrȍm é Bloo ò ē ő
 
 Where is the bathroom?
 ? what on bathroom sbj exist
-ȁ púl jē rápúlèlàlȕmmùjàpe̋ ù ȕ
+ȁ pèm jé ōpèmējōpőlāpȅl ó a̋

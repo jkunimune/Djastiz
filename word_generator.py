@@ -5,7 +5,7 @@ import random
 
 
 CONSONANTS = [{'m','l',''},{'p','j','r'}]
-VOWELS = {'a','e','u'}
+VOWELS = {'a','e','u','o'}
 TONES = [u'\u030F', u'\u0300', u'\u0304', u"\u0301", u'\u030B']
 
 def random_choice(s):
@@ -15,7 +15,16 @@ def random_choice(s):
 
 def similar(a, b):
 	"""return True if a and b might sound too similar"""
-	return a == b
+	if len(a) == len(b)+1:
+		for i in range(len(a)):
+			for tone in TONES:
+				if b[:i] + tone + b[i:] == a:
+					return True
+		return False
+	elif len(b) == len(a)+1:
+		return similar(b, a)
+	else:
+		return a == b
 
 
 def length(word):
@@ -34,6 +43,8 @@ def random_consonant(ending=False):
 def random_tone(tonic=False):
 	if tonic:
 		return random.choice([TONES[0], TONES[-1]])
+	elif random.random() < .2:
+		return ''
 	else:
 		return random.choice(TONES[1:-1])
 
@@ -46,10 +57,10 @@ def new_tense_marker():
 def new_particle():
 	"""create a new monosyllabic non-tonic word"""
 	word = ''
-	if random.random() < .7:
+	if random.random() < .5:
 		word += random_consonant()
 	word += random_choice(VOWELS) + random_tone()
-	if random.random() < .7:
+	if random.random() < .5:
 		word += random_consonant(ending=True)
 	return word
 
@@ -57,9 +68,9 @@ def new_particle():
 def new_verb():
 	"""create a new polysyllabic pseudo-tonic word"""
 	word = ''
-	num_syl = int(random.random()*2.5+1)
+	num_syl = int(random.random()**2*2.5+1)
 	for i in range(num_syl-1):
-		word += random_consonant() + random_choice(VOWELS) + random_tone()
+		word += random_consonant() + random_choice(VOWELS) + random_tone(tonic=random.random()<.3)
 	word += random_consonant() + random_choice(VOWELS) + random_tone(tonic=True) + random_consonant(ending=True)
 	return word
 
@@ -67,7 +78,7 @@ def new_verb():
 def new_noun():
 	"""create a new polysyllabic non-tonic word"""
 	word = ''
-	num_syl = int(random.random()*2.5+1)
+	num_syl = int(random.random()**2*2.5+1)
 	for i in range(num_syl-1):
 		word += random_consonant() + random_choice(VOWELS) + random_tone()
 	word += random_consonant() + random_choice(VOWELS) + random_tone(tonic=False) + random_consonant(ending=True)
@@ -158,6 +169,6 @@ def generate_dictionary(num_words=[1,1,1,1], seed=None, filename=None):
 
 if __name__ == '__main__':
 	print(check_words('dictionary'))
-	words = generate_dictionary(num_words=[10, 45, 639, 499], seed=load_all_words('dictionary'), filename='dictionary/word_cache')
+	words = generate_dictionary(num_words=[10, 50, 800, 600], seed=load_all_words('dictionary'), filename='dictionary/word_cache')
 	for word in words:
 		print(word)

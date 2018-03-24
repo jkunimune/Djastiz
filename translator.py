@@ -7,6 +7,7 @@ import random
 
 
 TONES = {u'\u030F':0, u'\u0300':4, u'\u0304':7, u"\u0301":10, u'\u030B':12}
+VOWELS = {'a', 'e', 'i', 'o', 'u'}
 
 
 def compound(english, components, eng_to_dja={}, pts_o_spch={}):
@@ -99,11 +100,14 @@ def word_to_notes(djastiz, djastiz_to_pos):
 		for char in djastiz:
 			if char in TONES:
 				return [(TONES[char], .5)]
+		return [(-1, .5)]
 	else:
 		notes = []
-		for char in djastiz:
+		for i, char in enumerate(djastiz):
 			if char in TONES:
 				notes.append(TONES[char])
+			elif i > 0 and djastiz[i-1] in VOWELS:
+				notes.append(-1)
 		return [(note, 1/min(4,len(notes))) for note in notes]
 
 
@@ -159,6 +163,7 @@ def save_to_midi(notes, filename):
 		track_chunk = b''
 		tonic = 60
 		delay = 0
+		last_note = 0
 		for note, length in notes:
 			if note is None:
 				if length < 1:
@@ -168,8 +173,10 @@ def save_to_midi(notes, filename):
 					track_chunk += bytes([128+num//128, num%128, 0b10000000, 0, 0])
 				tonic = random.randint(58,62)
 			else:
+				note = note if note >= 0 else last_note
 				track_chunk += bytes([0,                 0b10010000, tonic+note, 96]) #note on
 				track_chunk += bytes([round(length*120), 0b10000000, tonic+note, 96]) #note off
+				last_note = note
 		track_chunk += b'\x00\xFF\x2F\x00'
 		f.write(b'MTrk' + (len(track_chunk)).to_bytes(4,'big') + track_chunk)
 
@@ -185,7 +192,7 @@ def reverse_dictionary(djastiz_to_english, english_to_djastiz, djastiz_to_pos, e
 				english_to_djastiz, djastiz_to_pos)[0]+"`\n")
 		f.write("______\n")
 		for djastiz in alphabetized:
-			f.write("\n### `{}`\n_{}_  \n\t**{}**".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz]))
+			f.write("\n### `{}`\n_{}_  \n\t**{}**".format(djastiz, djastiz_to_pos[djastiz], djastiz_to_english[djastiz].replace('\\','&#54;')))
 			if djastiz_to_english[djastiz] in english_to_notes:
 				f.write("; {}".format(translate_quoted(english_to_notes[djastiz_to_english[djastiz]], english_to_djastiz)))
 			f.write("\n")
