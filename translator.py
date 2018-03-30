@@ -59,6 +59,8 @@ def load_dictionary(directory):
 			for line in csv.reader(csvfile):
 				if len(line) < 2:
 					raise ValueError("There are not enough commas in {}".format(line))
+				elif len(line) > 2:
+					raise ValueError("There are not enough quotations in {}".format(line))
 				if filename == 'compound_word.csv': #compound words need a bit more work
 					english, djastiz, prt_o_spch = compound(*line, eng_to_dja=eng_to_dja, pts_o_spch=pts_o_spch)
 				else:
@@ -106,7 +108,7 @@ def word_to_notes(djastiz, djastiz_to_pos):
 		for i, char in enumerate(djastiz):
 			if char in TONES:
 				notes.append(TONES[char])
-			elif i > 0 and djastiz[i-1] in VOWELS:
+			elif char in VOWELS and (i == len(djastiz)-1 or djastiz[i+1] not in TONES):
 				notes.append(-1)
 		return [(note, 1/min(4,len(notes))) for note in notes]
 

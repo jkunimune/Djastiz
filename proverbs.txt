@@ -3,29 +3,29 @@ both to one-that- wall-off obj run and to fall
 ā pā ōpèmójōpő ē ajȕm pe pā re̋ȅl
 
 I smell what you're stepping in. (I understand what you are saying.)
-smell one of-which obj step obj
-pűrōm ō pèmē ē jòra̋ ē
+. one of-which you sbj step obj smell
+ȅ ō pèmē pò ó jòra̋ ē rōmpű
 
 Being a cat (Acting aloof and agile)
-to be cat obj
-pā ő pajàòlà ē
+to cat obj be
+pā òlàpajà ē ő
 
 Baker's dozen (14)
 1 2 what-kind one-that- bake
-jā mé am ōpèmóma̋pȁlmȅpȕm
+jā mé am ōpèmómȅpȕmma̋pȁl
 
 Jesus, Mary, and Joseph Stalin (exclamation of surprise)
 both Jesus and Mary and Joseph Stalin
 ā Jesus pe Mary pe Joseph Stalin
 
 Up your butt and around the corner. (I don't know or care where that is.)
-both butt which-one you into and one-that- acute revolve at
-ā rám al pò pūmȕl pe ōpèmórorȍ jòlȅm ùm
+. both butt which-one you into and one-that- acute revolve at exist
+ȅ ā rám al pò pūmȕl pe ōpèmórorȍ jòlȅm ùm a̋
 
 We should take Bikini Bottom, and push it somewhere else! (That idea might just be crazy enough... ind GET US ALL KILLED!)
-should Bikini Bottom obj push place not this ind
-rű Bikini Bottom ē re̋la̋m ōpèmjé él alúl à
+. to Bikini Bottom obj place not this ind push obj should
+ȅ pā Bikini Bottom ē ōpèmjé él alúl à re̋la̋m ē rű
 
 Are you so busy fighting you cannot see that your own ship has gone out to sea? (Your animosity has clouded your perception of unrelated, more important things.)
-? amount-of- attention to violent obj thats-why not can to see to boat which-one you sbj sea ind go obj obj
-ȁ ōpèmálȍlaȁm pā jūme̋m ē lō él ȅlȕ pā pűrāl pā ōpèmērālȕràm al pò ó ràm à je̋ ē ē
+? amount-of- attention to violent obj thats-why to to boat which-one you sbj sea ind go obj see obj not can
+ȁ ōpèmálȍlaȁm pā jūme̋m ē lō pā pā ràmōpèmērālȕ al pò ó ràm à je̋ ē rālpű ē él ȕȅl

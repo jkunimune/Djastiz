@@ -18,80 +18,78 @@
 "context",one what regarding
 "method",one what by
 "medium (tool)",one what via
-"Musical-Djastiz",Djastiz music-make
-"English",language England
-"Japanese",language Japan
-"German",language Germany
-"dictionary",one-to-which- list word
-"alphabet",one-that- obj set letter
-"part-of-speech",one-to-which- categorize word
-"can",possible do
-"can-remember",can recall
-"memorize",become can-remember
-"sink (crouch)",become low
-"rise (jump)",become high
-"depart",become far
-"approach",become near
-"progress",become progressed
-"step-backward",become lagging
-"forgive",become not angry
-"break (fall apart or crack)",become broken
-"need (the subject must possess the direct object for the indirect object to be true)",necessary possess
-"see",passive-perceive sight
-"hear",passive-perceive sound
-"smell",passive-perceive scent
-"taste",passive-perceive flavor
-"passive-feel",passive-perceive tactility
-"comprehend",passive-perceive spoken-language
-"passive-read",passive-perceive written-language
-"look",active-perceive sight
+"Musical-Djastiz",music-make Djastiz
+"dictionary",word one-to-which- list
+"alphabet",letter one-that- obj set
+"part-of-speech",word one-to-which- categorize
+"can",do possible
+"can-remember",recall can
+"memorize",can-remember become
+"sink (crouch)",low become
+"rise (jump)",high become
+"get-behind",backward become
+"get-in-front",forward become
+"depart",far become
+"approach",near become become
+"forgive",not angry become
+"break (fall apart or crack)",broken become
+"need (the subject must possess the direct object for the indirect object to be true)",possess necessary
+"see",sight passive-perceive
+"hear",sound passive-perceive
+"smell",scent passive-perceive
+"taste",flavor passive-perceive
+"passive-feel",tactility passive-perceive
+"comprehend",spoken-language passive-perceive
+"passive-read",written-language passive-perceive
+"look",sight active-perceive sight
 "listen",active-perceive sound
 "sniff",active-perceive scent
 "active-taste",active-perceive flavor
 "touch",active-perceive tactility
-"listen-carefully (listen to and parse words, not just sounds)",active-perceive spoken-language
-"active-read",active-perceive written-language
+"listen-carefully (listen to and parse words, not just sounds)",spoken-language active-perceive
+"active-read",written-language active-perceive
 "talk",communicate spoken-language
 "compose (prose)",communicate written-language
-"cause-to-break",cause break
-"lower",cause sink
-"raise",cause rise
-"heat",cause hot
-"keep-cool",cause cold
-"deliver (move the direct object to the indirect object)",cause go
-"obtain (the direct object from the indirect object)",become possess
+"cause-to-break",break cause
+"lower",sink cause
+"raise",rise cause
+"heat",hot cause
+"keep-cool",cold cause
+"deliver (move the direct object to the indirect object)",go cause
+"arrange",index cause
+"obtain (the direct object from the indirect object)",possess become
 "year",amount-of- periodic Earth
-"date",late day
-"birthday",date birth-give
-"pass (go near something)",go near
-"recommend",say should
-"bake",cook dry
-"boat",one-that-gets- ride sea
-"plane",one-that-gets- ride air
-"spaceship",one-that-gets- ride cosmos
-"bathroom",one-that-gets- wall-off clean
-"butthole",hole feces
-"cat",feline human
-"dog",canine human
-"subcontinent (e.g. Europe, South Asia)",continent small
-"dream",passive-perceive sleep
-"map",image topography
-"map-projection",one what by transform map
-"empire",one-that-gets- citizen big
-"brown",red dark
-"air-conditioning",one-that- keep-cool air
-"divide-in-half",divide 2
-"divide-in-thirds",divide 3
-"divide-in-quarters",divide 4
-"divide-in-fifths",divide 5
-"divide-in-sixths",divide 6
-"divide-in-sevenths",divide 7
-"divide-in-tenths",divide A
-"divide-in-twelfths",divide C
-"divide-in-fifteenths",divide F
-"worship",like have-faith
-"rule-monarchially",govern 1
+"date",day late
+"birthday",birth-give date
+"pass (go near something)",near go
+"recommend",should say
+"bake",dry cook
+"boat",sea one-that-gets- ride
+"plane",air one-that-gets- ride
+"spaceship",cosmos one-that-gets- ride
+"bathroom",clean one-that-gets- wall-off
+"butthole",feces hole
+"cat",human feline
+"dog",human canine
+"subcontinent (e.g. Europe, South Asia)",small continent
+"dream",sleep passive-perceive
+"map",topography image
+"map-projection",map one what by transform
+"empire",big one-that-gets- citizen
+"brown",dark red
+"air-conditioning",air one-that- keep-cool
+"divide-in-half",2 divide
+"divide-in-thirds",3 divide
+"divide-in-quarters",4 divide
+"divide-in-fifths",5 divide
+"divide-in-sixths",6 divide
+"divide-in-sevenths",7 divide
+"divide-in-tenths",A divide
+"divide-in-twelfths",C divide
+"divide-in-fifteenths",F divide
+"worship",have-faith like
+"rule-monarchially",1 govern
 "peasant",one-that-gets- rule-monarchially
 "king",one-that- rule-monarchially
 "kingdom",one what on rule-monarchially
-"tempt",suggest evil
+"tempt",evil suggest

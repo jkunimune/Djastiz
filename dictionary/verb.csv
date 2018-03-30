@@ -110,7 +110,7 @@ move (around but not necessarily with a direction),mȁl
 jostle (move in place),őa̋
 still,mől
 between (between the direct and indirect objects),lȕm
-among (among the object),je̋l
+"among (among the object, which is a set)",je̋l
 oblivious,jȅm
 write (etch symbols into something; record something in a physical object; save a file),mȕl
 "read (derive meaning from a physical object; load a file; contrast with ""active-read"", which means more specifically read text)",ja̋m
@@ -205,6 +205,7 @@ crampedness,jajȕ
 reason,mòe̋
 craze (act erratically or illogically; does not necessarily refer to mental illness),orȕm
 level (general discrete measure of progress),lȍmȕ
+lag (general discrete measure of backwardness),ójȅȕm
 experience,púlȁ
 "sentience (I'm not going to try to define it here; I have a definition, but it cannot be put into words)",òpȕl
 suffice (be enough),ōlȍl
@@ -347,7 +348,6 @@ special (uniqueness),pùȁm
 normal (ununiqueness),lēőm
 lift,mòjȕ
 rest (to be on something),pémȍ
-matrix (table of numbers),je̋rȕ
 much-of (fraction; majority),lűlȅ
 random-generate,rúra̋
 dispose,pàjő
@@ -627,11 +627,8 @@ have-faith,pe̋pől
 complete,ra̋la̋m
 incomplete,jópȁm
 reference (refer to; consult with),pāra̋m
-arrange (in an order),mújȁm
 wet,répȍl
 dry,mȅpȕm
 "attention (be occupied by the direct object; see ""attention-try"")",lȍlaȁm
 synergize (constructively interfere),jajȍjű
 cancel-out (destructively interfere),me̋ópȕ
-progressed (distance or fraction toward a goal or destination),jȅropű
-lagging (distance or fraction away from a goal or destination),ójȅȕm

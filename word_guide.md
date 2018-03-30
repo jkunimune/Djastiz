@@ -2,7 +2,7 @@
 
 This complete Musical-Djastiz-to-English dictionary gives the part of speech and English meaning of each Musical Djastiz word in latin alphabetical order. A crucial reference for anyone living in this post-Djastiz society.
 
-`ōpèmàle̋lȕllúl am pā jàpīpoje̋ ē ēmelinggland à pèmó ra̋la̋m alúl ó ā ōpèmàajőmlúl pe ōpèmēre̋m al ēmelinggland al ūl lúl am jàpīpoje̋ ē űm ōpèmóēújȍóro al latium ō mújȁm mó ȅ ōpèmēpāra̋m pèmē rȅőm jèl pèmē jèm pèmó jàpīpoje̋ ē mȁm mum ó ē`
+`lúlōpèmàle̋lȕl am pā poje̋jàpī ē inggless à pèmó ra̋la̋m alúl ó ā lúlōpèmàajőm pe ōpèmēre̋m al inggless al ūl lúl am poje̋jàpī ē űm óroōpèmóēújȍ al latium ō ma̋lrȕ mó ȅ ōpèmēpāra̋m pèmē őmrȅ jèl pèmē jèm pèmó poje̋jàpī ē mȁm mum ó ē`
 ______
 
 ### `aȁ`
@@ -101,9 +101,21 @@ _noun_
 _verb_  
 	**dark**; darkness of color
 
+### `àme̋mrúűm`
+_compound verb_  
+	**brown**
+
 ### `àpe̋`
 _verb_  
 	**near**; physical or numerical
+
+### `àpe̋ȅmȅm`
+_compound verb_  
+	**approach**
+
+### `àpe̋je̋`
+_compound verb_  
+	**pass**; go near something
 
 ### `á`
 _postposition_  
@@ -197,6 +209,10 @@ _verb_
 _loanword_  
 	**pomegranite**
 
+### `daitssa`
+_loanword_  
+	**German**
+
 ### `daitssland`
 _loanword_  
 	**Germany**
@@ -277,6 +293,10 @@ _verb_
 _verb_  
 	**far**; physical or numerical
 
+### `éja̋ȅm`
+_compound verb_  
+	**depart**
+
 ### `él`
 _qualifier_  
 	**not**; anything but
@@ -284,6 +304,10 @@ _qualifier_
 ### `élal`
 _noun_  
 	**pig**
+
+### `éláműmȅm`
+_compound qualifier_  
+	**forgive**
 
 ### `ém`
 _noun_  
@@ -329,17 +353,9 @@ _noun_
 _noun_  
 	**language**
 
-### `ēmeldaitssland`
+### `ēmmēre̋`
 _compound noun_  
-	**German**
-
-### `ēmelinggland`
-_compound noun_  
-	**English**
-
-### `ēmelnihong`
-_compound noun_  
-	**Japanese**
+	**divide-in-thirds**
 
 ### `ēpa̋l`
 _verb_  
@@ -409,57 +425,9 @@ _verb_
 _verb_  
 	**possible**; can happen
 
-### `ȅlȕ`
-_compound verb_  
-	**can**
-
-### `ȅlȕjēőm`
-_compound verb_  
-	**can-remember**
-
 ### `ȅm`
 _verb_  
 	**become**; the act of a state transitioning from falsehood to truth; often used in compound words with states
-
-### `ȅmàpe̋`
-_compound verb_  
-	**approach**
-
-### `ȅméja̋`
-_compound verb_  
-	**depart**
-
-### `ȅméláműm`
-_compound verb_  
-	**forgive**
-
-### `ȅmȅlȕjēőm`
-_compound verb_  
-	**memorize**
-
-### `ȅmjȅropű`
-_compound verb_  
-	**progress**
-
-### `ȅmlèmȕ`
-_compound verb_  
-	**break**; fall apart or crack
-
-### `ȅmlűm`
-_compound verb_  
-	**rise**; jump
-
-### `ȅmójȅȕm`
-_compound verb_  
-	**step-backward**
-
-### `ȅmőm`
-_compound verb_  
-	**obtain**; the direct object from the indirect object
-
-### `ȅmrȁm`
-_compound verb_  
-	**sink**; crouch
 
 ### `galaksi`
 _loanword_  
@@ -472,6 +440,10 @@ _loanword_
 ### `inggland`
 _loanword_  
 	**England**
+
+### `inggless`
+_loanword_  
+	**English**
 
 ### `iunaitedsteits`
 _loanword_  
@@ -561,13 +533,13 @@ _verb_
 _verb_  
 	**hot**
 
+### `jàőmrȕ`
+_compound verb_  
+	**heat**
+
 ### `jàpī`
 _noun_  
 	**Djastiz**
-
-### `jàpīpoje̋`
-_compound noun_  
-	**Musical-Djastiz**
 
 ### `jàpő`
 _verb_  
@@ -629,6 +601,10 @@ _verb_
 _verb_  
 	**angularly-large**
 
+### `jārùȅ`
+_compound noun_  
+	**rule-monarchially**
+
 ### `ja̋`
 _verb_  
 	**use**
@@ -639,7 +615,7 @@ _verb_
 
 ### `ja̋m`
 _verb_  
-	**read**; derive meaning from a physical object; load a file; contrast with [`jȁpūm`](#jȁpūm)
+	**read**; derive meaning from a physical object; load a file; contrast with [`pūmjȁ`](#pūmjȁ)
 
 ### `ja̋pa̋m`
 _verb_  
@@ -668,18 +644,6 @@ _verb_
 ### `jȁpém`
 _compound verb_  
 	**active-taste**
-
-### `jȁpòl`
-_compound verb_  
-	**listen-carefully**; listen to and parse words, not just sounds
-
-### `jȁpūm`
-_compound verb_  
-	**active-read**
-
-### `jȁrāl`
-_compound verb_  
-	**look**
 
 ### `jȁrém`
 _compound verb_  
@@ -849,13 +813,17 @@ _verb_
 _noun_  
 	**velvetworm**
 
-### `jēmùlò`
-_compound noun_  
-	**map**
-
 ### `jēőm`
 _verb_  
-	**recall**; draw a fact from memory; contrast with related concepts [`ȅlȕjēőm`](#ȅlȕjēőm) and [`ȅmȅlȕjēőm`](#ȅmȅlȕjēőm)
+	**recall**; draw a fact from memory; contrast with related concepts [`jēőmȕȅl`](#jēőmȕȅl) and [`jēőmȕȅlȅm`](#jēőmȕȅlȅm)
+
+### `jēőmȕȅl`
+_compound verb_  
+	**can-remember**
+
+### `jēőmȕȅlȅm`
+_compound verb_  
+	**memorize**
 
 ### `jēpá`
 _noun_  
@@ -869,13 +837,9 @@ _verb_
 _verb_  
 	**go**; from the indirect object to the direct object
 
-### `je̋àpe̋`
-_compound verb_  
-	**pass**; go near something
-
 ### `je̋l`
 _verb_  
-	**among**; among the object
+	**among**; among the object, which is a set
 
 ### `je̋lȁm`
 _verb_  
@@ -894,8 +858,8 @@ _verb_
 	**rebel**
 
 ### `je̋rȕ`
-_verb_  
-	**matrix**; table of numbers
+_compound verb_  
+	**deliver**; move the direct object to the indirect object
 
 ### `jȅ`
 _verb_  
@@ -916,10 +880,6 @@ _verb_
 ### `jȅm`
 _verb_  
 	**oblivious**
-
-### `jȅropű`
-_verb_  
-	**progressed**; distance or fraction toward a goal or destination
 
 ### `joa̋l`
 _verb_  
@@ -957,6 +917,10 @@ _noun_
 _verb_  
 	**flash**; quickly emit bright light; also applies to sound and other sensations
 
+### `jòlèűl`
+_compound noun_  
+	**date**
+
 ### `jòlȅm`
 _verb_  
 	**revolve**
@@ -972,10 +936,6 @@ _noun_
 ### `jòma̋`
 _verb_  
 	**suggest**; encourage an action
-
-### `jòma̋le̋m`
-_compound verb_  
-	**tempt**
 
 ### `jòmȍm`
 _verb_  
@@ -1048,6 +1008,10 @@ _verb_
 ### `jōm`
 _noun_  
 	**concept**; intangible
+
+### `jōmēre̋`
+_compound noun_  
+	**divide-in-fifteenths**
 
 ### `jōől`
 _verb_  
@@ -1301,6 +1265,10 @@ _verb_
 _noun_  
 	**earwig**
 
+### `latine`
+_loanword_  
+	**Latin**
+
 ### `latium`
 _loanword_  
 	**Latium**
@@ -1433,6 +1401,10 @@ _verb_
 _verb_  
 	**clean**
 
+### `lāpȅlōpèmējōpő`
+_compound verb_  
+	**bathroom**
+
 ### `lārē`
 _noun_  
 	**caecilian**; blind legless amphibians
@@ -1545,6 +1517,14 @@ _noun_
 _verb_  
 	**broken**; having fallen apart or cracked
 
+### `lèmȕȅm`
+_compound verb_  
+	**break**; fall apart or crack
+
+### `lèmȕȅmrȕ`
+_compound verb_  
+	**cause-to-break**
+
 ### `lèȍ`
 _verb_  
 	**contain**
@@ -1556,14 +1536,6 @@ _noun_
 ### `lèűl`
 _verb_  
 	**late**; +t; like [`mȁm`](#mȁm)
-
-### `lèűljò`
-_compound verb_  
-	**date**
-
-### `lèűljòōre̋m`
-_compound verb_  
-	**birthday**
 
 ### `lé`
 _noun_  
@@ -1609,6 +1581,14 @@ _verb_
 _noun_  
 	**hagfish**; slime-eel
 
+### `lémōpèmērālȕ`
+_compound noun_  
+	**plane**
+
+### `lémōpèmóōrȕlrȕ`
+_compound noun_  
+	**air-conditioning**
+
 ### `lépèm`
 _noun_  
 	**austrobaileyale**; a type of woody plant that produces anise and essential oils
@@ -1628,6 +1608,14 @@ _verb_
 ### `lēm`
 _noun_  
 	**cosmos**
+
+### `lēmēre̋`
+_compound noun_  
+	**divide-in-fifths**
+
+### `lēmōpèmērālȕ`
+_compound noun_  
+	**spaceship**
 
 ### `lēőm`
 _verb_  
@@ -1656,6 +1644,10 @@ _verb_
 ### `le̋ma̋l`
 _verb_  
 	**fresh**
+
+### `le̋mjòma̋`
+_compound verb_  
+	**tempt**
 
 ### `le̋pȍm`
 _verb_  
@@ -1953,6 +1945,14 @@ _noun_
 _noun_  
 	**word**
 
+### `lúlōpèmàajőm`
+_compound noun_  
+	**part-of-speech**
+
+### `lúlōpèmàle̋lȕl`
+_compound noun_  
+	**dictionary**
+
 ### `lúm`
 _noun_  
 	**tool**
@@ -2021,6 +2021,14 @@ _verb_
 _verb_  
 	**high**; +z
 
+### `lűmȅm`
+_compound verb_  
+	**rise**; jump
+
+### `lűmȅmrȕ`
+_compound verb_  
+	**raise**
+
 ### `lȕ`
 _tense-marker_  
 	**let**; beuracratic
@@ -2088,6 +2096,10 @@ _noun_
 ### `màma̋l`
 _verb_  
 	**mock**
+
+### `màmēre̋`
+_compound noun_  
+	**divide-in-twelfths**
 
 ### `màmu`
 _noun_  
@@ -2181,10 +2193,6 @@ _pronoun_
 _noun_  
 	**canine**; describes wolves, dingoes, and foxes
 
-### `māalòlà`
-_compound noun_  
-	**dog**
-
 ### `mājȕ`
 _verb_  
 	**further**; a goal or agenda
@@ -2249,6 +2257,10 @@ _verb_
 _verb_  
 	**finish**; end a long habitual process
 
+### `ma̋lrȕ`
+_compound verb_  
+	**arrange**
+
 ### `ma̋m`
 _verb_  
 	**effective**
@@ -2264,10 +2276,6 @@ _verb_
 ### `ma̋pȁl`
 _verb_  
 	**cook**; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave
-
-### `ma̋pȁlmȅpȕm`
-_compound verb_  
-	**bake**
 
 ### `ma̋ra̋`
 _verb_  
@@ -2381,6 +2389,10 @@ _noun_
 _noun_  
 	**Middle-East**
 
+### `mèmpű`
+_compound noun_  
+	**hear**
+
 ### `mèmūl`
 _noun_  
 	**polypodizoa**; jellyfish-like parasites
@@ -2416,6 +2428,10 @@ _noun_
 ### `mém`
 _noun_  
 	**meme**
+
+### `mémēre̋`
+_compound noun_  
+	**divide-in-half**
 
 ### `méme̋`
 _verb_  
@@ -2468,42 +2484,6 @@ _verb_
 ### `mēre̋`
 _verb_  
 	**divide**; into the direct object
-
-### `mēre̋ēm`
-_compound verb_  
-	**divide-in-thirds**
-
-### `mēre̋jō`
-_compound verb_  
-	**divide-in-fifteenths**
-
-### `mēre̋lē`
-_compound verb_  
-	**divide-in-fifths**
-
-### `mēre̋mà`
-_compound verb_  
-	**divide-in-twelfths**
-
-### `mēre̋mé`
-_compound verb_  
-	**divide-in-half**
-
-### `mēre̋pá`
-_compound verb_  
-	**divide-in-sixths**
-
-### `mēre̋pú`
-_compound verb_  
-	**divide-in-quarters**
-
-### `mēre̋rù`
-_compound verb_  
-	**divide-in-tenths**
-
-### `mēre̋rú`
-_compound verb_  
-	**divide-in-sevenths**
 
 ### `mērùl`
 _noun_  
@@ -2572,6 +2552,10 @@ _verb_
 ### `mȅpȕm`
 _verb_  
 	**dry**
+
+### `mȅpȕmma̋pȁl`
+_compound verb_  
+	**bake**
 
 ### `moja`
 _noun_  
@@ -2644,6 +2628,10 @@ _verb_
 ### `mòu`
 _noun_  
 	**feces**
+
+### `mòuròm`
+_compound noun_  
+	**butthole**
 
 ### `mó`
 _postposition_  
@@ -2825,10 +2813,6 @@ _noun_
 _verb_  
 	**beautiful**; of a person
 
-### `mújȁm`
-_verb_  
-	**arrange**; in an order
-
 ### `mújul`
 _noun_  
 	**elopomorpha**; ladyfishes, tarpons, and bonefishes, but not eels
@@ -2949,6 +2933,10 @@ _verb_
 _loanword_  
 	**Japan**
 
+### `nihonggo`
+_loanword_  
+	**Japanese**
+
 ### `ojàrol`
 _noun_  
 	**commelinacea**; plants with fleshy succulent leaves
@@ -2960,6 +2948,10 @@ _verb_
 ### `olȕ`
 _verb_  
 	**small**
+
+### `olȕpōl`
+_compound verb_  
+	**subcontinent**; e.g. Europe, South Asia
 
 ### `orām`
 _noun_  
@@ -2996,6 +2988,14 @@ _noun_
 ### `òlà`
 _noun_  
 	**human**
+
+### `òlàmāal`
+_compound noun_  
+	**dog**
+
+### `òlàpajà`
+_compound noun_  
+	**cat**
 
 ### `òm`
 _pronoun_  
@@ -3039,7 +3039,7 @@ _postposition_
 
 ### `ójȅȕm`
 _verb_  
-	**lagging**; distance or fraction away from a goal or destination
+	**lag**; general discrete measure of backwardness
 
 ### `ól`
 _noun_  
@@ -3072,6 +3072,10 @@ _noun_
 ### `óro`
 _noun_  
 	**letter**; phoneme; character
+
+### `óroōpèmóēújȍ`
+_compound noun_  
+	**alphabet**
 
 ### `ō`
 _pronoun_  
@@ -3109,14 +3113,6 @@ _verb_
 _compound pronoun_  
 	**one-to-which-**; the indirect object of the following verb
 
-### `ōpèmàajőmlúl`
-_compound noun_  
-	**part-of-speech**
-
-### `ōpèmàle̋lȕllúl`
-_compound noun_  
-	**dictionary**
-
 ### `ōpèmá`
 _compound pronoun_  
 	**amount-of-**; the extent of the following verb
@@ -3129,27 +3125,7 @@ _compound noun_
 _compound pronoun_  
 	**one-that-gets-**; the direct object of the following verb
 
-### `ōpèmējōpőlāpȅl`
-_compound noun_  
-	**bathroom**
-
-### `ōpèmējúja̋lraȁ`
-_compound noun_  
-	**empire**
-
-### `ōpèmērālȕlém`
-_compound noun_  
-	**plane**
-
-### `ōpèmērālȕlēm`
-_compound noun_  
-	**spaceship**
-
-### `ōpèmērālȕràm`
-_compound noun_  
-	**boat**
-
-### `ōpèmērùȅjā`
+### `ōpèmējārùȅ`
 _compound noun_  
 	**peasant**
 
@@ -3157,7 +3133,7 @@ _compound noun_
 _compound pronoun_  
 	**place**
 
-### `ōpèmjérùȅjā`
+### `ōpèmjéjārùȅ`
 _compound pronoun_  
 	**kingdom**
 
@@ -3173,25 +3149,13 @@ _compound pronoun_
 _compound pronoun_  
 	**method**
 
-### `ōpèmmórómȍljēmùlò`
-_compound pronoun_  
-	**map-projection**
-
 ### `ōpèmó`
 _compound pronoun_  
 	**one-that-**; -er; the subject of the following verb
 
-### `ōpèmóēújȍóro`
-_compound noun_  
-	**alphabet**
-
-### `ōpèmórùȅjā`
+### `ōpèmójārùȅ`
 _compound noun_  
 	**king**
-
-### `ōpèmórȕōrȕllém`
-_compound noun_  
-	**air-conditioning**
 
 ### `ōpèmrē`
 _compound pronoun_  
@@ -3221,6 +3185,10 @@ _verb_
 _verb_  
 	**birth-give**; the physical act
 
+### `ōre̋mjòlèűl`
+_compound verb_  
+	**birthday**
+
 ### `ōrūl`
 _noun_  
 	**lamprey**
@@ -3228,6 +3196,10 @@ _noun_
 ### `ōrȕl`
 _verb_  
 	**cold**
+
+### `ōrȕlrȕ`
+_compound verb_  
+	**keep-cool**
 
 ### `ő`
 _verb_  
@@ -3252,6 +3224,14 @@ _verb_
 ### `őm`
 _verb_  
 	**possess**
+
+### `őmȅm`
+_compound verb_  
+	**obtain**; the direct object from the indirect object
+
+### `őmrȅ`
+_compound verb_  
+	**need**; the subject must possess the direct object for the indirect object to be true
 
 ### `őrȅl`
 _verb_  
@@ -3292,10 +3272,6 @@ _verb_
 ### `pajà`
 _noun_  
 	**feline**
-
-### `pajàòlà`
-_compound noun_  
-	**cat**
 
 ### `palȕm`
 _verb_  
@@ -3384,6 +3360,10 @@ _noun_
 ### `pám`
 _noun_  
 	**blade**; of grass
+
+### `pámēre̋`
+_compound noun_  
+	**divide-in-sixths**
 
 ### `pápùm`
 _noun_  
@@ -3581,6 +3561,10 @@ _verb_
 _verb_  
 	**rest**; to be on something
 
+### `pémpű`
+_compound noun_  
+	**taste**
+
 ### `péōl`
 _noun_  
 	**wasp**
@@ -3661,6 +3645,10 @@ _verb_
 _verb_  
 	**have-faith**
 
+### `pe̋pőlra̋`
+_compound verb_  
+	**worship**
+
 ### `pȅl`
 _verb_  
 	**up**; angle up from antiazimuth with indirect object being origin; height on page
@@ -3684,6 +3672,10 @@ _noun_
 ### `poje̋`
 _verb_  
 	**music-make**; an instrument
+
+### `poje̋jàpī`
+_compound verb_  
+	**Musical-Djastiz**
 
 ### `pomōm`
 _noun_  
@@ -3713,9 +3705,17 @@ _verb_
 _noun_  
 	**spoken-language**
 
+### `pòljȁ`
+_compound noun_  
+	**listen-carefully**; listen to and parse words, not just sounds
+
 ### `pòlo`
 _noun_  
 	**seal**; includes walruses and maybe sea lions I think?
+
+### `pòlpű`
+_compound noun_  
+	**comprehend**
 
 ### `pòlűm`
 _verb_  
@@ -3813,10 +3813,6 @@ _verb_
 _noun_  
 	**toadfish**
 
-### `pōlolȕ`
-_compound noun_  
-	**subcontinent**; e.g. Europe, South Asia
-
 ### `pōm`
 _noun_  
 	**vacuum**
@@ -3860,6 +3856,10 @@ _verb_
 ### `pőm`
 _verb_  
 	**backward**; -y
+
+### `pőmȅm`
+_compound verb_  
+	**get-behind**
 
 ### `pȍ`
 _verb_  
@@ -3969,6 +3969,10 @@ _verb_
 _noun_  
 	**bit**; describes gravel and cereal
 
+### `púmēre̋`
+_compound noun_  
+	**divide-in-quarters**
+
 ### `púrāl`
 _noun_  
 	**ladder**
@@ -3993,9 +3997,17 @@ _noun_
 _verb_  
 	**be-in**; a situation
 
+### `pūmjȁ`
+_compound noun_  
+	**active-read**
+
 ### `pūmől`
 _verb_  
 	**curious**
+
+### `pūmpű`
+_compound noun_  
+	**passive-read**
 
 ### `pūmȕl`
 _verb_  
@@ -4037,41 +4049,13 @@ _verb_
 _verb_  
 	**literal**
 
-### `pűmèm`
+### `pűmȅm`
 _compound verb_  
-	**hear**
+	**get-in-front**
 
 ### `pűmȕl`
 _verb_  
 	**summon**
-
-### `pűpém`
-_compound verb_  
-	**taste**
-
-### `pűpòl`
-_compound verb_  
-	**comprehend**
-
-### `pűpūm`
-_compound verb_  
-	**passive-read**
-
-### `pűrāl`
-_compound verb_  
-	**see**
-
-### `pűrém`
-_compound verb_  
-	**passive-feel**
-
-### `pűròlȍl`
-_compound verb_  
-	**dream**
-
-### `pűrōm`
-_compound verb_  
-	**smell**
 
 ### `pűűl`
 _verb_  
@@ -4104,6 +4088,10 @@ _verb_
 ### `raȁ`
 _verb_  
 	**big**
+
+### `raȁōpèmējúja̋l`
+_compound verb_  
+	**empire**
 
 ### `raēlem`
 _noun_  
@@ -4152,6 +4140,10 @@ _noun_
 ### `ràme̋m`
 _verb_  
 	**virtual**; digitalness
+
+### `ràmōpèmērālȕ`
+_compound noun_  
+	**boat**
 
 ### `ràpe̋l`
 _verb_  
@@ -4209,6 +4201,14 @@ _noun_
 _noun_  
 	**leech**
 
+### `rāljȁrāl`
+_compound noun_  
+	**look**
+
+### `rālpű`
+_compound noun_  
+	**see**
+
 ### `rālȕ`
 _verb_  
 	**ride**
@@ -4257,10 +4257,6 @@ _verb_
 _verb_  
 	**require**
 
-### `ra̋pe̋pől`
-_compound verb_  
-	**worship**
-
 ### `ra̋rűl`
 _verb_  
 	**mediocre**; be a layperson
@@ -4276,6 +4272,14 @@ _verb_
 ### `rȁm`
 _verb_  
 	**low**; -z
+
+### `rȁmȅm`
+_compound verb_  
+	**sink**; crouch
+
+### `rȁmȅmrȕ`
+_compound verb_  
+	**lower**
 
 ### `ree̋l`
 _verb_  
@@ -4368,6 +4372,10 @@ _noun_
 ### `rémól`
 _noun_  
 	**cupressacea**; junipers, redwoods, and some other types of conifers
+
+### `rémpű`
+_compound noun_  
+	**passive-feel**
 
 ### `réolȁ`
 _verb_  
@@ -4473,10 +4481,6 @@ _verb_
 _verb_  
 	**physical**; describes things in the physical realm
 
-### `rȅőm`
-_compound verb_  
-	**need**; the subject must possess the direct object for the indirect object to be true
-
 ### `rȅrȕl`
 _verb_  
 	**schadenfreude-ful**
@@ -4529,6 +4533,10 @@ _noun_
 _verb_  
 	**sleep**
 
+### `ròlȍlpű`
+_compound verb_  
+	**dream**
+
 ### `ròlu`
 _noun_  
 	**flamingo**
@@ -4540,10 +4548,6 @@ _noun_
 ### `ròma̋m`
 _verb_  
 	**magical**
-
-### `ròmmòu`
-_compound noun_  
-	**butthole**
 
 ### `ròpá`
 _noun_  
@@ -4637,6 +4641,10 @@ _noun_
 _verb_  
 	**court**; date
 
+### `rōmpű`
+_compound noun_  
+	**smell**
+
 ### `rő`
 _verb_  
 	**take**
@@ -4713,10 +4721,6 @@ _noun_
 _verb_  
 	**govern**
 
-### `rùȅjā`
-_compound verb_  
-	**rule-monarchially**
-
 ### `rùjòm`
 _noun_  
 	**octopus**
@@ -4736,6 +4740,10 @@ _noun_
 ### `rùma̋m`
 _verb_  
 	**parse**; interpret information encoded somehow
+
+### `rùmēre̋`
+_compound noun_  
+	**divide-in-tenths**
 
 ### `rùmól`
 _noun_  
@@ -4765,6 +4773,10 @@ _noun_
 _noun_  
 	**thing**; tangible
 
+### `rúmēre̋`
+_compound noun_  
+	**divide-in-sevenths**
+
 ### `rúra̋`
 _verb_  
 	**random-generate**
@@ -4772,10 +4784,6 @@ _verb_
 ### `rúűm`
 _verb_  
 	**red**; stimulation of L cones
-
-### `rúűmàme̋m`
-_compound verb_  
-	**brown**
 
 ### `rū`
 _noun_  
@@ -4837,29 +4845,13 @@ _verb_
 _verb_  
 	**musty**
 
+### `rűűm`
+_compound verb_  
+	**recommend**
+
 ### `rȕ`
 _verb_  
 	**cause**
-
-### `rȕȅmlèmȕ`
-_compound verb_  
-	**cause-to-break**
-
-### `rȕȅmlűm`
-_compound verb_  
-	**raise**
-
-### `rȕȅmrȁm`
-_compound verb_  
-	**lower**
-
-### `rȕjàőm`
-_compound verb_  
-	**heat**
-
-### `rȕje̋`
-_compound verb_  
-	**deliver**; move the direct object to the indirect object
 
 ### `rȕje̋m`
 _verb_  
@@ -4876,10 +4868,6 @@ _verb_
 ### `rȕm`
 _verb_  
 	**own**
-
-### `rȕōrȕl`
-_compound verb_  
-	**keep-cool**
 
 ### `ssamaim`
 _loanword_  
@@ -4916,6 +4904,14 @@ _noun_
 ### `ùlò`
 _noun_  
 	**topography**; geography
+
+### `ùlòjēm`
+_compound noun_  
+	**map**
+
+### `ùlòjēmōpèmmórómȍl`
+_compound noun_  
+	**map-projection**
 
 ### `ùm`
 _postposition_  
@@ -5061,10 +5057,6 @@ _verb_
 _verb_  
 	**gratitude**
 
-### `űmrű`
-_compound verb_  
-	**recommend**
-
 ### `ȕ`
 _verb_  
 	**do**
@@ -5072,6 +5064,10 @@ _verb_
 ### `ȕa̋`
 _verb_  
 	**left**; -x
+
+### `ȕȅl`
+_compound verb_  
+	**can**
 
 ### `ȕl`
 _verb_  
