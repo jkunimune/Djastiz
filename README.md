@@ -1,72 +1,62 @@
 # Modern Djastiz
 
-So, you want to speak a better and more succinct version of [Olde Djastiz](https://github.com/jkunimune15/Djastiz/tree/master). How do you do that? By speaking Modern Djastiz\*, that's how! What's Modern Djastiz? It's a high-level language optimised for efficiency that I invented. Here's how it works.
+So, you want to sing a better and more succinct version of [Olde Djastiz](https://github.com/jkunimune15/Djastiz/tree/master). How do you do that? By singing Modern Djastiz\*, that's how! What's Modern Djastiz? It's a high-level language optimised for efficiency that I invented. Here's how it works.
 
 ## Writing and pronunciation
 
-Before you read any further, you'll need to know how to read, say, and write these words. Djastiz has 28 letters: three nasals, three unvoiced plosives, three voiced plosives, six unvoiced fricatives, six voiced fricatives, and seven vowels/approximants. It is written using a phonetic alphabet, which reads top-to-bottom, then left-to-right. The letters are as follows.
-- [`nga`](writing/nga.svg) is Romanized "ng" and pronounced /&#331;/ in the [IPA][1].
-- [`ne`](writing/ne.svg) is Romanized "n" and pronounced /n/ in the [IPA][1].
-- [`mo`](writing/mo.svg) is Romanized "m" and pronounced /m/ in the [IPA][1].
-- [`ko`](writing/ko.svg) is Romanized "k" and pronounced /k/ in the [IPA][1].
-- [`tu`](writing/tu.svg) is Romanized "t" and pronounced /t/ or /t&#810;/ in the [IPA][1].
-- [`pa`](writing/pa.svg) is Romanized "p" and pronounced /p/ in the [IPA][1].
-- [`gr`](writing/gr.svg) is Romanized "g" and pronounced /g/ in the [IPA][1].
-- [`de`](writing/de.svg) is Romanized "d" and pronounced /d/ or /d&#810;/ in the [IPA][1].
-- [`bi`](writing/bi.svg) is Romanized "b" and pronounced /b/ in the [IPA][1].
-- [`hu`](writing/hu.svg) is Romanized "h" and pronounced /x/ in the [IPA][1].
-- [`thr`](writing/thr.svg) is Romanized "th" and pronounced /&theta;/ in the [IPA][1].
-- [`fe`](writing/fe.svg) is Romanized "f" and pronounced /&#632;/ in the [IPA][1].
-- [`yi`](writing/yi.svg) is Romanized "y" and pronounced /&#611;/ in the [IPA][1].
-- [`dha`](writing/dha.svg) is Romanized "dh" and pronounced /&eth;/ in the [IPA][1].
-- [`vo`](writing/vo.svg) is Romanized "v" and pronounced /&beta;/ in the [IPA][1].
-- [`she`](writing/she.svg) is Romanized "sh" and pronounced /&#642;/ in the [IPA][1].
-- [`ssa`](writing/ssa.svg) is Romanized "ss" and pronounced /&#643;/ in the [IPA][1].
-- [`si`](writing/si.svg) is Romanized "s" and pronounced /s/ in the [IPA][1].
-- [`zhr`](writing/zhr.svg) is Romanized "zh" and pronounced /&#656;/ in the [IPA][1].
-- [`jo`](writing/jo.svg) is Romanized "j" and pronounced /&#658;/ in the [IPA][1].
-- [`zu`](writing/zu.svg) is Romanized "z" and pronounced /z/ in the [IPA][1].
-- [`rm`](writing/rm.svg) is Romanized "r" and pronounced /&#633;&#809;/ or /&#633;/ in the [IPA][1].
-- [`iz`](writing/iz.svg) is Romanized "i" and pronounced /i/ or /j/ in the [IPA][1].
-- [`uss`](writing/uss.svg) is Romanized "u" and pronounced /u/ or /w/ in the [IPA][1].
-- [`ar`](writing/ar.svg) is Romanized "a" and pronounced /a/ or /&#600;/ in the [IPA][1].
-- [`ey`](writing/ey.svg) is Romanized "e" and pronounced /e/ or /&#603;/ in the [IPA][1].
-- [`ou`](writing/ou.svg) is Romanized "o" and pronounced /o/ or /&#596;/ in the [IPA][1].
-- [`al`](writing/al.svg) is Romanized "l" and pronounced /l&#809;/ or /l/ in the [IPA][1].
+Before you read any further, you'll need to know how to read, say, and write these words. Musical Djastiz has a unique phonology comprising four vowels, five consonants, and six tones. Besides the miniscule inventory, it creates a unique sound by defining its tones very precisely.
 
-If a single letter has multiple pronounciations, either can be used without affecting the meaning. Syllables are often built such that one pronounciation is easier to use than the other. Clusters of latin consonants that can be interpreted as a single phoneme should always be interpreted as a single phoneme; in the rare case that two adjacent romanised phonemes would normally appear to be a diagraph, for example a `ne` immediately preceding a `gr`, an apostraphe shall be used to prevent the confuson of this consonant cluster with a `nga`: `n'g`.
+In Musical Djastiz, the first vowel in every sentence is articulated at some pitch. This is the tonic pitch. The meanings of all words are dependent on the pitches of their syllables relative to this tonic. Note that perfect pitch is not necessary to sing Musical Djastiz, as the tonic is defined by the first syllable.
 
-The actual Djastiz character for each letter in svg format can be found in the "[writing](writing)" folder of this repository. While there are no punctuation glyphs in Djastiz, words are separated by spaces that occupy the same vertical space as a letter. In polysyllabic words, the stress is placed on the second syllable. Arabic numerals are the preferred method for writing numbers, but be sure to use the slashes for 0 and 7 to distinguish them from `ko` and `ey`.
+- `áe` is Romanized "a" and pronounced /&#604;/ in the [IPA][1].
+- `ȅl` is Romanized "e" and pronounced /e/ in the [IPA][1].
+- `ōél` is Romanized "o" and pronounced /o/ in the [IPA][1].
+- `ūje` is Romanized "u" and pronounced /u/ in the [IPA][1].
+- `lél` is Romanized "l" and pronounced /l/ in the [IPA][1].
+- `mōl` is Romanized "m" and pronounced /m/ in the [IPA][1].
+- `poő` is Romanized "p" and pronounced /p/ in the [IPA][1].
+- `rűl` is Romanized "r" and pronounced /r/ in the [IPA][1].
+- `jo` is Romanized "j" and pronounced /&#658;/ in the [IPA][1].
+- `mȍ` is Romanized "&#9676;&#783;" and pronounced at the tonic frequency.
+- `jèl` is Romanized "&#9676;&#768;" and pronounced at 125% the tonic frequency.
+- `lōm` is Romanized "&#9676;&#772;" and pronounced at 150% the tonic frequency.
+- `óm` is Romanized "&#9676;&#769;" and pronounced at 175% the tonic frequency.
+- `le̋l` is Romanized "&#9676;&#779;" and pronounced at twice the tonic frequency.
+- `moja` is Romanized as a vowel without an accent and can be pronounced at any pitch. Musicians and poets often use these syllables to insert color-tones into their speech, while most people simply repeat the pitch of the previous syllable.
+
+Note that the tones are all approximate; as long as they roughly evenly divide the frequency space among them, it should be intelligible. Rounding these to an equal-tempered scale is no problem. Indeed, small changes in the set of pitches used conveys aspects of the manner or mood of the sentence. Lowering the `jèl` to 120% the tonic indicates uncertainty, while raising the `lōm` to 156% the tonic indicates conviction. Doing both expresses sarcasm. Lowering the `óm` to 167% the tonic expresses familiarity between the singer and listener, while raising it to 188% expresses distance or wariness. In addition to this, the tonic often changes from sentence to sentence. Generally, raising the tonic when moving to a new sentence indicates that the second sentence builds off the first, while lowering it indicates a change of topic.
+
+While syllable length is not phonemic, polysyllabic words are generally sung at a quicker tempo than monosyllabic ones. Two identical vowels of the same pitch with no consonant between them should be separated with a glottal stop.
+
+For now, Musical Djastiz solely uses the Latin Alphabet. I'll design something prettier if I ever feel like it, but for now, I'm kind of done with this one. Artlangs are not my forte.
 
 [1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
 
 ## Grammar
 
-The grammar of Modern Djastiz is designed to have as few rules as possible while remaining syllable-efficient and consise. The result is a language that is admittedly somewhat challenging to learn, but very easy to use once you know it. At least, I assume. I'll have more conclusive data once my child learns English. Anyway, on with the grammar! Each Djastiz sentence has two basic parts: the _tense marker_ and the series of _postpositional phrases_.
+The grammar of Musical Djastiz is completely ripped from Modern Djastiz. I made some tweaks to ensure every sentence ends on a stable note, but other than that, I just let it be. Each Djastiz sentence has three basic parts: the _tense marker_ the series of _postpositional phrases_, and the _predicate_.
 
 ### Tense markers
 
-A tense marker gives the general purpose of a sentence. If included, it is the first thing in the sentence. If omitted, as it often in the first sentence in a phrase, it is implied, usually as `dhi`. There are ten tense markers, and each creates a fundamentally different kind of communication.
-- `dhi` is the _declarative_ tense marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the speaker.
-- `ung` is the _interrogative_ tense marker. It precedes a sentence that requests information. An interrogative sentence usually contains the word `l` at least once, though the position of `l` can also be implied. In either case, `l` represents a piece of information missing from the sentence that the speaker would like to know.
-- `bu` is the _imperative_ tense marker. It precedes a sentence that requests action. An imperative sentence describes an event or action that the speaker wants to happen.
+A tense marker gives the general purpose of a sentence. It is the first thing in the sentence. There are ten tense markers, and each creates a fundamentally different kind of communication.
+- `dhi` is the _declarative_ tense marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the singer.
+- `ung` is the _interrogative_ tense marker. It precedes a sentence that requests information. An interrogative sentence usually contains the word `l` at least once, though the position of `l` can also be implied. In either case, `l` represents a piece of information missing from the sentence that the singer would like to know.
+- `bu` is the _imperative_ tense marker. It precedes a sentence that requests action. An imperative sentence describes an event or action that the singer wants to happen.
 - `e` is a bit more complicated. It does not create sentences at all, but rather _noun clauses_. These will be discussed in [&#167;2.3](#noun-phrases).
 - `yidh` is the _bureaucratic_ tense marker. It behaves similarly to `dhu`, specifically in contexts where saying a sentence causes it to be true. Bureaucratic sentences are especially useful for proclamations, definitions, and assumptions in mathematical proofs.
-- `vub` behaves exactly like `bu`, but frames the request as less mandatory and more polite. The frequency with which one uses `vub` versus `bu` completely depends on the society, and since no society actually speaks Djastiz, I have no idea how useful this word is.
+- `vub` behaves exactly like `bu`, but frames the request as less mandatory and more polite. The frequency with which one uses `vub` versus `bu` completely depends on the society, and since no society actually sings Djastiz, I have no idea how useful this word is.
 - `oth` is the _salutary_ tense marker. It is used to construct basic greetings. `oth` is a _simple tense marker_, which means that it can be used with simpler sentence patters. These will be discussed further in [&#167;2.7](#special-words).
 - `thu` is the _antisalutory_ tense marker. It is used to construct basic parting statements and, like `oth`, is simple.
 - `ja` is the _exclamatory_ tense marker and is used to express general happiness or approval. It is also a simple tense marker.
 - `oj` is the _antiexclamatory_ tense marker, which expresses general unhappiness or disapproval. It is also a simple tense marker.
 
-In addition to labelling the type of sentence, the tense marker indicates the start of the sentence. The sentence is ended with the punctuation marker of the next sentence or with the silence after a person stops talking. Between these tokens lies the meat of the sentence: postpositional phrases.
+In addition to labelling the type of sentence, the tense marker indicates the start of the sentence. The sentence ends with the predicate, which we will discuss briefly. Between these tokens lies the meat of the sentence: postpositional phrases.
 
 ### Postpositional phrases
 
 Every postpositional phrase describes one aspect of the event described by the sentence, and comprises two parts: the _complement_, which is a noun phrase, and the _postposition_, which is drawn from the following list of fifteen. The postposition specifies what aspect of the sentence is being described, and the complement describes that aspect. These postpositional phrases may occur in any order. There are three classes of postpositional phrase.
 
-The _predicate_ acts as a postpositional phrase even though it does not actually have a postposition. A sentence can have at most one predicate, which is a single _verb_ placed among the other postpositional phrases. It describes the most fundamental meaning of the sentence beyond the tense: what kind of action or event is being described.
-
-_Argumentative postpositions_ also may only be included once per sentence, if that. Each one may or may not be _applicable_ based on the predicate. If an argumentative preposition is applicable, it may be included in the sentence, but does not need to be if its complement is implied. A proper Djastiz dictionary would list the applicable argumentative prepositions for every verb in the language, as well as their precise meanings in each case. Let's be real, though. There's no way I'm going to do that. Instead, I'll leave it up to the speakers' discretion when each preposition is applicable. In general:
+_Argumentative postpositions_ also may only be included once per sentence, if that. Each one may or may not be _applicable_ based on the predicate. If an argumentative preposition is applicable, it may be included in the sentence, but does not need to be if its complement is implied. A proper Djastiz dictionary would list the applicable argumentative prepositions for every verb in the language, as well as their precise meanings in each case. Let's be real, though. There's no way I'm going to do that. Instead, I'll leave it up to the singers' discretion when each preposition is applicable. In general:
 - `r` denotes the _subject_ of the action, the agent that initializes and/or carries out the action (e.g. the planner of `rih`). `r` is almost always applicable.
 - `u` denotes the _direct object_, the object on which the subject acts or to which the action refers (e.g. the food of `ukiaj`). `u` is never applicable when `r` is not.
 - `i` denotes the _indirect object_ of the action, the concept that the subject indirectly affects or references (e.g. the order of `shaid`). It often functions in tandem with `iu` (e.g. the old and new values in `ry`). `i` is never applicable when `u` is not.
@@ -85,6 +75,10 @@ _Adjunctive prepositions_, by contrast, are always applicable, and can be used m
 - `au` denotes the manner of the action, often a noun clause that describes the action.
 - `eng` denotes the adressee of the sentence, if it is unclear or requires emphasis.
 
+### Predicates
+
+There is not much to say about the predicate. The last thing in the sentence, it comprises a single verb. This verb describes the most fundamental meaning of the sentence beyond the tense: what kind of action or event is being described. Unlike in Modern Djastiz, in Musical Djastiz, the verb is mandatory.
+
 ### Noun phrases
 
 Noun phrases are the primary building blocks with which one describes complex concepts. There are four ways to construct these.
@@ -101,20 +95,20 @@ The next method is the prependix of a _qualifier_ to a noun phrase. There are si
 
 The third method is the appendix of a _modifier_. Modifiers are attached to the ends of noun phrases to create new noun phrases. There are two types of modifier, each of which has its own quirks, so they will be discussed at length in [&#167;2.4](#modifiers).
 
-The fourth and perhaps most complicated method is a noun clause. A noun clause comprises `e` followed by a list of postpositional phrases. Noun clauses appear at first to be sentences with `e` as their punctuation marker. However, do not be misled. These are nouns that refer to the meaning of the sentence they appear to be. They are commonly used with verbs such as `ij` and `ur`.
+The fourth and perhaps most complicated method is a noun clause. A noun clause comprises `e` followed by a list of postpositional phrases and a verb. Noun clauses appear at first to be sentences with `e` as their punctuation marker. However, do not be misled. These are nouns that refer to the meaning of the sentence they appear to be. They are commonly used with verbs such as `ij` and `ur`.
 
 The final method is _pronouns_, which function exactly as nouns do, but with meanings derived exclusively from context. There are nine of them.
 - `f` is the simplest pronoun. It carries no information, and acts as more of a placeholder than anything else.
 - `dh` stands in for any noun that has been recently mentioned.
-- `sh` refers to the speaker or writer.
+- `sh` refers to the singer or writer.
 - `k` refers to the listener or reader.
-- `m` refers to an agent other than the speaker or listener.
-- `shm` refers to the speaker and others.
+- `m` refers to an agent other than the singer or listener.
+- `shm` refers to the singer and others.
 - `mk` refers to the listener and others.
-- `ksh` refers to the speaker and the listener.
-- `kshm` refers to the speaker, listener, and others.
+- `ksh` refers to the singer and the listener.
+- `kshm` refers to the singer, listener, and others.
 
-Noun phrases can also technically be created with _conjunctions_, but then, so can prepositional phrases and modifiers. I'll explain those in a different paragraph.
+Noun phrases can also technically be created with _conjunctions_, but then, so can prepositional phrases and modifiers and predicates. I'll explain those in a different paragraph.
 
 ### Modifiers
 
@@ -127,7 +121,7 @@ A noun modifier has two parts: a _fastener_ and a noun phrase. The fastener uses
 - `va` draws equality between the preceding and following noun phrases without really changing the meaning of the sentence. It is especially useful for sharing names (e.g. `flrjot va Esteban`).
 - `es` indicates and extracts a specific element of a set.
 
-The more versatile modifier is the _relative clause_. Relative clauses are simply lists of prepositional phrases that contain `l` in them somewhere. The `l` should be placed as close to the beginning of the relative clause as possible. It usually goes at the very front, adjacent to the modified noun phrase, but this is not always possible. Again, while these resemble full sentences, they are not. A modifier clause modifies a noun phrase by placing it inside another sentence. The result is two clauses that are true together. The first is the original sentence with the modifier clause simply removed. The second is the entire modifier with `dhi` prepended and the modified noun phrase inserted for `l`. This type of modifier draws an equality between the noun phrase and itself across the two clauses. While relative clauses seems at first glance to be far more complex than noun modifiers, they are, in fact, capable of creating some of the simplest and most useful noun modifications: _simple ergative relative clauses_, the analog to adjectives in other languages, for example, `dhap l r at`; and _relative verb noun definitions_, the analog to English's "-er" and "-ee", for example, `f l u jeuth`.
+The more versatile modifier is the _relative clause_. Relative clauses are simply lists of prepositional phrases that contain `l` in them somewhere followed by a verb. The `l` should be placed as close to the beginning of the relative clause as possible. It usually goes at the very front, adjacent to the modified noun phrase, but this is not always possible. Again, while these resemble full sentences, they are not. A modifier clause modifies a noun phrase by placing it inside another sentence. The result is two clauses that are true together. The first is the original sentence with the modifier clause simply removed. The second is the entire modifier with `dhi` prepended and the modified noun phrase inserted for `l`. This type of modifier draws an equality between the noun phrase and itself across the two clauses. While relative clauses seems at first glance to be far more complex than noun modifiers, they are, in fact, capable of creating some of the simplest and most useful noun modifications: _simple ergative relative clauses_, the analog to adjectives in other languages, for example, `dhap l r at`; and _relative verb noun definitions_, the analog to English's "-er" and "-ee", for example, `f l u jeuth`.
 
 ### Conjunctions
 
@@ -135,7 +129,7 @@ The last major grammatical structure to be discussed is the conjunction. Conjunc
 
 The first and most recognizably conjugative conjunctions are `ni` and `a`. When `ni` precedes a series of phrases separated by `a`, they combine said series into a single set representing all of the phrases combined. The input phrases are usually noun phrases, but practically anything can be fed in here so long as each phrase is of the same type. They translate very cleanly to "both" and "and" in English, respectively. That set can then have its meaning easily tweaked using qualifiers. For example, `dhe ni mus a thengga`.
 
-The other pair of conjunctions may be more difficult to understand for English speakers. This is the `yr` and `ssu` construction, which functions much like the quotation mark in English. Unlike the quotation mark, however, `yr`-`ssu` constructions must be spoken aloud. Any phrase in any language between the `yr` and the `ssu` should not be interpreted as actual Djastiz grammar, but rather as a sequence of letters or sounds. The entire phrase acts as a noun and references the phrase contained within. This is most commonly used for quoting dialogue and discussing language. To indicate that a single word inside a `yr`-`ssu` construct should be interpreted literally and not as part of the quote, precede it with the word `je`, for example, `dhi ij yr tshef je l u ssu u`. To describe the word or sound `je`, precede it with `je`. For example, `raun yr dhi ij yr tshef je je l u ssu u ssu u`.
+The other pair of conjunctions may be more difficult to understand for English singers. This is the `yr` and `ssu` construction, which functions much like the quotation mark in English. Unlike the quotation mark, however, `yr`-`ssu` constructions must be sung aloud. Any phrase in any language between the `yr` and the `ssu` should not be interpreted as actual Djastiz grammar, but rather as a sequence of letters or sounds. The entire phrase acts as a noun and references the phrase contained within. This is most commonly used for quoting dialogue and discussing language. To indicate that a single word inside a `yr`-`ssu` construct should be interpreted literally and not as part of the quote, precede it with the word `je`, for example, `dhi ij yr tshef je l u ssu u`. To describe the word or sound `je`, precede it with `je`. For example, `raun yr dhi ij yr tshef je je l u ssu u ssu u`.
 
 ### Gerunds
 
@@ -158,7 +152,7 @@ Most of the words discussed thus far have fallen into categories and followed si
 
 Numbers can also be considered special words in that they concatenate with each other in a unique way. Quantities in Djastiz are described by a string of number words. The final quantity is obtained by summing all of the digits after applying a multiplier to each one greater than that of the next by a factor of the radix, which is ten by default. In other words, say a number in Djastiz by writing it in decimal notation and then reading off each digit in Djastiz in sequence. Extremely large and imprecise numbers can be described efficiently by dividing out a logical number of factors of the radix, and then appending the word `uo` and the number of powers divided. The decimal point is read `ho` and is placed among the digits as with standard numeral notation. Negative numbers should have `me` inserted at the beginning. Fractions can be expressed by describing the denominator as a unit. Finally, to use radices other than ten, precede the number with the base in Djastiz plus the word `adh`. There exist enough words to easily use any radix from two to sixteen. For larger radices, the radix is typically said in base ten, though if you want, I guess you can nest them, if you need to represent 3,723 in base 0x3C for some reason. Does that sound complicated? It isn't. Some examples will probably help. `ang od`, `uf po tho od`, `flushifpo ir rh rh`, `rh adh re ngu adh uf od re`  and `ev ho od rh re uf rh zha re yu po`.
 
-`skelf` is a bit of a meta-word. It tells the listener to ignore the previous few words spoken. This is used exclusively for error correction, so it rarely comes up in writing.
+`skelf` is a bit of a meta-word. It tells the listener to ignore the previous few words sung. This is used exclusively for error correction, so it rarely comes up in writing.
 
 ## Vocabulary
 
@@ -182,11 +176,11 @@ _Pseudowords_ are common phrases that do not merit mention in a dictionary but d
 
 ### Compound words
 
-In addition to the basic, independent words, there are compound words. Compound words are formed by simply combining two or more preexisting words. A compound word may combine several common grammar tokens into a single word that has the same meaning as the combination of its parts, or it may combine two or more verbs, nouns, or pseudowords to create something new. In the latter case, the meaning and part of speech is closest to the first word, with the second word providing additional detail. There are thousands of them, supplying the many nuanced and specific concepts a complete langauge needs. The vast majority, however, are not documented here. That's because there are thousands of them, and I have a life. I recorded the ones I needed for various things in [compound_word.csv](dictionary/compound_word.csv), but I guess if you want to speak Djastiz, you can just come up with your own, provided they are logical. Submit a pull request if you think some compound word ought to be included in the main list. If it is a technical or regional term, though, beware, as a _loanword_ may be more appropriate.
+In addition to the basic, independent words, there are compound words. Compound words are formed by simply combining two or more preexisting words. A compound word may combine several common grammar tokens into a single word that has the same meaning as the combination of its parts, or it may combine two or more verbs, nouns, or pseudowords to create something new. In the latter case, the meaning and part of speech is closest to the second word, with the first word providing additional detail. There are thousands of them, supplying the many nuanced and specific concepts a complete langauge needs. The vast majority, however, are not documented here. That's because there are thousands of them, and I have a life. I recorded the ones I needed for various things in [compound_word.csv](dictionary/compound_word.csv), but I guess if you want to sing Djastiz, you can just come up with your own, provided they are logical. Submit a pull request if you think some compound word ought to be included in the main list. If it is a technical or regional term, though, beware, as a _loanword_ may be more appropriate.
 
 ### Loanwords
 
-For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, the preferred method of denotation is the loanword, a word taken directly from other languages (and modified to fit with Djastiz's phonology, of course). The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language spoken in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, while the United States of America could be described with the words `ngidh` and `flupshr`, the proper term in Djastiz is `iunaitedsteits`.
+For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, the preferred method of denotation is the loanword, a word taken directly from other languages (and modified to fit with Djastiz's phonology, of course). The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, while the United States of America could be described with the words `ngidh` and `flupshr`, the proper term in Djastiz is `iunaitedsteits`. Loanwords use the phonology of Modern Djastiz, and contain no tones save the `moja`.
 
 Like the compound words, the set of documented loanwords is not complete. They are meant to encompass the highly specific concepts that Djastiz cannot describe on its own, and thus to attempt to recond all of them in a Djastiz dictionary would be impossible. Instead, I have included some useful examples of loanwords in [loanword.csv](dictionary/loanword.csv).
 
@@ -196,11 +190,11 @@ It must be noted that, while in English, verbs often have multiple meanings for 
 
 ### Conventions, measurements, and coordinate systems
 
-Djastiz indexes from zero. Obviously. `f o uf` can therefore translate to either "the first one" or "the second one" depending on how one does the translation. It literally means "the one that is number one", which would seem to imply "1°", or "first". However, in English, "first" refers to the instance that has no instances before it, whereas in Djastiz, `f o yu` refers to _that_ instance while `f o uf` refers to the one after it. A native Djastiz speaker typically counts finite objects by first pointing outside of the set and saying `yu`, and then pointing sequentially to the spaces between objects and saying a new number each time. The number of objects in the set is the number one says when pointing past the last one, on the opposite side of the set at which one started. If you're really good at counting, you can skip the `yu`, but it's important to always point between the objects and not at them, as normal people would, so as not to confuse your indices. Why would we do something so unintuitive and unusual? You tell me: what's the seventh year of the fifth decade of the eleventh century?
+Djastiz indexes from zero. Obviously. `f o uf` can therefore translate to either "the first one" or "the second one" depending on how one does the translation. It literally means "the one that is number one", which would seem to imply "1°", or "first". However, in English, "first" refers to the instance that has no instances before it, whereas in Djastiz, `f o yu` refers to _that_ instance while `f o uf` refers to the one after it. A native Djastiz singer typically counts finite objects by first pointing outside of the set and saying `yu`, and then pointing sequentially to the spaces between objects and saying a new number each time. The number of objects in the set is the number one says when pointing past the last one, on the opposite side of the set at which one started. If you're really good at counting, you can skip the `yu`, but it's important to always point between the objects and not at them, as normal people would, so as not to confuse your indices. Why would we do something so unintuitive and unusual? You tell me: what's the seventh year of the fifth decade of the eleventh century?
 
 Djastiz also uses the metric system for all measurements of length, area, volume, mass, current, magnetic flux density, etc., with appropriate loanwords for each respective unit from French. Other units may, of course, be used, but metric is default. Djastiz does not, however, use the metric unit of time (seconds). Instead, times in Djastiz are typically represented in terms of powers of ten from the solar day. Unique words for the era (10<sup>5</sup> days, used for historical dates), the chunk (10<sup>3</sup> days, used for ages and long-term scheduling), the cycle (10<sup>1</sup> days, used for habitual and near-term scheduling), the day, the k&egrave; (10<sup>-2</sup> days, used for general scheduling), the span (10<sup>-3</sup> days, used for precise scheduling), and the snap (10<sup>-5</sup> days, used for human-perceptible timescales). The Gregorian calendar may be used with Latin loanwords for communicating with the outside world, or doing things that depend on the seasons. In case you were wondering, this time measurement system is called "Justin Time".
 
-One other way that Djastiz differs from measurements in English is its greater number of coordinate words. While in English, the words "up", "down", "left", and "right" can mean different things in different contexts, in Djastiz, the corresponding words are precise. For example, "up" with respect to an elevator in English means a linear axis perpendicular to the local gravitational equipotential. "Up" with respect to a page, though, in fact means an angular direction that can be linearly up if the page is on a wall or forward if the page is on a table. Djastiz has separate words for these concepts: `rd` for the linear dimension, and `ssri` for the angular dimension. Always take care when speaking Djastiz to know whether to use Cartesian or spherical coordinates.
+One other way that Djastiz differs from measurements in English is its greater number of coordinate words. While in English, the words "up", "down", "left", and "right" can mean different things in different contexts, in Djastiz, the corresponding words are precise. For example, "up" with respect to an elevator in English means a linear axis perpendicular to the local gravitational equipotential. "Up" with respect to a page, though, in fact means an angular direction that can be linearly up if the page is on a wall or forward if the page is on a table. Djastiz has separate words for these concepts: `rd` for the linear dimension, and `ssri` for the angular dimension. Always take care when singing Djastiz to know whether to use Cartesian or spherical coordinates.
 
 One more difference between location description in English and Djastiz is the typical positive directions. These do not usually affect speech, since words exist for both directions on every axis, but these conventions are important for mathematicians and computer scientists. The positive directions for all of Djastiz's coordinate systems are as follows: forward in time, linear down, linear right, forward, outward, angular down, linear right, counterclockwise, south, and east. Note that while the positive direction for altitude is down, positive numbers are often used to describe height above sea level, and building floors still count upward.
 
@@ -218,4 +212,4 @@ Like any self-respecting language, Djastiz comes with a variety of gestures to e
 
 ______
 
-\*This article is about the updated, streamlined version of Djastiz, invented in March of 2018. For other varieties, see other branches of this repository.
+\*This article is about the beautiful tone-centered version of Djastiz, invented in March of 2018. For other varieties, see other branches of this repository.
