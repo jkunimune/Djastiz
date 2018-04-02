@@ -30,15 +30,15 @@ _noun_
 	**wood**
 
 ### `aljul`
-_compound modifier_  
+_compound noun_  
 	**that-over-there**; associated with neither speaker nor listener
 
 ### `alòm`
-_compound modifier_  
+_compound noun_  
 	**the**; previously mentioned
 
 ### `alō`
-_compound modifier_  
+_compound noun_  
 	**a**; not previously mentioned
 
 ### `alől`
@@ -46,11 +46,11 @@ _verb_
 	**hold**
 
 ### `alpò`
-_compound modifier_  
+_compound noun_  
 	**that**; associated with listener
 
 ### `alúl`
-_compound modifier_  
+_compound noun_  
 	**this**; associated with speaker
 
 ### `alű`
@@ -306,7 +306,7 @@ _noun_
 	**pig**
 
 ### `éláműmȅm`
-_compound qualifier_  
+_compound verb_  
 	**forgive**
 
 ### `ém`
@@ -354,7 +354,7 @@ _noun_
 	**language**
 
 ### `ēmmēre̋`
-_compound noun_  
+_compound verb_  
 	**divide-in-thirds**
 
 ### `ēpa̋l`
@@ -382,11 +382,11 @@ _verb_
 	**communicate**
 
 ### `e̋ja̋mpòl`
-_compound verb_  
+_compound noun_  
 	**talk**
 
 ### `e̋ja̋mpūm`
-_compound verb_  
+_compound noun_  
 	**compose**; prose
 
 ### `e̋jȅ`
@@ -602,7 +602,7 @@ _verb_
 	**angularly-large**
 
 ### `jārùȅ`
-_compound noun_  
+_compound verb_  
 	**rule-monarchially**
 
 ### `ja̋`
@@ -634,7 +634,7 @@ _verb_
 	**misplace**; lose an object
 
 ### `jȁmèm`
-_compound verb_  
+_compound noun_  
 	**listen**
 
 ### `jȁmȕm`
@@ -642,15 +642,15 @@ _verb_
 	**quiet**; dimness; softness; faintness
 
 ### `jȁpém`
-_compound verb_  
+_compound noun_  
 	**active-taste**
 
 ### `jȁrém`
-_compound verb_  
+_compound noun_  
 	**touch**
 
 ### `jȁrōm`
-_compound verb_  
+_compound noun_  
 	**sniff**
 
 ### `jejūm`
@@ -899,7 +899,7 @@ _verb_
 
 ### `jol`
 _postposition_  
-	**whether**; denotes whether it happened; the argument here is basically always "yes" or [`pèm`](#pèm)
+	**whether**; denotes whether it happened; the argument here is basically always [`ű`](#ű) or [`pèm`](#pèm)
 
 ### `jorȕl`
 _verb_  
@@ -918,7 +918,7 @@ _verb_
 	**flash**; quickly emit bright light; also applies to sound and other sensations
 
 ### `jòlèűl`
-_compound noun_  
+_compound verb_  
 	**date**
 
 ### `jòlȅm`
@@ -1010,7 +1010,7 @@ _noun_
 	**concept**; intangible
 
 ### `jōmēre̋`
-_compound noun_  
+_compound verb_  
 	**divide-in-fifteenths**
 
 ### `jōől`
@@ -1582,11 +1582,11 @@ _noun_
 	**hagfish**; slime-eel
 
 ### `lémōpèmērālȕ`
-_compound noun_  
+_compound verb_  
 	**plane**
 
 ### `lémōpèmóōrȕlrȕ`
-_compound noun_  
+_compound verb_  
 	**air-conditioning**
 
 ### `lépèm`
@@ -1610,11 +1610,11 @@ _noun_
 	**cosmos**
 
 ### `lēmēre̋`
-_compound noun_  
+_compound verb_  
 	**divide-in-fifths**
 
 ### `lēmōpèmērālȕ`
-_compound noun_  
+_compound verb_  
 	**spaceship**
 
 ### `lēőm`
@@ -1946,11 +1946,11 @@ _noun_
 	**word**
 
 ### `lúlōpèmàajőm`
-_compound noun_  
+_compound verb_  
 	**part-of-speech**
 
 ### `lúlōpèmàle̋lȕl`
-_compound noun_  
+_compound verb_  
 	**dictionary**
 
 ### `lúm`
@@ -2098,7 +2098,7 @@ _verb_
 	**mock**
 
 ### `màmēre̋`
-_compound noun_  
+_compound verb_  
 	**divide-in-twelfths**
 
 ### `màmu`
@@ -2390,7 +2390,7 @@ _noun_
 	**Middle-East**
 
 ### `mèmpű`
-_compound noun_  
+_compound verb_  
 	**hear**
 
 ### `mèmūl`
@@ -2430,7 +2430,7 @@ _noun_
 	**meme**
 
 ### `mémēre̋`
-_compound noun_  
+_compound verb_  
 	**divide-in-half**
 
 ### `méme̋`
@@ -2950,7 +2950,7 @@ _verb_
 	**small**
 
 ### `olȕpōl`
-_compound verb_  
+_compound noun_  
 	**subcontinent**; e.g. Europe, South Asia
 
 ### `orām`
@@ -3074,7 +3074,7 @@ _noun_
 	**letter**; phoneme; character
 
 ### `óroōpèmóēújȍ`
-_compound noun_  
+_compound verb_  
 	**alphabet**
 
 ### `ō`
@@ -3110,11 +3110,11 @@ _verb_
 	**repeat**
 
 ### `ōpèmà`
-_compound pronoun_  
+_compound postposition_  
 	**one-to-which-**; the indirect object of the following verb
 
 ### `ōpèmá`
-_compound pronoun_  
+_compound postposition_  
 	**amount-of-**; the extent of the following verb
 
 ### `ōpèmálorȁmjóm`
@@ -3122,51 +3122,51 @@ _compound noun_
 	**year**
 
 ### `ōpèmē`
-_compound pronoun_  
+_compound postposition_  
 	**one-that-gets-**; the direct object of the following verb
 
 ### `ōpèmējārùȅ`
-_compound noun_  
+_compound verb_  
 	**peasant**
 
 ### `ōpèmjé`
-_compound pronoun_  
+_compound postposition_  
 	**place**
 
 ### `ōpèmjéjārùȅ`
-_compound pronoun_  
+_compound verb_  
 	**kingdom**
 
 ### `ōpèmjē`
-_compound pronoun_  
+_compound postposition_  
 	**purpose**
 
 ### `ōpèmlō`
-_compound pronoun_  
+_compound postposition_  
 	**cause-event**
 
 ### `ōpèmmó`
-_compound pronoun_  
+_compound postposition_  
 	**method**
 
 ### `ōpèmó`
-_compound pronoun_  
+_compound postposition_  
 	**one-that-**; -er; the subject of the following verb
 
 ### `ōpèmójārùȅ`
-_compound noun_  
+_compound verb_  
 	**king**
 
 ### `ōpèmrē`
-_compound pronoun_  
+_compound postposition_  
 	**context**
 
 ### `ōpèmrol`
-_compound pronoun_  
+_compound postposition_  
 	**medium**; tool
 
 ### `ōpèmùm`
-_compound pronoun_  
+_compound postposition_  
 	**time**; e.g. Tuesday, 4pm, 3;42
 
 ### `ōpe̋`
@@ -3362,7 +3362,7 @@ _noun_
 	**blade**; of grass
 
 ### `pámēre̋`
-_compound noun_  
+_compound verb_  
 	**divide-in-sixths**
 
 ### `pápùm`
@@ -3502,19 +3502,19 @@ _special_
 	**what**; missing information
 
 ### `pèmà`
-_compound special_  
+_compound postposition_  
 	**to-which**; functions as the separate words [`pèm`](#pèm) and [`à`](#à)
 
 ### `pèmá`
-_compound special_  
+_compound postposition_  
 	**how-much**; functions as the separate words [`pèm`](#pèm) and [`á`](#á)
 
 ### `pèmē`
-_compound special_  
+_compound postposition_  
 	**of-which**; functions as the separate words [`pèm`](#pèm) and [`ē`](#ē)
 
 ### `pèmó`
-_compound special_  
+_compound postposition_  
 	**who**; functions as the separate words [`pèm`](#pèm) and [`ó`](#ó)
 
 ### `pèmȕm`
@@ -3562,7 +3562,7 @@ _verb_
 	**rest**; to be on something
 
 ### `pémpű`
-_compound noun_  
+_compound verb_  
 	**taste**
 
 ### `péōl`
@@ -3674,7 +3674,7 @@ _verb_
 	**music-make**; an instrument
 
 ### `poje̋jàpī`
-_compound verb_  
+_compound noun_  
 	**Musical-Djastiz**
 
 ### `pomōm`
@@ -3706,7 +3706,7 @@ _noun_
 	**spoken-language**
 
 ### `pòljȁ`
-_compound noun_  
+_compound verb_  
 	**listen-carefully**; listen to and parse words, not just sounds
 
 ### `pòlo`
@@ -3714,7 +3714,7 @@ _noun_
 	**seal**; includes walruses and maybe sea lions I think?
 
 ### `pòlpű`
-_compound noun_  
+_compound verb_  
 	**comprehend**
 
 ### `pòlűm`
@@ -3970,7 +3970,7 @@ _noun_
 	**bit**; describes gravel and cereal
 
 ### `púmēre̋`
-_compound noun_  
+_compound verb_  
 	**divide-in-quarters**
 
 ### `púrāl`
@@ -3998,7 +3998,7 @@ _verb_
 	**be-in**; a situation
 
 ### `pūmjȁ`
-_compound noun_  
+_compound verb_  
 	**active-read**
 
 ### `pūmől`
@@ -4006,7 +4006,7 @@ _verb_
 	**curious**
 
 ### `pūmpű`
-_compound noun_  
+_compound verb_  
 	**passive-read**
 
 ### `pūmȕl`
@@ -4142,7 +4142,7 @@ _verb_
 	**virtual**; digitalness
 
 ### `ràmōpèmērālȕ`
-_compound noun_  
+_compound verb_  
 	**boat**
 
 ### `ràpe̋l`
@@ -4206,7 +4206,7 @@ _compound noun_
 	**look**
 
 ### `rālpű`
-_compound noun_  
+_compound verb_  
 	**see**
 
 ### `rālȕ`
@@ -4374,7 +4374,7 @@ _noun_
 	**cupressacea**; junipers, redwoods, and some other types of conifers
 
 ### `rémpű`
-_compound noun_  
+_compound verb_  
 	**passive-feel**
 
 ### `réolȁ`
@@ -4642,7 +4642,7 @@ _verb_
 	**court**; date
 
 ### `rōmpű`
-_compound noun_  
+_compound verb_  
 	**smell**
 
 ### `rő`
@@ -4742,7 +4742,7 @@ _verb_
 	**parse**; interpret information encoded somehow
 
 ### `rùmēre̋`
-_compound noun_  
+_compound verb_  
 	**divide-in-tenths**
 
 ### `rùmól`
@@ -4774,7 +4774,7 @@ _noun_
 	**thing**; tangible
 
 ### `rúmēre̋`
-_compound noun_  
+_compound verb_  
 	**divide-in-sevenths**
 
 ### `rúra̋`
@@ -4910,7 +4910,7 @@ _compound noun_
 	**map**
 
 ### `ùlòjēmōpèmmórómȍl`
-_compound noun_  
+_compound verb_  
 	**map-projection**
 
 ### `ùm`

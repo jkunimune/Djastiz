@@ -23,8 +23,8 @@ def compound(english, components, eng_to_dja={}, pts_o_spch={}):
 		except KeyError as e:
 			raise ValueError("The word for '{}' relies on the nonexistent word for {}".format(english, e))
 
-	root_part = pts_o_spch[eng_to_dja[intermediate[0]]] #the part of speech is based on the part of the first word
-	if root_part == 'compound pronoun': 	root_part = 'noun' #compound pronouns that get used in compounds should be called nouns
+	root_part = pts_o_spch[eng_to_dja[intermediate[-1]]] #the part of speech is based on the part of the first word
+	if root_part == 'pronoun': 				root_part = 'noun' #compound pronouns that get used in compounds should be called nouns
 	elif root_part == 'fastener': 			root_part = 'modifier' #fasteners become modifiers when combined with other words
 	whole_part = root_part if 'compound' in root_part else 'compound '+root_part #attach 'compound' unless it's already there
 	return english, djastiz, whole_part

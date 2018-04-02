@@ -39,16 +39,17 @@ The grammar of Musical Djastiz is completely ripped from Modern Djastiz. I made 
 ### Tense markers
 
 A tense marker gives the general purpose of a sentence. It is the first thing in the sentence. There are ten tense markers, and each creates a fundamentally different kind of communication.
-- `dhi` is the _declarative_ tense marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the singer.
-- `ung` is the _interrogative_ tense marker. It precedes a sentence that requests information. An interrogative sentence usually contains the word `l` at least once, though the position of `l` can also be implied. In either case, `l` represents a piece of information missing from the sentence that the singer would like to know.
-- `bu` is the _imperative_ tense marker. It precedes a sentence that requests action. An imperative sentence describes an event or action that the singer wants to happen.
-- `e` is a bit more complicated. It does not create sentences at all, but rather _noun clauses_. These will be discussed in [&#167;2.3](#noun-phrases).
-- `yidh` is the _bureaucratic_ tense marker. It behaves similarly to `dhu`, specifically in contexts where saying a sentence causes it to be true. Bureaucratic sentences are especially useful for proclamations, definitions, and assumptions in mathematical proofs.
-- `vub` behaves exactly like `bu`, but frames the request as less mandatory and more polite. The frequency with which one uses `vub` versus `bu` completely depends on the society, and since no society actually sings Djastiz, I have no idea how useful this word is.
-- `oth` is the _salutary_ tense marker. It is used to construct basic greetings. `oth` is a _simple tense marker_, which means that it can be used with simpler sentence patters. These will be discussed further in [&#167;2.7](#special-words).
-- `thu` is the _antisalutory_ tense marker. It is used to construct basic parting statements and, like `oth`, is simple.
-- `ja` is the _exclamatory_ tense marker and is used to express general happiness or approval. It is also a simple tense marker.
-- `oj` is the _antiexclamatory_ tense marker, which expresses general unhappiness or disapproval. It is also a simple tense marker.
+- `ȅ` is the _declarative_ tense marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the singer.
+- `ȁ` is the _interrogative_ tense marker. It precedes a sentence that requests information. An interrogative sentence usually contains the word `pèm` at least once, though the position of `pèm` can also be implied. In either case, `pèm` represents a piece of information missing from the sentence that the singer would like to know.
+- `jȕ` is the _imperative_ tense marker. It precedes a sentence that requests action. An imperative sentence describes an event or action that the singer wants to happen.
+- `pā` is a bit more complicated. It does not create sentences at all, but rather _noun clauses_. These will be discussed in [&#167;2.3](#noun-phrases).
+- `lȕ` is the _bureaucratic_ tense marker. It behaves similarly to `ȅ`, specifically in contexts where saying a sentence causes it to be true. Bureaucratic sentences are especially useful for proclamations, definitions, and assumptions in mathematical proofs.
+- `mùről` behaves exactly like `jȕ`, but frames the request as less mandatory and more polite. The frequency with which one uses `mùről` versus `jȕ` completely depends on the society, and since no society actually sings Djastiz, I have no idea how useful this word is.
+- `jȍ` is the _salutary_ tense marker. It is used to construct basic greetings. `jȍ` is a _simple tense marker_, which means that it can be used with simpler sentence patters. These will be discussed further in [&#167;2.7](#special-words).
+- `lȍ` is the _antisalutory_ tense marker. It is used to construct basic parting statements and, like `lȍ`, is simple.
+- `lȅ` is the _neutral exclamatory_ tense marker and is used to express general awe or surprise at something. It is also a simple tense marker.
+- `lȁ` is the _positive exclamatory_ tense marker and is used to express general happiness or approval. It is also a simple tense marker.
+- `pȕ` is the _negative exclamatory_ tense marker, which expresses general unhappiness or disapproval. It is also a simple tense marker.
 
 In addition to labelling the type of sentence, the tense marker indicates the start of the sentence. The sentence ends with the predicate, which we will discuss briefly. Between these tokens lies the meat of the sentence: postpositional phrases.
 
@@ -57,23 +58,24 @@ In addition to labelling the type of sentence, the tense marker indicates the st
 Every postpositional phrase describes one aspect of the event described by the sentence, and comprises two parts: the _complement_, which is a noun phrase, and the _postposition_, which is drawn from the following list of fifteen. The postposition specifies what aspect of the sentence is being described, and the complement describes that aspect. These postpositional phrases may occur in any order. There are three classes of postpositional phrase.
 
 _Argumentative postpositions_ also may only be included once per sentence, if that. Each one may or may not be _applicable_ based on the predicate. If an argumentative preposition is applicable, it may be included in the sentence, but does not need to be if its complement is implied. A proper Djastiz dictionary would list the applicable argumentative prepositions for every verb in the language, as well as their precise meanings in each case. Let's be real, though. There's no way I'm going to do that. Instead, I'll leave it up to the singers' discretion when each preposition is applicable. In general:
-- `r` denotes the _subject_ of the action, the agent that initializes and/or carries out the action (e.g. the planner of `rih`). `r` is almost always applicable.
-- `u` denotes the _direct object_, the object on which the subject acts or to which the action refers (e.g. the food of `ukiaj`). `u` is never applicable when `r` is not.
-- `i` denotes the _indirect object_ of the action, the concept that the subject indirectly affects or references (e.g. the order of `shaid`). It often functions in tandem with `iu` (e.g. the old and new values in `ry`). `i` is never applicable when `u` is not.
+- `ó` denotes the _subject_ of the action, the agent that initializes and/or carries out the action (e.g. the planner of `ojȅl`). `ó` is almost always applicable.
+- `ē` denotes the _direct object_, the object on which the subject acts or to which the action refers (e.g. the food of `molȁm`). `ē` is never applicable when `ó` is not.
+- `à` denotes the _indirect object_ of the action, the concept that the subject indirectly affects or references (e.g. the origin of `le̋l`). It often functions in tandem with `ē` (e.g. the old and new values in `jaȕl`). `à` is never applicable when `ē` is not.
 
 _Adjunctive prepositions_, by contrast, are always applicable, and can be used multiple times in one sentence if being used in different contexts (e.g. using `shug` once for the location in virtual space and again for the location in real space). They denote, in a sense, the "where, when, why, how" of the sentence.
-- `ia` denotes the extent or quantity of the action. This can be a number or another noun to be compared against.
-- `ep` denotes the location of the action in physical space.
-- `os` denotes the date and/or time of the action.
-- `uj` denotes the cause of the action.
-- `ue` denotes the purpose of the action.
-- `rk` denotes the context of the action, very much like "regarding ..." or "in the ... sense" in English.
-- `or` denotes the method of the action, usually a noun clause that happened with or before the initial action.
-- `im` denotes the tool or medium of the action.
-- `iy` denotes whether the action happened (generally only used in interrogative sentences, since it's universally implied to be `av`).
-- `er` denotes the hypothetical conditions surrounding the action (very similar to English's "if").
-- `au` denotes the manner of the action, often a noun clause that describes the action.
-- `eng` denotes the adressee of the sentence, if it is unclear or requires emphasis.
+- `ù` denotes the extent or quantity of the action. This can be a number or another noun to be compared against.
+- `jé` denotes the location of the action in physical space.
+- `ùm` denotes the date and/or time of the action.
+- `lō` denotes the cause of the action.
+- `jē` denotes the purpose of the action.
+- `rē` denotes the context of the action, very much like "regarding ..." or "in the ... sense" in English.
+- `rol` denotes the tool or medium of the action.
+- `jol` denotes whether the action happened (generally only used in interrogative sentences, since it's universally implied to be `ű`).
+- `pū` denotes the hypothetical conditions surrounding the action (very similar to English's "if").
+- `mó` denotes the method of the action, usually a noun clause that happens with or before and is necessary for the main action.
+- `mom` denotes the manner of the action, often a noun clause that describes the action.
+- `jó` denotes the adressee of the sentence, if it is unclear or requires emphasis.
+- `ōm` denotes the source of the information, inquiry, or command, if it is not the singer or requires emphasis.
 
 ### Predicates
 
@@ -86,27 +88,27 @@ Noun phrases are the primary building blocks with which one describes complex co
 The first, and by far the simplest, is a _noun_. There are hundreds from which to choose! Each one describes an instance or instances of a concept or class of objects. Often, however, the concept one wants will not be found in the list.
 
 The next method is the prependix of a _qualifier_ to a noun phrase. There are six qualifiers, which primarily manipulate _sets_ (a set is just a noun phrase that describes a group of things) and logical operations.
-- `be` creates a phrase that refers to anything but the meaning of the following noun phrase.
-- `io` creates a phrase that refers to all possible instances of the following concept together in a set.
-- `dhe` creates a phrase that refers to a single unspecified element of the following set or instance of the following concept. The sentence is true for one element of the set.
-- `hi` creates a phrase that refers to an unspecified subset of the following set or unspecified instances of the following concept. The sentence is true for part of the set.
-- `vu` creates a phrase that refers to every element of the following set or instance of the following concept individually. The sentence is true for each element of the set.
-- `se` emphasizes a particularly important or surprising noun phrase.
+- `él` creates a phrase that refers to anything but the meaning of the following noun phrase.
+- `ló` creates a phrase that refers to all possible instances of the following concept together in a set.
+- `mum` creates a phrase that refers to a single unspecified element of the following set or instance of the following concept. The sentence is true for one element of the set.
+- `ré` creates a phrase that refers to an unspecified subset of the following set or unspecified instances of the following concept. The sentence is true for part of the set.
+- `ūl` creates a phrase that refers to every element of the following set or instance of the following concept individually. The sentence is true for each element of the set.
+- `ōl` emphasizes a particularly important or surprising noun phrase.
 
 The third method is the appendix of a _modifier_. Modifiers are attached to the ends of noun phrases to create new noun phrases. There are two types of modifier, each of which has its own quirks, so they will be discussed at length in [&#167;2.4](#modifiers).
 
-The fourth and perhaps most complicated method is a noun clause. A noun clause comprises `e` followed by a list of postpositional phrases and a verb. Noun clauses appear at first to be sentences with `e` as their punctuation marker. However, do not be misled. These are nouns that refer to the meaning of the sentence they appear to be. They are commonly used with verbs such as `ij` and `ur`.
+The fourth and perhaps most complicated method is a noun clause. A noun clause comprises `pā` followed by a list of postpositional phrases and a verb. Noun clauses appear at first to be sentences with `pā` as their punctuation marker. However, do not be misled. These are nouns that refer to the meaning of the sentence they appear to be. They are commonly used with verbs such as `jaȕl` and `lȕm`.
 
 The final method is _pronouns_, which function exactly as nouns do, but with meanings derived exclusively from context. There are nine of them.
-- `f` is the simplest pronoun. It carries no information, and acts as more of a placeholder than anything else.
-- `dh` stands in for any noun that has been recently mentioned.
-- `sh` refers to the singer or writer.
-- `k` refers to the listener or reader.
-- `m` refers to an agent other than the singer or listener.
-- `shm` refers to the singer and others.
-- `mk` refers to the listener and others.
-- `ksh` refers to the singer and the listener.
-- `kshm` refers to the singer, listener, and others.
+- `ō` is the simplest pronoun. It carries no information, and acts as more of a placeholder than anything else.
+- `òm` stands in for any noun that has been recently mentioned.
+- `úl` refers to the singer or writer.
+- `pò` refers to the listener or reader.
+- `jul` refers to an agent other than the singer or listener.
+- `jal` refers to the singer and others.
+- `mè` refers to the listener and others.
+- `rè` refers to the singer and the listener.
+- `mā` refers to the singer, listener, and others.
 
 Noun phrases can also technically be created with _conjunctions_, but then, so can prepositional phrases and modifiers and predicates. I'll explain those in a different paragraph.
 
@@ -115,21 +117,21 @@ Noun phrases can also technically be created with _conjunctions_, but then, so c
 Modifiers are great ways to expand and enhance the meanings of nouns. There two types of modifiers. The simpler one is the _noun modifier_.
 
 A noun modifier has two parts: a _fastener_ and a noun phrase. The fastener uses the following noun phrase to modify the preceding noun phrase in a specific manner, depending on the fastener. There are five fasteners that each represent a different method of modifying a noun.
-- `ji` denotes the specific variety or attributes of the preceding noun phrase.
-- `ir` specifies the amount, degree, or number of the preceding noun phrase.
-- `o` indicates the specific instance of the preceding noun phrase.
-- `va` draws equality between the preceding and following noun phrases without really changing the meaning of the sentence. It is especially useful for sharing names (e.g. `flrjot va Esteban`).
-- `es` indicates and extracts a specific element of a set.
+- `am` denotes the specific variety or attributes of the preceding noun phrase.
+- `ù` specifies the amount, degree, or number of the preceding noun phrase.
+- `al` indicates the specific instance of the preceding noun phrase.
+- `ú` draws equality between the preceding and following noun phrases without really changing the meaning of the sentence. It is especially useful for sharing names (e.g. `ōpèmólārȅm ú Esteban`).
+- `è` indicates and extracts a specific element of a set.
 
-The more versatile modifier is the _relative clause_. Relative clauses are simply lists of prepositional phrases that contain `l` in them somewhere followed by a verb. The `l` should be placed as close to the beginning of the relative clause as possible. It usually goes at the very front, adjacent to the modified noun phrase, but this is not always possible. Again, while these resemble full sentences, they are not. A modifier clause modifies a noun phrase by placing it inside another sentence. The result is two clauses that are true together. The first is the original sentence with the modifier clause simply removed. The second is the entire modifier with `dhi` prepended and the modified noun phrase inserted for `l`. This type of modifier draws an equality between the noun phrase and itself across the two clauses. While relative clauses seems at first glance to be far more complex than noun modifiers, they are, in fact, capable of creating some of the simplest and most useful noun modifications: _simple ergative relative clauses_, the analog to adjectives in other languages, for example, `dhap l r at`; and _relative verb noun definitions_, the analog to English's "-er" and "-ee", for example, `f l u jeuth`.
+The more versatile modifier is the _relative clause_. Relative clauses are simply lists of prepositional phrases that contain `pèm` in them somewhere followed by a verb. The `pèm` should be placed as close to the beginning of the relative clause as possible. It usually goes at the very front, adjacent to the modified noun phrase, but this is not always possible. Again, while these resemble full sentences, they are not. A modifier clause modifies a noun phrase by placing it inside another sentence. The result is two clauses that are true together. The first is the original sentence with the modifier clause simply removed. The second is the entire modifier with `ȅ` prepended and the modified noun phrase inserted for `pèm`. This type of modifier draws an equality between the noun phrase and itself across the two clauses. While relative clauses seems at first glance to be far more complex than noun modifiers, they are, in fact, capable of creating some of the simplest and most useful noun modifications: _simple ergative relative clauses_, the analog to adjectives in other languages, for example, `dhap l r at`; and _relative verb noun definitions_, the analog to English's "-er" and "-ee", for example, `f l u jeuth`.
 
 ### Conjunctions
 
 The last major grammatical structure to be discussed is the conjunction. Conjunctions are a small class of diverse words that transform phrases or sets of phrases. While they share some similarities, the two pairs of conjunctions are different enough that I might as well explain each separately.
 
-The first and most recognizably conjugative conjunctions are `ni` and `a`. When `ni` precedes a series of phrases separated by `a`, they combine said series into a single set representing all of the phrases combined. The input phrases are usually noun phrases, but practically anything can be fed in here so long as each phrase is of the same type. They translate very cleanly to "both" and "and" in English, respectively. That set can then have its meaning easily tweaked using qualifiers. For example, `dhe ni mus a thengga`.
+The first and most recognizably conjugative conjunctions are `ā` and `pe`. When `ā` precedes a series of phrases separated by `pe`, they combine said series into a single set representing all of the phrases combined. The input phrases are usually noun phrases, but practically anything can be fed in here so long as each phrase is of the same type. They translate very cleanly to "both" and "and" in English, respectively. That set can then have its meaning easily tweaked using qualifiers. For example, `dhe ni mus a thengga`.
 
-The other pair of conjunctions may be more difficult to understand for English singers. This is the `yr` and `ssu` construction, which functions much like the quotation mark in English. Unlike the quotation mark, however, `yr`-`ssu` constructions must be sung aloud. Any phrase in any language between the `yr` and the `ssu` should not be interpreted as actual Djastiz grammar, but rather as a sequence of letters or sounds. The entire phrase acts as a noun and references the phrase contained within. This is most commonly used for quoting dialogue and discussing language. To indicate that a single word inside a `yr`-`ssu` construct should be interpreted literally and not as part of the quote, precede it with the word `je`, for example, `dhi ij yr tshef je l u ssu u`. To describe the word or sound `je`, precede it with `je`. For example, `raun yr dhi ij yr tshef je je l u ssu u ssu u`.
+The other pair of conjunctions may be more difficult to understand for English singers. This is the `é` and `ò` construction, which functions much like the quotation mark in English. Unlike the quotation mark, however, `é`-`ò` constructions must be sung aloud. Any phrase in any language between the `é` and the `ò` should not be interpreted as actual Djastiz grammar, but rather as a sequence of letters or sounds. The entire phrase acts as a noun and references the phrase contained within. This is most commonly used for quoting dialogue and discussing language. To indicate that a single word inside a `é`-`ò` construct should be interpreted literally and not as part of the quote, precede it with the word `rèl`, for example, `dhi ij yr tshef je l u ssu u`. To describe the word or sound `rèl`, precede it with `rèl`. For example, `raun yr dhi ij yr tshef je je l u ssu u ssu u`.
 
 ### Gerunds
 
@@ -180,7 +182,7 @@ In addition to the basic, independent words, there are compound words. Compound 
 
 ### Loanwords
 
-For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, the preferred method of denotation is the loanword, a word taken directly from other languages (and modified to fit with Djastiz's phonology, of course). The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, while the United States of America could be described with the words `ngidh` and `flupshr`, the proper term in Djastiz is `iunaitedsteits`. Loanwords use the phonology of Modern Djastiz, and contain no tones save the `moja`.
+For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, the preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, while the United States of America could be described with the words `ngidh` and `flupshr`, the proper term in Djastiz is `iunaitedsteits`. Loanwords use the phonology of Modern Djastiz, and contain no tones save the `moja`.
 
 Like the compound words, the set of documented loanwords is not complete. They are meant to encompass the highly specific concepts that Djastiz cannot describe on its own, and thus to attempt to recond all of them in a Djastiz dictionary would be impossible. Instead, I have included some useful examples of loanwords in [loanword.csv](dictionary/loanword.csv).
 
@@ -208,7 +210,7 @@ Like any self-respecting language, Djastiz comes with a variety of gestures to e
 - To display joy or excitement, hold your arm straight up with a clenched fist.
 - To display sadness or disappointment, press a clenched fist into an open palm.
 - To display approval or appreciation toward a person, place your palms together, holding them horizontally, and slide the top hand forward, off of the bottom one.
-- To display disapproval or depreciation toward a person, point at them with two fingers and wag the fingers up and down in opposition to one another.
+- To display disapproval or depreciation toward a person, slowly and gracefully raise your hands toward them while saying "oooooooooooh" quietly.
 
 ______
 
