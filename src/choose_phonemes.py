@@ -9,15 +9,18 @@ import matplotlib.pyplot as plt
 
 from lang_data import POPULATIONS
 
-COMBOS = {('a','a̟','ɑ'), ('e','e̞','ɛ'), ('o','o̞','ɔ'),
-		('i','ɪ'), ('u','ʊ','ɯ'), ('j','i'), ('w','u'),
-		('t','t̪'), ('d','d̪'), ('ts','t̠ʃ'), ('dz','d̠ʒ'),
-		('s','ʃ','ʂ'), ('z','ʒ','ʐ'), ('ʃ','t̠ʃ'), ('ʒ','d̠ʒ'),
-		('r','ɾ','ɽ'), ('l','ɾ','r'),  ('n','n̪'), ('m','ɱ'),
-		('h','ħ','χ','x', 'ɦ'), ('ɦ','ʕ','ʁ','ɣ'),
-		('f','ɸ'), ('v','β'), ('k', 'g'), ('p', 'b')}
+MODIFIERS = {'ː', 'ˑ', 'ʷ', 'ʲ', 'ˠ', 'ˤ', 'ˀ'}
 
-DJASTIZ = {'/o/', '/e/', '/u/', '/a/', '/i/', '/w/', '/l/', '/j/', '[m]', '/n/', '/s/', '/h/', '[p]', '/t/', '[k]'}
+COMBOS = {('a','a̟','ɑ','ɐ'), ('e','e̞','ɛ'), ('o','o̞','ɔ'),
+		('i','ɪ'), ('u','ʊ','ɯ'), ('j','i'), ('w','u'),
+		('ʃ','s','ʂ','ʰ'), ('ʒ','z','ʐ','ʰ'), ('ts','t̪s̪','t̠ʃ','ʈʂ','ʰ'), ('dz','d̪z̪','d̠ʒ','ʰ'),
+		('s','ts','t̪s̪','ʰ'), ('z','dz','d̪z̪','ʰ'), ('t̠ʃ','ʃ','ʈʂ','ʂ','ʰ'), ('d̠ʒ','ʒ','ʐ','ʰ'),
+		('r','ɾ','ɽ'), ('l','ɾ','r'),  ('n','n̪'), ('m','ɱ'),
+		('h','ħ','χ','x', 'ɦ'), ('ɦ','ʕ','ʁ','ɣ'), ('f','ɸ'), ('v','β'),
+		('g','gʰ','kʰ'), ('d','d̪','dʰ','d̪ʰ','tʰ','t̪ʰ'), ('b','bʰ','pʰ'),
+		('k','ʰ'), ('t','t̪','ʰ'), ('p','ʰ')}
+
+DJASTIZ = {'/e/', '/a/', '/o/', '/i/', '/u/', '/j/', '/l/', '/w/', '/n/', '[m]', '/h/', '/s/', '/t̠ʃ/', '/k/', '/t/', '/p/'}
 
 with open('..\\data\\phoible-phonemes.tsv', 'r', encoding='utf-8') as f:
 	reader = csv.reader(f, delimiter='\t')
@@ -35,16 +38,11 @@ with open('..\\data\\phoible-phonemes.tsv', 'r', encoding='utf-8') as f:
 			inventories[lang_code] = set()
 			language_names[lang_code] = lang_name
 		if data_sets[lang_code] == data_idx: #only use the first instance of each language
-			if 'ː' in phoneme:
-				phoneme = phoneme.replace('ː','')
-				if clazz == 'vowel':
-					inventories[lang_code].add('v[ː]:')
-				elif clazz == 'consonant':
-					inventories[lang_code].add('c[ː]:')
-			if 'ʰ' in phoneme:
-				phoneme = phoneme.replace('ʰ','')
-				inventories[lang_code].add('p[ʰ]:')
-			elif clazz == 'tone':
+			for mod in MODIFIERS: #pull out some uncommon modifiers
+				if mod in phoneme:
+					phoneme = phoneme.replace(mod,'')
+					inventories[lang_code].add('{}[{}]:'.format(clazz[0].upper(), mod))
+			if clazz == 'tone': #with tones, the number matters more than the exact value
 				for num_tones in range(10,-1,-1):
 					if str(num_tones)+'T: ' in inventories[lang_code] or num_tones <= 0: #count tones
 						inventories[lang_code].add(str(num_tones+1)+'T: ')
@@ -53,6 +51,8 @@ with open('..\\data\\phoible-phonemes.tsv', 'r', encoding='utf-8') as f:
 
 			for allophone_set in COMBOS:
 				if phoneme in allophone_set:
+					inventories[lang_code].add('/'+allophone_set[0]+'/:')
+				elif 'ʰ' in allophone_set and 'ʰ' in phoneme and phoneme.replace('ʰ','') in allophone_set:
 					inventories[lang_code].add('/'+allophone_set[0]+'/:')
 
 phonemes = {}
