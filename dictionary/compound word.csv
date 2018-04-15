@@ -47,6 +47,9 @@
 "boat",sea one-that-gets- ride
 "plane",air one-that-gets- ride
 "spaceship",cosmos one-that-gets- ride
+"swim",liquid traverse
+"climb",wall traverse
+"ladder",via what climb one
 "bathroom",clean one-that-gets- wall-off
 "butthole",feces hole
 "cat",human feline
@@ -58,18 +61,41 @@
 "empire",big one-that-gets- citizen
 "brown",dark red
 "air-conditioning",air one-that- keep-cool
-"divide-in-half",2 divide
-"divide-in-thirds",3 divide
-"divide-in-quarters",4 divide
-"divide-in-fifths",5 divide
-"divide-in-sixths",6 divide
-"divide-in-sevenths",7 divide
-"divide-in-tenths",A divide
-"divide-in-twelfths",C divide
-"divide-in-fifteenths",F divide
 "worship",have-faith like
 "rule-monarchially",1 govern
 "peasant",one-that-gets- rule-monarchially
 "king",one-that- rule-monarchially
 "kingdom",one what on rule-monarchially
-"tempt",evil suggest
+"national; SBJ (national) identifies as part of OBJ (nation; tribe; clan; e.g. Kurdistan, Tibet)",culture join
+"citizen; SBJ (citizen) legally belongs to OBJ (state; sovereign; polity; e.g. India, The Vatican)",govern join
+"tempt; entice to something appealing but immoral; SBJ (tempter; temptress) suggests OBJ (temptation) to IND (temptee)",evil suggest
+"water; dihydrogen monoxide",life liquid
+"earth",Earth solid
+"air; atmosphere; nitrogen and oxygen and all that jazz",Earth gas
+"lava; magma",earth liquid
+"oxygen",life gas
+"copper",old metal
+"bronze",structurally-strong copper
+"iron",heavy metal
+"steel",structurally-strong iron
+"gold",wealth metal
+"aluminum",lightweight metal
+"gunpowder",fire powder
+"oil; petroleum",fire liquid
+"steed; domesticated horse",human horse
+"quartz",white crystal
+"emerald",green crystal
+"diamond",transparent crystal
+"joint; a point at which two things come together",on what join one
+"hand",arm knob
+"foot",leg knob
+"shoulder",arm joint
+"hip",leg joint
+"wrist",hand joint
+"ankle",foot joint
+"pelvis; hips",torso bottom
+"tau; 6.283",circle number
+"pi; 3.142",tau over two
+"The West",Europe US-Canada
+"Latin America",Central-America South-America
+"The Muslim World"Middle-East North-Africa South-Asia

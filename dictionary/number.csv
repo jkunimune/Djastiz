@@ -14,11 +14,34 @@
 "D; 13; baker's dozen; only used for hexadecimal",
 "E; 14; fourteen; only used for hexadecimal",
 "F; 15; fifteen; only used for hexadecimal",
-"Hexadec (16; only used to describe hexadecimal",
+"G; 16; only used to describe hexadecimal",
+"e; mid front unrounded vowel; also H; 17; occasionally used for nifimal",e
+"a; open central unrounded vowel; also I; 18; occasionally used for nifimal",a
+"o; mid back rounded vowel; also J; 19; occasionally used for nifimal",o
+"i; close front unrounded vowel; also K; 20; occasionally used for nifimal",i
+"u; close back rounded vowel; also L; 21; occasionally used for nifimal",u
+"j; palatal approximant; also M; 22; occasionally used for nifimal",jota
+"l; alveolar lateral approximant; also N; 23; occasionally used for nifimal",el
+"w; bilabial-velar approximant; also O; 24; occasionally used for nifimal",weta
+"n; alveolar nasal; also P; 25; occasionally used for nifimal",ene
+"m; bilabial nasal; also Q; 26; occasionally used for nifimal",eme
+"h; glottal fricative; also R; 27; occasionally used for nifimal",ha
+"c; t͡ʃ; post-alveolar affricate; also S; 28; occasionally used for nifimal",ca
+"s; alveolar fricative; also T; 29; occasionally used for nifimal",sa
+"k; velar plosive; also U; 30; occasionally used for nifimal",ke
+"t; alveolar plosive; also V; 31; occasionally used for nifimal",te
+"p; bilabial plosive; also W; 32; occasionally used for nifimal",pe
+"X; 33; occasionally used for nifimal",
+"Y; 34; occasionally used for nifimal",
+"Z; 35; occasionally used for nifimal",
+"nif; 36; only used to describe nifimal",
+"few; several; 2-5",
+"bunch; handful; 6-17",
+"lot; tens; 18-35",
+"maximum; the absolute",
 "dot; point; one's place indicator",
 "magnitude; ×10^ (or ×12^, or whatever depending on the radix)",
 "radix",
-"maximum; the absolute",
 "minus; subtraction or negation",
 "plus; addition",
 "over; division; fraction",
