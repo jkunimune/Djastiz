@@ -4,23 +4,26 @@
 # to be placed in `..\data\`
 
 import csv
-import requests
 import matplotlib.pyplot as plt
-
-from lang_data import POPULATIONS
+import pickle
 
 MODIFIERS = {'ː', 'ˑ', 'ʷ', 'ʲ', 'ˠ', 'ˤ', 'ˀ'}
 
 COMBOS = {('a','a̟','ɑ','ɐ'), ('e','e̞','ɛ'), ('o','o̞','ɔ'),
 		('i','ɪ'), ('u','ʊ','ɯ'), ('j','i'), ('w','u'),
-		('ʃ','s','ʂ','ʰ'), ('ʒ','z','ʐ','ʰ'), ('ts','t̪s̪','t̠ʃ','ʈʂ','ʰ'), ('dz','d̪z̪','d̠ʒ','ʰ'),
-		('s','ts','t̪s̪','ʰ'), ('z','dz','d̪z̪','ʰ'), ('t̠ʃ','ʃ','ʈʂ','ʂ','ʰ'), ('d̠ʒ','ʒ','ʐ','ʰ'),
-		('r','ɾ','ɽ','ɻ','ʁ','ʀ','r̪','ɹ'), ('l','ɾ','r'),  ('n','n̪'), ('m','ɱ'),
+		('ʃ','s̪','s','ʂ','ʰ'), ('ʒ','z̪','z','ʐ','ʰ'), ('ts','t̪s̪','t̠ʃ','ʈʂ','ʰ'), ('dz','d̪z̪','d̠ʒ','ʰ'),
+		('s̪','s','ts','t̪s̪','ʰ'), ('z̪','z','dz','d̪z̪','ʰ'), ('t̠ʃ','ʃ','ʈʂ','ʂ','ʰ'), ('d̠ʒ','ʒ','ʐ','ʰ'),
+		('s','s̪','ʰ'), ('z','z̪','ʰ'), ('n','n̪'), ('m','ɱ'),
+		('r','ɾ','ɽ','ɻ','ʁ','ʀ','r̪','ɹ'), ('l','ɾ','r'),
 		('h','ħ','χ','x', 'ɦ'), ('ɦ','ʕ','ʁ','ɣ'), ('f','ɸ'), ('v','β'),
 		('g','gʰ','kʰ'), ('d','d̪','dʰ','d̪ʰ','tʰ','t̪ʰ'), ('b','bʰ','pʰ'),
 		('k','g','ʰ'), ('t','t̪','d','d̪','ʰ'), ('p','b','ʰ')}
 
 DJASTIZ = {'/e/', '/a/', '/o/', '/i/', '/u/', '/j/', '/l/', '/w/', '/n/', '[m]', '/h/', '[s]', '/t̠ʃ/', '/k/', '/t/', '/p/'}
+
+
+with open('..\\data\\ethnologue.pkl', 'rb') as f:
+	POPULATIONS = pickle.load(f)
 
 with open('..\\data\\phoible-phonemes.tsv', 'r', encoding='utf-8') as f:
 	reader = csv.reader(f, delimiter='\t')
@@ -58,28 +61,7 @@ with open('..\\data\\phoible-phonemes.tsv', 'r', encoding='utf-8') as f:
 phonemes = {}
 total_pop = 0
 for lang_code, inventory in inventories.items():
-	if lang_code not in POPULATIONS:
-		r = requests.get('https://www.ethnologue.com/language/{}'.format(lang_code))
-		try:
-			pop_text = r.text[r.text.index('<div class="field-label">Population</div')+41:]
-		except ValueError:
-			print("'{}':?, ".format(lang_code))
-			continue
-		pop_text = pop_text[pop_text.index('<p>')+3:pop_text.index('</p>')]
-		if "all countries: " in pop_text:
-			pop_text = pop_text[pop_text.index("all countries: ")+15:]
-		if "L1: " in pop_text:
-			pop_text = pop_text[pop_text.index("L1: ")+4:]
-		pop_text = pop_text.replace(',','').replace('.',' ').replace(';',' ')
-		if ' ' in pop_text:
-			pop_text = pop_text[:pop_text.index(' ')]
-		try:
-			population = int(pop_text)
-		except ValueError:
-			population = 0
-	else:
-		population = POPULATIONS[lang_code]
-	# print("'{}':{}, ".format(lang_code, population))
+	population = POPULATIONS.get(lang_code, (0,0))[1]
 	for phoneme in inventory:
 		phonemes[phoneme] = phonemes.get(phoneme,0) + population
 	total_pop += population
@@ -88,14 +70,15 @@ num_who_must_learn = [0]*(len(DJASTIZ)+1) #find the number of humans who must le
 avg_num_to_learn = 0
 specific_needs = {}
 for lang_code, inventory in inventories.items():
+	population = POPULATIONS.get(lang_code, (0,0))[1]
 	num_to_learn = 0
 	for phoneme in DJASTIZ:
 		if phoneme+':' not in inventory:
 			num_to_learn += 1
-			if POPULATIONS[lang_code]:
+			if population:
 				specific_needs[lang_code] = specific_needs.get(lang_code, []) + [phoneme]
-	num_who_must_learn[num_to_learn] += POPULATIONS[lang_code]
-	avg_num_to_learn += num_to_learn*POPULATIONS[lang_code]/total_pop
+	num_who_must_learn[num_to_learn] += population
+	avg_num_to_learn += num_to_learn*population/total_pop
 
 for i, num in enumerate(num_who_must_learn):
 	if num == 0:
@@ -104,11 +87,11 @@ for i, num in enumerate(num_who_must_learn):
 		print('{:.2f}% of humans can pronounce Djastiz words natively.'.format(num/total_pop*100))
 	else:
 		print('{:.2f}% of humans must learn {} new phonem{} to pronounce Djastiz words.'.format(num/total_pop*100, i, 'es' if i>1 else 'e'))
-print('The average human must learn {:.1f} phonemes to pronounce Djastiz words.'.format(avg_num_to_learn))
+print('The average human must learn {:.2f} phonemes to pronounce Djastiz words.'.format(avg_num_to_learn))
 
 print()
 
-for lang_code, missing_phns in sorted(specific_needs.items(), key=lambda it:POPULATIONS[it[0]], reverse=True)[:10]:
+for lang_code, missing_phns in sorted(specific_needs.items(), key=lambda it:POPULATIONS[it[0]][1], reverse=True)[:10]:
 	phn_list = ", ".join(missing_phns[:-1])+", or "+missing_phns[-1] if len(missing_phns)>1 else missing_phns[0]
 	print("{} doesn't have {}".format(language_names[lang_code], phn_list))
 
