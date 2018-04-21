@@ -1,10 +1,14 @@
 "Musical-Djastiz",music-make Djastiz
+"say; tell; declare; give information; SBJ tells IND that OBJ (fact; opinion; notion; sentence) is true; give information",
+"tell; implore; command; SBJ tells IND to make OBJ (command; instruction) happen; instruct",
+"ask; interrogate; SBJ asks IND OBJ (question)",
 "dictionary",word one-to-which- list
 "alphabet",letter one-that- obj set
 "part-of-speech",word one-to-which- categorize
 "can",do possible
 "can-remember",recall can
 "memorize",can-remember become
+"knowledgeable; the quality of knowing a lot of things; SBJ knows a lot about OBJ",can-remember obj general
 "sink (crouch)",low become
 "rise (jump)",high become
 "get-behind",backward become
@@ -44,9 +48,9 @@
 "pass (go near something)",near go
 "recommend",should say
 "bake",dry cook
-"boat",sea one-that-gets- ride
-"plane",air one-that-gets- ride
-"spaceship",cosmos one-that-gets- ride
+"boat",sea vehicle
+"plane",air vehicle
+"spaceship",cosmos vehicle
 "swim",liquid traverse
 "climb",wall traverse
 "ladder",via what climb one
@@ -68,7 +72,8 @@
 "kingdom",one what on rule-monarchially
 "national; SBJ (national) identifies as part of OBJ (nation; tribe; clan; e.g. Kurdistan, Tibet)",culture join
 "citizen; SBJ (citizen) legally belongs to OBJ (state; sovereign; polity; e.g. India, The Vatican)",govern join
-"tempt; entice to something appealing but immoral; SBJ (tempter; temptress) suggests OBJ (temptation) to IND (temptee)",evil suggest
+"tempt; entice to something appealing but immoral; SBJ (tempter; temptress) encourages IND (temptee) to do OBJ (temptation)",evil suggest
+"blood",live liquid
 "water; dihydrogen monoxide",life liquid
 "earth",Earth solid
 "air; atmosphere; nitrogen and oxygen and all that jazz",Earth gas
@@ -96,6 +101,11 @@
 "pelvis; hips",torso bottom
 "tau; 6.283",circle number
 "pi; 3.142",tau over two
+"newborn; infant",human 1
+"baby; todler",human few
+"child; kid; adolescent; girl; boy",human bunch
+"adult; woman; man",human handful
+"elder; senior",human tons
 "The West",Europe US-Canada
 "Latin America",Central-America South-America
 "The Muslim World"Middle-East North-Africa South-Asia
