@@ -1,37 +1,28 @@
-"Musical-Djastiz",music-make Djastiz
+"Afro-Eurasia",Eurasia Africa
+"The Americas",North-America South-America
+"The West",Europe US-Canada
+"Latin America",Central-America South-America
+"The Muslim World"Middle-East North-Africa South-Asia
 "say; tell; declare; give information; SBJ tells IND that OBJ (fact; opinion; notion; sentence) is true; give information",
 "tell; implore; command; SBJ tells IND to make OBJ (command; instruction) happen; instruct",
 "ask; interrogate; SBJ asks IND OBJ (question)",
 "dictionary",word one-to-which- list
 "alphabet",letter one-that- obj set
-"part-of-speech",word one-to-which- categorize
+"part-of-speech",word category
+"onomatopoeia",sound word
 "can",do possible
-"can-remember",recall can
-"memorize",can-remember become
-"knowledgeable; the quality of knowing a lot of things; SBJ knows a lot about OBJ",can-remember obj general
-"sink (crouch)",low become
-"rise (jump)",high become
-"get-behind",backward become
-"get-in-front",forward become
-"depart",far become
-"approach",near become become
-"forgive",not angry become
-"break (fall apart or crack)",broken become
-"need (the subject must possess the direct object for the indirect object to be true)",possess necessary
-"see",sight passive-perceive
-"hear",sound passive-perceive
-"smell",scent passive-perceive
-"taste",flavor passive-perceive
-"passive-feel",tactility passive-perceive
-"comprehend",spoken-language passive-perceive
-"passive-read",written-language passive-perceive
-"look",sight active-perceive sight
-"listen",active-perceive sound
-"sniff",active-perceive scent
-"active-taste",active-perceive flavor
-"touch",active-perceive tactility
-"listen-carefully (listen to and parse words, not just sounds)",spoken-language active-perceive
-"active-read",written-language active-perceive
+"can-remember; know; smart; SBJ has OBJ (fact) stored in an accessible part of their memory",recall can
+"memorize",can-remember begin
+"appear; SBJ starts being somewhere; antonym of ""disappear""",exist begin
+"disappear; SBJ ceases to be somewhere; antonym of ""appear""",exist end
+"sink (crouch)",low begin
+"rise (jump)",high begin
+"get-behind",backward begin
+"get-in-front",forward begin
+"depart; go",far begin
+"approach; come",near begin begin
+"forgive",not angry begin
+"break (fall apart or crack)",broken begin
 "talk",communicate spoken-language
 "compose (prose)",communicate written-language
 "cause-to-break",break cause
@@ -41,20 +32,21 @@
 "keep-cool",cold cause
 "deliver (move the direct object to the indirect object)",go cause
 "arrange",index cause
-"obtain (the direct object from the indirect object)",possess become
+"obtain (the direct object from the indirect object)",possess begin
 "year",amount-of- periodic Earth
 "date",day late
 "birthday",birth-give date
 "pass (go near something)",near go
 "recommend",should say
 "bake",dry cook
+"car; truck",ground vehicle
 "boat",sea vehicle
 "plane",air vehicle
 "spaceship",cosmos vehicle
+"train",path vehicle
 "swim",liquid traverse
-"climb",wall traverse
-"ladder",via what climb one
-"bathroom",clean one-that-gets- wall-off
+"climb; SBJ (climber) climbs OBJ (ladder; handholds)",wall traverse
+"bathroom",clean room
 "butthole",feces hole
 "cat",human feline
 "dog",human canine
@@ -65,7 +57,7 @@
 "empire",big one-that-gets- citizen
 "brown",dark red
 "air-conditioning",air one-that- keep-cool
-"worship",have-faith like
+"be hallowed; worship; OBJ (worshiper) worships SBJ",god good
 "rule-monarchially",1 govern
 "peasant",one-that-gets- rule-monarchially
 "king",one-that- rule-monarchially
@@ -75,7 +67,6 @@
 "tempt; entice to something appealing but immoral; SBJ (tempter; temptress) encourages IND (temptee) to do OBJ (temptation)",evil suggest
 "blood",live liquid
 "water; dihydrogen monoxide",life liquid
-"earth",Earth solid
 "air; atmosphere; nitrogen and oxygen and all that jazz",Earth gas
 "lava; magma",earth liquid
 "oxygen",life gas
@@ -91,7 +82,7 @@
 "quartz",white crystal
 "emerald",green crystal
 "diamond",transparent crystal
-"joint; a point at which two things come together",on what join one
+"graphite",pencil rock
 "hand",arm knob
 "foot",leg knob
 "shoulder",arm joint
@@ -106,6 +97,19 @@
 "child; kid; adolescent; girl; boy",human bunch
 "adult; woman; man",human handful
 "elder; senior",human tons
-"The West",Europe US-Canada
-"Latin America",Central-America South-America
-"The Muslim World"Middle-East North-Africa South-Asia
+"bite; SBJ (biter) bites OBJ (bitten)",mouth squeeze
+"snore",sleep emit
+"pencil",rock writing-utensil
+"paint; SBJ (painter) paints OBJ (painting)",liquid draw
+"sculpt; etch; carve; SBJ (carver) carves OBJ (sculpture)",solid draw
+"sensor; sense",perceive gland
+"eye",sight gland
+"ear",sound gland
+"nose",smell gland
+"tounge",taste gland
+"skin",tactility gland
+"mouth",speech gland
+"polytheism",many god
+"monothiesm",1 god
+"athiesm",zero god
+"agnosticism; secularism; religious nonaffiliation",not god

@@ -1,0 +1,14 @@
+"departing",become sbj far who
+"approaching",become sbj near who
+"sinking",become sbj low who
+"rising",become sbj high who
+"finder; Hufflepuff",cause obj be-found who
+"searcher",try obj be-found who
+"breaker; wrecker",cause obj broken who
+"knower; one who can recall facts",possible sbj recall who
+"knowledge; fact; tidbit",possible sbj recall which
+"memoriser",start sbj possible sbj recall who
+"memorised; memorisation",start sbj possible sbj recall which
+"forgiver",become sbj not angry who
+"forgiven",become sbj not cause obj angry who
+"caring",can cause obj troubled who
