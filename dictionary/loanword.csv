@@ -1,3 +1,4 @@
+eng,cst,source
 "e; mid front unrounded vowel",e,lat eː
 "a; open central unrounded vowel",a,lat aː
 "o; mid back rounded vowel; also J",o,lat oː
@@ -9,27 +10,35 @@
 "n; alveolar nasal",ene,spa ene
 "m; bilabial nasal",eme,spa eme
 "h; glottal fricative",ha,lat haː
-"c; t͡ʃ; post-alveolar affricate",ce,fra seː
+"c; tʃ; post-alveolar affricate",ce,fra seː
 "s; alveolar fricative",se,spa ese
 "k; velar plosive; also U",ka,lat kaː
 "t; alveolar plosive",te,lat teː
 "p; bilabial plosive",pe,lat peː
-"Antarctica",
-"Oceania",
+"The Antarctic Ocean",
+"The Arctic Ocean",
+"The Atlantic Ocean",
+"The Carribian Sea",
+"The Indian Ocean",
+"The Mediterranean Sea",
+"The Gulf of Mexico",
+"The Pacific Ocean",
 "Africa",
-"Eurasia",
 "North America",
 "South America",
-"The Arctic",
-"Europe",
-"Middle East",
+"Antarctica",
+"Eurasia",
+"Oceania",
 "North Africa",
 "Sub-Saharan Africa",
-"South Asia",
-"Eastern Asia",
+"Central America",
+"The Arctic",
 "Central Asia",
+"Eastern Asia",
+"South Asia",
+"Europe",
+"Middle East",
 "US-Canada",
-"Central-America",
 "Abkhazia",
 "Afghanistan",
 "Albania",
@@ -79,8 +88,6 @@
 "Cyprus",
 "Northern Cyprus",
 "Czech Republic",
-"Democratic People's Republic of Korea",
-"Democratic Republic of the Congo",
 "Denmark",
 "Djibouti",
 "Dominica",
@@ -88,7 +95,7 @@
 "Ecuador",
 "Egypt",
 "El Salvador",
-"England",inklan,eng ˈɪŋglənd
+"England",inlan,eng ˈɪŋglənd
 "Equatorial Guinea",
 "Eritrea",
 "Estonia",
@@ -99,7 +106,7 @@
 "Gabon",
 "The Gambia",
 "Georgia",
-"Germany",dojclanta,deu ˈdɔʏt͡ʃlant
+"Germany",dojclanta,deu ˈdɔʏtʃlant
 "Ghana",
 "Greece",
 "Greenland",
@@ -229,8 +236,8 @@
 "Uganda",
 "Ukraine",
 "United Arab Emirates",
-"United Kingdom",
-"United States",
+"United Kingdom",jukej
+"United States",juesej
 "Uruguay",
 "Uzbekistan",
 "Vanuatu",
@@ -243,27 +250,30 @@
 "Zimbabwe",
 "Arabic",
 "Bengali",
-"Yue Chinese",
 "Chichewa",
 "Chinese",
-"English",inklic,eng ˈiŋglɪʃ
+"English",inlic,eng ˈiŋglɪʃ
 "Esperanto",espelanto,epo espeˈranto
 "French",
-"German",dojc,deu dɔʏt͡ʃ
+"German",dojc,deu dɔʏtʃ
 "Hausa",
 "Hawaiian",olelohawaji,haw ʔoːˈlɛlo həˈvɐjʔi
 "Hindi",
+"Ido",
 "Igbo",
+"Interlingua",
 "Italian",
 "Japanese",nihonko,jpn ɲihoŋɡo
 "Javanese",
 "Korean",
+"Kotava",
 "Latin",linkwalatina,lat ˈlɪŋɡʷa laˈtiːna
-"Lingua Franka Nova",elefen,lfn ˈelefen
+"Lingua Franka Nova",elefen,lfn elefen
 "Lojban",locpan,ljb ˈloʒban
 "Malay",
 "Mandarin Chinese",
 "Marathi",
+"Neo Patwa",neo patwa,npt neˈo paˈtwa
 "Persian",
 "Portuguese",
 "Punjabi",
@@ -271,7 +281,7 @@
 "Shona",
 "Sotho",
 "Southern Min Chinese",
-"Spanish",espanjol,spa
+"Spanish",kastejano,spa kasteˈʝano
 "Swahili",
 "Tamil",
 "Telugu",
@@ -283,23 +293,38 @@
 "Wu Chinese",
 "Xhosa",
 "Yoruba",
+"Yue Chinese",
 "Zulu",
+"Bahá'í",
+"Buddhism",
+"Cao Dai",
+"Christianity",
+"Han Folk Religion",
+"Hinduism",
+"Islam",
+"Jainism",
+"Judaism",
+"Shinto",
+"Sikhism",
+"Spiritualism",
+"Zoroastrianism",
 "Christmas",natiwitas,lat naːˈtiːwɪtaːs
-"Congress",kankwes,eng ˈkɑŋɡɹɨs
 "fox",wulpes,lat ˈwʊɫ.peːs
 "banana",maws,ara mawz
 "coconut",tenkaj,tam ˈt̪eːŋgɑːj
 "pomegranate",tatima,san ˈd̪aːɖimə
+"calzone",
 "galaxy",kalasias,gre ɡalaksíaːs
 "radian",ladjan,eng ˈɹeɪdiɪn
-"meter",meteh,fra ˈmɛtʁ
-"liter",liteh,fra ˈlitʁ
+"meter",methe,fra ˈmɛtʁ
+"liter",lithe,fra ˈlitʁ
 "kilogram",kiloham,fra ˈkilɔɡʁam
-"ke",kao,cmn kɤ̂
+"ke",kao,cmn kɤ˨˩
 "span",espan,eng spæn
 "snap",esnapa,eng snæp
 "hour",
 "minute",
 "second",sekonte,nld sɛˈkɔndɛ
-"heaven (Christian)",comajim,heb ʃɔmäˈjim
+"Congress",kankwes,eng ˈkɑŋɡɹɨs
+"Christian heaven",comajim,heb ʃɔmäˈjim
 "amen",omejn,ɔˈmeɪn
