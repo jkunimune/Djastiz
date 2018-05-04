@@ -1,9 +1,15 @@
-"what; interrogative and relative",n
-"one; no meaning",s
-"me; first person; the speaker",wo,cmn wǒ
-"you; second person; the listener",ni,cmn nǐ
-"it; he; she; them; third person; a previously mentioned noun phrase",ta,cmn tā
-"us; first person plural exclusive; the speaker and others",wota,cmn wǒ tā
-"y'all; second person plural; the listener and others",nita,cmn nǐ tā
-"us-here; first person dual inclusive; the speaker and the listener",woni,cmn wǒ nǐ
-"us-all; first person plural inclusive; the speaker, the listener, and others",wonita,cmn wǒ nǐ tā
+"relative clause; which; that",n
+"what; what kind; interrogative",ha,cmn hɤ˩˧
+"me; first person; the speaker",wo,cmn wo˨˩˦
+"you; second person; the listener",ni,cmn ni˨˩˦
+"it; he; she; them; third person; a previously mentioned noun phrase",ta,cmn ta˥
+"us; first person plural exclusive; the speaker and others",wota,cmn wo˨˩˦ ta˥
+"y'all; second person plural; the listener and others",nita,cmn ni˨˩˦ ta˥
+"us-here; first person dual inclusive; the speaker and the listener",woni,cmn wo˨˩˦ ni˨˩˦
+"us-all; first person plural inclusive; the speaker, the listener, and others",wonita,cmn wo˨˩˦ ni˨˩˦ ta˥
+"which one; an unspecified noun",heso,spa ˈeso
+"this; a noun physically or temporally near the speaker",weso,spa ˈeso
+"that; a noun physically or temporally near the listener",neso,spa ˈeso
+"that over there; a noun near neither the speaker nor listener",teso,spa ˈeso
+"one; a; a noun not previously mentioned",el,spa el
+"something; one; a noun not afformentioned",una,spa una

@@ -4,6 +4,7 @@ DEPTH = 2 #how many levels down to categorise
 GROUP_CUTOFF = 2/3
 LANGG_CUTOFF = 1/2
 
+LIMIT_TO_GOOGLE_TRANSLATE = True
 GOOGLE_TRANSLATE = { #ideally update this when they add more languages
 		'afr', 'sqi', 'amh', 'ara', 'hye', 'aze', 'baq', 'bel', 'ben', 'bos', 'bul',
 		'cat', 'ceb', 'nya', 'cmn', 'cos', 'hrv', 'ces', 'dan', 'nld', 'eng', 'epo',
@@ -22,17 +23,22 @@ import pickle
 with open('..\\data\\ethnologue.pkl', 'rb') as f:
 	languages = pickle.load(f)
 
+for lang_code in list(languages.keys()): #adjust it to count languages the same way GT does
+	lang_name, population, classification, relatives = languages[lang_code]
+	if classification == ['Macrolanguage'] and lang_code not in GOOGLE_TRANSLATE:
+		languages.pop(lang_code)
+	elif isinstance(relatives, str) and relatives in GOOGLE_TRANSLATE: #if GT claims to have a macrolanguage, I bank on the idea that all speakers
+		if languages[relatives][2] == ['Macrolanguage']: #of that macrolanguage will understand words from all of its microlanguages
+			macro_name, macro_pop, _, children = languages[relatives]
+			languages[relatives] = (macro_name, macro_pop, classification[:-1], children)
+		languages.pop(lang_code)
+
 group_pops = {}
 groups = {}
 tot_pop = 0
 for lang_code in languages:
 	lang_name, population, classification, relatives = languages[lang_code]
-	if classification == ['Macrolanguage']: #if it is a macrolanguage
-		continue #don't count macrolanguages
-	elif isinstance(relatives, str) and len(classification) <= DEPTH: #if it is _part_ of a macrolanguage and is shallow enough
-		group_name = "/".join(classification) #that macrolanguage is its group
-	else: #if it's just a normal language
-		group_name = "/".join((classification+[lang_name])[:DEPTH])
+	group_name = "/".join((classification+[lang_name])[:DEPTH])
 	group_pops[group_name] = group_pops.get(group_name, 0) + population
 	groups[group_name] = groups.get(group_name, []) + [lang_code]
 	tot_pop += population
@@ -57,14 +63,7 @@ for group_name in useful_groups:
 	num_lang = 0
 	cum_pop_1 = 0
 	for lang_code in sorted(groups[group_name], key=lambda lc: languages[lc][1], reverse=True):
-		if languages[lang_code][3] in source_languages: #if we have already added this macrolanguage
-			# print("Skip {} ({}) because we already have {}".format(languages[lang_code][0], lang_code, languages[lang_code][3]))
-			continue #don't double-count
-		elif languages[lang_code][3] in GOOGLE_TRANSLATE: #if Google Translate claims to have this macrolanguage
-			# print("Note, {} ({}) is not in GT, but '{}' is.".format(languages[lang_code][0], lang_code, languages[lang_code][3]))
-			lang_code = languages[lang_code][3] #I'm banking on the fact that its vocabulary will be recognisable to all
-		elif lang_code not in GOOGLE_TRANSLATE: #if we just don't have this language
-			# print("Aw, GT doesn't have {} ({}).".format(languages[lang_code][0], lang_code))
+		if lang_code not in GOOGLE_TRANSLATE and LIMIT_TO_GOOGLE_TRANSLATE: #if we just don't have this language
 			continue #I can't use it, unfortunately
 		lang_name, population, classification, relatives = languages[lang_code]
 		num_lang += 1 #we have another language. Yay.
