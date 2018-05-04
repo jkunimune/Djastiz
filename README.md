@@ -1,6 +1,6 @@
-# Modern Djastiz
+# Musical Djastiz
 
-So, you want to sing a better and more succinct version of [Olde Djastiz](https://github.com/jkunimune15/Djastiz/tree/master). How do you do that? By singing Modern Djastiz\*, that's how! What's Modern Djastiz? It's a high-level language optimised for efficiency that I invented. Here's how it works.
+So, you want to sing a prettier and more difficult version of [Modern Djastiz](https://github.com/jkunimune15/Djastiz/tree/new-djastiz). How do you do that? By singing Musical Djastiz\*, that's how! What's Musical Djastiz? It's a tonal language designed to sound awesome that I invented. Here's how it works.
 
 ## Writing and pronunciation
 
