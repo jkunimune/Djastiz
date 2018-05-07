@@ -1,20 +1,21 @@
 eng,cst,source
-"e; mid front unrounded vowel",e,lat eː
-"a; open central unrounded vowel",a,lat aː
-"o; mid back rounded vowel; also J",o,lat oː
-"i; close front unrounded vowel",i,lat iː
-"u; close back rounded vowel",u,lat uː
-"j; palatal approximant",jota,grc iɔːta
-"l; alveolar lateral approximant",el,lat ɛl
-"w; bilabial-velar approximant",weta,grc bɛːta
-"n; alveolar nasal",ene,spa ene
-"m; bilabial nasal",eme,spa eme
-"h; glottal fricative",ha,lat haː
-"c; tʃ; post-alveolar affricate",ce,fra seː
-"s; alveolar fricative",se,spa ese
-"k; velar plosive; also U",ka,lat kaː
-"t; alveolar plosive",te,lat teː
-"p; bilabial plosive",pe,lat peː
+"e; /e/; mid front unrounded vowel",e,lat eː
+"a; /a/; open central unrounded vowel",a,lat aː
+"o; /o/; mid back rounded vowel; also J",o,lat oː
+"i; /i/; close front unrounded vowel",i,lat iː
+"u; /u/; close back rounded vowel",u,lat uː
+"j; /j/; palatal approximant",jota,grc iɔːta
+"l; /l/; alveolar lateral approximant",el,lat ɛl
+"w; /w/; labial-velar approximant",weta,grc bɛːta
+"n; /n/; alveolar nasal",ene,spa ene
+"m; /m/; labial nasal",eme,spa eme
+"h; /h/; glottal fricative",ha,lat haː
+"c; /ʃ/; post-alveolar fricative",ce,fra seː
+"s; /s/; alveolar fricative",es,lat ɛs
+"f; /f/; labial fricative",ef,lat ɛf
+"k; /k/; velar plosive; also U",ka,lat kaː
+"t; /t/; alveolar plosive",te,lat teː
+"p; /p/; bilabial plosive",pe,lat peː
 "The Antarctic Ocean",
 "The Arctic Ocean",
 "The Atlantic Ocean",
@@ -248,6 +249,7 @@ eng,cst,source
 "Yemen",
 "Zambia",
 "Zimbabwe",
+"Shastisu",castisu
 "Arabic",
 "Bengali",
 "Chichewa",
@@ -315,16 +317,16 @@ eng,cst,source
 "pomegranate",tatima,san ˈd̪aːɖimə
 "calzone",
 "galaxy",kalasias,gre ɡalaksíaːs
-"radian",ladjan,eng ˈɹeɪdiɪn
+"radian",watian,eng ˈɹeɪdiɪn
 "meter",methe,fra ˈmɛtʁ
 "liter",lithe,fra ˈlitʁ
 "kilogram",kiloham,fra ˈkilɔɡʁam
-"ke",kao,cmn kɤ˨˩
+"ke",kao,cmn kʰɤ˨˩
 "span",espan,eng spæn
 "snap",esnapa,eng snæp
 "hour",
 "minute",
 "second",sekonte,nld sɛˈkɔndɛ
-"Congress",kankwes,eng ˈkɑŋɡɹɨs
+"Congress",kankwes,eng ˈkʰɑŋɡɹɨs
 "Christian heaven",comajim,heb ʃɔmäˈjim
 "amen",omejn,ɔˈmeɪn

@@ -1,15 +1,25 @@
+"us-here; first person dual inclusive; the speaker and the listener",me you
+"us; first person plural exclusive; the speaker and others",me it
+"y'all; second person plural; the listener and others",you it
+"us-all; first person plural inclusive; the speaker, the listener, and others",me you it
+"bless; yay; okay; positive exclamative mood",like wow
+"fuck; boo; not; negative exclamative mood",dislike wow
 "Afro-Eurasia",Eurasia Africa
 "The Americas",North-America South-America
 "The West",Europe US-Canada
 "Latin America",Central-America South-America
 "The Muslim World"Middle-East North-Africa South-Asia
-"say; tell; declare; give information; SBJ tells IND that OBJ (fact; opinion; notion; sentence) is true; give information",
-"tell; implore; command; SBJ tells IND to make OBJ (command; instruction) happen; instruct",
-"ask; interrogate; SBJ asks IND OBJ (question)",
+"say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",
+"ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",
+"tell; implore; command; instruct; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",
+"request; SBJ (requester) politely asks IND (requestee) to make OBJ (request) happen",
 "dictionary",word one-to-which- list
 "alphabet",letter one-that- obj set
 "part-of-speech",word category
 "onomatopoeia",sound word
+"conlang",design language
+"auxlang",international language
+"artlang",art language
 "can",do possible
 "can-remember; know; smart; SBJ has OBJ (fact) stored in an accessible part of their memory",recall can
 "memorize",can-remember begin
@@ -113,3 +123,4 @@
 "monothiesm",1 god
 "athiesm",zero god
 "agnosticism; secularism; religious nonaffiliation",not god
+"flag; banner",cloth

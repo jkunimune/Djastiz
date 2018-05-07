@@ -1,4 +1,4 @@
-"do; the placeholder verb; something involving SBJ (subject) and OBJ (direct object) and IND (indirect object)",
+"do; the placeholder verb; something involving SBJ and OBJ and IND",
 "happen; SBJ (event) is a clause, wrapped in this clause",
 "true; yes; SBJ (truth) is a noun phrase that has an affirmative truth value (AMOUNT: truthiness; truth); antonym of ""false""",
 "false; no; SBJ (falsehood) is a noun phrase that has a negative truth value (AMOUNT: falseness); antonym of ""true""",
@@ -8,7 +8,7 @@
 "continue; happen progressively; SBJ is occurring for some time",
 "end; stop; unbecome; cease; SBJ transitions from truth to falsehood"; antonym of ""begin"",
 "change; transition; translate; from; to; SBJ changes its state from IND (origin; initial; ablative) to OBJ (destination; final; lative)",
-"direction",
+"face; point; SBJ (direction) is oriented in the direction from IND (tail; back) toward OBJ (target; front)",
 "undo; the action contrary to SBJ happens",
 "repeat; again; SBJ happens after having happened already",
 "possible; SBJ can happen",
@@ -16,9 +16,8 @@
 "necessary; need; must; SBJ (requisite; requirement) must be true in order for OBJ to be true",
 "imply; if; SBJ will happen if OBJ (condition) happens",
 "should; good; SBJ (decision) should happen to maximise the expected value of OBJ",
-"require; obligate; force; command; inverse of ""allow""; opposite of ""forbid""; SBJ requires OBJ (obligation; requirement) to happen",
-"allow; permit; may; inverse of ""require""; negation of ""forbid""; SBJ allows OBJ (privilage; permission) to happen",
-"want; desire; SBJ wants OBJ to happen",
+"require; obligate; force; command; inverse of ""allow""; SBJ requires OBJ (obligation; requirement) to happen",
+"want; desire; hunger; hope; SBJ (hoper; wanter; desirous) wants OBJ (desire; wish; hope) to happen",
 "intend; will; SBJ intends to make OBJ happen",
 "be willing; SBJ is willing to make OBJ happen",
 "try; attempt; intend; SBJ tries to make OBJ happen",
@@ -28,9 +27,9 @@
 "perceive; look; listen; sniff; taste; SBJ actively perceives OBJ (signal; sight; sound; scent); contrast with ""be perceptible""",
 "be perceptible; be visible; see; be audible; hear; be smellable; smell; be tasteable; taste; be feelable; feel; OBJ passively perceives SBJ (sensation); contrast with ""perceive""",
 "emit; say; loud; bright; strong; SBJ releases OBJ (message; utterance) to IND (recipient; listener; viewer) (AMOUNT:volume; amplitude; brightness); antonym of ""quiet""",
-"be quiet; dim; soft; faint; weak SBJ is quiet; antonym of ""emit""",cuc, ono ʃ
+"be quiet; dim; soft; faint; weak SBJ is quiet; antonym of ""emit""",cici, ono ʃ
 "communicate; take; correspond; SBJ has a two-way interaction with OBJ (interlocutor) about IND (topic; conversation; passage) (TOOL:language)",
-"give; converse of ""receive""; SBJ (giver) gives OBJ (gift) to IND (recipient)",
+"give; be fruitful; converse of ""receive""; SBJ (giver) gives OBJ (gift; fruit) to IND (recipient)",
 "take; SBJ (taker) takes OBJ (gain) from IND (loser)",
 "be tangible; be physical; SBJ (object) is tangible; antonym of ""intangible""",
 "be intangible; be nonphysical; SBJ (concept) is intangible; antonym of ""tangible""",
@@ -42,10 +41,10 @@
 "be improbable; be skeptical; Bayesian improbability; SBJ is unlikely to happen according to OBJ; antonym of ""sure""",
 "seem; believe; OBJ (believer) accepts that SBJ (apparent; seeming) is true on a subconcious level; contrast with ""appear""",
 "appear; think; OBJ (thinker; accepter) conciously decides that SBJ is true; contrast with ""seem""",
-"be good; be pleasing; like; OBJ likes SBJ (preference; favourite) (AMOUNT:goodness; preference level); antonym of ""bad""",
+"be appealing; be pleasing; be good; like; OBJ likes SBJ (preference; favourite) (AMOUNT:goodness; preference level); antonym of ""bad""",
 "be bad; be unpleasant; dislike; OBJ dislikes SBJ (anathema; least favourite); antonym of ""good""",
 "be more; be greater; be much; SBJ (a lot; more) is numerically greater than OBJ; antonym of ""less""",
-"be same; be none; SBJ has the same numerical value as OBJ",
+"be same; SBJ has the same numerical value as OBJ",
 "be less; be little; SBJ (a bit; less) is numerically less than OBJ; antonym of ""more""",
 "be old; length of time; applies to objects an events as well as people; SBJ (elder; senior; adult; old woman; old man; an old person) is old (AMOUNT:age); antonym of ""young""",
 "be young; length of time; applies to objects and events as well as people; SBJ (kid; girl; boy) is young; antonym of ""old""",
@@ -77,20 +76,19 @@
 "be clockwise; SBJ appears rotated clockwise from the orientation OBJ from the point of view of IND; antonym of ""widdershins""",
 "be low; SBJ (ground; earth; depths) has a lower altitude than OBJ (standard altitude; usually sea level) based on the planet IND (AMOUNT:elevation; altitude); antonym of ""high""; usually synonomous with ""down"" in which case ""down"" is preferred",
 "be high; SBJ (sky; cosmos) has a higher altitude than OBJ based on the planet IND; antonym of ""low""; usually synonomous with ""up"" in which case ""up"" is preferred",
-"be south; SBJ has a lower latitude than OBJ (standard parallel; usually the North Pole) based on the planet IND (AMOUNT:latitude); antonym of ""north""",
-"be north; SBJ has a higher latitude than OBJ based on the planet IND; antonym of ""south""",
-"be east; SBJ has a higher longitude than OBJ (standard meridian; prime meridian) based on the planet IND (AMOUNT:longitude); antonym of ""west""",
-"be west; SBJ has a lower longitude than OBJ based on the planet IND; antonym of ""east""",
-"be moral; good; if SBJ (good deed; moral) happens, it will be morally good (AMOUNT:morality; goodness); antonym of ""evil""",
-"be evil; immoral; bad; if SBJ (evil; sin) happens, it will be morally bad; antonym of ""moral""",
-"be skillful; effective; good; SBJ is good at causing OBJ (AMOUNT:skill level); antonym of ""inept""",
-"be inept; unskillful; ineffective; bad; SBJ is bad at causing OBJ; antonym of ""skillful""",
-"be apt; SBJ fits the situation OBJ well (AMOUNT:aptitude); antonym of ""inapt""",
-"be inapt; SBJ fail to fit the situation OBJ well; antonym of ""apt""",
+"be south; SBJ has a lower latitude than OBJ (standard parallel; usually the North Pole) based on the planet IND (AMOUNT:latitude); antonym of ""be north""",
+"be north; SBJ has a higher latitude than OBJ based on the planet IND; antonym of ""be south""",
+"be east; SBJ has a higher longitude than OBJ (standard meridian; prime meridian) based on the planet IND (AMOUNT:longitude); antonym of ""be west""",
+"be west; SBJ has a lower longitude than OBJ based on the planet IND; antonym of ""be east""",
+"be moral; good; if SBJ (good deed; moral) happens, it will be morally good (AMOUNT:morality; goodness); antonym of ""be evil""",
+"be evil; immoral; bad; if SBJ (evil; sin) happens, it will be morally bad; antonym of ""be moral""",
+"be skillful; effective; good; SBJ is good at causing OBJ (AMOUNT:skill level); antonym of ""be inept""",
+"be inept; unskillful; ineffective; bad; SBJ is bad at causing OBJ; antonym of ""be skillful""",
+"be apt; SBJ fits the situation OBJ well (AMOUNT:aptitude); antonym of ""be inapt""",
+"be inapt; SBJ fail to fit the situation OBJ well; antonym of ""be apt""",
 "work; productive; SBJ (worker) works to make OBJ (job; work) happen",
 "index; SBJ has a position in OBJ (list; order) (AMOUNT:position; index)",
 "be next; SBJ (next) is next, after OBJ (previous) in the set IND (sequence)",
-"track; SBJ (tracker; follower) follows OBJ (path; course)",
 "lead; command; SBJ (leader) leads the actions of OBJ (follower)",
 "be found; OBJ knows where SBJ is",
 "notice; OBJ is conciously aware of the presence of SBJ",
@@ -98,11 +96,11 @@
 "call; SBJ (caller) calls OBJ (callee) remotely and digitally",
 "relate; SBJ is genetically related to OBJ (relative; kin; blood)",
 "accompany; come with; SBJ (companion; partner; company) accompanies OBJ",
-"acquaint; 
-"spend time; SBJ (time-spender) spends time with OBJ (friend)",
+"acquaint; know; SBJ has met OBJ (acquantaince)",
+"spend time; be friendly; SBJ (time-spender) spends time with OBJ (friend)",
 "show; SBJ (shower) encourages and enables IND (audience) to passively perceive OBJ (show)",
-"be alive; lively",
-"be dead",
+"be alive; be lively; be active; be on; SBJ is alive; antonym of ""be dead""",
+"be dead; be off; SBJ is dead; antonym of ""be alive""",
 "constancy; stay the same",
 "clothed",
 "jostle; move; SBJ deforms and moves in place",
@@ -133,7 +131,7 @@
 "activate",
 "music-make; an instrument",
 "include",
-"eat; drink; SBJ (eater) eats OBJ (food)",njam,ono njam njam
+"eat; drink; SBJ (eater) eats OBJ (food)",njamo,ono njam njam
 "goof; off",
 "group; associate with one another",
 "set; be in a discrete collection with a finite number of other entities",
@@ -219,13 +217,13 @@
 "sonorous; low pitch",
 "unstable; diminished chord or scale",
 "stable; satisfying chord or scale",
-"pulse; oscillate; flash; beat",tumtum,ono dudum dudum
+"be rhythmic; pulse; oscillate; flash; beat; SBJ (rhythm; routine) happens rhythmically",tumtumi,ono dudum dudum
 "together; work as a team",
 "separated; individuality",
 "consider",
 "parent; raise",
-"easy; of the subject for the direct object",
-"difficult; of the subject for the direct object",
+"be easy; be convenient; the subject is easy for the direct object; antonym of ""be difficult""",
+"be difficult; be inconvenient; of the subject for the direct object; antonym of ""be easy""",
 "party",
 "foreign",
 "local",
@@ -374,18 +372,18 @@
 "driven; not lazy",
 "lazy",
 "sleep",
-"laugh",haha,ono ha ha
+"laugh; SBJ (laugher) laughs",hahi,ono ha ha
 "cry; sob; weep",
-"scream; yell; cry",ajaw,ono ajaw
-"burp; belch",kolop,ono korop
-"fart; flatulate",put,ono pʰut
-"sneeze",hacuh,ono hatʃuh
-"yawn",hawa,ono haː.aː
-"hiccup",,ono
-"cough",,ono
-"kiss; snog",mwa,ono mwa
+"scream; yell; cry; SBJ (screamer) screams",ai,ono aˈi
+"burp; belch; SBJ (burper) burps",kolopi,ono korop
+"fart; flatulate; SBJ (farter) farts",puti,ono pʰut
+"sneeze; SBJ (sneezer) sneezes",hacuhi,ono haˈtʃuh
+"yawn; SBJ (yawner) yawn",ahai,ono ˈhaː.aː
+"hiccup; SBJ (cursed with hiccups) hiccups",hiki,ono hik
+"cough; SBJ (cougher) coughs",kahi,ono ʡah
+"kiss; snog; make out; SBJ (kisser) kisses OBJ (kissee)",mwao,ono mwa
 "expectorate; salivate; spit",
-"swallow; suck; consume whole",kulup,ono glup glup glup
+"swallow; suck; consume whole; SBJ (swallower) swallows OBJ (swallowed)",kulupo,ono glup glup
 "have sex; fuck; bang; nail; do; plow; ride",
 "feel; SBJ feels OBJ (emotion)",
 "apathetic",
@@ -402,7 +400,6 @@
 "bored; by the indirect object",
 "fatigued",
 "anxious",
-"hungry; for food, sex, sleep, etc.",
 "pleased; basic euphoria from food, music, or sex",
 "proud; the happiness associated with feeling like a productive member of society",
 "amused",
@@ -610,4 +607,4 @@
 "tangle; knot; SBJ (knot) is tangled together",
 "touch; meet; join; SBJ and OBJ are so close to each other that they cannot physically get any closer (please don't get tecnical with my definition of this) (LOCATION:joint; corner; intersection; edge)",
 "hunt; chase; pursue; SBJ (hunter) hunts for OBJ (hunted), either literally or metaphorically",
-"deserve; be entitled; SBJ (worthy; deserving; entitled) deserves OBJ (dessert)"
+"deserve; be entitled; SBJ (worthy; deserving; entitled) deserves OBJ (dessert)",
