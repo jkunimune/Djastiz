@@ -51,3 +51,6 @@ data/*
 
 # Python classes
 *.pyc
+
+#not sure what it is but afraid to delete it
+_config.yml
