@@ -1,3 +1,6 @@
+"prevent",cause not
+"forbid",require not
+"allow",not require not
 "departing",become sbj far who
 "approaching",become sbj near who
 "sinking",become sbj low who
@@ -12,3 +15,7 @@
 "forgiver",become sbj not angry who
 "forgiven",become sbj not cause obj angry who
 "caring",can cause obj troubled who
+"gesture",gesture emit
+"send",cause go
+"plow",cause obj possible sbj give
+"sow",give obj seed

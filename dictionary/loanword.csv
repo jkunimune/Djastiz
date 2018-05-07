@@ -41,42 +41,43 @@ eng,cst,source
 "Middle East",
 "US-Canada",
 "Abkhazia",
-"Afghanistan",
+"Afghanistan",afhaniston,prs avɣɒnestɒn
+"South Africa",
 "Albania",
 "Algeria",
 "Andorra",
 "Angola",
 "Antigua and Barbuda",
 "Argentina",
-"Armenia",
+"Armenia",hajastan,hye hɑjɑstɑn
 "Australia",
-"Austria",
-"Azerbaijan",
+"Austria",ewstahais,deu øːstɐʁaɪç
+"Azerbaijan",asalpajcan,ɑzæɾbɑjdʒɑn
 "The Bahamas",
-"Bahrain",
-"Bangladesh",
+"Bahrain",albahlajn,ara albaħrajn
+"Bangladesh",panlatec,ben baŋlad̪eʃ
 "Barbados",
-"Belarus",
-"Belgium",
+"Belarus",pjelalus,bel bʲɛlarusʲ
+"Belgium",pelhija,nld bɛlɣijə
 "Belize",
 "Benin",
-"Bhutan",
+"Bhutan",cukju,dzo ʈʂuk˩˧ˀjyː˥
 "Bolivia",
-"Bosnia and Herzegovina",
+"Bosnia and Herzegovina",posnaihelsegowina,hrv bosna i xertseɡoʋina
 "Botswana",
 "Brazil",
-"Brunei",
+"Brunei",uplunai,kxd brunai
 "Bulgaria",
 "Burkina Faso",
 "Burundi",
-"Cambodia",
+"Cambodia",kampukia,khm kɑmpuciə
 "Cameroon",
 "Canada",
 "Cape Verde",
 "Central African Republic",
 "Chad",
 "Chile",
-"China",
+"China",cunkwo,cmn ʈʂʊŋ˥kwɔ˧˥
 "Colombia",
 "Comoros",
 "Democratic Repubic of the Congo",
@@ -99,14 +100,14 @@ eng,cst,source
 "England",inlan,eng ˈɪŋglənd
 "Equatorial Guinea",
 "Eritrea",
-"Estonia",
+"Estonia",esti,est eːsti
 "Ethiopia",
 "Fiji",
 "Finland",
 "France",
 "Gabon",
 "The Gambia",
-"Georgia",
+"Georgia",sakatfelo,kat sɑkʰɑrtʰvɛlɔ
 "Germany",dojclanta,deu ˈdɔʏtʃlant
 "Ghana",
 "Greece",
@@ -121,40 +122,40 @@ eng,cst,source
 "Honduras",
 "Hungary",
 "Iceland",
-"India",
-"Indonesia",
-"Iran",
-"Iraq",
+"India",palat,hin bʱaːrət̪
+"Indonesia",indonesia,ind ɪndonesia
+"Iran",ilan,fas ʔiːɾɒːn
+"Iraq",alilak,ara alʕiraːq
 "Ireland",
 "Northern Ireland",
-"Israel",
-"Italy",
+"Israel",jishael,heb jisʁael
+"Italy",italja,ita itaːlja
 "Ivory Coast",
 "Jamaica",
-"Japan",
-"Jordan",
-"Kazakhstan",
+"Japan",nihon,jpn nihoɴ
+"Jordan",alultun,ara alʔurdunn
+"Kazakhstan",kasakastan,kaz qɑzɑqstɑn
 "Kenya",
 "Kiribati",
-"North Korea",
-"South Korea",
-"Kosovo",
-"Kuwait",
-"Kyrgyzstan",
-"Laos",
-"Latvia",
-"Lebanon",
+"North Korea",pukcosan,kor puktɕosʰʌn
+"South Korea",namhan,kor namɦan
+"Kosovo",kosofa,sqi kɔsɔva
+"Kuwait",alkuwajt,ara alkuwajt
+"Kyrgyzstan",kulhustan,kir qɯrʁɯsstɑn
+"Laos",law,lao laːw˦˥
+"Latvia",latfija,lav latvija
+"Lebanon",lupnan,ara lubnaːn
 "Lesotho",
 "Liberia",
 "Libya",
-"Liechtenstein",
+"Liechtenstein",listenactajn,deu lɪçtn̩ʃtaɪ̯n
 "Lithuania",
-"Luxembourg",
-"Macedonia",
+"Luxembourg",latsapuac,ltz lətsəbuːəɕ
+"The Former Yugoslav Republic of Macedonia",maketonija,mkd makɛdɔnija
 "Madagascar",
 "Malawi",
-"Malaysia",
-"Maldives",
+"Malaysia",malejsia,msa məlejsiə
+"Maldives",tiwehilace,div diʋehirəːdʒe
 "Mali",
 "Malta",
 "Marshall Islands",
@@ -164,89 +165,90 @@ eng,cst,source
 "Micronesia",
 "Moldova",
 "Monaco",
-"Mongolia",
-"Montenegro",
+"Mongolia",monkosluslus,mon mɔŋɢɔɮ ʊɮs
+"Montenegro",selnakola,cnr tsr̩ːnaː ɡɔra
 "Morocco",
 "Mozambique",
-"Myanmar (Burma)",
+"Myanmar; Burma",mjama,mya mjəma˩
 "Namibia",
 "Nauru",
-"Nepal",
+"Nepal",nepal,nep nepal
 "Netherlands",
 "New Zealand",
 "Nicaragua",
 "Niger",
 "Nigeria",
 "Niue",
-"Norway",
+"Norway",nolka,nor noɾɡə
+"Oman",human,ara ʕʊmaːn
+"South Ossetia",
+"Pakistan",pakistan,pan pɑːkɪst̪ɑːn
 "Palau",
-"Palestine",
+"Palestine",filastin,ara filastˁiːn
 "Panama",
 "Papua New Guinea",
 "Paraguay",
 "Peru",
-"Philippines",
+"Philippines",pilipinas,tgl pɪlɪpinɐs
 "Poland",
-"Portugal",
-"Qatar",
+"Portugal",pultukal,por puɾtugaɫ
+"Qatar",katal,ara qɑtˤɑr
 "Republic of the Congo",
-"Romania",
-"Russia",
+"Romania",lominia,ron romɨnia
+"Russia",lasjija,rus rɐsʲijə
 "Rwanda",
 "Sahrawi Arab Democratic Republic",
 "Saint Kitts and Nevis",
 "Saint Lucia",
 "Saint Vincent and the Grenadines",
 "Samoa",
-"San Marino",
+"San Marino",sanmalino,ita san mariːno
 "São Tomé and Príncipe",
-"Saudi Arabia",
+"Saudi Arabia",asutija,ara assuʕuːdijja
 "Scotland",
 "Senegal",
-"Serbia",
+"Serbia",selpija,hrv sr̩bija
 "Seychelles",
 "Sierra Leone",
-"Singapore",
-"Slovakia",
+"Singapore",sinapo,eng sɪŋəpɔː
+"Slovakia",slowenesko,slk sloʋensko
 "Slovenia",
 "Solomon Islands",
 "Somalia",
-"South Africa",
-"South Ossetia",
 "Spain",
-"Sri Lanka",
+"Sri Lanka",islilankawa,sin sriː laŋkaːʋa
 "Sudan",
 "South Sudan",
 "Suriname",
 "Swaziland",
 "Sweden",
-"Switzerland",
-"Syria",
-"Taiwan",
-"Tajikistan",
+"Switzerland",acfajtsa,deu ʃvaɪ̯ts
+"Syria",sulija,ara suːrijaː
+"Taiwan",tajwan,cmn tʰaɪ̯˧˥wan˥
+"Tajikistan",tocikiston,tgk tɔːdʒikistɔːn
 "Tanzania",
-"Thailand",
-"East Timor",
+"Thailand",taj,tha tʰaj˧
+"East Timor",timololosae,tet timor lorosaʔe
 "Togo",
 "Tonga",
 "Trinidad and Tobago",
 "Tunisia",
-"Turkey",
-"Turkmenistan",
+"Turkey",tulkije,tur tyɾcije
+"Turkmenistan",tukmenistan,tuk tyɾkmeniθtɑn
 "Tuvalu",
 "Uganda",
 "Ukraine",
-"United Arab Emirates",
-"United Kingdom",jukej
-"United States",juesej
+"United Arab Emirates",alimalat,ara alʔimaːraːt
+"United Kingdom",sajukej,en ðʌ juː kʰeɪ̯
+"United States",sajuesej,en ðʌ juː ɛs eɪ̯
 "Uruguay",
-"Uzbekistan",
+"Uzbekistan",ospekistan,uzb ɒ:zbekist̪ɒn
 "Vanuatu",
 "Vatican City",
 "Venezuela",
-"Vietnam",
+"Vietnam",vietnam,vie viɜʔt˧˨ʔnaːm˧
 "Wales",
-"Yemen",
+"Yemen",aljaman,ara aljaman
 "Zambia",
 "Zimbabwe",
 "Shastisu",castisu
@@ -329,4 +331,4 @@ eng,cst,source
 "second",sekonte,nld sɛˈkɔndɛ
 "Congress",kankwes,eng ˈkʰɑŋɡɹɨs
 "Christian heaven",comajim,heb ʃɔmäˈjim
-"amen",omejn,ɔˈmeɪn
+"amen",omejn,heb ɔˈmeɪ̯n
