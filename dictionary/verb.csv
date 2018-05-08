@@ -17,7 +17,7 @@
 "imply; if; SBJ will happen if OBJ (condition) happens",
 "should; good; SBJ (decision) should happen to maximise the expected value of OBJ",
 "require; obligate; force; command; inverse of ""allow""; SBJ requires OBJ (obligation; requirement; rule) to happen",
-"want; desire; hunger; hope; SBJ (hoper; wanter; desirous) wants OBJ (desire; wish; hope) to happen",
+"want; desire; hunger; hope; SBJ (hoper; wanter; desirous; hungry) wants OBJ (desire; wish; hope) to happen",
 "intend; will; SBJ intends to make OBJ happen",
 "be willing; SBJ is willing to make OBJ happen",
 "try; attempt; intend; SBJ tries to make OBJ happen",

@@ -19,3 +19,4 @@
 "send",cause go
 "plow",cause obj possible sbj give
 "sow",give obj seed
+"magician",via magic who
