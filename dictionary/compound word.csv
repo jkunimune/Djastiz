@@ -21,8 +21,6 @@
 "auxlang",international language
 "artlang",art language
 "can",do possible
-"can-remember; know; smart; SBJ has OBJ (fact) stored in an accessible part of their memory",recall can
-"memorize",can-remember begin
 "appear; SBJ starts being somewhere; antonym of ""disappear""",exist begin
 "disappear; SBJ ceases to be somewhere; antonym of ""appear""",exist end
 "sink (crouch)",low begin
@@ -127,4 +125,18 @@
 "revolution",short change
 "rice",grain bits
 "bread",grain foam
+"banana",stick fruit
+"shirt; top",torso clothes
+"pants; shorts",leg clothes
+"underwear",be-inner clothes
+"shoe",foot clothes
+"sock",be-inner shoe
+"glove",hand clothes
+"hat",hair clothes
+"mask; glasses",face clothes
+"bracelet",wrist clothes
+"dress",1 clothes
+"suit",whole clothes
+"watch",wrist clock
 "tidal wave; tsunami",big wave
+"be found; OBJ knows where SBJ is",where appear
