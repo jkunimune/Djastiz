@@ -90,6 +90,7 @@
 "quartz",white crystal
 "emerald",green crystal
 "diamond",transparent crystal
+"glass; window",transparent rock
 "graphite",pencil rock
 "hand",arm knob
 "foot",leg knob
@@ -140,3 +141,5 @@
 "watch",wrist clock
 "tidal wave; tsunami",big wave
 "be found; OBJ knows where SBJ is",where appear
+"go through; OBJ moves into and then out of IND (tube; hallway; corridor)",enter exit
+"travel; SBJ travels from IND to OBJ (destination; getaway)",where go
