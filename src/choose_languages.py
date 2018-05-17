@@ -1,7 +1,7 @@
 #choose_languages.py
 
 DEPTH = 2 #how many levels down to categorise
-GROUP_CUTOFF = 2/3
+GROUP_CUTOFF = 5/7
 LANGG_CUTOFF = 1/2
 
 LIMIT_TO_GOOGLE_TRANSLATE = True
@@ -39,14 +39,14 @@ tot_pop = 0
 for lang_code in languages:
 	lang_name, population, classification, relatives = languages[lang_code]
 	group_name = "/".join((classification+[lang_name])[:DEPTH])
+	if 'Constructed language' in group_name: 	group_name = 'Constructed language' #go ahead and lump these all together
 	group_pops[group_name] = group_pops.get(group_name, 0) + population
 	groups[group_name] = groups.get(group_name, []) + [lang_code]
 	tot_pop += population
 print("{} humans accounted".format(tot_pop))
-tot_pop = 7000000000
 
 cum_pop_0 = 0
-useful_groups = []
+useful_groups = ['Constructed language']
 for group_name, size in sorted(group_pops.items(), key=lambda item: item[1], reverse=True):
 	cum_pop_0 += group_pops[group_name]
 	print(size, group_name)
@@ -68,19 +68,22 @@ for group_name in useful_groups:
 		lang_name, population, classification, relatives = languages[lang_code]
 		num_lang += 1 #we have another language. Yay.
 		cum_pop_1 += population
-		source_languages[lang_code] = (None, population, short_group_name) #mark this language to be added, though we have no number yet
+		source_languages[lang_code] = (None, lang_name, population, short_group_name) #mark this language to be added, though we have no number yet
 		net_representation += population #note the represented population
 		if cum_pop_1 >= group_pops[group_name]*LANGG_CUTOFF:
 			break
 	if num_lang == 0:
 		raise ValueError("Google Translate doesn't have ANY of the languages in the group '{}'! Your method is fundamentally flawed.".format(group_name))
-	group_portion = group_pops[group_name]/cum_pop_0
+	group_portion = 6/7*group_pops[group_name]/cum_pop_0 if group_name!='Constructed language' else 1/7
 	for lang_code in source_languages:
 		if source_languages[lang_code][0] is None:
-			lang_portion = source_languages[lang_code][1]/cum_pop_1*100
+			lang_portion = source_languages[lang_code][2]/cum_pop_1*100
 			source_languages[lang_code] = (group_portion*lang_portion, *source_languages[lang_code][1:])
 	print("{} languages from the family {}, representing {:.2f}% of native speakers".format(num_lang, group_name, cum_pop_1/group_pops[group_name]*100))
 
 print("\nCastis will have {} source languages, representing {:.2f}-{:.2f}% of humans:".format(len(source_languages), net_representation/tot_pop*100, cum_pop_0/tot_pop*100))
 for lang_code in sorted(source_languages, key=lambda lc:source_languages[lc], reverse=True):
-	print("{0:.2f}% - {3} ({1}, {2})".format(*source_languages[lang_code], languages[lang_code][0]))
+	print("{:.2f}% - {} ({}, {})".format(*source_languages[lang_code]))
+print()
+print('{:.2f}% of Castis words shall come from European origin.'.format(
+		sum([source_languages[s][0] for s in ['epo','eng','spa']])))

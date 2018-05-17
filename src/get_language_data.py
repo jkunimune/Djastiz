@@ -12,7 +12,7 @@ try:
 except FileNotFoundError:
 	print("Collecting set of all languages...")
 	lang_set = set()
-	for letter in "ABCDEFGHIKLMNOPQRSTUVWXYZ":
+	for letter in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
 		print("'{}' languages...".format(letter))
 		r = requests.get('https://ethnologue.com/browse/names/{}'.format(letter))
 		for lang_link in re.findall(r'\/language\/[a-z][a-z][a-z]', r.text):

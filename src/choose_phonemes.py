@@ -14,13 +14,13 @@ COMBOS = {('a','ɑ','ɐ'), ('e','ɛ'), ('o','ɔ'),
 		('i','ɪ'), ('u','ʊ','ɯ'), ('j','i'), ('w','u'),
 		('ʃ','s','ʂ'), ('ʒ','z','ʐ'), ('ts','tʃ','ʈʂ'), ('dz','dʒ'),
 		('s','ts'), ('z','dz'), ('tʃ','ʃ','ʈʂ','ʂ'), ('dʒ','ʒ','ʐ'),
-		('r','ɾ','ɽ','ɻ','ʁ','ʀ','ɹ'), ('l','ɾ'),
+		('r','ɾ','ɽ','ɻ','ʁ','ʀ','ɹ'), ('l','ɭ','ɾ','ɽ','ɺ'),
 		('h','ħ','χ','x', 'ɦ'), ('ʕ','ʁ','ɣ'), ('f','ɸ'), ('v','β'),
 		('kʰ','k'), ('tʰ','t'), ('pʰ','p'),
 		('k','ɡ','ʰ'), ('t','d','ʰ'), ('p','b','ʰ')}
 
-# CASTISU = {'/pʰ/', '[b]', '/tʰ/', '[d]', '/kʰ/', '[ɡ]', '/tʃ/', '/dʒ/', '/f/', '/s/', '/z/', '/h/',
-# 			'/r/', '[m]', '[n]', '[ŋ]', '/l/', '/j/', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'}
+# CASTISU = {'/pʰ/', '[b]', '/tʰ/', '[d]', '/kʰ/', '[ɡ]', '/tʃ/', '/dʒ/', '/f/', '/s/', '[z]', '/h/',
+# 			'[m]', '[n]', '[ŋ]', '/r/', '[l]', '/j/', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'}
 CASTISU = {'/p/', '/t/', '/k/', '/tʃ/', '/f/', '/s/', '/h/', '[m]', '[n]', '/w/', '/l/', '/j/', '/u/', '/i/', '/o/', '/a/', '/e/'}
 
 
@@ -105,7 +105,7 @@ print()
 
 for lang_code, missing_phns in sorted(specific_needs.items(), key=lambda it:POPULATIONS[it[0]][1], reverse=True)[:10]:
 	phn_list = ", ".join(missing_phns[:-1])+", or "+missing_phns[-1] if len(missing_phns)>1 else missing_phns[0]
-	print("{} doesn't have {}".format(language_names[lang_code], phn_list))
+	print("{} ({}) doesn't have {}".format(language_names[lang_code], lang_code, phn_list))
 
 print()
 
