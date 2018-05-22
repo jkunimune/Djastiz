@@ -1,7 +1,7 @@
-"us-here; first person dual inclusive; the speaker and the listener",me you
-"us; first person plural exclusive; the speaker and others",me it
-"y'all; second person plural; the listener and others",you it
-"us-all; first person plural inclusive; the speaker, the listener, and others",me you it
+"us; first person plural; multiple entities including the speaker",me me
+"y'all; second person plural; multiple entities including the listener but not the speaker",you you
+"them; third person plural; multiple entities including neither the speaker nor listener",it it
+"other; reciprocal",not it
 "bless; yay; okay; positive exclamative mood",like wow
 "fuck; boo; not; negative exclamative mood",dislike wow
 "Afro-Eurasia",Eurasia Africa
@@ -59,6 +59,7 @@
 "cat",human feline
 "dog",human canine
 "subcontinent (e.g. Europe, South Asia)",small continent
+"oasis; watering hole",water point
 "dream",sleep passive-perceive
 "map",topography image
 "map-projection",map one what by transform
@@ -118,6 +119,7 @@
 "tounge",taste gland
 "skin",tactility gland
 "mouth",speech gland
+"brain",ponder gland
 "polytheism",many god
 "monothiesm",1 god
 "athiesm",zero god
@@ -143,3 +145,17 @@
 "be found; OBJ knows where SBJ is",where appear
 "go through; OBJ moves into and then out of IND (tube; hallway; corridor)",enter exit
 "travel; SBJ travels from IND to OBJ (destination; getaway)",where go
+"society",person network
+"economy",buy system
+"advertise; SBJ (advertiser) advertises IND (advertisement) to OBJ (advertisee)",buy show
+"physics",space study
+"chemistry; material science",material study
+"biology",life study
+"psychology",think study
+"sociology",society study
+"economics",economy study
+"history",past study
+"linguistics",language study
+"pedagogy",learn study
+"computer science",computer study
+"theology",god study
