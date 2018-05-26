@@ -8,7 +8,7 @@
 "The Americas",North-America South-America
 "The West",Europe US-Canada
 "Latin America",Central-America South-America
-"The Muslim World"Middle-East North-Africa South-Asia
+"The Muslim World",Middle-East North-Africa South-Asia
 "say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",
 "ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",
 "tell; implore; command; instruct; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",
@@ -20,28 +20,11 @@
 "conlang",design language
 "auxlang",international language
 "artlang",art language
-"can",do possible
-"appear; SBJ starts being somewhere; antonym of ""disappear""",exist begin
-"disappear; SBJ ceases to be somewhere; antonym of ""appear""",exist end
-"sink (crouch)",low begin
-"rise (jump)",high begin
-"get-behind",backward begin
-"get-in-front",forward begin
-"depart; go",far begin
-"approach; come",near begin begin
-"forgive",not angry begin
-"break (fall apart or crack)",broken begin
-"talk",communicate spoken-language
-"compose (prose)",communicate written-language
-"cause-to-break",break cause
-"lower",sink cause
-"raise",rise cause
-"heat",hot cause
-"keep-cool",cold cause
-"deliver (move the direct object to the indirect object)",go cause
-"arrange",index cause
-"obtain (the direct object from the indirect object)",possess begin
-"year",amount-of- periodic Earth
+"female; woman",vagina life
+"male; man",penis life
+"be feminine; OBJ (woman; girl) is feminine",vagina fill
+"be masculine; OBJ (man; boy) is masculine",penis fill
+"year",period Earth
 "date",day late
 "birthday",birth-give date
 "pass (go near something)",near go
@@ -102,11 +85,6 @@
 "pelvis; hips",torso bottom
 "tau; 6.283",circle number
 "pi; 3.142",tau over two
-"newborn; infant",human 1
-"baby; todler",human few
-"child; kid; adolescent; girl; boy",human bunch
-"adult; woman; man",human handful
-"elder; senior",human tons
 "bite; SBJ (biter) bites OBJ (bitten)",mouth squeeze
 "snore",sleep emit
 "pencil",rock writing-utensil

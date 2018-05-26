@@ -34,7 +34,7 @@ eng,cst,source
 "Italian; the language",italjano,ita itaˈljaːno
 "Japanese; the language",nihonko,jpn ɲihoŋɡo
 "Javanese; the language",tjolocowo,jav tjɔrɔ dʒɔwɔ
-"Korean; the language",
+"Korean; the language",hankuka,kor haːnɡuɡʌ
 "Latin; the language",linkwalatina,lat ˈlɪŋɡʷa laˈtiːna
 "Lingua Franka Nova; the language",elefen,lfn elefen
 "Lojban; the language",locpan,ljb ˈloʒban
@@ -88,7 +88,7 @@ eng,cst,source
 "Middle East; the subcontinent",
 "US-Canada; the subcontinent",
 "Hawai'i; the archipelago; the island; the state; the county",hawaji,haw həˈvɐjʔi
-"Abkhazia; the country",
+"Abkhazia; the country",apseni,abk apʰsˈnɨ
 "Afghanistan; the country",afhaniston,prs avɣɒnestɒn
 "South Africa; the country",umsansi,xho umz̤antsʼi
 "Albania; the country",ickipali,alb ʃcipəɾi
@@ -101,10 +101,10 @@ eng,cst,source
 "Australia; the country",astwajlja,eng əˈstɹæɪ̯ljə
 "Austria; the country",ewstahaic,deu øːstɐʁaɪç
 "Azerbaijan; the country",asalpajcan,ɑzæɾbɑjdʒɑn
-"The Bahamas; the country",
+"The Bahamas; the country",pahamas,eng bəˈhɑːməz
 "Bahrain; the country",albahlajn,ara albaħrajn
 "Bangladesh; the country",panlatec,ben baŋlad̪eʃ
-"Barbados; the country",
+"Barbados; the country",papejtos,bjs bɑːɹˈbeɪ̯dɒs
 "Belarus; the country",pjelalus,bel bʲɛlarusʲ
 "Belgium; the country",pelkia,nld bɛlɣijə
 "Belize; the country",palis,eng bəˈliːz
@@ -119,7 +119,7 @@ eng,cst,source
 "Burkina Faso; the country",pulkinafaso,mos burkina faso
 "Burundi; the country",pulantiti,run buɾantidi
 "Cambodia; the country",kampukia,khm kɑmpuciə
-"Cameroon; the country",
+"Cameroon; the country",kamhun,fra kamʁun
 "Canada; the country",kanata,eng ˈkænədə
 "Cape Verde; the country",kapufelti,por kaβu veɾðɨ
 "Central African Republic; the country",sanhafhik,fra sɑ̃tʁafʁik
@@ -130,9 +130,9 @@ eng,cst,source
 "Comoros; the country",komoli,zdj komori
 "Democratic Repubic of the Congo; the country",konkokencasa,fra kɔ̃ɡo kɛ̃ʃaza
 "Republic of the Congo; the country",konkophasafil,fra kɔ̃ɡo bʁazavil
-"Cook Islands; the country",
+"Cook Islands; the country",kukajlan,eng ˈkʊk ˈaɪləndz
 "Costa Rica; the country",kostalika,spa kosta rika
-"Côte d'Ivoire; the country",
+"Côte d'Ivoire; the country",kotifwah,fra kot divwaʁ
 "Croatia; the country",helwataska,hrv xr̩ʋaːtskaː
 "Cuba; the country",kupa,spa kuβa
 "Cyprus; the country",kiplos,ell kipros
@@ -158,12 +158,12 @@ eng,cst,source
 "Germany; the country",tojclan,deu ˈdɔʏtʃlant
 "Ghana; the country",kana,aka gaːnæ
 "Greece; the country",elasa,ell elaða
-"Greenland; the country",
+"Greenland; the country",kalaslitnunat,kal kalaːɬit nunaːt
 "Grenada; the country",kwanejta,eng ɡɹəˈneɪ̯də
-"Guatemala; the country",
+"Guatemala; the country",kwatemala,spa gwateˈmala
 "Guinea; the country",kine,ful gine
 "Guinea-Bissau; the country",kinepisaw,pov ɡinɛ bisaw
-"Guyana; the country",
+"Guyana; the country",kajana,eng ɡaɪ̯ˈɑːnə
 "Haiti; the country",ajti,hat ajiti
 "Honduras; the country",ontulas,spa onˈduɾas
 "Hungary; the country",mokololsak,hun mɒɟɒrorsaːɡ
@@ -205,7 +205,7 @@ eng,cst,source
 "Mali; the country",mali,bam mali
 "Malta; the country",malta,mlt mɐltɐ
 "Marshall Islands; the country",masjel,mah mˠɑzʲɛ͡ʌɫ
-"Mauritania; the country",
+"Mauritania; the country",mulitania,ara muːriːtaːnijaː
 "Mauritius; the country",mohis,mfe moʁis
 "Mexico; the country",mehiko,spa ˈmexiko
 "Micronesia; the country",majkwonica,eng maɪ̯kɹoʊ̯ˈniːʒə
@@ -224,10 +224,10 @@ eng,cst,source
 "Nicaragua; the country",nikalakwa,spa nikaˈɾaɣwa
 "Niger; the country",nical,hau niːʒaɽ
 "Nigeria; the country",najcilia,eng naɪ̯ˈdʒɪɹ̩iə
-"Niue; the country",
+"Niue; the country",niwe,niu niweː
 "Norway; the country",nolka,nor noɾɡə
 "Oman; the country",human,ara ʕʊmaːn
-"South Ossetia; the country",
+"South Ossetia; the country",alonson,oss ˈalonston
 "Pakistan; the country",pakistan,pan pɑːkɪst̪ɑːn
 "Palau; the country",palaw,eng pəˈlaʊ̯
 "Palestine; the country",filastin,ara filastˁiːn
@@ -265,7 +265,7 @@ eng,cst,source
 "Sri Lanka; the country",islilankawa,sin sriː laŋkaːʋa
 "Sudan; the country",asutan,ara assuːdaːn
 "South Sudan; the country",paguotutan,din paguot t̪uda̤n
-"Suriname; the country",
+"Suriname; the country",sulinama,nld ˌsyːriˈnaːmə
 "Swaziland; the country",eswatini,ssw ɛswatʼini
 "Sweden; the country",swalia,swe svæːrijə
 "Switzerland; the country",cwajs,deu ʃvaɪ̯ts
