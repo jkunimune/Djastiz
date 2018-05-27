@@ -32,9 +32,63 @@ For now, Musical Djastiz solely uses the Latin Alphabet. I'll design something p
 
 [1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
 
+## Vocabulary
+
+There are three broad classes of word in Chastisun: nouns, verbs, and particles. Each of these can be further subdivided into smaller categories that behave differently.
+
+### Verbs
+
+As previously stated, verbs are used to create predicates. The list of all verbs is present in this repository at [verb.csv](dictionary/verb.csv). There are two main classes of verb: _dynamic_ and _stative_.
+
+Dynamic verbs are more like the verbs an English-speaker might encounter in its own language. Each describes an action that changes with respect to time. The universe after the action occurs is typically different from the universe before.
+
+Stative verbs tend to share more in common with English adjectives than English verbs. They indicate that the subject has some state, which may or may not change as time passes. When the state has a numeric parameter, such as the latitude in `bav`, that number can be specified by the complement of `ia`, and the reference, or zero, can be specified by the direct object. Thus, `reidien ir ho ang ia filidelfia u bav`. When the state takes a non-numeric parameter, such as `thru`, the verb is a special kind of stative verb called a _copula_, and that parameter should be the object. When the state cannot be logically parametrised, it is called an _absolute_.
+
+### Nouns
+
+I actually have nothing more to say about nouns. They are completely intuitive and uninteresting words that seed noun phrases, though I suppose I should mention that you can find the full list in the file [noun.csv](dictionary/noun.csv), if you haven't guessed that yet.
+
+### Pseudowords
+
+_Pseudowords_ are common phrases that do not merit mention in a dictionary but do render as single words when written. These are the afforementioned relative verb noun definitions, the pronoun `f` modified by a relative clause with only a predicate. To save space, these may be written without whitespace between the characters. Thus, `f l u jeuth` may be written as a single word, `flujeuth`. They function just as nouns, as they would were the whitespace included. Pseudowords are very similar to _compound words_, but, as stated, are far too predictable and plentiful to be listed in a dictionary.
+
+### Compound words
+
+In addition to the basic, independent words, there are compound words. Compound words are formed by simply combining two or more preexisting words. A compound word may combine several common grammar tokens into a single word that has the same meaning as the combination of its parts, or it may combine two or more verbs, nouns, or pseudowords to create something new. In the latter case, the meaning and part of speech is closest to the second word, with the first word providing additional detail. There are thousands of them, supplying the many nuanced and specific concepts a complete langauge needs. The vast majority, however, are not documented here. That's because there are thousands of them, and I have a life. I recorded the ones I needed for various things in [compound_word.csv](dictionary/compound_word.csv), but I guess if you want to sing Djastiz, you can just come up with your own, provided they are logical. Submit a pull request if you think some compound word ought to be included in the main list. If it is a technical or regional term, though, beware, as a _loanword_ may be more appropriate.
+
+### Loanwords
+
+For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, the preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, while the United States of America could be described with the words `ngidh` and `flupshr`, the proper term in Djastiz is `iunaitedsteits`. Loanwords use the phonology of Modern Djastiz, and contain no tones save the `moja`.
+
+Like the compound words, the set of documented loanwords is not complete. They are meant to encompass the highly specific concepts that Djastiz cannot describe on its own, and thus to attempt to recond all of them in a Djastiz dictionary would be impossible. Instead, I have included some useful examples of loanwords in [loanword.csv](dictionary/loanword.csv).
+
+### Causation and transitivity
+
+It must be noted that, while in English, verbs often have multiple meanings for varying levels of transitivity (for example, the word "break" can mean either "to fall apart" or "to cause something else to fall apart"), in Djastiz, only the least transitive forms receive words. To describe a person causing something else to break, one must explicitly say, `sr e ingyeu u`, or the compound `sringyeu`. The purpose of this is to reduce ambiguity and redundancy. Two meanings are not necessary for this phenomenon, nor are two words. Furthermore, it prevents the occurrence of tritransitive and even potentially tetratransitive sentences (what if I were to mind-control your dog into forcing a child into making a vase break the plant inside it?), which would cause us to run out of argumentative prepositions. Therefore, if the transitivity of a Djastiz verb is unclear, always assume it to be as low as would make sense.
+
+### Conventions, measurements, and coordinate systems
+
+Djastiz indexes from zero. Obviously. `f o uf` can therefore translate to either "the first one" or "the second one" depending on how one does the translation. It literally means "the one that is number one", which would seem to imply "1°", or "first". However, in English, "first" refers to the instance that has no instances before it, whereas in Djastiz, `f o yu` refers to _that_ instance while `f o uf` refers to the one after it. A native Djastiz singer typically counts finite objects by first pointing outside of the set and saying `yu`, and then pointing sequentially to the spaces between objects and saying a new number each time. The number of objects in the set is the number one says when pointing past the last one, on the opposite side of the set at which one started. If you're really good at counting, you can skip the `yu`, but it's important to always point between the objects and not at them, as normal people would, so as not to confuse your indices. Why would we do something so unintuitive and unusual? You tell me: what's the seventh year of the fifth decade of the eleventh century?
+
+Djastiz also uses the metric system for all measurements of length, area, volume, mass, current, magnetic flux density, etc., with appropriate loanwords for each respective unit from French. Other units may, of course, be used, but metric is default. Djastiz does not, however, use the metric unit of time (seconds). Instead, times in Djastiz are typically represented in terms of powers of ten from the solar day. Unique words for the era (10<sup>5</sup> days, used for historical dates), the chunk (10<sup>3</sup> days, used for ages and long-term scheduling), the cycle (10<sup>1</sup> days, used for habitual and near-term scheduling), the day, the k&egrave; (10<sup>-2</sup> days, used for general scheduling), the span (10<sup>-3</sup> days, used for precise scheduling), and the snap (10<sup>-5</sup> days, used for human-perceptible timescales). The Gregorian calendar may be used with Latin loanwords for communicating with the outside world, or doing things that depend on the seasons. In case you were wondering, this time measurement system is called "Justin Time".
+
+One other way that Djastiz differs from measurements in English is its greater number of coordinate words. While in English, the words "up", "down", "left", and "right" can mean different things in different contexts, in Djastiz, the corresponding words are precise. For example, "up" with respect to an elevator in English means a linear axis perpendicular to the local gravitational equipotential. "Up" with respect to a page, though, in fact means an angular direction that can be linearly up if the page is on a wall or forward if the page is on a table. Djastiz has separate words for these concepts: `rd` for the linear dimension, and `ssri` for the angular dimension. Always take care when singing Djastiz to know whether to use Cartesian or spherical coordinates.
+
+One more difference between location description in English and Djastiz is the typical positive directions. These do not usually affect speech, since words exist for both directions on every axis, but these conventions are important for mathematicians and computer scientists. The positive directions for all of Djastiz's coordinate systems are as follows: forward in time, linear down, linear right, forward, outward, angular down, linear right, counterclockwise, south, and east. Note that while the positive direction for altitude is down, positive numbers are often used to describe height above sea level, and building floors still count upward.
+
 ## Grammar
 
-The grammar of Musical Djastiz is completely ripped from Modern Djastiz. I made some tweaks to ensure every sentence ends on a stable note, but other than that, I just let it be. Each Djastiz sentence has three basic parts: the _tense marker_ the series of _postpositional phrases_, and the _predicate_.
+The grammar of Chastisun is designed to be as simple as possible while enabling speakers to be either simple and vague or exact and precise at will. It can be summed up in the following way.
+             sentence :=  clause-phrase | (sentence-particle.simple noun-phrase)
+        clause-phrase := (sentence-particle)? (postpositional-phrase)* (verb-phrase)? (postpositional-phrase)*
+postpositional-phrase :=  complement-phrase postposition
+    complement-phrase :=  noun-phrase | clause-phrase
+          noun-phrase := (qualifier)? (noun | pronoun | relative-phrase | complement-phrase <no> | noun-phrase)*
+          verb-phrase :=  verb (verb.auxiliary)*
+      relative-phrase := (sentence-particle)? (postpositional-phrase)* (verb-phrase)? (postpositional-phrase)*
+    Coordination-rule : X-phrase := <bo>? X-phrase <an> X-phrase
+       Substance-rule : No phrase may be empty.
+  Incompleteness-rule : Any number of words can be removed from the start and end of a sentence as long as the meaning remains clear.
 
 ### Tense markers
 
@@ -155,50 +209,6 @@ Most of the words discussed thus far have fallen into categories and followed si
 Numbers can also be considered special words in that they concatenate with each other in a unique way. Quantities in Djastiz are described by a string of number words. The final quantity is obtained by summing all of the digits after applying a multiplier to each one greater than that of the next by a factor of the radix, which is ten by default. In other words, say a number in Djastiz by writing it in decimal notation and then reading off each digit in Djastiz in sequence. Extremely large and imprecise numbers can be described efficiently by dividing out a logical number of factors of the radix, and then appending the word `uo` and the number of powers divided. The decimal point is read `ho` and is placed among the digits as with standard numeral notation. Negative numbers should have `me` inserted at the beginning. Fractions can be expressed by describing the denominator as a unit. Finally, to use radices other than ten, precede the number with the base in Djastiz plus the word `adh`. There exist enough words to easily use any radix from two to sixteen. For larger radices, the radix is typically said in base ten, though if you want, I guess you can nest them, if you need to represent 3,723 in base 0x3C for some reason. Does that sound complicated? It isn't. Some examples will probably help. `ang od`, `uf po tho od`, `flushifpo ir rh rh`, `rh adh re ngu adh uf od re`  and `ev ho od rh re uf rh zha re yu po`.
 
 `skelf` is a bit of a meta-word. It tells the listener to ignore the previous few words sung. This is used exclusively for error correction, so it rarely comes up in writing.
-
-## Vocabulary
-
-In the grammar section, we defined every word in the language save two groups: verbs and nouns. There are far too many of either to list here &ndash; hundreds upon hundreds. Instead, I will lay out the tools to interpret new verbs and nouns and create new ones when necessary.
-
-### Verbs
-
-As previously stated, verbs are used to create predicates. The list of all verbs is present in this repository at [verb.csv](dictionary/verb.csv). There are two main classes of verb: _dynamic_ and _stative_.
-
-Dynamic verbs are more like the verbs an English-speaker might encounter in its own language. Each describes an action that changes with respect to time. The universe after the action occurs is typically different from the universe before.
-
-Stative verbs tend to share more in common with English adjectives than English verbs. They indicate that the subject has some state, which may or may not change as time passes. When the state has a numeric parameter, such as the latitude in `bav`, that number can be specified by the complement of `ia`, and the reference, or zero, can be specified by the direct object. Thus, `reidien ir ho ang ia filidelfia u bav`. When the state takes a non-numeric parameter, such as `thru`, the verb is a special kind of stative verb called a _copula_, and that parameter should be the object. When the state cannot be logically parametrised, it is called an _absolute_.
-
-### Nouns
-
-I actually have nothing more to say about nouns. They are completely intuitive and uninteresting words that seed noun phrases, though I suppose I should mention that you can find the full list in the file [noun.csv](dictionary/noun.csv), if you haven't guessed that yet.
-
-### Pseudowords
-
-_Pseudowords_ are common phrases that do not merit mention in a dictionary but do render as single words when written. These are the afforementioned relative verb noun definitions, the pronoun `f` modified by a relative clause with only a predicate. To save space, these may be written without whitespace between the characters. Thus, `f l u jeuth` may be written as a single word, `flujeuth`. They function just as nouns, as they would were the whitespace included. Pseudowords are very similar to _compound words_, but, as stated, are far too predictable and plentiful to be listed in a dictionary.
-
-### Compound words
-
-In addition to the basic, independent words, there are compound words. Compound words are formed by simply combining two or more preexisting words. A compound word may combine several common grammar tokens into a single word that has the same meaning as the combination of its parts, or it may combine two or more verbs, nouns, or pseudowords to create something new. In the latter case, the meaning and part of speech is closest to the second word, with the first word providing additional detail. There are thousands of them, supplying the many nuanced and specific concepts a complete langauge needs. The vast majority, however, are not documented here. That's because there are thousands of them, and I have a life. I recorded the ones I needed for various things in [compound_word.csv](dictionary/compound_word.csv), but I guess if you want to sing Djastiz, you can just come up with your own, provided they are logical. Submit a pull request if you think some compound word ought to be included in the main list. If it is a technical or regional term, though, beware, as a _loanword_ may be more appropriate.
-
-### Loanwords
-
-For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, the preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, while the United States of America could be described with the words `ngidh` and `flupshr`, the proper term in Djastiz is `iunaitedsteits`. Loanwords use the phonology of Modern Djastiz, and contain no tones save the `moja`.
-
-Like the compound words, the set of documented loanwords is not complete. They are meant to encompass the highly specific concepts that Djastiz cannot describe on its own, and thus to attempt to recond all of them in a Djastiz dictionary would be impossible. Instead, I have included some useful examples of loanwords in [loanword.csv](dictionary/loanword.csv).
-
-### Causation and transitivity
-
-It must be noted that, while in English, verbs often have multiple meanings for varying levels of transitivity (for example, the word "break" can mean either "to fall apart" or "to cause something else to fall apart"), in Djastiz, only the least transitive forms receive words. To describe a person causing something else to break, one must explicitly say, `sr e ingyeu u`, or the compound `sringyeu`. The purpose of this is to reduce ambiguity and redundancy. Two meanings are not necessary for this phenomenon, nor are two words. Furthermore, it prevents the occurrence of tritransitive and even potentially tetratransitive sentences (what if I were to mind-control your dog into forcing a child into making a vase break the plant inside it?), which would cause us to run out of argumentative prepositions. Therefore, if the transitivity of a Djastiz verb is unclear, always assume it to be as low as would make sense.
-
-### Conventions, measurements, and coordinate systems
-
-Djastiz indexes from zero. Obviously. `f o uf` can therefore translate to either "the first one" or "the second one" depending on how one does the translation. It literally means "the one that is number one", which would seem to imply "1°", or "first". However, in English, "first" refers to the instance that has no instances before it, whereas in Djastiz, `f o yu` refers to _that_ instance while `f o uf` refers to the one after it. A native Djastiz singer typically counts finite objects by first pointing outside of the set and saying `yu`, and then pointing sequentially to the spaces between objects and saying a new number each time. The number of objects in the set is the number one says when pointing past the last one, on the opposite side of the set at which one started. If you're really good at counting, you can skip the `yu`, but it's important to always point between the objects and not at them, as normal people would, so as not to confuse your indices. Why would we do something so unintuitive and unusual? You tell me: what's the seventh year of the fifth decade of the eleventh century?
-
-Djastiz also uses the metric system for all measurements of length, area, volume, mass, current, magnetic flux density, etc., with appropriate loanwords for each respective unit from French. Other units may, of course, be used, but metric is default. Djastiz does not, however, use the metric unit of time (seconds). Instead, times in Djastiz are typically represented in terms of powers of ten from the solar day. Unique words for the era (10<sup>5</sup> days, used for historical dates), the chunk (10<sup>3</sup> days, used for ages and long-term scheduling), the cycle (10<sup>1</sup> days, used for habitual and near-term scheduling), the day, the k&egrave; (10<sup>-2</sup> days, used for general scheduling), the span (10<sup>-3</sup> days, used for precise scheduling), and the snap (10<sup>-5</sup> days, used for human-perceptible timescales). The Gregorian calendar may be used with Latin loanwords for communicating with the outside world, or doing things that depend on the seasons. In case you were wondering, this time measurement system is called "Justin Time".
-
-One other way that Djastiz differs from measurements in English is its greater number of coordinate words. While in English, the words "up", "down", "left", and "right" can mean different things in different contexts, in Djastiz, the corresponding words are precise. For example, "up" with respect to an elevator in English means a linear axis perpendicular to the local gravitational equipotential. "Up" with respect to a page, though, in fact means an angular direction that can be linearly up if the page is on a wall or forward if the page is on a table. Djastiz has separate words for these concepts: `rd` for the linear dimension, and `ssri` for the angular dimension. Always take care when singing Djastiz to know whether to use Cartesian or spherical coordinates.
-
-One more difference between location description in English and Djastiz is the typical positive directions. These do not usually affect speech, since words exist for both directions on every axis, but these conventions are important for mathematicians and computer scientists. The positive directions for all of Djastiz's coordinate systems are as follows: forward in time, linear down, linear right, forward, outward, angular down, linear right, counterclockwise, south, and east. Note that while the positive direction for altitude is down, positive numbers are often used to describe height above sea level, and building floors still count upward.
 
 ## Gestures
 
