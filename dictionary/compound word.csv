@@ -1,6 +1,6 @@
-"us; first person plural; multiple entities including the speaker",me me
-"y'all; second person plural; multiple entities including the listener but not the speaker",you you
-"them; third person plural; multiple entities including neither the speaker nor listener",it it
+"us all; first person plural inclusive; the speaker, the listener, and possibly others",me you
+"us; first person plural exclusive; the speaker and others",me it
+"y'all; second person plural; the listener and others",you it
 "other; reciprocal",not it
 "bless; yay; okay; positive exclamative mood",like wow
 "fuck; boo; not; negative exclamative mood",dislike wow
