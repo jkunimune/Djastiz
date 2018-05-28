@@ -123,7 +123,7 @@
 "be found; OBJ knows where SBJ is",where appear
 "go through; OBJ moves into and then out of IND (tube; hallway; corridor)",enter exit
 "travel; SBJ travels from IND to OBJ (destination; getaway)",where go
-"society",person network
+"society",person system
 "economy",buy system
 "advertise; SBJ (advertiser) advertises IND (advertisement) to OBJ (advertisee)",buy show
 "physics",space study
@@ -137,3 +137,4 @@
 "pedagogy",learn study
 "computer science",computer study
 "theology",god study
+"satelite",human moon
