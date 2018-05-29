@@ -1,23 +1,25 @@
-"0; zero",
-"1; one",
-"2; two",
-"3; three",
-"4; four",
-"5; five",
-"6; six",
-"7; seven",
-"8; eight",
-"9; nine",
-"A; 10; ten; only used for duodecimal and hexadecimal",
-"B; 11; eleven; only used for duodecimal and hexadecimal",
-"C; 12; dozen; only used for hexadecimal",
-"D; 13; baker's dozen; only used for hexadecimal",
-"E; 14; fourteen; only used for hexadecimal",
-"F; 15; fifteen; only used for hexadecimal",
-"G; 16; only used to describe hexadecimal",
-"few; several; 2-radix",
+"0; zero",lin,cmn liŋ˧˥
+"1; one",kan,yor okan
+"2; two",hal,cmn ɤ˞˥˩
+"3; three",tin,mar tiːnə
+"4; four",cal,hin tɕʰaɾ
+"5; five",fif,eng faɪ̯v
+"6; six",mef,yor mefa
+"7; seven",saf,swa saba
+"8; eight",pah,cmn pa˥
+"9; nine",nof,spa ˈnweβe
+"A; 10; ten; only used for duodecimal and hexadecimal",kum,nya kʰu˨mi˨
+"B; 11; eleven; only used for duodecimal and hexadecimal",kah,hin gjɔɾəɦ
+"C; 12; dozen; only used for hexadecimal",pol,ben bɔro
+"D; 13; baker's dozen; only used for hexadecimal",tel,pan t̪eːɾɑːŋ
+"E; 14; fourteen; only used for hexadecimal",tol,spa kaˈtoɾse
+"F; 15; fifteen; only used for hexadecimal",kin,spa ˈkinse
+"G; 16; only used to describe hexadecimal",sol,ben sʰolo
+"several; few; handful; (1, radix]",
+"little; few",
+"much; many",
 "maximum; the absolute",
-"dot; radix point",
+"point; radix point",pon,eng pʰoɪ̯nt
 "magnitude; ×10^ (or ×12^, or whatever depending on the radix)",
 "radix",
 "minus; subtraction or negation",

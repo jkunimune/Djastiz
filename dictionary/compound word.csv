@@ -9,6 +9,9 @@
 "The West",Europe US-Canada
 "Latin America",Central-America South-America
 "The Muslim World",Middle-East North-Africa South-Asia
+"Sol; The Sun",person star
+"Luna; The Moon",person moon
+"Earth",person ground
 "say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",
 "ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",
 "tell; implore; command; instruct; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",

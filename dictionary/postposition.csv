@@ -1,12 +1,12 @@
 "of; -'s; genitive case; denotes modifier or associate",te,spa de
-"sbj; nominative case; denotes subject (COMPLEMENT:subject; agent|RELATIVE:who; themself)",pa,cmn pa˨˩˦
-"obj; accusative case; denotes direct object (COPMLEMENT:direct object; patient|RELATIVE:which; itself)",u,
-"ind; to; objective case; denotes indirect object (COMPLEMENT:indirect object; theme|RELATIVE:whom; whichself)",ke,cmn kej˨˩˦
-"than; as; partitive case; denotes amount (COMPLEMENT:amount; number; quantity; magnitude|RELATIVE:the amout that), extent, or quantity",ci,
-"at; on; in; dative case; denotes time or date (COMPLEMENT:time; date|RELATIVE:when|VERB:be at; coincide; OBJ happens at the same time as IND)",min,ara min
+"sbj; nominative case; denotes subject, agent, force (COMPLEMENT:subject; agent|RELATIVE:who; themself)",pa,cmn pa˨˩˦
+"obj; accusative case; denotes direct object, patient, stimulus (COPMLEMENT:direct object; patient|RELATIVE:which; itself)",u,
+"ind; to; objective case; denotes indirect object, recipient, experiencer, theme (COMPLEMENT:indirect object; theme|RELATIVE:whom; whichself)",ke,cmn kej˨˩˦
+"than; as; partitive case; denotes amount or degree (COMPLEMENT:amount; number; quantity; magnitude|RELATIVE:the amout that), extent, or quantity",ci,
+"at; on; in; dative case; denotes time (COMPLEMENT:time; date|RELATIVE:when|VERB:be at; coincide; OBJ happens at the same time as IND)",min,ara min
 "on; at; in; locative case; denotes location (COMPLEMENT:location; place|RELATIVE:where|VERB:be present; be; OBJ is present at IND)",ni,yor ni˦ 
-"via; with; through; instrumental case; denotes tool or medium (COMPLEMENT:tool; medium; instrument|RELATIVE:with which|VERB:use; work through; SBJ uses OBJ)",bi,ara bi
-"for; so; to; purposive case; denotes purpose or goal (COMPLEMENT:purpose; end; justification|RELATIVE:for which)",li,ara li
+"via; with; through; instrumental case; denotes instrument (COMPLEMENT:tool; medium; instrument|RELATIVE:with which|VERB:use; work through; SBJ uses OBJ)",bi,ara bi
+"for; so; to; purposive case; denotes purpose, goal, or beneficiary (COMPLEMENT:purpose; end; justification|RELATIVE:for which)",li,ara li
 "because; since; causal case; denotes cause (COMPLEMENT:cause; inciting event; agent|RELATIVE:because of which)",po,spa poɾ
 "if; for; conditional case; denotes hypothetical world (COMPLEMENT:condition; world|RELATIVE:for which)",,
-"by; as; instructive case; denotes method (COMPLEMENT:method; way; path; manner|RELATIVE:by which)",paj,eng bʌɪ̯
+"by; as; instructive case; denotes method or manner (COMPLEMENT:method; way; path; manner|RELATIVE:by which)",paj,eng bʌɪ̯
