@@ -46,6 +46,7 @@ Stative verbs tend to share more in common with English adjectives than English 
 
 ### Nouns
 
+If it is a binary state with no arguments, it should be a noun, not a verb.
 I actually have nothing more to say about nouns. They are completely intuitive and uninteresting words that seed noun phrases, though I suppose I should mention that you can find the full list in the file [noun.csv](dictionary/noun.csv), if you haven't guessed that yet.
 
 ### Pseudowords
@@ -80,12 +81,12 @@ One more difference between location description in English and Djastiz is the t
 
 The grammar of Chastisun is designed to be as simple as possible while enabling speakers to be either simple and vague or exact and precise at will. It can be summed up in the following way.
              sentence :=  clause-phrase | (sentence-particle.simple noun-phrase)
-        clause-phrase := (sentence-particle)? (postpositional-phrase)* (verb-phrase)? (postpositional-phrase)*
+        clause-phrase := (sentence-particle)? (postpositional-phrase)* (verb-phrase (postpositional-phrase)*)?
 postpositional-phrase :=  complement-phrase postposition
     complement-phrase :=  noun-phrase | clause-phrase
           noun-phrase := (qualifier)? (noun | pronoun | relative-phrase | complement-phrase <no> | noun-phrase)*
           verb-phrase :=  verb (verb.auxiliary)*
-      relative-phrase := (sentence-particle)? (postpositional-phrase)* (verb-phrase)? (postpositional-phrase)*
+      relative-phrase := (sentence-particle)? (postpositional-phrase | <l> postposition)* (verb-phrase (postpositional-phrase | <l> postposition)*)?
     Coordination-rule : X-phrase := <bo>? X-phrase <an> X-phrase
        Substance-rule : No phrase may be empty.
   Incompleteness-rule : Any number of words can be removed from the start and end of a sentence as long as the meaning remains clear.
@@ -197,6 +198,10 @@ There exists one major deviation from the rules laid out here, which exists as m
 |**2**|  N/A  | `r ia`| `u ia`| `u i` |
 |**3**|  N/A  |  N/A  |`r u ia`|`u i ia`|
 |**4**|  N/A  |  N/A  |  N/A  |`r u i ia`|
+
+### Numbers
+
+number := (number <rad>)? <neg>? (digit)* (<paw> number)?
 
 ### Special words
 

@@ -4,17 +4,16 @@
 "other; reciprocal",not it
 "bless; yay; okay; positive exclamative mood",like wow
 "fuck; boo; not; negative exclamative mood",dislike wow
-"Afro-Eurasia",Eurasia Africa
-"The Americas",North-America South-America
 "The West",Europe US-Canada
 "Latin America",Central-America South-America
 "The Muslim World",Middle-East North-Africa South-Asia
-"Sol; The Sun",person star
+"Sol; The Sun",person sun
 "Luna; The Moon",person moon
 "Earth",person ground
+"use internet; be wireless; be cyber; be crypto",computer communicate
 "say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",
 "ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",
-"tell; implore; command; instruct; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",
+"tell; implore; command; instruct; lead; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",
 "request; SBJ (requester) politely asks IND (requestee) to make OBJ (request) happen",
 "dictionary",word one-to-which- list
 "alphabet",letter one-that- obj set
@@ -30,9 +29,26 @@
 "year",period Earth
 "date",day late
 "birthday",birth-give date
+"morning; 00:00–12:00 or ;00–;50",before time
+"daytime; 06:00–18:00 or ;25–;75 or whenever the sun is up",sun time
+"evening; 12:00–00:00 or ;50–;00",after time
+"nighttime; 18:00–06:00 or ;75-;25 or whenever the sun is down",moon time
+"spring",start season
+"summer",hot season
+"autumn",stop season
+"winter",cold season
+"today",this day
+"yesterday",previous day
+"tomorrow",next day
+"this year",this year
+"last year",previous year
+"next year",next year
 "pass (go near something)",near go
 "recommend",should say
 "bake",dry cook
+"lick; SBJ (licker) licks OBJ (licked)",tounge rub
+"suck; SBJ (sucker) sucks on OBJ (sucked)",mouth rub
+"sand; SBJ (sander) sands OBJ (sanded)",powder rub
 "car; truck",ground vehicle
 "boat",sea vehicle
 "plane",air vehicle
@@ -60,7 +76,6 @@
 "national; SBJ (national) identifies as part of OBJ (nation; tribe; clan; e.g. Kurdistan, Tibet)",culture join
 "citizen; SBJ (citizen) legally belongs to OBJ (state; sovereign; polity; e.g. India, The Vatican)",govern join
 "tempt; entice to something appealing but immoral; SBJ (tempter; temptress) encourages IND (temptee) to do OBJ (temptation)",evil suggest
-"blood",live liquid
 "water; dihydrogen monoxide",life liquid
 "air; atmosphere; nitrogen and oxygen and all that jazz",Earth gas
 "lava; magma",earth liquid
@@ -79,6 +94,26 @@
 "diamond",transparent crystal
 "glass; window",transparent rock
 "graphite",pencil rock
+"ink",write liquid
+"paper",write sheet
+"canvas",art sheet
+"ceramic",person rock
+"sand; dust",rock powder
+"gravel; course sand",rock pile
+"blood",red bodily-fluid
+"urine; pee",yellow bodily-fluid
+"pus",white bodily-fluid
+"saliva",mouth bodily-fluid
+"sweat",skin bodily-fluid
+"tears",eye bodily-fluid
+"feces; excrement; poop",solid bodily-fluid
+"expectorate; spit; salivate; SBJ spits",saliva make
+"cry; weep; sob",tears make
+"sweat; SBJ sweats",sweat make
+"defecate; poop",feces make
+"urinate; pee",urine make
+"diarrhea",liquid feces
+"pimple",pus container
 "hand",arm knob
 "foot",leg knob
 "shoulder",arm joint
@@ -101,13 +136,14 @@
 "skin",tactility gland
 "mouth",speech gland
 "brain",ponder gland
-"polytheism",many god
+"lightning",sky electricity
+"polytheism; pantheon",many god
 "monothiesm",1 god
-"athiesm",zero god
+"athiesm",0 god
 "agnosticism; secularism; religious nonaffiliation",not god
 "flag; banner",cloth symbol
 "revolution",short change
-"rice",grain bits
+"rice",grain pile
 "bread",grain foam
 "banana",stick fruit
 "shirt; top",torso clothes
@@ -140,4 +176,19 @@
 "pedagogy",learn study
 "computer science",computer study
 "theology",god study
+"eat breakfast; SBJ (fast-breaker) eats OBJ (breakfast) (TIME:breakfast time)",before eat
+"eat brunch; SBJ (bruncher) eats OBJ (brunch) (TIME:brunchtime)",be-before sun eat
+"eat lunch; SBJ (luncher) eats OBJ (lunch) (TIME:lunchtime)",sun eat
+"eat merienda; lunch late; eat linner; SBJ (late luncher) eats OBJ (late lunch; linner) (TIME:linnertime)",after sun eat
+"eat supper; eat dinner; SBJ (diner; supper) eats OBJ (dinner; supper)",be-after eat
+"eat dessert; eat midnight snack; SBJ (dessert) eats OBJ (dessert; midnight snack)",moon eat
+"dine out; SBJ (diner) buys OBJ (restaurant meal) from IND (restaurant; server)",eat buy
 "satelite",human moon
+"millimetre",×10^ - 3 metre
+"centimetre",×10^ - 2 metre
+"kilometre",×10^ 3 metre
+"millilitre",×10^ - 3 litre
+"milligram",×10^ - 6 kilogram
+"gram",×10^ - 3 kilogram
+"tonne",×10^ 3 kilogram
+"project",big job

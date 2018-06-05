@@ -59,10 +59,11 @@ eng,cst,source
 "Urdu; the language",ultu,urd ˈʊrd̪uː
 "Vietnamese; the language",tianfiat,vie tiə̯ŋ˧˥ viɜ̯ʔt˧˨
 "Wu Chinese; the language",hunju,wuu ɦu˨ ɲy˦
-"Xhosa; the language",isiklosa,xho isikǁʰɔː˦sa
+"Xhosa; the language",isiklosa,xho i˨si˨kǁʰɔː˦sa˨
 "Yoruba; the language",etejolupa,yor e˨de˨ jo˧ɾu˨ba˦
 "Yue Chinese; Cantonese; the language",jut,yue jyːt̚˧˥
 "Zulu; the language",isisulu,zul isiˈzuːlu
+"The World Wide Web; The Internet; The Cloud",
 "The Antarctic Ocean; the ocean",
 "The Arctic Ocean; the ocean",
 "The Atlantic Ocean; the ocean",
@@ -71,9 +72,11 @@ eng,cst,source
 "The Mediterranean Sea; the ocean",
 "The Gulf of Mexico; the ocean",
 "The Pacific Ocean; the ocean",
+"Afro-Eurasia; the landmass",
+"America; the landmass",lasamelikas,spa las aˈmeɾikas
 "Africa; the continent",
-"North America; the continent",
-"South America; the continent",
+"North America; the continent",noltamelika,eng nɔɹθ əˈmɛɹɪkə
+"South America; the continent",sultamelika,por aˈmɛɾika du sul
 "Antarctica; the landmass; the continent",
 "Eurasia; the continent",
 "Oceania; the continent",
@@ -87,8 +90,6 @@ eng,cst,source
 "Europe; the subcontinent",
 "Middle East; the subcontinent",
 "US-Canada; the subcontinent",
-"Hawai'i; the archipelago; the island; the state; the county",hawaji,haw həˈvɐjʔi
-"Abkhazia; the country",apseni,abk apʰsˈnɨ
 "Afghanistan; the country",afhaniston,prs avɣɒnestɒn
 "South Africa; the country",umsansi,xho umz̤antsʼi
 "Albania; the country",ickipali,alb ʃcipəɾi
@@ -136,7 +137,6 @@ eng,cst,source
 "Croatia; the country",helwataska,hrv xr̩ʋaːtskaː
 "Cuba; the country",kupa,spa kuβa
 "Cyprus; the country",kiplos,ell kipros
-"Northern Cyprus; the country",kusejkuplus,tur kuzej kɯbɾɯs
 "Czech Republic; the country",cesko,ces tʃɛsko
 "Denmark; the country",tanmak,dan danmɑɡ
 "Djibouti; the country",caputi,som dʒæbuːt
@@ -185,7 +185,6 @@ eng,cst,source
 "Kiribati; the country",kilipas,gil kiɾipas
 "North Korea; the country",pukcosan,kor puktɕosʰʌn
 "South Korea; the country",namhan,kor namɦan
-"Kosovo; the country",kosofa,sqi kɔsɔva
 "Kuwait; the country",alkuajt,ara alkuwajt
 "Kyrgyzstan; the country",kulhustan,kir qɯrʁɯsstɑn
 "Laos; the country",law,lao laːw˦˥
@@ -227,10 +226,8 @@ eng,cst,source
 "Niue; the country",niwe,niu niweː
 "Norway; the country",nolka,nor noɾɡə
 "Oman; the country",human,ara ʕʊmaːn
-"South Ossetia; the country",alonson,oss ˈalonston
 "Pakistan; the country",pakistan,pan pɑːkɪst̪ɑːn
 "Palau; the country",palaw,eng pəˈlaʊ̯
-"Palestine; the country",filastin,ara filastˁiːn
 "Panama; the country",panama,spa panaˈma
 "Papua New Guinea; the country",papuanjukini,tpi papua njugini
 "Paraguay; the country",palakwaj,paɾaˈɣwaj
@@ -242,7 +239,6 @@ eng,cst,source
 "Romania; the country",lominia,ron romɨˈnia
 "Russia; the country",lasjia,rus rɐˈsʲijə
 "Rwanda; the country",ulkwanta,kin uɾɡwanda
-"Sahrawi Arab Democratic Republic; the country",asahlawiah,ara asˤsˤaħraːwiːjah
 "Saint Kitts and Nevis; the country",senkitsanifis,aig sɛnt kits ɑːn nivis
 "Saint Lucia; the country",senlisi,acf sɛnt lisi
 "Saint Vincent and the Grenadines; the country",sejnfinsan,eng seɪ̯nt ˈvɪnsənt
@@ -270,7 +266,6 @@ eng,cst,source
 "Sweden; the country",swalja,swe ˈsværjə
 "Switzerland; the country",cwajs,deu ʃvaɪ̯ts
 "Syria; the country",sulia,ara suːrijaː
-"Taiwan; the country",tajwan,cmn tʰaɪ̯˧˥wan˥
 "Tajikistan; the country",tocikiston,tgk tɔːdʒikistɔːn
 "Tanzania; the country",tansania,swa tɑnzɑˈniɑ
 "Thailand; the country",taj,tha tʰaj˧
@@ -297,6 +292,14 @@ eng,cst,source
 "Yemen; the country",aljaman,ara aljaman
 "Zambia; the country",sampja,eng ˈzæmbiə
 "Zimbabwe; the country",simpapwe,sna zimbabwe
+"Abkhazia; the disputed territory",apseni,abk apʰsˈnɨ
+"Northern Cyprus; the disputed territory",kusejkuplus,tur kuzej kɯbɾɯs
+"Kosovo; the disputed territory",kosofa,sqi kɔsɔva
+"South Ossetia; the disputed territory",alonson,oss ˈalonston
+"Palestine; the disputed territory",filastin,ara filastˁiːn
+"Sahrawi Arab Democratic Republic; the disputed territory",asahlawiah,ara asˤsˤaħraːwiːjah
+"Taiwan; the disputed territory",tajwan,cmn tʰaɪ̯˧˥wan˥
+"Hawai'i; the archipelago; the island; the state; the county",hawaji,haw həˈvɐjʔi
 "Babylon; the city",
 "Beijing; the city",
 "Białystok; the city",pjawistok,pol bʲaˈwɨstɔk
@@ -349,6 +352,7 @@ eng,cst,source
 "meter; the unit of length",methe,fra ˈmɛtʁ
 "liter; the unit of volume",lithe,fra ˈlitʁ
 "kilogram; the unit of mass",kiloham,fra ˈkilɔɡʁam
+"°C; the unit of temperature",selsjus,swe ˈsɛːlsjʊs
 "ke; the unit of time",kao,cmn kʰɤ˨˩
 "span; the unit of time",espan,eng spæn
 "snap; the unit of time",esnapa,eng snæp

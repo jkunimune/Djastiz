@@ -1,10 +1,9 @@
 "which; that; relative",l
-"general; nothing; indeterminate",t
 "what; what kind; interrogative",ha,cmn hɤ˩˧
 "something; one; impersonal; a noun not afformentioned",una,spa una
-"me; first person; the speaker",wo,cmn wo˨˩˦
+"me; first person; proximal; the speaker",wo,cmn wo˨˩˦
 "you; second person; the listener",ni,cmn ni˨˩˦
-"it; he; she; them; the; third person; a previously mentioned noun phrase",ta,cmn tʰa˥
-"this; proximal demonstrative; a noun physically or temporally near the speaker",weso,spa ˈeso
-"that; medial demonstrative; a noun physically or temporally near the listener",neso,spa ˈeso
-"that over there; distal demonstrative; a noun near neither the speaker nor listener",teso,spa ˈeso
+"it; him; her; them; the; that; there; then; the; third person; anaphora; determinate; distal demonstrative; a previously mentioned noun phrase that is neither the speaker nor listener",ta,cmn tʰa˥
+"this; here; now; proximal demonstrative; origo; associated with the time and place of the utterance; opposite of ""it""",
+"next; positive temporal demonstrative",
+"previous; negative temporal demonstrative; opposite of ""next""",

@@ -1,4 +1,4 @@
-"0; zero",lin,cmn liŋ˧˥
+"0; zero (CARDINAL:zero; zero of|ORDINAL:zeroth)",lin,cmn liŋ˧˥
 "1; one",kan,yor okan
 "2; two",hal,cmn ɤ˞˥˩
 "3; three",tin,mar tiːnə
@@ -15,13 +15,12 @@
 "E; 14; fourteen; only used for hexadecimal",tol,spa kaˈtoɾse
 "F; 15; fifteen; only used for hexadecimal",kin,spa ˈkinse
 "G; 16; only used to describe hexadecimal",sol,ben sʰolo
-"several; few; handful; (1, radix]",
-"little; few",
-"much; many",
-"maximum; the absolute",
-"point; radix point",pon,eng pʰoɪ̯nt
-"magnitude; ×10^ (or ×12^, or whatever depending on the radix)",
+"little; few (CARDINAL:a little bit; a few; a few of)",
+"several; some; few; handful; (1, radix]",
+"much; many; opposite of ""little""",
+"maximum; the absolute; opposite of ""0""",tun,
+"point; radix point",pojn,eng pʰoɪ̯nt
+"×10^ (or ×12^, or whatever depending on the radix)",
 "radix",
-"minus; subtraction or negation",
-"plus; addition",
+"-; minus; negative",
 "over; division; fraction",
