@@ -81,15 +81,15 @@ One more difference between location description in English and Djastiz is the t
 
 The grammar of Chastisun is designed to be as simple as possible while enabling speakers to be either simple and vague or exact and precise at will. It can be summed up in the following way.
              sentence :=  clause-phrase | (sentence-particle.simple noun-phrase)
-        clause-phrase := (sentence-particle)? (postpositional-phrase)* (verb-phrase (postpositional-phrase)*)?
-postpositional-phrase :=  complement-phrase postposition
-    complement-phrase :=  noun-phrase | clause-phrase
-          noun-phrase := (qualifier)? (noun | pronoun | relative-phrase | complement-phrase <no> | noun-phrase)*
-          verb-phrase :=  verb (verb.auxiliary)*
-      relative-phrase := (sentence-particle)? (postpositional-phrase | <l> postposition)* (verb-phrase (postpositional-phrase | <l> postposition)*)?
-    Coordination-rule : X-phrase := <bo>? X-phrase <an> X-phrase
-       Substance-rule : No phrase may be empty.
-  Incompleteness-rule : Any number of words can be removed from the start and end of a sentence as long as the meaning remains clear.
+    clause-phrase := (sentence-particle)? (postpos-phrase)\* (verb-phrase (postpos-phrase)\*)?
+   postpos-phrase :=  complement-phrase postposition
+complement-phrase :=  noun-phrase | clause-phrase
+      noun-phrase := (qualifier)? (noun | pronoun | relative-phrase | complement-phrase <no> | noun-phrase)\*
+      verb-phrase :=  verb (verb.auxiliary)\*
+  relative-phrase := (sentence-particle)? (postpos-phrase)\* (verb-phrase (postpos-phrase)\*)? (<l> postposition)?
+Coordination-rule : X-phrase := <bo>? X-phrase <an> X-phrase
+   Substance-rule : No phrase may be empty.
+   Trail-off-rule : Any number of words can be removed from the start and end of a sentence as long as the meaning remains clear.
 
 ### Tense markers
 

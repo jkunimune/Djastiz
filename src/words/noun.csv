@@ -1,18 +1,19 @@
+eng,cst,source
 "notion; idea; not necessarily true or objective",
 "person; woman; man; human",
 "beast; non-human animal; opposite of ""person""",
-"baby",
+"baby",kukam,ono guː gaː
 "senior citizen; elder; a _really_ old person; opposite of ""baby""",
 "specialist; personel; qualified",
 "layperson; civilian; customer; opposite of ""specialist""",
 "light",
-"sight; two-dimensional angular array of input values",
+"sight; representation of 3D space as 2D angular array of vectors",
 "sound",
 "tactility; touch",
 "scent",
 "flavor",
-"speech; spoken language",
-"literature; written language",
+"speech; voice; spoken language",
+"text; literature; written language",
 "god; deity; a general term, not a reference to any particular god",
 "ground; planet",
 "cosmos; outer space; opposite of ""ground""",
@@ -119,28 +120,22 @@
 "plant",
 "fungus",
 "primate; monkey; ape",kukim,ono u ki ki
-"scandentia; treeshrews",
-"lagomorpha; rabbits, hares, pikas",
-"rodent",
-"euliptyphla; hedgehogs, moles, shrews, and a few other rodent-like things",
-"chiroptera; bats and flying foxes",
+"rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew",
+"bat; flying fox",
 "pangolin",
-"feline; cat",mjawf,ono mjaw
-"canine; dog; wolf; dingo; and fox",pawawf,ono baw waw wof
+"felid; cat",mjawf,ono mjaw
+"canid; dog; wolf; dingo; and fox",pawawf,ono baw waw wof
 "bear",
 "seal; includes walruses and maybe sea lions I think?",
-"red-panda",
-"skunk",
-"procyonidae; raccoons, coatis, kinkajous, olingos, olinguitos, ringtails, and cacomistles",
-"mustelidae; weasels, badgers, otters, martens, ferrets, minks, stoats, and wolverines",
-"horse; zebra; wild butt",hihin,ono hi hi
+"musteloidea; red panda; skunk; raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine",
+"equid; horse; zebra; wild butt",hihin,ono hi hi
 "tapir",
 "rhinoceros",
-"tylopoda; camels and llamas",
-"pig",
+"camelid; camel; llama; alpaca; guanaco",
+"suid; boar; pig",
 "chevrotain",
 "giraffe; and okapi",
-"bovine; cow; buffalo; antelope; sheep; goat",mum,ono muː
+"bovid; cow; buffalo; antelope; sheep; goat",mum,ono muː
 "hippopotamus",
 "whale; also refers to dolphins and porpoises",
 "armadillo",

@@ -1,3 +1,4 @@
+eng,cst,source
 "0; zero (CARDINAL:zero; zero of|ORDINAL:zeroth)",lin,cmn liŋ˧˥
 "1; one",kan,yor okan
 "2; two",hal,cmn ɤ˞˥˩
@@ -18,7 +19,7 @@
 "little; few (CARDINAL:a little bit; a few; a few of)",
 "several; some; few; handful; (1, radix]",
 "much; many; opposite of ""little""",
-"maximum; the absolute; opposite of ""0""",tun,
+"absolute; maximum; opposite of ""0""",tun,
 "point; radix point",pojn,eng pʰoɪ̯nt
 "×10^ (or ×12^, or whatever depending on the radix)",
 "radix",

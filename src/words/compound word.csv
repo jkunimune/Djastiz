@@ -1,9 +1,12 @@
+eng,cst,source
 "us all; first person plural inclusive; the speaker, the listener, and possibly others",me you
 "us; first person plural exclusive; the speaker and others",me it
 "y'all; second person plural; the listener and others",you it
 "other; reciprocal",not it
 "bless; yay; okay; positive exclamative mood",like wow
 "fuck; boo; not; negative exclamative mood",dislike wow
+"The Antarctic Ocean; the ocean",Antarctica sea
+"The Arctic Ocean; the ocean",The-Arctic sea
 "The West",Europe US-Canada
 "Latin America",Central-America South-America
 "The Muslim World",Middle-East North-Africa South-Asia
@@ -28,7 +31,7 @@
 "be masculine; OBJ (man; boy) is masculine",penis fill
 "year",period Earth
 "date",day late
-"birthday",birth-give date
+"birthday",birth date
 "morning; 00:00–12:00 or ;00–;50",before time
 "daytime; 06:00–18:00 or ;25–;75 or whenever the sun is up",sun time
 "evening; 12:00–00:00 or ;50–;00",after time
@@ -58,10 +61,12 @@
 "climb; SBJ (climber) climbs OBJ (ladder; handholds)",wall traverse
 "bathroom",clean room
 "butthole",feces hole
-"cat",human feline
-"dog",human canine
 "subcontinent (e.g. Europe, South Asia)",small continent
 "oasis; watering hole",water point
+"island",small landmass
+"lake; pond",pure sea
+"river; stream; brook",water line
+"waterfall",down river
 "dream",sleep passive-perceive
 "map",topography image
 "map-projection",map one what by transform
@@ -80,15 +85,14 @@
 "air; atmosphere; nitrogen and oxygen and all that jazz",Earth gas
 "lava; magma",earth liquid
 "oxygen",life gas
-"copper",old metal
+"copper",cyan metal
 "bronze",structurally-strong copper
 "iron",heavy metal
 "steel",structurally-strong iron
-"gold",wealth metal
+"gold",yellow metal
 "aluminum",lightweight metal
 "gunpowder",fire powder
 "oil; petroleum",fire liquid
-"steed; domesticated horse",human horse
 "quartz",white crystal
 "emerald",green crystal
 "diamond",transparent crystal
@@ -100,6 +104,10 @@
 "ceramic",person rock
 "sand; dust",rock powder
 "gravel; course sand",rock pile
+"mist",liquid powder
+"steam; any gas that would be liquid at room temperature",liquid gas
+"ice; frozen; any solid that would be liquid at room temperature",liquid solid
+"alcohol",fun liquid
 "blood",red bodily-fluid
 "urine; pee",yellow bodily-fluid
 "pus",white bodily-fluid
@@ -121,6 +129,32 @@
 "wrist",hand joint
 "ankle",foot joint
 "pelvis; hips",torso bottom
+"mouth",face hole
+"sensor; sense",perceive gland
+"eye",sight gland
+"ear",sound gland
+"nose",smell gland
+"tounge",taste gland
+"skin",tactility gland
+"voicebox",speech gland
+"brain",ponder gland
+"uterus",be-pregnant gland
+"cat",person felid
+"dog",person canid
+"horse",person equid
+"rabbit; hare",fast rodent
+"skunk",scent musteloidea
+"raccoon",black face musteloidea
+"camel",desert camelid
+"llama",mountain camelid
+"alpaca",fiber camelid
+"zebra",be-desaturated equid
+"pig",eat suid
+"cow",eat bovid
+"buffalo",strong bovid
+"antelope",fast bovid
+"sheep",hair bovid
+"goat",mountain bovid
 "tau; 6.283",circle number
 "pi; 3.142",tau over two
 "bite; SBJ (biter) bites OBJ (bitten)",mouth squeeze
@@ -128,14 +162,6 @@
 "pencil",rock writing-utensil
 "paint; SBJ (painter) paints OBJ (painting)",liquid draw
 "sculpt; etch; carve; SBJ (carver) carves OBJ (sculpture)",solid draw
-"sensor; sense",perceive gland
-"eye",sight gland
-"ear",sound gland
-"nose",smell gland
-"tounge",taste gland
-"skin",tactility gland
-"mouth",speech gland
-"brain",ponder gland
 "lightning",sky electricity
 "polytheism; pantheon",many god
 "monothiesm",1 god
@@ -183,7 +209,7 @@
 "eat supper; eat dinner; SBJ (diner; supper) eats OBJ (dinner; supper)",be-after eat
 "eat dessert; eat midnight snack; SBJ (dessert) eats OBJ (dessert; midnight snack)",moon eat
 "dine out; SBJ (diner) buys OBJ (restaurant meal) from IND (restaurant; server)",eat buy
-"satelite",human moon
+"satelite; artificial satelite",human moon
 "millimetre",×10^ - 3 metre
 "centimetre",×10^ - 2 metre
 "kilometre",×10^ 3 metre
@@ -192,3 +218,11 @@
 "gram",×10^ - 3 kilogram
 "tonne",×10^ 3 kilogram
 "project",big job
+"square; lot; park",city region
+"park",grass lot
+"screen",sight surface
+"video; movie; TV show",sight entertainment
+"music; song",sound entertainment
+"audiobook; radio",speech entertainment
+"literature; book; blog; web serial",text entertainment
+"theatre; play; performing arts",person entertainment

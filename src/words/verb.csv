@@ -1,3 +1,4 @@
+eng,cst,source
 "be true; yes; be right; be correct; be in progress; be happening; happen progressively; OBJ (state) is happening",
 "be false; no; be wrong; be incorrect; be not happening; OBJ is not happening; antonym of ""be true""",
 "happen; do; cause; pro-verb; SBJ (cause) causes OBJ (event; effect) to come true",
@@ -124,11 +125,10 @@
 "be skillful; be apt; be effective; be good; SBJ is good at causing OBJ (AMOUNT:skill level); antonym of ""be inept""",
 "be inept; be unskillful; be ineffective; be bad; SBJ is bad at causing OBJ; antonym of ""be skillful""",
 "work; productive; SBJ (worker) works to make OBJ (job; work) happen (LOCATION:workplace; workstation; office)",
-"index; SBJ has a position in OBJ (list; order) (AMOUNT:position; index)",
-"be next; follow; be right after; OBJ is next in IND (sequence)",
-"be previous; precede; be right before; OBJ is previous in IND; antonym of ""be next""",
-"proceed; the deixis origo shifts such that OBJ (procession; development) is now instead of next; cessative of ""be next""",
-"notice; OBJ is conciously aware of the presence of SBJ",
+"index; OBJ (item; element) has a position in IND (list; order; sequence) (AMOUNT:position; index)",
+"notice; OBJ (noticer) is conciously aware of the presence of SBJ (noticed)",
+"call attention; SBJ (attention caller) calls OBJ's attention to SBJ; incohative of ""notice""",
+"hide; obscure; SBJ (hider; obscurer) hides SBJ from OBJ; terminative of ""notice""",
 "denote; mean; SBJ (signal; word) means OBJ (definition; meaning)",
 "call; SBJ (caller) calls OBJ (callee) remotely and digitally",
 "relate; SBJ is genetically related to OBJ (relative; kin; blood)",
@@ -330,6 +330,7 @@
 "cool; of a color",
 "opaque",
 "transparent",
+"vibrant; diversity of color",
 "color; ojbect is a color value, not a number",
 "involve",
 "reach",
@@ -402,7 +403,10 @@
 "hot",
 "cold",
 "fun-have",
-"birth-give; the physical act",
+"be pregnant; be pregant; be gregnant; be pegnate; be pregegnant; be prregnant; be pergert; be pergenat; be peegnant; be pgrenant; be pregananant; OBJ is pregnant",
+"impregnate; inseminate; get pregnant; SBJ (impregnator) impregnates OBJ; incohative of ""be pregnant"" (TIME:conception)",
+"abort; get abortion; SBJ (aborter) gives OBJ an abortion (TIME:abortion); terminative of ""be pregnant""",
+"give birth; be born; SBJ (mother; biological mother) gives birth to OBJ (child; offspring; newborn) by IND (father; biological father)'s seed (TIME:birth)",mamap,ono mama baba
 "kill",
 "prosper; well; good; SBJ does well",
 "excuse; pardon; SBJ excuses OBJ",
@@ -420,7 +424,7 @@
 "yawn; SBJ (yawner) yawn",heaws,ono ˈhaː.aː
 "hiccup; SBJ (cursed with hiccups) hiccups",hikojk,ono hik
 "cough; SBJ (cougher) coughs",kahawk,ono ʡah
-"kiss; snog; make out; SBJ (kisser) kisses OBJ (kissee)",mwawp,ono mwa
+"kiss; snog; make out; SBJ (kisser) kisses OBJ (kissee)",mwap,ono mwa
 "swallow; suck; consume whole; SBJ (swallower) swallows OBJ (swallowed)",kulawp,ono glup glup
 "have sex; fuck; bang; nail; do; plow; ride",
 "feel; SBJ feels OBJ (emotion)",
@@ -459,7 +463,6 @@
 "torture; inflict pain; hurt; SBJ (torturer) makes OBJ feel pain in their IND",
 "sooth; stimulate; SBJ (soother) makes OBJ feel good in their IND",
 "substitute",
-"vibrant; diversity of color",
 "be represented; represent; OBJ (symbol; representative) conveys the essence of SBJ with its presence",
 "insert",
 "exclusive",
@@ -510,7 +513,7 @@
 "engineer; SBJ (engineer) uses technical skills and fine problem-solving to solve OBJ (technical problem)",
 "entrepreneur; SBJ (entrepreneur) uses ideation, people skills, and determination to solve OBJ (largescale problem)",
 "art-make",
-"magical",
+"be magical; SBJ (magician; sorcerer; wizard) makes OBJ (magic trick; spell) happen magically (TOOL:magic)",
 "freeze",
 "burn",
 "boil",

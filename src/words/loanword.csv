@@ -4,16 +4,16 @@ eng,cst,source
 "o; /o/; mid back rounded vowel; also J",o,lat oː
 "i; /i/; close front unrounded vowel",i,lat iː
 "u; /u/; close back rounded vowel",u,lat uː
-"j; /j/; palatal approximant",jota,grc iɔːta
-"l; /l/; alveolar lateral approximant",el,lat ɛl
-"w; /w/; labial-velar approximant",weta,grc bɛːta
-"n; /n/; alveolar nasal",ene,spa ene
-"m; /m/; labial nasal",eme,spa eme
-"h; /h/; glottal fricative",ha,lat haː
-"c; /ʃ/; post-alveolar affricate",ce,fra seː
-"s; /s/; alveolar fricative",es,lat ɛs
-"f; /f/; labial fricative",ef,lat ɛf
-"k; /k/; velar plosive; also U",ka,lat kaː
+"j; /j/; palatal approximant",jot,grc iɔːta
+"l; /l/; alveolar lateral approximant",lo,spa ele
+"w; /w/; labial-velar approximant",wet,grc bɛːta
+"n; /n/; alveolar nasal",no,spa ene
+"m; /m/; labial nasal",me,spa eme
+"h; /h/; glottal fricative",ho,lat haː
+"c; /tʃ/; post-alveolar affricate",co,spa se
+"s; /s/; alveolar fricative",se,spa ese
+"f; /f/; labial fricative",fe,spa efe
+"k; /k/; velar plosive; also U",ko,lat kaː
 "t; /t/; alveolar plosive",te,lat teː
 "p; /p/; bilabial plosive",pe,lat peː
 "Chastisun; the language",castisun
@@ -49,7 +49,7 @@ eng,cst,source
 "Shona; the language",cicona,sna tʃiʃona
 "Sotho; the language",sisutu,sot sɪ˨sʊ˦tʰʊ˨
 "Southern Min Chinese; the language",holowe,nan ho˧lo˧˥we˧
-"Spanish; the language",kastejano,spa kasteˈʝano
+"Spanish; the language",espanjol,spa espaˈɲol
 "Swahili; the language",swahili,swa swahili
 "Tamil; the language",tamil,tam t̪ɐmɨɻ
 "Telugu; the language",teluku,tel t̪el̪uɡu
@@ -63,22 +63,24 @@ eng,cst,source
 "Yoruba; the language",etejolupa,yor e˨de˨ jo˧ɾu˨ba˦
 "Yue Chinese; Cantonese; the language",jut,yue jyːt̚˧˥
 "Zulu; the language",isisulu,zul isiˈzuːlu
-"The World Wide Web; The Internet; The Cloud",
-"The Antarctic Ocean; the ocean",
-"The Arctic Ocean; the ocean",
-"The Atlantic Ocean; the ocean",
-"The Carribian Sea; the ocean",
-"The Indian Ocean; the ocean",
-"The Mediterranean Sea; the ocean",
-"The Gulf of Mexico; the ocean",
-"The Pacific Ocean; the ocean",
+"The World Wide Web; The Internet; The Cloud",intenet,eng ˈɪntɹˌnɛt
+"The Atlantic Ocean; the ocean",atlantiko,por atˈlɐntʃiko
+"The Indian Ocean; the ocean",intianina,mlg oˈseana iⁿdiˈanina
+"The Pacific Ocean; the ocean",taihejo,jpn taihɛːjɔː
+"The Arabian Sea; the sea",
+"The Bering Sea; the sea",
+"The Caribbean Sea; the sea",kalipean,eng kəˈɹɪbiən siː
+"The Coral Sea; the sea",
+"The Gulf of Mexico; the sea",
+"The Mediterranean Sea; the sea",metitelanjum,lat ˈmarɛ mɛdɪtɛrˈraːneũ
+"The South China Sea",
 "Afro-Eurasia; the landmass",
 "America; the landmass",lasamelikas,spa las aˈmeɾikas
 "Africa; the continent",
-"North America; the continent",noltamelika,eng nɔɹθ əˈmɛɹɪkə
-"South America; the continent",sultamelika,por aˈmɛɾika du sul
-"Antarctica; the landmass; the continent",
-"Eurasia; the continent",
+"North America; the continent",notamelika,eng nɔɹθ əˈmɛɹɪkə
+"South America; the continent",sulamelika,por aˈmɛɾika du sul
+"Antarctica; the landmass; the continent",antaktika,eng ˌænˈtɑːktɪkə
+"Eurasia; the continent",jewlasja,rus jɪˈvrazʲɪjə
 "Oceania; the continent",
 "North Africa; the subcontinent",
 "Sub-Saharan Africa; the subcontinent",
@@ -178,7 +180,7 @@ eng,cst,source
 "Italy; the country",italja,ita itaːlja
 "Ivory Coast; the country",kotifwah,fra kot divwaʁ
 "Jamaica; the country",cumieka,jam dʒʊmiɛka
-"Japan; the country",nihon,jpn nihoɴ
+"Japan; the country",nihon,jpn ɲihoɴ
 "Jordan; the country",alultun,ara alʔurdunn
 "Kazakhstan; the country",kasakastan,kaz qɑzɑqstɑn
 "Kenya; the country",kenja,swa kɛɲɑ
@@ -280,8 +282,8 @@ eng,cst,source
 "Uganda; the country",jukanta,lug jugaːnda
 "Ukraine; the country",uklajina,ukr ukrɑjinɑ
 "United Arab Emirates; the country",alimalat,ara alʔimaːraːt
-"United Kingdom; the country",sajukej,en ðʌ juː kʰeɪ̯
-"United States; the country",junajtestejs,en juˈnəɪ̯tɪd steɪ̯ts
+"United Kingdom; the country",jukej,en juː kʰeɪ̯
+"United States; the country",juesej,en juː ɛs eɪ̯
 "Uruguay; the country",ulukwaj,spa uɾuˈɣaj
 "Uzbekistan; the country",ospekistan,uzb ɒ:zbekist̪ɒn
 "Vanuatu; the country",fanuatu,bis vɑnuɑtu
