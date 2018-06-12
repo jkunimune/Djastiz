@@ -10,9 +10,9 @@ eng,cst,source
 "The West",Europe US-Canada
 "Latin America",Central-America South-America
 "The Muslim World",Middle-East North-Africa South-Asia
-"Sol; The Sun",person sun
-"Luna; The Moon",person moon
-"Earth",person ground
+"Sol; The Sun",human sun
+"Luna; The Moon",human moon
+"Earth",human planet
 "use internet; be wireless; be cyber; be crypto",computer communicate
 "say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",
 "ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",
@@ -101,7 +101,7 @@ eng,cst,source
 "ink",write liquid
 "paper",write sheet
 "canvas",art sheet
-"ceramic",person rock
+"ceramic",human rock
 "sand; dust",rock powder
 "gravel; course sand",rock pile
 "mist",liquid powder
@@ -139,9 +139,9 @@ eng,cst,source
 "voicebox",speech gland
 "brain",ponder gland
 "uterus",be-pregnant gland
-"cat",person felid
-"dog",person canid
-"horse",person equid
+"cat",human felid
+"dog",human canid
+"horse",human equid
 "rabbit; hare",fast rodent
 "skunk",scent musteloidea
 "raccoon",black face musteloidea
@@ -209,7 +209,7 @@ eng,cst,source
 "eat supper; eat dinner; SBJ (diner; supper) eats OBJ (dinner; supper)",be-after eat
 "eat dessert; eat midnight snack; SBJ (dessert) eats OBJ (dessert; midnight snack)",moon eat
 "dine out; SBJ (diner) buys OBJ (restaurant meal) from IND (restaurant; server)",eat buy
-"satelite; artificial satelite",human moon
+"satelite; artificial satelite",metal moon
 "millimetre",×10^ - 3 metre
 "centimetre",×10^ - 2 metre
 "kilometre",×10^ 3 metre
@@ -226,3 +226,20 @@ eng,cst,source
 "audiobook; radio",speech entertainment
 "literature; book; blog; web serial",text entertainment
 "theatre; play; performing arts",person entertainment
+"sword",long blade
+"strip; ribbon; a shape where all three dimensions are very different",sheet stick
+"pre-educate; SBJ (pre-school teacher) teaches OBJ (pre-schooler) (LOCATION:pre-school)",be-before teach
+"primary educate; elementary school; middle school; SBJ (elementary school teacher) teaches OBJ (elementary schooler) (LOCATION:elementary school; middle school)",be-behind teach
+"secondary educate; high school; middle school; SBJ (high school teacher) teaches OBJ (high schooler) (LOCATION:high school; middle school)",be-ahead teach
+"tertiary educate; college; university; higher educate; SBJ (professor) teaches OBJ (college student) (LOCATION:college; university)",be-after teach
+"kindergarden",0 learn year
+"first grade",1 learn year
+"second grade",2 learn year
+"freshman year of high school",9 learn year
+"sophomore year of high school",1 0 learn year
+"junior year of high school",1 1 learn year
+"senior year of high school",1 2 learn year
+"freshman year of college",1 3 learn year
+"sophomore year of college",1 4 learn year
+"junior year of college",1 5 learn year
+"senior year of college",1 6 learn year

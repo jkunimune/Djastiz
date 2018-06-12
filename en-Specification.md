@@ -4,25 +4,41 @@ So, you want to sing a better and more succinct version of [Olde Djastiz](https:
 
 ## Writing and pronunciation
 
-Before you read any further, you'll need to know how to read, say, and write these words. Musical Djastiz has a unique phonology comprising four vowels, five consonants, and six tones. Besides the miniscule inventory, it creates a unique sound by defining its tones very precisely.
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen most common sounds, and writes them with a basic one-letter-per-phoneme-one-phoneme-per-letter alphabet. It's so simple that a wise man can acquaint himself with this before the hour is over; even a stupid man can learn it in the space of two days. The following tables sumarizes the phonology:
 
-In Musical Djastiz, the first vowel in every sentence is articulated at some pitch. This is the tonic pitch. The meanings of all words are dependent on the pitches of their syllables relative to this tonic. Note that perfect pitch is not necessary to sing Musical Djastiz, as the tonic is defined by the first syllable.
+            | Labial | Coronal | Palatal | Guttural
+----------------------------------------------------
+Plosive     |    p   |    t    |         |    k
+Fricative   |    f   |    s   |tʃ &lt;c&gt;|  h
+Nasal       |    m   |    n    |         |     
+Approximant |    w   |    l    |    j    |
 
-- `áe` is Romanized "a" and pronounced /&#604;/ in the [IPA][1].
-- `ȅl` is Romanized "e" and pronounced /e/ in the [IPA][1].
-- `ōél` is Romanized "o" and pronounced /o/ in the [IPA][1].
-- `ūje` is Romanized "u" and pronounced /u/ in the [IPA][1].
-- `lél` is Romanized "l" and pronounced /l/ in the [IPA][1].
-- `mōl` is Romanized "m" and pronounced /m/ in the [IPA][1].
-- `poő` is Romanized "p" and pronounced /p/ in the [IPA][1].
-- `rűl` is Romanized "r" and pronounced /r/ in the [IPA][1].
-- `jo` is Romanized "j" and pronounced /&#658;/ in the [IPA][1].
-- `mȍ` is Romanized "&#9676;&#783;" and pronounced at the tonic frequency.
-- `jèl` is Romanized "&#9676;&#768;" and pronounced at 125% the tonic frequency.
-- `lōm` is Romanized "&#9676;&#772;" and pronounced at 150% the tonic frequency.
-- `óm` is Romanized "&#9676;&#769;" and pronounced at 175% the tonic frequency.
-- `le̋l` is Romanized "&#9676;&#779;" and pronounced at twice the tonic frequency.
-- `moja` is Romanized as a vowel without an accent and can be pronounced at any pitch. Musicians and poets often use these syllables to insert color-tones into their speech, while most people simply repeat the pitch of the previous syllable.
+      | Front | Back
+---------------------
+Close |   i   |  u
+Mid   |   e   |  o
+Open  |   a   |  
+
+If you don't know what any of that means, don't worry about it. Here is a more thorough table. Note that in addition to a name and a symbol, each letter has a "recommended pronunciation" and several "possible pronunciations". The possible pronunciations are just allowed variations on each sound for people who don't have the recommended pronunciation in their lexicon. You speak English, so you pretty much have all of the recommended pronunciations down (except a and o), so just know that you might hear people of different backgrounds using some slightly different pronunciations of each letter. The "class" and "inverse" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
+
+ Name | Symbol | R. Pronunciation | P. Pronunciations | English example | Inverse | Class
+   e  |   e    |         e        |                   |      End        |    o    | Vowel
+   a  |   a    |         a        |                   |      Off        |    a    | Vowel
+   o  |   o    |         o        |                   |     Organ       |    e    | Vowel
+   i  |   i    |         i        |                   |      EAt        |    u    | Vowel
+   u  |   u    |         u        |                   |      OOze       |    i    | Vowel
+  jot |   j    |         j        |                   |      Yell       |   wet   | Glide
+  lo  |   l    |         l        |                   |      Limb       |    te   | Sonorant
+  wet |   w    |         w        |                   |     Wander      |   jot   | Glide
+  no  |   n    |         n        |                   |     Night       |    me   | Sonorant
+  me  |   m    |         m        |                   |      Mark       |    no   | Sonorant
+  ho  |   h    |         h        |                   |      Hack       |    fe   | Sonorant
+  co  |   c    |         tʃ       |                   |      CHop       |    se   | Obstruent
+  se  |   s    |         s        |                   |      Soon       |    co   | Obstruent
+  fe  |   f    |         f        |                   |      Fall       |    ho   | Sonorant
+  ko  |   k    |         k        |                   |      Kill       |    pe   | Obstruent
+  te  |   t    |         t        |                   |     Terror      |    lo   | Obstruent
+  pe  |   p    |         p        |                   |      Pool       |    ko   | Obstruent
 
 Note that the tones are all approximate; as long as they roughly evenly divide the frequency space among them, it should be intelligible. Rounding these to an equal-tempered scale is no problem. Indeed, small changes in the set of pitches used conveys aspects of the manner or mood of the sentence. Lowering the `jèl` to 120% the tonic indicates uncertainty, while raising the `lōm` to 156% the tonic indicates conviction. Doing both expresses sarcasm. Lowering the `óm` to 167% the tonic expresses familiarity between the singer and listener, while raising it to 188% expresses distance or wariness. In addition to this, the tonic often changes from sentence to sentence. Generally, raising the tonic when moving to a new sentence indicates that the second sentence builds off the first, while lowering it indicates a change of topic.
 
