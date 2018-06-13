@@ -1,56 +1,53 @@
-# How to Speak Djastiz
+# How to Speak Chatisun
 
-So, you want to sing a better and more succinct version of [Olde Djastiz](https://github.com/jkunimune15/Djastiz/tree/master). How do you do that? By singing Modern Djastiz\*, that's how! What's Modern Djastiz? It's a high-level language optimised for efficiency that I invented. Here's how it works.
+So, you want to sing a better and more succinct version of [Olde Djastiz](https://github.com/jkunimune15/Djastiz/tree/master). How do you do that? By speaking Chatisun, that's how! What's Chatisun? It's a high-level language optimised for efficiency that I invented. Here's how it works.
 
 ## Writing and pronunciation
 
-Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen most common sounds, and writes them with a basic one-letter-per-phoneme-one-phoneme-per-letter alphabet. It's so simple that a wise man can acquaint himself with this before the hour is over; even a stupid man can learn it in the space of two days. The following tables sumarizes the phonology:
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen most common sounds, and writes them with a basic one-letter-per-phoneme-one-phoneme-per-letter Latin-derived alphabet. It's so simple that a wise man can acquaint himself with this before the hour is over; even a stupid man can learn it in the space of two days. The following tables sumarizes the phonology using the [International Phonetic Alphabet](1):
 
-            | Labial | Coronal | Palatal | Guttural
-----------------------------------------------------
-Plosive     |    p   |    t    |         |    k
-Fricative   |    f   |    s   |tʃ &lt;c&gt;|  h
-Nasal       |    m   |    n    |         |     
-Approximant |    w   |    l    |    j    |
+|               | Labial | Coronal | Palatal | Guttural |
+|:--------------|:------:|:-------:|:-------:|:--------:|
+|**Plosive**    |    p   |    t    |         |    k     |
+|**Fricative**  |    f   |    s   |tʃ &lt;c&gt;|  h     |
+|**Nasal**      |    m   |    n    |         |          |
+|**Approximant**|    w   |    l    |    j    |          |
 
-      | Front | Back
----------------------
-Close |   i   |  u
-Mid   |   e   |  o
-Open  |   a   |  
+|         | Front | Back |
+|:--------|:-----:|:----:|
+|**Close**|   i   |  u   |
+|**Mid**  |   e   |  o   |
+|**Open** |   a   |      |
 
-If you don't know what any of that means, don't worry about it. Here is a more thorough table. Note that in addition to a name and a symbol, each letter has a "recommended pronunciation" and several "possible pronunciations". The possible pronunciations are just allowed variations on each sound for people who don't have the recommended pronunciation in their lexicon. You speak English, so you pretty much have all of the recommended pronunciations down (except a and o), so just know that you might hear people of different backgrounds using some slightly different pronunciations of each letter. The "class" and "inverse" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
+If you don't know what any of that means, don't worry about it. Here is a more thorough table. Note that in addition to a name and a symbol, each letter has a "Recommended Pronunciation" and several "Possible Pronunciations". The possible pronunciations are just allowed variations on each sound for people who don't have the recommended pronunciation in their native tongue. You speak English, so you pretty much have all of the recommended pronunciations down, so just know that you might hear people of different backgrounds using some slightly different pronunciations of each letter. The "Inverse" and "Class" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
 
- Name | Symbol | R. Pronunciation | P. Pronunciations | English example | Inverse | Class
-   e  |   e    |         e        |                   |      End        |    o    | Vowel
-   a  |   a    |         a        |                   |      Off        |    a    | Vowel
-   o  |   o    |         o        |                   |     Organ       |    e    | Vowel
-   i  |   i    |         i        |                   |      EAt        |    u    | Vowel
-   u  |   u    |         u        |                   |      OOze       |    i    | Vowel
-  jot |   j    |         j        |                   |      Yell       |   wet   | Glide
-  lo  |   l    |         l        |                   |      Limb       |    te   | Sonorant
-  wet |   w    |         w        |                   |     Wander      |   jot   | Glide
-  no  |   n    |         n        |                   |     Night       |    me   | Sonorant
-  me  |   m    |         m        |                   |      Mark       |    no   | Sonorant
-  ho  |   h    |         h        |                   |      Hack       |    fe   | Sonorant
-  co  |   c    |         tʃ       |                   |      CHop       |    se   | Obstruent
-  se  |   s    |         s        |                   |      Soon       |    co   | Obstruent
-  fe  |   f    |         f        |                   |      Fall       |    ho   | Sonorant
-  ko  |   k    |         k        |                   |      Kill       |    pe   | Obstruent
-  te  |   t    |         t        |                   |     Terror      |    lo   | Obstruent
-  pe  |   p    |         p        |                   |      Pool       |    ko   | Obstruent
+| Name | Symbol | Rec. Pron. | Pos. Prons. | English example | Inverse | Class
+|------|--------|------------|-------------|-----------------|---------|-------
+|   e  |   e    |     e      |    e\~ɛ     |      End        |    o    | Vowel
+|   a  |   a    |     a      |    a\~ɑ     |      Off        |    a    | Vowel
+|   o  |   o    |     o      |    o\~ɔ     |     Organ       |    e    | Vowel
+|   i  |   i    |     i      |    i\~ɪ     |      EAt        |    u    | Vowel
+|   u  |   u    |     u      |    u\~ʊ     |      OOze       |    i    | Vowel
+|  jot |   j    |     j      |    j\~i     |      Yell       |   wet   | Glide
+|  lo  |   l    |     l      |    l\~ɾ     |      Limb       |    te   | Sonorant
+|  wet |   w    |     w      |    w\~u     |     Wander      |   jot   | Glide
+|  no  |   n    |     n      |   n, ŋ\~ɴ   |     Night       |    me   | Sonorant
+|  me  |   m    |     m      |      m      |      Meet       |    no   | Sonorant
+|  ho  |   h    |     h      |   x\~h, ɦ   |      Hack       |    fe   | Sonorant
+|  co  |   c    |     tʃ     |tʃ\~tʂ, ʃ\~ʂ |      CHop       |    se   | Obstruent
+|  se  |   s    |     s      |      s      |      Soon       |    co   | Obstruent
+|  fe  |   f    |     f      |    ɸ\~f     |      Fall       |    ho   | Sonorant
+|  ko  |   k    |     k      |   k kʰ ɡ    |      Kill       |    pe   | Obstruent
+|  te  |   t    |     t      |   t tʰ d    |     Terror      |    lo   | Obstruent
+|  pe  |   p    |     p      |   p pʰ b    |      Pool       |    ko   | Obstruent
 
-Note that the tones are all approximate; as long as they roughly evenly divide the frequency space among them, it should be intelligible. Rounding these to an equal-tempered scale is no problem. Indeed, small changes in the set of pitches used conveys aspects of the manner or mood of the sentence. Lowering the `jèl` to 120% the tonic indicates uncertainty, while raising the `lōm` to 156% the tonic indicates conviction. Doing both expresses sarcasm. Lowering the `óm` to 167% the tonic expresses familiarity between the singer and listener, while raising it to 188% expresses distance or wariness. In addition to this, the tonic often changes from sentence to sentence. Generally, raising the tonic when moving to a new sentence indicates that the second sentence builds off the first, while lowering it indicates a change of topic.
-
-While syllable length is not phonemic, polysyllabic words are generally sung at a quicker tempo than monosyllabic ones. Two identical vowels of the same pitch with no consonant between them should be separated with a glottal stop.
-
-For now, Musical Djastiz solely uses the Latin Alphabet. I'll design something prettier if I ever feel like it, but for now, I'm kind of done with this one. Artlangs are not my forte.
+You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are &lt;j&gt;, &lt;c&gt;, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
 [1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
 
 ## Vocabulary
 
-There are three broad classes of word in Chastisun: nouns, verbs, and particles. Each of these can be further subdivided into smaller categories that behave differently.
+There are three broad classes of word in Chastisun: nouns, verbs, and particles. These words are drawn from Mandarin Chinese, Spanish, Esperanto, English, Hindi, Bengali, Arabic, Punjabi, Yoruba, Marathi, Igbo, Swahili, Zulu, and Chichewa, in that order. The source languages were carefully selected and weighted in order to give the most mnemonic value to the greatest number of people. Source words are modified when entering Chatisun to match its strict morphology. All morphemes start and end with a consonant and contain no consonant clusters, so consonant clusters mark the morpheme boundaries in compound words. Particles, meanwhile, either start or end with a vowel to indicate whether they are a prefix-particle or a suffix-particle. This section will discuss verbs and nouns, as well as their properties and various subdivisions.
 
 ### Verbs
 
@@ -242,7 +239,3 @@ Like any self-respecting language, Djastiz comes with a variety of gestures to e
 - To display sadness or disappointment, press a clenched fist into an open palm.
 - To display approval or appreciation toward a person, place your palms together, holding them horizontally, and slide the top hand forward, off of the bottom one.
 - To display disapproval or depreciation toward a person, slowly and gracefully raise your hands toward them while saying "oooooooooooh" quietly.
-
-______
-
-\*This article is about the beautiful tone-centered version of Djastiz, invented in March of 2018. For other varieties, see other branches of this repository.
