@@ -12,16 +12,18 @@ ACCENTS = {'̞', '̟', '̠', '̪', '͉', '̻'} #accents that my data source abus
 
 COMBOS = {('a','ɑ','ɐ'), ('e','ɛ'), ('o','ɔ'),
 		('i','ɪ'), ('u','ʊ','ɯ'), ('j','i'), ('w','u'),
-		('ʃ','s','ʂ'), ('ʒ','z','ʐ'), ('ts','tʃ','ʈʂ'), ('dz','dʒ'),
-		('s','ts'), ('z','dz'), ('tʃ','ʃ','ʈʂ','ʂ'), ('dʒ','ʒ','ʐ'),
+		('ʃ','ʂ'), ('ʒ','ʐ'), ('dʒ','ɖʐ'), ('tʃ','ʈʂ'),
+		('ʈʂ','ʂ','tʃ','ʃ'), ('ɖʐ','ʐ','dʒ','ʒ'), 
 		('r','ɾ','ɽ','ɻ','ʁ','ʀ','ɹ'), ('l','ɭ','ɾ','ɽ','ɺ'),
 		('h','ħ','χ','x', 'ɦ'), ('ʕ','ʁ','ɣ'), ('f','ɸ'), ('v','β'),
 		('kʰ','k'), ('tʰ','t'), ('pʰ','p'),
 		('k','ɡ','ʰ'), ('t','d','ʰ'), ('p','b','ʰ')}
 
-# CASTISU = {'/pʰ/', '[b]', '/tʰ/', '[d]', '/kʰ/', '[ɡ]', '/tʃ/', '/dʒ/', '/f/', '/s/', '[z]', '/h/',
+# CHATISUN = {'/pʰ/', '[b]', '/tʰ/', '[d]', '/tʃ/', '/dʒ/', '/kʰ/', '[ɡ]', '/f/', '[s]', '/ʃ/', '/h/',
 # 			'[m]', '[n]', '[ŋ]', '/r/', '[l]', '/j/', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'}
-CASTISU = {'/p/', '/t/', '/k/', '/tʃ/', '/f/', '/s/', '/h/', '[m]', '[n]', '/w/', '/l/', '/j/', '/u/', '/i/', '/o/', '/a/', '/e/'}
+# CHATISUN = {'/pʰ/', '[b]', '/tʰ/', '[d]', '/ʈʂ/', '/ɖʐ/', '/kʰ/', '[ɡ]', '/f/', '[s]', '/h/',
+# 			'[m]', '[n]', '[ŋ]', '/l/', '/j/', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'}
+CHATISUN = {'/p/', '/t/', '/k/', '/ʈʂ/', '/f/', '[s]', '/h/', '[m]', '[n]', '/w/', '/l/', '/j/', '/u/', '/i/', '/o/', '/a/', '/e/'}
 
 
 with open('..\\data\\ethnologue.pkl', 'rb') as f:
@@ -78,13 +80,13 @@ for lang_code, inventory in inventories.items():
 		phonemes[phoneme] = phonemes.get(phoneme,0) + population
 	total_pop += population
 
-num_who_must_learn = [0]*(len(CASTISU)+1) #find the number of humans who must learn _x_ new phonemes to speak Djastiz
+num_who_must_learn = [0]*(len(CHATISUN)+1) #find the number of humans who must learn _x_ new phonemes to speak Djastiz
 avg_num_to_learn = 0
 specific_needs = {}
 for lang_code, inventory in inventories.items():
 	population = POPULATIONS.get(lang_code, (0,0))[1]
 	num_to_learn = 0
-	for phoneme in CASTISU:
+	for phoneme in CHATISUN:
 		if phoneme+':' not in inventory:
 			num_to_learn += 1
 			if population:
@@ -99,7 +101,7 @@ for i, num in enumerate(num_who_must_learn):
 		print('{:.2f}% of humans can pronounce Djastiz words natively.'.format(num/total_pop*100))
 	else:
 		print('{:.2f}% of humans must learn {} new phonem{} to pronounce Djastiz words.'.format(num/total_pop*100, i, 'es' if i>1 else 'e'))
-print('The average human must learn {:.2f}/{} phonemes to pronounce Djastiz words.'.format(avg_num_to_learn, len(CASTISU)))
+print('The average human must learn {:.2f}/{} phonemes to pronounce Djastiz words.'.format(avg_num_to_learn, len(CHATISUN)))
 
 print()
 
@@ -112,6 +114,6 @@ print()
 for phoneme in sorted(phonemes.keys(), key=lambda p:-phonemes[p]):
 	print("{}\t{:.2f}%".format(phoneme, 100*phonemes[phoneme]/total_pop))
 
-plt.pie(num_who_must_learn, labels=["Native"]+["{} phn.".format(i) for i in range(1,len(CASTISU)+1)], startangle=-90)
+plt.pie(num_who_must_learn, labels=["Native"]+["{} phn.".format(i) for i in range(1,len(CHATISUN)+1)], startangle=-90)
 plt.axis('equal')
 plt.show()

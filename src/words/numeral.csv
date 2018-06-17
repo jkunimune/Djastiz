@@ -16,12 +16,12 @@ eng,cst,source
 "E; 14; fourteen; only used for hexadecimal",tol,spa kaˈtoɾse
 "F; 15; fifteen; only used for hexadecimal",kin,spa ˈkinse
 "G; 16; only used to describe hexadecimal",sol,ben sʰolo
-"little; few (CARDINAL:a little bit; a few; a few of)",
-"several; some; few; handful; medium; (1, radix]",
-"much; many; opposite of ""little""",
-"absolute; maximum; opposite of ""0""",tun,
+"much; many",,
+"several; some; few; handful; medium; (1, radix]",,
+"little; few (CARDINAL:a little bit; a few; a few of)",,opposite of ""much""
+"absolute; maximum",tun,opposite of ""zero""
 "point; radix point",pojn,eng pʰoɪ̯nt
-"×10^ (or ×12^, or whatever depending on the radix)",
-"radix",
-"-; minus; negative",
-"over; division; fraction",
+"×10^ (or ×12^, or whatever depending on the radix)",,
+"radix",,
+"-; minus; negative",,
+"over; division; fraction",,

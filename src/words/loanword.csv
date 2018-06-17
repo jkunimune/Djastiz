@@ -16,7 +16,6 @@ eng,cst,source
 "k; /k/; velar plosive; also U",ko,lat kaː
 "t; /t/; alveolar plosive",te,lat teː
 "p; /p/; bilabial plosive",pe,lat peː
-"Chastisun; the language",castisun
 "Arabic; the language",halapi,ara ˈʕarabiː
 "Bengali; the language",panla,ben ˈbaŋla
 "Chichewa; the language",cicewa,nya tʃitʃewa
@@ -67,31 +66,31 @@ eng,cst,source
 "The Atlantic Ocean; the ocean",atlantiko,por oseˈɐno atˈlɐntʃiko
 "The Indian Ocean; the ocean",intianina,mlg oˈseana iⁿdiˈanina
 "The Pacific Ocean; the ocean",taihejo,jpn taihɛːjɔː
-"The Arabian Sea; the sea",
-"The Bering Sea; the sea",
+"The Arabian Sea; the sea",,
+"The Bering Sea; the sea",,
 "The Caribbean Sea; the sea",kalipean,eng kəˈɹɪbiən siː
-"The Coral Sea; the sea",
-"The Gulf of Mexico; the sea",
+"The Coral Sea; the sea",,
+"The Gulf of Mexico; the sea",,
 "The Mediterranean Sea; the sea",metitelanjum,lat ˈmarɛ mɛdɪtɛrˈraːneũ
-"The South China Sea",
-"Afro-Eurasia; the landmass",
+"The South China Sea",,
+"Afro-Eurasia; the landmass",,
 "America; the landmass",lasamelikas,spa las aˈmeɾikas
-"Africa; the continent",
+"Africa; the continent",,
 "North America; the continent",notamelika,eng nɔɹθ əˈmɛɹɪkə
 "South America; the continent",sulamelika,por aˈmɛɾika du sul
 "Antarctica; the landmass; the continent",antaktika,eng ˌænˈtɑːktɪkə
 "Eurasia; the continent",jewlasja,rus jɪˈvrazʲɪjə
-"Oceania; the continent",
-"North Africa; the subcontinent",
-"Sub-Saharan Africa; the subcontinent",
-"Central America; the subcontinent",
-"The Arctic; the subcontinent",
-"Central Asia; the subcontinent",
-"Eastern Asia; the subcontinent",
-"South Asia; the subcontinent",
-"Europe; the subcontinent",
-"Middle East; the subcontinent",
-"US-Canada; the subcontinent",
+"Oceania; the continent",,
+"North Africa; the subcontinent",,
+"Sub-Saharan Africa; the subcontinent",,
+"Central America; the subcontinent",,
+"The Arctic; the subcontinent",,
+"Central Asia; the subcontinent",,
+"Eastern Asia; the subcontinent",,
+"South Asia; the subcontinent",,
+"Europe; the subcontinent",,
+"Middle East; the subcontinent",,
+"US-Canada; the subcontinent",,
 "Afghanistan; the country",afhaniston,prs avɣɒnestɒn
 "South Africa; the country",umsansi,xho umz̤antsʼi
 "Albania; the country",ickipali,alb ʃcipəɾi
@@ -302,48 +301,48 @@ eng,cst,source
 "Sahrawi Arab Democratic Republic; the disputed territory",asahlawiah,ara asˤsˤaħraːwiːjah
 "Taiwan; the disputed territory",tajwan,cmn tʰaɪ̯˧˥wan˥
 "Hawai'i; the archipelago; the island; the state; the county",hawaji,haw həˈvɐjʔi
-"Babylon; the city",
-"Beijing; the city",
+"Babylon; the city",,
+"Beijing; the city",,
 "Białystok; the city",pjawistok,pol bʲaˈwɨstɔk
-"Brussels; the city",
+"Brussels; the city",,
 "Buenos Aires; the city",pwenosajles,spa ˈbwenos ˈajɾes
-"Cairo; the city",
-"Chengdu; the city",
-"Chongquing; the city",
-"Delhi; the city",
-"Dhaka; the city",
-"Guangzhou; the city",
+"Cairo; the city",,
+"Chengdu; the city",,
+"Chongquing; the city",,
+"Delhi; the city",,
+"Dhaka; the city",,
+"Guangzhou; the city",,
 "Honolulu; the city",honolulu,haw honoˈlulu
 "Istanbul; the city",istanpul,tur isˈtanbuɫ
 "Jerusalem; the city",jelucalajim,heb jeʁuʃaˈlajim
-"Karachi; the city",
-"Kinshasa; the city",
-"Lagos; the city",
-"Lahore; the city",
+"Karachi; the city",,
+"Kinshasa; the city",,
+"Lagos; the city",,
+"Lahore; the city",,
 "London; the city",lantan,eng ˈlʌndən
 "Moscow; the city",maskwa,rus mɐˈskva
-"Mumbai; the city",
-"New York City; the city",
-"Paris; the city",
-"Rome; the city",
-"São Paulo; the city",
-"Shanghai; the city",
-"Tianjin; the city",
-"Tokyo; the city",
-"Washington D. C.; the city",
-"Bahá'í; the religion",
-"Buddhism; the religion",
-"Cao Dai; the religion",
-"Christianity; the religion",
-"Han Folk Religion; the religion",
-"Hinduism; the religion",
-"Islam; the religion",
-"Jainism; the religion",
-"Judaism; the religion",
-"Shinto; the religion",
-"Sikhism; the religion",
-"Spiritualism; the religion",
-"Zoroastrianism; the religion",
+"Mumbai; the city",,
+"New York City; the city",,
+"Paris; the city",,
+"Rome; the city",,
+"São Paulo; the city",,
+"Shanghai; the city",,
+"Tianjin; the city",,
+"Tokyo; the city",,
+"Washington D. C.; the city",,
+"Bahá'í; the religion",,
+"Buddhism; the religion",,
+"Cao Dai; the religion",,
+"Christianity; the religion",,
+"Han Folk Religion; the religion",,
+"Hinduism; the religion",,
+"Islam; the religion",,
+"Jainism; the religion",,
+"Judaism; the religion",,
+"Shinto; the religion",,
+"Sikhism; the religion",,
+"Spiritualism; the religion",,
+"Zoroastrianism; the religion",,
 "Christmas; the holiday",natiwitas,lat naːˈtiːwɪtaːs
 "fox; the canine",wulpes,lat ˈwʊɫ.peːs
 "coconut; the fruit",tenkaj,tam ˈt̪eːŋgɑːj
@@ -358,8 +357,8 @@ eng,cst,source
 "ke; the unit of time",kao,cmn kʰɤ˨˩
 "span; the unit of time",espan,eng spæn
 "snap; the unit of time",esnapa,eng snæp
-"hour; the unit of time",
-"minute; the unit of time",
+"hour; the unit of time",,
+"minute; the unit of time",,
 "second; the unit of time",sekonte,nld sɛˈkɔndɛ
 "Congress",kankwes,eng ˈkʰɑŋɡɹɨs
 "Christian heaven",comajim,heb ʃɔmäˈjim

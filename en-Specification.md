@@ -23,14 +23,14 @@ If you don't know what any of that means, don't worry about it. Here is a more t
 
 | Name | Symbol | Rec. Pron. | Pos. Prons. | English example | Inverse | Class
 |------|--------|------------|-------------|-----------------|---------|-------
-|   e  |   e    |     e      |    e\~ɛ     |      End        |    o    | Vowel
+|   e  |   e    |     ɛ      |    e\~ɛ     |      End        |    o    | Vowel
 |   a  |   a    |     a      |    a\~ɑ     |      Off        |    a    | Vowel
-|   o  |   o    |     o      |    o\~ɔ     |     Organ       |    e    | Vowel
+|   o  |   o    |     ɔ      |    o\~ɔ     |     Organ       |    e    | Vowel
 |   i  |   i    |     i      |    i\~ɪ     |      EAt        |    u    | Vowel
 |   u  |   u    |     u      |    u\~ʊ     |      OOze       |    i    | Vowel
-|  jot |   j    |     j      |    j\~i     |      Yell       |   wet   | Glide
+|  jot |   j    |     j      |   j, ʲ, i   |      Yell       |   wet   | Glide
 |  lo  |   l    |     l      |    l\~ɾ     |      Limb       |    te   | Sonorant
-|  wet |   w    |     w      |    w\~u     |     Wander      |   jot   | Glide
+|  wet |   w    |     w      |   w, ʷ, u   |     Wander      |   jot   | Glide
 |  no  |   n    |     n      |   n, ŋ\~ɴ   |     Night       |    me   | Sonorant
 |  me  |   m    |     m      |      m      |      Meet       |    no   | Sonorant
 |  ho  |   h    |     h      |   x\~h, ɦ   |      Hack       |    fe   | Sonorant
@@ -47,7 +47,7 @@ You'll notice that most of the letters match their IPA transcriptions as well as
 
 ## Vocabulary
 
-There are three broad classes of word in Chastisun: nouns, verbs, and particles. These words are drawn from Mandarin Chinese, Spanish, Esperanto, English, Hindi, Bengali, Arabic, Punjabi, Yoruba, Marathi, Igbo, Swahili, Zulu, and Chichewa, in that order. The source languages were carefully selected and weighted in order to give the most mnemonic value to the greatest number of people. Source words are modified when entering Chatisun to match its strict morphology. All morphemes start and end with a consonant and contain no consonant clusters, so consonant clusters mark the morpheme boundaries in compound words. Particles, meanwhile, either start or end with a vowel to indicate whether they are a prefix-particle or a suffix-particle. This section will discuss verbs and nouns, as well as their properties and various subdivisions.
+There are three broad classes of word in Chastisun: nouns, verbs, and particles. These words are drawn from Mandarin Chinese, Spanish, Esperanto, English, Hindi, Bengali, Arabic, Punjabi, Yoruba, Marathi, Igbo, Swahili, Zulu, and Chichewa, in that order. The source languages were carefully selected and weighted in order to give the most mnemonic value to the greatest number of people. Source words are modified when entering Chatisun to match its strict morphology. All morphemes start and end with a consonant and contain no consonant clusters, so consonant clusters indicate morpheme boundaries in compound words. Particles, meanwhile, either start or end with a vowel depending on whether they are a prefix-particle or a suffix-particle. The following section will discuss verbs and nouns, as well as their properties and various subdivisions.
 
 ### Verbs
 
