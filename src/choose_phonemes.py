@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import pickle
 
 MODIFIERS = {'ː', 'ˑ', 'ʷ', 'ʲ', 'ˠ', 'ˤ', 'ˀ'} #accents that are more important on their own than in combo with other sounds
-ACCENTS = {'̞', '̟', '̠', '̪', '͉', '̻'} #accents that my data source abuses and that mean nothing to me
+ACCENTS = {'̪', '̞', '̟', '̝', '̙', '̘', '̈', '̠', '͉', '̻', '̺', '͇', '̯', '͓', '˔'} #accents that my data source abuses and that mean nothing to me
 
 COMBOS = {('a','ɑ','ɐ'), ('e','ɛ'), ('o','ɔ'),
 		('i','ɪ'), ('u','ʊ','ɯ'), ('j','i'), ('w','u'),
