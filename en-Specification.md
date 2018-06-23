@@ -2,9 +2,11 @@
 
 So, you want to sing a better and more succinct version of [Olde Djastiz](https://github.com/jkunimune15/Djastiz/tree/master). How do you do that? By speaking Chatisun, that's how! What's Chatisun? It's a high-level language optimised for efficiency that I invented. Here's how it works.
 
-## Writing and pronunciation
+## Phonology and orthography
 
-Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen most common sounds, and writes them with a basic one-letter-per-phoneme-one-phoneme-per-letter Latin-derived alphabet. It's so simple that a wise man can acquaint himself with this before the hour is over; even a stupid man can learn it in the space of two days. The following tables sumarizes the phonology using the [International Phonetic Alphabet](1):
+### Alphabet
+
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen most common sounds, and writes them with a basic one-letter-per-phoneme-one-phoneme-per-letter Latin-derived orthography. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days. The following tables sumarise the phonology using the [International Phonetic Alphabet](1):
 
 |               | Labial | Coronal | Palatal | Guttural |
 |:--------------|:------:|:-------:|:-------:|:--------:|
@@ -38,12 +40,47 @@ If you don't know what any of that means, don't worry about it. Here is a more t
 |  se  |   s    |     s      |      s      |      Soon       |    co   | Obstruent
 |  fe  |   f    |     f      |    ɸ\~f     |      Fall       |    ho   | Sonorant
 |  ko  |   k    |     k      |   k kʰ ɡ    |      Kill       |    pe   | Obstruent
-|  te  |   t    |     t      |   t tʰ d    |     Terror      |    lo   | Obstruent
+|  te  |   t    |     t      |   t tʰ d    |      Tomb       |    lo   | Obstruent
 |  pe  |   p    |     p      |   p pʰ b    |      Pool       |    ko   | Obstruent
 
 You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are &lt;j&gt;, &lt;c&gt;, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
+Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Chatisun alphabet. The Chatisun alphabet does not include <b>, <d>, <g>, <q>, <r>, <v>, <x>, <y>, <z>, or any capital letters, so none of these should be present in a Chatisun text. It is acceptable to use all capital letters in lieu of lowercase letters as a stylistic choice, but if you do so, I recommend using a font where <E>, <A>, <N>, and <H> are easily recognisable from their lowercase counterparts, lest the text be indescipherable to some Chatisun-speakers.
+
 [1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
+
+### Punctuation
+
+In addition to this subset of Latin letters, a subset of other Latin symbols may be used with Chatisun to aid parsing. None of these are required, but it is important to understand what they mean in case you come across them.
+
+| Name | Symbol | Usage | Example |
+|------|--------|-------|---------|
+|      |        | Separates words and separates clusters of digits in a long number
+|      | '      | Precedes a _loanword_
+|      | .      | Follows the last word of a sentence or follows the ones digit of a number
+|      | ,      | Follows the last word before a brief pause
+|      | (      | Precedes the first word of an ambiguously bounded phrase
+|      | )      | Follows the last word of an ambiguously bounded phrase
+|      | ~      | Denotes a range between two values
+|      | -      | Precedes the digits of a negative number or denotes the subtraction of two values
+|      | +      | Denotes addition of two values or stands in for the word `and`
+|      | /      | Precedes the denominator of a fraction
+|      | 0      | Zero
+|      | 1      | One
+|      | 2      | Two
+|      | 3      | Three
+|      | 4      | Four
+|      | 5      | Five
+|      | 6      | Six
+|      | 7      | Seven
+|      | 8      | Eight
+|      | 9      | Nine
+|      | A      | Ten (only in base twelve or sixteen)
+|      | B      | Eleven (only in base twelve or sixteen)
+|      | C      | Twelve (only in base sixteen)
+|      | D      | Thirteen (only in base sixteen)
+|      | E      | Fourteen (only in base sixteen)
+|      | F      | Fifteen (only in base sixteen)
 
 ## Vocabulary
 
@@ -71,6 +108,34 @@ _Pseudowords_ are common phrases that do not merit mention in a dictionary but d
 In addition to the basic, independent words, there are compound words. Compound words are formed by simply combining two or more preexisting words. A compound word may combine several common grammar tokens into a single word that has the same meaning as the combination of its parts, or it may combine two or more verbs, nouns, or pseudowords to create something new. In the latter case, the meaning and part of speech is closest to the second word, with the first word providing additional detail. There are thousands of them, supplying the many nuanced and specific concepts a complete langauge needs. The vast majority, however, are not documented here. That's because there are thousands of them, and I have a life. I recorded the ones I needed for various things in [compound_word.csv](dictionary/compound_word.csv), but I guess if you want to sing Djastiz, you can just come up with your own, provided they are logical. Submit a pull request if you think some compound word ought to be included in the main list. If it is a technical or regional term, though, beware, as a _loanword_ may be more appropriate.
 
 ### Loanwords
+
+Approved extensions to the Chatisun alphabet for more accurate transcription of loanwords:
+ə y ŋ ʔ b d ɡ θ ʃ x v ð z ʒ ɣ ɽ ʙ r ǃ ph tɽ kw tk ŋj tɣ kʔ sl ˩ ˨ ˧ ˦ ˥
+
+|                          | Labial | Dental | Alveolar | Postalveolar | Palatal | Velar | Glottal |
+|--------------------------|--------|--------|----------|--------------|---------|-------|---------|
+|**Nasal**                 | m      | n      | n        | n            | ŋj      | ŋ     |         |
+|**Plosive**               | p b    | t d    | t d      | t d          | kj gj   | k g   | ʔ       |
+|**Fricative**             | f v    | θ ð    | s z      | ʃ ʒ          | xj ɣj   | x ɣ   | h       |
+|**Lateral fricative**     |        | lʃ lʒ  | lʃ lʒ    | lʃ lʒ        | lx lɣ   | lx lɣ |         |
+|**Approximant**           | w      | r      | r        | r            | j       | ɯ     |         |
+|**Lateral approximant**   |        | l      | l        | l            | lj      | lɯ    |         |
+|**Tap/Trill**             | ʙ      | r      | r        | r            |         | r     |         |
+|**Click/Implosive**       | ǃ      | ǃ      | ǃ        | ǃ            | ǃ       | !     |         |
+|**Secondary articulation**| ◌w     | ◌r     | ◌r       | ◌r           | ◌j      | ◌ɣ    | ◌ʔ      |
+
+|               | Front | Central | Back |
+|---------------|-------|---------|------|
+|**Approximant**| j y   | j w     | ɯ w  |
+|**Close**      | i y   | i u     | ɯ u  |
+|**Mid**        | e y   | a ɒ     | ɯ o  |
+|**Open**       | a ɒ   | a ɒ     | a ɒ  |
+
+|**Aspirated**      | ◌h |**Extra high**| ˥ |
+|**Rhoticity**      | ◌r |**High**      | ˦ |
+|**Nasalised**      | ◌n |**Mid**       | ˧ |
+|**Nasal release**  | ◌n |**Low**       | ˨ |
+|**Lateral release**| ◌l |**Extra low** | ˩ |
 
 For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, the preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, while the United States of America could be described with the words `ngidh` and `flupshr`, the proper term in Djastiz is `iunaitedsteits`. Loanwords use the phonology of Modern Djastiz, and contain no tones save the `moja`.
 
