@@ -5,14 +5,13 @@ eng,cst,source
 "undo; OBJ happens in reverse",,cessative of ""happen""""antonym of ""happen""
 "begin; start; commence; become; go; summon; arrive; to; incohative; SBJ (starter) makes OBJ transition from falsehood to truth",,
 "end; stop; cease; unbecome; come; send; leave; depart; from; cessative; SBJ (stopper) makes OBJ transitions from truth to falsehood"",,reversal of ""begin""
-"have; exist; be; OBJ (thing; reality) exists for IND (haver)",,
+"be; exist; have; equal; copula; OBJ exists and is the same thing as IND",,
 "create; make; appear; produce; SBJ (creator) creates OBJ (creation)",,incohative of ""exist""
 "delete; destroy; disappear; SBJ (deleter; destroyer) deletes OBJ (deleted; disappeared)",,cessative of ""exist""
 "be fruitful; produce; OBJ has the capacity to produce IND",,possibility of ""create""
 "be barren; OBJ does not have the capacity to produce IND",,antonym of ""be fruitful""
 "till; SBJ (tiller) tills OBJ (TOOL:plow)",,incohative of ""be fruitful""
 "raze; destroy productive capabilities; SBJ razes OBJ",,cessative of ""be fruitful""
-"be; equal; copula; OBJ is the same thing as IND",,
 "continue; maintain; be constant; be permanent; hold still; SBJ (maintainer) makes OBJ hold still for some time",,
 "change; be transient; be temporary; SBJ makes the state of OBJ change",,antonym of ""continue""
 "repeat; do again; return to; SBJ makes OBJ happen after having happened already",,
@@ -24,7 +23,7 @@ eng,cst,source
 "want; desire; hunger; hope; OBJ (hoper; wanter; desirous; hungry) wants IND (desire; wish; hope) to happen",,
 "require; need; must; IND (requisite; requirement) must be true in order for OBJ to be true",,
 "imply; if; if IND (condition) happens, OBJ will happen",,
-"should; be good; IND should happen to make OBJ (value function; goal) be true",,
+"should; be fit; be good; IND should happen to make OBJ (value function; goal) be true",,
 "should not; be bad; be unwise; IND (problem) should not happen to make OBJ be true",,antonym of ""should""
 "must; IND (obligation; rule; requirement) must happen according to OBJ (authority)",,
 "exceed; be positive; be greater; be more; be enough; be too much; OBJ is numerically greater than IND (zero; reference) (AMOUNT:numerical value; positiveness)",,
@@ -77,6 +76,7 @@ eng,cst,source
 "drive apart; aggravate; SBJ (enemy-maker) makes OBJ become hostile toward IND",,cessative of ""be friendly""
 "love romantically; be infatuated; OBJ (lover) is in love with IND (love)",,
 "set up; fall in love; introduce; infatuate; SBJ (matchmaker; cupid) makes OBJ fall in love with IND",,
+"relate; OBJ (relatee) is genetically related to IND (relative; kin; blood)",,
 "face; point; OBJ (direction) is oriented in the direction toward IND (target; front)",,
 "turn; face; point; SBJ (pointer) makes OBJ (turner) turn toward IND",,incohative of ""face""
 "turn away; avert; SBJ makes OBJ turn away from IND",,cessative of ""face""
@@ -92,37 +92,46 @@ eng,cst,source
 "be early; be before; negative time; OBJ (past) happens before IND",,antonym of ""be late""
 "laten; travel forward through time; SBJ pushes OBJ forward through time",,incohative of ""be late""
 "early; travel back in time; SBJ (time machine) pulls OBJ backward in time",,cessative of ""be late""
-"be big; large; OBJ has a high volume (AMOUNT:size; volume)",,
-"be small; little; OBJ has a low volume",,antonym of ""big""
+"be big; be large; OBJ has a high volume (AMOUNT:size; volume)",,
+"be small; be little; OBJ has a low volume",,antonym of ""be big""
 "grow; expand; dilate; SBJ (grower) grows OBJ",,incohative of ""be big""
-"shrink; contract; constrict; SBJ (shrinker) shrinks OBJ",,incohative of ""be small""
+"shrink; contract; constrict; SBJ (shrinker) shrinks OBJ",,cessative of ""be big""
 "be long; be tall; OBJ (stick; rod; strand) is long; see ""be old"" (AMOUNT:length; maximum physical dimension)",,
-"be short; OBJ (nub; knob) is short; see ""be young""",,antonym of ""long""
+"be short; OBJ (nub; knob) is short; see ""be young""",,antonym of ""be long""
 "lengthen; grow; SBJ (lengthener) lengthens OBJ",,incohative of ""be long""
-"shorten; shrink; SBJ (shortener) shortens OBJ",,incohative of ""be short""
+"shorten; shrink; SBJ (shortener) shortens OBJ",,cessative of ""be long""
 "be broad; OBJ is broad (AMOUNT:breadth; middle dimension)",,
 "be narrow; OBJ is narrow",,antonym of ""broad""
 "broaden; SBJ (broadener) broadens OBJ",,incohative of ""be broad""
-"narrow; SBJ (narrower) narrows OBJ",,incohative of ""be narrow""
+"narrow; SBJ (narrower) narrows OBJ",,cessative of ""be broad""
 "be thick; SBJ (slab) is thick (AMOUNT:thickness; minimum dimension)",,
 "be thin; SBJ (sheet) is thin",,antonym of ""thick""
 "thicken; SBJ (thickener) thickens OBJ",,incohative of ""be thick""
-"thin; SBJ (thinner) thins OBJ",,incohative of ""be thin""
+"thin; SBJ (thinner) thins OBJ",,cessative of ""be thick""
 "be far; be distant; be beyond; be not at all; OBJ is physically or numerically far from IND (AMOUNT:distance)",,
 "be near; be close; be before; be approximately; be like; OBJ is physically or numerically close to IND",,antonym of ""be far""
 "distance; move away; separate; SBJ (separator) distances OBJ from IND",,incohative of ""be far""
 "approach; move toward; draw close; put together; SBJ (joiner) moves OBJ toward IND",,cessative of ""be far""
 "be in front; be forward; OBJ (field of view) has a positive _y_ coordinate from IND's point of view (AMOUNT:_y_ coordinate)",,
 "be behind; be backward; OBJ (back) has a negative _y_ coordinate from IND's point of view",,antonym of ""be forward""
-"move in front; SBJ moves OBJ forward from IND's point of view
-"be right; SBJ (right side) has a higher _x_ coordinate than OBJ from IND's point of view (AMOUNT:_z_ coordinate)",,antonym of ""be left""
-"be left; SBJ (left side) has a lower _x_ coordinate than OBJ from IND's point of view",,antonym of ""be right""
-"be wide; be obtuse; be big; be large; SBJ (splotch; blotch) spans a wide angle from the point of view of OBJ (AMOUNT:angle;angular size)",,antonym of ""be narrow""
-"be narrow; be acute; be small; be little; SBJ (dot; point) spans a narrow angle from the point of view of OBJ (LOCATION:edge; blade)",,antonym of ""be wide""
-"be below; be down; SBJ (header; top) appears below OBJ from the point of view of IND (AMOUNT:altitude angle; distance down page)",,antonym of ""be above""
+"advance; move forward; SBJ (advancer) makes OBJ move forward from IND's point of view",,incohative of ""be forward""
+"retreat; move backward; SBJ (retreater) makes OBJ move backward from IND's point of view",,cessative of ""be forward""
+"be right; OBJ (right side) has a positive _x_ coordinate from IND's point of view (AMOUNT:_z_ coordinate)",,
+"be left; OBJ (left side) has a negative _x_ coordinate from IND's point of view",,antonym of ""be right""
+"move right; SBJ makes OBJ move right from IND's point of view",,incohative of ""be right""
+"move left; SBJ makes OBJ move left from IND's point of view",,cessative of ""be right""
+"be wide; be obtuse; be big; be large; OBJ (splotch; blotch) spans a wide angle from the point of view of IND (AMOUNT:angle;angular size)",,
+"be narrow; be acute; be small; be little; OBJ (dot; point) spans a narrow angle from the point of view of IND (edge; blade; corner)",,antonym of ""be wide""
+"widen; grow; spread out; dilate; SBJ makes OBJ span a wider angle from the point of view of IND",,incohative of ""be wide""
+"narrow; shrink; contract; SBJ makes OBJ span a smaller angle from the point of view of IND",,cessative of ""be wide""
+"be below; be down; SBJ (header; top) appears below OBJ from the point of view of IND (AMOUNT:altitude angle; distance down page)",,
 "be above; be up; SBJ (footer; bottom) appears below OBJ from the point of view of IND",,antonym of ""be below""
-"be starboard; be right; SBJ appears to the right of OBJ from the point of view of IND (AMOUNT:bearing; azimuth angle; distance across page)",,antonym of ""be port""
-"be port; be left; SBJ appears to the left of OBJ from the point of view of IND",,antonym of ""be starboard""
+"lower; SBJ (lowerer) makes OBJ appear to move down from the point of view of IND",,incohative of ""be below""
+"raise; rise; SBJ (raiser) makes OBJ appear to move up from the point of view of IND",,cessative of ""be below""
+"be starboard; be right; OBJ appears on IND's right (AMOUNT:bearing; azimuth angle; distance across page)",,
+"be port; be left; OBJ appears on IND's left",,antonym of ""be starboard""
+"move starboard; move right; SBJ moves OBJ to IND's right",,incohative of ""be starboard""
+"move port; move left; SBJ moves OBJ to IND's left",,cessative of ""be starboard""
 "be widdershins; be counterclockwise; SBJ appears rotated widdershins from the orientation OBJ (original orientation; right-side up) from the point of view of IND (AMOUNT:orientation; rotation)",,antonym of ""be clockwise""
 "be clockwise; be SBJ appears rotated clockwise from the orientation OBJ from the point of view of IND",,antonym of ""be widdershins""
 "be low; SBJ (ground; earth; depths) has a lower altitude than OBJ (standard altitude; usually sea level) based on the planet IND (AMOUNT:elevation; altitude); antonym of ""high""; usually synonomous with ""down"" in which case ""down"" is preferred",,
@@ -138,27 +147,28 @@ eng,cst,source
 "work; productive; SBJ (worker) works to make OBJ (job; work) happen (LOCATION:workplace; workstation; office)",,
 "index; OBJ (item; element) has a position in IND (list; order; sequence) (AMOUNT:position; index)",,
 "notice; OBJ (noticer) is conciously aware of the presence of SBJ (noticed)",,
-"call attention; SBJ (attention caller) calls OBJ's attention to SBJ",,incohative of ""notice""
+"call attention; point out; notice; SBJ (attention caller) calls OBJ's attention to SBJ",,incohative of ""notice""
 "hide; obscure; SBJ (hider; obscurer) hides SBJ from OBJ",,cessative of ""notice""
 "mean; call; OBJ (name; signal; word) means IND (definition; meaning; denotation)",,
 "define; name; SBJ (definer; dictionary; convention; protocol) declares that OBJ means IND",,
-"relate; OBJ (relatee) is genetically related to IND (relative; kin; blood)",,
-"show; SBJ (shower) encourages and enables IND (audience) to passively perceive OBJ (show)",,
-"be alive; be animate; be lively; be active; be on; SBJ is alive (TIME:life)",,antonym of ""be dead""
-"convert; translate; SBJ (converter; translator) conveys OBJ in the form IND",,
+"be alive; be animate; be lively; be active; be on; OBJ (living thing) is alive (AMOUNT:liveliness;TIME:life)",,
+"be dead; be inanitame; be unlively; be passive; be off; OBJ (corpse) is dead (TIME:death)",,antonym of ""be alive""
+"bring to life; come to life; animate; activate; turn on; SBJ (activator) brings OBJ to life",,incohative of ""be alive""
+"kill; murder; die; pass away; deactivate; turn off; SBJ (killer; murderer) kills OBJ",,cessative of ""be alive""
+"convert; translate; transform; SBJ (converter; translator) conveys OBJ in the form IND (MANNER:transformation)",,
 "wear; be clothed; SBJ wears OBJ (clothes; article)",,
-"jostle; move; SBJ deforms and moves in place",,
-"still",,
+"jostle; move; SBJ makes OBJ deform and move in place",,
+"be still; OBJ ",,
 "oblivious",,
-"write; record; save a file; SBJ (writer) writes OBJ (writing; data) on IND (record) (TOOL:writing utensil|LOCATION:desk; writing surface)",,
+"write; record; save a file; SBJ (writer) writes OBJ (writing; data) on IND (record) (TOOL:writing utensil;LOCATION:desk; writing surface)",,
 "read; derive meaning from a physical object; load a file; SBJ (reader) reads OBJ (reading; data) from IND (source)",,
 "wall off; SBJ (wall; roadblock) walls off IND (outdoors; outside; other side) from OBJ (room; indoors; inside; this side)",,
 "be outer; be outside; SBJ is many layers away from the center of OBJ (structure)",,antonym of ""inner""
 "be inner; be inside; SBJ is many layers near the center of OBJ",,antonym of ""outer""
 "succeed",,
 "fail",,
-"be quiet; dim; soft; faint; weak; OBJ is quiet,cicak, ono ʃ
-"be loud; be bright; be strong; OBJ is bright (AMOUNT:volume; amplitude; brightness)",sucak,antonym of ""be quiet""
+"be quiet; dim; soft; faint; weak; OBJ is quiet,cisas, ono ʃ
+"be loud; be bright; be strong; OBJ is bright (AMOUNT:volume; amplitude; brightness)",susas,antonym of ""be quiet""
 "dampen; quiet; dim; soften; weaken; SBJ (damper) dampens OBJ",,incohative of ""be quiet""
 "amplify; louden; brighten; strengthen; SBJ (amplifier) amplifies OBJ",,cessative of ""be quiet""
 "abandon",,
@@ -321,26 +331,70 @@ eng,cst,source
 "combine",,
 "broken; having fallen apart or cracked",,
 "leisure",,
-"full; of indirect object",,
-"empty; of indirect object",,
+"be full; OBJ is full of IND",,
+"be empty; be blank; OBJ (void; vacuum) is empty of IND",,antonym of ""be full""
+"fill",
+"empty; clear",
 "time-distance",,
-"red; stimulation of L cones",,
-"aqua; cyan; stimulation of M and S cones",,
-"green; stimulation of M cones",,
-"fuchsia; magenta; stimulation of L and S cones",,
-"blue; stimulation of S cones",,
-"yellow; stimulation of L and M cones",,
-"hue; expressed colloquially as a color name, not an angle",,
-"pastel; value of color",,
-"dark; darkness of color",,
-"chroma; saturation of color",,
-"desaturated; blandness of color",,
-"warm; of a color",,
-"cool; of a color",,
-"opaque",,
-"transparent",,
-"vibrant; diversity of color",,
-"color; ojbect is a color value, not a number",,
+"be colored; hue; expressed colloquially as a color name, not an angle",,
+"be red; OBJ reflects low wavelength light (AMOUNT:redness)",,
+"be aqua; be cyan; be sky blue; OBJ reflects medium and long wavelength light",,antonym of ""be red""
+"redden; color red",,
+"color aqua",,
+"be green; OBJ reflects medium wavelength light (AMOUNT:greenness)",,
+"be fuchsia; be magenta; be pink; OBJ reflects short and long wavelength light",,antonym of ""be green""
+"green; color green",,
+"color fuchsia",,
+"be blue; OBJ reflects short wavelength light (AMOUNT:blueness)",,
+"be yellow; OBJ reflects short and medium wavelength light",,antonym of ""be blue""
+"color blue",,
+"color yellow",,
+"be white; be light; OBJ reflects all wavelengths of light (AMOUNT:whiteness; value)",,
+"be black; be dark; OBJ reflects no wavelengths of light",,antonym of ""be white""
+"whiten; lighten; dodge",,
+"blacken; darken; shade",,
+"be colorful; be bright; be saturated; OBJ reflects some wavelengths of light much more than others (AMOUNT:chroma; saturation; brightness)",,
+"be grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same",,antonym of ""be colorful""
+"color",,
+"color grey",,
+"be opaque; OBJ absorbs light that it does not reflect (AMOUNT:opacity)",,
+"be transparent; be see-through; OBJ (window) lets unreflected light pass through it",,antonym of ""be opaque""
+"opaquify",,
+"transparify",,
+"be shiny; be reflective; be smooth; OBJ (mirror) reflects light specularly (AMOUNT:shininess)",,
+"be matte; be dull; be rough; OBJ reflects light diffusely",,antonym of ""be shiny""
+"shine; polish",,
+"matte",,
+"be shaped like; OBJ (blob) is shaped like IND (shape)",,
+"be circular",,
+"be square; be rectangular",,opposite of ""be circular""
+"be polygonal; OBJ (polygon) is polygonal",,
+"cup; corner; bay; dip; U; open container",,
+"stick; a shape where one dimension is much bigger than the others",,
+"sheet; cloth; paper; a shape where one dimension is much smaller than the others",,
+"powder",,
+"pile; bits; describes gravel and cereal",,
+"path; line; curve",,
+"foam; sponge",,
+"network; net; web",,
+"string",,
+"hole; hallway; tube; gap",,
+"be made out of; comprise; OBJ is made out of IND (material; substance; element)",,
+"be solid; be rigid; OBJ (rigid body) is solid (AMOUNT:solidity; rigidity)",,
+"be fluid; be amorphous; OBJ is fluid",,antonym of ""be solid""
+"freeze; solidify; deposit; SBJ (freezer) freezes OBJ (frozen; ice) (TOOL:freezer)",,incohative of ""be solid""
+"melt; sublimate; SBJ (melter) melts OBJ (molten)",,cessative of ""be solid""
+"be liquid; OBJ (puddle) is liquid (AMOUNT:liquidity; wetness)",,
+"be gaseous; OBJ (gas; cloud) is gaseous",,antonym of ""be liquid""
+"condense; liquidify; SBJ (condenser) condenses OBJ (condensed; cloud) into a liquid",,incohative of ""be liquid""
+"boil; evaporate; SBJ (boiler) boils OBJ",,cessative of ""be liquid""
+"fire; flame",,
+"material; substance; chemical; element",,
+"wood",,
+"rock; earth",,
+"metal",,
+"crystal",,
+"electricity",,
 "involve",,
 "reach",,
 "jump; over the indirect object onto the direct object",,
@@ -408,7 +462,7 @@ eng,cst,source
 "imagine",,
 "think-of; come up with an idea",,
 "ponder; think about; OBJ (thinker) thinks about IND (train of thought) (TOOL:mind; soul)",,
-"compute; a number or something",,
+"calculate; compute; work through; think on",,
 "hot",,
 "cold",,
 "fun-have",,
@@ -658,8 +712,6 @@ eng,cst,source
 "complete",,
 "incomplete",,
 "reference; refer to; consult with",,
-"wet",,
-"dry",,
 "attention; be occupied by the direct object",,
 "synergize; constructively interfere",,
 "cancel-out; destructively interfere",,
