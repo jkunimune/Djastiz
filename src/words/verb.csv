@@ -6,7 +6,7 @@ eng,cst,source
 "begin; start; commence; become; go; summon; arrive; to; incohative; SBJ (starter) makes OBJ transition from falsehood to truth",,
 "end; stop; cease; unbecome; come; send; leave; depart; from; cessative; SBJ (stopper) makes OBJ transitions from truth to falsehood"",,reversal of ""begin""
 "be; exist; have; equal; copula; OBJ exists and is the same thing as IND",,
-"create; make; appear; produce; SBJ (creator) creates OBJ (creation)",,incohative of ""exist""
+"create; make; appear; produce; SBJ (creator) makes OBJ (creation) into IND",,incohative of ""exist""
 "delete; destroy; disappear; SBJ (deleter; destroyer) deletes OBJ (deleted; disappeared)",,cessative of ""exist""
 "be fruitful; produce; OBJ has the capacity to produce IND",,possibility of ""create""
 "be barren; OBJ does not have the capacity to produce IND",,antonym of ""be fruitful""
@@ -35,7 +35,7 @@ eng,cst,source
 "take; lose; give away; SBJ (taker) takes IND from OBJ (loser)",,cessative of ""have""
 "perceive; find perceptible; see; hear; smell; test; read; OBJ (perceiver; observer; seer; hearer) can perceive IND (perception; sight; sound; scent) (TOOL:sense; sensor)",,
 "show; convey; say; look; listen; sniff; taste; read; SBJ (shower; looker; listener) shows IND (signal; message; show) to OBJ (observer; seer; hearer)",,incohative of ""perceive""
-"communicate; take; correspond; SBJ has a two-way interaction with OBJ (interlocutor) about IND (topic; conversation; passage) (TOOL:language)",,
+"communicate; take; correspond; SBJ has a two-way interaction with OBJ (interlocutor) about IND (topic; conversation; passage) (MANNER:language)",,
 "be tangible; be physical; OBJ (object) is tangible",,
 "be intangible; be nonphysical; OBJ (concept) is intangible",,antonym of ""be tangible""
 "tangiblise; SBJ (tangibliser) brings OBJ into the physical realm",,incohative of ""be tangible""
@@ -100,7 +100,7 @@ eng,cst,source
 "be short; OBJ (nub; knob) is short; see ""be young""",,antonym of ""be long""
 "lengthen; grow; SBJ (lengthener) lengthens OBJ",,incohative of ""be long""
 "shorten; shrink; SBJ (shortener) shortens OBJ",,cessative of ""be long""
-"be broad; OBJ is broad (AMOUNT:breadth; middle dimension)",,
+"be broad; OBJ (ribbon; blade) is broad (AMOUNT:breadth; middle dimension)",,
 "be narrow; OBJ is narrow",,antonym of ""broad""
 "broaden; SBJ (broadener) broadens OBJ",,incohative of ""be broad""
 "narrow; SBJ (narrower) narrows OBJ",,cessative of ""be broad""
@@ -126,23 +126,33 @@ eng,cst,source
 "narrow; shrink; contract; SBJ makes OBJ span a smaller angle from the point of view of IND",,cessative of ""be wide""
 "be below; be down; SBJ (header; top) appears below OBJ from the point of view of IND (AMOUNT:altitude angle; distance down page)",,
 "be above; be up; SBJ (footer; bottom) appears below OBJ from the point of view of IND",,antonym of ""be below""
-"lower; SBJ (lowerer) makes OBJ appear to move down from the point of view of IND",,incohative of ""be below""
+"sink; SBJ (lowerer) makes OBJ appear to move down from the point of view of IND",,incohative of ""be below""
 "raise; rise; SBJ (raiser) makes OBJ appear to move up from the point of view of IND",,cessative of ""be below""
 "be starboard; be right; OBJ appears on IND's right (AMOUNT:bearing; azimuth angle; distance across page)",,
 "be port; be left; OBJ appears on IND's left",,antonym of ""be starboard""
 "move starboard; move right; SBJ moves OBJ to IND's right",,incohative of ""be starboard""
 "move port; move left; SBJ moves OBJ to IND's left",,cessative of ""be starboard""
-"be widdershins; be counterclockwise; SBJ appears rotated widdershins from the orientation OBJ (original orientation; right-side up) from the point of view of IND (AMOUNT:orientation; rotation)",,antonym of ""be clockwise""
-"be clockwise; be SBJ appears rotated clockwise from the orientation OBJ from the point of view of IND",,antonym of ""be widdershins""
-"be low; SBJ (ground; earth; depths) has a lower altitude than OBJ (standard altitude; usually sea level) based on the planet IND (AMOUNT:elevation; altitude); antonym of ""high""; usually synonomous with ""down"" in which case ""down"" is preferred",,
-"be high; SBJ (sky; cosmos) has a higher altitude than OBJ based on the planet IND; antonym of ""low""; usually synonomous with ""up"" in which case ""up"" is preferred",,
-"be south; SBJ has a lower latitude than OBJ (standard parallel; usually the North Pole) based on the planet IND (AMOUNT:latitude)",,antonym of ""be north""
-"be north; SBJ has a higher latitude than OBJ based on the planet IND",,antonym of ""be south""
-"be east; SBJ has a higher longitude than OBJ (standard meridian; prime meridian) based on the planet IND (AMOUNT:longitude)",,antonym of ""be west""
-"be west; SBJ has a lower longitude than OBJ based on the planet IND",,antonym of ""be east""
-"be moral; be right; be good; if SBJ (good deed; moral) happens, it will be morally good (AMOUNT:morality; goodness)",,antonym of ""be evil""
-"be evil; be immoral; be wrong; be bad; if SBJ (evil; sin) happens, it will be morally bad",,antonym of ""be moral""
-"be skillful; be apt; be effective; be good; SBJ is good at causing OBJ (AMOUNT:skill level)",,antonym of ""be inept""
+"be counterclockwise; be widdershins; OBJ appears rotated counterclockwise from the orientation IND (original orientation; right-side up) from the point of view of IND (AMOUNT:orientation; rotation)",,
+"be clockwise; OBJ appears rotated clockwise from the orientation OBJ from the point of view of IND",,antonym of ""be counterclockwise""
+"rotate counterclockwise; SBJ (counterclockwise turner) turns OBJ counterclockwise from IND's point of view",,incohative of ""be counterclockwise""
+"rotate clockwise; SBJ (clockwise turner) turns OBJ clockwise from IND's point of view",,cessative of ""be low""
+"be low; OBJ (ground; earth; depths) has a lower altitude than IND (standard altitude; usually sea level) (AMOUNT:lowness; deelevation; altitude)",,
+"be high; OBJ (sky; cosmos) has a higher altitude than IND",,antonym of ""be low""
+"lower; SBJ (lowerer) decreases OBJ's altitude relative to IND",,incohative of ""be low""
+"heighten; SBJ (raiser) increases OBJ's altitude relative to IND",,cessative of ""be low""
+"be south; OBJ has a lower latitude than IND (standard parallel; usually the North Pole) (AMOUNT:latitude)",,
+"be north; OBJ has a higher latitude than IND",,antonym of ""be south""
+"move south; SBJ decreases the latitude of OBJ relative to IND",,incohative of ""be south""
+"move north; SBJ increases the latitude of OBJ relative to IND",,cessative of ""be south""
+"be east; OBJ has a higher longitude than IND (standard meridian; prime meridian) (AMOUNT:longitude)",,
+"be west; OBJ has a lower longitude than IND",,antonym of ""be east""
+"move east; SBJ increases the longitude of OBJ relative to IND",,incohative of ""be east""
+"move west; SBJ decreases the longitude of OBJ relative to IND",,cessative of ""be east""
+"be moral; be right; be good; if OBJ (good deed; moral) happens, it will be morally good (AMOUNT:morality; goodness)",,
+"be evil; be immoral; be wrong; be bad; if OBJ (evil; sin) happens, it will be morally bad",,antonym of ""be moral""
+"rectify; turn good; SBJ makes OBJ become moral",,incohative of ""be moral""
+"wrong; turn evil; SBJ makes OBJ become evil",,cessative of ""be moral""
+"be skillful; be apt; be effective; be good; SBJ is good at causing OBJ (AMOUNT:skill level)",,
 "be inept; be unskillful; be ineffective; be bad; SBJ is bad at causing OBJ",,antonym of ""be skillful""
 "work; productive; SBJ (worker) works to make OBJ (job; work) happen (LOCATION:workplace; workstation; office)",,
 "index; OBJ (item; element) has a position in IND (list; order; sequence) (AMOUNT:position; index)",,
@@ -366,12 +376,11 @@ eng,cst,source
 "shine; polish",,
 "matte",,
 "be shaped like; OBJ (blob) is shaped like IND (shape)",,
-"be circular",,
-"be square; be rectangular",,opposite of ""be circular""
+"be circular; be round; OBJ (circle) is circular",,
+"be square; be rectangular; OBJ (rectangle; square; box) is rectangular",,opposite of ""be circular""
 "be polygonal; OBJ (polygon) is polygonal",,
-"cup; corner; bay; dip; U; open container",,
-"stick; a shape where one dimension is much bigger than the others",,
-"sheet; cloth; paper; a shape where one dimension is much smaller than the others",,
+"be hollow; be closed; be empty; OBJ (shell) is hollow",,
+"be cupped; be U-shaped; be open; be confined; OBJ (cup; corner; bay; bay; dip; U; open container) is open on one side and closed on the others",,opposite of ""be hollow""
 "powder",,
 "pile; bits; describes gravel and cereal",,
 "path; line; curve",,

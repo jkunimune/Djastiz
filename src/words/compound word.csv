@@ -60,7 +60,7 @@ eng,cst,source
 "train",,path vehicle
 "swim",,liquid traverse
 "climb; SBJ (climber) climbs OBJ (ladder; handholds)",,wall traverse
-"bathroom",,clean room
+"bathroom; restroom",,clean room
 "butthole",,feces hole
 "subcontinent (e.g. Europe, South Asia)",,small continent
 "oasis; watering hole",,water point

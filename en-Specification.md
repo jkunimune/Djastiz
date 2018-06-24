@@ -31,17 +31,17 @@ If you don't know what any of that means, don't worry about it. Here is a more t
 |   i  |   i    |     i      |    i\~ɪ     |      EAt        |    u    | Vowel
 |   u  |   u    |     u      |    u\~ʊ     |      OOze       |    i    | Vowel
 |  jot |   j    |     j      |   j, ʲ, i   |      Yell       |   wet   | Glide
-|  lo  |   l    |     l      |    l\~ɾ     |      Limb       |    te   | Sonorant
+|  lo  |   l    |     l      |    l\~ɾ     |      Limb       |    no   | Sonorant
 |  wet |   w    |     w      |   w, ʷ, u   |     Wander      |   jot   | Glide
-|  no  |   n    |     n      |   n, ŋ\~ɴ   |     Night       |    me   | Sonorant
-|  me  |   m    |     m      |      m      |      Meet       |    no   | Sonorant
-|  ho  |   h    |     h      |   x\~h, ɦ   |      Hack       |    fe   | Sonorant
-|  co  |   c    |     tʃ     |tʃ\~tʂ, ʃ\~ʂ |      CHop       |    se   | Obstruent
-|  se  |   s    |     s      |      s      |      Soon       |    co   | Obstruent
-|  fe  |   f    |     f      |    ɸ\~f     |      Fall       |    ho   | Sonorant
-|  ko  |   k    |     k      |   k kʰ ɡ    |      Kill       |    pe   | Obstruent
-|  te  |   t    |     t      |   t tʰ d    |      Tomb       |    lo   | Obstruent
-|  pe  |   p    |     p      |   p pʰ b    |      Pool       |    ko   | Obstruent
+|  no  |   n    |     n      |   n, ŋ\~ɴ   |     Night       |    lo   | Sonorant
+|  me  |   m    |     m      |      m      |      Meat       |    se   | Sonorant
+|  ho  |   h    |     h      |   x\~h, ɦ   |      Hack       |    ko   | Sonorant
+|  co  |   c    |    tʃ      |tʃ\~tʂ, ʃ\~ʂ |      CHop       |    te   | Obstruent
+|  se  |   s    |     s      |      s      |      Soon       |    me   | Obstruent
+|  fe  |   f    |     f      |    ɸ\~f     |      Fall       |    pe   | Sonorant
+|  ko  |   k    |     k      |   k kʰ ɡ    |      Kill       |    ho   | Obstruent
+|  te  |   t    |     t      |   t tʰ d    |      Tomb       |    co   | Obstruent
+|  pe  |   p    |     p      |   p pʰ b    |      Pool       |    fe   | Obstruent
 
 You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are &lt;j&gt;, &lt;c&gt;, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
@@ -110,9 +110,9 @@ In addition to the basic, independent words, there are compound words. Compound 
 ### Loanwords
 
 Approved extensions to the Chatisun alphabet for more accurate transcription of loanwords:
-ə y ŋ ʔ b d ɡ θ ʃ x v ð z ʒ ɣ ɽ ʙ r ǃ ph tɽ kw tk ŋj tɣ kʔ sl ˩ ˨ ˧ ˦ ˥
+ɒ y ɯ ŋ ʔ b d ɡ θ ʃ x v ð z ʒ ɣ ɽ ʙ r ǃ ˩ ˨ ˧ ˦ ˥
 
-|                          | Labial | Dental | Alveolar | Postalveolar | Palatal | Velar | Glottal |
+|                          | Labial | Dental | Alveolar | Postalveolar&tilde;Retroflex | Palatal | Velar&tilde;Uvular | Pharangeal&tilde;Glottal |
 |--------------------------|--------|--------|----------|--------------|---------|-------|---------|
 |**Nasal**                 | m      | n      | n        | n            | ŋj      | ŋ     |         |
 |**Plosive**               | p b    | t d    | t d      | t d          | kj gj   | k g   | ʔ       |
@@ -131,11 +131,11 @@ Approved extensions to the Chatisun alphabet for more accurate transcription of 
 |**Mid**        | e y   | a ɒ     | ɯ o  |
 |**Open**       | a ɒ   | a ɒ     | a ɒ  |
 
-|**Aspirated**      | ◌h |**Extra high**| ˥ |
-|**Rhoticity**      | ◌r |**High**      | ˦ |
-|**Nasalised**      | ◌n |**Mid**       | ˧ |
-|**Nasal release**  | ◌n |**Low**       | ˨ |
-|**Lateral release**| ◌l |**Extra low** | ˩ |
+|**Aspirated**      | ◌h |**High**  | ˥ |
+|**Rhoticity**      | ◌r |**Mid**   | ˧ |
+|**Nasalised**      | ◌n |**Low**   | ˩ |
+|**Nasal release**  | ◌n |**Stress**| ' |
+|**Lateral release**| ◌l |
 
 For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, the preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, while the United States of America could be described with the words `ngidh` and `flupshr`, the proper term in Djastiz is `iunaitedsteits`. Loanwords use the phonology of Modern Djastiz, and contain no tones save the `moja`.
 
