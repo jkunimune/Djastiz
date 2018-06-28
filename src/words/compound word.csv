@@ -4,8 +4,8 @@ eng,cst,source
 "us; first person plural exclusive; the speaker and others",,me it
 "y'all; second person plural; the listener and others",,you it
 "other; reciprocal",,not it
-"bless; yay; okay; positive exclamative mood",,like wow
-"fuck; boo; not; negative exclamative mood",,dislike wow
+"hello; goodbye; yay; bless; okay; positive exclamative mood",,like wow
+"boo; fuck; not; negative exclamative mood",,dislike wow
 "The Antarctic Ocean; the ocean",,Antarctica sea
 "The Arctic Ocean; the ocean",,The-Arctic sea
 "The West",,Europe US-Canada
@@ -14,11 +14,14 @@ eng,cst,source
 "Sol; The Sun",,human sun
 "Luna; The Moon",,human moon
 "Earth",,human planet
-"use internet; be wireless; be cyber; be crypto",,computer communicate
-"say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",,". convey"
-"ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",,"? convey"
-"tell; implore; command; instruct; lead; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",,">> convey"
+"communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ (interlocutor) about IND (topic; conversation; passage) (MANNER:language)",,show show
+"say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",,. convey
+"ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",,? convey
+"tell; implore; command; instruct; lead; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",,>> convey
 "request; SBJ (requester) politely asks IND (requestee) to make OBJ (request) happen",,please convey
+"exclaim; SBJ (exclaimer) makes an exclamatory utterance of OBJ (exclamation) to IND",,wow convey
+"greet; praise; SBJ (greeter; praiser) makes a positive utterance of OBJ (praised; occasion) to IND (greeted)",,yay convey
+"complain; denounce; SBJ (complainer) makes a negative utterance of OBJ (complaint; denouncee) to IND (sympathetic ear)",,boo convey
 "dictionary",,word one-to-which- list
 "alphabet",,letter one-that- obj set
 "part-of-speech",,word category
@@ -26,6 +29,9 @@ eng,cst,source
 "conlang",,design language
 "auxlang",,international language
 "artlang",,art language
+"succeed; SBJ succeeds at making OBJ happen",,try do
+"fail; SBJ fails to make OBJ happen",,try not do
+"use internet; be wireless; be cyber; be crypto",,computer communicate
 "female; woman",,vagina life
 "male; man",,penis life
 "be feminine; OBJ (woman; girl) is feminine",,vagina fill
@@ -60,6 +66,7 @@ eng,cst,source
 "train",,path vehicle
 "swim",,liquid traverse
 "climb; SBJ (climber) climbs OBJ (ladder; handholds)",,wall traverse
+"dig; SBJ (digger) digs OBJ (hole; tunnel)",,rock traverse
 "bathroom; restroom",,clean room
 "butthole",,feces hole
 "subcontinent (e.g. Europe, South Asia)",,small continent
@@ -82,6 +89,10 @@ eng,cst,source
 "national; SBJ (national) identifies as part of OBJ (nation; tribe; clan; e.g. Kurdistan, Tibet)",,culture join
 "citizen; SBJ (citizen) legally belongs to OBJ (state; sovereign; polity; e.g. India, The Vatican)",,govern join
 "tempt; entice to something appealing but immoral; SBJ (tempter; temptress) encourages IND (temptee) to do OBJ (temptation)",,evil suggest
+"needle",,sharp long
+"be jagged; be zig-zag; be pointy; OBJ (zig-zag) is jagged",,many be-straight
+"be polygonal; OBJ (polygon) is polygonal",,be-straight be-circuitous
+"polygonise; SBJ turns OBJ into a polygon",,incohative of ""be polygonal""
 "be spherical; be round; OBJ (sphere; ball) is spherical",,3 be-circular
 "be box-shaped; OBJ (box; rectangular prism) is box-shaped",,3 be-rectangular
 "be polyhedral; OBJ (polyhedron; gem) is polyhedral",,3 be-polygonal
@@ -95,8 +106,8 @@ eng,cst,source
 "steel",,structurally-strong iron
 "gold",,yellow metal
 "aluminum",,lightweight metal
-"gunpowder",,fire powder
-"oil; petroleum",,fire liquid
+"gunpowder",,burn powder
+"oil; petroleum",,burn liquid
 "quartz",,white crystal
 "emerald",,green crystal
 "diamond",,transparent crystal
@@ -149,6 +160,7 @@ eng,cst,source
 "dog",,human canid
 "horse",,human equid
 "rabbit; hare",,fast rodent
+"porcupine",,needle rodent
 "skunk",,scent musteloidea
 "raccoon",,black face musteloidea
 "camel",,desert camelid
@@ -161,8 +173,20 @@ eng,cst,source
 "antelope",,fast bovid
 "sheep",,hair bovid
 "goat",,mountain bovid
+"sloth",,slow xenarthran
+"anteater",,ant obj eat xenarthran
+"armadillo",,shell xenarthran
+"hyrax",,thick xenarthran
+"manatee; sea-cow",,sea elephant
+"waterfowl; duck; goose; swan",,liquid fowl
+"landfowl; chicken; turkey; pheasant",,ground fowl
+"chicken",, fowl
+"turkey",, fowl
+"hummingbird",,hum bustard
 "tau; 6.283",,circle number
 "pi; 3.142",,tau over two
+"be armoured; IND (armour) armours OBJ (armoured)",,protect wear
+"armour; SBJ (armourer) armours OBJ in IND",,incohative of ""be armoured""
 "bite; SBJ (biter) bites OBJ (bitten)",,mouth squeeze
 "snore",,sleep emit
 "pencil",,rock writing-utensil
@@ -172,9 +196,9 @@ eng,cst,source
 "polytheism; pantheon",,several god
 "monothiesm",,1 god
 "athiesm",,0 god
-"agnosticism; secularism; religious nonaffiliation",,not god
-"be vibrant; be colorful; OBJ has many hues and colors",,many be-colored
-"be monochromatic; OBJ has few colors",,few be-colored
+"agnosticism; secularism; religious nonaffiliation",,0 god
+"be vibrant; be colourful; OBJ has many hues and colours",,many be-coloured
+"be monochromatic; OBJ has few colours",,few be-coloured
 "flag; banner",,cloth symbol
 "revolution",,short change
 "rice",,grain pile
@@ -216,7 +240,7 @@ eng,cst,source
 "eat merienda; lunch late; eat linner; SBJ (late luncher) eats OBJ (late lunch; linner) (TIME:linnertime)",,after sun eat
 "eat supper; eat dinner; SBJ (diner; supper) eats OBJ (dinner; supper)",,be-after eat
 "eat dessert; eat midnight snack; SBJ (dessert) eats OBJ (dessert; midnight snack)",,moon eat
-"dine out; SBJ (diner) buys OBJ (restaurant meal) from IND (restaurant; server)",,eat buy
+"dine out; SBJ (diner) buys OBJ (restaurant meal) from IND (restaurant; server) (LOCATION:restaurant; food court; dining area)",,eat buy
 "satelite; artificial satelite",,metal moon
 "millimetre",,×10^ - 3 metre
 "centimetre",,×10^ - 2 metre
@@ -235,9 +259,9 @@ eng,cst,source
 "square; lot; park",,city region
 "park",,grass lot
 "screen",,sight surface
-"video; movie; TV show",,sight entertainment
-"music; song",,sound entertainment
-"audiobook; radio",,speech entertainment
+"screen; stream; show; SBJ (screener; streamer; television network) entertains OBJ visually with (video; movie; TV show)",,sight entertain
+"sing; play music; stream; SBJ (musician) entertains OBJ audially with IND (music; song)",,sound entertain
+"storytell; SBJ (storyteller; host) entertains OBJ verbally with IND (audiobook; radio)",,speech entertain
 "literature; book; blog; web serial",,text entertainment
 "theatre; play; performing arts",,person entertainment
 "news; current events; media",,now signal
@@ -262,3 +286,18 @@ eng,cst,source
 "junior year of college",,1 5 learn year
 "senior year of college",,1 6 learn year
 "be undead; OBJ is undead (TIME:afterlife)",,again be-alive
+"mine; quarry",,rock source
+"well",,water source
+"explode; blow up; detonate; SBJ (exploder) makes OBJ (exploded) explode",,break spread-out
+"implode; SBJ (imploder) makes OBJ (imploded) implode",,break gather
+"be fresh; OBJ is fresh",,scent be-new
+"be rotten; OBJ is rotten",,antonym of ""be fresh"""
+"freshen; SBJ (freshener) freshens OBJ",,incohative of ""be fresh""
+"rot; SBJ (rotter) rots OBJ",,cessative of ""be rotten""
+"be musty; OBJ is musty",,scent be-old
+"grow musty; mustify; SBJ (mustifier) causes OBJ to become musty",,incohative of ""be musty""
+"kitchen",,food makery
+"cook; fry; bake; boil; simmer; grill",,food burn
+"vegetarian; something that does not eat meat",,0 animal eater
+"carnivore; something that eats meat",,animal eater
+"herbivore; something that eats plants",,plant eater

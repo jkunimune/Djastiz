@@ -1,5 +1,11 @@
 eng,cst,source
 "notion; idea; not necessarily true or objective",,
+"point; a particular time or place",,
+"path; line; curve",,
+"surface; plane; wall",,
+"region; volume; interval",,
+"network; net; web",,
+"hole; hallway; tube; gap",,
 "person; woman; man; human",,
 "personify; humanise; anthropomorphise",,incohative of ""person""
 "beast; non-human animal",,opposite of ""person""
@@ -9,16 +15,22 @@ eng,cst,source
 "senior citizen; elder; a _really_ old person",,opposite of ""baby""
 "shrivel; age; SBJ turns OBJ into a really old person",,incohavite of ""senior citizen""
 "specialist; personel; qualified",,
-"train; specialise; SBJ turns OBJ into a specialist",,incohative of ""specialist""
+"specialise; train; qualify; SBJ turns OBJ into a specialist",,incohative of ""specialist""
 "layperson; civilian; customer",,opposite of ""specialist""
 "light",,
-"sight; representation of 3D space as 2D angular array of vectors",,
-"sound",,
-"tactility; touch",,
-"scent",,
+"sight; vision; representation of 3D space as 2D angular array of vectors",,
+"sound; audio; hearing",,
+"tactility; touch; feeling",,
+"scent; smell",,
 "flavor",,
 "speech; voice; spoken language",,
 "text; literature; written language",,
+"clap; slap; tick; a sudden, short, high-pitched sound",kef,kʰ
+"boom; crash; a sudden, loud, low-pitched sound",pum,ono bum
+"screech; wail; a shrill, drawn-out, high-pitched sound",hihih,iː
+"hum; buzz; a sonourous, drawn-out, low-pitched sound",mumum,mː
+"chatter; wobble; rustle; a long, noisy, high-pitched sound",cececef,tʃkətʃətʃə
+"rumble; a long, noisy, low-pitched sound",puwapuwam,wumbawumba
 "god; deity; a general term, not a reference to any particular god",,
 "ground; planet",,
 "cosmos; outer space",,opposite of ""ground""
@@ -74,23 +86,16 @@ eng,cst,source
 "fact; not necessarily true, but necessarily objective",,
 "information; notion, number, etc.",,
 "detail",,
-"Reality; the physical world of our human bodies and the four forces etc.",,
-"reality; any imagined or simulated or real universe",,
 "season",,
-"shape",,
-"point; a particular time or place",,
-"region; an area in space of a period of time",,
-"line; of the segment or infinite variety",,
-"curve; smooth path",,
-"loop; circuit; circle; closed path",,
-"language",,
+"reality; any imagined or simulated or real universe",,
+"violence; physical violence",,
 "culture",,
 "layout; topography; geography",,
 "mathematics",,
 "computer",,
 "life; organism",,
-"animal",,
-"plant",,
+"animal; meat",,
+"plant; vegetable",,
 "fungus",,
 "primate; monkey; ape",kukim,ono u ki ki
 "rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew",,
@@ -104,42 +109,32 @@ eng,cst,source
 "equine; horse; zebra; wild butt",hihin,ono hi hi
 "tapir",,
 "rhinoceros",,
-"cameline; camel; llama; alpaca; guanaco",,
+"camel; llama; alpaca; guanaco",,
 "swine; boar; pig",,
 "chevrotain",,
-"giraffe; and okapi",,
+"giraffe; okapi",,
 "bovine; cow; buffalo; antelope; sheep; goat",mum,ono muː
 "hippopotamus",,
 "whale; dolphin; porpoise",,
-"armadillo",,
-"anteater",,
-"sloth",,
-"afroinsectiphile; golden mole; tenrec; shrew; aardvark",,
 "elephant",bjah,ono bjãː
-"sea-cow; manatees",,
-"hyrax; little rodent-like things",,
-"opossum",,
-"shrew-oppossum; more closely related to Australia than possums",,
-"wombat; koala",,
-"phalangeriforme; possums... which are apparently different from opossums and tend to fly",,
-"kangaroos; wallabies",,
-"australidelphia; besides wombats, koalas, and kangaroos",,
+"xenarthran; anteater; armadillo; sloth; aardvark; tenrec; elephant shrew; golden mole; hyrax",,
+"opossum; possum; shrew-opossum",,
+"koala; wombat; tasmanian devil; numbat",,
+"kangaroo; wallaby",,
 "platypus",,
 "echidna",,
 "mammal",,
 "reptile",,
-"bird",cipic,ono tʃip tʃip
-"tuatara; a lizard-type thing",,
-"lizard",,
+"bird",cipicif,ono tʃip tʃip
+"lizard; tuatara",,
 "snake",sasah,ono sː
-"palaeognatha; ostriches, rheas, tinamous, kiwis, cassowaries, and emus",,
-"waterfowl",,
-"landfowl; chickens, turkeys, and pheasants",,
+"ostrich; emu; rhea; tinamou; kiwi; cassowary",,
+"fowl; duck; swan; goose; chicken; turkey; pheasant",,
 "flamingo",,
 "grebe",,
-"columbimorphae; pidgeons, doves, sandgrouses, and mesites",,
-"otidae; bustards, turacos, cuckoos, nightbirds, swifts, and hummingbirds",,
-"hoatzin; some weird kind of bird",,
+"pidgeon; dove; sandgrouse; mesite",,
+"bustard; turaco; cuckoo; nightbird; swift; hummingbird",,
+"hoatzin",,
 "shorebird",,
 "eurypygimorphae; a bunch of tropical birds",,
 "loon",,
@@ -251,7 +246,7 @@ eng,cst,source
 "lepidoptera; moths and butterflies",,
 "wasp",,
 "ant",,
-"bee",sum,ono zum zum
+"bee",susum,ono zum zum
 "sawfly",,
 "stonefly",,
 "embiidina; web-spinning insects",,
