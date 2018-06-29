@@ -1,6 +1,6 @@
 eng,cst,source
 "of; -'s; genitive; denotes modifier or associate (RELATIVE:whose)",in,ara in
-"than; as; partitive; denotes amount or degree (COMPLEMENT:amount; number; quantity; extent; magnitude|RELATIVE:the amout that)",,inan
+"than; as; partitive; denotes amount or degree (COMPLEMENT:amount; number; quantity; extent; magnitude|RELATIVE:the amout that)",inan,zul inani
 "sbj; by; agentive; denotes subject, agent, or force (COMPLEMENT:subject|RELATIVE:who|REFLEXIVE:themself)",un,ara um
 "obj; on; to; absolutive; denotes direct object, patient, or experiencer (COPMLEMENT:direct object|RELATIVE:which|REFLEXIVE:itself)",on,epo on
 "ind; to; by; objective; denotes indirect object, theme, stimulus, or recipient (COMPLEMENT:indirect object|RELATIVE:whom|REFLEXIVE:whichself)",am,pan ãː
@@ -8,6 +8,6 @@ eng,cst,source
 "on; at; in; locative; denotes location (COMPLEMENT:location; place|RELATIVE:where|VERB:be present; be; OBJ is present at IND)",eh,hin ˈdʒəɡəɦ
 "with; through; by; instrumental; denotes instrument (COMPLEMENT:tool; medium; instrument|RELATIVE:with which|VERB:use; work through; SBJ uses OBJ)",atan,hin ˈsaːdʱən
 "for; so; to; purposive; denotes purpose, goal, or beneficiary (COMPLEMENT:purpose; end; justification|RELATIVE:for which)",utec,hin udˈdeʃjə
-"because; since; causal; denotes cause (COMPLEMENT:cause; inciting event; agent|RELATIVE:because of which)",enjen,cmn ɥɛn˧˥in˥
+"because; since; causal; denotes cause (COMPLEMENT:cause; inciting event; agent|RELATIVE:because of which)",enjen,cmn ɥɛn˧˥in˥ #but do I _really_ need tihs?
 "if; for; conditional; denotes hypothetical world (COMPLEMENT:condition; world|RELATIVE:for which)",ajf,eng ɪf
-"by; as; via; instructive; denotes method or manner (COMPLEMENT:method; way; path; manner|RELATIVE:by which)",jan,swa ˈᶮɟia
+"by; as; via; instructive; denotes method or manner (COMPLEMENT:method; way; path; manner|RELATIVE:by which)",ian,swa ˈᶮɟia

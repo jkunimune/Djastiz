@@ -1,7 +1,7 @@
 eng,cst,source
 "be; exist; have; equal; copula; OBJ exists and is the same thing as IND",,
-"create; make; appear; produce; SBJ (creator) makes OBJ (creation) into IND (LOCATION:factory; makery; source|MANNER:recipe)",,incohative of ""exist""
-"delete; destroy; disappear; SBJ (deleter; destroyer) deletes OBJ (deleted; disappeared)",,cessative of ""exist""
+"create; make; give; appear; produce; SBJ (creator) makes OBJ (creation) into IND (LOCATION:factory; makery; source|MANNER:recipe)",,incohative of ""exist""
+"delete; destroy; take; disappear; SBJ (deleter; destroyer) deletes OBJ (deleted; disappeared)",,cessative of ""exist""
 "be fruitful; produce; OBJ has the capacity to produce IND",,possibility of ""create""
 "be barren; OBJ does not have the capacity to produce IND",,antonym of ""be fruitful""
 "till; SBJ (tiller) tills OBJ (TOOL:plow)",,incohative of ""be fruitful""
@@ -22,7 +22,7 @@ eng,cst,source
 "be possible; can; OBJ (possibility) can happen",,
 "enable; SBJ makes OBJ become possible",,incohative of ""be possible""
 "prevent; SBJ makes OBJ stop being possible",,cessative of ""be possible""
-"want; desire; hunger; hope; OBJ (hoper; wanter; desirous; hungry) wants IND (desire; wish; hope) to happen",,
+"want; desire; hunger; hope; have an appetite; OBJ (hoper; wanter; desirous; hungry) wants IND (desire; wish; hope) to happen",,
 "require; need; must; IND (requisite; requirement) must be true in order for OBJ to be true",,
 "imply; if; if IND (condition) happens, OBJ will happen",,
 "should; be fit; be good; IND should happen to make OBJ (value function; goal) be true",,
@@ -47,12 +47,13 @@ eng,cst,source
 "be tangible; be physical; OBJ (object) is tangible",,
 "tangiblise; SBJ (tangibliser) brings OBJ into the physical realm",,incohative of ""be tangible""
 "intangiblise; SBJ (intangibliser) takes OBJ out of the physical realm",,cessative of ""be tangible""
-"hold; carry; have on one's person; OBJ (holder) holds IND (held)",,
+"hold; carry; have on one's person; OBJ (holder) holds IND (held; accessory)",,
 "pick up; hand; grab; SBJ (hander; picker upper) puts IND in OBJ's hand",,incohative of ""hold""
 "put down; release; SBJ (putter downer; taker) takes IND out of OBJ's hand",,cessative of ""hold""
 "own; have; possess; belong; OBJ (owner) owns IND (property)",,
-"give; receive; obtain; SBJ (giver) gives IND to OBJ (receiver; obtainer)",,incohative of ""own""
-"take; lose; give away; SBJ (taker) takes IND from OBJ (loser)",,cessative of ""own""
+"give; receive; obtain; transfer ownership; SBJ (giver) gives IND (gift; given) to OBJ (receiver; obtainer)",,incohative of ""own""
+"take; lose; give away; renounce ownership; SBJ (taker) takes IND (theft; prize; taken) from OBJ (loser)",,cessative of ""own""
+"keep; retain ownership; SBJ lets OBJ (keeper; hoarder) keep IND (kept)",,progressive of ""own""
 "be many; be big; OBJ (set; group) contains many elements (AMOUNT:number; count; whole number)",,
 "be few; be small; OBJ contains few elements",,antonym of ""be many""
 "multiply; grow; SBJ makes OBJ gain elements",,incohative of ""be many""
@@ -73,16 +74,16 @@ eng,cst,source
 "explain; SBJ (teacher) teaches OBJ (student) to understand IND",,incohative of ""understand""
 "confuse; unlearn; SBJ (confuser) makes OBJ stop understanding IND",,cessative of ""understand""
 "know; OBJ (knower; smart) remembers IND (knowledge), believes and thinks it to be true, and correctly understands why it is true",,
-"teach; learn; educate; find out; SBJ (teacher; professor; master) teaches IND to OBJ (student; learner) (LOCATION:school; college; university)",,incohative of ""know""
+"teach; learn; study; find out; SBJ (teacher; professor; master) teaches IND to OBJ (student; learner) (LOCATION:school; college; university|TIME:lesson; education)",,incohative of ""know""
 "unteach; unlearn; SBJ (unteacher) makes IND (unlearner) unlearn what they thought they knew about OBJ",,cessative of ""know""
 "be familiar with; IND (familiar to; accquaintance) is familiar to OBJ",,
 "be unfamiliar with; be strange; be foreign; IND (unfamiliar to; stranger) is unfamiliar to OBJ",,antonym of ""be familiar with""
 "familiarise; SBJ (familiariser) makes OBJ become familiar with IND",,incohative of ""be familiar with""
 "unfamiliarise; SBJ (unfamiliariser) makes OBJ become unfamiliar with IND",,cessative of ""be familiar with""
-"accompany; come with; SBJ accompanies (companion; partner; company) OBJ",,
-"be friendly; OBJ considers IND (friend) a friend (AMOUNT:friendliness; amity)",,
-"be hostile; OBJ is hostile toward IND (enemy)",,antonym of ""be friendly""
-"befriend; introduce; SBJ (friend-arranger) makes OBJ become friends with IND",,incohative of ""be friendly""
+"accompany; come with; be together; SBJ accompanies (companion; mate; partner; company) OBJ",,
+"be friendly; be nice; be kind; OBJ considers IND (friend) a friend (AMOUNT:friendliness; amity)",,
+"be hostile; be mean; be harsh; OBJ is hostile toward IND (enemy)",,antonym of ""be friendly""
+"befriend; introduce; soften; SBJ (friend-arranger) makes OBJ become friends with IND",,incohative of ""be friendly""
 "drive apart; aggravate; SBJ (enemy-maker) makes OBJ become hostile toward IND",,cessative of ""be friendly""
 "love; be infatuated; OBJ (lover) is in love with IND (love) (TIME:romance)",,
 "set up; fall in love; introduce; infatuate; SBJ (matchmaker; cupid) makes OBJ fall in love with IND",,
@@ -202,24 +203,20 @@ eng,cst,source
 "be loud; be bright; be strong; OBJ is bright (AMOUNT:volume; amplitude; brightness)",susas,antonym of ""be quiet""
 "dampen; quiet; dim; soften; weaken; SBJ (damper) dampens OBJ",,incohative of ""be quiet""
 "amplify; louden; brighten; strengthen; SBJ (amplifier) amplifies OBJ",,cessative of ""be quiet""
-"include",,
-"eat; drink; SBJ (eater) eats OBJ (food; meal) (TIME:meal; mealtime)",njamjac,ono njam njam
-"goof; off",,
-"group; associate with one another",,
-"be part; compose; contain; comprise; OBJ (piece; element) is part of IND (whole; set)",,
-"surround",,
+"eat; drink; SBJ (eater) eats OBJ (food; drink; meal) (TIME:meal; mealtime)",njamjac,ono njam njam
+"be part; be in; compose; contain; comprise; include; OBJ (piece; element) is part of IND (group; whole; set)",,
+"join; add; append; SBJ (joiner) makes OBJ join IND",,incohative of ""be part""
+"leave; separate; remove; SBJ (remover) makes OBJ leave IND",,cessative of ""be part""
+"surround; cover; OBJ (surroundings; cover) covers most of IND (surrounded; covered) (AMOUNT:coverage)",,
+"leave bare; expose; leave open; OBJ covers little of IND (bare; open; exposed)",,antonym of ""surround""
+"surround; cover; SBJ (coverer) surrounds OBJ with IND",,incohative of ""surround""
+"uncover; bare; expose; open; SBJ (uncoverer) makes OBJ stop surrounding IND",,cessative of ""surround""
 "defend",,
-"seem",,
-"repeat",,
-"nice",,
-"harsh; mean",,
-"polite",,
-"rude",,
-"categorize; place something in a category; interpret something as belonging in a group",,
-"keep",,
+"be typical; the type of OBJ (instance; example) is IND (category; class; kind; type)",,
+"categorise; classify; SBJ places OBJ as an instance of IND",,incohative of ""be typical""
+"disqualify; declassify; SBJ makes OBJ not be an instance of IND",,cessative of ""be typical""
 "obey",,
 "contain; be inside; OBJ (content) is in SBJ (container)",,
-"study; a subject",,
 "trail; a person or thing",,
 "matter; be important",,
 "unimportant",,
@@ -739,8 +736,6 @@ eng,cst,source
 "smooth",,
 "soft; tendency to conform shape",,
 "elastic; tendency to bend and then spring back",,
-"be viscous; be thick; OBJ (paste; goop) is viscous",,
-"be nonviscous; be thin; OBJ is not viscous",,antonym of ""be viscous""
 "classy; the quality of being expensive and unneccesary",,
 "practical",,
 "congratulate",,
@@ -758,8 +753,10 @@ eng,cst,source
 "touch; meet; join; SBJ and OBJ are so close to each other that they cannot physically get any closer (please don't get tecnical with my definition of this) (LOCATION:joint; corner; intersection; edge)",,
 "hunt; chase; pursue; SBJ (hunter) hunts for OBJ (hunted), either literally or metaphorically",,
 "deserve; be entitled; SBJ (worthy; deserving; entitled) deserves OBJ (dessert)",,
-"be silly; be funny; be ironic; SBJ is silly (AMOUNT:silliness)",,antonym of ""be serious""
-"be serious; SBJ is serious (AMOUNT:seriousness)",,antonym of ""be silly""
+"be silly; be funny; be ironic; goof off; OBJ is silly (AMOUNT:silliness)",,
+"be serious; OBJ is serious (AMOUNT:seriousness)",,antonym of ""be silly""
+"sillify; SBJ (sillifier) makes OBJ (sillied) become silly",,incohative of ""be silly""
+"get serious; SBJ makes OBJ become serious",,cessative of ""be silly""
 "act; say; SBJ (actor) acts as though OBJ (farce) is true",,
 "be steep",,
 "cross",,

@@ -163,14 +163,14 @@ The grammar of Chastisun is designed to be as simple as possible while enabling 
     clause-phrase := (sentence-particle)? (postpos-phrase)\* (verb-phrase (postpos-phrase)\*)?
    postpos-phrase :=  complement-phrase postposition
 complement-phrase :=  noun-phrase | clause-phrase
-      noun-phrase := (qualifier)? (noun | pronoun | relative-phrase | complement-phrase <no> | noun-phrase)\*
+      noun-phrase := (qualifier)? (noun | pronoun | relative-phrase | complement-phrase &lt;in&gt; | noun-phrase)\*
       verb-phrase :=  verb (verb.auxiliary)\*
   relative-phrase := (sentence-particle)? (postpos-phrase)\* (verb-phrase (postpos-phrase)\*)? (<l> postposition)?
 Coordination-rule : X-phrase := <bo>? X-phrase <an> X-phrase
    Substance-rule : No phrase may be empty.
    Trail-off-rule : Any number of words can be removed from the start and end of a sentence as long as the meaning remains clear.
 
-### Tense markers
+### Mood markers
 
 A tense marker gives the general purpose of a sentence. It is the first thing in the sentence. There are ten tense markers, and each creates a fundamentally different kind of communication.
 - `ȅ` is the _declarative_ tense marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the singer.
@@ -266,17 +266,6 @@ The last major grammatical structure to be discussed is the conjunction. Conjunc
 The first and most recognizably conjugative conjunctions are `ā` and `pe`. When `ā` precedes a series of phrases separated by `pe`, they combine said series into a single set representing all of the phrases combined. The input phrases are usually noun phrases, but practically anything can be fed in here so long as each phrase is of the same type. They translate very cleanly to "both" and "and" in English, respectively. That set can then have its meaning easily tweaked using qualifiers. For example, `dhe ni mus a thengga`.
 
 The other pair of conjunctions may be more difficult to understand for English singers. This is the `é` and `ò` construction, which functions much like the quotation mark in English. Unlike the quotation mark, however, `é`-`ò` constructions must be sung aloud. Any phrase in any language between the `é` and the `ò` should not be interpreted as actual Djastiz grammar, but rather as a sequence of letters or sounds. The entire phrase acts as a noun and references the phrase contained within. This is most commonly used for quoting dialogue and discussing language. To indicate that a single word inside a `é`-`ò` construct should be interpreted literally and not as part of the quote, precede it with the word `rèl`, for example, `dhi ij yr tshef je l u ssu u`. To describe the word or sound `rèl`, precede it with `rèl`. For example, `raun yr dhi ij yr tshef je je l u ssu u ssu u`.
-
-### Gerunds
-
-There exists one major deviation from the rules laid out here, which exists as more of a convinience than any kind of necessity. This is the _gerund_. A gerund is a construct of nouns and a verb that can serve as the complement to an adjunctive postposition, replacing a `f` modified by a modifier clause. When a postpositional phrase takes the form `f l P0 N0 ia N1 u V0 P0`, where `P0` is an adjunctive postposition, `N0` and `N1` are noun phrases, and `V0` is a transitive verb, it can be shortened to `N0 N2 V0 P1` without changing the meaning. This works well with several verbs that take said form often. For example, `lity ir od hiai utrd ep`. Note that this construction only works this particular way for verbs to which `r` and `u`, but not `i`, are applicable, and clauses where only the postpositions `ia` and `u` are used, in that order. Word order in gerunds depends predictably but stringently on the transitivity of the verb and the postpositions included. Below is a table describing how to interpret a gerund. The column header specifies the number of applicable argumentative prepositions of the verb (transitivity), the row label the number of noun phrases provided, and the cell the list of implied prepositions, in order. If a cell does not exist for a certain sentence pattern (for example, anything with a subject specified), then that pattern may not be phrased as a gerund. There is no row for gerunds with zero nouns, but it goes without saying that noun-less gerunds work unambiguously for any transitivity.
-
-|     |   0   |   1   |   2   |   3   |
-|-----|-------|-------|-------|-------|
-|**1**| `ia`  | `ia`  |  `u`  |  `u`  |
-|**2**|  N/A  | `r ia`| `u ia`| `u i` |
-|**3**|  N/A  |  N/A  |`r u ia`|`u i ia`|
-|**4**|  N/A  |  N/A  |  N/A  |`r u i ia`|
 
 ### Numbers
 

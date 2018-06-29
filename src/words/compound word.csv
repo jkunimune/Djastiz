@@ -125,6 +125,9 @@ eng,cst,source
 "be dry; OBJ is dry",,gas wear
 "mist",,liquid powder
 "alcohol",,fun liquid
+"tea",,leaf liquid
+"coffee",,be-energetic liquid
+"milk",,baby liquid
 "blood",,red bodily-fluid
 "urine; pee",,yellow bodily-fluid
 "pus",,white bodily-fluid
@@ -259,11 +262,11 @@ eng,cst,source
 "square; lot; park",,city region
 "park",,grass lot
 "screen",,sight surface
-"screen; stream; show; SBJ (screener; streamer; television network) entertains OBJ visually with (video; movie; TV show)",,sight entertain
-"sing; play music; stream; SBJ (musician) entertains OBJ audially with IND (music; song)",,sound entertain
+"screen; stream; show; SBJ (screener; streamer; television network) entertains OBJ visually with (video; movie; TV show) (LOCATION:cinema)",,sight entertain
+"sing; play music; stream; SBJ (musician) entertains OBJ audially with IND (music; song) (LOCATION:concert hall)",,sound entertain
 "storytell; SBJ (storyteller; host) entertains OBJ verbally with IND (audiobook; radio)",,speech entertain
 "literature; book; blog; web serial",,text entertainment
-"theatre; play; performing arts",,person entertainment
+"theatre; play; performing arts (LOCATION:theatre)",,person entertainment
 "news; current events; media",,now signal
 "news television show",,sight news
 "news radio show",,sound news
@@ -301,3 +304,6 @@ eng,cst,source
 "vegetarian; something that does not eat meat",,0 animal eater
 "carnivore; something that eats meat",,animal eater
 "herbivore; something that eats plants",,plant eater
+"be timely; be on time; OBJ is at the correct time",,must be-early
+"be polite",,culture be-friendly
+"be-rude",,culture be-hostile
