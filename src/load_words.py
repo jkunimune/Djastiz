@@ -60,7 +60,7 @@ if __name__ == '__main__':
 			for english, chatisun, source in csv.reader(f):
 				if not source or (len(source.split()[0]) == 3 and source.split()[0] != 'ono'):
 					key = english.split(';')[0]
-					if len(key.split()) > 1 and key.split()[0] in ['be', 'find']:
+					if len(key.split()) > 1 and key.split()[0] in ['be', 'find', 'have', 'give', 'do', 'get']:
 						key = ' '.join(key.split()[1:]) #drop the "be"
 					print('Translating "{}" to {} languages...'.format(key, len(LANGUAGES)))
 					any_update = False
