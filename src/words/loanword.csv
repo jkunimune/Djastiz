@@ -62,13 +62,13 @@ eng,cst,source
 "Yoruba; the language",'etejolupa,yor e˨de˨ jo˧ɾu˨ba˦
 "Yue Chinese; Cantonese; the language",'jut,yue jyːt̚˧˥
 "Zulu; the language",'isisulu,zul isiˈzuːlu
-"The World Wide Web; The Internet; The Cloud",'intenet,eng ˈɪntɹˌnɛt
+"The World Wide Web; The Internet; The Cloud",'intenet,eng ˈɪntɹ̩ˌnɛt
 "The Atlantic Ocean; the ocean",'atlantiko,por oseˈɐno atˈlɐntʃiko
 "The Indian Ocean; the ocean",'intianina,mlg oˈseana iⁿdiˈanina
 "The Pacific Ocean; the ocean",'taihejo,jpn taihɛːjɔː
 "The Arabian Sea; the sea",,
 "The Bering Sea; the sea",,
-"The Caribbean Sea; the sea",'kalipean,eng kəˈɹɪbiən siː
+"The Caribbean Sea; the sea",'kalipean,eng kəˈɹʷɪbiən siː
 "The Coral Sea; the sea",,
 "The Gulf of Mexico; the sea",,
 "The Mediterranean Sea; the sea",'metitelanjum,lat ˈmarɛ mɛdɪtɛrˈraːneũ
@@ -76,7 +76,7 @@ eng,cst,source
 "Afro-Eurasia; the landmass",,
 "America; the landmass",'lasamelikas,spa las aˈmeɾikas
 "Africa; the continent",,
-"North America; the continent",'notamelika,eng nɔɹθ əˈmɛɹɪkə
+"North America; the continent",'notamelika,eng nɔɹθ əˈmɛɹʷɪkə
 "South America; the continent",'sulamelika,por aˈmɛɾika du sul
 "Antarctica; the landmass; the continent",'antaktika,eng ˌænˈtɑːktɪkə
 "Eurasia; the continent",'jewlasja,rus jɪˈvrazʲɪjə
@@ -100,7 +100,7 @@ eng,cst,source
 "Antigua and Barbuda; the country",'antikaanpapjuta,eng æntiːɡə ən bɑːbjuːdə
 "Argentina; the country",alhentina,aɾxenˈtina
 "Armenia; the country",'hajastan,hye hɑjɑstɑn
-"Australia; the landmass; the country",'astwajlja,eng əˈstɹæɪ̯ljə
+"Australia; the landmass; the country",'astwajlja,eng əˈstɹʷæɪ̯ljə
 "Austria; the country",'ewstahaic,deu øːstɐʁaɪç
 "Azerbaijan; the country",asalpajcan,ɑzæɾbɑjdʒɑn
 "The Bahamas; the country",'pahamas,eng bəˈhɑːməz
@@ -160,7 +160,7 @@ eng,cst,source
 "Ghana; the country",'kana,aka gaːnæ
 "Greece; the country",'elasa,ell elaða
 "Greenland; the country",'kalaslitnunat,kal kalaːɬit nunaːt
-"Grenada; the country",'kwanejta,eng ɡɹəˈneɪ̯də
+"Grenada; the country",'kwanejta,eng ɡɹʷəˈneɪ̯də
 "Guatemala; the country",'kwatemala,spa gwateˈmala
 "Guinea; the country",'kine,ful gine
 "Guinea-Bissau; the country",'kinepisaw,pov ɡinɛ bisaw
@@ -173,7 +173,7 @@ eng,cst,source
 "Indonesia; the country",'intonesia,ind ɪndonesia
 "Iran; the country",'ilan,fas ʔiːɾɒːn
 "Iraq; the country",'alilak,ara alʕiraːq
-"Ireland; the country",'ajalan,eng ˈaɪəɹlənd
+"Ireland; the country",'ajalan,eng ˈaɪ̯əɹlənd
 "Northern Ireland; the country",'tuackjaltaeljan,gle ˈt̪ˠuəʃcəɾˠt̪ˠ ˈeːɾʲən̪ˠ
 "Israel; the country",'jishael,heb jisʁael
 "Italy; the country",'italja,ita itaːlja
@@ -192,7 +192,7 @@ eng,cst,source
 "Latvia; the country",'latfia,lav latvia
 "Lebanon; the country",'lupnan,ara lubnaːn
 "Lesotho; the country",'lisutu,sot lɪsʊtʰʊ
-"Liberia; the country",'lajpiwia,eng laɪ̯ˈbɪɹiə
+"Liberia; the country",'lajpiwia,eng laɪ̯ˈbɪɹʷiə
 "Libya; the country",'lipia,ara liːbija
 "Liechtenstein; the country",'lictenactajn,deu lɪçtn̩ʃtaɪ̯n
 "Lithuania; the country",'ljietufa,lit lʲɪɛtʊˈvɐ
@@ -208,7 +208,7 @@ eng,cst,source
 "Mauritania; the country",'mulitania,ara muːriːtaːnijaː
 "Mauritius; the country",'mohis,mfe moʁis
 "Mexico; the country",'mehiko,spa ˈmexiko
-"Micronesia; the country",'majkwonica,eng maɪ̯kɹoʊ̯ˈniːʒə
+"Micronesia; the country",'majkwonica,eng maɪ̯kɹʷoʊ̯ˈniːʒə
 "Moldova; the country",'moltofa,ron moldova
 "Monaco; the country",'monako,fra mɔnako
 "Mongolia; the country",monkoslo uslus,mon mɔŋɢɔɮ ʊɮs
@@ -223,7 +223,7 @@ eng,cst,source
 "New Zealand; the country",'njusilan,eng njʉː ˈziːlɘnd
 "Nicaragua; the country",'nikalakwa,spa nikaˈɾaɣwa
 "Niger; the country",'nical,hau niːʒaɽ
-"Nigeria; the country",'najcilia,eng naɪ̯ˈdʒɪɹ̩iə
+"Nigeria; the country",'najcilia,eng naɪ̯ˈdʒɪɹʷiə
 "Niue; the country",'niwe,niu niweː
 "Norway; the country",'nolka,nor noɾɡə
 "Oman; the country",'human,ara ʕʊmaːn
@@ -273,7 +273,7 @@ eng,cst,source
 "East Timor; the country",'timololosae,tet timor lorosaʔe
 "Togo; the country",'toko,fra togo
 "Tonga; the country",'tona,ton toŋa
-"Trinidad and Tobago; the country",'twinitatantapejkow,eng ˈtɹɪnɪdæd ən təˈbeɪ̯ɡəʊ̯
+"Trinidad and Tobago; the country",'twinitatantapejkow,eng ˈtɹʷɪnɪdæd ən təˈbeɪ̯ɡəʊ̯
 "Tunisia; the country",'tunis,ara tuːnis
 "Turkey; the country",'tulkie,tur tyɾcije
 "Turkmenistan; the country",'tukmenistan,tuk tyɾkmeniθtɑn
@@ -301,48 +301,57 @@ eng,cst,source
 "Sahrawi Arab Democratic Republic; the disputed territory",'asahlawiah,ara asˤsˤaħraːwiːjah
 "Taiwan; the disputed territory",'tajwan,cmn tʰaɪ̯˧˥wan˥
 "Hawai'i; the archipelago; the island; the state; the county",'hawaji,haw həˈvɐjʔi
-"Babylon; the city",,
-"Beijing; the city",,
+"Babylon; the city",'papilim,akk baːbili
+"Beijing; the city",'pejcin,cmn pej˨˩˦tɕiŋ˥
 "Białystok; the city",'pjawistok,pol bʲaˈwɨstɔk
-"Brussels; the city",,
+"Brussels; the city",'puhuselfil,fra ˈbʁysɛl vil
 "Buenos Aires; the city",'pwenosajles,spa ˈbwenos ˈajɾes
-"Cairo; the city",,
-"Chengdu; the city",,
-"Chongquing; the city",,
-"Delhi; the city",,
-"Dhaka; the city",,
-"Guangzhou; the city",,
+"Cairo; the city",'alkahilah,ara al ˈqaːhiɾah
+"Chengdu; the city",'cantu,cmn ʈʂʰə˧˥ŋtu˥
+"Chongquing; the city",'cuncin,cmn ʈʂʰʊŋ˧˥tɕʰi˥˩ŋ
+"Delhi; the city",'tili,hin dɪlliː
+"Dhaka; the city",'taka,ben ɖʱaka
+"Guangzhou; the city",kwonsaw,yue kʷɔ˧˥ːŋtsɐw˥
 "Honolulu; the city",'honolulu,haw honoˈlulu
 "Istanbul; the city",'istanpul,tur isˈtanbuɫ
 "Jerusalem; the city",'jelucalajim,heb jeʁuʃaˈlajim
-"Karachi; the city",,
-"Kinshasa; the city",,
-"Lagos; the city",,
-"Lahore; the city",,
+"Karachi; the city",'kalaci,urd kəˈɾaːtʃi
+"Kinshasa; the city",'kincasa,fra kinʃasa
+"Lagos; the city",'lejkos,eng ˈleɪ̯ɡɒs
+"Lahore; the city",lahol,pan ləˈhɔːɾ
 "London; the city",'lantan,eng ˈlʌndən
 "Moscow; the city",'maskwa,rus mɐˈskva
-"Mumbai; the city",,
-"New York City; the city",,
-"Paris; the city",,
-"Rome; the city",,
-"São Paulo; the city",,
-"Shanghai; the city",,
-"Tianjin; the city",,
-"Tokyo; the city",,
-"Washington D. C.; the city",,
-"Bahá'í; the religion",,
-"Buddhism; the religion",,
-"Cao Dai; the religion",,
-"Christianity; the religion",,
-"Han Folk Religion; the religion",,
-"Hinduism; the religion",,
-"Islam; the religion",,
-"Jainism; the religion",,
-"Judaism; the religion",,
-"Shinto; the religion",,
-"Sikhism; the religion",,
-"Spiritualism; the religion",,
-"Zoroastrianism; the religion",,
+"Mumbai; the city",'mumpai,mar mumbaiː
+"New York City; the city",ˈnujoksiti,eng nuː jɔɹk ˈsɪɾiː
+"Paris; the city",pahi,fra paˈʁi
+"Rome; the city",loma,lat ˈroːma
+"São Paulo; the city",'sawnpawlu,por sɐ̃w̃ ˈpawlu
+"Shanghai; the city",'sanhi,wuu sã˧˦hɪʔ˦
+"Tianjin; the city",'tjencin,cmn tʰjɛn˥tɕin˥
+"Tokyo; the city",'tokjo,toːkʲoː
+"Washington D. C.; the city",'wacintontisi,eng ˈwɑʃiŋtn̩ diː siː
+"Bahá'í; the religion",'pahai,far ba˨ˈha˦ʔi˦
+"Buddhism; the religion",'putha,san bud̚˨dʱɐ˦
+"Cao Dai; the religion",'kawtaj,vie kaːw˧ ɗaːj˦˨
+"Catholicism; the sect",'katolicismus,lat kaˈtoliˌtʃismʊs
+"Christianity; the religion",'noshi,heb nosˤri
+"Eastern Orthodoxy; the sect",'anatolikiolsosoksia,ell anatoliˈki orθoðoˈksia
+"Han Folk Religion; the belief system",'suncjaw,cmn tsʊŋ˥tʂjaw˥˩
+"Hinduism; the religion",'hintutam,hin ɦɪnduː dʱɑːɾm
+"Islam; the religion",'alislam,ara alʔɪsˈlaːm
+"Jainism; the religion",'centam,hin dʒɛːn dʱɑːɾm
+"Judaism; the religion",'jehuta,heb jehuˈda
+"Protestantism; the sect",'potestantismus,deu ˌpʀ̥otɛstanˈtɪsmʊs
+"Shaivism; the sect",'ciwa,san ɕiʋə
+"Shaktism; the sect",'caktah,san ɕaːktəh
+"Shia Islam; the sect",'ciah,ara ʃiːʔah
+"Shintoism; the religion",'cinto,jap ɕintoː
+"Sikhism; the religion",'sikhi,pan ˈsɪkːʰiː
+"Smartism; the sect",'sumalti,hin smr̩ti
+"Spiritualism; the religion",'supiwitwalisam,eng ˈspɪɹʷɪtʃwəlɪzm̩
+"Sunni Islam; the sect",'suni,ara ˈsunniː
+"Vaishnavism; the sect",'wajcnawa,san ʋajɕnaːʋə
+"Zoroastrianism; the religion",'mastajasna,ave mazdajasna
 "Christmas; the holiday",'natiwitas,lat naːˈtiːwɪtaːs
 "fox; the canine",'wulpem,lat ˈwʊɫpɛ̃
 "coconut; the fruit",'tenkaj,tam ˈt̪eːŋgɑːj
@@ -352,7 +361,7 @@ eng,cst,source
 "wine; the drink",,
 "vodka; the drink",,
 "galaxy",'kalasias,gre ɡalaksíaːs
-"radian; the unit of angles",'watian,eng ˈɹeɪdiɪn
+"radian; the unit of angles",'watian,eng ˈɹʷeɪdiɪn
 "meter; the unit of length",'methe,fra ˈmɛtʁ
 "liter; the unit of volume",'lithe,fra ˈlitʁ
 "kilogram; the unit of mass",'kiloham,fra ˈkilɔɡʁam
@@ -363,6 +372,6 @@ eng,cst,source
 "hour; the unit of time",,
 "minute; the unit of time",,
 "second; the unit of time",'sekonte,nld sɛˈkɔndɛ
-"Congress",'kankwes,eng ˈkʰɑŋɡɹɨs
+"Congress",'kankwes,eng ˈkʰɑŋɡɹʷɨs
 "Christian heaven",'comajim,heb ʃɔmäˈjim
 "amen",'omejn,heb ɔˈmeɪ̯n
