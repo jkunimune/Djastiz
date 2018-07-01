@@ -11,19 +11,19 @@ from google.cloud import translate
 LANGUAGES = ['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'yo', 'mr', 'ig', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']
 
 
-def translate_text(target, text, translate_client):
+def translate_text(target, text, translate_client, source='en'):
 	"""Translates text into the target language.
 
 	Target must be an ISO 639-1 language code.
 	See https://g.co/cloud/translate/v2/translate-reference#supported_languages
 	"""
+	if target == source:
+		return text
 
 	if isinstance(text, six.binary_type):
 		text = text.decode('utf-8')
 
-	# Text can also be a sequence of strings, in which case this method
-	# will return a sequence of results for each text.
-	result = translate_client.translate(text, target_language=target)
+	result = translate_client.translate(text, source_language=source, target_language=target)
 
 	return result['translatedText']
 

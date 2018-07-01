@@ -13,12 +13,12 @@ As an auxlang, Chastisun is designed to be as easy as possible for everyone to l
 With these goals in mind, I developed a language with the following key features:
 
 * Seventeen common phonemes; five vowels and twelve consonants
+* 700 morphemes with thousands of derivatives and compounds
 * Partially self-segregating morphology
-* 700 roots with thousands of derivatives and compounds
+* Completely anlytic morphological typology
 * Left-branching head directionality
-* Adposition-facilitated extremely free word order
 * Split-S morphosyntanctic alignment
-* No inflection
+* Postposition-facilitated extremely free word order
 
 ## This repository
 

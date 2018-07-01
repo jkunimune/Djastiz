@@ -90,8 +90,8 @@ eng,cst,source
 "relate; OBJ (relatee) is genetically related to IND (relative; kin; blood)",,
 "like; favour; be appealing; be good; OBJ (liker; optimist) likes IND (preference; favourite) (AMOUNT:goodness; preference level)",,
 "dislike; disfavour; be unappealing; be bad; OBJ dislikes IND (anathema; least favourite)",,antonym of ""like""
-"improve; benefit; SBJ (improver) raises OBJ's opinion of IND",,incohative of ""like""
-"worsen; detriment; SBJ (worsener) lowers OBJ's opinion of IND",,cessative of ""like""
+"improve; defend; argue for; SBJ (improver) raises OBJ's opinion of IND",,incohative of ""like""
+"worsen; insult; argue against; SBJ (worsener) lowers OBJ's opinion of IND",,cessative of ""like""
 "be old; be long; OBJ (elder; senior; adult; grown-up) is old; see ""be long"" (AMOUNT:age; length of time)",,
 "be young; be short; OBJ (kid; girl; boy) is young; see ""be short""",,antonym of ""be old""
 "age; olden; SBJ (ager; Father Time) makes OBJ get older",,incohative of ""be old""
@@ -121,7 +121,7 @@ eng,cst,source
 "distance; move away; separate; SBJ (separator) distances OBJ from IND",,incohative of ""be far""
 "approach; move toward; meet; draw close; put together; SBJ (joiner) moves OBJ toward IND (TIME:meeting)",,cessative of ""be far""
 "keep apart; separate; divide; SBJ (wall; barrier) separates OBJ (other side) from IND",,progressive of ""be far""
-"be in front; be forward; OBJ (field of view) has a positive _y_ coordinate from IND's point of view (AMOUNT:_y_ coordinate)",,
+"be in front; be forward; be between; OBJ (field of view; shield) has a positive _y_ coordinate from IND's point of view (AMOUNT:_y_ coordinate)",,
 "be behind; be backward; OBJ (back) has a negative _y_ coordinate from IND's point of view",,antonym of ""be forward""
 "advance; move forward; SBJ (advancer) makes OBJ move forward from IND's point of view",,incohative of ""be forward""
 "retreat; move backward; SBJ (retreater) makes OBJ move backward from IND's point of view",,cessative of ""be forward""
@@ -179,8 +179,8 @@ eng,cst,source
 "hide; obscure; SBJ (hider; obscurer) hides IND from OBJ",,cessative of ""notice""
 "mean; call; OBJ (name; signal; word) means IND (definition; meaning; denotation)",,
 "define; name; SBJ (definer; dictionary; convention; protocol) declares that OBJ means IND",,
-"be alive; be animate; be lively; be active; be on; OBJ (living thing) is alive (AMOUNT:liveliness|TIME:life)",,
-"be dead; be inanimate; be unlively; be passive; be off; OBJ (corpse) is dead (TIME:death)",,antonym of ""be alive""
+"be alive; be animate; be lively; be active; be on; be open; OBJ (living thing) is alive (AMOUNT:liveliness|TIME:life)",,
+"be dead; be inanimate; be unlively; be passive; be off; be closed; OBJ (corpse) is dead (TIME:death)",,antonym of ""be alive""
 "bring to life; come to life; animate; activate; turn on; SBJ (activator) brings OBJ to life",,incohative of ""be alive""
 "kill; murder; die; pass away; deactivate; turn off; SBJ (killer; murderer) kills OBJ",,cessative of ""be alive""
 "save; rescue; sustain; SBJ (saver; life support) keeps OBJ from dying",,progressive of ""be alive""
@@ -211,7 +211,6 @@ eng,cst,source
 "leave bare; expose; leave open; OBJ covers little of IND (bare; open; exposed)",,antonym of ""surround""
 "surround; cover; SBJ (coverer) surrounds OBJ with IND",,incohative of ""surround""
 "uncover; bare; expose; open; SBJ (uncoverer) makes OBJ stop surrounding IND",,cessative of ""surround""
-"defend",,
 "be typical; the type of OBJ (instance; example) is IND (category; class; kind; type)",,
 "categorise; classify; SBJ places OBJ as an instance of IND",,incohative of ""be typical""
 "disqualify; declassify; SBJ makes OBJ not be an instance of IND",,cessative of ""be typical""
@@ -228,8 +227,6 @@ eng,cst,source
 "traverse; typically compounded to make things like ""swim"",, ""climb"",, ""gallop"",, etc.",,
 "rotate; about the direct object",,
 "hand-off; exchange direct object via hands",,
-"fast; magnitude of time incohative of position",,
-"slow; unmagnitude of time incohative of position",,
 "open",,
 "closed",,
 "be simple; OBJ is simple",,
@@ -247,8 +244,6 @@ eng,cst,source
 "example-pose",,
 "wide; angular distance with indirect object being centrum",,
 "acute; angular closeness with indirect object being centrum",,
-"business-open; can refer to activity in general",,
-"business-closed; can refer to dormancy in general",,
 "understand",,
 "malice",,
 "hope",,
@@ -276,7 +271,7 @@ eng,cst,source
 "public sector; be in the public sector",,
 "private sector; be in the private sector",,
 "be fast; be quick; be frequent; rate at which something progresses, oscillates, or decays with respect to time",,
-"be slow; be gradual; be periodic; inverse of rate at which something progresses, oscillates, or decays with respect to time",,
+"be slow; be gradual; be periodic; inverse of rate at which something progresses, oscillates, or decays with respect to time",,antonym of ""be fast""
 "be heavy; SBJ is heavy (AMOUNT:weight)",,antonym of ""lightweight""
 "be lightweight; light",,antonym of ""heavy""
 "shrill; high pitch",,
@@ -395,6 +390,13 @@ eng,cst,source
 "be wavy; be curly; be bent; be bumpy; OBJ (squiggle; wave; curl) is wavy",,antonym of ""be straight""
 "straighten; flatten; SBJ (straightener; flattener) straightens OBJ",,incohative of ""be straight""
 "bend; curl; SBJ (bender; curler) bends OBJ",,cessative of ""be straight""
+"be damaged; be hurt; be in tatters; OBJ is damaged",,
+"damage; hurt; harm; SBJ (harmer) damages OBJ",,incohative of ""be damaged""
+"repair; mend; fix; clean; SBJ (repairperson) repairs OBJ",,cessative of ""be damaged""
+"be susceptible; be vulnerable; be exposed; SBJ can harm OBJ",,possibility of ""damage""
+"be invulnerable; be invincible; be durable; SBJ cannot harm OBJ",,antonym of ""be susceptible""
+"vulnerate; expose; lower defenses; SBJ makes OBJ vulnerable to IND",,incohative of ""be susceptible""
+"protect; defend; guard; SBJ (protection; defense; guard) prevents IND from harming OBJ",,cessative of ""be susceptible""
 "be broken; be in pieces; OBJ has broken into multiple pieces",,
 "break; shatter; destroy; SBJ (breaker) breaks OBJ into multiple pieces",,incohative of ""be broken""
 "mend; fix; put back together; SBJ (fixer) puts OBJ back together",,cessative of ""be broken""
@@ -646,8 +648,8 @@ eng,cst,source
 "tidy",,
 "messy",,
 "transform",,
-"help; ally; work with; OBJ (helper) is working toward the same goal as IND (ally; friend)",,
-"hinder; oppose; compete; fight; work against; OBJ (opposer) is working toward a goal contrary to that of IND (opponent; competitor; enemy)",,antonym of ""help""
+"help; ally; benefit; work with; OBJ (helper) is working toward the same goal as IND (ally; friend)",,
+"hinder; oppose; harm; compete; fight; work against; OBJ (opposer) is working toward a goal contrary to that of IND (opponent; competitor; enemy)",,antonym of ""help""
 "align with; join; SBJ (alliance forger) makes OBJ ally with IND",,incohative of ""help""
 "turn against; betray; SBJ (instigator) turns OBJ (traitor) against IND",,cessative of ""help""
 "fight; SBJ (fighter) has an adversarial engagement with OBJ (adversary; opponent)",,
