@@ -3,6 +3,7 @@
 import csv
 from dragonmapper import hanzi
 from os import path
+import pickle
 import re
 import sys
 
@@ -13,7 +14,7 @@ import eng_to_ipa # available at https://github.com/mphilli/English-to-IPA.git
 def read_mandarin(word):
 	""" read a word phonetically in Hanzi (Mandarin pronunciations) """
 	try:
-		broad = hanzi.to_ipa(word) # well, that was easy
+		broad = hanzi.to_ipa(word).replace('ɪ','ɪ̯').replace('ʊ','ʊ̯') # well, that was easy
 	except ValueError:
 		broad = '*'
 	return broad, broad
@@ -183,19 +184,23 @@ def read_esperanto(word):
 
 def read_english(word):
 	""" read a word phonetically in English """
-	broad = eng_to_ipa.convert(word).replace('ʧ','tʃ').replace('ʤ','dʒ').replace('r','ɹ')\
+	broad = eng_to_ipa.convert(word.replace('-',' ')).replace('ʧ','tʃ').replace('ʤ','dʒ').replace('r','ɹ')\
 		.replace('e','eɪ̯').replace('oʊ','oʊ̯').replace('aɪ','ɑɪ̯').replace('ɔɪ','ɔɪ̯').replace('aʊ','aʊ̯')
+
+	if '*' in broad: # if it couldn't find it,
+		return ('*', '*') # cry
+
 	narrow = ''
-	for i, c in enumerate(broad):
+	for i, c in enumerate(broad): # there aren't actually too many allohponies in English of which I could think
 		if c in 'td' and i-1 >= 0 and broad[i-1] in 'aeiouəɪʊɔɑɛæɹj̯' and i+1 < len(broad) and broad[i+1] in 'aeiouəɪʊɔɑɛæɹj̯':
 			narrow += 'ɾ'
-		elif c in 'ptk' and i == 0 or broad[i-1] == 'ˈ':
+		elif c in 'ptk' and (i == 0 or broad[i-1] == 'ˈ'):
 			narrow += c+'ʰ'
 		elif c == 'ɹ' and i+1 < len(broad) and broad[i+1] in 'aeiouəɪʊɔɑɛæ':
 			narrow += c+'ʷ'
 		elif c in 'ɑiuɔ' and (i+1 >= len(broad) or broad[i+1] not in 'ɪʊ'):
 			narrow += c+'ː'
-		elif c == 'ɑ' and i+3 < len(broad) and broad[i+1:i+3] == 'ɪ̯' and broad[i+3] in 'ptk':
+		elif c == 'ɑ' and i+3 < len(broad) and broad[i+1:i+3] == 'ɪ̯' and broad[i+3] in 'ptkfθsʃh':
 			narrow += 'ə'
 		else:
 			narrow += c
@@ -297,10 +302,14 @@ def read(word, lang):
 
 
 if __name__ == '__main__':
-	all_transcriptions = {}
+	try:
+		all_transcriptions = pickle.load(open('../data/all_languages.p','rb'))
+	except IOError:
+		all_transcriptions = {}
 	for lang in ['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'yo', 'mr', 'ig', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']:
 		with open('../data/dict_{}.csv'.format(lang), 'r', encoding='utf-8', newline='') as f:
-			for eng, other in csv.reader(f):
-				broad, narrow = read(other, lang)
-				all_transcriptions[eng] = {**all_transcriptions.get(eng, {}), lang:(broad, narrow)}
-	print(all_transcriptions)
+			for word, orthography in csv.reader(f):
+				if word not in all_transcriptions or lang not in all_transcriptions[word] or all_transcriptions[word][lang] == ('*','*'):
+					all_transcriptions[word] = {**all_transcriptions.get(word,{}), lang:read(orthography, lang)}
+					print("{} in {} is spelled {} and pronounced {}".format(word, lang, orthography, all_transcriptions[word][lang]))
+	pickle.dump(all_transcriptions, open('../data/all_languages.p','wb'))
