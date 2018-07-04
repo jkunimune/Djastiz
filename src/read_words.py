@@ -1,7 +1,12 @@
 # read_words.py
 
 import csv
+from os import path
 import re
+import sys
+
+sys.path.append(path.sep.join([*sys.path[0].split(path.sep)[0:-2], 'English-to-IPA']))
+import eng_to_ipa # available at https://github.com/mphilli/English-to-IPA.git
 
 
 def read_mandarin(word):
@@ -173,7 +178,21 @@ def read_esperanto(word):
 
 def read_english(word):
 	""" read a word phonetically in Esperanto """
-	return '', ''
+	broad = eng_to_ipa.convert(word).replace('ʧ','tʃ').replace('ʤ','dʒ').replace('r','ɹ')\
+		.replace('e','eɪ̯').replace('oʊ','oʊ̯').replace('aɪ','ɑɪ̯').replace('ɔɪ','ɔɪ̯').replace('aʊ','aʊ̯')
+	narrow = '' #TODO long vowels
+	for i, c in enumerate(broad):
+		if c in 'td' and i-1 >= 0 and broad[i-1] in 'aeiouəɪʊɔɑɛæɹj̯' and i+1 < len(broad) and broad[i+1] in 'aeiouəɪʊɔɑɛæɹj̯':
+			narrow += 'ɾ'
+		elif c in 'ptk' and i == 0 or broad[i-1] == 'ˈ':
+			narrow += c+'ʰ'
+		elif c == 'ɹ' and i+1 < len(broad) and broad[i+1] in 'aeiouəɪʊɔɑɛæ':
+			narrow += c+'ʷ'
+		elif c in 'ɑiuɔ' and i+1 < len(broad) and broad[i+1] not in 'ɪʊ':
+			narrow += c+'ː'
+		else:
+			narrow += c
+	return broad, narrow
 
 
 def read_hindustani(word):
@@ -276,5 +295,5 @@ if __name__ == '__main__':
 		with open('../data/dict_{}.csv'.format(lang), 'r', encoding='utf-8', newline='') as f:
 			for eng, other in csv.reader(f):
 				broad, narrow = read(other, lang)
-				all_transcriptions[eng] = all_transcriptions.get(eng, []) + [(broad, narrow)]
+				all_transcriptions[eng] = {**all_transcriptions.get(eng, {}), lang:(broad, narrow)}
 	print(all_transcriptions)
