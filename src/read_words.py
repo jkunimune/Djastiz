@@ -1,6 +1,7 @@
 # read_words.py
 
 import csv
+from dragonmapper import hanzi
 from os import path
 import re
 import sys
@@ -10,12 +11,16 @@ import eng_to_ipa # available at https://github.com/mphilli/English-to-IPA.git
 
 
 def read_mandarin(word):
-	""" read a word phonetically in Esperanto """
-	return '', ''
+	""" read a word phonetically in Hanzi (Mandarin pronunciations) """
+	try:
+		broad = hanzi.to_ipa(word) # well, that was easy
+	except ValueError:
+		broad = '*'
+	return broad, broad
 
 
 def read_spanish(word):
-	""" read a word phonetically in Esperanto """
+	""" read a word phonetically in Spanish """
 	word = word.lower()
 	if word.startswith('me ') or word.startswith('de '):
 		word = word[3:]
@@ -177,7 +182,7 @@ def read_esperanto(word):
 
 
 def read_english(word):
-	""" read a word phonetically in Esperanto """
+	""" read a word phonetically in English """
 	broad = eng_to_ipa.convert(word).replace('ʧ','tʃ').replace('ʤ','dʒ').replace('r','ɹ')\
 		.replace('e','eɪ̯').replace('oʊ','oʊ̯').replace('aɪ','ɑɪ̯').replace('ɔɪ','ɔɪ̯').replace('aʊ','aʊ̯')
 	narrow = '' #TODO long vowels
@@ -188,7 +193,7 @@ def read_english(word):
 			narrow += c+'ʰ'
 		elif c == 'ɹ' and i+1 < len(broad) and broad[i+1] in 'aeiouəɪʊɔɑɛæ':
 			narrow += c+'ʷ'
-		elif c in 'ɑiuɔ' and i+1 < len(broad) and broad[i+1] not in 'ɪʊ':
+		elif c in 'ɑiuɔ' and (i+1 >= len(broad) or broad[i+1] not in 'ɪʊ'):
 			narrow += c+'ː'
 		else:
 			narrow += c
