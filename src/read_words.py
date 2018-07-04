@@ -29,7 +29,7 @@ def read_spanish(word):
 		elif c == 'c':
 			if i+1 < len(word) and word[i+1] == 'h':
 				broad += 'tʃ'
-			if i+1 < len(word) and word[i+1] in 'ei':
+			if i+1 < len(word) and word[i+1] in 'eiéí':
 				broad += 's'
 			else:
 				broad += 'k'
@@ -37,7 +37,7 @@ def read_spanish(word):
 			broad += 'e'
 			stress_i = i
 		elif c == 'g':
-			if i+1 < len(word) and word[i+1] in 'ei':
+			if i+1 < len(word) and word[i+1] in 'eiéí':
 				broad += 'x'
 			else:
 				broad += 'ɡ'
@@ -180,7 +180,7 @@ def read_english(word):
 	""" read a word phonetically in Esperanto """
 	broad = eng_to_ipa.convert(word).replace('ʧ','tʃ').replace('ʤ','dʒ').replace('r','ɹ')\
 		.replace('e','eɪ̯').replace('oʊ','oʊ̯').replace('aɪ','ɑɪ̯').replace('ɔɪ','ɔɪ̯').replace('aʊ','aʊ̯')
-	narrow = '' #TODO long vowels
+	narrow = ''
 	for i, c in enumerate(broad):
 		if c in 'td' and i-1 >= 0 and broad[i-1] in 'aeiouəɪʊɔɑɛæɹj̯' and i+1 < len(broad) and broad[i+1] in 'aeiouəɪʊɔɑɛæɹj̯':
 			narrow += 'ɾ'
@@ -190,6 +190,8 @@ def read_english(word):
 			narrow += c+'ʷ'
 		elif c in 'ɑiuɔ' and i+1 < len(broad) and broad[i+1] not in 'ɪʊ':
 			narrow += c+'ː'
+		elif c == 'ɑ' and i+3 < len(broad) and broad[i+1:i+3] == 'ɪ̯' and broad[i+3] in 'ptk':
+			narrow += 'ə'
 		else:
 			narrow += c
 	return broad, narrow
