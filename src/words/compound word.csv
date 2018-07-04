@@ -20,8 +20,8 @@ eng,cst,source
 "tell; implore; command; instruct; lead; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",,>> convey
 "request; SBJ (requester) politely asks IND (requestee) to make OBJ (request) happen",,please convey
 "exclaim; SBJ (exclaimer) makes an exclamatory utterance of OBJ (exclamation) to IND",,wow convey
-"greet; praise; SBJ (greeter; praiser) makes a positive utterance of OBJ (praised; occasion) to IND (greeted)",,yay convey
-"complain; denounce; SBJ (complainer) makes a negative utterance of OBJ (complaint; denouncee) to IND (sympathetic ear)",,boo convey
+"greet; praise; celebrate; SBJ (greeter; praiser) makes a positive utterance of OBJ (praised; occasion) to IND (greeted)",,yay convey
+"complain; denounce; condemn; SBJ (complainer) makes a negative utterance of OBJ (complaint; denouncee) to IND (sympathetic ear)",,boo convey
 "dictionary",,word one-to-which- list
 "alphabet",,letter one-that- obj set
 "part-of-speech",,word category
@@ -89,6 +89,24 @@ eng,cst,source
 "national; SBJ (national) identifies as part of OBJ (nation; tribe; clan; e.g. Kurdistan, Tibet)",,culture join
 "citizen; SBJ (citizen) legally belongs to OBJ (state; sovereign; polity; e.g. India, The Vatican)",,govern join
 "tempt; entice to something appealing but immoral; SBJ (tempter; temptress) encourages IND (temptee) to do OBJ (temptation)",,evil suggest
+"hand",,arm knob
+"foot",,leg knob
+"shoulder",,arm joint
+"hip",,leg joint
+"wrist",,hand joint
+"ankle",,foot joint
+"pelvis; hips",,torso bottom
+"mouth",,face hole
+"sensor; sense",,perceive gland
+"eye",,sight gland
+"ear",,sound gland
+"nose",,smell gland
+"tounge",,taste gland
+"skin",,tactility gland
+"voicebox",,speech gland
+"brain",,ponder gland
+"muscle",,move gland
+"uterus",,be-pregnant gland
 "needle",,sharp long
 "be jagged; be zig-zag; be pointy; OBJ (zig-zag) is jagged",,many be-straight
 "be polygonal; OBJ (polygon) is polygonal",,be-straight be-circuitous
@@ -142,23 +160,6 @@ eng,cst,source
 "urinate; pee",,urine make
 "diarrhea",,liquid feces
 "pimple",,pus container
-"hand",,arm knob
-"foot",,leg knob
-"shoulder",,arm joint
-"hip",,leg joint
-"wrist",,hand joint
-"ankle",,foot joint
-"pelvis; hips",,torso bottom
-"mouth",,face hole
-"sensor; sense",,perceive gland
-"eye",,sight gland
-"ear",,sound gland
-"nose",,smell gland
-"tounge",,taste gland
-"skin",,tactility gland
-"voicebox",,speech gland
-"brain",,ponder gland
-"uterus",,be-pregnant gland
 "cat",,human felid
 "dog",,human canid
 "horse",,human equid
@@ -183,9 +184,8 @@ eng,cst,source
 "manatee; sea-cow",,sea elephant
 "waterfowl; duck; goose; swan",,liquid fowl
 "landfowl; chicken; turkey; pheasant",,ground fowl
-"chicken",, fowl
-"turkey",, fowl
 "hummingbird",,hum bustard
+"owl",,night bird-of-prey
 "tau; 6.283",,circle number
 "pi; 3.142",,tau over two
 "be armoured; IND (armour) armours OBJ (armoured)",,protect wear
@@ -226,7 +226,7 @@ eng,cst,source
 "society",,person system
 "economy",,buy system
 "advertise; SBJ (advertiser) advertises IND (advertisement) to OBJ (advertisee)",,buy show
-"physics",,space study
+"physics",,move study
 "chemistry; material science",,material study
 "biology",,life study
 "psychology",,think study
@@ -244,6 +244,11 @@ eng,cst,source
 "eat supper; eat dinner; SBJ (diner; supper) eats OBJ (dinner; supper)",,be-after eat
 "eat dessert; eat midnight snack; SBJ (dessert) eats OBJ (dessert; midnight snack)",,moon eat
 "dine out; SBJ (diner) buys OBJ (restaurant meal) from IND (restaurant; server) (LOCATION:restaurant; food court; dining area)",,eat buy
+"grocery store",,
+"bookstore",,book store
+"locutorio",,information store
+"butchery",,meat store
+"ticket booth",,ticket store
 "satelite; artificial satelite",,metal moon
 "millimetre",,×10^ - 3 metre
 "centimetre",,×10^ - 2 metre
@@ -310,3 +315,5 @@ eng,cst,source
 "sect",,religion part
 "rain; precipitation",,sky water
 "umbrella",,rain shield
+"address",,location number
+"beta",,

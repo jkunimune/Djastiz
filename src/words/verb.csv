@@ -195,7 +195,7 @@ eng,cst,source
 "write; record; save a file; SBJ (writer) writes OBJ (writing; data) on IND (record) (TOOL:writing utensil|LOCATION:desk; writing surface)",,
 "erase; overwrite; obscure; SBJ (eraser) removes traces of OBJ from IND (TOOL:eraser)",,reversal of ""write""
 "read; derive meaning from a physical object; load a file; SBJ (reader) reads OBJ (reading; data) from IND (source)",,
-"be inside; contain; be inner; OBJ (indoors) is many layers near the center of IND (container) (AMOUNT:innerness|LOCATION:edge; fringe)",,
+"be inside; contain; be inner; OBJ (indoors; content) is many layers near the center of IND (container) (AMOUNT:innerness|LOCATION:edge; fringe)",,
 "be outside; be outer; OBJ (outdoors) is many layers away from the center of IND (LOCATION:heart; bowels)",,antonym of ""be inside""
 "enter; put in; SBJ moves OBJ into IND",,incohative of ""be inside""
 "exit; release; SBJ moves OBJ out of IND",,cessative of ""be inside""
@@ -214,10 +214,9 @@ eng,cst,source
 "be typical; the type of OBJ (instance; example) is IND (category; class; kind; type)",,
 "categorise; classify; SBJ places OBJ as an instance of IND",,incohative of ""be typical""
 "disqualify; declassify; SBJ makes OBJ not be an instance of IND",,cessative of ""be typical""
-"obey",,
-"contain; be inside; OBJ (content) is in SBJ (container)",,
+"obey; SBJ does OBJ because IND said to do it",,
 "trail; a person or thing",,
-"matter; be important",,
+"care; matter; find important; OBJ (caring; passionate) cares about IND (matter)",,
 "unimportant",,
 "primary; refers to generally being main or central",,
 "fringe; refers to being secondary or minor",,
@@ -516,11 +515,11 @@ eng,cst,source
 "abort; get abortion; SBJ (aborter) gives OBJ an abortion (TIME:abortion)",,cessative of ""be pregnant""
 "give birth; get born; SBJ (biological mother) gives birth to OBJ (offspring; biological child; newborn) by IND (biological father)'s seed (TIME:birth)",mamap,ono mama baba
 "kill",,
-"prosper; well; good; SBJ does well",,
+"prosper; well; good; OBJ is doing well",,
 "excuse; pardon; SBJ excuses OBJ",,
-"grateful; thankful; OBJ feels grateful to SBJ",,
-"sorry; apologetic; SBJ feels sorry for causing OBJ to happen",,
-"sympathise; SBJ sympathises with OBJ for IND happening",,
+"be grateful; be thankful; OBJ feels grateful to SBJ",,
+"be sorry; be apologetic; feel remorse; regret; OBJ feels sorry for causing IND to happen",,
+"sympathise; OBJ sympathises with IND",,
 "go out; do stuff; be active; be driven; SBJ does stuff",,antonym of ""be lazy""
 "lazy",,
 "creep out; OBJ (creeped out) finds IND (creepy; creeper) creepy",,
