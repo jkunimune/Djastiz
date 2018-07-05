@@ -60,13 +60,14 @@ eng,cst,source
 "suck; SBJ (sucker) sucks on OBJ (sucked)",,mouth rub
 "sand; SBJ (sander) sands OBJ (sanded)",,powder rub
 "car; truck",,ground vehicle
-"boat",,sea vehicle
+"boat",,liquid vehicle
 "plane",,air vehicle
 "spaceship",,cosmos vehicle
 "train",,path vehicle
-"swim",,liquid traverse
-"climb; SBJ (climber) climbs OBJ (ladder; handholds)",,wall traverse
-"dig; SBJ (digger) digs OBJ (hole; tunnel)",,rock traverse
+"submarine",,under boat
+"swim; OBJ (swimmer) swims",,liquid move
+"climb; OBJ (climber) climbs (TOOL:ladder; handholds)",,wall move
+"dig; OBJ (digger) digs",,rock move
 "bathroom; restroom",,clean room
 "butthole",,feces hole
 "subcontinent (e.g. Europe, South Asia)",,small continent

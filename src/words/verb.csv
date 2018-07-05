@@ -1,4 +1,10 @@
 eng,cst,source
+"begin; start; commence; initiate; become; go; summon; arrive; to; change; incohative; SBJ (starter) makes OBJ transition from falsehood to truth",,
+"end; stop; cease; cancel; unbecome; come; send; leave; depart; from; change; cessative; SBJ (stopper) makes OBJ transitions from truth to falsehood",,reversal of ""begin""
+"yes; be true; be right; be correct; be happening; be in progress; continue; maintain; keep; stay; progressive; OBJ (state) is happening",,
+"no; be false; be wrong; be incorrect; be not happening; OBJ (falsehood) is not happening",,antonym of ""be true""
+"happen; do; cause; pro-verb; SBJ (cause) causes OBJ (event; effect) to come true",,incohative of ""be true""
+"undo; OBJ happens in reverse",,cessative of ""be true""
 "be; exist; have; equal; copula; OBJ exists and is the same thing as IND",,
 "create; make; give; appear; produce; SBJ (creator) makes OBJ (creation) into IND (LOCATION:factory; makery; source|MANNER:recipe)",,incohative of ""exist""
 "delete; destroy; take; disappear; SBJ (deleter; destroyer) deletes OBJ (deleted; disappeared)",,cessative of ""exist""
@@ -6,16 +12,11 @@ eng,cst,source
 "be barren; OBJ does not have the capacity to produce IND",,antonym of ""be fruitful""
 "till; SBJ (tiller) tills OBJ (TOOL:plow)",,incohative of ""be fruitful""
 "raze; destroy productive capabilities; SBJ razes OBJ",,cessative of ""be fruitful""
-"be true; yes; be right; be correct; be in progress; be happening; happen progressively; OBJ (state) is happening",,
-"be false; no; be wrong; be incorrect; be not happening; OBJ is not happening",,antonym of ""be true""
-"happen; do; cause; pro-verb; SBJ (cause) causes OBJ (event; effect) to come true",,incohative of ""be true""
-"undo; OBJ happens in reverse",,cessative of ""be true""
-"begin; start; commence; initiate; become; go; summon; arrive; to; incohative; SBJ (starter) makes OBJ transition from falsehood to truth",,
-"end; stop; cease; cancel; unbecome; come; send; leave; depart; from; cessative; SBJ (stopper) makes OBJ transitions from truth to falsehood",,reversal of ""begin""
-"be happening; be constant; be permanent; progressive; OBJ is in process",,
-"be transient; be temporary; be in flux; OBJ is in a state of flux",,antonym of ""be happening""
-"continue; maintain; SBJ (maintainer) makes OBJ hold true for some time",,
-"change; SBJ (changer) changes the state of OBJ",,reversal of ""continue""
+"progressive; SBJ (maintainer) makes OBJ hold true for some time",,
+"be constant; be permanent; OBJ does not change",,
+"be changing; be transient; be temporary; be in flux; OBJ is changing",,antonym of ""be constant""
+"hold; stay; keep; freeze; SBJ makes OBJ stay the same",,incohative of ""be constant""
+"change; SBJ (changer) changes the state of OBJ",,cessative of ""be constant""
 "repeat; do again; return to; SBJ makes OBJ happen after having happened already",,
 "reverse; do back; return from; SBJ makes OBJ happen in reverse after having happened already",,reversal of ""repeat""
 "try; attempt; will; intend; attempt; SBJ intends to make OBJ (intention; aim; goal) happen",,
@@ -27,9 +28,9 @@ eng,cst,source
 "imply; if; if IND (condition) happens, OBJ will happen",,
 "should; be fit; be good; IND should happen to make OBJ (value function; goal) be true",,
 "should not; be bad; be unwise; IND (problem) should not happen to make OBJ be true",,antonym of ""should""
-"must; have to; be responsible; be obligated; OBJ is obligated to make IND (obligation; duty; responsibility)",,
+"must; have to; be responsible; be obligated; OBJ is obligated to make IND (obligation; duty; responsibility; rule)",,
 "assign; obligate; SBJ (assigner) makes OBJ responsible of IND happening",,incohative of ""must""
-"find forbidden; find against the rules; find illegal; OBJ is not allowed to make IND (crime; felony) happen",,opposite of ""must""
+"find forbidden; find against the rules; find illegal; OBJ is not allowed to make IND (crime; felony; banned) happen",,opposite of ""must""
 "forbid; pass rules against; SBJ (authority) forbids OBJ from making IND happen",,incohative of ""find forbidden""
 "exceed; be positive; be greater; be more; be enough; be too much; OBJ is numerically greater than IND (zero; reference) (AMOUNT:numerical value; positiveness)",,
 "be negative; be less; be not enough; be too little; OBJ is numerically less than IND",,antonym of ""be positive""
@@ -76,13 +77,13 @@ eng,cst,source
 "know; OBJ (knower; smart) remembers IND (knowledge), believes and thinks it to be true, and correctly understands why it is true",,
 "teach; learn; study; find out; SBJ (teacher; professor; master) teaches IND to OBJ (student; learner) (LOCATION:school; college; university|TIME:lesson; education)",,incohative of ""know""
 "unteach; unlearn; SBJ (unteacher) makes IND (unlearner) unlearn what they thought they knew about OBJ",,cessative of ""know""
-"be familiar with; IND (familiar to; accquaintance) is familiar to OBJ",,
+"be familiar with; IND (familiar to; accquaintance; famous; notorious) is familiar to OBJ",,
 "be unfamiliar with; be strange; be foreign; IND (unfamiliar to; stranger) is unfamiliar to OBJ",,antonym of ""be familiar with""
 "familiarise; SBJ (familiariser) makes OBJ become familiar with IND",,incohative of ""be familiar with""
 "unfamiliarise; SBJ (unfamiliariser) makes OBJ become unfamiliar with IND",,cessative of ""be familiar with""
 "accompany; come with; be together; SBJ accompanies (companion; mate; partner; company) OBJ",,
 "be friendly; be nice; be kind; OBJ considers IND (friend) a friend (AMOUNT:friendliness; amity)",,
-"be hostile; be mean; be harsh; OBJ is hostile toward IND (enemy)",,antonym of ""be friendly""
+"be hostile; be mean; be harsh; OBJ is hostile toward IND (enemy; infamous)",,antonym of ""be friendly""
 "befriend; introduce; soften; SBJ (friend-arranger) makes OBJ become friends with IND",,incohative of ""be friendly""
 "drive apart; aggravate; SBJ (enemy-maker) makes OBJ become hostile toward IND",,cessative of ""be friendly""
 "love; be infatuated; OBJ (lover) is in love with IND (love) (TIME:romance)",,
@@ -122,9 +123,10 @@ eng,cst,source
 "approach; move toward; meet; draw close; put together; SBJ (joiner) moves OBJ toward IND (TIME:meeting)",,cessative of ""be far""
 "keep apart; separate; divide; SBJ (wall; barrier) separates OBJ (other side) from IND",,progressive of ""be far""
 "be in front; be forward; be between; OBJ (field of view; shield) has a positive _y_ coordinate from IND's point of view (AMOUNT:_y_ coordinate)",,
-"be behind; be backward; OBJ (back) has a negative _y_ coordinate from IND's point of view",,antonym of ""be forward""
-"advance; move forward; SBJ (advancer) makes OBJ move forward from IND's point of view",,incohative of ""be forward""
-"retreat; move backward; SBJ (retreater) makes OBJ move backward from IND's point of view",,cessative of ""be forward""
+"be behind; be backward; OBJ (back) has a negative _y_ coordinate from IND's point of view",,antonym of ""be in front""
+"advance; move forward; SBJ (advancer) makes OBJ move forward from IND's point of view",,incohative of ""be in front""
+"retreat; move backward; SBJ (retreater) makes OBJ move backward from IND's point of view",,cessative of ""be in front"
+"follow; trail; SBJ makes OBJ (follower; tail) follow IND (followed)",,progressive of ""be behind""
 "be right; OBJ (right side) has a positive _x_ coordinate from IND's point of view (AMOUNT:_z_ coordinate)",,
 "be left; OBJ (left side) has a negative _x_ coordinate from IND's point of view",,antonym of ""be right""
 "move right; SBJ makes OBJ move right from IND's point of view",,incohative of ""be right""
@@ -211,27 +213,24 @@ eng,cst,source
 "leave bare; expose; leave open; OBJ covers little of IND (bare; open; exposed)",,antonym of ""surround""
 "surround; cover; SBJ (coverer) surrounds OBJ with IND",,incohative of ""surround""
 "uncover; bare; expose; open; SBJ (uncoverer) makes OBJ stop surrounding IND",,cessative of ""surround""
-"be typical; the type of OBJ (instance; example) is IND (category; class; kind; type)",,
+"be typical; qualify; the type of OBJ (instance; example) is IND (category; class; kind; type)",,
 "categorise; classify; SBJ places OBJ as an instance of IND",,incohative of ""be typical""
 "disqualify; declassify; SBJ makes OBJ not be an instance of IND",,cessative of ""be typical""
-"obey; SBJ does OBJ because IND said to do it",,
-"trail; a person or thing",,
-"care; matter; find important; OBJ (caring; passionate) cares about IND (matter)",,
-"unimportant",,
-"primary; refers to generally being main or central",,
-"fringe; refers to being secondary or minor",,
-"notorious",,
-"walk",,
-"run",,
-"traverse; typically compounded to make things like ""swim"",, ""climb"",, ""gallop"",, etc.",,
-"rotate; about the direct object",,
-"hand-off; exchange direct object via hands",,
-"open",,
-"closed",,
+"obey; control; follow; lead; SBJ does OBJ because IND said to do it",,
+"care; matter; find important; OBJ (caring; passionate) cares about IND (main; primary)",,
+"find unimportant; be indifferent; ignore; OBJ does not care about IND (fringe; secondary)",,antonym of ""care""
+"make important; persuade to care; SBJ makes OBJ care about IND",,incohative of ""care""
+"make unimportant; persuade not to care; SBJ makes OBJ stop caring about IND",,cessative of ""care""
+"walk; OBJ is walking",,
+"walk from; start walking; SBJ walks OBJ away",,incohative of ""walk""
+"walk to; stop walking; SBJ makes OBJ stop walking",,cessative of ""walk""
+"run; OBJ is running",,
+"run from; start walking; SBJ walks OBJ away",,incohative of ""run""
+"run to; stop walking; SBJ makes OBJ stop walking",,cessative of ""run""
 "be simple; OBJ is simple",,
-"be complex; be complicated; OBJ (system) is complex",,
-"simplify; SBJ (simplifier) simplifies OBJ",,deriative of ""be simple""
-"complicate; SBJ (complicater) complicates OBJ",,incohative of ""be complicated""
+"be complex; be complicated; OBJ (system) is complex",,antonym of ""be simple""
+"simplify; SBJ (simplifier) simplifies OBJ",,incohative of ""be simple""
+"complicate; SBJ (complicater) complicates OBJ",,cessative of ""be simple""
 "govern",,
 "organize-oneself",,
 "problem; to pose a challenge, but not necessarily in a bad way",,
@@ -359,10 +358,14 @@ eng,cst,source
 "be black; be dark; OBJ reflects no wavelengths of light",,antonym of ""be white""
 "whiten; lighten; dodge; SBJ lightens OBJ",,incohative of ""be white""
 "blacken; darken; shade; SBJ darkens OBJ",,cessative of ""be white""
-"be colourful; be bright; be saturated; OBJ reflects some wavelengths of light much more than others (AMOUNT:chroma; saturation; brightness)",,
-"be grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same",,antonym of ""be colourful""
-"colour; SBJ brightens the colours of OBJ",,incohative of ""be colroful""
-"colour grey; SBJ desaturates the colours of OBJ",,cessative of ""be colourful""
+"be grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same",,
+"be brightly coloured; be saturated; be colourful; OBJ reflects some wavelengths of light much more than others (AMOUNT:chroma; saturation; brightness)",,antonym of ""be grey""
+"colour grey; SBJ desaturates the colours of OBJ",,incohative of ""be grey""
+"colour; SBJ brightens the colours of OBJ",,cessative of ""be grey""
+"be brown; be murkey; OBJ looks brown",,
+"be vibrant; be colourful; be primary; be distinct; OBJ is coloured with distinct, primary colours",,antonym of ""be brown""
+"brown; colour brown; SBJ colours OBJ brown",,incohative of ""be brown""
+"colour vibrantly; SBJ colours OBJ with distinct, primary colours",,cessative of ""be brown""
 "be opaque; OBJ absorbs light that it does not reflect (AMOUNT:opacity)",,
 "be transparent; be see-through; OBJ (window) lets unreflected light pass through it",,antonym of ""be opaque""
 "opaquify; SBJ make OBJ become opaque",,incohative of ""be opaque""
@@ -377,10 +380,12 @@ eng,cst,source
 "circularise; round; circle; SBJ turns OBJ into a circle",,incohative of ""be circular""
 "be square; be rectangular; OBJ (rectangle; square; box) is rectangular",,opposite of ""be circular""
 "square; rectify; SBJ makes OBJ into a rectangle",,incohative of ""be square""
-"be hollow; be closed; be looped; be complete; OBJ (shell; loop; circuit; circle; closed path) is a closed path or surface",,
-"hollow out; shell; close; loop; SBJ makes OBJ be a closed path or surface",,incohative of ""be hollow""
-"be cupped; be U-shaped; be open; be confined; OBJ (cup; corner; bay; bay; dip; U; open container) is open on one side and closed on the others",,opposite of ""be hollow""
-"cup; dig; carve out; SBJ makes OBJ be open on one side",,incohative of ""be cupped""
+"be closed; be hollow; be looped; be complete; OBJ (shell; loop; circuit; circle; closed path; closed surface) is closed",,
+"be open; OBJ is open",,antonym of ""be closed""
+"close; shut; SBJ (closer) closes OBJ",,incohative of ""be closed""
+"open; SBJ (opener) opens OBJ",,cessative of ""be closed""
+"be cupped; be U-shaped; be open; be confined; OBJ (cup; corner; bay; bay; dip; U; open container) is open on one side and closed on the others",,
+"cup; dig; divot; carve out; SBJ makes OBJ be open on one side",,incohative of ""be cupped""
 "be powder; be fine; OBJ is a powder",,
 "pulverise; powder; SBJ (pulveriser) turns OBJ into a powder",,incohative of ""be powder""
 "be chunky; be a pile; be bits; OBJ (gravel; cereal) comprises small chunky bits",,
@@ -446,7 +451,7 @@ eng,cst,source
 "social; amount of socialization",,
 "introversion",,
 "note-leave",,
-"ride; SBJ (passenger) rides on OBJ (vehicle)",,
+"ride; transport; SBJ (passenger) rides on OBJ (vehicle)",,
 "play; a game or a sport",,
 "legislate",,
 "achieve; a goal",,
