@@ -231,7 +231,7 @@ The next method is the prependix of a _qualifier_ to a noun phrase. There are si
 
 The third method is the appendix of a _modifier_. Modifiers are attached to the ends of noun phrases to create new noun phrases. There are two types of modifier, each of which has its own quirks, so they will be discussed at length in [&#167;2.4](#modifiers).
 
-The fourth and perhaps most complicated method is a noun clause. A noun clause comprises `pā` followed by a list of postpositional phrases and a verb. Noun clauses appear at first to be sentences with `pā` as their punctuation marker. However, do not be misled. These are nouns that refer to the meaning of the sentence they appear to be. They are commonly used with verbs such as `jaȕl` and `lȕm`.
+The fourth and perhaps most complicated method is a gerund. A noun clause comprises `pā` followed by a list of postpositional phrases and a verb. Noun clauses appear at first to be sentences with `pā` as their punctuation marker. However, do not be misled. These are nouns that refer to the meaning of the sentence they appear to be. They are commonly used with verbs such as `jaȕl` and `lȕm`.
 
 The final method is _pronouns_, which function exactly as nouns do, but with meanings derived exclusively from context. There are nine of them.
 - `ō` is the simplest pronoun. It carries no information, and acts as more of a placeholder than anything else.
@@ -283,6 +283,14 @@ Numbers can also be considered special words in that they concatenate with each 
 
 `skelf` is a bit of a meta-word. It tells the listener to ignore the previous few words sung. This is used exclusively for error correction, so it rarely comes up in writing.
 
+### Tips and tricks
+
+That's all of the official grammar. You may find it rather short. "Where are the tenses, the participles, the plurals?" you ask. While these do not exist explicitly in Launtoklian, they can be expressed using preexisting structures. Therefore, while their inclusion here is not strictly necessary, I will explain them so that everyone understands best practices for such situations without needing derive them themselves.
+
+Tenses are simple. If it is important to a sentence whether it happened in the past, present, or future, the dative postposition `ec` can be used with the appropriate word.
+
+Participles in Launtoklian are represented with relative clauses.
+
 ## Gestures
 
 Like any self-respecting language, Djastiz comes with a variety of gestures to express common sayings or feelings without the need to use one's voice. The most common are as follows.
@@ -294,3 +302,7 @@ Like any self-respecting language, Djastiz comes with a variety of gestures to e
 - To display sadness or disappointment, press a clenched fist into an open palm.
 - To display approval or appreciation toward a person, place your palms together, holding them horizontally, and slide the top hand forward, off of the bottom one.
 - To display disapproval or depreciation toward a person, slowly and gracefully raise your hands toward them while saying "oooooooooooh" quietly.
+
+## Sun never sets clause
+
+The final and most important rule is this: Launtoklian is defined, not by its users, but by this document. In order for an international auxiliary language to be effective, everyone must speak the same variety. That means that the final arbiter for what does and doesn't constitute correct Launtoklian is this. Anyone is, of course, free to interpret and use the language in any way they see fit. However, if their variation on Launtoklian contradicts this document, they cannot rightly assert their variation to be correct.

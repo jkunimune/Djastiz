@@ -209,7 +209,9 @@ eng,cst,source
 "bread",,grain foam
 "banana",,stick fruit
 "shirt; top",,torso clothes
-"pants; shorts",,leg clothes
+"pants; shorts; skirt",,leg clothes
+"pants; shorts",,tube pants
+"skirt",,open pants
 "underwear",,be-inner clothes
 "shoe",,foot clothes
 "sock",,be-inner shoe
@@ -318,3 +320,4 @@ eng,cst,source
 "umbrella",,rain shield
 "address",,location number
 "beta",,
+"ecosystem; environment",,life system

@@ -1,21 +1,21 @@
 eng,cst,source
-"e; /e/; mid front unrounded vowel",'e,lat eː
-"a; /a/; open central unrounded vowel",'a,lat aː
-"o; /o/; mid back rounded vowel; also J",'o,lat oː
-"i; /i/; close front unrounded vowel",'i,lat iː
-"u; /u/; close back rounded vowel",'u,lat uː
-"j; /j/; palatal approximant",'jot,grc iɔːta
-"l; /l/; alveolar lateral approximant",'lo,spa ele
-"w; /w/; labial-velar approximant",'wet,grc bɛːta
-"n; /n/; alveolar nasal",'no,spa ene
-"m; /m/; labial nasal",'me,spa eme
-"h; /h/; glottal fricative",'ho,lat haː
-"c; /tʃ/; post-alveolar affricate",'co,spa se
-"s; /s/; alveolar fricative",'se,spa ese
-"f; /f/; labial fricative",'fe,spa efe
-"k; /k/; velar plosive; also U",'ko,lat kaː
-"t; /t/; alveolar plosive",'te,lat teː
-"p; /p/; bilabial plosive",'pe,lat peː
+"e; /e/; mid front unrounded vowel",'e,ono e
+"a; /a/; open central unrounded vowel",'a,ono a
+"o; /o/; mid back rounded vowel",'o,ono o
+"i; /i/; close front unrounded vowel",'i,ono i
+"u; /u/; close back rounded vowel",'u,ono u
+"j; /j/; palatal approximant",'jo,ono j
+"l; /l/; alveolar lateral approximant",'la,ono l
+"w; /w/; labial-velar approximant",'we,ono w
+"n; /n/; alveolar nasal",'na,ono n
+"m; /m/; labial nasal",'me,ono m
+"h; /h/; glottal fricative",'ho,ono h
+"c; /tʃ/; post-alveolar affricate",'ca,ono tʃ
+"s; /s/; alveolar fricative",'sa,ono s
+"f; /f/; labial fricative",'fe,ono f
+"k; /k/; velar plosive",'ko,ono k
+"t; /t/; alveolar plosive",'ta,ono t
+"p; /p/; bilabial plosive",'pe,ono p
 "Arabic; the language",'halapi,ara ˈʕarabiː
 "Bengali; the language",'panla,ben ˈbaŋla
 "Chichewa; the language",'cicewa,nya tʃitʃewa

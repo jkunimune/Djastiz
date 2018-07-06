@@ -17,8 +17,8 @@ eng,cst,source
 "be changing; be transient; be temporary; be in flux; OBJ is changing",,antonym of ""be constant""
 "hold; stay; keep; freeze; SBJ makes OBJ stay the same",,incohative of ""be constant""
 "change; SBJ (changer) changes the state of OBJ",,cessative of ""be constant""
-"repeat; do again; return to; SBJ makes OBJ happen after having happened already",,
-"reverse; do back; return from; SBJ makes OBJ happen in reverse after having happened already",,reversal of ""repeat""
+"repeat; do again; return to; SBJ makes OBJ happen multiple times",,
+"reverse; do back; return from; SBJ makes OBJ happen and then happen in reverse",,reversal of ""repeat""
 "try; attempt; will; intend; attempt; SBJ intends to make OBJ (intention; aim; goal) happen",,
 "be possible; can; OBJ (possibility) can happen",,
 "enable; SBJ makes OBJ become possible",,incohative of ""be possible""
@@ -181,10 +181,14 @@ eng,cst,source
 "hide; obscure; SBJ (hider; obscurer) hides IND from OBJ",,cessative of ""notice""
 "mean; call; OBJ (name; signal; word) means IND (definition; meaning; denotation)",,
 "define; name; SBJ (definer; dictionary; convention; protocol) declares that OBJ means IND",,
-"be alive; be animate; be lively; be active; be on; be open; OBJ (living thing) is alive (AMOUNT:liveliness|TIME:life)",,
-"be dead; be inanimate; be unlively; be passive; be off; be closed; OBJ (corpse) is dead (TIME:death)",,antonym of ""be alive""
-"bring to life; come to life; animate; activate; turn on; SBJ (activator) brings OBJ to life",,incohative of ""be alive""
-"kill; murder; die; pass away; deactivate; turn off; SBJ (killer; murderer) kills OBJ",,cessative of ""be alive""
+"be alive; be lively; OBJ (living thing) is alive (AMOUNT:liveliness|TIME:life)",,
+"be dead; be unlively; OBJ (corpse) is dead (TIME:death)",,antonym of ""be alive""
+"bring to life; come to life; SBJ brings OBJ to life",,incohative of ""be alive""
+"kill; murder; die; pass away; SBJ (killer; murderer) kills OBJ",,cessative of ""be alive""
+"be on; be animate; be active; be open; OBJ is turned on",,
+"be off; be inanimate; be passive; be closed; OBJ is turned off",,antonym of ""be on""
+"turn on; animate; activate; SBJ (activator) turns on OBJ",,incohative of ""be on""
+"turn off; deactivate; SBJ (deactivator) turns off OBJ",,cessative of ""be on""
 "save; rescue; sustain; SBJ (saver; life support) keeps OBJ from dying",,progressive of ""be alive""
 "convert; translate; transform; SBJ (converter; translator) conveys OBJ in the form IND (MANNER:transformation)",,
 "wear; be clothed; OBJ wears IND (clothing; clothes; article)",,
@@ -196,7 +200,7 @@ eng,cst,source
 "stop; still; settle; deenergise; SBJ (stopper) makes OBJ stop moving",,cessative of ""move""
 "write; record; save a file; SBJ (writer) writes OBJ (writing; data) on IND (record) (TOOL:writing utensil|LOCATION:desk; writing surface)",,
 "erase; overwrite; obscure; SBJ (eraser) removes traces of OBJ from IND (TOOL:eraser)",,reversal of ""write""
-"read; derive meaning from a physical object; load a file; SBJ (reader) reads OBJ (reading; data) from IND (source)",,
+"read; load; interpret; derive meaning from a physical object; SBJ (reader) reads OBJ (reading; data) from IND (source)",,
 "be inside; contain; be inner; OBJ (indoors; content) is many layers near the center of IND (container) (AMOUNT:innerness|LOCATION:edge; fringe)",,
 "be outside; be outer; OBJ (outdoors) is many layers away from the center of IND (LOCATION:heart; bowels)",,antonym of ""be inside""
 "enter; put in; SBJ moves OBJ into IND",,incohative of ""be inside""
@@ -207,9 +211,9 @@ eng,cst,source
 "amplify; louden; brighten; strengthen; SBJ (amplifier) amplifies OBJ",,cessative of ""be quiet""
 "eat; drink; SBJ (eater) eats OBJ (food; drink; meal) (TIME:meal; mealtime)",njamjac,ono njam njam
 "be part; be in; compose; contain; comprise; include; OBJ (piece; element) is part of IND (group; whole; set)",,
-"join; add; append; SBJ (joiner) makes OBJ join IND",,incohative of ""be part""
+"join; incorporate; add; append; SBJ (joiner) makes OBJ join IND",,incohative of ""be part""
 "leave; separate; remove; SBJ (remover) makes OBJ leave IND",,cessative of ""be part""
-"surround; cover; OBJ (surroundings; cover) covers most of IND (surrounded; covered) (AMOUNT:coverage)",,
+"surround; cover; OBJ (surroundings; cover; environment) covers most of IND (surrounded; covered) (AMOUNT:coverage)",,
 "leave bare; expose; leave open; OBJ covers little of IND (bare; open; exposed)",,antonym of ""surround""
 "surround; cover; SBJ (coverer) surrounds OBJ with IND",,incohative of ""surround""
 "uncover; bare; expose; open; SBJ (uncoverer) makes OBJ stop surrounding IND",,cessative of ""surround""
@@ -231,6 +235,8 @@ eng,cst,source
 "be complex; be complicated; OBJ (system) is complex",,antonym of ""be simple""
 "simplify; SBJ (simplifier) simplifies OBJ",,incohative of ""be simple""
 "complicate; SBJ (complicater) complicates OBJ",,cessative of ""be simple""
+"be alive
+"read
 "govern",,
 "organize-oneself",,
 "problem; to pose a challenge, but not necessarily in a bad way",,
@@ -769,3 +775,7 @@ eng,cst,source
 "be tense",,
 "rub",,
 "choose",,
+"be natural",,
+"be amazing; be extreme; be incredible; be absurd; OBJ is to a very high degree",,
+"be okay; be meh; be average; be moderate; OBJ is to a low degree",,antonym of ""be amazing""
+
