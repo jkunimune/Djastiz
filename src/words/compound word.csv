@@ -79,7 +79,6 @@ eng,cst,source
 "dream",,sleep passive-perceive
 "map",,layout image
 "map-projection",,map transformation
-"empire",,big one-that-gets- citizen
 "brown",,dark red
 "air-conditioning",,air one-that- keep-cool
 "be hallowed; worship; OBJ (worshiper) worships SBJ",,god good
@@ -87,8 +86,6 @@ eng,cst,source
 "peasant",,one-that-gets- rule-monarchially
 "king",,one-that- rule-monarchially
 "kingdom",,one what on rule-monarchially
-"national; SBJ (national) identifies as part of OBJ (nation; tribe; clan; e.g. Kurdistan, Tibet)",,culture join
-"citizen; SBJ (citizen) legally belongs to OBJ (state; sovereign; polity; e.g. India, The Vatican)",,govern join
 "tempt; entice to something appealing but immoral; SBJ (tempter; temptress) encourages IND (temptee) to do OBJ (temptation)",,evil suggest
 "hand",,arm knob
 "foot",,leg knob
@@ -190,7 +187,7 @@ eng,cst,source
 "tau; 6.283",,circle number
 "pi; 3.142",,tau over two
 "be armoured; IND (armour) armours OBJ (armoured)",,protect wear
-"armour; SBJ (armourer) armours OBJ in IND",,incohative of ""be armoured""
+"armour; SBJ (armourer) armours OBJ in IND",,protect put-on
 "bite; SBJ (biter) bites OBJ (bitten)",,mouth squeeze
 "snore",,sleep emit
 "pencil",,rock writing-utensil
@@ -319,5 +316,13 @@ eng,cst,source
 "rain; precipitation",,sky water
 "umbrella",,rain shield
 "address",,location number
-"beta",,
 "ecosystem; environment",,life system
+"be legally required; be mandated by law; OBJ is required by law to make IND (law) happen",,govern must
+"legislate; mandate; pass law; SBJ (legislator; legislature; parliament; congress) legally declares that OBJ must make IND (new law) happen",,govern assign
+"be illegal; be against the law; OBJ is prohibited by law from making IND (crime; felony; misdemeanor) happen",,govern find-forbidden
+"prohibit; ban; pass law against; SBJ legally declares that OBJ may not make IND happen",,govern forbid
+"wage war; declare war; SBJ (agressor; warmonger) fights a war with OBJ (defender)",,country fight
+"be at war; SBJ is at war with OBJ (belligerent)",,country fight progressive
+"dominant hand",,be-skillful hand
+"nondominant hand",,be-unskillful hand
+"be ambidextrous; OBJ is ambidextrous",,2 hand be-skillful

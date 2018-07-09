@@ -29,8 +29,8 @@ eng,cst,source
 "should; be fit; be good; IND should happen to make OBJ (value function; goal) be true",,
 "should not; be bad; be unwise; IND (problem) should not happen to make OBJ be true",,antonym of ""should""
 "must; have to; be responsible; be obligated; OBJ is obligated to make IND (obligation; duty; responsibility; rule)",,
-"assign; obligate; SBJ (assigner) makes OBJ responsible of IND happening",,incohative of ""must""
-"find forbidden; find against the rules; find illegal; OBJ is not allowed to make IND (crime; felony; banned) happen",,opposite of ""must""
+"assign; obligate; SBJ (assigner) makes OBJ responsible for IND happening",,incohative of ""must""
+"find forbidden; find against the rules; find illegal; OBJ is not allowed to make IND (banned; prohibited) happen",,opposite of ""must""
 "forbid; pass rules against; SBJ (authority) forbids OBJ from making IND happen",,incohative of ""find forbidden""
 "exceed; be positive; be greater; be more; be enough; be too much; OBJ is numerically greater than IND (zero; reference) (AMOUNT:numerical value; positiveness)",,
 "be negative; be less; be not enough; be too little; OBJ is numerically less than IND",,antonym of ""be positive""
@@ -70,8 +70,8 @@ eng,cst,source
 "can remember; know; OBJ (knowledgable; smart) has IND stored in memory",,possibility of ""recall""
 "memorize; drill; SBJ (driller; crammer; memorizer) makes OBJ memorize IND",,incohative of ""can remember""
 "forget; memory-erase; SBJ (mind-eraser) makes OBJ forget IND",,cessative of ""can remember""
-"understand; comprehend; know; OBJ (understander; smart) understands IND (understood) well (AMOUNT:level of understanding)",,
-"misunderstand; be confused; OBJ does not understand IND (misunderstood) well",,antonym of ""understand""
+"understand; comprehend; find sensical; know; OBJ (understander; smart) understands IND (understood) well (AMOUNT:level of understanding)",,
+"misunderstand; be confused; find cryptic; OBJ does not understand IND (misunderstood) well",,antonym of ""understand""
 "explain; SBJ (teacher) teaches OBJ (student) to understand IND",,incohative of ""understand""
 "confuse; unlearn; SBJ (confuser) makes OBJ stop understanding IND",,cessative of ""understand""
 "know; OBJ (knower; smart) remembers IND (knowledge), believes and thinks it to be true, and correctly understands why it is true",,
@@ -235,9 +235,7 @@ eng,cst,source
 "be complex; be complicated; OBJ (system) is complex",,antonym of ""be simple""
 "simplify; SBJ (simplifier) simplifies OBJ",,incohative of ""be simple""
 "complicate; SBJ (complicater) complicates OBJ",,cessative of ""be simple""
-"be alive
-"read
-"govern",,
+"govern; administer; have citizenship; IND (government) serves as the governing body to OBJ (citizen; governed; people)",,
 "organize-oneself",,
 "problem; to pose a challenge, but not necessarily in a bad way",,
 "construct",,
@@ -380,6 +378,18 @@ eng,cst,source
 "be matte; be dull; be rough; OBJ reflects light diffusely",,antonym of ""be shiny""
 "shine; polish; SBJ makes OBJ become shiny",,incohative of ""be shiny""
 "matte; SBJ makes OBJ become matte",,cessative of ""be shiny""
+"smell; taste; be flavoured; OBJ has an aroma of IND (aroma; flavour; smell; taste)",,
+"be sweet; OBJ is sweet",,
+"be bitter",,
+"sweeten",,
+"bitter",,
+"be salty",,
+"be sour",,
+"be savoury",,
+"be spicy",,
+"be mild; be cool",,
+"spice",,
+"mild; cool",,
 "be shaped; be shaped like; OBJ (blob) is shaped like IND (shape)",,
 "shape; form; sculpt; SBJ (shaper; sculptor) shapes OBJ into IND",,incohative of ""be shaped like""
 "be circular; be round; OBJ (circle) is circular",,
@@ -419,10 +429,14 @@ eng,cst,source
 "be gaseous; OBJ (gas; cloud) is gaseous",,antonym of ""be liquid""
 "condense; liquidify; SBJ (condenser) condenses OBJ (condensed; cloud) into a liquid",,incohative of ""be liquid""
 "boil; evaporate; SBJ (boiler) boils OBJ",,cessative of ""be liquid""
-"be rigid; be solid; be hard; be brittle; be firm; OBJ does not bend",,possibility of ""bend""
-"be flimsy; be flexible; be loose; OBJ bends easily",,antonym of ""be rigid""
-"tighten; brace; harden; SBJ (strengthener; bracer; hardener) makes OBJ more rigid",,incohative of ""be rigid""
-"loosen; SBJ (loosener) makes OBJ more flimsy",,cessative of ""be rigid""
+"be loose; be movable; be portable; OBJ moves around easily",,possibility of ""move""
+"be tight; be immovable; be fixed; OBJ does not move easily",,antonym of ""be loose""
+"loosen; SBJ (loosener) makes OBJ looser",,incohative of ""be loose""
+"tighten; SBJ (tightener) makes OBJ tighter",,cessative of ""be loose""
+"be flimsy; be flexible; be loose; OBJ bends easily",,possibility of ""bend""
+"be rigid; be solid; be hard; be brittle; be firm; OBJ does not bend",,antonym of ""be flimsy""
+"flimse; SBJ (loosener) makes OBJ more flimsy",,incohative of ""be flimsy""
+"rigidify; brace; harden; SBJ (strengthener; bracer; hardener) makes OBJ more rigid",,cessative of ""be flimsy""
 "be structurally weak; be crumbly; OBJ is easy to break",,possibility of ""break""
 "be structurally strong; be durable; OBJ is difficult to break (AMOUNT:structural integrity; strength; durability)",,antonym of ""be structurally weak""
 "weaken; compromise; sabotage; SBJ (weakener; saboteur) makes OBJ structurally weaker",,incohative of ""be structurally weak""
@@ -662,7 +676,7 @@ eng,cst,source
 "hinder; oppose; harm; compete; fight; work against; OBJ (opposer) is working toward a goal contrary to that of IND (opponent; competitor; enemy)",,antonym of ""help""
 "align with; join; SBJ (alliance forger) makes OBJ ally with IND",,incohative of ""help""
 "turn against; betray; SBJ (instigator) turns OBJ (traitor) against IND",,cessative of ""help""
-"fight; SBJ (fighter) has an adversarial engagement with OBJ (adversary; opponent)",,
+"fight; battle; SBJ (fighter) has a physically violent engagement with OBJ (adversary; opponent) (TIME:violence; physical violence|TOOL:weapon)",,
 "base; operations and such",,
 "sexually-attract",,
 "avoid",,
