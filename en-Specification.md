@@ -51,13 +51,13 @@ Note that while all of these symbols come from the Latin alphabet, the Latin alp
 
 ### Punctuation
 
-In addition to this subset of Latin letters, a subset of other Latin symbols may be used with Chatisun to aid parsing. None of these are required, but it is important to understand what they mean in case you come across them.
+In addition to this subset of Latin letters, a subset of other Latin symbols may be used with Chatisun to aid parsing. None of these are required, but it is important to understand what they mean in case you come across them in Launtoklian texts.
 
 | Name | Symbol | Usage | Example |
 |------|--------|-------|---------|
-|      |        | Separates words and separates clusters of digits in a long number
+|      |        | Separates words or clusters of digits in long numbers
 |      | '      | Precedes a _loanword_
-|      | .      | Follows the last word of a sentence or follows the ones digit of a number
+|      | .      | Follows the last word of a sentence or the ones digit of floating point numbers
 |      | ,      | Follows the last word before a brief pause
 |      | (      | Precedes the first word of an ambiguously bounded phrase
 |      | )      | Follows the last word of an ambiguously bounded phrase
@@ -285,9 +285,11 @@ Numbers can also be considered special words in that they concatenate with each 
 
 ### Tips and tricks
 
-That's all of the official grammar. You may find it rather short. "Where are the tenses, the participles, the plurals?" you ask. While these do not exist explicitly in Launtoklian, they can be expressed using preexisting structures. Therefore, while their inclusion here is not strictly necessary, I will explain them so that everyone understands best practices for such situations without needing derive them themselves.
+That's all of the official grammar. You may find it rather short. "Where are the tenses, the passives, the participles?" you ask. While these do not exist explicitly in Launtoklian, they can be expressed using preexisting structures. Therefore, while their inclusion here is not strictly necessary, I will explain them so that everyone understands best practices for such situations without needing derive them themselves.
 
 Tenses are simple. If it is important to a sentence whether it happened in the past, present, or future, the dative postposition `ec` can be used with the appropriate word.
+
+Passives are somewhat nonexistent in Launtoklian
 
 Participles in Launtoklian are represented with relative clauses.
 

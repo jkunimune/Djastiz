@@ -149,6 +149,7 @@ eng,cst,source
 "Equatorial Guinea; the country",'kinjaekwatoljal,spa ginea ekwatoɾjal
 "Eritrea; the country",'eltala,tir ertra
 "Estonia; the country",'esti,est eːsti
+"Eswatini; Swaziland; the country",'eswatini,ssw ɛswa̯tˈiːni
 "Ethiopia; the country",'itjopja,amh ʔitjoppʼja
 "Fiji; the country",vici,fij ˈβitʃi
 "Finland; the country",'suomi,fin suo̯mi
@@ -263,7 +264,6 @@ eng,cst,source
 "Sudan; the country",'asutan,ara assuːdaːn
 "South Sudan; the country",'pakuotutan,din paguot t̪uda̤n
 "Suriname; the country",'sulinama,nld ˌsyːriˈnaːmə
-"Swaziland; the country",'eswatini,ssw ɛswatʼini
 "Sweden; the country",'swalja,swe ˈsværjə
 "Switzerland; the country",'cwajs,deu ʃvaɪ̯ts
 "Syria; the country",'sulia,ara suːrijaː
@@ -354,7 +354,7 @@ eng,cst,source
 "Zoroastrianism; the religion",'mastajasna,ave mazdajasna
 "Christmas; the holiday",'natiwitas,lat naːˈtiːwɪtaːs
 "fox; the canine",'wulpem,lat ˈwʊɫpɛ̃
-"coconut; the fruit",'tenkaj,tam ˈt̪eːŋgɑːj
+"olive; the ",,
 "pomegranate; the fruit",'tatima,san ˈd̪aːɖimə
 "calzone; the dish",'kalsone,ita kalˈtsoːne
 "beer; the drink",,

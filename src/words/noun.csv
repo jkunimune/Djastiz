@@ -1,62 +1,54 @@
 eng,cst,source
-"notion; idea; not necessarily true or objective",,
-"point; a particular time or place",,
-"path; line; curve",,
-"surface; plane; wall",,
-"region; volume; interval",,
-"network; net; web",,
-"hole; hallway; tube; gap",,
-"person; woman; man; human",,
+"notion; idea; not necessarily true or objective (GENITIVE:conceptual; ideal)",,
+"point; a particular time or place (GENITIVE:particular; local)",,
+"path; line; curve (GENITIVE:linear; curvilinear)",,
+"surface; plane; wall (GENITIVE:planar; facial)",,
+"region; volume; interval (GENITIVE:regional; volumetric; periodic)",,
+"network; net; web (GENITIVE:web)",,
+"hole; hallway; tube; gap (GENITIVE:holey)",,
+"person; woman; man; human (GENITIVE:personal; humanistic)",,
 "personify; humanise; anthropomorphise",,incohative of ""person""
-"beast; non-human animal",,opposite of ""person""
+"beast; non-human animal (GENITIVE:beastial; animalistic)",,opposite of ""person""
 "beastify",,incohative of ""beast""
-"baby",kukam,ono guː gaː
+"baby (GENITIVE:infantile)",kukam,ono guː gaː
 "babify; SBJ turns OBJ into a baby
-"senior citizen; elder; a _really_ old person",,opposite of ""baby""
-"shrivel; age; SBJ turns OBJ into a really old person",,incohavite of ""senior citizen""
-"specialist; personel; qualified",,
+"adult (GENITIVE:adult)",,
+"adolescent; youth; kid (GENITIVE:juvenile)",,opposite of ""adult""
+"senior citizen; elder; a _really_ old person (GENITIVE:elder)",,opposite of ""baby""
+"age; shrivel; SBJ turns OBJ into a really old person",,incohavite of ""senior citizen""
+"specialist; personel; qualified (GENITIVE:special; technical)",,
 "specialise; train; qualify; SBJ turns OBJ into a specialist",,incohative of ""specialist""
-"layperson; civilian; customer",,opposite of ""specialist""
-"light",,
-"sight; vision; representation of 3D space as 2D angular array of vectors",,
-"sound; audio; hearing",,
-"tactility; touch; feeling",,
-"scent; smell",,
-"flavor",,
-"speech; voice; spoken language",,
-"text; literature; written language",,
+"layperson; civilian; customer (GENITIVE:popular; general)",,opposite of ""specialist""
 "clap; slap; tick; a sudden, short, high-pitched sound",kef,kʰ
 "boom; crash; a sudden, loud, low-pitched sound",pum,ono bum
 "screech; wail; a shrill, drawn-out, high-pitched sound",hihih,iː
 "hum; buzz; a sonourous, drawn-out, low-pitched sound",mumum,mː
 "chatter; wobble; rustle; a long, noisy, high-pitched sound",cececef,tʃkətʃətʃə
 "rumble; a long, noisy, low-pitched sound",puwapuwam,wumbawumba
-"god; deity; a general term, not a reference to any particular god",,
-"ground; planet",,
-"cosmos; outer space",,opposite of ""ground""
-"sun; star",,
-"moon; satelite",,opposite of ""sun""
-"sea; ocean",,
-"land; landmass; e.g. America, Afro-Eurasia",,opposite of ""sea""
-"continent; e.g. North America, Eurasia",,
-"settlement; city; town; village",,
-"country; state; polity",,
-"mountain",,
-"jungle",,
-"desert",,
-"tundra",,
-"plains",,
-"sky; atmosphere; weather; heavens",,
-"sentence",,
-"phrase",,
-"word",,
-"letter; phoneme",,
-"home",,
-"body",,
-"hair",,
-"face",,
-"head",,
-"torso",,
+"light (GENITIVE:luminescent)",,
+"god; deity; a general term, not a reference to any particular god (GENITIVE:divine; godly; deific)",,
+"ground; planet (GENITIVE:terrestrial; planetary)",,
+"cosmos; outer space (GENITIVE:cosmic; astral; interstellar)",,opposite of ""ground""
+"sun; star (GENITIVE:solar; stellar)",,
+"moon; satelite (GENITIVE:lunar)",,opposite of ""sun""
+"sea; ocean (GENITIVE:nautical; oceanic)",,
+"land; landmass, e.g. America, Afro-Eurasia (GENITIVE:terrestrial)",,opposite of ""sea""
+"continent, e.g. North America, Eurasia (GENITIVE:continental)",,
+"mountain (GENITIVE:mountainous; montanical)",,
+"valley (GENITIVE:)",,opposite of ""mountain""
+"settlement; city; town; village (GENITIVE:urban; villestial)",,
+"country; state; polity (GENITIVE:national)",,
+"sky; atmosphere; weather; heavens (GENITIVE:celestial; atmospheric; meteorological; aerial)",,
+"sentence (GENITIVE:sentential)",,
+"phrase (GENITIVE:phrasal)",,
+"word (GENITIVE:lexical)",,
+"letter; phoneme (GENITIVE:epistolary; alphabetical; phonemic)",,
+"home (GENITIVE:domestic)",,
+"body (GENITIVE:bodily; physical; corporal)",,
+"hair (GENITIVE:pilar; hairy)",,
+"face (GENITIVE:facial)",,
+"head (GENITIVE:cranial; cephalic)",,
+"torso (GENITIVE:torsal)",,
 "arm",,
 "bicep; thigh",,
 "forearm; shin",,
@@ -77,6 +69,8 @@ eng,cst,source
 "scale",,
 "feather",,
 "shell",,
+"egg",,
+"seed",,
 "leaf",,
 "fruit",,
 "root",,
@@ -84,7 +78,13 @@ eng,cst,source
 "blade; of grass",,
 "flower",,
 "appendage",,
-"fact; not necessarily true, but necessarily objective",,
+"grain",,
+"rice",,
+"corn; maize",,
+"soy; soybean",,
+"tomato",,
+"grape",,
+"apple",,
 "information; notion, number, etc.",,
 "detail",,
 "season",,

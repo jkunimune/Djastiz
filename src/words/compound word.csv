@@ -14,7 +14,7 @@ eng,cst,source
 "Sol; The Sun",,human sun
 "Luna; The Moon",,human moon
 "Earth",,human planet
-"communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ (interlocutor) about IND (topic; conversation; passage) (MANNER:language)",,show show
+"communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ (interlocutor) about IND (topic; passage) (TIME:conversation; discourse)",,convey convey
 "say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",,. convey
 "ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",,? convey
 "tell; implore; command; instruct; lead; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",,>> convey
@@ -74,8 +74,16 @@ eng,cst,source
 "oasis; watering hole",,water point
 "island",,small landmass
 "lake; pond",,pure sea
-"river; stream; brook",,water line
+"river; stream; brook",,liquid line
 "waterfall",,down river
+"body of water; lake; sea; lagoon",,be-big liquid
+"plateau; highlands (GENITIVE:highland; high)",,be-high land
+"lowlands",,be-low land
+"plains (GENITIVE:plain; planar; campal)",,be-flat land
+"tundra (GENITIVE:tundra; tundral)",,be-cold land
+"desert (GENITIVE:desert; deserted)",,sand land
+"jungle; rainforest (GENITIVE:jungle; rainforest; jungular)",,plant land
+"swamp; marsh; bog; wetlands (GENITIVE:marhal; wetland; wet)",,be-wet land
 "dream",,sleep passive-perceive
 "map",,layout image
 "map-projection",,map transformation
@@ -142,8 +150,8 @@ eng,cst,source
 "mist",,liquid powder
 "alcohol",,fun liquid
 "tea",,leaf liquid
-"coffee",,be-energetic liquid
 "milk",,baby liquid
+"wine",,grape alcohol
 "blood",,red bodily-fluid
 "urine; pee",,yellow bodily-fluid
 "pus",,white bodily-fluid
@@ -193,6 +201,10 @@ eng,cst,source
 "pencil",,rock writing-utensil
 "paint; SBJ (painter) paints OBJ (painting)",,liquid draw
 "sculpt; etch; carve; SBJ (carver) carves OBJ (sculpture)",,solid draw
+"broom",,
+"mop",,
+"duster",,
+"hammer",,
 "lightning",,sky electricity
 "polytheism; pantheon",,several god
 "monothiesm",,1 god
@@ -202,16 +214,30 @@ eng,cst,source
 "be monochromatic; OBJ has few colours",,few be-coloured
 "flag; banner",,cloth symbol
 "revolution",,short change
-"rice",,grain pile
+"sugar",,sweet powder
+"salt",,salty powder
+"flour",,grain powder
 "bread",,grain foam
+"corn; maize",,grain yellow
+"noodle; linguini",,grain stick
 "banana",,stick fruit
+"sugarcane",,sweet plant
+"cotton",,foam plant
+"coffee",,be-energetic plant
+"onion",,layer plant
+"bean",,soft seed
+"nut",,hard seed
+"rubber",,elastic tree
+"coconut",,hair fruit
 "shirt; top",,torso clothes
+"sleeve; armband",,arm clothes
 "pants; shorts; skirt",,leg clothes
 "pants; shorts",,tube pants
 "skirt",,open pants
-"underwear",,be-inner clothes
+"underwear",,be-under clothes
+"blazer",,be-over clothes
 "shoe",,foot clothes
-"sock",,be-inner shoe
+"sock; stocking",,be-under shoe
 "glove",,hand clothes
 "hat",,hair clothes
 "mask; glasses",,face clothes
@@ -224,7 +250,7 @@ eng,cst,source
 "go through; OBJ moves into and then out of IND (tube; hallway; corridor)",,enter exit
 "travel; SBJ travels from IND to OBJ (destination; getaway)",,where go
 "society",,person system
-"economy",,buy system
+"economy",,sell system
 "advertise; SBJ (advertiser) advertises IND (advertisement) to OBJ (advertisee)",,buy show
 "physics",,move study
 "chemistry; material science",,material study
@@ -326,3 +352,8 @@ eng,cst,source
 "dominant hand",,be-skillful hand
 "nondominant hand",,be-unskillful hand
 "be ambidextrous; OBJ is ambidextrous",,2 hand be-skillful
+"employ; contract; work for; SBJ (employee) works on OBJ (job; work) for IND (employer; boss) in exchange for money (TIME:employment; career)",,work buy
+"buy service; serve; SBJ (server) performs OBJ (service) for IND (customer) in exchange for money (TIME:service)",,do buy
+"buy good; produce; SBJ (producer; vendor) gives OBJ (good) to IND (consumer) in exchange for money (TIME:sale)",,thing buy
+"agree; OBJ agrees with IND",,same think
+"disagree; OBJ disagrees with IND",,different think
