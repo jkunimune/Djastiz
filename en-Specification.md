@@ -84,7 +84,7 @@ In addition to this subset of Latin letters, a subset of other Latin symbols may
 
 ## Vocabulary
 
-There are three broad classes of word in Chastisun: nouns, verbs, and particles. These words are drawn from Chinese, Italic, Germanic, Indo-Iranian, Semitic, Atlantic-Congo, and Esperanto lexicons. The source languages were carefully selected and weighted in order to give the most mnemonic value to the greatest number of people. Source words are modified when entering Chatisun to match its strict morphology. All morphemes start and end with a consonant and contain no consonant clusters, so consonant clusters indicate morpheme boundaries in compound words. Particles, meanwhile, either start or end with a vowel depending on whether they are a prefix-particle or a suffix-particle. The following section will discuss verbs and nouns, as well as their properties and various subdivisions.
+There are three broad classes of word in Chastisun: nouns, verbs, and particles. These words are drawn from Chinese, Italic, Germanic, Indo-Iranian, Semitic, Atlantic-Congo, Esperanto, and onomotopoetic lexicons. The source languages were carefully selected and weighted in order to give the most mnemonic value to the greatest number of people. Source words are modified when entering Chatisun to match its strict morphology. All morphemes start and end with a consonant and contain no consonant clusters, so consonant clusters indicate morpheme boundaries in compound words. Particles, meanwhile, either start or end with a vowel depending on whether they are a prefix-particle or a suffix-particle. The following section will discuss verbs and nouns, as well as their properties and various subdivisions.
 
 ### Verbs
 

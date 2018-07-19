@@ -3,6 +3,7 @@
 
 import csv
 import os
+import re
 import six
 
 from google.cloud import translate
@@ -48,6 +49,13 @@ def save_dictionaries(dictionaries, filepath):
 				writer.writerow([english, other_language])
 
 
+def get_key(definition):
+	eng_word = re.search(r'\*([a-zA-Z]+)', definition)
+	if eng_word is None:
+		eng_word = re.search(r'^([^;\(]+)( \()?', definition)
+	return eng_word.group(1)
+
+
 if __name__ == '__main__':
 	translate_client = translate.Client()
 
@@ -59,7 +67,7 @@ if __name__ == '__main__':
 		with open('./words/{}'.format(filename), 'r', encoding='utf-8', newline='') as f:
 			for english, chatisun, source in csv.reader(f):
 				if not source or (len(source.split()[0]) == 3 and source.split()[0] != 'ono'):
-					key = english.split(';')[0]
+					key = get_key(english)
 					if len(key.split()) > 1 and key.split()[0] in ['be', 'find', 'have', 'give', 'do', 'get']:
 						key = ' '.join(key.split()[1:]) #drop the "be"
 					print('Translating "{}" to {} languages...'.format(key, len(LANGUAGES)))

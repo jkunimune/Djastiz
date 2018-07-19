@@ -1,6 +1,6 @@
 eng,cst,source
-"begin; start; commence; initiate; become; go; summon; arrive; to; change; incohative; SBJ (starter) makes OBJ transition from falsehood to truth",,
-"end; stop; cease; cancel; unbecome; come; send; leave; depart; from; change; cessative; SBJ (stopper) makes OBJ transitions from truth to falsehood",,reversal of ""begin""
+"begin; start; commence; initiate; become; go; summon; arrive; to; change; -ify; incohative; SBJ (starter) makes OBJ transition from falsehood to truth",,
+"end; stop; cease; cancel; unbecome; come; send; leave; depart; from; change; de- -ify; cessative; SBJ (stopper) makes OBJ transitions from truth to falsehood",,reversal of ""begin""
 "yes; be true; be right; be correct; be happening; be in progress; continue; maintain; keep; stay; progressive; OBJ (state) is happening",,
 "no; be false; be wrong; be incorrect; be not happening; OBJ (falsehood) is not happening",,antonym of ""be true""
 "happen; do; cause; pro-verb; SBJ (cause) causes OBJ (event; effect) to come true",,incohative of ""be true""
@@ -33,19 +33,19 @@ eng,cst,source
 "assign; obligate; SBJ (assigner) makes OBJ responsible for IND happening",,incohative of ""must""
 "find forbidden; find against the rules; find illegal; OBJ is not allowed to make IND (banned; prohibited) happen",,opposite of ""must""
 "forbid; pass rules against; SBJ (authority) forbids OBJ from making IND happen",,incohative of ""find forbidden""
-"exceed; be positive; be greater; be more; be enough; be too much; OBJ is numerically greater than IND (zero; reference) (AMOUNT:numerical value; positiveness)",,
+"exceed; be positive; be greater; be more; be enough; be too much; OBJ is numerically greater than IND (zero; reference) (AMOUNT:numerical value; positiveness (GENITIVE:numerical; cardinal))",,
 "be negative; be less; be not enough; be too little; OBJ is numerically less than IND",,antonym of ""be positive""
 "increase; SBJ (increaser) makes OBJ increase relative to IND",,incohative of ""be positive""
 "decrease; SBJ (decreaser) makes OBJ decrease relative to IND",,cessative of ""be positive""
-"be number; be in order; index; OBJ (item; element) has a late position in IND (list; order; sequence) (AMOUNT:position; index; number)",,
+"be number; be in order; index; OBJ (item; element) has a late position in IND (list; order; sequence) (AMOUNT:position; index; number (GENITIVE:ordinal))",,
 "be number from the end; be in order from the end; negatively index; OBJ has an early position in IND (AMOUNT:position from end; negative index; number from end)",,antonym of ""be number""
 "move down; position; sort; SBJ (sorter) moves OBJ down the sequence IND (sorted) (MANNER:order)",,incohative of ""be number""
 "move up; position; SBJ moves OBJ up the sequence IND",,cessative of ""be number""
-"convey; say; SBJ (sayer) conveys IND (message; idea; signal; utterance) to OBJ (addressee) (MANNER:language; protocol)",,
-"perceive; sense; find perceptible; see; hear; feel; smell; taste; OBJ (perceiver; observer) can perceive IND (perception; experience) (TOOL:sense; sensor)",,
+"convey; say; SBJ (sayer) conveys IND (message; idea; signal; utterance) to OBJ (addressee) (MANNER:language; protocol (GENITIVE:linguistic; lingual))",,
+"perceive; sense; find perceptible; see; hear; feel; smell; taste; OBJ (perceiver; observer) can perceive IND (perception; experience) (TOOL:sense; sensor|GENITIVE:perceptual)",,
 "show; look; listen; sniff; taste; read; SBJ (shower; looker; listener) shows IND (show) to OBJ",,incohative of ""perceive""
 "obscure; hide; remove; SBJ makes OBJ stop perceiving IND (obscured)",,cessative of ""perceive""
-"see; view; OBJ (seer) sees IND (image; sight; view)",,
+"see; view; OBJ (seer) sees IND (image; sight; view) (GENITIVE:visual; optic)",,
 "show; look; SBJ shows IND (show) to OBJ visually",,incohative of ""see""
 "hide; remove from view; SBJ makes OBJ stop seeing IND",,cessative of ""see""
 "be sighted; OBJ is sighted",,possibility of ""see""
@@ -53,25 +53,25 @@ eng,cst,source
 "sighten; restore sight; SBJ causes OBJ to become sighted",,incohative of ""be sighted""
 "blind; SBJ (blinding) causes OBJ to become blind",,cessative of ""be sighted""
 "hear; OBJ hears IND (sound; audio)",,
-"listen; SBJ shows IND to OBJ audially",,incohative of ""hear""
+"listen; SBJ shows IND to OBJ audially (GENITIVE:auditory; acoustic)",,incohative of ""hear""
 "mute; SBJ makes OBJ stop hearing IND",,cessative of ""hear""
 "have hearing; OBJ has hearing (TOOL:hearing aid)",,possibility of ""hear""
 "be deaf; OBJ is deaf",,antonym of ""have hearing""
 "hearify; restore hearing; SBJ makes OBJ able to hear",,incohative of ""have hearing""
 "deafen; SBJ (deafening) causes OBJ to become deaf",,cessative of ""have hearing""
-"smell; OBJ smells IND (scent; odor; aroma; smell)",,
+"smell; OBJ smells IND (scent; odor; aroma; smell) (GENITIVE:olfactory)",,
 "waft; sniff; smell; show aromatically; SBJ makes OBJ start smelling IND",,incohative of ""smell""
 "smother; suppress odor; SBJ makes OBJ stop smelling IND",,cessative of ""smell""
-"taste; OBJ tastes IND (taste; flavour)",,
+"taste; OBJ tastes IND (taste; flavour) (GENITIVE:gustatory)",,
 "sample; show taste; SBJ makes OBJ start tasting IND",,incohative of ""taste""
 "obscure taste; SBJ makes OBJ stop tasting IND",,cessative of ""taste""
-"feel; touch; OBJ can feel IND",,
-"show tacticitally; SBJ shows IND to OBJ tacticitally",,incohative of ""feel""
-"hide tacticitally; SBJ makes OBJ stop feeling IND",,cessative of ""feel""
+"feel; touch; OBJ can feel IND (GENITIVE:tactile; tactual)",,
+"show tactually; SBJ shows IND to OBJ tactually",,incohative of ""feel""
+"hide tactually; SBJ makes OBJ stop feeling IND",,cessative of ""feel""
 "read; load; interpret; SBJ (reader) reads OBJ (file; reading; passage; data) from the physical state of IND (source)",,
-"write; record; type; save a file; SBJ (writer) encodes OBJ (writing; data) physically on IND (record) (TOOL:writing utensil|LOCATION:desk; writing surface)",,
+"write; record; type; save a file; SBJ (writer) encodes OBJ (writing; data) physically on IND (record) (TOOL:writing utensil|LOCATION:desk; writing surface|GENITIVE:literary; scriptural)",,
 "erase; overwrite; obscure; SBJ (eraser) removes traces of OBJ (erased) from IND (TOOL:eraser)",,reversal of ""write""
-"speak; voice; say out loud; SBJ says IND (quote; words; phrase; utterance; speech) to OBJ out loud (TIME:speech|TOOL:voice)",,
+"speak; voice; say out loud; SBJ says IND (quote; words; phrase; utterance; speech) to OBJ out loud (TIME:speech|TOOL:voice|GENITIVE:vocal; locutory)",,
 "face; point; OBJ (direction) is oriented in the direction toward IND (target; front)",,
 "turn; face; point; SBJ (pointer) makes OBJ (turner) turn toward IND",,incohative of ""face""
 "turn away; avert; SBJ makes OBJ turn away from IND",,cessative of ""face""
@@ -131,7 +131,7 @@ eng,cst,source
 "be early; be before; be timely; negative time; OBJ (past) happens before IND",,antonym of ""be late""
 "laten; delay; postpone; travel forward through time; SBJ (postponer) pushes OBJ forward through time",,incohative of ""be late""
 "pass; advance; travel back in time; SBJ (time machine) causes OBJ (passing; present) to become before IND",,cessative of ""be late""
-"be big; be large; OBJ has a high volume (AMOUNT:size; volume)",,
+"be big; be large; be spacious; OBJ has a high volume (AMOUNT:size; volume)",,
 "be small; be little; OBJ has a low volume",,antonym of ""be big""
 "grow; expand; dilate; SBJ (grower) grows OBJ",,incohative of ""be big""
 "shrink; contract; constrict; SBJ (shrinker) shrinks OBJ",,cessative of ""be big""
@@ -237,7 +237,7 @@ eng,cst,source
 "dampen; quiet; dim; soften; weaken; SBJ (damper) dampens OBJ",,incohative of ""be quiet""
 "amplify; louden; brighten; strengthen; SBJ (amplifier) amplifies OBJ",,cessative of ""be quiet""
 "eat; drink; SBJ (eater) eats OBJ (food; drink; meal) (TIME:meal; mealtime)",njamjac,ono njam njam
-"be part; be in; compose; contain; comprise; include; OBJ (piece; element) is part of IND (group; whole; set)",,
+"be part; be in; compose; contain; comprise; include; OBJ (piece; element) is part of IND (group; whole; set; party; association; organisation)",,
 "join; incorporate; add; append; SBJ (joiner) makes OBJ join IND",,incohative of ""be part""
 "leave; separate; remove; SBJ (remover) makes OBJ leave IND",,cessative of ""be part""
 "surround; cover; OBJ (surroundings; cover; environment) covers most of IND (surrounded; covered) (AMOUNT:coverage)",,
@@ -271,17 +271,13 @@ eng,cst,source
 "be chaotic; be disorganised; be messy; be in disarray; be askance; OBJ is chaotic",,antonym of ""be neat""
 "order; organise; clean; tidy; SBJ (organiser; cleaner; tidier) puts OBJ in order (TOOL:organisation tool)",,incohative of ""be neat""
 "disorganise; mess up; disrupt; trash; SBJ (disorganiser; trasher) puts OBJ into chaos",,cessative of ""be neat""
-"stand structurally; OBJ (*structure) stands structurally",,
-"construct; assemble; erect; SBJ (constructor) constructs OBJ (TIME:construction; assembly|TOOL:construction tool)",,incohative of ""stand structurally""
-"deconstruct; disassemble; demolish; SBJ (deconstructor) deconstructs OBJ (TIME:deconstruction; disabssembly)",,cessative of ""stand structurally""
+"stand structurally; OBJ (*structure; building) stands structurally",,
+"construct; build; assemble; erect; SBJ (constructor) constructs OBJ (TIME:construction; assembly|TOOL:construction tool)",,incohative of ""stand structurally""
+"deconstruct; disassemble; demolish; take apart; SBJ (deconstructor) deconstructs OBJ (TIME:deconstruction; disabssembly)",,cessative of ""stand structurally""
 "sell; buy; vend; purchase; IND (buyer; customer) legally obtains SBJ (good; service) from IND (vendor; salesperson) (TIME:financial transaction|TOOL:money; currency)",,
 "plan; expect; OBJ (expecting) expects IND (plan; expectation) to happen (TOOL:planner; planning tool)",,
 "be example; be representative; OBJ poses a representative example of IND (general; exampled)",,
-"outdoorsness",,
-"indoorsness",,
-"spaciousness",,
-"crampedness",,
-"reason",,
+"deduce; be reasonable; *reason; be logical; figure; figure out; SBJ logically deduces OBJ",,
 "craze; act erratically or illogically; does not necessarily refer to mental illness",,
 "be ahead; general discrete measure of progress",,
 "be behind; lag; general discrete measure of backwardness",,
@@ -308,10 +304,6 @@ eng,cst,source
 "unstable; diminished chord or scale",,
 "stable; satisfying chord or scale",,
 "be rhythmic; pulse; oscillate; flash; beat; SBJ (rhythm; routine) happens rhythmically",tawmtawm,ono dudum dudum
-"be together; work as a team",,
-"be separate; be independent; be individual",,antonym of ""be together""
-"team up",,incohative of ""be together""
-"split up",,cessative of ""be together""
 "consider",,
 "reproduce",,
 "be easy; be convenient; the subject is easy for the direct object",,antonym of ""be difficult""
@@ -403,24 +395,33 @@ eng,cst,source
 "be matte; be dull; be rough; OBJ reflects light diffusely",,antonym of ""be shiny""
 "shine; polish; SBJ makes OBJ become shiny",,incohative of ""be shiny""
 "matte; SBJ makes OBJ become matte",,cessative of ""be shiny""
-"be sweet; OBJ (candy) is sweet",,
+"be sweet; be sweetened; OBJ (candy) is sweet (AMOUNT:sweetness)",,
+"be unsweet; be unsweetened; OBJ is not sweet",,antonym of ""be sweet""
 "sweeten; SBJ makes OBJ become sweet",,incohative of ""be sweet""
-"be bitter; OBJ is bitter",,opposite of ""be sweet""
-"bitter",,incohative of ""be bitter""
-"be salty",,
-"salt",,
-"be sour",,
-"sour",,
-"be savoury",,
-"make savoury",,
-"be spicy; be hot",,
-"be mild; be cool",,
-"spice",,
-"mild; cool",,
+"unsweeten; SBJ makes OBJ less sweet",,cessative of ""be sweet""
+"be bitter; OBJ is bitter (AMOUNT:bitterness)",,
+"be unbitter; OBJ is not bitter",,antonym of ""be bitter""
+"bitter; SBJ makes OBJ become bitter",,incohative of ""be bitter""
+"debitter; SBJ makes OBJ less bitter",,cessative of ""be bitter""
+"be salty; OBJ is salty (AMOUNT:saltiness; salt)",,
+"be unsalty; OBJ is not salty",,antonym of ""be salty""
+"salt; SBJ makes OBJ become salty",,incohative of ""be salty""
+"desalt; purify; SBJ makes OBJ less salty",,cessative of ""be salty""
+"be sour; OBJ is sour (AMOUNT:sourness)",,
+"be unsour; OBJ is not sour",,antonym of ""be sour""
+"sour; SBJ makes OBJ become sour",,incohative of ""be sour""
+"desour; SBJ makes OBJ less sour",,cessative of ""be sour""
+"be savoury; have umami; OBJ is savoury (AMOUNT:savouriness; umami)",,
+"make savoury; SBJ makes OBJ become savoury",,incohative of ""be savoury""
+"make less savoury; SBJ makes OBJ less savoury",,cessative of ""be savoury""
+"be spicy; be hot; OBJ is spicy (AMOUNT:spiciness; spice; heat)",,
+"be mild; be cool; OBJ is not spicy",,antonym of ""be spicy""
+"spice; SBJ makes OBJ become spicy",,incohative of ""be spicy""
+"mild; cool; despice; SBJ makes OBJ become less spicy",,cessative of ""be spicy""
 "be shaped; be shaped like; OBJ (blob) is shaped like IND (shape)",,
-"be formeless",,
+"be formless; be amorphous; OBJ has no well-defined shape",,antoynm of ""be shaped""
 "shape; form; sculpt; SBJ (shaper; sculptor) shapes OBJ into IND",,incohative of ""be shaped like""
-"deform",,
+"deform; SBJ makes OBJ (deformed) lose its shape",,cessative of ""be shaped""
 "be circular; be round; OBJ (circle) is circular",,
 "circularise; round; circle; SBJ turns OBJ into a circle",,incohative of ""be circular""
 "be square; be rectangular; OBJ (rectangle; square; box) is rectangular",,opposite of ""be circular""
@@ -491,9 +492,10 @@ eng,cst,source
 "metallicise; SBJ turns OBJ into metal",,incohative of ""be metal""
 "be crystal; OBJ is made out of crystal",,
 "crystalise; SBJ turns OBJ into crystal",,incohative of ""be crystal""
-"be charged; be electrified; OBJ (battery) has electric energy stored (AMOUNT:electric potential energy)",,
+"be charged; be electrified; OBJ (battery) has electric energy stored (AMOUNT:electric potential; voltage; *electricity)",,
 "charge; electrify; SBJ (charger) imbues OBJ with electric energy",,incohative of ""be charged""
-"discharge; shock; electrify; power; SBJ releases the electric energy of OBJ onto IND (machine; electric circuit)",,cessative of ""be charged""
+"discharge; shock; electrify; power; SBJ releases the electric energy of OBJ onto IND (machine; electric circuit) (MANNER:conduit; wire; circuit; component)",,cessative of ""be charged""
+"be capacitive; OBJ (capacitor) is a capacitor (AMOUNT:capacitance)",,possibility of ""be charged""
 "involve",,
 "reach",,
 "jump; over the indirect object onto the direct object",,
@@ -537,7 +539,6 @@ eng,cst,source
 "community-make",,
 "particular",,
 "fill; act; stand in; OBJ (roleplayer; filler) fills the role IND (role)",,
-"join; be in a group of people; SBJ (member) is a part of OBJ (group; party; club; organization)",,
 "be similar",,
 "be differenc; differ",,
 "action-take; the direct object is the action",,
@@ -704,8 +705,8 @@ eng,cst,source
 "transform",,
 "help; ally; benefit; work with; OBJ (helper) is working toward the same goal as IND (ally; friend)",,
 "hinder; oppose; harm; compete; fight; work against; OBJ (opposer) is working toward a goal contrary to that of IND (opponent; competitor; enemy)",,antonym of ""help""
-"align with; join; SBJ (alliance forger) makes OBJ ally with IND",,incohative of ""help""
-"turn against; betray; SBJ (instigator) turns OBJ (traitor) against IND",,cessative of ""help""
+"align with; join; team up; SBJ (alliance forger) makes OBJ ally with IND",,incohative of ""help""
+"turn against; betray; split up; SBJ (instigator) turns OBJ (traitor) against IND",,cessative of ""help""
 "fight; battle; SBJ (fighter) has a physically violent engagement with OBJ (adversary; opponent) (TIME:violence; physical violence|TOOL:weapon)",,
 "base; operations and such",,
 "sexually-attract",,

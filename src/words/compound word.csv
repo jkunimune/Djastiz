@@ -1,9 +1,9 @@
 eng,cst,source
 "Chatisun",,this language
-"us all; first person plural inclusive; the speaker, the listener, and possibly others",,me you
-"us; first person plural exclusive; the speaker and others",,me it
-"y'all; second person plural; the listener and others",,you it
-"other; reciprocal",,not it
+"us all; first person plural inclusive; the speaker, the listener, and possibly others (GENITIVE:all our)",,me you
+"us; first person plural exclusive; the speaker and others (GENITIVE:our)",,me it
+"y'all; second person plural; the listener and others (GENITIVE:y'all's)",,you it
+"other; reciprocal (GENITIVE:other's)",,not it
 "hello; goodbye; yay; bless; okay; positive exclamative mood",,like wow
 "boo; fuck; not; negative exclamative mood",,dislike wow
 "The Antarctic Ocean; the ocean",,Antarctica sea
@@ -13,7 +13,7 @@ eng,cst,source
 "The Muslim World",,Middle-East North-Africa South-Asia
 "Sol; The Sun",,human sun
 "Luna; The Moon",,human moon
-"Earth",,human planet
+"Earth (GENITIVE:earthling; terran)",,human planet
 "communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ (interlocutor) about IND (topic; passage) (TIME:conversation; discourse)",,convey convey
 "say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",,. convey
 "ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",,? convey
@@ -22,8 +22,8 @@ eng,cst,source
 "exclaim; SBJ (exclaimer) makes an exclamatory utterance of OBJ (exclamation) to IND",,wow convey
 "greet; praise; celebrate; SBJ (greeter; praiser) makes a positive utterance of OBJ (praised; occasion) to IND (greeted)",,yay convey
 "complain; denounce; condemn; SBJ (complainer) makes a negative utterance of OBJ (complaint; denouncee) to IND (sympathetic ear)",,boo convey
-"dictionary",,word one-to-which- list
-"alphabet",,letter one-that- obj set
+"dictionary",,word list
+"alphabet (GENITIVE:alphabetical)",,letter group
 "part-of-speech",,word category
 "onomatopoeia",,sound word
 "conlang",,design language
@@ -32,12 +32,14 @@ eng,cst,source
 "succeed; SBJ succeeds at making OBJ happen",,try do
 "fail; SBJ fails to make OBJ happen",,try not do
 "use internet; be wireless; be cyber; be crypto",,computer communicate
-"female; woman",,vagina life
-"male; man",,penis life
+"female; woman",,vagina organism
+"male; man",,penis organism
 "be feminine; OBJ (woman; girl) is feminine",,vagina fill
 "be masculine; OBJ (man; boy) is masculine",,penis fill
-"year",,period Earth
-"date",,day late
+"year",,planet period
+"month",,moon period
+"day",,sun period
+"time of day; hour",,be-small time
 "birthday",,birth date
 "morning; 00:00–12:00 or ;00–;50",,before time
 "daytime; 06:00–18:00 or ;25–;75 or whenever the sun is up",,sun time
@@ -95,12 +97,15 @@ eng,cst,source
 "king",,one-that- rule-monarchially
 "kingdom",,one what on rule-monarchially
 "tempt; entice to something appealing but immoral; SBJ (tempter; temptress) encourages IND (temptee) to do OBJ (temptation)",,evil suggest
-"hand",,arm knob
-"foot",,leg knob
+"foot (GENITIVE:pedal)",,leg hand
 "shoulder",,arm joint
 "hip",,leg joint
 "wrist",,hand joint
 "ankle",,foot joint
+"bicep; upper arm",,be-inner arm
+"forearm; lower arm",,be-outer arm
+"thigh; upper leg",,be-inner leg
+"shin; lower leg",,be-outer leg
 "pelvis; hips",,torso bottom
 "mouth",,face hole
 "sensor; sense",,perceive gland
@@ -166,32 +171,56 @@ eng,cst,source
 "urinate; pee",,urine make
 "diarrhea",,liquid feces
 "pimple",,pus container
+"bat; flying fox",,wing mammal
+"pangolin",,scale mammal
 "cat",,human felid
 "dog",,human canid
 "horse",,human equid
 "rabbit; hare",,fast rodent
-"porcupine",,needle rodent
+"porcupine",,quill rodent
+"mole",,be-under rodent
 "skunk",,scent musteloidea
 "raccoon",,black face musteloidea
 "camel",,desert camelid
 "llama",,mountain camelid
 "alpaca",,fiber camelid
 "zebra",,be-desaturated equid
-"pig",,eat suid
-"cow",,eat bovid
+"pig; pork",,eat suid
+"cow; beef",,eat bovid
 "buffalo",,strong bovid
 "antelope",,fast bovid
-"sheep",,hair bovid
+"sheep; mutton",,hair bovid
 "goat",,mountain bovid
-"sloth",,slow xenarthran
-"anteater",,ant obj eat xenarthran
-"armadillo",,shell xenarthran
-"hyrax",,thick xenarthran
+"sloth",,slow mammal
+"anteater",,ant obj eat mammal
+"armadillo",,shell mammal
 "manatee; sea-cow",,sea elephant
+"platypus",,egg mammal
 "waterfowl; duck; goose; swan",,liquid fowl
 "landfowl; chicken; turkey; pheasant",,ground fowl
+"dove",,white pidgeon
 "hummingbird",,hum bustard
+"penguin",,be-cold bird
+"pelican",,mount bird
+"seagull",,beach bird
+"condor",,be-big bird-of-prey
+"vulture",,be-bare bird-of-prey
 "owl",,night bird-of-prey
+"flamingo",,be-pink bird
+"loon; stork",,leg bird?
+"amphibian (GENITIVE:amphibious)",,fish lizard
+"salamander",,
+"lungfish",,air fish
+"arawana; bonefish",,
+"eel",,snake fish
+"minnow",,be-small carp
+"catfish",,hair carp
+"magikarp",,be-magical carp
+"anglerfish",,light fish
+"pufferfish",,balloon fish
+"vertebrate",,be-firm life
+"invertebrate",,be-flimsy life
+"arthropod (GENITIVE:arthropodic)",,shell life
 "tau; 6.283",,circle number
 "pi; 3.142",,tau over two
 "be armoured; IND (armour) armours OBJ (armoured)",,protect wear
@@ -357,3 +386,6 @@ eng,cst,source
 "buy good; produce; SBJ (producer; vendor) gives OBJ (good) to IND (consumer) in exchange for money (TIME:sale)",,thing buy
 "agree; OBJ agrees with IND",,same think
 "disagree; OBJ disagrees with IND",,different think
+"team",,help group
+"conduct; be conductive; OBJ (conductor) conducts electricity (AMOUNT:conductivity)",,be-charged be-easy
+"insulate; resist; be resistive; OBJ (insulator; resistor) resists electrical current (AMOUNT:resistance)",,be-charged be-difficult
