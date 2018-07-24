@@ -11,7 +11,7 @@ Before you read any further, you'll need to know how to read, say, and write the
 |               | Labial | Coronal | Palatal | Guttural |
 |:--------------|:------:|:-------:|:-------:|:--------:|
 |**Plosive**    |    p   |    t    |         |    k     |
-|**Fricative**  |    f   |    s   |tʃ &lt;c&gt;|  h     |
+|**Fricative**  |    f   |    s    |  tʃ ⟨c⟩  |    h     |
 |**Nasal**      |    m   |    n    |         |          |
 |**Approximant**|    w   |    l    |    j    |          |
 
@@ -43,7 +43,7 @@ If you don't know what any of that means, don't worry about it. Here is a more t
 |  te  |   t    |     t      |   t tʰ d    |      Tomb       |    lo   | Obstruent
 |  pe  |   p    |     p      |   p pʰ b    |      Pool       |    me   | Obstruent
 
-You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are &lt;j&gt;, &lt;c&gt;, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
+You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
 Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Chatisun alphabet. The Chatisun alphabet does not include <b>, <d>, <g>, <q>, <r>, <v>, <x>, <y>, <z>, or any capital letters, so none of these should be present in a Chatisun text. It is acceptable to use all capital letters in lieu of lowercase letters as a stylistic choice, but if you do so, I recommend using a font where <E>, <A>, <N>, and <H> are easily recognisable from their lowercase counterparts, lest the text be indescipherable to some Chatisun-speakers.
 
@@ -163,7 +163,7 @@ The grammar of Chastisun is designed to be as simple as possible while enabling 
     clause-phrase ::= (sentence-particle)? (postpos-phrase)\* (verb-phrase (postpos-phrase)\*)?
    postpos-phrase ::=  complement-phrase postposition
 complement-phrase ::=  noun-phrase | clause-phrase
-      noun-phrase ::= (qualifier)? (noun | pronoun | relative-phrase | complement-phrase &lt;in&gt; | noun-phrase)\*
+      noun-phrase ::= (qualifier)? (noun | pronoun | relative-phrase | complement-phrase ⟨in⟩ | noun-phrase)\*
       verb-phrase ::=  verb (verb.auxiliary)\*
   relative-phrase ::= \[sentence-particle\] (postpos-phrase)\* \[verb-phrase (postpos-phrase)\*\] \["l" postposition\]
          X-phrase ::= "bo"? X-phrase "an" X-phrase
@@ -293,18 +293,21 @@ Passives are somewhat nonexistent in Launtoklian
 
 Participles in Launtoklian are represented with relative clauses.
 
+### Miscellaneous conventions
+
+Metric system. Dates in Lawntoklian are expressed YYYY-MM-DD hh:mm:ss.sss Z. Thus, the first humans landed on the lunar surface at 1969-07-20 20:17 UTC.
+
 ## Gestures
 
-Like any self-respecting language, Djastiz comes with a variety of gestures to express common sayings or feelings without the need to use one's voice. The most common are as follows.
-- When greeting someone, hold your hand in front of you and rub your forefinger and thumb or middle finger and thumb up and down.
-- When bidding someone farewell, wave one or both arms up and down in front of you. Optionally, apply a wave effect to the arm motion that moves away from you. If using both arms, make sure to alternate them so as to give the impression of an octopus.
-- When answering in the affirmative, display the back of your hand and splay the fingers.
-- When answering in the negative, face your palm to the floor and gently shake the hand back and forth, holding it at a constant height.
-- To display joy or excitement, hold your arm straight up with a clenched fist.
-- To display sadness or disappointment, press a clenched fist into an open palm.
-- To display approval or appreciation toward a person, place your palms together, holding them horizontally, and slide the top hand forward, off of the bottom one.
-- To display disapproval or depreciation toward a person, slowly and gracefully raise your hands toward them while saying "oooooooooooh" quietly.
+Gestures are inherently cultural, regardless of the language of communication. Thus, I won't try to control all of your body language when you speak Lawntoklian. However, keep in mind that this language is designed for international communication, and that your interlocuter may not understand or even misinterpret your gestures, even if you think of them as universal. When you want to convey something manually to an audience that knows Lawntoklian, use words from International Sign when possible. A few of the most useful ones are itemised below:
+* To greet someone,
+* To say goodbye,
+* To answer in the affirmative,
+* To answer in the negative,
+* To express confusion or ignorance,
+* To express joy or approval of something,
+* To express sadness, anger, or disapproval of something,
 
 ## Sun never sets clause
 
-The final and most important rule is this: Launtoklian is defined, not by its users, but by this document. In order for an international auxiliary language to be effective, everyone must speak the same variety. That means that the final arbiter for what does and doesn't constitute correct Launtoklian is this. Anyone is, of course, free to interpret and use the language in any way they see fit. However, if their variation on Launtoklian contradicts this document, they cannot rightly assert their variation to be correct.
+The final and most important rule is this: Lawntoklian is defined, not by its users, but by this document. In order for an international auxiliary language to be effective, everyone must speak the same variety. That means that the final arbiter for what does and doesn't constitute correct Launtoklian is this. Anyone is, of course, free to interpret and use the language in any way they see fit. However, if their variation on Launtoklian contradicts this document, they cannot rightly assert their variation to be correct.

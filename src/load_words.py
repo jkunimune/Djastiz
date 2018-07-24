@@ -50,9 +50,9 @@ def save_dictionaries(dictionaries, filepath):
 
 
 def get_key(definition):
-	eng_word = re.search(r'\*([a-zA-Z]+)', definition)
+	eng_word = re.search(r'\*([a-zA-Z]+)\b', definition)
 	if eng_word is None:
-		eng_word = re.search(r'^([^;\(]+)( \()?', definition)
+		eng_word = re.search(r'^([^;\(]+)( \(|;|$)', definition)
 	return eng_word.group(1)
 
 

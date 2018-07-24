@@ -30,18 +30,18 @@ def read_spanish(word):
 	stress_i = None
 	for i, c in enumerate(word):
 		if c == 'á':
+			stress_i = len(broad)
 			broad += 'a'
-			stress_i = i
 		elif c == 'c':
 			if i+1 < len(word) and word[i+1] == 'h':
 				broad += 'tʃ'
-			if i+1 < len(word) and word[i+1] in 'eiéí':
+			elif i+1 < len(word) and word[i+1] in 'eiéí':
 				broad += 's'
 			else:
 				broad += 'k'
 		elif c == 'é':
+			stress_i = len(broad)
 			broad += 'e'
-			stress_i = i
 		elif c == 'g':
 			if i+1 < len(word) and word[i+1] in 'eiéí':
 				broad += 'x'
@@ -55,8 +55,8 @@ def read_spanish(word):
 			else:
 				broad += 'i'
 		elif c == 'í':
+			stress_i = len(broad)
 			broad += 'i'
-			stress_i = i
 		elif c == 'j':
 			broad += 'x'
 		elif c == 'l':
@@ -69,8 +69,8 @@ def read_spanish(word):
 		elif c == 'ñ':
 			broad += 'ɲ'
 		elif c == 'ó':
+			stress_i = len(broad)
 			broad += 'o'
-			stress_i = i
 		elif c == 'q':
 			broad += 'k'
 		elif c == 'r':
@@ -81,15 +81,17 @@ def read_spanish(word):
 			else:
 				broad += 'ɾ'
 		elif c == 'u':
-			if i-1 >= 0 and word[i-1] in 'gq':
+			if i-1 >= 0 and word[i-1] == 'q':
 				pass
-			elif (i+1 < len(word) and word[i+1] in 'aeoáéíóú') or (i-1 >= 0 and word[i-1] in 'eoiáéíóú'):
+			elif i-1 >= 0 and word[i-1] == 'g' and i+1 < len(word) and word[i+1] in 'eiéí':
+				pass
+			elif (i+1 < len(word) and word[i+1] in 'aeoáéíó') or (i-1 >= 0 and word[i-1] in 'aeoiáéíó'):
 				broad += 'w'
 			else:
 				broad += 'u'
 		elif c == 'ú':
+			stress_i = len(broad)
 			broad += 'u'
-			stress_i = i
 		elif c == 'ü':
 			broad += 'w'
 		elif c == 'v':
@@ -114,9 +116,9 @@ def read_spanish(word):
 	if stress_i is not None:
 		while broad[stress_i-1] in 'jw':
 			stress_i -= 1
-		stress_j = stress_i-1 # locating the stress marker is by far the hardest part
-		while stress_j >= 0 and broad[stress_j] not in 'aeiou': # as you may have guessed, I have my qualms with Esperanto. The orthography, though,
-			stress_j -= 1 # is by far the best thing about it, and it boggles the mind that Idists would ever try to change that.
+		stress_j = stress_i-1
+		while stress_j >= 0 and broad[stress_j] not in 'aeiou ':
+			stress_j -= 1
 		if stress_j < 0:
 			broad = 'ˈ' + broad
 		else:

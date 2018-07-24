@@ -4,6 +4,8 @@ eng,cst,source
 "us; first person plural exclusive; the speaker and others (GENITIVE:our)",,me it
 "y'all; second person plural; the listener and others (GENITIVE:y'all's)",,you it
 "other; reciprocal (GENITIVE:other's)",,not it
+"despite; though",,even both
+"but",,even and
 "hello; goodbye; yay; bless; okay; positive exclamative mood",,like wow
 "boo; fuck; not; negative exclamative mood",,dislike wow
 "The Antarctic Ocean; the ocean",,Antarctica sea
@@ -14,14 +16,17 @@ eng,cst,source
 "Sol; The Sun",,human sun
 "Luna; The Moon",,human moon
 "Earth (GENITIVE:earthling; terran)",,human planet
-"communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ (interlocutor) about IND (topic; passage) (TIME:conversation; discourse)",,convey convey
-"say; tell; declare; give information; SBJ (lecturer) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",,. convey
-"ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",,? convey
-"tell; implore; command; instruct; lead; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",,>> convey
-"request; SBJ (requester) politely asks IND (requestee) to make OBJ (request) happen",,please convey
-"exclaim; SBJ (exclaimer) makes an exclamatory utterance of OBJ (exclamation) to IND",,wow convey
-"greet; praise; celebrate; SBJ (greeter; praiser) makes a positive utterance of OBJ (praised; occasion) to IND (greeted)",,yay convey
-"complain; denounce; condemn; SBJ (complainer) makes a negative utterance of OBJ (complaint; denouncee) to IND (sympathetic ear)",,boo convey
+"communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ (interlocutor) about IND (topic; passage) (TIME:conversation; discourse)",,say say
+"declare; say; tell; give information; SBJ (lecturer; professor) tells IND (tellee) that OBJ (fact; opinion; notion; sentence) is true; give information",,. say
+"ask; interrogate; SBJ (curious; interrogator) asks IND (questionee) OBJ (question)",,? say
+"tell; implore; command; instruct; lead; SBJ (boss; commander) tells IND (instructee) to make OBJ (command; instruction) happen",,>> say
+"request; SBJ (requester) politely asks IND (requestee) to make OBJ (request) happen",,please say
+"exclaim; SBJ (exclaimer) makes an exclamatory utterance of OBJ (exclamation) to IND",,wow say
+"greet; praise; celebrate; SBJ (greeter; praiser) makes a positive utterance of OBJ (praised; occasion) to IND (greeted)",,yay say
+"complain; denounce; condemn; SBJ (complainer) makes a negative utterance of OBJ (complaint; denouncee) to IND (sympathetic ear)",,boo say
+"be right; SBJ (right) is right in saying OBJ (truth) to IND",,true say
+"be wrong; be incorrect; SBJ (wrong) is incorrect in saying OBJ (falsehood; lie) to IND",,false say
+"multiple",,not 1
 "dictionary",,word list
 "alphabet (GENITIVE:alphabetical)",,letter group
 "part-of-speech",,word category
@@ -31,6 +36,8 @@ eng,cst,source
 "artlang",,art language
 "succeed; SBJ succeeds at making OBJ happen",,try do
 "fail; SBJ fails to make OBJ happen",,try not do
+"tell the truth; be honest; SBJ expresses OBJ (the truth; true), which they think to be true (AMOUNT:honesty; integrity)",,true try
+"lie; be dishonest; SBJ expresses OBJ (lie; feint), which they think to be false",,false try
 "use internet; be wireless; be cyber; be crypto",,computer communicate
 "female; woman",,vagina organism
 "male; man",,penis organism
@@ -150,6 +157,7 @@ eng,cst,source
 "sand; dust",,rock powder
 "gravel; course sand",,rock pile
 "snow",,ice powder
+"be bone",,animal be-rigid
 "be wet; OBJ is wet (AMOUNT:wetness)",,liquid wear
 "be dry; OBJ is dry",,gas wear
 "mist",,liquid powder
@@ -211,18 +219,55 @@ eng,cst,source
 "amphibian (GENITIVE:amphibious)",,fish lizard
 "salamander",,
 "lungfish",,air fish
-"arawana; bonefish",,
 "eel",,snake fish
 "minnow",,be-small carp
 "catfish",,hair carp
 "magikarp",,be-magical carp
 "anglerfish",,light fish
 "pufferfish",,balloon fish
-"vertebrate",,be-firm life
-"invertebrate",,be-flimsy life
-"arthropod (GENITIVE:arthropodic)",,shell life
-"tau; 6.283",,circle number
-"pi; 3.142",,tau over two
+"vertebrate",,be-firm animal
+"invertebrate",,be-flimsy animal
+"arthropod (GENITIVE:arthropodic)",,shell animal
+"seastar; sealily",,flower animal
+"seaurchin",,quill animal
+"seacucumber",,cucumber animal
+"pantopod",,sea spider
+"shrimp",,be-small crustacean
+"mantisshrimp",,be-strong crustacean
+"centipede; millipede",,many leg
+"centipede",,poison millipede
+"dragonfly; damselfly",,be-long bug
+"louse",,hair bug
+"scorpionfly",,sky scorpion
+"moth",,be-brown butterfly
+"butterfly",,be-colorful moth
+"stickbug",,stick bug
+"termite",,wood bug
+"plankton",,be-small organism
+"snail",,shell slug
+"molusk; cephalapod",,tentacle animal
+"octopus",,eight molusk
+"decapus; squid; cuttlefish",,ten molusk
+"beard worm",,be-big tube worm
+"leech",,blood worm
+"anemone; seafan; seawhip",,string plant animal
+"coral",,rock organism
+"sea sponge",,sponge organism
+"tardigrade; waterbear; the animal",,be-small bear
+"moss; liverwort; hornwort",,land algae
+"algae; alga",,sea moss
+"palm tree",,be-big leaf tree
+"pine tree",,be-thin leaf tree
+"orchid",,flower plant
+"ginger",,
+"bird of paradise",,
+"nutmeg",,
+"avocado",,
+"pepper",,
+"tulip",,
+"lilly',,
+"pi; 3.142",,circle number
+"tau; 6.283",,two pi
 "be armoured; IND (armour) armours OBJ (armoured)",,protect wear
 "armour; SBJ (armourer) armours OBJ in IND",,protect put-on
 "bite; SBJ (biter) bites OBJ (bitten)",,mouth squeeze
@@ -259,10 +304,11 @@ eng,cst,source
 "rubber",,elastic tree
 "coconut",,hair fruit
 "shirt; top",,torso clothes
+"t-shirt; the dress",,be-simple shirt
 "sleeve; armband",,arm clothes
 "pants; shorts; skirt",,leg clothes
 "pants; shorts",,tube pants
-"skirt",,open pants
+"skirt",,be-open pants
 "underwear",,be-under clothes
 "blazer",,be-over clothes
 "shoe",,foot clothes
@@ -274,20 +320,21 @@ eng,cst,source
 "dress",,1 clothes
 "suit",,whole clothes
 "watch",,wrist clock
-"tidal wave; tsunami",,big wave
+"tidal wave; tsunami",,be-big wave
 "be found; OBJ knows where SBJ is",,where appear
 "go through; OBJ moves into and then out of IND (tube; hallway; corridor)",,enter exit
 "travel; SBJ travels from IND to OBJ (destination; getaway)",,where go
 "society",,person system
 "economy",,sell system
 "advertise; SBJ (advertiser) advertises IND (advertisement) to OBJ (advertisee)",,buy show
-"physics",,move study
-"chemistry; material science",,material study
-"biology",,life study
-"psychology",,think study
-"sociology",,society study
+"do math; do maths; SBJ (mathematician) uses numbers to investigate OBJ (mathematics)",,amount study
+"do physics; SBJ (physicist) uses physics to investigate OBJ (physics)",,move study
+"do chemistry; do material science; SBJ (chemist) uses chemistry to investigate OBJ (chemistry)",,material study
+"do biology; SBJ (biologist) studies biology to learn about OBJ (biology)",,life study
+"do psychology",,think study
+"do sociology",,society study
 "economics",,economy study
-"history",,past study
+"history; SBJ (historian) investigates the past to test and update OBJ (history)",,past study
 "linguistics",,language study
 "pedagogy",,learn study
 "computer science",,computer study
@@ -389,3 +436,7 @@ eng,cst,source
 "team",,help group
 "conduct; be conductive; OBJ (conductor) conducts electricity (AMOUNT:conductivity)",,be-charged be-easy
 "insulate; resist; be resistive; OBJ (insulator; resistor) resists electrical current (AMOUNT:resistance)",,be-charged be-difficult
+"mooch; leech; have parasitic relation; OBJ (parasite; leech; freeloader) benefits from hindering IND (host)",,hinder live
+"synergise; have mutualistic relation; OBJ (symbiote) benefits from helping IND (host)",,help live
+"graph; plot (GENITIVE:graphical)",,number picture
+"asphalt",,path rock

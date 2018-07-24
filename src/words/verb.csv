@@ -1,11 +1,11 @@
 eng,cst,source
-"begin; start; commence; initiate; become; go; summon; arrive; to; change; -ify; incohative; SBJ (starter) makes OBJ transition from falsehood to truth",,
-"end; stop; cease; cancel; unbecome; come; send; leave; depart; from; change; de- -ify; cessative; SBJ (stopper) makes OBJ transitions from truth to falsehood",,reversal of ""begin""
-"yes; be true; be right; be correct; be happening; be in progress; continue; maintain; keep; stay; progressive; OBJ (state) is happening",,
-"no; be false; be wrong; be incorrect; be not happening; OBJ (falsehood) is not happening",,antonym of ""be true""
+"begin; start; commence; initiate; become; go to; come to; summon; arrive; to; change; -ify; incohative; SBJ (starter) makes OBJ transition from falsehood to truth",,
+"end; stop; cease; cancel; unbecome; come from; go from; send; leave; depart; from; change; de- -ify; cessative; SBJ (stopper) makes OBJ transitions from truth to falsehood",,reversal of ""begin""
+"yes; be true; be right; be correct; be happening; be in progress; continue; maintain; keep; stay; progressive; OBJ (state; truth; reality) is happening",,
+"no; be false; be wrong; be incorrect; be not happening; OBJ (falsehood; fiction) is not happening",,antonym of ""be true""
 "happen; do; cause; pro-verb; SBJ (cause) causes OBJ (event; effect) to come true",,incohative of ""be true""
 "undo; OBJ happens in reverse",,cessative of ""be true""
-"be; exist; have; equal; copula; OBJ exists and is the same thing as IND",,
+"be; exist; have; equal; copula; OBJ exists and is the same thing as IND (AMOUNT:number; count; amount)",,
 "create; make; give; appear; produce; SBJ (creator) makes OBJ (creation) into IND (LOCATION:factory; makery; source|MANNER:recipe)",,incohative of ""exist""
 "delete; destroy; take; disappear; SBJ (deleter; destroyer) deletes OBJ (deleted; disappeared)",,cessative of ""exist""
 "be fruitful; produce; OBJ has the capacity to produce IND",,possibility of ""create""
@@ -19,8 +19,8 @@ eng,cst,source
 "change; SBJ (changer) changes the state of OBJ",,cessative of ""be constant""
 "repeat; do again; return to; SBJ makes OBJ happen multiple times",,
 "reverse; do back; return from; SBJ makes OBJ happen and then happen in reverse",,reversal of ""repeat""
-"try; attempt; will; intend; attempt; SBJ intends to make OBJ (intention; aim; goal) happen",,
-"be possible; can; OBJ (possibility) can happen",,
+"try; attempt; will; intend; attempt; SBJ tries to make OBJ (intention; aim; goal) happen",,
+"be possible; can; might; may; OBJ (possibility) can happen",,
 "enable; SBJ makes OBJ become possible",,incohative of ""be possible""
 "prevent; SBJ makes OBJ stop being possible",,cessative of ""be possible""
 "want; desire; hunger; hope; have an appetite; OBJ (hoper; wanter; desirous; hungry) wants IND (desire; wish; hope) to happen",,
@@ -31,29 +31,29 @@ eng,cst,source
 "benefit; create value
 "must; have to; be responsible; be obligated; OBJ is obligated to make IND (obligation; duty; responsibility; rule)",,
 "assign; obligate; SBJ (assigner) makes OBJ responsible for IND happening",,incohative of ""must""
-"find forbidden; find against the rules; find illegal; OBJ is not allowed to make IND (banned; prohibited) happen",,opposite of ""must""
-"forbid; pass rules against; SBJ (authority) forbids OBJ from making IND happen",,incohative of ""find forbidden""
+"beI forbidden; beI against the rules; beI illegal; OBJ is not allowed to make IND (banned; prohibited) happen",,opposite of ""must""
+"forbid; pass rules against; SBJ (authority) forbids OBJ from making IND happen",,incohative of ""be forbidden""
 "exceed; be positive; be greater; be more; be enough; be too much; OBJ is numerically greater than IND (zero; reference) (AMOUNT:numerical value; positiveness (GENITIVE:numerical; cardinal))",,
 "be negative; be less; be not enough; be too little; OBJ is numerically less than IND",,antonym of ""be positive""
 "increase; SBJ (increaser) makes OBJ increase relative to IND",,incohative of ""be positive""
 "decrease; SBJ (decreaser) makes OBJ decrease relative to IND",,cessative of ""be positive""
-"be number; be in order; index; OBJ (item; element) has a late position in IND (list; order; sequence) (AMOUNT:position; index; number (GENITIVE:ordinal))",,
+"be number; be in *order; be -th; index; OBJ (item; element) has a late position in IND (list; order; sequence) (AMOUNT:position; index; number (GENITIVE:ordinal))",,
 "be number from the end; be in order from the end; negatively index; OBJ has an early position in IND (AMOUNT:position from end; negative index; number from end)",,antonym of ""be number""
 "move down; position; sort; SBJ (sorter) moves OBJ down the sequence IND (sorted) (MANNER:order)",,incohative of ""be number""
 "move up; position; SBJ moves OBJ up the sequence IND",,cessative of ""be number""
-"convey; say; SBJ (sayer) conveys IND (message; idea; signal; utterance) to OBJ (addressee) (MANNER:language; protocol (GENITIVE:linguistic; lingual))",,
-"perceive; sense; find perceptible; see; hear; feel; smell; taste; OBJ (perceiver; observer) can perceive IND (perception; experience) (TOOL:sense; sensor|GENITIVE:perceptual)",,
+"say; convey; SBJ (sayer) conveys IND (message; idea; signal; utterance) to OBJ (addressee) (MANNER:language; protocol (GENITIVE:linguistic; lingual))",,
+"perceive; sense; beI perceptible; see; hear; feel; smell; taste; OBJ (perceiver; observer) can perceive IND (perception; experience) (TOOL:sense; sensor|GENITIVE:perceptual)",,
 "show; look; listen; sniff; taste; read; SBJ (shower; looker; listener) shows IND (show) to OBJ",,incohative of ""perceive""
 "obscure; hide; remove; SBJ makes OBJ stop perceiving IND (obscured)",,cessative of ""perceive""
-"see; view; OBJ (seer) sees IND (image; sight; view) (GENITIVE:visual; optic)",,
-"show; look; SBJ shows IND (show) to OBJ visually",,incohative of ""see""
+"see; view; OBJ (seer) sees IND (image; picture; sight; view) (GENITIVE:visual; optic)",,
+"show; look; SBJ shows IND (show; visualisation) to OBJ visually",,incohative of ""see""
 "hide; remove from view; SBJ makes OBJ stop seeing IND",,cessative of ""see""
 "be sighted; OBJ is sighted",,possibility of ""see""
 "be blind; OBJ is blind",,antonym of ""be sighted""
 "sighten; restore sight; SBJ causes OBJ to become sighted",,incohative of ""be sighted""
 "blind; SBJ (blinding) causes OBJ to become blind",,cessative of ""be sighted""
-"hear; OBJ hears IND (sound; audio)",,
-"listen; SBJ shows IND to OBJ audially (GENITIVE:auditory; acoustic)",,incohative of ""hear""
+"hear; OBJ hears IND (sound; audio) (GENITIVE:auditory; acoustic)",,
+"listen; SBJ shows IND to OBJ audially",,incohative of ""hear""
 "mute; SBJ makes OBJ stop hearing IND",,cessative of ""hear""
 "have hearing; OBJ has hearing (TOOL:hearing aid)",,possibility of ""hear""
 "be deaf; OBJ is deaf",,antonym of ""have hearing""
@@ -85,27 +85,23 @@ eng,cst,source
 "give; receive; obtain; transfer ownership; SBJ (giver) gives IND (gift; given) to OBJ (receiver; obtainer)",,incohative of ""own""
 "take; lose; give away; renounce ownership; SBJ (taker) takes IND (theft; prize; taken) from OBJ (loser)",,cessative of ""own""
 "keep; retain ownership; SBJ lets OBJ (keeper; hoarder) keep IND (kept)",,progressive of ""own""
-"be many; be big; OBJ (set; group) contains many elements (AMOUNT:number; count; whole number)",,
-"be few; be small; OBJ contains few elements",,antonym of ""be many""
-"multiply; grow; SBJ makes OBJ gain elements",,incohative of ""be many""
-"dwindle; shrink; SBJ makes OBJ lose elements",,cessative of ""be many""
 "be between; be among; OBJ exists in the space encompassed by the elements of IND (bounds)",,
-"be sure; find probable; find likely; OBJ is likely to happen according to IND; see ""seem"" and ""appear"" (AMOUNT:Bayesian probability)",,
-"be skeptical; find improbable; find unlikely; Bayesian improbability; IND is unlikely to happen according to OBJ (skeptic)",,antonym of ""sure""
+"be sure; beI probable; beI likely; OBJ is likely to happen according to IND; see ""seem"" and ""appear"" (AMOUNT:Bayesian probability)",,
+"be skeptical; beI improbable; beI unlikely; Bayesian improbability; IND is unlikely to happen according to OBJ (skeptic)",,antonym of ""be sure""
 "convince; become sure; SBJ provides new information that leads OBJ to come to find IND probable",,incohative of ""be sure""
-"unconvince; become skeptical; SBJ provides new information that leads IND comes to find OBJ improbable",,cessative of ""be sure""
+"unconvince; become skeptical; SBJ provides new information that leads IND comes to beI OBJ improbable",,cessative of ""be sure""
 "seem; believe; OBJ (believer) accepts that IND (seeming) is true on a subconcious level; see ""be sure"" and ""appear""",,
 "appear; think; OBJ (thinker; accepter) conciously decides that IND (apparent) is true; see ""be sure"" and ""seem""",,
 "remind; recall; remember; jog memory; SBJ (mnemonic) helps OBJ (recaller) recall IND (factoid; datum) from memory",,
 "can remember; know; OBJ (knowledgable; smart) has IND stored in memory",,possibility of ""recall""
 "memorize; drill; remind; SBJ (driller; crammer; memorizer) makes OBJ memorize IND",,incohative of ""can remember""
 "forget; erase memory; SBJ (mind-eraser) makes OBJ forget IND",,cessative of ""can remember""
-"understand; comprehend; find sensical; know; OBJ (understander; smart) understands IND (understood) well (AMOUNT:level of understanding)",,
-"misunderstand; be confused; find cryptic; OBJ does not understand IND (misunderstood) well",,antonym of ""understand""
+"understand; comprehend; beI sensical; know; OBJ (understander; smart) understands IND (understood) well (AMOUNT:level of understanding)",,
+"misunderstand; be confused; beI cryptic; OBJ does not understand IND (misunderstood) well",,antonym of ""understand""
 "explain; SBJ (teacher) teaches OBJ (student) to understand IND",,incohative of ""understand""
 "confuse; unlearn; SBJ (confuser) makes OBJ stop understanding IND",,cessative of ""understand""
 "know; OBJ (knower; smart) remembers IND (knowledge), believes and thinks it to be true, and correctly understands why it is true",,
-"teach; learn; study; find out; SBJ (teacher; professor; master) teaches IND to OBJ (student; learner) (LOCATION:school; college; university|TIME:lesson; education)",,incohative of ""know""
+"teach; learn; study; beI out; SBJ (teacher; professor; master) teaches IND to OBJ (student; learner) (LOCATION:school; college; university|TIME:lesson; education)",,incohative of ""know""
 "unteach; unlearn; SBJ (unteacher) makes IND (unlearner) unlearn what they thought they knew about OBJ",,cessative of ""know""
 "be familiar with; IND (familiar to; accquaintance; famous; notorious) is familiar to OBJ",,
 "be unfamiliar with; be strange; be foreign; IND (unfamiliar to; stranger) is unfamiliar to OBJ",,antonym of ""be familiar with""
@@ -119,8 +115,8 @@ eng,cst,source
 "love; be infatuated; OBJ (lover) is in love with IND (love) (TIME:romance)",,
 "set up; fall in love; introduce; infatuate; SBJ (matchmaker; cupid) makes OBJ fall in love with IND",,
 "relate; OBJ (relatee) is genetically related to IND (relative; kin; blood)",,
-"like; favour; be appealing; be good; be beautiful; be pleasing; be delicious; OBJ (liker; optimist) likes IND (preference; favourite) (AMOUNT:goodness; preference level)",,
-"dislike; disfavour; be unappealing; be bad; be ugly; be displeasing; be gross; OBJ dislikes IND (anathema; least favourite)",,antonym of ""like""
+"like; be good; favour; be appealing; be pleasing; be beautiful; be delicious; be positive; OBJ (liker; optimist) likes IND (preference; favourite) (AMOUNT:goodness; preference level)",,
+"dislike; be bad; disfavour; be unappealing; be displeasing; be ugly; be gross; be negative; OBJ (pessimist) dislikes IND (anathema; least favourite)",,antonym of ""like""
 "improve; defend; argue for; SBJ (improver) raises OBJ's opinion of IND",,incohative of ""like""
 "worsen; insult; argue against; SBJ (worsener) lowers OBJ's opinion of IND",,cessative of ""like""
 "be old; OBJ (elder; senior; adult; grown-up) is old (AMOUNT:age)",,
@@ -155,7 +151,7 @@ eng,cst,source
 "be in front; be forward; be between; OBJ (field of view; shield) has a positive _y_ coordinate from IND's point of view (AMOUNT:_y_ coordinate)",,
 "be behind; be backward; OBJ (back) has a negative _y_ coordinate from IND's point of view",,antonym of ""be in front""
 "advance; move forward; SBJ (advancer) makes OBJ move forward from IND's point of view",,incohative of ""be in front""
-"retreat; move backward; SBJ (retreater) makes OBJ move backward from IND's point of view",,cessative of ""be in front"
+"retreat; move backward; SBJ (retreater) makes OBJ move backward from IND's point of view",,cessative of ""be in front""
 "follow; trail; SBJ makes OBJ (follower; tail) follow IND (followed)",,progressive of ""be behind""
 "be right; OBJ (right side) has a positive _x_ coordinate from IND's point of view (AMOUNT:_z_ coordinate)",,
 "be left; OBJ (left side) has a negative _x_ coordinate from IND's point of view",,antonym of ""be right""
@@ -211,7 +207,7 @@ eng,cst,source
 "hide; obscure; SBJ (hider; obscurer) hides IND from OBJ",,cessative of ""notice""
 "mean; call; OBJ (name; signal; word) means IND (definition; meaning; denotation)",,
 "define; name; SBJ (definer; dictionary; convention; protocol) declares that OBJ means IND",,
-"be alive; be lively; OBJ (living thing) is alive (AMOUNT:liveliness|TIME:life)",,
+"be alive; be lively; OBJ (life; organism; living thing) is alive (AMOUNT:liveliness|TIME:life)",,
 "be dead; be unlively; OBJ (corpse) is dead (TIME:death)",,antonym of ""be alive""
 "bring to life; come to life; SBJ brings OBJ to life",,incohative of ""be alive""
 "kill; murder; die; pass away; SBJ (killer; murderer) kills OBJ",,cessative of ""be alive""
@@ -247,9 +243,13 @@ eng,cst,source
 "be typical; qualify; the type of OBJ (instance; example) is IND (category; class; kind; type)",,
 "categorise; classify; SBJ places OBJ as an instance of IND",,incohative of ""be typical""
 "disqualify; declassify; SBJ makes OBJ not be an instance of IND",,cessative of ""be typical""
-"obey; control; follow; lead; SBJ does OBJ because IND said to do it",,
-"care; matter; find important; OBJ (caring; passionate) cares about IND (main; primary)",,
-"find unimportant; be indifferent; ignore; OBJ does not care about IND (fringe; secondary)",,antonym of ""care""
+"beI in *control; beI in charge; beI powerful; depend; IND (oppressor; controller; leader) controls OBJ (oppressed; dependent) (TIME:oppression)",,
+"be free; be independent; beI weak; IND cannot tell OBJ what to do",,antonym of ""be in control""
+"take control; capture; give control; put in charge; SBJ (capturer) puts IND in control of OBJ (captured)",,incohative of ""be in control""
+"lose control; release; free; SBJ (releaser) releases OBJ (freed) from IND's control",,cessative of ""be in control""
+"obey; command; follow; lead; SBJ (follower) does OBJ (order; command) because IND (leader; commander) said to do it",,
+"care; matter; beI important; OBJ (caring; passionate) cares about IND (main; primary)",,
+"beI unimportant; be indifferent; ignore; OBJ does not care about IND (fringe; secondary)",,antonym of ""care""
 "make important; persuade to care; SBJ makes OBJ care about IND",,incohative of ""care""
 "make unimportant; persuade not to care; SBJ makes OBJ stop caring about IND",,cessative of ""care""
 "walk; OBJ is walking",,
@@ -364,9 +364,7 @@ eng,cst,source
 "fill",,incohative of ""be full""
 "empty; clear",,cessative of ""be full""
 "be coloured; have colour; IND (colour) is the colour of OBJ",,
-"be brown; be murkey; OBJ looks brown",,antonym of ""be coloured""
 "colour; shade; SBJ (colourer) colours OBJ IND",,incohative of ""be coloured""
-"brown; colour brown; SBJ colours OBJ brown",,cessative of ""be coloured""
 "be red; OBJ reflects low wavelength light (AMOUNT:redness)",,
 "be aqua; be cyan; be sky blue; OBJ reflects medium and long wavelength light",,antonym of ""be red""
 "redden; colour red; SBJ colours OBJ red",,incohative of ""be red""
@@ -384,9 +382,11 @@ eng,cst,source
 "whiten; lighten; dodge; SBJ lightens OBJ",,incohative of ""be white""
 "blacken; darken; shade; SBJ darkens OBJ",,cessative of ""be white""
 "be grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same",,
-"be brightly coloured; be saturated; be colourful; OBJ reflects some wavelengths of light much more than others (AMOUNT:chroma; saturation; brightness)",,antonym of ""be grey""
+"be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others (AMOUNT:chroma; saturation; brightness)",,antonym of ""be grey""
 "colour grey; SBJ desaturates the colours of OBJ",,incohative of ""be grey""
 "colour; SBJ brightens the colours of OBJ",,cessative of ""be grey""
+"be brown; be murkey; OBJ looks brown",,
+"brown; colour brown; SBJ colours OBJ brown",,incohative of ""be brown""
 "be opaque; OBJ absorbs light that it does not reflect (AMOUNT:opacity)",,
 "be transparent; be see-through; OBJ (window) lets unreflected light pass through it",,antonym of ""be opaque""
 "opaquify; SBJ make OBJ become opaque",,incohative of ""be opaque""
@@ -418,8 +418,8 @@ eng,cst,source
 "be mild; be cool; OBJ is not spicy",,antonym of ""be spicy""
 "spice; SBJ makes OBJ become spicy",,incohative of ""be spicy""
 "mild; cool; despice; SBJ makes OBJ become less spicy",,cessative of ""be spicy""
-"be shaped; be shaped like; OBJ (blob) is shaped like IND (shape)",,
-"be formless; be amorphous; OBJ has no well-defined shape",,antoynm of ""be shaped""
+"be shaped; be shaped like; OBJ (sculpture) is shaped like IND (shape)",,
+"be formless; be amorphous; OBJ (blob) has no well-defined shape",,antoynm of ""be shaped""
 "shape; form; sculpt; SBJ (shaper; sculptor) shapes OBJ into IND",,incohative of ""be shaped like""
 "deform; SBJ makes OBJ (deformed) lose its shape",,cessative of ""be shaped""
 "be circular; be round; OBJ (circle) is circular",,
@@ -486,7 +486,7 @@ eng,cst,source
 "be made; comprise; OBJ (construction; object; product) is made out of IND (material; substance; chemical; element)",,
 "be wood; be wooden; OBJ is made out of wood",,
 "woodify; SBJ turns OBJ into wood",,incohative of ""be wood""
-"be rock; be stone; be earth; be earthen; OBJ is made out of earth",,
+"be stone; be rock; be earth; be earthen; OBJ is made out of earth",,
 "turn to stone; earthify; SBJ turns OBJ to stone",,incohative of ""be rock""
 "be metal; be metallic; OBJ is made out of metal",,
 "metallicise; SBJ turns OBJ into metal",,incohative of ""be metal""
@@ -557,9 +557,11 @@ eng,cst,source
 "imagine",,
 "think-of; come up with an idea",,
 "ponder; think about; OBJ (thinker) thinks about IND (train of thought) (TOOL:mind; soul)",,
-"calculate; compute; work through; think on",,
-"hot",,
-"cold",,
+"calculate; compute; figure out; work through; think on",,
+"be hot; be warm; OBJ is hotter than IND (reference temperature; lukewarm) (AMOUNT:temperature)",,
+"be cold; be cool; OBJ is colder than IND",,antonym of ""be hot""
+"heat; warm; SBJ (heater) makes OBJ heat up relative to IND",,incohative of ""be hot""
+"cool; SBJ (cooler; air conditioner) makes OBJ cool down relative to IND",,cessative of ""be hot""
 "fun-have",,
 "parent; raise; SBJ (parent; mother; father; mentor) raises OBJ (child; tutee)",,
 "be pregnant; be pregant; be gregnant; be pegnate; be pregegnant; be prregnant; be pergert; be pergenat; be peegnant; be pgrenant; be pregananant; OBJ is pregnant",,
@@ -622,7 +624,7 @@ eng,cst,source
 "adore; find something cute",,
 "be entertained; OBJ (audience) is entertained by IND (show; entertainment) (TIME:performance)",,
 "entertain; SBJ (entertainer) makes OBJ be entertained by IND",,incohative of ""be entertained""
-"find awkward",,
+"beI awkward",,
 "hurt; feel pain; feel bad; OBJ (in pain) feels pain in their IND (pain point; wound)",,
 "feel good; feel euphoria; sooth; OBJ (soothed) feels physically good in their IND (nice; good)",,
 "torture; inflict pain; hurt; SBJ (torturer) makes OBJ feel pain in their IND",,
@@ -667,7 +669,7 @@ eng,cst,source
 "imprison",,
 "list",,
 "furnish; as in furniture",,
-"study; science; investigate; observe; experiment; test; SBJ (scientist) carefully conducts experiments and observations to learn the answer to or more about OBJ (hypothesis; field of study; big question) (LOCATION:laboratory; lab)",,
+"study; conduct science; investigate; observe; experiment; test; SBJ (scientist) carefully conducts experiments and observations to learn the answer to or more about OBJ (science; field of study; big question; the body of knowledge formed by the scientific process) (LOCATION:laboratory; lab)",,
 "engineer; SBJ (engineer) uses technical skills and fine problem-solving to solve OBJ (technical problem)",,
 "entrepreneur; SBJ (entrepreneur) uses ideation, people skills, and determination to solve OBJ (largescale problem)",,
 "art-make",,
@@ -691,9 +693,6 @@ eng,cst,source
 "squeeze",,
 "beware",,
 "cluster; be physically nearby",,
-"control; be in charge; be powerful; depend; SBJ (leader; oppressor; controller) controls OBJ (oppressed; dependent)",,
-"be appealing; be tasty; be ",,
-"unappealing; of a picture, sound, etc.",,
 "big-picture",,
 "detail-oriented",,
 "conquer",,
@@ -703,8 +702,8 @@ eng,cst,source
 "tidy",,
 "messy",,
 "transform",,
-"help; ally; benefit; work with; OBJ (helper) is working toward the same goal as IND (ally; friend)",,
-"hinder; oppose; harm; compete; fight; work against; OBJ (opposer) is working toward a goal contrary to that of IND (opponent; competitor; enemy)",,antonym of ""help""
+"help; be for; ally; benefit; work with; OBJ (helper) is working toward the same goal as IND (ally; friend)",,
+"hinder; be against; oppose; harm; compete; fight; OBJ (opposer) is working toward a goal contrary to that of IND (opponent; competitor; enemy)",,antonym of ""help""
 "align with; join; team up; SBJ (alliance forger) makes OBJ ally with IND",,incohative of ""help""
 "turn against; betray; split up; SBJ (instigator) turns OBJ (traitor) against IND",,cessative of ""help""
 "fight; battle; SBJ (fighter) has a physically violent engagement with OBJ (adversary; opponent) (TIME:violence; physical violence|TOOL:weapon)",,

@@ -17,8 +17,8 @@ With these goals in mind, I developed a language with the following key features
 * Partially self-segregating morphology
 * Completely anlytic morphological typology
 * Left-branching head directionality
-* Split-S morphosyntanctic alignment
-* Postposition-facilitated extremely free word order
+* Active-stative morphosyntanctic alignment
+* Postposition-facilitated free word order
 
 ## This repository
 

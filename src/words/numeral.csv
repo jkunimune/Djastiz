@@ -1,27 +1,27 @@
 eng,cst,source
-"0; zero (CARDINAL:zero; zero of|ORDINAL:zeroth)",lin,cmn liŋ˧˥
-"1; one",kan,yor okan
-"2; two",hal,cmn ɤ˞˥˩
-"3; three",tin,mar tiːnə
-"4; four",cal,hin tɕʰaɾ
-"5; five",fif,eng faɪ̯v
-"6; six",mef,yor mefa
-"7; seven",saf,swa saba
-"8; eight",pah,cmn pa˥
-"9; nine",nof,spa ˈnweβe
-"A; 10; ten; only used for duodecimal and hexadecimal",kum,nya kʰu˨mi˨
-"B; 11; eleven; only used for duodecimal and hexadecimal",kah,hin gjɔɾəɦ
-"C; 12; dozen; only used for hexadecimal",pol,ben bɔro
-"D; 13; baker's dozen; only used for hexadecimal",tel,pan t̪eːɾɑːŋ
-"E; 14; fourteen; only used for hexadecimal",tol,spa kaˈtoɾse
-"F; 15; fifteen; only used for hexadecimal",kin,spa ˈkinse
-"G; 16; only used to describe hexadecimal",sol,ben sʰolo
+"0; zero (GENITIVE:zeroth)",lin,cmn liŋ˧˥
+"1; one; single (GENITIVE:first; unit)",kan,yor okan
+"2; two; double (GENITIVE:second; binary)",hal,cmn ɤ˞˥˩
+"3; three; triple (GENITIVE:third)",tin,mar tiːnə
+"4; four; quadruple (GENITIVE:fourth)",cal,hin tɕʰaɾ
+"5; five (GENITIVE:fifth)",fif,eng faɪ̯v
+"6; six (GENITIVE:sixth; seximal)",mef,yor mefa
+"7; seven (GENITIVE:seventh)",saf,swa saba
+"8; eight (GENITIVE:eighth; octal)",pah,cmn pa˥
+"9; nine (GENITIVE:ninth)",nof,spa ˈnweβe
+"A; 10; ten; only used for duodecimal and hexadecimal (GENITIVE:tenth; decimal)",kum,nya kʰu˨mi˨
+"B; 11; eleven; only used for duodecimal and hexadecimal (GENITIVE:eleventh)",kah,hin gjɔɾəɦ
+"C; 12; dozen; only used for hexadecimal (GENITIVE:twelfth; duodecimal)",pol,ben bɔro
+"D; 13; baker's dozen; only used for hexadecimal (GENITIVE:thirteenth)",tel,pan t̪eːɾɑːŋ
+"E; 14; fourteen; only used for hexadecimal (GENITIVE:fourteenth)",tol,spa kaˈtoɾse
+"F; 15; fifteen; only used for hexadecimal (GENITIVE:fifteenth)",kin,spa ˈkinse
+"G; 16; only used to describe hexadecimal (GENITIVE:sixteenth; hexadecimal)",sol,ben sʰolo
 "much; many",,
 "several; some; few; handful; medium; (1, radix]",,
-"little; few (CARDINAL:a little bit; a few; a few of)",,opposite of ""much""
-"all; absolute; maximum",tun,opposite of ""zero""
+"little; few",,opposite of ""much""
+"all; absolute; maximum (GENITIVE:last; final; universal)",tun,opposite of ""zero""
 "point; radix point",pojn,eng pʰoɪ̯nt
 "×10^ (or ×12^, or whatever depending on the radix)",ljo,
-"radix",,
+"radix",imal,eng ɪml̩
 "-; minus; negative",,
 "over; division; fraction",,
