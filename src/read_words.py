@@ -2,6 +2,7 @@
 
 import csv
 from dragonmapper import hanzi
+import epitran
 from os import path
 import pickle
 import re
@@ -11,10 +12,16 @@ sys.path.append(path.sep.join([*sys.path[0].split(path.sep)[0:-2], 'English-to-I
 import eng_to_ipa # available at https://github.com/mphilli/English-to-IPA.git
 
 
+['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'yo', 'mr', 'ig', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']
+EPITRANSLATORS = {lang:epitran.Epitran(script) for lang, script in
+	[('hi','hin-Deva'), ('bn','ben-Beng'), ('ar','ara-Arab'), ('pa','pan-Guru'), ('yo','yor-Latn'), ('mr','mar-Deva'),
+	('sw','swa-Latn'), ('zu','zul-Latn'), ('ny','nya-Latn'), ('xh','xho-Latn'), ('sn','sna-Latn')]}
+
+
 def read_mandarin(word):
 	""" read a word phonetically in Hanzi (Mandarin pronunciations) """
 	try:
-		broad = hanzi.to_ipa(word).replace('ɪ','ɪ̯').replace('ʊ','ʊ̯') # well, that was easy
+		broad = hanzi.to_ipa(word).replace('ɪ','ɪ̯').replace('ʊ','ʊ̯').replace(' ','') # well, that was easy
 	except ValueError:
 		broad = '*'
 	return broad, broad
@@ -190,7 +197,7 @@ def read_english(word):
 		.replace('e','eɪ̯').replace('oʊ','oʊ̯').replace('aɪ','ɑɪ̯').replace('ɔɪ','ɔɪ̯').replace('aʊ','aʊ̯')
 
 	if '*' in broad: # if it couldn't find it,
-		return ('*', '*') # cry
+		return '*', '*' # cry
 
 	narrow = ''
 	for i, c in enumerate(broad): # there aren't actually too many allohponies in English of which I could think
@@ -209,58 +216,11 @@ def read_english(word):
 	return broad, narrow
 
 
-def read_hindustani(word):
-	""" read a word phonetically in Esperanto """
-	return '', ''
-
-
-def read_bengali(word):
-	""" read a word phonetically in Esperanto """
-	return '', ''
-
-
-def read_arabic(word):
-	return '', ''
-
-
-def read_punjabi(word):
-	return '', ''
-
-
-def read_yoruba(word):
-	return '', ''
-
-
-def read_marathi(word):
-	return '', ''
-
-
 def read_igbo(word):
-	return '', ''
-
-
-def read_swahili(word):
-	return '', ''
-
-
-def read_zulu(word):
-	return '', ''
-
-
-def read_chichewa(word):
-	return '', ''
-
-
-def read_xhosa(word):
-	return '', ''
-
-
-def read_shona(word):
-	return '', ''
-
+	return '*', '*'
 
 def read_sotho(word):
-	return '', ''
+	return '*', '*'
 
 
 def read(word, lang):
@@ -273,34 +233,12 @@ def read(word, lang):
 		return read_esperanto(word)
 	elif lang == 'en':
 		return read_english(word)
-	elif lang == 'hi':
-		return read_hindustani(word)
-	elif lang == 'bn':
-		return read_bengali(word)
-	elif lang == 'ar':
-		return read_arabic(word)
-	elif lang == 'pa':
-		return read_punjabi(word)
-	elif lang == 'yo':
-		return read_yoruba(word)
-	elif lang == 'mr':
-		return read_marathi(word)
 	elif lang == 'ig':
 		return read_igbo(word)
-	elif lang == 'sw':
-		return read_swahili(word)
-	elif lang == 'zu':
-		return read_zulu(word)
-	elif lang == 'ny':
-		return read_chichewa(word)
-	elif lang == 'xh':
-		return read_xhosa(word)
-	elif lang == 'sn':
-		return read_shona(word)
 	elif lang == 'st':
 		return read_sotho(word)
 	else:
-		raise ValueError("Unrecognised language code: '{}'".format(lang))
+		return (EPITRANSLATORS[lang].transliterate(word),)*2
 
 
 if __name__ == '__main__':
@@ -311,7 +249,10 @@ if __name__ == '__main__':
 	for lang in ['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'yo', 'mr', 'ig', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']:
 		with open('../data/dict_{}.csv'.format(lang), 'r', encoding='utf-8', newline='') as f:
 			for word, orthography in csv.reader(f):
-				if word not in all_transcriptions or lang not in all_transcriptions[word] or all_transcriptions[word][lang] == ('*','*'):
-					all_transcriptions[word] = {**all_transcriptions.get(word,{}), lang:read(orthography, lang)}
-					print("{} in {} is spelled {} and pronounced {}".format(word, lang, orthography, all_transcriptions[word][lang]))
+				if lang != 'en' and word == orthography:
+					broad, narrow = '*', '*' # if it's exactly the same in English and the other language, then Google Translate is selling us lies
+				else:
+					broad, narrow = read(orthography, lang)
+				all_transcriptions[word] = {**all_transcriptions.get(word,{}), lang:(orthography, broad, narrow)}
+				print("{} in {} is spelled {} and pronounced /{}/ [{}]".format(word, lang, *all_transcriptions[word][lang]))
 	pickle.dump(all_transcriptions, open('../data/all_languages.p','wb'))

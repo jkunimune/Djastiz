@@ -4,14 +4,14 @@ eng,cst,source
 "path; line; curve (GENITIVE:linear; curvilinear)",,
 "surface; plane; wall (GENITIVE:planar; facial)",,
 "region; volume; interval (GENITIVE:regional; volumetric; periodic)",,
-"network; net; web (GENITIVE:web)",,
+"network; net; web; system (GENITIVE:web)",,
 "hole; hallway; tube; gap (GENITIVE:holey)",,
 "person; woman; man; human (GENITIVE:personal; humanistic)",,
 "personify; humanise; anthropomorphise",,incohative of ""person""
 "beast; non-human animal (GENITIVE:beastial; animalistic)",,opposite of ""person""
 "beastify",,incohative of ""beast""
 "baby (GENITIVE:infantile)",kukam,ono guː gaː
-"babify; SBJ turns OBJ into a baby
+"babify; SBJ turns OBJ into a baby",,incohative of ""baby""
 "adult (GENITIVE:adult)",,
 "adolescent; youth; kid (GENITIVE:juvenile)",,opposite of ""adult""
 "senior citizen; elder; a _really_ old person (GENITIVE:elder)",,opposite of ""baby""
@@ -19,12 +19,6 @@ eng,cst,source
 "specialist; personel; qualified (GENITIVE:special; technical)",,
 "specialise; train; qualify; SBJ turns OBJ into a specialist",,incohative of ""specialist""
 "layperson; civilian; customer (GENITIVE:popular; general)",,opposite of ""specialist""
-"clap; slap; tick; a sudden, short, high-pitched sound",kef,kʰ
-"boom; crash; a sudden, loud, low-pitched sound",pum,ono bum
-"screech; wail; a shrill, drawn-out, high-pitched sound",hihih,iː
-"hum; buzz; a sonourous, drawn-out, low-pitched sound",mumum,mː
-"chatter; wobble; rustle; a long, noisy, high-pitched sound",cececef,tʃkətʃətʃə
-"rumble; a long, noisy, low-pitched sound",puwapuwam,wumbawumba
 "light (GENITIVE:photic; optic)",,
 "god; deity; a general term, not a reference to any particular god (GENITIVE:divine; godly; deific)",,
 "ground; planet (GENITIVE:terrestrial; planetary)",,
@@ -167,3 +161,9 @@ eng,cst,source
 "grass",,
 "bamboo",,
 "machine; robot; automaton",,
+"clap; slap; tick; a sudden, short, high-pitched sound",kef,kʰ
+"boom; crash; a sudden, loud, low-pitched sound",pum,ono bum
+"screech; wail; a shrill, drawn-out, high-pitched sound",hihih,iː
+"hum; buzz; a sonourous, drawn-out, low-pitched sound",mumum,mː
+"chatter; wobble; rustle; a long, noisy, high-pitched sound",cececef,tʃkətʃətʃə
+"rumble; a long, noisy, low-pitched sound",puwapuwam,wumbawumba

@@ -150,7 +150,9 @@ It must be noted that, while in English, verbs often have multiple meanings for 
 
 Djastiz indexes from zero. Obviously. `f o uf` can therefore translate to either "the first one" or "the second one" depending on how one does the translation. It literally means "the one that is number one", which would seem to imply "1°", or "first". However, in English, "first" refers to the instance that has no instances before it, whereas in Djastiz, `f o yu` refers to _that_ instance while `f o uf` refers to the one after it. A native Djastiz singer typically counts finite objects by first pointing outside of the set and saying `yu`, and then pointing sequentially to the spaces between objects and saying a new number each time. The number of objects in the set is the number one says when pointing past the last one, on the opposite side of the set at which one started. If you're really good at counting, you can skip the `yu`, but it's important to always point between the objects and not at them, as normal people would, so as not to confuse your indices. Why would we do something so unintuitive and unusual? You tell me: what's the seventh year of the fifth decade of the eleventh century?
 
-Djastiz also uses the metric system for all measurements of length, area, volume, mass, current, magnetic flux density, etc., with appropriate loanwords for each respective unit from French. Other units may, of course, be used, but metric is default. Djastiz does not, however, use the metric unit of time (seconds). Instead, times in Djastiz are typically represented in terms of powers of ten from the solar day. Unique words for the era (10<sup>5</sup> days, used for historical dates), the chunk (10<sup>3</sup> days, used for ages and long-term scheduling), the cycle (10<sup>1</sup> days, used for habitual and near-term scheduling), the day, the k&egrave; (10<sup>-2</sup> days, used for general scheduling), the span (10<sup>-3</sup> days, used for precise scheduling), and the snap (10<sup>-5</sup> days, used for human-perceptible timescales). The Gregorian calendar may be used with Latin loanwords for communicating with the outside world, or doing things that depend on the seasons. In case you were wondering, this time measurement system is called "Justin Time".
+Djastiz also uses the metric system for all measurements of length, area, volume, mass, current, magnetic flux density, etc., with appropriate loanwords for each respective unit from French. Other units may, of course, be used, but metric is default.
+
+Dates in Lawntoklian are expressed YYYY-MM-DD hh:mm:ss.sss Z. Thus, the first humans landed on the lunar surface at 1969-07-20 20:17 UTC.
 
 One other way that Djastiz differs from measurements in English is its greater number of coordinate words. While in English, the words "up", "down", "left", and "right" can mean different things in different contexts, in Djastiz, the corresponding words are precise. For example, "up" with respect to an elevator in English means a linear axis perpendicular to the local gravitational equipotential. "Up" with respect to a page, though, in fact means an angular direction that can be linearly up if the page is on a wall or forward if the page is on a table. Djastiz has separate words for these concepts: `rd` for the linear dimension, and `ssri` for the angular dimension. Always take care when singing Djastiz to know whether to use Cartesian or spherical coordinates.
 
@@ -163,9 +165,10 @@ The grammar of Chastisun is designed to be as simple as possible while enabling 
     clause-phrase ::= (sentence-particle)? (postpos-phrase)\* (verb-phrase (postpos-phrase)\*)?
    postpos-phrase ::=  complement-phrase postposition
 complement-phrase ::=  noun-phrase | clause-phrase
-      noun-phrase ::= (qualifier)? (noun | pronoun | relative-phrase | complement-phrase ⟨in⟩ | noun-phrase)\*
+      noun-phrase ::= (qualifier | number)? (noun | pronoun | relative-phrase | complement-phrase ⟨in⟩ | noun-phrase)\*
       verb-phrase ::=  verb (verb.auxiliary)\*
   relative-phrase ::= \[sentence-particle\] (postpos-phrase)\* \[verb-phrase (postpos-phrase)\*\] \["l" postposition\]
+           number ::= (number ⟨imal⟩)? ⟨neg⟩? (digit)* (⟨paw⟩ number)?
          X-phrase ::= "bo"? X-phrase "an" X-phrase
    Substance-rule : No phrase may be empty.
    Trail-off-rule : Any number of words can be removed from the start and end of a sentence as long as the meaning remains clear.
@@ -292,10 +295,6 @@ Tenses are simple. If it is important to a sentence whether it happened in the p
 Passives are somewhat nonexistent in Launtoklian
 
 Participles in Launtoklian are represented with relative clauses.
-
-### Miscellaneous conventions
-
-Metric system. Dates in Lawntoklian are expressed YYYY-MM-DD hh:mm:ss.sss Z. Thus, the first humans landed on the lunar surface at 1969-07-20 20:17 UTC.
 
 ## Gestures
 

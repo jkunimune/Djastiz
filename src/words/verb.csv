@@ -240,14 +240,14 @@ eng,cst,source
 "leave bare; expose; leave open; OBJ covers little of IND (bare; open; exposed)",,antonym of ""surround""
 "surround; cover; SBJ (coverer) surrounds OBJ with IND",,incohative of ""surround""
 "uncover; bare; expose; open; SBJ (uncoverer) makes OBJ stop surrounding IND",,cessative of ""surround""
-"be typical; qualify; the type of OBJ (instance; example) is IND (category; class; kind; type)",,
+"be typical; exemplify; qualify; the type of OBJ (instance; example) is IND (category; class; kind; type)",,
 "categorise; classify; SBJ places OBJ as an instance of IND",,incohative of ""be typical""
 "disqualify; declassify; SBJ makes OBJ not be an instance of IND",,cessative of ""be typical""
 "beI in *control; beI in charge; beI powerful; depend; IND (oppressor; controller; leader) controls OBJ (oppressed; dependent) (TIME:oppression)",,
 "be free; be independent; beI weak; IND cannot tell OBJ what to do",,antonym of ""be in control""
 "take control; capture; give control; put in charge; SBJ (capturer) puts IND in control of OBJ (captured)",,incohative of ""be in control""
 "lose control; release; free; SBJ (releaser) releases OBJ (freed) from IND's control",,cessative of ""be in control""
-"obey; command; follow; lead; SBJ (follower) does OBJ (order; command) because IND (leader; commander) said to do it",,
+"obey; command; follow; lead; SBJ (follower) does OBJ (order; command) because IND (leader; commander; manager) said to do it",,
 "care; matter; beI important; OBJ (caring; passionate) cares about IND (main; primary)",,
 "beI unimportant; be indifferent; ignore; OBJ does not care about IND (fringe; secondary)",,antonym of ""care""
 "make important; persuade to care; SBJ makes OBJ care about IND",,incohative of ""care""
@@ -276,11 +276,12 @@ eng,cst,source
 "deconstruct; disassemble; demolish; take apart; SBJ (deconstructor) deconstructs OBJ (TIME:deconstruction; disabssembly)",,cessative of ""stand structurally""
 "sell; buy; vend; purchase; IND (buyer; customer) legally obtains SBJ (good; service) from IND (vendor; salesperson) (TIME:financial transaction|TOOL:money; currency)",,
 "plan; expect; OBJ (expecting) expects IND (plan; expectation) to happen (TOOL:planner; planning tool)",,
-"be example; be representative; OBJ poses a representative example of IND (general; exampled)",,
-"deduce; be reasonable; *reason; be logical; figure; figure out; SBJ logically deduces OBJ",,
-"craze; act erratically or illogically; does not necessarily refer to mental illness",,
-"be ahead; general discrete measure of progress",,
-"be behind; lag; general discrete measure of backwardness",,
+"deduce; compute; *reason; be reasonable; be logical; figure; figure out; compute; think through; SBJ (reasonable) logically deduces OBJ (conclusion; computation)",,
+"act crazy; be unreasonable; be illogical; jump to conclusion; guess; SBJ (unreasonable; crazy) comes to the conclusion OBJ without any logic",,antonym of ""deduce""
+"be ahead; have progress; OBJ is ahead of IND (AMOUNT:progress)",,
+"be behind; lag; OBJ has fallen behind IND",,antonym of ""be ahead""
+"pull ahead; progress; make progress; gain; SBJ pushes OBJ ahead relative to IND",,incohative of ""be ahead""
+"fall behind; lose progress; lose; SBJ pulls OBJ backward relative to IND",,cessative of ""be ahead""
 "experience",,
 "sentience; I'm not going to try to define it here; I have a definition, but it cannot be put into words",,
 "suffice; be enough",,
@@ -332,7 +333,9 @@ eng,cst,source
 "fall; be falling; OBJ moves uncontrollably under gravitational forces",,
 "drop; fall; SBJ (dropper) makes OBJ (dropped; fallen) start falling",,incohative of ""fall""
 "catch; fall on; land; stop; SBJ (catcher; landing) makes OBJ (caught) stop falling",,cessative of ""fall""
-"be on; rest on; support; OBJ (at rest; on top) is on IND (table; ground; floor; support)",,
+"be on; rest on; support; OBJ (at *rest; on top) is on IND (table; ground; floor; support)",,
+"put on",,
+"take off",,
 "bounce",,
 "grip; SBJ exerts a frictional force on OBJ",,
 "deal",,
@@ -455,7 +458,7 @@ eng,cst,source
 "be fluid; be amorphous; OBJ is fluid",,antonym of ""be solid""
 "freeze; solidify; deposit; SBJ (freezer) freezes OBJ (frozen; ice) (TOOL:freezer)",,incohative of ""be solid""
 "melt; sublimate; SBJ (melter) melts OBJ (molten)",,cessative of ""be solid""
-"be liquid; OBJ (puddle) is liquid (AMOUNT:liquidity; wetness)",,
+"be liquid; OBJ (water; puddle) is liquid (AMOUNT:liquidity; wetness)",,
 "be gaseous; OBJ (gas; cloud) is gaseous",,antonym of ""be liquid""
 "condense; liquidify; SBJ (condenser) condenses OBJ (condensed; cloud) into a liquid",,incohative of ""be liquid""
 "boil; evaporate; SBJ (boiler) boils OBJ",,cessative of ""be liquid""
@@ -826,3 +829,4 @@ eng,cst,source
 "hit; strike; (TOOL:hammer)",,
 "be objective",,
 "be subjective",,antonym of ""be objective""
+"spread; copy",,
