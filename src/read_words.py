@@ -217,10 +217,63 @@ def read_english(word):
 
 
 def read_igbo(word):
+	""" read a word phonetically in Igbo """
 	return '*', '*'
 
+
+SOTHO_TRIGRAPHS = {
+	'fsh':'fʃ', 'k\'h':'kʰ', 'psh':'pʃʰ', 'tlh':'tɬʰ'}
+SOTHO_DIGRAPHS = {
+	'ch':'tʃʰ', 'hl':'ɬ', 'kh':'x', 'ng':'ŋ', 'ny':'ɲ', 'ph':'pʰ', 'qh':'ǃʰ',
+	'nq':'ᵑǃ', 'sh':'ʃ', 'th':'tʰ', 'tj':'tʃʼ', 'tl':'tɬʼ', 'ts':'tsʼ', 'tš':'tsʰ'}
+SOTHO_MONOGRAPHS = {
+	'a':'ɑ', 'e':'e', 'j':'ʒ', 'k':'kʼ', 'o':'o', 'p':'pʼ', 'q':'ǃ', 'r':'ʀ', 't':'tʼ'}
+SOTHO_EXCEPTIONS = {
+	'lekʼɑ':'lɪkʼɑ', 'ʃebɑ':'ʃɛbɑ', 'pʼotsʼo':'pʼʊtsʼɔ', 'moŋolo':'mʊŋɔlɔ', 'kʼe':'kʼɪ',
+	'ho':'hʊ', 'liʒo':'liʒɔ', 'pʼon̩tsʰo':'pʼon̩tsʰɔ', 'ɑbelɑ':'ɑbɛlɑ', 'moʒɑlefɑ':'mʊʒɑlɪfɑ',
+	'ɬɑɬobɑ':'ɬɑɬʊbɑ', 'sexo':'sɪxɔ', 'tsʼokʼotsʼɑ':'tsʼʊkʼʊtsʼɑ', 'tsʰohɑ':'tsʰʊhɑ',
+	'tɬʰɑho':'tɬʰɑhɔ', 'xɑle':'xɑlɛ', 'ǃkʼoǃkʼɑ':'ǃkʼɔǃkʼɑ', 'leǃʰekʼu':'lɪǃʰekʼu',
+	'bofʃwɑ':'bɔfʃwɑ', 'mol̩lo':'mʊl̩lɔ', 'pʰomɛl̩lɑ':'pʰʊmɛl̩lɑ', 'lefɑ':'lɪfɑ',
+	'tʼɑtsʼo':'tʼɑtsʼɔ', 'letsʼo':'lɪtsʼɔ', 'seno':'sɪnɔ', 'elel̩lwɑ':'ɛlɛl̩lwɑ',
+	'kʼelel̩lo':'kʼɛlɛl̩lɔ'} # not really exceptions, but the few words for which I know which sound the <e> and <o> make
+
 def read_sotho(word):
-	return '*', '*'
+	word = word.replace('&#39;', '\'') # why do so many languages insist on using unicode instead of the ascii apostraphe? Even the IPA!
+	broad = ""
+	i = 0
+	while i < len(word):
+		if i+2 < len(word) and word[i:i+3] in SOTHO_TRIGRAPHS:
+			broad += SOTHO_TRIGRAPHS[word[i:i+3]]
+			i += 3
+		elif i+1 < len(word) and word[i:i+2] in SOTHO_DIGRAPHS:
+			broad += SOTHO_DIGRAPHS[word[i:i+2]]
+			i += 2
+		elif word[i] in SOTHO_MONOGRAPHS:
+			broad += SOTHO_MONOGRAPHS[word[i]]
+			i += 1
+		else:
+			broad += word[i]
+			i += 1
+	word, broad = broad, ""
+	for i, c in enumerate(word): # special rules that I didn't want to treat as graphemes
+		if c in 'eo' and i+1 < len(word) and word[i+1] in 'ɑeiou':
+			broad += {'e':'j', 'o':'w'}[c]
+		elif c == '\'':
+			broad += word[i+1]+'̩'
+		elif c in 'mn' and i+1 < len(word) and word[i+1] in 'mnɲŋ':
+			broad += word[i+1]+'̩'
+		elif c == 'l' and i+1 < len(word) and word[i+1] == 'l':
+			broad += 'l̩'
+		else:
+			broad += c
+	if broad in SOTHO_EXCEPTIONS:
+		broad = SOTHO_EXCEPTIONS[broad] # this is accounting for the fact that I can't tell which sound <e> and <o> are supposed to make except for the examples I find on Wikipedia
+	else:
+		for old, new in SOTHO_EXCEPTIONS.items():
+			broad = broad.replace(old, new)
+
+	# TODO: allohpones: /l/->[d], /w/->[ʷ], /x/->[kxʰ], /ʒ/->[dʒ], /h/->[ɦ]
+	return broad, broad
 
 
 def read(word, lang):
@@ -249,6 +302,7 @@ if __name__ == '__main__':
 	for lang in ['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'yo', 'mr', 'ig', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']:
 		with open('../data/dict_{}.csv'.format(lang), 'r', encoding='utf-8', newline='') as f:
 			for word, orthography in csv.reader(f):
+				orthography = max(orthography.split(), key=len) # strip away any grammar particles
 				if lang != 'en' and word == orthography:
 					broad, narrow = '*', '*' # if it's exactly the same in English and the other language, then Google Translate is selling us lies
 				else:

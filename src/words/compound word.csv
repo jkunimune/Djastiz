@@ -70,7 +70,7 @@ eng,cst,source
 "sand; SBJ (sander) sands OBJ (sanded)",,powder rub
 "car; truck",,ground vehicle
 "boat",,liquid vehicle
-"plane",,air vehicle
+"plane",,sky vehicle
 "spaceship",,cosmos vehicle
 "train",,path vehicle
 "submarine",,under boat
@@ -98,7 +98,6 @@ eng,cst,source
 "map",,layout image
 "map-projection",,map transformation
 "brown",,dark red
-"air-conditioning",,air one-that- keep-cool
 "be hallowed; worship; OBJ (worshiper) worships SBJ",,god good
 "rule-monarchially",,1 govern
 "peasant",,one-that-gets- rule-monarchially
@@ -134,7 +133,7 @@ eng,cst,source
 "be box-shaped; OBJ (box; rectangular prism) is box-shaped",,3 be-rectangular
 "be polyhedral; OBJ (polyhedron; gem) is polyhedral",,3 be-polygonal
 "water; dihydrogen monoxide",,life liquid
-"air; atmosphere; nitrogen and oxygen and all that jazz",,Earth gas
+"air; atmosphere; nitrogen and oxygen and all that jazz",,sky gas
 "lava; magma",,earth liquid
 "oxygen",,life gas
 "copper",,cyan metal
@@ -219,7 +218,7 @@ eng,cst,source
 "loon; stork",,leg bird?
 "amphibian (GENITIVE:amphibious)",,fish lizard
 "salamander",,
-"lungfish",,air fish
+"lungfish",,sky fish
 "eel",,snake fish
 "minnow",,be-small carp
 "catfish",,hair carp
@@ -441,3 +440,4 @@ eng,cst,source
 "synergise; have mutualistic relation; OBJ (symbiote) benefits from helping IND (host)",,help live
 "graph; plot (GENITIVE:graphical)",,number picture
 "asphalt",,path rock
+"letter; correspondance",,communicate paper

@@ -26,8 +26,8 @@ eng,cst,source
 "sun; star (GENITIVE:solar; stellar)",,
 "moon; satelite (GENITIVE:lunar)",,opposite of ""sun""
 "sea; ocean (GENITIVE:marine; oceanic)",,
-"land; landmass, e.g. America, Afro-Eurasia (GENITIVE:terrestrial)",,opposite of ""sea""
-"continent, e.g. North America, Eurasia (GENITIVE:continental)",,
+"land; landmass (GENITIVE:terrestrial)",,opposite of ""sea""
+"continent; North America, Eurasia, etc. (GENITIVE:continental)",,
 "mountain (GENITIVE:mountainous; montanical)",,
 "valley (GENITIVE:)",,opposite of ""mountain""
 "settlement; city; town; village (GENITIVE:urban; villestial)",,
