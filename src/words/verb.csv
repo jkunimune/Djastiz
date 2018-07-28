@@ -40,7 +40,7 @@ eng,cst,source
 "be number from the end; be in order from the end; negatively index; OBJ has an early position in IND (AMOUNT:position from end; negative index; number from end)",,antonym of ""be number""
 "move down; position; sort; SBJ (sorter) moves OBJ down the sequence IND (sorted) (MANNER:order)",,incohative of ""be number""
 "move up; position; SBJ moves OBJ up the sequence IND",,cessative of ""be number""
-"say; convey; SBJ (sayer) conveys IND (message; idea; signal; utterance) to OBJ (addressee) (MANNER:language; protocol (GENITIVE:linguistic; lingual))",,
+"say; convey; SBJ (sayer) conveys IND (message; idea; signal; utterance) to OBJ (addressee) (TOOL:phone; cell phone; communicator; communication device|MANNER:language; protocol (GENITIVE:linguistic; lingual))",,
 "perceive; sense; beI perceptible; see; hear; feel; smell; taste; OBJ (perceiver; observer) can perceive IND (perception; experience) (TOOL:sense; sensor|GENITIVE:perceptual)",,
 "show; look; listen; sniff; taste; read; SBJ (shower; looker; listener) shows IND (show) to OBJ",,incohative of ""perceive""
 "obscure; hide; remove; SBJ makes OBJ stop perceiving IND (obscured)",,cessative of ""perceive""
@@ -121,7 +121,7 @@ eng,cst,source
 "be young; OBJ (kid; girl; boy) is young",,antonym of ""be old""
 "age; olden; SBJ (ager; Father Time) makes OBJ get older",,incohative of ""be old""
 "age backward; youngen; SBJ (youngener) makes OBJ get younger",,cessative of ""be old""
-"be late; be after; be tardy; positive time; OBJ (future) happens after IND",,
+"be late; be after; be tardy; positive time; OBJ (future) happens after IND (AMOUNT:time; amount of time; duration)",,
 "be early; be before; be timely; negative time; OBJ (past) happens before IND",,antonym of ""be late""
 "laten; delay; postpone; travel forward through time; SBJ (postponer) pushes OBJ forward through time",,incohative of ""be late""
 "pass; advance; travel back in time; SBJ (time machine) causes OBJ (passing; present) to become before IND",,cessative of ""be late""
@@ -500,9 +500,6 @@ eng,cst,source
 "ride; transport; SBJ (passenger) rides on OBJ (vehicle)",,
 "play; a game or a sport",,
 "legislate",,
-"achieve; a goal",,
-"rescind; progress to a goal or agenda",,
-"require",,
 "wait",,
 "generalize",,
 "individual",,
@@ -576,7 +573,7 @@ eng,cst,source
 "laugh; SBJ (laugher) laughs",hahjak,ono ha ha
 "burp; belch; SBJ (burper) burps",kolojp,ono korop
 "fart; flatulate; SBJ (farter) farts",putiwt,ono pʰut
-"sneeze; SBJ (sneezer) sneezes",hacujc,ono haˈtʃuh
+"sneeze; SBJ (sneezer) sneezes",hacujc,ono haˈt͡ʃuh
 "yawn; SBJ (yawner) yawn",heaws,ono ˈhaː.aː
 "hiccup; SBJ (cursed with hiccups) hiccups",hikjok,ono hik
 "cough; SBJ (cougher) coughs",kahawk,ono ʡah
@@ -664,7 +661,7 @@ eng,cst,source
 "imprison",,
 "list",,
 "furnish; as in furniture",,
-"study; conduct science; investigate; observe; experiment; test; SBJ (scientist) carefully conducts experiments and observations to learn the answer to or more about OBJ (science; field of study; big question; the body of knowledge formed by the scientific process) (LOCATION:laboratory; lab)",,
+"study; measure; conduct science; investigate; observe; experiment; test; SBJ (scientist) uses empirical observation to learn the answer to or more about OBJ (science; field of study; big question; the body of knowledge formed by the scientific process) (LOCATION:laboratory; lab|TOOL:meter; instrument; measuring device)",,
 "engineer; SBJ (engineer) uses technical skills and fine problem-solving to solve OBJ (technical problem)",,
 "entrepreneur; SBJ (entrepreneur) uses ideation, people skills, and determination to solve OBJ (largescale problem)",,
 "art-make",,

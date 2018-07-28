@@ -237,7 +237,7 @@ def read_igbo(word):
 			i += 1
 	word, broad = broad, ""
 	for i, c in enumerate(word): # special rules that I didn't want to treat as graphemes
-		if c in 'mnɳŋ' and i+1 < len(word) and word[i+1] not in 'aeɪiɒoʊujʷ':
+		if c in 'mnɳŋ' and (i+1 >= len(word) or word[i+1] not in 'aeɪiɒoʊujʷ'):
 			broad += c+'̩'
 		else:
 			broad += c

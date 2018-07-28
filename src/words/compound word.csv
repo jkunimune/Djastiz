@@ -24,8 +24,6 @@ eng,cst,source
 "exclaim; SBJ (exclaimer) makes an exclamatory utterance of OBJ (exclamation) to IND",,wow say
 "greet; praise; celebrate; SBJ (greeter; praiser) makes a positive utterance of OBJ (praised; occasion) to IND (greeted)",,yay say
 "complain; denounce; condemn; SBJ (complainer) makes a negative utterance of OBJ (complaint; denouncee) to IND (sympathetic ear)",,boo say
-"be right; SBJ (right) is right in saying OBJ (truth) to IND",,true say
-"be wrong; be incorrect; SBJ (wrong) is incorrect in saying OBJ (falsehood; lie) to IND",,false say
 "multiple",,not 1
 "dictionary",,word list
 "alphabet (GENITIVE:alphabetical)",,letter group
@@ -34,11 +32,18 @@ eng,cst,source
 "conlang",,design language
 "auxlang",,international language
 "artlang",,art language
+"be right; SBJ (right) is right in saying OBJ (truth) to IND",,true say
+"be wrong; be incorrect; SBJ (wrong) is incorrect in saying OBJ (falsehood; lie) to IND",,false say
 "succeed; SBJ succeeds at making OBJ happen",,try do
 "fail; SBJ fails to make OBJ happen",,try not do
 "tell the truth; be honest; SBJ expresses OBJ (the truth; true), which they think to be true (AMOUNT:honesty; integrity)",,true try
 "lie; be dishonest; SBJ expresses OBJ (lie; feint), which they think to be false",,false try
+"trust; find trustworthy; OBJ trusts IND",,be-honest believe
+"mistrust; find untrustworthy; OBJ does not trust IND",,be-dishonest believe
+"achieve; accomplish; SBJ makes OBJ (achiever) achieve IND (accomplished; achieved)",,absolute progress
 "use internet; be wireless; be cyber; be crypto",,computer communicate
+"mobile phone; cellural phone",,move communicator
+"smart phone; cell phone",,be-smart communicator
 "female; woman",,vagina organism
 "male; man",,penis organism
 "be feminine; OBJ (woman; girl) is feminine",,vagina fill
@@ -303,6 +308,12 @@ eng,cst,source
 "nut",,hard seed
 "rubber",,elastic tree
 "coconut",,hair fruit
+"clock; watch; stopwatch",,amount-of-time measuring-device
+"meterstick; ruler; measuring tape",,length measuring-device
+"scale; balance",,weight measuring-device
+"thermometer",,temperature measuring-device
+"barometer",,pressure measuring-device
+"spectrometer",,light length measuring-device
 "shirt; top",,torso clothes
 "t-shirt; the dress",,be-simple shirt
 "sleeve; armband",,arm clothes
@@ -319,7 +330,7 @@ eng,cst,source
 "bracelet",,wrist clothes
 "dress",,1 clothes
 "suit",,whole clothes
-"watch",,wrist clock
+"watch; wristwatch",,arm clock
 "be found; OBJ knows where SBJ is",,where appear
 "go through; OBJ moves into and then out of IND (tube; hallway; corridor)",,enter exit
 "travel; SBJ travels from IND to OBJ (destination; getaway)",,where go
