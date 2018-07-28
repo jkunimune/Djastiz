@@ -21,7 +21,7 @@ EPITRANSLATORS = {lang:epitran.Epitran(script) for lang, script in
 def read_mandarin(word):
 	""" read a word phonetically in Hanzi (Mandarin pronunciations) """
 	try:
-		broad = hanzi.to_ipa(word).replace('ɪ','ɪ̯').replace('ʊ','ʊ̯').replace(' ','') # well, that was easy
+		broad = hanzi.to_ipa(word).replace('ɪ','ɪ̯').replace('ʊ','ʊ̯').replace('ʈʂ','ʈ͡ʂ').replace('tɕ','t͡ɕ').replace('ts','t͡s').replace(' ','') # well, that was easy
 	except ValueError:
 		broad = '*'
 	return broad, broad
@@ -41,7 +41,7 @@ def read_spanish(word):
 			broad += 'a'
 		elif c == 'c':
 			if i+1 < len(word) and word[i+1] == 'h':
-				broad += 'tʃ'
+				broad += 't͡ʃ'
 			elif i+1 < len(word) and word[i+1] in 'eiéí':
 				broad += 's'
 			else:
@@ -155,7 +155,7 @@ def read_spanish(word):
 			if (last_char and last_char not in 'mnŋ ') or i+1 >= len(broad):
 				narrow += 'ʝ'
 			else:
-				narrow += 'ɟʝ'
+				narrow += 'ɟ͡ʝ'
 		elif c == 'n':
 			if i+1 < len(broad) and broad[i+1] in 'kɡx':
 				narrow += 'ŋ'
@@ -176,7 +176,7 @@ def read_esperanto(word):
 		word = word[:-1] + 'as' # put all verbs in present
 
 	broad = word.replace(
-		'c', 'ts').replace('ĉ', 'tʃ').replace('ĝ', 'dʒ').replace('ĥ', 'x').replace(
+		'c', 't͡s').replace('ĉ', 't͡ʃ').replace('ĝ', 'd͡ʒ').replace('ĥ', 'x').replace(
 		'ĵ', 'ʒ').replace('ŝ', 'ʃ').replace('ŭ', 'w').replace('g', 'ɡ')
 	vowels = [i for i,c in enumerate(broad) if c in 'aeiou']
 	if len(vowels) > 1:
@@ -193,7 +193,7 @@ def read_esperanto(word):
 
 def read_english(word):
 	""" read a word phonetically in English """
-	broad = eng_to_ipa.convert(word.replace('-',' ')).replace('ʧ','tʃ').replace('ʤ','dʒ').replace('r','ɹ')\
+	broad = eng_to_ipa.convert(word.replace('-',' ')).replace('ʧ','t͡ʃ').replace('ʤ','d͡ʒ').replace('r','ɹ')\
 		.replace('e','eɪ̯').replace('oʊ','oʊ̯').replace('aɪ','ɑɪ̯').replace('ɔɪ','ɔɪ̯').replace('aʊ','aʊ̯')
 
 	if '*' in broad: # if it couldn't find it,
@@ -216,25 +216,55 @@ def read_english(word):
 	return broad, narrow
 
 
+IGBO_DIGRAPHS = {
+	'ch':'t͡ʃ', 'gb':'ɡ͡b', 'gh':'ɣ', 'gw':'ɡʷ', 'kp':'k͡p', 'kw':'kʷ', 'nw':'ŋʷ', 'ny':'ɳ', 'n\'':'ŋ', 'sh':'ʃ'}
+IGBO_MONOGRAPHS = {
+	'g':'ɡ', 'h':'ɦ', 'ị':'ɪ', 'j':'dʒ', 'ọ':'ɒ', 'r':'ɾ', 'ụ':'ʊ', 'y':'j'}
 def read_igbo(word):
 	""" read a word phonetically in Igbo """
-	return '*', '*'
+	word = word.replace('&#39;', '\'')
+	broad = ""
+	i = 0
+	while i < len(word):
+		if i+1 < len(word) and word[i:i+2] in IGBO_DIGRAPHS:
+			broad += IGBO_DIGRAPHS[word[i:i+2]]
+			i += 2
+		elif word[i] in IGBO_MONOGRAPHS:
+			broad += IGBO_MONOGRAPHS[word[i]]
+			i += 1
+		else:
+			broad += word[i]
+			i += 1
+	word, broad = broad, ""
+	for i, c in enumerate(word): # special rules that I didn't want to treat as graphemes
+		if c in 'mnɳŋ' and i+1 < len(word) and word[i+1] not in 'aeɪiɒoʊujʷ':
+			broad += c+'̩'
+		else:
+			broad += c
+
+	narrow = ""
+	for i, c in enumerate(broad):
+		if c == 'ɾ' and (i-1 < 0 or word[i-1] not in 'aeɪiɒoʊu' or i+1 >= len(word) or word[i+1] not in 'aeɪiɒoʊu'):
+			narrow += 'ɹ'
+		else:
+			narrow += c
+	return broad, narrow
 
 
 SOTHO_TRIGRAPHS = {
-	'fsh':'fʃ', 'k\'h':'kʰ', 'psh':'pʃʰ', 'tlh':'tɬʰ'}
+	'fsh':'fʃ', 'k\'h':'kʰ', 'psh':'pʃʰ', 'tlh':'t͡ɬʰ'}
 SOTHO_DIGRAPHS = {
-	'bj':'bj', 'ch':'tʃʰ', 'hl':'ɬ', 'kh':'x', 'ng':'ŋ', 'ny':'ɲ', 'ph':'pʰ', 'qh':'ǃʰ',
-	'nq':'ᵑǃ', 'sh':'ʃ', 'th':'tʰ', 'tj':'tʃʼ', 'tl':'tɬʼ', 'ts':'tsʼ', 'tš':'tsʰ'}
+	'bj':'bj', 'ch':'t͡ʃʰ', 'hl':'ɬ', 'kh':'x', 'ng':'ŋ', 'ny':'ɲ', 'ph':'pʰ', 'qh':'ǃʰ',
+	'nq':'ᵑǃ', 'sh':'ʃ', 'th':'tʰ', 'tj':'t͡ʃʼ', 'tl':'t͡ɬʼ', 'ts':'t͡sʼ', 'tš':'t͡sʰ'}
 SOTHO_MONOGRAPHS = {
 	'a':'ɑ', 'e':'e', 'j':'ʒ', 'k':'kʼ', 'o':'o', 'p':'pʼ', 'q':'ǃ', 'r':'ʀ', 't':'tʼ'}
 SOTHO_EXCEPTIONS = {
 	'lekʼɑ':'lɪkʼɑ', 'ʃebɑ':'ʃɛbɑ', 'pʼotsʼo':'pʼʊtsʼɔ', 'moŋolo':'mʊŋɔlɔ', 'kʼe':'kʼɪ',
-	'ho':'hʊ', 'liʒo':'liʒɔ', 'pʼon̩tsʰo':'pʼon̩tsʰɔ', 'ɑbelɑ':'ɑbɛlɑ', 'moʒɑlefɑ':'mʊʒɑlɪfɑ',
-	'ɬɑɬobɑ':'ɬɑɬʊbɑ', 'sexo':'sɪxɔ', 'tsʼokʼotsʼɑ':'tsʼʊkʼʊtsʼɑ', 'tsʰohɑ':'tsʰʊhɑ',
-	'tɬʰɑho':'tɬʰɑhɔ', 'xɑle':'xɑlɛ', 'ǃkʼoǃkʼɑ':'ǃkʼɔǃkʼɑ', 'leǃʰekʼu':'lɪǃʰekʼu',
+	'ho':'hʊ', 'liʒo':'liʒɔ', 'pʼon̩t͡sʰo':'pʼon̩t͡sʰɔ', 'ɑbelɑ':'ɑbɛlɑ', 'moʒɑlefɑ':'mʊʒɑlɪfɑ',
+	'ɬɑɬobɑ':'ɬɑɬʊbɑ', 'sexo':'sɪxɔ', 't͡sʼokʼot͡sʼɑ':'t͡sʼʊkʼʊt͡sʼɑ', 't͡sʰohɑ':'t͡sʰʊhɑ',
+	't͡ɬʰɑho':'t͡ɬʰɑhɔ', 'xɑle':'xɑlɛ', 'ǃkʼoǃkʼɑ':'ǃkʼɔǃkʼɑ', 'leǃʰekʼu':'lɪǃʰekʼu',
 	'bofʃwɑ':'bɔfʃwɑ', 'mol̩lo':'mʊl̩lɔ', 'pʰomɛl̩lɑ':'pʰʊmɛl̩lɑ', 'lefɑ':'lɪfɑ',
-	'tʼɑtsʼo':'tʼɑtsʼɔ', 'letsʼo':'lɪtsʼɔ', 'seno':'sɪnɔ', 'elel̩lwɑ':'ɛlɛl̩lwɑ',
+	'tʼɑt͡sʼo':'tʼɑt͡sʼɔ', 'let͡sʼo':'lɪt͡sʼɔ', 'seno':'sɪnɔ', 'elel̩lwɑ':'ɛlɛl̩lwɑ',
 	'kʼelel̩lo':'kʼɛlɛl̩lɔ'} # not really exceptions, but the few words for which I know which sound the <e> and <o> make
 
 def read_sotho(word):
