@@ -320,7 +320,6 @@ eng,cst,source
 "dress",,1 clothes
 "suit",,whole clothes
 "watch",,wrist clock
-"tidal wave; tsunami",,be-big wave
 "be found; OBJ knows where SBJ is",,where appear
 "go through; OBJ moves into and then out of IND (tube; hallway; corridor)",,enter exit
 "travel; SBJ travels from IND to OBJ (destination; getaway)",,where go
@@ -415,7 +414,13 @@ eng,cst,source
 "be polite",,culture be-friendly
 "be-rude",,culture be-hostile
 "sect",,religion part
-"rain; precipitation",,sky water
+"wave; ripple; water waves",,be-liquid move
+"rain; precipitate; OBJ (rain; precipitation) falls from the sky",,sky fall
+"blow; gust; wind blows",,sky move
+"strike; IND is struck by lightning from OBJ (thunderstorm)",,sky discharge
+"flood; OBJ floods IND (TIME:flood)",,be-liquid rise
+"earthquake; an earthquake happens",,ground move
+"tsunami; tidal wave",,be-big wave
 "umbrella",,rain shield
 "address",,location number
 "ecosystem; environment",,life system

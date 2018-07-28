@@ -24,11 +24,10 @@ eng,cst,source
 "enable; SBJ makes OBJ become possible",,incohative of ""be possible""
 "prevent; SBJ makes OBJ stop being possible",,cessative of ""be possible""
 "want; desire; hunger; hope; have an appetite; OBJ (hoper; wanter; desirous; hungry) wants IND (desire; wish; hope) to happen",,
-"require; need; must; IND (requisite; requirement) must be true in order for OBJ to be true",,
-"imply; if; if IND (condition) happens, OBJ will happen",,
+"need; require; must; be necessary; suffice; be enough; OBJ (requisite; requirement) must be true in order for IND to be true",,
+"be unacceptable; be too much; be insufficient; IND cannot be true if OBJ is true",,antonym of ""need""
 "should; be fit; be good; OBJ should happen to make IND (value function; goal) be true",,
 "should not; be bad; be unwise; OBJ (problem) should not happen to make IND be true",,antonym of ""should""
-"benefit; create value
 "must; have to; be responsible; be obligated; OBJ is obligated to make IND (obligation; duty; responsibility; rule)",,
 "assign; obligate; SBJ (assigner) makes OBJ responsible for IND happening",,incohative of ""must""
 "beI forbidden; beI against the rules; beI illegal; OBJ is not allowed to make IND (banned; prohibited) happen",,opposite of ""must""
@@ -281,13 +280,7 @@ eng,cst,source
 "be behind; lag; OBJ has fallen behind IND",,antonym of ""be ahead""
 "pull ahead; progress; make progress; gain; SBJ pushes OBJ ahead relative to IND",,incohative of ""be ahead""
 "fall behind; lose progress; lose; SBJ pulls OBJ backward relative to IND",,cessative of ""be ahead""
-"experience",,
-"sentience; I'm not going to try to define it here; I have a definition, but it cannot be put into words",,
-"suffice; be enough",,
-"precipitate",,
-"gust; windiness",,
-"smite; lightning strike",,
-"support",,
+"experience; put through; pass; spend; be sentient; SBJ makes OBJ (experiencer) experience IND (experience)",,
 "gift",,
 "apply; the subject is a process, the direct object is something that undergoes that process",,
 "flail",,
@@ -704,7 +697,7 @@ eng,cst,source
 "tidy",,
 "messy",,
 "transform",,
-"help; be for; ally; benefit; work with; OBJ (helper) is working toward the same goal as IND (ally; friend)",,
+"help; be for; ally; support; benefit; work with; OBJ (helper) is working toward the same goal as IND (ally; friend)",,
 "hinder; be against; oppose; harm; compete; fight; OBJ (opposer) is working toward a goal contrary to that of IND (opponent; competitor; enemy)",,antonym of ""help""
 "align with; join; team up; SBJ (alliance forger) makes OBJ ally with IND",,incohative of ""help""
 "turn against; betray; split up; SBJ (instigator) turns OBJ (traitor) against IND",,cessative of ""help""

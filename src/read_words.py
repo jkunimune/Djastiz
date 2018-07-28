@@ -224,7 +224,7 @@ def read_igbo(word):
 SOTHO_TRIGRAPHS = {
 	'fsh':'fʃ', 'k\'h':'kʰ', 'psh':'pʃʰ', 'tlh':'tɬʰ'}
 SOTHO_DIGRAPHS = {
-	'ch':'tʃʰ', 'hl':'ɬ', 'kh':'x', 'ng':'ŋ', 'ny':'ɲ', 'ph':'pʰ', 'qh':'ǃʰ',
+	'bj':'bj', 'ch':'tʃʰ', 'hl':'ɬ', 'kh':'x', 'ng':'ŋ', 'ny':'ɲ', 'ph':'pʰ', 'qh':'ǃʰ',
 	'nq':'ᵑǃ', 'sh':'ʃ', 'th':'tʰ', 'tj':'tʃʼ', 'tl':'tɬʼ', 'ts':'tsʼ', 'tš':'tsʰ'}
 SOTHO_MONOGRAPHS = {
 	'a':'ɑ', 'e':'e', 'j':'ʒ', 'k':'kʼ', 'o':'o', 'p':'pʼ', 'q':'ǃ', 'r':'ʀ', 't':'tʼ'}
@@ -272,8 +272,20 @@ def read_sotho(word):
 		for old, new in SOTHO_EXCEPTIONS.items():
 			broad = broad.replace(old, new)
 
-	# TODO: allohpones: /l/->[d], /w/->[ʷ], /x/->[kxʰ], /ʒ/->[dʒ], /h/->[ɦ]
-	return broad, broad
+	narrow = ""# I can't figure out if /x/->[kxʰ] and /ʒ/->[dʒ] are allophones or nonstandard variations.
+	for i, c in enumerate(broad):
+		if c == 'l' and i+1 < len(broad) and broad[i+1] in 'iu': # allophones, allophones
+			narrow += 'd'
+		elif c == 'w' and i+1 < len(broad) and broad[i+1] in 'ɑɛeɪiɔoʊu' and i-1 >= 0 and broad[i-1] not in 'ɑɛeɪiɔoʊu': # do whatever Dallas won't
+			narrow += 'ʷ'
+		elif c == 'j' and i-1 >= 0 and broad[i-1] == 'b': # change a sound every time
+			narrow += 'ʒ'
+		elif c == 'h' and i+1 < len(broad) and broad[i+1] in 'ɑɛeɪiɔoʊu' and i-1 >= 0 and broad[i-1] in 'ɑɛeɪiɔoʊu': # realise "p" just like "spine"
+			narrow += 'ɦ'
+		else: # LOOK OUT!
+			narrow += c
+
+	return broad, narrow # here come the allophoooooooooooooooooooooooones
 
 
 def read(word, lang):
