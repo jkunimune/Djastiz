@@ -1,7 +1,7 @@
 eng,cst,source
 ".; okay; indicative mood",,
-"?; huh?; interrogative mood",cu,epo t͡ʃu
+"?; huh?; interrogative mood",epo <TODO> [t͡ʃu],cu
 ">>; imperative mood",wuuu,
-"please; polite imperative mood",pawuuu,cmn pa
-"wow; how; neutral exclamative mood",wa,cmn wa
-"would; subjunctive mood",ke,spa ke
+"please; polite imperative mood",cmn <TODO> [pa],pawuuu
+"wow; how; neutral exclamative mood",cmn <TODO> [wa],wa
+"would; subjunctive mood",spa <TODO> [ke],ke

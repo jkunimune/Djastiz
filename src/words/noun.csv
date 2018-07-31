@@ -10,7 +10,7 @@ eng,cst,source
 "personify; humanise; anthropomorphise",,incohative of ""person""
 "beast; non-human animal (GENITIVE:beastial; animalistic)",,opposite of ""person""
 "beastify",,incohative of ""beast""
-"baby (GENITIVE:infantile)",kukam,ono guː gaː
+"baby (GENITIVE:infantile)",ono [guː gaː],kukam
 "babify; SBJ turns OBJ into a baby",,incohative of ""baby""
 "adult (GENITIVE:adult)",,
 "adolescent; youth; kid (GENITIVE:juvenile)",,opposite of ""adult""
@@ -85,21 +85,21 @@ eng,cst,source
 "animal; meat (GENITIVE:animal; meaty)",,
 "plant; vegetable (GENITIVE:botanical; vegetal)",,
 "fungus (GENITIVE:fungal; fungic; fungous)",,
-"primate; monkey; ape (GENITIVE:simian)",kukim,ono u ki ki
+"primate; monkey; ape (GENITIVE:simian)",ono [u ki ki],kukim
 "rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew (GENITIVE:murine)",,
-"feline; cat (GENITIVE:feline)",mjawf,ono mjaw
-"canine; dog; wolf; dingo; and fox (GENITIVE:canine)",pawawf,ono baw waw wof
+"feline; cat (GENITIVE:feline)",ono [mjaw],mjawf
+"canine; dog; wolf; dingo; and fox (GENITIVE:canine)",ono [baw waw wof],pawawf
 "bear (GENITIVE:ursine)",,
 "seal; includes walruses and maybe sea lions I think?",,
 "musteloidea; red panda; skunk; raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine",,
-"equine; horse; zebra; wild butt (GENITIVE:equine)",hihin,ono hi hi
+"equine; horse; zebra; wild butt (GENITIVE:equine)",ono [hi hi],hihin
 "tapir",,
 "rhinoceros",,
 "camel; llama; alpaca; guanaco",,
 "swine; boar; pig; pork (GENITIVE:swine)",,
 "chevrotain",,
 "giraffe; okapi",,
-"bovine; cow; beef;buffalo; antelope; sheep; mutton; goat; ",mum,ono muː
+"bovine; cow; beef;buffalo; antelope; sheep; mutton; goat; ",ono [muː],mum
 "hippopotamus",,
 "whale; dolphin; porpoise",,
 "elephant",bjah,ono bjãː
@@ -108,19 +108,19 @@ eng,cst,source
 "kangaroo; wallaby",,
 "mammal (GENITIVE:mammalian)",,
 "reptile (GENITIVE:reptilian)",,
-"bird (GENITIVE:avian)",cipicif,ono t͡ʃip t͡ʃip
+"bird (GENITIVE:avian)",ono [t͡ʃip t͡ʃip],cipicif
 "lizard; tuatara",,
-"snake",sasah,ono sː
+"snake",ono [sː],sasah
 "ostrich; emu; rhea; tinamou; kiwi; cassowary",,
 "fowl; duck; swan; goose; chicken; turkey; pheasant",,
-"chicken",kukul,ono kuk kurikoː
-"turkey",kululun,ono gululu
+"chicken",ono [kuk kurikoː],kukul
+"turkey",ono [gululu],kululun
 "pidgeon; dove; sandgrouse; mesite",,
 "bustard; turaco; cuckoo; nightbird; swift; hummingbird",,
-"bird of prey; hawk; eagle; kite; vulture; condor; osprey; owl; falcon",kiah,ono kijɑː
+"bird of prey; hawk; eagle; kite; vulture; condor; osprey; owl; falcon",ono [kijɑː],kiah
 "crocodilian; *crocodile; alligator",,
 "turtle; tortoise; terrapin",,
-"frog; toad",kwakwam,ono kwak kwak
+"frog; toad",ono [kwak kwak],kwakwam
 "fish (GENITIVE:pescous; aquatic)",,
 "carp; koi; catfish; loach; minnow; herring; tetra",,
 "salmon; trout; pike; dragonfish; smelt",,
@@ -141,7 +141,7 @@ eng,cst,source
 "butterfly; moths",,
 "wasp",,
 "ant",,
-"bee",susum,ono zum zum
+"bee",ono [zum zum],susum
 "cricket; grasshopper; tatydids",,
 "cockoroach",,
 "mantis",,
@@ -162,7 +162,7 @@ eng,cst,source
 "bamboo",,
 "machine; robot; automaton",,
 "clap; slap; tick; a sudden, short, high-pitched sound",kef,kʰ
-"boom; crash; a sudden, loud, low-pitched sound",pum,ono bum
+"boom; crash; a sudden, loud, low-pitched sound",ono [bum],pum
 "screech; wail; a shrill, drawn-out, high-pitched sound",hihih,iː
 "hum; buzz; a sonourous, drawn-out, low-pitched sound",mumum,mː
 "chatter; wobble; rustle; a long, noisy, high-pitched sound",cececef,t͡ʃkət͡ʃət͡ʃə

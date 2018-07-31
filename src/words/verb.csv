@@ -68,7 +68,7 @@ eng,cst,source
 "show tactually; SBJ shows IND to OBJ tactually",,incohative of ""feel""
 "hide tactually; SBJ makes OBJ stop feeling IND",,cessative of ""feel""
 "read; load; interpret; SBJ (reader) reads OBJ (file; reading; passage; data) from the physical state of IND (source)",,
-"write; record; type; save a file; SBJ (writer) encodes OBJ (writing; data) physically on IND (record) (TOOL:writing utensil|LOCATION:desk; writing surface|GENITIVE:literary; scriptural)",,
+"write; record; type; save a file; SBJ (writer) encodes OBJ (writing; data) physically on IND (record) (TOOL:writing utensil|LOCATION:desk; writing surface|GENITIVE:literary; scriptural|METHOD:script; writing system; encoding)",,
 "erase; overwrite; obscure; SBJ (eraser) removes traces of OBJ (erased) from IND (TOOL:eraser)",,reversal of ""write""
 "speak; voice; say out loud; SBJ says IND (quote; words; phrase; utterance; speech) to OBJ out loud (TIME:speech|TOOL:voice|GENITIVE:vocal; locutory)",,
 "face; point; OBJ (direction) is oriented in the direction toward IND (target; front)",,
@@ -220,17 +220,24 @@ eng,cst,source
 "take off; undress; disrobje; SBJ (undresser) takes IND off of OBJ (undressee)",,cessative of ""wear""
 "move; jostle; be energetic; be restless; OBJ is deforming and moving (AMOUNT:motion; energy)",,
 "be still; be unenergetic; OBJ is motionless in place",,antonym of ""move""
-"move; set off; energise; SBJ (mover) makes OBJ start moving",,incohative of ""move""
-"stop; still; settle; deenergise; SBJ (stopper) makes OBJ stop moving",,cessative of ""move""
+"set off; set in motion; move; energise; SBJ (motor; mover) makes OBJ start moving",,incohative of ""move""
+"stop; still; settle; deenergise; SBJ (brake) makes OBJ stop moving",,cessative of ""move""
+"fall; be falling; OBJ moves uncontrollably under gravitational forces",,
+"drop; fall; SBJ (dropper) makes OBJ (dropped; fallen) start falling",,incohative of ""fall""
+"catch; fall on; land; stop; SBJ (catcher; landing) makes OBJ (caught) stop falling",,cessative of ""fall""
+"be on; rest on; support; OBJ (at *rest; on top) is on IND (table; ground; floor; support)",,
+"roll; OBJ (wheel) is rolling",,
+"start rolling; roll from; SBJ (roller) makes OBJ start rolling",,incohative of ""roll""
+"stop rolling; roll into; SBJ makes OBJ stop rolling",,cessative of ""roll""
 "be inside; contain; be inner; be central; OBJ (indoors; content; center; heart; bowels) is inside IND (container) (AMOUNT:innerness)",,
 "be outside; be outer; OBJ (outdoors; edge; fringe) is outside of IND",,antonym of ""be inside""
 "enter; put in; SBJ moves OBJ into IND",,incohative of ""be inside""
 "exit; release; SBJ moves OBJ out of IND",,cessative of ""be inside""
-"be quiet; dim; soft; faint; weak; OBJ is quiet,cisas,ono ʃː
+"be quiet; dim; soft; faint; weak; OBJ is quiet,ono [ʃː],cisas
 "be loud; be bright; be strong; OBJ is bright (AMOUNT:volume; amplitude; brightness)",susas,antonym of ""be quiet""
 "dampen; quiet; dim; soften; weaken; SBJ (damper) dampens OBJ",,incohative of ""be quiet""
 "amplify; louden; brighten; strengthen; SBJ (amplifier) amplifies OBJ",,cessative of ""be quiet""
-"eat; drink; SBJ (eater) eats OBJ (food; drink; meal) (TIME:meal; mealtime)",njamjac,ono njam njam
+"eat; drink; SBJ (eater) eats OBJ (food; drink; meal) (TIME:meal; mealtime)",ono [njam njam],njamjac
 "be part; be in; compose; contain; comprise; include; OBJ (piece; element) is part of IND (group; whole; set; party; association; organisation)",,
 "join; incorporate; add; append; SBJ (joiner) makes OBJ join IND",,incohative of ""be part""
 "leave; separate; remove; SBJ (remover) makes OBJ leave IND",,cessative of ""be part""
@@ -296,7 +303,7 @@ eng,cst,source
 "sonorous; low pitch",,
 "unstable; diminished chord or scale",,
 "stable; satisfying chord or scale",,
-"be rhythmic; pulse; oscillate; flash; beat; SBJ (rhythm; routine) happens rhythmically",tawmtawm,ono dudum dudum
+"be rhythmic; pulse; oscillate; flash; beat; SBJ (rhythm; routine) happens rhythmically",ono [dudum dudum],tawmtawm
 "consider",,
 "reproduce",,
 "be easy; be convenient; the subject is easy for the direct object",,antonym of ""be difficult""
@@ -322,12 +329,6 @@ eng,cst,source
 "abandon; take away; SBJ makes OBJ (abandoner) stop taking care of IND",,
 "sort",,
 "randomize; an order or setup",,
-"fall; be falling; OBJ moves uncontrollably under gravitational forces",,
-"drop; fall; SBJ (dropper) makes OBJ (dropped; fallen) start falling",,incohative of ""fall""
-"catch; fall on; land; stop; SBJ (catcher; landing) makes OBJ (caught) stop falling",,cessative of ""fall""
-"be on; rest on; support; OBJ (at *rest; on top) is on IND (table; ground; floor; support)",,
-"put on",,
-"take off",,
 "bounce",,
 "grip; SBJ exerts a frictional force on OBJ",,
 "deal",,
@@ -559,7 +560,7 @@ eng,cst,source
 "be pregnant; be pregant; be gregnant; be pegnate; be pregegnant; be prregnant; be pergert; be pergenat; be peegnant; be pgrenant; be pregananant; OBJ is pregnant",,
 "impregnate; inseminate; get pregnant; SBJ (impregnator) impregnates OBJ; (TIME:conception)",,incohative of ""be pregnant""
 "abort; get abortion; SBJ (aborter) gives OBJ an abortion (TIME:abortion)",,cessative of ""be pregnant""
-"give birth; get born; SBJ (biological mother) gives birth to OBJ (offspring; biological child; newborn) by IND (biological father)'s seed (TIME:birth)",mamap,ono mama baba
+"give birth; get born; SBJ (biological mother) gives birth to OBJ (offspring; biological child; newborn) by IND (biological father)'s seed (TIME:birth)",ono [mama baba],mamap
 "kill",,
 "prosper; well; good; OBJ is doing well",,
 "excuse; pardon; SBJ excuses OBJ",,
@@ -570,15 +571,15 @@ eng,cst,source
 "lazy",,
 "creep out; OBJ (creeped out) finds IND (creepy; creeper) creepy",,
 "sleep",,
-"laugh; SBJ (laugher) laughs",hahjak,ono ha ha
-"burp; belch; SBJ (burper) burps",kolojp,ono korop
-"fart; flatulate; SBJ (farter) farts",putiwt,ono pʰut
-"sneeze; SBJ (sneezer) sneezes",hacujc,ono haˈt͡ʃuh
-"yawn; SBJ (yawner) yawn",heaws,ono ˈhaː.aː
-"hiccup; SBJ (cursed with hiccups) hiccups",hikjok,ono hik
-"cough; SBJ (cougher) coughs",kahawk,ono ʡah
-"kiss; snog; make out; SBJ (kisser) kisses OBJ (kissee)",mwap,ono mwa
-"swallow; suck; consume whole; SBJ (swallower) swallows OBJ (swallowed)",kulawp,ono glup glup
+"laugh; SBJ (laugher) laughs",ono [ha ha],hahjak
+"burp; belch; SBJ (burper) burps",ono [korop],kolojp
+"fart; flatulate; SBJ (farter) farts",ono [pʰut],putiwt
+"sneeze; SBJ (sneezer) sneezes",ono [haˈt͡ʃuh],hacujc
+"yawn; SBJ (yawner) yawn",ono [ˈhaː.aː],heaws
+"hiccup; SBJ (cursed with hiccups) hiccups",ono [hik],hikjok
+"cough; SBJ (cougher) coughs",ono [ʡah],kahawk
+"kiss; snog; make out; SBJ (kisser) kisses OBJ (kissee)",ono [mwa],mwap
+"swallow; suck; consume whole; SBJ (swallower) swallows OBJ (swallowed)",ono [glup glup],kulawp
 "have sex; fuck; bang; nail; do; plow; ride",,
 "feel; SBJ feels OBJ (emotion)",,
 "apathetic",,

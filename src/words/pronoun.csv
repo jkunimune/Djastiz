@@ -1,10 +1,10 @@
 eng,cst,source
 "which; that; relative",l,
 "what; what kind; interrogative",kin,kinãː
-"something; one; impersonal; a noun not afformentioned",una,spa una
+"something; one; impersonal; a noun not afformentioned",spa <TODO> [una],una
 "me; first person; proximal; the speaker (GENITIVE:my; mine)",men,pan
 "you; second person; the listener (GENITIVE:your; yours)",pon,opposite of ""men""
-"it; her; him; them; the; that; there; then; third person; anaphora; determinate; distal demonstrative; a previously mentioned noun phrase that is neither the speaker nor listener (GENITIVE:its; her; hers; his; their; that's)",tajn,ara tajnika
+"it; her; him; them; the; that; there; then; third person; anaphora; determinate; distal demonstrative; a previously mentioned noun phrase that is neither the speaker nor listener (GENITIVE:its; her; hers; his; their; that's)",ara <TODO> [tajnika],tajn
 "this; here; now; proximal demonstrative; origo; associated with the time and place of the utterance (GENITIVE:this's)",lawn,opposite of ""it""
 "itself; herself; himself; themselves; myself; yourself; ourselves; yourselves; reflexive; a noun phrase mentioned previously in this sentence (GENITIVE:its own; her own; his own; their own; my own; your own; our own; your own)",,
 "next; positive temporal demonstrative",,

@@ -181,6 +181,8 @@ complement-phrase ::=  noun-phrase | clause-phrase
    Substance-rule : No phrase may be empty.
    Trail-off-rule : Any number of words can be removed from the start and end of a sentence as long as the meaning remains clear.
 
+This may seem confusing to those more familiar with word-order-based systems, but the reliance on postpositions alone decreases the number of patterns and greatly simplifies the grammar overall. It can also be considered equivalent to many case systems.
+
 ### Mood markers
 
 A tense marker gives the general purpose of a sentence. It is the first thing in the sentence. There are ten tense markers, and each creates a fundamentally different kind of communication.
