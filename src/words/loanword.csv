@@ -16,110 +16,109 @@ eng,source,ltl
 "k; /k/; velar plosive",ono [k],'ko
 "t; /t/; alveolar plosive",ono [t],'ta
 "p; /p/; bilabial plosive",ono [p],'pe
-"Arabic; the language",ara <TODO> [ˈʕarabiː],'halapi
-"Bengali; the language",ben <TODO> [ˈbaŋla],'panla
-"Chichewa; the language",nya <TODO> [t͡ʃit͡ʃewa],'cicewa
-"Chinese; the macrolanguage",cmn <TODO> [t͡ʂʊŋ˥wən˧˥],'cunwan
-"English; the language",eng <english> [ˈiŋglɪʃ],'inkelic
-"Esperanto; the language",epo <esperanto> [espeˈranto],'espelanto
-"French; the language",fra <TODO> [fʁɑ̃sɛ],'afhanse
-"German; the language",deu <deutsch> [dɔʏ̯t͡ʃ],'tojc
-"Hausa; the language",hau <TODO> [haɽʃen hausa],'halcenhausa
-"Hawaiian; the language",haw <ʻolelo hawaiʻi> [ʔoːˈlɛlo həˈvɐjʔi],'olelohawaji
-"Hindi; the language",hin <TODO> [ɦind̪iː],'hinti
-"Ido; the language",ido <ido> [ˈido],'ito
-"Igbo; the language",ibo <TODO> [a˦sʊ˨sʊ˨ ɪ˨ɡ͡b˨ː],'asusuikpo
-"Interlingua; the language",ina <TODO> [inteɾˈliŋɡwa],'intelinjwa
-"Italian; the language",ita <TODO> [itaˈljaːno],'italjano
-"Japanese; the language",jpn <日本語> [ɲihoŋɡo],'nihonko
-"Javanese; the language",jav <TODO> [tjɔrɔ d͡ʒɔwɔ],'tjolocowo
-"Korean; the language",kor <TODO> [haːnɡuɡʌ],'hankuka
-"Latin; the language",lat <lingua latina> [ˈlɪŋɡʷa laˈtiːna],'linkwalatina
-"Lingua Franka Nova; the language",lfn <elefen> [elefen],'elefen
-"Lojban; the language",ljb <lojban> [ˈloʒban],'locpan
-"Malay; the language",msa <TODO> [bahasə melaju],'pahasamelaju
-"Standard Mandarin Chinese; the language",cmn <TODO> [xan˥˩y˨˩˦],'hanu
-"Marathi; the language",mar <TODO> [məˈɾaʈʰi],'malati
-"Neo Patwa; the language",npt <neo patwa> [neˈo paˈtwa],'neopatwa
-"Persian; the language",fas <TODO> [fɒːɾˈsiː],'folsi
-"Portuguese; the language",por <TODO> [poʁtuˈɡes],'pohtukes
-"Punjabi; the language",pan <TODO> [pə̃d͡ʒɑːbiː],'pancapi
-"Russian; the language",rus <TODO> [ˈruskʲɪj jɪˈzɨk],'luskjiisik
-"Shona; the language",sna <TODO> [t͡ʃiʃona],'cicona
-"Sotho; the language",sot <TODO> [sɪ˨sʊ˦tʰʊ˨],'sisutu
-"Southern Min Chinese; the language",nan <TODO> [ho˧lo˧˥we˧],'holowe
-"Spanish; the language",spa <español> [espaˈɲol],'espanjol
-"Swahili; the language",swa <TODO> [swahili],'swahili
-"Tamil; the language",tam <TODO> [t̪ɐmɨɻ],'tamil
-"Telugu; the language",tel <TODO> [t̪el̪uɡu],'teluku
-"Thai; the language",tha <TODO> [pʰaː˧saː˩˦ tʰaj˧],'pasataj
-"Toki Pona; the language",tkp <toki pona> [ˈtoki ˈpona],'tokipona
-"Turkish; the language",tur <TODO> [ˈtyɾct͡ʃe],'tulce
-"Urdu; the language",urd <TODO> [ˈʊrd̪uː],'ultu
-"Vietnamese; the language",vie <TODO> [tiə̯ŋ˧˥ viɜ̯ʔt˧˨],'tianfiat
-"Wu Chinese; the language",wuu <TODO> [ɦu˨ ɲy˦],'hunju
-"Xhosa; the language",xho <TODO> [i˨si˨kǁʰɔː˦sa˨],'isiklosa
-"Yoruba; the language",yor <TODO> [e˨de˨ jo˧ɾu˨ba˦],'etejolupa
-"Yue Chinese; Cantonese; the language",yue <TODO> [jyːt̚˧˥],'jut
-"Zulu; the language",zul <TODO> [isiˈzuːlu],'isisulu
-"The World Wide Web; The Internet; The Cloud",eng <internet> [ˈɪntɹ̩ˌnɛt],'intanet
-"The Atlantic Ocean; the ocean",por <TODO> [oseˈɐno atˈlɐnt͡ʃiko],'atlantiko
-"The Indian Ocean; the ocean",mlg <TODO> [oˈseana iⁿdiˈanina],'intianina
-"The Pacific Ocean; the ocean",jpn <太平洋> [taihɛːjɔː],'taihejo
-"The Arabian Sea; the sea",,
+"Arabic; the language (GENITIVE:Arabic)",ara <العَرَبِيَّة‎> [ˈʕarabiː],'halapi
+"Bengali; the language (GENITIVE:Bengali)",ben <বাংলা> [ˈbaŋla],'panla
+"Chichewa; the language; (GENITIVE:Chichewa)",nya <Chichewa> [t͡ʃit͡ʃewa],'cicewa
+"Chinese; the macrolanguage (GENITIVE:Chinese)",cmn <中文> [t͡ʂʊŋ˥wən˧˥],'cunwan
+"English; the language; (GENITIVE:English)",eng <English> [ˈiŋglɪʃ],'inkelic
+"Esperanto; the language (GENITIVE:Esperanto)",epo <Esperanto> [espeˈranto],'espelanto
+"French; the language (GENITIVE:French)",fra <français> [fʁɑ̃sɛ],'afhanse
+"German; the language (GENITIVE:German)",deu <Deutsch> [dɔʏ̯t͡ʃ],'tojc
+"Hausa; the language (GENITIVE:Hausa)",hau <هَرْشَن هَوْسَ‬> [haɽʃen hausa],'halcenhausa
+"Hawaiian; the language (GENITIVE:Hawaiian)",haw <ʻŌlelo Hawaiʻi> [ʔoːˈlɛlo həˈvɐjʔi],'olelohawaji
+"Hindi; the language (GENITIVE:Hindi)",hin <हिन्दी> [ɦind̪iː],'hinti
+"Ido; the language (GENITIVE:Ido)",ido <Ido> [ˈido],'ito
+"Igbo; the language (GENITIVE:Igbo)",ibo <Ásụ̀sụ̀ Ị̀gbò> [a˦sʊ˨sʊ˨ ɪ˨ɡ͡b˨ː],'asusuikpo
+"Interlingua; the language (GENITIVE:Interlingua)",ina <Interlingua> [inteɾˈliŋɡwa],'intelinjwa
+"Italian; the language (GENITIVE:Italian)",ita <italiano> [itaˈljaːno],'italjano
+"Japanese; the language (GENITIVE:Japanese)",jpn <日本語> [ɲihoŋɡo],'nihonko
+"Javanese; the language (GENITIVE:Javanese)",jav <ꦧꦱꦗꦮ> [tjɔrɔ d͡ʒɔwɔ],'tjolocowo
+"Korean; the language (GENIVITE:Korean)",kor <한국어> [haːnɡuɡʌ],'hankuka
+"Latin; the language (GENIVITE:Latin)",lat <lingua latīna> [ˈlɪŋɡʷa laˈtiːna],'linkwalatina
+"Lingua Franca Nova; Elefen; the language (GENITIVE:Lingua Franca Nova)",lfn <Elefen> [elefen],'elefen
+"Lojban; the language (GENITIVE:Lojban)",ljb <la .lojban.> [laʔˈloʒbanʔ],'lalocpan
+"Malay; the language (GENITIVE:Malay)",msa <بهاس ملايو> [bahasə melaju],'pahasamelaju
+"Standard Mandarin Chinese; the language (GENITIVE:Mandarin)",cmn <官話> [xan˥˩y˨˩˦],'hanu
+"Marathi; the language (GENITIVE:Marathi)",mar <मराठी> [məˈɾaʈʰi],'malati
+"Neo Patwa; the language (GENITIVE:Neo Patwa)",npt <Neo Patwa> [neˈo paˈtwa],'neopatwa
+"Persian; the language (GENITIVE:Persian)",fas <فارسی> [fɒːɾˈsiː],'folsi
+"Portuguese; the language (GENITIVE:Portuguese)",por <português> [poʁtuˈɡes],'pohtukes
+"Punjabi; the language (GENITIVE:Punjabi)",pan <ਪੰਜਾਬੀ> [pə̃d͡ʒɑːbiː],'pancapi
+"Russian; the language (GENITIVE:Russian)",rus <ру́сский язы́к> [ˈruskʲɪj jɪˈzɨk],'luskjisik
+"Shona; the language (GENITIVE:Shona)",sna <chiShona> [t͡ʃiʃona],'cicona
+"Sotho; the language (GENITIVE:Sotho)",sot <Sesotho> [sɪ˨sʊ˦tʰʊ˨],'sisutu
+"Southern Min Chinese; the language (GENITIVE:Southern Min)",nan <閩南語> [ho˧lo˧˥we˧],'holowe
+"Spanish; the language (GENITIVE:Spanish)",spa <español> [espaˈɲol],'espanjol
+"Swahili; the language (GENITIVE:Swahili)",swa <Kiswahili> [kiswahili],'kiswahili
+"Tamil; the language (GENITIVE:Tamil)",tam <தமிழ்> [t̪ɐmɨɻ],'tamil
+"Telugu; the language (GENITIVE:Telugu)",tel <తెలుగు> [t̪el̪uɡu],'teluku
+"Thai; the language (GENITIVE:Thai)",tha <ภาษาไทย> [pʰaː˧saː˩˦ tʰaj˧],'pasataj
+"Toki Pona; the language (GENITIVE:Toki Pona)",tkp <toki pona> [ˈtoki ˈpona],'tokipona
+"Turkish; the language (GENITIVE:Turkish)",tur <Türkçe> [ˈtyɾct͡ʃe],'tulce
+"Urdu; the language (GENITIVE:Urdu)",urd <اُردُو‬‎> [ˈʊrd̪uː],'ultu
+"Vietnamese; the language (GENITIVE:Vietnamese)",vie <Tiếng Việt> [tiə̯ŋ˧˥ viɜ̯ʔt˧˨],'tianfiat
+"Wu Chinese; the language (GENITIVE:Wu)",wuu <吳語> [ɦu˨ ɲy˦],'hunju
+"Xhosa; the language (GENITIVE:Xhosa)",xho <isiXhosa> [i˨si˨kǁʰɔː˦sa˨],'isiklosa
+"Yoruba; the language (GENITIVE:Yoruba)",yor <èdè Yorùbá> [e˨de˨ jo˧ɾu˨ba˦],'etejolupa
+"Yue Chinese; Cantonese; the language (GENITIVE:Yue)",yue <粵語> [jyːt̚˧˥],'jut
+"Zulu; the language (GENITIVE:Zulu)",zul <isiZulu> [isiˈzuːlu],'isisulu
+"The World Wide Web; The Internet; The Cloud (GENITIVE:Internet; cloud; cyber)",eng <Internet> [ˈɪntɹ̩ˌnɛt],'intanet
+"The Atlantic Ocean; the ocean (GENITIVE:Atlantic)",por <oceano Atlântico> [oseˈɐno atˈlɐnt͡ʃiko],'atlantiko
+"The Indian Ocean; the ocean (GENITIVE:Indian)",mlg <Oseana Indiana> [oˈseana iⁿdiˈanina],'intianina
+"The Pacific Ocean; the ocean (GENITIVE:Pacific)",jpn <太平洋> [taihɛːjɔː],'taihejo
+"The Arabian Sea; the sea (GENITIVE:Arabian)",,
 "The Bering Sea; the sea",,
 "The Caribbean Sea; the sea",eng <Caribbean sea> [kəˈɹʷɪbiən siː],'kalipean
 "The Coral Sea; the sea",,
 "The Gulf of Mexico; the sea",,
-"The Mediterranean Sea; the sea",lat <Mare Mediterraneum> [ˈmarɛ mɛdɪtɛrˈraːneũ],'metitelanjum
+"The Mediterranean Sea; the sea",lat <Mare Mediterrāneum> [ˈmarɛ mɛdɪtɛrˈraːneũ],'metitelanjum
 "The South China Sea",,
-"Afro-Eurasia; the landmass",,
-"America; the landmass",spa <Las Americas> [las aˈmeɾikas],'lasamelikas
+"America; the landmass",spa <Las Américas> [las aˈmeɾikas],'lasamelikas
 "Africa; the continent",,
 "North America; the continent",eng <North America> [nɔɹθ əˈmɛɹʷɪkə],'notamelika
-"South America; the continent",por <America do Sul> [aˈmɛɾika du sul],'sulamelika
-"Antarctica; the landmass; the continent",eng <Antarctica> [ˌænˈtɑːktɪkə],'antaktika
-"Eurasia; the continent",rus <TODO> [jɪˈvrazʲɪjə],'jewlasja
+"South America; the continent",por <América do Sul> [aˈmɛɾika du sul],'sulamelika
+"Antarctica; the landmass; the continent",eng <Antarctica> [ænˈtɑːktɪkə],'antaktika
+"Eurasia; the continent (GENITIVE:Eurasian)",rus <Евразия> [jɪˈvrazʲɪjə],'jelasja
 "Oceania; the continent",,
 "North Africa; the subcontinent",,
 "Sub-Saharan Africa; the subcontinent",,
 "Central America; the subcontinent",,
 "The Arctic; the subcontinent",,
-"Central Asia; the subcontinent",,
-"Eastern Asia; the subcontinent",,
-"South Asia; the subcontinent",,
-"Europe; the subcontinent",,
-"Middle East; the subcontinent",,
+"Central Asia; the subcontinent (GENITIVE:central asian)",,
+"Far East; the subcontinent (GENITIVE:eastern Asian)",,
+"South Asia; the subcontinent (GENITIVE:Indian)",,
+"Europe; the subcontinent (GENITIVE:European)",,
+"Middle East; the subcontinent (GENITIVE:Middle Eastern)",,
 "US-Canada; the subcontinent",,
-"Afghanistan; the country",prs <TODO> [avɣɒnestɒn],'afhaniston
-"South Africa; the country",xho <TODO> [umz̤ant͡sʼi],'umsansi
-"Albania; the country",alb <TODO> [ʃcipəɾi],'ickipali
-"Algeria; the country",ara <TODO> [ald͡ʒazaːʔir],'alcasail
-"Andorra; the country",cat <TODO> [andɔra],'antola
-"Angola; the country",por <TODO> [ɐ̃ɡɔlɐ],'ankola
+"Afghanistan; the country (GENITIVE:Afghan)",prs <افغانستان‬> [avɣɒnestɒn],'afhaniston
+"South Africa; the country (GENITIVE:South African)",xho <Mzansi> [m̩z̤ansi],'musansi
+"Albania; the country",alb <Shqipëri> [ʃcipəɾi],'ickipali
+"Algeria; the country",ara <الجزائر‎> [d͡ʒazaːʔir],'casail
+"Andorra; the country",cat <Andorra> [ənˈdorə],'antola
+"Angola; the country",por <Angola> [ɐ̃ˈɡɔlɐ],'ankola
 "Antigua and Barbuda; the country",eng <Antigua and Barbuda> [æntiːɡə ən bɑːbjuːdə],'antikapapjuta
 "Argentina; the country",spa <Argentina> [aɾxenˈtina],alhentina
-"Armenia; the country",hye <TODO> [hɑjɑstɑn],'hajastan
+"Armenia; the country",hye <Հայաստան> [hɑjɑsˈtɑn],'hajastan
 "Australia; the landmass; the country",eng <Australia> [əˈstɹʷæɪ̯ljə],'astwajlja
-"Austria; the country",deu <TODO> [øːstɐʁaɪç],'ewstahaic
-"Azerbaijan; the country",asalpajcan,ɑzæɾbɑjd͡ʒɑn
+"Austria; the country",deu <Österreich> [ˈøːstɐraɪç],'ewstahaic
+"Azerbaijan; the country",aze <Azərbaycan> [ɑːzæɾbɑjˈd͡ʒɑn],asalpajcan
 "The Bahamas; the country",eng <Bahamas> [bəˈhɑːməz],'pahamas
-"Bahrain; the country",ara <TODO> [albaħrajn],'alpahlajn
-"Bangladesh; the country",ben <TODO> [baŋlad̪eʃ],'panlatec
-"Barbados; the country",bjs <TODO> [bɑːɹˈbeɪ̯dɒs],'papejtos
-"Belarus; the country",bel <TODO> [bʲɛlarusʲ],'pjelalus
-"Belgium; the country",nld <TODO> [bɛlɣijə],'pelkia
+"Bahrain; the country",ara <البحرين‎> [baħrajn],'pahlajn
+"Bangladesh; the country",ben <বাংলাদেশ> [ˈbaŋlad̪eʃ],'panlatec
+"Barbados; the country",bjs <Barbados> [bɑːɹˈbeɪ̯dɒs],'papejtos
+"Belarus; the country",bel <Biełaruś> [bʲɛlarusʲ],'pjelalus
+"Belgium; the country",nld <België> [bɛlɣijə],'pelkia
 "Belize; the country",eng <Belize> [bəˈliːz],'palis
-"Benin; the country",fra <TODO> [benɛ̃],'penen
-"Bhutan; the country",dzo <TODO> [ʈ͡ʂuk˩˧ˀjyː˥],'cukju
+"Benin; the country",fra <Bénin> [benɛ̃],'penen
+"Bhutan; the country",dzo <འབྲུག་ཡུལ་> [ʈ͡ʂuk˩˧ˀjyː˥],'cukju
 "Bolivia; the country",spa <Bolivia> [boˈliβja],'polipja
-"Bosnia and Herzegovina; the country",hrv [bosna xert͡seɡoʋina],'posnahelsekowina
-"Botswana; the country",tsn <TODO> [bʊt͡swana],'putswana
-"Brazil; the country",por <TODO> [bɾaˈziw],'palasiw
-"Brunei; the country",kxd <TODO> [brunai],'pulunai
-"Bulgaria; the country",bul <TODO> [bɐɫˈɡarijɐ],'palkalia
-"Burkina Faso; the country",mos <TODO> [burkina faso],'pulkinafaso
-"Burundi; the country",run <TODO> [buɾantidi],'pulantiti
+"Bosnia and Herzegovina; the country",hrv <Bosna> [bosna],'posna
+"Botswana; the country",tsn <Botswana> [bʊt͡swana],'putswana
+"Brazil; the country",por <Brasil> [bɾaˈziw],'palasiw
+"Brunei; the country",kxd <بروني> [brunai],'pulunai
+"Bulgaria; the country",bul <България> [bɐɫˈɡarijɐ],'palkalia
+"Burkina Faso; the country",fra <Burkina Faso> [buʁkina faso],'puhkinafaso
+"Burundi; the country",run <Burundi> [buˈɾundi],'pulantiti
 "Cambodia; the country",khm <TODO> [kɑmpuciə],'kampukia
 "Cameroon; the country",fra <TODO> [kamʁun],'kamhun
 "Canada; the country",eng <Canada> [ˈkænədə],'kanata
@@ -173,7 +172,7 @@ eng,source,ltl
 "India; the country",hin <TODO> [bʱaːrət̪],'palat
 "Indonesia; the country",ind <TODO> [ɪndonesia],'intonesia
 "Iran; the country",fas <TODO> [ʔiːɾɒːn],'ilan
-"Iraq; the country",ara <TODO> [alʕiraːq],'alilak
+"Iraq; the country",ara <TODO> [ʕiraːq],'ilak
 "Ireland; the country",eng <Ireland> [ˈaɪ̯əɹlənd],'ajalan
 "Northern Ireland; the country",gle <TODO> [ˈt̪ˠuəʃcəɾˠt̪ˠ ˈeːɾʲən̪ˠ],'tuackjaltaeljan
 "Israel; the country",heb <TODO> [jisʁael],'jishael
@@ -181,13 +180,13 @@ eng,source,ltl
 "Ivory Coast; the country",fra <TODO> [kot divwaʁ],'kotifwah
 "Jamaica; the country",jam <TODO> [d͡ʒʊmiɛka],'cumieka
 "Japan; the country",jpn <日本> [ɲihoɴ],'nihon
-"Jordan; the country",ara <TODO> [alʔurdunn],'alultun
+"Jordan; the country",ara <TODO> [ʔurdunn],'ultun
 "Kazakhstan; the country",kaz <TODO> [qɑzɑqstɑn],'kasakastan
 "Kenya; the country",swa <TODO> [kɛɲɑ],'kenja
 "Kiribati; the country",gil <TODO> [kiɾipas],'kilipas
 "North Korea; the country",kor <TODO> [pukt͡ɕosʰʌn],'pukcosan
 "South Korea; the country",kor <TODO> [namɦan],'namhan
-"Kuwait; the country",ara <TODO> [alkuwajt],'alkuajt
+"Kuwait; the country",ara <TODO> [kuwajt],'kuajt
 "Kyrgyzstan; the country",kir <TODO> [qɯrʁɯsstɑn],'kulhustan
 "Laos; the country",lao <TODO> [laːw˦˥],'law
 "Latvia; the country",lav <TODO> [latvia],'latfia
@@ -214,7 +213,7 @@ eng,source,ltl
 "Monaco; the country",fra <TODO> [mɔnako],'monako
 "Mongolia; the country",mon <TODO> [mɔŋɢɔɮ ʊɮs],'monkosluslus
 "Montenegro; the country",cnr <TODO> [t͡sr̩ːnaː ɡɔra],'selnakola
-"Morocco; the country",ara <TODO> [almaʁrib],'almahlip
+"Morocco; the country",ara <TODO> [maʁrib],'mahlip
 "Mozambique; the country",por <TODO> [musɐ̃bikɨ],'musanpiki
 "Myanmar; Burma; the country",mya <TODO> [mjəma˩],'mjama
 "Namibia; the country",ndo <TODO> [naˈmibia],'namipia
@@ -280,7 +279,7 @@ eng,source,ltl
 "Tuvalu; the country",tvl <TODO> [tuːvalu],'tufalu
 "Uganda; the country",lug <TODO> [jugaːnda],'jukanta
 "Ukraine; the country",ukr <TODO> [ukrɑjinɑ],'uklajina
-"United Arab Emirates; the country",ara <TODO> [alʔimaːraːt],'alimalat
+"United Arab Emirates; the country",ara <TODO> [ʔimaːraːt],'imalat
 "United Kingdom; the country",eng <U.K.> [juː kʰeɪ̯],'jukej
 "United States; the country",eng <U.S.A.> [juː ɛs eɪ̯],'juesej
 "Uruguay; the country",spa <Uruguay> [uɾuˈɣaj],'ulukwaj
@@ -290,7 +289,7 @@ eng,source,ltl
 "Venezuela; the country",spa <Venezuela> [beneˈswela],'peneswela
 "Vietnam; the country",vie <TODO> [viɜʔt˧˨ʔnaːm˧],'fiatnam
 "Wales; the country",cym <TODO> [ˈkəmri],'kamli
-"Yemen; the country",ara <TODO> [aljaman],'aljaman
+"Yemen; the country",ara <TODO> [jaman],'jaman
 "Zambia; the country",eng <Zambia> [ˈzæmbiə],'sampia
 "Zimbabwe; the country",sna <TODO> [zimbabwe],'simpapwe
 "Abkhazia; the disputed territory",abk <TODO> [apʰsˈnɨ],'apseni
@@ -306,7 +305,7 @@ eng,source,ltl
 "Białystok; the city",pol <TODO> [bʲaˈwɨstɔk],'pjawistok
 "Brussels; the city",fra <TODO> [ˈbʁysɛl vil],'puhuselfil
 "Buenos Aires; the city",spa <Buenos Aires> [ˈbwenos ˈajɾes],'pwenosajles
-"Cairo; the city",ara <TODO> [al ˈqaːhiɾah],'alkahilah
+"Cairo; the city",ara <TODO> [ˈqaːhiɾah],'kahilah
 "Chengdu; the city",cmn <TODO> [ʈ͡ʂʰə˧˥ŋtu˥],'cantu
 "Chongquing; the city",cmn <TODO> [ʈ͡ʂʰʊŋ˧˥t͡ɕʰi˥˩ŋ],'cuncin
 "Delhi; the city",hin <TODO> [dɪlliː],'tili
@@ -338,7 +337,7 @@ eng,source,ltl
 "Eastern Orthodoxy; the sect",ell <TODO> [anatoliˈki orθoðoˈksia],'anatolikiolsosoksia
 "Han Folk Religion; the belief system",cmn <TODO> [t͡sʊŋ˥ʈ͡ʂjaw˥˩],'suncjaw
 "Hinduism; the religion",hin <TODO> [ɦɪnduː dʱɑːɾm],'hintutam
-"Islam; the religion",ara <TODO> [alʔɪsˈlaːm],'alislam
+"Islam; the religion",ara <TODO> [ʔɪsˈlaːm],'islam
 "Jainism; the religion",hin <TODO> [d͡ʒɛːn dʱɑːɾm],'centam
 "Judaism; the religion",heb <TODO> [jehuˈda],'jehuta
 "Protestantism; the sect",deu <TODO> [ˌpʀ̥otɛstanˈtɪsmʊs],'potestantismus

@@ -1,11 +1,11 @@
 eng,source,ltl
 "0; zero (GENITIVE:zeroth)",cmn <TODO> [liŋ˧˥],lin
-"1; one; single (GENITIVE:first; unit)",yor <TODO> [okan],kan
-"2; two; double (GENITIVE:second; binary)",cmn <TODO> [ɤ˞˥˩],hal
-"3; three; triple (GENITIVE:third)",mar <TODO> [tiːnə],tin
-"4; four; quadruple (GENITIVE:fourth)",hin <TODO> [t͡ɕʰaɾ],cal
-"5; five (GENITIVE:fifth)",eng <five> [faɪ̯v],fif
-"6; six (GENITIVE:sixth; seximal)",yor <TODO> [mefa],mef
+"1; one; single (GENITIVE:first; single; unit)",yor <TODO> [okan],kan
+"2; two; double (GENITIVE:second; double; binary)",cmn <TODO> [ɤ˞˥˩],hal
+"3; three; triple (GENITIVE:third; triple)",mar <TODO> [tiːnə],tin
+"4; four; quadruple (GENITIVE:fourth; quadruple)",hin <TODO> [t͡ɕʰaɾ],cal
+"5; five (GENITIVE:fifth; quintuple)",eng <five> [faɪ̯v],fif
+"6; six (GENITIVE:sixth; senary)",yor <TODO> [mefa],mef
 "7; seven (GENITIVE:seventh)",swa <TODO> [saba],saf
 "8; eight (GENITIVE:eighth; octal)",cmn <TODO> [pa˥],pah
 "9; nine (GENITIVE:ninth)",spa <nueve> [ˈnweβe],nof
