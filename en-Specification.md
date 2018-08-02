@@ -23,7 +23,7 @@ Before you read any further, you'll need to know how to read, say, and write the
 
 If you don't know what any of that means, don't worry about it. Here is a more thorough table. Note that in addition to a name and a symbol, each letter has a "Recommended Pronunciation" and several "Possible Pronunciations". The possible pronunciations are just allowed variations on each sound for people who don't have the recommended pronunciation in their native tongue. You speak English, so you pretty much have all of the recommended pronunciations down, so just know that you might hear people of different backgrounds using some slightly different pronunciations of each letter. The "Inverse" and "Class" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
 
-| Name | Symbol | Rec. Pron. | Pos. Prons. | English example | Inverse | Class
+| Name | Symbol | Rec. Pron. | Pos. Prons. | English | Inverse | Class
 |------|--------|------------|-------------|-----------------|---------|-------
 |   e  |   e    |     ɛ      |    e\~ɛ     |      End        |    o    | Vowel
 |   a  |   a    |     a      |    a\~ɑ     |      Off        |    a    | Vowel
@@ -45,7 +45,7 @@ If you don't know what any of that means, don't worry about it. Here is a more t
 
 You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
-Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Chatisun alphabet. The Chatisun alphabet does not include <b>, <d>, <g>, <q>, <r>, <v>, <x>, <y>, <z>, or any capital letters, so none of these should be present in a Chatisun text. It is acceptable to use all capital letters in lieu of lowercase letters as a stylistic choice, but if you do so, I recommend using a font where <E>, <A>, <N>, and <H> are easily recognisable from their lowercase counterparts, lest the text be indescipherable to some Chatisun-speakers.
+Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Chatisun alphabet. The Chatisun alphabet does not include <b>, <d>, <g>, <q>, <r>, <v>, <x>, <y>, <z>, or any capital letters, so none of these should be present in Chatisun text. It is acceptable to use capital letters in lieu of lowercase letters as a stylistic choice, but if you do so, I recommend using a font where <E>, <A>, <N>, and <H> are easily recognisable from their lowercase counterparts, lest the text be indescipherable to some Chatisun-speakers.
 
 [1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
 
@@ -168,18 +168,18 @@ One more difference between location description in English and Djastiz is the t
 
 ## Grammar
 
-The grammar of Chastisun is designed to be as simple as possible while enabling speakers to be either simple and vague or exact and precise at will. It can be summed up in the following way.
-             sentence ::=  clause-phrase | (sentence-particle.simple noun-phrase)
-    clause-phrase ::= (sentence-particle)? (postpos-phrase)\* (verb-phrase (postpos-phrase)\*)?
-   postpos-phrase ::=  complement-phrase postposition
-complement-phrase ::=  noun-phrase | clause-phrase
-      noun-phrase ::= (qualifier | number)? (noun | pronoun | relative-phrase | complement-phrase ⟨in⟩ | noun-phrase)\*
-      verb-phrase ::=  verb (verb.auxiliary)\*
-  relative-phrase ::= \[sentence-particle\] (postpos-phrase)\* \[verb-phrase (postpos-phrase)\*\] \["l" postposition\]
-           number ::= (number ⟨imal⟩)? ⟨neg⟩? (digit)* (⟨paw⟩ number)?
-         X-phrase ::= "bo"? X-phrase "an" X-phrase
+The grammar of Chastisun is designed to be as simple as possible while enabling speakers to be either simple and vague or exact and precise at will. It can be summed up in the following Backus-Nur form.
+         sentence ::= \[sentence-particle\] postposit-phrase\* \[verb-phrase postposit-phrase\*\]
+ postposit-phrase ::= (noun-phrase | sentence) postposition
+      noun-phrase ::= \[qualifier | number\] (noun | pronoun | relative-phrase | noun-phrase)\*
+      verb-phrase ::= verb+
+  relative-phrase ::= postposit-phrase\* \[verb-phrase postpos-phrase\*\] \["l" postposition\]
+           number ::= \[number "imal"\] \[\[neg\] digit+\] \["ljo" number\]
+         X-phrase ::= \[qualifier | number\] \["bo"\] X-phrase ("ha" X-phrase)\+
    Substance-rule : No phrase may be empty.
    Trail-off-rule : Any number of words can be removed from the start and end of a sentence as long as the meaning remains clear.
+
+If you don't know what any of that means, don't worry. Each type of phrase is described more explicitly in the following sections.
 
 This may seem confusing to those more familiar with word-order-based systems, but the reliance on postpositions alone decreases the number of patterns and greatly simplifies the grammar overall. It can also be considered equivalent to many case systems.
 
