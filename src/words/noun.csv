@@ -1,4 +1,4 @@
-eng,cst,source
+eng,source,ltl
 "notion; idea; not necessarily true or objective (GENITIVE:conceptual; ideal)",,
 "point; a particular time or place (GENITIVE:particular; local)",,
 "path; line; curve (GENITIVE:linear; curvilinear)",,
@@ -7,29 +7,29 @@ eng,cst,source
 "network; net; web; system (GENITIVE:web)",,
 "hole; hallway; tube; gap (GENITIVE:holey)",,
 "person; woman; man; human (GENITIVE:personal; humanistic)",,
-"personify; humanise; anthropomorphise",,incohative of ""person""
-"beast; non-human animal (GENITIVE:beastial; animalistic)",,opposite of ""person""
-"beastify",,incohative of ""beast""
+"personify; humanise; anthropomorphise",incohative of ""person"",
+"beast; non-human animal (GENITIVE:beastial; animalistic)",opposite of ""person"",
+"beastify",incohative of ""beast"",
 "baby (GENITIVE:infantile)",ono [guː gaː],kukam
-"babify; SBJ turns OBJ into a baby",,incohative of ""baby""
+"babify; SBJ turns OBJ into a baby",incohative of ""baby"",
 "adult (GENITIVE:adult)",,
-"adolescent; youth; kid (GENITIVE:juvenile)",,opposite of ""adult""
-"senior citizen; elder; a _really_ old person (GENITIVE:elder)",,opposite of ""baby""
-"age; shrivel; SBJ turns OBJ into a really old person",,incohavite of ""senior citizen""
+"adolescent; youth; kid (GENITIVE:juvenile)",opposite of ""adult"",
+"senior citizen; elder; a _really_ old person (GENITIVE:elder)",opposite of ""baby"",
+"age; shrivel; SBJ turns OBJ into a really old person",incohavite of ""senior citizen"",
 "specialist; personel; qualified (GENITIVE:special; technical)",,
-"specialise; train; qualify; SBJ turns OBJ into a specialist",,incohative of ""specialist""
-"layperson; civilian; customer; member of the public (GENITIVE:popular; general)",,opposite of ""specialist""
+"specialise; train; qualify; SBJ turns OBJ into a specialist",incohative of ""specialist"",
+"layperson; civilian; customer; member of the public (GENITIVE:popular; general)",opposite of ""specialist"",
 "light (GENITIVE:photic; optic)",,
 "god; deity; a general term, not a reference to any particular god (GENITIVE:divine; godly; deific)",,
 "ground; planet (GENITIVE:terrestrial; planetary)",,
-"cosmos; outer space (GENITIVE:cosmic; astral; interstellar)",,opposite of ""ground""
+"cosmos; outer space (GENITIVE:cosmic; astral; interstellar)",opposite of ""ground"",
 "sun; star (GENITIVE:solar; stellar)",,
-"moon; satelite (GENITIVE:lunar)",,opposite of ""sun""
+"moon; satelite (GENITIVE:lunar)",opposite of ""sun"",
 "sea; ocean (GENITIVE:marine; oceanic)",,
-"land; landmass (GENITIVE:terrestrial)",,opposite of ""sea""
+"land; landmass (GENITIVE:terrestrial)",opposite of ""sea"",
 "continent; North America, Eurasia, etc. (GENITIVE:continental)",,
 "mountain (GENITIVE:mountainous; montanical)",,
-"valley (GENITIVE:)",,opposite of ""mountain""
+"valley (GENITIVE:)",opposite of ""mountain"",
 "settlement; city; town; village (GENITIVE:urban; villestial)",,
 "country; state; polity (GENITIVE:national)",,
 "sky; atmosphere; weather; heavens (GENITIVE:celestial; atmospheric; meteorological; aerial)",,
@@ -51,7 +51,7 @@ eng,cst,source
 "gland; organ; node (GENITIVE:glandular; nodal; bodily; internal)",,
 "bodily fluid; bodily substance (GENITIVE:fluidal; bodily)",,
 "vagina; loin; (GENITIVE:vaginal; *female)",,
-"penis; (GENITIVE:penile)",,opposite of ""vagina""
+"penis; (GENITIVE:penile)",opposite of ""vagina"",
 "chest; breast; boob; nipple (GENITIVE:mammillary)",,
 "claw; quill; sharp appendage (GENITIVE:ungual; sharp)",,
 "wing (GENITIVE:alary; avian)",,
