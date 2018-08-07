@@ -1,27 +1,27 @@
 eng,source,ltl
-"0; zero (GENITIVE:zeroth)",cmn <TODO> [liŋ˧˥],lin
-"1; one; single (GENITIVE:first; single; unit)",yor <TODO> [okan],kan
-"2; two; double (GENITIVE:second; double; binary)",cmn <TODO> [ɤ˞˥˩],hal
-"3; three; triple (GENITIVE:third; triple)",mar <TODO> [tiːnə],tin
-"4; four; quadruple (GENITIVE:fourth; quadruple)",hin <TODO> [t͡ɕʰaɾ],cal
-"5; five (GENITIVE:fifth; quintuple)",eng <five> [faɪ̯v],fif
-"6; six (GENITIVE:sixth; senary)",yor <TODO> [mefa],mef
-"7; seven (GENITIVE:seventh)",swa <TODO> [saba],saf
-"8; eight (GENITIVE:eighth; octal)",cmn <TODO> [pa˥],pah
-"9; nine (GENITIVE:ninth)",spa <nueve> [ˈnweβe],nof
-"A; 10; ten; only used for duodecimal and hexadecimal (GENITIVE:tenth; decimal)",nya <TODO> [kʰu˨mi˨],kum
-"B; 11; eleven; only used for duodecimal and hexadecimal (GENITIVE:eleventh)",hin <TODO> [gjɔɾəɦ],kah
-"C; 12; dozen; only used for hexadecimal (GENITIVE:twelfth; duodecimal)",ben <TODO> [bɔro],pol
-"D; 13; baker's dozen; only used for hexadecimal (GENITIVE:thirteenth)",pan <TODO> [t̪eːɾɑːŋ],tel
-"E; 14; fourteen; only used for hexadecimal (GENITIVE:fourteenth)",spa <catorce> [kaˈtoɾse],tol
-"F; 15; fifteen; only used for hexadecimal (GENITIVE:fifteenth)",spa <quince> [ˈkinse],kin
-"G; 16; only used to describe hexadecimal (GENITIVE:sixteenth; hexadecimal)",ben <TODO> [sʰolo],sol
+"0; zero {GENITIVE:zeroth}",cmn <TODO> [liŋ˧˥],lin
+"1; one; single {GENITIVE:first; single; unit}",yor <TODO> [okan],kan
+"2; two; double {GENITIVE:second; double; binary}",cmn <TODO> [ɤ˞˥˩],hal
+"3; three; triple {GENITIVE:third; triple}",mar <TODO> [tiːnə],tin
+"4; four; quadruple {GENITIVE:fourth; quadruple}",hin <TODO> [t͡ɕʰaɾ],cal
+"5; five {GENITIVE:fifth; quintuple}",eng <five> [faɪ̯v],fif
+"6; six {GENITIVE:sixth; senary}",yor <TODO> [mefa],mef
+"7; seven {GENITIVE:seventh}",swa <TODO> [saba],saf
+"8; eight {GENITIVE:eighth; octal}",cmn <TODO> [pa˥],pah
+"9; nine {GENITIVE:ninth}",spa <nueve> [ˈnweβe],nof
+"A; 10; ten; only used for duodecimal and hexadecimal {GENITIVE:tenth; decimal}",nya <TODO> [kʰu˨mi˨],kum
+"B; 11; eleven; only used for duodecimal and hexadecimal {GENITIVE:eleventh}",hin <TODO> [gjɔɾəɦ],kah
+"C; 12; dozen; only used for hexadecimal {GENITIVE:twelfth; duodecimal}",ben <TODO> [bɔro],pol
+"D; 13; baker's dozen; only used for hexadecimal {GENITIVE:thirteenth}",pan <TODO> [t̪eːɾɑːŋ],tel
+"E; 14; fourteen; only used for hexadecimal {GENITIVE:fourteenth}",spa <catorce> [kaˈtoɾse],tol
+"F; 15; fifteen; only used for hexadecimal {GENITIVE:fifteenth}",spa <quince> [ˈkinse],kin
+"G; 16; only used to describe hexadecimal {GENITIVE:sixteenth; hexadecimal}",ben <TODO> [sʰolo],sol
 "much; many",,
 "several; some; few; handful; medium; (1, radix]",,
-"little; few",,opposite of ""much""
-"all; absolute; maximum (GENITIVE:last; final; universal)",tun,opposite of ""zero""
+"little; few",,OPPOSITE OF much
+"all; absolute; maximum {GENITIVE:last; final; universal}",tun,OPPOSITE OF zero
 "point; radix point",eng <point> [pʰoɪ̯nt],pojn
-"×10^ (or ×12^, or whatever depending on the radix)",eng <-llion> [liən],ljo
+"×10^ {or ×12^, or whatever depending on the radix}",eng <-llion> [liən],ljo
 "radix",eng <-imal> [ɪml̩],imal
 "-; minus; negative",,
 "over; division; fraction",,

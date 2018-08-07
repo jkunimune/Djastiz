@@ -15,9 +15,10 @@ With these goals in mind, I developed a language with the following key features
 * Seventeen common phonemes; five vowels and twelve consonants
 * 700 morphemes with thousands of derivatives and compounds
 * Partially self-segregating morphology
-* Completely anlytic morphological typology
-* Left-branching head directionality
-* Active-stative morphosyntanctic alignment
+* Stative verbs in lieu of adjectives
+* Completely anlytic
+* Left-branching
+* Active-stative
 * Postposition-facilitated free word order
 
 ## This repository

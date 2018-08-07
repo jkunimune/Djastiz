@@ -889,17 +889,17 @@
 	</g>
 	<text x="202.111" y="60.633"  class="label-pol label-md">afhaniston</text>
 	<text x="201.365" y="135.353"  class="label-pol label-md">ankola</text>
-	<text x="202.418" y="80"  class="label-pol label-sm">alimalat</text>
+	<text x="202.418" y="80"  class="label-pol label-sm">imalat</text>
 	<text x="47.211" y="131.513"  class="label-pol label-lg">alhentina</text>
 	<text x="349.512" y="33.182"  class="label-pol label-sm">American Samoa (U.S.A.)</text>
-	<text x="316.136" y="117.257"  class="label-pol label-sm">Antarctica</text>
+	<text x="316.136" y="117.257"  class="label-pol label-sm">antaktika</text>
 	<text x="293.337" y="48.836"  class="label-pol label-lg">astwajlja</text>
 	<text x="162.73" y="81.334"  class="label-pol label-sm">ewstahajc</text>
 	<text x="156.318" y="80.269"  class="label-pol label-lg">pelkja</text>
 	<text x="161.2" y="124.955"  class="label-pol label-md">pulkinafaso</text>
 	<text x="221.919" y="46.473"  class="label-pol label-md">panlatec</text>
 	<text x="172.599" y="82.122"  class="label-pol label-sm">palkalja</text>
-	<text x="199.087" y="81.545"  class="label-pol label-sm">alpahlajn</text>
+	<text x="199.087" y="81.545"  class="label-pol label-sm">pahlajn</text>
 	<text x="90.408" y="84.751"  class="label-pol label-sm">pahamas</text>
 	<text x="168.186" y="69.184"  class="label-pol label-sm">pjelalus</text>
 	<text x="68.001" y="125.266"  class="label-pol label-md">polipja</text>
@@ -920,7 +920,7 @@
 	<text x="86.336" y="83.645"  class="label-pol label-md">kupa</text>
 	<text x="159.742" y="78.046"  class="label-pol label-lg">tojclan</text>
 	<text x="158.699" y="71.739"  class="label-pol label-sm">tanmak</text>
-	<text x="160.777" y="107.369"  class="label-pol label-md">alcasail</text>
+	<text x="160.777" y="107.369"  class="label-pol label-md">casail</text>
 	<text x="69.073" y="103.323"  class="label-pol label-md">ekwatol</text>
 	<text x="185.245" y="95.694"  class="label-pol label-lg">masal</text>
 	<text x="199.761" y="99.932"  class="label-pol label-sm">eltala</text>
@@ -942,12 +942,12 @@
 	<text x="217.422" y="57.47"  class="label-pol label-lg">palat</text>
 	<text x="148.151" y="78.255"  class="label-pol label-md">ajalan</text>
 	<text x="196.267" y="72.802"  class="label-pol label-lg">ilan</text>
-	<text x="189.753" y="80.584"  class="label-pol label-md">alilak</text>
+	<text x="189.753" y="80.584"  class="label-pol label-md">ilak</text>
 	<text x="142.64" y="63.649"  class="label-pol label-md">istilan</text>
 	<text x="185.416" y="88.288"  class="label-pol label-sm">jishael</text>
 	<text x="164.366" y="88.429"  class="label-pol label-lg">italja</text>
 	<text x="85.186" y="88.482"  class="label-pol label-sm">cumieka</text>
-	<text x="186.897" y="87.072"  class="label-pol label-sm">alultun</text>
+	<text x="186.897" y="87.072"  class="label-pol label-sm">ultun</text>
 	<text x="214.787" y="8.221"  class="label-pol label-lg">nihon</text>
 	<text x="189.214" y="51.216"  class="label-pol label-md">kasakastan</text>
 	<text x="209.736" y="113.478"  class="label-pol label-lg">kenja</text>
@@ -959,7 +959,7 @@
 	<text x="175.009" y="102.772"  class="label-pol label-md">lipia</text>
 	<text x="230.954" y="66.225"  class="label-pol label-md">sililankawa</text>
 	<text x="234.001" y="26.935"  class="label-pol label-sm">Macao</text>
-	<text x="149.8" y="107.199"  class="label-pol label-md">almahlip</text>
+	<text x="149.8" y="107.199"  class="label-pol label-md">mahlip</text>
 	<text x="233.837" y="118.009"  class="label-pol label-md">matakaskjal</text>
 	<text x="75.689" y="60.858"  class="label-pol label-lg">mehiko</text>
 	<text x="157.212" y="120.5"  class="label-pol label-md">mali</text>
@@ -1015,14 +1015,14 @@
 	<text x="204.271" y="117.198"  class="label-pol label-md">jukanta</text>
 	<text x="172.547" y="72.474"  class="label-pol label-md">uklajina</text>
 	<text x="56.764" y="137.07"  class="label-pol label-sm">ulukwaj</text>
-	<text x="91.509" y="53.402"  class="label-pol label-lg">junajtestejs</text>
+	<text x="91.509" y="53.402"  class="label-pol label-lg">juesej</text>
 	<text x="193.431" y="58.623"  class="label-pol label-md">ospekistan</text>
 	<text x="84.15" y="107.403"  class="label-pol label-md">peneswela</text>
 	<text x="237.255" y="36.661"  class="label-pol label-lg">fiatnam</text>
 	<text x="323.842" y="31.267"  class="label-pol label-sm">fanuatu</text>
 	<text x="341.616" y="30.425"  class="label-pol label-sm">Wallis and Futuna Is. (Fr.)</text>
-	<text x="347.894" y="32.099"  class="label-pol label-sm">Samoa</text>
-	<text x="205.542" y="92.093"  class="label-pol label-md">aljaman</text>
+	<text x="347.894" y="32.099"  class="label-pol label-sm">samoa</text>
+	<text x="205.542" y="92.093"  class="label-pol label-md">jaman</text>
 	<text x="231.018" y="138.519"  class="label-pol label-lg">South Africa</text>
 	<text x="213.482" y="130.093"  class="label-pol label-md">sampja</text>
 	<text x="221.085" y="132.203"  class="label-pol label-md">simpapwe</text>
