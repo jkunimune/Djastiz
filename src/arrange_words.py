@@ -5,6 +5,7 @@ import csv
 import matplotlib.pyplot as plt
 import os
 from os import path
+import pandas as pd
 import pickle
 import re
 
@@ -30,54 +31,50 @@ def get_curly_brace_pair(string):
 
 def load_dictionary(directory):
 	""" load words from the given directory into a big dictionary thing """
-	header = None
 	words = {} # each key is an English gloss key; value is {definition, my word, derivatives}
 	for filename in os.listdir(directory):
 		with open(path.join(directory, filename), 'r', encoding='utf-8') as f:
-			for row in csv.reader(f):
-				if header is None:
-					header = row # the header is actually useful for once
-					continue
-				else:
-					assert len(row) == len(header), row
-					entry = {head:row[i] for i, head in enumerate(header)} # convert row to a dict
-					entry['derivatives'] = {} # don't forget to start counting these
+			word_set = pd.read_csv(f, dtype=str, na_filter=False)
+		for row in word_set.itertuples(index=False):
+			entry = row._asdict() # convert row to a dict
+			entry['derivatives'] = {} # don't forget to start counting these
 
-				for key, value in entry.items():
-					if '*' in value:
-						assert not entry['source'], "Why is there a * and a source cited for {}".format(entry)
-						starred = value[value.index('*')+1:]
-						starred = starred[:re.search(r'\b', starred).start()] # look for explicit source word selections
-						entry['source'] = starred
-						entry[key] = value.replace('*','')
+			for key, value in entry.items():
+				if '*' in value:
+					assert not entry['source'], "Why is there a * and a source cited for {}".format(entry)
+					starred = value[value.index('*')+1:]
+					starred = starred[:re.search(r'\b', starred).start()] # look for explicit source word selections
+					entry['source'] = '*'+starred
+					entry[key] = value.replace('*','')
+					break
 
-				for key, value in entry.items():
-					while '{' in value: # handle explicit derivatives
-						i, j = get_curly_brace_pair(value)
-						print("What do I do with ({})?".format(value[i+1:j])) # TODO
-						value = (value[:i-1] + value[j+1:]).strip()
-						entry[key] = value
+			for key, value in entry.items():
+				while '{' in value: # handle explicit derivatives
+					i, j = get_curly_brace_pair(value)
+					print("What do I do with ({})?".format(value[i+1:j])) # TODO
+					value = (value[:i-1] + value[j+1:]).strip()
+					entry[key] = value
 
-				for key in entry:
-					if key not in ['source', 'ltl', 'derivatives']:
-						entry[key] = entry[key].split('; ') # separate definitions when applicable
+			for key in entry:
+				if key not in ['source', 'ltl', 'derivatives']:
+					entry[key] = entry[key].split('; ') # separate definitions when applicable
 
-				for i, eng_meaning in enumerate(entry['eng']):
-					if eng_meaning.startswith('beI '):
-						entry['eng'][i] = eng_meaning.replace('beI ', 'be ') # TODO: create derivatives from this
-					elif eng_meaning.startswith('be '):
-						pass # TODO
+			for i, eng_meaning in enumerate(entry['eng']):
+				if eng_meaning.startswith('beI '):
+					entry['eng'][i] = eng_meaning.replace('beI ', 'be ') # TODO: create derivatives from this
+				elif eng_meaning.startswith('be '):
+					pass # TODO
 
-				if ' OF ' in entry['source']:
-					i = entry['source'].index(' OF ')
-					deriv_type, deriv_word = entry['source'][:i], entry['source'][i+4:]
-					assert deriv_word in words, '{} of "{}" declared before "{}"'.format(deriv_type, deriv_word, deriv_word)
-					words[deriv_word]['derivatives'][deriv_type] = entry
+			if ' OF ' in entry['source']:
+				i = entry['source'].index(' OF ')
+				deriv_type, deriv_word = entry['source'][:i], entry['source'][i+4:]
+				assert deriv_word in words, '{} of "{}" declared before "{}"'.format(deriv_type, deriv_word, deriv_word)
+				words[deriv_word]['derivatives'][deriv_type] = entry
 
-				for possible_gloss in entry['eng']:
-					if possible_gloss not in words:
-						words[possible_gloss] = entry
-						break
+			for possible_gloss in entry['eng']:
+				if possible_gloss not in words:
+					words[possible_gloss] = entry
+					break
 
 	import json
 	print(json.dumps(words, indent=2))
