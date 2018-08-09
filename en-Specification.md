@@ -21,31 +21,31 @@ Before you read any further, you'll need to know how to read, say, and write the
 |**Mid**  |   e   |  o   |
 |**Open** |   a   |      |
 
-If you don't know what any of that means, don't worry about it. Here is a more thorough table. Note that in addition to a name and a symbol, each letter has a "Recommended Pronunciation" and several "Possible Pronunciations". The possible pronunciations are just allowed variations on each sound for people who don't have the recommended pronunciation in their native tongue. You speak English, so you pretty much have all of the recommended pronunciations down, so just know that you might hear people of different backgrounds using some slightly different pronunciations of each letter. The "Inverse" and "Class" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
+If you don't know what any of that means, don't worry about it. Here is a more thorough table. Note that in addition to a name and a symbol, each letter has a default, recommended pronunciation, and several alternate pronunciations. The alternate pronunciations are just allowed variations on each sound for people who don't have the recommended pronunciation in their native tongue. You speak English, so you pretty much have all of the recommended pronunciations down, so just know that you might hear people of different backgrounds using some slightly different pronunciations of each letter. The "Inverse" and "Class" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
 
-| Name | Symbol | Rec. Pron. | Pos. Prons. | English | Inverse | Class
-|------|--------|------------|-------------|-----------------|---------|-------
-|   e  |   e    |     ɛ      |    e\~ɛ     |      End        |    o    | Vowel
-|   a  |   a    |     a      |    a\~ɑ     |      Off        |    a    | Vowel
-|   o  |   o    |     ɔ      |    o\~ɔ     |     Organ       |    e    | Vowel
-|   i  |   i    |     i      |    i\~ɪ     |      EAt        |    u    | Vowel
-|   u  |   u    |     u      |    u\~ʊ     |      OOze       |    i    | Vowel
-|  jot |   j    |     j      |   j, ʲ, i   |      Yell       |   wet   | Glide
-|  lo  |   l    |     l      |    l\~ɾ     |      Limb       |    te   | Sonorant
-|  wet |   w    |     w      |   w, ʷ, u   |     Wander      |   jot   | Glide
-|  no  |   n    |     n      |   n, ŋ\~ɴ   |     Night       |    ko   | Sonorant
-|  me  |   m    |     m      |      m      |      Meat       |    pe   | Sonorant
-|  ho  |   h    |     h      |   x\~h, ɦ   |      Hack       |    co   | Sonorant
-|  co  |   c    |    tʃ      |tʃ\~tʂ, ʃ\~ʂ |      CHop       |    ho   | Obstruent
-|  se  |   s    |     s      |      s      |      Soon       |    fe   | Obstruent
-|  fe  |   f    |     f      |    ɸ\~f     |      Fall       |    se   | Sonorant
-|  ko  |   k    |     k      |   k kʰ ɡ    |      Kill       |    no   | Obstruent
-|  te  |   t    |     t      |   t tʰ d    |      Tomb       |    lo   | Obstruent
-|  pe  |   p    |     p      |   p pʰ b    |      Pool       |    me   | Obstruent
+| Name | Symbol | Alt. Symbols | Sound[1] | Alt. Sounds[1] | English | Inverse | Class
+|------|--------|--------------|------------|-------------|---------|---------|-------
+|   e  |   e    |     Є, є     |     ɛ      |    e\~ɛ     |   End   |    o    | Vowel
+|   a  |   a    |  Ƌ, ⫏, ɑ, α  |     a      |    a\~ɑ     |   Off   |    a    | Vowel
+|   o  |   o    |    O, ᴏ      |     ɔ      |    o\~ɔ     |  Organ  |    e    | Vowel
+|   i  |   i    |   I, ɪ, ι    |     i      |    i\~ɪ     |   EAt   |    u    | Vowel
+|   u  |   u    |  U, ᴜ, V, v  |     u      |    u\~ʊ     |   OOze  |    i    | Vowel
+|  jot |   j    |     J, ᴊ     |     j      |   j, ʲ, i   |   Yell  |   wet   | Glide
+|  lo  |   l    |     L, ʟ     |     l      |    l\~ɾ     |   Limb  |    te   | Sonorant
+|  wet |   w    |     W, ᴡ     |     w      |   w, ʷ, u   |  Wander |   jot   | Glide
+|  no  |   n    |     Λ, ᴧ     |     n      |   n, ŋ\~ɴ   |   Night |    ko   | Sonorant
+|  me  |   m    |     M, ᴍ     |     m      |      m      |   Meat  |    pe   | Sonorant
+|  ho  |   h    |      Һ       |     h      |   x\~h, ɦ   |   Hack  |    co   | Sonorant
+|  co  |   c    |     C, ᴄ     |    tʃ      |tʃ\~tʂ, ʃ\~ʂ |   CHop  |    ho   | Obstruent
+|  se  |   s    |     S, ꜱ     |     s      |      s      |   Soon  |    fe   | Obstruent
+|  fe  |   f    |     F, ꜰ     |     f      |    ɸ\~f     |   Fall  |    se   | Sonorant
+|  ko  |   k    |    K, ᴋ, κ   |     k      |   k kʰ ɡ    |   Kill  |    no   | Obstruent
+|  te  |   t    |    T, ᴛ, τ   |     t      |   t tʰ d    |   Tomb  |    lo   | Obstruent
+|  pe  |   p    |    P, ᴘ, ρ   |     p      |   p pʰ b    |   Pool  |    me   | Obstruent
 
 You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
-Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Chatisun alphabet. The Chatisun alphabet does not include <b>, <d>, <g>, <q>, <r>, <v>, <x>, <y>, <z>, or any capital letters, so none of these should be present in Chatisun text. It is acceptable to use capital letters in lieu of lowercase letters as a stylistic choice, but if you do so, I recommend using a font where <E>, <A>, <N>, and <H> are easily recognisable from their lowercase counterparts, lest the text be indescipherable to some Chatisun-speakers.
+Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Chatisun alphabet. The Chatisun alphabet does not include <b>, <d>, <g>, <q>, <r>, <v>, <x>, <y>, <z>, or any capital letters. _Some_ capital Latin letters are acceptable substitutes for their lowercase forms, as indicated by the alternate symbols column, but these are merely to allow stylistic variation, and carry no meaning different from their lowercase counterparts. Furthermore, note that many are too different to be easily readable by Lawntoklian-speakers who are unfamiliar with the entire Latin alphabet, and thus should use different symbols when a capital style is desired.
 
 [1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
 

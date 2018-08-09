@@ -82,7 +82,7 @@ feline
 ### tok
 
 _v. dt._ (Eng. &lang;talk&rang; \[tʰɑlk\])
-say; convey; ʟᴜɴ says ʟᴏɴ to ʟᴀᴍ
+say; convey; ʟᴜʌ says ʟᴏʌ to ʟᴀᴍ
 
 #### toklian
 
