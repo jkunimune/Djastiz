@@ -13,7 +13,7 @@ import re
 
 def get_curly_brace_pair(string):
 	""" return the indices of a matching pair of {} in string """
-	assert '{' in string and '}' in string, "There are no curly braces in {}".format(string)
+	assert '{' in string and '}' in string, "There aren't enough curly braces in {}".format(string)
 	i_open = string.index('{')
 	assert '}' in string[i_open:], "Curly braces out of order: {}".format(string)
 	i_close = i_open+1
@@ -35,9 +35,16 @@ def load_dictionary(directory):
 	for filename in os.listdir(directory):
 		with open(path.join(directory, filename), 'r', encoding='utf-8') as f:
 			word_set = pd.read_csv(f, dtype=str, na_filter=False)
-		for row in word_set.itertuples(index=False):
-			entry = row._asdict() # convert row to a dict
-			entry['derivatives'] = {} # don't forget to start counting these
+
+		queue = collections.deque(word_set.itertuples(index=False))
+		while queue:
+			entry = queue.popleft()
+			print(entry)
+			try:
+				entry['derivatives'] = {} # don't forget to start counting these
+			except TypeError:
+				entry = entry._asdict() # convert row to a dict
+				entry['derivatives'] = {}
 
 			for key, value in entry.items():
 				if '*' in value:
@@ -48,20 +55,31 @@ def load_dictionary(directory):
 					entry[key] = value.replace('*','')
 					break
 
+			unprocessed_derivatives = collections.defaultdict(lambda: {key:'' for key in entry}) # start looking for noun derivatives that need to be processed later
+
 			for key, value in entry.items():
 				while '{' in value: # handle explicit derivatives
 					i, j = get_curly_brace_pair(value)
-					print("What do I do with ({})?".format(value[i+1:j])) # TODO
+					for deriv_statement in value[i+1:j].split('|'):
+						if re.match(r'^[A-Z]+:', deriv_statement):
+							k = deriv_statement.index(':')
+							unprocessed_derivatives[deriv_statement[:k]][key] = deriv_statement[k+1:]
+						else:
+							assert value[i-4:i-1] in ['SBJ','OBJ','IND']
+							unprocessed_derivatives[value[i-4:i-1]][key] = deriv_statement
 					value = (value[:i-1] + value[j+1:]).strip()
 					entry[key] = value
 
 			for key in entry:
 				if key not in ['source', 'ltl', 'derivatives']:
 					entry[key] = entry[key].split('; ') # separate definitions when applicable
+					while not entry[key][0]:
+						entry[key].pop(0) # ignore any empty things
 
 			for i, eng_meaning in enumerate(entry['eng']):
-				if eng_meaning.startswith('beI '):
+				if eng_meaning.startswith('beI '): # handle implicit derivatives
 					entry['eng'][i] = eng_meaning.replace('beI ', 'be ') # TODO: create derivatives from this
+					unprocessed_derivatives['IND']['eng'] += '; '+eng_meaning[3:]
 				elif eng_meaning.startswith('be '):
 					pass # TODO
 
@@ -75,6 +93,14 @@ def load_dictionary(directory):
 				if possible_gloss not in words:
 					words[possible_gloss] = entry
 					break
+			if words[possible_gloss] != entry:
+				gloss = '{}{:03d}'.format(entry['eng'][0], len(words))
+				print("Warning: There is no possible gloss for {}. '{}' will be used as a key.".format(entry, gloss))
+				words[gloss] = entry
+
+			for deriv_type, deriv_dict in unprocessed_derivatives.items():
+				deriv_dict['source'] = '{} OF {}'.format(deriv_type, possible_gloss)
+				queue.append(deriv_dict) # finally, put the unprocessed derivatives in the queue
 
 	import json
 	print(json.dumps(words, indent=2))
