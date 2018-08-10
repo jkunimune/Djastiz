@@ -1,5 +1,5 @@
 eng,source,ltl
-"of; -'s; _denotes modifier or associate_ {COMPLEMENT:kind; relation; specifier {GENITIVE:genitive}}RELATIVE:whose}",ara <TODO> [im],im
+"of; -'s; _denotes modifier or associate_ {COMPLEMENT:kind; relation; specifier {GENITIVE:genitive}|RELATIVE:whose}",ara <TODO> [im],im
 "than; as; _denotes amount or degree_ {COMPLEMENT:amount; number; quantity; extent; magnitude {GENITIVE:numerical; quantitative; equative}|RELATIVE:the amout that}",zul <TODO> [inani],inan
 "sbj; by; _denotes agent, cause, or force_ {COMPLEMENT:subject; agent; cause; force {GENITIVE:causal; subjective}|RELATIVE:who|REFLEXIVE:themself}",ara <TODO> [um],un
 "obj; on; to; _denotes direct object, patient, or experiencer_ {COPMLEMENT:direct object {GENITIVE:objective; absolutive; accusative}|RELATIVE:which|REFLEXIVE:itself}",epo <TODO> [on],on

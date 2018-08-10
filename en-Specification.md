@@ -25,23 +25,23 @@ If you don't know what any of that means, don't worry about it. Here is a more t
 
 | Name | Symbol | Alt. Symbols | Sound[1] | Alt. Sounds[1] | English | Inverse | Class
 |------|--------|--------------|------------|-------------|---------|---------|-------
-|   e  |   e    |     Є, є     |     ɛ      |    e\~ɛ     |   End   |    o    | Vowel
-|   a  |   a    |  Ƌ, ⫏, ɑ, α  |     a      |    a\~ɑ     |   Off   |    a    | Vowel
-|   o  |   o    |    O, ᴏ      |     ɔ      |    o\~ɔ     |  Organ  |    e    | Vowel
-|   i  |   i    |   I, ɪ, ι    |     i      |    i\~ɪ     |   EAt   |    u    | Vowel
-|   u  |   u    |  U, ᴜ, V, v  |     u      |    u\~ʊ     |   OOze  |    i    | Vowel
-|  jot |   j    |     J, ᴊ     |     j      |   j, ʲ, i   |   Yell  |   wet   | Glide
-|  lo  |   l    |     L, ʟ     |     l      |    l\~ɾ     |   Limb  |    te   | Sonorant
-|  wet |   w    |     W, ᴡ     |     w      |   w, ʷ, u   |  Wander |   jot   | Glide
-|  no  |   n    |     Λ, ᴧ     |     n      |   n, ŋ\~ɴ   |   Night |    ko   | Sonorant
-|  me  |   m    |     M, ᴍ     |     m      |      m      |   Meat  |    pe   | Sonorant
-|  ho  |   h    |      Һ       |     h      |   x\~h, ɦ   |   Hack  |    co   | Sonorant
-|  co  |   c    |     C, ᴄ     |    tʃ      |tʃ\~tʂ, ʃ\~ʂ |   CHop  |    ho   | Obstruent
-|  se  |   s    |     S, ꜱ     |     s      |      s      |   Soon  |    fe   | Obstruent
-|  fe  |   f    |     F, ꜰ     |     f      |    ɸ\~f     |   Fall  |    se   | Sonorant
-|  ko  |   k    |    K, ᴋ, κ   |     k      |   k kʰ ɡ    |   Kill  |    no   | Obstruent
-|  te  |   t    |    T, ᴛ, τ   |     t      |   t tʰ d    |   Tomb  |    lo   | Obstruent
-|  pe  |   p    |    P, ᴘ, ρ   |     p      |   p pʰ b    |   Pool  |    me   | Obstruent
+|   e  |   e    |    Є         |     ɛ      |    e\~ɛ     |   End   |    o    | Vowel
+|   a  |   a    |    Ƌ, ɑ, α   |     a      |    a\~ɑ     |   Off   |    a    | Vowel
+|   o  |   o    |    O, σ      |     ɔ      |    o\~ɔ     |  Organ  |    e    | Vowel
+|   i  |   i    |    I, ι      |     i      |    i\~ɪ     |   EAt   |    u    | Vowel
+|   u  |   u    |    U, v      |     u      |    u\~ʊ     |   OOze  |    i    | Vowel
+|  jot |   j    |    J         |     j      |   j, ʲ, i   |   Yell  |   wet   | Glide
+|  lo  |   l    |    L         |     l      |    l\~ɾ     |   Limb  |    te   | Sonorant
+|  wet |   w    |    W, ɯ      |     w      |   w, ʷ, u   |  Wander |   jot   | Glide
+|  no  |   n    |    Λ         |     n      |   n, ŋ\~ɴ   |   Night |    ko   | Sonorant
+|  me  |   m    |    M         |     m      |      m      |   Meat  |    pe   | Sonorant
+|  ho  |   h    |    Һ         |     h      |   x\~h, ɦ   |   Hack  |    co   | Sonorant
+|  co  |   c    |    C         |    tʃ      |tʃ\~tʂ, ʃ\~ʂ |   CHop  |    ho   | Obstruent
+|  se  |   s    |    S         |     s      |      s      |   Soon  |    fe   | Obstruent
+|  fe  |   f    |    F         |     f      |    ɸ\~f     |   Fall  |    se   | Sonorant
+|  ko  |   k    |    K, κ      |     k      |   k kʰ ɡ    |   Kill  |    no   | Obstruent
+|  te  |   t    |    T, τ      |     t      |   t tʰ d    |   Tomb  |    lo   | Obstruent
+|  pe  |   p    |    P, ρ      |     p      |   p pʰ b    |   Pool  |    me   | Obstruent
 
 You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 

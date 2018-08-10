@@ -16,52 +16,52 @@ eng,source,ltl
 "k; /k/; velar plosive",ono [k],'ko
 "t; /t/; alveolar plosive",ono [t],'ta
 "p; /p/; bilabial plosive",ono [p],'pe
-"Arabic; the language {GENITIVE:Arabic}",ara <العَرَبِيَّة‎> [ˈʕarabiː],'halapi
-"Bengali; the language {GENITIVE:Bengali}",ben <বাংলা> [ˈbaŋla],'panla
-"Chichewa; the language; {GENITIVE:Chichewa}",nya <Chichewa> [t͡ʃit͡ʃewa],'cicewa
-"Chinese; the macrolanguage {GENITIVE:Chinese}",cmn <中文> [t͡ʂʊŋ˥wən˧˥],'cunwan
-"English; the language; {GENITIVE:English}",eng <English> [ˈiŋglɪʃ],'inkelic
-"Esperanto; the language {GENITIVE:Esperanto}",epo <Esperanto> [espeˈranto],'espelanto
-"French; the language {GENITIVE:French}",fra <français> [fʁɑ̃sɛ],'afhanse
-"German; the language {GENITIVE:German}",deu <Deutsch> [dɔʏ̯t͡ʃ],'tojc
-"Hausa; the language {GENITIVE:Hausa}",hau <هَرْشَن هَوْسَ‬> [haɽʃen hausa],'halcenhausa
-"Hawaiian; the language {GENITIVE:Hawaiian}",haw <ʻŌlelo Hawaiʻi> [ʔoːˈlɛlo həˈvɐjʔi],'olelohawaji
-"Hindi; the language {GENITIVE:Hindi}",hin <हिन्दी> [ɦind̪iː],'hinti
-"Ido; the language {GENITIVE:Ido}",ido <Ido> [ˈido],'ito
-"Igbo; the language {GENITIVE:Igbo}",ibo <Ásụ̀sụ̀ Ị̀gbò> [a˦sʊ˨sʊ˨ ɪ˨ɡ͡b˨ː],'asusuikpo
-"Interlingua; the language {GENITIVE:Interlingua}",ina <Interlingua> [inteɾˈliŋɡwa],'intelinjwa
-"Italian; the language {GENITIVE:Italian}",ita <italiano> [itaˈljaːno],'italjano
-"Japanese; the language {GENITIVE:Japanese}",jpn <日本語> [ɲihoŋɡo],'nihonko
-"Javanese; the language {GENITIVE:Javanese}",jav <ꦧꦱꦗꦮ> [tjɔrɔ d͡ʒɔwɔ],'tjolocowo
-"Korean; the language {GENIVITE:Korean}",kor <한국어> [haːnɡuɡʌ],'hankuka
-"Latin; the language {GENIVITE:Latin}",lat <lingua latīna> [ˈlɪŋɡʷa laˈtiːna],'linkwalatina
-"Lingua Franca Nova; Elefen; the language {GENITIVE:Lingua Franca Nova}",lfn <Elefen> [elefen],'elefen
-"Lojban; the language {GENITIVE:Lojban}",ljb <la .lojban.> [laʔˈloʒbanʔ],'lalocpan
-"Malay; the language {GENITIVE:Malay}",msa <بهاس ملايو> [bahasə melaju],'pahasamelaju
-"Standard Mandarin Chinese; the language {GENITIVE:Mandarin}",cmn <官話> [xan˥˩y˨˩˦],'hanu
-"Marathi; the language {GENITIVE:Marathi}",mar <मराठी> [məˈɾaʈʰi],'malati
-"Neo Patwa; the language {GENITIVE:Neo Patwa}",npt <Neo Patwa> [neˈo paˈtwa],'neopatwa
-"Persian; the language {GENITIVE:Persian}",fas <فارسی> [fɒːɾˈsiː],'folsi
-"Portuguese; the language {GENITIVE:Portuguese}",por <português> [poʁtuˈɡes],'pohtukes
-"Punjabi; the language {GENITIVE:Punjabi}",pan <ਪੰਜਾਬੀ> [pə̃d͡ʒɑːbiː],'pancapi
-"Russian; the language {GENITIVE:Russian}",rus <ру́сский язы́к> [ˈruskʲɪj jɪˈzɨk],'luskjisik
-"Shona; the language {GENITIVE:Shona}",sna <chiShona> [t͡ʃiʃona],'cicona
-"Sotho; the language {GENITIVE:Sotho}",sot <Sesotho> [sɪ˨sʊ˦tʰʊ˨],'sisutu
-"Southern Min Chinese; the language {GENITIVE:Southern Min}",nan <閩南語> [ho˧lo˧˥we˧],'holowe
-"Spanish; the language {GENITIVE:Spanish}",spa <español> [espaˈɲol],'espanjol
-"Swahili; the language {GENITIVE:Swahili}",swa <Kiswahili> [kiswahili],'kiswahili
-"Tamil; the language {GENITIVE:Tamil}",tam <தமிழ்> [t̪ɐmɨɻ],'tamil
-"Telugu; the language {GENITIVE:Telugu}",tel <తెలుగు> [t̪el̪uɡu],'teluku
-"Thai; the language {GENITIVE:Thai}",tha <ภาษาไทย> [pʰaː˧saː˩˦ tʰaj˧],'pasataj
-"Toki Pona; the language {GENITIVE:Toki Pona}",tkp <toki pona> [ˈtoki ˈpona],'tokipona
-"Turkish; the language {GENITIVE:Turkish}",tur <Türkçe> [ˈtyɾct͡ʃe],'tulce
-"Urdu; the language {GENITIVE:Urdu}",urd <اُردُو‬‎> [ˈʊrd̪uː],'ultu
-"Vietnamese; the language {GENITIVE:Vietnamese}",vie <Tiếng Việt> [tiə̯ŋ˧˥ viɜ̯ʔt˧˨],'tianfiat
-"Wu Chinese; the language {GENITIVE:Wu}",wuu <吳語> [ɦu˨ ɲy˦],'hunju
-"Xhosa; the language {GENITIVE:Xhosa}",xho <isiXhosa> [i˨si˨kǁʰɔː˦sa˨],'isiklosa
-"Yoruba; the language {GENITIVE:Yoruba}",yor <èdè Yorùbá> [e˨de˨ jo˧ɾu˨ba˦],'etejolupa
-"Yue Chinese; Cantonese; the language {GENITIVE:Yue}",yue <粵語> [jyːt̚˧˥],'jut
-"Zulu; the language {GENITIVE:Zulu}",zul <isiZulu> [isiˈzuːlu],'isisulu
+"Arabic; the language {GENITIVE:Arabic; in Arabic}",ara <العَرَبِيَّة‎> [ˈʕarabiː],'halapi
+"Bengali; the language {GENITIVE:Bengali; in Bengali}",ben <বাংলা> [ˈbaŋla],'panla
+"Chichewa; the language {GENITIVE:Chichewa; in Chichewa}",nya <Chichewa> [t͡ʃit͡ʃewa],'cicewa
+"Chinese; the macrolanguage {GENITIVE:Chinese; in Chinese}",cmn <中文> [t͡ʂʊŋ˥wən˧˥],'cunwan
+"English; the language {GENITIVE:English; in English}",eng <English> [ˈiŋglɪʃ],'inkelic
+"Esperanto; the language {GENITIVE:Esperanto; in Esperanto}",epo <Esperanto> [espeˈranto],'espelanto
+"French; the language {GENITIVE:French; in French}",fra <français> [fʁɑ̃sɛ],'afhanse
+"German; the language {GENITIVE:German; in German}",deu <Deutsch> [dɔʏ̯t͡ʃ],'tojc
+"Hausa; the language {GENITIVE:Hausa; in Hausa}",hau <هَرْشَن هَوْسَ‬> [haɽʃen hausa],'halcenhausa
+"Hawaiian; the language {GENITIVE:Hawaiian; in Hawaiian}",haw <ʻŌlelo Hawaiʻi> [ʔoːˈlɛlo həˈvɐjʔi],'olelohawaji
+"Hindi; the language {GENITIVE:Hindi; in Hindi}",hin <हिन्दी> [ɦind̪iː],'hinti
+"Ido; the language {GENITIVE:Ido; in Ido}",ido <Ido> [ˈido],'ito
+"Igbo; the language {GENITIVE:Igbo; in Igbo}",ibo <Ásụ̀sụ̀ Ị̀gbò> [a˦sʊ˨sʊ˨ ɪ˨ɡ͡b˨ː],'asusuikpo
+"Interlingua; the language {GENITIVE:Interlingua; in Interlingua}",ina <Interlingua> [inteɾˈliŋɡwa],'intelinjwa
+"Italian; the language {GENITIVE:Italian; in Italian}",ita <italiano> [itaˈljaːno],'italjano
+"Japanese; the language {GENITIVE:Japanese; in Japanese}",jpn <日本語> [ɲihoŋɡo],'nihonko
+"Javanese; the language {GENITIVE:Javanese; in Javanese}",jav <ꦧꦱꦗꦮ> [tjɔrɔ d͡ʒɔwɔ],'tjolocowo
+"Korean; the language {GENITIVE:Korean; in Korean}",kor <한국어> [haːnɡuɡʌ],'hankuka
+"Latin; the language {GENITIVE:Latin; in Latin}",lat <lingua latīna> [ˈlɪŋɡʷa laˈtiːna],'linkwalatina
+"Lingua Franca Nova; Elefen; the language {GENITIVE:Lingua Franca Nova; in Lingua Franca Nova}",lfn <Elefen> [elefen],'elefen
+"Lojban; the language {GENITIVE:Lojban; in Lojban}",ljb <la .lojban.> [laʔˈloʒbanʔ],'lalocpan
+"Malay; the language {GENITIVE:Malay; in Malay}",msa <بهاس ملايو> [bahasə melaju],'pahasamelaju
+"Standard Mandarin Chinese; the language {GENITIVE:Mandarin; in Mandarin}",cmn <官話> [xan˥˩y˨˩˦],'hanu
+"Marathi; the language {GENITIVE:Marathi; in Marathi}",mar <मराठी> [məˈɾaʈʰi],'malati
+"Neo Patwa; the language {GENITIVE:Neo Patwa; in Neo Patwa}",npt <Neo Patwa> [neˈo paˈtwa],'neopatwa
+"Persian; the language {GENITIVE:Persian; in Persian}",fas <فارسی> [fɒːɾˈsiː],'folsi
+"Portuguese; the language {GENITIVE:Portuguese; in Portuguese}",por <português> [poʁtuˈɡes],'pohtukes
+"Punjabi; the language {GENITIVE:Punjabi; in Punjabi}",pan <ਪੰਜਾਬੀ> [pə̃d͡ʒɑːbiː],'pancapi
+"Russian; the language {GENITIVE:Russian; in Russian}",rus <ру́сский язы́к> [ˈruskʲɪj jɪˈzɨk],'luskjisik
+"Shona; the language {GENITIVE:Shona; in Shona}",sna <chiShona> [t͡ʃiʃona],'cicona
+"Sotho; the language {GENITIVE:Sotho; in Sotho}",sot <Sesotho> [sɪ˨sʊ˦tʰʊ˨],'sisutu
+"Southern Min Chinese; the language {GENITIVE:Southern Min; in Southern Min}",nan <閩南語> [ho˧lo˧˥we˧],'holowe
+"Spanish; the language {GENITIVE:Spanish; in Spanish}",spa <español> [espaˈɲol],'espanjol
+"Swahili; the language {GENITIVE:Swahili; in Swahili}",swa <Kiswahili> [kiswahili],'kiswahili
+"Tamil; the language {GENITIVE:Tamil; in Tamil}",tam <தமிழ்> [t̪ɐmɨɻ],'tamil
+"Telugu; the language {GENITIVE:Telugu; in Telugu}",tel <తెలుగు> [t̪el̪uɡu],'teluku
+"Thai; the language {GENITIVE:Thai; in Thai}",tha <ภาษาไทย> [pʰaː˧saː˩˦ tʰaj˧],'pasataj
+"Toki Pona; the language {GENITIVE:Toki Pona; in Toki Pona}",tkp <toki pona> [ˈtoki ˈpona],'tokipona
+"Turkish; the language {GENITIVE:Turkish; in Turkish}",tur <Türkçe> [ˈtyɾct͡ʃe],'tulce
+"Urdu; the language {GENITIVE:Urdu; in Urdu}",urd <اُردُو‬‎> [ˈʊrd̪uː],'ultu
+"Vietnamese; the language {GENITIVE:Vietnamese; in Vietnamese}",vie <Tiếng Việt> [tiə̯ŋ˧˥ viɜ̯ʔt˧˨],'tianfiat
+"Wu Chinese; the language {GENITIVE:Wu; in Wu}",wuu <吳語> [ɦu˨ ɲy˦],'hunju
+"Xhosa; the language {GENITIVE:Xhosa; in Xhosa}",xho <isiXhosa> [i˨si˨kǁʰɔː˦sa˨],'isiklosa
+"Yoruba; the language {GENITIVE:Yoruba; in Yoruba}",yor <èdè Yorùbá> [e˨de˨ jo˧ɾu˨ba˦],'etejolupa
+"Yue Chinese; Cantonese; the language {GENITIVE:Yue; in Yue}",yue <粵語> [jyːt̚˧˥],'jut
+"Zulu; the language {GENITIVE:Zulu; in Zulu}",zul <isiZulu> [isiˈzuːlu],'isisulu
 "The World Wide Web; The Internet; The Cloud {GENITIVE:Internet; cloud; cyber}",eng <Internet> [ˈɪntɹ̩ˌnɛt],'intanet
 "The Atlantic Ocean; the ocean {GENITIVE:Atlantic}",por <oceano Atlântico> [oseˈɐno atˈlɐnt͡ʃiko],'atlantiko
 "The Indian Ocean; the ocean {GENITIVE:Indian}",mlg <Oseana Indiana> [oˈseana iⁿdiˈanina],'intianina
