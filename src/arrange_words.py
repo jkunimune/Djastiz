@@ -11,6 +11,11 @@ import re
 
 
 
+VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','REVERSAL','POSSIBILITY','VERB']
+NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','COMPLEMENT','RELATIVE','REFLEXIVE']
+MISC_DERIVATIONS = ['OPPOSITE']
+
+
 def get_curly_brace_pair(string):
 	""" return the indices of a matching pair of {} in string """
 	assert '{' in string and '}' in string, "There aren't enough curly braces in {}".format(string)
@@ -40,6 +45,7 @@ def load_dictionary(directory):
 	]:
 		with open(path.join(directory, filename+'.csv'), 'r', encoding='utf-8') as f:
 			word_set = pd.read_csv(f, dtype=str, na_filter=False)
+			word_set['partos'] = filename
 			queue.extend(word_set.itertuples(index=False))
 
 	while queue:
@@ -75,7 +81,7 @@ def load_dictionary(directory):
 				entry[key] = value
 
 		for key in entry:
-			if key not in ['source', 'ltl', 'derivatives']:
+			if key not in ['source', 'ltl', 'derivatives', 'partos']:
 				entry[key] = entry[key].split('; ') # separate definitions when applicable
 				while not entry[key][0]:
 					entry[key].pop(0) # ignore any empty things
@@ -104,6 +110,14 @@ def load_dictionary(directory):
 
 		for deriv_type, deriv_dict in unprocessed_derivatives.items():
 			deriv_dict['source'] = '{} OF {}'.format(deriv_type, possible_gloss)
+			if deriv_type in VERB_DERIVATIONS:
+				deriv_dict['partos'] = 'verb'
+			elif deriv_type in NOUN_DERIVATIONS:
+				deriv_dict['partos'] = 'noun'
+			elif deriv_type in MISC_DERIVATIONS:
+				deriv_dict['partos'] = entry['partos']
+			else:
+				raise TypeError("What is {}".format(deriv_type))
 			queue.append(deriv_dict) # finally, put the unprocessed derivatives in the queue
 
 	import json
@@ -114,7 +128,8 @@ def load_dictionary(directory):
 def fill_blanks(my_words, real_words):
 	""" come up with words from the source dictioraries for all nouns and verbs that aren't
 		onomotopoeias, and update the compound words accordingly """
-	pass
+	for gloss, entry in my_words.items():
+		pass
 
 
 def save_dictionary(dictionary, directory):
