@@ -1,9 +1,9 @@
 eng,source,ltl
-"of; -'s; _denotes modifier or associate_ {COMPLEMENT:kind; relation; specifier {GENITIVE:genitive}|RELATIVE:whose}",ara <TODO> [im],im
+"of; -'s; _denotes modifier or associate_ {COMPLEMENT:kind; relation; specifier {GENITIVE:genitive}|RELATIVE:whose}",ara <ـٍ> [in],im
 "than; as; _denotes amount or degree_ {COMPLEMENT:amount; number; quantity; extent; magnitude {GENITIVE:numerical; quantitative; equative}|RELATIVE:the amout that}",zul <TODO> [inani],inan
-"sbj; by; _denotes agent, cause, or force_ {COMPLEMENT:subject; agent; cause; force {GENITIVE:causal; subjective}|RELATIVE:who|REFLEXIVE:themself}",ara <TODO> [um],un
-"obj; on; to; _denotes direct object, patient, or experiencer_ {COMPLEMENT:direct object {GENITIVE:objective; absolutive; accusative}|RELATIVE:which|REFLEXIVE:itself}",epo <TODO> [on],on
-"ind; to; by; _denotes indirect object, theme, stimulus, or recipient_ {COMPLEMENT:indirect object {GENITIVE:objective}|RELATIVE:whom|REFLEXIVE:whichself}",pan <TODO> [ãː],am
+"sbj; by; _denotes agent_ {COMPLEMENT:subject; agent; cause; force {GENITIVE:causal; subjective}|RELATIVE:who}",ara <ـٌ> [un],un
+"obj; on; to; _denotes direct object, patient, or experiencer_ {COMPLEMENT:direct object {GENITIVE:objective; absolutive; accusative}|RELATIVE:which}",epo <-on> [on],on
+"ind; to; by; _denotes indirect object, theme, stimulus, or recipient_ {COMPLEMENT:indirect object {GENITIVE:objective}|RELATIVE:whom}",pan <ਾਂ> [ãː],am
 "at; on; in; _denotes time_ {COMPLEMENT:time; date; instance {GENITIVE:temporal; dative}|RELATIVE:when|VERB:be at; coincide; OBJ happens at the same time as IND}",mar <TODO> [ˈʋeɭə],el
 "on; at; in; _denotes location_ {COMPLEMENT:location; place {GENITIVE:spacial; locative}|RELATIVE:where|VERB:be present; be; OBJ is present at IND}",hin <TODO> [ˈd͡ʒəɡəɦ],eh
 "by; with; through; _denotes instrument_ {COMPLEMENT:tool; medium; instrument {GENITIVE:instrumental; prolative}|RELATIVE:with which|VERB:use; work through; SBJ {user} uses OBJ}",hin <TODO> [ˈsaːdʱən],atan
