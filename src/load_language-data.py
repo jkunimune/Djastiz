@@ -25,7 +25,8 @@ print("{} languages of interest".format(len(lang_set)))
 try:
 	with open('..\\data\\ethnologue.pkl', 'rb') as f:
 		data = pickle.load(f)
-		data.pop('pan') #this is because of below
+		if 'pan' in data:
+			data.pop('pan') #this is because of below
 		print("{} languages loaded.".format(len(data)))
 except FileNotFoundError:
 	data = {}

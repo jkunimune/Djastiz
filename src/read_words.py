@@ -12,7 +12,10 @@ sys.path.append(path.sep.join([*sys.path[0].split(path.sep)[0:-2], 'English-to-I
 import eng_to_ipa # available at https://github.com/mphilli/English-to-IPA.git
 
 
-['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'yo', 'mr', 'ig', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']
+LANG_CODES = {
+	'zh-CN':'cmn', 'es':'spa', 'eo':'epo', 'en':'eng', 'hi':'hin', 'bn':'ben', 'ar':'ara', 'pa':'pan',
+	'yo':'yor', 'mr':'mar', 'ig':'igb', 'sw':'swa', 'zu':'zul', 'ny':'nya', 'xh':'xho', 'sn':'sho', 'st':'sot'}
+
 EPITRANSLATORS = {lang:epitran.Epitran(script) for lang, script in
 	[('hi','hin-Deva'), ('bn','ben-Beng'), ('ar','ara-Arab'), ('pa','pan-Guru'), ('yo','yor-Latn'), ('mr','mar-Deva'),
 	('sw','swa-Latn'), ('zu','zul-Latn'), ('ny','nya-Latn'), ('xh','xho-Latn'), ('sn','sna-Latn')]}
@@ -341,7 +344,7 @@ if __name__ == '__main__':
 		all_transcriptions = pickle.load(open('../data/all_languages.p','rb'))
 	except IOError:
 		all_transcriptions = {}
-	for lang in ['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'yo', 'mr', 'ig', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']:
+	for lang in LANG_CODES:
 		with open('../data/dict_{}.csv'.format(lang), 'r', encoding='utf-8', newline='') as f:
 			for word, orthography in csv.reader(f):
 				orthography = max(orthography.split(), key=len) # strip away any grammar particles
@@ -349,6 +352,6 @@ if __name__ == '__main__':
 					broad, narrow = '*', '*' # if it's exactly the same in English and the other language, then Google Translate is selling us lies
 				else:
 					broad, narrow = read(orthography, lang)
-				all_transcriptions[word] = {**all_transcriptions.get(word,{}), lang:(orthography, broad, narrow)}
+				all_transcriptions[word] = {**all_transcriptions.get(word,{}), LANG_CODES[lang]:(orthography, broad, narrow)}
 				print("{} in {} is spelled {} and pronounced /{}/ [{}]".format(word, lang, *all_transcriptions[word][lang]))
 	pickle.dump(all_transcriptions, open('../data/all_languages.p','wb'))
