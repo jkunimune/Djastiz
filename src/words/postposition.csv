@@ -1,13 +1,13 @@
 eng,source,ltl
 "of; -'s; _denotes modifier or associate_ {COMPLEMENT:kind; relation; specifier {GENITIVE:genitive}|RELATIVE:whose}",ara <ـٍ> [in],im
-"than; as; _denotes amount or degree_ {COMPLEMENT:amount; number; quantity; extent; magnitude {GENITIVE:numerical; quantitative; equative}|RELATIVE:the amout that}",zul <TODO> [inani],inan
+"than; as; _denotes amount or degree_ {COMPLEMENT:amount; number; quantity; extent; magnitude {GENITIVE:numerical; quantitative; equative}|RELATIVE:the amout that}",cmn <量> [ljaŋ˥˩],jan
 "sbj; by; _denotes agent_ {COMPLEMENT:subject; agent; cause; force {GENITIVE:causal; subjective}|RELATIVE:who}",ara <ـٌ> [un],un
 "obj; on; to; _denotes direct object, patient, or experiencer_ {COMPLEMENT:direct object {GENITIVE:objective; absolutive; accusative}|RELATIVE:which}",epo <-on> [on],on
-"ind; to; by; _denotes indirect object, theme, stimulus, or recipient_ {COMPLEMENT:indirect object {GENITIVE:objective}|RELATIVE:whom}",pan <ਾਂ> [ãː],am
-"at; on; in; _denotes time_ {COMPLEMENT:time; date; instance {GENITIVE:temporal; dative}|RELATIVE:when|VERB:be at; coincide; OBJ happens at the same time as IND}",mar <TODO> [ˈʋeɭə],el
-"on; at; in; _denotes location_ {COMPLEMENT:location; place {GENITIVE:spacial; locative}|RELATIVE:where|VERB:be present; be; OBJ is present at IND}",hin <TODO> [ˈd͡ʒəɡəɦ],eh
-"by; with; through; _denotes instrument_ {COMPLEMENT:tool; medium; instrument {GENITIVE:instrumental; prolative}|RELATIVE:with which|VERB:use; work through; SBJ {user} uses OBJ}",hin <TODO> [ˈsaːdʱən],atan
-"because; since; _denotes cause_ {COMPLEMENT:cause; inciting event; agent {GENITIVE:causal}|RELATIVE:because of which}",cmn <TODO> [ɥɛn˧˥in˥],enjen
-"for; so; to; _denotes purpose, goal, or beneficiary_ {COMPLEMENT:purpose; end; justification {GENITIVE:purposeful; intentional; objective; purposive}|RELATIVE:for which}",hin <TODO> [udˈdeʃjə],utec
-"if; for; _denotes hypothetical world_ {COMPLEMENT:condition; world {GENITIVE:conditional}|RELATIVE:for which}",eng <TODO> [ɪf],ajf
-"by; as; via; _denotes method or manner_ {COMPLEMENT:method; way; path; manner {GENITIVE:methodical; formal; instructive}|RELATIVE:by which}",swa <njia> [ˈᶮɟia],ian
+"ind; to; by; _denotes indirect object, theme, stimulus, or recipient_ {COMPLEMENT:indirect object {GENITIVE:objective}|RELATIVE:whom}",pan <-ਾਂ> [ãː],am
+"at; on; in; _denotes time_ {COMPLEMENT:time; date; instance {GENITIVE:temporal; dative}|RELATIVE:when|VERB:be at; coincide; OBJ happens at the same time as IND}",mar <वेळ> [ˈʋeɭə],el
+"on; at; in; _denotes location_ {COMPLEMENT:location; place {GENITIVE:spacial; locative}|RELATIVE:where|VERB:be present; be; OBJ is present at IND}",hin <जगह
+> [ˈd͡ʒəɡəɦ],eh
+"by; with; through; _denotes instrument_ {COMPLEMENT:tool; medium; instrument {GENITIVE:instrumental; prolative}|RELATIVE:with which|VERB:use; work through; SBJ {user} uses OBJ}",hin <साधन> [ˈsaːdʱən],atan
+"because; since; _denotes cause_ {COMPLEMENT:cause; inciting event; agent {GENITIVE:causal}|RELATIVE:because of which}",cmn <原因> [ɥɛn˧˥in˥],enjen
+"if; for; _denotes hypothetical world_ {COMPLEMENT:condition; world {GENITIVE:conditional}|RELATIVE:for which}",eng <if> [ɪf],ajf
+"by; as; via; _denotes method or manner_ {COMPLEMENT:method; way; path; manner {GENITIVE:methodical; formal; instructive}|RELATIVE:by which}",fil <paraan> [paɾɐʔan],alan
