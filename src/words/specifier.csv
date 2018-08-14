@@ -1,7 +1,7 @@
 eng,source,ltl
 "some; describes an unspecified subset of the following noun phrase",eng <some> [səm],sam
 "any; one of; describes a single arbitrary instance of the following noun phrase",spa <cualquier> [kwalˈkjer],kwal
-"each; every; describes every instance of the following noun phrase individually",ANTONYM OF any,njal
+"each; every; describes every instance of the following noun phrase individually",OPPOSITE OF any,njal
 "only; just; describes the following noun phrase and nothing else",spa <solo> [solo],sol
 "even; so; too; neither; emphasizes something surprising",eng <even> [ˈiːvn̩],fen
 "both",eng <又> [jow˥˩],hjo

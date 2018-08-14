@@ -17,8 +17,8 @@ With these goals in mind, I developed a language with the following key features
 * Partially self-segregating morphology
 * Stative verbs in lieu of adjectives
 * Completely anlytic
-* Left-branching
 * Active-stative
+* Primarily left-branching
 * Postposition-facilitated free word order
 
 ## This repository

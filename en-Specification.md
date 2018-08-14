@@ -105,9 +105,11 @@ Approved extensions to the Chatisun alphabet for more accurate transcription of 
 |---------------|-------|---------|------|
 |**Approximant**| j y   | j w     | ɯ w  |
 |**Close**      | i y   | i u     | ɯ u  |
-|**Mid**        | e y   | a ɒ     | ɯ o  |
+|**Mid**        | e y   | ə ə     | ɯ o  |
 |**Open**       | a ɒ   | a ɒ     | a ɒ  |
 
+|                   |    |          |   |
+|-------------------|----|----------|---|
 |**Voiceless**      | nh |**Stress**| ' |
 |**Aspirated**      | th |**Long**  | ee|
 |**Rhoticity**      | aɹ |**High**  | ˥ |
@@ -160,7 +162,7 @@ Djastiz indexes from zero. Obviously. `f o uf` can therefore translate to either
 
 Djastiz also uses the metric system for all measurements of length, area, volume, mass, current, magnetic flux density, etc., with appropriate loanwords for each respective unit from French. Other units may, of course, be used, but metric is default.
 
-Dates in Lawntoklian are expressed YYYY-MM-DD hh:mm:ss.sss Z. Thus, the first humans landed on the lunar surface at 1969-07-20 20:17 UTC.
+Dates in Lawntoklian are expressed YYYY-MM-DD hh:mm:ss.sss Z. Thus, the first humans landed on the lunar surface at 1969-07-20 20:17 UTC. There are no names for months or days of the week for the same reason that there aren't names for years, days of the month, or hours. "Tuesday" is the second day, `mefsaslinan im halim sunsaslinan` or whatever.
 
 One other way that Djastiz differs from measurements in English is its greater number of coordinate words. While in English, the words "up", "down", "left", and "right" can mean different things in different contexts, in Djastiz, the corresponding words are precise. For example, "up" with respect to an elevator in English means a linear axis perpendicular to the local gravitational equipotential. "Up" with respect to a page, though, in fact means an angular direction that can be linearly up if the page is on a wall or forward if the page is on a table. Djastiz has separate words for these concepts: `rd` for the linear dimension, and `ssri` for the angular dimension. Always take care when singing Djastiz to know whether to use Cartesian or spherical coordinates.
 
@@ -300,11 +302,13 @@ Numbers can also be considered special words in that they concatenate with each 
 
 That's all of the official grammar. You may find it rather short. "Where are the tenses, the passives, the participles?" you ask. While these do not exist explicitly in Launtoklian, they can be expressed using preexisting structures. Therefore, while their inclusion here is not strictly necessary, I will explain them so that everyone understands best practices for such situations without needing derive them themselves.
 
-Tenses are simple. If it is important to a sentence whether it happened in the past, present, or future, the dative postposition `ec` can be used with the appropriate word.
+Tenses are simple. If it is important to a sentence whether it happened in the past, present, or future, the dative postposition `eh` can be used with the appropriate word.
 
-Passives are somewhat nonexistent in Launtoklian
+Passives are somewhat nonexistent in Launtoklian, since you can just switch the order anyway.
 
 Participles in Launtoklian are represented with relative clauses.
+
+Adverbs come in two flavours: things like "quickly" and things like "hopefully".
 
 ## Gestures
 

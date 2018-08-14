@@ -22,6 +22,7 @@ eng,source,ltl
 "Chinese; the macrolanguage {GENITIVE:Chinese; in Chinese}",cmn <中文> [t͡ʂʊŋ˥wən˧˥],'cunwan
 "English; the language {GENITIVE:English; in English}",eng <English> [ˈiŋglɪʃ],'inkelic
 "Esperanto; the language {GENITIVE:Esperanto; in Esperanto}",epo <Esperanto> [espeˈranto],'espelanto
+"Filipino; the language {GENITIVE:Filipino; in Filipino}",fil <Wikang Filipino> [wɪˈkɐŋ ˌfiːliˈpiːno],'wijanfilipino
 "French; the language {GENITIVE:French; in French}",fra <français> [fʁɑ̃sɛ],'afhanse
 "German; the language {GENITIVE:German; in German}",deu <Deutsch> [dɔʏ̯t͡ʃ],'tojc
 "Hausa; the language {GENITIVE:Hausa; in Hausa}",hau <هَرْشَن هَوْسَ‬> [haɽʃen hausa],'halcenhausa
@@ -329,6 +330,19 @@ eng,source,ltl
 "Tianjin; the city",cmn <TODO> [tʰjɛn˥t͡ɕin˥],'tjencin
 "Tokyo; the city",jpn <東京> [toːkʲoː],'tokjo
 "Washington D.C.; the city",eng <Washington D.C.> [ˈwɑʃiŋtɪn diː siː],'wacintontisi
+"Alpha Centauri; the star {GENITIVE:Centaurian}",,
+"Andromeda; the galaxy {GENITIVE:Andromedan}",,
+"Arcturus; the star {GENITIVE:Arcturan}",,
+"Mars; the planet {GENITIVE:Martian}",,
+"Mercury; the planet {GENITIVE:Mercurian}",,
+"Milky Way; the galaxy {GENITIVE:Milky}",,
+"Neptune; the planet {GENITIVE:Neptunian}",,
+"Jupiter; the planet {GENITIVE:Jovian}",,
+"Saturn; the planet {GENITIVE:Saturnic}",,
+"Sirius; the star {GENITIVE:Sirial}",,
+"Uranus; the planet {GENITIVE:Uranic}",,
+"Vega; the star {GENITIVE:Vegan}",,
+"Venus; the planet {GENITIVE:Venusian}",,
 "Bahá'í; the religion {GENITIVE:TODO}",far <TODO> [ba˨ˈha˦ʔi˦],'pahai
 "Buddhism; the religion {GENITIVE:TODO}",san <TODO> [bud̚˨dʱɐ˦],'putha
 "Cao Dai; the religion {GENITIVE:TODO}",vie <TODO> [kaːw˧ ɗaːj˦˨],'kawtaj
@@ -373,7 +387,9 @@ eng,source,ltl
 "pomegranate; the tree; the fruit",far <TODO> [æˈnɒːɾ],'anol
 "cucumber; the vine; the fruit",far <TODO> [χiːjɒːɾ],'hial
 "cinnamon; the tree; the spice",tam <TODO> [ilʌʋʌŋˈɡʌpːʌʈːʌj],'ilawankapataj
+"pizza; the dish",,
 "calzone; the dish",ita <calzone> [kalˈt͡soːne],'kalsone
+"cake; the dish",,
 "beer; the drink",eng <beer> [biɹ],pil
 "wine; the drink",,
 "vodka; the drink",,
