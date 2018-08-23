@@ -3,13 +3,14 @@
 
 import csv
 import os
+import pandas as pd
 import re
 import six
 
 from google.cloud import translate
 
 
-LANGUAGES = ['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'yo', 'mr', 'ig', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']
+LANGUAGES = ['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'jv', 'yo', 'mr', 'ms', 'ig', 'tl', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']
 
 
 def translate_text(target, text, translate_client, source='en'):
@@ -50,9 +51,9 @@ def save_dictionaries(dictionaries, filepath):
 
 
 def get_key(definition):
-	eng_word = re.search(r'\*([^\b])\b', definition)
+	eng_word = re.search(r'\*(\w+)\b', definition)
 	if eng_word is None:
-		eng_word = re.search(r'^([^;\(]+)( \(|;|$)', definition)
+		eng_word = re.search(r'^([^;\{]+)( \{|;|$)', definition)
 	return eng_word.group(1)
 
 
@@ -65,21 +66,24 @@ if __name__ == '__main__':
 	print("Let us begin...")
 	for filename in ['verb.csv', 'noun.csv']:
 		with open('./words/{}'.format(filename), 'r', encoding='utf-8', newline='') as f:
-			for english, chatisun, source in csv.reader(f):
-				if not source or (len(source.split()[0]) == 3 and source.split()[0] != 'ono'):
-					key = get_key(english)
-					if len(key.split()) > 1 and key.split()[0] in ['be', 'find', 'have', 'give', 'do', 'get']:
-						key = ' '.join(key.split()[1:]) #drop the "be"
-					print('Translating "{}" to {} languages...'.format(key, len(LANGUAGES)))
-					any_update = False
-					for lang_code in LANGUAGES:
-						if key not in dictionaries[lang_code]:
-							dictionaries[lang_code][key] = translate_text(lang_code, key, translate_client)
-							print("\t{}: {}".format(lang_code[:2], dictionaries[lang_code][key]))
-							any_update = True
+			word_set = pd.read_csv(f, dtype=str, na_filter=False)
+		for row in word_set.itertuples():
+			english, source = row.eng, row.source
 
-					if any_update:
-						save_dictionaries(dictionaries, '../data/dict_{}.csv')
-					num_roots += 1
+			if not source or (len(source.split()[0]) == 3 and source.split()[0] != 'ono'):
+				key = get_key(english)
+				if len(key.split()) > 1 and key.split()[0] in ['be', 'beI', 'find', 'have', 'give', 'do', 'get']:
+					key = ' '.join(key.split()[1:]) #drop the "be"
+				print('Translating "{}" to {} languages...'.format(key, len(LANGUAGES)))
+				any_update = False
+				for lang_code in LANGUAGES:
+					if key not in dictionaries[lang_code]:
+						dictionaries[lang_code][key] = translate_text(lang_code, key, translate_client)
+						print("\t{}: {}".format(lang_code[:2], dictionaries[lang_code][key]))
+						any_update = True
+
+				if any_update:
+					save_dictionaries(dictionaries, '../data/dict_{}.csv')
+				num_roots += 1
 
 	print("{} noun and verb roots".format(num_roots))

@@ -11,17 +11,18 @@ eng,source,ltl
 "9; nine {GENITIVE:ninth}",spa <nueve> [ˈnweβe],nof
 "A; 10; ten; only used for duodecimal and hexadecimal {GENITIVE:tenth}",nya <TODO> [kʰu˨mi˨],kum
 "B; 11; eleven; only used for duodecimal and hexadecimal {GENITIVE:eleventh}",hin <TODO> [gjɔɾəɦ],kah
-"C; 12; dozen; only used for hexadecimal {GENITIVE:twelfth}",ben <TODO> [bɔro],pol
-"D; 13; baker's dozen; only used for hexadecimal {GENITIVE:thirteenth}",pan <TODO> [t̪eːɾɑːŋ],tel
+"C; 12; twelve; dozen; only used for hexadecimal {GENITIVE:twelfth}",ben <TODO> [bɔro],pol
+"D; 13; thirteen; baker's dozen; only used for hexadecimal {GENITIVE:thirteenth}",pan <TODO> [t̪eːɾɑːŋ],tel
 "E; 14; fourteen; only used for hexadecimal {GENITIVE:fourteenth}",spa <catorce> [kaˈtoɾse],tol
 "F; 15; fifteen; only used for hexadecimal {GENITIVE:fifteenth}",spa <quince> [ˈkinse],kin
-"G; 16; only used to describe hexadecimal {GENITIVE:sixteenth}",ben <TODO> [sʰolo],sol
+"G; 16; sixteen; only used to describe hexadecimal {GENITIVE:sixteenth}",ben <TODO> [sʰolo],sol
 "much; many",,
 "several; some; few; handful; medium; (1, radix]",,
-"little; few",,OPPOSITE OF much
-"all; absolute; maximum {GENITIVE:last; final; universal}",tun,OPPOSITE OF zero
-"point; radix point",eng <point> [pʰoɪ̯nt],pojn
-"×10^ (or ×12^, or whatever depending on the radix)",eng <-llion> [liən],ljo
+"little; few",OPPOSITE OF much,
+"all; absolute; maximum {GENITIVE:last; universal}",OPPOSITE OF 0,tun
+"point; radix point",ara <TODO> [TODO],pojn
+"×10^; -llion; times the radix to the",cmn <TODO> [liən],
 "radix",eng <-imal> [ɪml̩],imal
-"-; minus; negative",,
+"minus; negative",,
+"positive",ANTONYM OF minus,
 "over; division; fraction",,

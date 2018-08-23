@@ -2,7 +2,9 @@
 
 import collections
 import csv
+import json
 import matplotlib.pyplot as plt
+import numpy as np
 import os
 from os import path
 import pandas as pd
@@ -11,8 +13,30 @@ import re
 
 
 
+SOURCE_LANGUAGES = {
+	'cmn':.2243,
+	'spa':.1495,
+	'epo':.1429,
+	'eng':.0930,
+	'hin':.0898,
+	'ben':.0838,
+	'pan':.0422,
+	'jav':.0286,
+	'yor':.0260,
+	'mar':.0248,
+	'msa':.0206,
+	'ibo':.0186,
+	'fil':.0153,
+	'swa':.0111,
+	'zul':.0081,
+	'nya':.0067,
+	'xho':.0056,
+	'sho':.0050,
+	'sot':.0041,
+}
+
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','REVERSAL','POSSIBILITY','VERB']
-NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','COMPLEMENT','RELATIVE','REFLEXIVE']
+NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','COMPLEMENT','RELATIVE']
 MISC_DERIVATIONS = ['OPPOSITE']
 
 
@@ -32,6 +56,36 @@ def get_curly_brace_pair(string):
 			return i_open, i_close
 		i_close += 1
 	raise ValueError("Unbalanced curly braces: {}".format(string))
+
+
+def apply_phonotactics(ipa):
+	""" take some phonetic alphabet and approximate it with my phonotactics """
+	return ipa
+
+
+def choose_word(english, real_words, counts):
+	""" determine what word should represent english, based on the given foreign dictionaries and
+		current representation of each language. Return the source lang, source orthography, source IPA, and my word """
+	if len(english.split()) > 1 and english.split()[0] in ['be', 'find', 'have', 'give', 'do', 'get']:
+		english = ' '.join(english.split()[1:]) # remove English grammar particles
+	options, scores = [], []
+	for lang, target_frac in sorted(SOURCE_LANGUAGES.items()):
+		orthography, broad, narrow = real_words[english][lang]
+		reduced = apply_phonotactics(broad)
+		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
+
+		if lang != 'eng' and orthography == english: # if the orthography is exactly the same as in English
+			score = float('-inf') # it's probably not a real translation
+
+		options.append((lang, orthography, narrow, reduced))
+		scores.append(score)
+		
+	return options[np.argmax(scores)]
+
+
+def derive(source_word, deriv_type):
+	""" Apply that powerful morphological derivation system I keep bragging about """
+	return source_word+deriv_type
 
 
 def load_dictionary(directory):
@@ -58,9 +112,7 @@ def load_dictionary(directory):
 
 		for key, value in entry.items():
 			if '*' in value:
-				assert not entry['source'], "Why is there a * and a source cited for {}".format(entry)
-				starred = value[value.index('*')+1:]
-				starred = starred[:re.search(r'\b', starred).start()] # look for explicit source word selections
+				starred = re.search(r'\*(\w+)\b', value).group(1) # look for explicit source word selections
 				entry['source'] = '*'+starred
 				entry[key] = value.replace('*','')
 				break
@@ -75,7 +127,7 @@ def load_dictionary(directory):
 						k = deriv_statement.index(':')
 						unprocessed_derivatives[deriv_statement[:k]][key] = deriv_statement[k+1:]
 					else:
-						assert value[i-4:i-1] in ['SBJ','OBJ','IND']
+						assert value[i-4:i-1] in ['SBJ','OBJ','IND'], value
 						unprocessed_derivatives[value[i-4:i-1]][key] = deriv_statement
 				value = (value[:i-1] + value[j+1:]).strip()
 				entry[key] = value
@@ -83,8 +135,9 @@ def load_dictionary(directory):
 		for key in entry:
 			if key not in ['source', 'ltl', 'derivatives', 'partos']:
 				entry[key] = entry[key].split('; ') # separate definitions when applicable
-				while not entry[key][0]:
-					entry[key].pop(0) # ignore any empty things
+				for i, meaning in reversed(list(enumerate(entry[key]))):
+					if meaning == '' or meaning in entry[key][:i]:
+						entry[key].pop(i) # ignore any empty things and duplicates
 
 		for i, eng_meaning in enumerate(entry['eng']):
 			if eng_meaning.startswith('beI '): # handle implicit derivatives
@@ -120,16 +173,41 @@ def load_dictionary(directory):
 				raise TypeError("What is {}".format(deriv_type))
 			queue.append(deriv_dict) # finally, put the unprocessed derivatives in the queue
 
-	import json
-	print(json.dumps(words, indent=2))
+	# import json
+	# print(json.dumps(words, indent=2))
 	return words
 
 
 def fill_blanks(my_words, real_words):
 	""" come up with words from the source dictioraries for all nouns and verbs that aren't
 		onomotopoeias, and update the compound words accordingly """
-	for gloss, entry in my_words.items():
-		pass
+	tallies = collections.Counter() # start by counting how many words we have of each language already
+	print(my_words)
+	for entry in my_words.values():
+		if entry['partos'] not in ['noun','verb','loanword','compound word']:
+			if entry['source'] and len(entry['source'].split()[0]) == 3:
+				tallies[entry['source'].split()[0]] += 1
+	print(tallies)
+				
+	for entry in my_words.values():
+		if entry['partos'] in ['noun','verb']:
+			if entry['source'].startswith('*') or entry['source'] == '' or entry['source'].split()[0] in SOURCE_LANGUAGES:
+				eng = entry['source'][1:] if entry['source'].startswith('*') else entry['eng'][0]
+				lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies)
+				entry['ltl'] = my_word
+				entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
+
+	for entry in my_words.values():
+		if ' OF ' in entry['source']:
+			d_type, d_gloss = entry['source'].split(' OF ')
+			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type)
+		elif entry['partos'] == 'compound word':
+			entry['ltl'] = ''
+			for component in entry['source'].split():
+				try:
+					entry['ltl'] += my_words[component.replace('-',' ')]['ltl']
+				except KeyError as e:
+					raise KeyError("No {} for {}'s {}".format(e, entry, entry['source'].split()))
 
 
 def save_dictionary(dictionary, directory):
@@ -152,6 +230,7 @@ if __name__ == '__main__':
 	with open('../data/all_languages.p', 'rb') as f:
 		source_dictionaries = pickle.load(f)
 	fill_blanks(all_words, source_dictionaries)
+	print(json.dumps(all_words, indent=2))
 	save_dictionary(all_words, 'words')
 	format_dictionary(all_words, '../Dictionaries')
 	hist = measure_corpus('../Example Texts')

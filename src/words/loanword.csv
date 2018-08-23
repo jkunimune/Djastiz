@@ -74,23 +74,12 @@ eng,source,ltl
 "The Gulf of Mexico; the sea",,
 "The Mediterranean Sea; the sea",lat <Mare Mediterrāneum> [ˈmarɛ mɛdɪtɛrˈraːneũ],'metitelanjum
 "The South China Sea",,
-"America; the landmass",spa <Las Américas> [las aˈmeɾikas],'lasamelikas
+"America; The Americas; the landmass",spa <Las Américas> [las aˈmeɾikas],'lasamelikas
 "Africa; the continent",,
 "North America; the continent",eng <North America> [nɔɹθ əˈmɛɹʷɪkə],'notamelika
 "South America; the continent",por <América do Sul> [aˈmɛɾika du sul],'sulamelika
 "Antarctica; the landmass; the continent",eng <Antarctica> [ænˈtɑːktɪkə],'antaktika
 "Eurasia; the continent {GENITIVE:Eurasian}",rus <Евразия> [jɪˈvrazʲɪjə],'jewlasija
-"Oceania; the continent",,
-"North Africa; the subcontinent",,
-"Sub-Saharan Africa; the subcontinent",,
-"Central America; the subcontinent",,
-"The Arctic; the subcontinent",,
-"Central Asia; the subcontinent {GENITIVE:central asian}",,
-"Far East; the subcontinent {GENITIVE:eastern Asian}",,
-"South Asia; the subcontinent {GENITIVE:Indian}",,
-"Europe; the subcontinent {GENITIVE:European}",,
-"Middle East; the subcontinent {GENITIVE:Middle Eastern}",,
-"US-Canada; the subcontinent",,
 "Afghanistan; the country {GENITIVE:Afghan}",prs <افغانستان‬> [avɣɒnestɒn],'afhaniston
 "South Africa; the country {GENITIVE:South African}",xho <Mzansi> [m̩z̤ansi],'musansi
 "Albania; the country {GENITIVE:TODO}",alb <Shqipëri> [ʃcipəɾi],'ickipali
@@ -100,7 +89,7 @@ eng,source,ltl
 "Antigua and Barbuda; the country {GENITIVE:TODO}",eng <Antigua and Barbuda> [æntiːɡə ən bɑːbjuːdə],'antikapapjuta
 "Argentina; the country {GENITIVE:TODO}",spa <Argentina> [aɾxenˈtina],alhentina
 "Armenia; the country {GENITIVE:TODO}",hye <Հայաստան> [hɑjɑsˈtɑn],'hajastan
-"Australia; the landmass; the country {GENITIVE:TODO}",eng <Australia> [əˈstɹʷæɪ̯ljə],'astwajlja
+"Australia; the landmass; the continent; the country {GENITIVE:TODO}",eng <Australia> [əˈstɹʷæɪ̯ljə],'astwajlja
 "Austria; the country {GENITIVE:TODO}",deu <Österreich> [ˈøːstɐraɪç],'ewstahaic
 "Azerbaijan; the country {GENITIVE:TODO}",aze <Azərbaycan> [ɑːzæɾbɑjˈd͡ʒɑn],asalpajcan
 "The Bahamas; the country {GENITIVE:TODO}",eng <Bahamas> [bəˈhɑːməz],'pahamas
@@ -396,6 +385,9 @@ eng,source,ltl
 "jasmine tea; the drink",,
 "jeans; the dress",eng <jeans> [d͡ʒiːnz],'cin
 "kimono; the dress",jpn <着物> [kʲimono],'kimono
+"T-shirt; the dress",eng <T-shirt> [tʰiː ʃəɹt],'ticat
+"anime; the cartoon genre",jpn <アニメ> [aɲime],'anime
+"manga; the comic genre",jpn <漫画> [maŋɡa],'manga
 "hydroden; the substance",,
 "helium; the substance",,
 "lithium; the substance",,
@@ -405,8 +397,8 @@ eng,source,ltl
 "denim; the substance",,
 "galaxy",gre <TODO> [ɡalaksíaːs],'kalasias
 "radian; the unit of angles",eng <radian> [ˈɹʷeɪdiɪn],'watian
-"meter; the unit of length",fra <mètre> [ˈmɛtʁ],'methe
-"liter; the unit of volume",fra <litre> [ˈlitʁ],'lithe
+"metre; the unit of length",fra <mètre> [ˈmɛtʁ],'methe
+"litre; the unit of volume",fra <litre> [ˈlitʁ],'lithe
 "kilogram; the unit of mass",fra <kilogramme> [ˈkilɔɡʁam],'kiloham
 "°C; the unit of temperature",swe <TODO> [ˈsɛːlsjʊs],'selsjus
 "ke; the unit of time",cmn <TODO> [kʰɤ˨˩],'kao

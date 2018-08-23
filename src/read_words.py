@@ -14,11 +14,13 @@ import eng_to_ipa # available at https://github.com/mphilli/English-to-IPA.git
 
 LANG_CODES = {
 	'zh-CN':'cmn', 'es':'spa', 'eo':'epo', 'en':'eng', 'hi':'hin', 'bn':'ben', 'ar':'ara', 'pa':'pan',
-	'yo':'yor', 'mr':'mar', 'ig':'igb', 'sw':'swa', 'zu':'zul', 'ny':'nya', 'xh':'xho', 'sn':'sho', 'st':'sot'}
+	'jv':'jav', 'yo':'yor', 'mr':'mar', 'ms':'msa', 'ig':'ibo', 'tl':'fil', 'sw':'swa', 'zu':'zul',
+	'ny':'nya', 'xh':'xho', 'sn':'sho', 'st':'sot'}
 
 EPITRANSLATORS = {lang:epitran.Epitran(script) for lang, script in
-	[('hi','hin-Deva'), ('bn','ben-Beng'), ('ar','ara-Arab'), ('pa','pan-Guru'), ('yo','yor-Latn'), ('mr','mar-Deva'),
-	('sw','swa-Latn'), ('zu','zul-Latn'), ('ny','nya-Latn'), ('xh','xho-Latn'), ('sn','sna-Latn')]}
+	[('hi','hin-Deva'), ('bn','ben-Beng'), ('ar','ara-Arab'), ('pa','pan-Guru'), ('jv','jav-Latn'),
+	 ('yo','yor-Latn'), ('mr','mar-Deva'), ('ms','msa-Latn'), ('tl','tgl-Latn'), ('sw','swa-Latn'),
+	 ('zu','zul-Latn'), ('ny','nya-Latn'), ('xh','xho-Latn'), ('sn','sna-Latn')]}
 
 
 def read_mandarin(word):
@@ -353,5 +355,5 @@ if __name__ == '__main__':
 				else:
 					broad, narrow = read(orthography, lang)
 				all_transcriptions[word] = {**all_transcriptions.get(word,{}), LANG_CODES[lang]:(orthography, broad, narrow)}
-				print("{} in {} is spelled {} and pronounced /{}/ [{}]".format(word, lang, *all_transcriptions[word][lang]))
+				print("{} in {} is spelled {} and pronounced /{}/ [{}]".format(word, lang, *all_transcriptions[word][LANG_CODES[lang]]))
 	pickle.dump(all_transcriptions, open('../data/all_languages.p','wb'))
