@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
 			if not source or (len(source.split()[0]) == 3 and source.split()[0] != 'ono'):
 				key = get_key(english)
-				if len(key.split()) > 1 and key.split()[0] in ['be', 'beI', 'find', 'have', 'give', 'do', 'get']:
+				if len(key.split()) > 1 and key.split()[0] in ['be', 'beI', 'find', 'have', 'give', 'do', 'get', 'can']:
 					key = ' '.join(key.split()[1:]) #drop the "be"
 				print('Translating "{}" to {} languages...'.format(key, len(LANGUAGES)))
 				any_update = False

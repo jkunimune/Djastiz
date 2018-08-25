@@ -58,28 +58,40 @@ def get_curly_brace_pair(string):
 	raise ValueError("Unbalanced curly braces: {}".format(string))
 
 
-def apply_phonotactics(ipa):
-	""" take some phonetic alphabet and approximate it with my phonotactics """
-	return ipa
+def apply_phonotactics(ipa, ending='csktp'):
+	""" take some phonetic alphabet and approximate it with my phonotactics, and say how many changes there were """
+	changes = 0
+	return ipa, changes
 
 
 def choose_word(english, real_words, counts):
 	""" determine what word should represent english, based on the given foreign dictionaries and
 		current representation of each language. Return the source lang, source orthography, source IPA, and my word """
-	if len(english.split()) > 1 and english.split()[0] in ['be', 'find', 'have', 'give', 'do', 'get']:
+	if len(english.split()) > 1 and english.split()[0] in ['be', 'find', 'have', 'give', 'do', 'get', 'can']:
 		english = ' '.join(english.split()[1:]) # remove English grammar particles
 	options, scores = [], []
 	for lang, target_frac in sorted(SOURCE_LANGUAGES.items()):
 		orthography, broad, narrow = real_words[english][lang]
-		reduced = apply_phonotactics(broad)
+		reduced, changes = apply_phonotactics(broad)
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
+		score -= 2.0*changes # favour words that require fewer changes
 
 		if lang != 'eng' and orthography == english: # if the orthography is exactly the same as in English
+			reduced = '*'
 			score = float('-inf') # it's probably not a real translation
 
 		options.append((lang, orthography, narrow, reduced))
 		scores.append(score)
-		
+
+	for i, ((lang, orthography, narrow, reduced), score) in enumerate(zip(options, scores)):
+		score -= 3.0*len(reduced) # prefer longer words
+		for _, _, _, reduced2 in options:
+			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other languages
+				if c1 == c2:	score += 0.5
+				else:			break
+		scores[i] = score
+	
+	print("Out of \n{};\nI choose {}".format(',\n'.join(str(tup) for tup in options), options[np.argmax(scores)]))
 	return options[np.argmax(scores)]
 
 
@@ -182,7 +194,6 @@ def fill_blanks(my_words, real_words):
 	""" come up with words from the source dictioraries for all nouns and verbs that aren't
 		onomotopoeias, and update the compound words accordingly """
 	tallies = collections.Counter() # start by counting how many words we have of each language already
-	print(my_words)
 	for entry in my_words.values():
 		if entry['partos'] not in ['noun','verb','loanword','compound word']:
 			if entry['source'] and len(entry['source'].split()[0]) == 3:
@@ -196,6 +207,7 @@ def fill_blanks(my_words, real_words):
 				lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies)
 				entry['ltl'] = my_word
 				entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
+				tallies[lang] += 1
 
 	for entry in my_words.values():
 		if ' OF ' in entry['source']:
