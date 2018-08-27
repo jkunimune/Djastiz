@@ -51,10 +51,10 @@ def save_dictionaries(dictionaries, filepath):
 
 
 def get_key(definition):
-	eng_word = re.search(r'\*(\w+)\b', definition)
-	if eng_word is None:
-		eng_word = re.search(r'^([^;\{]+)( \{|;|$)', definition)
-	return eng_word.group(1)
+	if '*' in definition:
+		return re.search(r'\*(\w+)\b', definition).group(1)
+	else:
+		return re.search(r'^([^;\{]+)( \{|;|$)', definition).group(1)
 
 
 if __name__ == '__main__':
@@ -73,7 +73,9 @@ if __name__ == '__main__':
 			if not source or (len(source.split()[0]) == 3 and source.split()[0] != 'ono'):
 				key = get_key(english)
 				if len(key.split()) > 1 and key.split()[0] in ['be', 'beI', 'find', 'have', 'give', 'do', 'get', 'can']:
-					key = ' '.join(key.split()[1:]) #drop the "be"
+					key = ' '.join(key.split()[1:]) # drop the "be"
+				elif filename == 'verb.csv' and '*' not in english:
+					key = 'to '+key
 				print('Translating "{}" to {} languages...'.format(key, len(LANGUAGES)))
 				any_update = False
 				for lang_code in LANGUAGES:
