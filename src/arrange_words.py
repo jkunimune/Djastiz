@@ -3,6 +3,7 @@
 import collections
 import csv
 import json
+import logging
 import matplotlib.pyplot as plt
 import numpy as np
 import os
@@ -10,7 +11,11 @@ from os import path
 import pandas as pd
 import pickle
 import re
+import unicodedata
 
+
+
+logging.basicConfig(level=logging.ERROR)
 
 
 SOURCE_LANGUAGES = {
@@ -35,6 +40,41 @@ SOURCE_LANGUAGES = {
 	'sot':.0041,
 }
 
+ALLOWED_CHANGES = [
+	('mɱ', 'm'),
+	('nɳŋɴ', 'n'),
+	('ɲ', 'nj'),
+	('pbɓ', 'p'),
+	('tdʈɖɗ', 't'),
+	('cɟʄ', 'kj'),
+	('kɡɠ', 'k'),
+	('fɸ', 'f'),
+	('θsz', 's'),
+	('ʃʒɕʑʂʐ', 'c'),
+	('ç', 'hj'),
+	('xχħhɦ', 'h'),
+	('wʷɰ', 'w'),
+	('jʲʎ', 'j'),
+	('lɬrɾɽɭ', 'l'),
+	('aɑæ', 'a'),
+	('eèɛ', 'e'),
+	('iɪɨ', 'i'),
+	('oɔɒ', 'o'),
+	('uʊʉɯ', 'u'),
+	('- ˩˨˧˦˥ʰʼˈˌː⁀', '')
+]
+RESTRICTED_CHANGES = [
+	('ǃǀ', 't'),
+	('ǁ', 'k'),
+	('ʄ', 'kj'),
+	('ð', 's'),
+	('ɣʁʕʀ', 'h'),
+	('ɮ', 'l'),
+	('ə', 'a'),
+	('ɤ', 'aw'),
+	('œ', 'ew'),
+]
+
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','REVERSAL','POSSIBILITY','VERB']
 NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','COMPLEMENT','RELATIVE']
 MISC_DERIVATIONS = ['OPPOSITE']
@@ -58,29 +98,103 @@ def get_curly_brace_pair(string):
 	raise ValueError("Unbalanced curly braces: {}".format(string))
 
 
+def reduce_phoneme(phoneme, before, after):
+	""" return the nearest lsl phoneme and the distance """
+	if phoneme.endswith('̩'): # this is how I do syllabics
+		cons, dist = reduce_phoneme(phoneme[0], before, after)
+		try:
+			return {'m':'u','n':'e','l':'o','r':'a','ɹ':'a'}[phoneme[0]] + cons, dist+1 # TODO: check context
+		except KeyError:
+			logging.error("epitran is trying to pass off /{}/ as a phoneme...?".format(phoneme))
+			return cons, dist
+	elif phoneme.endswith('̯'): # convert semivowels
+		if phoneme[0] in 'iɪeɛ':
+			return reduce_phoneme('j', before, after)
+		elif phoneme[0] in 'uʊoɔɯɤ':
+			return reduce_phoneme('w', before, after)
+		elif phoneme[0] in 'yʏø':
+			return reduce_phoneme('ɥ', before, after)
+		else:
+			raise IllegalArgumentException(phoneme)
+	for fulls, reduced in ALLOWED_CHANGES: # these loops should cover most sounds
+		if phoneme in fulls:
+			return reduced, 0
+	for fulls, reduced in RESTRICTED_CHANGES:
+		if phoneme in fulls:
+			return reduced, 1
+	if phoneme in 'βvⱱʋ':
+		return 'w', 0 # TODO: use context
+	if phoneme == 'ʝ':
+		return 'j', 0 # TODO: use context
+	if phoneme == 'y':
+		return 'i', 1 # TODO: use context
+	if phoneme == 'ɥ':
+		return 'j', 1 # TODO: use context
+	if phoneme == 'ɹ':
+		return '', 1 # TODO: use context
+	if phoneme == '̃':
+		return 'n', 0 # TODO: use context
+	if unicodedata.combining(phoneme):
+		return '', 0 # ignore all combining diacritics not expliticly listed here
+	raise ValueError(phoneme)
+
+
 def apply_phonotactics(ipa, ending='csktp'):
 	""" take some phonetic alphabet and approximate it with my phonotactics, and say how many changes there were """
-	changes = 0
-	return ipa, changes
+	logging.debug(ipa)
+	lsl, changes = '', 0
+	next_phoneme = ''
+	while ipa:
+		if len(ipa) > 1 and ipa[-1] in '̩̯': # TODO: exclude other combining diacritics
+			ipa, phoneme = ipa[:-2], ipa[-2:]
+		elif len(ipa) > 2 and ipa[-2] == '͡':
+			ipa, phoneme = ipa[:-3], ipa[-1:]
+		else:
+			ipa, phoneme = ipa[:-1], ipa[-1:]
+
+		new_phoneme, dist = reduce_phoneme(phoneme, ipa[-1:], next_phoneme)
+		lsl = new_phoneme + lsl
+		next_phoneme = phoneme
+
+	return lsl, changes
+
+
+def choose_key(entry):
+	""" choose the meaning key to use in the dictionary """
+	key = entry['source'][1:] if entry['source'].startswith('*') else entry['eng'][0]
+	if len(key.split()) > 1 and key.split()[0] in ['be', 'find', 'have', 'give', 'do', 'get', 'can']:
+		key = ' '.join(key.split()[1:]) # remove English grammar particles
+	elif entry['partos'] == 'verb' and not entry['source'].startswith('*'):
+		key = 'to '+key
+	return key
 
 
 def choose_word(english, real_words, counts):
 	""" determine what word should represent english, based on the given foreign dictionaries and
 		current representation of each language. Return the source lang, source orthography, source IPA, and my word """
-	if len(english.split()) > 1 and english.split()[0] in ['be', 'find', 'have', 'give', 'do', 'get', 'can']:
-		english = ' '.join(english.split()[1:]) # remove English grammar particles
+	logging.info("choosing a word for {}".format(english))
 	options, scores = [], []
 	for lang, target_frac in sorted(SOURCE_LANGUAGES.items()):
-		orthography, broad, narrow = real_words[english][lang]
-		reduced, changes = apply_phonotactics(broad)
+		try:
+			orthography, broad, narrow = real_words[english][lang]
+		except KeyError:
+			logging.error("missing translation of '{}' in {}".format(english, lang))
+			orthography, broad, narrow = english, english, english
+
+		if broad == '*':
+			continue # star means we don't have that word
+
+		try:
+			reduced, changes = apply_phonotactics(broad)
+		except ValueError as e:
+			logging.error("could not read IPA in {} \"{}\" /{}/; '{}' may not be an IPA symbol".format(lang, english, broad, e))
+			reduced, changes = broad, 0
+
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
 		score -= 2.0*changes # favour words that require fewer changes
 
-		if lang != 'eng' and orthography == english: # if the orthography is exactly the same as in English
-			reduced = '*'
-			score = float('-inf') # it's probably not a real translation
-
 		options.append((lang, orthography, narrow, reduced))
+		logging.debug(*options[-1])
 		scores.append(score)
 
 	for i, ((lang, orthography, narrow, reduced), score) in enumerate(zip(options, scores)):
@@ -91,7 +205,7 @@ def choose_word(english, real_words, counts):
 				else:			break
 		scores[i] = score
 	
-	print("Out of \n{};\nI choose {}".format(',\n'.join(str(tup) for tup in options), options[np.argmax(scores)]))
+	logging.info("Out of \n{};\nI choose {}".format(',\n'.join(str(tup) for tup in options), options[np.argmax(scores)]))
 	return options[np.argmax(scores)]
 
 
@@ -170,7 +284,7 @@ def load_dictionary(directory):
 				break
 		if words[possible_gloss] != entry:
 			gloss = '{}{:03d}'.format(entry['eng'][0], len(words))
-			print("Warning: There is no possible gloss for {}. '{}' will be used as a key.".format(entry, gloss))
+			logging.warn("There is no possible gloss for {}. '{}' will be used as a key.".format(entry, gloss))
 			words[gloss] = entry
 
 		for deriv_type, deriv_dict in unprocessed_derivatives.items():
@@ -185,8 +299,6 @@ def load_dictionary(directory):
 				raise TypeError("What is {}".format(deriv_type))
 			queue.append(deriv_dict) # finally, put the unprocessed derivatives in the queue
 
-	# import json
-	# print(json.dumps(words, indent=2))
 	return words
 
 
@@ -198,12 +310,12 @@ def fill_blanks(my_words, real_words):
 		if entry['partos'] not in ['noun','verb','loanword','compound word']:
 			if entry['source'] and len(entry['source'].split()[0]) == 3:
 				tallies[entry['source'].split()[0]] += 1
-	print(tallies)
+	logging.info(tallies)
 				
 	for entry in my_words.values():
 		if entry['partos'] in ['noun','verb']:
 			if entry['source'].startswith('*') or entry['source'] == '' or entry['source'].split()[0] in SOURCE_LANGUAGES:
-				eng = entry['source'][1:] if entry['source'].startswith('*') else entry['eng'][0]
+				eng = choose_key(entry)
 				lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies)
 				entry['ltl'] = my_word
 				entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
@@ -219,7 +331,7 @@ def fill_blanks(my_words, real_words):
 				try:
 					entry['ltl'] += my_words[component.replace('-',' ')]['ltl']
 				except KeyError as e:
-					raise KeyError("No {} for {}'s {}".format(e, entry, entry['source'].split()))
+					logging.error("No {} for {}'s {}".format(e, entry['eng'][0], entry['source'].split()))
 
 
 def save_dictionary(dictionary, directory):
@@ -242,9 +354,9 @@ if __name__ == '__main__':
 	with open('../data/all_languages.p', 'rb') as f:
 		source_dictionaries = pickle.load(f)
 	fill_blanks(all_words, source_dictionaries)
-	print(json.dumps(all_words, indent=2))
+	logging.info(json.dumps(all_words, indent=2))
 	save_dictionary(all_words, 'words')
 	format_dictionary(all_words, '../Dictionaries')
 	hist = measure_corpus('../Example Texts')
 	for word, count in hist.most_common(36):
-		print("{:03}\t{}".format(count, word))
+		logging.info("{:03}\t{}".format(count, word))

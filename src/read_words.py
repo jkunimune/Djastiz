@@ -171,13 +171,15 @@ def read_spanish(word):
 
 	if broad.endswith('ar') or broad.endswith('er') or broad.endswith('ir'):
 		broad = broad[:-1] + 's' # put all verbs in singular second person present, to better fit the morphological rules
+	if broad.startswith('ʝ'):
+		broad = 'd͡ʒ' + broad[1:] # and make it clear that words like <llamar> should start with <c>, not <hj>
 	return broad, narrow
 
 
 def read_esperanto(word):
 	""" read a word phonetically in Esperanto """
 	word = word.lower()
-	if word.endswith('i') or word.endswith('u'):
+	if len(word) >= 5 and (word.endswith('i') or word.endswith('u')):
 		word = word[:-1] + 'as' # put all verbs in present
 
 	broad = word.replace(
@@ -199,7 +201,7 @@ def read_esperanto(word):
 def read_english(word):
 	""" read a word phonetically in English """
 	broad = eng_to_ipa.convert(word.replace('-',' ')).replace('ʧ','t͡ʃ').replace('ʤ','d͡ʒ').replace('r','ɹ')\
-		.replace('e','eɪ̯').replace('oʊ','oʊ̯').replace('aɪ','ɑɪ̯').replace('ɔɪ','ɔɪ̯').replace('aʊ','aʊ̯')
+		.replace('e','eɪ̯').replace('oʊ','oʊ̯').replace('aɪ','ɑɪ̯').replace('ɔɪ','ɔɪ̯').replace('aʊ','aʊ̯').replace('g','ɡ')
 
 	if '*' in broad: # if it couldn't find it,
 		return '*', '*' # cry
@@ -216,6 +218,8 @@ def read_english(word):
 			narrow += c+'ː'
 		elif c == 'ɑ' and i+3 < len(broad) and broad[i+1:i+3] == 'ɪ̯' and broad[i+3] in 'ptkfθsʃh':
 			narrow += 'ə'
+		elif c == 'l' and (i+1 >= len(broad) or broad[i+1] not in 'aeiouəɪʊɔɑɛæ'):
+			narrow += 'ɫ'
 		else:
 			narrow += c
 	return broad, narrow
@@ -227,7 +231,7 @@ IGBO_MONOGRAPHS = {
 	'g':'ɡ', 'h':'ɦ', 'ị':'ɪ', 'j':'dʒ', 'ọ':'ɒ', 'r':'ɾ', 'ụ':'ʊ', 'y':'j'}
 def read_igbo(word):
 	""" read a word phonetically in Igbo """
-	word = word.replace('&#39;', '\'')
+	word = word.replace('&#39;', '\'').lower()
 	broad = ""
 	i = 0
 	while i < len(word):
@@ -273,7 +277,7 @@ SOTHO_EXCEPTIONS = {
 	'kʼelel̩lo':'kʼɛlɛl̩lɔ'} # not really exceptions, but the few words for which I know which sound the <e> and <o> make
 
 def read_sotho(word):
-	word = word.replace('&#39;', '\'') # why do so many languages insist on using unicode instead of the ascii apostraphe? Even the IPA!
+	word = word.replace('&#39;', '\'').lower() # why do so many languages insist on using unicode instead of the ascii apostraphe? Even the IPA!
 	broad = ""
 	i = 0
 	while i < len(word):
@@ -315,7 +319,7 @@ def read_sotho(word):
 			narrow += 'ʷ'
 		elif c == 'j' and i-1 >= 0 and broad[i-1] == 'b': # change a sound every time
 			narrow += 'ʒ'
-		elif c == 'h' and i+1 < len(broad) and broad[i+1] in 'ɑɛeɪiɔoʊu' and i-1 >= 0 and broad[i-1] in 'ɑɛeɪiɔoʊu': # realise "p" just like "spine"
+		elif c == 'h' and i+1 < len(broad) and broad[i+1] in 'ɑɛeɪiɔoʊu' and i-1 >= 0 and broad[i-1] in 'ɑɛeɪiɔoʊu': # realise "p" just like "pine"
 			narrow += 'ɦ'
 		else: # LOOK OUT!
 			narrow += c
@@ -338,7 +342,7 @@ def read(word, lang):
 	elif lang == 'st':
 		return read_sotho(word)
 	else:
-		return (EPITRANSLATORS[lang].transliterate(word),)*2
+		return (EPITRANSLATORS[lang].transliterate(word.replace('&#39;',"'")).replace('g','ɡ').replace('ঁ','̃').replace('ਂ','̃').replace('ੱ','ː'),)*2
 
 
 if __name__ == '__main__':
@@ -349,7 +353,7 @@ if __name__ == '__main__':
 	for lang in LANG_CODES:
 		with open('../data/dict_{}.csv'.format(lang), 'r', encoding='utf-8', newline='') as f:
 			for word, orthography in csv.reader(f):
-				orthography = max(orthography.split(), key=len) # strip away any grammar particles
+				orthography = max(reversed(orthography.split()), key=len) # strip away any grammar particles
 				if lang != 'en' and word == orthography:
 					broad, narrow = '*', '*' # if it's exactly the same in English and the other language, then Google Translate is selling us lies
 				else:

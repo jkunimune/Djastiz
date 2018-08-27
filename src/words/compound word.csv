@@ -159,6 +159,7 @@ eng,source,ltl
 "water; dihydrogen monoxide",be-alive liquid,
 "air; atmosphere; nitrogen and oxygen and all that jazz",sky gas,
 "lava; magma",be-stone liquid,
+"mud",be-dirt liquid
 "oxygen",be-alive gas,
 "copper",be-teal metal,
 "bronze",be-structurally-strong copper,
