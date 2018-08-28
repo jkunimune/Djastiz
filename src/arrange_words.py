@@ -18,6 +18,14 @@ import unicodedata
 logging.basicConfig(level=logging.ERROR)
 
 
+DIACRITIC_GUIDE = {
+	('àá', 'a'), 
+	('é', 'e'),
+	('ìíĩ', 'i'),
+	('òōõ', 'o'),
+	('ùúũ', 'u'),
+}
+
 SOURCE_LANGUAGES = {
 	'cmn':.2243,
 	'spa':.1495,
@@ -116,6 +124,9 @@ def reduce_phoneme(phoneme, before, after):
 			return reduce_phoneme('ɥ', before, after)
 		else:
 			raise IllegalArgumentException(phoneme)
+	for combined, vowel in DIACRITIC_GUIDE: # remove unnecessary diacritics
+		if phoneme in combined:
+			return vowel, 0
 	for fulls, reduced in ALLOWED_CHANGES: # these loops should cover most sounds
 		if phoneme in fulls:
 			return reduced, 0
@@ -145,9 +156,9 @@ def apply_phonotactics(ipa, ending='csktp'):
 	lsl, changes = '', 0
 	next_phoneme = ''
 	while ipa:
-		if len(ipa) > 1 and ipa[-1] in '̩̯': # TODO: exclude other combining diacritics
+		if len(ipa) > 1 and ipa[-1] in '̩̯': # combine certain combining diacritics
 			ipa, phoneme = ipa[:-2], ipa[-2:]
-		elif len(ipa) > 2 and ipa[-2] == '͡':
+		elif len(ipa) > 2 and ipa[-2] == '͡': # treat tied characters as one phoneme
 			ipa, phoneme = ipa[:-3], ipa[-1:]
 		else:
 			ipa, phoneme = ipa[:-1], ipa[-1:]

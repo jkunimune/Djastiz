@@ -1,6 +1,6 @@
-# International Chastisun
+# International Lawnsosliel
 
-Chastisun is an international language.
+Lawnsosliel (En: /laʊ̯nˈsoʊ̯sliəl/; Ls: /lawnsosliˈel/) is the ultimate international language. So easy to learn, so well-supported, and so elegant that the world won't be able to help but speak it. That's the plan, anyway. Here, you'll find eveything you need to learn it (albeit not in the easiest format) and all the source code needed to reproduce my work.
 
 ## Key features
 
@@ -15,11 +15,12 @@ With these goals in mind, I developed a language with the following key features
 * Seventeen common phonemes; five vowels and twelve consonants
 * Phonetic one-grapheme-per-phoneme Latin-based alphabet
 * 700 morphemes with thousands of derivatives and compounds
-* Unique symmetric derivation system for opposites
-* Partially self-segregating morphology
 * Stative verbs in lieu of adjectives
-* No inflections
-* Active-stative
+* Partially self-segregating morphology
+* Unique symmetric derivation system for opposites
+* Positional notation of numbers
+* Completely analytic grammar (no inflections)
+* Active-stative alignment
 * Postposition-facilitated free word order
 
 ## This repository

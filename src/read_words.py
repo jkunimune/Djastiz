@@ -266,7 +266,7 @@ SOTHO_DIGRAPHS = {
 	'bj':'bj', 'ch':'t͡ʃʰ', 'hl':'ɬ', 'kh':'x', 'ng':'ŋ', 'ny':'ɲ', 'ph':'pʰ', 'qh':'ǃʰ',
 	'nq':'ᵑǃ', 'sh':'ʃ', 'th':'tʰ', 'tj':'t͡ʃʼ', 'tl':'t͡ɬʼ', 'ts':'t͡sʼ', 'tš':'t͡sʰ'}
 SOTHO_MONOGRAPHS = {
-	'a':'ɑ', 'e':'e', 'j':'ʒ', 'k':'kʼ', 'o':'o', 'p':'pʼ', 'q':'ǃ', 'r':'ʀ', 't':'tʼ'}
+	'a':'ɑ', 'e':'e', 'g':'ɡ', 'j':'ʒ', 'k':'kʼ', 'o':'o', 'p':'pʼ', 'q':'ǃ', 'r':'ʀ', 't':'tʼ'}
 SOTHO_EXCEPTIONS = {
 	'lekʼɑ':'lɪkʼɑ', 'ʃebɑ':'ʃɛbɑ', 'pʼotsʼo':'pʼʊtsʼɔ', 'moŋolo':'mʊŋɔlɔ', 'kʼe':'kʼɪ',
 	'ho':'hʊ', 'liʒo':'liʒɔ', 'pʼon̩t͡sʰo':'pʼon̩t͡sʰɔ', 'ɑbelɑ':'ɑbɛlɑ', 'moʒɑlefɑ':'mʊʒɑlɪfɑ',
