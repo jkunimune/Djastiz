@@ -131,6 +131,18 @@ def strongest(cluster, preference=[]):
 	return max(cluster, key=strength_of)
 
 
+def get_antonym(word):
+	""" invert all letters up to the second consonant """
+	new_word = ''
+	for i, c in enumerate(word):
+		if i+1 >= len(word) or strength_of(word[i+1]) <= strength_of(word[i+1]):
+			break # we're out of the switching section
+		else:
+			new_word += INVERSES[c]
+	new_word += word[len(new_word):]
+	return new_word
+
+
 def reduce_phoneme(phoneme, before, after):
 	""" return the nearest lsl phoneme and the distance in phone space """
 	if phoneme.endswith('̩'): # this is how I do syllabics
@@ -231,7 +243,7 @@ def choose_key(entry):
 	return key
 
 
-def choose_word(english, real_words, counts):
+def choose_word(english, real_words, counts, partos, has_antonym=False, all_words={}):
 	""" determine what word should represent english, based on the given foreign dictionaries and
 		current representation of each language. Return the source lang, source orthography, source IPA, and my word """
 	logging.info("choosing a word for '{}'".format(english))
@@ -252,6 +264,9 @@ def choose_word(english, real_words, counts):
 			logging.error("could not read IPA in {} \"{}\" /{}/; '{}' may not be an IPA symbol".format(lang, english, broad, e))
 			reduced, changes = broad, 0
 
+		if reduced in all_words or (has_antonym and get_antonym(reduced) in all_words):
+			score = float('-inf')
+
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
 		score -= 2.0*changes # favour words that require fewer changes
 
@@ -260,7 +275,7 @@ def choose_word(english, real_words, counts):
 		scores.append(score)
 
 	for i, ((lang, orthography, narrow, reduced), score) in enumerate(zip(options, scores)):
-		score -= 3.0*len(reduced) # prefer longer words
+		score -= 2.0*len(reduced) # prefer shorter words
 		for lang2, _, _, reduced2 in options:
 			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other major languages
 				if c1 == c2:								score += 2*SOURCE_LANGUAGES[lang2]
@@ -283,7 +298,7 @@ def load_dictionary(directory):
 
 	for filename in [
 		'special', 'postposition', 'sentence particle', 'specifier',
-		'pronoun', 'numeral', 'verb', 'noun', 'compound word', 'loanword'
+		'pronoun', 'proverb', 'numeral', 'verb', 'noun', 'compound word', 'loanword'
 	]:
 		with open(path.join(directory, filename+'.csv'), 'r', encoding='utf-8') as f:
 			word_set = pd.read_csv(f, dtype=str, na_filter=False)
@@ -367,21 +382,25 @@ def load_dictionary(directory):
 def fill_blanks(my_words, real_words):
 	""" come up with words from the source dictioraries for all nouns and verbs that aren't
 		onomotopoeias, and update the compound words accordingly """
+	all_ltl_words = set()
 	tallies = collections.Counter() # start by counting how many words we have of each language already
 	for entry in my_words.values():
 		if entry['partos'] not in ['noun','verb','loanword','compound word']:
 			if entry['source'] and len(entry['source'].split()[0]) == 3:
 				tallies[entry['source'].split()[0]] += 1
+			all_ltl_words.add(entry['ltl'])
 	logging.info(tallies)
 				
 	for entry in my_words.values():
 		if entry['partos'] in ['noun','verb']:
 			if entry['source'].startswith('*') or entry['source'] == '' or entry['source'].split()[0] in SOURCE_LANGUAGES:
 				eng = choose_key(entry)
-				lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies)
+				lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies,
+					partos=entry['partos'], has_antonym=('ANTONYM' in entry['derivatives']), all_words=all_ltl_words)
 				entry['ltl'] = my_word
 				entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
 				tallies[lang] += 1
+				all_ltl_words.add(my_word)
 
 	for entry in my_words.values():
 		if ' OF ' in entry['source']:
