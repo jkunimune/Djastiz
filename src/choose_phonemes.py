@@ -1,6 +1,6 @@
 # choose_phonemes.py
 #
-# requires `phoible-phonemes.tsv` from https://github.com/phoible/phoible/releases/tag/v2014
+# requires `phoible-phonemes.tsv` from https://github.com/phoible/dev/releases/tag/v2014
 # to be placed in `..\data\`
 
 import csv
@@ -12,20 +12,22 @@ ACCENTS = {'̪', '̞', '̟', '̝', '̙', '̘', '̈', '̠', '͉', '̻', '̺', '͇
 
 COMBOS = {('a','ɑ','ɐ'), ('e','ɛ'), ('o','ɔ'),
 		('i','ɪ'), ('u','ʊ','ɯ'), ('j','i'), ('w','u'),
-		('ʃ','ʂ'), ('ʒ','ʐ'), ('dʒ','ɖʐ'), ('tʃ','ʈʂ'),
+		('ʃ','ɕ','ʂ'), ('ʒ','ʑ','ʐ'), ('dʒ','dʑ','ɖʐ'), ('tʃ','tɕ','ʈʂ'),
 		('ʈʂ','ʂ','tʃ','ʃ'), ('ɖʐ','ʐ','dʒ','ʒ'), ('s','z'),
 		('r','ɾ','ɽ','ɻ','ʁ','ʀ','ɹ'), ('l','ɭ','ɾ','ɽ','ɺ'),
-		('h','ħ','χ','x', 'ɦ'), ('ʕ','ʁ','ɣ'), ('f','ɸ'), ('v','β'),
+		('h','ħ','χ','x', 'ɦ'), ('ʕ','ʁ','ɣ'), ('f','ɸ'), ('v','β','ʋ'),
 		('kʰ','k'), ('tʰ','t'), ('pʰ','p'),
 		('k','ɡ','ʰ'), ('t','d','ʰ'), ('p','b','ʰ'),
 		('ɡ','ɣ','ʰ'), ('d','ð','ʰ'), ('b','β','ʰ')}
 
+# CHATISUN = {'/pʰ/', '/b/', '/tʰ/', '/d/', '[ts]', '/tʃ/', '/dʒ/', '/kʰ/', '/ɡ/', '/f/', '/v/', '[s]', '[z]', '/ʃ/', '/ʒ/', '[x]', '[h]',
+# 			'[m]', '[n]', '/r/', '[l]', '[j]', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'} # Esperanto
 # CHATISUN = {'/pʰ/', '/b/', '/tʰ/', '/d/', '/tʃ/', '/dʒ/', '/kʰ/', '/ɡ/', '/f/', '/s/', '/ʃ/', '/h/',
 # 			'[m]', '[n]', '[ŋ]', '/r/', '[l]', '/j/', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'} # all 24 common phonemes
-CHATISUN = {'/pʰ/', '/b/', '/tʰ/', '/d/', '/kʰ/', '/ɡ/', '/ʈʂ/', '/f/', '/s/', '/h/',
-			'[m]', '[n]', '/l/', '/j/', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'} # 20 more common phonemes (sin /r/ y /ʃ/)
-# CHATISUN = {'/p/', '/t/', '/k/', '/ʈʂ/', '/f/', '/s/', '/h/', '[m]', '[n]', '/w/', '/l/', '/j/',
-# 			'/u/', '/i/', '/o/', '/a/', '/e/'} # only the 17 that half of people can say
+# CHATISUN = {'/pʰ/', '/b/', '/tʰ/', '/d/', '/kʰ/', '/ɡ/', '/ʈʂ/', '/f/', '/s/', '/ʃ/', '/h/',
+# 			'[m]', '[n]', '/l/', '/j/', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'} # 20 more common phonemes (sin /r/ y /ʃ/)
+CHATISUN = {'/p/', '/t/', '/k/', '/ʈʂ/', '/f/', '/s/', '/h/', '[m]', '[n]', '/w/', '/l/', '/j/',
+			'/u/', '/i/', '/o/', '/a/', '/e/'} # only the 17 that half of people can say
 
 
 with open('..\\data\\ethnologue.pkl', 'rb') as f:
@@ -100,9 +102,9 @@ for i, num in enumerate(num_who_must_learn):
 	if num == 0:
 		break
 	elif i == 0:
-		print('{:.2f}% of humans can pronounce Djastiz words natively.'.format(num/total_pop*100))
+		print('{:.2%} of humans can pronounce Djastiz words natively.'.format(num/total_pop))
 	else:
-		print('{:.2f}% of humans must learn {} new phonem{} to pronounce Djastiz words.'.format(num/total_pop*100, i, 'es' if i>1 else 'e'))
+		print('{:.2%} of humans must learn {} new phonem{} to pronounce Djastiz words.'.format(num/total_pop, i, 'es' if i>1 else 'e'))
 print('The average human must learn {:.2f}/{} phonemes to pronounce Djastiz words.'.format(avg_num_to_learn, len(CHATISUN)))
 
 print()
