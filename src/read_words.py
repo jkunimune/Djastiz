@@ -179,7 +179,7 @@ def read_spanish(word):
 def read_esperanto(word):
 	""" read a word phonetically in Esperanto """
 	word = word.lower()
-	if len(word) >= 5 and (word.endswith('i') or word.endswith('u')):
+	if len(word) >= 4 and (word.endswith('i') or word.endswith('u')):
 		word = word[:-1] + 'as' # put all verbs in present
 
 	broad = word.replace(
@@ -228,7 +228,7 @@ def read_english(word):
 IGBO_DIGRAPHS = {
 	'ch':'t͡ʃ', 'gb':'ɡ͡b', 'gh':'ɣ', 'gw':'ɡʷ', 'kp':'k͡p', 'kw':'kʷ', 'nw':'ŋʷ', 'ny':'ɳ', 'n\'':'ŋ', 'sh':'ʃ'}
 IGBO_MONOGRAPHS = {
-	'g':'ɡ', 'h':'ɦ', 'ị':'ɪ', 'j':'dʒ', 'ọ':'ɒ', 'r':'ɾ', 'ụ':'ʊ', 'y':'j'}
+	'g':'ɡ', 'h':'ɦ', 'ṅ':'ŋ', 'ị':'ɪ', 'j':'dʒ', 'ọ':'ɒ', 'r':'ɾ', 'ụ':'ʊ', 'y':'j'}
 def read_igbo(word):
 	""" read a word phonetically in Igbo """
 	word = word.replace('&#39;', '\'').lower()
@@ -342,7 +342,10 @@ def read(word, lang):
 	elif lang == 'st':
 		return read_sotho(word)
 	else:
-		return (EPITRANSLATORS[lang].transliterate(word.replace('&#39;',"'")).replace('g','ɡ').replace('ঁ','̃').replace('ਂ','̃').replace('ੱ','ː').replace('Ṽ','ã'),)*2
+		epitranslated = EPITRANSLATORS[lang].transliterate(word.replace('&#39;',"'")) # TODO: epitran kind of sucks at Bengali... maybe I should do it myself
+		if any([symb in epitranslated for symb in ['ऑ','ॉ','ऍ','ॅ']]): # I'm pretty sure this means it just didn't know how to say that in that language
+			return '*', '*'
+		return (epitranslated.replace('g','ɡ').replace('ঁ','̃').replace('ਂ','̃').replace('ੱ','ː').replace('ঃ','h').replace('š','ʃ').replace('Ṽ','ã').replace("'",'̩'),)*2
 
 
 if __name__ == '__main__':

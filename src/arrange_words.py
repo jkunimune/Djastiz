@@ -23,7 +23,7 @@ DIACRITIC_GUIDE = {
 	('é', 'e'),
 	('ìíĩ', 'i'),
 	('òōõ', 'o'),
-	('ùúũ', 'u'),
+	('ùúũṳ', 'u'),
 }
 
 SOURCE_LANGUAGES = {
@@ -55,7 +55,7 @@ ALLOWED_CHANGES = [
 	('pbɓ', 'p'),
 	('tdʈɖɗ', 't'),
 	('cɟʄ', 'kj'),
-	('kɡɠ', 'k'),
+	('kɡɠq', 'k'),
 	('fɸ', 'f'),
 	('θsz', 's'),
 	('ʃʒɕʑʂʐ', 'c'),
@@ -69,7 +69,7 @@ ALLOWED_CHANGES = [
 	('iɪɨ', 'i'),
 	('oɔɒ', 'o'),
 	('uʊʉɯ', 'u'),
-	('- ˩˨˧˦˥ʰʼˈˌː⁀', '')
+	('- ˩˨˧˦˥ʰʼˈˌː͡⁀..,，​', '')
 ]
 RESTRICTED_CHANGES = [
 	('ǃǀ', 't'),
@@ -83,7 +83,7 @@ RESTRICTED_CHANGES = [
 	('œø', 'ew'),
 ]
 
-PHONEME_TABLE = ['eaoiu', 'jw', 'l', 'ktp', 'hf', 'cs', 'nm'] # the lawnsosliel phonemes, arranged by strength
+PHONEME_TABLE = ['eaoiu', 'jw', 'h', 'l', 'ktp', 'f', 'cs', 'nm'] # the lawnsosliel phonemes, arranged by strength
 INVERSES = {'a':'a', 'e':'o', 'i':'u', 'j':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'s', 'c':'f'}
 for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
 
@@ -121,7 +121,7 @@ def strength_of(phoneme):
 
 def is_consonant(phoneme):
 	""" is this a strong consonant? """
-	return strength_of(phoneme) >= strength_of('l')
+	return strength_of(phoneme) >= strength_of('h')
 
 
 def strongest(cluster, preference=[]):
@@ -236,12 +236,12 @@ def choose_word(english, real_words, counts):
 		current representation of each language. Return the source lang, source orthography, source IPA, and my word """
 	logging.info("choosing a word for '{}'".format(english))
 	options, scores = [], []
-	for lang, target_frac in sorted(SOURCE_LANGUAGES.items()):
+	for lang, target_frac in SOURCE_LANGUAGES.items():
 		try:
 			orthography, broad, narrow = real_words[english][lang]
 		except KeyError:
 			logging.error("missing translation of '{}' in {}".format(english, lang))
-			orthography, broad, narrow = english, english, english
+			orthography, broad, narrow = english, english.replace('g','ɡ'), english # I don't want to stop the proɡram when this happens, so I use the Enɡlish word as a fake IPA transcription
 
 		if broad == '*':
 			continue # star means we don't have that word
@@ -261,10 +261,10 @@ def choose_word(english, real_words, counts):
 
 	for i, ((lang, orthography, narrow, reduced), score) in enumerate(zip(options, scores)):
 		score -= 3.0*len(reduced) # prefer longer words
-		for _, _, _, reduced2 in options:
-			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other languages
-				if c1 == c2:	score += 0.5
-				else:			break
+		for lang2, _, _, reduced2 in options:
+			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other major languages
+				if c1 == c2:								score += 2*SOURCE_LANGUAGES[lang2]
+				elif is_consonant(c1) or is_consonant(c2):	break
 		scores[i] = score
 	
 	logging.info("Out of \n{};\nI choose {}".format(',\n'.join(str(tup) for tup in options), options[np.argmax(scores)]))

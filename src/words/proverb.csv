@@ -1,0 +1,7 @@
+eng,source,ltl
+"begin; start; commence; initiate; become; go to; come to; summon; arrive; to; change; -ify; _incohative_; SBJ {starter} makes OBJ {begun} transition from falsehood to truth {TIME:beginning|LOCATION:start}",cmn <开始> [kʰaɪ̯˥ʂɨ˧˩˧],kes
+"end; stop; cease; cancel; unbecome; come from; go from; send; leave; depart; from; change; de- -ify; _cessative_; SBJ {stopper} makes OBJ {finished} transitions from truth to falsehood {TIME:ending|LOCATION:end; edge}",REVERSAL OF begin,nos
+"*yes; be true; be right; be correct; be happening; _positive_; OBJ {state; truth; reality} is happening {METHOD:process}",eng <truth> [tɹʷuːθ],tus
+"no; not; be false; be wrong; be incorrect; be not happening; _negative_; OBJ {falsehood; fiction} is not happening",ANTONYM OF yes,lis
+"happen; do; cause; pro-verb; SBJ {cause} causes OBJ {event; effect} to come true",INCOHATIVE OF yes,tuskes
+"undo; OBJ happens in reverse",CESSATIVE OF yes,tusnos
