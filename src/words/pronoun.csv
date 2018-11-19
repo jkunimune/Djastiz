@@ -1,11 +1,11 @@
 eng,source,ltl
 "which; that; _relative_",,l
 "what; what kind; _interrogative_",pan <ਕੌਣ> [kɔːɳə],kon
-"something; one; _indeterminate_; a noun not afformentioned",eng <one> [wən],hwan
+"something; someone; one; _indeterminate_; a noun not afformentioned",eng <one> [wən],hwan
 "I; me; _first person_; the speaker {GENITIVE:my; mine}",pan <ਮੈਂ> [mɛ̃ː],min
 "you; _second person_; the listener {GENITIVE:your; yours}",OPPOSITE OF I,pun
-"it; she; her; he; him; they; them; the; that; there; then; _third person_; _determinate_; _distal_; a previously mentioned noun phrase that is neither the speaker nor listener {GENITIVE:its; her; hers; his; their; that's}",ara <تَيْنِكَ> [tajnika],tajn
-"this; here; now; _proximal_; associated with the time and place of the utterance {GENITIVE:this's}",OPPOSITE OF it,lawn
+"it; she; her; he; him; they; them; the; that; _third person_; _determinate_; _distal_; a previously mentioned noun phrase that is neither the speaker nor listener {GENITIVE:its; her; hers; his; their; that's}",ara <تَيْنِكَ> [tajnika],tajn
+"this; _proximal_; associated with the time and place of the utterance {GENITIVE:this's}",OPPOSITE OF it,lawn
 "itself; herself; himself; themselves; myself; yourself; ourselves; yourselves; reflexive; a noun phrase mentioned previously in this sentence {GENITIVE:its own; her own; his own; their own; my own; your own; our own; your own}",zul <zí-> [z̤i˦],sif
 "next",xho <okulandelayo> [ɔkʼulandɛlajɔ],kulan
-"previous",OPPOSITE OF next,nilan
+"previous; last",OPPOSITE OF next,nilan
