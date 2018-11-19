@@ -124,9 +124,11 @@ def is_consonant(phoneme):
 	return strength_of(phoneme) >= strength_of('l')
 
 
-def strongest(*phonemes):
-	""" return the strongest phoneme of the bunch """
-	return max(phonemes, key=strength_of)
+def strongest(cluster, preference=[]):
+	""" return the strongest phoneme of the bunch, always choosing one from the preference if available """
+	if preference is not None and any([cons in preference for cons in cluster]):
+		cluster = filter(lambda cons:cons in preference, cluster)
+	return max(cluster, key=strength_of)
 
 
 def reduce_phoneme(phoneme, before, after):
@@ -205,7 +207,8 @@ def apply_phonotactics(ipa, ending='csktp'):
 			changes += 0.5
 	for i in range(len(lsl)-1, 0, -1):
 		if is_consonant(lsl[i-1]) and is_consonant(lsl[i]): # remove consonant clusters
-			lsl = lsl[:i-1] + strongest(lsl[i-1:i+1]) + lsl[i+1:]
+			one_true_consonant = strongest(lsl[i-1:i+1], preference=ending if i == len(lsl)-1 else [])
+			lsl = lsl[:i-1] + one_true_consonant + lsl[i+1:]
 			changes += 1
 
 	if not is_consonant(lsl[0]): # make sure it starts with a consonant
