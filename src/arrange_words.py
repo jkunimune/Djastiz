@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.ERROR)
+logging.basicConfig(level=logging.INFO)
 
 
 DIACRITIC_GUIDE = {
@@ -79,12 +79,17 @@ RESTRICTED_CHANGES = [
 	('ɣʁʕʀ', 'h'),
 	('ɮ', 'l'),
 	('ə', 'a'),
-	('ɤ', 'aw'),
-	('œ', 'ew'),
+	('ɤʌ', 'aw'),
+	('œø', 'ew'),
 ]
 
+PHONEME_TABLE = ['eaoiu', 'jw', 'l', 'ktp', 'hf', 'cs', 'nm'] # the lawnsosliel phonemes, arranged by strength
+INVERSES = {'a':'a', 'e':'o', 'i':'u', 'j':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'s', 'c':'f'}
+for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
+
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','REVERSAL','POSSIBILITY','VERB']
-NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','COMPLEMENT','RELATIVE']
+NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD',
+		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL']
 MISC_DERIVATIONS = ['OPPOSITE']
 
 
@@ -104,6 +109,24 @@ def get_curly_brace_pair(string):
 			return i_open, i_close
 		i_close += 1
 	raise ValueError("Unbalanced curly braces: {}".format(string))
+
+
+def strength_of(phoneme):
+	""" return the row of this phoneme in the phoneme table """
+	for i in range(len(PHONEME_TABLE)):
+		if phoneme in PHONEME_TABLE[i]:
+			return i
+	return -1
+
+
+def is_consonant(phoneme):
+	""" is this a strong consonant? """
+	return strength_of(phoneme) >= strength_of('l')
+
+
+def strongest(*phonemes):
+	""" return the strongest phoneme of the bunch """
+	return max(phonemes, key=strength_of)
 
 
 def reduce_phoneme(phoneme, before, after):
@@ -167,6 +190,20 @@ def apply_phonotactics(ipa, ending='csktp'):
 		lsl = new_phoneme + lsl
 		next_phoneme = phoneme
 
+	for i in range(len(lsl)-1, 0, -1):
+		if is_consonant(lsl[i-1]) and is_consonant(lsl[i]): # remove consonant clusters
+			lsl = lsl[:i-1] + strongest(lsl[i-1:i+1]) + lsl[i+1:]
+
+	if not is_consonant(lsl[0]): # make sure it starts with a consonant
+		lsl = 'h' + lsl
+	while not is_consonant(lsl[-1]): # make sure it ends with a consonant
+		if not is_consonant(lsl[-2]): # either by adding a consonant to the end if there are multiple trailing vowel/glides
+			lsl += 'h' if 'h' in ending else 's'
+		else: # or by removing if there is just one
+			lsl = lsl[:-1]
+	if not lsl[-1] in ending: # make sure it ends on the right class of letter
+		lsl = lsl[:-1] + INVERSES[lsl[-1]]
+
 	return lsl, changes
 
 
@@ -183,7 +220,7 @@ def choose_key(entry):
 def choose_word(english, real_words, counts):
 	""" determine what word should represent english, based on the given foreign dictionaries and
 		current representation of each language. Return the source lang, source orthography, source IPA, and my word """
-	logging.info("choosing a word for {}".format(english))
+	logging.info("choosing a word for '{}'".format(english))
 	options, scores = [], []
 	for lang, target_frac in sorted(SOURCE_LANGUAGES.items()):
 		try:
@@ -295,7 +332,7 @@ def load_dictionary(directory):
 				break
 		if words[possible_gloss] != entry:
 			gloss = '{}{:03d}'.format(entry['eng'][0], len(words))
-			logging.warn("There is no possible gloss for {}. '{}' will be used as a key.".format(entry, gloss))
+			logging.warning("There is no possible gloss for {}. '{}' will be used as a key.".format(entry, gloss))
 			words[gloss] = entry
 
 		for deriv_type, deriv_dict in unprocessed_derivatives.items():

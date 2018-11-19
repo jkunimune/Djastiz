@@ -342,7 +342,7 @@ def read(word, lang):
 	elif lang == 'st':
 		return read_sotho(word)
 	else:
-		return (EPITRANSLATORS[lang].transliterate(word.replace('&#39;',"'")).replace('g','ɡ').replace('ঁ','̃').replace('ਂ','̃').replace('ੱ','ː'),)*2
+		return (EPITRANSLATORS[lang].transliterate(word.replace('&#39;',"'")).replace('g','ɡ').replace('ঁ','̃').replace('ਂ','̃').replace('ੱ','ː').replace('Ṽ','ã'),)*2
 
 
 if __name__ == '__main__':
