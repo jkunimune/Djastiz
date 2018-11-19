@@ -206,7 +206,8 @@ def apply_phonotactics(ipa, ending='csktp'):
 		next_phoneme = phoneme
 
 	while not is_consonant(lsl[-1]): # make sure it ends with a consonant
-		if len(lsl) <= 2 or not is_consonant(lsl[-2]): # either by adding a consonant to the end if there are multiple trailing vowel/glides
+		num_vowels = len(re.findall(r'[eaoiu]', lsl))
+		if num_vowels == 1 or not is_consonant(lsl[-2]): # either by adding a consonant to the end if there are multiple trailing vowel/glides or there aren't enough vowels
 			lsl += 'h' if 'h' in ending else 's'
 			changes += 0.5
 		else: # or by removing if there is just one
@@ -259,16 +260,16 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 			continue # star means we don't have that word
 
 		try:
-			reduced, changes = apply_phonotactics(broad)
+			reduced, changes = apply_phonotactics(broad, ending='lnmhf' if partos=='noun' else 'csktp')
 		except ValueError as e:
 			logging.error("could not read IPA in {} \"{}\" /{}/; '{}' may not be an IPA symbol".format(lang, english, broad, e))
 			reduced, changes = broad, 0
 
-		if reduced in all_words or (has_antonym and get_antonym(reduced) in all_words):
-			score = float('-inf')
-
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
-		score -= 2.0*changes # favour words that require fewer changes
+		score -= 3.0*changes # favour words that require fewer changes
+
+		if reduced in all_words or (has_antonym and get_antonym(reduced) in all_words):
+			score = float('-inf') # make sure it doesn't collide
 
 		options.append((lang, orthography, narrow, reduced))
 		logging.debug(*options[-1])
