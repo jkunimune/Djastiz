@@ -116,7 +116,7 @@ def strength_of(phoneme):
 	for i in range(len(PHONEME_TABLE)):
 		if phoneme in PHONEME_TABLE[i]:
 			return i
-	return -1
+	assert False, phoneme
 
 
 def is_consonant(phoneme):
@@ -130,7 +130,7 @@ def strongest(*phonemes):
 
 
 def reduce_phoneme(phoneme, before, after):
-	""" return the nearest lsl phoneme and the distance """
+	""" return the nearest lsl phoneme and the distance in phone space """
 	if phoneme.endswith('̩'): # this is how I do syllabics
 		cons, dist = reduce_phoneme(phoneme[0], before, after)
 		try:
@@ -187,22 +187,33 @@ def apply_phonotactics(ipa, ending='csktp'):
 			ipa, phoneme = ipa[:-1], ipa[-1:]
 
 		new_phoneme, dist = reduce_phoneme(phoneme, ipa[-1:], next_phoneme)
+		changes += dist
 		lsl = new_phoneme + lsl
 		next_phoneme = phoneme
 
+	while not is_consonant(lsl[-1]): # make sure it ends with a consonant
+		if len(lsl) <= 2 or not is_consonant(lsl[-2]): # either by adding a consonant to the end if there are multiple trailing vowel/glides
+			lsl += 'h' if 'h' in ending else 's'
+			changes += 0.5
+		else: # or by removing if there is just one
+			lsl = lsl[:-1]
+			changes += 0.5
+
+	for i in range(len(lsl)-1, 0, -1):
+		if lsl[i-1] == lsl[i]: # remove double lettres
+			lsl = lsl[:i-1] + lsl[i:]
+			changes += 0.5
 	for i in range(len(lsl)-1, 0, -1):
 		if is_consonant(lsl[i-1]) and is_consonant(lsl[i]): # remove consonant clusters
 			lsl = lsl[:i-1] + strongest(lsl[i-1:i+1]) + lsl[i+1:]
+			changes += 1
 
 	if not is_consonant(lsl[0]): # make sure it starts with a consonant
 		lsl = 'h' + lsl
-	while not is_consonant(lsl[-1]): # make sure it ends with a consonant
-		if not is_consonant(lsl[-2]): # either by adding a consonant to the end if there are multiple trailing vowel/glides
-			lsl += 'h' if 'h' in ending else 's'
-		else: # or by removing if there is just one
-			lsl = lsl[:-1]
+		changes += 0.5
 	if not lsl[-1] in ending: # make sure it ends on the right class of letter
 		lsl = lsl[:-1] + INVERSES[lsl[-1]]
+		changes += 1
 
 	return lsl, changes
 
