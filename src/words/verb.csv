@@ -443,7 +443,7 @@ eng,source,ltl
 "freeze; solidify; deposit; SBJ {freezer} freezes OBJ {frozen; ice} {INSTRUMENT:freezer}",INCOHATIVE OF be solid,
 "melt; sublimate; SBJ {melter} melts OBJ {molten}",CESSATIVE OF be solid,
 "be liquid; OBJ {liquid; water; puddle} is liquid {AMOUNT:liquidity; wetness}",,
-"be gaseous; OBJ {gas; cloud} is gaseous",ANTONYM OF be liquid,
+"be gaseous; be air; OBJ {gas; cloud} is gaseous",ANTONYM OF be liquid,
 "condense; liquidify; SBJ {condenser} condenses OBJ {condensed; cloud} into a liquid",INCOHATIVE OF be liquid,
 "boil; evaporate; SBJ {boiler} boils OBJ",CESSATIVE OF be liquid,
 "be loose; be movable; be portable; OBJ moves around easily",POSSIBILITY OF move,

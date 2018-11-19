@@ -355,16 +355,16 @@ eng,source,ltl
 "Vaishnavism; the sect {GENITIVE:TODO}",san <TODO> [ʋajɕnaːʋə],'wajcnawa
 "Zoroastrianism; the religion {GENITIVE:TODO}",ave <TODO> [mazdajasna],'mastajasna
 "bitcoin; the currency",,
-"dollar; the currency",dala,
-"euro; the currency",juho,
+"dollar; the currency",,dala
+"euro; the currency",,juho
 "franc; the currency",,
 "krona; the currency",,
 "lira; the currency",,
-"peso; the currency",'peso,
-"pound sterling; the currency",'pawn,
+"peso; the currency",,'peso
+"pound sterling; the currency",,'pawn
 "rand; the currency",,
-"real; the currency",leal,
-"renminbi yuan; the currency",'juan,
+"real; the currency",,'leal
+"renminbi yuan; the currency",,'juan
 "ruble; the currency",,
 "rupee; the currency",,
 "won; the currency",,
@@ -388,13 +388,21 @@ eng,source,ltl
 "T-shirt; the dress",eng <T-shirt> [tʰiː ʃəɹt],'ticat
 "anime; the cartoon genre",jpn <アニメ> [aɲime],'anime
 "manga; the comic genre",jpn <漫画> [maŋɡa],'manga
-"hydroden; the substance",,
-"helium; the substance",,
-"lithium; the substance",,
-"carbon; the substance",,
-"oxyen; the substance",,
-"nitrogen; the substance",,
-"denim; the substance",,
+"lyre; the instrument",gmy <λύρα> [lýra],liwla
+"violin; the instrument",ita <violino> [vioˈlino],'fiolino
+"viola; the instrument",ita <viola> [viˈɔːla],'fiola
+"cello; vioncello; the instrument",ita <violoncello> [vjolonˈt͡ʃɛllo],'fjoloncelo
+"double bass; the instrument",ita <contrabbasso> [kontrabˈbasso],'kontapaso
+"taiko drum; the instrument",jpn <和太鼓> [ɰadaikɔː],'wataiko
+"ukulele; the instrument",haw <ʻukulele> [ˈʔukuˈlɛlɛ],'ukulele
+"sitar; the instrument",pan <ਸਿਤਾਰ> [sɪˈtaːr],'sital
+"Taekwondo; the martial art",kor <태권도> [tʰɛ.k͈wʌn.do],'tekwanto
+"Tai chi; the martial art",cmn <太极拳> [tʰaj˥˩.t͡ɕi˧˥ t͡ɕʰɥɛn˧˥],'tajcicwen
+"Karate; the martial art",jpn <空手> [kaɾate],'kalate
+"Aikido; the martial art",jpn <合気道> [aikiꜜdoː],'aikido
+"Kendo; the martial art",jpn <剣道> [kɛndoː],'kento
+"denim; the substance",eng <denim> [ˈdɛnəm],'tenem
+"kapa; the substance",haw <kapa> [kapa],'kapa
 "galaxy",gre <TODO> [ɡalaksíaːs],'kalasias
 "radian; the unit of angles",eng <radian> [ˈɹʷeɪdiɪn],'watian
 "metre; the unit of length",fra <mètre> [ˈmɛtʁ],'methe
