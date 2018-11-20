@@ -297,7 +297,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		score -= 3.0*changes # favour words that require fewer changes
 
 		if reduced in all_words or (has_antonym and get_antonym(reduced) in all_words):
-			score = float('-inf') # make sure it doesn't collide
+			score = float('-inf') # make sure it doesn't collide TODO check endings and beginnings too
 
 		options.append((lang, orthography, narrow, reduced))
 		logging.debug(*options[-1])
@@ -315,9 +315,27 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 	return options[np.argmax(scores)]
 
 
-def derive(source_word, deriv_type):
+def derive(source_word, deriv_type, all_words):
 	""" Apply that powerful morphological derivation system I keep bragging about """
-	return source_word+deriv_type
+	if deriv_type in ['ANTONYM', 'REVERSAL', 'OPPOSITE']:
+		return get_antonym(source_word)
+	elif deriv_type in ['INCOHATIVE', 'CESSATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ',
+		'IND', 'AMOUNT', 'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD']:
+		inflection_word = {
+			'INC':'begin', 'CES':'end', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who', 'OBJ':'of which', 'IND':'whom',
+			'AMO':'the amount that', 'LOC':'where', 'TIM':'when', 'INS':'with which', 'CAU':'why', 'MET':'by which'}[deriv_type[:3]]
+		return source_word + all_words[inflection_word]['ltl']
+	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
+		inflection_word = {'INT':'what', 'IND':'something', 'DET':'it', 'PRO':'this'}[deriv_type[:3]]
+		return all_words[inflection_word]['ltl'] + ' ' + source_word
+	elif deriv_type == 'RELATIVE':
+		return 'l' + source_word
+	elif deriv_type == 'COMPLEMENT':
+		return 'l' + source_word # TODO: what am I going to do about these complements? They can't take a verb; then stuff would collide. But they can't not take a verb. Then they look like relatives.
+	elif deriv_type == 'VERB':
+		return all_words['of which']['ltl'] + source_word + all_words['happen']['ltl']
+	else:
+		raise ValueError("The {1} of {0}?".format(source_word, deriv_type))
 
 
 def load_dictionary(directory):
@@ -395,6 +413,7 @@ def load_dictionary(directory):
 
 		for deriv_type, deriv_dict in unprocessed_derivatives.items():
 			deriv_dict['source'] = '{} OF {}'.format(deriv_type, possible_gloss)
+			assert deriv_type != "PROGRESSIVE"
 			if deriv_type in VERB_DERIVATIONS:
 				deriv_dict['partos'] = 'verb'
 			elif deriv_type in NOUN_DERIVATIONS:
@@ -433,8 +452,8 @@ def fill_blanks(my_words, real_words):
 
 	for entry in my_words.values():
 		if ' OF ' in entry['source']:
-			d_type, d_gloss = entry['source'].split(' OF ')
-			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type)
+			d_type, d_gloss = entry['source'].split(' OF ') # XXX is it possible for these to evaluate in the wrong order?
+			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words)
 		elif entry['partos'] == 'compound word':
 			entry['ltl'] = ''
 			for component in entry['source'].split():
@@ -451,6 +470,7 @@ def save_dictionary(dictionary, directory):
 
 def format_dictionary(dictionary, directory):
 	""" make a bunch of nicely-formatterd dictionaries in Markdown and LaTeX """
+	pass
 
 
 def measure_corpus(directory):

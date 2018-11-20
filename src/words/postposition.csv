@@ -1,12 +1,12 @@
 eng,source,ltl
 "of; -'s; _denotes modifier or associate_ {COMPLEMENT:kind; relation; specifier {GENITIVE:genitive}|RELATIVE:whose}",ara <ـٍ> [in],im
-"than; as; _denotes amount or degree_ {COMPLEMENT:amount; number; quantity; extent; magnitude {GENITIVE:numerical; quantitative; equative}|RELATIVE:the amout that}",cmn <量> [ljaŋ˥˩],jan
+"than; as; _denotes amount or degree_ {COMPLEMENT:amount; number; quantity; extent; magnitude {GENITIVE:numerical; quantitative; equative}|RELATIVE:the amount that}",cmn <量> [ljaŋ˥˩],jan
 "by; _denotes agent_ {COMPLEMENT:subject; agent; cause; force {GENITIVE:causal; subjective}|RELATIVE:who}",ara <ـٌ> [un],un
-"on; to; _denotes direct object, patient, or experiencer_ {COMPLEMENT:direct object {GENITIVE:objective; absolutive; accusative}|RELATIVE:which}",epo <-on> [on],on
+"on; to; _denotes direct object, patient, or experiencer_ {COMPLEMENT:direct object {GENITIVE:objective; absolutive; accusative}|RELATIVE:which; of which}",epo <-on> [on],on
 "to; by; _denotes indirect object, theme, stimulus, or recipient_ {COMPLEMENT:indirect object {GENITIVE:objective}|RELATIVE:whom}",pan <-ਾਂ> [ãː],am
 "at; on; in; _denotes time_ {COMPLEMENT:time; date; instance {GENITIVE:temporal; dative}|RELATIVE:when|INTERROGATIVE:when|INDETERMINATE:one day; sometime; at some point|DETERMINATE:then|PROXIMAL:now|VERB:be at; coincide; OBJ happens at the same time as IND}",mar <वेळ> [ˈʋeɭə],el
 "on; at; in; _denotes location_ {COMPLEMENT:location; place {GENITIVE:spacial; locative}|RELATIVE:where|INTERROGATIVE:where|INDETERMINATE:somewhere|DETERMINATE:there|PROXIMAL:here|VERB:be present; be; OBJ is present at IND}",hin <जगह> [ˈd͡ʒəɡəɦ],eh
 "by; with; through; _denotes instrument_ {COMPLEMENT:tool; medium; instrument {GENITIVE:instrumental; prolative}|RELATIVE:with which|INTERROGATIVE:with what; how|INDETERMINATE:with something; somehow|DETERMINATE:with that; thus|PROXIMAL:with this; like so|VERB:use; work through; SBJ {user} uses OBJ}",hin <साधन> [ˈsaːdʱən],atan
-"because; since; _denotes cause_ {COMPLEMENT:cause; inciting event; agent {GENITIVE:causal}|RELATIVE:because of which; wherefore|INTERROGATIVE:why; wherefore|INDETERMINATE:for some reason|DETERMINATE:therefore; for that reason|PROXIMAL:herefore; because of this}",cmn <原因> [ɥɛn˧˥in˥],enjen
+"because; since; _denotes cause_ {COMPLEMENT:cause; inciting event; agent {GENITIVE:causal}|RELATIVE:why; because of which|INTERROGATIVE:why; wherefore|INDETERMINATE:for some reason|DETERMINATE:therefore; for that reason|PROXIMAL:herefore; because of this}",cmn <原因> [ɥɛn˧˥in˥],enjen
 "if; for; _denotes hypothetical world_ {COMPLEMENT:condition; world {GENITIVE:conditional}|RELATIVE:for which|INTERROGATIVE:under what condition; when|INDETERMINATE:in some event|DETERMINATE:in that event|PROXIMAL:given this}",eng <if> [ɪf],ajf
 "by; as; via; _denotes method or manner_ {COMPLEMENT:method; way; path; manner {GENITIVE:methodical; formal; instructive}|RELATIVE:by which|INTERROGATIVE:how|INDETERMINATE:somehow|DETERMINATE:thus; thereby|PROXIMAL:like so; hereby}",zul <indlela> [in̤d̤ela],iel
