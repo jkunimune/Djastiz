@@ -200,11 +200,18 @@ def read_esperanto(word):
 
 def read_english(word):
 	""" read a word phonetically in English """
-	broad = eng_to_ipa.convert(word.replace('-',' ')).replace('ʧ','t͡ʃ').replace('ʤ','d͡ʒ').replace('r','ɹ')\
+	word = eng_to_ipa.convert(word.replace('-',' ')).replace('ʧ','t͡ʃ').replace('ʤ','d͡ʒ').replace('r','ɹ')\
 		.replace('e','eɪ̯').replace('oʊ','oʊ̯').replace('aɪ','ɑɪ̯').replace('ɔɪ','ɔɪ̯').replace('aʊ','aʊ̯').replace('g','ɡ')
 
-	if '*' in broad: # if it couldn't find it,
+	if '*' in word: # if it couldn't find it,
 		return '*', '*' # cry
+
+	broad = ''
+	for i, c in enumerate(word): # this could be considered an allophone, but I definitely want my program to see rhotic labialisation as an important feature
+		if c == 'ɹ' and i+1 < len(word) and word[i+1] in 'aeiouəɪʊɔɑɛæ':
+			broad += c+'ʷ'
+		else:
+			broad += c
 
 	narrow = ''
 	for i, c in enumerate(broad): # there aren't actually too many allohponies in English of which I could think
@@ -212,8 +219,6 @@ def read_english(word):
 			narrow += 'ɾ'
 		elif c in 'ptk' and (i == 0 or broad[i-1] == 'ˈ'):
 			narrow += c+'ʰ'
-		elif c == 'ɹ' and i+1 < len(broad) and broad[i+1] in 'aeiouəɪʊɔɑɛæ':
-			narrow += c+'ʷ'
 		elif c in 'ɑiuɔ' and (i+1 >= len(broad) or broad[i+1] not in 'ɪʊ'):
 			narrow += c+'ː'
 		elif c == 'ɑ' and i+3 < len(broad) and broad[i+1:i+3] == 'ɪ̯' and broad[i+3] in 'ptkfθsʃh':

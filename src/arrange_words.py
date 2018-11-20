@@ -49,6 +49,11 @@ SOURCE_LANGUAGES = {
 }
 
 ALLOWED_CHANGES = [
+	('aɑæ', 'a'),
+	('eèɛ', 'e'),
+	('iɪɨ', 'i'),
+	('oɔɒ', 'o'),
+	('uʊʉɯ', 'u'),
 	('mɱ', 'm'),
 	('nɳŋɴ', 'n'),
 	('ɲ', 'nj'),
@@ -64,23 +69,18 @@ ALLOWED_CHANGES = [
 	('wʷɰ', 'w'),
 	('jʲʎ', 'j'),
 	('lɬrɾɽɭ', 'l'),
-	('aɑæ', 'a'),
-	('eèɛ', 'e'),
-	('iɪɨ', 'i'),
-	('oɔɒ', 'o'),
-	('uʊʉɯ', 'u'),
 	('- ˩˨˧˦˥ʰʼˈˌː͡⁀..,，​', '')
 ]
 RESTRICTED_CHANGES = [
+	('ə', 'a'),
+	('ɤʌ', 'aw'),
+	('œø', 'ew'),
 	('ǃǀ', 't'),
 	('ǁ', 'k'),
 	('ʄ', 'kj'),
 	('ð', 's'),
 	('ɣʁʕʀ', 'h'),
 	('ɮ', 'l'),
-	('ə', 'a'),
-	('ɤʌ', 'aw'),
-	('œø', 'ew'),
 ]
 
 PHONEME_TABLE = ['eaoiu', 'jw', 'h', 'l', 'ktp', 'f', 'cs', 'nm'] # the lawnsosliel phonemes, arranged by strength
@@ -153,11 +153,11 @@ def reduce_phoneme(phoneme, before, after):
 			logging.error("epitran is trying to pass off /{}/ as a phoneme...?".format(phoneme))
 			return cons, dist
 	elif phoneme.endswith('̯'): # convert semivowels
-		if phoneme[0] in 'iɪeɛ':
+		if phoneme[0] in ['i','ɪ','e','ɛ']:
 			return reduce_phoneme('j', before, after)
-		elif phoneme[0] in 'uʊoɔɯɤ':
+		elif phoneme[0] in ['u','ʊ','o','ɔ','ɯ','ɤ']:
 			return reduce_phoneme('w', before, after)
-		elif phoneme[0] in 'yʏø':
+		elif phoneme[0] in ['y','ʏ','ø']:
 			return reduce_phoneme('ɥ', before, after)
 		else:
 			raise IllegalArgumentException(phoneme)
@@ -170,18 +170,36 @@ def reduce_phoneme(phoneme, before, after):
 	for fulls, reduced in RESTRICTED_CHANGES:
 		if phoneme in fulls:
 			return reduced, 1
-	if phoneme in 'βvⱱʋ':
-		return 'w', 0 # TODO: use context
+	if phoneme in ['β','v','ⱱ','ʋ']: # these ones will take care of the weird ones that depend on context
+		if not before or not after or before == 'w' or after == 'w':
+			return 'f', 1 # use 'f' when you need a consonant or to create contrast,
+		else:
+			return 'w', 0 # 'w' otherwise
 	if phoneme == 'ʝ':
-		return 'j', 0 # TODO: use context
+		return ('hj', 0) if not before else ('j', 0) # /ʝ/ gets a free 'h' if it needs it
 	if phoneme == 'y':
-		return 'i', 1 # TODO: use context
+		if before in ['ʷ','w','u','ʊ','o','ɔ'] or after in ['ʷ','u','ʊ','o','ɔ']:
+			return 'i', 0 # /y/ looks like /i/ when surrounded by other rounded things
+		elif before in ['ʲ','j','i','ɪ','e','ɛ'] or after in ['ʲ','i','ɪ','e','ɛ']:
+			return 'u', 0 # and like /u/ when surrounded by other front things
+		else:
+			return 'iw', 1 # and not like much on its own
 	if phoneme == 'ɥ':
-		return 'j', 1 # TODO: use context
+		if before in ['u','ʊ','o','ɔ'] or after in ['u','ʊ','o','ɔ']:
+			return 'j', 0 # /ɥ/ looks like /j/ when surrounded by other rounded things
+		elif before in ['i','ɪ','e','ɛ'] or after in ['i','ɪ','e','ɛ']:
+			return 'w', 0 # and like /w/ when surrounded by other front things
+		else:
+			return 'ju', 1 # and not like much on its own
 	if phoneme == 'ɹ':
-		return '', 1 # TODO: use context
+		if not before or not after:
+			return 'l', 0 # use 'l' when you need a consonant
+		elif not is_consonant(reduce_phoneme(before,'','')[0]) and not is_consonant(reduce_phoneme(after,'','')[0]):
+			return 'l', 0 # or when intervocalic
+		else:
+			return '', 0 # otherwise it's better as nothing
 	if phoneme == '̃':
-		return 'n', 0 # TODO: use context
+		return 'm' if after in ['p','f'] else 'n', 0 # TODO: use context
 	if unicodedata.combining(phoneme):
 		return '', 0 # ignore all combining diacritics not expliticly listed here
 	raise ValueError(phoneme)
@@ -230,6 +248,8 @@ def apply_phonotactics(ipa, ending='csktp'):
 	if not lsl[-1] in ending: # make sure it ends on the right class of letter
 		lsl = lsl[:-1] + INVERSES[lsl[-1]]
 		changes += 1
+
+	# TODO: change interconsonantal semivowels to vowels
 
 	return lsl, changes
 

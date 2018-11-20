@@ -282,7 +282,7 @@ eng,source,ltl
 "Yemen; the country {GENITIVE:TODO}",ara <TODO> [jaman],'jaman
 "Zambia; the country {GENITIVE:Zambian}",eng <Zambia> [ˈzæmbiə],'sampia
 "Zimbabwe; the country {GENITIVE:TODO}",sna <TODO> [zimbabwe],'simpapwe
-"Abkhazia; the disputed territory {GENETIVE:Abkhazian}",abk <TODO> [apʰsˈnɨ],'apseni
+"Abkhazia; the disputed territory {GENITIVE:Abkhazian}",abk <TODO> [apʰsˈnɨ],'apseni
 "Northern Cyprus; the disputed territory {GENITIVE:TODO}",tur <TODO> [kuzej kɯbɾɯs],'kusejkuplus
 "Kosovo; the disputed territory {GENITIVE:Kosovan}",sqi <TODO> [kɔsɔva],'kosofa
 "South Ossetia; the disputed territory {GENITIVE:South Ossetian}",oss <TODO> [ˈalonston],'alonson
@@ -327,7 +327,7 @@ eng,source,ltl
 "Sigma Octantis; Polaris Australis; South Star; the star",lat <Polaris Australis> [pɔlarɪs awstralɪs],'polalisawstalis
 "Sirius; the star",lat <Sīrius> [siːrɪʊs],'silius
 "Vega; the star",ara <TODO> [waːqiʔ],'waki
-"Andromeda; the galaxy {GENITIVE:Andromedan}",grc <Ἀνδρομέδα> [an˦dro˧me˦da˧],antometa
+"Andromeda; the galaxy {GENITIVE:Andromedan}",grc <Ἀνδρομέδα> [an˦dro˧me˦da˧],'antometa
 "Bahá'í; the religion {GENITIVE:Bahá'í}",far <بهائی‎> [ba˨ˈha˦ʔi˦],'pahai
 "Buddhism; the religion {GENITIVE:Buddhist}",san <बुद्ध> [bud̚˨dʱɐ˦],'putha
 "Caodaism; the religion {GENITIVE:Caodaist}",vie <Đạo Cao Đài> [ɗaw˧ kaːw˧ ɗaːj˦˨],'tawkawtaj
