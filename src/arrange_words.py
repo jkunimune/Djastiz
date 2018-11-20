@@ -20,7 +20,7 @@ logging.basicConfig(level=logging.INFO)
 
 DIACRITIC_GUIDE = {
 	('àá', 'a'), 
-	('é', 'e'),
+	('èé', 'e'),
 	('ìíĩ', 'i'),
 	('òōõ', 'o'),
 	('ùúũṳ', 'u'),
@@ -50,7 +50,7 @@ SOURCE_LANGUAGES = {
 
 ALLOWED_CHANGES = [
 	('aɑæ', 'a'),
-	('eèɛ', 'e'),
+	('eɛ', 'e'),
 	('iɪɨ', 'i'),
 	('oɔɒ', 'o'),
 	('uʊʉɯ', 'u'),
@@ -83,6 +83,8 @@ RESTRICTED_CHANGES = [
 	('ɮ', 'l'),
 ]
 
+ALL_VOWELS = 'aɑæeɛiɪɨoɔɒuʊʉɯəɤʌœø'
+ALL_GLIDES = 'wʷɰjʲʎ'
 PHONEME_TABLE = ['eaoiu', 'jw', 'h', 'l', 'ktp', 'f', 'cs', 'nm'] # the lawnsosliel phonemes, arranged by strength
 INVERSES = {'a':'a', 'e':'o', 'i':'u', 'j':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'s', 'c':'f'}
 for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
@@ -121,7 +123,7 @@ def strength_of(phoneme):
 
 def is_consonant(phoneme):
 	""" is this a strong consonant? """
-	return strength_of(phoneme) >= strength_of('h')
+	return phoneme not in ALL_VOWELS and phoneme not in ALL_GLIDES
 
 
 def strongest(cluster, preference=[]):
@@ -146,12 +148,16 @@ def get_antonym(word):
 def reduce_phoneme(phoneme, before, after):
 	""" return the nearest lsl phoneme and the distance in phone space """
 	if phoneme.endswith('̩'): # this is how I do syllabics
-		cons, dist = reduce_phoneme(phoneme[0], before, after)
+		consonant, dist = reduce_phoneme(phoneme[0], before, after)
 		try:
-			return {'m':'u','n':'e','l':'o','r':'a','ɹ':'a'}[phoneme[0]] + cons, dist+1 # TODO: check context
+			anaptyxis = {'m':'u','n':'e','l':'o','r':'a','ɹ':'a'}[phoneme[0]] + consonant # the vowel to insert next to the syllabic consonant
 		except KeyError:
 			logging.error("epitran is trying to pass off /{}/ as a phoneme...?".format(phoneme))
-			return cons, dist
+			anaptyxis = 'u'
+		if before == '' or (not is_consonant(before) and is_consonant(after)):
+			return consonant+anaptyxis, dist+1 # put the vowel after it if that works better
+		else:
+			return anaptyxis+consonant, dist+1 # but usually put it before
 	elif phoneme.endswith('̯'): # convert semivowels
 		if phoneme[0] in ['i','ɪ','e','ɛ']:
 			return reduce_phoneme('j', before, after)
@@ -199,7 +205,7 @@ def reduce_phoneme(phoneme, before, after):
 		else:
 			return '', 0 # otherwise it's better as nothing
 	if phoneme == '̃':
-		return 'm' if after in ['p','f'] else 'n', 0 # TODO: use context
+		return 'm' if after in ['p','f'] else 'n', 0
 	if unicodedata.combining(phoneme):
 		return '', 0 # ignore all combining diacritics not expliticly listed here
 	raise ValueError(phoneme)
@@ -249,7 +255,9 @@ def apply_phonotactics(ipa, ending='csktp'):
 		lsl = lsl[:-1] + INVERSES[lsl[-1]]
 		changes += 1
 
-	# TODO: change interconsonantal semivowels to vowels
+	for i in range(len(lsl)):
+		if lsl[i] in ['w', 'j'] and (i-1 < 0 or is_consonant(lsl[i-1])) and (i+1 >= len(lsl) or is_consonant(lsl[i+1])):
+			lsl = lsl[:i] +  ('u' if lsl[i] == 'w' else 'i') + lsl[i+1:] # these rogue semivowels are weird and need to go die.
 
 	return lsl, changes
 

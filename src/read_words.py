@@ -273,8 +273,8 @@ SOTHO_DIGRAPHS = {
 SOTHO_MONOGRAPHS = {
 	'a':'ɑ', 'e':'e', 'g':'ɡ', 'j':'ʒ', 'k':'kʼ', 'o':'o', 'p':'pʼ', 'q':'ǃ', 'r':'ʀ', 't':'tʼ'}
 SOTHO_EXCEPTIONS = {
-	'lekʼɑ':'lɪkʼɑ', 'ʃebɑ':'ʃɛbɑ', 'pʼotsʼo':'pʼʊtsʼɔ', 'moŋolo':'mʊŋɔlɔ', 'kʼe':'kʼɪ',
-	'ho':'hʊ', 'liʒo':'liʒɔ', 'pʼon̩t͡sʰo':'pʼon̩t͡sʰɔ', 'ɑbelɑ':'ɑbɛlɑ', 'moʒɑlefɑ':'mʊʒɑlɪfɑ',
+	'lekʼɑ':'lɪkʼɑ', 'ʃebɑ':'ʃɛbɑ', 'pʼotsʼo':'pʼʊtsʼɔ', 'moŋolo':'mʊŋɔlɔ',
+	'liʒo':'liʒɔ', 'pʼon̩t͡sʰo':'pʼon̩t͡sʰɔ', 'ɑbelɑ':'ɑbɛlɑ', 'moʒɑlefɑ':'mʊʒɑlɪfɑ',
 	'ɬɑɬobɑ':'ɬɑɬʊbɑ', 'sexo':'sɪxɔ', 't͡sʼokʼot͡sʼɑ':'t͡sʼʊkʼʊt͡sʼɑ', 't͡sʰohɑ':'t͡sʰʊhɑ',
 	't͡ɬʰɑho':'t͡ɬʰɑhɔ', 'xɑle':'xɑlɛ', 'ǃkʼoǃkʼɑ':'ǃkʼɔǃkʼɑ', 'leǃʰekʼu':'lɪǃʰekʼu',
 	'bofʃwɑ':'bɔfʃwɑ', 'mol̩lo':'mʊl̩lɔ', 'pʰomɛl̩lɑ':'pʰʊmɛl̩lɑ', 'lefɑ':'lɪfɑ',
@@ -302,9 +302,13 @@ def read_sotho(word):
 	for i, c in enumerate(word): # special rules that I didn't want to treat as graphemes
 		if c in 'eo' and i+1 < len(word) and word[i+1] in 'ɑeiou':
 			broad += {'e':'j', 'o':'w'}[c]
-		elif c == '\'':
+		elif c == '\'' and i+1 < len(word) and word[i+1] in 'mnɲŋ':
 			broad += word[i+1]+'̩'
-		elif c in 'mn' and i+1 < len(word) and word[i+1] in 'mnɲŋ':
+		elif c == '\'':
+			pass
+		elif c == 'm' and i+1 < len(word) and word[i+1] == 'm':
+			broad += word[i+1]+'̩'
+		elif c == 'n' and i+1 < len(word) and word[i+1] in 'nɲŋ':
 			broad += word[i+1]+'̩'
 		elif c == 'l' and i+1 < len(word) and word[i+1] == 'l':
 			broad += 'l̩'
