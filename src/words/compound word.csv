@@ -1,554 +1,554 @@
 eng,source,ltl
-"Chatisun",this language,
-"us all; first person plural inclusive; the speaker, the listener, and possibly others {GENITIVE:all our}",I you,
-"us; first person plural exclusive; the speaker and others {GENITIVE:our}",I it,
-"y'all; second person plural; the listener and others {GENITIVE:y'all's}",you it,
-"other; not; anything but",be no direct-object
-"despite; though",even both,
-"but",even and,
-"hello; goodbye; yay; bless; okay; positive exclamative mood",like wow,
-"boo; fuck; not; negative exclamative mood",dislike wow,
-"the Antarctic Ocean; the ocean; the ocean",Antarctica sea,
-"the Arctic Ocean; the ocean; the ocean",be-north sea,
-"Afro-Eurasia; the landmass {GENITIVE:Afro-Eurasian}",Africa Eurasia,
-"Sub-Saharan Africa; the subcontinent {GENITIVE:Sub-Saharan}",be-south Africa,
-"North Africa; the Magreb; the subcontinent {GENITIVE:North African; Maghrebi}",be-north Africa,
-"South Asia; India; the subcontinent {GENITIVE:South Asian; Indian}",be-south Eurasia,
-"Southeast Asia; the subcontinent {GENITIVE:Southeastern Asian}",be-south be-east Eurasia,
-"Eastern Asia; Far East; the Orient; the subcontinent {GENITIVE:Asian; Eastern Asian; Oriental}",be-east Eurasia,
-"Siberia; the subcontinent {GENITIVE:Siberian}",be-north Eurasia,
-"Europe; the subcontinent {GENITIVE:European}",be-west Eurasia,
-"the Middle East; the Near East; West Asia; the subcontinent {GENITIVE:Middle Eastern}",be-south be-west Eurasia,
-"Central Asia; the subcontinent {GENITIVE:Central Asian}",be-inside Eurasia,
-"the Southern Cone; the subcontinent {GENITIVE:Southern Conal}",be-south South-America,
-"the Andean States; the subcontinent {GENITIVE:Andean}",be-east South-America,
-"Latin America; the subcontinent {GENITIVE:Latin American}",be-south America,
-"Central America; the subcontinent {GENITIVE:Central American}",be-inside America,
-"US+Canada; North America; the subcontinent {GENITIVE:US/Canadian; American; North American}",be-north North-America,
-"Oceania; the subcontinent {GENITIVE:Oceanic}",be-near Australia,
-"Sol; The Sun",person sun,
-"Luna; The Moon",person moon,
-"Earth {GENITIVE:earthling; terran}",person ground,
-"Mars; the planet {GENITIVE:Martian}",be-red ground,
-"Mercury; the planet {GENITIVE:Mercurian}",be-fast ground,
-"Neptune; the planet {GENITIVE:Neptunian}",sea ground,
-"Jupiter; the planet {GENITIVE:Jovian}",be-big ground,
-"Saturn; the planet {GENITIVE:Saturnic}",circle ground,
-"Uranus; the planet {GENITIVE:Uranic}",sky ground,
-"Venus; the planet {GENITIVE:Venusian}",be-loud ground,
-"Milky Way; the galaxy {GENITIVE:Milky}",person galaxy,
-"communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ {interlocutor} about IND {topic; passage} {TIME:conversation; discourse}",say say,
-"declare; say; tell; answer; give information; SBJ {lecturer; professor} tells IND {tellee} that OBJ {fact; opinion; notion; sentence} is true; give information",. say,
-"ask; interrogate; SBJ {curious; interrogator} asks IND {questionee} OBJ {question}",? say,
-"tell; implore; command; instruct; lead; SBJ {boss; commander} tells IND {instructee} to make OBJ {command; instruction} happen",>> say,
-"request; SBJ {requester} politely asks IND {requestee} to make OBJ {request} happen",please say,
-"exclaim; SBJ {exclaimer} makes an exclamatory utterance of OBJ {exclamation} to IND",wow say,
-"greet; praise; celebrate; SBJ {greeter; praiser} makes a positive utterance of OBJ {praised; occasion} to IND {greeted}",hello say,
-"complain; denounce; condemn; SBJ {complainer} makes a negative utterance of OBJ {complaint; denouncee} to IND {sympathetic ear}",boo say,
-"suggest; advise; SBJ suggests that IND do OBJ",should say,
-"multiple",1 more,
-"dictionary",word list,
-"alphabet {GENITIVE:alphabetical}",letter group,
-"part-of-speech",word category,
-"onomatopoeia",sound word,
-"design; SBJ {designer} makes OBJ {designed} with the goal of IND {design goal}",try create,
-"be international; be global; OBJ is international",much national,
-"conlang; constructed language",design language,
-"auxlang; international auxiliary language",be-international language,
-"artlang; artistic language",art language,
-"be right; SBJ {right} is right in saying OBJ {truth} to IND",yes say,
-"be wrong; be incorrect; SBJ {wrong} is incorrect in saying OBJ {falsehood; lie} to IND",no say,
-"succeed; SBJ succeeds at making OBJ happen",try happen,
-"tell the truth; be honest; SBJ expresses OBJ {the truth; true}, which they think to be true {AMOUNT:honesty; integrity}",yes try,
-"lie; be dishonest; SBJ expresses OBJ {lie; feint}, which they think to be false",no try,
-"trust; find trustworthy; OBJ trusts IND",tell-the-truth believe,
-"mistrust; find untrustworthy; OBJ does not trust IND",lie believe,
-"achieve; accomplish; complete; SBJ makes OBJ {achiever} achieve IND {accomplished; achieved; completed}",all progress,
-"use internet; be wireless; be cyber; be crypto {METHOD:protocol}",computer say,
-"mobile phone; cellural phone; cell phone",move phone,
-"smart phone; phone",understand phone,
-"female; woman",vagina life,
-"male; man",penis life,
-"be feminine; OBJ {woman; girl} is feminine",vagina act,
-"be masculine; OBJ {man; boy} is masculine",penis act,
-"year",ground period,
-"month",moon period,
-"week",7 period,
-"day",sun period,
-"time of day; hour",be-small time,
-"birthday",birth date,
-"morning; 00:00–12:00 or ;00–;50",sun begin time,
-"daytime; day; 06:00–18:00 or ;25–;75 or whenever the sun is up",sun time,
-"evening; 12:00–00:00 or ;50–;00",sun end time,
-"nighttime; night; 18:00–06:00 or ;75-;25 or whenever the sun is down",moon time,
-"spring",begin season,
-"summer",be-hot season,
-"autumn",end season,
-"winter",be-cold season,
-"yesterday",previous day,
-"today",this day,
-"tomorrow",next day,
-"last year",previous year,
-"this year",this year,
-"next year",next year,
-"recommend",should say,
-"bake; SBJ {baker} bakes OBJ {pastry; baked good}",be-dry cook,
-"car; truck",ground vehicle,
-"boat",liquid vehicle,
-"flying machine; airplane; helicopter; balloon",sky vehicle,
-"spaceship",cosmos vehicle,
-"train",path vehicle,
-"time machine",time vehicle,
-"submarine",be-low boat,
-"sedan",be-small car,
-"truck",be-big car,
-"airplane; jet; plane",wing flying-machine
-"helicopter",spin flying-machine,
-"swim; OBJ {swimmer} swims",liquid move,
-"climb; OBJ {climber} climbs {INSTRUMENT:ladder; handholds}",surface move,
-"dig; OBJ {digger} digs",solid move,
-"time travel; OBJ travels through time",time move,
-"bathroom; restroom",be-clean indoors,
-"anus",feces hole,
-"layer",be-below surface
-"subcontinent (e.g. Europe, South Asia)",be-small continent,
-"beach",land edge,
-"oasis; watering hole",water point,
-"island",small land,
-"lake; pond",pure sea,
-"river; stream; brook",liquid line,
-"waterfall",lower river,
-"body of water; lake; sea; lagoon",be-big liquid,
-"plateau; highlands {GENITIVE:highland; high}",be-high land,
-"lowlands",be-low land,
-"plains {GENITIVE:plain; planar; campal}",be-straight land,
-"tundra {GENITIVE:tundra; tundral}",be-cold land,
-"desert {GENITIVE:desert; deserted}",sand land,
-"jungle; rainforest {GENITIVE:jungle; rainforest; jungular}",plant land,
-"swamp; marsh; bog; wetlands {GENITIVE:marhal; wetland; wet}",liquid land,
-"dream; OBJ {dreamer} dreams IND {dream}",sleep perceive,
-"map",layout image,
-"map projection",map transformation,
-"be hallowed; worship; OBJ {worshiper} worships SBJ",god like,
-"rule monarchially; IND {monarch; king; queen} rules OBJ {peasant; kingdom} {LOCATION:kingdom}",1 govern,
-"tempt; entice to something appealing but immoral; SBJ {tempter; temptress} encourages IND {temptee} to do OBJ {temptation}",be-evil tell,
-"foot {GENITIVE:pedal}",leg hand,
-"shoulder",arm joint,
-"hip",leg joint,
-"wrist",hand joint,
-"ankle",foot joint,
-"bicep; upper arm",be-inside arm,
-"forearm; lower arm",be-outside arm,
-"thigh; upper leg",be-inside leg,
-"shin; lower leg",be-outside leg,
-"pelvis; hips",torso bottom,
-"mouth",face hole,
-"sensor; sense",perceive gland,
-"eye; eyeball",can-see gland,
-"ear",can-hear gland,
-"nose",can-smell gland,
-"tongue",can-taste gland,
-"skin",can-feel gland,
-"voicebox",speak gland,
-"heart",be-rhythmic gland,
-"brain",ponder gland,
-"muscle",move gland,
-"uterus",be-pregnant gland,
-"lick; SBJ {licker} licks OBJ {licked}",tongue rub,
-"suck; SBJ {sucker} sucks on OBJ {sucked}",mouth rub,
-"sand; SBJ {sander} sands OBJ {sanded}",powder rub,
-"needle",be-sharp stick,
-"be jagged; be zig-zag; be pointy; OBJ {zig-zag} is jagged",much be-straight,
-"be polygonal; OBJ {polygon} is polygonal",be-straight be-closed,
-"polygonise; SBJ turns OBJ into a polygon",INCOHATIVE OF be polygonal,
-"be spherical; be round; OBJ {sphere; ball} is spherical",surface be-circular,
-"be box-shaped; OBJ {box; rectangular prism} is box-shaped",surface be-square,
-"be polyhedral; OBJ {polyhedron; gem} is polyhedral",surface be-polygonal,
-"disc",be-consistent circle,
-"ring",be-closed circle,
-"water; dihydrogen monoxide",be-alive liquid,
-"air; atmosphere; nitrogen and oxygen and all that jazz",sky gas,
-"lava; magma",be-stone liquid,
-"mud",be-dirt liquid
-"oxygen",be-alive gas,
-"copper",be-teal metal,
-"bronze",be-structurally-strong copper,
-"iron",be-heavy metal,
-"steel",be-structurally-strong iron,
-"gold",be-yellow metal,
-"be aluminum; OBJ is made of aluminum",be-light be-metal,
-"gunpowder",burn powder,
-"be oil; be petroleum; OBJ is made of oil",burn be-liquid,
-"be quartz; OBJ is made of quartz",white be-crystal,
-"be emerald; OBJ is made of emerald",be-green be-crystal,
-"be diamond; OBJ is made of diamond",be-transparent be-crystal,
-"be plastic; OBJ is made of plastic",person be-crystal,
-"be glass; OBJ {window} is made of glass",be-transparent be-stone,
-"be graphite",pencil be-stone,
-"cloth; fabric",string sheet,
-"ink",write liquid,
-"paper; piece of paper; sheet of paper",write sheet,
-"canvas",art sheet,
-"ceramic",person stone,
-"smoke",be-burnt gas
-"oxyen",life gas,
-"sand; dust; pile of sand",stone powder,
-"gravel; course sand",stone chunky,
-"snow",liquid powder,
-"be bone",animal be-rigid,
-"be wet; IND is wet with OBJ {AMOUNT:wetness}",liquid be-on,
-"be dry; IND is dry of OBJ",gas be-on,
-"mist",liquid powder,
-"alcohol {GENITIVE:alcoholic}",have-fun liquid,
-"be drunk; be intoxicated; OBJ is drunk",have-fun be-sick,
-"be sober; be dry; OBJ is sober",be-bored be-sick,
-"drink; get drunk; intoxicate; SBJ makes OBJ drunk",INCOHATIVE OF be drunk,
-"sober; SBJ makes OBJ become sober",CESSATIVE OF be drunk,
-"have hangover; OBJ has a hangover",be-bored begin be-sick,
-"tea",leaf liquid,
-"milk",baby liquid,
-"wine",grape alcohol,
-"blood",red bodily-fluid,
-"urine; pee",yellow bodily-fluid,
-"pus",white bodily-fluid,
-"saliva",mouth bodily-fluid,
-"sweat",skin bodily-fluid,
-"tears",eye bodily-fluid,
-"feces; excrement; poop",solid bodily-fluid,
-"expectorate; spit; salivate; SBJ spits",saliva create,
-"cry; weep; sob",tears create,
-"sweat; SBJ sweats",sweat create,
-"defecate; poop",feces create,
-"urinate; pee",urine create,
-"diarrhea",liquid feces,
-"pimple",pus container,
-"hydroden",water material,
-"helium",sun material,
-"lithium",be-stone material,
-"carbon",life material,
-"nitrogen",sky material,
-"bat; flying fox",wing mammal,
-"pangolin",scale mammal,
-"cat",person feline,
-"dog",person canine,
-"horse",person equine,
-"rabbit; hare",fast rodent,
-"porcupine",be-sharp rodent,
-"mole",be-low rodent,
-"skunk",scent musteloidea,
-"raccoon",black face musteloidea,
-"camel",desert camel,
-"llama",mountain camel,
-"alpaca",string camel,
-"zebra",be-grey equine,
-"pig; pork",eat swine,
-"cow; beef",eat bovine,
-"buffalo",strong bovine,
-"antelope",fast bovine,
-"sheep; mutton",string bovine,
-"goat",mountain bovine,
-"sloth",slow mammal,
-"anteater",ant eat mammal,
-"armadillo",shell mammal,
-"manatee; sea-cow",sea elephant,
-"platypus",egg mammal,
-"waterfowl; duck; goose; swan",liquid fowl,
-"landfowl; chicken; turkey; pheasant",ground fowl,
-"dove",white pidgeon,
-"hummingbird",hum bustard,
-"penguin",be-cold bird,
-"pelican",mouth bird,
-"seagull",beach bird,
-"condor",be-big bird-of-prey,
-"vulture",wear no bird-of-prey,
-"owl",nighttime bird-of-prey,
-"bald eagle",head bird-of-prey,
-"flamingo",be-pink bird,
-"stork",leg bird,
-"amphibian {GENITIVE:amphibious}",fish lizard,
-"salamander",,
-"lungfish",sky fish,
-"eel",snake fish,
-"minnow",be-small carp,
-"catfish",hair carp,
-"magikarp",be-magical carp,
-"anglerfish",light fish,
-"pufferfish",balloon fish,
-"vertebrate",be-rigid animal,
-"invertebrate",be-flimsy animal,
-"arthropod {GENITIVE:arthropodic}",shell animal,
-"seastar; sealily",flower animal,
-"seaurchin",be-sharp animal,
-"seacucumber",cucumber animal,
-"pantopod",sea spider,
-"shrimp",be-small crustacean,
-"mantisshrimp",be-strong crustacean,
-"centipede; millipede",much leg,
-"centipede",poison centipede,
-"dragonfly; damselfly",be-long bug,
-"louse",hair bug,
-"scorpionfly",sky scorpion,
-"moth",be-brown butterfly,
-"butterfly",be-coloured moth,
-"stickbug",stick bug,
-"termite",wood bug,
-"plankton",be-small life,
-"snail",shell slug,
-"molusk; cephalapod",tentacle animal,
-"octopus",8 molusk,
-"decapus; squid; cuttlefish",1 0 molusk,
-"beard worm",be-big tube worm,
-"leech",blood worm,
-"anemone; seafan; seawhip",string plant animal,
-"coral",solid life,
-"sea sponge",sponge life,
-"tardigrade; waterbear; the animal",be-small bear,
-"moss; liverwort; hornwort",land algae,
-"algae; alga",sea moss,
-"palm tree",be-big leaf tree,
-"pine tree",be-thin leaf tree,
-"orchid",flower plant,
-"ginger",,
-"bird of paradise",,
-"nutmeg",,
-"avocado",,
-"pepper",,
-"tulip",,
-"lilly",,
-"pi; 3.142",circle number,
-"tau; 6.283",2 pi,
-"be armoured; IND {armour} armours OBJ {armoured}",protect wear,
-"armour; SBJ {armourer} armours OBJ in IND",protect put-on,
-"bite; SBJ {biter} bites OBJ {bitten}",mouth squeeze,
-"snoring",sleep sound,
-"pencil",be-stone writing-utensil,
-"paint; SBJ {painter} paints OBJ {painting}",liquid draw,
-"sculpt; etch; carve; SBJ {carver} carves OBJ {sculpture}",solid draw,
-"broom",,
-"mop",,
-"duster",,
-"hammer",,
-"polytheism; pantheon",several god,
-"monothiesm",1 god,
-"athiesm",0 god,
-"agnosticism; secularism; religious nonaffiliation",0 god,
-"be vibrant; be colourful; OBJ has many hues and colours",much be-coloured,
-"be monochromatic; OBJ has few colours",little be-coloured,
-"flag; banner",cloth symbol,
-"undergo revolution; OBJ goes through a revolution {TIME:revolution}",be-fast change,
-"sugar",be-sweet powder,
-"salt",be-salty powder,
-"flour",be-powder grain,
-"bread",be-foamy grain,
-"cereal",be-chunky grain,
-"corn; maize",be-yellow grain,
-"noodle; linguini",string grain,
-"banana",stick fruit,
-"sugarcane",be-sweet plant,
-"cotton",be-foamy plant,
-"coffee",move plant,
-"onion",layer plant,
-"venus fly-trap",eat plant,
-"bean",be-flimsy seed,
-"nut",be-rigid seed,
-"rubber",be-elastic tree,
-"coconut",string fruit,
-"clock; watch",time measuring-device,
-"stopwatch",be-late amount measuring-device
-"timer",be-early amount measuring-device
-"meterstick; ruler; measuring tape; stick",length measuring-device,
-"scale; balance",weight measuring-device,
-"thermometer",temperature measuring-device,
-"barometer",pressure measuring-device,
-"spectrometer",light length measuring-device,
-"whole; entirety; entire",be-broken no direct-object
-"shirt; top",torso clothing,
-"sleeve; armband",arm clothing,
-"pants; shorts; skirt",leg clothing,
-"pants; shorts",tube pants,
-"skirt",be-open pants,
-"underwear",be-low clothing,
-"blazer",be-high clothing,
-"shoe",foot clothing,
-"sock; stocking",be-low shoe,
-"glove",hand clothing,
-"hat",hair clothing,
-"mask; glasses",face clothing,
-"bracelet",wrist clothing,
-"dress",1 clothing,
-"suit; costume; uniform",whole clothing,
-"watch; wristwatch",arm clock,
-"be found; OBJ knows where SBJ is",where think,
-"go through; OBJ moves into and then out of IND {tube; hallway; corridor}",enter exit,
-"travel; SBJ travels from IND to OBJ {destination; getaway}",be-far move,
-"society",person system,
-"economy",sell system,
-"advertise; SBJ {advertiser} advertises IND {advertisement} to OBJ {advertisee}",sell show,
-"ticket; voucher",sell sheet
-"be magnetic; OBJ {magnet} is magnetic",pull be-metal,
-"do math; do maths; SBJ {mathematician} studies numbers to learn about OBJ {mathematics}",amount study,
-"do physics; SBJ {physicist} studies motion to learn about OBJ {physics}",move study,
-"do chemistry; do material science; SBJ {chemist} studies chemicals to learn about OBJ {chemistry; material science}",material study,
-"do biology; SBJ {biologist} studies lifeforms to learn about OBJ {biology}",be-alive study,
-"do psychology; SBJ {psychologist} studies the human mind to learn about OBJ {psychology}",think study,
-"do sociology; SBJ {sociologist} studies societies to learn about OBJ {sociology}",society study,
-"economics; SBJ {economist} studies economies to learn about OBJ {economics}",economy study,
-"history; SBJ {historian} studies the past to test and update OBJ {history}",past study,
-"linguistics; SBJ {linguist} studies languages to learn about OBJ {linguist}",language study,
-"do pedagogy; SBJ {pedagologist} studies pedagogy to learn about OBJ {pedagogy}",teach study,
-"do computer science; SBJ {computer scientist} studies computers to learn about OBJ {computer science}",computer study,
-"do theology; SBJ {theologist} studies religion to learn about OBJ {theology}",god study,
-"do statistics; SBJ {statistician} studies data to learn about OBJ {statistics}",be-likely study,
-"do hydrodynamics; SBJ {hydrodynamicist} studies the motion of fluids to learn about OBJ {hydrodynamics}",be-liquid move study,
-"do magnetohydrodynamics; SBJ {magnetohydrodynamicist} studies the motion of conductive fluids in magnetic fields",be-magnetic be-liquid move study,
-"do thermomagnetohydrodynamics; SBJ {thermomagnetohydrodynamicist} studies the heat transfer of conductive fluids in magnetic fields",be-hot be-magnetic be-liquid move study,
-"eat breakfast; breakfast; SBJ {fast-breaker} eats OBJ {breakfast} {TIME:breakfast time}",sun begin eat,
-"eat brunch; brunch; SBJ {bruncher} eats OBJ {brunch} {TIME:brunchtime}",be-early sun eat,
-"eat lunch; lunch; SBJ {luncher} eats OBJ {lunch} {TIME:lunchtime}",sun eat,
-"eat merienda; lunch late; eat linner; SBJ {late luncher} eats OBJ {late lunch; linner} {TIME:linnertime}",be-late sun eat,
-"eat supper; eat dinner; sup; dine; SBJ {diner; supper} eats OBJ {dinner; supper}",sun end eat,
-"eat dessert; eat midnight snack; SBJ {dessert} eats OBJ {dessert; midnight snack}",moon eat,
-"dine out; OBJ {diner} buys IND {restaurant meal} from SBJ {restaurant; server} {LOCATION:restaurant; food court; dining area}",eat sell,
-"grocery store",need store,
-"bookstore",book store,
-"locutorio",information store,
-"butchery",be-dead animal store,
-"ticket booth",ticket store,
-"satelite; artificial satelite",metal moon,
-"millimetre",×10^ minus 3 metre,
-"centimetre",×10^ minus 2 metre,
-"kilometre",×10^ 3 metre,
-"millilitre",×10^ minus 3 litre,
-"milligram",×10^ minus 6 kilogram,
-"gram",×10^ minus 3 kilogram,
-"tonne",×10^ 3 kilogram,
-"sibling",accompany child,
-"anticle; aunt; uncle",parent sibling,
-"first cousin",parent sibling child,
-"grandparent",×10^ 2 parent,
-"great grandparent",×10^ 3 parent,
-"great great grandparent",×10^ 4 parent,
-"project",big job,
-"square; lot; park",settlement region,
-"park",grass lot,
-"screen",can-see surface,
-"screen; stream; show; SBJ {screener; streamer; television network} entertains OBJ visually with IND {video; movie; TV show} {LOCATION:cinema|INSTRUMENT:screen}",can-see entertain,
-"sing; play music; stream; SBJ {musician} entertains OBJ audially with IND {music; song} {LOCATION:concert hall}",can-hear entertain,
-"storytell; SBJ {storyteller; host} entertains OBJ verbally with IND {audiobook; radio}",speak entertain,
-"literature; book; blog; web serial",read entertainment,
-"theatre; play; performing arts {LOCATION:theatre}",person entertainment,
-"news; current events; media",this time message,
-"newscast; news show",can-see news,
-"news radio show",can-hear news,
-"newspaper",read news,
-"magazine; periodical",be-rhythmic message,
-"sword",long blade,
-"strip; ribbon; a shape where all three dimensions are very different",sheet stick,
-"pre-educate; SBJ {pre-school teacher} teaches OBJ {pre-schooler} {LOCATION:pre-school}",be-early teach,
-"primary educate; elementary school; middle school; SBJ {elementary school teacher} teaches OBJ {elementary schooler} {LOCATION:elementary school; middle school}",be-behind teach,
-"secondary educate; high school; middle school; SBJ {high school teacher} teaches OBJ {high schooler} {LOCATION:high school; middle school}",be-ahead teach,
-"tertiary educate; college; university; higher educate; SBJ {professor} teaches OBJ {college student} {LOCATION:college; university}",be-late teach,
-"kindergarden",0 teach year,
-"first grade",1 teach year,
-"second grade",2 teach year,
-"freshman year of high school",9 teach year,
-"sophomore year of high school",1 0 teach year,
-"junior year of high school",1 1 teach year,
-"senior year of high school",1 2 teach year,
-"freshman year of college",1 3 teach year,
-"sophomore year of college",1 4 teach year,
-"junior year of college",1 5 teach year,
-"senior year of college",1 6 teach year,
-"be undead; OBJ is undead {TIME:afterlife}",be-alive repeat,
-"mine; quarry",stone source,
-"well",water source,
-"explode; blow up; detonate; SBJ {exploder} makes OBJ {exploded} explode",break spread-out,
-"implode; SBJ {imploder} makes OBJ {imploded} implode",break gather,
-"kitchen",food factory,
-"cook; fry; bake; boil; simmer; grill",food burn,
-"vegetarian; something that does not eat meat",0 animal eater,
-"carnivore; something that eats meat",animal eater,
-"herbivore; something that eats plants",plant eater,
-"be timely; be on time; OBJ is at the correct time",must be-early,
-"be polite",culture be-friendly,
-"be-rude",culture be-hostile,
-"religion",god method
-"sect",religion piece,
-"wave; ripple; water waves",be-liquid move,
-"rain; precipitate; OBJ {rain; precipitation} falls from the sky",sky fall,
-"blow; gust; wind blows",sky move,
-"strike; IND is struck by lightning from OBJ {thunderstorm; thundercloud}",sky discharge,
-"flood; OBJ floods IND {TIME:flood}",be-liquid raise,
-"earthquake; an earthquake happens",ground move,
-"tsunami; tidal wave",be-big wave,
-"thunderstorm",be-charged storm,
-"hurricane; typhoon",spin storm,
-"volcano",be-hot mountain
-"umbrella",rain shield,
-"address",location number,
-"ecosystem; environment",life system,
-"be legally required; be mandated by law; OBJ is required by law to make IND {law} happen",govern must,
-"legislate; mandate; pass law; SBJ {legislator; legislature; parliament; congress} legally declares that OBJ must make IND {new law} happen",govern assign,
-"be illegal; be against the law; OBJ is prohibited by law from making IND {crime; felony; misdemeanor} happen",govern be-forbidden,
-"prohibit; ban; pass law against; SBJ legally declares that OBJ may not make IND happen",govern forbid,
-"wage war; declare war; SBJ {agressor; warmonger} fights a war with OBJ {defender}",country fight,
-"be at war; SBJ is at war with OBJ {belligerent}",country fight be-happening,
-"have treaty; OBJ {contracting party} has a treaty with IND {ally; trading partner} {TIME:diplomacy|METHOD:treaty; deal; international agreement}",country deal,
-"strike treaty; SBJ {diplomat; ambassador} sets up a treaty between OBJ and IND",INCOHATIVE OF have treaty,
-"break treaty; expire; violate agreement; SBJ terminates a treaty between OBJ and IND",CESSATIVE OF have treaty,
-"dominant hand",be-skillful hand,
-"nondominant hand",be-inept hand,
-"be ambidextrous; OBJ is ambidextrous",2 hand be-skillful,
-"employ; contract; work for; OBJ {employee} works on IND {job; work} for SBJ {employer; boss} in exchange for money {TIME:employment; career}",work sell,
-"buy service; serve; OBJ {server} performs IND {service} for SBJ {customer} in exchange for money {TIME:service}",happen sell,
-"buy good; produce; OBJ {producer; vendor} gives IND {good} to SBJ {consumer} in exchange for money {TIME:sale}",object sell,
-"agree; OBJ agrees with IND",be-similar think,
-"disagree; OBJ disagrees with IND",be-different think,
-"team",help group,
-"conduct; be conductive; OBJ {conductor} conducts electricity {AMOUNT:conductivity}",be-charged be-easy,
-"insulate; resist; be resistive; OBJ {insulator; resistor} resists electrical current {AMOUNT:resistance}",be-charged be-difficult,
-"mooch; leech; have parasitic relation; OBJ {parasite; leech; freeloader} benefits from hindering IND {host}",hinder live,
-"synergise; have mutualistic relation; OBJ {symbiote} benefits from helping IND {host}",help live,
-"graph; plot {GENITIVE:graphical}",number image,
-"asphalt",path stone,
-"mail; correspond; send letter; use snail-mail",paper communicate,
-"text; message; instant-message",fast communicate,
-"flail",limb move,
-"be public; IND is expsosed to the public",outdoors can-see,
-"be private; IND is concealed from the public",indoors can-see,
-"fastwalk; SBJ does a fast walk on OBJ",be-fast walk,
-"jog; SBJ jogs on OBJ",be-slow run,
-"be foreign; OBJ is foreign relative to IND",land be-far,
-"be local; OBJ is local relative to IND",land be-near,
-"be pseudorandom",no be-random,
-"comet",sky fire,
-"predict",be-early think,
-"be predetermined; be predictable",POSSIBILITY OF predict,
-"be random; be unpredictable",ANTONYM OF be predetermined,
-"make predictable; order; determine",INCOHATIVE OF be predetermined,
-"randomise; scramble; make unpredictable",CESSATIVE OF be predetermined,
-"elect; SBJ elects IND to office over OBJ",choose take-over,
-"fork",be-sharp eating-utensil,
-"spoon",be-liquid eating-utensil,
-"chopsticks",stick eating-utensil,
-"platter; plate",eat plate,
-"bowl",eat holder,
-"bucket",be-liquid holder
-"smoke; SBJ smokes OBJ",be-burnt eat,
-"vape; e-smoke; SBJ vapes OBJ",be-charged eat,
-"date; court; OBJ is dating IND",love be-friendly
-"ask out; set up; start going out; SBJ {matchmaker} makes OBJ start dating IND",INCOHATIVE OF date,
-"break up; stop going out; SBJ makes OBJ stop dating IND",CESSATIVE OF date
-"legacy",person future,
-"ambassador",,
-"twin; triplet; quadruplet",be-similar sibling,
-"be lucky; be fortunate; that OBJ happens is lucky",like be-unlikely,
-"be unlicky; be unfortunate; that OBJ happens is unlucky",dislike be-unlikely,
-"meteor; meteorite",cosmos stone,
-"asteroid",star cosmos stone,
-"stilt",be-high leg,
-"basket",weave cup,
-"comment; commentary; SBJ {commenter} comments OBJ {metadata; comment; commentary} on IND",be-outside say,
-"light; light source",light source,
-"differentiate; take derivative; SBJ {differentiater} takes the nth derivative of OBJ {antiderivative; differentiation function} with respect to IND {differentiation variable} {AMOUNT:derivative order}",be-fast compute,
-"integrate; take integral; SBJ {integrator} takes the n-dimensional integral of OBJ {derivative; integration function} over IND {integration variable} {AMOUNT:integral dimensionality|LOCATION:integration bounds}",all compute,
+Chatisun,this language,tajn
+"us all; first person plural inclusive; the speaker, the listener, and possibly others {GENITIVE:all our}",I you,minmin
+us; first person plural exclusive; the speaker and others {GENITIVE:our},I it,mintajn
+y'all; second person plural; the listener and others {GENITIVE:y'all's},you it,mintajn
+other; not; anything but,be no direct-object,tattus
+despite; though,even both,fenhjo
+but,even and,fenha
+hello; goodbye; yay; bless; okay; positive exclamative mood,like wow,hawswa
+boo; fuck; not; negative exclamative mood,dislike wow,hawswa
+the Antarctic Ocean; the ocean; the ocean,Antarctica sea,'antaktikamal
+the Arctic Ocean; the ocean; the ocean,be-north sea,sutmal
+Afro-Eurasia; the landmass {GENITIVE:Afro-Eurasian},Africa Eurasia,'jewlasija
+Sub-Saharan Africa; the subcontinent {GENITIVE:Sub-Saharan},be-south Africa,sut
+North Africa; the Magreb; the subcontinent {GENITIVE:North African; Maghrebi},be-north Africa,sut
+South Asia; India; the subcontinent {GENITIVE:South Asian; Indian},be-south Eurasia,sut'jewlasija
+Southeast Asia; the subcontinent {GENITIVE:Southeastern Asian},be-south be-east Eurasia,suttuk'jewlasija
+Eastern Asia; Far East; the Orient; the subcontinent {GENITIVE:Asian; Eastern Asian; Oriental},be-east Eurasia,tuk'jewlasija
+Siberia; the subcontinent {GENITIVE:Siberian},be-north Eurasia,sut'jewlasija
+Europe; the subcontinent {GENITIVE:European},be-west Eurasia,tuk'jewlasija
+the Middle East; the Near East; West Asia; the subcontinent {GENITIVE:Middle Eastern},be-south be-west Eurasia,suttuk'jewlasija
+Central Asia; the subcontinent {GENITIVE:Central Asian},be-inside Eurasia,nejs'jewlasija
+the Southern Cone; the subcontinent {GENITIVE:Southern Conal},be-south South-America,sut'sulamelika
+the Andean States; the subcontinent {GENITIVE:Andean},be-east South-America,tuk'sulamelika
+Latin America; the subcontinent {GENITIVE:Latin American},be-south America,sut'lasamelikas
+Central America; the subcontinent {GENITIVE:Central American},be-inside America,nejs'lasamelikas
+US+Canada; North America; the subcontinent {GENITIVE:US/Canadian; American; North American},be-north North-America,sut'notamelika
+Oceania; the subcontinent {GENITIVE:Oceanic},be-near Australia,lehos'astwajlja
+Sol; The Sun,person sun,pesonsun
+Luna; The Moon,person moon,pesonsun
+Earth {GENITIVE:earthling; terran},person ground,pesonpum
+Mars; the planet {GENITIVE:Martian},be-red ground,hukpum
+Mercury; the planet {GENITIVE:Mercurian},be-fast ground,lapitpum
+Neptune; the planet {GENITIVE:Neptunian},sea ground,malpum
+Jupiter; the planet {GENITIVE:Jovian},be-big ground,taspum
+Saturn; the planet {GENITIVE:Saturnic},circle ground,pum
+Uranus; the planet {GENITIVE:Uranic},sky ground,pumpum
+Venus; the planet {GENITIVE:Venusian},be-loud ground,ANTONYM OF be quietpum
+Milky Way; the galaxy {GENITIVE:Milky},person galaxy,peson'kalasias
+communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ {interlocutor} about IND {topic; passage} {TIME:conversation; discourse},say say,cwoscwos
+declare; say; tell; answer; give information; SBJ {lecturer; professor} tells IND {tellee} that OBJ {fact; opinion; notion; sentence} is true; give information,. say,sacwos
+ask; interrogate; SBJ {curious; interrogator} asks IND {questionee} OBJ {question},? say,cucwos
+tell; implore; command; instruct; lead; SBJ {boss; commander} tells IND {instructee} to make OBJ {command; instruction} happen,>> say,nacwos
+request; SBJ {requester} politely asks IND {requestee} to make OBJ {request} happen,please say,panacwos
+exclaim; SBJ {exclaimer} makes an exclamatory utterance of OBJ {exclamation} to IND,wow say,wacwos
+greet; praise; celebrate; SBJ {greeter; praiser} makes a positive utterance of OBJ {praised; occasion} to IND {greeted},hello say,hawswacwos
+complain; denounce; condemn; SBJ {complainer} makes a negative utterance of OBJ {complaint; denouncee} to IND {sympathetic ear},boo say,hawswacwos
+suggest; advise; SBJ suggests that IND do OBJ,should say,tewuscwos
+multiple,1 more,kan
+dictionary,word list,suhtolis
+alphabet {GENITIVE:alphabetical},letter group,cin
+part-of-speech,word category,suh
+onomatopoeia,sound word,suh
+design; SBJ {designer} makes OBJ {designed} with the goal of IND {design goal},try create,cictatkes
+be international; be global; OBJ is international,much national,
+conlang; constructed language,design language,tesenas
+auxlang; international auxiliary language,be-international language,
+artlang; artistic language,art language,sen
+be right; SBJ {right} is right in saying OBJ {truth} to IND,yes say,tuscwos
+be wrong; be incorrect; SBJ {wrong} is incorrect in saying OBJ {falsehood; lie} to IND,no say,tuscwos
+succeed; SBJ succeeds at making OBJ happen,try happen,cictuskes
+"tell the truth; be honest; SBJ expresses OBJ {the truth; true}, which they think to be true {AMOUNT:honesty; integrity}",yes try,tuscic
+"lie; be dishonest; SBJ expresses OBJ {lie; feint}, which they think to be false",no try,tuscic
+trust; find trustworthy; OBJ trusts IND,tell-the-truth believe,tuscicpap
+mistrust; find untrustworthy; OBJ does not trust IND,lie believe,natekpap
+achieve; accomplish; complete; SBJ makes OBJ {achiever} achieve IND {accomplished; achieved; completed},all progress,lin
+use internet; be wireless; be cyber; be crypto {METHOD:protocol},computer say,komutelcwos
+mobile phone; cellural phone; cell phone,move phone,mopes
+smart phone; phone,understand phone,puc
+female; woman,vagina life,son
+male; man,penis life,son
+be feminine; OBJ {woman; girl} is feminine,vagina act,sonhat
+be masculine; OBJ {man; boy} is masculine,penis act,sonhat
+year,ground period,pum
+month,moon period,sun
+week,7 period,saf
+day,sun period,sun
+time of day; hour,be-small time,tas
+birthday,birth date,
+morning; 00:00–12:00 or ;00–;50,sun begin time,sunkes
+daytime; day; 06:00–18:00 or ;25–;75 or whenever the sun is up,sun time,sun
+evening; 12:00–00:00 or ;50–;00,sun end time,sunkes
+nighttime; night; 18:00–06:00 or ;75-;25 or whenever the sun is down,moon time,sun
+spring,begin season,kescicjeh
+summer,be-hot season,cawscicjeh
+autumn,end season,kescicjeh
+winter,be-cold season,cawscicjeh
+yesterday,previous day,kulansun
+today,this day,tajnsun
+tomorrow,next day,kulansun
+last year,previous year,kulanpum
+this year,this year,tajnpum
+next year,next year,kulanpum
+recommend,should say,tewuscwos
+bake; SBJ {baker} bakes OBJ {pastry; baked good},be-dry cook,tokjok
+car; truck,ground vehicle,pum
+boat,liquid vehicle,
+flying machine; airplane; helicopter; balloon,sky vehicle,pum
+spaceship,cosmos vehicle,sotan
+train,path vehicle,lucin
+time machine,time vehicle,
+submarine,be-low boat,tis
+sedan,be-small car,taspum
+truck,be-big car,taspum
+airplane; jet; plane,wing flying-machine,cipanpum
+helicopter,spin flying-machine,hilaspum
+swim; OBJ {swimmer} swims,liquid move,mopes
+climb; OBJ {climber} climbs {INSTRUMENT:ladder; handholds},surface move,helmopes
+dig; OBJ {digger} digs,solid move,mopes
+time travel; OBJ travels through time,time move,mopes
+bathroom; restroom,be-clean indoors,mos
+anus,feces hole,kun
+layer,be-below surface,suphel
+"subcontinent (e.g. Europe, South Asia)",be-small continent,taspawan
+beach,land edge,mal
+oasis; watering hole,water point,pojn
+island,small land,mal
+lake; pond,pure sea,toputmal
+river; stream; brook,liquid line,
+waterfall,lower river,tiskes
+body of water; lake; sea; lagoon,be-big liquid,tas
+plateau; highlands {GENITIVE:highland; high},be-high land,tismal
+lowlands,be-low land,tismal
+plains {GENITIVE:plain; planar; campal},be-straight land,socmal
+tundra {GENITIVE:tundra; tundral},be-cold land,cawsmal
+desert {GENITIVE:desert; deserted},sand land,mal
+jungle; rainforest {GENITIVE:jungle; rainforest; jungular},plant land,panmal
+swamp; marsh; bog; wetlands {GENITIVE:marhal; wetland; wet},liquid land,mal
+dream; OBJ {dreamer} dreams IND {dream},sleep perceive,toseppoc
+map,layout image,han
+map projection,map transformation,han
+be hallowed; worship; OBJ {worshiper} worships SBJ,god like,tiohhaws
+rule monarchially; IND {monarch; king; queen} rules OBJ {peasant; kingdom} {LOCATION:kingdom},1 govern,kanlekas
+tempt; entice to something appealing but immoral; SBJ {tempter; temptress} encourages IND {temptee} to do OBJ {temptation},be-evil tell,natiknacwos
+foot {GENITIVE:pedal},leg hand,kulman
+shoulder,arm joint,pih
+hip,leg joint,kul
+wrist,hand joint,man
+ankle,foot joint,kulman
+bicep; upper arm,be-inside arm,nejspih
+forearm; lower arm,be-outside arm,nejspih
+thigh; upper leg,be-inside leg,nejskul
+shin; lower leg,be-outside leg,nejskul
+pelvis; hips,torso bottom,patan
+mouth,face hole,mukkun
+sensor; sense,perceive gland,poccjen
+eye; eyeball,can-see gland,tekcjen
+ear,can-hear gland,tikcjen
+nose,can-smell gland,hiscjen
+tongue,can-taste gland,lascjen
+skin,can-feel gland,senascjen
+voicebox,speak gland,polotcjen
+heart,be-rhythmic gland,tawmtawmcjen
+brain,ponder gland,cinotcjen
+muscle,move gland,mopescjen
+uterus,be-pregnant gland,kawetcjen
+lick; SBJ {licker} licks OBJ {licked},tongue rub,lascjentolup
+suck; SBJ {sucker} sucks on OBJ {sucked},mouth rub,mukkuntolup
+sand; SBJ {sander} sands OBJ {sanded},powder rub,tolup
+needle,be-sharp stick,kjetpal
+be jagged; be zig-zag; be pointy; OBJ {zig-zag} is jagged,much be-straight,soc
+be polygonal; OBJ {polygon} is polygonal,be-straight be-closed,socselat
+polygonise; SBJ turns OBJ into a polygon,INCOHATIVE OF be polygonal,socselatkes
+be spherical; be round; OBJ {sphere; ball} is spherical,surface be-circular,helhip
+be box-shaped; OBJ {box; rectangular prism} is box-shaped,surface be-square,helhip
+be polyhedral; OBJ {polyhedron; gem} is polyhedral,surface be-polygonal,helsocselat
+disc,be-consistent circle,cawp
+ring,be-closed circle,selat
+water; dihydrogen monoxide,be-alive liquid,hwos
+air; atmosphere; nitrogen and oxygen and all that jazz,sky gas,pum
+lava; magma,be-stone liquid,cis
+mud,be-dirt liquid,tot
+oxygen,be-alive gas,hwos
+copper,be-teal metal,huk
+bronze,be-structurally-strong copper,tutkespishuk
+iron,be-heavy metal,pes
+steel,be-structurally-strong iron,tutkespispes
+gold,be-yellow metal,puas
+be aluminum; OBJ is made of aluminum,be-light be-metal,pessep
+gunpowder,burn powder,cjawskes
+be oil; be petroleum; OBJ is made of oil,burn be-liquid,cjawskeshjet
+be quartz; OBJ is made of quartz,white be-crystal,kios
+be emerald; OBJ is made of emerald,be-green be-crystal,sopuckios
+be diamond; OBJ is made of diamond,be-transparent be-crystal,hopakkios
+be plastic; OBJ is made of plastic,person be-crystal,pesonkios
+be glass; OBJ {window} is made of glass,be-transparent be-stone,hopakcis
+be graphite,pencil be-stone,cis
+cloth; fabric,string sheet,talpal
+ink,write liquid,lat
+paper; piece of paper; sheet of paper,write sheet,latpal
+canvas,art sheet,senpal
+ceramic,person stone,peson
+smoke,be-burnt gas,cjaws
+oxyen,life gas,
+sand; dust; pile of sand,stone powder,
+gravel; course sand,stone chunky,
+snow,liquid powder,
+be bone,animal be-rigid,tunuhsockespis
+be wet; IND is wet with OBJ {AMOUNT:wetness},liquid be-on,nas
+be dry; IND is dry of OBJ,gas be-on,nas
+mist,liquid powder,
+alcohol {GENITIVE:alcoholic},have-fun liquid,moc
+be drunk; be intoxicated; OBJ is drunk,have-fun be-sick,mocsak
+be sober; be dry; OBJ is sober,be-bored be-sick,mocsak
+drink; get drunk; intoxicate; SBJ makes OBJ drunk,INCOHATIVE OF be drunk,mocsakkes
+sober; SBJ makes OBJ become sober,CESSATIVE OF be drunk,mocsakkes
+have hangover; OBJ has a hangover,be-bored begin be-sick,mockessak
+tea,leaf liquid,hoh
+milk,baby liquid,kukam
+wine,grape alcohol,nulmoc
+blood,red bodily-fluid,tijeh
+urine; pee,yellow bodily-fluid,tijeh
+pus,white bodily-fluid,tijeh
+saliva,mouth bodily-fluid,mukkuntijeh
+sweat,skin bodily-fluid,senascjentijeh
+tears,eye bodily-fluid,tekcjentijeh
+feces; excrement; poop,solid bodily-fluid,tijeh
+expectorate; spit; salivate; SBJ spits,saliva create,mukkuntijehtatkes
+cry; weep; sob,tears create,tekcjentijehtatkes
+sweat; SBJ sweats,sweat create,senascjentijehtatkes
+defecate; poop,feces create,tijehtatkes
+urinate; pee,urine create,tijehtatkes
+diarrhea,liquid feces,tijeh
+pimple,pus container,tijeh
+hydroden,water material,hwos
+helium,sun material,sun
+lithium,be-stone material,cis
+carbon,life material,
+nitrogen,sky material,pum
+bat; flying fox,wing mammal,cipanmamul
+pangolin,scale mammal,selmamul
+cat,person feline,pesonmjawf
+dog,person canine,pesonpawawf
+horse,person equine,pesonhihin
+rabbit; hare,fast rodent,cuh
+porcupine,be-sharp rodent,kjetcuh
+mole,be-low rodent,tiscuh
+skunk,scent musteloidea,museloiteah
+raccoon,black face musteloidea,mukmuseloiteah
+camel,desert camel,malkamel
+llama,mountain camel,cankamel
+alpaca,string camel,talkamel
+zebra,be-grey equine,kishihin
+pig; pork,eat swine,njamjacsual
+cow; beef,eat bovine,njamjacmum
+buffalo,strong bovine,mum
+antelope,fast bovine,mum
+sheep; mutton,string bovine,talmum
+goat,mountain bovine,canmum
+sloth,slow mammal,mamul
+anteater,ant eat mammal,njelnjamjacmamul
+armadillo,shell mammal,celmamul
+manatee; sea-cow,sea elephant,malono bjãː
+platypus,egg mammal,tanmamul
+waterfowl; duck; goose; swan,liquid fowl,fowl
+landfowl; chicken; turkey; pheasant,ground fowl,pumfowl
+dove,white pidgeon,picen
+hummingbird,hum bustard,mumumpusal
+penguin,be-cold bird,cawscipicif
+pelican,mouth bird,mukkuncipicif
+seagull,beach bird,malcipicif
+condor,be-big bird-of-prey,taskiah
+vulture,wear no bird-of-prey,cwaktuskiah
+owl,nighttime bird-of-prey,sunkiah
+bald eagle,head bird-of-prey,silkiah
+flamingo,be-pink bird,sopuccipicif
+stork,leg bird,kulcipicif
+amphibian {GENITIVE:amphibious},fish lizard,mafkil
+salamander,,
+lungfish,sky fish,pummaf
+eel,snake fish,sasahmaf
+minnow,be-small carp,taskam
+catfish,hair carp,culkam
+magikarp,be-magical carp,mahikkam
+anglerfish,light fish,lummaf
+pufferfish,balloon fish,maf
+vertebrate,be-rigid animal,sockespistunuh
+invertebrate,be-flimsy animal,sockespistunuh
+arthropod {GENITIVE:arthropodic},shell animal,celtunuh
+seastar; sealily,flower animal,fultunuh
+seaurchin,be-sharp animal,kjettunuh
+seacucumber,cucumber animal,'hialtunuh
+pantopod,sea spider,malcif
+shrimp,be-small crustacean,taskel
+mantisshrimp,be-strong crustacean,kuatkel
+centipede; millipede,much leg,kul
+centipede,poison centipede,topoisokkul
+dragonfly; damselfly,be-long bug,caksim
+louse,hair bug,culsim
+scorpionfly,sky scorpion,pumpif
+moth,be-brown butterfly,swothutjeh
+butterfly,be-coloured moth,kololesswothutjeh
+stickbug,stick bug,palsim
+termite,wood bug,sim
+plankton,be-small life,tas
+snail,shell slug,celpapoh
+molusk; cephalapod,tentacle animal,tentunuh
+octopus,8 molusk,pahtentunuh
+decapus; squid; cuttlefish,1 0 molusk,kanlintentunuh
+beard worm,be-big tube worm,tascun
+leech,blood worm,tijehcun
+anemone; seafan; seawhip,string plant animal,talpantunuh
+coral,solid life,
+sea sponge,sponge life,
+tardigrade; waterbear; the animal,be-small bear,tascjwn
+moss; liverwort; hornwort,land algae,malcawal
+algae; alga,sea moss,malmalcawal
+palm tree,be-big leaf tree,tashohpel
+pine tree,be-thin leaf tree,cathohpel
+orchid,flower plant,fulpan
+ginger,,
+bird of paradise,,
+nutmeg,,
+avocado,,
+pepper,,
+tulip,,
+lilly,,
+pi; 3.142,circle number,
+tau; 6.283,2 pi,hal
+be armoured; IND {armour} armours OBJ {armoured},protect wear,losakkespiskescwak
+armour; SBJ {armourer} armours OBJ in IND,protect put-on,losakkespiskescwakkes
+bite; SBJ {biter} bites OBJ {bitten},mouth squeeze,mukkuntosues
+snoring,sleep sound,tosep
+pencil,be-stone writing-utensil,cis
+paint; SBJ {painter} paints OBJ {painting},liquid draw,twos
+sculpt; etch; carve; SBJ {carver} carves OBJ {sculpture},solid draw,twos
+broom,,
+mop,,
+duster,,
+hammer,,
+polytheism; pantheon,several god,tioh
+monothiesm,1 god,kantioh
+athiesm,0 god,lintioh
+agnosticism; secularism; religious nonaffiliation,0 god,lintioh
+be vibrant; be colourful; OBJ has many hues and colours,much be-coloured,kololes
+be monochromatic; OBJ has few colours,little be-coloured,kololes
+flag; banner,cloth symbol,talpal
+undergo revolution; OBJ goes through a revolution {TIME:revolution},be-fast change,lapit
+sugar,be-sweet powder,kot
+salt,be-salty powder,cjek
+flour,be-powder grain,potkain
+bread,be-foamy grain,cawpkain
+cereal,be-chunky grain,fonitkain
+corn; maize,be-yellow grain,puaskain
+noodle; linguini,string grain,talkain
+banana,stick fruit,palfol
+sugarcane,be-sweet plant,kotpan
+cotton,be-foamy plant,cawppan
+coffee,move plant,mopespan
+onion,layer plant,suphelpan
+venus fly-trap,eat plant,njamjacpan
+bean,be-flimsy seed,sockespissem
+nut,be-rigid seed,sockespissem
+rubber,be-elastic tree,pawspispel
+coconut,string fruit,talfol
+clock; watch,time measuring-device,
+stopwatch,be-late amount measuring-device,tet
+timer,be-early amount measuring-device,tet
+meterstick; ruler; measuring tape; stick,length measuring-device,
+scale; balance,weight measuring-device,peskes
+thermometer,temperature measuring-device,
+barometer,pressure measuring-device,
+spectrometer,light length measuring-device,lum
+whole; entirety; entire,be-broken no direct-object,tuttus
+shirt; top,torso clothing,patan
+sleeve; armband,arm clothing,pih
+pants; shorts; skirt,leg clothing,kul
+pants; shorts,tube pants,kul
+skirt,be-open pants,selatkul
+underwear,be-low clothing,tis
+blazer,be-high clothing,tis
+shoe,foot clothing,kulman
+sock; stocking,be-low shoe,tiskulman
+glove,hand clothing,man
+hat,hair clothing,cul
+mask; glasses,face clothing,muk
+bracelet,wrist clothing,man
+dress,1 clothing,kan
+suit; costume; uniform,whole clothing,tuttus
+watch; wristwatch,arm clock,pih
+be found; OBJ knows where SBJ is,where think,sukaws
+go through; OBJ moves into and then out of IND {tube; hallway; corridor},enter exit,nejskesnejskes
+travel; SBJ travels from IND to OBJ {destination; getaway},be-far move,lehosmopes
+society,person system,peson
+economy,sell system,pec
+advertise; SBJ {advertiser} advertises IND {advertisement} to OBJ {advertisee},sell show,pecpockes
+ticket; voucher,sell sheet,pecpal
+be magnetic; OBJ {magnet} is magnetic,pull be-metal,topussep
+do math; do maths; SBJ {mathematician} studies numbers to learn about OBJ {mathematics},amount study,tosutiws
+do physics; SBJ {physicist} studies motion to learn about OBJ {physics},move study,mopestosutiws
+do chemistry; do material science; SBJ {chemist} studies chemicals to learn about OBJ {chemistry; material science},material study,tosutiws
+do biology; SBJ {biologist} studies lifeforms to learn about OBJ {biology},be-alive study,hwostosutiws
+do psychology; SBJ {psychologist} studies the human mind to learn about OBJ {psychology},think study,sukawstosutiws
+do sociology; SBJ {sociologist} studies societies to learn about OBJ {sociology},society study,pesontosutiws
+economics; SBJ {economist} studies economies to learn about OBJ {economics},economy study,pectosutiws
+history; SBJ {historian} studies the past to test and update OBJ {history},past study,tosutiws
+linguistics; SBJ {linguist} studies languages to learn about OBJ {linguist},language study,tosutiws
+do pedagogy; SBJ {pedagologist} studies pedagogy to learn about OBJ {pedagogy},teach study,sapeskestosutiws
+do computer science; SBJ {computer scientist} studies computers to learn about OBJ {computer science},computer study,komuteltosutiws
+do theology; SBJ {theologist} studies religion to learn about OBJ {theology},god study,tiohtosutiws
+do statistics; SBJ {statistician} studies data to learn about OBJ {statistics},be-likely study,cunistosutiws
+do hydrodynamics; SBJ {hydrodynamicist} studies the motion of fluids to learn about OBJ {hydrodynamics},be-liquid move study,hjetmopestosutiws
+do magnetohydrodynamics; SBJ {magnetohydrodynamicist} studies the motion of conductive fluids in magnetic fields,be-magnetic be-liquid move study,topussephjetmopestosutiws
+do thermomagnetohydrodynamics; SBJ {thermomagnetohydrodynamicist} studies the heat transfer of conductive fluids in magnetic fields,be-hot be-magnetic be-liquid move study,cawstopussephjetmopestosutiws
+eat breakfast; breakfast; SBJ {fast-breaker} eats OBJ {breakfast} {TIME:breakfast time},sun begin eat,sunkesnjamjac
+eat brunch; brunch; SBJ {bruncher} eats OBJ {brunch} {TIME:brunchtime},be-early sun eat,tetsunnjamjac
+eat lunch; lunch; SBJ {luncher} eats OBJ {lunch} {TIME:lunchtime},sun eat,sunnjamjac
+eat merienda; lunch late; eat linner; SBJ {late luncher} eats OBJ {late lunch; linner} {TIME:linnertime},be-late sun eat,tetsunnjamjac
+eat supper; eat dinner; sup; dine; SBJ {diner; supper} eats OBJ {dinner; supper},sun end eat,sunkesnjamjac
+eat dessert; eat midnight snack; SBJ {dessert} eats OBJ {dessert; midnight snack},moon eat,sunnjamjac
+dine out; OBJ {diner} buys IND {restaurant meal} from SBJ {restaurant; server} {LOCATION:restaurant; food court; dining area},eat sell,njamjacpec
+grocery store,need store,lok
+bookstore,book store,
+locutorio,information store,hapal
+butchery,be-dead animal store,hwostunuh
+ticket booth,ticket store,pecpal
+satelite; artificial satelite,metal moon,sun
+millimetre,×10^ minus 3 metre,tin'methe
+centimetre,×10^ minus 2 metre,hal'methe
+kilometre,×10^ 3 metre,tin'methe
+millilitre,×10^ minus 3 litre,tin'lithe
+milligram,×10^ minus 6 kilogram,mef'kiloham
+gram,×10^ minus 3 kilogram,tin'kiloham
+tonne,×10^ 3 kilogram,tin'kiloham
+sibling,accompany child,pejs
+anticle; aunt; uncle,parent sibling,mamappejs
+first cousin,parent sibling child,mamappejs
+grandparent,×10^ 2 parent,halmamap
+great grandparent,×10^ 3 parent,tinmamap
+great great grandparent,×10^ 4 parent,calmamap
+project,big job,
+square; lot; park,settlement region,cihlekion
+park,grass lot,tamcihlekion
+screen,can-see surface,tekhel
+screen; stream; show; SBJ {screener; streamer; television network} entertains OBJ visually with IND {video; movie; TV show} {LOCATION:cinema|INSTRUMENT:screen},can-see entertain,tekhamusitkes
+sing; play music; stream; SBJ {musician} entertains OBJ audially with IND {music; song} {LOCATION:concert hall},can-hear entertain,tikhamusitkes
+storytell; SBJ {storyteller; host} entertains OBJ verbally with IND {audiobook; radio},speak entertain,polothamusitkes
+literature; book; blog; web serial,read entertainment,les
+theatre; play; performing arts {LOCATION:theatre},person entertainment,peson
+news; current events; media,this time message,tajn
+newscast; news show,can-see news,tektajn
+news radio show,can-hear news,tiktajn
+newspaper,read news,lestajn
+magazine; periodical,be-rhythmic message,tawmtawm
+sword,long blade,
+strip; ribbon; a shape where all three dimensions are very different,sheet stick,palpal
+pre-educate; SBJ {pre-school teacher} teaches OBJ {pre-schooler} {LOCATION:pre-school},be-early teach,tetsapeskes
+primary educate; elementary school; middle school; SBJ {elementary school teacher} teaches OBJ {elementary schooler} {LOCATION:elementary school; middle school},be-behind teach,halapsapeskes
+secondary educate; high school; middle school; SBJ {high school teacher} teaches OBJ {high schooler} {LOCATION:high school; middle school},be-ahead teach,haksapeskes
+tertiary educate; college; university; higher educate; SBJ {professor} teaches OBJ {college student} {LOCATION:college; university},be-late teach,tetsapeskes
+kindergarden,0 teach year,linsapeskespum
+first grade,1 teach year,kansapeskespum
+second grade,2 teach year,halsapeskespum
+freshman year of high school,9 teach year,nofsapeskespum
+sophomore year of high school,1 0 teach year,kanlinsapeskespum
+junior year of high school,1 1 teach year,kankansapeskespum
+senior year of high school,1 2 teach year,kanhalsapeskespum
+freshman year of college,1 3 teach year,kantinsapeskespum
+sophomore year of college,1 4 teach year,kancalsapeskespum
+junior year of college,1 5 teach year,kanfifsapeskespum
+senior year of college,1 6 teach year,kanmefsapeskespum
+be undead; OBJ is undead {TIME:afterlife},be-alive repeat,hwoslipetas
+mine; quarry,stone source,
+well,water source,hwos
+explode; blow up; detonate; SBJ {exploder} makes OBJ {exploded} explode,break spread-out,tutkesteskes
+implode; SBJ {imploder} makes OBJ {imploded} implode,break gather,tutkesteskes
+kitchen,food factory,
+cook; fry; bake; boil; simmer; grill,food burn,cjawskes
+vegetarian; something that does not eat meat,0 animal eater,lintunuh
+carnivore; something that eats meat,animal eater,tunuh
+herbivore; something that eats plants,plant eater,pan
+be timely; be on time; OBJ is at the correct time,must be-early,teptet
+be polite,culture be-friendly,kutulhamik
+be-rude,culture be-hostile,kutulhamik
+religion,god method,tioh
+sect,religion piece,tioh
+wave; ripple; water waves,be-liquid move,hjetmopes
+rain; precipitate; OBJ {rain; precipitation} falls from the sky,sky fall,pumkaes
+blow; gust; wind blows,sky move,pummopes
+strike; IND is struck by lightning from OBJ {thunderstorm; thundercloud},sky discharge,pumtjekkes
+flood; OBJ floods IND {TIME:flood},be-liquid raise,hjetsupkes
+earthquake; an earthquake happens,ground move,pummopes
+tsunami; tidal wave,be-big wave,tastowawes
+thunderstorm,be-charged storm,tjekcol
+hurricane; typhoon,spin storm,hilascol
+volcano,be-hot mountain,cawscan
+umbrella,rain shield,pumkaes
+address,location number,
+ecosystem; environment,life system,
+be legally required; be mandated by law; OBJ is required by law to make IND {law} happen,govern must,lekastep
+legislate; mandate; pass law; SBJ {legislator; legislature; parliament; congress} legally declares that OBJ must make IND {new law} happen,govern assign,lekastepkes
+be illegal; be against the law; OBJ is prohibited by law from making IND {crime; felony; misdemeanor} happen,govern be-forbidden,lekastep
+prohibit; ban; pass law against; SBJ legally declares that OBJ may not make IND happen,govern forbid,lekastepkes
+wage war; declare war; SBJ {agressor; warmonger} fights a war with OBJ {defender},country fight,teftofik
+be at war; SBJ is at war with OBJ {belligerent},country fight be-happening,teftofik
+have treaty; OBJ {contracting party} has a treaty with IND {ally; trading partner} {TIME:diplomacy|METHOD:treaty; deal; international agreement},country deal,teftit
+strike treaty; SBJ {diplomat; ambassador} sets up a treaty between OBJ and IND,INCOHATIVE OF have treaty,teftitkes
+break treaty; expire; violate agreement; SBJ terminates a treaty between OBJ and IND,CESSATIVE OF have treaty,teftitkes
+dominant hand,be-skillful hand,letman
+nondominant hand,be-inept hand,letman
+be ambidextrous; OBJ is ambidextrous,2 hand be-skillful,halmanlet
+employ; contract; work for; OBJ {employee} works on IND {job; work} for SBJ {employer; boss} in exchange for money {TIME:employment; career},work sell,kolotpec
+buy service; serve; OBJ {server} performs IND {service} for SBJ {customer} in exchange for money {TIME:service},happen sell,tuskespec
+buy good; produce; OBJ {producer; vendor} gives IND {good} to SBJ {consumer} in exchange for money {TIME:sale},object sell,pec
+agree; OBJ agrees with IND,be-similar think,putuksukaws
+disagree; OBJ disagrees with IND,be-different think,putuksukaws
+team,help group,tohep
+conduct; be conductive; OBJ {conductor} conducts electricity {AMOUNT:conductivity},be-charged be-easy,tjeksohoc
+insulate; resist; be resistive; OBJ {insulator; resistor} resists electrical current {AMOUNT:resistance},be-charged be-difficult,tjeksohoc
+mooch; leech; have parasitic relation; OBJ {parasite; leech; freeloader} benefits from hindering IND {host},hinder live,tohep
+synergise; have mutualistic relation; OBJ {symbiote} benefits from helping IND {host},help live,tohep
+graph; plot {GENITIVE:graphical},number image,
+asphalt,path stone,lucin
+mail; correspond; send letter; use snail-mail,paper communicate,latpalcwoscwos
+text; message; instant-message,fast communicate,cwoscwos
+flail,limb move,mopes
+be public; IND is expsosed to the public,outdoors can-see,tek
+be private; IND is concealed from the public,indoors can-see,tek
+fastwalk; SBJ does a fast walk on OBJ,be-fast walk,lapitsows
+jog; SBJ jogs on OBJ,be-slow run,lapitkulas
+be foreign; OBJ is foreign relative to IND,land be-far,mallehos
+be local; OBJ is local relative to IND,land be-near,mallehos
+be pseudorandom,no be-random,tus
+comet,sky fire,pum
+predict,be-early think,tetsukaws
+be predetermined; be predictable,POSSIBILITY OF predict,tetsukawspis
+be random; be unpredictable,ANTONYM OF be predetermined,tetsukawspis
+make predictable; order; determine,INCOHATIVE OF be predetermined,tetsukawspiskes
+randomise; scramble; make unpredictable,CESSATIVE OF be predetermined,tetsukawspiskes
+elect; SBJ elects IND to office over OBJ,choose take-over,tokihoslekaskes
+fork,be-sharp eating-utensil,kjet
+spoon,be-liquid eating-utensil,hjet
+chopsticks,stick eating-utensil,pal
+platter; plate,eat plate,njamjactal
+bowl,eat holder,njamjac
+bucket,be-liquid holder,hjet
+smoke; SBJ smokes OBJ,be-burnt eat,cjawsnjamjac
+vape; e-smoke; SBJ vapes OBJ,be-charged eat,tjeknjamjac
+date; court; OBJ is dating IND,love be-friendly,hamashamik
+ask out; set up; start going out; SBJ {matchmaker} makes OBJ start dating IND,INCOHATIVE OF date,hamashamikkes
+break up; stop going out; SBJ makes OBJ stop dating IND,CESSATIVE OF date,hamashamikkes
+legacy,person future,peson
+ambassador,,
+twin; triplet; quadruplet,be-similar sibling,putukpejs
+be lucky; be fortunate; that OBJ happens is lucky,like be-unlikely,hawscunis
+be unlicky; be unfortunate; that OBJ happens is unlucky,dislike be-unlikely,hawscunis
+meteor; meteorite,cosmos stone,sotan
+asteroid,star cosmos stone,sotan
+stilt,be-high leg,tiskul
+basket,weave cup,palisitkes
+comment; commentary; SBJ {commenter} comments OBJ {metadata; comment; commentary} on IND,be-outside say,nejscwos
+light; light source,light source,lum
+differentiate; take derivative; SBJ {differentiater} takes the nth derivative of OBJ {antiderivative; differentiation function} with respect to IND {differentiation variable} {AMOUNT:derivative order},be-fast compute,lapit
+integrate; take integral; SBJ {integrator} takes the n-dimensional integral of OBJ {derivative; integration function} over IND {integration variable} {AMOUNT:integral dimensionality|LOCATION:integration bounds},all compute,lin

@@ -1,172 +1,172 @@
 eng,source,ltl
-"notion; idea; not necessarily true or objective {GENITIVE:conceptual; ideal}",,
-"point; a particular time or place {GENITIVE:particular; local}",,
-"path; line; curve {GENITIVE:linear; curvilinear}",,
-"surface; plane; layer {GENITIVE:planar; superficial; facial}",,
-"region; volume; interval {GENITIVE:regional; volumetric; periodic}",,
-"stick; rod; limb",,
-"string; thread; wire; hair; thread",,
-"plate; board; wall",OPPOSITE OF string,
-"sheet; slip",OPPOSITE OF stick,
-"network; net; web; system {GENITIVE:web}",,
-"hole; hallway; tube; gap {GENITIVE:holey}",,
-"person; woman; man; human {GENITIVE:personal; humanistic}",,
-"personify; humanise; anthropomorphise",INCOHATIVE OF person,
-"beast; non-human animal {GENITIVE:beastial; animalistic}",OPPOSITE OF person,
-"beastify",INCOHATIVE OF beast,
-"baby {GENITIVE:infantile}",ono [guː gaː],kukam
-"babify; SBJ turns OBJ into a baby",INCOHATIVE OF baby,
-"adult {GENITIVE:adult}",,
-"adolescent; youth; kid {GENITIVE:juvenile}",OPPOSITE OF adult,
-"senior citizen; elder; a _really_ old person {GENITIVE:elder}",OPPOSITE OF baby,
-"age; shrivel; SBJ turns OBJ into a really old person",incohavite of ""senior citizen"",
-"specialist; personel; qualified {GENITIVE:special; technical}",,
-"specialise; train; qualify; SBJ turns OBJ into a specialist",INCOHATIVE OF specialist,
-"layperson; civilian; customer; member of the public {GENITIVE:popular; general}",OPPOSITE OF specialist,
-"light {GENITIVE:photic; optic; luminescient}",,
-"god; deity; a general term, not a reference to any particular god {GENITIVE:divine; godly; deific}",,
-"ground; planet {GENITIVE:terrestrial; planetary}",,
-"sky; atmosphere; weather; heavens {GENITIVE:celestial; atmospheric; meteorological; aerial}",OPPOSITE OF ground,
-"cosmos; outer *space {GENITIVE:cosmic; astral; interstellar}",,
-"sun; star {GENITIVE:solar; stellar}",,
-"moon; satelite {GENITIVE:lunar}",OPPOSITE OF sun,
-"sea; ocean {GENITIVE:marine; oceanic}",,
-"land; landmass {GENITIVE:terrestrial}",OPPOSITE OF sea,
-"continent; North America, Eurasia, etc. {GENITIVE:continental}",,
-"mountain {GENITIVE:mountainous; montanical}",,
-"valley {GENITIVE:valley}",OPPOSITE OF mountain,
-"settlement; *city; town; village {GENITIVE:urban; villestial}",,
-"country; state; polity {GENITIVE:national}",,
-"storm; tempest {GENITIVE:stormy; cyclonical}",,
-"art {GENITIVE:artistic}",,
-"sentence {GENITIVE:sentential}",,
-"phrase {GENITIVE:phrasal}",,
-"word {GENITIVE:lexical}",,
-"letter; phoneme {GENITIVE:epistolary; alphabetical; phonemic}",,
-"home {GENITIVE:domestic}",,
-"body {GENITIVE:bodily; physical; corporal}",,
-"hair {GENITIVE:pilar; hairy}",,
-"face {GENITIVE:facial}",,
-"head {GENITIVE:cranial; cephalic}",,
-"torso {GENITIVE:torsal}",,
-"arm {GENITIVE:brachial; appendicular}",,
-"hand {GENITIVE:manual}",,
-"finger; toe {GENITIVE:digital}",,
-"butt {GENITIVE:gluteal; posterial}",,
-"leg; appendage {GENITIVE:crural; appendicular}",,
-"gland; organ; node {GENITIVE:glandular; nodal; bodily; internal}",,
-"bodily fluid; bodily substance {GENITIVE:fluidal; bodily}",,
-"vagina; loin {GENITIVE:vaginal}",,
-"penis {GENITIVE:penile}",OPPOSITE OF vagina,
-"chest; breast; boob; nipple {GENITIVE:mammillary}",,
-"claw; quill; sharp appendage {GENITIVE:ungual; sharp}",,
-"wing {GENITIVE:alary; avian}",,
-"shell {GENITIVE:conchylaceous}",,
-"antenna {GENITIVE:antennal}",,
-"scale {GENITIVE:squamous; scaly}",,
-"feather {GENITIVE:plumal; feathery; feathered}",,
-"tentacle {GENITIVE:tentactular}",,
-"egg {GENITIVE:ovary; eggy}",,
-"seed {GENITIVE:seminal}",,
-"leaf; blade of grass {GENITIVE:foliar; leafy}",,
-"fruit {GENITIVE:pomonal; fruity}",,
-"root {GENITIVE:radical; rooted}",,
-"stem; trunk; treetrunk {GENITIVE:basal; stemular; trunkular}",,
-"flower {GENITIVE:floral}",,
-"grain {GENITIVE:cereal}",,
-"rice {GENITIVE:rozal; ricey}",,
-"corn; maize {GENITIVE:cornly; corny}",,
-"wheat {GENITIVE:wheaten}",,
-"soy; soybean {GENITIVE:sojan}",,
-"tomato {GENITIVE:tomatan}",,
-"grape {GENITIVE:vineal}",,
-"apple {GENITIVE:pomaceous}",,
-"information; notion, number, etc. {GENITIVE:informational; notional; numerical; theoretical}",,
-"detail {GENITIVE:particular}",,
-"season {GENITIVE:seasonal}",,
-"reality; possibility; world; dimension; universe {GENITIVE:realistic; possible; dimensional}",,
-"culture; nation {GENITIVE:cultural; national}",,
-"layout; topography; geography {GENITIVE:topographical; geographical}",,
-"computer {GENITIVE:digital; electronic; computerised}",,
-"animal; meat {GENITIVE:animal; meaty}",,
-"plant; vegetable {GENITIVE:botanical; vegetal}",,
-"fungus {GENITIVE:fungal; fungic; fungous}",,
-"primate; monkey; ape {GENITIVE:simian}",ono [u ki ki],kukim
-"rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew {GENITIVE:murine}",,
-"feline; cat {GENITIVE:feline}",ono [mjaw],mjawf
-"canine; dog; wolf; dingo; and fox {GENITIVE:canine}",ono [baw waw wof],pawawf
-"bear {GENITIVE:ursine}",,
-"seal; includes walruses and maybe sea lions I think?",,
-"musteloidea; red panda; skunk; raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine",,
-"equine; horse; zebra; wild butt {GENITIVE:equine}",ono [hi hi],hihin
-"tapir",,
-"rhinoceros",,
-"camel; llama; alpaca; guanaco",,
-"swine; boar; pig; pork {GENITIVE:swine}",,
-"chevrotain",,
-"giraffe; okapi",,
-"bovine; cow; beef;buffalo; antelope; sheep; mutton; goat; ",ono [muː],mum
-"hippopotamus",,
-"whale; dolphin; porpoise",,
-"elephant",bjah,ono bjãː
-"opossum; possum; shrew-opossum",,
-"koala; wombat; tasmanian devil; numbat",,
-"kangaroo; wallaby",,
-"mammal {GENITIVE:mammalian}",,
-"reptile {GENITIVE:reptilian}",,
-"bird {GENITIVE:avian}",ono [t͡ʃip t͡ʃip],cipicif
-"lizard; tuatara",,
-"snake",ono [sː],sasah
-"ostrich; emu; rhea; tinamou; kiwi; cassowary",,
-"fowl; duck; swan; goose; chicken; turkey; pheasant",,
-"chicken",ono [kuk kurikoː],kukul
-"turkey",ono [gululu],kululun
-"pidgeon; dove; sandgrouse; mesite",,
-"bustard; turaco; cuckoo; nightbird; swift; hummingbird",,
-"bird of prey; hawk; eagle; kite; vulture; condor; osprey; owl; falcon",ono [kijɑː],kiah
-"crocodilian; *crocodile; alligator",,
-"turtle; tortoise; terrapin",,
-"frog; toad",ono [kwak kwak],kwakwam
-"fish {GENITIVE:pescous; aquatic}",,
-"carp; koi; catfish; loach; minnow; herring; tetra",,
-"salmon; trout; pike; dragonfish; smelt",,
-"tuna; mackerel",,
-"seahorse",,
-"shark",,
-"ray; manta ray; stingray; skate",,
-"bug; insect",,
-"tick; mite",,
-"spider",,
-"scorpion",,
-"crustacean; *crab; lobster",,
-"barnacle; copepod",,
-"beetle",,
-"mosquito",,
-"fly; housefly",,
-"flea",,
-"butterfly; moths",,
-"wasp",,
-"ant",,
-"bee",ono [zum zum],susum
-"cricket; grasshopper; tatydids",,
-"cockoroach",,
-"mantis",,
-"earwig",,
-"worm",,
-"slug",,
-"nautilus",,
-"anemone",,
-"jellyfish",,
-"mushroom; toadstool",,
-"bacterium",,
-"virus",,
-"algae; moss",,
-"fern",,
-"tree",,
-"cattail; typha",,
-"grass",,
-"bamboo",,
-"machine; robot; automaton",,
+notion; idea; not necessarily true or objective {GENITIVE:conceptual; ideal},spa <noción> [noˈsjon],nosjon
+point; a particular time or place {GENITIVE:particular; local},hin <बिंदु> [bindu],pin
+path; line; curve {GENITIVE:linear; curvilinear},cmn <路径> [lu˥˩t͡ɕiŋ˥˩],lucin
+surface; plane; layer {GENITIVE:planar; superficial; facial},ibo <elu> [elu],hel
+region; volume; interval {GENITIVE:regional; volumetric; periodic},eng <region> [region],lekion
+stick; rod; limb,spa <palo> [ˈpalo],pal
+string; thread; wire; hair; thread,hin <तार> [taːr],tal
+plate; board; wall,OPPOSITE OF string,tal
+sheet; slip,OPPOSITE OF stick,pal
+network; net; web; system {GENITIVE:web},spa <red> [reð],lel
+hole; hallway; tube; gap {GENITIVE:holey},cmn <孔> [kʰʊ̯ŋ˧˩˧],kun
+person; woman; man; human {GENITIVE:personal; humanistic},eng <person> [person],peson
+personify; humanise; anthropomorphise,INCOHATIVE OF person,pesonkes
+beast; non-human animal {GENITIVE:beastial; animalistic},OPPOSITE OF person,peson
+beastify,INCOHATIVE OF beast,pesonkes
+baby {GENITIVE:infantile},ono [guː gaː],kukam
+babify; SBJ turns OBJ into a baby,INCOHATIVE OF baby,kukamkes
+adult {GENITIVE:adult},sho <mukuru> [mukuru],mukul
+adolescent; youth; kid {GENITIVE:juvenile},OPPOSITE OF adult,mukul
+senior citizen; elder; a _really_ old person {GENITIVE:elder},OPPOSITE OF baby,kukam
+age; shrivel; SBJ turns OBJ into a really old person,"incohavite of """"senior citizen""""",
+specialist; personel; qualified {GENITIVE:special; technical},msa <pakar> [pakar],pakal
+specialise; train; qualify; SBJ turns OBJ into a specialist,INCOHATIVE OF specialist,pakalkes
+layperson; civilian; customer; member of the public {GENITIVE:popular; general},OPPOSITE OF specialist,pakal
+light {GENITIVE:photic; optic; luminescient},epo <lumo> [ˈlumo],lum
+"god; deity; a general term, not a reference to any particular god {GENITIVE:divine; godly; deific}",epo <Dio> [ˈdio],tioh
+ground; planet {GENITIVE:terrestrial; planetary},hin <भूमि> [b̤uːmi],pum
+sky; atmosphere; weather; heavens {GENITIVE:celestial; atmospheric; meteorological; aerial},OPPOSITE OF ground,pum
+cosmos; outer *space {GENITIVE:cosmic; astral; interstellar},ben <স্থান> [s̪ɔ্t̪ʰan̪],sotan
+sun; star {GENITIVE:solar; stellar},eng <sun> [sun],sun
+moon; satelite {GENITIVE:lunar},OPPOSITE OF sun,sun
+sea; ocean {GENITIVE:marine; oceanic},epo <maro> [ˈmaro],mal
+land; landmass {GENITIVE:terrestrial},OPPOSITE OF sea,mal
+"continent; North America, Eurasia, etc. {GENITIVE:continental}",jav <bawana> [bawan̪a],pawan
+mountain {GENITIVE:mountainous; montanical},cmn <山> [ʂan˥],can
+valley {GENITIVE:valley},OPPOSITE OF mountain,can
+settlement; *city; town; village {GENITIVE:urban; villestial},cmn <市> [ʂɨ˥˩],cih
+country; state; polity {GENITIVE:national},ben <দেশ> [d̪eɕ],tef
+storm; tempest {GENITIVE:stormy; cyclonical},ben <ঝড়> [d͡ʑ̤ɔɽɔ],col
+art {GENITIVE:artistic},jav <seni> [sen̪i],sen
+sentence {GENITIVE:sentential},spa <frase> [ˈfɾase],fah
+phrase {GENITIVE:phrasal},pan <ਵਾਕ> [ʋɑk],fan
+word {GENITIVE:lexical},cmn <字> [t͡sɯ˥˩],suh
+letter; phoneme {GENITIVE:epistolary; alphabetical; phonemic},cmn <信> [ɕin˥˩],cin
+home {GENITIVE:domestic},hin <होम> [ɦom],hom
+body {GENITIVE:bodily; physical; corporal},epo <korpo> [ˈkorpo],kol
+hair {GENITIVE:pilar; hairy},ben <চুল> [t͡ɕul̪],cul
+face {GENITIVE:facial},spa <cara> [ˈkaɾa],kal
+head {GENITIVE:cranial; cephalic},hin <सिर> [sir],sil
+torso {GENITIVE:torsal},msa <batang> [bataŋ],patan
+arm {GENITIVE:brachial; appendicular},cmn <臂> [pi˥˩],pih
+hand {GENITIVE:manual},spa <mano> [ˈmano],man
+finger; toe {GENITIVE:digital},eng <finger> [finger],finel
+butt {GENITIVE:gluteal; posterial},ibo <ma> [ma],mah
+leg; appendage {GENITIVE:crural; appendicular},epo <kruro> [ˈkruro],kul
+gland; organ; node {GENITIVE:glandular; nodal; bodily; internal},cmn <腺> [ɕjɛn˥˩],cjen
+bodily fluid; bodily substance {GENITIVE:fluidal; bodily},cmn <体液> [tʰi˧˩˧jɛ˥˩],tijeh
+vagina; loin {GENITIVE:vaginal},ben <যোনি> [d͡zon̪i],son
+penis {GENITIVE:penile},OPPOSITE OF vagina,son
+chest; breast; boob; nipple {GENITIVE:mammillary},spa <pecho> [ˈpet͡ʃo],pef
+claw; quill; sharp appendage {GENITIVE:ungual; sharp},cmn <爪> [ʈ͡ʂɑʊ̯˧˩˧],cawh
+wing {GENITIVE:alary; avian},cmn <翅膀> [ʈ͡ʂʰɨ˥˩pɑŋ˧˩˧],cipan
+shell {GENITIVE:conchylaceous},pan <ਸ਼ੈੱਲ> [ʃɛːl],cel
+antenna {GENITIVE:antennal},epo <anteno> [anˈteno],hanen
+scale {GENITIVE:squamous; scaly},mar <स्केल> [skel],sel
+feather {GENITIVE:plumal; feathery; feathered},msa <bulu> [bulu],pul
+tentacle {GENITIVE:tentactular},sho <tende> [tende],ten
+egg {GENITIVE:ovary; eggy},cmn <蛋> [tan˥˩],tan
+seed {GENITIVE:seminal},epo <semo> [ˈsemo],sem
+leaf; blade of grass {GENITIVE:foliar; leafy},spa <hoja> [ˈoxa],hoh
+fruit {GENITIVE:pomonal; fruity},ben <ফল> [ɸɔl̪ɔ],fol
+root {GENITIVE:radical; rooted},ben <মূল> [mul̪],mul
+stem; trunk; treetrunk {GENITIVE:basal; stemular; trunkular},yor <jẹẹ> [d͡ʒɛɛ],ceh
+flower {GENITIVE:floral},ben <ফুল> [ɸul̪],ful
+grain {GENITIVE:cereal},eng <grain> [grain],kain
+rice {GENITIVE:rozal; ricey},epo <rizo> [ˈrizo],lih
+corn; maize {GENITIVE:cornly; corny},spa <maíz> [maˈis],maih
+wheat {GENITIVE:wheaten},hin <गेहूँ> [ɡeɦũː],kehun
+soy; soybean {GENITIVE:sojan},spa <soja> [ˈsoxa],soh
+tomato {GENITIVE:tomatan},eng <tomato> [tomato],tomal
+grape {GENITIVE:vineal},hin <अंगूर> [ŋɡuːr],nul
+apple {GENITIVE:pomaceous},epo <pomo> [ˈpomo],pom
+"information; notion, number, etc. {GENITIVE:informational; notional; numerical; theoretical}",swa <habari> [haɓaɾi],hapal
+detail {GENITIVE:particular},epo <detalo> [deˈtalo],tetal
+season {GENITIVE:seasonal},cmn <季节> [t͡ɕi˥˩t͡ɕjɛ˧˥],cicjeh
+reality; possibility; world; dimension; universe {GENITIVE:realistic; possible; dimensional},spa <realidad> [realiˈðað],lealital
+culture; nation {GENITIVE:cultural; national},spa <cultura> [kulˈtuɾa],kutul
+layout; topography; geography {GENITIVE:topographical; geographical},hin <ख़ाका> [xaːkaː],han
+computer {GENITIVE:digital; electronic; computerised},jav <komputer> [komputer],komutel
+animal; meat {GENITIVE:animal; meaty},cmn <动物> [tʊ̯ŋ˥˩u˥˩],tunuh
+plant; vegetable {GENITIVE:botanical; vegetal},eng <plant> [plant],pan
+fungus {GENITIVE:fungal; fungic; fungous},cmn <菌> [t͡ɕyn˥],ciwn
+primate; monkey; ape {GENITIVE:simian},ono [u ki ki],kukim
+rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew {GENITIVE:murine},pan <ਚੂਹੇ> [t͡ʃuɦe],cuh
+feline; cat {GENITIVE:feline},ono [mjaw],mjawf
+canine; dog; wolf; dingo; and fox {GENITIVE:canine},ono [baw waw wof],pawawf
+bear {GENITIVE:ursine},cmn <熊> [ɕjʊ̯ŋ˧˥],cjwn
+seal; includes walruses and maybe sea lions I think?,eng <seal> [seal],seal
+musteloidea; red panda; skunk; raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine,eng <musteloidea> [musteloidea],museloiteah
+equine; horse; zebra; wild butt {GENITIVE:equine},ono [hi hi],hihin
+tapir,cmn <貘> [mwɔ˥˩],mwoh
+rhinoceros,mar <गेंडे> [ɡenɖe],ken
+camel; llama; alpaca; guanaco,epo <kamelo> [kaˈmelo],kamel
+swine; boar; pig; pork {GENITIVE:swine},hin <सुअर> [suar],sual
+chevrotain,mar <शेवरोटैन> [ɕevroʈæːn],cewlotan
+giraffe; okapi,pan <ਜਿਰਾਫ਼> [d͡ʒɪɾɑf],cilaf
+bovine; cow; beef;buffalo; antelope; sheep; mutton; goat; ,ono [muː],mum
+hippopotamus,cmn <河马> [xɤ˧˥ma˧˩˧],hawm
+whale; dolphin; porpoise,spa <ballena> [baˈʝena],pajen
+elephant,bjah,ono bjãː
+opossum; possum; shrew-opossum,cmn <负鼠> [fu˥˩ʂu˧˩˧],fuf
+koala; wombat; tasmanian devil; numbat,spa <coala> [koˈala],koal
+kangaroo; wallaby,spa <canguro> [kanˈɡuɾo],kanul
+mammal {GENITIVE:mammalian},epo <mamulo> [maˈmulo],mamul
+reptile {GENITIVE:reptilian},cmn <爬虫> [pʰa˧˥ʈ͡ʂʰʊ̯ŋ˧˥],pacun
+bird {GENITIVE:avian},ono [t͡ʃip t͡ʃip],cipicif
+lizard; tuatara,pan <ਕਿਰਲੀ> [kɪɾli],kil
+snake,ono [sː],sasah
+ostrich; emu; rhea; tinamou; kiwi; cassowary,swa <mbuni> [mbuni],mun
+fowl; duck; swan; goose; chicken; turkey; pheasant,eng <fowl> [fowl],fowl
+chicken,ono [kuk kurikoː],kukul
+turkey,ono [gululu],kululun
+pidgeon; dove; sandgrouse; mesite,pan <ਪੀਜੇਨ> [pid͡ʒen],picen
+bustard; turaco; cuckoo; nightbird; swift; hummingbird,epo <Bustard> [ˈbustard],pusal
+bird of prey; hawk; eagle; kite; vulture; condor; osprey; owl; falcon,ono [kijɑː],kiah
+crocodilian; *crocodile; alligator,yor <ooni> [ooni],hon
+turtle; tortoise; terrapin,cmn <龟> [kweɪ̯˥],kwejh
+frog; toad,ono [kwak kwak],kwakwam
+fish {GENITIVE:pescous; aquatic},ben <মাছ> [mat͡ɕʰ],maf
+carp; koi; catfish; loach; minnow; herring; tetra,hin <काप> [kaːp],kam
+salmon; trout; pike; dragonfish; smelt,spa <salmón> [salˈmon],samon
+tuna; mackerel,spa <atún> [aˈtun],hatun
+seahorse,cmn <海马> [xaɪ̯˧˩˧ma˧˩˧],hajm
+shark,jav <hiu> [hiu],hiuh
+ray; manta ray; stingray; skate,hin <रे> [re],leh
+bug; insect,epo <cimo> [ˈt͡simo],sim
+tick; mite,epo <tiklo> [ˈtiklo],til
+spider,cmn <蜘蛛> [ʈ͡ʂɨ˥ʈ͡ʂu˥],cif
+scorpion,ben <বিছা> [bit͡ɕʰa],pif
+crustacean; *crab; lobster,hin <केकड़ा> [kekɽaː],kel
+barnacle; copepod,yor <ọwọn> [ɔwɔ̃],howon
+beetle,cmn <甲虫> [t͡ɕja˧˩˧ʈ͡ʂʰʊ̯ŋ˧˥],cjacun
+mosquito,ben <মশা> [mɔɕa],mof
+fly; housefly,cmn <飞> [feɪ̯˥],fejh
+flea,eng <flea> [flea],feah
+butterfly; moths,cmn <蝴蝶> [xu˧˥tjɛ˧˥],hutjeh
+wasp,zul <isp> [isp],hih
+ant,sho <nyere> [ɲere],njel
+bee,ono [zum zum],susum
+cricket; grasshopper; tatydids,spa <Grillo> [ˈɡɾiʝo],kijoh
+cockoroach,epo <koĥoraĝa> [koxoˈrad͡ʒa],koholaf
+mantis,cmn <螂> [lɑŋ˧˥],lan
+earwig,cmn <蜈蚣> [u˧˥kʊ̯ŋ˥],hukun
+worm,cmn <虫> [ʈ͡ʂʰʊ̯ŋ˧˥],cun
+slug,spa <babosa> [baˈβosa],papoh
+nautilus,epo <naŭtilo> [nawˈtilo],nawtil
+anemone,epo <anemono> [aneˈmono],hanemon
+jellyfish,spa <Medusa> [meˈðusa],metuh
+mushroom; toadstool,epo <fungo> [ˈfunɡo],fun
+bacterium,hin <जीवाणु> [d͡ʒiːvaːɳu],ciwan
+virus,eng <virus> [virus],filuh
+algae; moss,hin <शैवाल> [ʃæːvaːl],cawal
+fern,epo <filiko> [fiˈliko],filin
+tree,hin <पेड़> [peɽ],pel
+cattail; typha,cmn <香蒲> [ɕjɑŋ˥pʰu˧˥],cjan
+grass,fil <damo> [damo],tam
+bamboo,spa <bambú> [bamˈbu],pam
+machine; robot; automaton,ben <মেশিন> [meɕin̪],mecin
 "clap; slap; tick; a sudden, short, high-pitched sound",ono [kʰ],kef
 "boom; crash; a sudden, loud, low-pitched sound",ono [bum],pum
 "screech; wail; whistle; a shrill, drawn-out, high-pitched sound",ono [fwiː],fwih

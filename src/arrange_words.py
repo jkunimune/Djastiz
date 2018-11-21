@@ -89,7 +89,9 @@ PHONEME_TABLE = ['eaoiu', 'jw', 'h', 'l', 'ktp', 'f', 'cs', 'nm'] # the lawnsosl
 INVERSES = {'a':'a', 'e':'o', 'i':'u', 'j':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'s', 'c':'f'}
 for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
 
-VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','REVERSAL','POSSIBILITY','VERB']
+SUPPORTED_LANGUAGES = ["eng"] # the languages for which I have the dictiorary translated
+
+VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
 NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD',
 		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL']
 MISC_DERIVATIONS = ['OPPOSITE']
@@ -350,7 +352,7 @@ def load_dictionary(directory):
 		with open(path.join(directory, filename+'.csv'), 'r', encoding='utf-8') as f:
 			word_set = pd.read_csv(f, dtype=str, na_filter=False)
 			word_set['partos'] = filename
-			queue.extend(word_set.itertuples(index=False))
+			queue.extend(word_set.itertuples(index=True))
 
 	while queue:
 		entry = queue.popleft()
@@ -360,16 +362,17 @@ def load_dictionary(directory):
 			entry = entry._asdict() # convert row to a dict
 			entry['derivatives'] = {}
 
-		for key, value in entry.items():
-			if '*' in value:
-				starred = re.search(r'\*(\w+)\b', value).group(1) # look for explicit source word selections
+		for key in SUPPORTED_LANGUAGES:
+			if '*' in entry[key]:
+				starred = re.search(r'\*(\w+)\b', entry[key]).group(1) # look for explicit source word selections
 				entry['source'] = '*'+starred
-				entry[key] = value.replace('*','')
+				entry[key] = entry[key].replace('*','')
 				break
 
 		unprocessed_derivatives = collections.defaultdict(lambda: {key:'' for key in entry}) # start looking for noun derivatives that need to be processed later
 
-		for key, value in entry.items():
+		for key in SUPPORTED_LANGUAGES:
+			value = entry[key]
 			while '{' in value: # handle explicit derivatives
 				i, j = get_curly_brace_pair(value)
 				for deriv_statement in value[i+1:j].split('|'):
@@ -382,7 +385,7 @@ def load_dictionary(directory):
 				value = (value[:i-1] + value[j+1:]).strip()
 				entry[key] = value
 
-		for key in entry:
+		for key in SUPPORTED_LANGUAGES:
 			if key not in ['source', 'ltl', 'derivatives', 'partos']:
 				entry[key] = entry[key].split('; ') # separate definitions when applicable
 				for i, meaning in reversed(list(enumerate(entry[key]))):
@@ -413,7 +416,6 @@ def load_dictionary(directory):
 
 		for deriv_type, deriv_dict in unprocessed_derivatives.items():
 			deriv_dict['source'] = '{} OF {}'.format(deriv_type, possible_gloss)
-			assert deriv_type != "PROGRESSIVE"
 			if deriv_type in VERB_DERIVATIONS:
 				deriv_dict['partos'] = 'verb'
 			elif deriv_type in NOUN_DERIVATIONS:
@@ -465,7 +467,19 @@ def fill_blanks(my_words, real_words):
 
 def save_dictionary(dictionary, directory):
 	""" save the updated values of all these nouns and verbs and compounds """
-	pass
+	for partos in ['verb', 'noun', 'compound word']:
+		with open(path.join(directory, partos+'.csv'), 'r', encoding='utf-8') as f:
+			rows = pd.read_csv(f, dtype=str, na_filter=False)
+
+		for row_index, row in rows.iterrows():
+			for entry in dictionary.values():
+				if entry['partos'] == partos and entry['Index'] == row_index:
+					row['source'] = entry['source']
+					row['ltl'] = entry['ltl']
+					break
+
+		with open(path.join(directory, partos+'.csv'), 'w', encoding='utf-8') as f:
+			rows.to_csv(f, index=False)
 
 
 def format_dictionary(dictionary, directory):
