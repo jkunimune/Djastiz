@@ -5,3 +5,6 @@ eng,source,ltl
 "no; not; be false; be wrong; be incorrect; be not happening; _negative_; OBJ {falsehood; fiction} is not happening",ANTONYM OF yes,lis
 "happen; do; cause; pro-verb; SBJ {cause} causes OBJ {event; effect} to come true",INCOHATIVE OF yes,tuskes
 "undo; OBJ happens in reverse",CESSATIVE OF yes,tusnos
+"be; exist; have; equal; be the same; _copula_; OBJ exists and is the same thing as IND {AMOUNT:number; count; amount|GENITIVE:fair; uniform; equal}",jav <dadi> [d̪ad̪i],tat
+"create; make; give; get; appear; produce; SBJ {creator} makes OBJ {creation} into IND {LOCATION:factory; makery; source|METHOD:recipe}",INCOHATIVE OF be,tatkes
+"delete; destroy; take; disappear; SBJ {deleter; destroyer} deletes OBJ {deleted; disappeared}",CESSATIVE OF be,tatnos

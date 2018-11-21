@@ -1,11 +1,4 @@
 eng,source,ltl
-"be; exist; have; equal; be the same; _copula_; OBJ exists and is the same thing as IND {AMOUNT:number; count; amount|GENITIVE:fair; uniform; equal}",,
-"create; make; give; get; appear; produce; SBJ {creator} makes OBJ {creation} into IND {LOCATION:factory; makery; source|METHOD:recipe}",INCOHATIVE OF be,
-"delete; destroy; take; disappear; SBJ {deleter; destroyer} deletes OBJ {deleted; disappeared}",CESSATIVE OF be,
-"be fruitful; produce; OBJ has the capacity to produce IND",POSSIBILITY OF create,
-"be barren; OBJ does not have the capacity to produce IND",ANTONYM OF be fruitful,
-"till; SBJ {tiller} tills OBJ {INSTRUMENT:plow}",INCOHATIVE OF be fruitful,
-"raze; destroy productive capabilities; SBJ razes OBJ",CESSATIVE OF be fruitful,
 "continue; be happening; be in progress; undergo; maintain; keep; stay; _progressive_; SBJ {maintainer} makes OBJ hold true for some time",,
 "be stable; be sustainable",POSSIBILITY OF continue,
 "be unstable; be unsustainable",ANTONYM OF be stable,
