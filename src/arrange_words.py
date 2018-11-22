@@ -170,9 +170,6 @@ def reduce_phoneme(phoneme, before, after):
 			return reduce_phoneme('ɥ', before, after)
 		else:
 			raise IllegalArgumentException(phoneme)
-	for combined, vowel in DIACRITIC_GUIDE: # remove unnecessary diacritics
-		if phoneme in combined:
-			return vowel, 0
 	for fulls, reduced in ALLOWED_CHANGES: # these loops should cover most sounds
 		if phoneme in fulls:
 			return reduced, 0
@@ -267,6 +264,11 @@ def apply_phonotactics(ipa, ending='csktp'):
 		if lsl[i] in ['w', 'j'] and (i-1 < 0 or is_consonant(lsl[i-1])) and (i+1 >= len(lsl) or is_consonant(lsl[i+1])):
 			lsl = lsl[:i] +  ('u' if lsl[i] == 'w' else 'i') + lsl[i+1:] # these rogue semivowels are weird and need to go die.
 
+	lsl = re.sub(r'ej([lnmhcsfktp])', r'e\1', lsl)
+	lsl = re.sub(r'ow([lnmhcsfktp])', r'o\1', lsl) # restricted diphthongs
+	lsl = re.sub(r'w?uw?', 'u', lsl)
+	lsl = re.sub(r'j?ij?', 'i', lsl)
+
 	return lsl, changes
 
 
@@ -312,7 +314,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		scores.append(score)
 
 	for i, ((lang, orthography, narrow, reduced), score) in enumerate(zip(options, scores)):
-		score -= 2.0*len(reduced) # prefer shorter words
+		score -= 1.0*len(reduced) # prefer shorter words
 		for lang2, _, _, reduced2 in options:
 			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other major languages
 				if c1 == c2:								score += 2*SOURCE_LANGUAGES[lang2]
