@@ -100,6 +100,11 @@ NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INS
 MISC_DERIVATIONS = ['OPPOSITE']
 
 
+def difference(a, b):
+	""" count the characters different between a and b """
+	return abs(len(a) - len(b)) + sum([ai != bi for ai, bi in zip(a, b)])
+
+
 def get_curly_brace_pair(string):
 	""" return the indices of a matching pair of {} in string """
 	assert '{' in string and '}' in string, "There aren't enough curly braces in {}".format(string)
@@ -127,7 +132,7 @@ def strength_of(phoneme):
 
 
 def is_consonant(phoneme):
-	""" is this a strong consonant? """
+	""" is this a big strong consonant? """
 	return phoneme not in ALL_VOWELS and phoneme not in ALL_GLIDES
 
 
@@ -213,23 +218,23 @@ def reduce_phoneme(phoneme, before, after):
 
 def apply_phonotactics(ipa, ending='csktp'):
 	""" take some phonetic alphabet and approximate it with my phonotactics, and say how many changes there were """
-	logging.debug(ipa)
+	to_convert = ipa
 	lsl, changes = '', 0
 	next_phoneme = ''
-	while ipa:
+	while to_convert:
 		for charset, value in DIACRITIC_GUIDE:
-			if ipa[-1] in charset:
-				ipa = ipa[:-1] + value # start by breaking up any poorly-represented diacritics
+			if to_convert[-1] in charset:
+				to_convert = to_convert[:-1] + value # start by breaking up any poorly-represented diacritics
 				continue
 
-		if len(ipa) > 1 and ipa[-1] in '̩̯': # combine certain combining diacritics
-			ipa, phoneme = ipa[:-2], ipa[-2:]
-		elif len(ipa) > 2 and ipa[-2] == '͡': # treat tied characters as one phoneme
-			ipa, phoneme = ipa[:-3], ipa[-1:]
+		if len(to_convert) > 1 and to_convert[-1] in '̩̯': # combine certain combining diacritics
+			to_convert, phoneme = to_convert[:-2], to_convert[-2:]
+		elif len(to_convert) > 2 and to_convert[-2] == '͡': # treat tied characters as one phoneme
+			to_convert, phoneme = to_convert[:-3], to_convert[-1:]
 		else:
-			ipa, phoneme = ipa[:-1], ipa[-1:]
+			to_convert, phoneme = to_convert[:-1], to_convert[-1:]
 
-		new_phoneme, dist = reduce_phoneme(phoneme, ipa[-1:], next_phoneme)
+		new_phoneme, dist = reduce_phoneme(phoneme, to_convert[-1:], next_phoneme)
 		changes += dist
 		lsl = new_phoneme + lsl
 		next_phoneme = phoneme
@@ -260,15 +265,14 @@ def apply_phonotactics(ipa, ending='csktp'):
 		lsl = lsl[:-1] + INVERSES[lsl[-1]]
 		changes += 1
 
-	for i in range(len(lsl)):
-		if lsl[i] in ['w', 'j'] and (i-1 < 0 or is_consonant(lsl[i-1])) and (i+1 >= len(lsl) or is_consonant(lsl[i+1])):
-			lsl = lsl[:i] +  ('u' if lsl[i] == 'w' else 'i') + lsl[i+1:] # these rogue semivowels are weird and need to go die.
-
+	lsl = re.sub(r'([lnmhcsfktp])w([lnmhcsfktp])', r'\1u\2', lsl)
+	lsl = re.sub(r'([lnmhcsfktp])j([lnmhcsfktp])', r'\1i\2', lsl) # these rogue semivowels are weird and need to go die.
 	lsl = re.sub(r'ej([lnmhcsfktp])', r'e\1', lsl)
 	lsl = re.sub(r'ow([lnmhcsfktp])', r'o\1', lsl) # restricted diphthongs
 	lsl = re.sub(r'w?uw?', 'u', lsl)
 	lsl = re.sub(r'j?ij?', 'i', lsl)
 
+	logging.debug("{} -> {}".format(ipa, lsl))
 	return lsl, changes
 
 
@@ -280,6 +284,28 @@ def choose_key(entry):
 	elif entry['partos'] == 'verb' and not entry['source'].startswith('*'):
 		key = 'to '+key
 	return key
+
+
+def legal_new_word(word, all_words, has_antonym, lang='', ipa=''):
+	""" does this word at all conflict with what already exists? """
+	if word in all_words:
+		logging.debug("{}'s {} ({}) is already a word".format(lang, word, ipa))
+		return False # make sure it doesn't collide; if it does, don't add it to the list TODO check endings and beginnings too TODO make sure at least two letters are different from antonym
+	if has_antonym:
+		if difference(word, get_antonym(word)) < 2 or get_antonym(word) in all_words:
+			logging.debug("{} is too similar to its own antonym, or its antonym already exists".format(word))
+			return False
+	for preexisting in all_words: # make sure it doesn't look like an open word plus a potential closed word
+		if re.fullmatch(preexisting+r'[lnmhcsfktp]([eaoiujw]+[lnmhcsfktp])+', word):
+			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
+			return False # this is a little weird, I admit, but important for morphological self-segregation
+		if re.fullmatch(r'([lnmhcsfktp][eaoiujw]+)+[lnmhcsfktp]'+preexisting, word):
+			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
+			return False
+		if word == preexisting+'l' or word == 'l'+preexisting: # TODO: if this gets slow, I don't have to iterate over all words every time
+			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
+			return False
+	return True
 
 
 def choose_word(english, real_words, counts, partos, has_antonym=False, all_words={}):
@@ -304,13 +330,11 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 			reduced, changes = broad, 0
 
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
+		if not legal_new_word(reduced, all_words, has_antonym, lang=lang, ipa=narrow):
+			score = float('-inf') # don't allow it to be taken if it's not legal (but still put it in the list so we can compare it to other candidates)
 		score -= 3.0*changes # favour words that require fewer changes
 
-		if reduced in all_words or (has_antonym and get_antonym(reduced) in all_words):
-			score = float('-inf') # make sure it doesn't collide TODO check endings and beginnings too TODO make sure at least two letters are different from antonym
-
 		options.append((lang, orthography, narrow, reduced))
-		logging.debug(*options[-1])
 		scores.append(score)
 
 	for i, ((lang, orthography, narrow, reduced), score) in enumerate(zip(options, scores)):
@@ -320,9 +344,12 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 				if c1 == c2:								score += 2*SOURCE_LANGUAGES[lang2]
 				elif is_consonant(c1) or is_consonant(c2):	break
 		scores[i] = score
-	
-	logging.info("Out of \n{};\nI choose {}".format(',\n'.join(str(tup) for tup in options), options[np.argmax(scores)]))
-	return options[np.argmax(scores)]
+
+	if np.isfinite(max(scores)):
+		logging.info("Out of \n{};\nI choose {}".format(',\n'.join(str(tup) for tup in options), options[np.argmax(scores)]))
+		return options[np.argmax(scores)]
+	else:
+		raise Exception("There are no possible words for '{}' that don't conflict with words I already have. Oh god. How did this happen? Do I need even more languages?".format(english))
 
 
 def derive(source_word, deriv_type, all_words):
@@ -446,7 +473,8 @@ def fill_blanks(my_words, real_words):
 		if entry['partos'] not in ['noun','verb','loanword','compound word']:
 			if entry['source'] and len(entry['source'].split()[0]) == 3:
 				tallies[entry['source'].split()[0]] += 1
-			all_ltl_words.add(entry['ltl'])
+			if entry['ltl']:
+				all_ltl_words.add(entry['ltl'])
 	logging.info(tallies)
 				
 	for entry in my_words.values(): # make up words for anything that needs it
