@@ -397,16 +397,16 @@ mild; cool; despice; SBJ makes OBJ become less spicy,CESSATIVE OF be spicy,petes
 be shaped; be shaped like; OBJ {sculpture} is shaped like IND {shape},fil <hugis> [huɡis],hukis
 shape; form; sculpt; SBJ {shaper; sculptor} shapes OBJ into IND,INCOHATIVE OF be shaped,hukiskes
 deform; SBJ makes OBJ {deformed} lose its shape,CESSATIVE OF be shaped,hukisnos
-be circular; be round; OBJ {circle; ring} is circular,yor <ipin> [ik͡pĩ],hip
-circularise; round; circle; SBJ turns OBJ into a circle,INCOHATIVE OF be circular,hipkes
-be square; be rectangular; OBJ {rectangle; square} is rectangular,OPPOSITE OF be circular,sup
-square; rectify; SBJ makes OBJ into a rectangle,INCOHATIVE OF be square,supkes
+be circular; be round; OBJ {circle; ring} is circular,epo <cirkuli> [t͡sirˈkulas],sikulas
+circularise; round; circle; SBJ turns OBJ into a circle,INCOHATIVE OF be circular,sikulaskes
+be square; be rectangular; OBJ {rectangle; square} is rectangular,OPPOSITE OF be circular,hukulas
+square; rectify; SBJ makes OBJ into a rectangle,INCOHATIVE OF be square,hukulaskes
 be closed; be hollow; be looped; be complete; OBJ {shell; loop; circuit; circle; ring; closed path; closed surface} is closed,pan <ਗਿਆ> [ɡɪɑ],kias
 be open; OBJ is open,ANTONYM OF be closed,nuas
 close; shut; SBJ {closer} closes OBJ,INCOHATIVE OF be closed,kiaskes
 open; SBJ {opener} opens OBJ,CESSATIVE OF be closed,kiasnos
-be cupped; be U-shaped; be open; be confined; OBJ {cup; bowl; corner; bay; bay; dip; U; open container} is open on one side and closed on the others,epo <palisita> [paliˈsita],palisit
-cup; dig; divot; carve out; SBJ makes OBJ be open on one side,INCOHATIVE OF be cupped,palisitkes
+be cupped; be U-shaped; be open; be confined; OBJ {cup; bowl; corner; bay; bay; dip; U; open container} is open on one side and closed on the others,mar <कपाट> [kəpaːʈ],kapat
+cup; dig; divot; carve out; SBJ makes OBJ be open on one side,INCOHATIVE OF be cupped,kapatkes
 be powder; be fine; OBJ is a powder,swa <poda> [poɗa],pot
 pulverise; powder; SBJ {pulveriser} turns OBJ into a powder,INCOHATIVE OF be powder,potkes
 be chunky; be a pile; be bits; OBJ comprises small chunky bits,spa <fornido> [foɾˈniðo],fonit
@@ -415,17 +415,17 @@ be straight; be linear; be flat; OBJ {line; plane; straightedge} is straight,cmn
 be wavy; be curly; be bent; be bumpy; OBJ {squiggle; wave; curl} is wavy,ANTONYM OF be straight,fucik
 straighten; flatten; SBJ {straightener; flattener} straightens OBJ,INCOHATIVE OF be straight,cicikkes
 bend; curl; SBJ {bender; curler} bends OBJ,CESSATIVE OF be straight,ciciknos
-be damaged; be hurt; be in tatters; OBJ is damaged,spa <dañado> [daˈɲaðo],tanjat
-damage; hurt; harm; SBJ {harmer} damages OBJ,INCOHATIVE OF be damaged,tanjatkes
-repair; mend; fix; clean; SBJ {repairperson} repairs OBJ,CESSATIVE OF be damaged,tanjatnos
-be susceptible; be vulnerable; be exposed; SBJ can harm OBJ,POSSIBILITY OF damage,tanjatkespis
-be invulnerable; be invincible; be durable; SBJ cannot harm OBJ,ANTONYM OF be susceptible,lanjatkespis
-vulnerate; expose; lower defenses; SBJ makes OBJ vulnerable to IND,INCOHATIVE OF be susceptible,tanjatkespiskes
-protect; defend; guard; SBJ {shield; protection; defense; guard} prevents IND from harming OBJ,CESSATIVE OF be susceptible,tanjatkespisnos
+be damaged; be hurt; be in tatters; OBJ is damaged,yor <bajẹ> [bad͡ʒɛ],pac
+damage; hurt; harm; SBJ {harmer} damages OBJ,INCOHATIVE OF be damaged,packes
+repair; mend; fix; clean; SBJ {repairperson} repairs OBJ,CESSATIVE OF be damaged,pacnos
+be susceptible; be vulnerable; be exposed; SBJ can harm OBJ,POSSIBILITY OF damage,packespis
+be invulnerable; be invincible; be durable; SBJ cannot harm OBJ,ANTONYM OF be susceptible,mackespis
+vulnerate; expose; lower defenses; SBJ makes OBJ vulnerable to IND,INCOHATIVE OF be susceptible,packespiskes
+protect; defend; guard; SBJ {shield; protection; defense; guard} prevents IND from harming OBJ,CESSATIVE OF be susceptible,packespisnos
 be broken; be in pieces; OBJ has broken into multiple pieces,hin <टूटा> [ʈuːʈaː],tut
 break; shatter; destroy; SBJ {breaker} breaks OBJ into multiple pieces,INCOHATIVE OF be broken,tutkes
 mend; fix; put back together; SBJ {fixer} puts OBJ back together,CESSATIVE OF be broken,tutnos
-be solid; be rigid; be firm; OBJ {solid; rigid body} is solid {AMOUNT:solidity; rigidity},epo <solida> [soˈlida],solit
+be solid; be rigid; be firm; OBJ {solid; rigid body} is solid {AMOUNT:solidity; rigidity},spa <sólido> [ˈsoliðo],solit
 be fluid; be amorphous; OBJ is fluid,ANTONYM OF be solid,helit
 freeze; solidify; deposit; SBJ {freezer} freezes OBJ {frozen; ice} {INSTRUMENT:freezer},INCOHATIVE OF be solid,solitkes
 melt; sublimate; SBJ {melter} melts OBJ {molten},CESSATIVE OF be solid,solitnos
@@ -449,10 +449,10 @@ be viscous; be thick; OBJ {paste; gel; goop} is viscous,msa <likat> [likat],lika
 be inviscous; be thin; OBJ {lubricant; oil; liquid} is inviscous,ANTONYM OF be viscous,tukat
 thicken; viscify; SBJ {thickener} makes OBJ more viscous,INCOHATIVE OF be viscous,likatkes
 thin; inviscify; SBJ {thinner} makes OBJ less viscous,CESSATIVE OF be viscous,likatnos
-be foamy; be spongey; OBJ {foam; sponge} is foamy,swa <povu> [povu],powus
-be consistent; be solid; be smooth; be filled; OBJ is solid all the way through,ANTONYM OF be foamy,mejis
-foam; froth; rise; air; SBJ {foamer} fills OBJ with small pockets,INCOHATIVE OF be foamy,powuskes
-compress; solidify; smooth; SBJ {defoamer} removes the small pockets from OBJ,CESSATIVE OF be foamy,powusnos
+be foamy; be spongey; OBJ {foam; sponge} is foamy,epo <ŝaŭmo> [ˈʃawmo],cawp
+be consistent; be solid; be smooth; be filled; OBJ is solid all the way through,ANTONYM OF be foamy,fajp
+foam; froth; rise; air; SBJ {foamer} fills OBJ with small pockets,INCOHATIVE OF be foamy,cawpkes
+compress; solidify; smooth; SBJ {defoamer} removes the small pockets from OBJ,CESSATIVE OF be foamy,cawpnos
 be burnt; OBJ {ash; char} is burnt,cmn <焦> [t͡ɕjɑʊ̯˥],cjaws
 burn; SBJ {burner} burns OBJ {fuel},INCOHATIVE OF be burnt,cjawskes
 be on *fire; be flaming; OBJ {fire; flame} is on fire,spa <fuego> [ˈfweɣo],fwek
@@ -509,7 +509,7 @@ log-out,ben <আউট> [aut],haut
 significant,epo <signifa> [siɡˈnifa],sinic
 insignificant,xho <luleke> [lulɛkɛ],lulek
 design,epo <desegni> [deˈseɡnas],tesenas
-special; uniqueness,mar <विशेष> [viɕeʂ],ficec
+special; uniqueness,hin <विशेष> [viʃeʂ],ficec
 normal; ununiqueness,epo <normala> [norˈmala],nomat
 lift,epo <levi> [ˈlevas],lewas
 much-of; fraction; majority,epo <multe> [ˈmulte],mut
@@ -518,7 +518,7 @@ dispose,cmn <处置> [ʈ͡ʂʰu˧˩˧ʈ͡ʂɨ˥˩],cuc
 describe,cmn <来描述> [laɪ̯˧˥mjɑʊ̯˧˥ʂu˥˩],lajmjawc
 available; time management at a point,epo <havebla> [haˈvebla],hawep
 community-make,nya <kumudzi> [kumud͡zi],kumus
-particular,ben <বিশেষ> [biɕeʂ],picec
+particular,swa <hasa> [hasa],has
 act; fill; stand in; OBJ {roleplayer; filler} fills the role IND {role},sot <khato> [xɑtʼo],hat
 be different; differ; OBJ is different from IND,cmn <不同> [pu˥˩tʰʊ̯ŋ˧˥],putuk
 be similar; be the same; OBJ is similar to IND,ANTONYM OF be different,mituk
@@ -529,7 +529,7 @@ step; the direct object is what you step on or in,spa <paso> [ˈpaso],pas
 draw,eng <draw> [dɹʷɔː],twos
 model; replicate; image; SBJ {modeler} makes OBJ {image; model} after IND {source; original},cmn <模拟> [mwɔ˧˥ni˧˩˧],mwok
 patronize; as in a customer going to a business,cmn <to patronize> [to patronize],topatonis
-"lead-to; be a door; subject is door, direct object is thing on other side, indirect object is thing on this side",hin <to lead-to> [to lead-to],toleat
+"lead-to; be a door; subject is door, direct object is thing on other side, indirect object is thing on this side",cmn <to lead-to> [to lead-to],toleat
 be hot; be warm; OBJ is hotter than IND {reference temperature; lukewarm} {AMOUNT:temperature},cmn <热> [ʐɤ˥˩],caws
 be cold; be cool; OBJ is colder than IND,ANTONYM OF be hot,fajs
 heat; warm; SBJ {heater} makes OBJ heat up relative to IND,INCOHATIVE OF be hot,cawskes
@@ -540,13 +540,13 @@ impregnate; inseminate; get pregnant; SBJ {impregnator} impregnates OBJ {TIME:co
 abort; get abortion; SBJ {aborter} gives OBJ an abortion {TIME:abortion},CESSATIVE OF be pregnant,kawetnos
 give birth; get born; SBJ {biological mother} gives birth to OBJ {offspring; biological child; newborn} by IND {biological father}'s seed {TIME:birth},cmn <birth> [birth],pit
 prosper; well; good; OBJ is doing well,hin <to prosper> [to prosper],toposet
-excuse; pardon; SBJ excuses OBJ,cmn <to excuse> [to excuse],toekjus
+excuse; pardon; SBJ excuses OBJ,hin <to excuse> [to excuse],toekjus
 be grateful; be thankful; OBJ feels grateful to SBJ,cmn <感激> [kan˧˩˧t͡ɕi˥],kac
 be sorry; be apologetic; feel remorse; regret; OBJ feels sorry for causing IND to happen,spa <siento> [ˈsjento],sjet
-sympathise; OBJ sympathises with IND,hin <to sympathise> [to sympathise],tosiwmatis
+sympathise; OBJ sympathises with IND,epo <to sympathise> [to sympathise],tosiwmatis
 be lazy,msa <malas> [malas],malas
 go out; do stuff; be active; be driven; SBJ does stuff,ANTONYM OF be lazy,palas
-creep out; OBJ {creeped out} finds IND {creepy; creeper} creepy,epo <to creep out> [to creep out],tokilepout
+creep out; OBJ {creeped out} finds IND {creepy; creeper} creepy,ben <to creep out> [to creep out],tokilepout
 sleep; nap; be asleep; be unconscious; OBJ is sleeping,spa <to sleep> [to sleep],tosep
 fall asleep; put to sleep; fall unconscious; SBJ puts OBJ to sleep,INCOHATIVE OF sleep,tosepkes
 wake up; come to; SBJ (alarm clock) wakes OBJ up,CESSATIVE OF sleep,tosepnos

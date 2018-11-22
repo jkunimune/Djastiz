@@ -21,9 +21,12 @@ logging.basicConfig(level=logging.INFO)
 DIACRITIC_GUIDE = {
 	('àá', 'a'), 
 	('èé', 'e'),
-	('ìíĩ', 'i'),
-	('òōõ', 'o'),
-	('ùúũṳ', 'u'),
+	('ìí', 'i'),
+	('òō', 'o'),
+	('ùúṳ', 'u'),
+	('ĩ', 'ĩ'),
+	('õ', 'õ'),
+	('ũ', 'ũ'),
 }
 
 SOURCE_LANGUAGES = {
@@ -205,7 +208,7 @@ def reduce_phoneme(phoneme, before, after):
 		else:
 			return '', 0 # otherwise it's better as nothing
 	if phoneme == '̃':
-		return 'm' if after in ['p','f'] else 'n', 0
+		return 'm' if after in ['p','f'] else 'n', 0 # nasal vowels can be n or m
 	if unicodedata.combining(phoneme):
 		return '', 0 # ignore all combining diacritics not expliticly listed here
 	raise ValueError(phoneme)
@@ -217,6 +220,11 @@ def apply_phonotactics(ipa, ending='csktp'):
 	lsl, changes = '', 0
 	next_phoneme = ''
 	while ipa:
+		for charset, value in DIACRITIC_GUIDE:
+			if ipa[-1] in charset:
+				ipa = ipa[:-1] + value # start by breaking up any poorly-represented diacritics
+				continue
+
 		if len(ipa) > 1 and ipa[-1] in '̩̯': # combine certain combining diacritics
 			ipa, phoneme = ipa[:-2], ipa[-2:]
 		elif len(ipa) > 2 and ipa[-2] == '͡': # treat tied characters as one phoneme
@@ -250,7 +258,7 @@ def apply_phonotactics(ipa, ending='csktp'):
 
 	if not is_consonant(lsl[0]): # make sure it starts with a consonant
 		lsl = 'h' + lsl
-		changes += 0.5
+		changes += 1
 	if not lsl[-1] in ending: # make sure it ends on the right class of letter
 		lsl = lsl[:-1] + INVERSES[lsl[-1]]
 		changes += 1
@@ -297,7 +305,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		score -= 3.0*changes # favour words that require fewer changes
 
 		if reduced in all_words or (has_antonym and get_antonym(reduced) in all_words):
-			score = float('-inf') # make sure it doesn't collide TODO check endings and beginnings too
+			score = float('-inf') # make sure it doesn't collide TODO check endings and beginnings too TODO make sure at least two letters are different from antonym
 
 		options.append((lang, orthography, narrow, reduced))
 		logging.debug(*options[-1])
@@ -439,7 +447,7 @@ def fill_blanks(my_words, real_words):
 			all_ltl_words.add(entry['ltl'])
 	logging.info(tallies)
 				
-	for entry in my_words.values():
+	for entry in my_words.values(): # make up words for anything that needs it
 		if entry['partos'] in ['noun','verb']:
 			if entry['source'].startswith('*') or entry['source'] == '' or entry['source'].split()[0] in SOURCE_LANGUAGES:
 				eng = choose_key(entry)
@@ -450,11 +458,12 @@ def fill_blanks(my_words, real_words):
 				tallies[lang] += 1
 				all_ltl_words.add(my_word)
 
-	for entry in my_words.values(): # XXX is it possible for these to evaluate in the wrong order?
+	for entry in my_words.values(): # derive the derivatives
 		if ' OF ' in entry['source']:
 			d_type, d_gloss = entry['source'].split(' OF ')
 			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words)
-		elif entry['partos'] == 'compound word':
+	for entry in my_words.values(): # then compound the compound words
+		if entry['partos'] == 'compound word':
 			entry['ltl'] = ''
 			for component in entry['source'].split():
 				try:
