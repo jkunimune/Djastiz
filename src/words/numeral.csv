@@ -16,13 +16,13 @@ eng,source,ltl
 "E; 14; fourteen; only used for hexadecimal {GENITIVE:fourteenth}",spa <catorce> [kaˈtoɾse],tol
 "F; 15; fifteen; only used for hexadecimal {GENITIVE:fifteenth}",spa <quince> [ˈkinse],kin
 "G; 16; sixteen; only used to describe hexadecimal {GENITIVE:sixteenth}",ben <TODO> [sʰolo],sol
-"much; many",,
+"much; many",jav <akeh> [akeh],keh
 "several; some; few; handful; medium; (1, radix]",,
-"little; few",OPPOSITE OF much,
+"little; few",OPPOSITE OF much,noh
 "all; absolute; maximum {GENITIVE:last; universal}",OPPOSITE OF 0,tun
-"point; radix point",ara <TODO> [TODO],pojn
-"×10^; -llion; times the radix to the",cmn <TODO> [liən],
+"point; radix point",cmn <點> [tjɛn˧˩˥],tjen
+"×10^; -llion; times the radix to the",spa <-illón> [iˈʎon],ljon
 "radix",eng <-imal> [ɪml̩],imal
-"minus; negative",,
-"positive; plus",ANTONYM OF minus,
-"over; division; fraction",,
+"minus; negative",spa <menos> [ˈmenos],men
+"positive; plus",ANTONYM OF minus,pon
+"over; division; fraction",msa <per> [per],pel

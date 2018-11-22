@@ -137,12 +137,10 @@ def strongest(cluster, preference=[]):
 
 def get_antonym(word):
 	""" invert all letters up to the second consonant """
-	new_word = ''
-	for i, c in enumerate(word):
-		if i+1 >= len(word) or strength_of(word[i+1]) <= strength_of(word[i+1]):
-			break # we're out of the switching section
-		else:
-			new_word += INVERSES[c]
+	new_word = INVERSES[word[0]]
+	for c in word[1:]:
+		if not is_consonant(c):	new_word += INVERSES[c]
+		else:					break # we're out of the switching section
 	new_word += word[len(new_word):]
 	return new_word
 
@@ -346,8 +344,8 @@ def load_dictionary(directory):
 	queue = collections.deque()
 
 	for filename in [
-		'special', 'postposition', 'sentence particle', 'specifier',
-		'pronoun', 'proverb', 'numeral', 'verb', 'noun', 'compound word', 'loanword'
+		'special', 'postposition', 'sentence particle', 'specifier', 'pronoun',
+		'proverb', 'numeral', 'verb', 'noun', 'compound word', 'loanword'
 	]:
 		with open(path.join(directory, filename+'.csv'), 'r', encoding='utf-8') as f:
 			word_set = pd.read_csv(f, dtype=str, na_filter=False)
@@ -452,9 +450,9 @@ def fill_blanks(my_words, real_words):
 				tallies[lang] += 1
 				all_ltl_words.add(my_word)
 
-	for entry in my_words.values():
+	for entry in my_words.values(): # XXX is it possible for these to evaluate in the wrong order?
 		if ' OF ' in entry['source']:
-			d_type, d_gloss = entry['source'].split(' OF ') # XXX is it possible for these to evaluate in the wrong order?
+			d_type, d_gloss = entry['source'].split(' OF ')
 			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words)
 		elif entry['partos'] == 'compound word':
 			entry['ltl'] = ''

@@ -79,7 +79,7 @@ eng,source,ltl
 "North America; the continent",eng <North America> [nɔɹθ əˈmɛɹʷɪkə],'notamelika
 "South America; the continent",por <América do Sul> [aˈmɛɾika du sul],'sulamelika
 "Antarctica; the landmass; the continent",eng <Antarctica> [ænˈtɑːktɪkə],'antaktika
-"Eurasia; the continent {GENITIVE:Eurasian}",rus <Евразия> [jɪˈvrazʲɪjə],'jewlasija
+"Eurasia; the continent {GENITIVE:Eurasian}",rus <Евразия> [jɪˈvrazʲɪjə],'jewlasia
 "Afghanistan; the country {GENITIVE:Afghan}",prs <افغانستان‬> [avɣɒnestɒn],'afhaniston
 "South Africa; the country {GENITIVE:South African}",xho <Mzansi> [m̩z̤ansi],'musansi
 "Albania; the country {GENITIVE:Albanian}",alb <Shqipëri> [ʃcipəɾi],'ickipali
@@ -97,7 +97,7 @@ eng,source,ltl
 "Bangladesh; the country {GENITIVE:TODO}",ben <বাংলাদেশ> [ˈbaŋlad̪eʃ],'panlatec
 "Barbados; the country {GENITIVE:TODO}",bjs <Barbados> [bɑːɹˈbeɪ̯dɒs],'papejtos
 "Belarus; the country {GENITIVE:Belarusian}",bel <Biełaruś> [bʲɛlarusʲ],'pjelalus
-"Belgium; the country {GENITIVE:Belgian}",nld <België> [bɛlɣijə],'pelkia
+"Belgium; the country {GENITIVE:Belgian}",nld <België> [bɛlɣiə],'pelkia
 "Belize; the country {GENITIVE:TODO}",eng <Belize> [bəˈliːz],'palis
 "Benin; the country {GENITIVE:TODO}",fra <Bénin> [benɛ̃],'penen
 "Bhutan; the country {GENITIVE:TODO}",dzo <འབྲུག་ཡུལ་> [ʈ͡ʂuk˩˧ˀjyː˥],'cukju
@@ -187,7 +187,7 @@ eng,source,ltl
 "Liechtenstein; the country {GENITIVE:Liechtensteiner}",deu <Liechtenstein> [lɪçtn̩ʃtaɪ̯n],'lictenectajn
 "Lithuania; the country {GENITIVE:Lithuanian}",lit <TODO> [lʲɪɛtʊˈvɐ],'ljietufa
 "Luxembourg; the country {GENITIVE:Luxembougish}",ltz <Lëtzebuerg> [lət͡səbuːəɕ],'latsapuac
-"The Former Yugoslav Republic of Macedonia; the country {GENITIVE:Macedonian}",mkd <TODO> [makɛdɔnija],'maketonia
+"The Former Yugoslav Republic of Macedonia; the country {GENITIVE:Macedonian}",mkd <Македонија> [makɛdɔnija],'maketonija
 "Madagascar; the country {GENITIVE:Madagascan}",mlf <TODO> [madaɡaskʲarə̥],'matakaskjal
 "Malawi; the country {GENITIVE:TODO}",nya <TODO> [malaβi],'malawi
 "Malaysia; the country {GENITIVE:Malaysian}",msa <TODO> [məlejsiə],'malejsia
@@ -228,7 +228,7 @@ eng,source,ltl
 "Portugal; the country {GENITIVE:Portuguese}",por <TODO> [puɾtuɣaɫ],'pultukal
 "Qatar; the country {GENITIVE:TODO}",ara <TODO> [qɑtˤɑr],'katal
 "Romania; the country {GENITIVE:Romanian}",ron <TODO> [romɨˈnia],'lominia
-"Russia; the country {GENITIVE:Russian}",rus <TODO> [rɐˈsʲijə],'lasjia
+"Russia; the country {GENITIVE:Russian}",rus <Росси́я> [rɐˈsʲijə],'lasia
 "Rwanda; the country {GENITIVE:Rwandan}",kin <TODO> [uɾɡwanda],'ulkwanta
 "Saint Kitts and Nevis; the country {GENITIVE:TODO}",aig <TODO> [sɛnt kits ɑːn nivis],'senkitsanifis
 "Saint Lucia; the country {GENITIVE:TODO}",acf <TODO> [sɛnt lisi],'senlisi
@@ -237,10 +237,10 @@ eng,source,ltl
 "Samoa; the country {GENITIVE:Samoan}",smo <Sāmoa> [saːmoa],'samoa
 "San Marino; the country {GENITIVE:TODO}",ita <TODO> [san mariːno],'sanmalino
 "São Tomé and Príncipe; the country {GENITIVE:TODO}",por <TODO> [sɐ̃w tuˈmɛ i ˈpɾĩsɨpɨ],'sawntumeiplinsipi
-"Saudi Arabia; the country {GENITIVE:Saudi; Saudi Arabian}",ara <TODO> [assuʕuːdijja],'asutia
+"Saudi Arabia; the country {GENITIVE:Saudi; Saudi Arabian}",ara <TODO> [assuʕuːdijja],'asutija
 "Scotland; the country {GENITIVE:Scottish}",gla <Alba> [ˈal̪ˠapə],'alapa
 "Senegal; the country {GENITIVE:TODO}",wol <TODO> [sɛnɛgaːl],'senekal
-"Serbia; the country {GENITIVE:Serbian}",hrv <TODO> [sř̩bija],'salpia
+"Serbia; the country {GENITIVE:Serbian}",hrv <Србија> [sř̩bija],'salpija
 "Seychelles; the country {GENITIVE:TODO}",crs <TODO> [sesɛl],'sesel
 "Sierra Leone; the country {GENITIVE:TODO}",kri <TODO> [salon],'salon
 "Singapore; the country {GENITIVE:Singaporean}",eng <Singapore> [sɪŋəpɔː],'sinapo
