@@ -179,8 +179,8 @@ def read_spanish(word):
 def read_esperanto(word):
 	""" read a word phonetically in Esperanto """
 	word = word.lower()
-	if len(word) >= 4 and (word.endswith('i') or word.endswith('u')):
-		word = word[:-1] + 'as' # put all verbs in present
+	if len(word) >= 4:
+		word = re.sub(r'(i|u|us|as)$', 'as', word) # put all verbs in present
 
 	broad = word.replace(
 		'c', 't͡s').replace('ĉ', 't͡ʃ').replace('ĝ', 'd͡ʒ').replace('ĥ', 'x').replace(
@@ -194,7 +194,10 @@ def read_esperanto(word):
 		if stress_j < 0:
 			broad = 'ˈ' + broad
 		else:
-			broad = broad[:(stress_j+stress_i+1)//2] + 'ˈ' + broad[(stress_j+stress_i+1)//2:]
+			stress = (stress_j+stress_i+1)//2
+			if broad[stress] == '͡':
+				stress -= 1
+			broad = broad[:stress] + 'ˈ' + broad[stress:]
 	return broad, broad
 
 

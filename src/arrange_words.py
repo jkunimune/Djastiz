@@ -143,6 +143,11 @@ def strongest(cluster, preference=[]):
 	return max(cluster, key=strength_of)
 
 
+def has_antonym(entry):
+	""" does this word ever need to be inverted? """
+	return any([deriv_type in deriv['derivatives'] for deriv in list(entry['derivatives'].values())+[entry] for deriv_type in ['ANTONYM','OPPOSITE','REVERSAL']])
+
+
 def get_antonym(word):
 	""" invert all letters up to the second consonant """
 	new_word = INVERSES[word[0]]
@@ -354,14 +359,19 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		raise Exception("There are no possible words for '{}' that don't conflict with words I already have. Oh god. How did this happen? Do I need even more languages?".format(english))
 
 
-def derive(source_word, deriv_type, all_words):
+def derive(source_word, deriv_type, all_words, has_antonym):
 	""" Apply that powerful morphological derivation system I keep bragging about """
 	if deriv_type in ['ANTONYM', 'REVERSAL', 'OPPOSITE']:
 		return get_antonym(source_word)
-	elif deriv_type in ['INCOHATIVE', 'CESSATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ',
+	elif deriv_type in ['CESSATIVE']:
+		if has_antonym:
+			return get_antonym(source_word) + all_words['begin']
+		else:
+			return source_word + all_words['end']
+	elif deriv_type in ['INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ',
 		'IND', 'AMOUNT', 'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD']:
 		inflection_word = {
-			'INC':'begin', 'CES':'end', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who', 'OBJ':'of which', 'IND':'whom',
+			'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who', 'OBJ':'of which', 'IND':'whom',
 			'AMO':'the amount that', 'LOC':'where', 'TIM':'when', 'INS':'with which', 'CAU':'why', 'MET':'by which'}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['ltl']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
@@ -472,8 +482,8 @@ def fill_blanks(my_words, real_words):
 	all_ltl_words = set()
 	tallies = collections.Counter() # start by counting how many words we have of each language already
 	for entry in my_words.values():
-		if entry['partos'] not in ['noun','verb','loanword','compound word']:
-			if entry['source'] and len(entry['source'].split()[0]) == 3:
+		if entry['partos'] not in ['noun','verb','loanword','compound word'] or re.match(r'^ono ', entry['source']): # only count grammar words and onomotopoeias
+			if re.match(r'^[a-z][a-z][a-z] ', entry['source']):
 				tallies[entry['source'].split()[0]] += 1
 			if entry['ltl']:
 				all_ltl_words.add(entry['ltl'])
@@ -485,7 +495,7 @@ def fill_blanks(my_words, real_words):
 			if entry['source'].startswith('*') or entry['source'] == '' or entry['source'].split()[0] in SOURCE_LANGUAGES:
 				eng = choose_key(entry)
 				lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies,
-					partos=entry['partos'], has_antonym=('ANTONYM' in entry['derivatives']), all_words=all_ltl_words, open_words=all_open_ltl_words)
+					partos=entry['partos'], has_antonym=has_antonym(entry), all_words=all_ltl_words, open_words=all_open_ltl_words)
 				entry['ltl'] = my_word
 				entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
 				tallies[lang] += 1
@@ -494,7 +504,7 @@ def fill_blanks(my_words, real_words):
 	for entry in my_words.values(): # derive the derivatives
 		if ' OF ' in entry['source']:
 			d_type, d_gloss = entry['source'].split(' OF ')
-			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words)
+			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words, has_antonym(entry))
 	for entry in my_words.values(): # then compound the compound words
 		if entry['partos'] == 'compound word':
 			entry['ltl'] = ''
@@ -539,6 +549,9 @@ if __name__ == '__main__':
 		source_dictionaries = pickle.load(f)
 	fill_blanks(all_words, source_dictionaries)
 	logging.info(json.dumps(all_words, indent=2))
+	print("{} roots, {} of which are of European origin".format(
+		sum([re.match(r'<', word['source']) is not None for word in all_words.values()]),
+		sum([re.match(r'(eng|spa|epo) <', word['source']) is not None for word in all_words.values()])))
 	save_dictionary(all_words, 'words')
 	format_dictionary(all_words, '../Dictionaries')
 	hist = measure_corpus('../Example Texts')
