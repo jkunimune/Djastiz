@@ -182,7 +182,7 @@ def reduce_phoneme(phoneme, before, after):
 		if phoneme in fulls:
 			return reduced, 1
 	if phoneme in ['β','v','ⱱ','ʋ']: # these ones will take care of the weird ones that depend on context
-		if not before or not after or before == 'w' or after == 'w':
+		if not before or not after or before in ['w','u','o'] or after in ['w','u']:
 			return 'f', 1 # use 'f' when you need a consonant or to create contrast,
 		else:
 			return 'w', 0 # 'w' otherwise
@@ -286,16 +286,16 @@ def choose_key(entry):
 	return key
 
 
-def legal_new_word(word, all_words, has_antonym, lang='', ipa=''):
+def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''):
 	""" does this word at all conflict with what already exists? """
 	if word in all_words:
 		logging.debug("{}'s {} ({}) is already a word".format(lang, word, ipa))
-		return False # make sure it doesn't collide; if it does, don't add it to the list TODO check endings and beginnings too TODO make sure at least two letters are different from antonym
+		return False # make sure it doesn't collide; if it does, don't add it to the list
 	if has_antonym:
 		if difference(word, get_antonym(word)) < 2 or get_antonym(word) in all_words:
 			logging.debug("{} is too similar to its own antonym, or its antonym already exists".format(word))
 			return False
-	for preexisting in all_words: # make sure it doesn't look like an open word plus a potential closed word
+	for preexisting in open_words: # make sure it doesn't look like an open word plus a potential closed word
 		if re.fullmatch(preexisting+r'[lnmhcsfktp]([eaoiujw]+[lnmhcsfktp])+', word):
 			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
 			return False # this is a little weird, I admit, but important for morphological self-segregation
@@ -308,9 +308,11 @@ def legal_new_word(word, all_words, has_antonym, lang='', ipa=''):
 	return True
 
 
-def choose_word(english, real_words, counts, partos, has_antonym=False, all_words={}):
+def choose_word(english, real_words, counts, partos, has_antonym=False, all_words={}, open_words=None):
 	""" determine what word should represent english, based on the given foreign dictionaries and
 		current representation of each language. Return the source lang, source orthography, source IPA, and my word """
+	if open_words is None:	open_words = all_words
+
 	logging.info("choosing a word for '{}'".format(english))
 	options, scores = [], []
 	for lang, target_frac in SOURCE_LANGUAGES.items():
@@ -330,7 +332,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 			reduced, changes = broad, 0
 
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
-		if not legal_new_word(reduced, all_words, has_antonym, lang=lang, ipa=narrow):
+		if not legal_new_word(reduced, all_words, open_words, has_antonym, lang=lang, ipa=narrow):
 			score = float('-inf') # don't allow it to be taken if it's not legal (but still put it in the list so we can compare it to other candidates)
 		score -= 3.0*changes # favour words that require fewer changes
 
@@ -475,6 +477,7 @@ def fill_blanks(my_words, real_words):
 				tallies[entry['source'].split()[0]] += 1
 			if entry['ltl']:
 				all_ltl_words.add(entry['ltl'])
+	all_open_ltl_words = set(all_ltl_words)
 	logging.info(tallies)
 				
 	for entry in my_words.values(): # make up words for anything that needs it
@@ -482,7 +485,7 @@ def fill_blanks(my_words, real_words):
 			if entry['source'].startswith('*') or entry['source'] == '' or entry['source'].split()[0] in SOURCE_LANGUAGES:
 				eng = choose_key(entry)
 				lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies,
-					partos=entry['partos'], has_antonym=('ANTONYM' in entry['derivatives']), all_words=all_ltl_words)
+					partos=entry['partos'], has_antonym=('ANTONYM' in entry['derivatives']), all_words=all_ltl_words, open_words=all_open_ltl_words)
 				entry['ltl'] = my_word
 				entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
 				tallies[lang] += 1
