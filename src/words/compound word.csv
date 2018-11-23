@@ -47,6 +47,7 @@ greet; praise; celebrate; SBJ {greeter; praiser} makes a positive utterance of O
 complain; denounce; condemn; SBJ {complainer} makes a negative utterance of OBJ {complaint; denouncee} to IND {sympathetic ear},boo say,mawkwatilas
 suggest; advise; SBJ suggests that IND do OBJ,should say,teustilas
 multiple,1 more,kanmaslon
+interact; interfere; involve; SBJ makes OBJ interact with IND,accompany happen
 dictionary,word list,suhtolis
 alphabet {GENITIVE:alphabetical},letter group,cinpaklam
 part-of-speech,word category,suhtetlam
@@ -540,7 +541,7 @@ date; court; OBJ is dating IND,love be-friendly,kuthamik
 ask out; set up; start going out; SBJ {matchmaker} makes OBJ start dating IND,INCOHATIVE OF date,kuthamik
 break up; stop going out; SBJ makes OBJ stop dating IND,CESSATIVE OF date,kuthamik
 legacy,person future,pesonletlon
-ambassador,,
+ambassador,country negotiator,
 twin; triplet; quadruplet,be-similar sibling,mitukpesmamaplon
 be lucky; be fortunate; that OBJ happens is lucky,like be-unlikely,pajkfinis
 be unlicky; be unfortunate; that OBJ happens is unlucky,dislike be-unlikely,mawkfinis
@@ -552,3 +553,5 @@ comment; commentary; SBJ {commenter} comments OBJ {metadata; comment; commentary
 light; light source,light source,lumtuclam
 differentiate; take derivative; SBJ {differentiater} takes the nth derivative of OBJ {antiderivative; differentiation function} with respect to IND {differentiation variable} {AMOUNT:derivative order},be-fast compute,tes
 integrate; take integral; SBJ {integrator} takes the n-dimensional integral of OBJ {derivative; integration function} over IND {integration variable} {AMOUNT:integral dimensionality|LOCATION:integration bounds},all compute,tun
+reach; extend; SBJ reaches OBJ toward IND,touch try,
+share; beI communal; the members of OBJ {sharers} share IND {commons},accompany own,
