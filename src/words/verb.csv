@@ -191,15 +191,15 @@ be skillful; be apt; be effective; be good; OBJ is good at causing IND {AMOUNT:s
 be inept; be unskillful; be ineffective; be bad; OBJ is bad at causing IND,ANTONYM OF be skillful,tis
 train; teach; SBJ {trainer} makes OBJ {trainee} become skillful at IND,INCOHATIVE OF be skillful,luskes
 untrain; forget; become rusty; SBJ {untrainer} makes OBJ {rusty} become unskillful at IND,CESSATIVE OF be skillful,lusnos
-work; work hard; be productive; OBJ {worker} is working hard on IND {job; work} {LOCATION:workplace; workstation; office},epo <labori> [laˈboras],lapolas
+work; work hard; be productive; OBJ {worker} is working hard on IND {job; work} {AMOUNT:productivity; efficiency; work|LOCATION:workplace; workstation; office},epo <labori> [laˈboras],lapolas
 be unproductive; be lazy; OBJ is working little on IND {neglected},ANTONYM OF work,tapolas
 put to work; make productive; employ; SBJ makes OBJ start working on IND,INCOHATIVE OF work,lapolaskes
 retire; give up; make unproductive; fire; SBJ makes OBJ become unproductive at IND,CESSATIVE OF work,lapolasnos
-notice; be aware; OBJ {noticer} is conciously aware of the presence of IND {noticed},spa <notar> [noˈtar],notas
+notice; be aware; OBJ {noticer} is conciously aware of the presence of IND {noticed} {AMOUNT:awareness},spa <notar> [noˈtar],notas
 be oblivious; be unaware; OBJ fails to notice the presence of IND {inconspicuous; stealthy},ANTONYM OF notice,ketas
 call attention; point out; notice; SBJ {attention caller} calls OBJ's attention to IND,INCOHATIVE OF notice,notaskes
 hide; obscure; SBJ {hider; obscurer} hides IND from OBJ,CESSATIVE OF notice,notasnos
-pay attention; focus; watch; OBJ pays attention to IND {attention; focus},,
+pay attention; focus; watch; OBJ pays attention to IND {attention; focus} {AMOUNT:attention; focus},,
 ignore; disregard; OBJ pays little attention to IND,ANTONYM OF pay attention,
 give attention; draw attention; SBJ makes OBJ pay attention to IND,INCOHATIVE OF pay attention,
 distract; SBJ makes OBJ stop paying attention to IND,CESSATIVE OF pay attention,
@@ -320,7 +320,7 @@ lie; be prone; OBJ {lying down} is prone,OPPOSITE OF stand,katek
 lie down; knock over; SBJ lays down OBJ,INCOHATIVE OF lie,katekkes
 sit; OBJ {sitting} is sitting,eng <sit> [sɪt],sit
 sit down; SBJ {sitter} sits down OBJ,INCOHATIVE OF sit,sitkes
-take care; support; be careful; OBJ {caretaker} takes care of IND {dependent; cared for},spa <cuidar> [kuiˈðar],kuitas
+take care; support; be careful; OBJ {caretaker; staff} takes care of IND {dependent; cared for},spa <cuidar> [kuiˈðar],kuitas
 entrust; take charge; SBJ {entruster} makes OBJ start taking care of IND,hin <सौपने> [sɔːpne],sop
 abandon; take away; SBJ makes OBJ {abandoner} stop taking care of IND,cmn <放弃> [fɑŋ˥˩t͡ɕʰi˥˩],fac
 deal; have deal; do business; OBJ {dealer} has a deal with IND {business; beauracracy; business partner} {TIME:business relationship|METHOD:agreement; deal},spa <tratar> [tɾaˈtar],tatas
@@ -366,24 +366,17 @@ be matte; be dull; be rough; OBJ reflects light diffusely,ANTONYM OF be shiny,fa
 shine; polish; SBJ makes OBJ become shiny,INCOHATIVE OF be shiny,canjakkes
 matte; SBJ makes OBJ become matte,CESSATIVE OF be shiny,canjaknos
 be sweet; be sweetened; OBJ {candy} is sweet {AMOUNT:sweetness},cmn <甜> [tʰjɛn˧˥],tjek
-be unsweet; be unsweetened; OBJ is not sweet,ANTONYM OF be sweet,lwok
 sweeten; SBJ makes OBJ become sweet,INCOHATIVE OF be sweet,tjekkes
-unsweeten; SBJ makes OBJ less sweet,CESSATIVE OF be sweet,tjeknos
-be bitter; OBJ is bitter {AMOUNT:bitterness},cmn <苦> [kʰu˧˩˧],kus
-be unbitter; OBJ is not bitter,ANTONYM OF be bitter,nis
-bitter; SBJ makes OBJ become bitter,INCOHATIVE OF be bitter,kuskes
-debitter; SBJ makes OBJ less bitter,CESSATIVE OF be bitter,kusnos
+be bitter; OBJ is bitter {AMOUNT:bitterness},ANTONYM OF be sweet,lwok
+bitter; SBJ makes OBJ become bitter,CESSATIVE OF be sweet,lwokkes
+be sour; OBJ is sour {AMOUNT:sourness},ben <টক> [tɔkɔ],tok
+sour; SBJ makes OBJ become sour,INCOHATIVE OF be sour,tokkes
+be savoury; have umami; OBJ is savoury {AMOUNT:savouriness; umami},ANTONYM OF be sour,nek
+make savoury; SBJ makes OBJ become savoury,CESSATIVE OF be sour,nekkes
 be salty; OBJ is salty {AMOUNT:saltiness; salt},epo <saleta> [saˈleta],salet
 be unsalty; OBJ is not salty,ANTONYM OF be salty,halet
 salt; SBJ makes OBJ become salty,INCOHATIVE OF be salty,saletkes
 desalt; purify; SBJ makes OBJ less salty,CESSATIVE OF be salty,saletnos
-be sour; OBJ is sour {AMOUNT:sourness},ben <টক> [tɔkɔ],tok
-be unsour; OBJ is not sour,ANTONYM OF be sour,lek
-sour; SBJ makes OBJ become sour,INCOHATIVE OF be sour,tokkes
-desour; SBJ makes OBJ less sour,CESSATIVE OF be sour,toknos
-be savoury; have umami; OBJ is savoury {AMOUNT:savouriness; umami},pan <ਮਿਠੇ> [mɪʈʰe],mit
-make savoury; SBJ makes OBJ become savoury,INCOHATIVE OF be savoury,mitkes
-make less savoury; SBJ makes OBJ less savoury,CESSATIVE OF be savoury,mitnos
 be spicy; be hot; OBJ is spicy {AMOUNT:spiciness; spice; heat},cmn <辣> [la˥˩],las
 be mild; be cool; OBJ is not spicy,ANTONYM OF be spicy,tas
 spice; SBJ makes OBJ become spicy,INCOHATIVE OF be spicy,laskes
@@ -479,24 +472,13 @@ be charged; be electrified; OBJ {battery} has electric energy stored {AMOUNT:ele
 charge; electrify; SBJ {charger} imbues OBJ with electric energy,INCOHATIVE OF be charged,pickes
 discharge; shock; electrify; power; SBJ releases the electric energy of OBJ onto IND {machine; electric circuit} {METHOD:conduit; wire; circuit; component},CESSATIVE OF be charged,picnos
 be capacitive; OBJ {capacitor} is a capacitor {AMOUNT:capacitance},POSSIBILITY OF be charged,picpis
-jump; over the indirect object onto the direct object,epo <salti> [ˈsaltas],satas
-social; amount of socialization,spa <sociales> [soˈsjales],sosjales
-introversion,cmn <内向> [neɪ̯˥˩ɕjɑŋ˥˩],necjak
+be social; socialise; OBJ {extravert} socialises with IND {society} {AMOUNT:extraversion|TIME:social activity},spa <sociales> [soˈsjales],sosjales
+be introverted; be isolated; OBJ {introvert} is socially isolated from IND {TIME:isolation},ANTONYM OF be social,necjak
+integrate; SBJ socially integrates OBJ with IND,INCOHATIVE OF be social,
+isolate; SBJ socially isolates OBJ from IND,CESSATIVE OF be social,
 ride; transport; SBJ {passenger} rides on OBJ {vehicle},epo <rajdi> [ˈrajdas],lajtas
-play; a game or a sport,spa <jugar> [xuˈɣar],hukas
-legislate,cmn <立法> [li˥˩fa˧˩˧],lic
-wait,sot <leta> [letʼɑ],let
-generalize,epo <komunigi> [komuˈniɡas],komunikas
-individual,ibo <bụla> [bʊla],put
-rule-place,spa <gobernar> [ɡoβeɾˈnar],kopenas
-violate; a rule,spa <violar> [bjoˈlar],pjolas
-great; numerically,eng <great> [ɡɹʷeɪ̯t],kwet
-lesser; small numeric value,ben <জন্য> [d͡ʑɔn̪d͡zɔ],cos
-research,ibo <nyocha> [ɳot͡ʃa],noc
-be-in; a situation,pan <ਹੋਣ> [ɦoɳ],hok
-staff; provide support in a manner not directly related to the main thing,jav <kanggo> [kaŋɡo],kak
-participate,pan <ਹਿੱਸਾ> [ɦɪːsɑ],his
-cinematograph,swa <sinema> [sinema],sinep
+play; OBJ {player} is playing IND {game; sport},spa <jugar> [xuˈɣar],hukas
+wait; OBJ {in wait} is waiting for IND,sot <leta> [letʼɑ],let
 log-in,ben <করতে> [kɔrɔt̪e],kolot
 log-out,cmn <注销> [ʈ͡ʂu˥˩ɕjɑʊ̯˥],cucjaws
 significant,epo <signifa> [siɡˈnifa],sinic
@@ -535,7 +517,6 @@ give birth; get born; SBJ {biological mother} gives birth to OBJ {offspring; bio
 prosper; well; good; OBJ is doing well,spa <to prosper> [to prosper],toposet
 excuse; pardon; SBJ excuses OBJ,cmn <to excuse> [to excuse],toekjus
 be grateful; be thankful; OBJ feels grateful to SBJ,cmn <感激> [kan˧˩˧t͡ɕi˥],kac
-be sorry; be apologetic; feel remorse; regret; OBJ feels sorry for causing IND to happen,hin <कीजिये> [kiːd͡ʒije],kicies
 sympathise; OBJ sympathises with IND,epo <to sympathise> [to sympathise],tosiwmatis
 be lazy,cmn <懒> [lan˧˩˧],lak
 go out; do stuff; be active; be driven; SBJ does stuff,ANTONYM OF be lazy,tak
@@ -554,53 +535,59 @@ kiss; snog; make out; SBJ {kisser} kisses OBJ {kissee},ono [mwa],mwap
 swallow; suck; consume whole; SBJ {swallower} swallows OBJ {swallowed},ono [glup glup],kulup
 have sex; fuck; bang; nail; do; plow; ride,eng <sex> [sex],ses
 feel; emote; be exited; OBJ {emotional; emoticon} feels IND {emotion; feeling},mar <to feel> [to feel],tofet
-be shameful,cmn <可耻> [kʰɤ˧˩˧ʈ͡ʂʰɨ˧˩˧],kawc
-be disgusted,jav <jinak> [ɟin̪ak],kinak
-be fearful; scared,spa <temeroso> [temeˈɾoso],temelos
-be joyful; happy,epo <Ĝoje> [ˈd͡ʒoje],cojes
-be sad,ben <খিত> [kʰit̪],kit
-be surprised,cmn <诧异> [ʈ͡ʂʰa˥˩i˥˩],cais
-be angry,pan <ਗੁੱਸਾ> [ɡʊːsɑ],kus
-"anticipate; see ""forward-to-look""",epo <to anticipate> [to anticipate],toanikipat
-be interested; in the indirect object,hin <रुचि> [rut͡ʃi],luc
-have fun; play; relax; enjoy; entertain; OBJ is having fun with IND {AMOUNT:fun|TIME:leisure},ben <মজা> [mɔd͡ʑa],moc
-be bored; OBJ is bored by IND,ANTONYM OF have fun,pec
-make fun; entertain; SBJ makes OBJ have fun with IND,INCOHATIVE OF have fun,mockes
-kill joy; ruin fun; SBJ makes OBJ stop having fun with IND,CESSATIVE OF have fun,mocnos
-fatigued,spa <to fatigued> [to fatigued],tofatikuet
-anxious,eng <to anxious> [to anxious],toanious
-"pleased; basic euphoria from food, music, or sex",cmn <to pleased> [to pleased],topeaset
-proud; the happiness associated with feeling like a productive member of society,epo <to proud> [to proud],topout
-amused,spa <to amused> [to amused],toamuset
-satisfied; the good feeling produced by snapping parts together or popping bubble wrap,cmn <to satisfied> [to satisfied],tosatisiet
-schadenfreude-ful,hin <to schadenfreude-ful> [to schadenfreude-ful],tosihateneutefut
-nostalgic,eng <to nostalgic> [to nostalgic],tonosakik
-awed,mar <to awed> [to awed],toawet
-courageous,cmn <to courageous> [to courageous],tokjoulakeous
+be proud; OBJ feels proud of IND {pride},,
+be ashamed; be sorry; be remorseful; regret; OBJ feels ashamed about IND {shameful},ANTONYM OF be proud,kawc
+make proud; SBJ makes OBJ feel proud about IND,INCOHATIVE OF be proud,
+shame; SBJ makes OBJ feel ashamed about IND,CESSATIVE OF be proud,
+"be excited; be interested; OBJ is excited about IND {exciting}",,
+be disgusted; OBJ is disgusted by IND,ANTONYM OF be excited,kinak
+excite; interest; SBJ gets OBJ excited about IND",INCOHATIVE OF be excited,
+disgust; make disgusted; SBJ makes OBJ disgusted by IND",CESSATIVE OF be excited,
+fear; be scared; be afraid; OBJ {fearful} is afraid of IND {scary},spa <temeroso> [temeˈɾoso],temelos
+be angry; be mad; OBJ is angry about IND {maddening},ANTONYM OF fear,
+"scare; frighten; make afraid; SBJ makes OBJ afraid of IND",INCOHATIVE OF fear,
+"anger; embolden; SBJ makes OBJ angry about IND",CESSATIVE OF fear,
+"be timid; be skittish; OBJ is easily scared",POSSIBILITY OF fear,
+"be courageous; be bold; be brave; OBJ is not easily scared",ANTONYM OF be timid,
+"timidify; frighten; SBJ makes OBJ more timid",INCOHATIVE OF be timid,
+"embolden; encourage; embraven; SBJ makes OBJ braver",CESSATIVE OF be timid,
+be joyful; be happy; OBJ feels happy,epo <Ĝoje> [ˈd͡ʒoje],cojes
+be sad; be sorrowful; be anguished; be distressed; OBJ feels sad,ANTONYM OF be joyful,kit
+"bring joy; brighten; SBJ makes OBJ happier",INCOHATIVE OF be joyful,
+"sadden; anguish; distress; SBJ makes OBJ sadder",CESSATIVE OF be joyful,
+"be depressed; OBJ is depressed",PROGRESSIVE OF be sad,
+"surprise; SBJ {surprising} surprises OBJ {surprised} with IND",,
+"anticipate; OBJ {anticipative} anticipates IND {anticipated}",,
+"build anticipation; prepare; SBJ makes OBJ anticipative about IND",INCOHATIVE OF anticipate,
+"lower anticipation; SBJ makes OBJ stop anticipating IND",CESSATIVE OF anticipate,
+have fun; play; be amused; entertain; OBJ {entertained; audience} is entertained by IND {show; entertainment} {TIME:performance; game; show},epo <amuzas> [amuˈzas],hamusas
+be bored; OBJ is bored by IND {boring},ANTONYM OF have fun,pec
+entertain; make fun; SBJ {entertainer} makes OBJ be entertained by IND,INCOHATIVE OF have fun,hamusaskes
+"bore; tire; kill joy; SBJ makes OBJ be bored by IND",CESSATIVE OF have fun,
+be fatigued; be *tired; OBJ is fatigued,spa <to fatigued> [to fatigued],tofatikuet
+be rested; be energetic; be bright; have a bushy tail; OBJ is well-rested,ANTONYM OF be fatigued,
+fatigue; tire; burn out; SBJ {tiring} makes OBJ tired,INCOHATIVE OF be fatigued,
+rest; recharge; SBJ makes OBJ feel rested,CESSATIVE OF be fatigued,
+feel pleasure; feel good; feel satisfied; feel euphoria; OBJ {satisfied} feels pleased about IND {satisfying},cmn <to satisfied> [to satisfied],tosatisiet
+"hurt; be in pain; IND hurts OBJ",ANTONYM OF feel pleasure,
+"please; satisfy; soothe; SBJ makes OBJ feel pleased by IND",INCOHATIVE OF feel pleasure,
+"torture; inflict pain; SBJ {torturer} causes OBJ to be pained by IND",CESSATIVE OF feel pleasure,
 worry; bother; trouble; concern; IND {problem; trouble; issue} troubles OBJ {worried; bothered},epo <to worry> [to worry],towoliws
 relieve; calm; reassure; IND {relief} gives OBJ {soothed} relieved feelings,ANTONYM OF worry,lejeliws
 make worried; make bothered; SBJ {[https://xkcd.com/1015/]} causes OBJ to be bothered by IND,INCOHATIVE OF worry,towoliwskes
 assuage; sooth; relieve; calm; SBJ {reliever} causes OBJ to feel relieved by IND,CESSATIVE OF worry,towoliwsnos
 curious,spa <to curious> [to curious],tokjulious
-terrified; the brief reaction to jump-scares that comes before actual fear or annoyance,cmn <to terrified> [to terrified],totelifiet
 apprehensive; hesitative reaction to decisions,ben <to apprehensive> [to apprehensive],toapeheniwes
 worried,hin <to worried> [to worried],towoliet
 troubled; have troubled feelings from the direct object,epo <to troubled> [to troubled],totoupet
 puzzled; have confusion from the direct object,spa <to puzzled> [to puzzled],topuset
 adore; find something cute,eng <to adore> [to adore],toatot
-be entertained; OBJ {audience} is entertained by IND {show; entertainment} {TIME:performance},epo <amuzita> [amuˈzita],hamusit
-entertain; SBJ {entertainer} makes OBJ be entertained by IND,INCOHATIVE OF be entertained,hamusitkes
 beI awkward,cmn <尴尬> [kan˥ka˥˩],kak
-hurt; feel pain; feel bad; OBJ {in pain} feels pain in their IND {pain point; wound},pan <to hurt> [to hurt],tohut
-feel good; feel euphoria; sooth; OBJ {soothed} feels physically good in their IND {nice; good},cmn <to feel good> [to feel good],tofekot
-torture; inflict pain; hurt; SBJ {torturer} makes OBJ feel pain in their IND,spa <to torture> [to torture],tototut
-sooth; stimulate; SBJ {soother} makes OBJ feel good in their IND,ben <to sooth> [to sooth],tosot
 substitute,hin <to substitute> [to substitute],tosusitut
 be represented; represent; OBJ {symbol; representative} conveys the essence of SBJ with its presence,cmn <代表> [taɪ̯˥˩pjɑʊ̯˧˩˧],tajpjaws
 insert,eng <to insert> [to insert],toinet
 exclusive,jav <to exclusive> [to exclusive],toekilusiwes
 imply; if-then,spa <to imply> [to imply],toimiws
-zoom; gotta go fast,epo <to zoom> [to zoom],tosop
 beside; to be on the side of,cmn <to beside> [to beside],topesit
 sibling-be,mar <to sibling-be> [to sibling-be],tosipik
 cousin-be,xho <to cousin-be> [to cousin-be],tokjousip
@@ -635,10 +622,9 @@ stand; structurally e.g. a building,jav <ngadeg> [ŋad̪eɡ],natek
 imprison,eng <to imprison> [to imprison],toimisok
 list,hin <to list> [to list],tolis
 furnish; as in furniture,ben <to furnish> [to furnish],tofunis
-study; measure; conduct science; investigate; observe; experiment; test; SBJ {scientist} uses empirical observation to learn the answer to or more about OBJ {science; field of study; big question; the body of knowledge formed by the scientific process} {LOCATION:laboratory; lab|INSTRUMENT:measuring device; instrument; meter},cmn <to study> [to study],tosutiws
-engineer; SBJ {engineer} uses technical skills and fine problem-solving to solve OBJ {technical problem},spa <to engineer> [to engineer],toeninet
+study; measure; conduct science; investigate; observe; experiment; test; research; SBJ {scientist} uses empirical observation to learn the answer to or more about OBJ {science; field of study; big question; the body of knowledge formed by the scientific process} {LOCATION:laboratory; lab|INSTRUMENT:measuring device; instrument; meter},cmn <to study> [to study],tosutiws
+engineer; SBJ {engineer} uses technical skills and fine problem-solving to solve OBJ {technical problem},spa <ingenier> [inxenjer],nenjet
 "entrepreneur; SBJ {entrepreneur} uses ideation, people skills, and determination to solve OBJ {largescale problem}",epo <to entrepreneur> [to entrepreneur],toenepeneut
-art-make,zul <to art-make> [to art-make],toamak
 be magical; SBJ {magician; sorcerer; wizard} makes OBJ {magic trick; spell} happen magically {INSTRUMENT:magic},spa <mágico> [ˈmaxiko],mahik
 hit; intentionally cause a collision with something,cmn <to hit> [to hit],tohit
 flash; quickly emit bright light; also applies to sound and other sensations,pan <to flash> [to flash],tofas
@@ -764,7 +750,7 @@ touch; join; SBJ touches OBJ to IND,INCOHATIVE OF touch,totoukiskes
 cut; separate; divide; split; SBJ makes OBJ stop touching IND {INSTRUMENT:knife; wedge},CESSATIVE OF touch,totoukisnos
 be across; be transverse; straddle; be perpendicular; OBJ is across IND {crossed} {AMOUNT:transverseness; obliqueness},ben <দিয়ে> [d̪ie̯e],ties
 be along; be longitudinal; be with; be parallel; OBJ is along IND,ANTONYM OF be across,luos
-cross; move across; SBJ makes OBJ cross IND {LOCATION:intersection; cross|TIME:crossing},INCOHATIVE OF be across,tieskes
+cross; move across; pass; SBJ makes OBJ cross IND {LOCATION:intersection; cross|TIME:crossing},INCOHATIVE OF be across,tieskes
 align; move along; move with; SBJ makes OBJ go along IND {TIME:alignment},CESSATIVE OF be across,tiesnos
 "hunt; chase; pursue; SBJ {hunter} hunts for OBJ {hunted}, either literally or metaphorically",cmn <to hunt> [to hunt],tohut
 deserve; be entitled; SBJ {worthy; deserving; entitled} deserves OBJ {dessert},hin <to deserve> [to deserve],toteselwes

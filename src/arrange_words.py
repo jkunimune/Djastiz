@@ -504,7 +504,7 @@ def fill_blanks(my_words, real_words):
 	for entry in my_words.values(): # derive the derivatives
 		if ' OF ' in entry['source']:
 			d_type, d_gloss = entry['source'].split(' OF ')
-			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words, has_antonym(entry))
+			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words, 'ANTONYM' in entry['derivatives'])
 	for entry in my_words.values(): # then compound the compound words
 		if entry['partos'] == 'compound word':
 			entry['ltl'] = ''

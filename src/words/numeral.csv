@@ -1,8 +1,8 @@
 eng,source,ltl
 "0; zero; none; no {GENITIVE:zeroth}",cmn <TODO> [liŋ˧˥],lin
-"1; one; single {GENITIVE:first; single; unit}",yor <TODO> [okan],kan
+"1; one; single; individual {GENITIVE:first; single; unit}",yor <TODO> [okan],kan
 "unify; combine; join; SBJ makes OBJ into one",INCOHATIVE OF 1,kankes
-"divide; split up; separate; dissolve; SBJ divides OBJ into multiple parts",CESSATIVE OF 1,tunkes
+"divide; split up; separate; dissolve; SBJ divides OBJ into multiple parts",CESSATIVE OF 1,kannos
 "2; two; double {GENITIVE:second; dual; binary}",cmn <TODO> [ɤ˞˥˩],hal
 "3; three; triple {GENITIVE:third}",mar <TODO> [tiːnə],tin
 "4; four; quadruple {GENITIVE:fourth}",hin <TODO> [t͡ɕʰaɾ],cal
@@ -22,6 +22,7 @@ eng,source,ltl
 "several; some; few; handful; medium; (1, radix]",,
 "little; few",OPPOSITE OF much,noh
 "all; absolute; maximum {GENITIVE:last; universal}",OPPOSITE OF 0,tun
+"universalise; popularise; permeate; pervade; SBJ causes OBJ to become everything",,
 "point; radix point",cmn <點> [tjɛn˧˩˥],tjen
 "×10^; -llion; times the radix to the",spa <-illón> [iˈʎon],ljon
 "radix",eng <-imal> [ɪml̩],imal

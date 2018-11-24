@@ -234,7 +234,7 @@ def read_english(word):
 
 
 IGBO_DIGRAPHS = {
-	'ch':'t͡ʃ', 'gb':'ɡ͡b', 'gh':'ɣ', 'gw':'ɡʷ', 'kp':'k͡p', 'kw':'kʷ', 'nw':'ŋʷ', 'ny':'ɳ', 'n\'':'ŋ', 'sh':'ʃ'}
+	'ch':'t͡ʃ', 'gb':'ɡ͡b', 'gh':'ɣ', 'gw':'ɡʷ', 'kp':'k͡p', 'kw':'kʷ', 'nw':'ŋʷ', 'ny':'ɲ', 'n\'':'ŋ', 'sh':'ʃ'}
 IGBO_MONOGRAPHS = {
 	'g':'ɡ', 'h':'ɦ', 'ṅ':'ŋ', 'ị':'ɪ', 'j':'dʒ', 'ọ':'ɒ', 'r':'ɾ', 'ụ':'ʊ', 'y':'j'}
 def read_igbo(word):

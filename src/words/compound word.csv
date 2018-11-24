@@ -1,13 +1,13 @@
 eng,source,ltl
 Lawncwosliel,this language,lawntilasliel
-"us all; first person plural inclusive; the speaker, the listener, and possibly others {GENITIVE:all our}",I you,minpun
-us; first person plural exclusive; the speaker and others {GENITIVE:our},I it,mintajn
-y'all; second person plural; the listener and others {GENITIVE:y'all's},you it,puntajn
-other; not; anything but,be no direct-object,seslislon
+hello; goodbye; yay; bless; okay; _positive exclamative mood_,like wow,pajkwa
+boo; fuck; not; _negative exclamative mood_,dislike wow,mawkwa
 despite; though,even both,fenhjo
 but,even and,fenha
-hello; goodbye; yay; bless; okay; positive exclamative mood,like wow,pajkwa
-boo; fuck; not; negative exclamative mood,dislike wow,mawkwa
+"us all; _first person plural inclusive_; the speaker, the listener, and possibly others {GENITIVE:all our}",I you,minpun
+us; _first person plural exclusive_; the speaker and others {GENITIVE:our},I it,mintajn
+y'all; _second person plural_; the listener and others {GENITIVE:y'all's},you it,puntajn
+other; not; anything but,be no direct-object,seslislon
 the Antarctic Ocean; the ocean; the ocean,Antarctica sea,'antaktikamal
 the Arctic Ocean; the ocean; the ocean,be-north sea,hitmal
 Afro-Eurasia; the landmass {GENITIVE:Afro-Eurasian},Africa Eurasia,'jewlasia
@@ -555,3 +555,12 @@ differentiate; take derivative; SBJ {differentiater} takes the nth derivative of
 integrate; take integral; SBJ {integrator} takes the n-dimensional integral of OBJ {derivative; integration function} over IND {integration variable} {AMOUNT:integral dimensionality|LOCATION:integration bounds},all compute,tun
 reach; extend; SBJ reaches OBJ toward IND,touch try,
 share; beI communal; the members of OBJ {sharers} share IND {commons},accompany own,
+go over; cross; SBJ moves OBJ over IND,be-high cross,
+go under; SBJ moves OBJ under IND,be-low cross,
+"research; SBJ {researcher} finds information about IND {reasearch topic} and uses it to update OBJ {research; notes; archive}",repeat study,
+"feel schadenfreude; OBJ feels schodenfreude at IND",hurt feel-happy,
+"feel bittersweet; OBJ feels bittersweetly about IND {bittersweet}",be-happy be-sad,
+"be nostalgic; OBJ feels nostalgia about IND",be-before be-bittersweet
+"jump scare; SBJ jump-scares OBJ with IND",fear surprise
+"be anxious; OBJ feels anxious about IND",fear hurt,
+"feel awe; OBJ {awed} feels awe at IND {awesome; awful}",be-big feel,
