@@ -177,7 +177,7 @@ bronze,be-structurally-strong copper,mjesweskespistattatlon
 iron,be-heavy metal,pestatlon
 steel,be-structurally-strong iron,mjesweskespispestatlon
 gold,be-yellow metal,kuttatlon
-be aluminum; OBJ is made of aluminum,be-light be-metal,mostat
+be aluminium; OBJ is made of aluminum,be-light be-metal,mostat
 gunpowder,burn powder,cjawskespotlon
 be oil; be petroleum; OBJ is made of oil,burn be-liquid,cjawskeslikwit
 be quartz; OBJ is made of quartz,white be-crystal,putlonkios
@@ -224,8 +224,6 @@ urinate; pee,urine create,kutlonmwilseskes
 diarrhea,liquid feces,likwitlonkutlonmwil
 pimple,pus container,putlonmwilneslam
 hydroden,water material,hwoslikwitlonmetlam
-helium,sun material,solmetlam
-lithium,be-stone material,cismetlam
 carbon,life material,hwoslonmetlam
 nitrogen,sky material,mimmetlam
 bat; flying fox,wing mammal,cipanmamal
@@ -564,3 +562,4 @@ go under; SBJ moves OBJ under IND,be-low cross,
 "jump scare; SBJ jump-scares OBJ with IND",fear surprise
 "be anxious; OBJ feels anxious about IND",fear hurt,
 "feel awe; OBJ {awed} feels awe at IND {awesome; awful}",be-big feel,
+be infinitessimal; OBJ is infinitessimally small,be-infinite be-small,

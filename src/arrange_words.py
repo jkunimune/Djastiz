@@ -221,7 +221,7 @@ def reduce_phoneme(phoneme, before, after):
 	raise ValueError(phoneme)
 
 
-def apply_phonotactics(ipa, ending='csktp'):
+def apply_phonotactics(ipa, ending='csktp'): # TODO: what if dynamic verbs end in 'a'+something
 	""" take some phonetic alphabet and approximate it with my phonotactics, and say how many changes there were """
 	to_convert = ipa
 	lsl, changes = '', 0
@@ -291,23 +291,24 @@ def choose_key(entry):
 	return key
 
 
-def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''):
+def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''): # TODO: no i/j distinction nor u/w
 	""" does this word at all conflict with what already exists? """
-	if word in all_words:
-		logging.debug("{}'s {} ({}) is already a word".format(lang, word, ipa))
+	test_word = word.replace('j','i').replace('w','u')
+	if test_word in all_words:
+		logging.debug("{}'s {} ({}) is already a word".format(lang, test_word, ipa))
 		return False # make sure it doesn't collide; if it does, don't add it to the list
 	if has_antonym:
 		if difference(word, get_antonym(word)) < 2 or get_antonym(word) in all_words:
 			logging.debug("{} is too similar to its own antonym, or its antonym already exists".format(word))
 			return False
 	for preexisting in open_words: # make sure it doesn't look like an open word plus a potential closed word
-		if re.fullmatch(preexisting+r'[lnmhcsfktp]([eaoiujw]+[lnmhcsfktp])+', word):
+		if re.fullmatch(preexisting+r'[lnmhcsfktp]([eaoiu]+[lnmhcsfktp])+', test_word):
 			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
 			return False # this is a little weird, I admit, but important for morphological self-segregation
-		if re.fullmatch(r'([lnmhcsfktp][eaoiujw]+)+[lnmhcsfktp]'+preexisting, word):
+		if re.fullmatch(r'([lnmhcsfktp][eaoiu]+)+[lnmhcsfktp]'+preexisting, test_word):
 			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
 			return False
-		if word == preexisting+'l' or word == 'l'+preexisting: # TODO: if this gets slow, I don't have to iterate over all words every time
+		if test_word == preexisting+'l' or test_word == 'l'+preexisting:
 			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
 			return False
 	return True
@@ -486,9 +487,10 @@ def fill_blanks(my_words, real_words):
 			if re.match(r'^[a-z][a-z][a-z] ', entry['source']):
 				tallies[entry['source'].split()[0]] += 1
 			if entry['ltl']:
-				all_ltl_words.add(entry['ltl'])
-	all_open_ltl_words = set(all_ltl_words)
+				all_ltl_words.add(entry['ltl'].replace('j','i').replace('w','u'))
+	all_open_ltl_words = set(all_ltl_words) # the set of open words that can cause isolating morphology issues (there are actually closed words in here as well, but that's fine, they don't cause issues)
 	logging.info(tallies)
+	print(all_open_ltl_words)
 				
 	for entry in my_words.values(): # make up words for anything that needs it
 		if entry['partos'] in ['noun','verb']:
@@ -499,7 +501,7 @@ def fill_blanks(my_words, real_words):
 				entry['ltl'] = my_word
 				entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
 				tallies[lang] += 1
-				all_ltl_words.add(my_word)
+				all_ltl_words.add(my_word.replace('j','i').replace('w','u')) # skip the i/j distinction behind the curtain
 
 	for entry in my_words.values(): # derive the derivatives
 		if ' OF ' in entry['source']:
