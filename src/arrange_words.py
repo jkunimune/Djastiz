@@ -298,8 +298,11 @@ def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''): #
 		logging.debug("{}'s {} ({}) is already a word".format(lang, test_word, ipa))
 		return False # make sure it doesn't collide; if it does, don't add it to the list
 	if has_antonym:
-		if difference(word, get_antonym(word)) < 2 or get_antonym(word) in all_words:
-			logging.debug("{} is too similar to its own antonym, or its antonym already exists".format(word))
+		if difference(word, get_antonym(word)) < 2:
+			logging.debug("{} is too similar to its own antonym".format(word))
+			return False
+		if not legal_new_word(get_antonym(word), all_words, open_words, False, lang=lang, ipa=ipa):
+			logging.debug("And that endangers its antonym")
 			return False
 	for preexisting in open_words: # make sure it doesn't look like an open word plus a potential closed word
 		if re.fullmatch(preexisting+r'[lnmhcsfktp]([eaoiu]+[lnmhcsfktp])+', test_word):

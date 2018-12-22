@@ -321,8 +321,9 @@ armour; SBJ {armourer} armours OBJ in IND,protect put-on,lusakkespisnospolotkes
 bite; SBJ {biter} bites OBJ {bitten},mouth squeeze,mukkuntosues
 snoring,sleep sound,toseptiklam
 pencil,be-stone writing-utensil,cislajcjeslatan
-paint; SBJ {painter} paints OBJ {painting},liquid draw,likwitlonhwahwas
-sculpt; etch; carve; SBJ {carver} carves OBJ {sculpture},solid draw,kutlonhwahwas
+draw; SBJ {drawer} paints IND {drawn; drawing subject} as OBJ {drawing},surface model,
+paint; SBJ {painter} paints IND {painting subject} as OBJ {painting},be-liquid model,likwitlonhwahwas
+sculpt; etch; carve; SBJ {carver} carves IND {sculpOBJ {sculpture},be-solid model,kutlonhwahwas
 broom,,
 mop,,
 duster,,
@@ -519,13 +520,13 @@ fastwalk; SBJ does a fast walk on OBJ,be-fast walk,tessos
 jog; SBJ jogs on OBJ,be-slow run,loskulas
 be foreign; OBJ is foreign relative to IND,land be-far,pallehos
 be local; OBJ is local relative to IND,land be-near,paltohos
-be pseudorandom,no be-random,lisletsukawspis
 comet,sky fire,mimhwoslon
 predict,be-early think,totsukaws
 be predetermined; be predictable,POSSIBILITY OF predict,totsukaws
 be random; be unpredictable,ANTONYM OF be predetermined,sestotsukawspislon
 make predictable; order; determine,INCOHATIVE OF be predetermined,sestotsukawspislon
 randomise; scramble; make unpredictable,CESSATIVE OF be predetermined,sestotsukawspislon
+be pseudorandom,no be-random,lisletsukawspis
 elect; SBJ elects IND to office over OBJ,choose take-over,tokihoslekaskes
 fork,be-sharp eating-utensil,tiknjamjaclatan
 spoon,be-liquid eating-utensil,likwitnjamjaclatan
@@ -562,4 +563,15 @@ go under; SBJ moves OBJ under IND,be-low cross,
 "jump scare; SBJ jump-scares OBJ with IND",fear surprise
 "be anxious; OBJ feels anxious about IND",fear hurt,
 "feel awe; OBJ {awed} feels awe at IND {awesome; awful}",be-big feel,
+be infinitely large; OBJ is infinitely large,be-infinite be-big,
 be infinitessimal; OBJ is infinitessimally small,be-infinite be-small,
+canon,1 story,
+prove; verify; log in; SBJ verifies OBJ's veracity,yes teach,
+disprove; falsify; compromise; log out; SBJ proves OBJ false,no teach,
+design; SBJ {designer} designs OBJ {design},choose make,
+be unique; be special; OBJ is unique among IND,one be-similar,
+be common; be normal; be standard; OBJ is common among IND,all be-similar,
+be available; be free; OBJ is free,time have,
+be busy; be unavailable; OBJ is busy,no time have
+walk; step; SBJ walks on OBJ {path; walk},step step,
+run; SBJ runs on OBJ {treadmill},fly step,
