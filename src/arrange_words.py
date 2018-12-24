@@ -372,10 +372,10 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 			return get_antonym(source_word) + all_words['begin']
 		else:
 			return source_word + all_words['end']
-	elif deriv_type in ['INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ',
+	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ',
 		'IND', 'AMOUNT', 'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD']:
 		inflection_word = {
-			'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who', 'OBJ':'of which', 'IND':'whom',
+			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who', 'OBJ':'of which', 'IND':'whom',
 			'AMO':'the amount that', 'LOC':'where', 'TIM':'when', 'INS':'with which', 'CAU':'why', 'MET':'by which'}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['ltl']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
@@ -480,6 +480,17 @@ def load_dictionary(directory):
 	return words
 
 
+def verify_words(my_words):
+	""" check various things to catch mistakes I made with my dictionary """
+	for key, entry in my_words.items():
+		if not entry['eng']:
+			raise ValueError("The entry {} has no meaning".format(entry))
+		if not any(w in entry['derivatives'] for w in ['ANTONYM','OPPOSITE','REVERSAL']) and has_antonym(entry):
+			raise ValueError("Derivatives of '{0}' have antonyms even though '{0}' itself does not".format(entry['eng'][0], entry))
+
+	print("Dictionary verified.") # if you make it this far, you've passed my test
+
+
 def fill_blanks(my_words, real_words):
 	""" come up with words from the source dictioraries for all nouns and verbs that aren't
 		onomotopoeias, and update the compound words accordingly """
@@ -550,6 +561,7 @@ def measure_corpus(directory):
 
 if __name__ == '__main__':
 	all_words = load_dictionary('words')
+	verify_words(all_words)
 	with open('../data/all_languages.p', 'rb') as f:
 		source_dictionaries = pickle.load(f)
 	fill_blanks(all_words, source_dictionaries)

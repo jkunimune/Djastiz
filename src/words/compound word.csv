@@ -323,7 +323,7 @@ snoring,sleep sound,toseptiklam
 pencil,be-stone writing-utensil,cislajcjeslatan
 draw; SBJ {drawer} paints IND {drawn; drawing subject} as OBJ {drawing},surface model,
 paint; SBJ {painter} paints IND {painting subject} as OBJ {painting},be-liquid model,likwitlonhwahwas
-sculpt; etch; carve; SBJ {carver} carves IND {sculpOBJ {sculpture},be-solid model,kutlonhwahwas
+sculpt; etch; carve; SBJ {carver} carves IND {sculpture subject} as OBJ {sculpture},be-solid model,kutlonhwahwas
 broom,,
 mop,,
 duster,,
@@ -523,10 +523,10 @@ be local; OBJ is local relative to IND,land be-near,paltohos
 comet,sky fire,mimhwoslon
 predict,be-early think,totsukaws
 be predetermined; be predictable,POSSIBILITY OF predict,totsukaws
-be random; be unpredictable,ANTONYM OF be predetermined,sestotsukawspislon
+be random; be unpredictable,NEGATIVE OF be predetermined,sestotsukawspislon
 make predictable; order; determine,INCOHATIVE OF be predetermined,sestotsukawspislon
 randomise; scramble; make unpredictable,CESSATIVE OF be predetermined,sestotsukawspislon
-be pseudorandom,no be-random,lisletsukawspis
+be pseudorandom,NEGATIVE OF be-random,lisletsukawspis
 elect; SBJ elects IND to office over OBJ,choose take-over,tokihoslekaskes
 fork,be-sharp eating-utensil,tiknjamjaclatan
 spoon,be-liquid eating-utensil,likwitnjamjaclatan
@@ -535,7 +535,7 @@ platter; plate,eat plate,njamjaclal
 bowl,eat holder,njamjaclaklon
 bucket,be-liquid holder,likwitlaklon
 smoke; SBJ smokes OBJ,be-burnt eat,cjawsnjamjac
-vape; e-smoke; SBJ vapes OBJ,be-charged eat,picnjamjac
+vape; e-smoke; SBJ vapes OBJ,be-charged be-burnt eat,picnjamjac
 date; court; OBJ is dating IND,love be-friendly,kuthamik
 ask out; set up; start going out; SBJ {matchmaker} makes OBJ start dating IND,INCOHATIVE OF date,kuthamik
 break up; stop going out; SBJ makes OBJ stop dating IND,CESSATIVE OF date,kuthamik
@@ -558,9 +558,11 @@ go over; cross; SBJ moves OBJ over IND,be-high cross,
 go under; SBJ moves OBJ under IND,be-low cross,
 "research; SBJ {researcher} finds information about IND {reasearch topic} and uses it to update OBJ {research; notes; archive}",repeat study,
 "feel schadenfreude; OBJ feels schodenfreude at IND",hurt feel-happy,
+sympathise; take pity; OBJ sympathises with IND,hurt feel-sad,
+empathise; share feelings; OBJ empathises with IND,be-similar feel,
 "feel bittersweet; OBJ feels bittersweetly about IND {bittersweet}",be-happy be-sad,
-"be nostalgic; OBJ feels nostalgia about IND",be-before be-bittersweet
-"jump scare; SBJ jump-scares OBJ with IND",fear surprise
+"be nostalgic; OBJ feels nostalgia about IND",be-before be-bittersweet,
+"jump scare; SBJ jump-scares OBJ with IND",fear surprise,
 "be anxious; OBJ feels anxious about IND",fear hurt,
 "feel awe; OBJ {awed} feels awe at IND {awesome; awful}",be-big feel,
 be infinitely large; OBJ is infinitely large,be-infinite be-big,
@@ -572,6 +574,17 @@ design; SBJ {designer} designs OBJ {design},choose make,
 be unique; be special; OBJ is unique among IND,one be-similar,
 be common; be normal; be standard; OBJ is common among IND,all be-similar,
 be available; be free; OBJ is free,time have,
-be busy; be unavailable; OBJ is busy,no time have
+be busy; be unavailable; OBJ is busy,NEGATIVE OF be available,
 walk; step; SBJ walks on OBJ {path; walk},step step,
 run; SBJ runs on OBJ {treadmill},fly step,
+virgin,have-sex no which,
+feel curious; OBJ is curious about IND,understand want,
+feel hungry; OBJ is hungry for IND,eat want,
+feel thirsty; OBJ is thirsty for IND,liquid want,
+feel horny; OBJ is horny,have-sex want,
+creep out; OBJ {creeped out} finds IND {creepy; creeper} creepy,little fear,
+be apprehensive; hesitate; OBJ is apprehensive to do IND,choose be-averse,
+adore; beI cute; OBJ finds IND cute,be-small like,
+beI awkward; be uncomfortable; OBJ finds IND {herp} awkward,be-social hurt,
+replace; substitute; SBJ removes IND and replaces it with OBJ,summon dispose,
+majority
