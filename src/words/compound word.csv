@@ -8,6 +8,8 @@ but,even and,fenha
 us; _first person plural exclusive_; the speaker and others {GENITIVE:our},I it,mintajn
 y'all; _second person plural_; the listener and others {GENITIVE:y'all's},you it,puntajn
 other; not; anything but,be no direct-object,seslislon
+"yes; yes, it isn't",no yes,
+"no; no, it is",yes no,
 the Antarctic Ocean; the ocean; the ocean,Antarctica sea,'antaktikamal
 the Arctic Ocean; the ocean; the ocean,be-north sea,hitmal
 Afro-Eurasia; the landmass {GENITIVE:Afro-Eurasian},Africa Eurasia,'jewlasia
@@ -128,6 +130,7 @@ desert {GENITIVE:desert; deserted},sand land,potlontoluppal
 jungle; rainforest {GENITIVE:jungle; rainforest; jungular},plant land,canpal
 swamp; marsh; bog; wetlands {GENITIVE:marhal; wetland; wet},liquid land,likwitlonpal
 dream; OBJ {dreamer} dreams IND {dream},sleep perceive,toseppoc
+daydream; hallucinate; OBJ {daydreamer} hallucinates IND {daydream},day dream,
 map,layout image,susunteklam
 map projection,map transformation,susunteklamkanwatliel
 be hallowed; worship; OBJ {worshiper} worships SBJ,god like,tiohpajk
@@ -197,8 +200,10 @@ sand; dust; pile of sand,stone powder,cislonpotlon
 gravel; course sand,stone chunky,cislonfonitlon
 snow,liquid powder,likwitlonpotlon
 be bone,animal be-rigid,tunuhhutnospis
-be wet; IND is wet with OBJ {AMOUNT:wetness},liquid be-on,likwitloncjoc
-be dry; IND is dry of OBJ,gas be-on,tukwitloncjoc
+be humid; be dank; OBJ is humid,be-liquid be-mixed,
+be arid; be dry; OBJ is not humid,be-gaseous be-mixed
+be wet; IND is wet with OBJ {AMOUNT:wetness},be-liquid be-on,likwitloncjoc
+be dry; IND is dry of OBJ,be-gaseous be-on,tukwitloncjoc
 mist,liquid powder,likwitlonpotlon
 alcohol {GENITIVE:alcoholic},have-fun liquid,moclikwitlon
 be drunk; be intoxicated; OBJ is drunk,have-fun be-sick,mochohat
@@ -314,8 +319,6 @@ avocado,,
 pepper,,
 tulip,,
 lilly,,
-pi; 3.142,circle number,sikulaslonsesljan
-tau; 6.283,2 pi,halsikulaslonsesljan
 be armoured; IND {armour} armours OBJ {armoured},protect wear,lusakkespisnospolot
 armour; SBJ {armourer} armours OBJ in IND,protect put-on,lusakkespisnospolotkes
 bite; SBJ {biter} bites OBJ {bitten},mouth squeeze,mukkuntosues
@@ -399,9 +402,9 @@ do pedagogy; SBJ {pedagologist} studies pedagogy to learn about OBJ {pedagogy},t
 do computer science; SBJ {computer scientist} studies computers to learn about OBJ {computer science},computer study,komuteltosutiws
 do theology; SBJ {theologist} studies religion to learn about OBJ {theology},god study,tiohtosutiws
 do statistics; SBJ {statistician} studies data to learn about OBJ {statistics},be-likely study,cunistosutiws
-do hydrodynamics; SBJ {hydrodynamicist} studies the motion of fluids to learn about OBJ {hydrodynamics},be-liquid move study,likwitmopestosutiws
-do magnetohydrodynamics; SBJ {magnetohydrodynamicist} studies the motion of conductive fluids in magnetic fields,be-magnetic be-liquid move study,lepustatlikwitmopestosutiws
-do thermomagnetohydrodynamics; SBJ {thermomagnetohydrodynamicist} studies the heat transfer of conductive fluids in magnetic fields,be-hot be-magnetic be-liquid move study,hotlepustatlikwitmopestosutiws
+do hydrodynamics; SBJ {hydrodynamicist} studies the motion of fluids to learn about OBJ {hydrodynamics},be-fluid move study,likwitmopestosutiws
+do magnetohydrodynamics; SBJ {magnetohydrodynamicist} studies the motion of conductive fluids in magnetic fields,be-magnetic be-fluid move study,lepustatlikwitmopestosutiws
+do thermomagnetohydrodynamics; SBJ {thermomagnetohydrodynamicist} studies the heat transfer of conductive fluids in magnetic fields,be-hot be-magnetic be-fluid move study,hotlepustatlikwitmopestosutiws
 eat breakfast; breakfast; SBJ {fast-breaker} eats OBJ {breakfast} {TIME:breakfast time},sun begin eat,solkesnjamjac
 eat brunch; brunch; SBJ {bruncher} eats OBJ {brunch} {TIME:brunchtime},be-early sun eat,totsolnjamjac
 eat lunch; lunch; SBJ {luncher} eats OBJ {lunch} {TIME:lunchtime},sun eat,solnjamjac
@@ -474,7 +477,7 @@ be polite,culture be-friendly,kutulhamik
 be-rude,culture be-hostile,kutulsamik
 religion,god method,tiohliel
 sect,religion piece,tiohlielpaklon
-wave; ripple; water waves,be-liquid move,likwitmopes
+ripple; wave; waves ripple through OBJ {TIME:wave},be-fluid oscillate,likwitmopes
 rain; precipitate; OBJ {rain; precipitation} falls from the sky,sky fall,mimkaes
 blow; gust; wind blows,sky move,mimmopes
 strike; IND is struck by lightning from OBJ {thunderstorm; thundercloud},sky discharge,mimpicnos
@@ -504,6 +507,8 @@ buy service; serve; OBJ {server} performs IND {service} for SBJ {customer} in ex
 buy good; produce; OBJ {producer; vendor} gives IND {good} to SBJ {consumer} in exchange for money {TIME:sale},object sell,toslonmajs
 agree; OBJ agrees with IND,be-similar think,mituksukaws
 disagree; OBJ disagrees with IND,be-different think,putuksukaws
+consent; SBJ concents to OBJ,yes say,
+dissent; SBJ dissents from OBJ,no say,
 team,help group,toheppaklam
 conduct; be conductive; OBJ {conductor} conducts electricity {AMOUNT:conductivity},be-charged be-easy,picsop
 insulate; resist; be resistive; OBJ {insulator; resistor} resists electrical current {AMOUNT:resistance},be-charged be-difficult,pichep
@@ -578,13 +583,51 @@ be busy; be unavailable; OBJ is busy,NEGATIVE OF be available,
 walk; step; SBJ walks on OBJ {path; walk},step step,
 run; SBJ runs on OBJ {treadmill},fly step,
 virgin,have-sex no which,
-feel curious; OBJ is curious about IND,understand want,
+feel curious; wonder; OBJ is curious about IND,understand want,
 feel hungry; OBJ is hungry for IND,eat want,
 feel thirsty; OBJ is thirsty for IND,liquid want,
-feel horny; OBJ is horny,have-sex want,
+feel horny; sexually attract; beI sexy; OBJ is sexually attracted to IND,have-sex want,
+feel defensive; OBJ is defensive about IND,protect feel
 creep out; OBJ {creeped out} finds IND {creepy; creeper} creepy,little fear,
 be apprehensive; hesitate; OBJ is apprehensive to do IND,choose be-averse,
 adore; beI cute; OBJ finds IND cute,be-small like,
 beI awkward; be uncomfortable; OBJ finds IND {herp} awkward,be-social hurt,
-replace; substitute; SBJ removes IND and replaces it with OBJ,summon dispose,
-majority
+replace; substitute; swap; SBJ removes IND and replaces it with OBJ,summon dispose,
+majority,half more,
+minority,half less,
+cane; staff; walking stick,step stick,
+invent; innovate; SBJ {inventor} invents OBJ {invention},engineer think-of,
+be conservative; resist change; OBJ is conservative,change dislike,
+be liberal; encourage change; OBJ is liberal,change like,
+be dexterous; OBJ is dexterous,hand be-skillful,
+be clumsy; OBJ is clumsy,hand be-unskillful,
+be charismatic; OBJ is charismatic,be-social be-skillful,
+be awkward; OBJ is habitually awkward with people,be-social be-unskillful,
+be in prison; be incarcerated; OBJ {prisoner} is imprisoned by IND {warden} {LOCATION:prison; jail},must be-in-control
+imprison; throw in jail; SBJ imprisons OBJ,INCOHATIVE OF be in prison,
+release from prison; set free; SBJ releases OBJ from prison,CESSATIVE OF be in prison,
+be lit; be illuminated; be bright; OBJ is brightly lit,light be-loud,
+be dim; be dark; OBJ {shadow} is dimly lit,light be-quiet,
+illuminate; light up; SBJ illuminates OBJ,light amplify,
+darken; dim; SBJ darkens OBJ,light dampen,
+tradition; ritual; ceremony,repeat event,
+peel; SBJ peels OBJ,edge cut,
+slice; SBJ slices OBJ into IND {slice},surface cut,
+stab; SBJ stabs OBJ {pincushion} {INSTRUMENT:dagger; stake},stick cut,
+squeeze; compress; SBJ squeezes OBJ,be-inside push,
+stretch; expand; SBJ pulls outward on OBJ,be-outside push,
+grid; hatch,be-square net,
+think big picture; think grandly,group deduce,
+be detail-oriented,piece deduce,
+rebel; SBJ rebels against OBJ,government fight,
+protest; SBJ protests IND to OBJ,government complain,
+bury; SBJ buries OBJ,dirt lower,
+exhume; uncover; SBJ exhumes OBJ,dirt raise,
+code; program; SBJ {programmer} codes OBJ with IND {code; program},computer tell,
+coexist; tolerate; OBJ coexists with IND,be-near be,
+flow; SBJ makes OBJ {current; stream} OBJ {MANNER:streamline},be-fluid move,
+be downstream; be downwind; OBJ is downstream of IND,flow be-under,
+be upstream; be upwind; OBJ is upstream of IND,flow be-over,
+encode; SBJ encodes OBJ as IND {MANNER:code},misunderstand translate,
+decode; parse; SBJ decodes OBJ into IND,understand translate,
+gesture; sign; SBJ gestures IND to OBJ {MANNER:gesture},hand say,

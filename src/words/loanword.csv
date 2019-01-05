@@ -63,7 +63,7 @@ eng,source,ltl
 "Yoruba; the language {GENITIVE:Yoruba; in Yoruba}",yor <èdè Yorùbá> [e˨de˨ jo˧ɾu˨ba˦],'etejolupa
 "Yue Chinese; Cantonese; the language {GENITIVE:Yue; in Yue}",yue <粵語> [jyːt̚˧˥],'jut
 "Zulu; the language {GENITIVE:Zulu; in Zulu}",zul <isiZulu> [isiˈzuːlu],'isisulu
-"The World Wide Web; The Internet; The Cloud {GENITIVE:Internet; cloud; cyber}",eng <Internet> [ˈɪntɹ̩ˌnɛt],'intanet
+"The World Wide Web; The Internet; The Cloud {GENITIVE:Internet; cloud; cyber}",eng <Internet> [ˈɪntɚnɛt],'intanet
 "The Atlantic Ocean; the ocean {GENITIVE:Atlantic}",por <oceano Atlântico> [oseˈɐno atˈlɐnt͡ʃiko],'atlantiko
 "The Indian Ocean; the ocean {GENITIVE:Indian}",mlg <Oseana Indiana> [oˈseana iⁿdiˈanina],'intianina
 "The Pacific Ocean; the ocean {GENITIVE:Pacific}",jpn <太平洋> [taihɛːjɔː],'taihejo
@@ -76,7 +76,7 @@ eng,source,ltl
 "The South China Sea",,
 "America; The Americas; the landmass",spa <Las Américas> [las aˈmeɾikas],'lasamelikas
 "Africa; the continent",,
-"North America; the continent",eng <North America> [nɔɹθ əˈmɛɹʷɪkə],'notamelika
+"North America; the continent",eng <North America> [nɔɹθ əˈmɛɹɪkə],'notamelika
 "South America; the continent",por <América do Sul> [aˈmɛɾika du sul],'sulamelika
 "Antarctica; the landmass; the continent",eng <Antarctica> [ænˈtɑːktɪkə],'antaktika
 "Eurasia; the continent {GENITIVE:Eurasian}",rus <Евразия> [jɪˈvrazʲɪjə],'jewlasia
@@ -351,14 +351,16 @@ eng,source,ltl
 "Taoism; Daoism; the religion {GENITIVE:Taoist; Daoist},cmn <道教> [taw˥˩ tɕjaw˥˩],'tawcjaw
 "Vaishnavism; the sect {GENITIVE:Vaishnava}",hin <वैष्णव धर्म> [ʋɛːɕnaːʋə dʱɑːɾm],'wecnawatam
 "Zoroastrianism; the religion {GENITIVE:Zoroastrian}",ave <𐬨𐬀𐬰𐬛𐬀𐬫𐬀𐬯𐬥𐬀> [mazdajasna],'mastajasna
+"feng shui; the pseudoscience",cmn <风水> [fəŋ˥ʂwej˧˩˥],'fancwej
+"homeopathy; the pseudoscience",deu <homöopathie> [hoːmœoːpatiː],'homeopati
 "bitcoin; the currency",,
-"dollar; the currency",,dala
+"dollar; the currency",eng <dollar> [ˈdɑlɚ],'tala
 "euro; the currency",,juho
 "franc; the currency",,
 "krona; the currency",,
 "lira; the currency",,
-"peso; the currency",,'peso
-"pound sterling; the currency",,'pawn
+"peso; the currency",spa <peso> [ˈpeso],'peso
+"pound sterling; the currency",enɡ <pound> [pʰaʊnd],'pawn
 "rand; the currency",,
 "real; the currency",,'leal
 "renminbi yuan; the currency",,'juan
@@ -376,13 +378,14 @@ eng,source,ltl
 "pizza; the dish",,
 "calzone; the dish",ita <calzone> [kalˈt͡soːne],'kalsone
 "cake; the dish",,
-"beer; the drink",eng <beer> [biɹ],pil
+"beer; the drink",eng <beer> [bɪɹ],pil
 "wine; the drink",,
 "vodka; the drink",,
+"tequila; the drink",spa <tequila> [teˈkila],tekila
 "jasmine tea; the drink",,
 "jeans; the dress",eng <jeans> [d͡ʒiːnz],'cin
 "kimono; the dress",jpn <着物> [kʲimono],'kimono
-"T-shirt; the dress",eng <T-shirt> [tʰiː ʃəɹt],'ticat
+"T-shirt; the dress",eng <T-shirt> [tʰiː ʃɚt],'ticat
 "anime; the cartoon genre",jpn <アニメ> [aɲime],'anime
 "manga; the comic genre",jpn <漫画> [maŋɡa],'manga
 "lyre; the instrument",gmy <λύρα> [ly˦ra],liwla
@@ -418,6 +421,14 @@ eng,source,ltl
 "Christian heaven",heb <TODO> [ʃɔmäˈjim],'comajim
 "amen",heb <TODO> [ɔˈmeɪ̯n],'omejn
 "email; SBJ {emailer; email sender} sends OBJ {email} to IND {emailee; email recipient} via email",eng <email> [ˈiːmeɪ̯l],'imejl
-"kukui nut tree; the species",haw <kukui> [kukuj],kukuj
-"pahoehoe; the type of lava",haw <pāhoehoe> [paːˈhoweˈhowe],pahoehoe
-"aa; the type of lava",haw <ʻaʻā> [ʔəˈʔaː],aha
+"kukui nut tree; the species",haw <kukui> [kukuj],'kukuj
+"pahoehoe; the type of lava",haw <pāhoehoe> [paːˈhoweˈhowe],'pahoehoe
+"aa; the type of lava",haw <ʻaʻā> [ʔəˈʔaː],'aha
+"tokamak; the type of machine",rus <токамáк> [tɔkɐmɐk],'tokamak
+"tau; 6.283…; the constant",grc <τ> [taw],'taw
+"pi; 3.142…; the constant",grc <π> [pi],'pi
+"e; Euler's number; 2.718…; the constant",lat <e> [eː],'e
+"phi; the golden ratio; 1.618…; the constant",grc <φ> [pʰi],'fi
+"fancy; the cultural concept",eng <fancy> [ˈfænsi],'fansi
+"kawaii; the cultural concept",jpn <かわいい> [kaɰaiː],'kawai
+"sobremesa; the cultural concept",spa <sobremesa> [soβɾeˈmesa],'soplemesa

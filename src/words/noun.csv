@@ -41,10 +41,12 @@ storm; tempest {GENITIVE:stormy; cyclonical},ben <ঝড়> [d͡ʑ̤ɔɽɔ],col
 art {GENITIVE:artistic},jav <seni> [sen̪i],sen
 sentence {GENITIVE:sentential},yor <gbolohun> [ɡ͡bolohũ],polohun
 phrase {GENITIVE:phrasal},hin <मुहावरा> [muɦaːvraː],muhawl
-word {GENITIVE:lexical},cmn <字> [t͡sɯ˥˩],suh
+word {GENITIVE:lexical; literal},cmn <字> [t͡sɯ˥˩],suh
 letter; phoneme {GENITIVE:epistolary; alphabetical; phonemic},cmn <信> [ɕin˥˩],cin
 home {GENITIVE:domestic},hin <होम> [ɦom],hom
-body {GENITIVE:bodily; physical; corporal},ben <শরীর> [ɕɔrir],colil
+furniture,,
+body; chassis {GENITIVE:bodily; physical; corporal},ben <শরীর> [ɕɔrir],colil
+spirit; soul,OPPOSITE OF body,
 hair {GENITIVE:pilar; hairy},eng <hair> [hair],hail
 face {GENITIVE:facial},spa <cara> [ˈkaɾa],kal
 head {GENITIVE:cranial; cephalic},pan <ਸਿਰ> [sɪɾ],sil
@@ -82,7 +84,6 @@ tomato {GENITIVE:tomatan},jav <tomat> [tomat],tomal
 grape {GENITIVE:vineal},cmn <葡萄> [pʰu˧˥tʰɑʊ̯],putawh
 apple {GENITIVE:pomaceous},epo <pomo> [ˈpomo],pom
 "information; notion, number, etc. {GENITIVE:informational; notional; numerical; theoretical}",swa <habari> [haɓaɾi],hapal
-detail {GENITIVE:particular},eng <detail> [detail],tetail
 season {GENITIVE:seasonal},epo <sezono> [seˈzono],seson
 reality; possibility; world; dimension; universe {GENITIVE:realistic; possible; dimensional},spa <realidad> [realiˈðað],lealital
 culture; nation {GENITIVE:cultural; national},epo <kulturo> [kulˈturo],kutul
@@ -167,9 +168,3 @@ cattail; typha,epo <kato> [ˈkato],kal
 grass,pan <ਘਾਹ> [kɑɦ],kah
 bamboo,spa <bambú> [bamˈbu],pam
 machine; robot; automaton,ben <মেশিন> [meɕin̪],mecin
-"clap; slap; tick; a sudden, short, high-pitched sound",ono [kʰ],kef
-"boom; crash; a sudden, loud, low-pitched sound",ono [bum],pum
-"screech; wail; whistle; a shrill, drawn-out, high-pitched sound",ono [fwiː],fwih
-"hum; buzz; a sonourous, drawn-out, low-pitched sound",ono [mː],mumum
-"chatter; wobble; rustle; a long, noisy, high-pitched sound",ono [t͡ʃkət͡ʃət͡ʃə],cececef
-"rumble; a long, noisy, low-pitched sound",ono [wumbawumba],puwapuwam

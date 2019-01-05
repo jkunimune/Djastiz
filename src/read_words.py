@@ -228,6 +228,8 @@ def read_english(word):
 			narrow += 'ə'
 		elif c == 'l' and (i+1 >= len(broad) or broad[i+1] not in 'aeiouəɪʊɔɑɛæ'):
 			narrow += 'ɫ'
+		elif c == 'ɹ' and i-1 >= 0 and broad[i-1] == 'ə':
+			narrow = narrow[:-1] + 'ɚ'
 		else:
 			narrow += c
 	return broad, narrow
