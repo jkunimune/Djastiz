@@ -10,14 +10,14 @@ animal,animal
 ant,hormiga
 apple,manzana
 arm,brazo
-art,Art º
+art,arte
 bacterium,bacteria
 bamboo,bambú
 barnacle,percebe
 bear,oso
 beetle,escarabajo
 below,abajo
-between,Entre
+between,entre
 big,grande
 birth,nacimiento
 blue,azul
@@ -28,6 +28,7 @@ brown,marrón
 bug,insecto
 burnt,quemado
 bustard,avutarda
+butt,pompis
 butterfly,mariposa
 buttocks,nalgas
 camel,camello
@@ -77,18 +78,18 @@ fire,fuego
 fish,pez
 flea,pulga
 flower,flor
-fly,volar
+fly,mosca
 foamy,espumoso
 fowl,ave
-friendly,simpático
-fruit,Fruta
+friendly,amable
+fruit,fruta
 full,completo
 fun,divertido
 fungus,hongo
 furniture,mueble
 giraffe,jirafa
 gland,glándula
-god,Dios
+god,dios
 good,bueno
 grain,grano
 grape,uva
@@ -111,7 +112,7 @@ in front,Al frente
 infinite,infinito
 information,información
 inside,dentro
-jellyfish,Medusa
+jellyfish,medusa
 joyful,alegre
 kangaroo,canguro
 koala,coala
@@ -119,11 +120,12 @@ late,tarde
 layout,diseño
 leaf,hoja
 leg,pierna
-letter,carta
-light,ligero
+letter,letra
+light,luz
 likely,probable
 liquid,líquido
 lizard,lagartija
+locked,bloqueado
 long,largo
 low,bajo
 low-pitched,de tono bajo
@@ -146,8 +148,9 @@ nautilus,nautilo
 neat,ordenado
 network,red
 notion,noción
-ocean,Oceano
+ocean,oceano
 old,antiguo
+on,encendido
 opaque,opaco
 opossum,zarigüeya
 order,orden
@@ -156,10 +159,10 @@ part,parte
 path,camino
 person,persona
 phrase,frase
-pidgeon,Pidgeon
+pidgeon,paloma
 pig,cerdo
 plant,planta
-pleasure,Placer
+pleasure,placer
 point,punto
 possible,posible
 powder,polvo
@@ -176,7 +179,7 @@ reptile,reptil
 rest,descanso
 rhinoceros,rinoceronte
 rice,arroz
-right,Correcto
+right,derecho
 rodent,roedor
 root,raíz
 rotten,podrido
@@ -197,9 +200,9 @@ shark,tiburón
 sharp,agudo
 shell,cáscara
 shiny,brillante
-should,debería
+should,deber
 shrill,estridente
-simple,sencillo
+simple,simple
 skillful,hábil
 slug,babosa
 smell,oler
@@ -222,99 +225,99 @@ stick,palo
 stone,piedra
 storm,tormenta
 story,historia
-straight,Derecho
+straight,recto
 string,cuerda
 strong,fuerte
 structure,estructura
-sun,Dom
+sun,sol
 surface,superficie
 sweet,dulce
 tangible,tangible
 tangled,enredado
 tapir,tapir
-taste,gusto
-tense,tiempo
+taste,sabor
+tense,tenso
 thick,grueso
 tick,garrapata
 tired,cansado
-to accompany,para acompañar
+to accompany,acompañar
 to act,actuar
-to anticipate,anticiparse
+to anticipate,anticipar
 to believe,creer
 to bounce,rebotar
 to care,importar
 to choose,elegir
 to continue,continuar
-to convert,para convertir
+to convert,convertir
 to cook,cocinar
 to correspond,corresponder
 to cost,Costar
-to deal,para negociar
-to deserve,para merecer
-to engineer,para ingeniar
-to entrepreneur,al empresario
-to excuse,excusarse
+to deal,negociar
+to deserve,merecer
+to engineer,ingeniar
+to entrepreneur,empresario
+to excuse,excusar
 to experience,experimentar
 to face,enfrentar
 to fall,caer
 to fear,temer
-to feel,Sentir
+to feel,sentir
 to fight,pelear
-to fly,para volar
+to fly,volar
 to function,funcionar
 to govern,gobernar
 to grip,agarrar
 to help,ayudar
 to hit,golpear
 to hold,sostener
-to hunt,a cazar
+to hunt,cazar
 to know,saber
 to love,amar
 to mean,significar
 to model,modelar
-to move,para mover
+to move,mover
 to need,necesitar
 to notice,notar
 to obey,obedecer
 to own,poseer
-to party,hacer una fiesta
-to pay attention,prestar atención
+to party,fiesta
+to pay attention,atención
 to perceive,percibir
 to plan,planificar
 to play,jugar
-to ponder,para reflexionar
+to ponder,reflexionar
 to prosper,prosperar
-to push,para empujar
+to push,empujar
 to read,leer
-to recall,para recordar
-to relate,relacionarse
+to recall,recordar
+to relate,relacionar
 to repeat,repetir
-to ride,a montar
+to ride,montar
 to roll,rodar
 to rub,frotar
 to say,decir
 to sell,vender
-to sit,sentarse
+to sit,sentar
 to sleep,dormir
 to speak,hablar
 to spin,girar
-to stand,pararse
-to step,al paso
-to study,para estudiar
+to stand,parar
+to step,pisar
+to study,estudiar
 to surprise,sorprender
 to surround,rodear
 to take care,cuidar
 to think,pensar
-to think of,para pensar en
+to think of,pensar en
 to touch,tocar
 to try,intentar
 to understand,comprender
 to wait,esperar
 to want,querer
-to wear,usar
+to wear,vestir
 to win,ganar
 to work,trabajar
-to worry,preocuparse
+to worry,preocupar
 to write,escribir
 tomato,tomate
 torso,torso
@@ -322,7 +325,7 @@ touch,toque
 tree,árbol
 tuna,atún
 turned on,encendido
-turtle,Tortuga
+turtle,tortuga
 typical,típico
 vagina,vagina
 virus,virus
