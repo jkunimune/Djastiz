@@ -47,7 +47,8 @@ Temporary Items
 .apdisk
 
 # Data files
-data/*
+data/*.pkl
+data/*.tsv
 
 # Python classes
 *.pyc

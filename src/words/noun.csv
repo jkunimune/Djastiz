@@ -30,7 +30,7 @@ sky; atmosphere; weather; heavens {GENITIVE:celestial; atmospheric; meteorologic
 cosmos; outer *space {GENITIVE:cosmic; astral; interstellar},ben <স্থান> [s̪t̪ʰan̪],san
 sun; star {GENITIVE:solar; stellar},spa <sol> [sol],sol
 moon; satelite {GENITIVE:lunar},OPPOSITE OF sun,hel
-sea; ocean {GENITIVE:marine; oceanic},epo <maro> [ˈmaro],mal
+ocean; sea {GENITIVE:marine; oceanic},epo <maro> [ˈmaro],mal
 land; landmass {GENITIVE:terrestrial},OPPOSITE OF sea,pal
 "continent; North America, Eurasia, etc. {GENITIVE:continental}",cmn <大陆> [ta˥˩lu˥˩],tal
 mountain {GENITIVE:mountainous; montanical},cmn <山> [ʂan˥],can
@@ -54,20 +54,17 @@ torso {GENITIVE:torsal},ben <ধড়> [d̪̤ɔɽɔ],tol
 arm {GENITIVE:brachial; appendicular},cmn <臂> [pi˥˩],pih
 hand {GENITIVE:manual},spa <mano> [ˈmano],man
 finger; toe {GENITIVE:digital},msa <jari> [d͡ʒari],cal
-butt {GENITIVE:gluteal; posterial},ibo <ma> [ma],mah
+buttocks {GENITIVE:gluteal; posterial},ibo <ma> [ma],mah
 leg; appendage {GENITIVE:crural; appendicular},cmn <腿> [tʰweɪ̯˧˩˧],tweh
 gland; organ; node {GENITIVE:glandular; nodal; bodily; internal},cmn <腺> [ɕjɛn˥˩],cjen
-bodily fluid; bodily substance {GENITIVE:fluidal; bodily},swa <mwili> [mwili],mwil
 vagina; loin {GENITIVE:vaginal},ben <যোনি> [d͡zon̪i],son
 penis {GENITIVE:penile},OPPOSITE OF vagina,hen
 chest; breast; boob; nipple {GENITIVE:mammillary},spa <pecho> [ˈpet͡ʃo],pef
 claw; quill; sharp appendage {GENITIVE:ungual; sharp},epo <garra> [ˈɡarra],kal
 wing {GENITIVE:alary; avian},cmn <翅膀> [ʈ͡ʂʰɨ˥˩pɑŋ˧˩˧],cipan
 shell {GENITIVE:conchylaceous},hin <खोल> [kʰol],kol
-antenna {GENITIVE:antennal},epo <anteno> [anˈteno],hanen
 scale {GENITIVE:squamous; scaly},mar <स्केल> [skel],sel
 feather {GENITIVE:plumal; feathery; feathered},msa <bulu> [bulu],pul
-tentacle {GENITIVE:tentactular},eng <tentacle> [tentacle],tenakil
 egg {GENITIVE:ovary; eggy},cmn <蛋> [tan˥˩],tan
 seed {GENITIVE:seminal},epo <semo> [ˈsemo],sem
 leaf; blade of grass {GENITIVE:foliar; leafy},eng <leaf> [leaf],leaf
@@ -98,15 +95,14 @@ feline; cat {GENITIVE:feline},ono [mjaw],mjawf
 canine; dog; wolf; dingo; and fox {GENITIVE:canine},ono [baw waw wof],pawawf
 bear {GENITIVE:ursine},eng <bear> [bear],peal
 seal; includes walruses and maybe sea lions I think?,pan <ਸੀਲ> [sil],sil
-musteloidea; red panda; skunk; raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine,eng <musteloidea> [musteloidea],museloiteah
-equine; horse; zebra; wild butt {GENITIVE:equine},ono [hi hi],hihin
+musteloidea; red panda; skunk; *raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine,eng <musteloidea> [musteloidea],museloiteah
+equine; *horse; zebra; wild butt {GENITIVE:equine},ono [hi hi],hihin
 tapir,pan <ਟੇਪਿਰ> [ʈepɪɾ],tepil
 rhinoceros,cmn <犀牛> [ɕi˥njoʊ̯˧˥],cinjoh
 camel; llama; alpaca; guanaco,epo <kamelo> [kaˈmelo],kamel
-swine; boar; pig; pork {GENITIVE:swine},hin <सुअर> [suar],sual
-chevrotain,mar <शेवरोटैन> [ɕevroʈæːn],cewlotan
+swine; boar; *pig; pork {GENITIVE:swine},hin <सुअर> [suar],sual
 giraffe; okapi,hin <जिराफ़> [d͡ʒiraːf],cilaf
-bovine; cow; beef;buffalo; antelope; sheep; mutton; goat; ,ono [muː],mum
+bovine; *cow; beef;buffalo; antelope; sheep; mutton; goat; ,ono [muː],mum
 hippopotamus,epo <hipopotamo> [hipopoˈtamo],hipopotam
 whale; dolphin; porpoise,cmn <鲸> [t͡ɕiŋ˥],cin
 elephant,bjah,ono bjãː
@@ -150,7 +146,7 @@ wasp,ibo <wep> [wep],hwem
 ant,pan <ਕੀੜੀ> [kiɽi],kil
 bee,ono [zum zum],susum
 cricket; grasshopper; tatydids,spa <Grillo> [ˈɡɾiʝo],kioh
-cockoroach,epo <koĥoraĝa> [koxoˈrad͡ʒa],koholaf
+cockroach,epo <koĥoraĝa> [koxoˈrad͡ʒa],koholaf
 mantis,cmn <螂> [lɑŋ˧˥],lan
 earwig,ben <কেন্নো> [ken̪n̪o],ken
 worm,hin <कीड़ा> [kiːɽaː],kil

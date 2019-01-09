@@ -68,6 +68,7 @@ trust; find trustworthy; OBJ trusts IND,tell-the-truth believe,tuscickes
 mistrust; find untrustworthy; OBJ does not trust IND,lie believe,katekkes
 achieve; accomplish; complete; SBJ makes OBJ {achiever} achieve IND {accomplished; achieved; completed},all progress,tunhakljan
 use internet; be wireless; be cyber; be crypto {METHOD:protocol},computer say,komuteltilas
+telephone; telegraph,be-far phone,
 mobile phone; cellural phone; cell phone,move phone,mopestilaslatan
 smart phone; phone,understand phone,ljawcjestilaslatan
 female; woman,vagina life,sonhwoslon
@@ -187,7 +188,7 @@ be quartz; OBJ is made of quartz,white be-crystal,putlonkios
 be emerald; OBJ is made of emerald,be-green be-crystal,sopuckios
 be diamond; OBJ is made of diamond,be-transparent be-crystal,mitomikkios
 be plastic; OBJ is made of plastic,person be-crystal,pesonkios
-be glass; OBJ {window} is made of glass,be-transparent be-stone,mitomikcis
+be glass; OBJ is made of glass,be-transparent be-stone,mitomikcis
 be graphite,pencil be-stone,cislajcjeslatancis
 cloth; fabric,string sheet,talmal
 ink,write liquid,lajcjeslikwitlon
@@ -214,13 +215,12 @@ have hangover; OBJ has a hangover,be-bored begin be-sick,peckeshohat
 tea,leaf liquid,leaflikwitlon
 milk,baby liquid,kukamlikwitlon
 wine,grape alcohol,putawhmoclikwitlon
-blood,red bodily-fluid,latlonmwil
-urine; pee,yellow bodily-fluid,kutlonmwil
-pus,white bodily-fluid,putlonmwil
-saliva,mouth bodily-fluid,mukkunmwil
-sweat,skin bodily-fluid,senascjenmwil
-tears,eye bodily-fluid,tekcjenmwil
-feces; excrement; poop,solid bodily-fluid,kutlonmwil
+blood,be-red liquid,latlonmwil
+urine; pee,be-yellow liquid,kutlonmwil
+saliva,mouth liquid,mukkunmwil
+sweat,skin liquid,senascjenmwil
+tears,eye liquid,tekcjenmwil
+feces; excrement; poop,be-brown trash,kutlonmwil
 expectorate; spit; salivate; SBJ spits,saliva create,mukkunmwilseskes
 cry; weep; sob,tears create,tekcjenmwilseskes
 sweat; SBJ sweats,sweat create,senascjenmwilseskes
@@ -507,8 +507,8 @@ buy service; serve; OBJ {server} performs IND {service} for SBJ {customer} in ex
 buy good; produce; OBJ {producer; vendor} gives IND {good} to SBJ {consumer} in exchange for money {TIME:sale},object sell,toslonmajs
 agree; OBJ agrees with IND,be-similar think,mituksukaws
 disagree; OBJ disagrees with IND,be-different think,putuksukaws
-consent; SBJ concents to OBJ,yes say,
-dissent; SBJ dissents from OBJ,no say,
+consent; approve; SBJ concents to OBJ,yes say,
+dissent; disapprove; SBJ dissents from OBJ,no say,
 team,help group,toheppaklam
 conduct; be conductive; OBJ {conductor} conducts electricity {AMOUNT:conductivity},be-charged be-easy,picsop
 insulate; resist; be resistive; OBJ {insulator; resistor} resists electrical current {AMOUNT:resistance},be-charged be-difficult,pichep
@@ -631,3 +631,15 @@ be upstream; be upwind; OBJ is upstream of IND,flow be-over,
 encode; SBJ encodes OBJ as IND {MANNER:code},misunderstand translate,
 decode; parse; SBJ decodes OBJ into IND,understand translate,
 gesture; sign; SBJ gestures IND to OBJ {MANNER:gesture},hand say,
+explore; peruse,,
+whisper; SBJ says IND {whisper} to OBJ without voicing,be-quiet speak,
+shout; yell; scream; raise voice; SBJ shouts IND to OBJ,be-loud speak,
+challenge; be challenging; SBJ {challenger} challenges OBJ {challenged} with IND {challenge},have-fun be-difficult,
+be rich; be wealthy; OBJ is financially rich,much own,
+be poor; be destitute; OBJ is financially poor,little own,
+be sarcastic; SBJ conveys IND sarcastically to OBJ,be-opposite say,
+congratulate; apologise; SBJ expresses sympathy to OBJ,sympathise say,
+antenna,string arm,
+tentacle,string leg,
+door,be-open furniture,
+window,can-see furniture,
