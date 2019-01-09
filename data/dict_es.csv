@@ -3,8 +3,7 @@ across,a través de
 adult,adulto
 agudo,agudo
 ahead,adelante
-algae,algas
-alive,viva
+alga,algas
 amazing,increíble
 anemone,anémona
 animal,animal
@@ -60,8 +59,8 @@ cupped,ahuecado
 damaged,dañado
 dense,denso
 derecha,derecha
+descansar,descansar
 different,diferente
-dirt,suciedad
 earwig,tijereta
 east,este
 easy,fácil
@@ -132,11 +131,11 @@ long,largo
 low,bajo
 luz,luz
 machine,máquina
-made of,hecho de
 magical,mágico
 mammal,mamífero
 mantis,mantis
 married,casado
+material,material
 metal,metal
 mixed,mezclado
 moral,moral
@@ -156,7 +155,7 @@ okay,bien
 old,antiguo
 opaque,opaco
 opossum,zarigüeya
-order,orden
+ordenar,ordenar
 ostrich,avestruz
 part,parte
 path,camino
@@ -180,7 +179,6 @@ recto,recto
 red,rojo
 region,región
 reptile,reptil
-rest,descanso
 rhinoceros,rinoceronte
 rice,arroz
 rodent,roedor
@@ -189,7 +187,7 @@ rotten,podrido
 salmon,salmón
 salty,salado
 scorpion,escorpión
-seahorse,caballo de mar
+seahorse,hipocampo
 seal,sello
 season,estación
 see,ver
@@ -200,7 +198,6 @@ sex,sexo
 shape,forma
 shark,tiburón
 sharp,agudo
-shell,cáscara
 shiny,brillante
 should,deber
 simple,simple
@@ -209,6 +206,7 @@ slug,babosa
 smell,oler
 smooth,suave
 social,social
+soil,suelo
 solid,sólido
 sour,agrio
 south,sur
@@ -269,6 +267,7 @@ to hit,golpear
 to hold,sostener
 to hunt,cazar
 to know,saber
+to live,vivir
 to love,amar
 to mean,significar
 to model,modelar
@@ -332,7 +331,6 @@ wheat,trigo
 white,blanco
 wide,amplio
 widespread,extendido
-wing,ala
 wood,madera
 word,palabra
 worm,gusano

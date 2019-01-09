@@ -3,8 +3,7 @@ across,দিয়ে
 adult,প্রাপ্তবয়স্ক
 agudo,তীব্র
 ahead,এগিয়ে
-algae,শেত্তলাগুলি
-alive,জীবিত
+alga,শেত্তলাগুলি
 amazing,আশ্চর্যজনক
 anemone,বায়ুপরাগী পুষ্পবিশেষ
 animal,পশু
@@ -60,8 +59,8 @@ cupped,cupped
 damaged,ক্ষতিগ্রস্ত
 dense,ঘন
 derecha,অধিকার
+descansar,বিশ্রাম
 different,বিভিন্ন
-dirt,ময়লা
 earwig,কেন্নো
 east,পূর্ব
 easy,সহজ
@@ -132,11 +131,11 @@ long,দীর্ঘ
 low,কম
 luz,হালকা
 machine,মেশিন
-made of,তৈরি
 magical,ঐন্দ্রজালিক
 mammal,স্তনপায়ী প্রাণী
 mantis,দীর্ঘপদ পতঙ্গ
 married,বিবাহিত
+material,উপাদান
 metal,ধাতু
 mixed,মিশ্র
 moral,নৈতিক
@@ -156,7 +155,7 @@ okay,ঠিক আছে
 old,পুরাতন
 opaque,অস্বচ্ছ
 opossum,আমেরিকার একজাতীয় বৃক্ষবাসী স্তন্যপায়ী প্রাণী
-order,ক্রম
+ordenar,বাছাই করা
 ostrich,উটপাখী
 part,অংশ
 path,পথ
@@ -180,7 +179,6 @@ recto,সোজা
 red,লাল
 region,এলাকা
 reptile,সরীসৃপ
-rest,বিশ্রাম
 rhinoceros,গণ্ডার
 rice,ধান
 rodent,করাল
@@ -200,7 +198,6 @@ sex,লিঙ্গ
 shape,আকৃতি
 shark,হাঙ্গর
 sharp,তীব্র
-shell,খোল
 shiny,চকচকে
 should,উচিত
 simple,সহজ
@@ -209,6 +206,7 @@ slug,স্লাগ্
 smell,গন্ধ
 smooth,মসৃণ
 social,সামাজিক
+soil,মাটি
 solid,কঠিন
 sour,টক
 south,দক্ষিণ
@@ -269,6 +267,7 @@ to hit,আঘাত করার জন্য
 to hold,ধরে রাখা
 to hunt,শিকার করতে
 to know,জানতে
+to live,বাস করতে
 to love,ভালবাসতে
 to mean,মানে
 to model,মডেল
@@ -332,7 +331,6 @@ wheat,গম
 white,সাদা
 wide,প্রশস্ত
 widespread,ব্যাপক
-wing,গরূৎ
 wood,কাঠ
 word,শব্দ
 worm,কীট

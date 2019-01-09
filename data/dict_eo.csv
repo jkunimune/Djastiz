@@ -1,14 +1,13 @@
 about,pri
 across,trans
-adult,plenaĝa
+adult,adolto
 agudo,akra
 ahead,antaŭen
-algae,algoj
-alive,viva
-amazing,mirinda
+alga,algo
+amazing,exstrema
 anemone,anemono
 animal,besto
-ant,ant
+ant,formiko
 apple,pomo
 arm,brako
 art,arto
@@ -21,26 +20,26 @@ below,sube
 between,inter
 big,granda
 birth,naskiĝo
-blue,blua
+blue,blui
 body,korpo
 broad,larĝa
 broken,rompita
-brown,bruna
+brown,bruni
 bug,cimo
 burnt,bruligis
-bustard,Bustard
+bustard,otido
 butterfly,papilio
 buttocks,gutoj
 cactus,kakto
 camel,kamelo
 carp,karpo
 cattail,kato
-certain,iuj
+certain,certi
 chest,kesto
 chunky,frapita
 circular,cirkuli
 city,urbo
-claw,garra
+claw,krifo
 clean,pura
 closed,fermita
 cockroach,blato
@@ -59,11 +58,11 @@ culture,kulturo
 cupped,palisita
 damaged,damaĝita
 dense,densa
-derecha,dekstre
+derecha,dekstra
+descansar,ripozo
 different,malsama
-dirt,malpuraĵo
-earwig,earwig
-east,oriente
+earwig,felflugilo
+east,oriento
 easy,facila
 egg,ovo
 electricity,elektro
@@ -74,7 +73,7 @@ face,vizaĝo
 faith,fido
 familiar,familiara
 far,malproksime
-fast,rapida
+fast,rapidi
 feather,plumo
 fern,filiko
 finger,fingro
@@ -83,43 +82,43 @@ fish,fiŝo
 flea,pulo
 flower,floro
 foamy,ŝaŭmo
-fowl,birdoj
-friendly,amika
+fowl,galino
+friendly,amiki
 fruit,frukto
 full,plena
-fun,amuza
+fun,amuzi
 fungus,fungo
 furniture,mebloj
 giraffe,ĝirafo
 gland,glando
-god,Dio
+god,dio
 good,bona
-grain,akno
+grain,greno
 grape,vinbero
 grass,herbo
-grateful,Dankema
-green,verda
-grey,griza
+grateful,dankema
+green,verdi
+grey,grizi
 ground,tero
 hair,haro
 hand,mano
 head,kapo
-healthy,sana
-hear,aŭskultu
-heavy,peza
+healthy,sani
+hear,aŭskulti
+heavy,pezi
 hippopotamus,hipopotamo
 hole,truo
 home,hejmo
 hot,varma
-idear,pensu
+idear,pensi
 in front,antaŭ
-infinite,senfinaj
+infinite,senfina
 information,informoj
 inside,ene
-jellyfish,meduzoj
-joyful,Ĝoje
+jellyfish,meduzo
+joyful,ĝoja
 kangaroo,kanguruo
-koala,koala
+koala,koalo
 late,malfrue
 layout,aranĝo
 leaf,folio
@@ -132,20 +131,20 @@ long,longa
 low,malalta
 luz,lumo
 machine,maŝino
-made of,farita el
 magical,magia
 mammal,mamulo
 mantis,mantis
 married,edziĝinta
+material,materialo
 metal,metalo
 mixed,miksita
 moral,morala
 more,pli
-mosca,flugi
+mosca,muŝo
 mosquito,moskito
 mountain,monto
 mushroom,fungo
-must,devas
+must,devi
 natural,natura
 nautilus,naŭtilo
 neat,neta
@@ -155,8 +154,8 @@ ocean,oceano
 okay,bone
 old,malnova
 opaque,opaka
-opossum,opossum
-order,ordo
+opossum,didelfo
+ordenar,ordo
 ostrich,struto
 part,parto
 path,vojo
@@ -167,21 +166,20 @@ pig,porko
 plant,planto
 pleasure,plezuro
 point,punkto
-possible,ebla
+possible,ebli
 powder,pulvoro
 pregnant,graveda
-present,ĉeestanta
-proud,fiera
+present,ĉeesti
+proud,fieri
 raccoon,raketon
 ray,radio
 reality,realaĵo
 reason,kialo
 recto,rekte
-red,ruĝa
+red,ruĝi
 region,regiono
 reptile,reptilio
-rest,ripozo
-rhinoceros,Rinocero
+rhinoceros,rinocero
 rice,rizo
 rodent,roedor
 root,radiko
@@ -189,37 +187,37 @@ rotten,putra
 salmon,salmo
 salty,saleta
 scorpion,skorpio
-seahorse,seahorse
+seahorse,hipokampo
 seal,stampo
 season,sezono
-see,vidu
+see,vidi
 seed,semo
-sentence,juĝa decido
+sentence,frazo
 serious,serioza
-sex,sekso
+sex,seksumi
 shape,formo
 shark,ŝarko
 sharp,akra
-shell,ŝelo
-shiny,brila
+shiny,brili
 should,devus
 simple,simpla
 skillful,lerta
-slug,slug
-smell,odoro
+slug,limako
+smell,odori
 smooth,glata
 social,socia
+soil,grundo
 solid,solida
 sour,dolĉa
 south,sude
-soy,soy
+soy,sojfabo
 space,spaco
 specialist,specialisto
 specific,specifa
-spicy,pika
+spicy,spica
 spider,araneo
 stacked,stakita
-starboard,tribordo
+starboard,triborda
 steep,kruta
 stem,tigo
 stick,bastono
@@ -227,66 +225,67 @@ stone,ŝtono
 storm,ŝtormo
 story,rakonto
 string,kordo
-strong,forta
+strong,forti
 structure,strukturo
-sun,sunon
+sun,suno
 surface,surfaco
 sweet,dolĉa
 tangible,palpebla
 tangled,tangita
-tapir,tapir
+tapir,tapiro
 taste,ĝusto
-tenso,streĉas
+tenso,streĉa
 thick,dika
 tick,tiklo
-tired,laca
-to accompany,por akompani
+tired,laci
+to accompany,akompani
 to act,agi
 to anticipate,antaŭvidi
 to believe,kredi
-to bounce,por resalti
-to care,por prizorgi
+to bounce,resalti
+to care,prizorgi
 to choose,elekti
-to continue,por daŭrigi
-to convert,por konverti
+to continue,daŭrigi
+to convert,konverti
 to cook,kuiri
-to correspond,por respondi
+to correspond,korespondi
 to cost,kosti
-to deal,por trakti
+to deal,disdoni
 to deserve,meriti
-to engineer,al inĝeniero
+to engineer,inĝeniero
 to face,alfronti
 to fall,fali
 to fear,timi
 to feel,senti
 to fight,batali
 to fly,flugi
-to function,por funkcii
+to function,funkcii
 to govern,regi
 to grip,kapti
 to help,helpi
-to hit,por bati
+to hit,bati
 to hold,teni
 to hunt,ĉasi
 to know,scii
+to live,vivi
 to love,ami
 to mean,signifi
-to model,por modeli
+to model,modeli
 to move,movi
 to need,bezoni
 to notice,rimarki
 to obey,obei
-to own,por posedi
-to party,al festo
+to own,posedi
+to party,festi
 to pay attention,atenti
 to perceive,percepti
 to plan,plani
-to play,Ludi
-to ponder,por pripensi
-to prosper,por prosperi
+to play,ludi
+to ponder,pripensi
+to prosper,prosperi
 to push,puŝi
 to read,legi
-to recall,por memori
+to recall,memori
 to relate,rilatigi
 to repeat,ripeti
 to ride,rajdi
@@ -297,13 +296,13 @@ to sell,vendi
 to sit,sidi
 to sleep,dormi
 to speak,paroli
-to spin,por ŝpini
-to stand,por stari
-to step,por paŝi
+to spin,ŝpini
+to stand,stari
+to step,paŝi
 to study,studi
-to surprise,por surprizi
+to surprise,surprizi
 to surround,ĉirkaŭi
-to take care,prizorgi
+to take care,zorgi
 to think,pensi
 to touch,tuŝi
 to try,provi
@@ -317,7 +316,7 @@ to worry,maltrankviliĝi
 to write,skribi
 tomato,tomato
 torso,torso
-touch,Tuŝo
+touch,tuŝo
 tree,arbo
 tuna,tinuso
 turned on,ŝaltita
@@ -329,10 +328,9 @@ viscous,viskoza
 wasp,vespero
 whale,baleno
 wheat,tritiko
-white,blanka
+white,blanki
 wide,larĝa
 widespread,disvastigita
-wing,flugilo
 wood,ligno
 word,vorto
 worm,vermo

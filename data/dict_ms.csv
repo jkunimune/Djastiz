@@ -3,8 +3,7 @@ across,merentasi
 adult,dewasa
 agudo,tajam
 ahead,depan
-algae,alga
-alive,hidup
+alga,alga
 amazing,menakjubkan
 anemone,anemone
 animal,haiwan
@@ -60,8 +59,8 @@ cupped,cupped
 damaged,rosak
 dense,padat
 derecha,betul
+descansar,berehat
 different,berbeza
-dirt,kotoran
 earwig,earwig
 east,timur
 easy,mudah
@@ -132,11 +131,11 @@ long,lama
 low,rendah
 luz,cahaya
 machine,mesin
-made of,dibuat dari
 magical,ajaib
 mammal,mamalia
 mantis,mantis
 married,berkahwin
+material,bahan
 metal,logam
 mixed,bercampur
 moral,moral
@@ -156,7 +155,7 @@ okay,baik
 old,tua
 opaque,legap
 opossum,opossum
-order,perintah
+ordenar,perintah
 ostrich,burung unta
 part,bahagian
 path,jalan
@@ -180,7 +179,6 @@ recto,lurus
 red,merah
 region,rantau
 reptile,reptilia
-rest,berehat
 rhinoceros,badak
 rice,beras
 rodent,tikus
@@ -200,7 +198,6 @@ sex,seks
 shape,bentuk
 shark,jerung
 sharp,tajam
-shell,shell
 shiny,berkilat
 should,sepatutnya
 simple,mudah
@@ -209,6 +206,7 @@ slug,slug
 smell,bau
 smooth,licin
 social,sosial
+soil,tanah
 solid,pepejal
 sour,masam
 south,selatan
@@ -269,6 +267,7 @@ to hit,untuk memukul
 to hold,Untuk tahan
 to hunt,untuk memburu
 to know,untuk tahu
+to live,untuk hidup
 to love,untuk mencintai
 to mean,maksudnya
 to model,untuk mencontohi
@@ -332,7 +331,6 @@ wheat,gandum
 white,putih
 wide,lebar
 widespread,meluas
-wing,sayap
 wood,kayu
 word,perkataan
 worm,cacing

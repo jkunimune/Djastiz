@@ -3,8 +3,7 @@ across,across
 adult,adult
 agudo,acute
 ahead,ahead
-algae,algae
-alive,alive
+alga,algae
 amazing,amazing
 anemone,anemone
 animal,animal
@@ -49,7 +48,7 @@ computer,computer
 continent,continent
 control,control
 corn,corn
-counterclockwise,counterclockwise
+counterclockwise,widdershins
 country,country
 crab,crab
 cricket,cricket
@@ -60,8 +59,8 @@ cupped,cupped
 damaged,damaged
 dense,dense
 derecha,right
+descansar,rest
 different,different
-dirt,dirt
 earwig,earwig
 east,east
 easy,easy
@@ -132,11 +131,11 @@ long,long
 low,low
 luz,light
 machine,machine
-made of,made of
 magical,magical
 mammal,mammal
 mantis,mantis
 married,married
+material,material
 metal,metal
 mixed,mixed
 moral,moral
@@ -156,7 +155,7 @@ okay,okay
 old,old
 opaque,opaque
 opossum,opossum
-order,order
+ordenar,order
 ostrich,ostrich
 part,part
 path,path
@@ -180,7 +179,6 @@ recto,straight
 red,red
 region,region
 reptile,reptile
-rest,rest
 rhinoceros,rhinoceros
 rice,rice
 rodent,rodent
@@ -200,7 +198,6 @@ sex,sex
 shape,shape
 shark,shark
 sharp,sharp
-shell,shell
 shiny,shiny
 should,should
 simple,simple
@@ -209,6 +206,7 @@ slug,slug
 smell,smell
 smooth,smooth
 social,social
+soil,soil
 solid,solid
 sour,sour
 south,south
@@ -269,6 +267,7 @@ to hit,to hit
 to hold,to hold
 to hunt,to hunt
 to know,to know
+to live,to live
 to love,to love
 to mean,to mean
 to model,to model
@@ -303,7 +302,7 @@ to step,to step
 to study,to study
 to surprise,to surprise
 to surround,to surround
-to take care,to take care
+to take care,to care
 to think,to think
 to touch,to touch
 to try,to try
@@ -332,7 +331,6 @@ wheat,wheat
 white,white
 wide,wide
 widespread,widespread
-wing,wing
 wood,wood
 word,word
 worm,worm

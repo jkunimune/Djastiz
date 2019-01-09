@@ -3,8 +3,7 @@ across,kọja
 adult,agbalagba
 agudo,didasilẹ
 ahead,niwaju
-algae,ewe
-alive,laaye
+alga,ewe
 amazing,iyanu
 anemone,anemone
 animal,eranko
@@ -60,8 +59,8 @@ cupped,gbin
 damaged,ti bajẹ
 dense,ipon
 derecha,ọtun
+descansar,isinmi
 different,yatọ
-dirt,o dọti
 earwig,earwig
 east,õrùn
 easy,rọrun
@@ -132,11 +131,11 @@ long,gun
 low,kekere
 luz,ina
 machine,ẹrọ
-made of,ti ṣe
 magical,ti idan
 mammal,mammal
 mantis,mantis
 married,iyawo
+material,awọn ohun elo
 metal,irin
 mixed,adalu
 moral,iwa
@@ -156,7 +155,7 @@ okay,dara
 old,atijọ
 opaque,opaque
 opossum,opossum
-order,aṣẹ
+ordenar,aṣẹ
 ostrich,ostrich
 part,apakan
 path,ọna
@@ -180,7 +179,6 @@ recto,ni gígùn
 red,pupa
 region,agbegbe
 reptile,aṣoju
-rest,isinmi
 rhinoceros,rhinoceros
 rice,iresi
 rodent,rodent
@@ -200,7 +198,6 @@ sex,ibalopo
 shape,apẹrẹ
 shark,eja Shaki
 sharp,didasilẹ
-shell,ikarahun
 shiny,danmeremere
 should,yẹ
 simple,rọrun
@@ -209,6 +206,7 @@ slug,slug
 smell,orun
 smooth,dan
 social,awujo
+soil,ile
 solid,lagbara
 sour,ekan
 south,guusu
@@ -269,6 +267,7 @@ to hit,lati lu
 to hold,lati mu
 to hunt,lati sode
 to know,lati mọ
+to live,lati gbe
 to love,lati nifẹ
 to mean,lati tumọ si
 to model,lati ṣe awoṣe
@@ -332,7 +331,6 @@ wheat,alikama
 white,funfun
 wide,jakejado
 widespread,ni ibigbogbo
-wing,apakan
 wood,igi
 word,ọrọ
 worm,alagidi

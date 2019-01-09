@@ -3,8 +3,7 @@ across,عبر
 adult,بالغ
 agudo,حاد
 ahead,المكانية
-algae,الطحالب
-alive,على قيد الحياة
+alga,طحلب
 amazing,رائعة حقا
 anemone,شقائق النعمان
 animal,حيوان
@@ -60,8 +59,8 @@ cupped,المقعر
 damaged,التالفة
 dense,كثيف
 derecha,حق
+descansar,بقية
 different,مختلف
-dirt,التراب
 earwig,حاول التأثير على شخص
 east,الشرق
 easy,سهل
@@ -132,11 +131,11 @@ long,طويل
 low,منخفض
 luz,ضوء
 machine,آلة
-made of,مصنوع من
 magical,سحري
 mammal,الحيوان الثديي
 mantis,فرس النبي
 married,زوجت
+material,مواد
 metal,فلز
 mixed,مختلط
 moral,أخلاقي
@@ -156,7 +155,7 @@ okay,حسنا
 old,قديم
 opaque,مبهمة
 opossum,الأ بوسوم حيوان أمريكي
-order,طلب
+ordenar,نوع
 ostrich,نعامة
 part,جزء
 path,مسار
@@ -180,7 +179,6 @@ recto,مباشرة
 red,أحمر
 region,منطقة
 reptile,زواحف
-rest,راحة
 rhinoceros,وحيد القرن
 rice,أرز
 rodent,قارض
@@ -200,7 +198,6 @@ sex,جنس
 shape,شكل
 shark,قرش
 sharp,حاد
-shell,الصدف
 shiny,لامع
 should,ينبغي
 simple,بسيط
@@ -209,6 +206,7 @@ slug,سبيكة
 smell,رائحة
 smooth,ناعم
 social,اجتماعي
+soil,تربة
 solid,صلب
 sour,حامض
 south,جنوب
@@ -269,6 +267,7 @@ to hit,لتضرب
 to hold,ليمسك
 to hunt,لمطاردة
 to know,لتعرف
+to live,ليعيش
 to love,يحب
 to mean,يعني
 to model,للعرض
@@ -332,7 +331,6 @@ wheat,قمح
 white,أبيض
 wide,واسع
 widespread,واسع الانتشار
-wing,جناح
 wood,خشب
 word,كلمة
 worm,الفيروس المتنقل

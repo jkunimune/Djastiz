@@ -3,8 +3,7 @@ across,ngaphesheya
 adult,omdala
 agudo,bukhali
 ahead,phambili
-algae,algae
-alive,ephila
+alga,alga
 amazing,kumangalisa
 anemone,i-anemone
 animal,lwanyana
@@ -60,8 +59,8 @@ cupped,ngcikiweyo
 damaged,lonakaliswe
 dense,dense
 derecha,kunene
+descansar,kuphumla
 different,hlukile
-dirt,ukungcola
 earwig,earwig
 east,bucala ngasekhohlo
 easy,kulula
@@ -132,11 +131,11 @@ long,elide
 low,ephantsi
 luz,kukhanya
 machine,umatshini
-made of,yenziwe nge
 magical,imilingo
 mammal,i silwanyana
 mantis,mantis
 married,utshatile
+material,izinto
 metal,isinyithi
 mixed,zixutywe
 moral,yokuziphatha
@@ -156,7 +155,7 @@ okay,Kulungile
 old,ubudala
 opaque,opaque
 opossum,opossum
-order,umyalelo
+ordenar,umyalelo
 ostrich,nciniba
 part,nxalenye
 path,indlela
@@ -180,7 +179,6 @@ recto,ngqo
 red,bomvu
 region,mmandla
 reptile,izidumbu
-rest,kuphumla
 rhinoceros,iihhinoceros
 rice,ilayisi
 rodent,i-rodent
@@ -200,7 +198,6 @@ sex,ngesondo
 shape,ukuma
 shark,ukrebe
 sharp,bukhali
-shell,igobolondo
 shiny,kukhanya
 should,fanele
 simple,elula
@@ -209,6 +206,7 @@ slug,slug
 smell,livumba
 smooth,elula
 social,zentlalo
+soil,umhlaba
 solid,ziqinile
 sour,mnandi
 south,mazantsi
@@ -269,6 +267,7 @@ to hit,Ukubetha
 to hold,ukubamba
 to hunt,ukuzingela
 to know,ukwazi
+to live,ukuphila
 to love,ukuthanda
 to mean,ukuthetha ukuba
 to model,u mzekelo
@@ -332,7 +331,6 @@ wheat,ngqolowa
 white,mhlophe
 wide,bubanzi
 widespread,e sasazwe
-wing,iphiko
 wood,ngomthi
 word,igama
 worm,imbungu

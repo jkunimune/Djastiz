@@ -3,8 +3,7 @@ across,sa kabuuan
 adult,matanda
 agudo,matalim
 ahead,maaga
-algae,algae
-alive,buhay
+alga,alga
 amazing,kahanga-hangang
 anemone,anemone
 animal,hayop
@@ -60,8 +59,8 @@ cupped,cupped
 damaged,nasira
 dense,siksik
 derecha,tama
+descansar,pahinga
 different,iba
-dirt,dumi
 earwig,earwig
 east,silangan
 easy,madali
@@ -132,11 +131,11 @@ long,mahaba
 low,mababa
 luz,liwanag
 machine,machine
-made of,gawa sa
 magical,mahiwagang
 mammal,mammal
 mantis,sasamba
 married,kasal
+material,materyal
 metal,metal
 mixed,magkakahalo
 moral,moral
@@ -156,7 +155,7 @@ okay,Sige
 old,matanda
 opaque,hindi kanais-nais
 opossum,opossum
-order,order
+ordenar,order
 ostrich,ostrich
 part,bahagi
 path,landas
@@ -180,7 +179,6 @@ recto,tuwid
 red,pula
 region,rehiyon
 reptile,reptile
-rest,pahinga
 rhinoceros,rhinoceros
 rice,kanin
 rodent,daga
@@ -200,7 +198,6 @@ sex,kasarian
 shape,Hugis
 shark,pating
 sharp,matalim
-shell,shell
 shiny,makintab
 should,dapat
 simple,simple
@@ -209,6 +206,7 @@ slug,slug
 smell,amoy
 smooth,makinis
 social,panlipunan
+soil,lupa
 solid,solid
 sour,maasim
 south,Timog
@@ -269,6 +267,7 @@ to hit,na matamaan
 to hold,hawakan
 to hunt,upang mang-aso
 to know,para malaman
+to live,para mabuhay
 to love,magmahal
 to mean,ibig sabihin
 to model,sa modelo
@@ -332,7 +331,6 @@ wheat,trigo
 white,puti
 wide,malawak
 widespread,kalat
-wing,pakpak
 wood,kahoy
 word,salita
 worm,uod

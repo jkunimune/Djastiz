@@ -3,8 +3,7 @@ across,भर में
 adult,वयस्क
 agudo,तीव्र
 ahead,आगे
-algae,शैवाल
-alive,ज़िंदा
+alga,शैवाल
 amazing,गजब का
 anemone,रत्नज्योति
 animal,जानवर
@@ -60,8 +59,8 @@ cupped,cupped
 damaged,क्षतिग्रस्त
 dense,सघन
 derecha,सही
+descansar,आराम
 different,विभिन्न
-dirt,गंदगी
 earwig,Earwig
 east,पूर्व
 easy,आसान
@@ -132,11 +131,11 @@ long,लंबा
 low,कम
 luz,प्रकाश
 machine,मशीन
-made of,से बना
 magical,जादुई
 mammal,सस्तन प्राणी
 mantis,एक प्रकार का कीड़ा
 married,शादी हो ग
+material,सामग्री
 metal,धातु
 mixed,मिश्रित
 moral,नैतिक
@@ -156,7 +155,7 @@ okay,ठीक है
 old,पुराना
 opaque,न झिल्लड़
 opossum,ओपस्सम
-order,क्रम
+ordenar,तरह
 ostrich,शुतुरमुर्ग
 part,अंश
 path,पथ
@@ -180,7 +179,6 @@ recto,सीधे
 red,लाल
 region,क्षेत्र
 reptile,साँप
-rest,आराम
 rhinoceros,गैंडा
 rice,चावल
 rodent,कृंतक
@@ -200,7 +198,6 @@ sex,लिंग
 shape,आकार
 shark,शार्क
 sharp,तेज़
-shell,खोल
 shiny,चमकदार
 should,चाहिए
 simple,सरल
@@ -209,6 +206,7 @@ slug,काउंटर
 smell,गंध
 smooth,चिकना
 social,सामाजिक
+soil,मिट्टी
 solid,ठोस
 sour,खट्टा
 south,दक्षिण
@@ -269,6 +267,7 @@ to hit,मारना
 to hold,रोके रखना
 to hunt,शिकार करना
 to know,जानना
+to live,जीने के लिए
 to love,प्यार करना
 to mean,का मतलब
 to model,मॉडल के लिए
@@ -332,7 +331,6 @@ wheat,गेहूँ
 white,सफेद
 wide,चौड़ा
 widespread,बड़े पैमाने पर
-wing,विंग
 wood,लकड़ी
 word,शब्द
 worm,कीड़ा

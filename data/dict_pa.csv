@@ -3,8 +3,7 @@ across,ਭਰ ਵਿੱਚ
 adult,ਬਾਲਗ਼
 agudo,ਤਿੱਖ
 ahead,ਅੱਗੇ
-algae,ਐਲਗੀ
-alive,ਜਿੰਦਾ
+alga,algae
 amazing,ਹੈਰਾਨੀਜਨਕ
 anemone,ਅਨੀਮੋਨ
 animal,ਜਾਨਵਰ
@@ -60,8 +59,8 @@ cupped,cupped
 damaged,ਨੁਕਸਾਨ
 dense,ਸੰਘਣਾ
 derecha,ਸੱਜੇ
+descansar,ਆਰਾਮ
 different,ਵੱਖ ਵੱਖ
-dirt,ਮੈਲ
 earwig,ਈਅਰਵਿਗ
 east,ਪੂਰਬ
 easy,ਆਸਾਨ
@@ -132,11 +131,11 @@ long,ਲੰਬੇ
 low,ਘੱਟ
 luz,ਰੋਸ਼ਨੀ
 machine,ਮਸ਼ੀਨ
-made of,ਦਾ ਬਣਿਆ
 magical,ਜਾਦੂਈ
 mammal,ਸਮੱਰਥ
 mantis,ਮੈਂਟਿਸ
 married,ਵਿਆਹੇ ਹੋਏ
+material,ਸਮੱਗਰੀ
 metal,ਮੈਟਲ
 mixed,ਮਿਲਾਇਆ
 moral,ਨੈਤਿਕ
@@ -156,7 +155,7 @@ okay,ਠੀਕ ਹੈ
 old,ਪੁਰਾਣੇ
 opaque,ਅਪਾਰਦਰਸ਼ੀ
 opossum,ਓਸੋਂਸਮ
-order,ਆਰਡਰ
+ordenar,ਆਰਡਰ
 ostrich,ਸ਼ੁਤਰਮੁਰਗ
 part,ਭਾਗ
 path,ਮਾਰਗ
@@ -180,7 +179,6 @@ recto,ਸਿੱਧੀ
 red,ਲਾਲ
 region,ਖੇਤਰ
 reptile,ਸੱਪ
-rest,ਆਰਾਮ
 rhinoceros,ਗੈਂਡੇ
 rice,ਚਾਵਲ
 rodent,ਚੂਹੇ
@@ -200,7 +198,6 @@ sex,ਸੈਕਸ
 shape,ਆਕਾਰ
 shark,ਸ਼ਾਰਕ
 sharp,ਤਿੱਖ
-shell,ਸ਼ੈੱਲ
 shiny,ਚਮਕਦਾਰ
 should,ਚਾਹੀਦਾ ਹੈ
 simple,ਆਸਾਨ
@@ -209,6 +206,7 @@ slug,ਸਲਗ
 smell,ਗੰਧ
 smooth,ਨਿਰਮਲ
 social,ਸਮਾਜਕ
+soil,ਮਿੱਟੀ
 solid,ਠੋਸ
 sour,ਖੱਟਾ
 south,ਦੱਖਣ
@@ -269,6 +267,7 @@ to hit,ਹਿੱਟ ਕਰਨ ਲਈ
 to hold,ਨੂੰ ਰੱਖਣ ਲਈ
 to hunt,ਸ਼ਿਕਾਰ ਕਰਨਾ
 to know,ਨੂੰ ਪਤਾ ਕਰਨ ਲਈ
+to live,ਜੀਣ ਦੇ ਲਈ
 to love,ਪਿਆਰ ਕਰਨਾ
 to mean,ਮਤਲਬ
 to model,ਮਾਡਲ ਤੋਂ
@@ -332,7 +331,6 @@ wheat,ਕਣਕ
 white,ਸਫੈਦ
 wide,ਚੌੜਾ
 widespread,ਵਿਆਪਕ
-wing,ਵਿੰਗ
 wood,ਲੱਕੜ
 word,ਸ਼ਬਦ
 worm,ਕੀੜਾ

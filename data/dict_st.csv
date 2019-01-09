@@ -3,8 +3,7 @@ across,hohle
 adult,e moholo
 agudo,e bohale
 ahead,pele
-algae,algae
-alive,e phela
+alga,alga
 amazing,e makatsang
 anemone,anemone
 animal,phoofolo
@@ -60,8 +59,8 @@ cupped,e koetsoe
 damaged,e senyehile
 dense,e boima
 derecha,ka ho le letona
+descansar,phomola
 different,fapaneng
-dirt,litšila
 earwig,earwig
 east,ka bochabela
 easy,ho bonolo
@@ -132,11 +131,11 @@ long,nako e telele
 low,e tlaase
 luz,leseli
 machine,mochine
-made of,e entsoe ka
 magical,boselamose
 mammal,liphoofolo
 mantis,mantis
 married,lenyalong
+material,boitsebiso
 metal,tšepe
 mixed,tsoakane
 moral,boitšoaro
@@ -156,7 +155,7 @@ okay,Ho lokile
 old,khale
 opaque,opaque
 opossum,opossum
-order,taelo
+ordenar,taelo
 ostrich,lema
 part,karolo
 path,tsela
@@ -180,7 +179,6 @@ recto,ho toba
 red,khubelu
 region,sebaka
 reptile,reptile
-rest,phomola
 rhinoceros,li-rhinino
 rice,raese
 rodent,molota
@@ -200,7 +198,6 @@ sex,thobalano
 shape,sebōpeho
 shark,shaka
 sharp,e bohale
-shell,shell
 shiny,e khanyang
 should,lokela
 simple,e bonolo
@@ -209,6 +206,7 @@ slug,slug
 smell,monko
 smooth,bonolo
 social,sechabeng
+soil,mobu
 solid,e tiile
 sour,bolila
 south,ka boroa
@@ -269,6 +267,7 @@ to hit,ho otla
 to hold,ho tšoara
 to hunt,ho tsoma
 to know,ho tseba
+to live,ho phela
 to love,ho rata
 to mean,ho bolela
 to model,ho etsa mohlala
@@ -332,7 +331,6 @@ wheat,koro
 white,tšoeu
 wide,ka bophara
 widespread,e atile
-wing,lepheo
 wood,lehong
 word,lentsoe
 worm,sebōkō

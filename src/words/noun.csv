@@ -60,9 +60,7 @@ gland; organ; node {GENITIVE:glandular; nodal; bodily; internal},,cmn <腺> [ɕj
 vagina; loin {GENITIVE:vaginal},,ben <যোনি> [d͡zon̪i],son
 penis {GENITIVE:penile},,OPPOSITE OF vagina,hen
 chest; breast; boob; nipple {GENITIVE:mammillary},,spa <pecho> [ˈpet͡ʃo],pef
-claw; quill; sharp appendage {GENITIVE:ungual; sharp},,epo <garra> [ˈɡarra],kal
-wing {GENITIVE:alary; avian},,cmn <翅膀> [ʈ͡ʂʰɨ˥˩pɑŋ˧˩˧],cipan
-shell {GENITIVE:conchylaceous},,hin <खोल> [kʰol],kol
+claw; quill; fingernail; {GENITIVE:ungual; sharp},,epo <garra> [ˈɡarra],kal
 scale {GENITIVE:squamous; scaly},*escama,mar <स्केल> [skel],sel
 feather {GENITIVE:plumal; feathery; feathered},,msa <bulu> [bulu],pul
 egg {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],tan
@@ -157,7 +155,7 @@ jellyfish,,spa <Medusa> [meˈðusa],metuh
 mushroom; toadstool,,jav <jamur> [ɟamur],kjamul
 bacterium,,hin <जीवाणु> [d͡ʒiːvaːɳu],ciwan
 virus,,yor <kokoro> [kokoro],kokol
-algae; moss,,cmn <藻类> [t͡sɑʊ̯˧˩˧leɪ̯˥˩],sawleh
+algae; moss,*alga,cmn <藻类> [t͡sɑʊ̯˧˩˧leɪ̯˥˩],sawleh
 fern,,eng <fern> [fern],fen
 tree,,hin <पेड़> [peɽ],pel
 cactus,,,
