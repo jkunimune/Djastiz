@@ -1,6 +1,7 @@
 about,बद्दल
 across,ओलांडून
 adult,प्रौढ
+agudo,तीक्ष्ण
 ahead,पुढे
 algae,एकपेशीय वनस्पती
 alive,जिवंत
@@ -8,7 +9,6 @@ amazing,आश्चर्यकारक
 anemone,एनीमोन
 animal,प्राणी
 ant,मुरुम
-antenna,ऍन्टीना
 apple,सफरचंद
 arm,हात
 art,कला
@@ -29,30 +29,26 @@ brown,तपकिरी
 bug,किडा
 burnt,बर्न
 bustard,बस्टर्ड
-butt,बट
 butterfly,फुलपाखरू
 buttocks,नितंब
+cactus,कॅक्टस
 camel,उंट
 carp,कार्प
 cattail,कॅटेल
 certain,निश्चित
 chest,छाती
-chevrotain,शेवरोट
 chunky,गोंधळ
 circular,परिपत्रक
 city,शहर
 claw,पंख
 clean,स्वच्छ
 closed,बंद
-cockoroach,कॉकोरोक
 cockroach,कॉकक्रोच
 colour,रंग
-coloured,रंगीत
 computer,संगणक
 continent,महाद्वीप
 control,नियंत्रण
 corn,कॉर्न
-cost,किंमत
 counterclockwise,घड्याळाच्या विरुद्ध
 country,देश
 crab,क्रॅब
@@ -63,6 +59,7 @@ culture,संस्कृती
 cupped,कपाट
 damaged,नुकसान
 dense,घनदाट
+derecha,बरोबर
 different,भिन्न
 dirt,घाण
 earwig,इरविग
@@ -70,6 +67,8 @@ east,पूर्व
 easy,सोपे
 egg,अंडी
 electricity,वीज
+elephant,हत्ती
+escama,फ्लेक
 excited,उत्साहित
 face,चेहरा
 faith,विश्वास
@@ -77,16 +76,13 @@ familiar,परिचित
 far,दूर
 fast,वेगवान
 feather,पंख
-feel,अनुभव
 fern,फर्न
 finger,बोट
 fire,आग
 fish,मासे
 flea,flea
 flower,फूल
-fly,उडता
 foamy,फॉमी
-focus,लक्ष केंद्रित करा
 fowl,पक्षी
 friendly,अनुकूल
 fruit,फळ
@@ -115,6 +111,7 @@ hippopotamus,हिप्पोपोटामस
 hole,छिद्र
 home,घर
 hot,गरम
+idear,विचार करा
 in front,समोर
 infinite,अनंत
 information,माहिती
@@ -127,15 +124,13 @@ late,उशीरा
 layout,मांडणी
 leaf,पान
 leg,पाय
-letter,पत्र
-light,प्रकाश
+letra,पत्र
 likely,शक्यतो
 liquid,तरल
 lizard,छिद्र
-locked,लॉक केलेले
 long,लांब
 low,कमी
-low-pitched,लो-टच
+luz,प्रकाश
 machine,मशीन
 made of,पासून बनलेले
 magical,जादुई
@@ -146,6 +141,7 @@ metal,धातू
 mixed,मिश्रित
 moral,नैतिक
 more,अधिक
+mosca,उडता
 mosquito,मच्छर
 mountain,डोंगर
 mushroom,मशरूम
@@ -156,8 +152,8 @@ neat,व्यवस्थित
 network,नेटवर्क
 notion,कल्पना
 ocean,महासागर
+okay,ठीक आहे
 old,जुन्या
-on,चालू
 opaque,अपारदर्शक
 opossum,opossum
 order,ऑर्डर
@@ -180,21 +176,19 @@ raccoon,Raccoon
 ray,किरण
 reality,वास्तविकता
 reason,कारण
+recto,सरळ
 red,लाल
 region,क्षेत्र
 reptile,सपाट
 rest,उर्वरित
 rhinoceros,rhinoceros
 rice,तांदूळ
-right,बरोबर
 rodent,उंदीर
 root,मूळ
 rotten,सळसळलेला
 salmon,सॅल्मन
 salty,खारटपणा
-scale,स्केल
 scorpion,विंचू
-sea,समुद्र
 seahorse,seahorse
 seal,शिक्का
 season,हंगाम
@@ -204,13 +198,11 @@ sentence,वाक्य
 serious,गंभीर
 sex,लिंग
 shape,आकार
-shaped,आकार
 shark,शार्क
 sharp,तीक्ष्ण
 shell,शेल
 shiny,चमकदार
 should,पाहिजे
-shrill,घसा
 simple,सोपे
 skillful,कुशल
 slug,घासणे
@@ -234,32 +226,25 @@ stick,चिकट
 stone,दगड
 storm,वादळ
 story,कथा
-straight,सरळ
 string,स्ट्रिंग
 strong,मजबूत
 structure,रचना
 sun,सूर्य
-sure,निश्चित
 surface,पृष्ठभाग
 sweet,गोड
-swine,स्वाइन
 tangible,मूर्त
 tangled,गोंधळलेला
 tapir,टॅपिर
 taste,चव
-tense,ताण
-tentacle,तंबू
+tenso,ताण
 thick,जाड
 tick,टिक
 tired,थकल्यासारखे
-to abandon,सोडून देणे
 to accompany,सोबत
 to act,क्रुती करणे
 to anticipate,अंदाज बांधणे
-to apply,लागू करण्यासाठी
 to believe,विश्वास ठेवणे
 to bounce,उंचावणे
-to break deal,करार खंडित करणे
 to care,काळजी करणे
 to choose,निवडण्यासाठी
 to continue,चालू ठेवा
@@ -270,15 +255,10 @@ to cost,खर्च करणे
 to deal,सामना करणे
 to deserve,पात्र असणे
 to engineer,अभियंता
-to entrepreneur,उद्योजकांना
-to entrust,सोपविणे
-to excuse,क्षमा करणे
-to experience,अनुभव करणे
 to face,तोंड द्यायला
 to fall,पडणे
 to fear,घाबरणे
 to feel,अनुभवण्यासाठी
-to feel pleasure,आनंद अनुभवणे
 to fight,लढण्यासाठी
 to fly,उडणे
 to function,कार्य करण्यासाठी
@@ -289,7 +269,6 @@ to hit,मारणे
 to hold,धरणे
 to hunt,शिकार करणे
 to know,माहित असणे
-to lead-to,आघाडी करण्यासाठी
 to love,प्रेम करा
 to mean,चा अर्थ
 to model,मॉडेल करण्यासाठी
@@ -315,20 +294,17 @@ to roll,गुंडाळणे
 to rub,घासणे
 to say,सांगणे
 to sell,विक्री
-to set up,सेट करण्यासाठी
 to sit,बसणे
 to sleep,झोप
 to speak,बोलणे
 to spin,फिरवणे
 to stand,उभे करणे
 to step,पाऊल उचलणे
-to strike deal,करार करणे
 to study,अभ्यास
 to surprise,आश्चर्यचकित करणे
 to surround,सभोवती
 to take care,काळजी घेणे
 to think,विचार करणे
-to think of,विचार करणे
 to touch,स्पर्श करणे
 to try,प्रयत्न
 to understand,समजून घेणे

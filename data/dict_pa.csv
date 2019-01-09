@@ -1,6 +1,7 @@
 about,ਬਾਰੇ
 across,ਭਰ ਵਿੱਚ
 adult,ਬਾਲਗ਼
+agudo,ਤਿੱਖ
 ahead,ਅੱਗੇ
 algae,ਐਲਗੀ
 alive,ਜਿੰਦਾ
@@ -8,7 +9,6 @@ amazing,ਹੈਰਾਨੀਜਨਕ
 anemone,ਅਨੀਮੋਨ
 animal,ਜਾਨਵਰ
 ant,ਕੀੜੀ
-antenna,ਐਂਟੀਨਾ
 apple,ਸੇਬ
 arm,ਬਾਂਹ
 art,ਕਲਾ
@@ -29,30 +29,26 @@ brown,ਭੂਰਾ
 bug,ਬੱਗ
 burnt,ਸਾੜ ਦਿੱਤਾ
 bustard,ਬਰੱਸਟਰ
-butt,ਬੱਟ
 butterfly,ਬਟਰਫਲਾਈ
 buttocks,ਨੱਟੜ
+cactus,ਕੈਪਟਸ
 camel,ਊਠ
 carp,ਕਾਰਪ
 cattail,cattail
 certain,ਕੁਝ ਖਾਸ
 chest,ਛਾਤੀ
-chevrotain,ਚਾਇਵਰੋਟਾਈਨ
 chunky,ਠੰਡੇ
 circular,ਸਰਕੂਲਰ
 city,ਸ਼ਹਿਰ
 claw,ਨੱਕਾਸ਼ੀ
 clean,ਸਾਫ਼
 closed,ਬੰਦ ਹੋ ਗਿਆ
-cockoroach,ਕੋਕੋਰੋਕ
 cockroach,ਕਾਕਰੋਚ
 colour,ਰੰਗ
-coloured,ਰੰਗਦਾਰ
 computer,ਕੰਪਿਊਟਰ
 continent,ਮਹਾਂਦੀਪ
 control,ਨਿਯੰਤਰਣ
 corn,ਮਕਈ
-cost,ਕੀਮਤ
 counterclockwise,ਖੱਬੇ ਦਾਅ ਵੱਲ
 country,ਦੇਸ਼
 crab,ਕੇਕੜਾ
@@ -63,6 +59,7 @@ culture,ਸਭਿਆਚਾਰ
 cupped,cupped
 damaged,ਨੁਕਸਾਨ
 dense,ਸੰਘਣਾ
+derecha,ਸੱਜੇ
 different,ਵੱਖ ਵੱਖ
 dirt,ਮੈਲ
 earwig,ਈਅਰਵਿਗ
@@ -70,6 +67,8 @@ east,ਪੂਰਬ
 easy,ਆਸਾਨ
 egg,ਅੰਡੇ
 electricity,ਬਿਜਲੀ
+elephant,ਹਾਥੀ
+escama,ਆਟਾ
 excited,ਉਤਸ਼ਾਹਿਤ
 face,ਚਿਹਰਾ
 faith,ਵਿਸ਼ਵਾਸ
@@ -77,16 +76,13 @@ familiar,ਜਾਣੂ
 far,ਦੂਰ
 fast,ਤੇਜ਼
 feather,ਖੰਭ
-feel,ਮਹਿਸੂਸ ਕਰੋ
 fern,ਫਰਨ
 finger,ਉਂਗਲੀ
 fire,ਅੱਗ
 fish,ਮੱਛੀ
 flea,ਪਿੱਤਲ
 flower,ਫੁੱਲ
-fly,ਉੱਡੋ
 foamy,ਫੋਮੇਨ
-focus,ਫੋਕਸ
 fowl,ਮੱਛੀ
 friendly,ਦੋਸਤਾਨਾ
 fruit,ਫਲ
@@ -115,6 +111,7 @@ hippopotamus,ਨਛਲੀ ਪਾਲਣ
 hole,ਮੋਰੀ
 home,ਘਰ
 hot,ਗਰਮ
+idear,ਸੋਚੋ
 in front,ਅੱਗੇ
 infinite,ਬੇਅੰਤ
 information,ਜਾਣਕਾਰੀ
@@ -127,15 +124,13 @@ late,ਦੇਰ ਨਾਲ
 layout,ਖਾਕਾ
 leaf,ਪੱਤਾ
 leg,ਲੱਤ
-letter,ਪੱਤਰ
-light,ਰੋਸ਼ਨੀ
+letra,ਪੱਤਰ
 likely,ਸੰਭਾਵਨਾ
 liquid,ਤਰਲ
 lizard,ਕਿਰਲੀ
-locked,ਬੰਦ
 long,ਲੰਬੇ
 low,ਘੱਟ
-low-pitched,ਘੱਟ ਖੋਪੜੀ
+luz,ਰੋਸ਼ਨੀ
 machine,ਮਸ਼ੀਨ
 made of,ਦਾ ਬਣਿਆ
 magical,ਜਾਦੂਈ
@@ -146,6 +141,7 @@ metal,ਮੈਟਲ
 mixed,ਮਿਲਾਇਆ
 moral,ਨੈਤਿਕ
 more,ਹੋਰ
+mosca,ਉੱਡੋ
 mosquito,ਮੱਛਰ
 mountain,ਪਹਾੜ
 mushroom,ਖੁੰਭ
@@ -156,8 +152,8 @@ neat,ਸਾਫ਼
 network,ਨੈੱਟਵਰਕ
 notion,ਵਿਚਾਰ
 ocean,ਸਮੁੰਦਰ
+okay,ਠੀਕ ਹੈ
 old,ਪੁਰਾਣੇ
-on,ਤੇ
 opaque,ਅਪਾਰਦਰਸ਼ੀ
 opossum,ਓਸੋਂਸਮ
 order,ਆਰਡਰ
@@ -180,21 +176,19 @@ raccoon,ਰਕੋਨ
 ray,ਰੇ
 reality,ਅਸਲੀਅਤ
 reason,ਕਾਰਨ
+recto,ਸਿੱਧੀ
 red,ਲਾਲ
 region,ਖੇਤਰ
 reptile,ਸੱਪ
 rest,ਆਰਾਮ
 rhinoceros,ਗੈਂਡੇ
 rice,ਚਾਵਲ
-right,ਸੱਜੇ
 rodent,ਚੂਹੇ
 root,ਰੂਟ
 rotten,ਸੁੱਤਾ ਹੋਇਆ
 salmon,ਸਾਮਨ ਮੱਛੀ
 salty,ਖਾਰੇ
-scale,ਸਕੇਲ
 scorpion,ਬਿੱਛੂ
-sea,ਸਮੁੰਦਰ
 seahorse,ਸਮੁੰਦਰੀ ਕੰਢੇ
 seal,ਸੀਲ
 season,ਸੀਜ਼ਨ
@@ -204,13 +198,11 @@ sentence,ਸਜ਼ਾ
 serious,ਗੰਭੀਰ
 sex,ਸੈਕਸ
 shape,ਆਕਾਰ
-shaped,ਆਕਾਰ
 shark,ਸ਼ਾਰਕ
 sharp,ਤਿੱਖ
 shell,ਸ਼ੈੱਲ
 shiny,ਚਮਕਦਾਰ
 should,ਚਾਹੀਦਾ ਹੈ
-shrill,ਹੌਲੀ
 simple,ਆਸਾਨ
 skillful,ਕੁਸ਼ਲ
 slug,ਸਲਗ
@@ -234,32 +226,25 @@ stick,ਸੋਟੀ
 stone,ਪੱਥਰ
 storm,ਤੂਫਾਨ
 story,ਕਹਾਣੀ
-straight,ਸਿੱਧਾ
 string,ਸਤਰ
 strong,ਮਜ਼ਬੂਤ
 structure,ਬਣਤਰ
 sun,ਸੂਰਜ
-sure,ਯਕੀਨਨ
 surface,ਸਤਹ
 sweet,ਮਿੱਠੇ
-swine,ਸਵਾਈਨ
 tangible,ਠੋਸ
 tangled,ਗੰਢ
 tapir,ਟੇਪਿਰ
 taste,ਸੁਆਦ
-tense,ਤਣਾਅ
-tentacle,ਤੰਬੂ
+tenso,ਤਣਾਅ
 thick,ਮੋਟਾ
 tick,ਟਿਕ ਜਾਓ
 tired,ਥੱਕੇ ਹੋਏ
-to abandon,ਤਿਆਗਣਾ
 to accompany,ਨਾਲ ਜਾਣ ਲਈ
 to act,ਕਰਨਾ
 to anticipate,ਅੰਦਾਜ਼ਾ ਲਗਾਉਣ ਲਈ
-to apply,ਨੂੰ ਲਾਗੂ ਕਰਨ ਲਈ
 to believe,ਵਿਸ਼ਵਾਸ ਕਰਨ ਲਈ
 to bounce,ਉਛਾਲਣ ਲਈ
-to break deal,ਸੌਦੇ ਨੂੰ ਤੋੜਨ ਲਈ
 to care,ਧਿਆਨ ਰੱਖਣਾ
 to choose,ਦੀ ਚੋਣ ਕਰਨ ਲਈ
 to continue,ਚਾਲੂ
@@ -270,15 +255,10 @@ to cost,ਲਾਗਤ ਨੂੰ
 to deal,ਸਾਮਣਾ ਕਰਨਾ
 to deserve,ਹੱਕਦਾਰ
 to engineer,ਇੰਜੀਨੀਅਰ ਨੂੰ
-to entrepreneur,ਉਦਯੋਗਪਤੀ ਲਈ
-to entrust,ਸੌਂਪਣਾ
-to excuse,ਬਹਾਨਾ ਕਰਨ ਲਈ
-to experience,ਅਨੁਭਵ ਕਰਨ ਲਈ
 to face,ਦਾ ਸਾਹਮਣਾ ਕਰਨ ਲਈ
 to fall,ਡਿਗਣਾ
 to fear,ਡਰਨਾ
 to feel,ਮਹਿਸੂਸ ਕਰਨ ਲਈ
-to feel pleasure,ਖੁਸ਼ੀ ਮਹਿਸੂਸ ਕਰਨ ਲਈ
 to fight,ਲੜਨ ਲਈ
 to fly,ਉੱਡਣ ਲਈ
 to function,ਕੰਮ ਕਰਨ ਲਈ
@@ -289,7 +269,6 @@ to hit,ਹਿੱਟ ਕਰਨ ਲਈ
 to hold,ਨੂੰ ਰੱਖਣ ਲਈ
 to hunt,ਸ਼ਿਕਾਰ ਕਰਨਾ
 to know,ਨੂੰ ਪਤਾ ਕਰਨ ਲਈ
-to lead-to,ਦੀ ਅਗਵਾਈ ਕਰਨ ਲਈ
 to love,ਪਿਆਰ ਕਰਨਾ
 to mean,ਮਤਲਬ
 to model,ਮਾਡਲ ਤੋਂ
@@ -315,20 +294,17 @@ to roll,ਰੋਲ ਕਰਨ ਲਈ
 to rub,ਖੋਦਣ ਲਈ
 to say,ਕਹਿਣ ਲਈ
 to sell,ਵੇਚਣ ਦੇ ਲਈ
-to set up,ਸਥਾਪਤ ਕਰਨ ਲਈ
 to sit,ਬੈਠਣ ਲਈ
 to sleep,ਸੌਂਣ ਲਈ
 to speak,ਬੋਲਣ ਲਈ
 to spin,ਸਪਿਨ ਕਰਨ ਲਈ
 to stand,ਖੜੇ ਹੋਣਾ
 to step,ਕਦਮ
-to strike deal,ਸੌਦੇ
 to study,ਅਧਿਐਨ ਕਰਨ ਲਈ
 to surprise,ਹੈਰਾਨ ਕਰਨ ਲਈ
 to surround,ਨੂੰ ਘੇਰਨ ਲਈ
 to take care,ਧਿਆਨ ਰੱਖਣ ਲਈ
 to think,ਸੋਚਣ ਲਈ
-to think of,ਸੋਚਣ ਲਈ
 to touch,ਛੋਹਣ ਲਈ
 to try,ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ
 to understand,ਨੂੰ ਸਮਝਣ ਲਈ

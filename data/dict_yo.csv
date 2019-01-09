@@ -1,6 +1,7 @@
 about,nipa
 across,kọja
 adult,agbalagba
+agudo,didasilẹ
 ahead,niwaju
 algae,ewe
 alive,laaye
@@ -8,7 +9,6 @@ amazing,iyanu
 anemone,anemone
 animal,eranko
 ant,kokoro
-antenna,eriali
 apple,Apu
 arm,apa
 art,aworan
@@ -29,30 +29,26 @@ brown,brown
 bug,kokoro
 burnt,sisun
 bustard,bustard
-butt,apọju
 butterfly,labalaba
 buttocks,buttocks
+cactus,cactus
 camel,rakunmi
 carp,carp
 cattail,cattail
 certain,diẹ ninu awọn
 chest,àyà
-chevrotain,chevrotain
 chunky,chunky
 circular,ipin
 city,ilu
 claw,claw
 clean,o mọ
 closed,pipade
-cockoroach,akọpọ
 cockroach,akọọlẹ
 colour,awọ
-coloured,awọ
 computer,kọmputa
 continent,continent
 control,iṣakoso
 corn,agbado
-cost,iye owo
 counterclockwise,counterclockwise
 country,orilẹ-ede
 crab,akan
@@ -63,6 +59,7 @@ culture,asa
 cupped,gbin
 damaged,ti bajẹ
 dense,ipon
+derecha,ọtun
 different,yatọ
 dirt,o dọti
 earwig,earwig
@@ -70,6 +67,8 @@ east,õrùn
 easy,rọrun
 egg,ẹyin
 electricity,ina
+elephant,erin
+escama,flake
 excited,yiya
 face,oju
 faith,igbagbọ
@@ -77,16 +76,13 @@ familiar,faramọ
 far,jina
 fast,yara
 feather,iye
-feel,lero
 fern,fern
 finger,ika
 fire,ina
 fish,eja
 flea,eegbọn
 flower,Flower
-fly,fly
 foamy,foamy
-focus,idojukọ
 fowl,ẹiyẹ
 friendly,ore
 fruit,eso
@@ -115,6 +111,7 @@ hippopotamus,hippopotamus
 hole,iho
 home,ile
 hot,gbona
+idear,ro
 in front,ni iwaju
 infinite,ailopin
 information,alaye
@@ -127,15 +124,13 @@ late,pẹ
 layout,Ifilelẹ
 leaf,bunkun
 leg,ẹsẹ
-letter,lẹta ti o wa
-light,ina
+letra,lẹta ti o wa
 likely,seese
 liquid,omi
 lizard,lizard
-locked,tii pa
 long,gun
 low,kekere
-low-pitched,ile-kekere
+luz,ina
 machine,ẹrọ
 made of,ti ṣe
 magical,ti idan
@@ -146,6 +141,7 @@ metal,irin
 mixed,adalu
 moral,iwa
 more,diẹ ẹ sii
+mosca,fly
 mosquito,efon
 mountain,oke
 mushroom,Osun
@@ -156,8 +152,8 @@ neat,ọfọ
 network,nẹtiwọki
 notion,iro
 ocean,omi okun
+okay,dara
 old,atijọ
-on,lori
 opaque,opaque
 opossum,opossum
 order,aṣẹ
@@ -180,21 +176,19 @@ raccoon,raccoon
 ray,igun
 reality,otito
 reason,idi
+recto,ni gígùn
 red,pupa
 region,agbegbe
 reptile,aṣoju
 rest,isinmi
 rhinoceros,rhinoceros
 rice,iresi
-right,ọtun
 rodent,rodent
 root,gbongbo
 rotten,rotten
 salmon,eja salumoni
 salty,salty
-scale,ipele
 scorpion,ilọ-ara
-sea,omi okun
 seahorse,seahorse
 seal,Igbẹhin
 season,akoko
@@ -204,13 +198,11 @@ sentence,gbolohun
 serious,pataki
 sex,ibalopo
 shape,apẹrẹ
-shaped,apẹrẹ
 shark,eja Shaki
 sharp,didasilẹ
 shell,ikarahun
 shiny,danmeremere
 should,yẹ
-shrill,Ija
 simple,rọrun
 skillful,ọlọgbọn
 slug,slug
@@ -234,32 +226,25 @@ stick,ọpá
 stone,okuta
 storm,iji
 story,itan
-straight,Taara
 string,okun
 strong,lagbara
 structure,itumọ
 sun,oorun
-sure,daju
 surface,dada
 sweet,dun
-swine,ẹlẹdẹ
 tangible,ojulowo
 tangled,tangled
 tapir,tẹ ni kia kia
 taste,ohun itọwo
-tense,tense
-tentacle,Pọnkoti
+tenso,tense
 thick,nipọn
 tick,ami si
 tired,bani o
-to abandon,lati fi silẹ
 to accompany,lati rin
 to act,lati ṣe
 to anticipate,lati fokansi
-to apply,lati lo
 to believe,Láti gbàgbọ
 to bounce,lati agbesoke
-to break deal,lati ya adehun
 to care,lati bikita
 to choose,lati yan
 to continue,lati tesiwaju
@@ -270,15 +255,10 @@ to cost,lati ya
 to deal,lati ṣe abojuto
 to deserve,lati yẹ
 to engineer,si onise
-to entrepreneur,si iṣowo
-to entrust,lati gbekele
-to excuse,fun ẹri
-to experience,lati ni iriri
 to face,lati dojuko
 to fall,lati ṣubu
 to fear,lati bẹru
 to feel,ni imolara
-to feel pleasure,lati lero idunnu
 to fight,lati ja
 to fly,lati fo
 to function,lati sisẹ
@@ -289,7 +269,6 @@ to hit,lati lu
 to hold,lati mu
 to hunt,lati sode
 to know,lati mọ
-to lead-to,lati ṣakoso si
 to love,lati nifẹ
 to mean,lati tumọ si
 to model,lati ṣe awoṣe
@@ -315,20 +294,17 @@ to roll,lati yipo
 to rub,lati bibẹrẹ
 to say,lati sọ
 to sell,lati ta
-to set up,lati ṣeto
 to sit,lati joko
 to sleep,lati sun
 to speak,lati sọrọ
 to spin,lati ṣe iyipo
 to stand,lati duro
 to step,lati ṣe igbesẹ
-to strike deal,lati lu ijamba
 to study,lati ṣe iwadi
 to surprise,lati ṣe iyanu
 to surround,lati yika
 to take care,lati tọju
 to think,lati ro
-to think of,lati ronu ti
 to touch,lati fi ọwọ kan
 to try,lati gbiyanju
 to understand,lati ni oye

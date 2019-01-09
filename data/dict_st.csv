@@ -1,6 +1,7 @@
 about,hoo e ka bang
 across,hohle
 adult,e moholo
+agudo,e bohale
 ahead,pele
 algae,algae
 alive,e phela
@@ -8,7 +9,6 @@ amazing,e makatsang
 anemone,anemone
 animal,phoofolo
 ant,bohloa
-antenna,antenna
 apple,apole
 arm,letsoho
 art,bonono
@@ -29,30 +29,26 @@ brown,e sootho
 bug,bug
 burnt,licheso
 bustard,ho leba
-butt,butt
 butterfly,butterfly
 buttocks,marotholi
+cactus,cactus
 camel,kamele
 carp,carp
 cattail,ts&#39;ebetso
 certain,tse itseng
 chest,sefuba
-chevrotain,chevrotain
 chunky,ho fokotseha
 circular,selikalikoe
 city,motse
 claw,claw
 clean,hloekile
 closed,e koetsoe
-cockoroach,ho phomola
 cockroach,mokotla
 colour,&#39;mala
-coloured,mebala
 computer,khomphuta
 continent,k&#39;honthinente
 control,ho laola
 corn,poone
-cost,litšenyehelo
 counterclockwise,ho bapala ka mahlakore
 country,naha
 crab,lekhala
@@ -63,6 +59,7 @@ culture,setso
 cupped,e koetsoe
 damaged,e senyehile
 dense,e boima
+derecha,ka ho le letona
 different,fapaneng
 dirt,litšila
 earwig,earwig
@@ -70,6 +67,8 @@ east,ka bochabela
 easy,ho bonolo
 egg,lehe
 electricity,motlakase
+elephant,tlou
+escama,flake
 excited,thabile
 face,sefahleho
 faith,tumelo
@@ -77,16 +76,13 @@ familiar,tloaelehileng
 far,hole
 fast,ka potlako
 feather,masiba
-feel,ikutloa
 fern,fern
 finger,monoana
 fire,mollo
 fish,tlhapi
 flea,letlalo
 flower,lipalesa
-fly,fofa
 foamy,foamy
-focus,tsepamisa maikutlo
 fowl,nonyana
 friendly,botsoalle
 fruit,litholoana
@@ -115,6 +111,7 @@ hippopotamus,holo
 hole,hole
 home,lapeng
 hot,chesang
+idear,nahana
 in front,ka pele
 infinite,ho sa feleng
 information,tlhahisoleseding
@@ -127,15 +124,13 @@ late,morao
 layout,mohaho
 leaf,lekhasi
 leg,leoto
-letter,lengolo
-light,leseli
+letra,lengolo
 likely,mohlomong
 liquid,metsi
 lizard,lizard
-locked,e koetsoe
 long,nako e telele
 low,e tlaase
-low-pitched,e fokolang
+luz,leseli
 machine,mochine
 made of,e entsoe ka
 magical,boselamose
@@ -146,6 +141,7 @@ metal,tšepe
 mixed,tsoakane
 moral,boitšoaro
 more,Hape
+mosca,fofa
 mosquito,monoang
 mountain,thaba
 mushroom,mushroom
@@ -156,8 +152,8 @@ neat,e ntle
 network,marang-rang
 notion,maikutlo
 ocean,leoatle
+okay,Ho lokile
 old,khale
-on,ho ea pele
 opaque,opaque
 opossum,opossum
 order,taelo
@@ -180,21 +176,19 @@ raccoon,raccoon
 ray,ray
 reality,&#39;nete
 reason,lebaka
+recto,ho toba
 red,khubelu
 region,sebaka
 reptile,reptile
 rest,phomola
 rhinoceros,li-rhinino
 rice,raese
-right,ka ho le letona
 rodent,molota
 root,motso
 rotten,e bolile
 salmon,salemone
 salty,letsoai
-scale,tekanyo
 scorpion,scorpion
-sea,leoatle
 seahorse,seahorse
 seal,tiiso
 season,nako
@@ -204,13 +198,11 @@ sentence,polelo
 serious,e tebileng
 sex,thobalano
 shape,sebōpeho
-shaped,e bōpehileng
 shark,shaka
 sharp,e bohale
 shell,shell
 shiny,e khanyang
 should,lokela
-shrill,ho phatloha
 simple,e bonolo
 skillful,tsebo
 slug,slug
@@ -234,32 +226,25 @@ stick,khomarela
 stone,lejoe
 storm,sefefo
 story,pale
-straight,Setereiti
 string,khoele
 strong,matla
 structure,mohaho
 sun,letsatsi
-sure,nete
 surface,holim&#39;a metsi
 sweet,monate
-swine,likolobe
 tangible,e totobetseng
 tangled,tangled
 tapir,tapir
 taste,tatso
-tense,e tiile
-tentacle,litente
+tenso,e tiile
 thick,e teteaneng
 tick,tšoaea
 tired,o khathetse
-to abandon,ho tlohela
 to accompany,ho tsamaea le bona
 to act,ho nka khato
 to anticipate,ho lebella
-to apply,ho kenya kopo
 to believe,ho lumela
 to bounce,ho fokotsa
-to break deal,ho senya mosebetsi
 to care,ho hlokomela
 to choose,ho khetha
 to continue,ho tsoela pele
@@ -270,15 +255,10 @@ to cost,ho lefella
 to deal,ho sebetsana
 to deserve,ho tšoanela
 to engineer,ho etsa moenjiniere
-to entrepreneur,ho mohoebi
-to entrust,ho ithaopela
-to excuse,ho ikemela
-to experience,ho ba le phihlelo
 to face,ho tobana le
 to fall,ho oa
 to fear,ho tšoha
 to feel,ho ikutloa
-to feel pleasure,ho thaba
 to fight,ho loana
 to fly,ho fofa
 to function,ho sebetsa
@@ -289,7 +269,6 @@ to hit,ho otla
 to hold,ho tšoara
 to hunt,ho tsoma
 to know,ho tseba
-to lead-to,ho etella pele
 to love,ho rata
 to mean,ho bolela
 to model,ho etsa mohlala
@@ -315,20 +294,17 @@ to roll,ho pata
 to rub,ho itlotsa
 to say,ho re
 to sell,ho rekisa
-to set up,ho theha
 to sit,ho lula
 to sleep,ho robala
 to speak,ho bua
 to spin,ho otloloha
 to stand,ho ema
 to step,ho tsamaea
-to strike deal,ho otla tšebetso
 to study,ho ithuta
 to surprise,ho makala
 to surround,ho potoloha
 to take care,ho hlokomela
 to think,ho nahana
-to think of,ho nahana ka
 to touch,ho ama
 to try,ho leka
 to understand,ho utloisisa

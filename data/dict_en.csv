@@ -1,6 +1,7 @@
 about,about
 across,across
 adult,adult
+agudo,acute
 ahead,ahead
 algae,algae
 alive,alive
@@ -8,7 +9,6 @@ amazing,amazing
 anemone,anemone
 animal,animal
 ant,ant
-antenna,antenna
 apple,apple
 arm,arm
 art,art
@@ -29,30 +29,26 @@ brown,brown
 bug,bug
 burnt,burnt
 bustard,bustard
-butt,butt
 butterfly,butterfly
 buttocks,buttocks
+cactus,cactus
 camel,camel
 carp,carp
 cattail,cattail
 certain,certain
 chest,chest
-chevrotain,chevrotain
 chunky,chunky
 circular,circular
 city,city
 claw,claw
 clean,clean
 closed,closed
-cockoroach,cockoroach
 cockroach,cockroach
 colour,colour
-coloured,coloured
 computer,computer
 continent,continent
 control,control
 corn,corn
-cost,cost
 counterclockwise,counterclockwise
 country,country
 crab,crab
@@ -63,6 +59,7 @@ culture,culture
 cupped,cupped
 damaged,damaged
 dense,dense
+derecha,right
 different,different
 dirt,dirt
 earwig,earwig
@@ -70,6 +67,8 @@ east,east
 easy,easy
 egg,egg
 electricity,electricity
+elephant,elephant
+escama,scale
 excited,excited
 face,face
 faith,faith
@@ -77,16 +76,13 @@ familiar,familiar
 far,far
 fast,fast
 feather,feather
-feel,feel
 fern,fern
 finger,finger
 fire,fire
 fish,fish
 flea,flea
 flower,flower
-fly,fly
 foamy,foamy
-focus,focus
 fowl,fowl
 friendly,friendly
 fruit,fruit
@@ -115,6 +111,7 @@ hippopotamus,hippopotamus
 hole,hole
 home,home
 hot,hot
+idear,devise
 in front,in front
 infinite,infinite
 information,information
@@ -127,15 +124,13 @@ late,late
 layout,layout
 leaf,leaf
 leg,leg
-letter,letter
-light,light
+letra,letter
 likely,likely
 liquid,liquid
 lizard,lizard
-locked,locked
 long,long
 low,low
-low-pitched,low-pitched
+luz,light
 machine,machine
 made of,made of
 magical,magical
@@ -146,6 +141,7 @@ metal,metal
 mixed,mixed
 moral,moral
 more,more
+mosca,fly
 mosquito,mosquito
 mountain,mountain
 mushroom,mushroom
@@ -156,8 +152,8 @@ neat,neat
 network,network
 notion,notion
 ocean,ocean
+okay,okay
 old,old
-on,on
 opaque,opaque
 opossum,opossum
 order,order
@@ -180,21 +176,19 @@ raccoon,raccoon
 ray,ray
 reality,reality
 reason,reason
+recto,straight
 red,red
 region,region
 reptile,reptile
 rest,rest
 rhinoceros,rhinoceros
 rice,rice
-right,right
 rodent,rodent
 root,root
 rotten,rotten
 salmon,salmon
 salty,salty
-scale,scale
 scorpion,scorpion
-sea,sea
 seahorse,seahorse
 seal,seal
 season,season
@@ -204,13 +198,11 @@ sentence,sentence
 serious,serious
 sex,sex
 shape,shape
-shaped,shaped
 shark,shark
 sharp,sharp
 shell,shell
 shiny,shiny
 should,should
-shrill,shrill
 simple,simple
 skillful,skillful
 slug,slug
@@ -234,32 +226,25 @@ stick,stick
 stone,stone
 storm,storm
 story,story
-straight,straight
 string,string
 strong,strong
 structure,structure
 sun,sun
-sure,sure
 surface,surface
 sweet,sweet
-swine,swine
 tangible,tangible
 tangled,tangled
 tapir,tapir
 taste,taste
-tense,tense
-tentacle,tentacle
+tenso,tense
 thick,thick
 tick,tick
 tired,tired
-to abandon,to abandon
 to accompany,to accompany
 to act,to act
 to anticipate,to anticipate
-to apply,to apply
 to believe,to believe
 to bounce,to bounce
-to break deal,to break deal
 to care,to care
 to choose,to choose
 to continue,to continue
@@ -270,15 +255,10 @@ to cost,to cost
 to deal,to deal
 to deserve,to deserve
 to engineer,to engineer
-to entrepreneur,to entrepreneur
-to entrust,to entrust
-to excuse,to excuse
-to experience,to experience
 to face,to face
 to fall,to fall
 to fear,to fear
 to feel,to feel
-to feel pleasure,to feel pleasure
 to fight,to fight
 to fly,to fly
 to function,to function
@@ -289,7 +269,6 @@ to hit,to hit
 to hold,to hold
 to hunt,to hunt
 to know,to know
-to lead-to,to lead-to
 to love,to love
 to mean,to mean
 to model,to model
@@ -315,20 +294,17 @@ to roll,to roll
 to rub,to rub
 to say,to say
 to sell,to sell
-to set up,to set up
 to sit,to sit
 to sleep,to sleep
 to speak,to speak
 to spin,to spin
 to stand,to stand
 to step,to step
-to strike deal,to strike deal
 to study,to study
 to surprise,to surprise
 to surround,to surround
 to take care,to take care
 to think,to think
-to think of,to think of
 to touch,to touch
 to try,to try
 to understand,to understand

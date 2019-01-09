@@ -12,8 +12,10 @@ from google.cloud import translate
 
 LANGUAGES = ['zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'jv', 'yo', 'mr', 'ms', 'ig', 'tl', 'sw', 'zu', 'ny', 'xh', 'sn', 'st']
 
+DISCARD_UNUSED = False
 
-def translate_text(target, text, translate_client, source='en'):
+
+def translate_text(source, target, text, translate_client):
 	"""Translates text into the target language.
 
 	Target must be an ISO 639-1 language code.
@@ -50,18 +52,30 @@ def save_dictionaries(dictionaries, filepath):
 				writer.writerow([english, other_language])
 
 
-def get_key(definition):
-	if '*' in definition:
-		return re.search(r'\*(\w+)\b', definition).group(1)
+def get_key(entry, pos):
+	if '*' in entry.eng:
+		return 'en', re.search(r'\*(\w+)\b', entry.eng).group(1)
+	elif '*' in entry.spa:
+		return 'es', re.search(r'\*(\w+)\b', entry.spa).group(1)
 	else:
-		return re.search(r'^([^;\{]+)( \{|;|$)', definition).group(1)
+		key = re.search(r'^([^;\{]+)( \{|;|$)', entry.eng).group(1)
+		if len(key.split()) > 1 and key.split()[0] in ['be', 'beI', 'find', 'have', 'give', 'do', 'get', 'can']:
+			key = ' '.join(key.split()[1:]) # drop the "be"
+		elif pos == 'verb':
+			key = 'to '+key
+		return 'en', key
+
 
 
 if __name__ == '__main__':
 	translate_client = translate.Client()
 
 	num_roots = 0
-	dictionaries = load_dictionaries('../data/dict_{}.csv')
+	saved_dictionaries = load_dictionaries('../data/dict_{}.csv')
+	if DISCARD_UNUSED:
+		new_dictionaries = {code:{} for code in LANGUAGES}
+	else:
+		new_dictionaries = saved_dictionaries
 	
 	print("Let us begin...")
 	for filename in ['verb.csv', 'noun.csv']:
@@ -71,21 +85,21 @@ if __name__ == '__main__':
 			english, source = row.eng, row.source
 
 			if not source or (len(source.split()[0]) == 3 and source.split()[0] != 'ono'):
-				key = get_key(english)
-				if len(key.split()) > 1 and key.split()[0] in ['be', 'beI', 'find', 'have', 'give', 'do', 'get', 'can']:
-					key = ' '.join(key.split()[1:]) # drop the "be"
-				elif filename == 'verb.csv' and '*' not in english:
-					key = 'to '+key
+				source_lang_code, key = get_key(row, pos=filename.split('.')[0])
 				print('Translating "{}" to {} languages...'.format(key, len(LANGUAGES)))
 				any_update = False
 				for lang_code in LANGUAGES:
-					if key not in dictionaries[lang_code]:
-						dictionaries[lang_code][key] = translate_text(lang_code, key, translate_client)
-						print("\t{}: {}".format(lang_code[:2], dictionaries[lang_code][key]))
+					if key in saved_dictionaries[lang_code]:
+						new_dictionaries[lang_code][key] = saved_dictionaries[lang_code][key]
+					else:
+						new_dictionaries[lang_code][key] = translate_text(source_lang_code, lang_code, key, translate_client)
+						print("\t{}: {}".format(lang_code[:2], new_dictionaries[lang_code][key]))
 						any_update = True
 
 				if any_update:
-					save_dictionaries(dictionaries, '../data/dict_{}.csv')
+					save_dictionaries(new_dictionaries, '../data/dict_{}.csv')
 				num_roots += 1
+		if DISCARD_UNUSED:
+			save_dictionaries(new_dictionaries, '../data/dict_{}.csv')
 
 	print("{} noun and verb roots".format(num_roots))

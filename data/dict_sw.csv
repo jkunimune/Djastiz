@@ -1,6 +1,7 @@
 about,kuhusu
 across,kote
 adult,watu wazima
+agudo,mkali
 ahead,mbele
 algae,mwandishi
 alive,hai
@@ -8,7 +9,6 @@ amazing,ajabu
 anemone,anemone
 animal,mnyama
 ant,ant
-antenna,antenna
 apple,apple
 arm,mkono
 art,sanaa
@@ -29,30 +29,26 @@ brown,kahawia
 bug,mdudu
 burnt,kuteketezwa
 bustard,bustard
-butt,kitako
 butterfly,kipepeo
 buttocks,vifungo
+cactus,cactus
 camel,ngamia
 carp,kamba
 cattail,utunzaji
 certain,fulani
 chest,kifua
-chevrotain,chevrotain
 chunky,chunky
 circular,mviringo
 city,jiji
 claw,claw
 clean,safi
 closed,imefungwa
-cockoroach,cockoroach
 cockroach,cockroach
 colour,rangi
-coloured,rangi
 computer,kompyuta
 continent,bara
 control,kudhibiti
 corn,mahindi
-cost,gharama
 counterclockwise,kinyume chake
 country,nchi
 crab,kaa
@@ -63,6 +59,7 @@ culture,utamaduni
 cupped,amefungwa
 damaged,kuharibiwa
 dense,nzito
+derecha,haki
 different,tofauti
 dirt,uchafu
 earwig,earwig
@@ -70,6 +67,8 @@ east,mashariki
 easy,rahisi
 egg,yai
 electricity,umeme
+elephant,tembo
+escama,flake
 excited,msisimko
 face,uso
 faith,imani
@@ -77,16 +76,13 @@ familiar,ujuzi
 far,mbali
 fast,haraka
 feather,manyoya
-feel,jisikie
 fern,fern
 finger,kidole
 fire,moto
 fish,samaki
 flea,kijivu
 flower,maua
-fly,kuruka
 foamy,povu
-focus,tazama
 fowl,ndege
 friendly,kirafiki
 fruit,matunda
@@ -115,6 +111,7 @@ hippopotamus,kiboko
 hole,shimo
 home,nyumbani
 hot,moto
+idear,fikiria
 in front,mbele
 infinite,usio
 information,habari
@@ -127,15 +124,13 @@ late,kuchelewa
 layout,mpangilio
 leaf,jani
 leg,mguu
-letter,barua
-light,mwanga
+letra,barua
 likely,uwezekano
 liquid,kioevu
 lizard,mjusi
-locked,imefungwa
 long,kwa muda mrefu
 low,chini
-low-pitched,imepigwa chini
+luz,mwanga
 machine,mashine
 made of,imetengenezwa na
 magical,kichawi
@@ -146,6 +141,7 @@ metal,chuma
 mixed,mchanganyiko
 moral,maadili
 more,zaidi
+mosca,kuruka
 mosquito,mbu
 mountain,mlima
 mushroom,uyoga
@@ -156,8 +152,8 @@ neat,nzuri
 network,mtandao
 notion,wazo
 ocean,Bahari
+okay,sawa
 old,zamani
-on,juu
 opaque,opaque
 opossum,opossum
 order,amri
@@ -180,21 +176,19 @@ raccoon,raccoon
 ray,ray
 reality,ukweli
 reason,sababu
+recto,sawa
 red,nyekundu
 region,kanda
 reptile,reptile
 rest,pumzika
 rhinoceros,rhinino
 rice,mchele
-right,haki
 rodent,panya
 root,mizizi
 rotten,imeoza
 salmon,laini
 salty,chumvi
-scale,kiwango
 scorpion,nguruwe
-sea,bahari
 seahorse,baharini
 seal,muhuri
 season,msimu
@@ -204,13 +198,11 @@ sentence,hukumu
 serious,mbaya
 sex,ngono
 shape,sura
-shaped,umbo
 shark,shark
 sharp,mkali
 shell,shell
 shiny,shiny
 should,lazima
-shrill,fanya
 simple,rahisi
 skillful,ujuzi
 slug,konokono
@@ -234,32 +226,25 @@ stick,fimbo
 stone,jiwe
 storm,dhoruba
 story,hadithi
-straight,sawa
 string,kamba
 strong,nguvu
 structure,muundo
 sun,jua
-sure,hakika
 surface,uso
 sweet,tamu
-swine,nguruwe
 tangible,inayoonekana
 tangled,tangled
 tapir,tapir
 taste,ladha
-tense,wakati
-tentacle,kambi
+tenso,wakati
 thick,nene
 tick,Jiza
 tired,amechoka
-to abandon,kuacha
 to accompany,kuongozana
 to act,kutenda
 to anticipate,kutarajia
-to apply,kuomba
 to believe,kuamini
 to bounce,kupiga
-to break deal,kuvunja mpango
 to care,kujali
 to choose,kuchagua
 to continue,kuendelea
@@ -270,15 +255,10 @@ to cost,na gharama
 to deal,kushughulikia
 to deserve,kustahili
 to engineer,kwa mhandisi
-to entrepreneur,kwa mjasiriamali
-to entrust,kuwapatia
-to excuse,kwa udhuru
-to experience,kupata uzoefu
 to face,kukabili
 to fall,anguka
 to fear,kuogopa
 to feel,kuhisi
-to feel pleasure,kujisikia radhi
 to fight,kupigana
 to fly,kuruka
 to function,kufanya kazi
@@ -289,7 +269,6 @@ to hit,kupiga
 to hold,ku shikilia
 to hunt,kuwinda
 to know,kujua
-to lead-to,kuongoza
 to love,kupenda
 to mean,kumaanisha
 to model,kwa mfano
@@ -315,20 +294,17 @@ to roll,kupiga
 to rub,kusugua
 to say,kusema
 to sell,kuuza
-to set up,kuanzisha
 to sit,kukaa
 to sleep,kulala
 to speak,kuongea
 to spin,kupiga
 to stand,kusimama
 to step,kwa hatua
-to strike deal,kupiga mpango
 to study,kusoma
 to surprise,kushangaa
 to surround,kuzunguka
 to take care,kutunza
 to think,kufikiria
-to think of,kufikiria
 to touch,kugusa
 to try,kujaribu
 to understand,kuelewa

@@ -1,6 +1,7 @@
 about,about
 across,akayambuka
 adult,munhu mukuru
+agudo,rakapinza
 ahead,mberi
 algae,algae
 alive,mupenyu
@@ -8,7 +9,6 @@ amazing,anoshamisa
 anemone,anemone
 animal,mhuka
 ant,nyere
-antenna,antenna
 apple,apple
 arm,ruoko
 art,unyanzvi
@@ -29,30 +29,26 @@ brown,bhurawuni
 bug,bug
 burnt,burned
 bustard,bustard
-butt,butt
 butterfly,butterfly
 buttocks,matako
+cactus,cactus
 camel,ngamera
 carp,carp
 cattail,cattail
 certain,certain
 chest,chifuva
-chevrotain,chevrotain
 chunky,chunky
 circular,circular
 city,guta
 claw,claw
 clean,clean
 closed,yakavharwa
-cockoroach,cockoroach
 cockroach,jongwe
 colour,ruvara
-coloured,mavara
 computer,kombiyuta
 continent,continent
 control,kudzora
 corn,chibage
-cost,mari
 counterclockwise,counterclockwise
 country,nyika
 crab,crab
@@ -63,6 +59,7 @@ culture,tsika
 cupped,cupped
 damaged,damaged
 dense,dense
+derecha,zvakarurama
 different,zvakasiyana
 dirt,tsvina
 earwig,earwig
@@ -70,6 +67,8 @@ east,mabvazuva
 easy,nyore
 egg,yai
 electricity,magetsi
+elephant,nzou
+escama,flake
 excited,kufara
 face,chiso
 faith,kutenda
@@ -77,16 +76,13 @@ familiar,vanoziva
 far,kure
 fast,fast
 feather,feather
-feel,kunzwa
 fern,fern
 finger,munwe
 fire,moto
 fish,hove
 flea,flea
 flower,maruva
-fly,fly
 foamy,foamy
-focus,tarisa
 fowl,shiri
 friendly,shamwari
 fruit,chibereko
@@ -115,6 +111,7 @@ hippopotamus,hippopotamus
 hole,gomba
 home,kumba
 hot,hot
+idear,funga
 in front,pamberi
 infinite,risingaperi
 information,mashoko
@@ -127,15 +124,13 @@ late,kunonoka
 layout,layout
 leaf,mashizha
 leg,gumbo
-letter,tsamba
-light,chiedza
+letra,tsamba
 likely,zvichida
 liquid,liquid
 lizard,lizard
-locked,locked
 long,kureba
 low,pasi
-low-pitched,pasi-pitched
+luz,chiedza
 machine,machine
 made of,made of
 magical,zvemashiripiti
@@ -146,6 +141,7 @@ metal,tsvina
 mixed,kusanganiswa
 moral,tsika
 more,zvimwe
+mosca,fly
 mosquito,utsi
 mountain,gomo
 mushroom,mushroom
@@ -156,8 +152,8 @@ neat,neat
 network,network
 notion,pfungwa
 ocean,ocean
+okay,zvakanaka
 old,akare
-on,on
 opaque,opaque
 opossum,opossum
 order,urongwa
@@ -180,21 +176,19 @@ raccoon,raccoon
 ray,ray
 reality,chokwadi
 reason,chikonzero
+recto,zvakarurama
 red,tsvuku
 region,nzvimbo
 reptile,reptile
 rest,zorora
 rhinoceros,rhinoceros
 rice,rice
-right,rudyi
 rodent,rodent
 root,mudzi
 rotten,yakaora
 salmon,saumoni
 salty,salty
-scale,scale
 scorpion,scorpion
-sea,gungwa
 seahorse,seahorse
 seal,chisimbiso
 season,mwaka
@@ -204,13 +198,11 @@ sentence,mutongo
 serious,zvakanyanya
 sex,zvepabonde
 shape,shape
-shaped,shaped
 shark,shark
 sharp,rakapinza
 shell,shell
 shiny,shiny
 should,zvinofanira
-shrill,shrill
 simple,nyore
 skillful,unyanzvi
 slug,slug
@@ -234,32 +226,25 @@ stick,stick
 stone,dombo
 storm,dutu
 story,nhau
-straight,zvakarurama
 string,string
 strong,simba
 structure,chimiro
 sun,zuva
-sure,chokwadi
 surface,pamusoro
 sweet,inotapira
-swine,nguruve
 tangible,zvinooneka
 tangled,tangled
 tapir,tapir
 taste,tora
-tense,nguva
-tentacle,tende
+tenso,nguva
 thick,thick
 tick,shingairira
 tired,akaneta
-to abandon,kusiya
 to accompany,kuti uende
 to act,kuti aite
 to anticipate,kuti atarisire
-to apply,kushanda
 to believe,kutenda
 to bounce,kuti vadzivirire
-to break deal,kuputsa kuita
 to care,kuchengeta
 to choose,kusarudza
 to continue,kuenderera mberi
@@ -270,15 +255,10 @@ to cost,kuti mari
 to deal,kuti aite
 to deserve,kuti akakodzera
 to engineer,kunjiniya
-to entrepreneur,kumabhizimisi
-to entrust,kuzviisa pasi
-to excuse,kuregerera
-to experience,kuti uwane
 to face,kutarisana
 to fall,kudonha
 to fear,kuti vatye
 to feel,kuti unzwe
-to feel pleasure,kuti unzwe kufara
 to fight,kurwisa
 to fly,ku bhururuka
 to function,kushanda
@@ -289,7 +269,6 @@ to hit,kurova
 to hold,kubata
 to hunt,kuvhima
 to know,kuziva
-to lead-to,kutungamirira-ku
 to love,kuda
 to mean,kureva
 to model,kutevedzera
@@ -315,20 +294,17 @@ to roll,kuti ipfure
 to rub,to rub
 to say,kutaura
 to sell,kutengesa
-to set up,kuisa
 to sit,kugara
 to sleep,kurara
 to speak,kutaura
 to spin,kuti apinde
 to stand,kumira
 to step,kuti uite
-to strike deal,kuti aite basa
 to study,kuverenga
 to surprise,kushamisika
 to surround,kuzodzikomba
 to take care,kutarisira
 to think,kufunga
-to think of,kufunga nezvazvo
 to touch,kubata
 to try,kuedza
 to understand,kunzwisisa

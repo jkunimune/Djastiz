@@ -1,6 +1,7 @@
 about,tungkol sa
 across,sa kabuuan
 adult,matanda
+agudo,matalim
 ahead,maaga
 algae,algae
 alive,buhay
@@ -8,7 +9,6 @@ amazing,kahanga-hangang
 anemone,anemone
 animal,hayop
 ant,ant
-antenna,antena
 apple,mansanas
 arm,braso
 art,sining
@@ -29,30 +29,26 @@ brown,kayumanggi
 bug,bug
 burnt,nasunog
 bustard,bustard
-butt,puwit
 butterfly,butterfly
 buttocks,pigi
+cactus,cactus
 camel,kamelyo
 carp,pamumula
 cattail,cattail
 certain,tiyak
 chest,dibdib
-chevrotain,chevrotain
 chunky,chunky
 circular,pabilog
 city,lungsod
 claw,kuko
 clean,malinis
 closed,sarado
-cockoroach,cockoroach
 cockroach,ipis
 colour,kulay
-coloured,kulay
 computer,computer
 continent,kontinente
 control,kontrolin
 corn,mais
-cost,gastos
 counterclockwise,pakaliwa
 country,bansa
 crab,alimango
@@ -63,6 +59,7 @@ culture,kultura
 cupped,cupped
 damaged,nasira
 dense,siksik
+derecha,tama
 different,iba
 dirt,dumi
 earwig,earwig
@@ -70,6 +67,8 @@ east,silangan
 easy,madali
 egg,itlog
 electricity,kuryente
+elephant,elepante
+escama,manipis na piraso
 excited,nasasabik
 face,mukha
 faith,pananampalataya
@@ -77,16 +76,13 @@ familiar,pamilyar
 far,malayo
 fast,mabilis
 feather,balahibo
-feel,pakiramdam
 fern,pako
 finger,daliri
 fire,apoy
 fish,isda
 flea,pulgas
 flower,bulaklak
-fly,lumipad
 foamy,mabula
-focus,tumuon
 fowl,unggoy
 friendly,friendly
 fruit,prutas
@@ -115,6 +111,7 @@ hippopotamus,hippopotamus
 hole,butas
 home,bahay
 hot,mainit
+idear,isipin
 in front,sa harap
 infinite,walang katapusan
 information,impormasyon
@@ -127,15 +124,13 @@ late,huli
 layout,layout
 leaf,dahon
 leg,binti
-letter,sulat
-light,liwanag
+letra,sulat
 likely,malamang
 liquid,likido
 lizard,butiki
-locked,naka-lock
 long,mahaba
 low,mababa
-low-pitched,mababa ang tunog
+luz,liwanag
 machine,machine
 made of,gawa sa
 magical,mahiwagang
@@ -146,6 +141,7 @@ metal,metal
 mixed,magkakahalo
 moral,moral
 more,higit pa
+mosca,lumipad
 mosquito,lamok
 mountain,bundok
 mushroom,kabute
@@ -156,8 +152,8 @@ neat,malinis
 network,network
 notion,paniwala
 ocean,karagatan
+okay,Sige
 old,matanda
-on,sa
 opaque,hindi kanais-nais
 opossum,opossum
 order,order
@@ -180,21 +176,19 @@ raccoon,raccoon
 ray,ray
 reality,katotohanan
 reason,dahilan
+recto,tuwid
 red,pula
 region,rehiyon
 reptile,reptile
 rest,pahinga
 rhinoceros,rhinoceros
 rice,kanin
-right,tama
 rodent,daga
 root,root
 rotten,bulok
 salmon,salmon
 salty,maalat
-scale,scale
 scorpion,alakdan
-sea,dagat
 seahorse,seahorse
 seal,selyo
 season,panahon
@@ -204,13 +198,11 @@ sentence,pangungusap
 serious,seryoso
 sex,kasarian
 shape,Hugis
-shaped,hugis
 shark,pating
 sharp,matalim
 shell,shell
 shiny,makintab
 should,dapat
-shrill,matunaw
 simple,simple
 skillful,magaling
 slug,slug
@@ -234,32 +226,25 @@ stick,stick
 stone,bato
 storm,bagyo
 story,kuwento
-straight,tuwid
 string,string
 strong,malakas
 structure,istraktura
 sun,araw
-sure,sigurado
 surface,ibabaw
 sweet,matamis
-swine,baboy
 tangible,nasasalat
 tangled,magkagulo
 tapir,tapir
 taste,lasa
-tense,panahunan
-tentacle,tentacles
+tenso,panahunan
 thick,makapal
 tick,tik
 tired,pagod
-to abandon,upang iwanan
 to accompany,upang samahan
 to act,umarte
 to anticipate,upang mauna
-to apply,upang mag-aplay
 to believe,maniwala
 to bounce,tumalbog
-to break deal,upang masira ang pakikitungo
 to care,upang pangalagaan
 to choose,Pumili
 to continue,upang magpatuloy
@@ -270,15 +255,10 @@ to cost,sa gastos
 to deal,magkasundo
 to deserve,upang maging karapat-dapat
 to engineer,sa engineer
-to entrepreneur,sa negosyante
-to entrust,upang ipagkatiwala
-to excuse,upang humingi ng paumanhin
-to experience,para maranasan
 to face,upang harapin
 to fall,mahulog
 to fear,sa takot
 to feel,maramdaman
-to feel pleasure,pakiramdam kasiyahan
 to fight,para lumaban
 to fly,lumipad
 to function,upang gumana
@@ -289,7 +269,6 @@ to hit,na matamaan
 to hold,hawakan
 to hunt,upang mang-aso
 to know,para malaman
-to lead-to,upang humantong-sa
 to love,magmahal
 to mean,ibig sabihin
 to model,sa modelo
@@ -315,20 +294,17 @@ to roll,upang gumulong
 to rub,upang kuskusin
 to say,upang sabihin
 to sell,ibenta
-to set up,upang mag-set up
 to sit,umupo
 to sleep,matulog
 to speak,magsalita
 to spin,umikot
 to stand,tumayo
 to step,sa hakbang
-to strike deal,upang mahawakan ang pakikitungo
 to study,mag-aral
 to surprise,upang sorpresa
 to surround,upang palibutan
 to take care,para alagaan
 to think,Magisip
-to think of,isipin
 to touch,hawakan
 to try,subukan
 to understand,maintindihan

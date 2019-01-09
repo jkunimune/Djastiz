@@ -1,6 +1,7 @@
 about,关于
 across,横过
 adult,成人
+agudo,急性
 ahead,先
 algae,藻类
 alive,活
@@ -28,30 +29,26 @@ brown,棕色
 bug,窃听器
 burnt,焦
 bustard,鸨鸟
-butt,屁股
 butterfly,蝴蝶
 buttocks,臀部
+cactus,仙人掌
 camel,骆驼
 carp,鲤鱼
 cattail,香蒲
 certain,某些
 chest,胸部
-chevrotain,鼷鹿科
 chunky,矮胖
 circular,圆
 city,市
 claw,爪
 clean,清洁
 closed,关闭
-cockoroach,cockoroach
 cockroach,蟑螂
 colour,颜色
-coloured,有色
 computer,电脑
 continent,大陆
 control,控制
 corn,玉米
-cost,成本
 counterclockwise,逆时针
 country,国家
 crab,螃蟹
@@ -62,6 +59,7 @@ culture,文化
 cupped,杯状的
 damaged,破损
 dense,稠密
+derecha,权
 different,不同
 dirt,污垢
 earwig,蜈蚣
@@ -69,6 +67,8 @@ east,东
 easy,简单
 egg,蛋
 electricity,电力
+elephant,象
+escama,片
 excited,兴奋
 face,面对
 faith,信仰
@@ -76,16 +76,13 @@ familiar,熟
 far,远
 fast,快速
 feather,羽毛
-feel,感觉
 fern,蕨类
 finger,手指
 fire,火
 fish,鱼
 flea,跳蚤
 flower,花
-fly,飞
 foamy,泡沫的
-focus,焦点
 fowl,鸡
 friendly,友好
 fruit,水果
@@ -114,6 +111,7 @@ hippopotamus,河马
 hole,洞
 home,家
 hot,热
+idear,设计
 in front,在前
 infinite,无穷
 information,信息
@@ -126,15 +124,13 @@ late,晚了
 layout,布局
 leaf,叶
 leg,腿
-letter,信件
-light,光
+letra,信
 likely,容易
 liquid,液体
 lizard,蜥蜴
-locked,锁定
 long,长
 low,低
-low-pitched,低调
+luz,光
 machine,机
 made of,由...制成
 magical,神奇
@@ -145,6 +141,7 @@ metal,金属
 mixed,杂
 moral,道德
 more,更多
+mosca,飞
 mosquito,蚊子
 mountain,山
 mushroom,蘑菇
@@ -155,8 +152,8 @@ neat,整齐
 network,网络
 notion,概念
 ocean,海洋
+okay,好的
 old,旧
-on,上
 opaque,不透明
 opossum,负鼠
 order,订购
@@ -179,21 +176,19 @@ raccoon,狸
 ray,射线
 reality,现实
 reason,原因
+recto,直
 red,红色
 region,区域
 reptile,爬虫
 rest,休息
 rhinoceros,犀牛
 rice,白饭
-right,对
 rodent,啮齿动物
 root,根
 rotten,烂
 salmon,三文鱼
 salty,咸
-scale,规模
 scorpion,蝎
-sea,海
 seahorse,海马
 seal,密封
 season,季节
@@ -203,13 +198,11 @@ sentence,句子
 serious,严重
 sex,性别
 shape,形状
-shaped,成形
 shark,鲨鱼
 sharp,尖锐
 shell,贝壳
 shiny,闪亮
 should,应该
-shrill,尖锐
 simple,简单
 skillful,熟练
 slug,金属块
@@ -233,32 +226,25 @@ stick,棒
 stone,石
 storm,风暴
 story,故事
-straight,直行
 string,串
 strong,强大
 structure,结构体
 sun,太阳
-sure,当然
 surface,表面
 sweet,甜
-swine,猪
 tangible,有形
 tangled,紊
 tapir,貘
 taste,味道
-tense,紧张
-tentacle,触手
+tenso,紧张
 thick,厚
 tick,蜱
 tired,累
-to abandon,放弃
 to accompany,陪
 to act,行动
 to anticipate,期待
-to apply,申请
 to believe,相信
 to bounce,反弹
-to break deal,打破交易
 to care,照顾
 to choose,选择
 to continue,接着说
@@ -269,15 +255,10 @@ to cost,花费
 to deal,处理
 to deserve,值得拥有
 to engineer,工程师
-to entrepreneur,对企业家
-to entrust,委托
-to excuse,请原谅
-to experience,去体验
 to face,面对
 to fall,跌倒
 to fear,害怕
 to feel,感觉
-to feel pleasure,感到快乐
 to fight,打架
 to fly,飞
 to function,发挥作用
@@ -288,7 +269,6 @@ to hit,打
 to hold,持有
 to hunt,打猎
 to know,知道
-to lead-to,引导
 to love,去爱
 to mean,意思是
 to model,模拟
@@ -314,20 +294,17 @@ to roll,滚动
 to rub,擦
 to say,说
 to sell,卖
-to set up,建立
 to sit,坐下
 to sleep,睡觉
 to speak,说话
 to spin,旋转
 to stand,站起来
 to step,步骤
-to strike deal,达成协议
 to study,学习
 to surprise,惊讶
 to surround,包围
 to take care,去照顾
 to think,思考
-to think of,想
 to touch,触摸
 to try,试试
 to understand,了解

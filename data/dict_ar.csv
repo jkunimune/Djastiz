@@ -1,6 +1,7 @@
 about,حول
 across,عبر
 adult,بالغ
+agudo,حاد
 ahead,المكانية
 algae,الطحالب
 alive,على قيد الحياة
@@ -8,7 +9,6 @@ amazing,رائعة حقا
 anemone,شقائق النعمان
 animal,حيوان
 ant,نملة
-antenna,هوائي
 apple,تفاحة
 arm,ذراع
 art,فن
@@ -29,30 +29,26 @@ brown,بنى
 bug,بق
 burnt,أحرق
 bustard,الحباري دجاجة
-butt,مؤخرة
 butterfly,فراشة
 buttocks,ردفان
+cactus,صبار
 camel,جمل
 carp,الكارب
 cattail,كاتيل
 certain,المؤكد
 chest,صدر
-chevrotain,chevrotain
 chunky,مكتنزة
 circular,دائري
 city,مدينة
 claw,مخلب
 clean,نظيف
 closed,مغلق
-cockoroach,cockoroach
 cockroach,صرصور
 colour,اللون
-coloured,ملون
 computer,الحاسوب
 continent,قارة
 control,مراقبة
 corn,حبوب ذرة
-cost,كلفة
 counterclockwise,عكس عقارب الساعه
 country,بلد
 crab,سلطعون
@@ -63,6 +59,7 @@ culture,حضاره
 cupped,المقعر
 damaged,التالفة
 dense,كثيف
+derecha,حق
 different,مختلف
 dirt,التراب
 earwig,حاول التأثير على شخص
@@ -70,6 +67,8 @@ east,الشرق
 easy,سهل
 egg,بيضة
 electricity,كهرباء
+elephant,فيل
+escama,تقشر
 excited,فرح
 face,وجه
 faith,إيمان
@@ -77,16 +76,13 @@ familiar,مألوف
 far,بعيدا
 fast,بسرعة
 feather,ريشة
-feel,يشعر
 fern,الختشار سرخس أو نبات
 finger,اصبع اليد
 fire,نار
 fish,سمك
 flea,برغوث
 flower,زهرة
-fly,يطير
 foamy,رغوي
-focus,التركيز
 fowl,طير
 friendly,ودود
 fruit,فاكهة
@@ -115,6 +111,7 @@ hippopotamus,فرس نهر
 hole,الفجوة
 home,الصفحة الرئيسية
 hot,الحار
+idear,ابتكار
 in front,امام
 infinite,غير محدود
 information,معلومات
@@ -127,15 +124,13 @@ late,متأخر
 layout,نسق
 leaf,ورقة الشجر
 leg,رجل
-letter,رسالة
-light,ضوء
+letra,رسالة
 likely,المحتمل أن
 liquid,سائل
 lizard,سحلية
-locked,مقفل
 long,طويل
 low,منخفض
-low-pitched,شديد الإنخفاض
+luz,ضوء
 machine,آلة
 made of,مصنوع من
 magical,سحري
@@ -146,6 +141,7 @@ metal,فلز
 mixed,مختلط
 moral,أخلاقي
 more,أكثر من
+mosca,طيران
 mosquito,بعوض
 mountain,جبل
 mushroom,فطر
@@ -156,8 +152,8 @@ neat,أنيق
 network,شبكة الاتصال
 notion,خيالى
 ocean,محيط
+okay,حسنا
 old,قديم
-on,على
 opaque,مبهمة
 opossum,الأ بوسوم حيوان أمريكي
 order,طلب
@@ -180,21 +176,19 @@ raccoon,حيوان الراكون
 ray,شعاع
 reality,واقع
 reason,السبب
+recto,مباشرة
 red,أحمر
 region,منطقة
 reptile,زواحف
 rest,راحة
 rhinoceros,وحيد القرن
 rice,أرز
-right,حق
 rodent,قارض
 root,جذر
 rotten,فاسد
 salmon,سمك السالمون
 salty,مالح
-scale,مقياس
 scorpion,برج العقرب
-sea,بحر
 seahorse,فرس البحر
 seal,اغلاق محكم
 season,الموسم
@@ -204,13 +198,11 @@ sentence,جملة او حكم على
 serious,جدي
 sex,جنس
 shape,شكل
-shaped,على شكل
 shark,قرش
 sharp,حاد
 shell,الصدف
 shiny,لامع
 should,ينبغي
-shrill,شديد
 simple,بسيط
 skillful,بارع
 slug,سبيكة
@@ -234,32 +226,25 @@ stick,عصا
 stone,حجر
 storm,عاصفة
 story,قصة
-straight,مباشرة
 string,خيط
 strong,قوي
 structure,بناء
 sun,شمس
-sure,بالتأكيد
 surface,سطح - المظهر الخارجي
 sweet,حلو
-swine,خنزير
 tangible,ملموس
 tangled,متشابكة
 tapir,التابير حيوان شبيه بالخنزير
 taste,المذاق
-tense,توتر
-tentacle,مجس نبات
+tenso,عصبي
 thick,سميك
 tick,علامة
 tired,متعبه
-to abandon,التخلي عن
 to accompany,لمرافقة
 to act,لكي تمثل
 to anticipate,لاستباق
-to apply,للتقديم
 to believe,لتصدق
 to bounce,لترتد
-to break deal,لكسر الصفقة
 to care,يعتني
 to choose,لإختيار
 to continue,لاستكمال
@@ -270,15 +255,10 @@ to cost,يكلف
 to deal,للتعامل
 to deserve,ليستحق
 to engineer,لمهندس
-to entrepreneur,إلى رجل أعمال
-to entrust,أن يعهد إلى
-to excuse,ليستأذن
-to experience,لتجربة
 to face,لتواجه
 to fall,ليقع او يسقط
 to fear,للخوف
 to feel,تشعر
-to feel pleasure,ليشعر بالسعادة
 to fight,ليقاتل
 to fly,للطيران
 to function,لتعمل
@@ -289,7 +269,6 @@ to hit,لتضرب
 to hold,ليمسك
 to hunt,لمطاردة
 to know,لتعرف
-to lead-to,لتصل إلى
 to love,يحب
 to mean,يعني
 to model,للعرض
@@ -315,20 +294,17 @@ to roll,للفة
 to rub,لفرك
 to say,ليقول
 to sell,للبيع
-to set up,لاقامة
 to sit,للجلوس
 to sleep,للنوم
 to speak,ليتحدث
 to spin,لتدور
 to stand,للوقوف
 to step,لتخطو
-to strike deal,لضرب الصفقة
 to study,ليدرس
 to surprise,يفاجئ
 to surround,ليحيط
 to take care,لرعاية
 to think,ليفكر
-to think of,يفكر ب
 to touch,للمس
 to try,لكي يحاول
 to understand,لفهم

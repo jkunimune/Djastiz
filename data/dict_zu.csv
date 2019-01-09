@@ -1,6 +1,7 @@
 about,cishe
 across,yonkana
 adult,umuntu omdala
+agudo,ebukhali
 ahead,phambili
 algae,algae
 alive,ephila
@@ -8,7 +9,6 @@ amazing,amazing
 anemone,i-anemone
 animal,isilwane
 ant,ant
-antenna,i-antenna
 apple,i-apula
 arm,ingalo
 art,ubuciko
@@ -29,30 +29,26 @@ brown,obomvu
 bug,bug
 burnt,ukushiswa
 bustard,i-bustard
-butt,butt
 butterfly,butterfly
 buttocks,izintambo
+cactus,i-cactus
 camel,ikamela
 carp,i-carp
 cattail,ukuthenga
 certain,ezithile
 chest,isifuba
-chevrotain,i-chevrotain
 chunky,chunky
 circular,isiyingi
 city,idolobha
 claw,ukuphoqa
 clean,ihlanzekile
 closed,ivaliwe
-cockoroach,cockoroach
 cockroach,i-cockroach
 colour,umbala
-coloured,ezinemibala
 computer,ikhompyutha
 continent,izwekazi
 control,ukulawula
 corn,ukolweni
-cost,izindleko
 counterclockwise,ngokumelene nekhefu
 country,izwe
 crab,udoti
@@ -63,6 +59,7 @@ culture,isiko
 cupped,ziphekiwe
 damaged,yonakalisiwe
 dense,dense
+derecha,kwesokudla
 different,ehlukile
 dirt,ukungcola
 earwig,earwig
@@ -70,6 +67,8 @@ east,empumalanga
 easy,kulula
 egg,iqanda
 electricity,ugesi
+elephant,indlovu
+escama,i-flake
 excited,ujabule
 face,ubuso
 faith,ukholo
@@ -77,16 +76,13 @@ familiar,ajwayelekile
 far,kude
 fast,ngokushesha
 feather,i-feather
-feel,uzizwe
 fern,fern
 finger,umunwe
 fire,umlilo
 fish,inhlanzi
 flea,i-flea
 flower,imbali
-fly,fly
 foamy,foamy
-focus,gxila
 fowl,izinyoni
 friendly,nobungane
 fruit,izithelo
@@ -115,6 +111,7 @@ hippopotamus,i-hippopotamus
 hole,umgodi
 home,ekhaya
 hot,kushisa
+idear,cabanga
 in front,ngaphambili
 infinite,engapheli
 information,ulwazi
@@ -127,15 +124,13 @@ late,sekwephuzile
 layout,isakhiwo
 leaf,amaqabunga
 leg,umlenze
-letter,incwadi
-light,ukukhanya
+letra,incwadi
 likely,cishe
 liquid,amanzi
 lizard,i-lizard
-locked,ivaliwe
 long,eside
 low,phansi
-low-pitched,i-low-pitched
+luz,ukukhanya
 machine,umshini
 made of,ezenziwe
 magical,imilingo
@@ -146,6 +141,7 @@ metal,insimbi
 mixed,kuxutshwe
 moral,ukuziphatha
 more,Okuningi
+mosca,fly
 mosquito,umiyane
 mountain,intaba
 mushroom,ikhowe
@@ -156,8 +152,8 @@ neat,kahle
 network,inethiwekhi
 notion,umbono
 ocean,olwandle
+okay,kuhle
 old,endala
-on,kuqhubeke
 opaque,opaque
 opossum,i-opossum
 order,oda
@@ -180,21 +176,19 @@ raccoon,i-raccoon
 ray,ray
 reality,iqiniso
 reason,isizathu
+recto,iqonde
 red,obomvu
 region,isifunda
 reptile,i-reptile
 rest,ukuphumula
 rhinoceros,ama-rhinoceros
 rice,ilayisi
-right,kwesokudla
 rodent,i-rodent
 root,impande
 rotten,ebolile
 salmon,uhlobo lwenhlanzi
 salty,usawoti
-scale,isikali
 scorpion,i-scorpion
-sea,ulwandle
 seahorse,i-seahorse
 seal,uphawu
 season,inkathi
@@ -204,13 +198,11 @@ sentence,isigwebo
 serious,sína
 sex,ubulili
 shape,ukuma
-shaped,ifakwe
 shark,ushaka
 sharp,ebukhali
 shell,igobolondo
 shiny,shiny
 should,kufanele
-shrill,shrill
 simple,elula
 skillful,ubuchule
 slug,slug
@@ -234,32 +226,25 @@ stick,ukunamathela
 stone,ngamatshe
 storm,isiphepho
 story,indaba
-straight,Qondile
 string,string
 strong,eqinile
 structure,isakhiwo
 sun,ilanga
-sure,uqinisekile
 surface,ubuso
 sweet,elimnandi
-swine,izingulube
 tangible,okubonakalayo
 tangled,ziboshwe
 tapir,i-tapir
 taste,ukunambitha
-tense,isikhathi
-tentacle,itende
+tenso,isikhathi
 thick,obukhulu
 tick,uphawu
 tired,ukhathele
-to abandon,ukushiya
 to accompany,ukuhamba
 to act,ukwenza
 to anticipate,ukulindela
-to apply,ukufaka isicelo
 to believe,ukukholwa
 to bounce,ukunciphisa
-to break deal,ukuphula isivumelwano
 to care,ukunakekela
 to choose,Ukukhetha
 to continue,ukuqhubeka
@@ -270,15 +255,10 @@ to cost,izindleko
 to deal,ukumelana
 to deserve,kufanelekile
 to engineer,ukuze unjiniyela
-to entrepreneur,kumabhizinisi
-to entrust,ukubeka
-to excuse,ukuzithethelela
-to experience,ukuzwa
 to face,ukubhekana
 to fall,ukuwa
 to fear,ukwesaba
 to feel,ukuzwa
-to feel pleasure,ukuzizwa ujabule
 to fight,ukulwa
 to fly,ukundiza
 to function,ukusebenza
@@ -289,7 +269,6 @@ to hit,ukushaya
 to hold,ukubamba
 to hunt,ukuzingela
 to know,ukwazi
-to lead-to,ukuhola
 to love,ukuthanda
 to mean,ukusho
 to model,ukulingisa
@@ -315,20 +294,17 @@ to roll,ukugoqa
 to rub,ukugubha
 to say,ukusho
 to sell,ukuthengisa
-to set up,ukusetha
 to sit,ukuhlala
 to sleep,ukulala
 to speak,ukukhuluma
 to spin,ukuze uphendule
 to stand,ukuma
 to step,ukuhamba
-to strike deal,ukushaya isenzo
 to study,ukufunda
 to surprise,ukumangala
 to surround,ukuzungeza
 to take care,ukuze unakekele
 to think,ukucabanga
-to think of,ukucabanga ngakho
 to touch,ukuze uthinte
 to try,ukuzama
 to understand,ukuqondisisa
