@@ -1,7 +1,6 @@
 about,pri
 across,trans
 adult,adolto
-agudo,akra
 ahead,antaŭen
 alga,algo
 amazing,exstrema
@@ -102,21 +101,23 @@ grey,grizi
 ground,tero
 hair,haro
 hand,mano
+happy,feliĉa
 head,kapo
 healthy,sani
 hear,aŭskulti
 heavy,pezi
+high-pitched,altkampaj
 hippopotamus,hipopotamo
 hole,truo
 home,hejmo
 hot,varma
+housefly,muŝo
 idear,pensi
 in front,antaŭ
 infinite,senfina
 information,informoj
 inside,ene
 jellyfish,meduzo
-joyful,ĝoja
 kangaroo,kanguruo
 koala,koalo
 late,malfrue
@@ -140,7 +141,6 @@ metal,metalo
 mixed,miksita
 moral,morala
 more,pli
-mosca,muŝo
 mosquito,moskito
 mountain,monto
 mushroom,fungo
@@ -155,7 +155,6 @@ okay,bone
 old,malnova
 opaque,opaka
 opossum,didelfo
-ordenar,ordo
 ostrich,struto
 part,parto
 path,vojo
@@ -211,7 +210,7 @@ solid,solida
 sour,dolĉa
 south,sude
 soy,sojfabo
-kosmo,spaco
+space,kosmo
 specialist,specialisto
 specific,specifa
 spicy,spica
@@ -275,6 +274,7 @@ to move,movi
 to need,bezoni
 to notice,rimarki
 to obey,obei
+to order,ordo
 to own,posedi
 to party,festi
 to pay attention,atenti

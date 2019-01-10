@@ -27,7 +27,7 @@ light {GENITIVE:photic; optic; luminescient},*luz,epo <lumo> [ˈlumo],lum
 "god; deity; a general term, not a reference to any particular god {GENITIVE:divine; godly; deific}",,epo <Dio> [ˈdio],tioh
 ground; planet {GENITIVE:terrestrial; planetary},,hin <भूमि> [b̤uːmi],pum
 sky; atmosphere; weather; heavens {GENITIVE:celestial; atmospheric; meteorological; aerial},,OPPOSITE OF ground,mim
-cosmos; outer *space {GENITIVE:cosmic; astral; interstellar},,ben <স্থান> [s̪t̪ʰan̪],san
+outer *space; cosmos {GENITIVE:cosmic; astral; interstellar},,ben <স্থান> [s̪t̪ʰan̪],san
 sun; star {GENITIVE:solar; stellar},,spa <sol> [sol],sol
 moon; satelite {GENITIVE:lunar},,OPPOSITE OF sun,hel
 ocean; sea {GENITIVE:marine; oceanic},,epo <maro> [ˈmaro],mal
@@ -78,7 +78,7 @@ soy; soybean {GENITIVE:sojan},,spa <soja> [ˈsoxa],soh
 tomato {GENITIVE:tomatan},,jav <tomat> [tomat],tomal
 grape {GENITIVE:vineal},,cmn <葡萄> [pʰu˧˥tʰɑʊ̯],putawh
 apple {GENITIVE:pomaceous},,epo <pomo> [ˈpomo],pom
-"information; notion, number, etc. {GENITIVE:informational; notional; numerical; theoretical}",,swa <habari> [haɓaɾi],hapal
+"information; notion; data; number {GENITIVE:informational; theoretical}",,swa <habari> [haɓaɾi],hapal
 season {GENITIVE:seasonal},,epo <sezono> [seˈzono],seson
 reality; possibility; world; dimension; universe {GENITIVE:realistic; possible; dimensional},,spa <realidad> [realiˈðað],lealital
 culture; nation {GENITIVE:cultural; national},,epo <kulturo> [kulˈturo],kutul
@@ -125,7 +125,7 @@ frog; toad,,ono [kwak kwak],kwakwam
 fish {GENITIVE:pescous; aquatic},,ben <মাছ> [mat͡ɕʰ],maf
 carp; koi; catfish; loach; minnow; herring; tetra,,hin <काप> [kaːp],kam
 salmon; trout; pike; dragonfish; smelt,,spa <salmón> [salˈmon],samon
-tuna; mackerel,,hin <टूना> [ʈuːnaː],tun
+tuna; tunafish; mackerel,,hin <टूना> [ʈuːnaː],tun
 seahorse,,cmn <海马> [xaɪ̯˧˩˧ma˧˩˧],hajm
 shark,,epo <ŝarko> [ˈʃarko],cal
 ray; manta ray; stingray; skate,,spa <rayo> [ˈraʝo],lajoh
@@ -137,18 +137,18 @@ crustacean; *crab; lobster,,msa <ketam> [ketam],ketam
 barnacle; copepod,,yor <ọwọn> [ɔwɔ̃],howon
 beetle,,cmn <甲虫> [t͡ɕja˧˩˧ʈ͡ʂʰʊ̯ŋ˧˥],cjacun
 mosquito,,yor <efon> [efon],hefon
-fly; housefly,*mosca,cmn <飞> [feɪ̯˥],feh
+fly; *housefly,mosca,cmn <飞> [feɪ̯˥],feh
 flea,,epo <pulo> [ˈpulo],pul
 butterfly; moths,,cmn <蝴蝶> [xu˧˥tjɛ˧˥],hutjeh
 wasp,,ibo <wep> [wep],hwem
 ant,,pan <ਕੀੜੀ> [kiɽi],kil
 bee,,ono [zum zum],susum
 cricket; grasshopper; tatydids,,spa <Grillo> [ˈɡɾiʝo],kioh
-cockroach,,epo <koĥoraĝa> [koxoˈrad͡ʒa],koholaf
+cockroach; roach; termite,,epo <koĥoraĝa> [koxoˈrad͡ʒa],koholaf
 mantis,,cmn <螂> [lɑŋ˧˥],lan
-earwig,,ben <কেন্নো> [ken̪n̪o],ken
+earwig; dermapteran,,ben <কেন্নো> [ken̪n̪o],ken
 worm,,hin <कीड़ा> [kiːɽaː],kil
-slug,,spa <babosa> [baˈβosa],papoh
+slug; land slug,,spa <babosa> [baˈβosa],papoh
 nautilus,,epo <naŭtilo> [nawˈtilo],nawtil
 anemone,,eng <anemone> [anemone],hanemon
 jellyfish,,spa <Medusa> [meˈðusa],metuh
@@ -160,6 +160,6 @@ fern,,eng <fern> [fern],fen
 tree,,hin <पेड़> [peɽ],pel
 cactus,,,
 cattail; typha,,epo <kato> [ˈkato],kal
-grass,,pan <ਘਾਹ> [kɑɦ],kah
+grass; seagrass; rush; sedge,,pan <ਘਾਹ> [kɑɦ],kah
 bamboo,,spa <bambú> [bamˈbu],pam
 machine; robot; automaton,,ben <মেশিন> [meɕin̪],mecin

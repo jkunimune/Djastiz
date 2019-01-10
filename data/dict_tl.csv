@@ -1,7 +1,6 @@
 about,tungkol sa
 across,sa kabuuan
 adult,matanda
-agudo,matalim
 ahead,maaga
 alga,alga
 amazing,kahanga-hangang
@@ -102,21 +101,23 @@ grey,kulay-abo
 ground,lupa
 hair,buhok
 hand,kamay
+happy,masaya
 head,ulo
 healthy,malusog
 hear,dinggin
 heavy,mabigat
+high-pitched,high-pitched
 hippopotamus,hippopotamus
 hole,butas
 home,bahay
 hot,mainit
+housefly,malinis
 idear,isipin
 in front,sa harap
 infinite,walang katapusan
 information,impormasyon
 inside,sa loob
 jellyfish,dikya
-joyful,masaya
 kangaroo,kangaroo
 koala,koala
 late,huli
@@ -140,7 +141,6 @@ metal,metal
 mixed,magkakahalo
 moral,moral
 more,higit pa
-mosca,lumipad
 mosquito,lamok
 mountain,bundok
 mushroom,kabute
@@ -155,7 +155,6 @@ okay,Sige
 old,matanda
 opaque,hindi kanais-nais
 opossum,opossum
-ordenar,order
 ostrich,ostrich
 part,bahagi
 path,landas
@@ -275,6 +274,7 @@ to move,gumalaw
 to need,kailangan
 to notice,mapansin
 to obey,Sundin
+to order,mag-order
 to own,pagmamay-ari
 to party,sa partido
 to pay attention,bigyang-pansin

@@ -1,7 +1,6 @@
 about,ਬਾਰੇ
 across,ਭਰ ਵਿੱਚ
 adult,ਬਾਲਗ਼
-agudo,ਤਿੱਖ
 ahead,ਅੱਗੇ
 alga,algae
 amazing,ਹੈਰਾਨੀਜਨਕ
@@ -102,21 +101,23 @@ grey,ਗ੍ਰੇ
 ground,ਜ਼ਮੀਨ
 hair,ਵਾਲ
 hand,ਹੱਥ
+happy,ਖੁਸ਼
 head,ਸਿਰ
 healthy,ਤੰਦਰੁਸਤ
 hear,ਸੁਣੋ
 heavy,ਭਾਰੀ
+high-pitched,ਉੱਚੇ ਪਿੜ
 hippopotamus,ਨਛਲੀ ਪਾਲਣ
 hole,ਮੋਰੀ
 home,ਘਰ
 hot,ਗਰਮ
+housefly,ਘਰੇਲੂ ਪੱਤਣ
 idear,ਸੋਚੋ
 in front,ਅੱਗੇ
 infinite,ਬੇਅੰਤ
 information,ਜਾਣਕਾਰੀ
 inside,ਅੰਦਰ
 jellyfish,ਜੈਲੀਫਿਸ਼
-joyful,ਖੁਸ਼ਹਾਲ
 kangaroo,ਕਾਂਗੜੂ
 koala,ਕੋਆਲਾ
 late,ਦੇਰ ਨਾਲ
@@ -140,7 +141,6 @@ metal,ਮੈਟਲ
 mixed,ਮਿਲਾਇਆ
 moral,ਨੈਤਿਕ
 more,ਹੋਰ
-mosca,ਉੱਡੋ
 mosquito,ਮੱਛਰ
 mountain,ਪਹਾੜ
 mushroom,ਖੁੰਭ
@@ -155,7 +155,6 @@ okay,ਠੀਕ ਹੈ
 old,ਪੁਰਾਣੇ
 opaque,ਅਪਾਰਦਰਸ਼ੀ
 opossum,ਓਸੋਂਸਮ
-ordenar,ਆਰਡਰ
 ostrich,ਸ਼ੁਤਰਮੁਰਗ
 part,ਭਾਗ
 path,ਮਾਰਗ
@@ -275,6 +274,7 @@ to move,ਅੱਗੇ ਵਧਣ ਲਈ
 to need,ਦੀ ਜ਼ਰੂਰਤ ਹੈ
 to notice,ਨੋਟਿਸ ਕਰਨ ਲਈ
 to obey,ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ
+to order,ਮੰਗਵਾਉਣਾ
 to own,ਆਪਣੀ ਮਾਲਕੀ ਲਈ
 to party,ਪਾਰਟੀ ਕਰਨ ਲਈ
 to pay attention,ਧਿਆਨ ਦੇਣ ਲਈ
