@@ -2,7 +2,7 @@ about,حول
 across,عبر
 adult,بالغ
 ahead,المكانية
-alga,طحلب
+algae,طحلب
 amazing,رائعة حقا
 anemone,شقائق النعمان
 animal,حيوان
@@ -24,16 +24,16 @@ body,الجسم
 broad,واسع
 broken,مكسور
 brown,بنى
-bug,بق
+bug,بقة
 burnt,أحرق
-bustard,الحباري دجاجة
+bustard,حباريات
 butterfly,فراشة
 buttocks,ردفان
 cactus,صبار
 camel,جمل
 carp,الكارب
-cattail,كاتيل
-certain,المؤكد
+cattail,بوط
+certain,متأكد
 chest,صدر
 chunky,مكتنزة
 circular,دائري
@@ -47,7 +47,7 @@ computer,الحاسوب
 continent,قارة
 control,مراقبة
 corn,حبوب ذرة
-counterclockwise,عكس عقارب الساعه
+counterclockwise,عكس عقارِب الساعة
 country,بلد
 crab,سلطعون
 cricket,كريكيت
@@ -58,15 +58,15 @@ cupped,المقعر
 damaged,التالفة
 dense,كثيف
 derecha,حق
-descansar,بقية
+descansar,يستند
 different,مختلف
-earwig,حاول التأثير على شخص
+earwig,أبو مقص
 east,الشرق
 easy,سهل
 egg,بيضة
 electricity,كهرباء
 elephant,فيل
-escama,تقشر
+escama,حرشفة
 excited,فرح
 face,وجه
 faith,إيمان
@@ -106,13 +106,13 @@ head,رئيس
 healthy,صحي
 hear,سمع
 heavy,ثقيل
-high-pitched,مُرْتَفِع
+high-pitched,
 hippopotamus,فرس نهر
 hole,الفجوة
 home,الصفحة الرئيسية
 hot,الحار
 housefly,ذُبابة
-idear,ابتكار
+idear,يفكر في
 in front,امام
 infinite,غير محدود
 information,معلومات
@@ -124,7 +124,7 @@ late,متأخر
 layout,نسق
 leaf,ورقة الشجر
 leg,رجل
-letra,رسالة
+letra,حَرف
 likely,المحتمل أن
 liquid,سائل
 lizard,سحلية
@@ -151,10 +151,10 @@ neat,أنيق
 network,شبكة الاتصال
 notion,خيالى
 ocean,محيط
-okay,حسنا
+okay,جيدا
 old,قديم
 opaque,مبهمة
-opossum,الأ بوسوم حيوان أمريكي
+opossum,
 ostrich,نعامة
 part,جزء
 path,مسار
@@ -168,10 +168,10 @@ point,نقطة
 possible,ممكن
 powder,مسحوق
 pregnant,حامل
-present,حاضر
+present,مَوجود
 proud,فخور
 raccoon,حيوان الراكون
-ray,شعاع
+ray,شفنينيات
 reality,واقع
 reason,السبب
 recto,مباشرة
@@ -186,7 +186,6 @@ rotten,فاسد
 salmon,سمك السالمون
 salty,مالح
 scorpion,برج العقرب
-seahorse,فرس البحر
 seal,اغلاق محكم
 season,الموسم
 see,نرى
@@ -201,7 +200,7 @@ shiny,لامع
 should,ينبغي
 simple,بسيط
 skillful,بارع
-slug,سبيكة
+slug,بزاق
 smell,رائحة
 smooth,ناعم
 social,اجتماعي
@@ -210,7 +209,7 @@ solid,صلب
 sour,حامض
 south,جنوب
 soy,الصويا
-space,الفراغ
+space,فضاء
 specialist,متخصص
 specific,محدد
 spicy,حار
@@ -231,9 +230,9 @@ surface,سطح - المظهر الخارجي
 sweet,حلو
 tangible,ملموس
 tangled,متشابكة
-tapir,التابير حيوان شبيه بالخنزير
+tapir,سناديات
 taste,المذاق
-tenso,عصبي
+tenso,مقلق
 thick,سميك
 tick,علامة
 tired,متعبه
@@ -242,12 +241,12 @@ to act,لكي تمثل
 to anticipate,لاستباق
 to believe,لتصدق
 to bounce,لترتد
-to care,يعتني
+to care,يهتم
 to choose,لإختيار
 to continue,لاستكمال
 to convert,لتحويل
 to cook,للطبخ
-to correspond,لتتوافق
+to correspond,
 to cost,يكلف
 to deal,للتعامل
 to deserve,ليستحق
@@ -266,7 +265,7 @@ to hit,لتضرب
 to hold,ليمسك
 to hunt,لمطاردة
 to know,لتعرف
-to live,ليعيش
+to live,يعيش
 to love,يحب
 to mean,يعني
 to model,للعرض
@@ -274,7 +273,7 @@ to move,للانتقال
 to need,لكى يحتاج للحاجه
 to notice,للملاحظة
 to obey,طاعة
-to order,يُرَتِّب
+to order,يرتب
 to own,لامتلاك
 to party,لنحتفل
 to pay attention,انتبه
@@ -302,10 +301,10 @@ to step,لتخطو
 to study,ليدرس
 to surprise,يفاجئ
 to surround,ليحيط
-to take care,لرعاية
+to take care,شيء
 to think,ليفكر
 to touch,للمس
-to try,لكي يحاول
+to try,يحاوِل
 to understand,لفهم
 to wait,بالانتظار \ في الانتظار
 to want,لأريد
@@ -319,7 +318,7 @@ torso,جذع التمثال
 touch,لمس. اتصال. صلة
 tree,شجرة
 tuna,تونة
-turned on,تشغيل
+turned on,شغال
 turtle,سلحفاة
 typical,نموذجي
 vagina,المهبل

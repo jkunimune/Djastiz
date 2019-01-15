@@ -2,7 +2,7 @@ about,ਬਾਰੇ
 across,ਭਰ ਵਿੱਚ
 adult,ਬਾਲਗ਼
 ahead,ਅੱਗੇ
-alga,algae
+algae,ਐਲਗੀ
 amazing,ਹੈਰਾਨੀਜਨਕ
 anemone,ਅਨੀਮੋਨ
 animal,ਜਾਨਵਰ
@@ -24,16 +24,16 @@ body,ਸਰੀਰ
 broad,ਵਿਆਪਕ
 broken,ਟੁੱਟਿਆ
 brown,ਭੂਰਾ
-bug,ਬੱਗ
+bug,মহাশূণ্য
 burnt,ਸਾੜ ਦਿੱਤਾ
-bustard,ਬਰੱਸਟਰ
+bustard,
 butterfly,ਬਟਰਫਲਾਈ
 buttocks,ਨੱਟੜ
 cactus,ਕੈਪਟਸ
 camel,ਊਠ
 carp,ਕਾਰਪ
-cattail,cattail
-certain,ਕੁਝ ਖਾਸ
+cattail,
+certain,মহাশূণ্য
 chest,ਛਾਤੀ
 chunky,ਠੰਡੇ
 circular,ਸਰਕੂਲਰ
@@ -47,26 +47,26 @@ computer,ਕੰਪਿਊਟਰ
 continent,ਮਹਾਂਦੀਪ
 control,ਨਿਯੰਤਰਣ
 corn,ਮਕਈ
-counterclockwise,ਖੱਬੇ ਦਾਅ ਵੱਲ
+counterclockwise,
 country,ਦੇਸ਼
 crab,ਕੇਕੜਾ
 cricket,ਕ੍ਰਿਕੇਟ
 crocodile,ਮਗਰਮੱਛ
 crystal,ਕ੍ਰਿਸਟਲ
 culture,ਸਭਿਆਚਾਰ
-cupped,cupped
+cupped,
 damaged,ਨੁਕਸਾਨ
 dense,ਸੰਘਣਾ
 derecha,ਸੱਜੇ
-descansar,ਆਰਾਮ
+descansar,ਟਿਕ
 different,ਵੱਖ ਵੱਖ
-earwig,ਈਅਰਵਿਗ
+earwig,
 east,ਪੂਰਬ
 easy,ਆਸਾਨ
 egg,ਅੰਡੇ
 electricity,ਬਿਜਲੀ
 elephant,ਹਾਥੀ
-escama,ਆਟਾ
+escama,ਸਕੇਲ
 excited,ਉਤਸ਼ਾਹਿਤ
 face,ਚਿਹਰਾ
 faith,ਵਿਸ਼ਵਾਸ
@@ -106,13 +106,13 @@ head,ਸਿਰ
 healthy,ਤੰਦਰੁਸਤ
 hear,ਸੁਣੋ
 heavy,ਭਾਰੀ
-high-pitched,ਉੱਚੇ ਪਿੜ
+high-pitched,ਮਹੀਨ
 hippopotamus,ਨਛਲੀ ਪਾਲਣ
 hole,ਮੋਰੀ
 home,ਘਰ
 hot,ਗਰਮ
-housefly,ਘਰੇਲੂ ਪੱਤਣ
-idear,ਸੋਚੋ
+housefly,ਮੱਖੀ
+idear,ਸੋਚ
 in front,ਅੱਗੇ
 infinite,ਬੇਅੰਤ
 information,ਜਾਣਕਾਰੀ
@@ -124,13 +124,13 @@ late,ਦੇਰ ਨਾਲ
 layout,ਖਾਕਾ
 leaf,ਪੱਤਾ
 leg,ਲੱਤ
-letra,ਪੱਤਰ
+letra,ਅੱਖਰ
 likely,ਸੰਭਾਵਨਾ
 liquid,ਤਰਲ
 lizard,ਕਿਰਲੀ
 long,ਲੰਬੇ
 low,ਘੱਟ
-luz,ਰੋਸ਼ਨੀ
+luz,ਪ੍ਰਕਾਸ਼
 machine,ਮਸ਼ੀਨ
 magical,ਜਾਦੂਈ
 mammal,ਸਮੱਰਥ
@@ -151,15 +151,14 @@ neat,ਸਾਫ਼
 network,ਨੈੱਟਵਰਕ
 notion,ਵਿਚਾਰ
 ocean,ਸਮੁੰਦਰ
-okay,ਠੀਕ ਹੈ
+okay,ਠੀਕ
 old,ਪੁਰਾਣੇ
 opaque,ਅਪਾਰਦਰਸ਼ੀ
-opossum,ਓਸੋਂਸਮ
+opossum,
 ostrich,ਸ਼ੁਤਰਮੁਰਗ
 part,ਭਾਗ
 path,ਮਾਰਗ
 person,ਵਿਅਕਤੀ
-phrase,ਵਾਕ
 pidgeon,ਪੀਜੇਨ
 pig,ਸੂਰ
 plant,ਪੌਦਾ
@@ -168,10 +167,10 @@ point,ਬਿੰਦੂ
 possible,ਸੰਭਵ
 powder,ਪਾਊਡਰ
 pregnant,ਗਰਭਵਤੀ
-present,ਮੌਜੂਦ
+present,
 proud,ਮਾਣ
 raccoon,ਰਕੋਨ
-ray,ਰੇ
+ray,ਰ
 reality,ਅਸਲੀਅਤ
 reason,ਕਾਰਨ
 recto,ਸਿੱਧੀ
@@ -186,14 +185,13 @@ rotten,ਸੁੱਤਾ ਹੋਇਆ
 salmon,ਸਾਮਨ ਮੱਛੀ
 salty,ਖਾਰੇ
 scorpion,ਬਿੱਛੂ
-seahorse,ਸਮੁੰਦਰੀ ਕੰਢੇ
 seal,ਸੀਲ
 season,ਸੀਜ਼ਨ
 see,ਦੇਖੋ
 seed,ਬੀਜ
 sentence,ਸਜ਼ਾ
 serious,ਗੰਭੀਰ
-sex,ਸੈਕਸ
+sex,
 shape,ਆਕਾਰ
 shark,ਸ਼ਾਰਕ
 sharp,ਤਿੱਖ
@@ -201,7 +199,7 @@ shiny,ਚਮਕਦਾਰ
 should,ਚਾਹੀਦਾ ਹੈ
 simple,ਆਸਾਨ
 skillful,ਕੁਸ਼ਲ
-slug,ਸਲਗ
+slug,
 smell,ਗੰਧ
 smooth,ਨਿਰਮਲ
 social,ਸਮਾਜਕ
@@ -210,7 +208,7 @@ solid,ਠੋਸ
 sour,ਖੱਟਾ
 south,ਦੱਖਣ
 soy,ਸੋਏ
-space,ਸਪੇਸ
+space,ਪੁਲਾੜ
 specialist,ਮਾਹਰ
 specific,ਖਾਸ
 spicy,ਮਸਾਲੇਦਾਰ
@@ -231,9 +229,9 @@ surface,ਸਤਹ
 sweet,ਮਿੱਠੇ
 tangible,ਠੋਸ
 tangled,ਗੰਢ
-tapir,ਟੇਪਿਰ
+tapir,
 taste,ਸੁਆਦ
-tenso,ਤਣਾਅ
+tenso,
 thick,ਮੋਟਾ
 tick,ਟਿਕ ਜਾਓ
 tired,ਥੱਕੇ ਹੋਏ
@@ -242,12 +240,12 @@ to act,ਕਰਨਾ
 to anticipate,ਅੰਦਾਜ਼ਾ ਲਗਾਉਣ ਲਈ
 to believe,ਵਿਸ਼ਵਾਸ ਕਰਨ ਲਈ
 to bounce,ਉਛਾਲਣ ਲਈ
-to care,ਧਿਆਨ ਰੱਖਣਾ
+to care,
 to choose,ਦੀ ਚੋਣ ਕਰਨ ਲਈ
 to continue,ਚਾਲੂ
 to convert,ਬਦਲਣ ਲਈ
 to cook,ਪਕਾਉਣ ਲਈ
-to correspond,ਸੰਤੁਸ਼ਟ ਕਰਨ ਲਈ
+to correspond,
 to cost,ਲਾਗਤ ਨੂੰ
 to deal,ਸਾਮਣਾ ਕਰਨਾ
 to deserve,ਹੱਕਦਾਰ
@@ -266,7 +264,7 @@ to hit,ਹਿੱਟ ਕਰਨ ਲਈ
 to hold,ਨੂੰ ਰੱਖਣ ਲਈ
 to hunt,ਸ਼ਿਕਾਰ ਕਰਨਾ
 to know,ਨੂੰ ਪਤਾ ਕਰਨ ਲਈ
-to live,ਜੀਣ ਦੇ ਲਈ
+to live,
 to love,ਪਿਆਰ ਕਰਨਾ
 to mean,ਮਤਲਬ
 to model,ਮਾਡਲ ਤੋਂ
@@ -274,7 +272,7 @@ to move,ਅੱਗੇ ਵਧਣ ਲਈ
 to need,ਦੀ ਜ਼ਰੂਰਤ ਹੈ
 to notice,ਨੋਟਿਸ ਕਰਨ ਲਈ
 to obey,ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ
-to order,ਮੰਗਵਾਉਣਾ
+to order,
 to own,ਆਪਣੀ ਮਾਲਕੀ ਲਈ
 to party,ਪਾਰਟੀ ਕਰਨ ਲਈ
 to pay attention,ਧਿਆਨ ਦੇਣ ਲਈ
@@ -302,7 +300,7 @@ to step,ਕਦਮ
 to study,ਅਧਿਐਨ ਕਰਨ ਲਈ
 to surprise,ਹੈਰਾਨ ਕਰਨ ਲਈ
 to surround,ਨੂੰ ਘੇਰਨ ਲਈ
-to take care,ਧਿਆਨ ਰੱਖਣ ਲਈ
+to take care,
 to think,ਸੋਚਣ ਲਈ
 to touch,ਛੋਹਣ ਲਈ
 to try,ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ
@@ -319,7 +317,7 @@ torso,ਧੜ
 touch,ਛੂਹੋ
 tree,ਟ੍ਰੀ
 tuna,ਟੁਨਾ
-turned on,ਚਾੱਲੂ ਕੀਤਾ
+turned on,
 turtle,ਕਛੂ
 typical,ਆਮ
 vagina,ਯੋਨੀ

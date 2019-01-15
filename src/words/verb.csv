@@ -32,12 +32,12 @@ move down; position; sort; SBJ {sorter} moves OBJ down the sequence IND {sorted}
 move up; position; SBJ moves OBJ up the sequence IND,,CESSATIVE OF be number,
 say; convey; SBJ {sayer} conveys IND {message; idea; signal; utterance} to OBJ {addressee} {INSTRUMENT:phone; cell phone; communicator; communication device|METHOD:language; protocol {GENITIVE:linguistic; lingual}},,,
 consult; look up; reference; refer; read; SBJ retrieves IND {desired information} from OBJ {reference; table; consultation},,REVERSAL OF say,
-perceive; sense; observe; beI perceptible; can see; can hear; can feel; can smell; can taste; OBJ {perceiver; observer} can perceive IND {perception; experience {GENITIVE:subjective}} {INSTRUMENT:sense; sensor|GENITIVE:perceptual},,,
+perceive; sense; observe; beI perceptible; see; hear; feel; smell; taste; OBJ {perceiver; observer} perceives IND {perception; experience {GENITIVE:subjective}} {INSTRUMENT:sense; sensor|GENITIVE:perceptual},,,
 show; look; listen; sniff; taste; read; SBJ {shower; looker; listener} shows IND {show} to OBJ,,INCOHATIVE OF perceive,
 obscure; hide; remove; cloud; SBJ {cloud} makes OBJ stop perceiving IND {cloudy},,CESSATIVE OF perceive,
 can see; see; view; OBJ {seer} sees IND {image; picture; sight; view} {GENITIVE:visual; optic},,,
-show; look; SBJ shows IND {show; visualisation} to OBJ visually,,INCOHATIVE OF can see,
-hide; remove from view; SBJ makes OBJ stop seeing IND,,CESSATIVE OF can see,
+look; reveal; SBJ shows IND {show; visualisation} to OBJ visually,,INCOHATIVE OF can see,
+hide; obscure; remove from view; SBJ makes OBJ stop seeing IND,,CESSATIVE OF can see,
 watch; stare; SBJ forces OBJ to watch IND,,PROGRESSIVE OF can see,
 be sighted; OBJ is sighted,,POSSIBILITY OF can see,
 be blind; OBJ is blind,,NEGATIVE OF be sighted,
@@ -62,7 +62,7 @@ hide tactually; SBJ makes OBJ stop feeling IND,,CESSATIVE OF can feel,
 read; load; interpret; SBJ {reader} reads OBJ {file; text; reading; passage; data; note} from the physical state of IND {source},,,
 write; record; type; mark; save; transcribe; SBJ {writer} encodes OBJ {writing; data} physically on IND {record} {INSTRUMENT:writing utensil|LOCATION:desk; writing surface|GENITIVE:literary; scriptural|METHOD:script; writing system; encoding},,,
 erase; overwrite; obscure; SBJ {eraser} removes traces of OBJ {erased} from IND {INSTRUMENT:eraser},,REVERSAL OF write,
-speak; voice; say out loud; SBJ says IND {quote; words; phrase; utterance; speech} to OBJ out loud {INSTRUMENT:voice|GENITIVE:vocal; locutory},,,
+speak; voice; say out loud; SBJ says IND {quote; words; phrase; utterance; speech} to OBJ out loud {INSTRUMENT:voice|GENITIVE:vocal; locutory|MANNER:accent; manner of speech},,,
 be tangible; be physical; be objective; OBJ {object; thing} is tangible,,,
 be digital; be intangible; be abstract; be nonphysical; OBJ {concept} is abstract,,ANTONYM OF be tangible,
 print; tangiblise; soidify; SBJ {printer} brings OBJ into the physical realm,,INCOHATIVE OF be tangible,
@@ -85,7 +85,7 @@ stack; layer; SBJ {stacker} stacks OBJ onto IND,,INCOHATIVE OF be stacked,
 unstack; unlayer; SBJ {unstacker} unstacks OBJ from IND,,CESSATIVE OF be stacked,
 "be sure; be *certain; beI probable; beI likely; OBJ is likely to happen according to IND; see ""believe"" and ""think"" {AMOUNT:Bayesian probability}",,,
 be skeptical; beI improbable; beI unlikely; Bayesian improbability; IND is unlikely to happen according to OBJ {skeptic},,ANTONYM OF be sure,
-convince; become sure; SBJ provides new information that leads OBJ to come to find IND probable,,INCOHATIVE OF be sure,
+convince; persuade; make sure; SBJ provides new information that leads OBJ to come to find IND probable,,INCOHATIVE OF be sure,
 unconvince; become skeptical; SBJ provides new information that leads IND comes to beI OBJ improbable,,CESSATIVE OF be sure,
 "believe; seem; OBJ {believer} accepts that IND {seeming} is true on a subconcious level; see ""be sure"" and ""think""",,,
 "think; appear; OBJ {thinker; accepter} conciously decides that IND {apparent} is true; see ""be sure"" and ""believe""",,,
@@ -214,7 +214,7 @@ ignore; disregard; OBJ pays little attention to IND,,ANTONYM OF pay attention,
 give attention; draw attention; SBJ makes OBJ pay attention to IND,,INCOHATIVE OF pay attention,
 distract; SBJ makes OBJ stop paying attention to IND,,CESSATIVE OF pay attention,
 mean; call; be meaningful; SBJ means IND {definition; meaning; denotation; named} by OBJ {name; signal; word; significant} {METHOD:convention; protocol},,,
-live; be alive; be lively; OBJ {life; organism; living thing} is alive {AMOUNT:liveliness|TIME:life},,,
+live; be alive; be lively; survive; reside; OBJ {life; organism; living thing} is alive {AMOUNT:liveliness|TIME:life|LOCATION:residence},,,
 be dead; be unlively; OBJ {corpse} is dead {TIME:death},,ANTONYM OF be alive,
 bring to life; come to life; SBJ brings OBJ to life,,INCOHATIVE OF be alive,
 kill; murder; die; pass away; SBJ {killer; murderer} kills OBJ,,CESSATIVE OF be alive,
@@ -246,7 +246,7 @@ land; down; ground; take down; alight; SBJ brings OBJ down from the air,,CESSATI
 roll; be rolling; OBJ {wheel; roller} is rolling,,,
 start rolling; roll from; SBJ {roller} makes OBJ start rolling,,INCOHATIVE OF roll,
 stop rolling; roll into; SBJ makes OBJ stop rolling,,CESSATIVE OF roll,
-be on; rest on; support; OBJ {at rest; on top} is on IND {table; ground; floor; support; base},estar en; *descansar; sostener; OBJ {descansando; arriba} esta en IND {mesa; piso; suelo; base},,
+be on; rest on; lean on; support; OBJ {at rest; on top} is on IND {table; ground; floor; support; base},estar en; *descansar; sostener; OBJ {descansando; arriba} esta en IND {mesa; piso; suelo; base},,
 be inside; be in; contain; be inner; be central; be in the middle; OBJ {indoors; room; content; center; middle; heart; bowels} is inside IND {container} {AMOUNT:innerness},,,
 be outside; be outer; be peripheral; OBJ {outdoors; edge; fringe} is outside of IND,,ANTONYM OF be inside,
 enter; insert; put in; SBJ moves OBJ into IND,,INCOHATIVE OF be inside,
@@ -299,7 +299,7 @@ sell; buy; vend; purchase; OBJ {buyer; customer} legally obtains IND {good; serv
 plan; expect; OBJ {expecting} expects IND {plan; expectation} to happen {INSTRUMENT:planner; planning tool},,,
 deduce; compute; *reason; be reasonable; be logical; figure; figure out; compute; think through; SBJ {reasonable} logically deduces OBJ {conclusion; computation},,,
 act crazy; be unreasonable; be illogical; jump to conclusion; guess; SBJ {unreasonable; crazy} comes to the conclusion OBJ without any logic,,OPPOSITE OF deduce,
-think of; come up with; invent; SBJ {creative; clever; idea person} thinks of OBJ {idea; thought; invention} {CAUSE:inspiration},*idear; sugerir; proponer; SBJ {creativo} idea OBJ {idea; pienso; invención} {CAUSE:inspiración},,
+think of; come up with; invent; have an idea; SBJ {creative; clever; idea person} thinks of OBJ {idea; thought; invention} {CAUSE:inspiration},*idear; sugerir; proponer; SBJ {creativo} idea OBJ {idea; pienso; invención} {CAUSE:inspiración},,
 ponder; think about; imagine; consider; SBJ {thinker} is thinks about OBJ {train of thought} {INSTRUMENT:mind; imaaagination},,,
 be ahead; have progress; OBJ is ahead of IND {AMOUNT:progress},,,
 be behind; lag; OBJ has fallen behind IND,,ANTONYM OF be ahead,
@@ -471,7 +471,9 @@ be elastic; be bouncy; be springy; OBJ is elastic {AMOUNT:elasticicity},,POSSIBI
 be inelastic; be unbouncy; be flat; be hard,,NEGATIVE OF be elastic,
 elastify; bouncify; make elastic; SBJ makes OBJ elastic,,INCOHATIVE OF be elastic,
 deelastify; make inelastic; SBJ makes OBJ less elastic,,CESSATIVE OF be elastic,
-grip; drag; OBJ exerts a frictional force on IND {AMOUNT:coefficient of friction},,,
+slide; slip; rub; scrub; wipe; SBJ slides OBJ {wipe; scrubber} on IND,,,
+be slippery; be smooth; OBJ is slippery on IND,,POSSIBILITY OF slide,
+grip; drag; be grippy; OBJ exerts a frictional force on IND {AMOUNT:coefficient of friction},,NEGATIVE OF be slippery,
 be made of; comprise; OBJ {construction; object; product} is made out of IND {*material; substance; chemical; element},,,
 make out of; turn to; SBJ {alchemist} changes OBJ to be made out of IND,,INCOHATIVE OF be made of,
 be wood; be wooden; OBJ is made out of wood,,,
@@ -495,7 +497,7 @@ isolate; SBJ socially isolates OBJ from IND,,CESSATIVE OF be social,
 ride; transport; SBJ {passenger} rides on OBJ {vehicle},,,
 play; OBJ {player} is playing IND {game; sport},,,
 wait; OBJ {in wait} is waiting for IND,,,
-be present; be around; be strong; OBJ is present,,,
+be present; attend; be around; be strong; OBJ is present,,,
 be absent; be gone; be away; be weak; OBJ is absent,,ANTONYM OF be present,
 summon; bring forth; pull up; place; SBJ summons OBJ,,INCOHATIVE OF be present,
 dispose; throw away; get rid; remove; SBJ disposes of OBJ {trash},,CESSATIVE OF be present,
@@ -523,14 +525,15 @@ fall asleep; put to sleep; fall unconscious; SBJ puts OBJ to sleep,,INCOHATIVE O
 wake up; come to; SBJ (alarm clock) wakes OBJ up,,CESSATIVE OF sleep,
 laugh; SBJ {laugher} laughs,,ono [ha ha],hahak
 burp; belch; SBJ {burper} burps,,ono [korop],kolop
-fart; flatulate; SBJ {farter} farts,,ono [pʰut],putut
-sneeze; SBJ {sneezer} sneezes,,ono [haˈt͡ʃuh],hacus
-yawn; SBJ {yawner} yawn,,ono [ˈhaː.aː],hawap
-hiccup; SBJ {cursed with hiccups} hiccups,,ono [hikk],hikik
-cough; SBJ {cougher} coughs,,ono [ʡah],kahak
+fart; flatulate; SBJ makes OBJ farts,,ono [pʰut],putut
+sneeze; SBJ makes OBJ sneezes,,ono [haˈt͡ʃuh],hacus
+yawn; SBJ makes OBJ yawn,,ono [ˈhaː.aː],hawap
+hiccup; SBJ makes OBJ hiccups,,ono [hikk],hikik
+cough; SBJ makes OBJ coughs,,ono [ʡah],kahak
+breathe; SBJ makes OBJ breathe,,ono [hi̤ːha̤ː],hiha
 kiss; snog; make out; SBJ {kisser} kisses OBJ {kissee},,ono [mwa],mwap
 swallow; suck; consume whole; SBJ {swallower} swallows OBJ {swallowed},,ono [glup glup],kulup
-have sex; fuck; do; SBJ initiates and has sex with OBJ,,,
+have sex; make love; SBJ initiates and has sex with OBJ,,,
 feel; emote; be exited; OBJ {emotional; emoticon} feels IND {emotion; feeling},,,
 be proud; OBJ feels proud of IND {pride},,,
 be ashamed; be sorry; be remorseful; regret; OBJ feels ashamed about IND {shameful},,ANTONYM OF be proud,
@@ -577,7 +580,7 @@ be likely; be unremarkable; be expectable; OBJ is likely {AMOUNT:P-value},,,
 be unlikely; be remarkable; be unexpected; OBJ {coincidence} is unlikely,,ANTONYM OF be likely,
 increase chances; explain away; favour; SBJ makes OBJ more likely,,INCOHATIVE OF be likely,
 decrease chances; find coincidence; SBJ makes OBJ less likely,,CESSATIVE OF be likely,
-correspond; be respective; OBJ corresponds to IND,,,
+correspond; match; be respective; OBJ corresponds to IND,,,
 be sharp; be clear; OBJ {edge; blade} is sharp,,,
 be dull; be blurry; be nebulous; OBJ is dull,,ANTONYM OF be sharp,
 sharpen; clarify; SBJ sharpens OBJ,,INCOHATIVE OF be sharp,
@@ -590,7 +593,6 @@ study; measure; conduct science; investigate; observe; experiment; test; researc
 engineer; SBJ {engineer} uses technical skills and fine problem-solving to solve OBJ {technical problem},,,
 be magical; do magic; SBJ {magician; sorcerer; wizard} makes OBJ {magic trick; spell} happen magically {INSTRUMENT:magic},,,
 hit; strike; collide; SBJ hits OBJ {INSTRUMENT:hammer},,,
-rub; scrub; wipe; SBJ rubs OBJ {INSTRUMENT:wipe; scrubber},,,
 "clap; slap; tick; spark; flash; SBJ makes OBJ {clap; slap; tick; spark; flash; a sudden, loud, shrill sound or action)",,ono [kʰ],kef
 "boom; crash; SBJ makes OBJ {boom; crash; a sudden, loud, sonorous sound or action}",,ono [bum],pum
 "screech; wail; whistle; SBJ makes OBJ {screech; wail; whistle; a drawn-out, shrill sound or action}",,ono [fwiː],fwih

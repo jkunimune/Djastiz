@@ -1,22 +1,22 @@
-about,tungkol sa
-across,sa kabuuan
+about,tungkol
+across,kabuuan
 adult,matanda
 ahead,maaga
-alga,alga
+algae,
 amazing,kahanga-hangang
-anemone,anemone
+anemone,
 animal,hayop
-ant,ant
+ant,
 apple,mansanas
 arm,braso
 art,sining
-bacterium,bacterium
+bacterium,
 bamboo,kawayan
 barnacle,tanghali
-bear,bear
+bear,
 beetle,salaginto
-below,sa ibaba
-between,sa pagitan
+below,ibaba
+between,pagitan
 big,malaki
 birth,kapanganakan
 blue,asul
@@ -24,18 +24,18 @@ body,katawan
 broad,malawak
 broken,sirang
 brown,kayumanggi
-bug,bug
+bug,kulisap
 burnt,nasunog
-bustard,bustard
-butterfly,butterfly
+bustard,
+butterfly,
 buttocks,pigi
-cactus,cactus
+cactus,
 camel,kamelyo
 carp,pamumula
-cattail,cattail
-certain,tiyak
+cattail,tambo
+certain,sigurado
 chest,dibdib
-chunky,chunky
+chunky,
 circular,pabilog
 city,lungsod
 claw,kuko
@@ -43,22 +43,22 @@ clean,malinis
 closed,sarado
 cockroach,ipis
 colour,kulay
-computer,computer
+computer,
 continent,kontinente
 control,kontrolin
 corn,mais
-counterclockwise,pakaliwa
+counterclockwise,
 country,bansa
 crab,alimango
 cricket,kuliglig
 crocodile,buwaya
 crystal,kristal
 culture,kultura
-cupped,cupped
+cupped,
 damaged,nasira
 dense,siksik
 derecha,tama
-descansar,pahinga
+descansar,sumandal
 different,iba
 earwig,earwig
 east,silangan
@@ -66,7 +66,7 @@ easy,madali
 egg,itlog
 electricity,kuryente
 elephant,elepante
-escama,manipis na piraso
+escama,kaliskis
 excited,nasasabik
 face,mukha
 faith,pananampalataya
@@ -82,7 +82,7 @@ flea,pulgas
 flower,bulaklak
 foamy,mabula
 fowl,unggoy
-friendly,friendly
+friendly,
 fruit,prutas
 full,buong
 fun,masaya
@@ -106,61 +106,61 @@ head,ulo
 healthy,malusog
 hear,dinggin
 heavy,mabigat
-high-pitched,high-pitched
-hippopotamus,hippopotamus
+high-pitched,matinis
+hippopotamus,
 hole,butas
 home,bahay
 hot,mainit
-housefly,malinis
-idear,isipin
-in front,sa harap
+housefly,langaw
+idear,umisip
+in front,harap
 infinite,walang katapusan
 information,impormasyon
-inside,sa loob
+inside,loob
 jellyfish,dikya
-kangaroo,kangaroo
-koala,koala
+kangaroo,
+koala,
 late,huli
-layout,layout
+layout,
 leaf,dahon
 leg,binti
-letra,sulat
+letra,letra
 likely,malamang
 liquid,likido
 lizard,butiki
 long,mahaba
 low,mababa
 luz,liwanag
-machine,machine
+machine,
 magical,mahiwagang
-mammal,mammal
+mammal,
 mantis,sasamba
 married,kasal
 material,materyal
 metal,metal
 mixed,magkakahalo
-moral,moral
-more,higit pa
+moral,
+more,higit
 mosquito,lamok
 mountain,bundok
 mushroom,kabute
 must,dapat
 natural,natural
-nautilus,nautilus
+nautilus,
 neat,malinis
-network,network
+network,
 notion,paniwala
 ocean,karagatan
-okay,Sige
+okay,mabuti
 old,matanda
 opaque,hindi kanais-nais
-opossum,opossum
-ostrich,ostrich
+opossum,oposum
+ostrich,
 part,bahagi
 path,landas
 person,tao
 phrase,parirala
-pidgeon,pidgeon
+pidgeon,
 pig,baboy
 plant,planta
 pleasure,kasiyahan
@@ -168,62 +168,61 @@ point,punto
 possible,maaari
 powder,pulbos
 pregnant,buntis
-present,kasalukuyan
+present,dumalo
 proud,mapagmataas
-raccoon,raccoon
-ray,ray
+raccoon,
+ray,
 reality,katotohanan
 reason,dahilan
 recto,tuwid
 red,pula
 region,rehiyon
-reptile,reptile
-rhinoceros,rhinoceros
+reptile,
+rhinoceros,
 rice,kanin
 rodent,daga
 root,root
 rotten,bulok
-salmon,salmon
+salmon,
 salty,maalat
 scorpion,alakdan
-seahorse,seahorse
 seal,selyo
 season,panahon
 see,tingnan
 seed,binhi
 sentence,pangungusap
 serious,seryoso
-sex,kasarian
-shape,Hugis
+sex,pagtatalik
+shape,hugis
 shark,pating
 sharp,matalim
 shiny,makintab
 should,dapat
 simple,simple
 skillful,magaling
-slug,slug
+slug,kuhol
 smell,amoy
 smooth,makinis
 social,panlipunan
 soil,lupa
-solid,solid
+solid,
 sour,maasim
-south,Timog
+south,timog
 soy,toyo
-space,space
+space,kalawakan
 specialist,espesyalista
 specific,tiyak
 spicy,maanghang
-spider,spider
+spider,
 stacked,isinalansan
-starboard,starboard
+starboard,
 steep,matarik
-stem,stem
-stick,stick
+stem,
+stick,
 stone,bato
 storm,bagyo
 story,kuwento
-string,string
+string,
 strong,malakas
 structure,istraktura
 sun,araw
@@ -233,84 +232,84 @@ tangible,nasasalat
 tangled,magkagulo
 tapir,tapir
 taste,lasa
-tenso,panahunan
+tenso,malubha
 thick,makapal
-tick,tik
+tick,
 tired,pagod
-to accompany,upang samahan
+to accompany,samahan
 to act,umarte
-to anticipate,upang mauna
+to anticipate,mauna
 to believe,maniwala
 to bounce,tumalbog
-to care,upang pangalagaan
-to choose,Pumili
-to continue,upang magpatuloy
-to convert,upang i-convert
+to care,alitanahin
+to choose,pumili
+to continue,magpatuloy
+to convert,
 to cook,magluto
-to correspond,na tumutugma
-to cost,sa gastos
+to correspond,makaayon
+to cost,gastos
 to deal,magkasundo
-to deserve,upang maging karapat-dapat
-to engineer,sa engineer
-to face,upang harapin
+to deserve,maging karapat-dapat
+to engineer,
+to face,harapin
 to fall,mahulog
-to fear,sa takot
+to fear,takot
 to feel,maramdaman
-to fight,para lumaban
+to fight,lumaban
 to fly,lumipad
-to function,upang gumana
-to govern,upang pamahalaan
+to function,gumana
+to govern,pamahalaan
 to grip,hawakan
-to help,para tumulong
+to help,tumulong
 to hit,na matamaan
 to hold,hawakan
-to hunt,upang mang-aso
-to know,para malaman
-to live,para mabuhay
+to hunt,mang-aso
+to know,malaman
+to live,mabuhay
 to love,magmahal
 to mean,ibig sabihin
-to model,sa modelo
+to model,modelo
 to move,gumalaw
 to need,kailangan
 to notice,mapansin
-to obey,Sundin
-to order,mag-order
+to obey,sundin
+to order,maghusay
 to own,pagmamay-ari
-to party,sa partido
+to party,partido
 to pay attention,bigyang-pansin
-to perceive,upang makita
+to perceive,makita
 to plan,magplano
-to play,Maglaro
-to ponder,upang pagnilayan
+to play,maglaro
+to ponder,pagnilayan
 to prosper,umunlad
-to push,para itulak
-to read,upang basahin
-to recall,upang maalala
-to relate,upang magkaugnay
-to repeat,upang ulitin
+to push,itulak
+to read,basahin
+to recall,maalala
+to relate,magkaugnay
+to repeat,ulitin
 to ride,sumakay
-to roll,upang gumulong
-to rub,upang kuskusin
-to say,upang sabihin
+to roll,gumulong
+to rub,kuskusin
+to say,sabihin
 to sell,ibenta
 to sit,umupo
 to sleep,matulog
 to speak,magsalita
 to spin,umikot
 to stand,tumayo
-to step,sa hakbang
+to step,hakbang
 to study,mag-aral
-to surprise,upang sorpresa
-to surround,upang palibutan
-to take care,para alagaan
-to think,Magisip
+to surprise,sorpresa
+to surround,palibutan
+to take care,mangalaga
+to think,magisip
 to touch,hawakan
-to try,subukan
+to try,magtangka
 to understand,maintindihan
 to wait,ang mag hintay
-to want,sa gusto
+to want,gusto
 to wear,isuot
-to win,para manalo
+to win,manalo
 to work,magtrabaho
 to worry,mag-alala
 to write,magsulat ng
@@ -318,15 +317,15 @@ tomato,kamatis
 torso,katawan ng tao
 touch,hawakan
 tree,puno
-tuna,tuna
-turned on,binuksan
+tuna,
+turned on,
 turtle,pagong
 typical,tipikal
 vagina,puki
 virus,virus
 viscous,malapot
 wasp,putakti
-whale,whale
+whale,
 wheat,trigo
 white,puti
 wide,malawak

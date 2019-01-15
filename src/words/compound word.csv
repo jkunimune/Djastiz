@@ -46,12 +46,12 @@ tell; implore; command; instruct; lead; SBJ {boss; commander} tells IND {instruc
 request; SBJ {requester} politely asks IND {requestee} to make OBJ {request} happen,please say,panatilas
 exclaim; SBJ {exclaimer} makes an exclamatory utterance of OBJ {exclamation} to IND,wow say,watilas
 greet; praise; celebrate; SBJ {greeter; praiser} makes a positive utterance of OBJ {praised; occasion} to IND {greeted},hello say,pajkwatilas
-complain; denounce; condemn; SBJ {complainer} makes a negative utterance of OBJ {complaint; denouncee} to IND {sympathetic ear},boo say,mawkwatilas
+complain; denounce; condemn; SBJ {complainer} makes a negative utterance of OBJ {complaint; denouncee} to IND ,boo say,mawkwatilas
 suggest; advise; SBJ suggests that IND do OBJ,should say,teustilas
 multiple,1 more,kanmaslon
 interact; interfere; involve; SBJ makes OBJ interact with IND,accompany happen
 dictionary,word list,suhtolis
-alphabet {GENITIVE:alphabetical},letter group,cinpaklam
+alphabet {GENITIVE:alphabetical},letter list,cintolis
 part-of-speech,word category,suhtetlam
 onomatopoeia,sound word,tiklamsuh
 design; SBJ {designer} makes OBJ {designed} with the goal of IND {design goal},try create,cicseskes
@@ -175,7 +175,7 @@ water; dihydrogen monoxide,be-alive liquid,hwoslikwitlon
 air; atmosphere; nitrogen and oxygen and all that jazz,sky gas,mimtukwitlon
 lava; magma,be-stone liquid,cislikwitlon
 mud,be-dirt liquid,kaklikwitlon
-oxygen,be-alive gas,hwostukwitlon
+oxygen,breathe gas,hwostukwitlon
 copper,be-teal metal,tattatlon
 bronze,be-structurally-strong copper,mjesweskespistattatlon
 iron,be-heavy metal,pestatlon
@@ -278,6 +278,7 @@ catfish,hair carp,hailkam
 magikarp,be-magical carp,mahikkam
 anglerfish,light fish,lummaf
 pufferfish,balloon fish,taskeslonmaf
+seahorse,ocean equine,
 vertebrate,be-rigid animal,hutnospistunuh
 invertebrate,be-flimsy animal,sitnospistunuh
 arthropod {GENITIVE:arthropodic},shell animal,koltunuh
@@ -649,3 +650,6 @@ door,be-open furniture,
 window,can-see furniture,
 excuse; pardon; accept; tolerate; SBJ excuses OBJ,okay say,
 enterprise,,
+go shopping; OBJ is going shopping,buy go,
+welcome!,please enter,
+phrase,word group,

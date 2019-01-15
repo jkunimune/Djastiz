@@ -2,7 +2,7 @@ about,pri
 across,trans
 adult,adolto
 ahead,antaŭen
-alga,algo
+algae,algo
 amazing,exstrema
 anemone,anemono
 animal,besto
@@ -24,7 +24,7 @@ body,korpo
 broad,larĝa
 broken,rompita
 brown,bruni
-bug,cimo
+bug,insekto
 burnt,bruligis
 bustard,otido
 butterfly,papilio
@@ -32,7 +32,7 @@ buttocks,gutoj
 cactus,kakto
 camel,kamelo
 carp,karpo
-cattail,kato
+cattail,tifao
 certain,certi
 chest,kesto
 chunky,frapita
@@ -47,7 +47,7 @@ computer,komputilo
 continent,kontinento
 control,kontrolo
 corn,maizo
-counterclockwise,kontraŭhorloĝaj
+counterclockwise,kontraŭhorloĝa
 country,lando
 crab,krabo
 cricket,kriketo
@@ -58,18 +58,18 @@ cupped,palisita
 damaged,damaĝita
 dense,densa
 derecha,dekstra
-descansar,ripozo
+descansar,apogi
 different,malsama
-earwig,felflugilo
+earwig,forfikulo
 east,oriento
 easy,facila
 egg,ovo
 electricity,elektro
 elephant,elefanto
-escama,flake
+escama,skvamo
 excited,ekscitita
 face,vizaĝo
-faith,fido
+faith,fidi
 familiar,familiara
 far,malproksime
 fast,rapidi
@@ -112,7 +112,7 @@ hole,truo
 home,hejmo
 hot,varma
 housefly,muŝo
-idear,pensi
+idear,elpensi
 in front,antaŭ
 infinite,senfina
 information,informoj
@@ -124,7 +124,7 @@ late,malfrue
 layout,aranĝo
 leaf,folio
 leg,kruro
-letra,letero
+letra,litero
 likely,verŝajne
 liquid,likva
 lizard,lacerto
@@ -151,7 +151,7 @@ neat,neta
 network,reto
 notion,nocio
 ocean,oceano
-okay,bone
+okay,
 old,malnova
 opaque,opaka
 opossum,didelfo
@@ -171,7 +171,7 @@ pregnant,graveda
 present,ĉeesti
 proud,fieri
 raccoon,raketon
-ray,radio
+ray,rajo
 reality,realaĵo
 reason,kialo
 recto,rekte
@@ -193,7 +193,7 @@ see,vidi
 seed,semo
 sentence,frazo
 serious,serioza
-sex,seksumi
+sex,amori
 shape,formo
 shark,ŝarko
 sharp,akra
@@ -210,7 +210,7 @@ solid,solida
 sour,dolĉa
 south,sude
 soy,sojfabo
-space,kosmo
+space,ekstertero
 specialist,specialisto
 specific,specifa
 spicy,spica
@@ -233,7 +233,7 @@ tangible,palpebla
 tangled,tangita
 tapir,tapiro
 taste,ĝusto
-tenso,streĉa
+tenso,intensa
 thick,dika
 tick,tiklo
 tired,laci
@@ -242,7 +242,7 @@ to act,agi
 to anticipate,antaŭvidi
 to believe,kredi
 to bounce,resalti
-to care,prizorgi
+to care,zorgi
 to choose,elekti
 to continue,daŭrigi
 to convert,konverti
@@ -302,7 +302,7 @@ to step,paŝi
 to study,studi
 to surprise,surprizi
 to surround,ĉirkaŭi
-to take care,zorgi
+to take care,singardi
 to think,pensi
 to touch,tuŝi
 to try,provi
@@ -316,10 +316,10 @@ to worry,maltrankviliĝi
 to write,skribi
 tomato,tomato
 torso,torso
-touch,tuŝo
+touch,tuŝi
 tree,arbo
 tuna,tinuso
-turned on,ŝaltita
+turned on,
 turtle,testudo
 typical,tipa
 vagina,vagino

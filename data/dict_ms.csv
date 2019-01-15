@@ -2,9 +2,9 @@ about,kira-kira
 across,merentasi
 adult,dewasa
 ahead,depan
-alga,alga
+algae,
 amazing,menakjubkan
-anemone,anemone
+anemone,
 animal,haiwan
 ant,semut
 apple,epal
@@ -15,7 +15,7 @@ bamboo,buluh
 barnacle,teratas
 bear,beruang
 beetle,kumbang
-below,di bawah
+below,bawah
 between,antara
 big,besar
 birth,kelahiran
@@ -24,18 +24,18 @@ body,badan
 broad,luas
 broken,pecah
 brown,coklat
-bug,bug
+bug,serangga
 burnt,dibakar
-bustard,bustard
+bustard,
 butterfly,rama-rama
 buttocks,punggung
 cactus,kaktus
 camel,unta
 carp,ikan mas
-cattail,cattail
-certain,tertentu
+cattail,sejenis pokok air
+certain,pasti
 chest,dada
-chunky,chunky
+chunky,
 circular,pekeliling
 city,bandar
 claw,cakar
@@ -54,19 +54,19 @@ cricket,kriket
 crocodile,buaya
 crystal,kristal
 culture,budaya
-cupped,cupped
+cupped,
 damaged,rosak
 dense,padat
 derecha,betul
-descansar,berehat
+descansar,
 different,berbeza
-earwig,earwig
+earwig,lelawi
 east,timur
 easy,mudah
 egg,telur
 electricity,elektrik
 elephant,gajah
-escama,serpihan
+escama,sisik
 excited,teruja
 face,muka
 faith,iman
@@ -106,25 +106,25 @@ head,kepala
 healthy,sihat
 hear,dengar
 heavy,berat
-high-pitched,nada tinggi
-hippopotamus,hippopotamus
+high-pitched,nyaring
+hippopotamus,
 hole,lubang
 home,rumah
 hot,panas
-housefly,pelik
-idear,berfikir
-in front,di hadapan
+housefly,lalat
+idear,memikirkan
+in front,hadapan
 infinite,tak terhingga
 information,maklumat
 inside,dalam
 jellyfish,ubur-ubun
-kangaroo,kangaroo
-koala,koala
+kangaroo,
+koala,
 late,terlambat
 layout,susun atur
 leaf,daun
 leg,kaki
-letra,surat
+letra,huruf
 likely,mungkin
 liquid,cecair
 lizard,cicak
@@ -134,33 +134,33 @@ luz,cahaya
 machine,mesin
 magical,ajaib
 mammal,mamalia
-mantis,mantis
+mantis,
 married,berkahwin
 material,bahan
 metal,logam
 mixed,bercampur
-moral,moral
+moral,
 more,lebih lagi
 mosquito,nyamuk
 mountain,gunung
 mushroom,cendawan
 must,mestilah
 natural,semulajadi
-nautilus,nautilus
+nautilus,
 neat,kemas
 network,rangkaian
 notion,tanggapan
 ocean,laut
-okay,baik
+okay,memuaskan
 old,tua
 opaque,legap
-opossum,opossum
+opossum,oposum
 ostrich,burung unta
 part,bahagian
 path,jalan
 person,orang
 phrase,frasa
-pidgeon,pidgeon
+pidgeon,
 pig,babi
 plant,tumbuhan
 pleasure,keseronokan
@@ -168,10 +168,10 @@ point,titik
 possible,mungkin
 powder,serbuk
 pregnant,hamil
-present,sekarang
+present,hadir
 proud,bangga
-raccoon,raccoon
-ray,ray
+raccoon,
+ray,
 reality,realiti
 reason,sebab
 recto,lurus
@@ -183,17 +183,16 @@ rice,beras
 rodent,tikus
 root,akar
 rotten,busuk
-salmon,salmon
+salmon,
 salty,asin
 scorpion,kalajengking
-seahorse,kuda laut
 seal,meterai
 season,musim
 see,lihat
 seed,benih
 sentence,ayat
-serious,serius
-sex,seks
+serious,
+sex,
 shape,bentuk
 shark,jerung
 sharp,tajam
@@ -201,22 +200,22 @@ shiny,berkilat
 should,sepatutnya
 simple,mudah
 skillful,mahir
-slug,slug
+slug,lintah
 smell,bau
 smooth,licin
-social,sosial
+social,
 soil,tanah
 solid,pepejal
 sour,masam
 south,selatan
 soy,soya
-space,ruang
+space,angkasa
 specialist,pakar
 specific,khusus
 spicy,pedas
 spider,labah-labah
 stacked,disusun
-starboard,starboard
+starboard,
 steep,curam
 stem,batang
 stick,tongkat
@@ -238,88 +237,88 @@ thick,tebal
 tick,tandakan
 tired,letih
 to accompany,menemani
-to act,untuk bertindak
-to anticipate,untuk menjangka
-to believe,untuk percaya
-to bounce,untuk melantun
-to care,untuk menjaga
-to choose,untuk memilih
+to act,bertindak
+to anticipate,menjangka
+to believe,percaya
+to bounce,melantun
+to care,
+to choose,memilih
 to continue,bersambung
-to convert,untuk menukar
-to cook,untuk memasak
-to correspond,untuk sesuai
-to cost,untuk kos
-to deal,untuk berjanji
-to deserve,untuk berhak
+to convert,menukar
+to cook,memasak
+to correspond,sama
+to cost,kos
+to deal,berjanji
+to deserve,berhak
 to engineer,kepada jurutera
-to face,untuk menghadapi
+to face,menghadapi
 to fall,akan jatuh
-to fear,untuk takut
-to feel,untuk merasa
-to fight,untuk memperjuangkan
-to fly,untuk terbang
-to function,untuk berfungsi
-to govern,untuk mentadbir
-to grip,untuk cengkaman
-to help,untuk membantu
-to hit,untuk memukul
-to hold,Untuk tahan
-to hunt,untuk memburu
-to know,untuk tahu
-to live,untuk hidup
-to love,untuk mencintai
+to fear,takut
+to feel,merasa
+to fight,memperjuangkan
+to fly,terbang
+to function,berfungsi
+to govern,mentadbir
+to grip,cengkaman
+to help,membantu
+to hit,memukul
+to hold,tahan
+to hunt,memburu
+to know,tahu
+to live,hidup
+to love,mencintai
 to mean,maksudnya
-to model,untuk mencontohi
-to move,untuk bergerak
+to model,mencontohi
+to move,bergerak
 to need,memerlukan
-to notice,untuk notis
-to obey,untuk patuh
-to order,untuk memesan
-to own,untuk memiliki
-to party,kepada pihak
-to pay attention,memberi perhatian
-to perceive,untuk merasakan
-to plan,untuk merancang
-to play,untuk bermain
-to ponder,untuk merenung
-to prosper,untuk berjaya
-to push,untuk menolak
-to read,untuk membaca
-to recall,untuk ingat
-to relate,untuk dihubungkan
-to repeat,untuk mengulangi
-to ride,untuk menunggang
-to roll,untuk menggulung
-to rub,untuk sapu
-to say,untuk berkata
-to sell,untuk jual
+to notice,notis
+to obey,patuh
+to order,urutan
+to own,memiliki
+to party,pihak
+to pay attention,perhatian
+to perceive,merasakan
+to plan,merancang
+to play,bermain
+to ponder,merenung
+to prosper,berjaya
+to push,menolak
+to read,membaca
+to recall,ingat
+to relate,dihubungkan
+to repeat,mengulangi
+to ride,menunggang
+to roll,menggulung
+to rub,sapu
+to say,berkata
+to sell,jual
 to sit,duduk
-to sleep,untuk tidur
-to speak,untuk bercakap
-to spin,untuk berputar
-to stand,untuk berdiri
-to step,untuk melangkah
-to study,untuk belajar
-to surprise,untuk mengejutkan
-to surround,untuk mengelilingi
-to take care,menjaga
+to sleep,tidur
+to speak,bercakap
+to spin,berputar
+to stand,berdiri
+to step,melangkah
+to study,belajar
+to surprise,mengejutkan
+to surround,mengelilingi
+to take care,
 to think,fikir
 to touch,menyentuh
-to try,untuk mencuba
-to understand,untuk memahami
-to wait,untuk menunggu
+to try,mencuba
+to understand,memahami
+to wait,menunggu
 to want,mahu
-to wear,untuk memakai
-to win,untuk menang
+to wear,memakai
+to win,menang
 to work,bekerja
 to worry,bimbang
-to write,untuk menulis
+to write,menulis
 tomato,tomato
 torso,batang tubuh
 touch,sentuh
 tree,pokok
-tuna,tuna
-turned on,terangsang
+tuna,
+turned on,
 turtle,penyu
 typical,tipikal
 vagina,faraj

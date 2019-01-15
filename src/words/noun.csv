@@ -40,7 +40,6 @@ country; state; polity {GENITIVE:national},,pan <ਦੇਸ਼> [d̪eʃ],tef
 storm; tempest {GENITIVE:stormy; cyclonical},,ben <ঝড়> [d͡ʑ̤ɔɽɔ],col
 art {GENITIVE:artistic},,jav <seni> [sen̪i],sen
 sentence {GENITIVE:sentential},,yor <gbolohun> [ɡ͡bolohũ],polohun
-phrase {GENITIVE:phrasal},,hin <मुहावरा> [muɦaːvraː],muhawl
 word {GENITIVE:lexical; literal},,cmn <字> [t͡sɯ˥˩],suh
 letter; phoneme {GENITIVE:epistolary; alphabetical; phonemic},*letra,cmn <信> [ɕin˥˩],cin
 home {GENITIVE:domestic},,hin <होम> [ɦom],hom
@@ -129,7 +128,7 @@ tuna; tunafish; mackerel,,hin <टूना> [ʈuːnaː],tun
 seahorse,,cmn <海马> [xaɪ̯˧˩˧ma˧˩˧],hajm
 shark,,epo <ŝarko> [ˈʃarko],cal
 ray; manta ray; stingray; skate,,spa <rayo> [ˈraʝo],lajoh
-bug; insect,,epo <cimo> [ˈt͡simo],sim
+bug; insect; arachnid; myriapod; entognath,,epo <cimo> [ˈt͡simo],sim
 tick; mite,,fil <tik> [tik],tin
 spider,,mar <कोळी> [koɭiː],kol
 scorpion,,ben <বিছা> [bit͡ɕʰa],pif
@@ -137,7 +136,7 @@ crustacean; *crab; lobster,,msa <ketam> [ketam],ketam
 barnacle; copepod,,yor <ọwọn> [ɔwɔ̃],howon
 beetle,,cmn <甲虫> [t͡ɕja˧˩˧ʈ͡ʂʰʊ̯ŋ˧˥],cjacun
 mosquito,,yor <efon> [efon],hefon
-fly; *housefly,mosca,cmn <飞> [feɪ̯˥],feh
+fly; *housefly; gnat; midge,mosca,cmn <飞> [feɪ̯˥],feh
 flea,,epo <pulo> [ˈpulo],pul
 butterfly; moths,,cmn <蝴蝶> [xu˧˥tjɛ˧˥],hutjeh
 wasp,,ibo <wep> [wep],hwem
@@ -155,11 +154,11 @@ jellyfish,,spa <Medusa> [meˈðusa],metuh
 mushroom; toadstool,,jav <jamur> [ɟamur],kjamul
 bacterium,,hin <जीवाणु> [d͡ʒiːvaːɳu],ciwan
 virus,,yor <kokoro> [kokoro],kokol
-algae; moss,*alga,cmn <藻类> [t͡sɑʊ̯˧˩˧leɪ̯˥˩],sawleh
+algae; moss,alga,cmn <藻类> [t͡sɑʊ̯˧˩˧leɪ̯˥˩],sawleh
 fern,,eng <fern> [fern],fen
 tree,,hin <पेड़> [peɽ],pel
 cactus,,,
-cattail; typha,,epo <kato> [ˈkato],kal
+bulrush; reed; cattail; typha,,epo <kato> [ˈkato],kal
 grass; seagrass; rush; sedge,,pan <ਘਾਹ> [kɑɦ],kah
 bamboo,,spa <bambú> [bamˈbu],pam
 machine; robot; automaton,,ben <মেশিন> [meɕin̪],mecin

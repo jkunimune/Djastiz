@@ -2,7 +2,7 @@ about,बद्दल
 across,ओलांडून
 adult,प्रौढ
 ahead,पुढे
-alga,एकपेशीय वनस्पती
+algae,एकपेशीय वनस्पती
 amazing,आश्चर्यकारक
 anemone,एनीमोन
 animal,प्राणी
@@ -24,16 +24,16 @@ body,शरीर
 broad,व्यापक
 broken,तुटलेली
 brown,तपकिरी
-bug,किडा
+bug,ढेकूण
 burnt,बर्न
-bustard,बस्टर्ड
+bustard,माळढोक
 butterfly,फुलपाखरू
 buttocks,नितंब
 cactus,कॅक्टस
 camel,उंट
 carp,कार्प
-cattail,कॅटेल
-certain,निश्चित
+cattail,
+certain,हुकमी
 chest,छाती
 chunky,गोंधळ
 circular,परिपत्रक
@@ -47,7 +47,7 @@ computer,संगणक
 continent,महाद्वीप
 control,नियंत्रण
 corn,कॉर्न
-counterclockwise,घड्याळाच्या विरुद्ध
+counterclockwise,
 country,देश
 crab,क्रॅब
 cricket,क्रिकेट
@@ -58,15 +58,15 @@ cupped,कपाट
 damaged,नुकसान
 dense,घनदाट
 derecha,बरोबर
-descansar,विश्रांती
+descansar,टेकणे
 different,भिन्न
-earwig,इरविग
+earwig,
 east,पूर्व
 easy,सोपे
 egg,अंडी
 electricity,वीज
 elephant,हत्ती
-escama,फ्लेक
+escama,खवला
 excited,उत्साहित
 face,चेहरा
 faith,विश्वास
@@ -106,13 +106,13 @@ head,डोके
 healthy,निरोगी
 hear,ऐका
 heavy,जोरदार
-high-pitched,उंचावर
+high-pitched,चढे
 hippopotamus,हिप्पोपोटामस
 hole,छिद्र
 home,घर
 hot,गरम
-housefly,घरफ्लाय
-idear,विचार करा
+housefly,
+idear,
 in front,समोर
 infinite,अनंत
 information,माहिती
@@ -124,7 +124,7 @@ late,उशीरा
 layout,मांडणी
 leaf,पान
 leg,पाय
-letra,पत्र
+letra,वर्ण
 likely,शक्यतो
 liquid,तरल
 lizard,छिद्र
@@ -151,10 +151,10 @@ neat,व्यवस्थित
 network,नेटवर्क
 notion,कल्पना
 ocean,महासागर
-okay,ठीक आहे
+okay,
 old,जुन्या
 opaque,अपारदर्शक
-opossum,opossum
+opossum,
 ostrich,शुतुरमुर्ग
 part,भाग
 path,मार्ग
@@ -168,17 +168,17 @@ point,बिंदू
 possible,शक्य
 powder,पावडर
 pregnant,गर्भवती
-present,उपस्थित
+present,हजर
 proud,अ भी मा न
-raccoon,Raccoon
-ray,किरण
+raccoon,
+ray,वाघोळे
 reality,वास्तविकता
 reason,कारण
 recto,सरळ
 red,लाल
 region,क्षेत्र
 reptile,सपाट
-rhinoceros,rhinoceros
+rhinoceros,
 rice,तांदूळ
 rodent,उंदीर
 root,मूळ
@@ -186,14 +186,13 @@ rotten,सळसळलेला
 salmon,सॅल्मन
 salty,खारटपणा
 scorpion,विंचू
-seahorse,seahorse
 seal,शिक्का
 season,हंगाम
 see,पहा
 seed,बियाणे
 sentence,वाक्य
 serious,गंभीर
-sex,लिंग
+sex,
 shape,आकार
 shark,शार्क
 sharp,तीक्ष्ण
@@ -201,7 +200,7 @@ shiny,चमकदार
 should,पाहिजे
 simple,सोपे
 skillful,कुशल
-slug,घासणे
+slug,
 smell,वास
 smooth,गुळगुळीत
 social,सामाजिक
@@ -210,7 +209,7 @@ solid,घन
 sour,आंबट
 south,दक्षिण
 soy,सोया
-space,जागा
+space,अंतराळ
 specialist,तज्ञ
 specific,विशिष्ट
 spicy,मसालेदार
@@ -231,9 +230,9 @@ surface,पृष्ठभाग
 sweet,गोड
 tangible,मूर्त
 tangled,गोंधळलेला
-tapir,टॅपिर
+tapir,
 taste,चव
-tenso,ताण
+tenso,तंग
 thick,जाड
 tick,टिक
 tired,थकल्यासारखे
@@ -242,12 +241,12 @@ to act,क्रुती करणे
 to anticipate,अंदाज बांधणे
 to believe,विश्वास ठेवणे
 to bounce,उंचावणे
-to care,काळजी करणे
+to care,
 to choose,निवडण्यासाठी
 to continue,चालू ठेवा
 to convert,रूपांतरित करणे
 to cook,शिजविणे
-to correspond,अनुरूप असणे
+to correspond,
 to cost,खर्च करणे
 to deal,सामना करणे
 to deserve,पात्र असणे
@@ -274,7 +273,7 @@ to move,हलविण्यासाठी
 to need,गरज
 to notice,लक्षात घेणे
 to obey,पालन करणे
-to order,मागवण्यासाठी
+to order,
 to own,स्वतः चा मालकी हक्क असणे
 to party,पार्टी करणे
 to pay attention,लक्ष देण्यासाठी
@@ -302,10 +301,10 @@ to step,पाऊल उचलणे
 to study,अभ्यास
 to surprise,आश्चर्यचकित करणे
 to surround,सभोवती
-to take care,काळजी घेणे
+to take care,संभाळणे
 to think,विचार करणे
 to touch,स्पर्श करणे
-to try,प्रयत्न
+to try,पाहणे
 to understand,समजून घेणे
 to wait,वाट पहा
 to want,इच्छित
@@ -319,7 +318,7 @@ torso,धूळ
 touch,स्पर्श करा
 tree,झाड
 tuna,टूना
-turned on,चालू
+turned on,
 turtle,कछुए
 typical,सामान्य
 vagina,योनी

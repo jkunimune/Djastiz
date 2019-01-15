@@ -2,9 +2,9 @@ about,malunga
 across,ngaphesheya
 adult,omdala
 ahead,phambili
-alga,alga
+algae,algae
 amazing,kumangalisa
-anemone,i-anemone
+anemone,
 animal,lwanyana
 ant,intuthwane
 apple,apile
@@ -24,16 +24,16 @@ body,umzimba
 broad,ebanzi
 broken,phukile
 brown,ntsundu
-bug,bug
+bug,isinambuzane
 burnt,tshiswayo
-bustard,i-bustard
+bustard,
 butterfly,ibhabhathane
 buttocks,mathupha
 cactus,cactus
 camel,ikamela
-carp,i-carp
-cattail,yokuthengisa
-certain,ezithile
+carp,
+cattail,
+certain,qinisekile
 chest,esifubeni
 chunky,ngqondweni
 circular,setyhula
@@ -47,26 +47,26 @@ computer,khomputha
 continent,zwekazi
 control,lawulo
 corn,umbona
-counterclockwise,ngecala
+counterclockwise,
 country,lizwe
 crab,unonkala
 cricket,qakamba
 crocodile,ingwenya
-crystal,i crystal
+crystal,
 culture,inkcubeko
 cupped,ngcikiweyo
 damaged,lonakaliswe
-dense,dense
+dense,
 derecha,kunene
-descansar,kuphumla
+descansar,chopha
 different,hlukile
-earwig,earwig
+earwig,
 east,bucala ngasekhohlo
 easy,kulula
 egg,iqanda
 electricity,umbane
 elephant,indlovu
-escama,flake
+escama,
 excited,vuyiswa
 face,ubuso
 faith,ukholo
@@ -74,24 +74,24 @@ familiar,qhe lekile
 far,kude
 fast,ngokukhawuleza
 feather,intsiba
-fern,fern
+fern,
 finger,ngomunwe
 fire,ngomlilo
 fish,intlanzi
-flea,i flea
+flea,
 flower,intyatyambo
-foamy,foamy
+foamy,
 fowl,entaka
 friendly,buhlobo
 fruit,iziqhamo
 full,epheleleyo
 fun,nwabisa
-fungus,fungus
+fungus,
 furniture,ifenitshala
 giraffe,isirafu
-gland,gland
+gland,
 god,uthixo
-good,Kulungile
+good,kulungile
 grain,ngqolowa
 grape,iidiliya
 grass,utshani
@@ -99,68 +99,67 @@ grateful,mbulelo
 green,luhlaza
 grey,ngwevu
 ground,mhlabeni
-hair,i inwele
+hair,inwele
 hand,ngesandla
 happy,uvuyo
 head,intloko
 healthy,enempilo
 hear,ukuva
 heavy,enzima
-high-pitched,ephakamileyo
+high-pitched,
 hippopotamus,imvubu
 hole,umgodi
 home,ekhaya
 hot,kushushu
-housefly,iflyfly
-idear,cinga
+housefly,impukane
+idear,iindlebe
 in front,ngaphambili
 infinite,nga pheleli
 information,ulwazi
 inside,ngaphakathi
-jellyfish,jellyfish
-kangaroo,kangaroo
-koala,koala
+jellyfish,
+kangaroo,
+koala,
 late,kwexesha
 layout,kuluhlu
 leaf,iqela
 leg,umlenze
-letra,ileta
+letra,unobumba
 likely,mhlawumbi
 liquid,utywala
 lizard,isilwanyana
 long,elide
 low,ephantsi
-luz,kukhanya
+luz,isibane
 machine,umatshini
 magical,imilingo
-mammal,i silwanyana
-mantis,mantis
+mammal,silwanyana
+mantis,
 married,utshatile
 material,izinto
 metal,isinyithi
 mixed,zixutywe
 moral,yokuziphatha
-more,Kaninzi
+more,kaninzi
 mosquito,umiyane
 mountain,entabeni
 mushroom,imashurumi
 must,funeka
 natural,zendalo
-nautilus,nautilus
+nautilus,
 neat,kakuhle
 network,umnatha
 notion,ngcamango
 ocean,elwandle
-okay,Kulungile
+okay,kulungile
 old,ubudala
-opaque,opaque
-opossum,opossum
+opaque,
+opossum,
 ostrich,nciniba
 part,nxalenye
 path,indlela
 person,umntu
-phrase,ibinzana
-pidgeon,pidgeon
+pidgeon,
 pig,ihagu
 plant,zityalo
 pleasure,yolonwabo
@@ -168,10 +167,10 @@ point,ngongoma
 possible,kwenzeka
 powder,powder
 pregnant,khulelwe
-present,zikhoyo
+present,ukuba kho
 proud,nekratshi
-raccoon,raccoon
-ray,ray
+raccoon,
+ray,
 reality,nyaniso
 reason,sizathu
 recto,ngqo
@@ -180,20 +179,19 @@ region,mmandla
 reptile,izidumbu
 rhinoceros,iihhinoceros
 rice,ilayisi
-rodent,i-rodent
+rodent,
 root,ingcambu
 rotten,zibolile
 salmon,islamoni
 salty,usawoti
-scorpion,i-scorpion
-seahorse,yolwandle
+scorpion,
 seal,uphawu
 season,lonyaka
 see,bonayo
 seed,imbewu
 sentence,isivakalisi
 serious,kakhulu
-sex,ngesondo
+sex,usondo
 shape,ukuma
 shark,ukrebe
 sharp,bukhali
@@ -201,7 +199,7 @@ shiny,kukhanya
 should,fanele
 simple,elula
 skillful,buchule
-slug,slug
+slug,
 smell,livumba
 smooth,elula
 social,zentlalo
@@ -209,13 +207,13 @@ soil,umhlaba
 solid,ziqinile
 sour,mnandi
 south,mazantsi
-soy,soy
-space,indawo
+soy,
+space,
 specialist,ngcali
 specific,ethile
 spicy,ezintle
 spider,isikhewu
-stacked,u xiweyo
+stacked,xiweyo
 starboard,starboard
 steep,ephezulu
 stem,sitsho
@@ -228,109 +226,109 @@ strong,melele
 structure,isakhiwo
 sun,ilanga
 surface,phezulu
-sweet,e mnandi
+sweet,mnandi
 tangible,ezibonakalayo
 tangled,zixakeke
-tapir,tapir
+tapir,
 taste,ngcamango
-tenso,kwexesha
+tenso,bambekile
 thick,ezinzima
 tick,phawula
 tired,diniwe
-to accompany,ukuhamba
+to accompany,hamba
 to act,ukwenza intshukumo
 to anticipate,ku lindele
-to believe,ukukholwa
-to bounce,ukuhlawula
-to care,ukukhathala
-to choose,ukukhetha
-to continue,ukuqhubeka
-to convert,ukuguqula
-to cook,ukupheka
-to correspond,ukuhambelana
+to believe,kholwa
+to bounce,hlawula
+to care,khathala
+to choose,khetha
+to continue,qhubeka
+to convert,guqula
+to cook,pheka
+to correspond,ngqinelana
 to cost,kwiindleko
-to deal,ukujongana
-to deserve,u fanele
+to deal,jongana
+to deserve,fanele
 to engineer,njineli
-to face,ukujongana
-to fall,ukuwa
+to face,jongana
+to fall,wa
 to fear,ukoyika
-to feel,ukuva
-to fight,ukulwa
-to fly,ukubhabha
-to function,ukusebenza
-to govern,ku lawula
-to grip,ukumbamba
-to help,ukunceda
-to hit,Ukubetha
-to hold,ukubamba
-to hunt,ukuzingela
+to feel,va
+to fight,lwa
+to fly,bhabha
+to function,sebenza
+to govern,lawula
+to grip,mbamba
+to help,nceda
+to hit,betha
+to hold,bamba
+to hunt,zingela
 to know,ukwazi
-to live,ukuphila
-to love,ukuthanda
-to mean,ukuthetha ukuba
-to model,u mzekelo
-to move,ukuhamba
-to need,Ukufuna
-to notice,ku phawula
-to obey,ukuthobela
-to order,uku-oda
-to own,ukuyenza eyakho
+to live,phila
+to love,thanda
+to mean,thetha ukuba
+to model,mzekelo
+to move,hamba
+to need,funa
+to notice,phawula
+to obey,thobela
+to order,landelelana
+to own,yenza eyakho
 to party,kwiqela
-to pay attention,ukuhlawula ingqalelo
-to perceive,ukuqonda
-to plan,ukucwangcisa
-to play,ukudlala
-to ponder,ukucinga
+to pay attention,hlawula ingqalelo
+to perceive,qonda
+to plan,cwangcisa
+to play,dlala
+to ponder,cinga
 to prosper,phu melela
-to push,ukunyusa
-to read,ukufunda
-to recall,ukukhumbula
-to relate,ukuxela
-to repeat,ukuphinda
-to ride,ukukhwela
-to roll,u kuhamba
-to rub,ukuhlamba
-to say,ukuthi
-to sell,ukuthengisa
-to sit,ukuhlala
-to sleep,ukulala
-to speak,ukuthetha
-to spin,ukujikeleza
-to stand,ukuma
-to step,ukunyathela
-to study,ukufunda
+to push,nyusa
+to read,funda
+to recall,khumbula
+to relate,xela
+to repeat,phinda
+to ride,khwela
+to roll,hamba
+to rub,hlamba
+to say,thi
+to sell,thengisa
+to sit,hlala
+to sleep,lala
+to speak,thetha
+to spin,jikeleza
+to stand,ma
+to step,nyathela
+to study,funda
 to surprise,ngaliswa
-to surround,ukujikeleza
-to take care,ukunyamekela
-to think,ukucinga
-to touch,ukuchukumisa
-to try,ukuzama
-to understand,ukuqonda
-to wait,ukulinda
-to want,Ukufuna
-to wear,ukunxiba
-to win,ukuphumelela
-to work,ukusebenza
-to worry,ukukhathazeka
-to write,ukubhala
+to surround,jikeleza
+to take care,londololoza
+to think,cinga
+to touch,chukumisa
+to try,linga
+to understand,qonda
+to wait,linda
+to want,funa
+to wear,nxiba
+to win,phumelela
+to work,sebenza
+to worry,khathazeka
+to write,bhala
 tomato,itumato
 torso,isibetho
-touch,ku thintela
+touch,thintela
 tree,umthi
 tuna,ityhuna
-turned on,wenziwe wavuka
+turned on,
 turtle,ihote
 typical,eziqhelekileyo
 vagina,ngesini
 virus,intsholongwane
 viscous,veleki
 wasp,isp
-whale,whale
+whale,
 wheat,ngqolowa
 white,mhlophe
 wide,bubanzi
-widespread,e sasazwe
+widespread,sasazwe
 wood,ngomthi
 word,igama
 worm,imbungu

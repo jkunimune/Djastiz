@@ -2,12 +2,12 @@ about,kuhusu
 across,kote
 adult,watu wazima
 ahead,mbele
-alga,mwandishi
+algae,mwandishi
 amazing,ajabu
-anemone,anemone
+anemone,
 animal,mnyama
-ant,ant
-apple,apple
+ant,
+apple,
 arm,mkono
 art,sanaa
 bacterium,bakteria
@@ -24,30 +24,30 @@ body,mwili
 broad,pana
 broken,kuvunjwa
 brown,kahawia
-bug,mdudu
+bug,dudu
 burnt,kuteketezwa
-bustard,bustard
+bustard,tandawala
 butterfly,kipepeo
 buttocks,vifungo
-cactus,cactus
+cactus,
 camel,ngamia
 carp,kamba
-cattail,utunzaji
-certain,fulani
+cattail,
+certain,yakini
 chest,kifua
-chunky,chunky
+chunky,
 circular,mviringo
 city,jiji
-claw,claw
+claw,
 clean,safi
 closed,imefungwa
-cockroach,cockroach
+cockroach,
 colour,rangi
 computer,kompyuta
 continent,bara
 control,kudhibiti
 corn,mahindi
-counterclockwise,kinyume chake
+counterclockwise,
 country,nchi
 crab,kaa
 cricket,kriketi
@@ -58,15 +58,15 @@ cupped,amefungwa
 damaged,kuharibiwa
 dense,nzito
 derecha,haki
-descansar,pumzika
+descansar,egemea
 different,tofauti
-earwig,earwig
+earwig,dudu-koleo
 east,mashariki
 easy,rahisi
 egg,yai
 electricity,umeme
 elephant,tembo
-escama,flake
+escama,gamba
 excited,msisimko
 face,uso
 faith,imani
@@ -74,7 +74,7 @@ familiar,ujuzi
 far,mbali
 fast,haraka
 feather,manyoya
-fern,fern
+fern,
 finger,kidole
 fire,moto
 fish,samaki
@@ -86,10 +86,10 @@ friendly,kirafiki
 fruit,matunda
 full,kamili
 fun,furaha
-fungus,Kuvu
+fungus,kuvu
 furniture,samani
 giraffe,twiga
-gland,gland
+gland,
 god,mungu
 good,nzuri
 grain,nafaka
@@ -106,35 +106,35 @@ head,kichwa
 healthy,afya
 hear,kusikia
 heavy,nzito
-high-pitched,high-pitched
+high-pitched,
 hippopotamus,kiboko
 hole,shimo
 home,nyumbani
 hot,moto
-housefly,kipupili
-idear,fikiria
+housefly,nzi
+idear,buni
 in front,mbele
 infinite,usio
 information,habari
 inside,ndani
-jellyfish,jellyfish
-kangaroo,kangaroo
-koala,Koala
+jellyfish,
+kangaroo,
+koala,
 late,kuchelewa
 layout,mpangilio
 leaf,jani
 leg,mguu
-letra,barua
+letra,
 likely,uwezekano
 liquid,kioevu
 lizard,mjusi
-long,kwa muda mrefu
+long,muda mrefu
 low,chini
 luz,mwanga
 machine,mashine
 magical,kichawi
 mammal,mamalia
-mantis,mantis
+mantis,
 married,ndoa
 material,vifaa
 metal,chuma
@@ -146,21 +146,21 @@ mountain,mlima
 mushroom,uyoga
 must,lazima
 natural,asili
-nautilus,nautilus
+nautilus,
 neat,nzuri
 network,mtandao
 notion,wazo
-ocean,Bahari
-okay,sawa
+ocean,bahari
+okay,ema
 old,zamani
-opaque,opaque
-opossum,opossum
+opaque,
+opossum,oposumu
 ostrich,mbuni
 part,sehemu
 path,njia
 person,mtu
 phrase,maneno
-pidgeon,pidgeon
+pidgeon,
 pig,nguruwe
 plant,mmea
 pleasure,radhi
@@ -168,16 +168,16 @@ point,hatua
 possible,inawezekana
 powder,poda
 pregnant,mimba
-present,sasa
+present,hudhuria
 proud,kiburi
-raccoon,raccoon
-ray,ray
+raccoon,
+ray,
 reality,ukweli
 reason,sababu
 recto,sawa
 red,nyekundu
 region,kanda
-reptile,reptile
+reptile,
 rhinoceros,rhinino
 rice,mchele
 rodent,panya
@@ -193,30 +193,30 @@ see,tazama
 seed,mbegu
 sentence,hukumu
 serious,mbaya
-sex,ngono
+sex,puana
 shape,sura
-shark,shark
+shark,
 sharp,mkali
-shiny,shiny
+shiny,
 should,lazima
 simple,rahisi
 skillful,ujuzi
-slug,konokono
+slug,koa
 smell,harufu
-smooth,Nyororo
+smooth,nyororo
 social,kijamii
 soil,udongo
 solid,imara
-sour,sour
+sour,
 south,kusini
-soy,soy
-space,nafasi
+soy,
+space,anga
 specialist,mtaalamu
 specific,maalum
-spicy,spicy
+spicy,
 spider,buibui
 stacked,imechukuliwa
-starboard,starboard
+starboard,
 steep,mwinuko
 stem,shina
 stick,fimbo
@@ -230,97 +230,97 @@ sun,jua
 surface,uso
 sweet,tamu
 tangible,inayoonekana
-tangled,tangled
-tapir,tapir
+tangled,
+tapir,
 taste,ladha
-tenso,wakati
+tenso,
 thick,nene
-tick,Jiza
+tick,jiza
 tired,amechoka
-to accompany,kuongozana
-to act,kutenda
-to anticipate,kutarajia
-to believe,kuamini
-to bounce,kupiga
-to care,kujali
-to choose,kuchagua
-to continue,kuendelea
-to convert,kubadili
-to cook,kupika
-to correspond,kupatanisha
-to cost,na gharama
-to deal,kushughulikia
-to deserve,kustahili
-to engineer,kwa mhandisi
-to face,kukabili
+to accompany,ongozana
+to act,tenda
+to anticipate,tarajia
+to believe,amini
+to bounce,piga
+to care,jali
+to choose,chagua
+to continue,endelea
+to convert,badili
+to cook,pika
+to correspond,fanana
+to cost,gharama
+to deal,shughulikia
+to deserve,stahili
+to engineer,mhandisi
+to face,kabili
 to fall,anguka
-to fear,kuogopa
-to feel,kuhisi
-to fight,kupigana
-to fly,kuruka
-to function,kufanya kazi
-to govern,kutawala
-to grip,kumtia
-to help,kusaidia
-to hit,kupiga
-to hold,ku shikilia
-to hunt,kuwinda
-to know,kujua
-to live,kuishi
-to love,kupenda
-to mean,kumaanisha
-to model,kwa mfano
-to move,kusonga
-to need,kuhitaji
-to notice,kutambua
-to obey,kutii
-to order,ili
-to own,kumiliki
-to party,kwa chama
-to pay attention,kwa makini
-to perceive,kujua
-to plan,kupanga
-to play,kucheza
-to ponder,kutafakari
-to prosper,kufanikiwa
-to push,kushinikiza
-to read,kusoma
-to recall,kukumbuka
-to relate,kuelezea
-to repeat,kurudia
-to ride,kupanda
-to roll,kupiga
-to rub,kusugua
-to say,kusema
-to sell,kuuza
-to sit,kukaa
-to sleep,kulala
-to speak,kuongea
-to spin,kupiga
-to stand,kusimama
-to step,kwa hatua
-to study,kusoma
-to surprise,kushangaa
-to surround,kuzunguka
-to take care,kutunza
-to think,kufikiria
-to touch,kugusa
-to try,kujaribu
-to understand,kuelewa
-to wait,kusubiri
-to want,kutaka
-to wear,kuvaa
-to win,kushinda
-to work,kufanya kazi
-to worry,kuwa na wasiwasi
-to write,kuandika
+to fear,ogopa
+to feel,hisi
+to fight,pigana
+to fly,ruka
+to function,fanya kazi
+to govern,tawala
+to grip,mtia
+to help,saidia
+to hit,piga
+to hold, shikilia
+to hunt,winda
+to know,jua
+to live,ishi
+to love,penda
+to mean,maanisha
+to model,mfano
+to move,songa
+to need,hitaji
+to notice,tambua
+to obey,tii
+to order,
+to own,miliki
+to party,chama
+to pay attention,makini
+to perceive,jua
+to plan,panga
+to play,cheza
+to ponder,tafakari
+to prosper,fanikiwa
+to push,shinikiza
+to read,soma
+to recall,kumbuka
+to relate,elezea
+to repeat,rudia
+to ride,panda
+to roll,piga
+to rub,sugua
+to say,sema
+to sell,uza
+to sit,kaa
+to sleep,lala
+to speak,ongea
+to spin,piga
+to stand,simama
+to step,hatua
+to study,soma
+to surprise,shangaa
+to surround,zunguka
+to take care,
+to think,fikiria
+to touch,gusa
+to try,jaribu
+to understand,elewa
+to wait,subiri
+to want,taka
+to wear,vaa
+to win,shinda
+to work,fanya kazi
+to worry,wasiwasi
+to write,andika
 tomato,nyanya
-torso,torso
+torso,
 touch,kugusa
 tree,mti
-tuna,tuna
-turned on,imegeuka
-turtle,turtle
+tuna,
+turned on,waka
+turtle,
 typical,kawaida
 vagina,uke
 virus,virusi
@@ -333,4 +333,4 @@ wide,pana
 widespread,kuenea
 wood,mbao
 word,neno
-worm,mdudu
+worm,dudu

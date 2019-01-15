@@ -2,7 +2,7 @@ about,के बारे में
 across,भर में
 adult,वयस्क
 ahead,आगे
-alga,शैवाल
+algae,शैवाल
 amazing,गजब का
 anemone,रत्नज्योति
 animal,जानवर
@@ -24,16 +24,16 @@ body,तन
 broad,व्यापक
 broken,टूटा हुआ
 brown,भूरा
-bug,बग
+bug,खटमल
 burnt,जला हुआ
-bustard,उल्लू का पट्टा
+bustard,
 butterfly,तितली
 buttocks,नितंबों
 cactus,कैक्टस
 camel,ऊंट
 carp,काप
-cattail,cattail
-certain,कुछ
+cattail,
+certain,पक्का
 chest,छाती
 chunky,चंकी
 circular,परिपत्र
@@ -54,19 +54,19 @@ cricket,क्रिकेट
 crocodile,मगरमच्छ
 crystal,क्रिस्टल
 culture,संस्कृति
-cupped,cupped
+cupped,
 damaged,क्षतिग्रस्त
 dense,सघन
-derecha,सही
+derecha,टेक पर रखना
 descansar,आराम
 different,विभिन्न
-earwig,Earwig
+earwig,
 east,पूर्व
 easy,आसान
 egg,अंडा
 electricity,बिजली
 elephant,हाथी
-escama,परत
+escama,शल्क
 excited,उत्साहित
 face,चेहरा
 faith,आस्था
@@ -106,13 +106,13 @@ head,सिर
 healthy,स्वस्थ
 hear,सुनो
 heavy,भारी
-high-pitched,अनिमेष
+high-pitched,उच्च तारत्व वाला
 hippopotamus,जलहस्ती
 hole,छेद
 home,होम
 hot,गरम
-housefly,housefly
-idear,चिंतन करना
+housefly,मक्खी
+idear,ढूंढ लेना
 in front,सामने
 infinite,अनंत
 information,जानकारी
@@ -124,7 +124,7 @@ late,देर से
 layout,ख़ाका
 leaf,पत्ती
 leg,टांग
-letra,पत्र
+letra,अक्षर
 likely,उपयुक्त
 liquid,तरल
 lizard,छिपकली
@@ -151,10 +151,10 @@ neat,स्वच्छ
 network,नेटवर्क
 notion,धारणा
 ocean,सागर
-okay,ठीक है
+okay,ठीक
 old,पुराना
 opaque,न झिल्लड़
-opossum,ओपस्सम
+opossum,
 ostrich,शुतुरमुर्ग
 part,अंश
 path,पथ
@@ -168,10 +168,10 @@ point,बिंदु
 possible,मुमकिन
 powder,पाउडर
 pregnant,गर्भवती
-present,वर्तमान
+present,उपस्थित
 proud,गर्व
 raccoon,एक प्रकार का जानवर
-ray,रे
+ray,शंकुश
 reality,वास्तविकता
 reason,कारण
 recto,सीधे
@@ -193,7 +193,7 @@ see,देख
 seed,बीज
 sentence,वाक्य
 serious,गंभीर
-sex,लिंग
+sex,संभोग
 shape,आकार
 shark,शार्क
 sharp,तेज़
@@ -201,7 +201,7 @@ shiny,चमकदार
 should,चाहिए
 simple,सरल
 skillful,निपुण
-slug,काउंटर
+slug,घोंघा जैसा एक जीव
 smell,गंध
 smooth,चिकना
 social,सामाजिक
@@ -231,7 +231,7 @@ surface,सतह
 sweet,मिठाई
 tangible,वास्तविक
 tangled,पेचीदा
-tapir,टपीर
+tapir,
 taste,स्वाद
 tenso,तनावग्रस्त
 thick,मोटा
@@ -242,12 +242,12 @@ to act,कार्य करने के लिए
 to anticipate,उम्मीद के लिए
 to believe,विश्वास करने के लिए
 to bounce,उछालने के लिए
-to care,देखभाल करने के लिए
+to care,परवाह करना
 to choose,चुनना
 to continue,जारी रखने के लिए
 to convert,कन्वर्ट करने के लिए
 to cook,पकाना
-to correspond,अनुकूल होना
+to correspond,समतुल्य
 to cost,लागत के लिए
 to deal,सौदा करने के लिए
 to deserve,लायक
@@ -266,7 +266,7 @@ to hit,मारना
 to hold,रोके रखना
 to hunt,शिकार करना
 to know,जानना
-to live,जीने के लिए
+to live,जिन्दा
 to love,प्यार करना
 to mean,का मतलब
 to model,मॉडल के लिए
@@ -274,7 +274,7 @@ to move,हिलाने के लिए
 to need,जरूरत को
 to notice,सूचना के लिए
 to obey,पालन करना
-to order,ऑर्डर करने के लिए
+to order,क्रम
 to own,मालिक होने के लिए
 to party,पार्टी को
 to pay attention,ध्यान देने के लिए
@@ -302,10 +302,10 @@ to step,कदम रखने के लिए
 to study,पढ़ने के लिए
 to surprise,चकित करना
 to surround,चारों ओर
-to take care,देखभाल करने के लिए
+to take care,देखरेख
 to think,सोचना
 to touch,छूना
-to try,कोशिश करना
+to try,कोशिश
 to understand,समझने के लिए
 to wait,प्रतीक्षा करने के लिए
 to want,चाहने के लिए
@@ -319,7 +319,7 @@ torso,धड़
 touch,स्पर्श
 tree,पेड़
 tuna,टूना
-turned on,कामोत्तेजित
+turned on,चालू हालत में
 turtle,कछुआ
 typical,ठेठ
 vagina,योनि

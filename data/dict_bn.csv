@@ -2,7 +2,7 @@ about,সম্পর্কিত
 across,দিয়ে
 adult,প্রাপ্তবয়স্ক
 ahead,এগিয়ে
-alga,শেত্তলাগুলি
+algae,শেত্তলাগুলি
 amazing,আশ্চর্যজনক
 anemone,বায়ুপরাগী পুষ্পবিশেষ
 animal,পশু
@@ -24,16 +24,16 @@ body,শরীর
 broad,প্রশস্ত
 broken,ভাঙা
 brown,বাদামী
-bug,বাগ
+bug,জুজু
 burnt,দগ্ধ
-bustard,দ্রুতধাবনক্ষম বৃহত্কায় পক্ষিবিশেষ
+bustard,
 butterfly,প্রজাপতি
 buttocks,নিতম্ব
 cactus,ফণীমনসা
 camel,উট
 carp,দোষারোপ করা
-cattail,ক্যাটটেল
-certain,নির্দিষ্ট
+cattail,নলখাগড়া
+certain,নিশ্চিত
 chest,বুক
 chunky,গাঁট্টাগোট্টা
 circular,বিজ্ঞপ্তি
@@ -58,15 +58,15 @@ cupped,cupped
 damaged,ক্ষতিগ্রস্ত
 dense,ঘন
 derecha,অধিকার
-descansar,বিশ্রাম
+descansar,থাকা
 different,বিভিন্ন
-earwig,কেন্নো
+earwig,কানকোটারি
 east,পূর্ব
 easy,সহজ
 egg,ডিম
 electricity,বিদ্যুৎ
 elephant,হাতি
-escama,স্ফুলিঙ্গ
+escama,মামড়ি
 excited,উত্তেজিত
 face,মুখ
 faith,বিশ্বাস
@@ -106,13 +106,13 @@ head,মাথা
 healthy,সুস্থ
 hear,শোনা
 heavy,ভারী
-high-pitched,উচ্চ ত্ত তীক্ষ্ন স্বরবিশিষ্ট
+high-pitched,উচ্চ ত্ত তীক্ষ্ন
 hippopotamus,জলহস্তী
 hole,গর্ত
 home,বাড়ি
 hot,গরম
 housefly,মাছি
-idear,উইল
+idear,কল্পনা করা
 in front,সামনে
 infinite,অসীম
 information,তথ্য
@@ -124,13 +124,13 @@ late,বিলম্বে
 layout,বিন্যাস
 leaf,গাছের পাতা
 leg,পা
-letra,চিঠি
+letra,অক্ষর
 likely,সম্ভবত
 liquid,তরল
 lizard,টিকটিকি
 long,দীর্ঘ
 low,কম
-luz,হালকা
+luz,আলো
 machine,মেশিন
 magical,ঐন্দ্রজালিক
 mammal,স্তনপায়ী প্রাণী
@@ -151,10 +151,9 @@ neat,ঝরঝরে
 network,নেটওয়ার্কের
 notion,ধারণা
 ocean,মহাসাগর
-okay,ঠিক আছে
+okay,
 old,পুরাতন
 opaque,অস্বচ্ছ
-opossum,আমেরিকার একজাতীয় বৃক্ষবাসী স্তন্যপায়ী প্রাণী
 ostrich,উটপাখী
 part,অংশ
 path,পথ
@@ -168,10 +167,10 @@ point,বিন্দু
 possible,সম্ভব
 powder,গুঁড়া
 pregnant,গর্ভবতী
-present,বর্তমান
+present,উপস্থিত
 proud,গর্বিত
 raccoon,র্যাকুন
-ray,রশ্মি
+ray,
 reality,বাস্তবতা
 reason,কারণ
 recto,সোজা
@@ -193,7 +192,7 @@ see,দেখ
 seed,বীজ
 sentence,বাক্য
 serious,গম্ভীর
-sex,লিঙ্গ
+sex,যৌনসহবাস
 shape,আকৃতি
 shark,হাঙ্গর
 sharp,তীব্র
@@ -210,7 +209,7 @@ solid,কঠিন
 sour,টক
 south,দক্ষিণ
 soy,সয়া সস
-space,স্থান
+space,মহাশূণ্য
 specialist,বিশেষজ্ঞ
 specific,নির্দিষ্ট
 spicy,মসলাযুক্ত
@@ -231,9 +230,9 @@ surface,পৃষ্ঠতল
 sweet,মিষ্টি
 tangible,বাস্তব
 tangled,জট
-tapir,শুঁড়ত্তয়ালা স্তন্যপায়ী প্রাণী
+tapir,
 taste,স্বাদ
-tenso,প্রচণ্ড ক্রুদ্ধ
+tenso,
 thick,পুরু
 tick,টিক্ টিক্ শব্দ
 tired,ক্লান্ত
@@ -242,12 +241,12 @@ to act,কাজ করতে
 to anticipate,কহা
 to believe,বিশ্বাস করা
 to bounce,বড়াই
-to care,যত্নে
+to care,উদ্বিগ্ন হত্তয়া
 to choose,নির্বাচন করতে
 to continue,অবিরত রাখতে
 to convert,পরিবর্তন করতে
 to cook,রান্না করতে
-to correspond,সুসঙ্গত
+to correspond,মিলা
 to cost,খরচ
 to deal,মোকাবেলা করতে
 to deserve,প্রাপ্য
@@ -266,7 +265,7 @@ to hit,আঘাত করার জন্য
 to hold,ধরে রাখা
 to hunt,শিকার করতে
 to know,জানতে
-to live,বাস করতে
+to live,বাঁচা
 to love,ভালবাসতে
 to mean,মানে
 to model,মডেল
@@ -274,7 +273,7 @@ to move,সরানো
 to need,প্রয়োজন
 to notice,লক্ষ্য করা
 to obey,মান্য করা
-to order,নির্দেশ দিতে
+to order,ক্রমপর্যায়ানুসারে সাজান
 to own,মালিক
 to party,পার্টি
 to pay attention,মনোযোগ দিতে
@@ -302,7 +301,7 @@ to step,পদক্ষেপ
 to study,অধ্যয়ন
 to surprise,অবাক
 to surround,ঘিরা
-to take care,যত্ন নিতে
+to take care,যত্ন নিবেন
 to think,চিন্তা করছি
 to touch,স্পর্শ করতে
 to try,চেষ্টা

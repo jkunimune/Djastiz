@@ -1,8 +1,8 @@
-about,acerca de
-across,a través de
+about,acerca
+across,través
 adult,adulto
 ahead,adelante
-alga,algas
+algae,algas
 amazing,increíble
 anemone,anémona
 animal,animal
@@ -24,7 +24,7 @@ body,cuerpo
 broad,ancho
 broken,roto
 brown,marrón
-bug,insecto
+bug,bicho
 burnt,quemado
 bustard,avutarda
 butterfly,mariposa
@@ -32,20 +32,20 @@ buttocks,nalgas
 cactus,cactus
 camel,camello
 carp,carpa
-cattail,cola de gato
-certain,cierto
+cattail,espadaña
+certain,segure
 chest,pecho
 chunky,fornido
 circular,circular
 city,ciudad
 claw,garra
-clean,limpiar
+clean,limpia
 closed,cerrado
 cockroach,cucaracha
 colour,color
 computer,computadora
 continent,continente
-control,controlar
+control,controla
 corn,maíz
 counterclockwise,sinistrórsum
 country,país
@@ -58,7 +58,7 @@ cupped,ahuecado
 damaged,dañado
 dense,denso
 derecha,derecha
-descansar,descansar
+descansar,descansa
 different,diferente
 earwig,tijereta
 east,este
@@ -112,8 +112,8 @@ hole,agujero
 home,casa
 hot,caliente
 housefly,mosca
-idear,idear
-in front,al frente
+idear,idea
+in front,frente
 infinite,infinito
 information,información
 inside,dentro
@@ -144,7 +144,7 @@ more,más
 mosquito,mosquito
 mountain,montaña
 mushroom,seta
-must,deber
+must,debe
 natural,natural
 nautilus,nautilo
 neat,ordenado
@@ -171,7 +171,7 @@ pregnant,embarazada
 present,presente
 proud,orgulloso
 raccoon,mapache
-ray,rayo
+ray,raya
 reality,realidad
 reason,razón
 recto,recto
@@ -189,7 +189,7 @@ scorpion,escorpión
 seahorse,hipocampo
 seal,sello
 season,estación
-see,ver
+see,ve
 seed,semilla
 sentence,frase
 serious,grave
@@ -198,11 +198,11 @@ shape,forma
 shark,tiburón
 sharp,agudo
 shiny,brillante
-should,deber
+should,debe
 simple,simple
 skillful,hábil
 slug,babosa
-smell,oler
+smell,huele
 smooth,suave
 social,social
 soil,suelo
@@ -210,7 +210,7 @@ solid,sólido
 sour,agrio
 south,sur
 soy,soja
-space,el espacio
+space,espacio
 specialist,especialista
 specific,específico
 spicy,picante
@@ -237,83 +237,83 @@ tenso,tenso
 thick,grueso
 tick,garrapata
 tired,cansado
-to accompany,acompañar
-to act,actuar
-to anticipate,anticipar
-to believe,creer
-to bounce,rebotar
-to care,importar
-to choose,elegir
-to continue,continuar
-to convert,convertir
-to cook,cocinar
-to correspond,corresponder
-to cost,costar
-to deal,negociar
-to deserve,merecer
-to engineer,ingeniar
-to face,enfrentar
-to fall,caer
-to fear,temer
-to feel,sentir
-to fight,pelear
-to fly,volar
-to function,funcionar
-to govern,gobernar
-to grip,agarrar
-to help,ayudar
-to hit,golpear
-to hold,sostener
-to hunt,cazar
-to know,saber
-to live,vivir
-to love,amar
-to mean,significar
-to model,modelar
-to move,mover
-to need,necesitar
-to notice,notar
-to obey,obedecer
-to order,ordenar
-to own,poseer
-to party,hacer una fiesta
+to accompany,acompaña
+to act,actúa
+to anticipate,anticipa
+to believe,cree
+to bounce,rebota
+to care,importa
+to choose,elige
+to continue,continúa
+to convert,convierte
+to cook,cocina
+to equivaler,corresponde
+to cost,cuesta
+to deal,negocia
+to deserve,merece
+to engineer,ingenia
+to face,enfrenta
+to fall,cae
+to fear,teme
+to feel,siente
+to fight,pelea
+to fly,vuela
+to function,funciona
+to govern,gobierna
+to grip,agarra
+to help,ayuda
+to hit,golpea
+to hold,sostiene
+to hunt,caza
+to know,sabe
+to live,vive
+to love,ama
+to mean,significa
+to model,modela
+to move,mueve
+to need,necesita
+to notice,nota
+to obey,obedece
+to order,ordena
+to own,posee
+to party,fiesta
 to pay attention,atención
-to perceive,percibir
-to plan,planificar
-to play,jugar
-to ponder,reflexionar
-to prosper,prosperar
-to push,empujar
-to read,leer
-to recall,recordar
-to relate,relacionar
-to repeat,repetir
-to ride,montar
-to roll,rodar
-to rub,frotar
-to say,decir
-to sell,vender
-to sit,sentarse
-to sleep,dormir
-to speak,hablar
-to spin,girar
-to stand,pararse
-to step,pisar
-to study,estudiar
-to surprise,sorprender
-to surround,rodear
-to take care,cuidar
-to think,pensar
-to touch,tocar
-to try,intentar
-to understand,comprender
-to wait,esperar
-to want,querer
-to wear,vestir
-to win,ganar
-to work,trabajar
-to worry,preocupar
-to write,escribir
+to perceive,percibe
+to plan,planifica
+to play,juega
+to ponder,reflexiona
+to prosper,prospera
+to push,empuja
+to read,lee
+to recall,recuerda
+to relate,relaciona
+to repeat,repite
+to ride,monta
+to roll,rueda
+to rub,frota
+to say,dice
+to sell,vende
+to sit,siénta
+to sleep,duerme
+to speak,habla
+to spin,gira
+to stand,para
+to step,pisa
+to study,estudia
+to surprise,sorprende
+to surround,rodea
+to take care,cuida
+to think,piensa
+to touch,toca
+to try,intenta
+to understand,comprende
+to wait,espera
+to want,quiere
+to wear,viste
+to win,gana
+to work,trabaja
+to worry,preocupa
+to write,escribe
 tomato,tomate
 torso,torso
 touch,tocar
