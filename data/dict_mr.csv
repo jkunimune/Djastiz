@@ -25,6 +25,7 @@ broad,व्यापक,vjaːpək,vjaːpək
 broken,तुटलेली,tuʈleliː,tuʈleliː
 brown,तपकिरी,təpkiriː,təpkiriː
 bug,ढेकूण,ɖ̤ekuːɳ,ɖ̤ekuːɳ
+bulrush,,,
 burnt,बर्न,bərnə,bərnə
 bustard,माळढोक,maːɭəɖ̤ok,maːɭəɖ̤ok
 butterfly,फुलपाखरू,pʰulpaːkʰəruː,pʰulpaːkʰəruː
@@ -32,7 +33,6 @@ buttocks,नितंब,nitəmbə,nitəmbə
 cactus,कॅक्टस,*,*
 camel,उंट,unʈə,unʈə
 carp,कार्प,kaːrpə,kaːrpə
-bulrush,,,
 certain,हुकमी,ɦukmiː,ɦukmiː
 chest,छाती,t͡ɕʰaːtiː,t͡ɕʰaːtiː
 chunky,गोंधळ,ɡond̤əɭə,ɡond̤əɭə
@@ -159,7 +159,6 @@ ostrich,शुतुरमुर्ग,ɕuturmurɡə,ɕuturmurɡə
 part,भाग,b̤aːɡ,b̤aːɡ
 path,मार्ग,maːrɡə,maːrɡə
 person,व्यक्ती,vjəktiː,vjəktiː
-phrase,वाक्यांश,vaːkjaːnɕə,vaːkjaːnɕə
 pidgeon,पिजिन,pid͡ʑin,pid͡ʑin
 pig,डुक्कर,ɖukkər,ɖukkər
 plant,वनस्पती,vənspətiː,vənspətiː
@@ -259,7 +258,6 @@ to fight,लढ,ləɖ̤,ləɖ̤
 to fly,उड,uɖ,uɖ
 to function,कार्य कर,kaːrjə kər,kaːrjə kər
 to govern,शासित,ɕaːsit,ɕaːsit
-to grip,पकड,pəkəɖ,pəkəɖ
 to help,मदत,mədət,mədət
 to hit,मार,maːr,maːr
 to hold,धर,d̤ər,d̤ər
@@ -289,11 +287,11 @@ to relate,संबंध जोड,səmbənd̤ə d͡ʑoɖ,səmbənd̤ə d͡ʑo�
 to repeat,पुन्हा,punɦaː,punɦaː
 to ride,चालव,t͡ɕaːləv,t͡ɕaːləv
 to roll,गुंडाळ,ɡunɖaːɭə,ɡunɖaːɭə
-to slide,स्लाइड,slaːiɖ,slaːiɖ
 to say,सांग,saːŋɡə,saːŋɡə
 to sell,विक्री,vikriː,vikriː
 to sit,बस,bəs,bəs
 to sleep,झोप,d͡ʑ̤op,d͡ʑ̤op
+to slide,स्लाइड,slaːiɖ,slaːiɖ
 to speak,बोल,bol,bol
 to spin,फिरव,pʰirəv,pʰirəv
 to stand,उभे,ub̤e,ub̤e

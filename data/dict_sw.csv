@@ -25,6 +25,7 @@ broad,pana,pana,pana
 broken,kuvunjwa,kuvunɟwa,kuvunɟwa
 brown,kahawia,kahawia,kahawia
 bug,dudu,ɗuɗu,ɗuɗu
+bulrush,,,
 burnt,kuteketezwa,kuteketezwa,kuteketezwa
 bustard,tandawala,tandawala,tandawala
 butterfly,kipepeo,kipepeo,kipepeo
@@ -32,7 +33,6 @@ buttocks,vifungo,vifunɡo,vifunɡo
 cactus,,,
 camel,ngamia,nɡamia,nɡamia
 carp,kamba,kamba,kamba
-bulrush,,,
 certain,yakini,jakini,jakini
 chest,kifua,kifua,kifua
 chunky,,,
@@ -159,7 +159,6 @@ ostrich,mbuni,mbuni,mbuni
 part,sehemu,sehemu,sehemu
 path,njia,nɟia,nɟia
 person,mtu,mtu,mtu
-phrase,maneno,maneno,maneno
 pidgeon,,,
 pig,nguruwe,nɡuɾuwe,nɡuɾuwe
 plant,mmea,mmea,mmea
@@ -186,7 +185,6 @@ rotten,imeoza,imeoza,imeoza
 salmon,laini,laini,laini
 salty,chumvi,t⁀ʃumvi,t⁀ʃumvi
 scorpion,nguruwe,nɡuɾuwe,nɡuɾuwe
-seahorse,baharini,ɓahaɾini,ɓahaɾini
 seal,muhuri,muhuɾi,muhuɾi
 season,msimu,msimu,msimu
 see,tazama,tazama,tazama
@@ -260,7 +258,6 @@ to fight,pigana,piɠana,piɠana
 to fly,ruka,ɾuka,ɾuka
 to function,fanya kazi,faɲa kazi,faɲa kazi
 to govern,tawala,tawala,tawala
-to grip,mtia,mtia,mtia
 to help,saidia,saiɗia,saiɗia
 to hit,piga,piɠa,piɠa
 to hold, shikilia, ʃikilia, ʃikilia
@@ -290,11 +287,11 @@ to relate,elezea,elezea,elezea
 to repeat,rudia,ɾuɗia,ɾuɗia
 to ride,panda,panda,panda
 to roll,piga,piɠa,piɠa
-to slide,sugua,suɠua,suɠua
 to say,sema,sema,sema
 to sell,uza,uza,uza
 to sit,kaa,kaa,kaa
 to sleep,lala,lala,lala
+to slide,sugua,suɠua,suɠua
 to speak,ongea,onɡea,onɡea
 to spin,piga,piɠa,piɠa
 to stand,simama,simama,simama

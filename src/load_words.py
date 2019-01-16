@@ -39,8 +39,8 @@ def load_dictionaries(filepath):
 		dictionaries[lang_code] = {}
 		if os.path.isfile(filepath.format(lang_code)):
 			with open(filepath.format(lang_code), 'r', encoding='utf-8', newline='') as f:
-				for english, other_language in csv.reader(f):
-					dictionaries[lang_code][english] = other_language
+				for row in csv.reader(f):
+					dictionaries[lang_code][row[0]] = row[1:]
 	return dictionaries
 
 
@@ -48,8 +48,8 @@ def save_dictionaries(dictionaries, filepath):
 	for lang_code, dictionary in dictionaries.items():
 		with open(filepath.format(lang_code), 'w', encoding='utf-8', newline='') as f:
 			writer = csv.writer(f)
-			for english, other_language in sorted(dictionary.items()):
-				writer.writerow([english, other_language])
+			for english, row in sorted(dictionary.items()):
+				writer.writerow([english, *row])
 
 
 def get_key(entry, pos):
@@ -92,8 +92,8 @@ if __name__ == '__main__':
 					if key in saved_dictionaries[lang_code]:
 						new_dictionaries[lang_code][key] = saved_dictionaries[lang_code][key]
 					else:
-						new_dictionaries[lang_code][key] = translate_text(source_lang_code, lang_code, key, translate_client)
-						print("\t{}: {}".format(lang_code[:2], new_dictionaries[lang_code][key]))
+						new_dictionaries[lang_code][key] = [translate_text(source_lang_code, lang_code, key, translate_client)]
+						print("\t{}: {}".format(lang_code[:2], new_dictionaries[lang_code][key][0]))
 						any_update = True
 
 				if any_update:

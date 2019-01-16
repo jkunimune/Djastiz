@@ -25,6 +25,7 @@ broad,প্রশস্ত,prɔɕɔs̪t̪ɔ,prɔɕɔs̪t̪ɔ
 broken,ভাঙা,b̤aŋa,b̤aŋa
 brown,বাদামী,bad̪ami,bad̪ami
 bug,জুজু,d͡ʑud͡ʑu,d͡ʑud͡ʑu
+bulrush,নলখাগড়া,n̪ɔl̪ɔkʰaɡɽa,n̪ɔl̪ɔkʰaɡɽa
 burnt,দগ্ধ,d̪ɔɡɔd̪̤ɔ,d̪ɔɡɔd̪̤ɔ
 bustard,,,
 butterfly,প্রজাপতি,prɔd͡ʑapt̪i,prɔd͡ʑapt̪i
@@ -32,7 +33,6 @@ buttocks,নিতম্ব,n̪it̪ɔmbɔ,n̪it̪ɔmbɔ
 cactus,ফণীমনসা,ɸɔnimɔn̪ɔs̪a,ɸɔnimɔn̪ɔs̪a
 camel,উট,ut,ut
 carp,দোষারোপ করা,d̪oʂaropɔ kɔra,d̪oʂaropɔ kɔra
-bulrush,নলখাগড়া,n̪ɔl̪ɔkʰaɡɽa,n̪ɔl̪ɔkʰaɡɽa
 certain,নিশ্চিত,n̪iɕt͡ɕit̪,n̪iɕt͡ɕit̪
 chest,বুক,buk,buk
 chunky,গাঁট্টাগোট্টা,ɡãttaɡotta,ɡãttaɡotta
@@ -154,11 +154,11 @@ ocean,মহাসাগর,mɔɦas̪aɡɔrɔ,mɔɦas̪aɡɔrɔ
 okay,,,
 old,পুরাতন,purat̪ɔn̪ɔ,purat̪ɔn̪ɔ
 opaque,অস্বচ্ছ,os̪bɔt͡ɕt͡ɕʰɔ,os̪bɔt͡ɕt͡ɕʰɔ
+opossum,,,
 ostrich,উটপাখী,utpakʰi,utpakʰi
 part,অংশ,oŋɕɔ,oŋɕɔ
 path,পথ,pɔt̪ʰɔ,pɔt̪ʰɔ
 person,ব্যক্তি,bd͡zɔkt̪i,bd͡zɔkt̪i
-phrase,ফ্রেজ,ɸred͡ʑ,ɸred͡ʑ
 pidgeon,Pidgeon,pidɡeon,pidɡeon
 pig,শূকর,ɕukɔrɔ,ɕukɔrɔ
 plant,উদ্ভিদ,ud̪b̤id̪,ud̪b̤id̪
@@ -185,7 +185,6 @@ rotten,পচা,pɔt͡ɕa,pɔt͡ɕa
 salmon,স্যালমন মাছ,s̪d͡zal̪ɔmɔn̪ɔ mat͡ɕʰ,s̪d͡zal̪ɔmɔn̪ɔ mat͡ɕʰ
 salty,নোনতা,n̪on̪t̪a,n̪on̪t̪a
 scorpion,বিছা,bit͡ɕʰa,bit͡ɕʰa
-seahorse,সিন্ধুঘোটক,s̪in̪d̪̤ɔṳɡ̤otɔkɔ,s̪in̪d̪̤ɔṳɡ̤otɔkɔ
 seal,সীল,s̪il̪,s̪il̪
 season,ঋতু,ɽit̪u,ɽit̪u
 see,দেখ,d̪ekʰ,d̪ekʰ
@@ -259,7 +258,6 @@ to fight,যুদ্ধ,d͡zud̪d̪̤ɔ,d͡zud̪d̪̤ɔ
 to fly,উড়ে,uɽe,uɽe
 to function,ফাংশন,ɸaŋɕɔn̪ɔ,ɸaŋɕɔn̪ɔ
 to govern,শাসন,ɕas̪ɔn̪ɔ,ɕas̪ɔn̪ɔ
-to grip,খপ্পর,kʰɔppɔrɔ,kʰɔppɔrɔ
 to help,সাহায্য,s̪aɦad͡zd͡zɔ,s̪aɦad͡zd͡zɔ
 to hit,আঘাত করার জন্য,a̤ɡ̤at̪ɔ kɔrarɔ d͡ʑɔn̪d͡zɔ,a̤ɡ̤at̪ɔ kɔrarɔ d͡ʑɔn̪d͡zɔ
 to hold,ধরে রাখা,d̪̤ɔre rakʰa,d̪̤ɔre rakʰa
@@ -289,11 +287,11 @@ to relate,সম্পর্কিত,s̪ɔmpɔrkit̪,s̪ɔmpɔrkit̪
 to repeat,পুনরাবৃত্তি,pun̪rabɽit̪t̪i,pun̪rabɽit̪t̪i
 to ride,চালা,t͡ɕal̪a,t͡ɕal̪a
 to roll,গুটান,ɡutan̪,ɡutan̪
-to slide,স্লাইড,s̪l̪aid,s̪l̪aid
 to say,বল,bɔl̪ɔ,bɔl̪ɔ
 to sell,বেচ,bet͡ɕ,bet͡ɕ
 to sit,বসা,bɔs̪a,bɔs̪a
 to sleep,ঘুমা,̤ɡ̤uma,̤ɡ̤uma
+to slide,স্লাইড,s̪l̪aid,s̪l̪aid
 to speak,বল,bɔl̪ɔ,bɔl̪ɔ
 to spin,স্পিন,s̪pin̪,s̪pin̪
 to stand,দাঁড়ানো,d̪ãɽan̪o,d̪ãɽan̪o
@@ -333,4 +331,3 @@ widespread,ব্যাপক,bd͡zapɔkɔ,bd͡zapɔkɔ
 wood,কাঠ,katʰ,katʰ
 word,শব্দ,ɕɔbd̪ɔ,ɕɔbd̪ɔ
 worm,কীট,kit,kit
-opossum,,,

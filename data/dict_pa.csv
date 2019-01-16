@@ -25,6 +25,7 @@ broad,ਵਿਆਪਕ,ʋɪɑpək,ʋɪɑpək
 broken,ਟੁੱਟਿਆ,ʈʊːʈɪɑ,ʈʊːʈɪɑ
 brown,ਭੂਰਾ,puɾɑ,puɾɑ
 bug,মহাশূণ্য,মহাশূণ্য,মহাশূণ্য
+bulrush,,,
 burnt,ਸਾੜ ਦਿੱਤਾ,sɑɽə d̪ɪːt̪ɑ,sɑɽə d̪ɪːt̪ɑ
 bustard,,,
 butterfly,ਬਟਰਫਲਾਈ,bəʈɾəpʰəlɑi,bəʈɾəpʰəlɑi
@@ -32,7 +33,6 @@ buttocks,ਨੱਟੜ,nəːʈəɽ,nəːʈəɽ
 cactus,ਕੈਪਟਸ,kɛpʈəs,kɛpʈəs
 camel,ਊਠ,uʈʰ,uʈʰ
 carp,ਕਾਰਪ,kɑɾəp,kɑɾəp
-bulrush,,,
 certain,মহাশূণ্য,মহাশূণ্য,মহাশূণ্য
 chest,ਛਾਤੀ,t͡ʃʰɑt̪i,t͡ʃʰɑt̪i
 chunky,ਠੰਡੇ,ʈʰə̃ɖe,ʈʰə̃ɖe
@@ -258,7 +258,6 @@ to fight,ਲੜਨ,ləɽən,ləɽən
 to fly,ਉੱਡਣ,ʊːɖəɳ,ʊːɖəɳ
 to function,ਕੰਮ,kə̃m,kə̃m
 to govern,ਰਾਜ,ɾɑd͡ʒ,ɾɑd͡ʒ
-to grip,ਪਕੜ ਕੇ,pəkɽə ke,pəkɽə ke
 to help,ਮਦਦ,məd̪əd̪,məd̪əd̪
 to hit,ਹਿੱਟ,ɦɪːʈ,ɦɪːʈ
 to hold,ਨੂੰ ਰੱਖਣ,nəũ ɾəːkʰəɳ,nəũ ɾəːkʰəɳ
@@ -288,11 +287,11 @@ to relate,ਸਬੰਧਤ,səbə̃t̪ət̪,səbə̃t̪ət̪
 to repeat,ਦੁਹਰਾਉਣਾ,d̪ʊɦɾɑʊɳɑ,d̪ʊɦɾɑʊɳɑ
 to ride,ਦੀ ਸਵਾਰੀ,d̪i səʋɑɾi,d̪i səʋɑɾi
 to roll,ਰੋਲ,ɾol,ɾol
-to slide,ਸਲਾਈਡ,səlɑiɖ,səlɑiɖ
 to say,ਕਹਿਣ,kəɦɪɳ,kəɦɪɳ
 to sell,ਵੇਚਣ ਦੇ,ʋet͡ʃɳə d̪e,ʋet͡ʃɳə d̪e
 to sit,ਬੈਠਣ,bɛʈʰəɳ,bɛʈʰəɳ
 to sleep,ਸੌਂਣ,sɔ̃ɳ,sɔ̃ɳ
+to slide,ਸਲਾਈਡ,səlɑiɖ,səlɑiɖ
 to speak,ਬੋਲਣ,boləɳ,boləɳ
 to spin,ਸਪਿਨ,səpɪn,səpɪn
 to stand,ਖੜੇ ਹੋਣਾ,kʰəɽe ɦoɳɑ,kʰəɽe ɦoɳɑ

@@ -25,6 +25,7 @@ broad,pharaletseng,pʰɑʀɑlet͡sʼeŋ,pʰɑʀɑlet͡sʼeŋ
 broken,robehileng,ʀobehileŋ,ʀobeɦileŋ
 brown,sootho,swotʰo,sʷotʰo
 bug,,,
+bulrush,,,
 burnt,licheso,lit͡ʃʰeso,dit͡ʃʰeso
 bustard,,,
 butterfly,,,
@@ -32,7 +33,6 @@ buttocks,marotholi,mɑʀotʰoli,mɑʀotʰodi
 cactus,,,
 camel,,,
 carp,,,
-bulrush,,,
 certain,,,
 chest,sefuba,sefubɑ,sefubɑ
 chunky,,,
@@ -159,6 +159,7 @@ ostrich,lema,lemɑ,lemɑ
 part,karolo,kʼɑʀolo,kʼɑʀolo
 path,tsela,t͡sʼelɑ,t͡sʼelɑ
 person,motho,motʰo,motʰo
+pidgeon,,,
 pig,kolobe,kʼolobe,kʼolobe
 plant,semela,semelɑ,semelɑ
 pleasure,monate,monɑtʼe,monɑtʼe
@@ -192,11 +193,13 @@ sentence,polelo,pʼolelo,pʼolelo
 serious,tebileng,tʼebileŋ,tʼebileŋ
 sex,thobalano,tʰobɑlɑno,tʰobɑlɑno
 shape,sebōpeho,sebōpʼeho,sebōpʼeɦo
+shark,,,
 sharp,bohale,bohɑle,boɦɑle
 shiny,khanyang,xɑɲɑŋ,xɑɲɑŋ
 should,lokela,lokʼelɑ,lokʼelɑ
 simple,bonolo,bonolo,bonolo
 skillful,tsebo,t͡sʼebo,t͡sʼebo
+slug,,,
 smell,monko,monkʼo,monkʼo
 smooth,bonolo,bonolo,bonolo
 social,sechabeng,set͡ʃʰɑbeŋ,set͡ʃʰɑbeŋ
@@ -255,7 +258,6 @@ to fight,loana,lwɑnɑ,lʷɑnɑ
 to fly,fofa,fofɑ,fofɑ
 to function,sebetsa,sebet͡sʼɑ,sebet͡sʼɑ
 to govern,busa,busɑ,busɑ
-to grip,tšoara,t͡sʰwɑʀɑ,t͡sʰʷɑʀɑ
 to help,thusa,tʰusɑ,tʰusɑ
 to hit,otla,ot͡ɬʼɑ,ot͡ɬʼɑ
 to hold,tšoara,t͡sʰwɑʀɑ,t͡sʰʷɑʀɑ
@@ -285,11 +287,11 @@ to relate,pheta,pʰetʼɑ,pʰetʼɑ
 to repeat,pheta,pʰetʼɑ,pʰetʼɑ
 to ride,palama,pʼɑlɑmɑ,pʼɑlɑmɑ
 to roll,pata,pʼɑtʼɑ,pʼɑtʼɑ
-to slide,itlotsa,it͡ɬʼot͡sʼɑ,it͡ɬʼot͡sʼɑ
 to say,re,ʀe,ʀe
 to sell,rekisa,ʀekʼisɑ,ʀekʼisɑ
 to sit,lula,lulɑ,dulɑ
 to sleep,robala,ʀobɑlɑ,ʀobɑlɑ
+to slide,itlotsa,it͡ɬʼot͡sʼɑ,it͡ɬʼot͡sʼɑ
 to speak,bua,buɑ,buɑ
 to spin,otloloha,ot͡ɬʼolohɑ,ot͡ɬʼoloɦɑ
 to stand,ema,emɑ,emɑ
@@ -329,6 +331,3 @@ widespread,atile,ɑtʼile,ɑtʼile
 wood,lehong,lehoŋ,leɦoŋ
 word,lentsoe,lent͡sʼwe,lent͡sʼʷe
 worm,sebōkō,sebōkʼō,sebōkʼō
-pidgeon,,,
-shark,,,
-slug,,,
