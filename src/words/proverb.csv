@@ -3,7 +3,7 @@ eng,source,ltl
 "end; stop; cease; cancel; unbecome; come from; go from; send; leave; depart; from; change; de- -ify; _cessative_; SBJ {stopper} makes OBJ {complete; finished} transitions from truth to falsehood {TIME:ending|LOCATION:end; edge}",REVERSAL OF begin,nos
 "*yes; be true; be right; be correct; be real; be happening; _positive_; OBJ {state; truth; reality} is happening {METHOD:process}",eng <truth> [tɹʷuːθ],tus
 "no; not; be false; be wrong; be incorrect; be not happening; be fake; _negative_; OBJ {falsehood; fiction} is not happening",ANTONYM OF yes,lis
-"happen; do; cause; pro-verb; SBJ {cause; participant} causes OBJ {event; effect} to come true",INCOHATIVE OF yes,tuskes
+"do; happen; cause; pro-verb; SBJ {agent; participant} makes OBJ {event; effect; action} come true",INCOHATIVE OF yes,tuskes
 "undo; OBJ happens in reverse",CESSATIVE OF yes,tusnos
 "be; exist; have; equal; be the same; _copula_; OBJ exists and is the same thing as IND {AMOUNT:number; count; amount|GENITIVE:fair; uniform; equal}",spa <ser> [seɾ],ses
 "be opposite; be contrary; OBJ is the opposite of IND",OPPOSITE OF be,hos

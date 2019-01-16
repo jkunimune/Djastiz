@@ -71,8 +71,8 @@ use internet; be wireless; be cyber; be crypto {METHOD:protocol},computer say,ko
 telephone; telegraph,be-far phone,
 mobile phone; cellural phone; cell phone,move phone,mopestilaslatan
 smart phone; phone,understand phone,ljawcjestilaslatan
-female; woman,vagina life,sonhwoslon
-male; man,penis life,henhwoslon
+be female; OBJ {woman} is female,vagina live,sonhwoslon
+be male; OBJ {man} is male,penis live,henhwoslon
 be feminine; OBJ {woman; girl} is feminine,vagina act,sonhak
 be masculine; OBJ {man; boy} is masculine,penis act,henhak
 year,ground period,pumlosljan
@@ -217,16 +217,16 @@ milk,baby liquid,kukamlikwitlon
 wine,grape alcohol,putawhmoclikwitlon
 blood,be-red liquid,latlonmwil
 urine; pee,be-yellow liquid,kutlonmwil
+feces; excrement; poop,buttocks solid,
 saliva,mouth liquid,mukkunmwil
 sweat,skin liquid,senascjenmwil
 tears,eye liquid,tekcjenmwil
-feces; excrement; poop,be-brown trash,kutlonmwil
-expectorate; spit; salivate; SBJ spits,saliva create,mukkunmwilseskes
-cry; weep; sob,tears create,tekcjenmwilseskes
-sweat; SBJ sweats,sweat create,senascjenmwilseskes
-defecate; poop,feces create,kutlonmwilseskes
-urinate; pee,urine create,kutlonmwilseskes
-diarrhea,liquid feces,likwitlonkutlonmwil
+urinate; pee; SBJ urinates out OBJ,urine exit,kutlonmwilseskes
+defecate; poop; SBJ defecates out OBJ,feces exit,kutlonmwil
+expectorate; spit; salivate; SBJ spits OBJ out,saliva exit,mukkunmwilseskes
+cry; weep; sob,tears exit,tekcjenmwilseskes
+sweat; SBJ sweats,sweat exit,senascjenmwilseskes
+diarrhea,be-liquid feces,likwitlonkutlonmwil
 pimple,pus container,putlonmwilneslam
 hydroden,water material,hwoslikwitlonmetlam
 carbon,life material,hwoslonmetlam
@@ -653,3 +653,4 @@ enterprise,,
 go shopping; OBJ is going shopping,buy go,
 welcome!,please enter,
 phrase,word group,
+emoticon; emoji,feel image,
