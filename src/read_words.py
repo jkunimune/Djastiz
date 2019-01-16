@@ -1,11 +1,10 @@
 # read_words.py
 
-import csv
 from dragonmapper import hanzi
 import epitran
-from os import path
-import pickle
 import re
+from os import path
+import pandas as pd
 import sys
 
 sys.path.append(path.sep.join([*sys.path[0].split(path.sep)[0:-2], 'English-to-IPA']))
@@ -13,10 +12,8 @@ import eng_to_ipa # available at https://github.com/mphilli/English-to-IPA.git
 
 
 LANG_CODES = {
-	'zh-CN':'cmn', 'es':'spa', 'eo':'epo', 'en':'eng', 'hi':'hin', 'bn':'ben', 'ar':'ara', 'pa':'pan',
-	'jv':'jav', 'yo':'yor', 'mr':'mar', 'ms':'msa', 'ig':'ibo', 'tl':'fil', 'sw':'swa', 'zu':'zul',
-	'ny':'nya', 'xh':'xho', 'sn':'sho', 'st':'sot'}
-
+	'zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'jv', 'yo',
+	'mr', 'ms', 'ig', 'tl', 'sw', 'zu', 'ny', 'xh', 'sn', 'st'}
 EPITRANSLATORS = {lang:epitran.Epitran(script) for lang, script in
 	[('hi','hin-Deva'), ('bn','ben-Beng'), ('ar','ara-Arab'), ('pa','pan-Guru'), ('jv','jav-Latn'),
 	 ('yo','yor-Latn'), ('mr','mar-Deva'), ('ms','msa-Latn'), ('tl','tgl-Latn'), ('sw','swa-Latn'),
@@ -34,10 +31,6 @@ def read_mandarin(word):
 
 def read_spanish(word):
 	""" read a word phonetically in Spanish """
-	word = word.lower()
-	if word.startswith('me ') or word.startswith('de '):
-		word = word[3:]
-
 	broad = ''
 	stress_i = None
 	for i, c in enumerate(word):
@@ -169,8 +162,7 @@ def read_spanish(word):
 		else:
 			narrow += c
 
-	if broad.endswith('ar') or broad.endswith('er') or broad.endswith('ir'):
-		broad = broad[:-1] + 's' # put all verbs in singular second person present, to better fit the morphological rules
+	broad = broad.replace('ue','o').replace('ie','e') # this will easily and intelligibly make words more like other romance words
 	if broad.startswith('ʝ'):
 		broad = 'd͡ʒ' + broad[1:] # and make it clear that words like <llamar> should start with <c>, not <hj>
 	return broad, narrow
@@ -178,10 +170,6 @@ def read_spanish(word):
 
 def read_esperanto(word):
 	""" read a word phonetically in Esperanto """
-	word = word.lower()
-	if len(word) >= 4:
-		word = re.sub(r'(i|u|us|as)$', 'as', word) # put all verbs in present
-
 	broad = word.replace(
 		'c', 't͡s').replace('ĉ', 't͡ʃ').replace('ĝ', 'd͡ʒ').replace('ĥ', 'x').replace(
 		'ĵ', 'ʒ').replace('ŝ', 'ʃ').replace('ŭ', 'w').replace('g', 'ɡ')
@@ -222,7 +210,7 @@ def read_english(word):
 			narrow += 'ɾ'
 		elif c in 'ptk' and (i == 0 or broad[i-1] == 'ˈ'):
 			narrow += c+'ʰ'
-		elif c in 'ɑiuɔ' and (i+1 >= len(broad) or broad[i+1] not in 'ɪʊ'):
+		elif c in 'iu' and (i+1 >= len(broad) or broad[i+1] not in 'ɪʊɹ'):
 			narrow += c+'ː'
 		elif c == 'ɑ' and i+3 < len(broad) and broad[i+1:i+3] == 'ɪ̯' and broad[i+3] in 'ptkfθsʃh':
 			narrow += 'ə'
@@ -363,18 +351,10 @@ def read(word, lang):
 
 
 if __name__ == '__main__':
-	try:
-		all_transcriptions = pickle.load(open('../data/all_languages.p','rb'))
-	except IOError:
-		all_transcriptions = {}
 	for lang in LANG_CODES:
-		with open('../data/dict_{}.csv'.format(lang), 'r', encoding='utf-8', newline='') as f:
-			for word, orthography in csv.reader(f):
-				orthography = max(reversed(orthography.split()), key=len) # strip away any grammar particles
-				if lang != 'en' and word == orthography:
-					broad, narrow = '*', '*' # if it's exactly the same in English and the other language, then Google Translate is selling us lies
-				else:
-					broad, narrow = read(orthography, lang)
-				all_transcriptions[word] = {**all_transcriptions.get(word,{}), LANG_CODES[lang]:(orthography, broad, narrow)}
-				print("{} in {} is spelled {} and pronounced /{}/ [{}]".format(word, lang, *all_transcriptions[word][LANG_CODES[lang]]))
-	pickle.dump(all_transcriptions, open('../data/all_languages.p','wb'))
+		table = pd.read_csv('../data/dict_{}.csv'.format(lang), header=None, names=['meaning','orthography','broad','narrow'], na_filter=False)
+		for i, (meaning, orthography, broad, narrow) in list(table.iterrows()):
+			if orthography and not broad:
+				table.iloc[i][['broad','narrow']] = read(orthography, lang)
+			print("In {}, {} is spelled <{}> and read /{}/ [{}]".format(lang, *table.iloc[i]))
+		table.to_csv('../data/dict_{}.csv'.format(lang), header=False, index=False)
