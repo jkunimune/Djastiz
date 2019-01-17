@@ -1,8 +1,8 @@
-eng,source,ltl
-"some; describes an unspecified subset of the following noun phrase",eng <some> [səm],sam
-"any; one of; describes a single arbitrary instance of the following noun phrase",spa <cualquier> [kwalˈkjer],kwal
-"each; every; describes every instance of the following noun phrase individually",OPPOSITE OF any,njal
-"only; just; describes the following noun phrase and nothing else",spa <solo> [ˈsolo],sol
-"even; so; too; neither; emphasizes something surprising",eng <even> [ˈiːvn̩],fen
-"both",cmn <又> [jow˥˩],hjo
-"and; /",cmn <和> [xɤ˧˥],ha
+eng,spa,source,ltl
+"some; describes an unspecified subset of the following noun phrase",,eng <some> [səm],sam
+"any; one of; describes a single arbitrary instance of the following noun phrase",,spa <cualquier> [kwalˈkjer],kwal
+"each; every; describes every instance of the following noun phrase individually",,OPPOSITE OF any,njal
+"only; just; describes the following noun phrase and nothing else",,spa <solo> [ˈsolo],sol
+"even; so; too; neither; emphasizes something surprising",,eng <even> [ˈiːvn̩],fen
+"both",,cmn <又> [jow˥˩],hjo
+"and; /",,cmn <和> [xɤ˧˥],ha

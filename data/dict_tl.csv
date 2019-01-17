@@ -2,18 +2,18 @@ about,tungkol,tuŋkol,tuŋkol
 across,kabuuan,kabuuan,kabuuan
 adult,matanda,matanda,matanda
 ahead,maaga,maaɡa,maaɡa
-algae,,,
+algae,*,*,*
 amazing,kahanga-hangang,kahaŋa-haŋaŋ,kahaŋa-haŋaŋ
-anemone,,,
+anemone,*,*,*
 animal,hayop,hajop,hajop
-ant,,,
+ant,*,*,*
 apple,mansanas,mansanas,mansanas
 arm,braso,bɾaso,bɾaso
 art,sining,siniŋ,siniŋ
-bacterium,,,
+bacterium,*,*,*
 bamboo,kawayan,kawajan,kawajan
 barnacle,tanghali,taŋhali,taŋhali
-bear,,,
+bear,*,*,*
 beetle,salaginto,salaɡinto,salaɡinto
 below,ibaba,ibaba,ibaba
 between,pagitan,paɡitan,paɡitan
@@ -27,15 +27,15 @@ brown,kayumanggi,kajumaŋɡi,kajumaŋɡi
 bug,kulisap,kulisap,kulisap
 bulrush,tambo,tambo,tambo
 burnt,nasunog,nasunoɡ,nasunoɡ
-bustard,,,
-butterfly,,,
+bustard,*,*,*
+butterfly,*,*,*
 buttocks,pigi,piɡi,piɡi
-cactus,,,
+cactus,*,*,*
 camel,kamelyo,kameljo,kameljo
 carp,pamumula,pamumula,pamumula
 certain,sigurado,siɡuɾado,siɡuɾado
 chest,dibdib,dibdib,dibdib
-chunky,,,
+chunky,*,*,*
 circular,pabilog,pabiloɡ,pabiloɡ
 city,lungsod,luŋsod,luŋsod
 claw,kuko,kuko,kuko
@@ -43,18 +43,18 @@ clean,malinis,malinis,malinis
 closed,sarado,saɾado,saɾado
 cockroach,ipis,ipis,ipis
 colour,kulay,kulaj,kulaj
-computer,,,
+computer,*,*,*
 continent,kontinente,kontinente,kontinente
 control,kontrolin,kontɾolin,kontɾolin
 corn,mais,mais,mais
-counterclockwise,,,
+counterclockwise,*,*,*
 country,bansa,bansa,bansa
 crab,alimango,alimaŋo,alimaŋo
 cricket,kuliglig,kuliɡliɡ,kuliɡliɡ
 crocodile,buwaya,buwaja,buwaja
 crystal,kristal,kɾistal,kɾistal
 culture,kultura,kultuɾa,kultuɾa
-cupped,,,
+cupped,*,*,*
 damaged,nasira,nasiɾa,nasiɾa
 dense,siksik,siksik,siksik
 derecha,tama,tama,tama
@@ -82,7 +82,7 @@ flea,pulgas,pulɡas,pulɡas
 flower,bulaklak,bulaklak,bulaklak
 foamy,mabula,mabula,mabula
 fowl,unggoy,uŋɡoj,uŋɡoj
-friendly,,,
+friendly,*,*,*
 fruit,prutas,pɾutas,pɾutas
 full,buong,buoŋ,buoŋ
 fun,masaya,masaja,masaja
@@ -107,7 +107,7 @@ healthy,malusog,malusoɡ,malusoɡ
 hear,dinggin,diŋɡin,diŋɡin
 heavy,mabigat,mabiɡat,mabiɡat
 high-pitched,matinis,matinis,matinis
-hippopotamus,,,
+hippopotamus,*,*,*
 hole,butas,butas,butas
 home,bahay,bahaj,bahaj
 hot,mainit,mainit,mainit
@@ -118,10 +118,10 @@ infinite,walang katapusan,walaŋ katapusan,walaŋ katapusan
 information,impormasyon,impoɾmasjon,impoɾmasjon
 inside,loob,loob,loob
 jellyfish,dikya,dikja,dikja
-kangaroo,,,
-koala,,,
+kangaroo,*,*,*
+koala,*,*,*
 late,huli,huli,huli
-layout,,,
+layout,*,*,*
 leaf,dahon,dahon,dahon
 leg,binti,binti,binti
 letra,letra,letɾa,letɾa
@@ -131,35 +131,35 @@ lizard,butiki,butiki,butiki
 long,mahaba,mahaba,mahaba
 low,mababa,mababa,mababa
 luz,liwanag,liwanaɡ,liwanaɡ
-machine,,,
+machine,*,*,*
 magical,mahiwagang,mahiwaɡaŋ,mahiwaɡaŋ
-mammal,,,
+mammal,*,*,*
 mantis,sasamba,sasamba,sasamba
 married,kasal,kasal,kasal
 material,materyal,mateɾjal,mateɾjal
 metal,metal,metal,metal
 mixed,magkakahalo,maɡkakahalo,maɡkakahalo
-moral,,,
+moral,*,*,*
 more,higit,hiɡit,hiɡit
 mosquito,lamok,lamok,lamok
 mountain,bundok,bundok,bundok
 mushroom,kabute,kabute,kabute
 must,dapat,dapat,dapat
 natural,natural,natuɾal,natuɾal
-nautilus,,,
+nautilus,*,*,*
 neat,malinis,malinis,malinis
-network,,,
+network,*,*,*
 notion,paniwala,paniwala,paniwala
 ocean,karagatan,kaɾaɡatan,kaɾaɡatan
 okay,mabuti,mabuti,mabuti
 old,matanda,matanda,matanda
 opaque,hindi kanais-nais,hindi kanais-nais,hindi kanais-nais
 opossum,oposum,oposum,oposum
-ostrich,,,
+ostrich,*,*,*
 part,bahagi,bahaɡi,bahaɡi
 path,landas,landas,landas
 person,tao,tao,tao
-pidgeon,,,
+pidgeon,*,*,*
 pig,baboy,baboj,baboj
 plant,planta,planta,planta
 pleasure,kasiyahan,kasijahan,kasijahan
@@ -169,20 +169,20 @@ powder,pulbos,pulbos,pulbos
 pregnant,buntis,buntis,buntis
 present,dumalo,dumalo,dumalo
 proud,mapagmataas,mapaɡmataas,mapaɡmataas
-raccoon,,,
-ray,,,
+raccoon,*,*,*
+ray,*,*,*
 reality,katotohanan,katotohanan,katotohanan
 reason,dahilan,dahilan,dahilan
 recto,tuwid,tuwid,tuwid
 red,pula,pula,pula
 region,rehiyon,ɾehijon,ɾehijon
-reptile,,,
-rhinoceros,,,
+reptile,*,*,*
+rhinoceros,*,*,*
 rice,kanin,kanin,kanin
 rodent,daga,daɡa,daɡa
 root,root,ɾoot,ɾoot
 rotten,bulok,bulok,bulok
-salmon,,,
+salmon,*,*,*
 salty,maalat,maalat,maalat
 scorpion,alakdan,alakdan,alakdan
 seal,selyo,seljo,seljo
@@ -204,7 +204,7 @@ smell,amoy,amoj,amoj
 smooth,makinis,makinis,makinis
 social,panlipunan,panlipunan,panlipunan
 soil,lupa,lupa,lupa
-solid,,,
+solid,*,*,*
 sour,maasim,maasim,maasim
 south,timog,timoɡ,timoɡ
 soy,toyo,tojo,tojo
@@ -212,16 +212,16 @@ space,kalawakan,kalawakan,kalawakan
 specialist,espesyalista,espesjalista,espesjalista
 specific,tiyak,tijak,tijak
 spicy,maanghang,maaŋhaŋ,maaŋhaŋ
-spider,,,
+spider,*,*,*
 stacked,isinalansan,isinalansan,isinalansan
-starboard,,,
+starboard,*,*,*
 steep,matarik,mataɾik,mataɾik
-stem,,,
-stick,,,
+stem,*,*,*
+stick,*,*,*
 stone,bato,bato,bato
 storm,bagyo,baɡjo,baɡjo
 story,kuwento,kuwento,kuwento
-string,,,
+string,*,*,*
 strong,malakas,malakas,malakas
 structure,istraktura,istɾaktuɾa,istɾaktuɾa
 sun,araw,aɾaw,aɾaw
@@ -233,7 +233,7 @@ tapir,tapir,tapiɾ,tapiɾ
 taste,lasa,lasa,lasa
 tenso,malubha,malubha,malubha
 thick,makapal,makapal,makapal
-tick,,,
+tick,*,*,*
 tired,pagod,paɡod,paɡod
 to accompany,samahan,samahan,samahan
 to act,umarte,umaɾte,umaɾte
@@ -243,13 +243,13 @@ to bounce,tumalbog,tumalboɡ,tumalboɡ
 to care,alitanahin,alitanahin,alitanahin
 to choose,pumili,pumili,pumili
 to continue,magpatuloy,maɡpatuloj,maɡpatuloj
-to convert,,,
+to convert,*,*,*
 to cook,magluto,maɡluto,maɡluto
 to correspond,makaayon,makaajon,makaajon
 to cost,gastos,ɡastos,ɡastos
 to deal,magkasundo,maɡkasundo,maɡkasundo
 to deserve,maging karapat-dapat,maɡiŋ kaɾapat-dapat,maɡiŋ kaɾapat-dapat
-to engineer,,,
+to engineer,*,*,*
 to face,harapin,haɾapin,haɾapin
 to fall,mahulog,mahuloɡ,mahuloɡ
 to fear,takot,takot,takot
@@ -315,15 +315,15 @@ tomato,kamatis,kamatis,kamatis
 torso,katawan ng tao,katawan ŋ tao,katawan ŋ tao
 touch,hawakan,hawakan,hawakan
 tree,puno,puno,puno
-tuna,,,
-turned on,,,
+tuna,*,*,*
+turned on,*,*,*
 turtle,pagong,paɡoŋ,paɡoŋ
 typical,tipikal,tipikal,tipikal
 vagina,puki,puki,puki
 virus,virus,viɾus,viɾus
 viscous,malapot,malapot,malapot
 wasp,putakti,putakti,putakti
-whale,,,
+whale,*,*,*
 wheat,trigo,tɾiɡo,tɾiɡo
 white,puti,puti,puti
 wide,malawak,malawak,malawak

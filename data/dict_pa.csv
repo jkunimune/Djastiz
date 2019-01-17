@@ -25,9 +25,9 @@ broad,ਵਿਆਪਕ,ʋɪɑpək,ʋɪɑpək
 broken,ਟੁੱਟਿਆ,ʈʊːʈɪɑ,ʈʊːʈɪɑ
 brown,ਭੂਰਾ,puɾɑ,puɾɑ
 bug,মহাশূণ্য,মহাশূণ্য,মহাশূণ্য
-bulrush,,,
+bulrush,*,*,*
 burnt,ਸਾੜ ਦਿੱਤਾ,sɑɽə d̪ɪːt̪ɑ,sɑɽə d̪ɪːt̪ɑ
-bustard,,,
+bustard,*,*,*
 butterfly,ਬਟਰਫਲਾਈ,bəʈɾəpʰəlɑi,bəʈɾəpʰəlɑi
 buttocks,ਨੱਟੜ,nəːʈəɽ,nəːʈəɽ
 cactus,ਕੈਪਟਸ,kɛpʈəs,kɛpʈəs
@@ -47,20 +47,20 @@ computer,ਕੰਪਿਊਟਰ,kə̃pɪuʈəɾ,kə̃pɪuʈəɾ
 continent,ਮਹਾਂਦੀਪ,məɦɑ̃d̪ip,məɦɑ̃d̪ip
 control,ਨਿਯੰਤਰਣ,nɪjə̃t̪əɾəɳ,nɪjə̃t̪əɾəɳ
 corn,ਮਕਈ,məki,məki
-counterclockwise,,,
+counterclockwise,*,*,*
 country,ਦੇਸ਼,d̪eʃ,d̪eʃ
 crab,ਕੇਕੜਾ,kekɽɑ,kekɽɑ
 cricket,ਕ੍ਰਿਕੇਟ,kɾɪkeʈ,kɾɪkeʈ
 crocodile,ਮਗਰਮੱਛ,məɡɾəməːt͡ʃʰ,məɡɾəməːt͡ʃʰ
 crystal,ਕ੍ਰਿਸਟਲ,kɾɪsʈəl,kɾɪsʈəl
 culture,ਸਭਿਆਚਾਰ,səpɪɑt͡ʃɑɾ,səpɪɑt͡ʃɑɾ
-cupped,,,
+cupped,*,*,*
 damaged,ਨੁਕਸਾਨ,nʊksɑn,nʊksɑn
 dense,ਸੰਘਣਾ,sə̃kəɳɑ,sə̃kəɳɑ
 derecha,ਸੱਜੇ,səːd͡ʒe,səːd͡ʒe
 descansar,ਟਿਕ,ʈɪk,ʈɪk
 different,ਵੱਖ ਵੱਖ,ʋəːkʰə ʋəːkʰ,ʋəːkʰə ʋəːkʰ
-earwig,,,
+earwig,*,*,*
 east,ਪੂਰਬ,puɾəb,puɾəb
 easy,ਆਸਾਨ,ɑsɑn,ɑsɑn
 egg,ਅੰਡੇ,ə̃ɖe,ə̃ɖe
@@ -154,7 +154,7 @@ ocean,ਸਮੁੰਦਰ,səmʊ̃d̪əɾ,səmʊ̃d̪əɾ
 okay,ਠੀਕ,ʈʰik,ʈʰik
 old,ਪੁਰਾਣੇ,pʊɾɑɳe,pʊɾɑɳe
 opaque,ਅਪਾਰਦਰਸ਼ੀ,əpɑɾd̪əɾəʃi,əpɑɾd̪əɾəʃi
-opossum,,,
+opossum,*,*,*
 ostrich,ਸ਼ੁਤਰਮੁਰਗ,ʃʊt̪ɾəmʊɾəɡ,ʃʊt̪ɾəmʊɾəɡ
 part,ਭਾਗ,pɑɡ,pɑɡ
 path,ਮਾਰਗ,mɑɾəɡ,mɑɾəɡ
@@ -167,7 +167,7 @@ point,ਬਿੰਦੂ,bɪ̃d̪u,bɪ̃d̪u
 possible,ਸੰਭਵ,sə̃pəʋ,sə̃pəʋ
 powder,ਪਾਊਡਰ,pɑuɖəɾ,pɑuɖəɾ
 pregnant,ਗਰਭਵਤੀ,ɡəɾpəʋət̪i,ɡəɾpəʋət̪i
-present,,,
+present,*,*,*
 proud,ਮਾਣ,mɑɳ,mɑɳ
 raccoon,ਰਕੋਨ,ɾəkon,ɾəkon
 ray,ਰ,ɾ,ɾ
@@ -191,7 +191,7 @@ see,ਦੇਖੋ,d̪ekʰo,d̪ekʰo
 seed,ਬੀਜ,bid͡ʒ,bid͡ʒ
 sentence,ਸਜ਼ਾ,səzɑ,səzɑ
 serious,ਗੰਭੀਰ,ɡə̃piɾ,ɡə̃piɾ
-sex,,,
+sex,*,*,*
 shape,ਆਕਾਰ,ɑkɑɾ,ɑkɑɾ
 shark,ਸ਼ਾਰਕ,ʃɑɾək,ʃɑɾək
 sharp,ਤਿੱਖ,t̪ɪːkʰ,t̪ɪːkʰ
@@ -199,7 +199,7 @@ shiny,ਚਮਕਦਾਰ,t͡ʃəmkəd̪ɑɾ,t͡ʃəmkəd̪ɑɾ
 should,ਚਾਹੀਦਾ ਹੈ,t͡ʃɑɦid̪ɑ ɦɛ,t͡ʃɑɦid̪ɑ ɦɛ
 simple,ਆਸਾਨ,ɑsɑn,ɑsɑn
 skillful,ਕੁਸ਼ਲ,kʊʃəl,kʊʃəl
-slug,,,
+slug,*,*,*
 smell,ਗੰਧ,ɡə̃t̪,ɡə̃t̪
 smooth,ਨਿਰਮਲ,nɪɾməl,nɪɾməl
 social,ਸਮਾਜਕ,səmɑd͡ʒək,səmɑd͡ʒək
@@ -229,9 +229,9 @@ surface,ਸਤਹ,sət̪əɦ,sət̪əɦ
 sweet,ਮਿੱਠੇ,mɪːʈʰe,mɪːʈʰe
 tangible,ਠੋਸ,ʈʰos,ʈʰos
 tangled,ਗੰਢ,ɡə̃ʈ,ɡə̃ʈ
-tapir,,,
+tapir,*,*,*
 taste,ਸੁਆਦ,sʊɑd̪,sʊɑd̪
-tenso,,,
+tenso,*,*,*
 thick,ਮੋਟਾ,moʈɑ,moʈɑ
 tick,ਟਿਕ ਜਾਓ,ʈɪkə d͡ʒɑo,ʈɪkə d͡ʒɑo
 tired,ਥੱਕੇ ਹੋਏ,t̪ʰəːke ɦoe,t̪ʰəːke ɦoe
@@ -240,12 +240,12 @@ to act,ਕਰਨਾ,kəɾnɑ,kəɾnɑ
 to anticipate,ਅੰਦਾਜ਼ਾ ਲਗਾਉਣ,ə̃d̪ɑzɑ ləɡɑʊɳ,ə̃d̪ɑzɑ ləɡɑʊɳ
 to believe,ਵਿਸ਼ਵਾਸ,ʋɪʃʋɑs,ʋɪʃʋɑs
 to bounce,ਉਛਾਲਣ,ʊt͡ʃʰɑləɳ,ʊt͡ʃʰɑləɳ
-to care,,,
+to care,*,*,*
 to choose,ਦੀ ਚੋਣ,d̪i t͡ʃoɳ,d̪i t͡ʃoɳ
 to continue,ਚਾਲੂ,t͡ʃɑlu,t͡ʃɑlu
 to convert,ਬਦਲਣ,bəd̪ləɳ,bəd̪ləɳ
 to cook,ਪਕਾਉਣ,pəkɑʊɳ,pəkɑʊɳ
-to correspond,,,
+to correspond,*,*,*
 to cost,ਲਾਗਤ ਨੂੰ,lɑɡt̪ə nəũ,lɑɡt̪ə nəũ
 to deal,ਸਾਮਣਾ,sɑmɳɑ,sɑmɳɑ
 to deserve,ਹੱਕਦਾਰ,ɦəːkəd̪ɑɾ,ɦəːkəd̪ɑɾ
@@ -263,7 +263,7 @@ to hit,ਹਿੱਟ,ɦɪːʈ,ɦɪːʈ
 to hold,ਨੂੰ ਰੱਖਣ,nəũ ɾəːkʰəɳ,nəũ ɾəːkʰəɳ
 to hunt,ਸ਼ਿਕਾਰ,ʃɪkɑɾ,ʃɪkɑɾ
 to know,ਨੂੰ ਪਤਾ,nəũ pət̪ɑ,nəũ pət̪ɑ
-to live,,,
+to live,*,*,*
 to love,ਪਿਆਰ,pɪɑɾ,pɪɑɾ
 to mean,ਮਤਲਬ,mət̪ləb,mət̪ləb
 to model,ਮਾਡਲ ਤੋਂ,mɑɖlə t̪õ,mɑɖlə t̪õ
@@ -271,7 +271,7 @@ to move,ਅੱਗੇ ਵਧਣ,əːɡe ʋət̪əɳ,əːɡe ʋət̪əɳ
 to need,ਦੀ ਜ਼ਰੂਰਤ ਹੈ,d̪i zəɾuɾt̪ə ɦɛ,d̪i zəɾuɾt̪ə ɦɛ
 to notice,ਨੋਟਿਸ,noʈɪs,noʈɪs
 to obey,ਦੀ ਪਾਲਣਾ,d̪i pɑlɳɑ,d̪i pɑlɳɑ
-to order,,,
+to order,*,*,*
 to own,ਆਪਣੀ ਮਾਲਕੀ,ɑpɳi mɑlki,ɑpɳi mɑlki
 to party,ਪਾਰਟੀ,pɑɾʈi,pɑɾʈi
 to pay attention,ਧਿਆਨ ਦੇਣ,t̪ɪɑnə d̪eɳ,t̪ɪɑnə d̪eɳ
@@ -299,7 +299,7 @@ to step,ਕਦਮ,kəd̪əm,kəd̪əm
 to study,ਅਧਿਐਨ,ət̪ɪɛn,ət̪ɪɛn
 to surprise,ਹੈਰਾਨ,ɦɛɾɑn,ɦɛɾɑn
 to surround,ਨੂੰ ਘੇਰਨ,nəũ keɾən,nəũ keɾən
-to take care,,,
+to take care,*,*,*
 to think,ਸੋਚਣ,sot͡ʃəɳ,sot͡ʃəɳ
 to touch,ਛੋਹਣ,t͡ʃʰoɦəɳ,t͡ʃʰoɦəɳ
 to try,ਦੀ ਕੋਸ਼ਿਸ਼,d̪i koʃɪʃ,d̪i koʃɪʃ
@@ -316,7 +316,7 @@ torso,ਧੜ,t̪əɽ,t̪əɽ
 touch,ਛੂਹੋ,t͡ʃʰuɦo,t͡ʃʰuɦo
 tree,ਟ੍ਰੀ,ʈɾi,ʈɾi
 tuna,ਟੁਨਾ,ʈʊnɑ,ʈʊnɑ
-turned on,,,
+turned on,*,*,*
 turtle,ਕਛੂ,kət͡ʃʰu,kət͡ʃʰu
 typical,ਆਮ,ɑm,ɑm
 vagina,ਯੋਨੀ,joni,joni

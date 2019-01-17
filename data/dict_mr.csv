@@ -25,7 +25,7 @@ broad,व्यापक,vjaːpək,vjaːpək
 broken,तुटलेली,tuʈleliː,tuʈleliː
 brown,तपकिरी,təpkiriː,təpkiriː
 bug,ढेकूण,ɖ̤ekuːɳ,ɖ̤ekuːɳ
-bulrush,,,
+bulrush,*,*,*
 burnt,बर्न,bərnə,bərnə
 bustard,माळढोक,maːɭəɖ̤ok,maːɭəɖ̤ok
 butterfly,फुलपाखरू,pʰulpaːkʰəruː,pʰulpaːkʰəruː
@@ -47,7 +47,7 @@ computer,संगणक,səŋɡɳək,səŋɡɳək
 continent,महाद्वीप,məɦaːdviːp,məɦaːdviːp
 control,नियंत्रण,nijəntrəɳ,nijəntrəɳ
 corn,कॉर्न,*,*
-counterclockwise,,,
+counterclockwise,*,*,*
 country,देश,deɕə,deɕə
 crab,क्रॅब,*,*
 cricket,क्रिकेट,krikeʈ,krikeʈ
@@ -60,7 +60,7 @@ dense,घनदाट,ɡ̤əndaːʈ,ɡ̤əndaːʈ
 derecha,बरोबर,bərobər,bərobər
 descansar,टेक,ʈek,ʈek
 different,भिन्न,b̤innə,b̤innə
-earwig,,,
+earwig,*,*,*
 east,पूर्व,puːrvə,puːrvə
 easy,सोपे,sope,sope
 egg,अंडी,nɖiː,nɖiː
@@ -111,8 +111,8 @@ hippopotamus,हिप्पोपोटामस,ɦippopoʈaːməs,ɦippopoʈa�
 hole,छिद्र,t͡ɕʰidrə,t͡ɕʰidrə
 home,घर,ɡ̤ər,ɡ̤ər
 hot,गरम,ɡərəm,ɡərəm
-housefly,,,
-idear,,,
+housefly,*,*,*
+idear,*,*,*
 in front,समोर,səmor,səmor
 infinite,अनंत,anəntə,anəntə
 information,माहिती,maːɦitiː,maːɦitiː
@@ -151,10 +151,10 @@ neat,व्यवस्थित,vjəvstʰit,vjəvstʰit
 network,नेटवर्क,neʈvərkə,neʈvərkə
 notion,कल्पना,kəlpənaː,kəlpənaː
 ocean,महासागर,məɦaːsaːɡər,məɦaːsaːɡər
-okay,,,
+okay,*,*,*
 old,जुन्या,d͡ʑunjaː,d͡ʑunjaː
 opaque,अपारदर्शक,apaːrdərɕək,apaːrdərɕək
-opossum,,,
+opossum,*,*,*
 ostrich,शुतुरमुर्ग,ɕuturmurɡə,ɕuturmurɡə
 part,भाग,b̤aːɡ,b̤aːɡ
 path,मार्ग,maːrɡə,maːrɡə
@@ -169,7 +169,7 @@ powder,पावडर,paːvɖər,paːvɖər
 pregnant,गर्भवती,ɡərb̤əvtiː,ɡərb̤əvtiː
 present,हजर,ɦəd͡ʑər,ɦəd͡ʑər
 proud,अ भी मा न,a b̤iː maː nə,a b̤iː maː nə
-raccoon,,,
+raccoon,*,*,*
 ray,वाघोळे,vaːɡ̤oɭe,vaːɡ̤oɭe
 reality,वास्तविकता,vaːstəviktaː,vaːstəviktaː
 reason,कारण,kaːrəɳ,kaːrəɳ
@@ -177,7 +177,7 @@ recto,सरळ,sərəɭə,sərəɭə
 red,लाल,laːl,laːl
 region,क्षेत्र,kɕetrə,kɕetrə
 reptile,सपाट,səpaːʈ,səpaːʈ
-rhinoceros,,,
+rhinoceros,*,*,*
 rice,तांदूळ,taːnduːɭə,taːnduːɭə
 rodent,उंदीर,undiːr,undiːr
 root,मूळ,muːɭə,muːɭə
@@ -191,7 +191,7 @@ see,पहा,pəɦaː,pəɦaː
 seed,बियाणे,bijaːɳe,bijaːɳe
 sentence,वाक्य,vaːkjə,vaːkjə
 serious,गंभीर,ɡəmb̤iːr,ɡəmb̤iːr
-sex,,,
+sex,*,*,*
 shape,आकार,aːkaːr,aːkaːr
 shark,शार्क,ɕaːrkə,ɕaːrkə
 sharp,तीक्ष्ण,tiːkɕɳə,tiːkɕɳə
@@ -199,7 +199,7 @@ shiny,चमकदार,t͡ɕəmkədaːr,t͡ɕəmkədaːr
 should,पाहिजे,paːɦid͡ʑe,paːɦid͡ʑe
 simple,सोपे,sope,sope
 skillful,कुशल,kuɕəl,kuɕəl
-slug,,,
+slug,*,*,*
 smell,वास,vaːs,vaːs
 smooth,गुळगुळीत,ɡuɭəɡuɭiːt,ɡuɭəɡuɭiːt
 social,सामाजिक,saːmaːd͡ʑik,saːmaːd͡ʑik
@@ -229,7 +229,7 @@ surface,पृष्ठभाग,pr̩ʂʈʰəb̤aːɡ,pr̩ʂʈʰəb̤aːɡ
 sweet,गोड,ɡoɖ,ɡoɖ
 tangible,मूर्त,muːrtə,muːrtə
 tangled,गोंधळलेला,ɡond̤əɭəlelaː,ɡond̤əɭəlelaː
-tapir,,,
+tapir,*,*,*
 taste,चव,t͡ɕəv,t͡ɕəv
 tenso,तंग,təŋɡə,təŋɡə
 thick,जाड,d͡ʑaːɖ,d͡ʑaːɖ
@@ -240,12 +240,12 @@ to act,क्रुती,krutiː,krutiː
 to anticipate,अंदाज बांध,ndaːd͡ʑə baːnd̤ə,ndaːd͡ʑə baːnd̤ə
 to believe,विश्वास ठेव,viɕvaːsə ʈʰev,viɕvaːsə ʈʰev
 to bounce,उंचाव,unt͡ɕaːv,unt͡ɕaːv
-to care,,,
+to care,*,*,*
 to choose,निवड,nivəɖ,nivəɖ
 to continue,चालू ठेवा,t͡ɕaːluː ʈʰevaː,t͡ɕaːluː ʈʰevaː
 to convert,रूपांतरित,ruːpaːntrit,ruːpaːntrit
 to cook,शिजवि,ɕid͡ʑəvi,ɕid͡ʑəvi
-to correspond,,,
+to correspond,*,*,*
 to cost,खर्च,kʰərt͡ɕə,kʰərt͡ɕə
 to deal,सामना,saːmnaː,saːmnaː
 to deserve,पात्र अस,paːtrə as,paːtrə as
@@ -271,7 +271,7 @@ to move,हलवि,ɦəlvi,ɦəlvi
 to need,गरज,ɡərəd͡ʑə,ɡərəd͡ʑə
 to notice,लक्षात घे,ləkɕaːtə ɡ̤e,ləkɕaːtə ɡ̤e
 to obey,पालन,paːlən,paːlən
-to order,,,
+to order,*,*,*
 to own,स्वतः चा मालकी हक्क अस,svətəh t͡ɕaː maːlkiː ɦəkkə as,svətəh t͡ɕaː maːlkiː ɦəkkə as
 to party,पार्टी,paːrʈiː,paːrʈiː
 to pay attention,लक्ष दे,ləkɕə de,ləkɕə de
@@ -316,7 +316,7 @@ torso,धूळ,d̤uːɭə,d̤uːɭə
 touch,स्पर्श करा,spərɕə kəraː,spərɕə kəraː
 tree,झाड,d͡ʑ̤aːɖ,d͡ʑ̤aːɖ
 tuna,टूना,ʈuːnaː,ʈuːnaː
-turned on,,,
+turned on,*,*,*
 turtle,कछुए,kət͡ɕʰue,kət͡ɕʰue
 typical,सामान्य,saːmaːnjə,saːmaːnjə
 vagina,योनी,joniː,joniː

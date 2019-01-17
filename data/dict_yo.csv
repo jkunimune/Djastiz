@@ -4,17 +4,17 @@ adult,agbalagba,aɡ͡balaɡ͡ba,aɡ͡balaɡ͡ba
 ahead,niwaju,niwad͡ʒu,niwad͡ʒu
 algae,ewe,ewe,ewe
 amazing,iyanu,iyanu,iyanu
-anemone,,,
+anemone,*,*,*
 animal,eranko,eranko,eranko
 ant,kokoro,kokoro,kokoro
 apple,apu,ak͡pu,ak͡pu
 arm,apa,ak͡pa,ak͡pa
 art,aworan,aworan,aworan
-bacterium,,,
+bacterium,*,*,*
 bamboo,oparun,ok͡parũ,ok͡parũ
 barnacle,ọwọn,ɔwɔ̃,ɔwɔ̃
 bear,agbateru,aɡ͡bateru,aɡ͡bateru
-beetle,,,
+beetle,*,*,*
 below,isalẹ,isalɛ,isalɛ
 between,laarin,laarĩ,laarĩ
 big,nla,nla,nla
@@ -23,31 +23,31 @@ blue,bulu,bulu,bulu
 body,ara,ara,ara
 broad,gbooro,ɡ͡booro,ɡ͡booro
 broken,fifọ,fifɔ,fifɔ
-brown,,,
+brown,*,*,*
 bug,kokoro,kokoro,kokoro
-bulrush,,,
+bulrush,*,*,*
 burnt,sisun,sisũ,sisũ
-bustard,,,
+bustard,*,*,*
 butterfly,labalaba,labalaba,labalaba
-buttocks,,,
-cactus,,,
+buttocks,*,*,*
+cactus,*,*,*
 camel,rakunmi,rakũmi,rakũmi
-carp,,,
-certain,,,
+carp,*,*,*
+certain,*,*,*
 chest,aya,aya,aya
-chunky,,,
+chunky,*,*,*
 circular,ipin,ik͡pĩ,ik͡pĩ
 city,ilu,ilu,ilu
-claw,,,
+claw,*,*,*
 clean,o mọ,o mɔ,o mɔ
 closed,pipade,k͡pik͡pade,k͡pik͡pade
 cockroach,akọọlẹ,akɔɔlɛ,akɔɔlɛ
 colour,awọ,awɔ,awɔ
 computer,kọmputa,kɔmk͡puta,kɔmk͡puta
-continent,,,
+continent,*,*,*
 control,iṣakoso,iʃakoso,iʃakoso
 corn,agbado,aɡ͡bado,aɡ͡bado
-counterclockwise,,,
+counterclockwise,*,*,*
 country,orilẹ-ede,orilɛ-ede,orilɛ-ede
 crab,akan,akan,akan
 cricket,kiriketi,kiriketi,kiriketi
@@ -60,13 +60,13 @@ dense,ipon,ik͡pon,ik͡pon
 derecha,ọtun,ɔtũ,ɔtũ
 descansar,simi,simi,simi
 different,yatọ,yatɔ,yatɔ
-earwig,,,
+earwig,*,*,*
 east,õrùn,õrùn,õrùn
 easy,rọrun,rɔrũ,rɔrũ
 egg,ẹyin,ɛyĩ,ɛyĩ
 electricity,ina,ĩa,ĩa
 elephant,erin,erĩ,erĩ
-escama,,,
+escama,*,*,*
 excited,yiya,yiya,yiya
 face,oju,od͡ʒu,od͡ʒu
 faith,igbagbọ,iɡ͡baɡ͡bɔ,iɡ͡baɡ͡bɔ
@@ -74,21 +74,21 @@ familiar,faramọ,faramɔ,faramɔ
 far,jina,d͡ʒĩa,d͡ʒĩa
 fast,yara,yara,yara
 feather,iye,iye,iye
-fern,,,
+fern,*,*,*
 finger,ika,ika,ika
 fire,ina,ĩa,ĩa
 fish,eja,ed͡ʒa,ed͡ʒa
 flea,eegbọn,eeɡ͡bɔ̃,eeɡ͡bɔ̃
-flower,,,
-foamy,,,
+flower,*,*,*
+foamy,*,*,*
 fowl,ẹiyẹ,ɛiyɛ,ɛiyɛ
 friendly,ore,ore,ore
 fruit,eso,eso,eso
 full,kun,kũ,kũ
-fun,,,
-fungus,,,
+fun,*,*,*
+fungus,*,*,*
 furniture,aga,aɡa,aɡa
-giraffe,,,
+giraffe,*,*,*
 gland,ẹṣẹ,ɛʃɛ,ɛʃɛ
 god,ọlọrun,ɔlɔrũ,ɔlɔrũ
 good,dara,dara,dara
@@ -97,7 +97,7 @@ grape,eso ajara,eso ad͡ʒara,eso ad͡ʒara
 grass,koriko,koriko,koriko
 grateful,dupe,duk͡pe,duk͡pe
 green,alawọ ewe,alawɔ ewe,alawɔ ewe
-grey,,,
+grey,*,*,*
 ground,ilẹ,ilɛ,ilɛ
 hair,irun,irũ,irũ
 hand,ọwọ,ɔwɔ,ɔwɔ
@@ -106,8 +106,8 @@ head,ori,ori,ori
 healthy,ilera,ilera,ilera
 hear,gbọ,ɡ͡bɔ,ɡ͡bɔ
 heavy,eru,eru,eru
-high-pitched,,,
-hippopotamus,,,
+high-pitched,*,*,*
+hippopotamus,*,*,*
 hole,iho,iho,iho
 home,ile,ile,ile
 hot,gbona,ɡ͡bona,ɡ͡bona
@@ -117,9 +117,9 @@ in front,iwaju,iwad͡ʒu,iwad͡ʒu
 infinite,ailopin,ailok͡pĩ,ailok͡pĩ
 information,alaye,alaye,alaye
 inside,inu,ĩu,ĩu
-jellyfish,,,
-kangaroo,,,
-koala,,,
+jellyfish,*,*,*
+kangaroo,*,*,*
+koala,*,*,*
 late,pẹ,k͡pɛ,k͡pɛ
 layout,ifilelẹ,ifilelɛ,ifilelɛ
 leaf,bunkun,bũkũ,bũkũ
@@ -127,14 +127,14 @@ leg,ẹsẹ,ɛsɛ,ɛsɛ
 letra,lẹta,lɛta,lɛta
 likely,seese,seese,seese
 liquid,omi,omi,omi
-lizard,,,
+lizard,*,*,*
 long,gun,ɡũ,ɡũ
 low,kekere,kekere,kekere
 luz,imọlẹ,imɔlɛ,imɔlɛ
 machine,ẹrọ,ɛrɔ,ɛrɔ
 magical,ti idan,ti idan,ti idan
-mammal,,,
-mantis,,,
+mammal,*,*,*
+mantis,*,*,*
 married,iyawo,iyawo,iyawo
 material,awọn ohun elo,awɔ̃ ohũ elo,awɔ̃ ohũ elo
 metal,irin,irĩ,irĩ
@@ -146,20 +146,20 @@ mountain,oke,oke,oke
 mushroom,osun,osũ,osũ
 must,gbọdọ,ɡ͡bɔdɔ,ɡ͡bɔdɔ
 natural,adayeba,adayeba,adayeba
-nautilus,,,
+nautilus,*,*,*
 neat,ọfọ,ɔfɔ,ɔfɔ
-network,,,
+network,*,*,*
 notion,iro,iro,iro
 ocean,omi okun,omi okũ,omi okũ
 okay,dara,dara,dara
 old,atijọ,atid͡ʒɔ,atid͡ʒɔ
-opaque,,,
-opossum,,,
-ostrich,,,
+opaque,*,*,*
+opossum,*,*,*
+ostrich,*,*,*
 part,apakan,ak͡pakan,ak͡pakan
 path,ọna,ɔ̃a,ɔ̃a
 person,eniyan,eniyan,eniyan
-pidgeon,,,
+pidgeon,*,*,*
 pig,ẹlẹdẹ,ɛlɛdɛ,ɛlɛdɛ
 plant,ohun ọgbin,ohũ ɔɡ͡bĩ,ohũ ɔɡ͡bĩ
 pleasure,idunnu,idũnu,idũnu
@@ -169,8 +169,8 @@ powder,lulú,lulú,lulú
 pregnant,aboyun,aboyũ,aboyũ
 present,lojukoju,lod͡ʒukod͡ʒu,lod͡ʒukod͡ʒu
 proud,gberaga,ɡ͡beraɡa,ɡ͡beraɡa
-raccoon,,,
-ray,,,
+raccoon,*,*,*
+ray,*,*,*
 reality,otito,otito,otito
 reason,idi,idi,idi
 recto,ni gigun,ni ɡiɡũ,ni ɡiɡũ
@@ -179,11 +179,11 @@ region,agbegbe,aɡ͡beɡ͡be,aɡ͡beɡ͡be
 reptile,aṣoju,aʃod͡ʒu,aʃod͡ʒu
 rhinoceros,rhinoceros,rhĩoceros,rhĩoceros
 rice,iresi,iresi,iresi
-rodent,,,
+rodent,*,*,*
 root,gbongbo,ɡ͡bonɡ͡bo,ɡ͡bonɡ͡bo
-rotten,,,
+rotten,*,*,*
 salmon,eja salumoni,ed͡ʒa salumoni,ed͡ʒa salumoni
-salty,,,
+salty,*,*,*
 scorpion,ilọ-ara,ilɔ-ara,ilɔ-ara
 seal,igbẹhin,iɡ͡bɛhĩ,iɡ͡bɛhĩ
 season,akoko,akoko,akoko
@@ -193,7 +193,7 @@ sentence,gbolohun,ɡ͡bolohũ,ɡ͡bolohũ
 serious,pataki,k͡pataki,k͡pataki
 sex,ẹya obinrin ati ọkunrin,ɛya obĩrĩ ati ɔkũrĩ,ɛya obĩrĩ ati ɔkũrĩ
 shape,apẹrẹ,ak͡pɛrɛ,ak͡pɛrɛ
-shark,,,
+shark,*,*,*
 sharp,didasilẹ,didasilɛ,didasilɛ
 shiny,danmeremere,danmeremere,danmeremere
 should,yẹ,yɛ,yɛ
@@ -207,14 +207,14 @@ soil,ile,ile,ile
 solid,lagbara,laɡ͡bara,laɡ͡bara
 sour,ekan,ekan,ekan
 south,guusu,ɡuusu,ɡuusu
-soy,,,
+soy,*,*,*
 space,ofurufu,ofurufu,ofurufu
 specialist,ọlọgbọn,ɔlɔɡ͡bɔ̃,ɔlɔɡ͡bɔ̃
 specific,pato,k͡pato,k͡pato
 spicy,lata,lata,lata
-spider,,,
+spider,*,*,*
 stacked,tolera,tolera,tolera
-starboard,,,
+starboard,*,*,*
 steep,ga,ɡa,ɡa
 stem,jẹẹ,d͡ʒɛɛ,d͡ʒɛɛ
 stick,ọpá,ɔk͡pá,ɔk͡pá
@@ -228,8 +228,8 @@ sun,oorun,oorũ,oorũ
 surface,dada,dada,dada
 sweet,dun,dũ,dũ
 tangible,ojulowo,od͡ʒulowo,od͡ʒulowo
-tangled,,,
-tapir,,,
+tangled,*,*,*
+tapir,*,*,*
 taste,ohun itọwo,ohũ itɔwo,ohũ itɔwo
 tenso,lile lati tẹba,lile lati tɛba,lile lati tɛba
 thick,nipọn,nik͡pɔ̃,nik͡pɔ̃
@@ -240,12 +240,12 @@ to act,ṣe,ʃe,ʃe
 to anticipate,fokansi,fokansi,fokansi
 to believe,gbagbọ,ɡ͡baɡ͡bɔ,ɡ͡baɡ͡bɔ
 to bounce,agbesoke,aɡ͡besoke,aɡ͡besoke
-to care,,,
+to care,*,*,*
 to choose,yan,yan,yan
 to continue,tesiwaju,tesiwad͡ʒu,tesiwad͡ʒu
 to convert,se iyipada,se iyik͡pada,se iyik͡pada
-to cook,,,
-to correspond,,,
+to cook,*,*,*
+to correspond,*,*,*
 to cost,ya,ya,ya
 to deal,abojuto,abod͡ʒuto,abod͡ʒuto
 to deserve,yẹ,yɛ,yɛ
@@ -299,7 +299,7 @@ to step,igbesẹ,iɡ͡besɛ,iɡ͡besɛ
 to study,iwadi,iwadi,iwadi
 to surprise,iyanu,iyanu,iyanu
 to surround,yika,yika,yika
-to take care,,,
+to take care,*,*,*
 to think,ro,ro,ro
 to touch,fi ọwọ kan,fi ɔwɔ kan,fi ɔwɔ kan
 to try,danwo,danwo,danwo
@@ -312,16 +312,16 @@ to work,ṣiṣẹ,ʃiʃɛ,ʃiʃɛ
 to worry,aibalẹ,aibalɛ,aibalɛ
 to write,kọ,kɔ,kɔ
 tomato,tomati,tomati,tomati
-torso,,,
+torso,*,*,*
 touch,ifọwọkan,ifɔwɔkan,ifɔwɔkan
 tree,igi,iɡi,iɡi
 tuna,oriṣi,oriʃi,oriʃi
-turned on,,,
-turtle,,,
+turned on,*,*,*
+turtle,*,*,*
 typical,aṣoju,aʃod͡ʒu,aʃod͡ʒu
 vagina,obo,obo,obo
 virus,kokoro,kokoro,kokoro
-viscous,,,
+viscous,*,*,*
 wasp,isp,isk͡p,isk͡p
 whale,ẹja,ɛd͡ʒa,ɛd͡ʒa
 wheat,alikama,alikama,alikama

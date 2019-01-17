@@ -2,9 +2,9 @@ about,kira-kira,kira-kira,kira-kira
 across,merentasi,merentasi,merentasi
 adult,dewasa,dewasa,dewasa
 ahead,depan,depan,depan
-algae,,,
+algae,*,*,*
 amazing,menakjubkan,menakd͡ʒubkan,menakd͡ʒubkan
-anemone,,,
+anemone,*,*,*
 animal,haiwan,hajwan,hajwan
 ant,semut,semut,semut
 apple,epal,epal,epal
@@ -27,7 +27,7 @@ brown,coklat,t͡ʃoklat,t͡ʃoklat
 bug,serangga,seraŋɡa,seraŋɡa
 bulrush,sejenis pokok air,sed͡ʒenis pokok ajr,sed͡ʒenis pokok ajr
 burnt,dibakar,dibakar,dibakar
-bustard,,,
+bustard,*,*,*
 butterfly,rama-rama,rama-rama,rama-rama
 buttocks,punggung,puŋɡuŋ,puŋɡuŋ
 cactus,kaktus,kaktus,kaktus
@@ -35,7 +35,7 @@ camel,unta,unta,unta
 carp,ikan mas,ikan mas,ikan mas
 certain,pasti,pasti,pasti
 chest,dada,dada,dada
-chunky,,,
+chunky,*,*,*
 circular,pekeliling,pekeliliŋ,pekeliliŋ
 city,bandar,bandar,bandar
 claw,cakar,t͡ʃakar,t͡ʃakar
@@ -54,11 +54,11 @@ cricket,kriket,kriket,kriket
 crocodile,buaya,buaja,buaja
 crystal,kristal,kristal,kristal
 culture,budaya,budaja,budaja
-cupped,,,
+cupped,*,*,*
 damaged,rosak,rosak,rosak
 dense,padat,padat,padat
 derecha,betul,betul,betul
-descansar,,,
+descansar,*,*,*
 different,berbeza,berbeza,berbeza
 earwig,lelawi,lelawi,lelawi
 east,timur,timur,timur
@@ -107,7 +107,7 @@ healthy,sihat,sihat,sihat
 hear,dengar,deŋar,deŋar
 heavy,berat,berat,berat
 high-pitched,nyaring,ɲariŋ,ɲariŋ
-hippopotamus,,,
+hippopotamus,*,*,*
 hole,lubang,lubaŋ,lubaŋ
 home,rumah,rumah,rumah
 hot,panas,panas,panas
@@ -118,8 +118,8 @@ infinite,tak terhingga,tak terhiŋɡa,tak terhiŋɡa
 information,maklumat,maklumat,maklumat
 inside,dalam,dalam,dalam
 jellyfish,ubur-ubun,ubur-ubun,ubur-ubun
-kangaroo,,,
-koala,,,
+kangaroo,*,*,*
+koala,*,*,*
 late,terlambat,terlambat,terlambat
 layout,susun atur,susun atur,susun atur
 leaf,daun,dawn,dawn
@@ -134,19 +134,19 @@ luz,cahaya,t͡ʃahaja,t͡ʃahaja
 machine,mesin,mesin,mesin
 magical,ajaib,ad͡ʒajb,ad͡ʒajb
 mammal,mamalia,mamalia,mamalia
-mantis,,,
+mantis,*,*,*
 married,berkahwin,berkahwin,berkahwin
 material,bahan,bahan,bahan
 metal,logam,loɡam,loɡam
 mixed,bercampur,bert͡ʃampur,bert͡ʃampur
-moral,,,
+moral,*,*,*
 more,lebih lagi,lebih laɡi,lebih laɡi
 mosquito,nyamuk,ɲamuk,ɲamuk
 mountain,gunung,ɡunuŋ,ɡunuŋ
 mushroom,cendawan,t͡ʃendawan,t͡ʃendawan
 must,mestilah,mestilah,mestilah
 natural,semulajadi,semulad͡ʒadi,semulad͡ʒadi
-nautilus,,,
+nautilus,*,*,*
 neat,kemas,kemas,kemas
 network,rangkaian,raŋkajan,raŋkajan
 notion,tanggapan,taŋɡapan,taŋɡapan
@@ -159,7 +159,7 @@ ostrich,burung unta,buruŋ unta,buruŋ unta
 part,bahagian,bahaɡian,bahaɡian
 path,jalan,d͡ʒalan,d͡ʒalan
 person,orang,oraŋ,oraŋ
-pidgeon,,,
+pidgeon,*,*,*
 pig,babi,babi,babi
 plant,tumbuhan,tumbuhan,tumbuhan
 pleasure,keseronokan,keseronokan,keseronokan
@@ -169,8 +169,8 @@ powder,serbuk,serbuk,serbuk
 pregnant,hamil,hamil,hamil
 present,hadir,hadir,hadir
 proud,bangga,baŋɡa,baŋɡa
-raccoon,,,
-ray,,,
+raccoon,*,*,*
+ray,*,*,*
 reality,realiti,realiti,realiti
 reason,sebab,sebab,sebab
 recto,lurus,lurus,lurus
@@ -182,7 +182,7 @@ rice,beras,beras,beras
 rodent,tikus,tikus,tikus
 root,akar,akar,akar
 rotten,busuk,busuk,busuk
-salmon,,,
+salmon,*,*,*
 salty,asin,asin,asin
 scorpion,kalajengking,kalad͡ʒeŋkiŋ,kalad͡ʒeŋkiŋ
 seal,meterai,meteraj,meteraj
@@ -190,8 +190,8 @@ season,musim,musim,musim
 see,lihat,lihat,lihat
 seed,benih,benih,benih
 sentence,ayat,ajat,ajat
-serious,,,
-sex,,,
+serious,*,*,*
+sex,*,*,*
 shape,bentuk,bentuk,bentuk
 shark,jerung,d͡ʒeruŋ,d͡ʒeruŋ
 sharp,tajam,tad͡ʒam,tad͡ʒam
@@ -202,7 +202,7 @@ skillful,mahir,mahir,mahir
 slug,lintah,lintah,lintah
 smell,bau,baw,baw
 smooth,licin,lit͡ʃin,lit͡ʃin
-social,,,
+social,*,*,*
 soil,tanah,tanah,tanah
 solid,pepejal,peped͡ʒal,peped͡ʒal
 sour,masam,masam,masam
@@ -214,7 +214,7 @@ specific,khusus,xusus,xusus
 spicy,pedas,pedas,pedas
 spider,labah-labah,labah-labah,labah-labah
 stacked,disusun,disusun,disusun
-starboard,,,
+starboard,*,*,*
 steep,curam,t͡ʃuram,t͡ʃuram
 stem,batang,bataŋ,bataŋ
 stick,tongkat,toŋkat,toŋkat
@@ -240,7 +240,7 @@ to act,bertindak,bertindak,bertindak
 to anticipate,menjangka,mend͡ʒaŋka,mend͡ʒaŋka
 to believe,percaya,pert͡ʃaja,pert͡ʃaja
 to bounce,melantun,melantun,melantun
-to care,,,
+to care,*,*,*
 to choose,memilih,memilih,memilih
 to continue,bersambung,bersambuŋ,bersambuŋ
 to convert,menukar,menukar,menukar
@@ -299,7 +299,7 @@ to step,melangkah,melaŋkah,melaŋkah
 to study,belajar,belad͡ʒar,belad͡ʒar
 to surprise,mengejutkan,meŋed͡ʒutkan,meŋed͡ʒutkan
 to surround,mengelilingi,meŋeliliŋi,meŋeliliŋi
-to take care,,,
+to take care,*,*,*
 to think,fikir,fikir,fikir
 to touch,menyentuh,meɲentuh,meɲentuh
 to try,mencuba,ment͡ʃuba,ment͡ʃuba
@@ -315,8 +315,8 @@ tomato,tomato,tomato,tomato
 torso,batang tubuh,bataŋ tubuh,bataŋ tubuh
 touch,sentuh,sentuh,sentuh
 tree,pokok,pokok,pokok
-tuna,,,
-turned on,,,
+tuna,*,*,*
+turned on,*,*,*
 turtle,penyu,peɲu,peɲu
 typical,tipikal,tipikal,tipikal
 vagina,faraj,farad͡ʒ,farad͡ʒ

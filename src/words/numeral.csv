@@ -1,31 +1,31 @@
-eng,source,ltl
-"0; zero; none; no {GENITIVE:zeroth}",cmn <TODO> [liŋ˧˥],lin
-"1; one; single; individual {GENITIVE:first; single; unit}",yor <TODO> [okan],kan
-"unify; combine; join; SBJ makes OBJ into one",INCOHATIVE OF 1,kankes
-"divide; split up; separate; dissolve; SBJ divides OBJ into multiple parts",CESSATIVE OF 1,kannos
-"2; two; double {GENITIVE:second; dual; binary}",cmn <TODO> [ɤ˞˥˩],hal
-"3; three; triple {GENITIVE:third}",mar <TODO> [tiːnə],tin
-"4; four; quadruple {GENITIVE:fourth}",hin <TODO> [t͡ɕʰaɾ],cal
-"5; five {GENITIVE:fifth}",eng <five> [faɪ̯v],fif
-"6; six {GENITIVE:sixth}",yor <TODO> [mefa],mef
-"7; seven {GENITIVE:seventh}",swa <TODO> [saba],saf
-"8; eight {GENITIVE:eighth}",cmn <TODO> [pa˥],pah
-"9; nine {GENITIVE:ninth}",spa <nueve> [ˈnweβe],nof
-"A; 10; ten; only used for duodecimal and hexadecimal {GENITIVE:tenth}",nya <TODO> [kʰu˨mi˨],kum
-"B; 11; eleven; only used for duodecimal and hexadecimal {GENITIVE:eleventh}",hin <TODO> [gjɔɾəɦ],kah
-"C; 12; twelve; dozen; only used for hexadecimal {GENITIVE:twelfth}",ben <TODO> [bɔro],pol
-"D; 13; thirteen; baker's dozen; only used for hexadecimal {GENITIVE:thirteenth}",pan <TODO> [t̪eːɾɑːŋ],tel
-"E; 14; fourteen; only used for hexadecimal {GENITIVE:fourteenth}",spa <catorce> [kaˈtoɾse],tol
-"F; 15; fifteen; only used for hexadecimal {GENITIVE:fifteenth}",spa <quince> [ˈkinse],kin
-"G; 16; sixteen; only used to describe hexadecimal {GENITIVE:sixteenth}",ben <TODO> [sʰolo],sol
-"much; many",jav <akeh> [akeh],keh
-"several; some; few; handful; medium; (1, radix]",,
-"little; few",OPPOSITE OF much,noh
-"all; absolute; maximum {GENITIVE:last; universal}",OPPOSITE OF 0,tun
-"universalise; popularise; permeate; pervade; SBJ causes OBJ to become everything",,
-"point; radix point",cmn <點> [tjɛn˧˩˥],tjen
-"×10^; -llion; times the radix to the",spa <-illón> [iˈʎon],ljon
-"radix",eng <-imal> [ɪml̩],imal
-"minus; negative",spa <menos> [ˈmenos],men
-"positive; plus",ANTONYM OF minus,pon
-"over; division; fraction",msa <per> [per],pel
+eng,spa,source,ltl
+"0; zero; none; no {GENITIVE:zeroth}","0; cero; nada",cmn <TODO> [liŋ˧˥],lin
+"1; one; single; individual {GENITIVE:first; single; unit}","1; uno; solo {GENITIVE:primero}",yor <TODO> [okan],kan
+"unify; combine; join; SBJ makes OBJ into one","unir; combinar; juncar; SBJ une OBJ a uno",INCOHATIVE OF 1,kankes
+"divide; split up; separate; dissolve; SBJ divides OBJ into multiple parts","separar; divisir; SBJ separa OBJ a muchas partes",CESSATIVE OF 1,kannos
+"2; two; double {GENITIVE:second; dual; binary}","2; dos; doble {GENITIVE:segundo}",cmn <TODO> [ɤ˞˥˩],hal
+"3; three; triple {GENITIVE:third}","3; tres; triple {GENITIVE:tercero}",mar <TODO> [tiːnə],tin
+"4; four; quadruple {GENITIVE:fourth}","4; quatro {GENITIVE:cuarto}",hin <TODO> [t͡ɕʰaɾ],cal
+"5; five {GENITIVE:fifth}","5; cinco {GENITIVE:quinto}",eng <five> [faɪ̯v],fif
+"6; six {GENITIVE:sixth}","6; seis {GENITIVE:sexto}",yor <TODO> [mefa],mef
+"7; seven {GENITIVE:seventh}","7; siete {GENITIVE:séptimo}",swa <TODO> [saba],saf
+"8; eight {GENITIVE:eighth}","8; ocho {GENITIVE:ocho}",cmn <TODO> [pa˥],pah
+"9; nine {GENITIVE:ninth}","9; nueve {GENITIVE:noveno}",spa <nueve> [ˈnweβe],nof
+"A; 10; ten; only used for duodecimal and hexadecimal {GENITIVE:tenth}","9; nueve {GENITIVE:noveno}",nya <TODO> [kʰu˨mi˨],kum
+"B; 11; eleven; only used for duodecimal and hexadecimal {GENITIVE:eleventh}","9; nueve {GENITIVE:noveno}",hin <TODO> [gjɔɾəɦ],kah
+"C; 12; twelve; dozen; only used for hexadecimal {GENITIVE:twelfth}","9; nueve {GENITIVE:noveno}",ben <TODO> [bɔro],pol
+"D; 13; thirteen; baker's dozen; only used for hexadecimal {GENITIVE:thirteenth}","9; nueve {GENITIVE:noveno}",pan <TODO> [t̪eːɾɑːŋ],tel
+"E; 14; fourteen; only used for hexadecimal {GENITIVE:fourteenth}","9; nueve {GENITIVE:noveno}",spa <catorce> [kaˈtoɾse],tol
+"F; 15; fifteen; only used for hexadecimal {GENITIVE:fifteenth}","9; nueve {GENITIVE:noveno}",spa <quince> [ˈkinse],kin
+"G; 16; sixteen; only used to describe hexadecimal {GENITIVE:sixteenth}","9; nueve {GENITIVE:noveno}",ben <TODO> [sʰolo],sol
+"much; many",mucho; muchos,jav <akeh> [akeh],keh
+"several; some; few; handful; medium; (1, radix]","unos; (1, base]",,
+"little; few",poco; pocos,OPPOSITE OF much,noh
+"all; absolute; maximum {GENITIVE:last; universal}",todo; todos; absoluto; máximo,OPPOSITE OF 0,tun
+"universalise; popularise; permeate; pervade; SBJ causes OBJ to become everything",popularizar; permear; SBJ hace que OBJ se convierta en todo,,
+"point; radix point",punto; punto be base,cmn <點> [tjɛn˧˩˥],tjen
+"×10^; -llion; times the radix to the",×10^; -illon,spa <-illón> [iˈʎon],ljon
+"radix",base,eng <-imal> [ɪml̩],imal
+"minus; negative",menos; negativo,spa <menos> [ˈmenos],men
+"positive; plus",positivo; plus,ANTONYM OF minus,pon
+"over; division; fraction",sobre; dividido por,msa <per> [per],pel

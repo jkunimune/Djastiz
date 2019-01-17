@@ -4,10 +4,10 @@ adult,watu wazima,watu wazima,watu wazima
 ahead,mbele,mbele,mbele
 algae,mwandishi,mwandiʃi,mwandiʃi
 amazing,ajabu,aʄaɓu,aʄaɓu
-anemone,,,
+anemone,*,*,*
 animal,mnyama,mɲama,mɲama
-ant,,,
-apple,,,
+ant,*,*,*
+apple,*,*,*
 arm,mkono,mkono,mkono
 art,sanaa,sanaa,sanaa
 bacterium,bakteria,ɓakteɾia,ɓakteɾia
@@ -25,29 +25,29 @@ broad,pana,pana,pana
 broken,kuvunjwa,kuvunɟwa,kuvunɟwa
 brown,kahawia,kahawia,kahawia
 bug,dudu,ɗuɗu,ɗuɗu
-bulrush,,,
+bulrush,*,*,*
 burnt,kuteketezwa,kuteketezwa,kuteketezwa
 bustard,tandawala,tandawala,tandawala
 butterfly,kipepeo,kipepeo,kipepeo
 buttocks,vifungo,vifunɡo,vifunɡo
-cactus,,,
+cactus,*,*,*
 camel,ngamia,nɡamia,nɡamia
 carp,kamba,kamba,kamba
 certain,yakini,jakini,jakini
 chest,kifua,kifua,kifua
-chunky,,,
+chunky,*,*,*
 circular,mviringo,mviɾinɡo,mviɾinɡo
 city,jiji,ʄiʄi,ʄiʄi
-claw,,,
+claw,*,*,*
 clean,safi,safi,safi
 closed,imefungwa,imefunɡwa,imefunɡwa
-cockroach,,,
+cockroach,*,*,*
 colour,rangi,ɾanɡi,ɾanɡi
 computer,kompyuta,kompjuta,kompjuta
 continent,bara,ɓaɾa,ɓaɾa
 control,kudhibiti,kuðiɓiti,kuðiɓiti
 corn,mahindi,mahindi,mahindi
-counterclockwise,,,
+counterclockwise,*,*,*
 country,nchi,nt⁀ʃi,nt⁀ʃi
 crab,kaa,kaa,kaa
 cricket,kriketi,kɾiketi,kɾiketi
@@ -74,7 +74,7 @@ familiar,ujuzi,uʄuzi,uʄuzi
 far,mbali,mbali,mbali
 fast,haraka,haɾaka,haɾaka
 feather,manyoya,maɲoja,maɲoja
-fern,,,
+fern,*,*,*
 finger,kidole,kiɗole,kiɗole
 fire,moto,moto,moto
 fish,samaki,samaki,samaki
@@ -89,7 +89,7 @@ fun,furaha,fuɾaha,fuɾaha
 fungus,kuvu,kuvu,kuvu
 furniture,samani,samani,samani
 giraffe,twiga,twiɠa,twiɠa
-gland,,,
+gland,*,*,*
 god,mungu,munɡu,munɡu
 good,nzuri,nzuɾi,nzuɾi
 grain,nafaka,nafaka,nafaka
@@ -106,7 +106,7 @@ head,kichwa,kit⁀ʃwa,kit⁀ʃwa
 healthy,afya,afja,afja
 hear,kusikia,kusikia,kusikia
 heavy,nzito,nzito,nzito
-high-pitched,,,
+high-pitched,*,*,*
 hippopotamus,kiboko,kiɓoko,kiɓoko
 hole,shimo,ʃimo,ʃimo
 home,nyumbani,ɲumbani,ɲumbani
@@ -117,14 +117,14 @@ in front,mbele,mbele,mbele
 infinite,usio,usio,usio
 information,habari,haɓaɾi,haɓaɾi
 inside,ndani,ndani,ndani
-jellyfish,,,
-kangaroo,,,
-koala,,,
+jellyfish,*,*,*
+kangaroo,*,*,*
+koala,*,*,*
 late,kuchelewa,kut⁀ʃelewa,kut⁀ʃelewa
 layout,mpangilio,mpanɡilio,mpanɡilio
 leaf,jani,ʄani,ʄani
 leg,mguu,mɠuu,mɠuu
-letra,,,
+letra,*,*,*
 likely,uwezekano,uwezekano,uwezekano
 liquid,kioevu,kioevu,kioevu
 lizard,mjusi,mʄusi,mʄusi
@@ -134,7 +134,7 @@ luz,mwanga,mwanɡa,mwanɡa
 machine,mashine,maʃine,maʃine
 magical,kichawi,kit⁀ʃawi,kit⁀ʃawi
 mammal,mamalia,mamalia,mamalia
-mantis,,,
+mantis,*,*,*
 married,ndoa,ndoa,ndoa
 material,vifaa,vifaa,vifaa
 metal,chuma,t⁀ʃuma,t⁀ʃuma
@@ -146,20 +146,20 @@ mountain,mlima,mlima,mlima
 mushroom,uyoga,ujoɠa,ujoɠa
 must,lazima,lazima,lazima
 natural,asili,asili,asili
-nautilus,,,
+nautilus,*,*,*
 neat,nzuri,nzuɾi,nzuɾi
 network,mtandao,mtandao,mtandao
 notion,wazo,wazo,wazo
 ocean,bahari,ɓahaɾi,ɓahaɾi
 okay,ema,ema,ema
 old,zamani,zamani,zamani
-opaque,,,
+opaque,*,*,*
 opossum,oposumu,oposumu,oposumu
 ostrich,mbuni,mbuni,mbuni
 part,sehemu,sehemu,sehemu
 path,njia,nɟia,nɟia
 person,mtu,mtu,mtu
-pidgeon,,,
+pidgeon,*,*,*
 pig,nguruwe,nɡuɾuwe,nɡuɾuwe
 plant,mmea,mmea,mmea
 pleasure,radhi,ɾaði,ɾaði
@@ -169,14 +169,14 @@ powder,poda,poɗa,poɗa
 pregnant,mimba,mimba,mimba
 present,hudhuria,huðuɾia,huðuɾia
 proud,kiburi,kiɓuɾi,kiɓuɾi
-raccoon,,,
-ray,,,
+raccoon,*,*,*
+ray,*,*,*
 reality,ukweli,ukweli,ukweli
 reason,sababu,saɓaɓu,saɓaɓu
 recto,sawa,sawa,sawa
 red,nyekundu,ɲekundu,ɲekundu
 region,kanda,kanda,kanda
-reptile,,,
+reptile,*,*,*
 rhinoceros,rhinino,ɾhinino,ɾhinino
 rice,mchele,mt⁀ʃele,mt⁀ʃele
 rodent,panya,paɲa,paɲa
@@ -193,9 +193,9 @@ sentence,hukumu,hukumu,hukumu
 serious,mbaya,mbaja,mbaja
 sex,puana,puana,puana
 shape,sura,suɾa,suɾa
-shark,,,
+shark,*,*,*
 sharp,mkali,mkali,mkali
-shiny,,,
+shiny,*,*,*
 should,lazima,lazima,lazima
 simple,rahisi,ɾahisi,ɾahisi
 skillful,ujuzi,uʄuzi,uʄuzi
@@ -205,16 +205,16 @@ smooth,nyororo,ɲoɾoɾo,ɲoɾoɾo
 social,kijamii,kiʄamii,kiʄamii
 soil,udongo,uɗonɡo,uɗonɡo
 solid,imara,imaɾa,imaɾa
-sour,,,
+sour,*,*,*
 south,kusini,kusini,kusini
-soy,,,
+soy,*,*,*
 space,anga,anɡa,anɡa
 specialist,mtaalamu,mtaalamu,mtaalamu
 specific,maalum,maalum,maalum
-spicy,,,
+spicy,*,*,*
 spider,buibui,ɓuiɓui,ɓuiɓui
 stacked,imechukuliwa,imet⁀ʃukuliwa,imet⁀ʃukuliwa
-starboard,,,
+starboard,*,*,*
 steep,mwinuko,mwinuko,mwinuko
 stem,shina,ʃina,ʃina
 stick,fimbo,fimbo,fimbo
@@ -228,10 +228,10 @@ sun,jua,ʄua,ʄua
 surface,uso,uso,uso
 sweet,tamu,tamu,tamu
 tangible,inayoonekana,inajoonekana,inajoonekana
-tangled,,,
-tapir,,,
+tangled,*,*,*
+tapir,*,*,*
 taste,ladha,laða,laða
-tenso,,,
+tenso,*,*,*
 thick,nene,nene,nene
 tick,jiza,ʄiza,ʄiza
 tired,amechoka,amet⁀ʃoka,amet⁀ʃoka
@@ -271,7 +271,7 @@ to move,songa,sonɡa,sonɡa
 to need,hitaji,hitaʄi,hitaʄi
 to notice,tambua,tambua,tambua
 to obey,tii,tii,tii
-to order,,,
+to order,*,*,*
 to own,miliki,miliki,miliki
 to party,chama,t⁀ʃama,t⁀ʃama
 to pay attention,makini,makini,makini
@@ -299,7 +299,7 @@ to step,hatua,hatua,hatua
 to study,soma,soma,soma
 to surprise,shangaa,ʃanɡaa,ʃanɡaa
 to surround,zunguka,zunɡuka,zunɡuka
-to take care,,,
+to take care,*,*,*
 to think,fikiria,fikiɾia,fikiɾia
 to touch,gusa,ɠusa,ɠusa
 to try,jaribu,ʄaɾiɓu,ʄaɾiɓu
@@ -312,12 +312,12 @@ to work,fanya kazi,faɲa kazi,faɲa kazi
 to worry,wasiwasi,wasiwasi,wasiwasi
 to write,andika,andika,andika
 tomato,nyanya,ɲaɲa,ɲaɲa
-torso,,,
+torso,*,*,*
 touch,kugusa,kuɠusa,kuɠusa
 tree,mti,mti,mti
-tuna,,,
+tuna,*,*,*
 turned on,waka,waka,waka
-turtle,,,
+turtle,*,*,*
 typical,kawaida,kawaiɗa,kawaiɗa
 vagina,uke,uke,uke
 virus,virusi,viɾusi,viɾusi

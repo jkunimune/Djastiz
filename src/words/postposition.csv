@@ -1,12 +1,12 @@
-eng,source,ltl
-"of; -'s; _marks modifier or associate_ {COMPLEMENT:kind; relation; specifier {GENITIVE:genitive}|RELATIVE:whose}",ara <ـٍ> [in],im
-"than; as; _marks amount or degree_ {COMPLEMENT:amount; number; quantity; extent; magnitude {GENITIVE:numerical; quantitative; equative}|RELATIVE:the amount that}",cmn <量> [ljaŋ˥˩],jan
-"by; _marks agent_ {COMPLEMENT:subject; agent; cause; force {GENITIVE:causal; subjective}|RELATIVE:who}",ara <ـٌ> [un],un
-"on; to; _marks direct object, patient, or experiencer_ {COMPLEMENT:direct object {GENITIVE:objective; absolutive; accusative}|RELATIVE:which; of which}",epo <-on> [on],on
-"to; by; _marks indirect object, theme, stimulus, or recipient_ {COMPLEMENT:indirect object {GENITIVE:objective}|RELATIVE:whom}",pan <-ਾਂ> [ãː],am
-"at; on; in; _marks time_ {COMPLEMENT:time; date; instance {GENITIVE:temporal; dative}|RELATIVE:when|INTERROGATIVE:when|INDETERMINATE:one day; sometime; at some point|DETERMINATE:then|PROXIMAL:now|VERB:be at; coincide; OBJ happens at the same time as IND}",mar <वेळ> [ˈʋeɭə],el
-"on; at; in; _marks location_ {COMPLEMENT:location; place {GENITIVE:spacial; locative}|RELATIVE:where|INTERROGATIVE:where|INDETERMINATE:somewhere|DETERMINATE:there|PROXIMAL:here|VERB:be present; be; OBJ is present at IND}",hin <जगह> [ˈd͡ʒəɡəɦ],eh
-"by; with; through; _marks instrument_ {COMPLEMENT:tool; medium; instrument {GENITIVE:instrumental; prolative}|RELATIVE:with which|INTERROGATIVE:with what; how|INDETERMINATE:with something; somehow|DETERMINATE:with that; thus|PROXIMAL:with this; like so|VERB:use; work through; SBJ {user} uses OBJ}",hin <साधन> [ˈsaːdʱən],atan
-"because; since; _marks cause_ {COMPLEMENT:cause; inciting event; agent {GENITIVE:causal}|RELATIVE:why; because of which|INTERROGATIVE:why; wherefore|INDETERMINATE:for some reason|DETERMINATE:therefore; for that reason|PROXIMAL:herefore; because of this}",cmn <原因> [ɥɛn˧˥in˥],enjen
-"if; for; _marks hypothetical world_ {COMPLEMENT:condition; world {GENITIVE:conditional}|RELATIVE:for which|INTERROGATIVE:under what condition; when|INDETERMINATE:in some event|DETERMINATE:in that event|PROXIMAL:given this}",eng <if> [ɪf],ajf
-"by; as; via; _marks method or manner_ {COMPLEMENT:method; way; path; manner {GENITIVE:methodical; formal; instructive}|RELATIVE:by which|INTERROGATIVE:how|INDETERMINATE:somehow|DETERMINATE:thus; thereby|PROXIMAL:like so; hereby}",zul <indlela> [in̤d̤ela],iel
+eng,spa,source,ltl
+"of; -'s; _marks modifier or associate_ {COMPLEMENT:kind; relation; specifier {GENITIVE:genitive}|RELATIVE:whose}",,ara <ـٍ> [in],im
+"than; as; _marks amount or degree_ {COMPLEMENT:amount; number; quantity; extent; magnitude {GENITIVE:numerical; quantitative; equative}|RELATIVE:the amount that}",,cmn <量> [ljaŋ˥˩],jan
+"by; _marks agent_ {COMPLEMENT:subject; agent; cause; force {GENITIVE:causal; subjective}|RELATIVE:who}",,ara <ـٌ> [un],un
+"on; to; _marks direct object, patient, or experiencer_ {COMPLEMENT:direct object {GENITIVE:objective; absolutive; accusative}|RELATIVE:which; of which}",,epo <-on> [on],on
+"to; by; _marks indirect object, theme, stimulus, or recipient_ {COMPLEMENT:indirect object {GENITIVE:objective}|RELATIVE:whom}",,pan <-ਾਂ> [ãː],am
+"at; on; in; _marks time_ {COMPLEMENT:time; date; instance {GENITIVE:temporal; dative}|RELATIVE:when|INTERROGATIVE:when|INDETERMINATE:one day; sometime; at some point|DETERMINATE:then|PROXIMAL:now|VERB:be at; coincide; OBJ {event} happens at the same time as IND {time of occurence}}",,mar <वेळ> [ˈʋeɭə],el
+"on; at; in; _marks location_ {COMPLEMENT:location; place {GENITIVE:spacial; locative}|RELATIVE:where|INTERROGATIVE:where|INDETERMINATE:somewhere|DETERMINATE:there|PROXIMAL:here|VERB:be present; attend; be around; be strong; be; OBJ {presence} is present at IND}",,hin <जगह> [ˈd͡ʒəɡəɦ],eh
+"by; with; through; _marks instrument_ {COMPLEMENT:tool; medium; instrument {GENITIVE:instrumental; prolative}|RELATIVE:with which|INTERROGATIVE:with what; how|INDETERMINATE:with something; somehow|DETERMINATE:with that; thus|PROXIMAL:with this; like so|VERB:use; work through; SBJ {user} uses OBJ}",,hin <साधन> [ˈsaːdʱən],atan
+"because; since; _marks cause_ {COMPLEMENT:cause; inciting event; agent {GENITIVE:causal}|RELATIVE:why; because of which|INTERROGATIVE:why; wherefore|INDETERMINATE:for some reason|DETERMINATE:therefore; for that reason|PROXIMAL:herefore; because of this}",,cmn <原因> [ɥɛn˧˥in˥],enjen
+"if; for; _marks hypothetical world_ {COMPLEMENT:condition; world {GENITIVE:conditional}|RELATIVE:for which|INTERROGATIVE:under what condition; when|INDETERMINATE:in some event|DETERMINATE:in that event|PROXIMAL:given this}",,eng <if> [ɪf],ajf
+"by; as; via; _marks method or manner_ {COMPLEMENT:method; way; path; manner {GENITIVE:methodical; formal; instructive}|RELATIVE:by which|INTERROGATIVE:how|INDETERMINATE:somehow|DETERMINATE:thus; thereby|PROXIMAL:like so; hereby}",,zul <indlela> [in̤d̤ela],iel

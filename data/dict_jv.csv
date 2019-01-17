@@ -6,14 +6,14 @@ algae,ganggang,ɡaŋɡaŋ,ɡaŋɡaŋ
 amazing,apik tenan,apik ten̪an̪,apik ten̪an̪
 anemone,anemone,an̪emon̪e,an̪emon̪e
 animal,kewan,kewan̪,kewan̪
-ant,,,
+ant,*,*,*
 apple,apel,apel,apel
 arm,lengen,leŋen̪,leŋen̪
 art,seni,sen̪i,sen̪i
 bacterium,bakteri,bakteri,bakteri
 bamboo,pring,priŋ,priŋ
-barnacle,,,
-bear,,,
+barnacle,*,*,*
+bear,*,*,*
 beetle,kumbang,kumbaŋ,kumbaŋ
 below,ing ngisor iki,iŋ ŋisor iki,iŋ ŋisor iki
 between,antarane,an̪taran̪e,an̪taran̪e
@@ -24,18 +24,18 @@ body,awak,awak,awak
 broad,amba,amba,amba
 broken,rusak,rusak,rusak
 brown,coklat,coklat,coklat
-bug,,,
-bulrush,,,
+bug,*,*,*
+bulrush,*,*,*
 burnt,obaran,obaran̪,obaran̪
-bustard,,,
+bustard,*,*,*
 butterfly,kupu kupu,kupu kupu,kupu kupu
-buttocks,,,
+buttocks,*,*,*
 cactus,kaktus,kaktus,kaktus
 camel,unta,un̪ta,un̪ta
-carp,,,
+carp,*,*,*
 certain,tamtu,tamtu,tamtu
 chest,dodo,d̪od̪o,d̪od̪o
-chunky,,,
+chunky,*,*,*
 circular,bunder,bun̪d̪er,bun̪d̪er
 city,kutha,kuʈa,kuʈa
 claw,cakar,cakar,cakar
@@ -45,22 +45,22 @@ cockroach,kecoa,kecoa,kecoa
 colour,werna,wern̪a,wern̪a
 computer,komputer,komputer,komputer
 continent,bawana,bawan̪a,bawan̪a
-control,,,
+control,*,*,*
 corn,jagung,ɟaɡuŋ,ɟaɡuŋ
-counterclockwise,,,
+counterclockwise,*,*,*
 country,negara,n̪eɡara,n̪eɡara
 crab,kepiting,kepitiŋ,kepitiŋ
 cricket,jangkrik,ɟaŋkrik,ɟaŋkrik
 crocodile,buaya,buaja,buaja
 crystal,kristal,kristal,kristal
 culture,budaya,bud̪aja,bud̪aja
-cupped,,,
+cupped,*,*,*
 damaged,rusak,rusak,rusak
 dense,kandhel,kan̪ɖel,kan̪ɖel
 derecha,tengen,teŋen̪,teŋen̪
 descansar,tumpang,tumpaŋ,tumpaŋ
 different,beda,bed̪a,bed̪a
-earwig,,,
+earwig,*,*,*
 east,wétan,wétan̪,wétan̪
 easy,gampang,ɡampaŋ,ɡampaŋ
 egg,endhog,en̪ɖoɡ,en̪ɖoɡ
@@ -74,20 +74,20 @@ familiar,menowo,men̪owo,men̪owo
 far,adoh,ad̪oh,ad̪oh
 fast,cepet,cepet,cepet
 feather,wulu,wulu,wulu
-fern,,,
+fern,*,*,*
 finger,driji,d̪riɟi,d̪riɟi
 fire,geni,ɡen̪i,ɡen̪i
 fish,iwak,iwak,iwak
 flea,kutu,kutu,kutu
 flower,kembang,kembaŋ,kembaŋ
-foamy,,,
-fowl,,,
+foamy,*,*,*
+fowl,*,*,*
 friendly,loropaken,loropaken̪,loropaken̪
 fruit,woh,woh,woh
 full,lengkap,leŋkap,leŋkap
 fun,nyenengake,ɲen̪eŋake,ɲen̪eŋake
 fungus,jamur,ɟamur,ɟamur
-furniture,,,
+furniture,*,*,*
 giraffe,jerapah,ɟerapah,ɟerapah
 gland,kelenjar,kelen̪ɟar,kelen̪ɟar
 god,pengeran,peŋeran̪,peŋeran̪
@@ -107,7 +107,7 @@ healthy,sehat,sehat,sehat
 hear,krungu,kruŋu,kruŋu
 heavy,abot,abot,abot
 high-pitched,kemèng,kemèŋ,kemèŋ
-hippopotamus,,,
+hippopotamus,*,*,*
 hole,bolongan,boloŋan̪,boloŋan̪
 home,ngarep,ŋarep,ŋarep
 hot,panas,pan̪as,pan̪as
@@ -118,8 +118,8 @@ infinite,tanpa wates,tan̪pa wates,tan̪pa wates
 information,informasi,in̪formasi,in̪formasi
 inside,nang,n̪aŋ,n̪aŋ
 jellyfish,ubur-ubur,ubur-ubur,ubur-ubur
-kangaroo,,,
-koala,,,
+kangaroo,*,*,*
+koala,*,*,*
 late,pungkasane,puŋkasan̪e,puŋkasan̪e
 layout,tata letak,tata letak,tata letak
 leaf,godhong,ɡoɖoŋ,ɡoɖoŋ
@@ -134,32 +134,32 @@ luz,cahya,cahja,cahja
 machine,mesin,mesin̪,mesin̪
 magical,ajaib,aɟaib,aɟaib
 mammal,mamalia,mamalia,mamalia
-mantis,,,
+mantis,*,*,*
 married,nikah,n̪ikah,n̪ikah
 material,materi,materi,materi
 metal,logam,loɡam,loɡam
 mixed,dicampur,d̪icampur,d̪icampur
-moral,,,
+moral,*,*,*
 more,luwih akeh,luwih akeh,luwih akeh
 mosquito,nyamuk,ɲamuk,ɲamuk
 mountain,gunung,ɡun̪uŋ,ɡun̪uŋ
 mushroom,jamur,ɟamur,ɟamur
 must,kudu,kud̪u,kud̪u
 natural,alam,alam,alam
-nautilus,,,
+nautilus,*,*,*
 neat,apik,apik,apik
 network,jaringan,ɟariŋan̪,ɟariŋan̪
 notion,pamanggih,pamaŋɡih,pamaŋɡih
 ocean,segara,seɡara,seɡara
-okay,,,
+okay,*,*,*
 old,lawas,lawas,lawas
-opaque,,,
-opossum,,,
-ostrich,,,
+opaque,*,*,*
+opossum,*,*,*
+ostrich,*,*,*
 part,bagean,baɡean̪,baɡean̪
-path,,,
+path,*,*,*
 person,wong,woŋ,woŋ
-pidgeon,,,
+pidgeon,*,*,*
 pig,babi,babi,babi
 plant,tanduran,tan̪d̪uran̪,tan̪d̪uran̪
 pleasure,kesenengan,kesen̪eŋan̪,kesen̪eŋan̪
@@ -179,10 +179,10 @@ region,wilayah,wilajah,wilajah
 reptile,reptil,reptil,reptil
 rhinoceros,badhak,baɖak,baɖak
 rice,gabah,ɡabah,ɡabah
-rodent,,,
-root,,,
-rotten,,,
-salmon,,,
+rodent,*,*,*
+root,*,*,*
+rotten,*,*,*
+salmon,*,*,*
 salty,asin,asin̪,asin̪
 scorpion,kalajengking,kalaɟeŋkiŋ,kalaɟeŋkiŋ
 seal,segel,seɡel,seɡel
@@ -190,45 +190,45 @@ season,mangsa,maŋsa,maŋsa
 see,ndeleng,n̪d̪eleŋ,n̪d̪eleŋ
 seed,winih,win̪ih,win̪ih
 sentence,ukara,ukara,ukara
-serious,,,
-sex,,,
+serious,*,*,*
+sex,*,*,*
 shape,wujud,wuɟud̪,wuɟud̪
 shark,hiu,hiu,hiu
 sharp,cetha,ceʈa,ceʈa
 shiny,mengilap,meŋilap,meŋilap
 should,kudu,kud̪u,kud̪u
 simple,prasaja,prasaɟa,prasaɟa
-skillful,,,
+skillful,*,*,*
 slug,gejiba,ɡeɟiba,ɡeɟiba
 smell,mambu,mambu,mambu
 smooth,gamelan,ɡamelan̪,ɡamelan̪
-social,,,
+social,*,*,*
 soil,lemah,lemah,lemah
 solid,ngalangi,ŋalaŋi,ŋalaŋi
 sour,ora gampang,ora ɡampaŋ,ora ɡampaŋ
 south,sisih kidul,sisih kid̪ul,sisih kid̪ul
-soy,,,
-space,,,
-specialist,,,
+soy,*,*,*
+space,*,*,*
+specialist,*,*,*
 specific,tartamtu,tartamtu,tartamtu
 spicy,pedhes,peɖes,peɖes
 spider,laba-laba,laba-laba,laba-laba
 stacked,dibandhingke,d̪iban̪ɖiŋke,d̪iban̪ɖiŋke
-starboard,,,
+starboard,*,*,*
 steep,jangkep,ɟaŋkep,ɟaŋkep
-stem,,,
+stem,*,*,*
 stick,kelet,kelet,kelet
 stone,watu,watu,watu
 storm,badai,bad̪ai,bad̪ai
 story,crita,crita,crita
 string,senar,sen̪ar,sen̪ar
 strong,kuwat,kuwat,kuwat
-structure,,,
+structure,*,*,*
 sun,srengenge,sreŋeŋe,sreŋeŋe
 surface,permukaan,permukaan̪,permukaan̪
 sweet,manis,man̪is,man̪is
-tangible,,,
-tangled,,,
+tangible,*,*,*
+tangled,*,*,*
 tapir,tapir,tapir,tapir
 taste,rasa,rasa,rasa
 tenso,tegang,teɡaŋ,teɡaŋ
@@ -237,7 +237,7 @@ tick,obah,obah,obah
 tired,kesel,kesel,kesel
 to accompany,ngiringi,ŋiriŋi,ŋiriŋi
 to act,tumindak,tumin̪d̪ak,tumin̪d̪ak
-to anticipate,,,
+to anticipate,*,*,*
 to believe,pracaya,pracaja,pracaja
 to bounce,mumbul,mumbul,mumbul
 to care,miduli,mid̪uli,mid̪uli
@@ -245,11 +245,11 @@ to choose,milih,milih,milih
 to continue,terus,terus,terus
 to convert,ngowahi,ŋowahi,ŋowahi
 to cook,masak,masak,masak
-to correspond,,,
+to correspond,*,*,*
 to cost,biaya,biaja,biaja
 to deal,menehi hasil,men̪ehi hasil,men̪ehi hasil
 to deserve,pantes,pan̪tes,pan̪tes
-to engineer,,,
+to engineer,*,*,*
 to face,ngadhepi,ŋaɖepi,ŋaɖepi
 to fall,tiba,tiba,tiba
 to fear,wedi,wed̪i,wed̪i
@@ -271,16 +271,16 @@ to move,mindhah,min̪ɖah,min̪ɖah
 to need,perlu,perlu,perlu
 to notice,sok dong mirsani,sok d̪oŋ mirsan̪i,sok d̪oŋ mirsan̪i
 to obey,ngrungokake,ŋruŋokake,ŋruŋokake
-to order,,,
+to order,*,*,*
 to own,duwe,d̪uwe,d̪uwe
 to party,partai,partai,partai
 to pay attention,menehi perhatian,men̪ehi perhatian̪,men̪ehi perhatian̪
 to perceive,ndelok,n̪d̪elok,n̪d̪elok
 to plan,ngrancang,ŋran̪caŋ,ŋran̪caŋ
 to play,muter,muter,muter
-to ponder,,,
+to ponder,*,*,*
 to prosper,makmur,makmur,makmur
-to push,,,
+to push,*,*,*
 to read,maca,maca,maca
 to recall,ngeling,ŋeliŋ,ŋeliŋ
 to relate,nyaritakake,ɲaritakake,ɲaritakake
@@ -291,7 +291,7 @@ to say,ngomong,ŋomoŋ,ŋomoŋ
 to sell,ngedol,ŋed̪ol,ŋed̪ol
 to sit,lenggah,leŋɡah,leŋɡah
 to sleep,turu,turu,turu
-to slide,,,
+to slide,*,*,*
 to speak,ngomong,ŋomoŋ,ŋomoŋ
 to spin,muter,muter,muter
 to stand,ngadeg,ŋad̪eɡ,ŋad̪eɡ
@@ -312,18 +312,18 @@ to work,kerjo,kerɟo,kerɟo
 to worry,sumelang,sumelaŋ,sumelaŋ
 to write,nulis,n̪ulis,n̪ulis
 tomato,tomat,tomat,tomat
-torso,,,
+torso,*,*,*
 touch,tutul,tutul,tutul
 tree,wit,wit,wit
-tuna,,,
-turned on,,,
+tuna,*,*,*
+turned on,*,*,*
 turtle,penyu,peɲu,peɲu
 typical,khas,khas,khas
-vagina,,,
-virus,,,
+vagina,*,*,*
+virus,*,*,*
 viscous,lentur,len̪tur,len̪tur
-wasp,,,
-whale,,,
+wasp,*,*,*
+whale,*,*,*
 wheat,gandum,ɡan̪d̪um,ɡan̪d̪um
 white,putih,putih,putih
 wide,sudhut,suɖut,suɖut
