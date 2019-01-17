@@ -30,25 +30,26 @@ DIACRITIC_GUIDE = {
 }
 
 SOURCE_LANGUAGES = {
-	'cmn':.2243,
-	'spa':.1495,
+	'cmn':.2089,
 	'epo':.1429,
-	'eng':.0930,
-	'hin':.0898,
-	'ben':.0838,
-	'pan':.0422,
-	'jav':.0286,
-	'yor':.0260,
-	'mar':.0248,
-	'msa':.0206,
-	'ibo':.0186,
-	'fil':.0153,
-	'swa':.0111,
-	'zul':.0081,
-	'nya':.0067,
-	'xho':.0056,
-	'sho':.0050,
-	'sot':.0041,
+	'spa':.1329,
+	'eng':.0866,
+	'hin':.0836,
+	'ben':.0781,
+	'ara':.0586,
+	'pan':.0393,
+	'jav':.0267,
+	'yor':.0243,
+	'mar':.0231,
+	'msa':.0192,
+	'ibo':.0174,
+	'fil':.0142,
+	'swa':.0103,
+	'zul':.0076,
+	'nya':.0062,
+	'xho':.0053,
+	'sho':.0046,
+	'sot':.0038,
 }
 
 ALLOWED_CHANGES = [
@@ -84,6 +85,7 @@ RESTRICTED_CHANGES = [
 	('ð', 's'),
 	('ɣʁʕʀ', 'h'),
 	('ɮ', 'l'),
+	('ʔ', ''),
 ]
 
 ALL_VOWELS = 'aɑæeɛiɪɨoɔɒuʊʉɯəɤʌœø'
@@ -92,7 +94,7 @@ PHONEME_TABLE = ['eaoiu', 'jw', 'h', 'l', 'ktp', 'f', 'cs', 'nm'] # the lawnsosl
 INVERSES = {'a':'a', 'e':'o', 'i':'u', 'j':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'s', 'c':'f'}
 for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
 
-SUPPORTED_LANGUAGES = ["eng"] # the languages for which I have the dictiorary translated
+SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictiorary translated
 
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
 NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD',
@@ -179,7 +181,7 @@ def reduce_phoneme(phoneme, before, after):
 		elif phoneme[0] in ['y','ʏ','ø']:
 			return reduce_phoneme('ɥ', before, after)
 		else:
-			raise IllegalArgumentException(phoneme)
+			raise ValueError(phoneme)
 	for fulls, reduced in ALLOWED_CHANGES: # these loops should cover most sounds
 		if phoneme in fulls:
 			return reduced, 0
@@ -270,11 +272,11 @@ def apply_phonotactics(ipa, ending='csktp'): # TODO: what if dynamic verbs end i
 		lsl = lsl[:-1] + INVERSES[lsl[-1]]
 		changes += 1
 
-	lsl = re.sub(r'([lnmhcsfktp])w([lnmhcsfktp])', r'\1u\2', lsl)
-	lsl = re.sub(r'([lnmhcsfktp])j([lnmhcsfktp])', r'\1i\2', lsl) # these rogue semivowels are weird and need to go die.
-	lsl = re.sub(r'ej([lnmhcsfktp])', r'e\1', lsl)
-	lsl = re.sub(r'ow([lnmhcsfktp])', r'o\1', lsl) # restricted diphthongs
-	lsl = re.sub(r'w?uw?', 'u', lsl)
+	lsl = re.sub(r'([lnmhcsfktp])w([lnmhcsfktp])', r'\1u\2', lsl) # these rogue semivowels are weird and need to go die.
+	lsl = re.sub(r'([lnmhcsfktp])j([lnmhcsfktp])', r'\1i\2', lsl)
+	lsl = re.sub(r'ej([lnmhcsfktp\b])', r'e\1', lsl) # restricted diphthongs
+	lsl = re.sub(r'ow([lnmhcsfktp\b])', r'o\1', lsl)
+	lsl = re.sub(r'w?uw?', 'u', lsl) # these are effectively double letters
 	lsl = re.sub(r'j?ij?', 'i', lsl)
 
 	logging.debug("{} -> {}".format(ipa, lsl))
@@ -282,7 +284,7 @@ def apply_phonotactics(ipa, ending='csktp'): # TODO: what if dynamic verbs end i
 
 
 def choose_key(entry):
-	""" choose the meaning key to use in the dictionary """
+	""" choose the meaning key to use to look this up in other languages """
 	key = entry['source'][1:] if entry['source'].startswith('*') else entry['eng'][0]
 	if len(key.split()) > 1 and key.split()[0] in ['be', 'find', 'have', 'give', 'do', 'get', 'can']:
 		key = ' '.join(key.split()[1:]) # remove English grammar particles
@@ -338,7 +340,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 			reduced, changes = apply_phonotactics(broad, ending='lnmhf' if partos=='noun' else 'csktp')
 		except ValueError as e:
 			logging.error("could not read IPA in {} \"{}\" /{}/; '{}' may not be an IPA symbol".format(lang, english, broad, e))
-			reduced, changes = broad, 0
+			continue
 
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
 		if not legal_new_word(reduced, all_words, open_words, has_antonym, lang=lang, ipa=narrow):
@@ -369,13 +371,13 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 		return get_antonym(source_word)
 	elif deriv_type in ['CESSATIVE']:
 		if has_antonym:
-			return get_antonym(source_word) + all_words['begin']
+			return get_antonym(source_word) + all_words['begin']['ltl']
 		else:
-			return source_word + all_words['end']
+			return source_word + all_words['end']['ltl']
 	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ',
 		'IND', 'AMOUNT', 'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD']:
 		inflection_word = {
-			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who', 'OBJ':'of which', 'IND':'whom',
+			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who', 'OBJ':'which', 'IND':'whom',
 			'AMO':'the amount that', 'LOC':'where', 'TIM':'when', 'INS':'with which', 'CAU':'why', 'MET':'by which'}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['ltl']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
@@ -386,7 +388,7 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 	elif deriv_type == 'COMPLEMENT':
 		return 'l' + source_word # TODO: what am I going to do about these complements? They can't take a verb; then stuff would collide. But they can't not take a verb. Then they look like relatives.
 	elif deriv_type == 'VERB':
-		return all_words['of which']['ltl'] + source_word + all_words['happen']['ltl']
+		return all_words['which']['ltl'] + source_word + all_words['do']['ltl']
 	else:
 		raise ValueError("The {1} of {0}?".format(source_word, deriv_type))
 
@@ -405,10 +407,10 @@ def load_dictionary(directory):
 			word_set['partos'] = filename
 			queue.extend(word_set.itertuples(index=True))
 
-	while queue:
+	while queue: # go through all the words we have to process
 		entry = queue.popleft()
 		try:
-			entry['derivatives'] = {} # don't forget to start counting these
+			entry['derivatives'] = {} # start counting its derivatives
 		except TypeError:
 			entry = entry._asdict() # convert row to a dict
 			entry['derivatives'] = {}
@@ -465,7 +467,13 @@ def load_dictionary(directory):
 			logging.warning("There is no possible gloss for {}. '{}' will be used as a key.".format(entry, gloss))
 			words[gloss] = entry
 
-		for deriv_type, deriv_dict in unprocessed_derivatives.items():
+		if entry['partos'] == 'compound word':
+			try:
+				entry['partos'] = 'compound '+words[entry['source'].split()[-1].replace('-',' ')]['partos'] # the pos of a compound is based on the last word in it
+			except (KeyError, IndexError):
+				pass # this'll print an error message later
+
+		for deriv_type, deriv_dict in unprocessed_derivatives.items(): # look at each of the unprocessed derivatives (the things in {})
 			deriv_dict['source'] = '{} OF {}'.format(deriv_type, possible_gloss)
 			if deriv_type in VERB_DERIVATIONS:
 				deriv_dict['partos'] = 'verb'
@@ -475,36 +483,44 @@ def load_dictionary(directory):
 				deriv_dict['partos'] = entry['partos']
 			else:
 				raise TypeError("What is {}".format(deriv_type))
-			queue.append(deriv_dict) # finally, put the unprocessed derivatives in the queue
+			queue.insert(0, deriv_dict) # finally, put the unprocessed derivatives in the queue
 
 	return words
 
 
 def verify_words(my_words):
 	""" check various things to catch mistakes I made with my dictionary """
+	errors = 0
 	for key, entry in my_words.items():
 		if not entry['eng']:
-			raise ValueError("The entry {} has no meaning".format(entry))
+			logging.error("The entry {} has no meaning".format(entry))
+			errors += 1
 		if not any(w in entry['derivatives'] for w in ['ANTONYM','OPPOSITE','REVERSAL']) and has_antonym(entry):
-			raise ValueError("Derivatives of '{0}' have antonyms even though '{0}' itself does not".format(entry['eng'][0], entry))
+			logging.error("Derivatives of '{0}' have antonyms even though '{0}' itself does not".format(entry['eng'][0], entry))
+			errors += 1
+		if entry['partos'].endswith('verb') and 'OBJ' not in entry['eng'][-1]:
+			logging.error("{} sure doesn't _look_ like a verb.".format(entry['eng']))
+			errors += 1
 
-	print("Dictionary verified.") # if you make it this far, you've passed my test
+	if not errors:
+		logging.info("Dictionary verified.") # if you make it this far, you've passed my test
 
 
 def fill_blanks(my_words, real_words):
 	""" come up with words from the source dictioraries for all nouns and verbs that aren't
 		onomotopoeias, and update the compound words accordingly """
 	all_ltl_words = set()
+	all_open_ltl_words = set() # the set of open words that can cause isolating morphology issues 
 	tallies = collections.Counter() # start by counting how many words we have of each language already
 	for entry in my_words.values():
-		if entry['partos'] not in ['noun','verb','loanword','compound word'] or re.match(r'^ono ', entry['source']): # only count grammar words and onomotopoeias
-			if re.match(r'^[a-z][a-z][a-z] ', entry['source']):
+		if entry['partos'] not in ['noun','verb','loanword'] or re.match(r'^ono ', entry['source']): # only count grammar words and onomotopoeias
+			if re.match(r'^[a-z][a-z][a-z] <.*> \[.*\]', entry['source']):
 				tallies[entry['source'].split()[0]] += 1
-			if entry['ltl']:
+			if entry['ltl'] and not entry['partos'].startswith('compound'):
 				all_ltl_words.add(entry['ltl'].replace('j','i').replace('w','u'))
-	all_open_ltl_words = set(all_ltl_words) # the set of open words that can cause isolating morphology issues (there are actually closed words in here as well, but that's fine, they don't cause issues)
+				if 'OF' not in entry['source'] and 'ono [' not in entry['source']:
+					all_open_ltl_words.add(entry['ltl'].replace('j','i').replace('w','u'))
 	logging.info(tallies)
-	print(all_open_ltl_words)
 				
 	for entry in my_words.values(): # make up words for anything that needs it
 		if entry['partos'] in ['noun','verb']:
@@ -522,13 +538,16 @@ def fill_blanks(my_words, real_words):
 			d_type, d_gloss = entry['source'].split(' OF ')
 			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words, 'ANTONYM' in entry['derivatives'])
 	for entry in my_words.values(): # then compound the compound words
-		if entry['partos'] == 'compound word':
+		if entry['partos'].startswith('compound'):
 			entry['ltl'] = ''
-			for component in entry['source'].split():
-				try:
-					entry['ltl'] += my_words[component.replace('-',' ')]['ltl']
-				except KeyError as e:
-					logging.error("No {} for {}'s {}".format(e, entry['eng'][0], entry['source'].split()))
+			if entry['source']:
+				for component in entry['source'].split():
+					try:
+						entry['ltl'] += my_words[component.replace('-',' ')]['ltl']
+					except KeyError as e:
+						logging.error("No {} for {}'s {}".format(e, entry['eng'][0], entry['source'].split()))
+			else:
+				logging.error("{} has no components".format(entry['eng'][0]))
 
 
 def save_dictionary(dictionary, directory):
@@ -562,11 +581,11 @@ def measure_corpus(directory):
 if __name__ == '__main__':
 	all_words = load_dictionary('words')
 	verify_words(all_words)
-	with open('../data/all_languages.p', 'rb') as f:
+	with open('../data/all_languages.pkl', 'rb') as f:
 		source_dictionaries = pickle.load(f)
 	fill_blanks(all_words, source_dictionaries)
 	logging.info(json.dumps(all_words, indent=2))
-	print("{} roots, {} of which are of European origin".format(
+	logging.info("{} roots, {} of which are of European origin".format(
 		sum([re.match(r'<', word['source']) is not None for word in all_words.values()]),
 		sum([re.match(r'(eng|spa|epo) <', word['source']) is not None for word in all_words.values()])))
 	save_dictionary(all_words, 'words')

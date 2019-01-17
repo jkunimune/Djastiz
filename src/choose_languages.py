@@ -1,7 +1,7 @@
 #choose_languages.py
 
 DEPTH = 2 #how many levels down to categorise
-GROUP_CUTOFF = 2/3
+GROUP_CUTOFF = 3/4
 LANGG_CUTOFF = 1/2
 
 LIMIT_TO_GOOGLE_TRANSLATE = True
