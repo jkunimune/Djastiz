@@ -5,7 +5,7 @@ eng,spa,source,ltl
 "no; not; be false; be wrong; be incorrect; be not happening; be fake; _negative_; OBJ {falsehood; fiction} is not happening",,ANTONYM OF yes,lis
 "do; happen; cause; pro-verb; SBJ {agent; participant} makes OBJ {effect; action; event} come true",,INCOHATIVE OF yes,tuskes
 "undo; OBJ happens in reverse",,CESSATIVE OF yes,tusnos
-"be; exist; have; equal; be the same; _copula_; OBJ exists and is the same thing as IND {AMOUNT:number; count; amount|GENITIVE:fair; uniform; equal}",,spa <ser> [seɾ],ses
+"be; exist; have; equal; be the same; _copula_; OBJ {thing} exists and is the same thing as IND {AMOUNT:number; count; amount|GENITIVE:fair; uniform; equal}",,spa <ser> [seɾ],ses
 "be opposite; be contrary; OBJ is the opposite of IND",,OPPOSITE OF be,hos
 "create; make; give; get; appear; produce; SBJ {creator} makes OBJ {creation} into IND {LOCATION:factory; makery; source|METHOD:recipe}",,INCOHATIVE OF be,seskes
 "delete; destroy; take; disappear; SBJ {deleter; destroyer} deletes OBJ {deleted; disappeared}",,CESSATIVE OF be,sesnos
