@@ -3,6 +3,7 @@ be absent; be gone; be away; be weak; OBJ is absent,,NEGATIVE OF be present,leht
 summon; bring forth; pull up; place; SBJ summons OBJ,,INCOHATIVE OF be present,lehtuskeskes
 dispose; throw away; get rid; remove; SBJ disposes of OBJ {trash; garbage},,CESSATIVE OF be present,lehtuskesnos
 continue; be happening; keep; stay; be in progress; undergo; maintain; _progressive_; SBJ {maintainer} makes OBJ hold true for some time,,epo <daŭrigi> [dawˈriɡi],tawlik
+change; be in flux; SBJ {bringer of change} changes OBJ somehow,,NEGATIVE OF continue,tawliklis
 repeat; do again; return to; SBJ makes OBJ happen multiple times,,epo <ripeti> [riˈpeti],lipet
 reverse; do back; return from; SBJ makes OBJ happen in reverse after having happened,,REVERSAL OF repeat,tupet
 be possible; can; might; may; _possibility_; OBJ {possibility} can happen,,jav <bisa> [bisa],pis
@@ -147,7 +148,7 @@ be thick; OBJ {slab} is thick {AMOUNT:thickness; minimum dimension},,hin <मो
 be thin; OBJ {film} is thin,,ANTONYM OF be thick,pet
 thicken; SBJ {thickener} thickens OBJ,,INCOHATIVE OF be thick,motkes
 thin; SBJ {thinner} thins OBJ,,CESSATIVE OF be thick,motnos
-be far; be distant; be beyond; be not at all; be remote; tele; OBJ is physically or numerically far from IND {AMOUNT:distance},,spa <lejos> [ˈlexos],lehos
+be far; be distant; be beyond; be not at all; be remote; tele; OBJ is physically or numerically far from IND {space} {AMOUNT:distance},,spa <lejos> [ˈlexos],lehos
 be near; be close; be before; be approximately; be almost; be like; OBJ is physically or numerically close to IND {TIME:meeting},,ANTONYM OF be far,tohos
 distance; go away; separate; SBJ {separator} distances OBJ from IND,,INCOHATIVE OF be far,lehoskes
 approach; go toward; meet; draw close; bring together; gather; SBJ {gatherer; joiner} moves OBJ toward IND,,CESSATIVE OF be far,lehosnos
@@ -189,8 +190,8 @@ be east; OBJ has a higher longitude than IND {standard meridian; prime meridian}
 be west; OBJ has a lower longitude than IND,,ANTONYM OF be east,mip
 go east; SBJ increases the longitude of OBJ relative to IND,,INCOHATIVE OF be east,pupkes
 go west; SBJ decreases the longitude of OBJ relative to IND,,CESSATIVE OF be east,pupnos
-be dense; be frequent; be common; be tightly packed; be fine; OBJ occurs frequently and close together,,spa <denso> [ˈdenso],tes
-be sparse; be infrequent; be uncommon; be loosely distributed; be coarse; OBJ is few and far between,,ANTONYM OF be dense,los
+be dense; beI cramped; be frequent; be common; be tightly packed; be fine; OBJ occurs frequently and close together in IND,,spa <denso> [ˈdenso],tes
+be sparse; beI spacious; be infrequent; be uncommon; be loosely distributed; be coarse; OBJ is few and far between in IND {space; room; open space},,ANTONYM OF be dense,los
 gather; collect; cluster; densify; SBJ increases the spacial frequency of OBJ,,INCOHATIVE OF be dense,teskes
 spread out; separate; SBJ decreases the spacial frequency of OBJ,,CESSATIVE OF be dense,tesnos
 face; point; OBJ {direction} is oriented in the direction toward IND {target; front},,eng <face> [feɪ̯s],fes
@@ -226,11 +227,11 @@ be turned on; be animate; be active; be open; OBJ is turned on,,swa <waka> [waka
 be turned off; be inanimate; be passive; be closed; OBJ is turned off,,ANTONYM OF be turned on,sjak
 turn on; go off; animate; activate; SBJ {activator} turns on OBJ,,INCOHATIVE OF be turned on,hwakkes
 turn off; deactivate; kill; SBJ {deactivator} turns off OBJ,,CESSATIVE OF be turned on,hwaknos
-convert; translate; transform; represent; encode; SBJ {converter; translator} conveys OBJ in the form IND {METHOD:transformation},,epo <konverti> [konˈverti],konwet
+convert; translate; transform; represent; encode; SBJ {converter; translator} conveys OBJ in the form IND {translation; symbol} {METHOD:transformation},,epo <konverti> [konˈverti],konwet
 wear; be clothed; OBJ wears IND {clothing; clothes; article},,epo <porti> [ˈporti],pot
 put on; dress; robe; SBJ {dresser} puts IND on OBJ {dressee},,INCOHATIVE OF wear,lawaskeskes
 take off; undress; disrobje; SBJ {undresser} takes IND off of OBJ {undressee},,CESSATIVE OF wear,lawaskesnos
-move; jostle; be energetic; be restless; OBJ is deforming and moving {AMOUNT:motion; energy},,spa <mueve> [ˈmweβe],mop
+move; jostle; be energetic; be restless; go; OBJ is deforming and moving {AMOUNT:motion; energy},,spa <mueve> [ˈmweβe],mop
 be still; be unenergetic; OBJ is motionless in place,,ANTONYM OF move,pep
 set off; set in motion; move; energise; SBJ {motor; mover} makes OBJ start moving,,INCOHATIVE OF move,mopkes
 stop; still; settle; deenergise; SBJ {brake} makes OBJ stop moving,,CESSATIVE OF move,mopnos

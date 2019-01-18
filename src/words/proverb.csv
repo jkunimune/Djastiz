@@ -1,6 +1,6 @@
 eng,spa,source,ltl
-"begin; start; commence; initiate; become; go to; come to; summon; arrive; to; change; -ify; _incohative_; SBJ {starter} makes OBJ {begun} transition from falsehood to truth {TIME:beginning|LOCATION:start}",,cmn <开始> [kʰaɪ̯˥ʂɨ˧˩˧],kes
-"end; stop; cease; cancel; unbecome; come from; go from; send; leave; depart; from; change; de- -ify; _cessative_; SBJ {stopper} makes OBJ {complete; finished} transitions from truth to falsehood {TIME:ending|LOCATION:end; edge}",,REVERSAL OF begin,nos
+"begin; start; commence; initiate; become; go to; come to; change to; summon; arrive; to; -ify; _incohative_; SBJ {starter} makes OBJ {begun} transition from falsehood to truth {TIME:beginning|LOCATION:start}",,cmn <开始> [kʰaɪ̯˥ʂɨ˧˩˧],kes
+"end; stop; cease; cancel; unbecome; come from; go from; change from; send; leave; depart; from; de- -ify; _cessative_; SBJ {stopper} makes OBJ {complete; finished} transitions from truth to falsehood {TIME:ending|LOCATION:end; edge}",,REVERSAL OF begin,nos
 "*yes; be true; be right; be correct; be real; be happening; _positive_; OBJ {state; truth; reality} is happening {METHOD:process}",,eng <truth> [tɹʷuːθ],tus
 "no; not; be false; be wrong; be incorrect; be not happening; be fake; _negative_; OBJ {falsehood; fiction} is not happening",,ANTONYM OF yes,lis
 "do; happen; cause; pro-verb; SBJ {agent; participant} makes OBJ {effect; action; event} come true",,INCOHATIVE OF yes,tuskes
