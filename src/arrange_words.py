@@ -30,27 +30,28 @@ DIACRITIC_GUIDE = {
 }
 
 SOURCE_LANGUAGES = {
-	'cmn':.2089,
-	'epo':.1429,
-	'spa':.1329,
-	'eng':.0866,
-	'hin':.0836,
-	'ben':.0781,
-	'ara':.0586,
-	'pan':.0393,
-	'jav':.0267,
-	'yor':.0243,
-	'mar':.0231,
-	'msa':.0192,
-	'ibo':.0174,
-	'fil':.0142,
-	'swa':.0103,
-	'zul':.0076,
-	'nya':.0062,
-	'xho':.0053,
-	'sho':.0046,
-	'sot':.0038,
+	('zh-CN','cmn',.2089),
+	('eo','epo',.1429),
+	('es','spa',.1329),
+	('en','eng',.0866),
+	('hi','hin',.0836),
+	('bn','ben',.0781),
+	('ar','ara',.0586),
+	('pa','pan',.0393),
+	('jv','jav',.0267),
+	('yo','yor',.0243),
+	('mr','mar',.0231),
+	('ms','msa',.0192),
+	('ig','ibo',.0174),
+	('tl','fil',.0142),
+	('sw','swa',.0103),
+	('zu','zul',.0076),
+	('ny','nya',.0062),
+	('xh','xho',.0053),
+	('sn','sho',.0046),
+	('st','sot',.0038),
 }
+DESIRED_FRAC = {threelc:num for twolc, threelc, num in SOURCE_LANGUAGES}
 
 ALLOWED_CHANGES = [
 	('aɑæ', 'a'),
@@ -73,7 +74,8 @@ ALLOWED_CHANGES = [
 	('wʷɰ', 'w'),
 	('jʲʎ', 'j'),
 	('lɬrɾɽɭ', 'l'),
-	('- ˩˨˧˦˥ʰʼˈˌː͡⁀..,，​', '')
+	('ʰˤʼ',''),
+	('- ˩˨˧˦˥ˈˌː͡⁀..,，​', '')
 ]
 RESTRICTED_CHANGES = [
 	('ə', 'a'),
@@ -188,7 +190,7 @@ def reduce_phoneme(phoneme, before, after):
 	for fulls, reduced in RESTRICTED_CHANGES:
 		if phoneme in fulls:
 			return reduced, 1
-	if phoneme in ['β','v','ⱱ','ʋ']: # these ones will take care of the weird ones that depend on context
+	if phoneme in ['β','v','ⱱ','ʋ']: # these blocks will take care of the weird ones that depend on context
 		if not before or not after or before in ['w','u','o'] or after in ['w','u']:
 			return 'f', 1 # use 'f' when you need a consonant or to create contrast,
 		else:
@@ -227,24 +229,30 @@ def apply_phonotactics(ipa, ending='csktp'): # TODO: what if dynamic verbs end i
 	""" take some phonetic alphabet and approximate it with my phonotactics, and say how many changes there were """
 	to_convert = ipa
 	lsl, changes = '', 0
-	next_phoneme = ''
-	while to_convert:
-		for charset, value in DIACRITIC_GUIDE:
-			if to_convert[-1] in charset:
-				to_convert = to_convert[:-1] + value # start by breaking up any poorly-represented diacritics
-				continue
+	left_phoneme, this_phoneme, next_phoneme = '', '', ''
+	while to_convert or left_phoneme: # go backwards through the word
+		if to_convert:
+			for charset, value in DIACRITIC_GUIDE:
+				if to_convert[-1] in charset:
+					to_convert = to_convert[:-1] + value # start by breaking up any poorly-represented diacritics
+					continue
 
-		if len(to_convert) > 1 and to_convert[-1] in '̩̯': # combine certain combining diacritics
-			to_convert, phoneme = to_convert[:-2], to_convert[-2:]
-		elif len(to_convert) > 2 and to_convert[-2] == '͡': # treat tied characters as one phoneme
-			to_convert, phoneme = to_convert[:-3], to_convert[-1:]
+			if len(to_convert) > 1 and to_convert[-1] in ['̩','̯']: # combine certain combining diacritics
+				to_convert, left_phoneme = to_convert[:-2], to_convert[-2:]
+			elif len(to_convert) > 2 and to_convert[-2] == '͡': # treat tied characters as one phoneme
+				to_convert, left_phoneme = to_convert[:-3], to_convert[-1:]
+			else:
+				to_convert, left_phoneme = to_convert[:-1], to_convert[-1:]
 		else:
-			to_convert, phoneme = to_convert[:-1], to_convert[-1:]
+			left_phoneme = ''
 
-		new_phoneme, dist = reduce_phoneme(phoneme, to_convert[-1:], next_phoneme)
-		changes += dist
-		lsl = new_phoneme + lsl
-		next_phoneme = phoneme
+		if this_phoneme:
+			new_phoneme, dist = reduce_phoneme(this_phoneme, left_phoneme, next_phoneme)
+			changes += dist
+			lsl = new_phoneme + lsl
+
+		next_phoneme = this_phoneme
+		this_phoneme = left_phoneme # move forward (backward)
 
 	while not is_consonant(lsl[-1]): # make sure it ends with a consonant
 		num_vowels = len(re.findall(r'[eaoiu]', lsl))
@@ -326,7 +334,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 
 	logging.info("choosing a word for '{}'".format(english))
 	options, scores = [], []
-	for lang, target_frac in SOURCE_LANGUAGES.items():
+	for _, lang, target_frac in SOURCE_LANGUAGES:
 		try:
 			orthography, broad, narrow = real_words[english][lang]
 		except KeyError:
@@ -354,7 +362,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		score -= 1.0*len(reduced) # prefer shorter words
 		for lang2, _, _, reduced2 in options:
 			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other major languages
-				if c1 == c2:								score += 2*SOURCE_LANGUAGES[lang2]
+				if c1 == c2:								score += 2*DESIRED_FRAC[lang2]
 				elif is_consonant(c1) or is_consonant(c2):	break
 		scores[i] = score
 
@@ -393,6 +401,17 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 		return all_words['which']['ltl'] + source_word + all_words['do']['ltl']
 	else:
 		raise ValueError("The {1} of {0}?".format(source_word, deriv_type))
+
+
+def compile_dictionaries(directory):
+	""" compile the csvs of real words I have in my data folder """
+	all_transcriptions = {}
+	for lang_2, lang_3, _ in SOURCE_LANGUAGES:
+		with open('{}/dict_{}.csv'.format(directory, lang_2), 'r', encoding='utf-8', newline='') as f:
+			for word, orthography, broad, narrow in csv.reader(f):
+				if word not in all_transcriptions:	all_transcriptions[word] = {}
+				all_transcriptions[word][lang_3] = (orthography, broad, narrow)
+	return all_transcriptions
 
 
 def load_dictionary(directory):
@@ -500,8 +519,8 @@ def verify_words(my_words):
 		if not any(w in entry['derivatives'] for w in ['ANTONYM','OPPOSITE','REVERSAL']) and has_antonym(entry):
 			logging.error("Derivatives of '{0}' have antonyms even though '{0}' itself does not".format(entry['eng'][0], entry))
 			errors += 1
-		if entry['partos'].endswith('verb') and 'OBJ' not in entry['eng'][-1]:
-			logging.error("{} sure doesn't _look_ like a verb.".format(entry['eng']))
+		if entry['partos'].endswith('verb') and not ('OBJ' in entry['eng'][-1]) and not ('see' in entry['eng'][-1] and 'OBJ' in entry['eng'][-2]):
+			logging.warning("{} sure doesn't _look_ like a verb.".format(entry['eng']))
 			errors += 1
 
 	if not errors:
@@ -526,7 +545,7 @@ def fill_blanks(my_words, real_words):
 				
 	for entry in my_words.values(): # make up words for anything that needs it
 		if entry['partos'] in ['noun','verb']:
-			if entry['source'].startswith('*') or entry['source'] == '' or entry['source'].split()[0] in SOURCE_LANGUAGES:
+			if entry['source'].startswith('*') or entry['source'] == '' or entry['source'].split()[0] in DESIRED_FRAC.keys(): # it needs it if it has a star, it has no source, or has a source but it's the kind of source the script would put there
 				eng = choose_key(entry)
 				lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies,
 					partos=entry['partos'], has_antonym=has_antonym(entry), all_words=all_ltl_words, open_words=all_open_ltl_words)
@@ -581,10 +600,9 @@ def measure_corpus(directory):
 
 
 if __name__ == '__main__':
+	source_dictionaries = compile_dictionaries('../data')
 	all_words = load_dictionary('words')
 	verify_words(all_words)
-	with open('../data/all_languages.pkl', 'rb') as f:
-		source_dictionaries = pickle.load(f)
 	fill_blanks(all_words, source_dictionaries)
 	logging.info(json.dumps(all_words, indent=2))
 	logging.info("{} roots, {} of which are of European origin".format(
