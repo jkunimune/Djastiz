@@ -554,12 +554,12 @@ def fill_blanks(my_words, real_words):
 				tallies[lang] += 1
 				all_ltl_words.add(my_word.replace('j','i').replace('w','u')) # skip the i/j distinction behind the curtain
 
-	for entry in my_words.values(): # derive the derivatives
-		if ' OF ' in entry['source']:
+	for entry in my_words.values():
+		if ' OF ' in entry['source']: # derive the derivatives
 			d_type, d_gloss = entry['source'].split(' OF ')
 			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words, 'ANTONYM' in entry['derivatives'])
-	for entry in my_words.values(): # then compound the compound words
-		if entry['partos'].startswith('compound'):
+
+		if entry['partos'].startswith('compound') and ' OF ' not in entry['source']: # and then compound the compound words
 			entry['ltl'] = ''
 			if entry['source']:
 				for component in entry['source'].split():
@@ -578,9 +578,9 @@ def save_dictionary(dictionary, directory):
 			rows = pd.read_csv(f, dtype=str, na_filter=False)
 
 		for row_index, row in rows.iterrows():
-			for entry in dictionary.values():
-				if entry['partos'] == partos and entry['Index'] == row_index:
-					row['source'] = entry['source']
+			for entry in dictionary.values(): # look for the entry
+				if entry['partos'][:4] == partos[:4] and entry['Index'] == row_index: # that matches this file and row
+					row['source'] = entry['source'] # and overwrite the latter two columns
 					row['ltl'] = entry['ltl']
 					break
 
