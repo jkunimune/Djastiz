@@ -7,27 +7,27 @@ but,,and even,fenha
 "us all; _first person plural inclusive_; the speaker, the listener, and possibly others {GENITIVE:all our}",,I you,minpun
 us; _first person plural exclusive_; the speaker and others {GENITIVE:our},,I it,mintajn
 y'all; _second person plural_; the listener and others {GENITIVE:y'all's},,you it,puntajn
-other; not; anything but,,be no direct-object,seslislon
+other; not; anything but,,be no direct-object,seslis
 "yes; yes, it isn't",,no yes,
 "no; no, it is",,yes no,
 the Antarctic Ocean; the ocean; the ocean,,Antarctica sea,'antaktika
 the Arctic Ocean; the ocean; the ocean,,be-north sea,hit
 Afro-Eurasia; the landmass {GENITIVE:Afro-Eurasian},,Africa Eurasia,'jewlasia
-Sub-Saharan Africa; the subcontinent {GENITIVE:Sub-Saharan},,be-south Africa,sut
-North Africa; the Magreb; the subcontinent {GENITIVE:North African; Maghrebi},,be-north Africa,hit
-South Asia; India; the subcontinent {GENITIVE:South Asian; Indian},,be-south Eurasia,sut'jewlasia
-Southeast Asia; the subcontinent {GENITIVE:Southeastern Asian},,be-south be-east Eurasia,sutpup'jewlasia
-Eastern Asia; Far East; the Orient; the subcontinent {GENITIVE:Asian; Eastern Asian; Oriental},,be-east Eurasia,pup'jewlasia
-Siberia; the subcontinent {GENITIVE:Siberian},,be-north Eurasia,hit'jewlasia
-Europe; the subcontinent {GENITIVE:European},,be-west Eurasia,mip'jewlasia
-the Middle East; the Near East; West Asia; the subcontinent {GENITIVE:Middle Eastern},,be-south be-west Eurasia,sutmip'jewlasia
-Central Asia; the subcontinent {GENITIVE:Central Asian},,be-inside Eurasia,nes'jewlasia
-the Southern Cone; the subcontinent {GENITIVE:Southern Conal},,be-south South-America,sut'sulamelika
-the Andean States; the subcontinent {GENITIVE:Andean},,be-east South-America,pup'sulamelika
-Latin America; the subcontinent {GENITIVE:Latin American},,be-south America,sut'lasamelikas
-Central America; the subcontinent {GENITIVE:Central American},,be-inside America,nes'lasamelikas
-US+Canada; North America; the subcontinent {GENITIVE:US/Canadian; American; North American},,be-north North-America,hit'notamelika
-Oceania; the subcontinent {GENITIVE:Oceanic},,be-near Australia,tohos'astwajlja
+Sub-Saharan Africa; the region {GENITIVE:Sub-Saharan},,be-south Africa,sut
+North Africa; the Magreb; the region {GENITIVE:North African; Maghrebi},,be-north Africa,hit
+South Asia; India; the region {GENITIVE:South Asian; Indian},,be-south Eurasia,sut'jewlasia
+Southeast Asia; the region {GENITIVE:Southeastern Asian},,be-south be-east Eurasia,sutpup'jewlasia
+Eastern Asia; Far East; the Orient; the region {GENITIVE:Asian; Eastern Asian; Oriental},,be-east Eurasia,pup'jewlasia
+Siberia; the region {GENITIVE:Siberian},,be-north Eurasia,hit'jewlasia
+Europe and the Middle East; western Eurasia; the region {GENITIVE:European},,be-west Eurasia,mip'jewlasia
+the Middle East; the Near East; West Asia; the region {GENITIVE:Middle Eastern},,be-south be-west Eurasia,sutmip'jewlasia
+Central Asia; the region {GENITIVE:Central Asian},,be-inside Eurasia,nes'jewlasia
+the Southern Cone; the region {GENITIVE:Southern Conal},,be-south South-America,sut'sulamelika
+the Andean States; the region {GENITIVE:Andean},,be-east South-America,pup'sulamelika
+Latin America; the region {GENITIVE:Latin American},,be-south America,sut'lasamelikas
+Central America; the region {GENITIVE:Central American},,be-inside America,nes'lasamelikas
+US+Canada; North America; the region {GENITIVE:US/Canadian; American; North American},,be-north North-America,hit'notamelika
+Oceania; the region {GENITIVE:Oceanic},,be-near Australia,tohos'astwajlja
 Sol; The Sun,,person sun,pesonsol
 Luna; The Moon,,person moon,pesonhel
 Earth {GENITIVE:earthling; terran},,person ground,pesonpum
@@ -80,7 +80,7 @@ month,,moon period,hellosljan
 week,,7 period,saflosljan
 day,,sun period,sollosljan
 time of day; hour,,be-small time,laslel
-birthday,,birth date,paskon elkuthamik
+birthday,,birth date,paslelkuthamik
 morning; 00:00–12:00 or ;00–;50,,sun begin time,solkeslel
 daytime; day; 06:00–18:00 or ;25–;75 or whenever the sun is up,,sun time,sollel
 evening; 12:00–00:00 or ;50–;00,,sun end time,solnoslel
@@ -366,7 +366,7 @@ scale; balance,,weight measuring-device,peskestosutiwslatan
 thermometer,,temperature measuring-device,hotljantosutiwslatan
 barometer,,pressure measuring-device,takljantosutiwslatan
 spectrometer,,light length measuring-device,lumlakljantosutiwslatan
-whole; entirety; entire,,be-broken no direct-object,pwosweslislon
+whole; entirety; entire,,be-broken no direct-object,lis
 shirt; top,,torso clothing,tolpolotlam
 sleeve; armband,,arm clothing,pihpolotlam
 pants; shorts; skirt,,leg clothing,twehpolotlam
@@ -491,7 +491,7 @@ hurricane; typhoon,,spin storm,hilascol
 volcano,,be-hot mountain,hotcan
 umbrella,,rain shield,mimkaeslusakkespisnoslun
 address,,location number,lehsesljan
-ecosystem; environment,,life system,pipkon el
+ecosystem; environment,,life system,piplel
 be legally required; be mandated by law; OBJ is required by law to make IND {law} happen,,govern must,lekastewas
 legislate; mandate; pass law; SBJ {legislator; legislature; parliament; congress} legally declares that OBJ must make IND {new law} happen,,govern assign,lekastewaskes
 be illegal; be against the law; OBJ is prohibited by law from making IND {crime; felony; misdemeanor} happen,,govern be-forbidden,lekaslojas
