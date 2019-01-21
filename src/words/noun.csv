@@ -36,7 +36,7 @@ land; landmass {GENITIVE:terrestrial},,OPPOSITE OF ocean,sawan
 mountain {GENITIVE:mountainous; montanical},,epo <monto> [ˈmonto],mon
 valley {GENITIVE:valley},,OPPOSITE OF mountain,pen
 settlement; *city; town; village {GENITIVE:urban; villestial},,ben <শহর> [ɕɔɦɔrɔ],cohol
-country; state; polity {GENITIVE:national},,hin <देश> [deʃ],tef
+country; sovereign; state; polity {GENITIVE:national},,hin <देश> [deʃ],tef
 storm; tempest {GENITIVE:stormy; cyclonical},,ben <ঝড়> [d͡ʑ̤ɔɽɔ],col
 art {GENITIVE:artistic},,ara <فن> [fn],n
 sentence {GENITIVE:sentential},,spa <frase> [ˈfɾase],fah
@@ -53,14 +53,14 @@ torso {GENITIVE:torsal},,mar <धूळ> [d̤uːɭə],tul
 arm {GENITIVE:brachial; appendicular},,cmn <臂> [pi˥˩],pih
 hand {GENITIVE:manual},,epo <mano> [ˈmano],man
 finger; toe {GENITIVE:digital},,cmn <手指> [ʂoʊ̯˧˩˧ʈ͡ʂɨ˧˩˧],cof
-buttocks {GENITIVE:gluteal; posterial},,epo <gutoj> [ˈɡutoj],kutojh
+buttocks; butt; bum {GENITIVE:gluteal; posterial},,epo <gutoj> [ˈɡutoj],kutojh
 leg; appendage {GENITIVE:crural; appendicular},,eng <leg> [lɛɡ],len
 gland; organ; node {GENITIVE:glandular; nodal; bodily; internal},,spa <glándula> [ˈɡlandula],kanul
 vagina; loin {GENITIVE:vaginal},,ben <যোনি> [d͡zon̪i],son
 penis {GENITIVE:penile},,OPPOSITE OF vagina,hen
 chest; breast; boob; nipple {GENITIVE:mammillary},,spa <pecho> [ˈpet͡ʃo],pef
 claw; quill; fingernail; {GENITIVE:ungual; sharp},,cmn <爪> [ʈ͡ʂɑʊ̯˧˩˧],cawh
-scale {GENITIVE:squamous; scaly},*escama,eng <scale> [skeɪ̯ɫ],sel
+scale; squame; flake {GENITIVE:squamous; scaly},*escama,eng <scale> [skeɪ̯ɫ],sel
 feather {GENITIVE:plumal; feathery; feathered},,msa <bulu> [bulu],pul
 egg {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],tan
 seed {GENITIVE:seminal},,epo <semo> [ˈsemo],sem
@@ -148,7 +148,7 @@ earwig; dermapteran,,epo <forfikulo> [forfiˈkulo],fofikul
 worm,,spa <gusano> [ɡuˈsano],kusan
 slug; land slug,,ara <بزاق> [bzaːq],san
 nautilus,,spa <nautilo> [nawˈtilo],nawtil
-anemone,,cmn <海葵> [xaɪ̯˧˩˧kʰweɪ̯˧˥],hajkweh
+sea *anemone,,cmn <海葵> [xaɪ̯˧˩˧kʰweɪ̯˧˥],hajkweh
 jellyfish,,hin <जेलिफ़िश> [d͡ʒelifiʃ],celifif
 mushroom; toadstool,,eng <mushroom> [ˈməʃɹʷuːm],macum
 bacterium,,hin <जीवाणु> [d͡ʒiːvaːɳu],ciwan

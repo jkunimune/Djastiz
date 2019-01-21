@@ -106,9 +106,9 @@ teach; learn; study; beI out; SBJ {teacher; professor; master} teaches IND to OB
 unteach; unlearn; confound; SBJ {unteacher} makes IND {unlearner} unlearn what they thought they knew about OBJ,,CESSATIVE OF know,sapnos
 beI apparent; beI obvious; beI deducable; be smart; IND is apparent to OBJ {fast learner},,POSSIBILITY OF know,sappis
 beI unapparent; beI secret; beI concealed; be stupid; IND is not easily apparent to OBJ {[https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]},,NEGATIVE OF be apparent,sappislis
-be *familiar with; beI famous; beI notorious; IND {familiar to; accquaintance} is familiar to OBJ,,cmn <熟> [ʂu˧˥],cus
+be *familiar with; be accustomed to; beI famous; beI notorious; IND {familiar to; accquaintance} is familiar to OBJ,,cmn <熟> [ʂu˧˥],cus
 be unfamiliar with; be strange; be foreign; beI obscure; beI anonymous; IND {unfamiliar to; stranger} is unfamiliar to OBJ,,ANTONYM OF be familiar with,fis
-familiarise; SBJ {familiariser} makes OBJ become familiar with IND,,INCOHATIVE OF be familiar with,cuskes
+familiarise; get accustomed to; SBJ {familiariser} makes OBJ become familiar with IND,,INCOHATIVE OF be familiar with,cuskes
 unfamiliarise; SBJ {unfamiliariser} makes OBJ become unfamiliar with IND,,CESSATIVE OF be familiar with,cusnos
 be friendly; be nice; be kind; OBJ considers IND {friend} a friend {AMOUNT:friendliness; amity},,ara <ودود> [uːduːd],hutut
 be hostile; be mean; be harsh; OBJ is hostile toward IND {enemy; infamous},,ANTONYM OF be friendly,situt
@@ -158,8 +158,8 @@ be behind; be backward; OBJ {back} has a negative _y_ coordinate from IND's poin
 advance; go forward; SBJ {advancer} makes OBJ move forward from IND's point of view,,INCOHATIVE OF be in front,sajcjekkes
 retreat; go backward; SBJ {retreater} makes OBJ move backward from IND's point of view,,CESSATIVE OF be in front,sajcjeknos
 follow; trail; SBJ makes OBJ {follower; tail} follow IND {followed},,PROGRESSIVE OF be behind,hawcjektawlik
-be right; OBJ {right side} has a positive _x_ coordinate from IND's point of view {AMOUNT:_x_ coordinate},estar *derecha; OBJ {el lado derecho} tiene una coordenada _x_ positiva del punto de vista de IND {AMOUNT:coordenada _x_},spa <derecha> [deˈɾet͡ʃa],telec
-be left; OBJ {left side} has a negative _x_ coordinate from IND's point of view,,ANTONYM OF be right,lolec
+be to the right; OBJ {right side} has a positive _x_ coordinate from IND's point of view {AMOUNT:_x_ coordinate},estar *derecha; OBJ {el lado derecho} tiene una coordenada _x_ positiva del punto de vista de IND {AMOUNT:coordenada _x_},spa <derecha> [deˈɾet͡ʃa],telec
+be to the left; OBJ {left side} has a negative _x_ coordinate from IND's point of view,,ANTONYM OF be right,lolec
 go right; SBJ makes OBJ move right from IND's point of view,,INCOHATIVE OF be right,teleckes
 go left; SBJ makes OBJ move left from IND's point of view,,CESSATIVE OF be right,telecnos
 be wide; be obtuse; be big; be large; OBJ {splotch; blotch} spans a wide angle from the point of view of IND {AMOUNT:angle;angular size},,cmn <宽> [kʰwan˥],kwak
@@ -194,10 +194,10 @@ be dense; beI cramped; be frequent; be common; be tightly packed; be fine; OBJ o
 be sparse; beI spacious; be infrequent; be uncommon; be loosely distributed; be coarse; OBJ is few and far between in IND {space; room; open space},,ANTONYM OF be dense,los
 gather; collect; cluster; densify; SBJ increases the spacial frequency of OBJ,,INCOHATIVE OF be dense,teskes
 spread out; separate; SBJ decreases the spacial frequency of OBJ,,CESSATIVE OF be dense,tesnos
-face; point; OBJ {direction} is oriented in the direction toward IND {target; front},,eng <face> [feɪ̯s],fes
+face; point; confront; OBJ {direction} is oriented in the direction toward IND {target; front},,eng <face> [feɪ̯s],fes
 turn; face; rotate; point; SBJ {pointer} makes OBJ {turner} turn toward IND,,INCOHATIVE OF face,feskes
 turn away; avert; SBJ makes OBJ turn away from IND,,CESSATIVE OF face,fesnos
-"be moral; be right; be good; if OBJ {good deed; moral} happens, it will be morally good {AMOUNT:morality; goodness}",,spa <moral> [moˈɾal],molat
+"be moral; be right; be virtuous; be good; if OBJ {good deed; moral} happens, it will be morally good {AMOUNT:morality; goodness}",,spa <moral> [moˈɾal],molat
 "be evil; be immoral; be wrong; be bad; if OBJ {evil; sin} happens, it will be morally bad",,ANTONYM OF be moral,pelat
 rectify; turn good; SBJ makes OBJ become moral,,INCOHATIVE OF be moral,molatkes
 wrong; turn evil; SBJ makes OBJ become evil,,CESSATIVE OF be moral,molatnos
@@ -309,7 +309,7 @@ be ahead; have progress; OBJ is ahead of IND {AMOUNT:progress},,cmn <先> [ɕjɛ
 be behind; lag; OBJ has fallen behind IND,,ANTONYM OF be ahead,fwok
 pull ahead; progress; make progress; go forth; gain; SBJ pushes OBJ's progress ahead relative to IND,,INCOHATIVE OF be ahead,cjekkes
 fall behind; lose progress; go back; lose; SBJ pulls OBJ's progress backward relative to IND,,CESSATIVE OF be ahead,cjeknos
-"be fast; be quick; be frequent; OBJ progresses, oscillates, or decays quickly {AMOUNT:speed; frequency}",,cmn <快速> [kʰwaɪ̯˥˩su˥˩],kwajs
+"be fast; be quick; be frequent; hurry; OBJ progresses, oscillates, or decays quickly {AMOUNT:speed; frequency}",,cmn <快速> [kʰwaɪ̯˥˩su˥˩],kwajs
 "be slow; be gradual; be periodic; OBJ progresses, oscillates, or decays slowly {AMOUNT:period; time constant}",,ANTONYM OF be fast,njaws
 be heavy; weigh; be massive; OBJ {weight; heavyweight} is heavy {AMOUNT:weight; mass},,spa <pesado> [peˈsaðo],pesat
 be light; OBJ {lightweight} is light,ser ligero; OBJ es ligero,ANTONYM OF be heavy,mosat
@@ -324,7 +324,7 @@ beI easy; beI convenient; IND is easy to OBJ,,ben <সহজ> [s̪ɔɦɔd͡ʑɔ]
 beI difficult; beI hard; beI inconvenient; IND is hard for OBJ,,ANTONYM OF be easy,hehoc
 facilitate; convenience; make easy; SBJ makes IND easier for OBJ,,INCOHATIVE OF be easy,sohockes
 defacilitate; inconvenience; resist; make difficult; SBJ makes IND harder for OBJ,,CESSATIVE OF be easy,sohocnos
-party; throw party; play; hang out; SBJ {partier; host} initiates a social gathering with OBJ {party-goer; attendee} {TIME:party; play-date},,eng <party> [ˈpʰɑɹɾiː],pat
+party; throw party; play; hang out; celebrate; SBJ {partier; host} initiates a social gathering with OBJ {party-goer; attendee} {TIME:party; play-date},,eng <party> [ˈpʰɑɹɾiː],pat
 storytell; SBJ {storyteller} tells OBJ {*story; tale} to IND {audience; listener} {TIME:story-time},,cmn <故事> [ku˥˩ʂɨ˥˩],kuc
 stand; be erect; OBJ {standing} is standing {METHOD:posture},,fil <tumayo> [tumajo],tumajos
 stand up; erect; SBJ {stand} stands up OBJ,,INCOHATIVE OF stand,tumajoskes
@@ -363,9 +363,9 @@ be white; be light; be fair; OBJ reflects all wavelengths of light {AMOUNT:white
 be black; be dark; be tan; OBJ reflects no wavelengths of light,,ANTONYM OF be white,mit
 whiten; lighten; dodge; SBJ lightens OBJ,,INCOHATIVE OF be white,putkes
 blacken; darken; shade; tan; SBJ darkens OBJ,,CESSATIVE OF be white,putnos
-be grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,spa <gris> [ɡɾis],kis
+be gray; be grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,spa <gris> [ɡɾis],kis
 be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,ANTONYM OF be grey,nus
-colour grey; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be grey,kiskes
+colour gray; colour grey; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be grey,kiskes
 colour; SBJ brightens the colours of OBJ,,CESSATIVE OF be grey,kisnos
 be brown; be murkey; OBJ looks brown,,spa <marrón> [maˈron],malok
 brown; colour brown; SBJ colours OBJ brown,,INCOHATIVE OF be brown,malokkes
@@ -373,7 +373,7 @@ be opaque; OBJ absorbs light that it does not reflect {AMOUNT:opacity},,epo <opa
 be transparent; be see-through; OBJ {window} lets unreflected light pass through it,,ANTONYM OF be opaque,sepak
 opaquify; SBJ make OBJ become opaque,,INCOHATIVE OF be opaque,hopakkes
 transparify; SBJ makes OBJ become transparent,,CESSATIVE OF be opaque,hopaknos
-be shiny; be reflective; be smooth; OBJ {mirror} reflects light specularly {AMOUNT:shininess},,jav <mengilap> [meŋilap],menilap
+be shiny; shine; be reflective; be smooth; OBJ {mirror} reflects light specularly {AMOUNT:shininess},,jav <mengilap> [meŋilap],menilap
 be matte; be dull; be rough; OBJ reflects light diffusely,,ANTONYM OF be shiny,ponilap
 shine; polish; SBJ makes OBJ become shiny,,INCOHATIVE OF be shiny,menilapkes
 matte; SBJ makes OBJ become matte,,CESSATIVE OF be shiny,menilapnos
@@ -461,7 +461,7 @@ be foamy; be spongy; OBJ {foam; sponge} is foamy,,cmn <泡沫> [pʰɑʊ̯˥˩mw�
 be consistent; be solid; be smooth; be filled; OBJ is solid all the way through,,ANTONYM OF be foamy,majmwos
 foam; froth; rise; air; SBJ {foamer; frother} fills OBJ with small pockets,,INCOHATIVE OF be foamy,pawmwoskes
 compress; solidify; smooth; coalesce; SBJ {defoamer} removes the small pockets from OBJ,,CESSATIVE OF be foamy,pawmwosnos
-be burnt; OBJ {ash; char} is burnt,,cmn <焦> [t͡ɕjɑʊ̯˥],cjaws
+be burnt; be burned; OBJ {ash; char; charcoal} is burnt,,cmn <焦> [t͡ɕjɑʊ̯˥],cjaws
 burn; SBJ {burner} burns OBJ {fuel},,INCOHATIVE OF be burnt,cjawskes
 be on *fire; be flaming; OBJ {fire; flame} is on fire,,hin <आग> [aːɡ],hak
 ignite; light on fire; SBJ {fire starter} lights OBJ {ignited} on fire,,INCOHATIVE OF be on fire,hakkes
@@ -488,7 +488,7 @@ be soil; be dirt; be earth; OBJ is made out of dirt,,pan <ਮਿੱਟੀ> [mɪ�
 disintigrate; decompose; turn to dirt; SBJ turns OBJ to dirt,,INCOHATIVE OF be soil,mitkes
 be metal; be metallic; OBJ is made out of metal,,hin <धातु> [d̤aːtu],tat
 metallicise; SBJ turns OBJ into metal,,INCOHATIVE OF be metal,tatkes
-be crystal; OBJ is made out of crystal,,swa <kioo> [kioo],kios
+be crystal; OBJ {jewel; gem} is made out of crystal,,swa <kioo> [kioo],kios
 crystalise; SBJ turns OBJ into crystal,,INCOHATIVE OF be crystal,kioskes
 be charged; be electrified; OBJ {battery} has electric energy stored {AMOUNT:electric potential; voltage; *electricity},,hin <बिजली> [bid͡ʒliː],pic
 charge; electrify; SBJ {charger} imbues OBJ with electric energy,,INCOHATIVE OF be charged,pickes
@@ -502,7 +502,7 @@ ride; transport; SBJ {passenger} rides on OBJ {vehicle},,epo <rajdi> [ˈrajdi],l
 play; OBJ {player} is playing IND {game; sport},,spa <juega> [ˈxweɣa],huk
 wait; OBJ {in wait} is waiting for IND,,eng <wait> [weɪ̯t],hwet
 act; fill; stand in; OBJ {roleplayer; filler} fills the role IND {role},,ben <কাজ> [kad͡ʑ],kac
-be different; differ; OBJ is different from IND,,cmn <不同> [pu˥˩tʰʊ̯ŋ˧˥],putuk
+differ; be *different; OBJ is different from IND,,cmn <不同> [pu˥˩tʰʊ̯ŋ˧˥],putuk
 be similar; be the same; OBJ is similar to IND,,ANTONYM OF be different,mituk
 diverge; make different; SBJ makes OBJ become different from IND,,INCOHATIVE OF be different,putukkes
 converge; make similar; resolve; SBJ makes OBJ become smilar to IND,,CESSATIVE OF be different,putuknos

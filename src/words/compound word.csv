@@ -26,7 +26,7 @@ the Southern Cone; the region {GENITIVE:Southern Conal},,be-south South-America,
 the Andean States; the region {GENITIVE:Andean},,be-east South-America,pup'sulamelika
 Latin America; the region {GENITIVE:Latin American},,be-south America,sut'lasamelikas
 Central America; the region {GENITIVE:Central American},,be-inside America,nes'lasamelikas
-US+Canada; North America; the region {GENITIVE:US/Canadian; American; North American},,be-north North-America,hit'notamelika
+US and Canada; North America; the region {GENITIVE:US/Canadian; American; North American},,be-north North-America,hit'notamelika
 Oceania; the region {GENITIVE:Oceanic},,be-near Australia,tohos'astwajlja
 Sol; The Sun,,person sun,taohsun
 Luna; The Moon,,person moon,taohhin
@@ -39,6 +39,13 @@ Saturn; the planet {GENITIVE:Saturnic},,circle ground,sikutlontimjen
 Uranus; the planet {GENITIVE:Uranic},,sky ground,lumjentimjen
 Venus; the planet {GENITIVE:Venusian},,be-loud ground,fusastimjen
 Milky Way; the galaxy {GENITIVE:Milky},,person galaxy,taoh'kalasias
+Monday,,moon day,
+Tuesday,,be-red day,
+Wednesday,,be-fast day,
+Thursday,,be-big day,
+Friday,,be-loud day,
+Saturday,,circle day,
+Sunday,,sun day,
 communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ {interlocutor} about IND {topic; passage} {TIME:conversation; discourse},,say say,cwoscwos
 declare; say; tell; answer; give information; SBJ {lecturer; professor} tells IND {tellee} that OBJ {fact; opinion; notion; sentence} is true; give information,,. say,sacwos
 ask; interrogate; SBJ {curious; interrogator} asks IND {questionee} OBJ {question},,? say,cucwos
@@ -59,11 +66,12 @@ be international; be global; OBJ is international,,much national,kehtefim
 conlang; constructed language,,design language,cisseskescwosliel
 auxlang; international auxiliary language,,be-international language,kehtefimcwosliel
 artlang; artistic language,,art language,ncwosliel
-be right; SBJ {right} is right in saying OBJ {truth} to IND,,yes say,tuscwos
 be wrong; be incorrect; SBJ {wrong} is incorrect in saying OBJ {falsehood; lie} to IND,,no say,liscwos
 succeed; SBJ succeeds at making OBJ happen,,try do,cistuskes
-"tell the truth; be honest; SBJ expresses OBJ {the truth; true}, which they think to be true {AMOUNT:honesty; integrity}",,yes try,tuscis
-"lie; be dishonest; SBJ expresses OBJ {lie; feint}, which they think to be false",,no try,liscis
+be correct; be right; OBJ correctly thinks IND {truth} to be true,,yes think,
+be wrong; be incorrect; OBJ falsely thinks IND {falsehood} to be true,,no think,
+"tell the truth; be honest; SBJ expresses OBJ {the truth; truth}, which they think to be true {AMOUNT:honesty; integrity}",,yes say,tuscis
+"lie; be dishonest; SBJ expresses OBJ {lie; feint; falsehood}, which they think to be false",,no say,liscis
 trust; find trustworthy; OBJ trusts IND,,tell-the-truth believe,tuscispap
 mistrust; find untrustworthy; OBJ does not trust IND,,lie believe,limajospap
 achieve; accomplish; complete; SBJ makes OBJ {achiever} achieve IND {accomplished; achieved; completed},,all progress,tuncjekljan
@@ -481,8 +489,8 @@ vegetarian; something that does not eat meat,,0 animal eater,linhiuannjamjaclun
 carnivore; something that eats meat,,animal eater,hiuannjamjaclun
 herbivore; something that eats plants,,plant eater,cannjamjaclun
 be timely; be on time; OBJ is at the correct time,,must be-early,tewistot
-be polite; SBJ is polite to OBJ,,culture be-friendly,kutulhutut
-be-rude; SBJ is rude to OBJ,,culture be-hostile,kutulsitut
+be polite; act appropriately; SBJ is polite to OBJ,,culture be-friendly,kutulhutut
+be rude; act inappropriately; SBJ is rude to OBJ,,culture be-hostile,kutulsitut
 religion,,god method,tiohliel
 sect,,religion piece,tiohlielpaklon
 ripple; wave; waves ripple through OBJ {TIME:wave},,be-fluid be-rhythmic,helittumut
@@ -617,6 +625,7 @@ be clumsy; OBJ is clumsy,,hand be-inept,manhop
 be charismatic; OBJ is charismatic,,be-social be-skillful,sosiassep
 be awkward; OBJ is habitually awkward with people,,be-social be-inept,sosiashop
 be in prison; be incarcerated; OBJ {prisoner} is imprisoned by IND {warden} {LOCATION:prison; jail},,must be-in-control,tewiskunis
+be at large; be free; be out of prison; OBJ is not imprisoned by IND,,NEGATIVE OF be in prison
 imprison; throw in jail; SBJ imprisons OBJ,,INCOHATIVE OF be in prison,tewiskuniskes
 release from prison; set free; SBJ releases OBJ from prison,,CESSATIVE OF be in prison,tewiskunisnos
 be lit; be illuminated; be bright; OBJ is brightly lit,,light be-loud,lumfusas
@@ -665,3 +674,5 @@ go shopping; OBJ is going shopping,,much sell,kehpec
 welcome!,,please enter,pananeskes
 phrase,,word group,suhpaklam
 emoticon; emoji,,feel image,setteklam
+be used to; be comfortable with,,,
+spiral,,,
