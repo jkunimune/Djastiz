@@ -379,7 +379,7 @@ def read(orthography, broad, lang):
 		epitranslated = EPITRANSLATORS[lang].transliterate(orthography.replace('&#39;',"'")) # TODO: epitran kind of sucks at Bengali... maybe I should do it myself
 		if any([symb in epitranslated for symb in ['ऑ','ॉ','ऍ','ॅ']]): # I'm pretty sure this means it just didn't know how to say that in that language
 			return '*', '*'
-		return (epitranslated.replace('g','ɡ').replace('ঁ','̃').replace('ਂ','̃').replace('ੱ','ː').replace('ঃ','h').replace('ɔ্','').replace('š','ʃ').replace('Ṽ','ã').replace('য','d͡ʒɔ').replace("'",'̩'),)*2
+		return (epitranslated.replace('g','ɡ').replace('ঁ','̃').replace('ਂ','̃').replace('ੱ','ː').replace('ঃ','h').replace('ɔ্','').replace('š','ʃ').replace('Ṽ','ã').replace("'",'̩'),)*2
 
 
 if __name__ == '__main__':

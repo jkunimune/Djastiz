@@ -74,228 +74,228 @@ eng,spa,source,ltl
 "The Gulf of Mexico; the sea",,,
 "The Mediterranean Sea; the sea",,lat <Mare Mediterrāneum> [ˈmarɛ mɛdɪtɛrˈraːneũ],'metitelanjum
 "The South China Sea",,,
-"America; The Americas; the landmass {GENITIVE:American}",,spa <Las Américas> [las aˈmeɾikas],'lasamelikas
-"Africa; the continent {GENITIVE:African}",,,
-"North America; the continent {GENITIVE:North American}",,eng <North America> [nɔɹθ əˈmɛɹɪkə],'notamelika
-"South America; the continent {GENITIVE:South American}",,por <América do Sul> [aˈmɛɾika du sul],'sulamelika
-"Antarctica; the landmass; the continent {GENITIVE:Antarctic}",,eng <Antarctica> [ænˈtɑːktɪkə],'antaktika
-"Eurasia; the continent {GENITIVE:Eurasian}",,rus <Евразия> [jɪˈvrazʲɪjə],'jewlasia
-"Australasia; the region {GENITIVE:Australasian}",,fra <Australasie> [ostʁaˈlazi],'astwalasi
-"Europe; the region {GENITIVE:European}",,grc <Εὐρώπη> [ēwrɔ́ːpɛ̄ː],'ewlope
-"Maghreb; the region {GENITIVE:Maghreb; Maghrebi}",,ara <مغرب> [maɣrib],'mahlip
-"Mashriq; the region {GENITIVE:Mashriq; Mashriqi}",,ara <مـشْـرِق> [maʃriq],'maclik
-"Melanesia; the region {GENITIVE:Melanesian}",,fra <Mélanésie> [ˈmelɐnezi],'melanesi
-"Micronesia; the region {GENITIVE:Micronesian}",,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
-"Polynesia; the region {GENITIVE:Polynesian}",,fra <Polynésie> [ˈpolinezi],'polinesi
-"Afghanistan; the country {GENITIVE:Afghan}",,prs <افغانستان‬> [avɣɒnestɒn],'afhaniston
-"South Africa; the country {GENITIVE:South African}",,xho <Mzansi> [m̩z̤ansi],'musansi
-"Albania; the country {GENITIVE:Albanian}",,alb <Shqipëri> [ʃcipəɾi],'ickipali
-"Algeria; the country {GENITIVE:Algerian}",,ara <جزائر‎> [d͡ʒazaːʔir],'casail
-"Andorra; the country {GENITIVE:Andorran}",,cat <Andorra> [ənˈdorə],'antola
-"Angola; the country {GENITIVE:Angolan}",,por <Angola> [ɐ̃ˈɡɔlɐ],'ankola
-"Antigua and Barbuda; the country {GENITIVE:Antiguan}",,eng <Antigua and Barbuda> [æntiːɡə ən bɑːbjuːdə],'antikapapjuta
-"Argentina; the country {GENITIVE:Argentinean; Argentine}",,spa <Argentina> [aɾxenˈtina],alhentina
-"Armenia; the country {GENITIVE:Armenian}",,hye <Հայաստան> [hɑjɑsˈtɑn],'hajastan
-"Australia; the landmass; the continent; the country {GENITIVE:Australian}",,eng <Australia> [əˈstɹʷæɪ̯ljə],'astwajlja
-"Austria; the country {GENITIVE:Austrian}",,deu <Österreich> [ˈøːstɐraɪç],'ewstahaic
-"Azerbaijan; the country {GENITIVE:Azerbaijani}",,aze <Azərbaycan> [ɑːzæɾbɑjˈd͡ʒɑn],asalpajcan
-"The Bahamas; the country {GENITIVE:Bahamian}",,eng <Bahamas> [bəˈhɑːməz],'pahamas
-"Bahrain; the country {GENITIVE:Bahraini}",,ara <بحرين‎> [baħrajn],'pahlajn
-"Bangladesh; the country {GENITIVE:Bangladeshi}",,ben <বাংলাদেশ> [ˈbaŋlad̪eʃ],'panlatec
-"Barbados; the country {GENITIVE:Barbadian}",,bjs <Barbados> [bɑːɹˈbeɪ̯dɒs],'papejtos
-"Belarus; the country {GENITIVE:Belarusian}",,bel <Biełaruś> [bʲɛlarusʲ],'pjelalus
-"Belgium; the country {GENITIVE:Belgian}",,nld <België> [bɛlɣiə],'pelkia
-"Belize; the country {GENITIVE:Belizean}",,eng <Belize> [bəˈliːz],'palis
-"Benin; the country {GENITIVE:Beninese; Beninois}",,fra <Bénin> [benɛ̃],'penen
-"Bhutan; the country {GENITIVE:Bhutanese}",,dzo <འབྲུག་ཡུལ་> [ʈ͡ʂuk˩˧ˀjyː˥],'cukju
-"Bolivia; the country {GENITIVE:Bolivian}",,spa <Bolivia> [boˈliβja],'polipja
-"Bosnia and Herzegovina; the country {GENITIVE:Bosnian}",,hrv <Bosna> [bosna],'posna
-"Botswana; the country {GENITIVE:Botswanan}",,tsn <Botswana> [bʊt͡swana],'putswana
-"Brazil; the country {GENITIVE:Brazilian}",,por <Brasil> [bɾaˈziw],'palasiw
-"Brunei; the country {GENITIVE:Bruneian}",,kxd <بروني> [brunai],'pulunai
-"Bulgaria; the country {GENITIVE:Bulgarian}",,bul <България> [bɐɫˈɡarijɐ],'palkalia
-"Burkina Faso; the country {GENITIVE:Burkinabé}",,fra <Burkina Faso> [buʁkina faso],'puhkinafaso
-"Burundi; the country {GENITIVE:Burundian}",,run <Burundi> [buˈɾundi],'pulunti
-"Cambodia; the country {GENITIVE:Cambodian}",,khm <TODO> [kɑmpuciə],'kampukia
-"Cameroon; the country {GENITIVE:Cameroonian}",,fra <TODO> [kamʁun],'kamhun
-"Canada; the country {GENITIVE:Canadian}",,eng <Canada> [ˈkænədə],'kanata
-"Cape Verde; the country {GENITIVE:Cape Verdean}",,por <TODO> [kaβu veɾðɨ],'kapufelti
-"Central African Republic; the country {GENITIVE:Central African}",,fra <TODO> [sɑ̃tʁafʁik],'sanhafhik
-"Chad; the country {GENITIVE:Chadian}",,fra <Tshad> [tʃad],'cat
-"Chile; the country {GENITIVE:Chilean}",,spa <Chile> [ˈt͡ʃile],'cile
-"China; the country {GENITIVE:Chinese}",,cmn <中国> [ʈ͡ʂʊŋ˥kwɔ˧˥],'cunkwo
-"Colombia; the country {GENITIVE:Columbian}",,spa <Colombia> [koˈlombja],'kolompja
-"Comoros; the country {GENITIVE:Comoran}",,zdj <TODO> [komori],'komoli
-"Democratic Republic of the Congo; the country {GENITIVE:Congolese}",,fra <TODO> [kɔ̃ɡo kɛ̃ʃaza],'konkokencasa
-"Republic of the Congo; the country {GENITIVE:Congolese}",,fra <TODO> [kɔ̃ɡo bʁazavil],'konkophasafil
-"Cook Islands; the country {GENITIVE:Cook Island; Cook Islander}",,eng <Cook Islands> [ˈkʊk ˈaɪləndz],'kukajlan
-"Costa Rica; the country {GENITIVE:Costa Rican}",,spa <Costa Rica> [kosta rika],'kostalika
-"Croatia; the country {GENITIVE:Croatian}",,hrv <TODO> [xr̩ʋaːt͡skaː],'helwataska
-"Cuba; the country {GENITIVE:Cuban}",,spa <Cuba> [kuβa],'kupa
-"Cyprus; the country {GENITIVE:Cypriot}",,ell <TODO> [kipros],'kiplos
-"Czech Republic; the country {GENITIVE:Czech}",,ces <TODO> [t͡ʃɛsko],'cesko
-"Denmark; the country {GENITIVE:Danish}",,dan <TODO> [danmɑɡ],'tanmak
-"Djibouti; the country {GENITIVE:Djiboutian}",,som <TODO> [d͡ʒæbuːt],'caputi
-"Dominica; the country {GENITIVE:Dominican}",,eng <Dominica> [dɒmɪˈniːkə],'tominika
-"Dominican Republic; the country {GENITIVE:Dominican; Quisqueyan}",,spa <República Dominicana> [reˈpuβlika ðominiˈkana],'lepuplikatominikana
-"Ecuador; the country {GENITIVE:Ecuadorian}",,spa <Écuador> [ˈekwaðoɾ],'ekwatol
-"Egypt; the country {GENITIVE:Egyptian}",,ara <TODO> [masˁɾ],'masal
-"England; the country {GENITIVE:English}",,eng <England> [ˈɪŋɡlənd],'inkelan
-"Equatorial Guinea; the country {GENITIVE:Equatorial Guinean; Equatoguinean}",,spa <Guinea Ecuatorial?> [ginea ekwatoɾjal],'kinjaekwatoljal
-"Eritrea; the country {GENITIVE:Eritrean}",,tir <TODO> [ertra],'eltala
-"Estonia; the country {GENITIVE:Estonian}",,est <TODO> [eːsti],'esti
-"Eswatini; Swaziland; the country {GENITIVE:Swazi; Swati}",,ssw <TODO> [ɛswa̯tˈiːni],'eswatini
-"Ethiopia; the country {GENITIVE:Ethiopian}",,amh <TODO> [ʔitjoppʼja],'itjopja
-"Fiji; the country {GENITIVE:Fijian; Fijindian}",,fij <TODO> [ˈβit͡ʃi],fici
-"Finland; the country {GENITIVE:Finnish}",,fin <TODO> [suo̯mi],'suomi
-"France; the country {GENITIVE:French}",,fra <France> [fʁɑ̃s],'fahansa
-"Gabon; the country {GENITIVE:Gabonese}",,fra <TODO> [ɡabɔ̃],'kapon
-"The Gambia; the country {GENITIVE:Gambian}",,eng <Gambia> [ˈɡæmbiə],'kampia
-"Georgia; the country {GENITIVE:Georgian}",,kat <TODO> [sɑkʰɑrtʰvɛlɔ],'sakaltafelo
-"Germany; the country {GENITIVE:German}",,deu <Deutschland> [ˈdɔʏ̯t͡ʃlant],'tojclan
-"Ghana; the country {GENITIVE:Ghanan}",,aka <TODO> [gaːnæ],'kana
-"Greece; the country {GENITIVE:Greek; Grecian; Hellenic}",,ell <TODO> [elaða],'elasa
-"Greenland; the country {GENITIVE:Greenlandic}",,kal <TODO> [kalaːɬit nunaːt],'kalaslitnunat
-"Grenada; the country {GENITIVE:Grenadan}",,eng <Grenada> [ɡɹʷəˈneɪ̯də],'kwanejta
-"Guatemala; the country {GENITIVE:Guatemalan}",,spa <Guatemala> [gwateˈmala],'kwatemala
-"Guinea; the country {GENITIVE:Guinean}",,ful <TODO> [gine],'kine
-"Guinea-Bissau; the country {GENITIVE:Bissau-Guinean}",,pov <TODO> [ɡinɛ bisaw],'kinepisaw
-"Guyana; the country {GENITIVE:Guyanese}",,eng <Guyana> [ɡaɪ̯ˈɑːnə],'kajana
-"Haiti; the country {GENITIVE:Haitian}",,hat <TODO> [ajiti],'ajti
-"Honduras; the country {GENITIVE:Honduran}",,spa <Honduras> [onˈduɾas],'ontulas
-"Hungary; the country {GENITIVE:Hungarian}",,hun <TODO> [mɒɟɒrorsaːɡ],'mokololsak
-"Iceland; the country {GENITIVE:Icelandic}",,isl <TODO> [ˈistlant],'istilan
-"India; the country {GENITIVE:Indian}",,hin <TODO> [bʱaːrət̪],'palat
-"Indonesia; the country {GENITIVE:Indonesian}",,ind <TODO> [ɪndonesia],'intonesia
-"Iran; the country {GENITIVE:Iranian}",,fas <TODO> [ʔiːɾɒːn],'ilan
-"Iraq; the country {GENITIVE:Iraqi}",,ara <TODO> [ʕiraːq],'ilak
-"Ireland; the country {GENITIVE:Irish}",,eng <Ireland> [ˈaɪ̯əɹlənd],'ajalan
-"Northern Ireland; the country {GENITIVE:Northern Irish}",,gle <TODO> [ˈt̪ˠuəʃcəɾˠt̪ˠ ˈeːɾʲən̪ˠ],'tuackjaltaeljan
-"Israel; the country {GENITIVE:Israeli}",,heb <TODO> [jisʁael],'jishael
-"Italy; the country {GENITIVE:Italian}",,ita <Italia> [itaːlja],'italja
-"Ivory Coast; the country {GENITIVE:Ivorian}",,fra <Côte d'Ivoire> [kot divwaʁ],'kotifwah
-"Jamaica; the country {GENITIVE:Jamaican}",,jam <TODO> [d͡ʒʊmiɛka],'cumieka
-"Japan; the country {GENITIVE:Japanese}",,jpn <日本> [ɲihoɴ],'nihon
-"Jordan; the country {GENITIVE:Jordanian}",,ara <TODO> [ʔurdunn],'ultun
-"Kazakhstan; the country {GENITIVE:Kazakh}",,kaz <TODO> [qɑzɑqstɑn],'kasakastan
-"Kenya; the country {GENITIVE:Kenyan}",,swa <Kenya> [kɛɲɑ],'kenja
-"Kiribati; the country {GENITIVE:I-Kiribati}",,gil <TODO> [kiɾipas],'kilipas
-"North Korea; the country {GENITIVE:North Korean}",,kor <TODO> [pukt͡ɕosʰʌn],'pukcosan
-"South Korea; the country {GENITIVE:South Korean}",,kor <TODO> [namɦan],'namhan
-"Kuwait; the country {GENITIVE:Kuwaiti}",,ara <TODO> [kuwajt],'kuajt
-"Kyrgyzstan; the country {GENITIVE:Kyrgyz; Kyrgyzstani; Kirgiz; Kirghiz}",,kir <TODO> [qɯrʁɯsstɑn],'kulhustan
-"Laos; the country {GENITIVE:Laotian}",,lao <TODO> [laːw˦˥],'law
-"Latvia; the country {GENITIVE:Latvian}",,lav <TODO> [latvia],'latfia
-"Lebanon; the country {GENITIVE:Lebanese}",,ara <TODO> [lubnaːn],'lupnan
-"Lesotho; the country {GENITIVE:Mosotho; Basotho}",,sot <Lesotho> [lɪsʊtʰʊ],'lisutu
-"Liberia; the country {GENITIVE:Liberian}",,eng <Liberia> [laɪ̯ˈbɪɹʷiə],'lajpiwia
-"Libya; the country {GENITIVE:Libyan}",,ara <TODO> [liːbija],'lipia
-"Liechtenstein; the country {GENITIVE:Liechtensteiner}",,deu <Liechtenstein> [lɪçtn̩ʃtaɪ̯n],'lictenectajn
-"Lithuania; the country {GENITIVE:Lithuanian}",,lit <TODO> [lʲɪɛtʊˈvɐ],'ljietufa
-"Luxembourg; the country {GENITIVE:Luxembougish; Luxembourgian}",,ltz <Lëtzebuerg> [lət͡səbuːəɕ],'latsapuac
-"The Former Yugoslav Republic of Macedonia; the country {GENITIVE:Macedonian}",,mkd <Македонија> [makɛdɔnija],'maketonija
-"Madagascar; the country {GENITIVE:Madagascan}",,mlf <TODO> [madaɡaskʲarə̥],'matakaskjal
-"Malawi; the country {GENITIVE:Malawian}",,nya <TODO> [malaβi],'malawi
-"Malaysia; the country {GENITIVE:Malaysian}",,msa <TODO> [məlejsiə],'malejsia
-"Maldives; the country {GENITIVE:Maldive}",,div <TODO> [diʋehirəːd͡ʒe],'tiwehilace
-"Mali; the country {GENITIVE:Malian; Malinese}",,bam <TODO> [mali],'mali
-"Malta; the country {GENITIVE:Maltan}",,mlt <TODO> [mɐltɐ],'malta
-"Marshall Islands; the country {GENITIVE:Marshall Island; Marshall Islander}",,mah <TODO> [mˠɑzʲɛʌ̯ɫ],'masjel
-"Mauritania; the country {GENITIVE:Mauritanian}",,ara <TODO> [muːriːtaːnijaː],'mulitania
-"Mauritius; the country {GENITIVE:Mauritian}",,mfe <TODO> [moʁis],'mohis
-"Mexico; the country {GENITIVE:Mexican}",,spa <México> [ˈmexiko],'mehiko
-"Micronesia; the country {GENITIVE:Micronesian}",,eng <Micronesia> [maɪ̯kɹʷoʊ̯ˈniːʒə],'majkwonica
-"Moldova; the country {GENITIVE:Moldovan}",,ron <TODO> [moldova],'moltofa
-"Monaco; the country {GENITIVE:Monacan; Monégasque}",,fra <Monaco> [mɔnako],'monako
-"Mongolia; the country {GENITIVE:Mongolian; Mongol}",,mon <TODO> [mɔŋɢɔɮ ʊɮs],'monkosluslus
-"Montenegro; the country {GENITIVE:Montenegrin}",,cnr <TODO> [t͡sr̩ːnaː ɡɔra],'selnakola
-"Morocco; the country {GENITIVE:Moroccan}",,ara <TODO> [maʁrib],'mahlip
-"Mozambique; the country {GENITIVE:Mozambican}",,por <TODO> [musɐ̃bikɨ],'musanpiki
-"Myanmar; Burma; the country {GENITIVE:Myanma; Burmese}",,mya <TODO> [mjəma˩],'mjama
-"Namibia; the country {GENITIVE:Namibian}",,ndo <TODO> [naˈmibia],'namipia
-"Nauru; the country {GENITIVE:Nauruan}",,nau <TODO> [nɑːuːruː],'naulu
-"Nepal; the country {GENITIVE:Nepalese; Nepali}",,nep <TODO> [nepal],'nepal
-"Netherlands; the country {GENITIVE:Dutch; Netherlandic}",,nld <TODO> [neːdərlɑnt],'netalant
-"New Zealand; the country {GENITIVE:New Zealandic}",,eng <New Zealand> [njʉː ˈziːlɘnd],'njusilan
-"Nicaragua; the country {GENITIVE:Nicaraguan}",,spa <Nicaragua> [nikaˈɾaɣwa],'nikalakwa
-"Niger; the country {GENITIVE:Nigerien}",,fra <Niger> [niʒɛʁ],'niceh
-"Nigeria; the country {GENITIVE:Nigerian}",,eng <Nigeria> [naɪ̯ˈd͡ʒɪɹʷiə],'najcilia
-"Niue; the country {GENITIVE:Niuean}",,niu <TODO> [niweː],'niwe
-"Norway; the country {GENITIVE:Norwegian}",,nor <TODO> [noɾɡə],'nolka
-"Oman; the country {GENITIVE:Omani}",,ara <TODO> [ʕʊmaːn],'uman
-"Pakistan; the country {GENITIVE:Pakistani}",,pan <TODO> [pɑːkɪst̪ɑːn],'pakistan
-"Palau; the country {GENITIVE:Palauan}",,eng <Palau> [pəˈlaʊ̯],'palaw
-"Panama; the country {GENITIVE:Panaman}",,spa <Panamá> [panaˈma],'panama
-"Papua New Guinea; the country {GENITIVE:Papua New Guinean; Papuan}",,tpi <Papua Niugini> [papua njugini],'papuanjukini
-"Paraguay; the country {GENITIVE:Paraguayan}",,spa <Paraguay> [paɾaˈɣwaj],'palakwaj
-"Peru; the country {GENITIVE:Peruvian}",,spa <Perú> [peˈɾu],'pelu
-"Philippines; the country {GENITIVE:Filipino; Philippine}",,tgl <Pilipinas> [pɪlɪpinɐs],'pilipinas
-"Poland; the country {GENITIVE:Polish}",,pol <TODO> [pɔlska],'poloska
-"Portugal; the country {GENITIVE:Portuguese}",,por <TODO> [puɾtuɣaɫ],'pultukal
-"Qatar; the country {GENITIVE:Qatari}",,ara <TODO> [qɑtˤɑr],'katal
-"Romania; the country {GENITIVE:Romanian}",,ron <TODO> [romɨˈnia],'lominia
-"Russia; the country {GENITIVE:Russian}",,rus <Росси́я> [rɐˈsʲijə],'lasia
-"Rwanda; the country {GENITIVE:Rwandan}",,kin <TODO> [uɾɡwanda],'ulkwanta
-"Saint Kitts and Nevis; the country {GENITIVE:Kittitian; Nevisian}",,aig <TODO> [sɛnt kits ɑːn nivis],'senkitsanifis
-"Saint Lucia; the country {GENITIVE:Saint Lucian}",,acf <TODO> [sɛnt lisi],'senlisi
-"Saint Vincent and the Grenadines; the country {GENITIVE:Saint Vincentian; Vincentian}",,eng <Saint Vincent> [seɪ̯nt ˈvɪnsənt],'sejnfinsan
-"El Salvador; the country {GENITIVE:Salvadoran}",,spa <El Salvador> [el salβaˈðor],'elsalpatol
-"Samoa; the country {GENITIVE:Samoan}",,smo <Sāmoa> [saːmoa],'samoa
-"San Marino; the country {GENITIVE:Sammarinese}",,ita <TODO> [san mariːno],'sanmalino
-"São Tomé and Príncipe; the country {GENITIVE:São Toméan}",,por <TODO> [sɐ̃w tuˈmɛ i ˈpɾĩsɨpɨ],'sawntumeiplinsipi
-"Saudi Arabia; the country {GENITIVE:Saudi; Saudi Arabian}",,ara <TODO> [assuʕuːdijja],'asutija
-"Scotland; the country {GENITIVE:Scottish}",,gla <Alba> [ˈal̪ˠapə],'alapa
-"Senegal; the country {GENITIVE:Senegalese}",,wol <TODO> [sɛnɛgaːl],'senekal
-"Serbia; the country {GENITIVE:Serbian}",,hrv <Србија> [sř̩bija],'salpija
-"Seychelles; the country {GENITIVE:Seychellois}",,crs <TODO> [sesɛl],'sesel
-"Sierra Leone; the country {GENITIVE:Sierra Leonean}",,kri <TODO> [salon],'salon
-"Singapore; the country {GENITIVE:Singaporean; Singapore}",,eng <Singapore> [sɪŋəpɔː],'sinapo
-"Slovakia; the country {GENITIVE:Slovak}",,slk <TODO> [sloʋensko],'solowenesko
-"Slovenia; the country {GENITIVE:Slovenian; Slovene}",,slv <TODO> [slɔˈʋeːnija],'solowenia
-"Solomon Islands; the country {GENITIVE:Solomon Island; Solomon Islander}",,pis <TODO> [solomon],'solomon
-"Somalia; the country {GENITIVE:Somalian}",,som <TODO> [sɔːmɑːlijɑ],'somalia
-"Spain; the country {GENITIVE:Spanish}",,spa <España> [espaɲa],'espanja
-"Sri Lanka; the country {GENITIVE:Sri Lankan}",,sin <TODO> [sriː laŋkaːʋa],'sililankawa
-"Sudan; the country {GENITIVE:Sudanese}",,ara <TODO> [assuːdaːn],'asutan
-"South Sudan; the country {GENITIVE:South Sudanese}",,din <TODO> [paguot t̪uda̤n],'pakuotutan
-"Suriname; the country {GENITIVE:Nurinamese}",,nld <TODO> [ˌsyːriˈnaːmə],'sulinama
-"Sweden; the country {GENITIVE:Swedish}",,swe <TODO> [ˈsværjə],'swalja
-"Switzerland; the country {GENITIVE:Swiss}",,deu <TODO> [ʃvaɪ̯ts],'cwajs
-"Syria; the country {GENITIVE:Syrian}",,ara <TODO> [suːrijaː],'sulia
-"Tajikistan; the country {GENITIVE:Tajk}",,tgk <TODO> [tɔːd͡ʒikistɔːn],'tocikiston
-"Tanzania; the country {GENITIVE:Tanzanian}",,swa <TODO> [tɑnzɑˈniɑ],'tansania
-"Thailand; the country {GENITIVE:Thai}",,tha <TODO> [tʰaj˧],'taj
-"East Timor; the country {GENITIVE:Timorese}",,tet <TODO> [timor lorosaʔe],'timololosae
-"Togo; the country {GENITIVE:Togolese}",,fra <TODO> [togo],'toko
-"Tonga; the country {GENITIVE:Tongan}",,ton <TODO> [toŋa],'tona
-"Trinidad and Tobago; the country {GENITIVE:Trinidadian; Tobagonian}",,eng <Trinidad Tobago> [ˈtɹʷɪnɪdæd təˈbeɪ̯ɡəʊ̯],'twinitatapejkow
-"Tunisia; the country {GENITIVE:Tunisian}",,ara <TODO> [tuːnis],'tunis
-"Turkey; the country {GENITIVE:Turkish}",,tur <TODO> [tyɾcije],'tulkie
-"Turkmenistan; the country {GENITIVE:Turkmen}",,tuk <TODO> [tyɾkmeniθtɑn],'tukmenistan
-"Tuvalu; the country {GENITIVE:Tuvaluan}",,tvl <TODO> [tuːvalu],'tufalu
-"Uganda; the country {GENITIVE:Ugandan}",,lug <TODO> [jugaːnda],'jukanta
-"Ukraine; the country {GENITIVE:Ukranian}",,ukr <TODO> [ukrɑjinɑ],'uklajina
-"United Arab Emirates; the country {GENITIVE:Emirati; Emirian; Emiri}",,ara <TODO> [ʔimaːraːt],'imalat
-"United Kingdom; the country {GENITIVE:British; UK}",,eng <U.K.> [juː kʰeɪ̯],'jukej
-"United States; the country {GENITIVE:American; US}",,eng <U.S.A.> [juː ɛs eɪ̯],'juesej
-"Uruguay; the country {GENITIVE:Uruguayan}",,spa <Uruguay> [uɾuˈɣaj],'ulukwaj
-"Uzbekistan; the country {GENITIVE:Uzbek; Uzbekistani}",,uzb <TODO> [ɒ:zbekist̪ɒn],'ospekistan
-"Vanuatu; the country {GENITIVE:Ni-Vanuatu; Vanuatuan}",,bis <TODO> [vɑnuɑtu],'fanuatu
-"Vatican City; the country {GENITIVE:Vatican}",,ita <TODO> [t͡ʃitta del vatikaːno],'citatelfatikano
-"Venezuela; the country {GENITIVE:Venezuelan}",,spa <Venezuela> [beneˈswela],'peneswela
-"Vietnam; the country {GENITIVE:Vietnamese}",,vie <TODO> [viɜʔt˧˨ʔnaːm˧],'fiatnam
-"Wales; the country {GENITIVE:Welsh}",,cym <Cymru> [ˈkəmri],'kamli
-"Yemen; the country {GENITIVE:Yemeni}",,ara <TODO> [jaman],'jaman
-"Zambia; the country {GENITIVE:Zambian}",,eng <Zambia> [ˈzæmbiə],'sampia
-"Zimbabwe; the country {GENITIVE:Zimbabwean}",,sna <TODO> [zimbabwe],'simpapwe
-"Abkhazia; the disputed territory {GENITIVE:Abkhaz; Abkhazian}",,abk <TODO> [apʰsˈnɨ],'apseni
-"Northern Cyprus; the disputed territory {GENITIVE:North Cypriot}",,tur <TODO> [kuzej kɯbɾɯs],'kusejkuplus
-"Kosovo; the disputed territory {GENITIVE:Kosovan; Kosovar}",,sqi <TODO> [kɔsɔva],'kosofa
-"South Ossetia; the disputed territory {GENITIVE:South Ossetian}",,oss <TODO> [ˈalonston],'alonson
-"Palestine; the disputed territory {GENITIVE:Palestinian; Palestine}",,ara <TODO> [filastˁiːn],'filastin
-"Sahrawi Arab Democratic Republic; the disputed territory {GENITIVE:Sahrawi}",,ara <TODO> [asˤsˤaħraːwiːjah],'asahlawiah
-"Taiwan; the disputed territory {GENITIVE:Taiwanese}",,cmn <TODO> [tʰaɪ̯˧˥wan˥],'tajwan
-"Hawai'i; the archipelago; the island; the state; the county {GENITIVE:Hawaiian; Kamaʻaina}",,haw <Hawaiʻi> [həˈvɐjʔi],'hawaji
+"America; The Americas; the landmass {GENITIVE:American; from America}",,spa <Las Américas> [las aˈmeɾikas],'lasamelikas
+"Africa; the continent {GENITIVE:African; from Africa}",,,
+"North America; the continent {GENITIVE:North American; from North America}",,eng <North America> [nɔɹθ əˈmɛɹɪkə],'notamelika
+"South America; the continent {GENITIVE:South American; from South America}",,por <América do Sul> [aˈmɛɾika du sul],'sulamelika
+"Antarctica; the landmass; the continent {GENITIVE:Antarctic; from Antarctica}",,eng <Antarctica> [ænˈtɑːktɪkə],'antaktika
+"Eurasia; the continent {GENITIVE:Eurasian; from Eurasia}",,rus <Евразия> [jɪˈvrazʲɪjə],'jewlasia
+"Australasia; the region {GENITIVE:Australasian; from Australasia}",,fra <Australasie> [ostʁaˈlazi],'astwalasi
+"Europe; the region {GENITIVE:European; from Europe}",,grc <Εὐρώπη> [ēwrɔ́ːpɛ̄ː],'ewlope
+"The Maghreb; the region {GENITIVE:Maghreb; Maghrebi; from the Maghreb}",,ara <مغرب> [maɣrib],'mahlip
+"The Mashriq; the region {GENITIVE:Mashriq; Mashriqi; from the Mashriq}",,ara <مـشْـرِق> [maʃriq],'maclik
+"Melanesia; the region {GENITIVE:Melanesian; from Melanesia}",,fra <Mélanésie> [ˈmelɐnezi],'melanesi
+"Micronesia; the region {GENITIVE:Micronesian; from Micronesia}",,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
+"Polynesia; the region {GENITIVE:Polynesian; from Polynesia}",,fra <Polynésie> [ˈpolinezi],'polinesi
+"Afghanistan; the country {GENITIVE:Afghan; from Afghanistan}",,prs <افغانستان‬> [avɣɒnestɒn],'afhaniston
+"South Africa; the country {GENITIVE:South African; from South Africa}",,xho <Mzansi> [m̩z̤ansi],'musansi
+"Albania; the country {GENITIVE:Albanian; from Albania}",,alb <Shqipëri> [ʃcipəɾi],'ickipali
+"Algeria; the country {GENITIVE:Algerian; from Algeria}",,ara <جزائر‎> [d͡ʒazaːʔir],'casail
+"Andorra; the country {GENITIVE:Andorran; from Andorra}",,cat <Andorra> [ənˈdorə],'antola
+"Angola; the country {GENITIVE:Angolan; from Angola}",,por <Angola> [ɐ̃ˈɡɔlɐ],'ankola
+"Antigua and Barbuda; the country {GENITIVE:Antiguan; from Antigua and Barbuda}",,eng <Antigua and Barbuda> [æntiːɡə ən bɑːbjuːdə],'antikapapjuta
+"Argentina; the country {GENITIVE:Argentinean; Argentine; from Argentina}",,spa <Argentina> [aɾxenˈtina],alhentina
+"Armenia; the country {GENITIVE:Armenian; from Armenia}",,hye <Հայաստան> [hɑjɑsˈtɑn],'hajastan
+"Australia; the landmass; the continent; the country {GENITIVE:Australian; from Australia}",,eng <Australia> [əˈstɹʷæɪ̯ljə],'astwajlja
+"Austria; the country {GENITIVE:Austrian; from Austria}",,deu <Österreich> [ˈøːstɐraɪç],'ewstahaic
+"Azerbaijan; the country {GENITIVE:Azerbaijani; from Azerbaijan}",,aze <Azərbaycan> [ɑːzæɾbɑjˈd͡ʒɑn],asalpajcan
+"The Bahamas; the country {GENITIVE:Bahamian; from the Bahamas}",,eng <Bahamas> [bəˈhɑːməz],'pahamas
+"Bahrain; the country {GENITIVE:Bahraini; from Bahrain}",,ara <بحرين‎> [baħrajn],'pahlajn
+"Bangladesh; the country {GENITIVE:Bangladeshi; from Bangladesh}",,ben <বাংলাদেশ> [ˈbaŋlad̪eʃ],'panlatec
+"Barbados; the country {GENITIVE:Barbadian; from Barbados}",,bjs <Barbados> [bɑːɹˈbeɪ̯dɒs],'papejtos
+"Belarus; the country {GENITIVE:Belarusian; from Belarus}",,bel <Biełaruś> [bʲɛlarusʲ],'pjelalus
+"Belgium; the country {GENITIVE:Belgian; from Belgium}",,nld <België> [bɛlɣiə],'pelkia
+"Belize; the country {GENITIVE:Belizean; from Belize}",,eng <Belize> [bəˈliːz],'palis
+"Benin; the country {GENITIVE:Beninese; Beninois; from Benin}",,fra <Bénin> [benɛ̃],'penen
+"Bhutan; the country {GENITIVE:Bhutanese; from Bhutan}",,dzo <འབྲུག་ཡུལ་> [ʈ͡ʂuk˩˧ˀjyː˥],'cukju
+"Bolivia; the country {GENITIVE:Bolivian; from Bolivia}",,spa <Bolivia> [boˈliβja],'polipja
+"Bosnia and Herzegovina; the country {GENITIVE:Bosnian; from Bosnia and Herzegovina}",,hrv <Bosna> [bosna],'posna
+"Botswana; the country {GENITIVE:Botswanan; from Botswana}",,tsn <Botswana> [bʊt͡swana],'putswana
+"Brazil; the country {GENITIVE:Brazilian; from Brazil}",,por <Brasil> [bɾaˈziw],'palasiw
+"Brunei; the country {GENITIVE:Bruneian; from Brunei}",,kxd <بروني> [brunai],'pulunai
+"Bulgaria; the country {GENITIVE:Bulgarian; from Bulgaria}",,bul <България> [bɐɫˈɡarijɐ],'palkalia
+"Burkina Faso; the country {GENITIVE:Burkinabé; from Burkina Faso}",,fra <Burkina Faso> [buʁkina faso],'puhkinafaso
+"Burundi; the country {GENITIVE:Burundian; from Burundi}",,run <Burundi> [buˈɾundi],'pulunti
+"Cambodia; the country {GENITIVE:Cambodian; from Cambodia}",,khm <TODO> [kɑmpuciə],'kampukia
+"Cameroon; the country {GENITIVE:Cameroonian; from Cameroon}",,fra <TODO> [kamʁun],'kamhun
+"Canada; the country {GENITIVE:Canadian; from Canada}",,eng <Canada> [ˈkænədə],'kanata
+"Cape Verde; the country {GENITIVE:Cape Verdean; from Cape Verde}",,por <TODO> [kaβu veɾðɨ],'kapufelti
+"Central African Republic; the country {GENITIVE:Central African; from Central African Republic}",,fra <TODO> [sɑ̃tʁafʁik],'sanhafhik
+"Chad; the country {GENITIVE:Chadian; from Chad}",,fra <Tshad> [tʃad],'cat
+"Chile; the country {GENITIVE:Chilean; from Chile}",,spa <Chile> [ˈt͡ʃile],'cile
+"China; the country {GENITIVE:Chinese; from China}",,cmn <中国> [ʈ͡ʂʊŋ˥kwɔ˧˥],'cunkwo
+"Colombia; the country {GENITIVE:Columbian; from Colombia}",,spa <Colombia> [koˈlombja],'kolompja
+"Comoros; the country {GENITIVE:Comoran; from Comoros}",,zdj <TODO> [komori],'komoli
+"Democratic Republic of the Congo; the country {GENITIVE:Congolese; from Democratic Republic of the Congo}",,fra <TODO> [kɔ̃ɡo kɛ̃ʃaza],'konkokencasa
+"Republic of the Congo; the country {GENITIVE:Congolese; from Republic of the Congo}",,fra <TODO> [kɔ̃ɡo bʁazavil],'konkophasafil
+"Cook Islands; the country {GENITIVE:Cook Island; Cook Islander; from Cook Islands}",,eng <Cook Islands> [ˈkʊk ˈaɪləndz],'kukajlan
+"Costa Rica; the country {GENITIVE:Costa Rican; from Costa Rica}",,spa <Costa Rica> [kosta rika],'kostalika
+"Croatia; the country {GENITIVE:Croatian; from Croatia}",,hrv <TODO> [xr̩ʋaːt͡skaː],'helwataska
+"Cuba; the country {GENITIVE:Cuban; from Cuba}",,spa <Cuba> [kuβa],'kupa
+"Cyprus; the country {GENITIVE:Cypriot; from Cyprus}",,ell <TODO> [kipros],'kiplos
+"Czech Republic; the country {GENITIVE:Czech; from Czech Republic}",,ces <TODO> [t͡ʃɛsko],'cesko
+"Denmark; the country {GENITIVE:Danish; from Denmark}",,dan <TODO> [danmɑɡ],'tanmak
+"Djibouti; the country {GENITIVE:Djiboutian; from Djibouti}",,som <TODO> [d͡ʒæbuːt],'caputi
+"Dominica; the country {GENITIVE:Dominican; from Dominica}",,eng <Dominica> [dɒmɪˈniːkə],'tominika
+"Dominican Republic; the country {GENITIVE:Dominican; Quisqueyan; from Dominican Republic}",,spa <República Dominicana> [reˈpuβlika ðominiˈkana],'lepuplikatominikana
+"Ecuador; the country {GENITIVE:Ecuadorian; from Ecuador}",,spa <Écuador> [ˈekwaðoɾ],'ekwatol
+"Egypt; the country {GENITIVE:Egyptian; from Egypt}",,ara <TODO> [masˁɾ],'masal
+"England; the country {GENITIVE:English; from England}",,eng <England> [ˈɪŋɡlənd],'inkelan
+"Equatorial Guinea; the country {GENITIVE:Equatorial Guinean; Equatoguinean; from Equatorial Guinea}",,spa <Guinea Ecuatorial?> [ginea ekwatoɾjal],'kinjaekwatoljal
+"Eritrea; the country {GENITIVE:Eritrean; from Eritrea}",,tir <TODO> [ertra],'eltala
+"Estonia; the country {GENITIVE:Estonian; from Estonia}",,est <TODO> [eːsti],'esti
+"Eswatini; Swaziland; the country {GENITIVE:Swazi; Swati; from Eswatini}",,ssw <TODO> [ɛswa̯tˈiːni],'eswatini
+"Ethiopia; the country {GENITIVE:Ethiopian; from Ethiopia}",,amh <TODO> [ʔitjoppʼja],'itjopja
+"Fiji; the country {GENITIVE:Fijian; Fijindian; from Fiji}",,fij <TODO> [ˈβit͡ʃi],fici
+"Finland; the country {GENITIVE:Finnish; from Finland}",,fin <TODO> [suo̯mi],'suomi
+"France; the country {GENITIVE:French; from France}",,fra <France> [fʁɑ̃s],'fahansa
+"Gabon; the country {GENITIVE:Gabonese; from Gabon}",,fra <TODO> [ɡabɔ̃],'kapon
+"The Gambia; the country {GENITIVE:Gambian; from the Gambia}",,eng <Gambia> [ˈɡæmbiə],'kampia
+"Georgia; the country {GENITIVE:Georgian; from Georgia}",,kat <TODO> [sɑkʰɑrtʰvɛlɔ],'sakaltafelo
+"Germany; the country {GENITIVE:German; from Germany}",,deu <Deutschland> [ˈdɔʏ̯t͡ʃlant],'tojclan
+"Ghana; the country {GENITIVE:Ghanan; from Ghana}",,aka <TODO> [gaːnæ],'kana
+"Greece; the country {GENITIVE:Greek; Grecian; Hellenic; from Greece}",,ell <TODO> [elaða],'elasa
+"Greenland; the country {GENITIVE:Greenlandic; from Greenland}",,kal <TODO> [kalaːɬit nunaːt],'kalaslitnunat
+"Grenada; the country {GENITIVE:Grenadan; from Grenada}",,eng <Grenada> [ɡɹʷəˈneɪ̯də],'kwanejta
+"Guatemala; the country {GENITIVE:Guatemalan; from Guatemala}",,spa <Guatemala> [gwateˈmala],'kwatemala
+"Guinea; the country {GENITIVE:Guinean; from Guinea}",,ful <TODO> [gine],'kine
+"Guinea-Bissau; the country {GENITIVE:Bissau-Guinean; from Guinea-Bissau}",,pov <TODO> [ɡinɛ bisaw],'kinepisaw
+"Guyana; the country {GENITIVE:Guyanese; from Guyana}",,eng <Guyana> [ɡaɪ̯ˈɑːnə],'kajana
+"Haiti; the country {GENITIVE:Haitian; from Haiti}",,hat <TODO> [ajiti],'ajti
+"Honduras; the country {GENITIVE:Honduran; from Honduras}",,spa <Honduras> [onˈduɾas],'ontulas
+"Hungary; the country {GENITIVE:Hungarian; from Hungary}",,hun <TODO> [mɒɟɒrorsaːɡ],'mokololsak
+"Iceland; the country {GENITIVE:Icelandic; from Iceland}",,isl <TODO> [ˈistlant],'istilan
+"India; the country {GENITIVE:Indian; from India}",,hin <TODO> [bʱaːrət̪],'palat
+"Indonesia; the country {GENITIVE:Indonesian; from Indonesia}",,ind <TODO> [ɪndonesia],'intonesia
+"Iran; the country {GENITIVE:Iranian; from Iran}",,fas <TODO> [ʔiːɾɒːn],'ilan
+"Iraq; the country {GENITIVE:Iraqi; from Iraq}",,ara <TODO> [ʕiraːq],'ilak
+"Ireland; the country {GENITIVE:Irish; from Ireland}",,eng <Ireland> [ˈaɪ̯əɹlənd],'ajalan
+"Northern Ireland; the country {GENITIVE:Northern Irish; from Northern Ireland}",,gle <TODO> [ˈt̪ˠuəʃcəɾˠt̪ˠ ˈeːɾʲən̪ˠ],'tuackjaltaeljan
+"Israel; the country {GENITIVE:Israeli; from Israel}",,heb <TODO> [jisʁael],'jishael
+"Italy; the country {GENITIVE:Italian; from Italy}",,ita <Italia> [itaːlja],'italja
+"Ivory Coast; the country {GENITIVE:Ivorian; from Ivory Coast}",,fra <Côte d'Ivoire> [kot divwaʁ],'kotifwah
+"Jamaica; the country {GENITIVE:Jamaican; from Jamaica}",,jam <TODO> [d͡ʒʊmiɛka],'cumieka
+"Japan; the country {GENITIVE:Japanese; from Japan}",,jpn <日本> [ɲihoɴ],'nihon
+"Jordan; the country {GENITIVE:Jordanian; from Jordan}",,ara <TODO> [ʔurdunn],'ultun
+"Kazakhstan; the country {GENITIVE:Kazakh; from Kazakhstan}",,kaz <TODO> [qɑzɑqstɑn],'kasakastan
+"Kenya; the country {GENITIVE:Kenyan; from Kenya}",,swa <Kenya> [kɛɲɑ],'kenja
+"Kiribati; the country {GENITIVE:I-Kiribati; from Kiribati}",,gil <TODO> [kiɾipas],'kilipas
+"North Korea; the country {GENITIVE:North Korean; from North Korea}",,kor <TODO> [pukt͡ɕosʰʌn],'pukcosan
+"South Korea; the country {GENITIVE:South Korean; from South Korea}",,kor <TODO> [namɦan],'namhan
+"Kuwait; the country {GENITIVE:Kuwaiti; from Kuwait}",,ara <TODO> [kuwajt],'kuajt
+"Kyrgyzstan; the country {GENITIVE:Kyrgyz; Kyrgyzstani; Kirgiz; Kirghiz; from Kyrgyzstan}",,kir <TODO> [qɯrʁɯsstɑn],'kulhustan
+"Laos; the country {GENITIVE:Laotian; from Laos}",,lao <TODO> [laːw˦˥],'law
+"Latvia; the country {GENITIVE:Latvian; from Latvia}",,lav <TODO> [latvia],'latfia
+"Lebanon; the country {GENITIVE:Lebanese; from Lebanon}",,ara <TODO> [lubnaːn],'lupnan
+"Lesotho; the country {GENITIVE:Mosotho; Basotho; from Lesotho}",,sot <Lesotho> [lɪsʊtʰʊ],'lisutu
+"Liberia; the country {GENITIVE:Liberian; from Liberia}",,eng <Liberia> [laɪ̯ˈbɪɹʷiə],'lajpiwia
+"Libya; the country {GENITIVE:Libyan; from Libya}",,ara <TODO> [liːbija],'lipia
+"Liechtenstein; the country {GENITIVE:Liechtensteiner; from Liechtenstein}",,deu <Liechtenstein> [lɪçtn̩ʃtaɪ̯n],'lictenectajn
+"Lithuania; the country {GENITIVE:Lithuanian; from Lithuania}",,lit <TODO> [lʲɪɛtʊˈvɐ],'ljietufa
+"Luxembourg; the country {GENITIVE:Luxembougish; Luxembourgian; from Luxembourg}",,ltz <Lëtzebuerg> [lət͡səbuːəɕ],'latsapuac
+"The Former Yugoslav Republic of Macedonia; the country {GENITIVE:Macedonian; from the Former Yugoslav Republic of Macedonia}",,mkd <Македонија> [makɛdɔnija],'maketonija
+"Madagascar; the country {GENITIVE:Madagascan; from Madagascar}",,mlf <TODO> [madaɡaskʲarə̥],'matakaskjal
+"Malawi; the country {GENITIVE:Malawian; from Malawi}",,nya <TODO> [malaβi],'malawi
+"Malaysia; the country {GENITIVE:Malaysian; from Malaysia}",,msa <TODO> [məlejsiə],'malejsia
+"Maldives; the country {GENITIVE:Maldive; from Maldives}",,div <TODO> [diʋehirəːd͡ʒe],'tiwehilace
+"Mali; the country {GENITIVE:Malian; Malinese; from Mali}",,bam <TODO> [mali],'mali
+"Malta; the country {GENITIVE:Maltan; from Malta}",,mlt <TODO> [mɐltɐ],'malta
+"Marshall Islands; the country {GENITIVE:Marshall Island; Marshall Islander; from Marshall Islands}",,mah <TODO> [mˠɑzʲɛʌ̯ɫ],'masjel
+"Mauritania; the country {GENITIVE:Mauritanian; from Mauritania}",,ara <TODO> [muːriːtaːnijaː],'mulitania
+"Mauritius; the country {GENITIVE:Mauritian; from Mauritius}",,mfe <TODO> [moʁis],'mohis
+"Mexico; the country {GENITIVE:Mexican; from Mexico}",,spa <México> [ˈmexiko],'mehiko
+"Micronesia; the country {GENITIVE:Micronesian; from Micronesia}",,eng <Micronesia> [maɪ̯kɹʷoʊ̯ˈniːʒə],'majkwonica
+"Moldova; the country {GENITIVE:Moldovan; from Moldova}",,ron <TODO> [moldova],'moltofa
+"Monaco; the country {GENITIVE:Monacan; Monégasque; from Monaco}",,fra <Monaco> [mɔnako],'monako
+"Mongolia; the country {GENITIVE:Mongolian; Mongol; from Mongolia}",,mon <TODO> [mɔŋɢɔɮ ʊɮs],'monkosluslus
+"Montenegro; the country {GENITIVE:Montenegrin; from Montenegro}",,cnr <TODO> [t͡sr̩ːnaː ɡɔra],'selnakola
+"Morocco; the country {GENITIVE:Moroccan; from Morocco}",,ara <TODO> [maʁrib],'mahlip
+"Mozambique; the country {GENITIVE:Mozambican; from Mozambique}",,por <TODO> [musɐ̃bikɨ],'musanpiki
+"Myanmar; Burma; the country {GENITIVE:Myanma; Burmese; from Myanmar}",,mya <TODO> [mjəma˩],'mjama
+"Namibia; the country {GENITIVE:Namibian; from Namibia}",,ndo <TODO> [naˈmibia],'namipia
+"Nauru; the country {GENITIVE:Nauruan; from Nauru}",,nau <TODO> [nɑːuːruː],'naulu
+"Nepal; the country {GENITIVE:Nepalese; Nepali; from Nepal}",,nep <TODO> [nepal],'nepal
+"Netherlands; the country {GENITIVE:Dutch; Netherlandic; from Netherlands}",,nld <TODO> [neːdərlɑnt],'netalant
+"New Zealand; the country {GENITIVE:New Zealandic; from New Zealand}",,eng <New Zealand> [njʉː ˈziːlɘnd],'njusilan
+"Nicaragua; the country {GENITIVE:Nicaraguan; from Nicaragua}",,spa <Nicaragua> [nikaˈɾaɣwa],'nikalakwa
+"Niger; the country {GENITIVE:Nigerien; from Niger}",,fra <Niger> [niʒɛʁ],'niceh
+"Nigeria; the country {GENITIVE:Nigerian; from Nigeria}",,eng <Nigeria> [naɪ̯ˈd͡ʒɪɹʷiə],'najcilia
+"Niue; the country {GENITIVE:Niuean; from Niue}",,niu <TODO> [niweː],'niwe
+"Norway; the country {GENITIVE:Norwegian; from Norway}",,nor <TODO> [noɾɡə],'nolka
+"Oman; the country {GENITIVE:Omani; from Oman}",,ara <TODO> [ʕʊmaːn],'uman
+"Pakistan; the country {GENITIVE:Pakistani; from Pakistan}",,pan <TODO> [pɑːkɪst̪ɑːn],'pakistan
+"Palau; the country {GENITIVE:Palauan; from Palau}",,eng <Palau> [pəˈlaʊ̯],'palaw
+"Panama; the country {GENITIVE:Panaman; from Panama}",,spa <Panamá> [panaˈma],'panama
+"Papua New Guinea; the country {GENITIVE:Papua New Guinean; Papuan; from Papua New Guinea}",,tpi <Papua Niugini> [papua njugini],'papuanjukini
+"Paraguay; the country {GENITIVE:Paraguayan; from Paraguay}",,spa <Paraguay> [paɾaˈɣwaj],'palakwaj
+"Peru; the country {GENITIVE:Peruvian; from Peru}",,spa <Perú> [peˈɾu],'pelu
+"Philippines; the country {GENITIVE:Filipino; Philippine; from Philippines}",,tgl <Pilipinas> [pɪlɪpinɐs],'pilipinas
+"Poland; the country {GENITIVE:Polish; from Poland}",,pol <TODO> [pɔlska],'poloska
+"Portugal; the country {GENITIVE:Portuguese; from Portugal}",,por <TODO> [puɾtuɣaɫ],'pultukal
+"Qatar; the country {GENITIVE:Qatari; from Qatar}",,ara <TODO> [qɑtˤɑr],'katal
+"Romania; the country {GENITIVE:Romanian; from Romania}",,ron <TODO> [romɨˈnia],'lominia
+"Russia; the country {GENITIVE:Russian; from Russia}",,rus <Росси́я> [rɐˈsʲijə],'lasia
+"Rwanda; the country {GENITIVE:Rwandan; from Rwanda}",,kin <TODO> [uɾɡwanda],'ulkwanta
+"Saint Kitts and Nevis; the country {GENITIVE:Kittitian; Nevisian; from Saint Kitts and Nevis}",,aig <TODO> [sɛnt kits ɑːn nivis],'senkitsanifis
+"Saint Lucia; the country {GENITIVE:Saint Lucian; from Saint Lucia}",,acf <TODO> [sɛnt lisi],'senlisi
+"Saint Vincent and the Grenadines; the country {GENITIVE:Saint Vincentian; Vincentian; from Saint Vincent and the Grenadines}",,eng <Saint Vincent> [seɪ̯nt ˈvɪnsənt],'sejnfinsan
+"El Salvador; the country {GENITIVE:Salvadoran; from El Salvador}",,spa <El Salvador> [el salβaˈðor],'elsalpatol
+"Samoa; the country {GENITIVE:Samoan; from Samoa}",,smo <Sāmoa> [saːmoa],'samoa
+"San Marino; the country {GENITIVE:Sammarinese; from San Marino}",,ita <TODO> [san mariːno],'sanmalino
+"São Tomé and Príncipe; the country {GENITIVE:São Toméan; from São Tomé and Príncipe}",,por <TODO> [sɐ̃w tuˈmɛ i ˈpɾĩsɨpɨ],'sawntumeiplinsipi
+"Saudi Arabia; the country {GENITIVE:Saudi; Saudi Arabian; from Saudi Arabia}",,ara <TODO> [assuʕuːdijja],'asutija
+"Scotland; the country {GENITIVE:Scottish; from Scotland}",,gla <Alba> [ˈal̪ˠapə],'alapa
+"Senegal; the country {GENITIVE:Senegalese; from Senegal}",,wol <TODO> [sɛnɛgaːl],'senekal
+"Serbia; the country {GENITIVE:Serbian; from Serbia}",,hrv <Србија> [sř̩bija],'salpija
+"Seychelles; the country {GENITIVE:Seychellois; from Seychelles}",,crs <TODO> [sesɛl],'sesel
+"Sierra Leone; the country {GENITIVE:Sierra Leonean; from Sierra Leone}",,kri <TODO> [salon],'salon
+"Singapore; the country {GENITIVE:Singaporean; Singapore; from Singapore}",,eng <Singapore> [sɪŋəpɔː],'sinapo
+"Slovakia; the country {GENITIVE:Slovak; from Slovakia}",,slk <TODO> [sloʋensko],'solowenesko
+"Slovenia; the country {GENITIVE:Slovenian; Slovene; from Slovenia}",,slv <TODO> [slɔˈʋeːnija],'solowenia
+"Solomon Islands; the country {GENITIVE:Solomon Island; Solomon Islander; from Solomon Islands}",,pis <TODO> [solomon],'solomon
+"Somalia; the country {GENITIVE:Somalian; from Somalia}",,som <TODO> [sɔːmɑːlijɑ],'somalia
+"Spain; the country {GENITIVE:Spanish; from Spain}",,spa <España> [espaɲa],'espanja
+"Sri Lanka; the country {GENITIVE:Sri Lankan; from Sri Lanka}",,sin <TODO> [sriː laŋkaːʋa],'sililankawa
+"Sudan; the country {GENITIVE:Sudanese; from Sudan}",,ara <TODO> [assuːdaːn],'asutan
+"South Sudan; the country {GENITIVE:South Sudanese; from South Sudan}",,din <TODO> [paguot t̪uda̤n],'pakuotutan
+"Suriname; the country {GENITIVE:Nurinamese; from Suriname}",,nld <TODO> [ˌsyːriˈnaːmə],'sulinama
+"Sweden; the country {GENITIVE:Swedish; from Sweden}",,swe <TODO> [ˈsværjə],'swalja
+"Switzerland; the country {GENITIVE:Swiss; from Switzerland}",,deu <TODO> [ʃvaɪ̯ts],'cwajs
+"Syria; the country {GENITIVE:Syrian; from Syria}",,ara <TODO> [suːrijaː],'sulia
+"Tajikistan; the country {GENITIVE:Tajk; from Tajikistan}",,tgk <TODO> [tɔːd͡ʒikistɔːn],'tocikiston
+"Tanzania; the country {GENITIVE:Tanzanian; from Tanzania}",,swa <TODO> [tɑnzɑˈniɑ],'tansania
+"Thailand; the country {GENITIVE:Thai; from Thailand}",,tha <TODO> [tʰaj˧],'taj
+"East Timor; the country {GENITIVE:Timorese; from East Timor}",,tet <TODO> [timor lorosaʔe],'timololosae
+"Togo; the country {GENITIVE:Togolese; from Togo}",,fra <TODO> [togo],'toko
+"Tonga; the country {GENITIVE:Tongan; from Tonga}",,ton <TODO> [toŋa],'tona
+"Trinidad and Tobago; the country {GENITIVE:Trinidadian; Tobagonian; from Trinidad and Tobago}",,eng <Trinidad Tobago> [ˈtɹʷɪnɪdæd təˈbeɪ̯ɡəʊ̯],'twinitatapejkow
+"Tunisia; the country {GENITIVE:Tunisian; from Tunisia}",,ara <TODO> [tuːnis],'tunis
+"Turkey; the country {GENITIVE:Turkish; from Turkey}",,tur <TODO> [tyɾcije],'tulkie
+"Turkmenistan; the country {GENITIVE:Turkmen; from Turkmenistan}",,tuk <TODO> [tyɾkmeniθtɑn],'tukmenistan
+"Tuvalu; the country {GENITIVE:Tuvaluan; from Tuvalu}",,tvl <TODO> [tuːvalu],'tufalu
+"Uganda; the country {GENITIVE:Ugandan; from Uganda}",,lug <TODO> [jugaːnda],'jukanta
+"Ukraine; the country {GENITIVE:Ukranian; from Ukraine}",,ukr <TODO> [ukrɑjinɑ],'uklajina
+"United Arab Emirates; the country {GENITIVE:Emirati; Emirian; Emiri; from United Arab Emirates}",,ara <TODO> [ʔimaːraːt],'imalat
+"United Kingdom; the country {GENITIVE:British; UK; from United Kingdom}",,eng <U.K.> [juː kʰeɪ̯],'jukej
+"United States; the country {GENITIVE:American; US; from United States}",,eng <U.S.A.> [juː ɛs eɪ̯],'juesej
+"Uruguay; the country {GENITIVE:Uruguayan; from Uruguay}",,spa <Uruguay> [uɾuˈɣaj],'ulukwaj
+"Uzbekistan; the country {GENITIVE:Uzbek; Uzbekistani; from Uzbekistan}",,uzb <TODO> [ɒ:zbekist̪ɒn],'ospekistan
+"Vanuatu; the country {GENITIVE:Ni-Vanuatu; Vanuatuan; from Vanuatu}",,bis <TODO> [vɑnuɑtu],'fanuatu
+"Vatican City; the country {GENITIVE:Vatican; from Vatican City}",,ita <TODO> [t͡ʃitta del vatikaːno],'citatelfatikano
+"Venezuela; the country {GENITIVE:Venezuelan; from Venezuela}",,spa <Venezuela> [beneˈswela],'peneswela
+"Vietnam; the country {GENITIVE:Vietnamese; from Vietnam}",,vie <TODO> [viɜʔt˧˨ʔnaːm˧],'fiatnam
+"Wales; the country {GENITIVE:Welsh; from Wales}",,cym <Cymru> [ˈkəmri],'kamli
+"Yemen; the country {GENITIVE:Yemeni; from Yemen}",,ara <TODO> [jaman],'jaman
+"Zambia; the country {GENITIVE:Zambian; from Zambia}",,eng <Zambia> [ˈzæmbiə],'sampia
+"Zimbabwe; the country {GENITIVE:Zimbabwean; from Zimbabwe}",,sna <TODO> [zimbabwe],'simpapwe
+"Abkhazia; the disputed territory {GENITIVE:Abkhaz; Abkhazian; from Abkhazia}",,abk <TODO> [apʰsˈnɨ],'apseni
+"Northern Cyprus; the disputed territory {GENITIVE:North Cypriot; from Northern Cyprus}",,tur <TODO> [kuzej kɯbɾɯs],'kusejkuplus
+"Kosovo; the disputed territory {GENITIVE:Kosovan; Kosovar; from Kosovo}",,sqi <TODO> [kɔsɔva],'kosofa
+"South Ossetia; the disputed territory {GENITIVE:South Ossetian; from South Ossetia}",,oss <TODO> [ˈalonston],'alonson
+"Palestine; the disputed territory {GENITIVE:Palestinian; Palestine; from Palestine}",,ara <TODO> [filastˁiːn],'filastin
+"Sahrawi Arab Democratic Republic; the disputed territory {GENITIVE:Sahrawi; from Sahrawi Arab Democratic Republic}",,ara <TODO> [asˤsˤaħraːwiːjah],'asahlawiah
+"Taiwan; the disputed territory {GENITIVE:Taiwanese; from Taiwan}",,cmn <TODO> [tʰaɪ̯˧˥wan˥],'tajwan
+"Hawai'i; the archipelago; the island; the state; the county {GENITIVE:Hawaiian; Kamaʻaina; from Hawai'i}",,haw <Hawaiʻi> [həˈvɐjʔi],'hawaji
 "Babylon; the city",,akk <TODO> [baːbili],'papilim
 "Beijing; the city",,cmn <TODO> [pej˨˩˦t͡ɕiŋ˥],'pejcin
 "Białystok; the city",,pol <Białystok> [bʲaˈwɨstɔk],'pjawistok
