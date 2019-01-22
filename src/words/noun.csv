@@ -1,19 +1,19 @@
 eng,spa,source,ltl
 notion; idea; not necessarily true or objective {GENITIVE:conceptual; ideal},,spa <noción> [noˈsjon],nosjon
-point; a particular time or place {GENITIVE:particular; local},,pan <ਬਿੰਦੂ> [bɪ̃d̪u],pin
+point; a particular time or place {GENITIVE:particular; local},,hin <बिंदु> [bindu],pin
 path; line; curve {GENITIVE:linear; curvilinear},,cmn <路径> [lu˥˩t͡ɕiŋ˥˩],lucin
 surface; plane; layer {GENITIVE:planar; superficial; facial},,cmn <表面> [pjɑʊ̯˧˩˧mjɛn˥˩],pjawmjen
 region; volume; interval {GENITIVE:regional; volumetric; periodic},,spa <región> [reˈxjon],lehjon
-stick; rod; limb,,swa <fimbo> [fimbo],fim
+stick; rod; limb,,eng <stick> [stɪk],sin
 string; thread; wire; hair; thread,,cmn <线> [ɕjɛn˥˩],cjen
 plate; board; wall,,OPPOSITE OF string,fwon
-sheet; slip,,OPPOSITE OF stick,cum
-network; net; web; system {GENITIVE:web},,eng <network> [ˈnɛtˌwɚk],netwan
-hole; hallway; tube; gap {GENITIVE:holey},,eng <hole> [hoʊ̯ɫ],hol
-person; woman; man; human {GENITIVE:personal; humanistic},,jav <wong> [woŋ],hwon
-personify; humanise; anthropomorphise,,INCOHATIVE OF person,hwonkes
-beast; non-human animal {GENITIVE:beastial; animalistic},,OPPOSITE OF person,sjen
-beastify,,INCOHATIVE OF beast,sjenkes
+sheet; slip,,OPPOSITE OF stick,hun
+network; net; web; system {GENITIVE:web},,jav <jaringan> [ɟariŋan̪],kjalinan
+hole; hallway; tube; gap {GENITIVE:holey},,pan <ਮੋਰੀ> [moɾi],mol
+person; woman; man; human {GENITIVE:personal; humanistic},,fil <tao> [tao],taoh
+personify; humanise; anthropomorphise,,INCOHATIVE OF person,taohkes
+beast; non-human animal {GENITIVE:beastial; animalistic},,OPPOSITE OF person,laeh
+beastify,,INCOHATIVE OF beast,laehkes
 baby {GENITIVE:infantile},,ono [guː gaː],kukam
 babify; SBJ turns OBJ into a baby,,INCOHATIVE OF baby,kukamkes
 adult {GENITIVE:adult},,sot <moholo> [moɦolo],mohol
@@ -46,9 +46,9 @@ home {GENITIVE:domestic},,hin <होम> [ɦom],hom
 furniture,,spa <mueble> [ˈmweβle],mwel
 body; chassis {GENITIVE:bodily; physical; corporal},,ben <শরীর> [ɕɔrir],colil
 spirit; soul,,OPPOSITE OF body,felil
-hair {GENITIVE:pilar; hairy},,hin <बाल> [baːl],pal
+hair {GENITIVE:pilar; hairy},,eng <hair> [hɛɹ],hel
 face {GENITIVE:facial},,spa <cara> [ˈkaɾa],kal
-head {GENITIVE:cranial; cephalic},,pan <ਸਿਰ> [sɪɾ],sil
+head {GENITIVE:cranial; cephalic},,hin <सिर> [sir],sil
 torso {GENITIVE:torsal},,mar <धूळ> [d̤uːɭə],tul
 arm {GENITIVE:brachial; appendicular},,cmn <臂> [pi˥˩],pih
 hand {GENITIVE:manual},,epo <mano> [ˈmano],man
@@ -77,7 +77,7 @@ soy; soybean {GENITIVE:sojan},,hin <सोया> [sojaː],sojah
 tomato {GENITIVE:tomatan},,epo <tomato> [toˈmato],tomal
 grape {GENITIVE:vineal},,cmn <葡萄> [pʰu˧˥tʰɑʊ̯],putawh
 apple {GENITIVE:pomaceous},,epo <pomo> [ˈpomo],pom
-information; notion; data; number {GENITIVE:informational; theoretical},,hin <जानकारी> [d͡ʒaːnkaːriː],canal
+information; notion; data; number {GENITIVE:informational; theoretical},,pan <ਜਾਣਕਾਰੀ> [d͡ʒɑɳkɑɾi],canal
 season {GENITIVE:seasonal},,cmn <季节> [t͡ɕi˥˩t͡ɕjɛ˧˥],cicjeh
 reality; possibility; world; dimension; universe {GENITIVE:realistic; possible; dimensional},,epo <realaĵo> [reaˈlaʒo],lealaf
 culture; nation {GENITIVE:cultural; national},,spa <cultura> [kulˈtuɾa],kutul
@@ -90,17 +90,17 @@ primate; monkey; ape {GENITIVE:simian},,ono [u ki ki],kukim
 rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew {GENITIVE:murine},,epo <roedor> [roˈedor],loetol
 feline; cat {GENITIVE:feline},,ono [mjaw],mjawf
 canine; dog; wolf; dingo; and fox {GENITIVE:canine},,ono [baw waw wof],pawawf
-bear {GENITIVE:ursine},,pan <ਰਿੱਛ> [ɾɪːt͡ʃʰ],lif
+bear {GENITIVE:ursine},,hin <भालू> [b̤aːluː],pal
 seal; includes walruses and maybe sea lions I think?,,spa <sello> [ˈseʝo],sejoh
 musteloidea; red panda; skunk; *raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine,,cmn <狸> [li],lih
 equine; horse; zebra; wild butt {GENITIVE:equine},,ono [hi hi],hihin
 tapir,,eng <tapir> [ˈtʰeɪ̯pɪɹ],tepil
-rhinoceros,,cmn <犀牛> [ɕi˥njoʊ̯˧˥],cinjoh
+rhinoceros,,pan <ਗੈਂਡੇ> [ɡɛ̃ɖe],ken
 camel; llama; alpaca; guanaco,,spa <camello> [kaˈmeʝo],kamejoh
 swine; boar; *pig; pork {GENITIVE:swine},,pan <ਸੂਰ> [suɾ],sul
 giraffe; okapi,,hin <जिराफ़> [d͡ʒiraːf],cilaf
 bovine; cow; beef;buffalo; antelope; sheep; mutton; goat; ,,ono [muː],mum
-hippopotamus,,cmn <河马> [xɤ˧˥ma˧˩˧],hawm
+hippopotamus,,sot <holo> [holo],hol
 whale; dolphin; porpoise,,epo <baleno> [baˈleno],palen
 elephant,,ono bjãː,pjah
 opossum; possum; shrew-opossum,,epo <didelfo> [diˈdelfo],titef
@@ -111,7 +111,7 @@ reptile {GENITIVE:reptilian},,spa <reptil> [repˈtil],lepil
 bird {GENITIVE:avian},,ono [t͡ʃip t͡ʃip],cipicif
 lizard; tuatara,,cmn <蜥蜴> [ɕi˥i˥˩],cih
 snake,,ono [sː],sasah
-ostrich; emu; rhea; tinamou; kiwi; cassowary,,sot <lema> [lemɑ],lem
+ostrich; emu; rhea; tinamou; kiwi; cassowary,,cmn <鸵鸟> [tʰwɔ˧˥njɑʊ̯˧˩˧],twonjawh
 fowl; duck; swan; goose; chicken; turkey; pheasant,,eng <fowl> [faʊ̯ɫ],fawl
 chicken,,ono [kuk kurikoː],kukul
 turkey,,ono [gululu],kululun
@@ -130,7 +130,7 @@ ray; manta ray; stingray; skate,,spa <raya> [ˈraʝa],lajah
 bug; insect; arachnid; myriapod; entognath,,yor <kokoro> [kokoro],kokol
 tick; mite,,epo <tiklo> [ˈtiklo],til
 spider,,mar <कोळी> [koɭiː],kol
-scorpion,,pan <ਬਿੱਛੂ> [bɪːt͡ʃʰu],pif
+scorpion,,cmn <蝎> [xɤ˧˥],hawh
 crustacean; *crab; lobster,,eng <crab> [kʰɹʷæb],kwam
 barnacle; copepod,,yor <ọwọn> [ɔwɔ̃],howon
 beetle,,pan <ਬੀਟਲ> [biʈəl],pital

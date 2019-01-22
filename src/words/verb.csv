@@ -363,13 +363,13 @@ be white; be light; be fair; OBJ reflects all wavelengths of light {AMOUNT:white
 be black; be dark; be tan; OBJ reflects no wavelengths of light,,ANTONYM OF be white,mit
 whiten; lighten; dodge; SBJ lightens OBJ,,INCOHATIVE OF be white,putkes
 blacken; darken; shade; tan; SBJ darkens OBJ,,CESSATIVE OF be white,putnos
-be gray; be *grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,cmn <gray> [gray],kaiws
-be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,ANTONYM OF be gray,naujs
-colour gray; colour grey; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,kaiwskes
-colour; SBJ brightens the colours of OBJ,,CESSATIVE OF be gray,kaiwsnos
+be gray; be *grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,spa <gris> [ɡɾis],kis
+be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,ANTONYM OF be gray,nus
+colour gray; colour grey; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,kiskes
+colour; SBJ brightens the colours of OBJ,,CESSATIVE OF be gray,kisnos
 be brown; be murkey; OBJ looks brown,,ara <بني> [bunːiːj],punis
 brown; colour brown; SBJ colours OBJ brown,,INCOHATIVE OF be brown,puniskes
-be opaque; OBJ absorbs light that it does not reflect {AMOUNT:opacity},,spa <opaco> [oˈpako],hopak
+be opaque; OBJ absorbs light that it does not reflect {AMOUNT:opacity},,epo <opaka> [oˈpaka],hopak
 be transparent; be see-through; OBJ {window} lets unreflected light pass through it,,ANTONYM OF be opaque,sepak
 opaquify; SBJ make OBJ become opaque,,INCOHATIVE OF be opaque,hopakkes
 transparify; SBJ makes OBJ become transparent,,CESSATIVE OF be opaque,hopaknos
@@ -377,10 +377,10 @@ be shiny; shine; be reflective; be smooth; OBJ {mirror} reflects light specularl
 be matte; be dull; be rough; OBJ reflects light diffusely,,ANTONYM OF be shiny,ponilap
 shine; polish; SBJ makes OBJ become shiny,,INCOHATIVE OF be shiny,menilapkes
 matte; SBJ makes OBJ become matte,,CESSATIVE OF be shiny,menilapnos
-be sweet; be sweetened; OBJ {candy} is sweet {AMOUNT:sweetness},,mar <गोड> [ɡoɖ],kot
-sweeten; SBJ makes OBJ become sweet,,INCOHATIVE OF be sweet,kotkes
-be bitter; OBJ is bitter {AMOUNT:bitterness},,ANTONYM OF be sweet,net
-bitter; SBJ makes OBJ become bitter,,CESSATIVE OF be sweet,kotnos
+be sweet; be sweetened; OBJ {candy} is sweet {AMOUNT:sweetness},,cmn <甜> [tʰjɛn˧˥],tjek
+sweeten; SBJ makes OBJ become sweet,,INCOHATIVE OF be sweet,tjekkes
+be bitter; OBJ is bitter {AMOUNT:bitterness},,ANTONYM OF be sweet,lwok
+bitter; SBJ makes OBJ become bitter,,CESSATIVE OF be sweet,tjeknos
 be sour; OBJ is sour {AMOUNT:sourness},,cmn <酸> [swan˥],swak
 sour; SBJ makes OBJ become sour,,INCOHATIVE OF be sour,swakkes
 be savoury; have umami; OBJ is savoury {AMOUNT:savouriness; umami},,ANTONYM OF be sour,hjak
@@ -396,11 +396,11 @@ mild; cool; despice; SBJ makes OBJ become less spicy,,CESSATIVE OF be spicy,peta
 be shaped; be shaped like; OBJ {sculpture} is shaped like IND {*shape},,eng <shape> [ʃeɪ̯p],cep
 shape; form; sculpt; SBJ {shaper; sculptor} shapes OBJ into IND,,INCOHATIVE OF be shaped,cepkes
 deform; SBJ makes OBJ {deformed} lose its shape,,CESSATIVE OF be shaped,cepnos
-be circular; be round; OBJ {circle; ring} is circular,,epo <cirkuli> [t͡sirˈkuli],sikut
-circularise; round; circle; SBJ turns OBJ into a circle,,INCOHATIVE OF be circular,sikutkes
-be square; be rectangular; be right; OBJ {rectangle; square} is rectangular,,OPPOSITE OF be circular,hukut
-square; rectify; right; SBJ makes OBJ rectangular,,INCOHATIVE OF be square,hukutkes
-skew; SBJ makes OBJ stop being rectangular,,CESSATIVE OF be square,hukutnos
+be circular; be round; OBJ {circle; ring} is circular,,spa <circular> [siɾkuˈlar],sikulat
+circularise; round; circle; SBJ turns OBJ into a circle,,INCOHATIVE OF be circular,sikulatkes
+be square; be rectangular; be right; OBJ {rectangle; square} is rectangular,,OPPOSITE OF be circular,hukulat
+square; rectify; right; SBJ makes OBJ rectangular,,INCOHATIVE OF be square,hukulatkes
+skew; SBJ makes OBJ stop being rectangular,,CESSATIVE OF be square,hukulatnos
 be closed; be hollow; be looped; be complete; OBJ {shell; loop; circuit; circle; ring; closed path; closed surface} is closed,,spa <cerrado> [seˈraðo],selat
 be open; OBJ is open,,ANTONYM OF be closed,holat
 close; shut; SBJ {closer} closes OBJ,,INCOHATIVE OF be closed,selatkes
@@ -441,10 +441,10 @@ be solid; be rigid; be firm; OBJ {solid; rigid body} is solid {AMOUNT:solidity; 
 be fluid; be amorphous; OBJ is fluid,,ANTONYM OF be solid,helit
 freeze; solidify; deposit; SBJ {one who freezes; freezer} freezes OBJ {frozen; ice} {INSTRUMENT:freezer},,INCOHATIVE OF be solid,solitkes
 melt; sublimate; SBJ {melter} melts OBJ {molten},,CESSATIVE OF be solid,solitnos
-be liquid; OBJ {liquid; water; puddle} is liquid {AMOUNT:liquidity; wetness},,spa <líquido> [ˈlikiðo],likit
-be gaseous; be air; OBJ {gas; cloud} is gaseous,,ANTONYM OF be liquid,tukit
-condense; liquidify; SBJ {condenser} condenses OBJ {condensed; cloud} into a liquid,,INCOHATIVE OF be liquid,likitkes
-boil; evaporate; SBJ {boiler} boils OBJ,,CESSATIVE OF be liquid,likitnos
+be liquid; OBJ {liquid; water; puddle} is liquid {AMOUNT:liquidity; wetness},,epo <likva> [ˈlikva],likwas
+be gaseous; be air; OBJ {gas; cloud} is gaseous,,ANTONYM OF be liquid,tukwas
+condense; liquidify; SBJ {condenser} condenses OBJ {condensed; cloud} into a liquid,,INCOHATIVE OF be liquid,likwaskes
+boil; evaporate; SBJ {boiler} boils OBJ,,CESSATIVE OF be liquid,likwasnos
 be loose; be movable; be portable; OBJ moves around easily,,POSSIBILITY OF move,moppis
 be tight; be immovable; be fixed; OBJ does not move easily,,ANTONYM OF be loose,peppis
 loosen; SBJ {loosener} makes OBJ looser,,INCOHATIVE OF be loose,moppiskes
@@ -475,9 +475,9 @@ be elastic; be bouncy; be springy; OBJ bounces well {AMOUNT:elasticicity},,POSSI
 be inelastic; be unbouncy; be flat; be hard; OBJ does not bounce well,,NEGATIVE OF be elastic,lepotpislis
 elastify; bouncify; make elastic; SBJ makes OBJ elastic,,INCOHATIVE OF be elastic,lepotpiskes
 deelastify; make inelastic; SBJ makes OBJ less elastic,,CESSATIVE OF be elastic,lepotpisnos
-rub; *slide; slip; scrub; wipe; SBJ rubs OBJ {INSTRUMENT:wipe; scrubber},,hin <to rub> [to rub],tolup
-be slippery; be smooth; OBJ is slippery on IND,,POSSIBILITY OF rub,toluppis
-grip; drag; be grippy; OBJ exerts a frictional force on IND {AMOUNT:coefficient of friction},,NEGATIVE OF be slippery,toluppislis
+rub; *slide; slip; scrub; wipe; SBJ rubs OBJ {INSTRUMENT:wipe; scrubber},,mar <स्लाइड> [slaːiɖ],sait
+be slippery; be smooth; OBJ is slippery on IND,,POSSIBILITY OF rub,saitpis
+grip; drag; be grippy; OBJ exerts a frictional force on IND {AMOUNT:coefficient of friction},,NEGATIVE OF be slippery,saitpislis
 be made of; comprise; OBJ {construction; object; product} is made out of IND {*material; substance; chemical; element},,ara <مادة> [mæːdːæt],matat
 make out of; turn to; SBJ {alchemist} changes OBJ to be made out of IND,,INCOHATIVE OF be made of,matatkes
 be wood; be wooden; OBJ is made out of wood,,cmn <木> [mu˥˩],mus
@@ -490,7 +490,7 @@ be metal; be metallic; OBJ is made out of metal,,hin <धातु> [d̤aːtu],t
 metallicise; SBJ turns OBJ into metal,,INCOHATIVE OF be metal,tatkes
 be crystal; OBJ {jewel; gem} is made out of crystal,,cmn <水晶> [ʂweɪ̯˧˩˧t͡ɕiŋ˥],cwecik
 crystalise; SBJ turns OBJ into crystal,,INCOHATIVE OF be crystal,cwecikkes
-be charged; be electrified; OBJ {battery} has electric energy stored {AMOUNT:electric potential; voltage; *electricity},,pan <ਬਿਜਲੀ> [bɪd͡ʒli],pic
+be charged; be electrified; OBJ {battery} has electric energy stored {AMOUNT:electric potential; voltage; *electricity},,hin <बिजली> [bid͡ʒliː],pic
 charge; electrify; SBJ {charger} imbues OBJ with electric energy,,INCOHATIVE OF be charged,pickes
 discharge; shock; electrify; power; SBJ releases the electric energy of OBJ onto IND {machine; electric circuit} {METHOD:conduit; wire; circuit; component},,CESSATIVE OF be charged,picnos
 be capacitive; OBJ {capacitor} is a capacitor {AMOUNT:capacitance},,POSSIBILITY OF be charged,picpis
@@ -499,8 +499,8 @@ be introverted; be isolated; OBJ {introvert} is socially isolated from IND,,ANTO
 integrate; SBJ socially integrates OBJ with IND,,INCOHATIVE OF be social,sosiaskes
 isolate; SBJ socially isolates OBJ from IND,,CESSATIVE OF be social,sosiasnos
 ride; transport; SBJ {passenger} rides on OBJ {vehicle},,epo <rajdi> [ˈrajdi],lajt
-play; OBJ {player} is playing IND {game; sport},,epo <ludi> [ˈludi],lut
-wait; OBJ {in wait} is waiting for IND,,eng <wait> [weɪ̯t],hwet
+play; OBJ {player} is playing IND {game; sport},,spa <juega> [ˈxweɣa],huk
+wait; OBJ {in wait} is waiting for IND,,pan <ਉਡੀਕ> [ʊɖik],hutik
 act; fill; stand in; OBJ {roleplayer; filler} fills the role IND {role},,ben <কাজ> [kad͡ʑ],kac
 differ; be *different; OBJ is different from IND,,cmn <不同> [pu˥˩tʰʊ̯ŋ˧˥],putuk
 be similar; be the same; OBJ is similar to IND,,ANTONYM OF differ,mituk
@@ -534,7 +534,7 @@ breathe; SBJ makes OBJ breathe,,ono [hi̤ːha̤ː],hihah
 kiss; snog; make out; SBJ {kisser} kisses OBJ {kissee},,ono [mwa],mwap
 swallow; suck; consume whole; SBJ {swallower} swallows OBJ {swallowed},,ono [glup glup],kulup
 have sex; make love; SBJ initiates and has sex with OBJ,,cmn <性交> [ɕiŋ˥˩t͡ɕjɑʊ̯˥],cinjaws
-feel; emote; be emotional; be excited; OBJ feels IND {emotion; feeling},,spa <siente> [ˈsjente],set
+feel; emote; be emotional; be excited; OBJ feels IND {emotion; feeling},,swa <hisi> [hisi],his
 be proud; OBJ feels proud of IND {pride},,cmn <骄傲> [t͡ɕjɑʊ̯˥ɑʊ̯˥˩],cjawaws
 be ashamed; be sorry; be remorseful; regret; OBJ feels ashamed about IND {shameful},,ANTONYM OF be proud,fwajajs
 make proud; SBJ makes OBJ feel proud about IND,,INCOHATIVE OF be proud,cjawawskes
@@ -564,10 +564,10 @@ have fun; play; be amused; entertain; OBJ {entertained; audience} is entertained
 be bored; OBJ is bored by IND {boring},,ANTONYM OF have fun,sec
 entertain; make fun; SBJ {entertainer} makes OBJ be entertained by IND,,INCOHATIVE OF have fun,hockes
 bore; tire; kill joy; SBJ makes OBJ be bored by IND,,CESSATIVE OF have fun,hocnos
-be fatigued; be *tired; OBJ is fatigued,,ara <تعب> [tæʕeb],taip
-be rested; be energetic; be bright; have a bushy tail; OBJ is well-rested,,ANTONYM OF be fatigued,laup
-fatigue; tire; burn out; SBJ {tiring} makes OBJ tired,,INCOHATIVE OF be fatigued,taipkes
-rest; recharge; SBJ makes OBJ feel rested,,CESSATIVE OF be fatigued,taipnos
+be fatigued; be *tired; OBJ is fatigued,,eng <tired> [tʰɑɪ̯ɚd],tajat
+be rested; be energetic; be bright; have a bushy tail; OBJ is well-rested,,ANTONYM OF be fatigued,lawat
+fatigue; tire; burn out; SBJ {tiring} makes OBJ tired,,INCOHATIVE OF be fatigued,tajatkes
+rest; recharge; SBJ makes OBJ feel rested,,CESSATIVE OF be fatigued,tajatnos
 feel *pleasure; feel good; feel satisfied; feel euphoria; OBJ {satisfied} feels pleased about IND {satisfying},,ben <পরিতোষ> [pɔrit̪oʂ],politoc
 hurt; be in pain; IND {pain; place where it hurts} hurts OBJ,,ANTONYM OF feel pleasure,melitoc
 please; satisfy; soothe; SBJ makes OBJ feel pleased by IND,,INCOHATIVE OF feel pleasure,politockes
@@ -580,7 +580,7 @@ be likely; be unremarkable; be expectable; OBJ is likely {AMOUNT:P-value},,eng <
 be unlikely; be remarkable; be unexpected; OBJ {coincidence} is unlikely,,ANTONYM OF be likely,tawk
 increase chances; explain away; favour; SBJ makes OBJ more likely,,INCOHATIVE OF be likely,lajkkes
 decrease chances; find coincidence; SBJ makes OBJ less likely,,CESSATIVE OF be likely,lajknos
-correspond; match; be respective; OBJ corresponds to IND,,ben <মিলা> [mil̪a],mit
+correspond; match; be respective; OBJ corresponds to IND,,ara <ماثل> [mæːθæl],masat
 be sharp; be clear; OBJ {edge; blade} is sharp,,jav <cetha> [ceʈa],kjet
 be dull; be blurry; be nebulous; OBJ is dull,,ANTONYM OF be sharp,nwot
 sharpen; clarify; SBJ sharpens OBJ,,INCOHATIVE OF be sharp,kjetkes
@@ -637,9 +637,9 @@ discount; mark down; SBJ decreases the cost of OBJ,,CESSATIVE OF cost,hwafesnos
 have faith; be faithful; hope; OBJ faithfully believes in IND {faith} {AMOUNT:faith; faithfulness},,epo <fidi> [ˈfidi],fit
 give faith; take faith; build up hope; SBJ causes OBJ to gain faith in IND,,INCOHATIVE OF have faith,fitkes
 lose faith; destroy faith; lose hope; SBJ causes OBJ to lose faith in IND,,CESSATIVE OF have faith,fitnos
-be tangled; be knotted; OBJ {knot} is tangled together with IND,,hin <पेचीदा> [pet͡ʃiːdaː],pecit
-tie; knot; tangle; SBJ ties OBJ to IND,,INCOHATIVE OF be tangled,pecitkes
-untie; unknot; untangle; SBJ unties OBJ from IND,,CESSATIVE OF be tangled,pecitnos
+be tangled; be knotted; OBJ {knot} is tangled together with IND,,ben <জট> [d͡ʑɔtɔ],cot
+tie; knot; tangle; SBJ ties OBJ to IND,,INCOHATIVE OF be tangled,cotkes
+untie; unknot; untangle; SBJ unties OBJ from IND,,CESSATIVE OF be tangled,cotnos
 touch; meet; OBJ {touching} and IND are so close to each other that they cannot physically get any closer (please don't get tecnical with my definition of this) {LOCATION:joint; corner; intersection; edge},,spa <toca> [ˈtoka],tok
 touch; join; SBJ touches OBJ to IND,,INCOHATIVE OF touch,tokkes
 cut; separate; divide; split; SBJ makes OBJ stop touching IND {INSTRUMENT:knife; wedge},,CESSATIVE OF touch,toknos

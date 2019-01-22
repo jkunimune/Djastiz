@@ -16,7 +16,7 @@ eng,spa,source,ltl
 "k; /k/; velar plosive",,ono [k],'ko
 "t; /t/; alveolar plosive",,ono [t],'ta
 "p; /p/; bilabial plosive",,ono [p],'pe
-"Arabic; the language {GENITIVE:Arabic; in Arabic}",,ara <العَرَبِيَّة‎> [ˈʕarabiː],'halapi
+"Arabic; the language {GENITIVE:Arabic; in Arabic}",,ara <عربي> [ˈʕarabiː],'alapi
 "Bengali; the language {GENITIVE:Bengali; in Bengali}",,ben <বাংলা> [ˈbaŋla],'panla
 "Chichewa; the language {GENITIVE:Chichewa; in Chichewa}",,nya <Chichewa> [t͡ʃit͡ʃewa],'cicewa
 "Chinese; the macrolanguage {GENITIVE:Chinese; in Chinese}",,cmn <中文> [t͡ʂʊŋ˥wən˧˥],'cunwan
@@ -83,7 +83,7 @@ eng,spa,source,ltl
 "Australasia; the region {GENITIVE:Australasian}",,fra <Australasie> [ostʁaˈlazi],'astwalasi
 "Europe; the region {GENITIVE:European}",,grc <Εὐρώπη> [ēwrɔ́ːpɛ̄ː],'ewlope
 "Maghreb; the region {GENITIVE:Maghreb; Maghrebi}",,ara <مغرب> [maɣrib],'mahlip
-"Mashriq; the region {GENITIVE:Mashriq; Mashriqi}",,ara <مَـشْـرِق> [maʃriq],'maclik
+"Mashriq; the region {GENITIVE:Mashriq; Mashriqi}",,ara <مـشْـرِق> [maʃriq],'maclik
 "Melanesia; the region {GENITIVE:Melanesian}",,fra <Mélanésie> [ˈmelɐnezi],'melanesi
 "Micronesia; the region {GENITIVE:Micronesian}",,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
 "Polynesia; the region {GENITIVE:Polynesian}",,fra <Polynésie> [ˈpolinezi],'polinesi
@@ -121,7 +121,7 @@ eng,spa,source,ltl
 "Canada; the country {GENITIVE:Canadian}",,eng <Canada> [ˈkænədə],'kanata
 "Cape Verde; the country {GENITIVE:Cape Verdean}",,por <TODO> [kaβu veɾðɨ],'kapufelti
 "Central African Republic; the country {GENITIVE:Central African}",,fra <TODO> [sɑ̃tʁafʁik],'sanhafhik
-"Chad; the country {GENITIVE:Chadian}",,ara <TODO> [t͡ʃaːd],'cat
+"Chad; the country {GENITIVE:Chadian}",,fra <Tshad> [tʃad],'cat
 "Chile; the country {GENITIVE:Chilean}",,spa <Chile> [ˈt͡ʃile],'cile
 "China; the country {GENITIVE:Chinese}",,cmn <中国> [ʈ͡ʂʊŋ˥kwɔ˧˥],'cunkwo
 "Colombia; the country {GENITIVE:Columbian}",,spa <Colombia> [koˈlombja],'kolompja
@@ -222,7 +222,7 @@ eng,spa,source,ltl
 "Nigeria; the country {GENITIVE:Nigerian}",,eng <Nigeria> [naɪ̯ˈd͡ʒɪɹʷiə],'najcilia
 "Niue; the country {GENITIVE:Niuean}",,niu <TODO> [niweː],'niwe
 "Norway; the country {GENITIVE:Norwegian}",,nor <TODO> [noɾɡə],'nolka
-"Oman; the country {GENITIVE:Omani}",,ara <TODO> [ʕʊmaːn],'human
+"Oman; the country {GENITIVE:Omani}",,ara <TODO> [ʕʊmaːn],'uman
 "Pakistan; the country {GENITIVE:Pakistani}",,pan <TODO> [pɑːkɪst̪ɑːn],'pakistan
 "Palau; the country {GENITIVE:Palauan}",,eng <Palau> [pəˈlaʊ̯],'palaw
 "Panama; the country {GENITIVE:Panaman}",,spa <Panamá> [panaˈma],'panama
@@ -353,7 +353,7 @@ eng,spa,source,ltl
 "Sikhism; the religion {GENITIVE:Sikh}",,pan <ਸਿੱਖੀ> [ˈsɪkːʰiː],'sikhi
 "Smartism; the sect {GENITIVE:Smarta}",,hin <स्मृति> [smr̩ti],'sumalti
 "Spiritualism; the religion {GENITIVE:Spiritualist}",,eng <Spiritualism> [ˈspɪɹʷɪt͡ʃwəlɪzm̩],'supiwitwalisam
-"Sunni Islam; the sect {GENITIVE:Sunni}",,ara <سُنِّي> [ˈsunniː],'suni
+"Sunni Islam; the sect {GENITIVE:Sunni}",,ara <سني> [ˈsunniː],'suni
 "Taoism; Daoism; the religion {GENITIVE:Taoist; Daoist},,cmn <道教> [taw˥˩ tɕjaw˥˩],'tawcjaw
 "Vaishnavism; the sect {GENITIVE:Vaishnava}",,hin <वैष्णव धर्म> [ʋɛːɕnaːʋə dʱɑːɾm],'wecnawatam
 "Zoroastrianism; the religion {GENITIVE:Zoroastrian}",ave <𐬨𐬀𐬰𐬛𐬀𐬫𐬀𐬯𐬥𐬀> [mazdajasna],'mastajasna
@@ -385,7 +385,7 @@ eng,spa,source,ltl
 "cake; the dish",,non <kaka> [kaka],'kaka
 "calzone; the dish",,ita <calzone> [kalˈt͡soːne],'kalsone
 "chowder; the dish",,eng <chowder> [ˈt͡ʃaʊ̯dɚ],'cawta
-"couscous; the dish",,ara <كُسْكُس> [kuskus],'kuskus
+"couscous; the dish",,ara <كسكس> [kuskus],'kuskus
 "empanada; the dish",,spa <empanada> [empaˈnaða],'empanata
 "escudella; the dish",,cat <escudella> [əskuˈðeʎə],'eskutelja
 "feijoada; the dish",,por <feijoada> [fejʒuˈadɐ],'fejcuata
