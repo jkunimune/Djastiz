@@ -15,7 +15,7 @@ LANG_CODES = {
 	'zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'jv', 'yo',
 	'mr', 'ms', 'ig', 'tl', 'sw', 'zu', 'ny', 'xh', 'sn', 'st'}
 EPITRANSLATORS = {lang:epitran.Epitran(script) for lang, script in
-	[('hi','hin-Deva'), ('bn','ben-Beng'), ('ar','ara-Arab'), ('pa','pan-Guru'), ('jv','jav-Latn'),
+	[('hi','hin-Deva'), ('bn','ben-Beng'), ('pa','pan-Guru'), ('jv','jav-Latn'),
 	 ('yo','yor-Latn'), ('mr','mar-Deva'), ('ms','msa-Latn'), ('tl','tgl-Latn'), ('sw','swa-Latn'),
 	 ('zu','zul-Latn'), ('ny','nya-Latn'), ('xh','xho-Latn'), ('sn','sna-Latn')]}
 
@@ -223,6 +223,35 @@ def read_english(word):
 	return broad, narrow
 
 
+def read_arabic(word):
+	""" apply allophones to Arabic words """
+	broad = word.replace('d͡ʒ','ʒ')
+	narrow = ''
+	for i, c in enumerate(broad):
+		if c == 'a':
+			if (i-1 >= 0 and broad[i-1] in 'rqˤ') or (i+1 < len(broad) and broad[i+1] in 'rq') or (i+2 < len(broad) and broad[i+2] == 'ˤ'):
+				narrow += 'ɑ'
+			elif i-1 < 0 or broad[i-1] not in 'xɣ':
+				narrow += 'æ'
+			else:
+				narrow += 'a'
+		elif c == 'i':
+			if (i-1 >= 0 and broad[i-1] in 'ˤqrħʕ') or (i+1 < len(broad) and broad[i+1] in 'qrħʕ') or (i+2 < len(broad) and broad[i+2] in 'ˤ'):
+				narrow += 'e'
+			else:
+				narrow += 'i'
+		elif c == 'u':
+			if (i-1 >= 0 and broad[i-1] in 'ˤqrħʕ') or (i+1 < len(broad) and broad[i+1] in 'qrħʕ') or (i+2 < len(broad) and broad[i+2] in 'ˤ'):
+				narrow += 'o'
+			else:
+				narrow += 'u'
+		elif c == 'ʒ':
+			narrow += 'd͡ʒ'
+		else:
+			narrow += c
+	return word, narrow
+
+
 IGBO_DIGRAPHS = {
 	'ch':'t͡ʃ', 'gb':'ɡ͡b', 'gh':'ɣ', 'gw':'ɡʷ', 'kp':'k͡p', 'kw':'kʷ', 'nw':'ŋʷ', 'ny':'ɲ', 'n\'':'ŋ', 'sh':'ʃ'}
 IGBO_MONOGRAPHS = {
@@ -329,22 +358,25 @@ def read_sotho(word):
 	return broad, narrow # here come the allophoooooooooooooooooooooooones
 
 
-def read(word, lang):
-	""" Convert a word in a language to IPA """
+def read(orthography, broad, lang):
+	""" Convert a word in a language to IPA, usually straight from the orthography,
+		but using a broad transcription as well in cases like Arabic. """
 	if lang == 'zh-CN':
-		return read_mandarin(word)
+		return read_mandarin(orthography)
 	elif lang == 'es':
-		return read_spanish(word)
+		return read_spanish(orthography)
 	elif lang == 'eo':
-		return read_esperanto(word)
+		return read_esperanto(orthography)
 	elif lang == 'en':
-		return read_english(word)
+		return read_english(orthography)
+	elif lang == 'ar':
+		return read_arabic(broad)
 	elif lang == 'ig':
-		return read_igbo(word)
+		return read_igbo(orthography)
 	elif lang == 'st':
-		return read_sotho(word)
+		return read_sotho(orthography)
 	else:
-		epitranslated = EPITRANSLATORS[lang].transliterate(word.replace('&#39;',"'")) # TODO: epitran kind of sucks at Bengali... maybe I should do it myself
+		epitranslated = EPITRANSLATORS[lang].transliterate(orthography.replace('&#39;',"'")) # TODO: epitran kind of sucks at Bengali... maybe I should do it myself
 		if any([symb in epitranslated for symb in ['ऑ','ॉ','ऍ','ॅ']]): # I'm pretty sure this means it just didn't know how to say that in that language
 			return '*', '*'
 		return (epitranslated.replace('g','ɡ').replace('ঁ','̃').replace('ਂ','̃').replace('ੱ','ː').replace('ঃ','h').replace('ɔ্','').replace('š','ʃ').replace('Ṽ','ã').replace("'",'̩'),)*2
@@ -354,7 +386,7 @@ if __name__ == '__main__':
 	for lang in LANG_CODES:
 		table = pd.read_csv('../data/dict_{}.csv'.format(lang), header=None, names=['meaning','orthography','broad','narrow'], na_filter=False)
 		for i, (meaning, orthography, broad, narrow) in list(table.iterrows()):
-			if orthography and not broad:
-				table.iloc[i][['broad','narrow']] = read(orthography, lang)
+			if orthography and not narrow:
+				table.iloc[i][['broad','narrow']] = read(orthography, broad, lang)
 			print("In {}, {} is spelled <{}> and read /{}/ [{}]".format(lang, *table.iloc[i]))
 		table.to_csv('../data/dict_{}.csv'.format(lang), header=False, index=False)
