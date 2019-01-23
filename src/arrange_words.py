@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.WARNING)
+logging.basicConfig(level=logging.INFO)
 
 
 DIACRITIC_GUIDE = {
@@ -73,9 +73,10 @@ ALLOWED_CHANGES = [
 	('xχħhɦ', 'h'),
 	('wʷɰ', 'w'),
 	('jʲʎ', 'j'),
-	('lɬrɾɽɭ', 'l'),
+	('lrɾɽɭ', 'l'),
+	('ɬɮ', 'cl'),
 	('ʰˤʼ',''),
-	('- ˩˨˧˦˥ˈˌː͡⁀..,，​', '')
+	('- ˩˨˧˦˥ˈˌː͡⁀..,，​', ''),
 ]
 RESTRICTED_CHANGES = [
 	('ə', 'a'),
@@ -86,7 +87,6 @@ RESTRICTED_CHANGES = [
 	('ʄ', 'kj'),
 	('ð', 's'),
 	('ɣʁʀ', 'h'),
-	('ɮ', 'l'),
 	('ʔʕ', ''),
 ]
 
@@ -191,10 +191,10 @@ def reduce_phoneme(phoneme, before, after):
 		if phoneme in fulls:
 			return reduced, 1
 	if phoneme in ['β','v','ⱱ','ʋ']: # these blocks will take care of the weird ones that depend on context
-		if not before or not after or before in ['w','u','o'] or after in ['w','u']:
-			return 'f', 1 # use 'f' when you need a consonant or to create contrast,
+		if not after or before in ['w','u'] or after in ['w','u'] or (before == 'o' and is_consonant(after)):
+			return 'f', .5 # use 'f' when you need a consonant or to create contrast,
 		else:
-			return 'w', 0 # 'w' otherwise
+			return 'w', .5 # 'w' otherwise
 	if phoneme == 'ʝ':
 		return ('hj', 0) if not before else ('j', 0) # /ʝ/ gets a free 'h' if it needs it
 	if phoneme == 'y':
@@ -225,7 +225,7 @@ def reduce_phoneme(phoneme, before, after):
 	raise ValueError(phoneme)
 
 
-def apply_phonotactics(ipa, ending='csktp'): # TODO: what if dynamic verbs end in 'a'+something
+def apply_phonotactics(ipa, ending=''):
 	""" take some phonetic alphabet and approximate it with my phonotactics, and say how many changes there were """
 	to_convert = ipa
 	lsl, changes = '', 0
@@ -239,7 +239,7 @@ def apply_phonotactics(ipa, ending='csktp'): # TODO: what if dynamic verbs end i
 
 			if len(to_convert) > 1 and to_convert[-1] in ['̩','̯']: # combine certain combining diacritics
 				to_convert, left_phoneme = to_convert[:-2], to_convert[-2:]
-			elif len(to_convert) > 2 and to_convert[-2] == '͡': # treat tied characters as one phoneme
+			elif to_convert[-1] in 'ɸβszʃʒɕʑʂʐxɣɬ' and len(to_convert) > 2 and to_convert[-2] == '͡': # treat tied fricatives as one phoneme
 				to_convert, left_phoneme = to_convert[:-3], to_convert[-1:]
 			else:
 				to_convert, left_phoneme = to_convert[:-1], to_convert[-1:]
@@ -254,34 +254,64 @@ def apply_phonotactics(ipa, ending='csktp'): # TODO: what if dynamic verbs end i
 		next_phoneme = this_phoneme
 		this_phoneme = left_phoneme # move forward (backward)
 
-	while not is_consonant(lsl[-1]): # make sure it ends with a consonant
-		num_vowels = len(re.findall(r'[eaoiu]', lsl))
-		if num_vowels == 1 or not is_consonant(lsl[-2]): # either by adding a consonant to the end if there are multiple trailing vowel/glides or there aren't enough vowels
-			lsl += 'h' if 'h' in ending else 's'
-			changes += 0.5
-		else: # or by removing if there is just one
-			lsl = lsl[:-1]
-			changes += 0.5
-
 	for i in range(len(lsl)-1, 0, -1):
 		if lsl[i-1] == lsl[i]: # remove double lettres
 			lsl = lsl[:i-1] + lsl[i:]
 			changes += 0.5
-	for i in range(len(lsl)-1, 0, -1):
-		if is_consonant(lsl[i-1]) and is_consonant(lsl[i]): # remove consonant clusters
-			one_true_consonant = strongest(lsl[i-1:i+1], preference=ending if i == len(lsl)-1 else [])
-			lsl = lsl[:i-1] + one_true_consonant + lsl[i+1:]
-			changes += 1
-
-	if not is_consonant(lsl[0]): # make sure it starts with a consonant
-		lsl = 'h' + lsl
-		changes += 1
-	if not lsl[-1] in ending: # make sure it ends on the right class of letter
-		lsl = lsl[:-1] + INVERSES[lsl[-1]]
-		changes += 1
 
 	lsl = re.sub(r'([lnmhcsfktp])w([lnmhcsfktp])', r'\1u\2', lsl) # these rogue semivowels are weird and need to go die.
 	lsl = re.sub(r'([lnmhcsfktp])j([lnmhcsfktp])', r'\1i\2', lsl)
+
+	if ending == 'c': # make sure it ends with a consonant
+		while not is_consonant(lsl[-1]):
+			num_vowels = len(re.findall(r'[eaoiu]', lsl))
+			if num_vowels > 1 and is_consonant(lsl[-2]): # either by removing the last letter if that will work
+				lsl = lsl[:-1]
+				changes += 1
+			else: # or by adding a consonant to the end
+				lsl += 'h'
+				changes += 1
+	elif ending == 'v': # make sure it ends with a vowel
+		if lsl[-1] not in 'eaoiu':
+			if lsl[-1] == 'j':
+				lsl = lsl[:-1] + 'i' # either by changing a semivowel to a vowel if that would work
+				changes += 0.5
+			elif lsl[-1] == 'w':
+				lsl = lsl[:-1] + 'u'
+				changes += 0.5
+			elif lsl[-1] == 'h' and lsl[-2] in 'eaoiu': # or by removing a final 'h'
+				lsl = lsl[:-1]
+				changes += 1
+			else: # or by just adding another vowel to the end
+				lsl += re.findall(r'[eaoiu]', lsl)[-1]
+				changes += 1
+	if lsl[0] not in 'eaoiujw' and lsl[1] not in 'eaoiujw': # also, if it starts with two consonants,
+		lsl = re.findall(r'[eaoiu]', lsl)[0] + lsl # throw a vowel on the front
+		changes += 1
+
+	i = 0
+	clusters = []
+	while i < len(lsl): # to get the consonant clusters,
+		j = i # group letters into sets of vowel/semivowels and consonants
+		while j < len(lsl) and (lsl[j] in 'eaoiujw') == (lsl[i] in 'eaoiujw'):
+			j += 1
+		clusters.append(lsl[i:j])
+		i = j
+	for i in range(len(clusters)):
+		cluster = clusters[i]
+		if cluster[0] not in 'eaoiujw': # take all the consonant clusters
+			if i == 0 or i == len(clusters)-1:
+				max_len = 1
+			else:
+				max_len = 2
+			if len(cluster) > max_len: # that are too long
+				idcs = list(range(len(cluster))) # pick out the most important consonants
+				idcs.sort(key=lambda idx:strength_of(cluster[idx]))
+				idcs = sorted(idcs[:max_len])
+				clusters[i] = ''.join(cluster[j] for j in idcs) # and discard the rest
+				changes += len(cluster) - max_len
+	lsl = ''.join(clusters)
+
 	lsl = re.sub(r'ej([lnmhcsfktp\b])', r'e\1', lsl) # restricted diphthongs
 	lsl = re.sub(r'ow([lnmhcsfktp\b])', r'o\1', lsl)
 	lsl = re.sub(r'w?uw?', 'u', lsl) # these are effectively double letters
@@ -345,7 +375,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 			continue # star means we don't have that word
 
 		try:
-			reduced, changes = apply_phonotactics(broad, ending='lnmhf' if partos=='noun' else 'csktp')
+			reduced, changes = apply_phonotactics(broad, ending='c' if partos=='noun' else 'v')
 		except ValueError as e:
 			logging.error("could not read IPA in {} \"{}\" /{}/; '{}' may not be an IPA symbol".format(lang, english, broad, e))
 			continue
@@ -353,16 +383,16 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
 		if not legal_new_word(reduced, all_words, open_words, has_antonym, lang=lang, ipa=narrow):
 			score = float('-inf') # don't allow it to be taken if it's not legal (but still put it in the list so we can compare it to other candidates)
-		score -= 3.0*changes # favour words that require fewer changes
+		score -= 10.0*changes # favour words that require fewer changes
 
 		options.append((lang, orthography, narrow, reduced))
 		scores.append(score)
 
 	for i, ((lang, orthography, narrow, reduced), score) in enumerate(zip(options, scores)):
-		score -= 1.0*len(reduced) # prefer shorter words
+		score -= 3.0*len(reduced) # prefer shorter words
 		for lang2, _, _, reduced2 in options:
 			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other major languages
-				if c1 == c2:								score += 2*DESIRED_FRAC[lang2]
+				if c1 == c2:								score += 6.0*DESIRED_FRAC[lang2]
 				elif is_consonant(c1) or is_consonant(c2):	break
 		scores[i] = score
 
@@ -374,7 +404,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 
 
 def derive(source_word, deriv_type, all_words, has_antonym):
-	""" Apply that powerful morphological derivation system I keep bragging about """
+	""" Apply that powerful morphological derivation system about which I keep bragging """
 	if deriv_type in ['ANTONYM', 'REVERSAL', 'OPPOSITE']:
 		return get_antonym(source_word)
 	elif deriv_type in ['CESSATIVE']:
