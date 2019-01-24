@@ -141,7 +141,7 @@ daydream; hallucinate; OBJ {daydreamer} hallucinates IND {daydream},,day dream,s
 map,,layout image,hanteklam
 map projection,,map transformation,hanteklamkonwetliel
 be hallowed; worship; OBJ {worshiper} worships SBJ,,god like,tiohhaws
-rule monarchially; IND {monarch; king; queen} rules OBJ {peasant; kingdom} {LOCATION:kingdom},,1 govern,kanlac
+rule as a monarch; IND {monarch; king; queen} rules OBJ {peasant; kingdom} {LOCATION:kingdom},,1 govern,kanlac
 tempt; entice to something appealing but immoral; SBJ {tempter; temptress} encourages IND {temptee} to do OBJ {temptation},,be-evil tell,pelatnacwos
 foot {GENITIVE:pedal},,leg hand,lenman
 shoulder,,arm joint,pihtokleh

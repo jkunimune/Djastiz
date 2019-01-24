@@ -16,7 +16,7 @@ eng,spa,source,ltl
 "k; /k/; velar plosive",,ono [k],'ko
 "t; /t/; alveolar plosive",,ono [t],'ta
 "p; /p/; bilabial plosive",,ono [p],'pe
-"Arabic; the language {GENITIVE:Arabic; in Arabic}",,ara <عربي> [ˈʕarabiː],'alapi
+"Arabic; the language {GENITIVE:Arabic; in Arabic}",,ara <عربي> [ˈʕɑrɑbiː],'alapi
 "Bengali; the language {GENITIVE:Bengali; in Bengali}",,ben <বাংলা> [ˈbaŋla],'panla
 "Chichewa; the language {GENITIVE:Chichewa; in Chichewa}",,nya <Chichewa> [t͡ʃit͡ʃewa],'cicewa
 "Chinese; the macrolanguage {GENITIVE:Chinese; in Chinese}",,cmn <中文> [t͡ʂʊŋ˥wən˧˥],'cunwan
@@ -25,6 +25,7 @@ eng,spa,source,ltl
 "Filipino; the language {GENITIVE:Filipino; in Filipino}",,fil <Wikang Filipino> [wɪˈkɐŋ ˌfiːliˈpiːno],'wikanfilipino
 "French; the language {GENITIVE:French; in French}",,fra <français> [fʁɑ̃ˈsɛ],'fanse
 "German; the language {GENITIVE:German; in German}",,deu <Deutsch> [dɔʏ̯t͡ʃ],'tojc
+"Greek; the language {GENITIVE:Greek; in Greek}",,ell <ελληνικά> [eliniˈka],'elinika
 "Hausa; the language {GENITIVE:Hausa; in Hausa}",,hau <هَرْشَن هَوْسَ‬> [haɽʃen hausa],'halcenhausa
 "Hawaiian; the language {GENITIVE:Hawaiian; in Hawaiian}",,haw <ʻŌlelo Hawaiʻi> [ʔoːˈlɛlo həˈvɐjʔi],'olelohawaji
 "Hindi; the language {GENITIVE:Hindi; in Hindi}",,hin <हिन्दी> [ɦind̪iː],'hinti
@@ -33,9 +34,9 @@ eng,spa,source,ltl
 "Interlingua; the language {GENITIVE:Interlingua; in Interlingua}",,ina <Interlingua> [inteɾˈliŋɡwa],'intelinkwa
 "Italian; the language {GENITIVE:Italian; in Italian}",,ita <italiano> [itaˈljaːno],'italjano
 "Japanese; the language {GENITIVE:Japanese; in Japanese}",,jpn <日本語> [ɲihoŋɡo],'nihonko
-"Javanese; the language {GENITIVE:Javanese; in Javanese}",,jav <ꦧꦱꦗꦮ> [tjɔrɔ d͡ʒɔwɔ],'tjolocowo
+"Javanese; the language {GENITIVE:Javanese; in Javanese}",,jav <ꦧꦱꦗꦮ> [bɔsɔ d͡ʒɔwɔ],'pasacawa
 "Korean; the language {GENITIVE:Korean; in Korean}",,kor <한국어> [haːnɡuɡʌ],'hankuka
-"Latin; the language {GENITIVE:Latin; in Latin}",,lat <lingua latīna> [ˈlɪŋɡʷa laˈtiːna],'linkwalatina
+"Latin; the language {GENITIVE:Latin; in Latin}",,lat <Latīne> [laˈtiːnɛ],'latine
 "Lingua Franca Nova; Elefen; the language {GENITIVE:Lingua Franca Nova; in Lingua Franca Nova}",,lfn <Elefen> [elefen],'elefen
 "Lojban; the language {GENITIVE:Lojban; in Lojban}",,ljb <.lojban.> [ˈʔloʒbanʔ],'locpan
 "Malay; the language {GENITIVE:Malay; in Malay}",,msa <بهاس ملايو> [bahasə melaju],'pahasamelaju
@@ -151,11 +152,11 @@ eng,spa,source,ltl
 "France; the country {GENITIVE:French; from France}",,fra <France> [fʁɑ̃s],'fahansa
 "Gabon; the country {GENITIVE:Gabonese; from Gabon}",,fra <TODO> [ɡabɔ̃],'kapon
 "The Gambia; the country {GENITIVE:Gambian; from the Gambia}",,eng <Gambia> [ˈɡæmbiə],'kampia
-"Georgia; the country {GENITIVE:Georgian; from Georgia}",,kat <TODO> [sɑkʰɑrtʰvɛlɔ],'sakaltafelo
+"Georgia; the country {GENITIVE:Georgian; from Georgia}",,kat <TODO> [sɑkʰɑrtʰvɛlɔ],'sakaltwelo
 "Germany; the country {GENITIVE:German; from Germany}",,deu <Deutschland> [ˈdɔʏ̯t͡ʃlant],'tojclan
 "Ghana; the country {GENITIVE:Ghanan; from Ghana}",,aka <TODO> [gaːnæ],'kana
 "Greece; the country {GENITIVE:Greek; Grecian; Hellenic; from Greece}",,ell <TODO> [elaða],'elasa
-"Greenland; the country {GENITIVE:Greenlandic; from Greenland}",,kal <TODO> [kalaːɬit nunaːt],'kalaslitnunat
+"Greenland; the country {GENITIVE:Greenlandic; from Greenland}",,kal <TODO> [kalaːɬit nunaːt],'kalaclitnunat
 "Grenada; the country {GENITIVE:Grenadan; from Grenada}",,eng <Grenada> [ɡɹʷəˈneɪ̯də],'kwanejta
 "Guatemala; the country {GENITIVE:Guatemalan; from Guatemala}",,spa <Guatemala> [gwateˈmala],'kwatemala
 "Guinea; the country {GENITIVE:Guinean; from Guinea}",,ful <TODO> [gine],'kine
