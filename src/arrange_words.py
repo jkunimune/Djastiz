@@ -154,12 +154,7 @@ def has_antonym(entry):
 
 def get_antonym(word):
 	""" invert all letters up to the second consonant """
-	new_word = INVERSES[word[0]]
-	for c in word[1:]:
-		if not is_consonant(c):	new_word += INVERSES[c]
-		else:					break # we're out of the switching section
-	new_word += word[len(new_word):]
-	return new_word
+	return ''.join(INVERSES[c] for c in word)
 
 
 def reduce_phoneme(phoneme, before, after):
@@ -285,7 +280,7 @@ def apply_phonotactics(ipa, ending=''):
 			else: # or by just adding another vowel to the end
 				lsl += re.findall(r'[eaoiu]', lsl)[-1]
 				changes += 1
-	if lsl[0] not in 'eaoiujw' and lsl[1] not in 'eaoiujw': # also, if it starts with two consonants,
+	if len(lsl) >=2 and lsl[0] not in 'eaoiujw' and lsl[1] not in 'eaoiujw': # also, if it starts with two consonants,
 		lsl = re.findall(r'[eaoiu]', lsl)[0] + lsl # throw a vowel on the front
 		changes += 1
 
