@@ -6,12 +6,34 @@ So, you want to sing a better and more succinct version of [Olde Djastiz](https:
 
 ### Alphabet
 
-Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen most common sounds, and writes them with a basic one-letter-per-phoneme-one-phoneme-per-letter Latin-derived orthography. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days. The following tables sumarise the phonology using the [International Phonetic Alphabet](1):
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pen", "pane", and "bane" sound different to most English speakers, all are acceptable pronunciations for Ulcwoliel "pen". The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days. In particular, if you already speak English, the only things that need be learned are the vowels, which are as in Spanish, Japanese, or Hawaiian, and the letter "j", which is as in German or Latin:
+
+| Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)| Inverse | Class
+|------|--------|--------------|------------|------------|------    ---|---------|-------
+|   e  |   e    |    Є         |  Egg, frAY |     ɛ      |  e\~ɛ, eɪ   |    o    | Vowel
+|   a  |   a    |    Ƌ, ɑ, α   | tAco, hAck |     a      |    a\~ɑ     |    a    | Vowel
+|   o  |   o    |    O, σ      | OAt, Organ |     ɔ      |  o\~ɔ, oʊ   |    e    | Vowel
+|   i  |   i    |    I, ι      |EAt, scrEEch|     i      |    i\~ɪ     |    u    | Vowel
+|   u  |   u    |    U, v      | frUIt, OOze|     u      |    u\~ʊ     |    i    | Vowel
+|  jot |   j    |    J         |Yogurt, Yell|     j      |   j, ʲ, i   |   wet   | Glide
+|  lo  |   l    |    L         | Lime, faLL |     l      |    l\~r     |    te   | Sonorant
+|  wet |   w    |    W, ɯ      | Wine, qUiet|     w      |   w, ʷ, u   |   jot   | Glide
+|  no  |   n    |    Λ         |Nectar, paiN|     n      |   n, ŋ\~ɴ   |    ko   | Sonorant
+|  me  |   m    |    M         |Melon, screaM|    m      |      m      |    pe   | Sonorant
+|  ho  |   h    |    Һ         | Honey, Hide|     h      |   x\~h, ɦ   |    co   | Sonorant
+|  co  |   c    |    C         |CHeese, SHear|   t͡ʃ      |t͡ʃ\~t͡ʂ, ʃ\~ʂ |    ho   | Obstruent
+|  se  |   s    |    S         | Salt, hiSS |     s      |      s      |    fe   | Obstruent
+|  fe  |   f    |    F         | Fish, couGH|     f      |    ɸ\~f     |    se   | Sonorant
+|  ko  |   k    |    K, κ      | Cake, Grab |     k      |   k kʰ ɡ    |    no   | Obstruent
+|  te  |   t    |    T, τ      |  Tea, Deep |     t      |   t tʰ d    |    lo   | Obstruent
+|  pe  |   p    |    P, ρ      | Pear, Burst|     p      |   p pʰ b    |    me   | Obstruent
+
+If you're a linguist, the following [IPA](1) table may prove easier to read:
 
 |               | Labial | Coronal | Palatal | Guttural |
 |:--------------|:------:|:-------:|:-------:|:--------:|
 |**Plosive**    |    p   |    t    |         |    k     |
-|**Fricative**  |    f   |    s    |  tʃ ⟨c⟩  |    h     |
+|**Fricative**  |    f   |    s    |  t͡ʃ ⟨c⟩  |    h     |
 |**Nasal**      |    m   |    n    |         |          |
 |**Approximant**|    w   |    l    |    j    |          |
 
@@ -23,25 +45,7 @@ Before you read any further, you'll need to know how to read, say, and write the
 
 If you don't know what any of that means, don't worry about it. Here is a more thorough table. Note that in addition to a name and a symbol, each letter has a default, recommended pronunciation, and several alternate pronunciations. The alternate pronunciations are just allowed variations on each sound for people who don't have the recommended pronunciation in their native tongue. You speak English, so you pretty much have all of the recommended pronunciations down, so just know that you might hear people of different backgrounds using some slightly different pronunciations of each letter. The "Inverse" and "Class" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
 
-| Name | Symbol | Alt. Symbols | Sound[1] | Alt. Sounds[1] | English | Inverse | Class
-|------|--------|--------------|------------|-------------|---------|---------|-------
-|   e  |   e    |    Є         |     ɛ      |    e\~ɛ     |   End   |    o    | Vowel
-|   a  |   a    |    Ƌ, ɑ, α   |     a      |    a\~ɑ     |   Off   |    a    | Vowel
-|   o  |   o    |    O, σ      |     ɔ      |    o\~ɔ     |  Organ  |    e    | Vowel
-|   i  |   i    |    I, ι      |     i      |    i\~ɪ     |   EAt   |    u    | Vowel
-|   u  |   u    |    U, v      |     u      |    u\~ʊ     |   OOze  |    i    | Vowel
-|  jot |   j    |    J         |     j      |   j, ʲ, i   |   Yell  |   wet   | Glide
-|  lo  |   l    |    L         |     l      |    l\~ɾ     |   Limb  |    te   | Sonorant
-|  wet |   w    |    W, ɯ      |     w      |   w, ʷ, u   |  Wander |   jot   | Glide
-|  no  |   n    |    Λ         |     n      |   n, ŋ\~ɴ   |   Night |    ko   | Sonorant
-|  me  |   m    |    M         |     m      |      m      |   Meat  |    pe   | Sonorant
-|  ho  |   h    |    Һ         |     h      |   x\~h, ɦ   |   Hack  |    co   | Sonorant
-|  co  |   c    |    C         |    tʃ      |tʃ\~tʂ, ʃ\~ʂ |   CHop  |    ho   | Obstruent
-|  se  |   s    |    S         |     s      |      s      |   Soon  |    fe   | Obstruent
-|  fe  |   f    |    F         |     f      |    ɸ\~f     |   Fall  |    se   | Sonorant
-|  ko  |   k    |    K, κ      |     k      |   k kʰ ɡ    |   Kill  |    no   | Obstruent
-|  te  |   t    |    T, τ      |     t      |   t tʰ d    |   Tomb  |    lo   | Obstruent
-|  pe  |   p    |    P, ρ      |     p      |   p pʰ b    |   Pool  |    me   | Obstruent
+
 
 You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
