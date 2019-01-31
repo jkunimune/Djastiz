@@ -2,7 +2,7 @@ eng,spa,source,ltl
 be absent; be gone; be away; be weak; OBJ is absent,,NEGATIVE OF be present,lehkwekinjo
 summon; bring forth; pull up; place; SBJ summons OBJ,,INCOHATIVE OF be present,lehkwekiki
 dispose; throw away; get rid; remove; SBJ disposes of OBJ {trash; garbage},,CESSATIVE OF be present,lehkwekinu
-continue; be happening; keep; stay; be in progress; undergo; maintain; _progressive_; SBJ {maintainer} makes OBJ hold true for some time,,epo <daŭrigi> [dawˈriɡi],tawliki
+continue; be happening; keep; stay; be in progress; undergo; maintain; preserve; _progressive_; SBJ {maintainer} makes OBJ hold true for some time,,epo <daŭrigi> [dawˈriɡi],tawliki
 change; be in flux; SBJ {bringer of change} changes OBJ somehow,,NEGATIVE OF continue,tawlikinjo
 repeat; do again; return to; SBJ makes OBJ happen multiple times,,epo <ripeti> [riˈpeti],lipeti
 reverse; do back; return from; SBJ makes OBJ happen in reverse after having happened,,REVERSAL OF repeat,tumolu
@@ -15,10 +15,10 @@ be stable; be sustainable; OBJ can continue without changing,,POSSIBILITY OF con
 be unstable; be unsustainable; OBJ cannot continue forever,,NEGATIVE OF be stable,tawlikipowinjo
 try; attempt; will; intend; attempt; do for; do so; do in order to; SBJ {purposeful; intentful} makes OBJ {means} happen in order to make IND {purpose; reason; goal; end; intention; beneficiary} happen,,cmn <试> [ʂɨ˥˩],ci
 give up; quit; stop trying; SBJ {quitter} stops trying to make IND happen by doing OBJ,,CESSATIVE OF try,cinu
-want; desire; hunger; hope; have an appetite; OBJ {hoper; wanter; desirous; hungry} wants IND {desire; wish; hope} to happen,,ben <চাই> [t͡ɕai],cai
-be averse; want not; OBJ does not want IND {unfavourable} to happen,,ANTONYM OF want,fau
-encourage; SBJ {encourager} encourages OBJ {encouraged} to do IND,,INCOHATIVE OF want,caiki
-discourage; SBJ {discourager} discourages OBJ {discouraged} from doing IND,,CESSATIVE OF want,cainu
+want; like; beI good; desire; favour; beI appealing; beI pleasing; hunger; have an appetite; hope; beI beautiful; be positive; OBJ {liker; optimist; hoper; wanter; desirous; hungry; -phile} has positive inclinations toward IND {desire; wish; hope; preference; favourite} {AMOUNT:goodness; preference level|LOCATION:heaven},,ben <চাই> [t͡ɕai],cai
+dislike; be averse; beI bad; disfavour; be unappealing; be displeasing; want not; beI ugly; beI gross; be negative; OBJ {pessimist; -phobe} has negative inclinations toward IND {unfavourable; anathema; least favourite} {LOCATION:hell},,ANTONYM OF want,fau
+encourage; improve; defend; argue for; SBJ {encourager; improver} raises OBJ {encouraged}'s opinion of IND,,INCOHATIVE OF want,caiki
+discourage; worsen; insult; argue against; SBJ {discourager; worsener} lowers OBJ {discouraged}'s opinion of IND,,CESSATIVE OF want,cainu
 need; require; must; be necessary; suffice; be enough; OBJ {requisite; requirement} must be true in order for IND to be true,,epo <bezoni> [beˈzoni],pesoni
 be unacceptable; be too much; be insufficient; IND cannot be true if OBJ is true,,ANTONYM OF need,moheku
 *should; be fit; be good; OBJ should happen to make IND {value function; goal} be true,,yor <yẹ> [jɛ],je
@@ -61,7 +61,7 @@ smother; suppress odor; SBJ makes OBJ stop smelling IND,,CESSATIVE OF can smell,
 can taste; taste; OBJ tastes IND {taste; flavour} {GENITIVE:gustatory},,fil <lasa> [lasa],lasa
 sample; show taste; SBJ makes OBJ start tasting IND,,INCOHATIVE OF can taste,lasaki
 obscure taste; SBJ makes OBJ stop tasting IND,,CESSATIVE OF can taste,lasanu
-can feel; feel; *touch; OBJ can feel IND {GENITIVE:tactile; tactual},,epo <tuŝi> [ˈtuʃi],tuci
+can feel; feel; *touch; OBJ can physically feel IND {GENITIVE:tactile; tactual},,epo <tuŝi> [ˈtuʃi],tuci
 show tactually; SBJ shows IND to OBJ tactually,,INCOHATIVE OF can feel,tuciki
 hide tactually; SBJ makes OBJ stop feeling IND,,CESSATIVE OF can feel,tucinu
 read; load; interpret; SBJ {reader} reads OBJ {file; text; reading; passage; data; note} from the physical state of IND {source},,cmn <读> [tu˧˥],tu
@@ -117,10 +117,6 @@ drive apart; aggravate; SBJ {enemy-maker} makes OBJ become hostile toward IND,,C
 love; be infatuated; OBJ {lover} is in love with IND {love; object of affection},,spa <ama> [ˈama],ama
 set up; fall in love; introduce; infatuate; SBJ {matchmaker; cupid} makes OBJ fall in love with IND,,INCOHATIVE OF love,amaki
 relate; OBJ {relatee} is genetically related to IND {relative; kin; blood},,ibo <ịkọ> [ɪkɒ],iko
-like; be *good; favour; be appealing; be pleasing; be beautiful; be delicious; be positive; OBJ {liker; optimist; -phile} likes IND {preference; favourite} {AMOUNT:goodness; preference level|LOCATION:heaven},,epo <bona> [ˈbona],pona
-dislike; be bad; disfavour; be unappealing; be displeasing; be ugly; be gross; be negative; OBJ {pessimist; -phobe} dislikes IND {anathema; least favourite} {LOCATION:hell},,ANTONYM OF like,meka
-improve; defend; argue for; SBJ {improver} raises OBJ's opinion of IND,,INCOHATIVE OF like,ponaki
-worsen; insult; argue against; SBJ {worsener} lowers OBJ's opinion of IND,,CESSATIVE OF like,ponanu
 be okay; be fine; be all right; be acceptable; OBJ is okay,,ara <جيدا> [d͡ʒiːdæː],cita
 make okay; make acceptable; SBJ makes OBJ okay,,INCOHATIVE OF be okay,citaki
 make not okay; cross the line; make unacceptable; SBJ makes OBJ not okay,,CESSATIVE OF be okay,citanu
@@ -153,10 +149,10 @@ be near; be close; be before; be approximately; be almost; be like; OBJ is physi
 distance; go away; separate; SBJ {separator} distances OBJ from IND,,INCOHATIVE OF be far,kuteki
 approach; go toward; meet; draw close; bring together; gather; SBJ {gatherer; joiner} moves OBJ toward IND,,CESSATIVE OF be far,kutenu
 keep apart; separate; divide; avoid; SBJ {wall; barrier} keeps OBJ {other side} away from IND,,PROGRESSIVE OF be far,kutetawliki
-be in front; be forward; be between; OBJ {field of view} has a positive _y_ coordinate from IND's point of view {AMOUNT:_y_ coordinate},,hin <सामने> [saːmne],samne
-be behind; be backward; OBJ {back} has a negative _y_ coordinate from IND's point of view,,ANTONYM OF be in front,hapko
-advance; go forward; SBJ {advancer} makes OBJ move forward from IND's point of view,,INCOHATIVE OF be in front,samneki
-retreat; go backward; SBJ {retreater} makes OBJ move backward from IND's point of view,,CESSATIVE OF be in front,samnenu
+be in front; be *ahead; be forward; OBJ {field of view} has a positive _y_ coordinate from IND's point of view {AMOUNT:_y_ coordinate; progress},,hin <सामने> [saːmne],samne
+be behind; be backward; lag; OBJ {back} has a negative _y_ coordinate from IND's point of view,,ANTONYM OF be in front,hapko
+advance; go ahead; go forward; progress; gain; SBJ {advancer} makes OBJ move forward from IND's point of view,,INCOHATIVE OF be in front,samneki
+retreat; fall behind; go backward; lose; SBJ {retreater} makes OBJ move backward from IND's point of view,,CESSATIVE OF be in front,samnenu
 follow; trail; SBJ makes OBJ {follower; tail} follow IND {followed},,PROGRESSIVE OF be behind,hapkotawliki
 be to the right; OBJ {right side} has a positive _x_ coordinate from IND's point of view {AMOUNT:_x_ coordinate},estar *derecha; OBJ {el lado derecho} tiene una coordenada _x_ positiva del punto de vista de IND {AMOUNT:coordenada _x_},cmn <右> [yoʊ̯˥˩],iou
 be to the left; OBJ {left side} has a negative _x_ coordinate from IND's point of view,,ANTONYM OF be to the right,uei
@@ -305,10 +301,6 @@ deduce; compute; *reason; be reasonable; be logical; figure; figure out; compute
 act crazy; be unreasonable; be illogical; jump to conclusion; guess; SBJ {unreasonable; crazy} comes to the conclusion OBJ without any logic,,OPPOSITE OF deduce,kisa
 think of; come up with; invent; have an idea; SBJ {creative; clever; idea person} thinks of OBJ {idea; thought; invention} {CAUSE:inspiration},*idear; sugerir; proponer; SBJ {creativo} idea OBJ {idea; pienso; invención} {CAUSE:inspiración},spa <idea> [iˈðea],itea
 ponder; think about; imagine; consider; SBJ {thinker; ponderer} is thinks about OBJ {train of thought} {INSTRUMENT:mind; imaaagination},,ben <চিন্তা> [t͡ɕin̪t̪a],cinta
-be ahead; have progress; OBJ is ahead of IND {AMOUNT:progress},,hin <आगे> [aːɡe],ake
-be behind; lag; OBJ has fallen behind IND,,ANTONYM OF be ahead,ano
-pull ahead; progress; make progress; go forth; gain; SBJ pushes OBJ's progress ahead relative to IND,,INCOHATIVE OF be ahead,akeki
-fall behind; lose progress; go back; lose; SBJ pulls OBJ's progress backward relative to IND,,CESSATIVE OF be ahead,akenu
 "be fast; be quick; be frequent; hurry; OBJ progresses, oscillates, or decays quickly {AMOUNT:speed; frequency}",,cmn <快速> [kʰwaɪ̯˥˩su˥˩],kwajsu
 "be slow; be gradual; be periodic; OBJ progresses, oscillates, or decays slowly {AMOUNT:period; time constant}",,ANTONYM OF be fast,njawhi
 be heavy; weigh; be massive; OBJ {weight; heavyweight} is heavy {AMOUNT:weight; mass},,pan <ਭਾਰੀ> [pɑɾi],pali
@@ -534,7 +526,7 @@ breathe; SBJ makes OBJ breathe,,ono [hi̤ːha̤ː],hihah
 kiss; snog; make out; SBJ {kisser} kisses OBJ {kissee},,ono [mwa],mwap
 swallow; suck; consume whole; SBJ {swallower} swallows OBJ {swallowed},,ono [glup glup],kulup
 have sex; make love; SBJ initiates and has sex with OBJ,,spa <sexo> [ˈsekso],sekso
-feel; emote; be emotional; be excited; OBJ feels IND {emotion; feeling},,epo <senti> [ˈsenti],senti
+feel; emote; be emotional; be excited; OBJ emotionally feels IND {emotion; feeling},,epo <senti> [ˈsenti],senti
 be proud; OBJ feels proud of IND {pride},,epo <fieri> [fiˈeri],fieli
 be ashamed; be sorry; be remorseful; regret; OBJ feels ashamed about IND {shameful},,ANTONYM OF be proud,cuotu
 make proud; SBJ makes OBJ feel proud about IND,,INCOHATIVE OF be proud,fieliki

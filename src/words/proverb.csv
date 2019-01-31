@@ -8,4 +8,4 @@ eng,spa,source,ltl
 "be; exist; have; equal; be the same; _copula_; OBJ {thing} exists and is the same thing as IND {AMOUNT:number; count; amount|GENITIVE:fair; uniform; equal}",,spa <estar> [estar],esta
 "be opposite; be contrary; OBJ is the opposite of IND",,OPPOSITE OF be,ohka
 "create; make; give; get; appear; produce; SBJ {creator} makes OBJ {creation} into IND {LOCATION:factory; makery; source|METHOD:recipe}",,INCOHATIVE OF be,estaki
-"delete; destroy; take; disappear; SBJ {deleter; destroyer} deletes OBJ {deleted; disappeared}",,CESSATIVE OF be,estanu
+"delete; destroy; take; disappear; ruin; SBJ {deleter; destroyer} deletes OBJ {deleted; disappeared}",,CESSATIVE OF be,estanu
