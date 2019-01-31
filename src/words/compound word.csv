@@ -73,7 +73,7 @@ be wrong; be incorrect; OBJ falsely thinks IND {falsehood} to be true,,no think,
 trust; find trustworthy; OBJ trusts IND,,tell-the-truth believe,kwecwotenta
 mistrust; find untrustworthy; OBJ does not trust IND,,lie believe,faktutenta
 achieve; accomplish; complete; SBJ makes OBJ {achiever} achieve IND {accomplished; achieved; completed},,all progress,tukakeljan
-use internet; signal; SBJ {sender (engineering)} digitally sends IND {packet (engineering)} to OBJ {receiver (engineering)} {INSTRUMENT:socket (engineering)|METHOD:communication protocol; protocol (engineering)},,computer say,kompiutalcwo
+use internet; go online; signal; SBJ {sender (engineering)} digitally sends IND {packet (engineering)} to OBJ {receiver (engineering)} {INSTRUMENT:socket (engineering)|METHOD:communication protocol; protocol (engineering)},,computer say,kompiutalcwo
 telephone; telegraph,,be-far phone,kutecwolatan
 mobile phone; cellural phone; cell phone,,move phone,hilacwolatan
 smart phone; phone,,understand phone,ljawcjecwolatan
@@ -207,6 +207,7 @@ be sand; be dust; OBJ {pile of sand} is made of sand,,be-stone be-powder,patopof
 be gravel; course sand; OBJ is made of gravel,,be-stone be-chunky,patoajpana
 be snow; be shaved ice; be slush; OBJ is made of snow,,be-liquid be-powder,jetipofo
 be bone; OBJ is made of bone,,animal be-rigid,animallektenupowinjo
+be flesh; be meat; OBJ is made of flesh,,animal be-flimsy,
 be humid; be dank; OBJ is humid,,be-liquid be-mixed,jetimiclo
 be arid; be dry; OBJ is not humid,,be-gaseous be-mixed,wolumiclo
 be wet; IND is wet with OBJ {AMOUNT:wetness},,be-liquid be-on,jetiikau
