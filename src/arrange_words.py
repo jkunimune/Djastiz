@@ -36,8 +36,8 @@ SOURCE_LANGUAGES = {
 	('en','eng',.0930),
 	('hi','hin',.0898),
 	('bn','ben',.0838),
-	('ar','ara',.0422),
-	('pa','pan',.0286),
+	('ar','ara',.0000),
+	('pa','pan',.0422),
 	('jv','jav',.0286),
 	('yo','yor',.0260),
 	('mr','mar',.0248),
@@ -51,7 +51,6 @@ SOURCE_LANGUAGES = {
 	('sn','sho',.0050),
 	('st','sot',.0041),
 }
-DESIRED_FRAC = {threelc:num for twolc, threelc, num in SOURCE_LANGUAGES}
 
 ALLOWED_CHANGES = [
 	('aɑæ', 'a'),
