@@ -51,6 +51,7 @@ SOURCE_LANGUAGES = {
 	('sn','sho',.0050),
 	('st','sot',.0041),
 }
+DESIRED_FRAC = {threelc:num for twolc, threelc, num in SOURCE_LANGUAGES}
 
 ALLOWED_CHANGES = [
 	('aɑæ', 'a'),
@@ -99,7 +100,7 @@ SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictior
 
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
 NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD',
-		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL']
+		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION']
 MISC_DERIVATIONS = ['OPPOSITE']
 
 
@@ -185,16 +186,16 @@ def reduce_phoneme(phoneme, before, after):
 		if phoneme in fulls:
 			return reduced, 1
 	if phoneme in ['β','v','ⱱ','ʋ']: # these blocks will take care of the weird ones that depend on context
-		if not after or before in ['w','u'] or after in ['w','u'] or (before == 'o' and is_consonant(after)):
-			return 'f', .5 # use 'f' when you need a consonant or to create contrast,
+		if before in ['w','u'] or after in ['w','u'] or (before == 'o' and is_consonant(after)): # for example, labial sonorants
+			return 'f', .5 # use 'f' to create contrast,
 		else:
 			return 'w', .5 # 'w' otherwise
 	if phoneme == 'ʝ':
-		return ('hj', 0) if not before else ('j', 0) # /ʝ/ gets a free 'h' if it needs it
+		return ('c', 1) if after == 'w' else ('j', 0) # /ʝ/ can become 'c' if needed for contrast
 	if phoneme == 'y':
-		if before in ['ʷ','w','u','ʊ','o','ɔ'] or after in ['ʷ','u','ʊ','o','ɔ']:
+		if before in ['ʷ','w','u','ʊ','o','ɔ'] or after in ['w','u','ʊ','o','ɔ']:
 			return 'i', 0 # /y/ looks like /i/ when surrounded by other rounded things
-		elif before in ['ʲ','j','i','ɪ','e','ɛ'] or after in ['ʲ','i','ɪ','e','ɛ']:
+		elif before in ['ʲ','j','i','ɪ','e','ɛ'] or after in ['j','i','ɪ','e','ɛ']:
 			return 'u', 0 # and like /u/ when surrounded by other front things
 		else:
 			return 'iw', 1 # and not like much on its own
@@ -206,10 +207,8 @@ def reduce_phoneme(phoneme, before, after):
 		else:
 			return 'ju', 1 # and not like much on its own
 	if phoneme == 'ɹ':
-		if not before or not after:
-			return 'l', 0 # use 'l' when you need a consonant
-		elif not is_consonant(reduce_phoneme(before,'','')[0]) and not is_consonant(reduce_phoneme(after,'','')[0]):
-			return 'l', 0 # or when intervocalic
+		if (not before or not is_consonant(reduce_phoneme(before,'','')[0])) and (after and not is_consonant(reduce_phoneme(after,'','')[0])):
+			return 'l', 0 # use 'l' when intervocalic or initial and prevocalic
 		else:
 			return '', 0 # otherwise it's better as nothing
 	if phoneme == '̃':
@@ -540,6 +539,10 @@ def verify_words(my_words):
 		if not entry['eng']:
 			logging.error("The entry {} has no meaning".format(entry))
 			errors += 1
+		if entry['ltl']:
+			for entry1 in my_words.values():
+				if entry1['eng'] < entry['eng'] and entry1 is not entry and entry1['ltl'] == entry['ltl']:
+					logging.error("{} ({}) is homophonous with {} ({})".format(entry['ltl'], entry['eng'], entry1['ltl'], entry1['eng']))
 		if not any(w in entry['derivatives'] for w in ['ANTONYM','OPPOSITE','REVERSAL']) and has_antonym(entry):
 			logging.error("Derivatives of '{0}' have antonyms even though '{0}' itself does not".format(entry['eng'][0], entry))
 			errors += 1

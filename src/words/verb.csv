@@ -256,7 +256,7 @@ be loud; be bright; be strong; OBJ is bright {AMOUNT:volume; amplitude; brightne
 dampen; quiet; dim; soften; weaken; SBJ {damper} dampens OBJ,,INCOHATIVE OF be quiet,cisaski
 amplify; louden; brighten; strengthen; SBJ {amplifier} amplifies OBJ,,CESSATIVE OF be quiet,cisasnu
 eat; drink; take; SBJ {eater} eats OBJ {food; drink; meal} {TIME:meal; mealtime|LOCATION:dining room; dining hall|INSTRUMENT:eating utensil; silverware},comer; bebir; tomar; SBJ come OBJ {comida; bebida} {LOCATION:comedor|INSTRUMENT:utensilios para comer},ono [njam njam],njamjac
-be part; be in; compose; contain; comprise; include; OBJ {piece; component; element; detail} is part of IND {group; whole; set; party; association; organisation; system} {AMOUNT:portion; fraction},,epo <parto> [ˈparto],palto
+be part; be in; compose; contain; comprise; include; OBJ {piece; component; element; detail} is part of IND {group; whole; set; party; association; organisation; institution; system} {AMOUNT:portion; fraction},,epo <parto> [ˈparto],palto
 join; incorporate; add; append; SBJ {joiner} makes OBJ join IND,,INCOHATIVE OF be part,paltoki
 leave; separate; remove; SBJ {remover} makes OBJ leave IND,,CESSATIVE OF be part,paltonu
 beI inclusive; beI open; be eligible; IND is open to OBJ joining,,POSSIBILITY OF be part,paltopowi
@@ -592,7 +592,7 @@ hit; strike; collide; SBJ hits OBJ {INSTRUMENT:hammer},,epo <bati> [ˈbati],pati
 "chatter; wobble; rustle; rattle; SBJ makes OBJ {chatter; wobble; rustle; rattle; a noisy, shrill sound or action}",,ono [t͡ʃət͡ʃət͡ʃə],cececef
 "rumble; flicker; SBJ makes OBJ {rumble; flicker; a noisy, sonorous sound or action}",,ono [wumbawumba],puwapuwam
 cook; prepare; make; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave; SBJ {cook; chef; baker} cooks OBJ {cooking} {INSTRUMENT:pot; pan},,ara <طهى> [tˤɑhæː],taha
-help; be for; ally; support; benefit; work with; OBJ {helper} is working toward the same goal as IND {ally; friend},,epo <helpi> [ˈhelpi],helpi
+help; be for; ally; support; benefit; work with; be auxiliary; OBJ {helper} is working toward the same goal as IND {ally; friend},,epo <helpi> [ˈhelpi],helpi
 hinder; be against; oppose; harm; compete; fight; OBJ {opposer} is working toward a goal contrary to that of IND {opponent; competitor; enemy},,ANTONYM OF help,sotmu
 align with; join; team up; SBJ {alliance forger} makes OBJ ally with IND,,INCOHATIVE OF help,helpiki
 turn against; betray; split up; SBJ {instigator} turns OBJ {traitor} against IND,,CESSATIVE OF help,helpinu
@@ -626,7 +626,7 @@ cost; be expensive; OBJ {valuable} costs a lot {AMOUNT:price; cost},,spa <cuesta
 be cheap; OBJ does not cost a lot,,ANTONYM OF cost,nehla
 mark up; SBJ increases the cost of OBJ,,INCOHATIVE OF cost,kostaki
 discount; mark down; SBJ decreases the cost of OBJ,,CESSATIVE OF cost,kostanu
-have faith; be faithful; hope; OBJ faithfully believes in IND {faith} {AMOUNT:faith; faithfulness},,spa <fe> [fe],fe
+have faith; be faithful; hope; OBJ faithfully believes in IND {faith} {AMOUNT:faith; faithfulness|METHOD:religion; faith},,spa <fe> [fe],fe
 give faith; take faith; build up hope; SBJ causes OBJ to gain faith in IND,,INCOHATIVE OF have faith,feki
 lose faith; destroy faith; lose hope; SBJ causes OBJ to lose faith in IND,,CESSATIVE OF have faith,fenu
 be tangled; be knotted; OBJ {knot} is tangled together with IND,,ben <জট> [d͡ʑɔtɔ],coto
