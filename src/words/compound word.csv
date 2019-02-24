@@ -64,7 +64,7 @@ be international; be global; OBJ is international,,much national,kehtecim
 conlang; constructed language,,design language,ciestakicwoliel
 auxlang; international auxiliary language,,be-international language,kehtecimcwoliel
 artlang; artistic language,,art language,atcwoliel
-be wrong; be incorrect; SBJ {wrong} is incorrect in saying OBJ {falsehood; lie} to IND,,no say,njocwo
+be wrong; be incorrect; SBJ {wrong} is incorrect in saying OBJ {falsehood; lie} to IND,,no think,njocwo
 succeed; SBJ succeeds at making OBJ happen,,try do,cikweki
 be correct; be right; OBJ correctly thinks IND {truth} to be true,,yes think,kwepensi
 be wrong; be incorrect; OBJ falsely thinks IND {falsehood} to be true,,no think,njopensi
@@ -194,6 +194,7 @@ oil; petroleum,,burn liquid,cjaukijetilon
 be quartz; OBJ is made of quartz,,white be-crystal,sataloniklistalo
 be emerald; OBJ is made of emerald,,be-green be-crystal,pelteiklistalo
 be diamond; OBJ is made of diamond,,be-transparent be-crystal,emanaiklistalo
+be-pearl; OBJ is made of pearl,,be-circular be-crystal,
 be plastic; OBJ is made of plastic,,person be-crystal,woniklistalo
 be glass; OBJ is made of glass,,be-transparent be-stone,emanapato
 be graphite OBJ is made of graphite,,write be-stone,kopato
@@ -346,10 +347,10 @@ broom,,,
 mop,,,
 duster,,,
 hammer,,,
-polytheism; pantheon,,several god,kot
+polytheism; pantheon,,much god,kot
 monothiesm,,1 god,kankot
 athiesm,,0 god,linkot
-agnosticism; secularism; religious nonaffiliation,,0 god,linkot
+agnosticism; secularism; religious nonaffiliation,,0 religion,linkot
 be vibrant; be colourful; OBJ has many hues and colours,,much be-coloured,kehkololo
 be monochromatic; OBJ has few colours,,little be-coloured,noskololo
 flag; banner,,cloth translation,talmakkonpeltelam
@@ -383,7 +384,7 @@ whole; entirety; entire,,be-in-pieces no which-(relative),lotonjolon
 shirt; top,,torso clothing,ciwkaneilam
 sleeve; armband,,arm clothing,hateilam
 pants; shorts; skirt,,leg clothing,lekeilam
-pants; shorts,,tube pants,lekeilam
+pants; shorts,,2 pants,lekeilam
 skirt,,be-open pants,meklelekeilam
 underwear,,be-low clothing,tieilam
 blazer,,be-high clothing,lueilam
@@ -509,10 +510,9 @@ be legally required; be mandated by law; OBJ is required by law to make IND {law
 legislate; mandate; pass law; SBJ {legislator; legislature; parliament; congress} legally declares that OBJ must make IND {new law} happen,,govern assign,tuncitepeki
 be illegal; be against the law; OBJ is prohibited by law from making IND {crime; felony; misdemeanor} happen,,govern be-forbidden,tuncilomo
 prohibit; ban; pass law against; SBJ legally declares that OBJ may not make IND happen,,govern forbid,tuncilomoki
-wage war; declare war; SBJ {agressor; warmonger} fights a war with OBJ {defender},,country fight,tectacja
 be at war; OBJ is at war with IND {belligerent},,country fight,tectacja
 be at peace; OBJ is at peace with IND {non-belligerent},,country fight no,tectacjanjo
-wage war; declare war; invade; SBJ {warmonger} causes OBJ to go to war with IND,,INCOHATIVE OF be at war,tectacjaki
+wage war; declare war; invade; SBJ {aggressor; warmonger} causes OBJ to go to war with IND {defender},,INCOHATIVE OF be at war,tectacjaki
 make peace; make truce; ceasefire; end war; SBJ causes OBJ to stop being at war with IND,,CESSATIVE OF be at war,tectacjanu
 have treaty; OBJ {contracting party} has a treaty with IND {ally; trading partner} {TIME:diplomacy|METHOD:treaty; deal; international agreement},,country deal,tecsota
 strike treaty; SBJ {diplomat; ambassador} sets up a treaty between OBJ and IND,,INCOHATIVE OF have treaty,tecsotaki
@@ -525,8 +525,8 @@ buy service; serve; OBJ {server} performs IND {service} for SBJ {customer} in ex
 buy good; produce; OBJ {producer; vendor} gives IND {good} to SBJ {consumer} in exchange for money {TIME:sale},,object sell,anjalonta
 agree; OBJ agrees with IND,,be-similar think,molapensi
 disagree; OBJ disagrees with IND,,differ think,petapensi
-consent; approve; SBJ consents to OBJ,,yes say,kwecwo
-dissent; disapprove; SBJ dissents from OBJ,,no say,njocwo
+consent; approve; SBJ consents to OBJ,,want say,kwecwo
+dissent; disapprove; SBJ dissents from OBJ,,dislike say,njocwo
 team,,help group,helpipaltolam
 conduct; be conductive; OBJ {conductor} conducts electricity {AMOUNT:conductivity},,be-charged be-easy,picliisi
 insulate; resist; be resistive; OBJ {insulator; resistor} resists electrical current {AMOUNT:resistance},,be-charged be-difficult,picliuhu
@@ -677,3 +677,5 @@ emoticon; emoji,,feel image,sentipelam
 be used to; be comfortable with,,,
 spiral,,,
 itch; OBJ's IND {itch} itches,,little hurt,nosemuile
+holy book,,have-faith book,
+church,,religion group,
