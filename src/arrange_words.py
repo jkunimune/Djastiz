@@ -410,7 +410,8 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 		inflection_word = {
 			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who (relative)',
 			'OBJ':'which (relative)', 'IND':'whom (relative)', 'AMO':'the amount that', 'LOC':'where (relative)',
-			'TIM':'when (relative)', 'INS':'with which (relative)', 'CAU':'why (relative)', 'MET':'how (relative)'
+			'TIM':'when (relative)', 'INS':'with which (relative)', 'CAU':'why (relative)', 'MET':'how (relative)',
+			'LAN':'language', 'COU':'country', 'REG':'place',
 		}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['ltl']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
