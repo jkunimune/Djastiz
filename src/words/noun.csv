@@ -9,7 +9,6 @@ string; thread; wire; hair; thread,,hin <तार> [taːr],tal
 plate; board; wall,,OPPOSITE OF string,lat
 sheet; slip,,OPPOSITE OF stick,mak
 network; net; web; system {GENITIVE:web},,spa <red> [reð],let
-hole; hallway; tube; gap {GENITIVE:holey},,eng <hole> [hoʊ̯ɫ],hol
 person; woman; man; human {GENITIVE:personal; humanistic},,jav <wong> [woŋ],won
 personify; humanise; anthropomorphise,,INCOHATIVE OF person,wonki
 beast; non-human animal {GENITIVE:beastial; animalistic},,OPPOSITE OF person,jek
@@ -36,7 +35,7 @@ land; landmass {GENITIVE:terrestrial},,OPPOSITE OF ocean,sawak
 mountain {GENITIVE:mountainous; montanical},,cmn <山> [ʂan˥],can
 valley {GENITIVE:valley},,OPPOSITE OF mountain,fak
 settlement; *city; town; village {GENITIVE:urban; villestial},,cmn <市> [ʂɨ˥˩],cih
-country; sovereign; state; polity {GENITIVE:national},,hin <देश> [deʃ],tec
+state; *country; polity {GENITIVE:political},,hin <देश> [deʃ],tec
 storm; tempest {GENITIVE:stormy; cyclonical},,pan <ਤੂਫਾਨ> [t̪upʰɑn],tupan
 art {GENITIVE:artistic},,eng <art> [ɑɹt],at
 sentence {GENITIVE:sentential},,ara <جملة> [d͡ʒumlæt],cumlat
@@ -56,9 +55,9 @@ finger; toe {GENITIVE:digital},,mar <बोट> [boʈ],pot
 buttocks; butt; bum {GENITIVE:gluteal; posterial},,spa <nalgas> [ˈnalɣas],nalkas
 leg; appendage {GENITIVE:crural; appendicular},,eng <leg> [lɛɡ],lek
 gland; organ; node {GENITIVE:glandular; nodal; bodily; internal},,cmn <腺> [ɕjɛn˥˩],cjen
-vagina; loin {GENITIVE:vaginal},,ara <مهبل> [mæhbæl],mahpal
-penis {GENITIVE:penile},,OPPOSITE OF vagina,pasmat
-chest; breast; boob; nipple {GENITIVE:mammillary},,hin <छाती> [t͡ʃʰaːtiː],cat
+female; woman {GENITIVE:female},,ara <مهبل> [mæhbæl],mahpal
+male; man {GENITIVE:male},,OPPOSITE OF female,pasmat
+chest; breast; bussom {GENITIVE:chestal; mamillary},,hin <छाती> [t͡ʃʰaːtiː],cat
 claw; quill; fingernail; {GENITIVE:ungual; sharp},,msa <cakar> [t͡ʃakar],cakal
 scale; squame; flake {GENITIVE:squamous; scaly},*escama,jav <sisik> [sisik],sisik
 feather {GENITIVE:plumal; feathery; feathered},,ara <رِيش> [reːʃ],lic

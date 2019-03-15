@@ -8,10 +8,13 @@ but; and even,,even and,fenha
 us; _first person plural exclusive_; the speaker and others {GENITIVE:our},,I it,minit
 y'all; _second person plural_; the listener and others {GENITIVE:y'all's},,you it,pukit
 other; not; anything but,,be no which-(relative),estanjolon
+be until; be since; happen from; happen to; OBJ is happening from the present until IND {end date; deadline} {TIME:start date; kickoff},,all be-before,
 the Antarctic Ocean; the ocean; the ocean,,Antarctica ocean,'antaktikahajan
 the Arctic Ocean; the ocean; the ocean,,be-north ocean,hilohajan
 Afro-Eurasia; the landmass {GENITIVE:Afro-Eurasian},,Africa Eurasia,'jewlasia
 Sub-Saharan Africa; the region {GENITIVE:Sub-Saharan},,be-south Africa,sute
+North America; the continent {GENITIVE:North American; from North America},,be-north America,
+South America; the continent {GENITIVE:South American; from South America},,be-south America,
 North Africa; the Magreb; the region {GENITIVE:North African; Maghrebi},,be-north Africa,hilo
 South Asia; India; the region {GENITIVE:South Asian; Indian},,be-south Eurasia,sute'jewlasia
 Southeast Asia; the region {GENITIVE:Southeastern Asian},,be-south be-east Eurasia,suteeste'jewlasia
@@ -55,6 +58,10 @@ complain; denounce; condemn; SBJ {complainer} makes a negative utterance of OBJ 
 suggest; advise; SBJ suggests that IND do OBJ,,should say,jecwo
 multiple,,1 more,kanosolon
 interact; interfere; involve; SBJ makes OBJ interact with IND,,accompany do,akompanikweki
+beI forbidden; beI against the rules; beI illegal; beI prohibited; OBJ is not allowed to make IND {banned} happen,,no must,lomo
+forbid; pass rules against; prohibit; ban; SBJ {authority} forbids OBJ from making IND happen,,INCOHATIVE OF be forbidden,lomoki
+may; beI allowed; beI legal; beI permitted; OBJ is allowed to make IND happen,,no not-have-to,lomo
+allow; permit; SBJ permits OBJ to make IND happen,,INCOHATIVE OF may,lomoki
 dictionary,,word list,suholtolam
 alphabet {GENITIVE:alphabetical},,letter list,letaloltolam
 part-of-speech,,word category,suhtipalam
@@ -77,10 +84,8 @@ use internet; go online; signal; SBJ {sender (engineering)} digitally sends IND 
 telephone; telegraph,,be-far phone,kutecwolatan
 mobile phone; cellural phone; cell phone,,move phone,hilacwolatan
 smart phone; phone,,understand phone,ljawcjecwolatan
-be female; OBJ {woman} is female,,vagina live,mahpalpipe
-be male; OBJ {man} is male,,penis live,pasmatpipe
-be feminine; OBJ {woman; girl} is feminine,,vagina act,mahpalaki
-be masculine; OBJ {man; boy} is masculine,,penis act,pasmataki
+be feminine; OBJ {woman; girl} is feminine,,female act,mahpalaki
+be masculine; OBJ {man; boy} is masculine,,male act,pasmataki
 year,,ground period,timjennjawhiljan
 month,,moon period,haknjawhiljan
 week,,7 period,safnjawhiljan
@@ -141,7 +146,10 @@ daydream; hallucinate; OBJ {daydreamer} hallucinates IND {daydream},,day dream,s
 map,,layout image,pinsaspelam
 map projection,,map transformation,pinsaspelamkonpelteliel
 be hallowed; worship; OBJ {worshiper} worships SBJ,,god like,kotpona
-rule as a monarch; IND {monarch; king; queen} rules OBJ {peasant; kingdom} {LOCATION:kingdom},,1 govern,kantunci
+rule as a monarch; IND {monarch; king; queen} rules OBJ {peasant; kingdom} {LOCATION:kingdom; monarchy},,1 govern,kantunci
+rule as an oligarchy; IND {oligarchy} rules OBJ {LOCATION:oligarchic kingdom},,little govern,kantunci
+govern as a republic; IND {representative; house; legislature} rules OBJ {LOCATION:republic; representative democracy},,many govern,kantunci
+govern as a direct democracy; IND {voter; electoral base} rules OBJ {LOCATION:democracy; direct democracy},,all govern,kantunci
 tempt; entice to something appealing but immoral; SBJ {tempter; temptress} encourages IND {temptee} to do OBJ {temptation},,be-evil tell,petatanacwo
 foot {GENITIVE:pedal},,leg hand,lekjat
 shoulder,,arm joint,hatcumwoleh
@@ -153,18 +161,26 @@ forearm; lower arm,,be-outside arm,okohat
 thigh; upper leg,,be-inside leg,enelek
 shin; lower leg,,be-outside leg,okolek
 pelvis; hips,,torso bottom,ciwkantilon
-mouth,,face hole,mukehol
+mouth,,eat gland,mukehol
+larynx; vocal chords; voice box,,speak gland
 sensor; sense,,perceive gland,pocacjen
 eye; eyeball,,can-see gland,pecjen
 ear,,can-hear gland,akacjen
-nose,,can-smell gland,otolicjen
+olfactory gland,,can-smell gland,otolicjen
+nose,,can-smell bump,otolicjen
 tongue,,can-taste gland,lasacjen
 skin,,can-feel gland,tucicjen
 voicebox,,speak gland,polocjen
 heart,,be-rhythmic gland,tumutcjen
+heart (metaphorical); soul; spirit,,feel gland,
 brain,,ponder gland,cintacjen
 muscle,,move gland,hilacjen
 uterus,,be-pregnant gland,imecjen
+vagina,,have-sex hole,
+penis,,have-sex stick,
+genital,,have-sex gland,
+mamary gland,,raise gland,
+breast; bussom; boob; nipple,,raise bump,
 lick; SBJ {licker} licks OBJ {licked},,tongue rub,lasacjensapu
 suck; SBJ {sucker} sucks on OBJ {sucked},,mouth rub,mukeholsapu
 sand; SBJ {sander} sands OBJ {sanded},,powder rub,pofolonsapu
@@ -209,6 +225,9 @@ be gravel; course sand; OBJ is made of gravel,,be-stone be-chunky,patoajpana
 be snow; be shaved ice; be slush; OBJ is made of snow,,be-liquid be-powder,jetipofo
 be bone; OBJ is made of bone,,animal be-rigid,animallektenupowinjo
 be flesh; be meat; OBJ is made of flesh,,animal be-flimsy,
+hold; carry; have with one; have on one's person; OBJ {holder} holds IND {held; accessory},,hand own,teni
+pick up; hand; grab; SBJ {hander; picker upper} puts IND in OBJ's hand,,INCOHATIVE OF hold,teniki
+put down; release; SBJ {putter downer; taker} takes IND out of OBJ's hand,,CESSATIVE OF hold,teninu
 be humid; be dank; OBJ is humid,,be-liquid be-mixed,jetimiclo
 be arid; be dry; OBJ is not humid,,be-gaseous be-mixed,wolumiclo
 be wet; IND is wet with OBJ {AMOUNT:wetness},,be-liquid be-on,jetiikau
@@ -221,7 +240,7 @@ drink; get drunk; intoxicate; SBJ makes OBJ drunk,,INCOHATIVE OF be drunk,mocaha
 sober; SBJ makes OBJ become sober,,CESSATIVE OF be drunk,mocahakenu
 have hangover; OBJ has a hangover,,be-bored begin be-sick,pefakihake
 tea,,leaf liquid,lifjetilon
-milk,,baby liquid,kukamjetilon
+milk,,raise liquid,kukamjetilon
 wine,,grape alcohol,upasmocajetilon
 blood,,be-red liquid,lohojetilon
 bleed; SBJ bleeds out OBJ,,blood exit,lohojetilonenenu
@@ -230,13 +249,14 @@ urinate; pee; SBJ urinates out OBJ,,urine exit,kutajetilonenenu
 feces; excrement; poop,,buttocks solid,nalkaskutilon
 diarrhea,,be-liquid feces,jetinalkaskutilon
 defecate; poop; SBJ defecates out OBJ,,feces exit,nalkaskutilonenenu
-saliva,,mouth liquid,mukeholjetilon
+saliva,,eat liquid,mukeholjetilon
 expectorate; spit; salivate; SBJ spits OBJ out,,saliva exit,mukeholjetilonenenu
-sweat; perspiration,,skin liquid,tucicjenjetilon
+drool; SBJ drools OBJ,,saliva fall,
+sweat; perspiration,,be-hot liquid,tucicjenjetilon
 sweat; perspire; SBJ sweats out OBJ,,sweat exit,tucicjenjetilonenenu
-tears,,eye liquid,pecjenjetilon
+tears,,be-sad liquid,pecjenjetilon
 cry; weep; sob; tear; SBJ cries out OBJ,,tears exit,pecjenjetilonenenu
-mucus; snot,,nose liquid,otolicjenjetilon
+mucus; snot,,breathe liquid,otolicjenjetilon
 have runny nose; drip mucus; SBJ's nose runs OBJ,,mucus exit,otolicjenjetilonenenu
 semen,,have-sex liquid,seksojetilon
 ejaculate; SBJ ejaculates out OBJ,,semen exit,seksojetilonenenu
@@ -245,7 +265,7 @@ pimple; abscess,,pus container,pakteliohjetilonenelam
 hydroden,,water material,pipejetilonmatelilam
 carbon,,life material,pipelelmatelilam
 nitrogen,,sky material,lupwokmatelilam
-bat; flying fox,,wing mammal,fospihmamul
+bat; flying fox,,fly mammal,fospihmamul
 pangolin,,scale mammal,sisikmamul
 cat,,person feline,wonmjawf
 dog,,person canine,wonpawawf
@@ -443,11 +463,11 @@ milligram,,×10^ minus 6 kilogram,ljonmenmef'kiloham
 gram,,×10^ minus 3 kilogram,ljonmentin'kiloham
 tonne,,×10^ 3 kilogram,ljontin'kiloham
 sibling,,accompany child,akompanimamaplon
-anticle; aunt; uncle,,parent sibling,mamapakompanimamaplon
-first cousin,,parent accompany child,mamapakompanimamaplon
-grandparent,,×10^ 2 mother,ljonhalmamaplun
-great grandparent,,×10^ 3 mother,ljontinmamaplun
-great great grandparent,,×10^ 4 mother,ljoncalmamaplun
+anticle; aunt; uncle,,raise sibling,mamapakompanimamaplon
+first cousin,,raise accompany child,mamapakompanimamaplon
+grandparent,,×10^ 2 raise,ljonhalmamaplun
+great grandparent,,×10^ 3 raise,ljontinmamaplun
+great great grandparent,,×10^ 4 raise,ljoncalmamaplun
 project,,big job,ketelonkunswolam
 square; lot; park,,settlement region,cihlehion
 park,,grass lot,kascihlehion
@@ -464,10 +484,10 @@ newspaper,,read news,tuullelcwolam
 magazine; periodical,,be-rhythmic message,tumutcwolam
 sword,,be-long blade,lamafetalam
 strip; ribbon; a shape where all three dimensions are very different,,sheet stick,makpan
-pre-educate; SBJ {pre-school teacher} teaches OBJ {pre-schooler} {LOCATION:pre-school},,be-early teach,latlomoki
-primary educate; elementary school; middle school; SBJ {elementary school teacher} teaches OBJ {elementary schooler} {LOCATION:elementary school; middle school},,be-behind teach,hapkomoki
-secondary educate; high school; middle school; SBJ {high school teacher} teaches OBJ {high schooler} {LOCATION:high school; middle school},,be-ahead teach,akemoki
-tertiary educate; college; university; higher educate; SBJ {professor} teaches OBJ {college student} {LOCATION:college; university},,be-late teach,taltemoki
+pre-educate; SBJ {pre-school teacher} teaches OBJ {pre-schooler} {LOCATION:pre-school|TIME:pre-kindergarden education},,be-early teach,latlomoki
+primarily educate; elementary school; middle school; SBJ {elementary school teacher} teaches OBJ {elementary schooler} {LOCATION:elementary school; middle school|TIME:primary education},,be-behind teach,hapkomoki
+secondarily educate; high school; middle school; SBJ {high school teacher} teaches OBJ {high schooler} {LOCATION:high school; middle school|TIME:secondary education},,be-ahead teach,akemoki
+tertiarily educate; college; university; higher educate; SBJ {professor} teaches OBJ {college student} {LOCATION:college; university|TIME:tertiary education},,be-late teach,taltemoki
 kindergarden,,0 teach year,linmokitimjennjawhiljan
 first grade,,1 teach year,kanmokitimjennjawhiljan
 second grade,,2 teach year,halmokitimjennjawhiljan
@@ -596,6 +616,7 @@ feel hungry; OBJ is hungry for IND,,eat want,njamjaccai
 feel thirsty; OBJ is thirsty for IND,,liquid want,jetiloncai
 feel horny; sexually attract; beI sexy; OBJ is sexually attracted to IND,,have-sex want,seksocai
 feel defensive; OBJ is defensive about IND,,protect feel,tanjatokipowinusenti
+feel lonely; feel alone; OBJ feels alone,,one feel,
 be infinitely large; OBJ is infinitely large,,be-infinite be-big,usiokete
 be infinitessimal; OBJ is infinitessimally small,,be-infinite be-small,usionolo
 canon,,1 story,kankucilon
@@ -679,3 +700,5 @@ spiral,,,
 itch; OBJ's IND {itch} itches,,little hurt,nosemuile
 holy book,,have-faith book,
 church,,religion group,
+country; sovereign; independent state {GENITIVE:national; federal},,be-free state
+province; state; territory; constituent country; sub-polity {GENITIVE:provincial; state; territorial},,be-in-control state

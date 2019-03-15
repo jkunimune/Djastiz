@@ -15,7 +15,7 @@ Before you read any further, you'll need to know how to read, say, and write the
 |   o  |   o    |    O, σ      | OAt, Organ |     ɔ      |  o\~ɔ, ow   |    e    | Vowel
 |   i  |   i    |    I, ι      |EAt, scrEEch|     i      |    i\~ɪ     |    u    | Vowel
 |   u  |   u    |    U, v      | frUIt, OOze|     u      |    u\~ʊ     |    i    | Vowel
-|  jo  |   j    |    J         |Yogurt, Yell|     j      |   j, ʲ, i   |    we   | Glide
+|  jo  |   y    |    Y         |Yogurt, Yell|     j      |   j, ʲ, i   |    we   | Glide
 |  lo  |   l    |    L         | Lime, faLL |     l      |    l\~r     |    te   | Sonorant
 |  we  |   w    |    W, ɯ      | Wine, qUiet|     w      |   w, ʷ, u   |    jo   | Glide
 |  no  |   n    |    Λ         |Nectar, paiN|     n      |   n, ŋ\~ɴ   |    ko   | Sonorant
@@ -35,7 +35,7 @@ If you're a linguist, the following [IPA](1) table may prove easier to read:
 |**Plosive**    |    p   |    t    |         |    k     |
 |**Fricative**  |    f   |    s    |  t͡ʃ ⟨c⟩  |    h     |
 |**Nasal**      |    m   |    n    |         |          |
-|**Approximant**|    w   |    l    |    j    |          |
+|**Approximant**|    w   |    l    |   j ⟨y⟩  |          |
 
 |         | Front | Back |
 |:--------|:-----:|:----:|
@@ -88,28 +88,29 @@ In addition to this subset of Latin letters, a subset of other Latin symbols may
 
 ### Extensions
 
-There are several more letters that may be used for transcribing foreign names Lawtoklian. Guidelines on when to do this can be found in section ?. 
+There are several more letters that may be used for transcribing foreign names in Ulcwoliel. Guidelines on when to do this can be found in section ?. 
 
 Approved extensions to the Chatisun alphabet for more accurate transcription of loanwords:
-ɒ y ɯ ŋ ʔ b d ɡ θ ʃ x v ð z ʒ ɣ ɽ ʙ r ǃ ˩ ˨ ˧ ˦ ˥
+ɒ u̟ ɯ ŋ ʔ b d g θ ʃ x v ð z ʒ ʀ ʙ r | ˩ ˧ ˥
 
 |                          | Labial | Dental | Alveolar | Postalveolar&tilde;Retroflex | Palatal | Velar&tilde;Uvular | Pharangeal&tilde;Glottal |
 |--------------------------|--------|--------|----------|--------------|---------|-------|---------|
-|**Nasal**                 | m      | n      | n        | n            | ŋj      | ŋ     |         |
-|**Plosive**               | p b    | t d    | t d      | t d          | kj gj   | k g   | ʔ       |
-|**Fricative**             | f v    | θ ð    | s z      | ʃ ʒ          | xj ɣj   | x ɣ   | h       |
-|**Lateral fricative**     |        | lʃ lʒ  | lʃ lʒ    | lʃ lʒ        | lx lɣ   | lx lɣ |         |
-|**Approximant**           | w      | ɹ      | ɹ        | ɹ            | j       | ɯ     |         |
-|**Lateral approximant**   |        | l      | l        | l            | lj      | lɯ    |         |
-|**Tap/Trill**             | ʙ      | r      | r        | r            |         | r     |         |
-|**Click/Implosive**       | ǃ      | ǃ      | ǃ        | ǃ            | ǃ       | !     |         |
-|**Secondary articulation**| ◌w     | ◌ɹ     | ◌ɹ       | ◌ɹ           | ◌j      | ◌ɣ    | ◌ʔ      |
+|**Nasal**                 | m      | n      | n        | n            | ŋy      | ŋ     |         |
+|**Plosive**               | p b    | t d    | t d      | t d          | ky gy   | k g   | ʔ       |
+|**Affricate**             | pf bv  | tθ dð  | ts dz    | tʃ dʒ        | kxy gʀy | kx gʀ | ʔh      |
+|**Fricative**             | f v    | θ ð    | s z      | ʃ ʒ          | xy ʀy   | x ʀ   | h       |
+|**Lateral fricative**     | lf lv  | lʃ lʒ  | lʃ lʒ    | lʃ lʒ        | lx lʀ   | lx lʀ |         |
+|**Approximant**           | w      | ɹ      | ɹ        | ɹ            | y       | ɯ     |         |
+|**Lateral approximant**   | lw     | l      | l        | l            | ly      | lɯ    |         |
+|**Tap/Trill**             | ʙ      | r      | r        | r            |         | ʀ     |         |
+|**Click/Implosive**       | \|     | \|     | \|       | \|           | \|      | \|    |         |
+|**Secondary articulation**| ◌w     | ◌ɹ     | ◌ɹ       | ◌ɹ           | ◌y      | ◌ʀ    | ◌ʔ      |
 
 |               | Front | Central | Back |
 |---------------|-------|---------|------|
-|**Approximant**| j y   | j w     | ɯ w  |
-|**Close**      | i y   | i u     | ɯ u  |
-|**Mid**        | e y   | ə ə     | ɯ o  |
+|**Approximant**| j u̟   | j w     | ɯ w  |
+|**Close**      | i u̟   | i u     | ɯ u  |
+|**Mid**        | e u̟   | ə ə     | ɯ o  |
 |**Open**       | a ɒ   | a ɒ     | a ɒ  |
 
 |                   |    |          |   |
@@ -123,11 +124,11 @@ Approved extensions to the Chatisun alphabet for more accurate transcription of 
 
 ### Other formats
 
-When graphical communication is not available, Lawntoklian can take advantage of the many commplementary systems based around the Latin alphabet, including morse code, Braille, and ASCII.
+When graphical communication is not available, Lawntoklian can take advantage of the many existing complementary systems based around the Latin alphabet, including morse code, Braille, and ASCII.
 
 ## Vocabulary
 
-There are three broad classes of word in Chastisun: nouns, verbs, and particles. These words are drawn from Chinese, Italic, Germanic, Indo-Iranian, Semitic, Atlantic-Congo, Esperanto, and onomotopoetic lexicons. The source languages were carefully selected and weighted in order to give the most mnemonic value to the greatest number of people. Source words are modified when entering Chatisun to match its strict morphology. All morphemes start and end with a consonant and contain no consonant clusters, so consonant clusters indicate morpheme boundaries in compound words. Particles, meanwhile, either start or end with a vowel depending on whether they are a prefix-particle or a suffix-particle. The following section will discuss verbs and nouns, as well as their properties and various subdivisions.
+There are three broad classes of word in Chastisun: nouns, verbs, and particles. These words are drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomotopoetic lexicons. The source languages were carefully selected and weighted in order to give the most mnemonic value to the greatest number of people. The following section will discuss verbs and nouns, as well as their properties and various subdivisions.
 
 ### Verbs
 
