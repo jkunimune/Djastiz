@@ -74,6 +74,7 @@ familiar,ਜਾਣੂ,d͡ʒɑɳu,d͡ʒɑɳu
 far,ਦੂਰ,d̪uɾ,d̪uɾ
 fast,ਤੇਜ਼,t̪ez,t̪ez
 feather,ਖੰਭ,kʰə̃p,kʰə̃p
+female,ਮਾਦਾ
 fern,ਫਰਨ,pʰəɾən,pʰəɾən
 finger,ਉਂਗਲੀ,ʊ̃ɡəli,ʊ̃ɡəli
 fire,ਅੱਗ,əːɡ,əːɡ
@@ -119,6 +120,7 @@ information,ਜਾਣਕਾਰੀ,d͡ʒɑɳkɑɾi,d͡ʒɑɳkɑɾi
 inside,ਅੰਦਰ,ə̃d̪əɾ,ə̃d̪əɾ
 jellyfish,ਜੈਲੀਫਿਸ਼,d͡ʒɛlipʰɪʃ,d͡ʒɛlipʰɪʃ
 kangaroo,ਕਾਂਗੜੂ,kɑ̃ɡəɽu,kɑ̃ɡəɽu
+kin,ਰਿਸ਼ਤੇਦਾਰ
 koala,ਕੋਆਲਾ,koɑlɑ,koɑlɑ
 late,ਦੇਰ ਨਾਲ,d̪eɾə nɑl,d̪eɾə nɑl
 layout,ਖਾਕਾ,kʰɑkɑ,kʰɑkɑ
@@ -155,6 +157,7 @@ okay,ਠੀਕ,ʈʰik,ʈʰik
 old,ਪੁਰਾਣੇ,pʊɾɑɳe,pʊɾɑɳe
 opaque,ਅਪਾਰਦਰਸ਼ੀ,əpɑɾd̪əɾəʃi,əpɑɾd̪əɾəʃi
 opossum,*,*,*
+order,*,*,*
 ostrich,ਸ਼ੁਤਰਮੁਰਗ,ʃʊt̪ɾəmʊɾəɡ,ʃʊt̪ɾəmʊɾəɡ
 part,ਭਾਗ,pɑɡ,pɑɡ
 path,ਮਾਰਗ,mɑɾəɡ,mɑɾəɡ
@@ -199,6 +202,7 @@ shiny,ਚਮਕਦਾਰ,t͡ʃəmkəd̪ɑɾ,t͡ʃəmkəd̪ɑɾ
 should,ਚਾਹੀਦਾ ਹੈ,t͡ʃɑɦid̪ɑ ɦɛ,t͡ʃɑɦid̪ɑ ɦɛ
 simple,ਆਸਾਨ,ɑsɑn,ɑsɑn
 skillful,ਕੁਸ਼ਲ,kʊʃəl,kʊʃəl
+slide,ਸਲਾਈਡ,səlɑiɖ,səlɑiɖ
 slug,*,*,*
 smell,ਗੰਧ,ɡə̃t̪,ɡə̃t̪
 smooth,ਨਿਰਮਲ,nɪɾməl,nɪɾməl
@@ -231,6 +235,7 @@ tangible,ਠੋਸ,ʈʰos,ʈʰos
 tangled,ਗੰਢ,ɡə̃ʈ,ɡə̃ʈ
 tapir,*,*,*
 taste,ਸੁਆਦ,sʊɑd̪,sʊɑd̪
+technology,ਤਕਨਾਲੋਜੀ
 tenso,*,*,*
 thick,ਮੋਟਾ,moʈɑ,moʈɑ
 tick,ਟਿਕ ਜਾਓ,ʈɪkə d͡ʒɑo,ʈɪkə d͡ʒɑo
@@ -271,7 +276,6 @@ to move,ਅੱਗੇ ਵਧਣ,əːɡe ʋət̪əɳ,əːɡe ʋət̪əɳ
 to need,ਦੀ ਜ਼ਰੂਰਤ ਹੈ,d̪i zəɾuɾt̪ə ɦɛ,d̪i zəɾuɾt̪ə ɦɛ
 to notice,ਨੋਟਿਸ,noʈɪs,noʈɪs
 to obey,ਦੀ ਪਾਲਣਾ,d̪i pɑlɳɑ,d̪i pɑlɳɑ
-order,*,*,*
 to own,ਆਪਣੀ ਮਾਲਕੀ,ɑpɳi mɑlki,ɑpɳi mɑlki
 to party,ਪਾਰਟੀ,pɑɾʈi,pɑɾʈi
 to pay attention,ਧਿਆਨ ਦੇਣ,t̪ɪɑnə d̪eɳ,t̪ɪɑnə d̪eɳ
@@ -291,7 +295,6 @@ to say,ਕਹਿਣ,kəɦɪɳ,kəɦɪɳ
 to sell,ਵੇਚਣ ਦੇ,ʋet͡ʃɳə d̪e,ʋet͡ʃɳə d̪e
 to sit,ਬੈਠਣ,bɛʈʰəɳ,bɛʈʰəɳ
 to sleep,ਸੌਂਣ,sɔ̃ɳ,sɔ̃ɳ
-slide,ਸਲਾਈਡ,səlɑiɖ,səlɑiɖ
 to speak,ਬੋਲਣ,boləɳ,boləɳ
 to spin,ਸਪਿਨ,səpɪn,səpɪn
 to stand,ਖੜੇ ਹੋਣਾ,kʰəɽe ɦoɳɑ,kʰəɽe ɦoɳɑ

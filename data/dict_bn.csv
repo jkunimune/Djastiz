@@ -74,6 +74,7 @@ familiar,পরিচিত,pɔrit͡ɕit̪,pɔrit͡ɕit̪
 far,এ পর্যন্ত,e pɔrd͡zɔn̪t̪ɔ,e pɔrd͡zɔn̪t̪ɔ
 fast,দ্রুত,d̪rut̪,d̪rut̪
 feather,পালক,pal̪ɔkɔ,pal̪ɔkɔ
+female,মহিলা
 fern,পর্ণাঙ্গ,pɔrnaŋɡɔ,pɔrnaŋɡɔ
 finger,আঙ্গুল,aŋɡul̪,aŋɡul̪
 fire,আগুন,aɡun̪,aɡun̪
@@ -119,6 +120,7 @@ information,তথ্য,t̪ɔt̪ʰd͡zɔ,t̪ɔt̪ʰd͡zɔ
 inside,ভিতরে,b̤it̪re,b̤it̪re
 jellyfish,জেলি-মাছ,d͡ʑel̪i-mat͡ɕʰ,d͡ʑel̪i-mat͡ɕʰ
 kangaroo,ক্যাঙ্গারু,kd͡zaŋɡaru,kd͡zaŋɡaru
+kin,কুটুম্ব
 koala,কোয়ালা,koe̯al̪a,koe̯al̪a
 late,বিলম্বে,bil̪ɔmbe,bil̪ɔmbe
 layout,বিন্যাস,bin̪d͡zas̪,bin̪d͡zas̪
@@ -155,6 +157,7 @@ okay,*,*,*
 old,পুরাতন,purat̪ɔn̪ɔ,purat̪ɔn̪ɔ
 opaque,অস্বচ্ছ,os̪bɔt͡ɕt͡ɕʰɔ,os̪bɔt͡ɕt͡ɕʰɔ
 opossum,*,*,*
+order,ক্রমপর্যায়ানুসারে সাজান,krɔmɔpɔrd͡zae̯an̪us̪are s̪ad͡ʑan̪,krɔmɔpɔrd͡zae̯an̪us̪are s̪ad͡ʑan̪
 ostrich,উটপাখী,utpakʰi,utpakʰi
 part,অংশ,oŋɕɔ,oŋɕɔ
 path,পথ,pɔt̪ʰɔ,pɔt̪ʰɔ
@@ -199,6 +202,7 @@ shiny,চকচকে,t͡ɕɔkɔt͡ɕɔke,t͡ɕɔkɔt͡ɕɔke
 should,উচিত,ut͡ɕit̪,ut͡ɕit̪
 simple,সহজ,s̪ɔɦɔd͡ʑɔ,s̪ɔɦɔd͡ʑɔ
 skillful,দক্ষ,d̪ɔkʂɔ,d̪ɔkʂɔ
+slide,স্লাইড,s̪l̪aid,s̪l̪aid
 slug,স্লাগ্,s̪l̪aɡ,s̪l̪aɡ
 smell,গন্ধ,ɡɔn̪d̪̤ɔ,ɡɔn̪d̪̤ɔ
 smooth,মসৃণ,mɔs̪ɽin,mɔs̪ɽin
@@ -231,6 +235,7 @@ tangible,বাস্তব,bas̪t̪ɔbɔ,bas̪t̪ɔbɔ
 tangled,জট,d͡ʑɔtɔ,d͡ʑɔtɔ
 tapir,*,*,*
 taste,স্বাদ,s̪bad̪,s̪bad̪
+technology,প্রযুক্তি
 tenso,*,*,*
 thick,পুরু,puru,puru
 tick,টিক্ টিক্ শব্দ,tik tik ɕɔbd̪ɔ,tik tik ɕɔbd̪ɔ
@@ -271,7 +276,6 @@ to move,সরানো,s̪ɔran̪o,s̪ɔran̪o
 to need,প্রয়োজন,pre̯od͡ʑɔn̪ɔ,pre̯od͡ʑɔn̪ɔ
 to notice,লক্ষ্য,l̪ɔkʂd͡zɔ,l̪ɔkʂd͡zɔ
 to obey,মান্য,man̪d͡zɔ,man̪d͡zɔ
-order,ক্রমপর্যায়ানুসারে সাজান,krɔmɔpɔrd͡zae̯an̪us̪are s̪ad͡ʑan̪,krɔmɔpɔrd͡zae̯an̪us̪are s̪ad͡ʑan̪
 to own,মালিক,mal̪ik,mal̪ik
 to party,পার্টি,parti,parti
 to pay attention,মনোযোগ দি,mɔn̪od͡zoɡɔ d̪i,mɔn̪od͡zoɡɔ d̪i
@@ -291,7 +295,6 @@ to say,বল,bɔl̪ɔ,bɔl̪ɔ
 to sell,বেচ,bet͡ɕ,bet͡ɕ
 to sit,বসা,bɔs̪a,bɔs̪a
 to sleep,ঘুমা,̤ɡ̤uma,̤ɡ̤uma
-slide,স্লাইড,s̪l̪aid,s̪l̪aid
 to speak,বল,bɔl̪ɔ,bɔl̪ɔ
 to spin,স্পিন,s̪pin̪,s̪pin̪
 to stand,দাঁড়ানো,d̪ãɽan̪o,d̪ãɽan̪o

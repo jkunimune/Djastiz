@@ -74,6 +74,7 @@ familiar,熟,ʂu˧˥,ʂu˧˥
 far,远,ɥœn˧˩˧,ɥœn˧˩˧
 fast,快速,kʰwaɪ̯˥˩su˥˩,kʰwaɪ̯˥˩su˥˩
 feather,羽毛,y˧˩˧mɑʊ̯˧˥,y˧˩˧mɑʊ̯˧˥
+female,女
 fern,蕨类,t͡ɕɥœ˧˥leɪ̯˥˩,t͡ɕɥœ˧˥leɪ̯˥˩
 finger,手指,ʂoʊ̯˧˩˧ʈ͡ʂɨ˧˩˧,ʂoʊ̯˧˩˧ʈ͡ʂɨ˧˩˧
 fire,火,xwɔ˧˩˧,xwɔ˧˩˧
@@ -119,6 +120,7 @@ information,信息,ɕin˥˩ɕi˥,ɕin˥˩ɕi˥
 inside,内,neɪ̯˥˩,neɪ̯˥˩
 jellyfish,海蜇,xaɪ̯˧˩˧ʈ͡ʂɤ˧˥,xaɪ̯˧˩˧ʈ͡ʂɤ˧˥
 kangaroo,袋鼠,taɪ̯˥˩ʂu˧˩˧,taɪ̯˥˩ʂu˧˩˧
+kin,亲属
 koala,考拉,kʰɑʊ̯˧˩˧la˥,kʰɑʊ̯˧˩˧la˥
 late,晚了,wan˧˩˧lɤ,wan˧˩˧lɤ
 layout,布局,pu˥˩t͡ɕy˧˥,pu˥˩t͡ɕy˧˥
@@ -155,6 +157,7 @@ okay,可以,kʰɤ˧˩˧i˧˩˧,kʰɤ˧˩˧i˧˩˧
 old,旧,t͡ɕjoʊ̯˥˩,t͡ɕjoʊ̯˥˩
 opaque,不透明,pu˥˩tʰoʊ̯˥˩miŋ˧˥,pu˥˩tʰoʊ̯˥˩miŋ˧˥
 opossum,负鼠科,fu˥˩ʂu˧˩˧kʰɤ˥,fu˥˩ʂu˧˩˧kʰɤ˥
+order,顺序,ʂwən˥˩ɕy˥˩,ʂwən˥˩ɕy˥˩
 ostrich,鸵鸟,tʰwɔ˧˥njɑʊ̯˧˩˧,tʰwɔ˧˥njɑʊ̯˧˩˧
 part,部分,pu˥˩fən,pu˥˩fən
 path,路径,lu˥˩t͡ɕiŋ˥˩,lu˥˩t͡ɕiŋ˥˩
@@ -199,6 +202,7 @@ shiny,闪亮,ʂan˧˩˧ljɑŋ˥˩,ʂan˧˩˧ljɑŋ˥˩
 should,应该,iŋ˥kaɪ̯˥,iŋ˥kaɪ̯˥
 simple,简单,t͡ɕjɛn˧˩˧tan˥,t͡ɕjɛn˧˩˧tan˥
 skillful,熟练,ʂu˧˥ljɛn˥˩,ʂu˧˥ljɛn˥˩
+slide,擦,t͡sʰa˥,t͡sʰa˥
 slug,蛞蝓,kʰwɔ˥˩y˧˥,kʰwɔ˥˩y˧˥
 smell,闻,wən˧˥,wən˧˥
 smooth,平滑,pʰiŋ˧˥xwa˧˥,pʰiŋ˧˥xwa˧˥
@@ -231,6 +235,7 @@ tangible,有形,joʊ̯˧˩˧ɕiŋ˧˥,joʊ̯˧˩˧ɕiŋ˧˥
 tangled,紊,wən˧˩˧,wən˧˩˧
 tapir,貘,mwɔ˥˩,mwɔ˥˩
 taste,味道,weɪ̯˥˩tɑʊ̯,weɪ̯˥˩tɑʊ̯
+technology,技术
 tenso,紧张,t͡ɕin˧˩˧ʈ͡ʂɑŋ˥,t͡ɕin˧˩˧ʈ͡ʂɑŋ˥
 thick,厚,xoʊ̯˥˩,xoʊ̯˥˩
 tick,蜱,pʰi˧˥,pʰi˧˥
@@ -271,7 +276,6 @@ to move,挪动,nwɔ˧˥tʊ̯ŋ˥˩,nwɔ˧˥tʊ̯ŋ˥˩
 to need,需要,ɕy˥jɑʊ̯˥˩,ɕy˥jɑʊ̯˥˩
 to notice,通知,tʰʊ̯ŋ˥ʈ͡ʂɨ˥,tʰʊ̯ŋ˥ʈ͡ʂɨ˥
 to obey,服从,fu˧˥t͡sʰʊ̯ŋ˧˥,fu˧˥t͡sʰʊ̯ŋ˧˥
-order,顺序,ʂwən˥˩ɕy˥˩,ʂwən˥˩ɕy˥˩
 to own,拥有,jʊ̯ŋ˥joʊ̯˧˩˧,jʊ̯ŋ˥joʊ̯˧˩˧
 to party,参加派对,t͡sʰan˥t͡ɕja˥pʰaɪ̯˥˩tweɪ̯˥˩,t͡sʰan˥t͡ɕja˥pʰaɪ̯˥˩tweɪ̯˥˩
 to pay attention,要注意,jɑʊ̯˥˩ʈ͡ʂu˥˩i˥˩,jɑʊ̯˥˩ʈ͡ʂu˥˩i˥˩
@@ -291,7 +295,6 @@ to say,说,ʂwɔ˥,ʂwɔ˥
 to sell,卖,maɪ̯˥˩,maɪ̯˥˩
 to sit,坐,t͡swɔ˥˩,t͡swɔ˥˩
 to sleep,睡觉,ʂweɪ̯˥˩t͡ɕjɑʊ̯˥˩,ʂweɪ̯˥˩t͡ɕjɑʊ̯˥˩
-slide,擦,t͡sʰa˥,t͡sʰa˥
 to speak,说话,ʂwɔ˥xwa˥˩,ʂwɔ˥xwa˥˩
 to spin,旋转,ɕɥœn˧˥ʈ͡ʂwan˧˩˧,ɕɥœn˧˥ʈ͡ʂwan˧˩˧
 to stand,站立,ʈ͡ʂan˥˩li˥˩,ʈ͡ʂan˥˩li˥˩

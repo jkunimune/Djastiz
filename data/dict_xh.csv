@@ -74,6 +74,7 @@ familiar,qhe lekile,kǃʰɛ lɛkilɛ,kǃʰɛ lɛkilɛ
 far,kude,kud̤ɛ,kud̤ɛ
 fast,ngokukhawuleza,nɡ̤ɔkukʰawulɛz̤a,nɡ̤ɔkukʰawulɛz̤a
 feather,intsiba,int͡siɓa,int͡siɓa
+female,ibhinqa
 fern,*,*,*
 finger,ngomunwe,nɡ̤ɔmunwɛ,nɡ̤ɔmunwɛ
 fire,ngomlilo,nɡ̤ɔmlilɔ,nɡ̤ɔmlilɔ
@@ -119,6 +120,7 @@ information,ulwazi,ulwaz̤i,ulwaz̤i
 inside,ngaphakathi,nɡ̤apʰakatʰi,nɡ̤apʰakatʰi
 jellyfish,*,*,*
 kangaroo,*,*,*
+kin,ubuhlobo
 koala,*,*,*
 late,kwexesha,kwɛkǁɛʃa,kwɛkǁɛʃa
 layout,kuluhlu,kuluɬu,kuluɬu
@@ -155,6 +157,7 @@ okay,kulungile,kulunɡ̤ilɛ,kulunɡ̤ilɛ
 old,ubudala,uɓud̤ala,uɓud̤ala
 opaque,*,*,*
 opossum,*,*,*
+order,landelelana,land̤ɛlɛlana,land̤ɛlɛlana
 ostrich,nciniba,ŋǀiniɓa,ŋǀiniɓa
 part,nxalenye,ŋǁalɛɲɛ,ŋǁalɛɲɛ
 path,indlela,inɮɛla,inɮɛla
@@ -199,6 +202,7 @@ shiny,kukhanya,kukʰaɲa,kukʰaɲa
 should,fanele,fanɛlɛ,fanɛlɛ
 simple,elula,ɛlula,ɛlula
 skillful,buchule,ɓukǀʰulɛ,ɓukǀʰulɛ
+slide,hlamba,ɬamɓa,ɬamɓa
 slug,*,*,*
 smell,livumba,liv̤umɓa,liv̤umɓa
 smooth,elula,ɛlula,ɛlula
@@ -231,6 +235,7 @@ tangible,ezibonakalayo,ɛz̤iɓɔnakalajɔ,ɛz̤iɓɔnakalajɔ
 tangled,zixakeke,z̤ikǁakɛkɛ,z̤ikǁakɛkɛ
 tapir,*,*,*
 taste,ngcamango,ŋ̤ǀ̤amanɡ̤ɔ,ŋ̤ǀ̤amanɡ̤ɔ
+technology,te knoloji
 tenso,bambekile,ɓamɓɛkilɛ,ɓamɓɛkilɛ
 thick,ezinzima,ɛz̤inz̤ima,ɛz̤inz̤ima
 tick,phawula,pʰawula,pʰawula
@@ -271,7 +276,6 @@ to move,hamba,hamɓa,hamɓa
 to need,funa,funa,funa
 to notice,phawula,pʰawula,pʰawula
 to obey,thobela,tʰɔɓɛla,tʰɔɓɛla
-order,landelelana,land̤ɛlɛlana,land̤ɛlɛlana
 to own,yenza eyakho,jɛnz̤a ɛjakʰɔ,jɛnz̤a ɛjakʰɔ
 to party,kwiqela,kwikǃɛla,kwikǃɛla
 to pay attention,hlawula ingqalelo,ɬawula iŋ̤ǃ̤alɛlɔ,ɬawula iŋ̤ǃ̤alɛlɔ
@@ -291,7 +295,6 @@ to say,thi,tʰi,tʰi
 to sell,thengisa,tʰɛnɡ̤isa,tʰɛnɡ̤isa
 to sit,hlala,ɬala,ɬala
 to sleep,lala,lala,lala
-slide,hlamba,ɬamɓa,ɬamɓa
 to speak,thetha,tʰɛtʰa,tʰɛtʰa
 to spin,jikeleza,d͡ʒ̤ikɛlɛz̤a,d͡ʒ̤ikɛlɛz̤a
 to stand,ma,ma,ma

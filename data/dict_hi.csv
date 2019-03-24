@@ -74,6 +74,7 @@ familiar,परिचित,pərit͡ʃit,pərit͡ʃit
 far,दूर,duːr,duːr
 fast,उपवास,upvaːs,upvaːs
 feather,पंख,pəŋkʰə,pəŋkʰə
+female,महिला
 fern,फ़र्न,fərnə,fərnə
 finger,उंगली,uŋɡliː,uŋɡliː
 fire,आग,aːɡ,aːɡ
@@ -119,6 +120,7 @@ information,जानकारी,d͡ʒaːnkaːriː,d͡ʒaːnkaːriː
 inside,के भीतर,ke b̤iːtər,ke b̤iːtər
 jellyfish,जेलिफ़िश,d͡ʒelifiʃ,d͡ʒelifiʃ
 kangaroo,कंगेरू,kəŋɡeruː,kəŋɡeruː
+kin,*
 koala,कोअला,koalaː,koalaː
 late,देर से,derə se,derə se
 layout,ख़ाका,xaːkaː,xaːkaː
@@ -155,6 +157,7 @@ okay,ठीक,ʈʰiːk,ʈʰiːk
 old,पुराना,puraːnaː,puraːnaː
 opaque,न झिल्लड़,nə d͡ʒ̤illəɽ,nə d͡ʒ̤illəɽ
 opossum,*,*,*
+order,क्रम,krəm,krəm
 ostrich,शुतुरमुर्ग,ʃuturmurɡə,ʃuturmurɡə
 part,अंश,nʃə,nʃə
 path,पथ,pətʰ,pətʰ
@@ -199,6 +202,7 @@ shiny,चमकदार,t͡ʃəmkədaːr,t͡ʃəmkədaːr
 should,चाहिए,t͡ʃaːɦie,t͡ʃaːɦie
 simple,सरल,sərəl,sərəl
 skillful,निपुण,nipuɳ,nipuɳ
+slide,मल,məl,məl
 slug,घोंघा जैसा एक जीव,ɡ̤oŋɡ̤aː d͡ʒæːsaː ekə d͡ʒiːv,ɡ̤oŋɡ̤aː d͡ʒæːsaː ekə d͡ʒiːv
 smell,गंध,ɡənd̤ə,ɡənd̤ə
 smooth,चिकना,t͡ʃiknaː,t͡ʃiknaː
@@ -231,6 +235,7 @@ tangible,वास्तविक,vaːstəvik,vaːstəvik
 tangled,पेचीदा,pet͡ʃiːdaː,pet͡ʃiːdaː
 tapir,*,*,*
 taste,स्वाद,svaːd,svaːd
+technology,प्रौद्योगिकी
 tenso,तनावग्रस्त,tənaːvɡrəstə,tənaːvɡrəstə
 thick,मोटा,moʈaː,moʈaː
 tick,टिकटिक,ʈikʈik,ʈikʈik
@@ -271,7 +276,6 @@ to move,हिला,ɦilaː,ɦilaː
 to need,जरूरत,d͡ʒəruːrət,d͡ʒəruːrət
 to notice,सूच,suːt͡ʃ,suːt͡ʃ
 to obey,पालन,paːlən,paːlən
-order,क्रम,krəm,krəm
 to own,मालिक हो,maːlikə ɦo,maːlikə ɦo
 to party,पार्टी,paːrʈiː,paːrʈiː
 to pay attention,ध्यान दे,d̤jaːnə de,d̤jaːnə de
@@ -291,7 +295,6 @@ to say,कह,kəɦ,kəɦ
 to sell,बेच,bet͡ʃ,bet͡ʃ
 to sit,बैठ,bæːʈʰ,bæːʈʰ
 to sleep,सो,so,so
-slide,मल,məl,məl
 to speak,बोल,bol,bol
 to spin,घुमा,ɡ̤umaː,ɡ̤umaː
 to stand,सहन,səɦən,səɦən

@@ -74,6 +74,7 @@ familiar,familiar,fəˈmɪljəɹ,fəˈmɪɫjɚ
 far,far,fɑɹ,fɑɹ
 fast,fast,fæst,fæst
 feather,feather,ˈfɛðəɹ,ˈfɛðɚ
+female,female
 fern,fern,fəɹn,fɚn
 finger,finger,ˈfɪŋɡəɹ,ˈfɪŋɡɚ
 fire,fire,fɑɪ̯əɹ,fɑɪ̯ɚ
@@ -119,6 +120,7 @@ information,information,ˌɪnˌfɔɹˈmeɪ̯ʃən,ˌɪnˌfɔɹˈmeɪ̯ʃən
 inside,inside,ˌɪnˈsɑɪ̯d,ˌɪnˈsɑɪ̯d
 jellyfish,jellyfish,ˈd͡ʒɛliˌfɪʃ,ˈd͡ʒɛliːˌfɪʃ
 kangaroo,kangaroo,ˌkæŋɡəɹˈu,ˌkæŋɡɚˈɹʷuː
+kin,kin
 koala,koala,koʊ̯ˈɑlə,kʰoʊ̯ˈɑlə
 late,late,leɪ̯t,leɪ̯t
 layout,layout,leɪ̯aʊ̯t,leɪ̯aʊ̯t
@@ -155,6 +157,7 @@ okay,okay,ˌoʊ̯ˈkeɪ̯,ˌoʊ̯ˈkʰeɪ̯
 old,old,oʊ̯ld,oʊ̯ɫd
 opaque,opaque,oʊ̯ˈpeɪ̯k,oʊ̯ˈpʰeɪ̯k
 opossum,opossum,oʊ̯ˈpɑsəm,oʊ̯ˈpʰɑsəm
+order,order,ˈɔɹdəɹ,ˈɔɹɾɚ
 ostrich,ostrich,ˈɒstɹʷɪt͡ʃ,ˈɒstɹʷɪt͡ʃ
 part,part,pɑɹt,pʰɑɹt
 path,path,pæθ,pʰæθ
@@ -199,6 +202,7 @@ shiny,shiny,ˈʃɑɪ̯ni,ˈʃɑɪ̯niː
 should,should,ʃʊd,ʃʊd
 simple,simple,ˈsɪmpəl,ˈsɪmpəɫ
 skillful,skillful,ˈskɪlfʊl,ˈskɪɫfəɫ
+slide,slide,slɑɪ̯d,slɑɪ̯d
 slug,slug,sləɡ,sləɡ
 smell,smell,smɛl,smɛɫ
 smooth,smooth,smuð,smuːð
@@ -231,6 +235,7 @@ tangible,tangible,ˈtænd͡ʒɪbəl,ˈtʰænd͡ʒəbəɫ
 tangled,tangled,ˈtæŋɡəld,ˈtʰæŋɡəɫd
 tapir,tapir,ˈteɪ̯pɪɹ,ˈtʰeɪ̯pɪɹ
 taste,taste,teɪ̯st,tʰeɪ̯st
+technology,technology
 tenso,tense,tɛns,tʰɛns
 thick,thick,θɪk,θɪk
 tick,tick,tɪk,tʰɪk
@@ -271,7 +276,6 @@ to move,move,muv,muːv
 to need,need,nid,niːd
 to notice,notice,ˈnoʊ̯tɪs,ˈnoʊ̯ɾɪs
 to obey,obey,oʊ̯ˈbeɪ̯,oʊ̯ˈbeɪ̯
-order,order,ˈɔɹdəɹ,ˈɔɹɾɚ
 to own,own,oʊ̯n,oʊ̯n
 to party,party,ˈpɑɹti,ˈpʰɑɹɾiː
 to pay attention,attention,əˈtɛnʃən,əˈtʰɛnʃən
@@ -291,7 +295,6 @@ to say,say,seɪ̯,seɪ̯
 to sell,sell,sɛl,sɛɫ
 to sit,sit,sɪt,sɪt
 to sleep,sleep,slip,sliːp
-slide,slide,slɑɪ̯d,slɑɪ̯d
 to speak,speak,spik,spiːk
 to spin,spin,spɪn,spɪn
 to stand,stand,stænd,stænd
