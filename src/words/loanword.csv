@@ -95,7 +95,7 @@ Khmer; Cambodian; the Khmer people {GENITIVE:Khmer; Cambodian; from Cambodia|COU
 Cameroonian; the Cameroonian people {GENITIVE:Cameroonian; from Cameroon|COUNTRY:Cameroon},,fra <Cameroun> [kamʁun],'kamhun
 Canadaian; the Canadian people {GENITIVE:Canadian; from Canada|COUNTRY:Canada},,eng <Canada> [ˈkænədə],'kanata
 Cabo Verdean; Cape Verdean; the Cabo Verdean people {GENITIVE:Cabo Verdean; Cape Verdean; from Cabo Verde|COUNTRY:Cabo Verde; Cape Verde},,por <Cabo Verde> [kaβu veɾðɨ],'kapufelti
-Castillian; the Castillian people {GENITIVE:Castillian; from Castile|COUNTRY:the Kingdom of Castile|LANGUAGE:Castillian|REGION:Castile},,spa <Castellano> [kasˈtiʎa],'kastilya
+Castillian; the Castillian people {GENITIVE:Castillian; from Castile|COUNTRY:the Kingdom of Castile|LANGUAGE:Castillian; the Castillian language|REGION:Castile},,spa <Castellano> [kasˈtiʎa],'kastilya
 Central African; the Central African people {GENITIVE:Central African; from the Central African Republic|COUNTRY:Central African Republic},,fra <Centrafrique> [sɑ̃tʁafʁik],'sanhafhik
 Chadian; the Chadian people {GENITIVE:Chadian; from Chad|COUNTRY:Chad},,fra <Tshad> [tʃad],'cat
 Chewa; the Chewa people {GENITIVE:Chewa; of the Chewa|LANGUAGE:Chichewa; Chinyanja},,nya <Chewa> [t͡ʃewa],'cewa
@@ -111,7 +111,7 @@ Costa Rican; the Costa Rican people {GENITIVE:Costa Rican; from Costa Rica|COUNT
 Croat; the Croat people {GENITIVE:Croatian; from Croatia|COUNTRY:Croatia|LANGUAGE:Croatian; the Croatian language},,hrv <Hrvati> [xr̩ʋăːti],'helwati
 Cuban; the Cuban people {GENITIVE:Cuban; from Cuba|COUNTRY:Cuba},,spa <Cuba> [kuβa],'kupa
 Cypriot; the Cypriot people {GENITIVE:Cypriot; from Cyprus|COUNTRY:Cyprus},,ell <Κύπρος> [ˈcipros],'kiplos
-Czech; the Czech people {GENITIVE:Czech; from the Czech Republic|Czech; the Czech language},,ces <češ-> [ˈt͡ʃɛʃ],'cec
+Czech; the Czech people {GENITIVE:Czech; from the Czech Republic|LANGUAGE:Czech; the Czech language},,ces <češ-> [ˈt͡ʃɛʃ],'cec
 Dane; the Danish people {GENITIVE:Danish; from Denmark|COUNTRY:Denmark|LANGUAGE:Danish; the Danish language},,dan <Dan-> [dan],'tan 
 Djiboutian; the Djiboutian people {GENITIVE:Djiboutian; from Djibouti|COUNTRY:Djibouti},,som <Jabuuti> [d͡ʒæbuːt],'caputi
 Dominican; the Dominican people {GENITIVE:Dominican; from Dominica|COUNTRY:Dominica},,eng <Dominica> [dɒmɪˈniːkə],'tominika
@@ -236,7 +236,7 @@ Slovakia; the country {GENITIVE:Slovak; from Slovakia},,slk <TODO> [sloʋensko],
 Slovenia; the country {GENITIVE:Slovenian; Slovene; from Slovenia},,slv <TODO> [slɔˈʋeːnija],'soloweniya
 Solomon Islands; the country {GENITIVE:Solomon Island; Solomon Islander; from Solomon Islands},,pis <TODO> [solomon],'solomon
 Somalia; the country {GENITIVE:Somalian; from Somalia},,som <TODO> [sɔːmɑːlijɑ],'somaliya
-Spaniard; the Spanish people {GENITIVE:Spanish; from Spain|COUNTRY:Spain|LANGUAGE:Spanish|the Spanish language},,spa <España> [espaɲa],'espanya
+Spaniard; the Spanish people {GENITIVE:Spanish; from Spain|COUNTRY:Spain|LANGUAGE:Spanish|LANGUAGE:the Spanish language},,spa <España> [espaɲa],'espanya
 Sri Lanka; the country {GENITIVE:Sri Lankan; from Sri Lanka},,sin <TODO> [sriː laŋkaːʋa],'sililankawa
 Sudan; the country {GENITIVE:Sudanese; from Sudan},,ara <TODO> [assuːdaːn],'asutan
 South Sudan; the country {GENITIVE:South Sudanese; from South Sudan},,din <TODO> [paguot t̪uda̤n],'pakuotutan

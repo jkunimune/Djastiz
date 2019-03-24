@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.ERROR)
 
 
 DIACRITIC_GUIDE = {
@@ -90,8 +90,6 @@ RESTRICTED_CHANGES = [
 	('ʔʕ', ''),
 ]
 
-ALL_VOWELS = 'aɑæeɛiɪɨoɔɒuʊʉɯəɤʌœø'
-ALL_GLIDES = 'wʷɰjʲɥ'
 PHONEME_TABLE = ['eaoiu', 'yw', 'h', 'l', 'ktp', 'f', 'cs', 'nm'] # the lawnsosliel phonemes, arranged by strength
 INVERSES = {'a':'a', 'e':'o', 'i':'u', 'y':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'c', 's':'f'}
 for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
@@ -100,7 +98,7 @@ SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictior
 
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
 NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD',
-		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','ETHNICGROUP']
+		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','RELIGION','ETHNICGROUP']
 MISC_DERIVATIONS = ['OPPOSITE']
 
 
@@ -135,9 +133,9 @@ def strength_of(phoneme):
 	assert False, phoneme
 
 
-def is_consonant(phoneme):
+def is_consonant(phoneme, ipa=True):
 	""" is this a big strong consonant? """
-	return phoneme not in ALL_VOWELS and phoneme not in ALL_GLIDES
+	return phoneme not in 'aɑæeɛiɪɨoɔɒuʊʉɯəɤʌœø' and phoneme not in ('wʷɰjʲɥ' if ipa else 'wy')
 
 
 def strongest(cluster, preference=[]):
@@ -171,11 +169,11 @@ def reduce_phoneme(phoneme, before, after):
 		else:
 			return anaptyxis+consonant, dist+1 # but usually put it before
 	elif phoneme.endswith('̯'): # convert semivowels
-		if phoneme[0] in ['i','ɪ','e','ɛ']:
+		if phoneme[0] in 'iɪeɛ':
 			return reduce_phoneme('j', before, after)
-		elif phoneme[0] in ['u','ʊ','o','ɔ','ɯ','ɤ']:
+		elif phoneme[0] in 'uʊoɔɯɤʌ':
 			return reduce_phoneme('w', before, after)
-		elif phoneme[0] in ['y','ʏ','ø']:
+		elif phoneme[0] in 'yʏøœ':
 			return reduce_phoneme('ɥ', before, after)
 		else:
 			raise ValueError(phoneme)
@@ -185,34 +183,35 @@ def reduce_phoneme(phoneme, before, after):
 	for fulls, reduced in RESTRICTED_CHANGES:
 		if phoneme in fulls:
 			return reduced, 1
-	if phoneme in ['β','v','ⱱ','ʋ']: # these blocks will take care of the weird ones that depend on context
-		if before in ['w','u'] or after in ['w','u'] or (before == 'o' and is_consonant(after)): # for example, labial sonorants
+	if phoneme in 'βvⱱʋ': # these blocks will take care of the weird ones that depend on context
+		if before in 'wuʊ' or after in 'wuʊ' or (before in 'oɔ' and is_consonant(after)): # for example, labial sonorants
 			return 'f', .5 # use 'f' to create contrast,
 		else:
 			return 'w', .5 # 'w' otherwise
 	if phoneme == 'ʝ':
-		return ('c', 1) if after == 'w' else ('j', 0) # /ʝ/ can become 'c' if needed for contrast
+		return ('c', 1) if after == 'w' else ('y', 0) # /ʝ/ can become 'c' if needed for contrast
 	if phoneme == 'y':
-		if before in ['ʷ','w','u','ʊ','o','ɔ'] or after in ['w','u','ʊ','o','ɔ']:
+		if before in 'ʷwuʊoɔ' or after in 'wuʊoɔ':
 			return 'i', 0 # /y/ looks like /i/ when surrounded by other rounded things
-		elif before in ['ʲ','j','i','ɪ','e','ɛ'] or after in ['j','i','ɪ','e','ɛ']:
+		elif before in 'ʲjiɪeɛ' or after in 'jiɪeɛ':
 			return 'u', 0 # and like /u/ when surrounded by other front things
 		else:
 			return 'iw', 1 # and not like much on its own
 	if phoneme == 'ɥ':
-		if before in ['u','ʊ','o','ɔ'] or after in ['u','ʊ','o','ɔ']:
+		if before in 'uʊoɔ' or after in 'uʊoɔ':
 			return 'y', 0 # /ɥ/ looks like /j/ when surrounded by other rounded things
-		elif before in ['i','ɪ','e','ɛ'] or after in ['i','ɪ','e','ɛ']:
+		elif before in 'iɪeɛ' or after in 'iɪeɛ':
 			return 'w', 0 # and like /w/ when surrounded by other front things
 		else:
 			return 'yu', 1 # and not like much on its own
 	if phoneme == 'ɹ':
-		if (not before or not is_consonant(reduce_phoneme(before,'','')[0])) and (after and not is_consonant(reduce_phoneme(after,'','')[0])):
+		if (not before or not is_consonant(reduce_phoneme(before,'','')[0], ipa=False)) and \
+				(after and not is_consonant(reduce_phoneme(after,'','')[0], ipa=False)):
 			return 'l', 0 # use 'l' when intervocalic or initial and prevocalic
 		else:
 			return '', 0 # otherwise it's better as nothing
 	if phoneme == '̃':
-		return 'm' if after in ['p','f'] else 'n', 0 # nasal vowels can be n or m
+		return 'm' if after in 'pf' else 'n', 0 # nasal vowels can be n or m
 	if unicodedata.combining(phoneme):
 		return '', 0 # ignore all combining diacritics not expliticly listed here
 	raise ValueError(phoneme)
@@ -256,9 +255,9 @@ def apply_phonotactics(ipa, ending=''):
 	lsl = re.sub(r'([lnmhcsfktp])y([lnmhcsfktp])', r'\1i\2', lsl)
 
 	if ending == 'c': # make sure it ends with a consonant
-		while not is_consonant(lsl[-1]):
+		while not is_consonant(lsl[-1], ipa=False):
 			num_vowels = len(re.findall(r'[eaoiu]', lsl))
-			if num_vowels > 1 and is_consonant(lsl[-2]): # either by removing the last letter if that will work
+			if num_vowels > 1 and is_consonant(lsl[-2], ipa=False): # either by removing the last letter if that will work
 				lsl = lsl[:-1]
 				changes += 1
 			else: # or by adding a consonant to the end
@@ -386,7 +385,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		for lang2, _, _, reduced2 in options:
 			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other major languages
 				if c1 == c2:								score += 6.0*DESIRED_FRAC[lang2]
-				elif is_consonant(c1) or is_consonant(c2):	break
+				elif is_consonant(c1, ipa=False) or is_consonant(c2, ipa=False):	break
 		scores[i] = score
 
 	if np.isfinite(max(scores)):
@@ -405,13 +404,13 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 			return get_antonym(source_word) + all_words['begin']['ltl']
 		else:
 			return source_word + all_words['end']['ltl']
-	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ',
-		'IND', 'AMOUNT', 'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD']:
+	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ', 'IND',
+			'AMOUNT', 'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'LANGUAGE', 'COUNTRY', 'REGION', 'RELIGION', 'ETHNICGROUP']:
 		inflection_word = {
 			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who (relative)',
 			'OBJ':'which (relative)', 'IND':'whom (relative)', 'AMO':'the amount that', 'LOC':'where (relative)',
 			'TIM':'when (relative)', 'INS':'with which (relative)', 'CAU':'why (relative)', 'MET':'how (relative)',
-			'LAN':'language', 'COU':'country', 'REG':'place', 'ETH':'relative',
+			'LAN':'language', 'COU':'country', 'REG':'location', 'REL':'religion', 'ETH':'relative',
 		}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['ltl']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
