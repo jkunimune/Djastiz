@@ -61,18 +61,18 @@ ALLOWED_CHANGES = [
 	('uʊʉɯ', 'u'),
 	('mɱ', 'm'),
 	('nɳŋɴ', 'n'),
-	('ɲ', 'nj'),
+	('ɲ', 'ny'),
 	('pbɓ', 'p'),
 	('tdʈɖɗ', 't'),
-	('cɟʄ', 'kj'),
+	('cɟʄ', 'ky'),
 	('kɡɠq', 'k'),
 	('fɸ', 'f'),
 	('θsz', 's'),
 	('ʃʒɕʑʂʐ', 'c'),
-	('ç', 'hj'),
+	('ç', 'hy'),
 	('xχħhɦ', 'h'),
 	('wʷɰ', 'w'),
-	('jʲʎ', 'j'),
+	('jʲʎ', 'y'),
 	('lrɾɽɭ', 'l'),
 	('ɬɮ', 'cl'),
 	('ʰˤʼ',''),
@@ -84,23 +84,23 @@ RESTRICTED_CHANGES = [
 	('œø', 'ew'),
 	('ǃǀ', 't'),
 	('ǁ', 'k'),
-	('ʄ', 'kj'),
+	('ʄ', 'ky'),
 	('ð', 's'),
 	('ɣʁʀ', 'h'),
 	('ʔʕ', ''),
 ]
 
 ALL_VOWELS = 'aɑæeɛiɪɨoɔɒuʊʉɯəɤʌœø'
-ALL_GLIDES = 'wʷɰjʲʎ'
-PHONEME_TABLE = ['eaoiu', 'jw', 'h', 'l', 'ktp', 'f', 'cs', 'nm'] # the lawnsosliel phonemes, arranged by strength
-INVERSES = {'a':'a', 'e':'o', 'i':'u', 'j':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'s', 'c':'f'}
+ALL_GLIDES = 'wʷɰjʲɥ'
+PHONEME_TABLE = ['eaoiu', 'yw', 'h', 'l', 'ktp', 'f', 'cs', 'nm'] # the lawnsosliel phonemes, arranged by strength
+INVERSES = {'a':'a', 'e':'o', 'i':'u', 'y':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'c', 's':'f'}
 for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
 
 SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictiorary translated
 
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
 NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD',
-		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION']
+		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','ETHNICGROUP']
 MISC_DERIVATIONS = ['OPPOSITE']
 
 
@@ -201,11 +201,11 @@ def reduce_phoneme(phoneme, before, after):
 			return 'iw', 1 # and not like much on its own
 	if phoneme == 'ɥ':
 		if before in ['u','ʊ','o','ɔ'] or after in ['u','ʊ','o','ɔ']:
-			return 'j', 0 # /ɥ/ looks like /j/ when surrounded by other rounded things
+			return 'y', 0 # /ɥ/ looks like /j/ when surrounded by other rounded things
 		elif before in ['i','ɪ','e','ɛ'] or after in ['i','ɪ','e','ɛ']:
 			return 'w', 0 # and like /w/ when surrounded by other front things
 		else:
-			return 'ju', 1 # and not like much on its own
+			return 'yu', 1 # and not like much on its own
 	if phoneme == 'ɹ':
 		if (not before or not is_consonant(reduce_phoneme(before,'','')[0])) and (after and not is_consonant(reduce_phoneme(after,'','')[0])):
 			return 'l', 0 # use 'l' when intervocalic or initial and prevocalic
@@ -253,7 +253,7 @@ def apply_phonotactics(ipa, ending=''):
 			changes += 0.5
 
 	lsl = re.sub(r'([lnmhcsfktp])w([lnmhcsfktp])', r'\1u\2', lsl) # these rogue semivowels are weird and need to go die.
-	lsl = re.sub(r'([lnmhcsfktp])j([lnmhcsfktp])', r'\1i\2', lsl)
+	lsl = re.sub(r'([lnmhcsfktp])y([lnmhcsfktp])', r'\1i\2', lsl)
 
 	if ending == 'c': # make sure it ends with a consonant
 		while not is_consonant(lsl[-1]):
@@ -266,7 +266,7 @@ def apply_phonotactics(ipa, ending=''):
 				changes += 1
 	elif ending == 'v': # make sure it ends with a vowel
 		if lsl[-1] not in 'eaoiu':
-			if lsl[-1] == 'j':
+			if lsl[-1] == 'y':
 				lsl = lsl[:-1] + 'i' # either by changing a semivowel to a vowel if that would work
 				changes += 0.5
 			elif lsl[-1] == 'w':
@@ -278,7 +278,7 @@ def apply_phonotactics(ipa, ending=''):
 			else: # or by just adding another vowel to the end
 				lsl += re.findall(r'[eaoiu]', lsl)[-1]
 				changes += 1
-	if len(lsl) >=2 and lsl[0] not in 'eaoiujw' and lsl[1] not in 'eaoiujw': # also, if it starts with two consonants,
+	if len(lsl) >=2 and lsl[0] not in 'eaoiuyw' and lsl[1] not in 'eaoiuyw': # also, if it starts with two consonants,
 		lsl = re.findall(r'[eaoiu]', lsl)[0] + lsl # throw a vowel on the front
 		changes += 1
 
@@ -286,13 +286,13 @@ def apply_phonotactics(ipa, ending=''):
 	clusters = []
 	while i < len(lsl): # to get the consonant clusters,
 		j = i # group letters into sets of vowel/semivowels and consonants
-		while j < len(lsl) and (lsl[j] in 'eaoiujw') == (lsl[i] in 'eaoiujw'):
+		while j < len(lsl) and (lsl[j] in 'eaoiuyw') == (lsl[i] in 'eaoiuyw'):
 			j += 1
 		clusters.append(lsl[i:j])
 		i = j
 	for i in range(len(clusters)):
 		cluster = clusters[i]
-		if cluster[0] not in 'eaoiujw': # take all the consonant clusters
+		if cluster[0] not in 'eaoiuyw': # take all the consonant clusters
 			if i == 0 or i == len(clusters)-1:
 				max_len = 1
 			else:
@@ -305,10 +305,10 @@ def apply_phonotactics(ipa, ending=''):
 				changes += len(cluster) - max_len
 	lsl = ''.join(clusters)
 
-	lsl = re.sub(r'ej([lnmhcsfktp\b])', r'e\1', lsl) # restricted diphthongs
+	lsl = re.sub(r'ey([lnmhcsfktp\b])', r'e\1', lsl) # restricted diphthongs
 	lsl = re.sub(r'ow([lnmhcsfktp\b])', r'o\1', lsl)
 	lsl = re.sub(r'w?uw?', 'u', lsl) # these are effectively double letters
-	lsl = re.sub(r'j?ij?', 'i', lsl)
+	lsl = re.sub(r'y?iy?', 'i', lsl)
 
 	logging.debug("{} -> {}".format(ipa, lsl))
 	return lsl, changes
@@ -324,9 +324,9 @@ def choose_key(entry):
 	return key
 
 
-def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''): # TODO: no i/j distinction nor u/w
+def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''):
 	""" does this word at all conflict with what already exists? """
-	test_word = word.replace('j','i').replace('w','u')
+	test_word = word.replace('y','i').replace('w','u')
 	if test_word in all_words:
 		logging.debug("{}'s {} ({}) is already a word".format(lang, test_word, ipa))
 		return False # make sure it doesn't collide; if it does, don't add it to the list
@@ -411,7 +411,7 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who (relative)',
 			'OBJ':'which (relative)', 'IND':'whom (relative)', 'AMO':'the amount that', 'LOC':'where (relative)',
 			'TIM':'when (relative)', 'INS':'with which (relative)', 'CAU':'why (relative)', 'MET':'how (relative)',
-			'LAN':'language', 'COU':'country', 'REG':'place',
+			'LAN':'language', 'COU':'country', 'REG':'place', 'ETH':'relative',
 		}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['ltl']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
@@ -566,9 +566,9 @@ def fill_blanks(my_words, real_words):
 			if re.match(r'^[a-z][a-z][a-z] <.*> \[.*\]', entry['source']):
 				tallies[entry['source'].split()[0]] += 1
 			if entry['ltl'] and not entry['partos'].startswith('compound'):
-				all_ltl_words.add(entry['ltl'].replace('j','i').replace('w','u'))
+				all_ltl_words.add(entry['ltl'].replace('y','i').replace('w','u'))
 				if 'OF' not in entry['source'] and 'ono [' not in entry['source']:
-					all_open_ltl_words.add(entry['ltl'].replace('j','i').replace('w','u'))
+					all_open_ltl_words.add(entry['ltl'].replace('y','i').replace('w','u'))
 	logging.info(tallies)
 				
 	for entry in my_words.values(): # make up words for anything that needs it
@@ -580,7 +580,7 @@ def fill_blanks(my_words, real_words):
 				entry['ltl'] = my_word
 				entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
 				tallies[lang] += 1
-				all_ltl_words.add(my_word.replace('j','i').replace('w','u')) # skip the i/j distinction behind the curtain
+				all_ltl_words.add(my_word.replace('y','i').replace('w','u')) # skip the i/j distinction behind the curtain
 
 	for entry in my_words.values():
 		if ' OF ' in entry['source']: # derive the derivatives
