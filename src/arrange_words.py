@@ -90,7 +90,7 @@ RESTRICTED_CHANGES = [
 	('ʔʕ', ''),
 ]
 
-PHONEME_TABLE = ['eaoiu', 'yw', 'h', 'l', 'ktp', 'f', 'cs', 'nm'] # the lawnsosliel phonemes, arranged by strength
+PHONEME_TABLE = ['eaoiu', 'yw', 'h', 'ktp', 'f', 'cs', 'nm', 'l'] # the lawnsosliel phonemes, arranged by strength
 INVERSES = {'a':'a', 'e':'o', 'i':'u', 'y':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'c', 's':'f'}
 for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
 
@@ -133,9 +133,13 @@ def strength_of(phoneme):
 	assert False, phoneme
 
 
+def is_vowel(phoneme):
+	""" is this a pure wholesome vowel? """
+	return len(phoneme) == 1 and phoneme in 'aɑæeɛiɪɨoɔɒuʊʉɯəɤʌœø'
+
 def is_consonant(phoneme, ipa=True):
 	""" is this a big strong consonant? """
-	return phoneme not in 'aɑæeɛiɪɨoɔɒuʊʉɯəɤʌœø' and phoneme not in ('wʷɰjʲɥ' if ipa else 'wy')
+	return len(phoneme) == 1 and phoneme not in 'aɑæeɛiɪɨoɔɒuʊʉɯəɤʌœø' and phoneme not in ('wʷɰjʲɥ' if ipa else 'wy')
 
 
 def strongest(cluster, preference=[]):
@@ -155,7 +159,7 @@ def get_antonym(word):
 	return ''.join(INVERSES[c] for c in word)
 
 
-def reduce_phoneme(phoneme, before, after):
+def reduce_phoneme(phoneme, before='', after=''):
 	""" return the nearest lsl phoneme and the distance in phone space """
 	if phoneme.endswith('̩'): # this is how I do syllabics
 		consonant, dist = reduce_phoneme(phoneme[0], before, after)
@@ -169,11 +173,11 @@ def reduce_phoneme(phoneme, before, after):
 		else:
 			return anaptyxis+consonant, dist+1 # but usually put it before
 	elif phoneme.endswith('̯'): # convert semivowels
-		if phoneme[0] in 'iɪeɛ':
+		if phoneme[0] in ['i','ɪ','e','ɛ']:
 			return reduce_phoneme('j', before, after)
-		elif phoneme[0] in 'uʊoɔɯɤʌ':
+		elif phoneme[0] in ['u','ʊ','o','ɔ','ɯ','ɤ','ʌ']:
 			return reduce_phoneme('w', before, after)
-		elif phoneme[0] in 'yʏøœ':
+		elif phoneme[0] in ['y','ʏ','ø','œ']:
 			return reduce_phoneme('ɥ', before, after)
 		else:
 			raise ValueError(phoneme)
@@ -183,35 +187,34 @@ def reduce_phoneme(phoneme, before, after):
 	for fulls, reduced in RESTRICTED_CHANGES:
 		if phoneme in fulls:
 			return reduced, 1
-	if phoneme in 'βvⱱʋ': # these blocks will take care of the weird ones that depend on context
-		if before in 'wuʊ' or after in 'wuʊ' or (before in 'oɔ' and is_consonant(after)): # for example, labial sonorants
+	if phoneme in ['β','v','ⱱ','ʋ']: # these blocks will take care of the weird ones that depend on context
+		if before in ['w','u','ʊ'] or after in ['w','u','ʊ'] or (before in ['o','ɔ'] and is_consonant(after)): # for example, labial sonorants
 			return 'f', .5 # use 'f' to create contrast,
 		else:
 			return 'w', .5 # 'w' otherwise
 	if phoneme == 'ʝ':
 		return ('c', 1) if after == 'w' else ('y', 0) # /ʝ/ can become 'c' if needed for contrast
 	if phoneme == 'y':
-		if before in 'ʷwuʊoɔ' or after in 'wuʊoɔ':
+		if before in ['ʷ','w','u','ʊ','o','ɔ'] or after in ['w','u','ʊ','o','ɔ']:
 			return 'i', 0 # /y/ looks like /i/ when surrounded by other rounded things
-		elif before in 'ʲjiɪeɛ' or after in 'jiɪeɛ':
+		elif before in ['ʲ','j','i','ɪ','e','ɛ'] or after in ['j','i','ɪ','e','ɛ']:
 			return 'u', 0 # and like /u/ when surrounded by other front things
 		else:
 			return 'iw', 1 # and not like much on its own
 	if phoneme == 'ɥ':
-		if before in 'uʊoɔ' or after in 'uʊoɔ':
+		if before in ['u','ʊ','o','ɔ'] or after in ['u','ʊ','o','ɔ']:
 			return 'y', 0 # /ɥ/ looks like /j/ when surrounded by other rounded things
-		elif before in 'iɪeɛ' or after in 'iɪeɛ':
+		elif before in ['i','ɪ','e','ɛ'] or after in ['i','ɪ','e','ɛ']:
 			return 'w', 0 # and like /w/ when surrounded by other front things
 		else:
 			return 'yu', 1 # and not like much on its own
 	if phoneme == 'ɹ':
-		if (not before or not is_consonant(reduce_phoneme(before,'','')[0], ipa=False)) and \
-				(after and not is_consonant(reduce_phoneme(after,'','')[0], ipa=False)):
+		if (is_vowel(before) or before == '') and is_vowel(after):
 			return 'l', 0 # use 'l' when intervocalic or initial and prevocalic
 		else:
 			return '', 0 # otherwise it's better as nothing
 	if phoneme == '̃':
-		return 'm' if after in 'pf' else 'n', 0 # nasal vowels can be n or m
+		return 'm' if after in ['p','f'] else 'n', 0 # nasal vowels can be n or m
 	if unicodedata.combining(phoneme):
 		return '', 0 # ignore all combining diacritics not expliticly listed here
 	raise ValueError(phoneme)
@@ -253,6 +256,10 @@ def apply_phonotactics(ipa, ending=''):
 
 	lsl = re.sub(r'([lnmhcsfktp])w([lnmhcsfktp])', r'\1u\2', lsl) # these rogue semivowels are weird and need to go die.
 	lsl = re.sub(r'([lnmhcsfktp])y([lnmhcsfktp])', r'\1i\2', lsl)
+	lsl = re.sub(r'ey([lnmhcsfktp\b])', r'e\1', lsl) # restricted diphthongs
+	lsl = re.sub(r'ow([lnmhcsfktp\b])', r'o\1', lsl)
+	lsl = re.sub(r'w?uw?', 'u', lsl) # these are effectively double letters
+	lsl = re.sub(r'y?iy?', 'i', lsl)
 
 	if ending == 'c': # make sure it ends with a consonant
 		while not is_consonant(lsl[-1], ipa=False):
@@ -299,15 +306,10 @@ def apply_phonotactics(ipa, ending=''):
 			if len(cluster) > max_len: # that are too long
 				idcs = list(range(len(cluster))) # pick out the most important consonants
 				idcs.sort(key=lambda idx:strength_of(cluster[idx]))
-				idcs = sorted(idcs[:max_len])
+				idcs = sorted(idcs[-max_len:])
 				clusters[i] = ''.join(cluster[j] for j in idcs) # and discard the rest
 				changes += len(cluster) - max_len
 	lsl = ''.join(clusters)
-
-	lsl = re.sub(r'ey([lnmhcsfktp\b])', r'e\1', lsl) # restricted diphthongs
-	lsl = re.sub(r'ow([lnmhcsfktp\b])', r'o\1', lsl)
-	lsl = re.sub(r'w?uw?', 'u', lsl) # these are effectively double letters
-	lsl = re.sub(r'y?iy?', 'i', lsl)
 
 	logging.debug("{} -> {}".format(ipa, lsl))
 	return lsl, changes
