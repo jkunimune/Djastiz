@@ -36,7 +36,7 @@ SOURCE_LANGUAGES = {
 	('en','eng',.0930),
 	('hi','hin',.0898),
 	('bn','ben',.0838),
-	('ar','ara',.0000),
+	# ('ar','ara',.0000),
 	('pa','pan',.0422),
 	('jv','jav',.0286),
 	('yo','yor',.0260),
@@ -441,12 +441,12 @@ def compile_dictionaries(directory):
 
 def load_dictionary(directory):
 	""" load words from the given directory into a big dictionary thing """
-	words = {} # each key is an English gloss key; value is {definition, my word, derivatives}
+	words = collections.OrderedDict() # each key is an English gloss key; value is {definition, my word, derivatives}
 	queue = collections.deque()
 
 	for filename in [
 		'special', 'postposition', 'sentence particle', 'specifier', 'pronoun',
-		'proverb', 'numeral', 'verb', 'noun', 'compound word', 'loanword'
+		'proverb', 'numeral', 'verb', 'noun', 'loanword', 'compound word',
 	]:
 		with open(path.join(directory, filename+'.csv'), 'r', encoding='utf-8') as f:
 			word_set = pd.read_csv(f, dtype=str, na_filter=False)
@@ -559,10 +559,16 @@ def verify_words(my_words):
 def fill_blanks(my_words, real_words):
 	""" come up with words from the source dictioraries for all nouns and verbs that aren't
 		onomotopoeias, and update the compound words accordingly """
+	for entry in my_words.values(): # start by clearing the nouns, verbs, derivatives, and compounds
+		if (entry['partos'] in ['noun','verb'] and not entry['source'].startswith('ono ')) \
+				or ' OF ' in entry['source'] \
+				or entry['partos'].startswith('compound'):
+			entry['ltl'] = ''
+
 	all_ltl_words = set()
 	all_open_ltl_words = set() # the set of open words that can cause isolating morphology issues 
-	tallies = collections.Counter() # start by counting how many words we have of each language already
-	for entry in my_words.values():
+	tallies = collections.Counter()
+	for entry in my_words.values(): # then count how many words we have of each language already
 		if entry['partos'] not in ['noun','verb','loanword'] or re.match(r'^ono ', entry['source']): # only count grammar words and onomotopoeias
 			if re.match(r'^[a-z][a-z][a-z] <.*> \[.*\]', entry['source']):
 				tallies[entry['source'].split()[0]] += 1
@@ -572,32 +578,42 @@ def fill_blanks(my_words, real_words):
 					all_open_ltl_words.add(entry['ltl'].replace('y','i').replace('w','u'))
 	logging.info(tallies)
 				
-	for entry in my_words.values(): # make up words for anything that needs it
-		if entry['partos'] in ['noun','verb']:
-			if entry['source'].startswith('*') or entry['source'] == '' or entry['source'].split()[0] in DESIRED_FRAC.keys(): # it needs it if it has a star, it has no source, or has a source but it's the kind of source the script would put there
-				eng = choose_key(entry)
-				lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies,
-					partos=entry['partos'], has_antonym=has_antonym(entry), all_words=all_ltl_words, open_words=all_open_ltl_words)
-				entry['ltl'] = my_word
-				entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
-				tallies[lang] += 1
-				all_ltl_words.add(my_word.replace('y','i').replace('w','u')) # skip the i/j distinction behind the curtain
-
 	for entry in my_words.values():
-		if ' OF ' in entry['source']: # derive the derivatives
+		if ' OF ' in entry['source']: # derive their derivatives
 			d_type, d_gloss = entry['source'].split(' OF ')
+			assert my_words[d_gloss]['ltl'], entry['source']
 			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words, 'ANTONYM' in entry['derivatives'])
+			all_ltl_words.add(entry['ltl'].replace('y','i').replace('w','u'))
 
-		if entry['partos'].startswith('compound') and ' OF ' not in entry['source']: # and then compound the compound words
-			entry['ltl'] = ''
+		elif entry['partos'] in ['noun','verb'] and entry['ltl'] == '': # make up words for any noun or verb that needs it
+			eng = choose_key(entry)
+			lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies,
+				partos=entry['partos'], has_antonym=has_antonym(entry), all_words=all_ltl_words, open_words=all_open_ltl_words)
+			entry['ltl'] = my_word
+			entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
+			tallies[lang] += 1
+			all_ltl_words.add(my_word.replace('y','i').replace('w','u')) # skip the i/j distinction behind the curtain
+
+		elif entry['partos'].startswith('compound'): # and then compound the compound words
 			if entry['source']:
 				for component in entry['source'].split():
-					try:
+					if component.replace('-',' ') in my_words and my_words[component.replace('-',' ')]['ltl'] != '':
 						entry['ltl'] += my_words[component.replace('-',' ')]['ltl']
-					except KeyError as e:
-						logging.error("No {} for {}'s {}".format(e, entry['eng'][0], entry['source'].split()))
+					else:
+						raise ValueError("No '{}' for {}'s {}".format(component, entry['eng'][0], entry['source'].split()))
 			else:
 				logging.error("{} has no components".format(entry['eng'][0]))
+
+
+def analyse_dictionary(all_words):
+	""" count up the number of words with each root """
+	tallies = collections.Counter()
+	for word in all_words.values():
+		if '<' in word['source'] and not word['ltl'].startswith("'"):
+			tallies[word['source'][:3]] += 1
+	logging.info(tallies)
+	logging.info("{} roots, {} of which are of European origin".format(
+		sum(tallies.values()), tallies['eng']+tallies['spa']+tallies['epo']))
 
 
 def save_dictionary(dictionary, directory):
@@ -631,12 +647,10 @@ def measure_corpus(directory):
 if __name__ == '__main__':
 	source_dictionaries = compile_dictionaries('../data')
 	all_words = load_dictionary('words')
-	verify_words(all_words)
 	fill_blanks(all_words, source_dictionaries)
+	verify_words(all_words)
 	logging.info(json.dumps(all_words, indent=2))
-	logging.info("{} roots, {} of which are of European origin".format(
-		sum([re.match(r'<', word['source']) is not None for word in all_words.values()]),
-		sum([re.match(r'(eng|spa|epo) <', word['source']) is not None for word in all_words.values()])))
+	analyse_dictionary(all_words)
 	save_dictionary(all_words, 'words')
 	format_dictionary(all_words, '../Dictionaries')
 	hist = measure_corpus('../Example Texts')
