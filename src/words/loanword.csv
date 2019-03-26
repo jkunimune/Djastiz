@@ -41,18 +41,8 @@ Xhosa; the language {GENITIVE:Xhosa; in Xhosa},,xho <isiXhosa> [i˨si˨kǁʰɔː
 Yoruba; the language {GENITIVE:Yoruba; in Yoruba},,yor <èdè Yorùbá> [e˨de˨ jo˧ɾu˨ba˦],'eteyolupa
 Zulu; the language {GENITIVE:Zulu; in Zulu},,zul <isiZulu> [isiˈzuːlu],'isisulu
 The World Wide Web; The Internet; The Cloud {GENITIVE:Internet; cloud; cyber},,eng <Internet> [ˈɪntɚnɛt],'intanet
-The Atlantic Ocean; the ocean {GENITIVE:Atlantic},,por <oceano Atlântico> [oseˈɐno atˈlɐnt͡ʃiko],'atlantiko
-The Indian Ocean; the ocean {GENITIVE:Indian},,mlg <Oseana Indiana> [oˈseana iⁿdiˈanina],'intianina
-The Pacific Ocean; the ocean {GENITIVE:Pacific},,jpn <太平洋> [taihɛːjɔː],'taiheyo
-The Arabian Sea; the sea {GENITIVE:Arabian},,,
-The Bering Sea; the sea,,,
-The Caribbean Sea; the sea,,eng <Caribbean sea> [kəˈɹʷɪbiən siː],'kalipean
-The Coral Sea; the sea,,,
-The Gulf of Mexico; the sea,,,
-The Mediterranean Sea; the sea,,lat <Mare Mediterrāneum> [ˈmarɛ mɛdɪtɛrˈraːneũ],'metitelanyum
-The South China Sea,,,
 America; The Americas; the landmass {GENITIVE:American; from America},,spa <América> [aˈmeɾika],'amelika
-Africa; the continent {GENITIVE:African; from Africa},ono <TODO> [TODO],,'aflika
+Africa; the continent {GENITIVE:African; from Africa},swa <Afrika> [afrika],,'aflika
 Antarctica; the landmass; the continent {GENITIVE:Antarctic; from Antarctica},,eng <Antarctica> [ænˈtɑːktɪkə],'antaktika
 Australian; the Australian people; Australia; the landmass; the continent {GENITIVE:Australian; from Australia|COUNTRY:Australia; the Commonwealth of Australia},,eng <Australia> [əˈstɹʷæɪ̯ljə],'ostwaylya
 Eurasia; the continent {GENITIVE:Eurasian; from Eurasia},,rus <Евразия> [jɪˈvrazʲɪjə],'yewlasia
@@ -72,7 +62,7 @@ Angolan; the Angolan people {GENITIVE:Angolan; from Angola|COUNTRY:Angola},,por 
 Antiguan; Barbudan; the Antiguan and Barbudan people {GENITIVE:Antiguan; Barbudan; from Antigua and Barbuda|COUNTRY:Antigua and Barbuda},,eng <Antigua and Barbuda> [æntiːɡə ən bɑːbjuːdə],'antikapapyuta
 Argentinean; the Argentinean people {GENITIVE:Argentinean; Argentine; from Argentina|COUNTRY:Argentina},,spa <Argentina> [aɾxenˈtina],alhentina
 Armenian; the Armenian people {GENITIVE:Armenian; from Armenia|COUNTRY:Armenia|LANGUAGE:Armenian; the Armenian language},,hye <Հայք> [hɑjkʰ],'hayk
-Austrian; the Austrian people {GENITIVE:Austrian; from Austria|COUNTRY:Austria},,deu <Österreich> [ˈøːstɐraɪç],'ewstahaic
+Austrian; the Austrian people {GENITIVE:Austrian; from Austria|COUNTRY:Austria},,deu <Österreich> [ˈøːstɐraɪç],'ewstalaic
 Azerbaijani; the Azerbaijani people {GENITIVE:Azerbaijani; from Azerbaijan|COUNTRY:Azerbaijan|LANGUAGE:Azerbaijani; the Azerbaijani language},,aze <Azərbaycan> [ɑːzæɾbɑjˈd͡ʒɑn],asalpaycan
 Bahamian; the Bahamian people {GENITIVE:Bahamian; from the Bahamas|COUNTRY:The Bahamas},,eng <Bahama> [bəˈhɑːmə],'pahama
 Bahraini; the Bahraini people {GENITIVE:Bahraini; from Bahrain|COUNTRY:Bahrain},,ara <بحرين‎> [baħrajn],'pahlayn
@@ -95,6 +85,7 @@ Khmer; Cambodian; the Khmer people {GENITIVE:Khmer; Cambodian; from Cambodia|COU
 Cameroonian; the Cameroonian people {GENITIVE:Cameroonian; from Cameroon|COUNTRY:Cameroon},,fra <Cameroun> [kamʁun],'kamhun
 Canadaian; the Canadian people {GENITIVE:Canadian; from Canada|COUNTRY:Canada},,eng <Canada> [ˈkænədə],'kanata
 Cabo Verdean; Cape Verdean; the Cabo Verdean people {GENITIVE:Cabo Verdean; Cape Verdean; from Cabo Verde|COUNTRY:Cabo Verde; Cape Verde},,por <Cabo Verde> [kaβu veɾðɨ],'kapufelti
+Island Carib; the Carib people; the Kalinago people {GENITIVE:Island Carib; Carib|LANGUAGE:Island Carib; Igneri},,crb <Kalinago> [kalinaɡo],'kalinako
 Castillian; the Castillian people {GENITIVE:Castillian; from Castile|COUNTRY:the Kingdom of Castile|LANGUAGE:Castillian; the Castillian language|REGION:Castile},,spa <Castellano> [kasˈtiʎa],'kastilya
 Central African; the Central African people {GENITIVE:Central African; from the Central African Republic|COUNTRY:Central African Republic},,fra <Centrafrique> [sɑ̃tʁafʁik],'sanhafhik
 Chadian; the Chadian people {GENITIVE:Chadian; from Chad|COUNTRY:Chad},,fra <Tshad> [tʃad],'cat
@@ -311,6 +302,7 @@ Shanghai; the city,,wuu <TODO> [sã˧˦hɪʔ˦],'sanhi
 Tianjin; the city,,cmn <TODO> [tʰjɛn˥t͡ɕin˥],'tyencin
 Tokyo; the city,,jpn <東京> [toːkʲoː],'tokyo
 Washington D.C.; the city,,eng <Washington D.C.> [ˈwɑʃiŋtɪn diː siː],'wacintontisi
+Atlas mountains,,ara <الأطـلـس‎> [ʔatˤlas],'atlas
 Alpha Centauri A; Rigil Kentaurus; the star,,lat <Rigil Centaurus> [rɪgɪl kɛntawrʊs],'likilkentawlus
 Alpha Centauri B; Toliman; the star,,ara <ظلمان> [zulman],'sulman
 Proxima Centauri; the star,,lat <Proxima Centauri> [prɔksɪma kɛntawrɪ],'poksimakentawli
@@ -341,7 +333,8 @@ Spiritualism; the religion {GENITIVE:Spiritualist},,eng <Spiritualism> [ˈspɪɹ
 Sunni Islam; the sect {GENITIVE:Sunni},,ara <سني> [ˈsunniː],'suni
 Taoism; Daoism; the religion {GENITIVE:Taoist; Daoist},,cmn <道教> [taw˥˩ tɕjaw˥˩],'tawcyaw
 Vaishnavism; the sect {GENITIVE:Vaishnava},,hin <वैष्णव धर्म> [ʋɛːɕnaːʋə dʱɑːɾm],'wecnawatam
-Zoroastrianism; the religion {GENITIVE:Zoroastrian},ave <𐬨𐬀𐬰𐬛𐬀𐬫𐬀𐬯𐬥𐬀> [mazdajasna],'mastayasna
+Zoroastrianism; the religion {GENITIVE:Zoroastrian},,ave <𐬨𐬀𐬰𐬛𐬀𐬫𐬀𐬯𐬥𐬀> [mazdajasna],'mastayasna
+Bering; the Danish cartographer and explorer,,dan <Bering> [?],'bering
 feng shui; the pseudoscience,,cmn <风水> [fəŋ˥ʂwej˧˩˥],'fancwey
 homeopathy; the pseudoscience,,deu <homöopathie> [hoːmœoːpatiː],'homeopati
 bitcoin; the currency,,,
@@ -401,9 +394,10 @@ Tai chi; the martial art,,cmn <太极拳> [tʰaj˥˩.t͡ɕi˧˥ t͡ɕʰɥɛn˧˥
 Karate; the martial art,,jpn <空手> [kaɾate],'kalate
 Aikido; the martial art,,jpn <合気道> [aikiꜜdoː],'aikido
 Kendo; the martial art,,jpn <剣道> [kɛndoː],'kento
-helium; the substance,,gre <eλiuμ> [helɪʊm],'helium
-lithium; the substance,,gre <λiθiyμ> [litʰium],'litium
-berilium; the substance,,
+hydrogen; the substance,,lat <hydrogenium> [hidrɔgɛnɪʊm],'hitlokenium
+helium; the substance,,lat <helium> [hɛlɪʊm],'helium
+lithium; the substance,,lat <lithium> [lɪtɪʊm],'litium
+beryllium; the substance,,
 boron; the substance,,
 carbon; the substance,,
 nitrogen; the substance,,
