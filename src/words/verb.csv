@@ -1,66 +1,66 @@
 eng,spa,source,ltl
-be absent; be gone; be away; be weak; OBJ is absent,,NEGATIVE OF be present,lehkwekinjo
-summon; bring forth; pull up; place; SBJ summons OBJ,,INCOHATIVE OF be present,lehkwekiki
-dispose; throw away; get rid; remove; SBJ disposes of OBJ {trash; garbage},,CESSATIVE OF be present,lehkwekinu
-continue; be happening; keep; stay; be in progress; undergo; maintain; preserve; _progressive_; SBJ {maintainer} makes OBJ hold true for some time,,epo <daŭrigi> [dawˈriɡi],tawliki
-change; be in flux; SBJ {bringer of change} changes OBJ somehow,,NEGATIVE OF continue,tawlikinjo
-repeat; do again; return to; SBJ makes OBJ happen multiple times,,epo <ripeti> [riˈpeti],lipeti
-reverse; do back; return from; SBJ makes OBJ happen in reverse after having happened,,REVERSAL OF repeat,tumolu
-be possible; can; might; may; _possibility_; OBJ {possibility} can happen,,epo <povi> [ˈpovi],powi
-enable; SBJ makes OBJ become possible,,INCOHATIVE OF be possible,powiki
-prevent; SBJ makes OBJ stop being possible,,CESSATIVE OF be possible,powinu
-be usable; be practical; OBJ is usable,,POSSIBILITY OF use,latankwekipowi
-be impractical; be unusable; OBJ is not usable,,NEGATIVE OF be usable,latankwekipowinjo
-be stable; be sustainable; OBJ can continue without changing,,POSSIBILITY OF continue,tawlikipowi
-be unstable; be unsustainable; OBJ cannot continue forever,,NEGATIVE OF be stable,tawlikipowinjo
+be absent; be gone; be away; be weak; OBJ is absent,,NEGATIVE OF be present,lyotkwekinyo
+summon; bring forth; pull up; place; SBJ summons OBJ,,INCOHATIVE OF be present,lyotkwekiki
+dispose; throw away; get rid; remove; SBJ disposes of OBJ {trash; garbage},,CESSATIVE OF be present,lyotkwekinu
+continue; be happening; keep; stay; be in progress; undergo; maintain; preserve; _progressive_; SBJ {maintainer} makes OBJ hold true for some time,,pan <ਚਾਲੂ> [t͡ʃɑlu],calu
+change; be in flux; SBJ {bringer of change} changes OBJ somehow,,NEGATIVE OF continue,calunyo
+repeat; do again; return to; SBJ makes OBJ happen multiple times,,cmn <重复> [ʈ͡ʂʰʊ̯ŋ˧˥fu˥˩],cunfu
+reverse; do back; return from; SBJ makes OBJ happen in reverse after having happened,,REVERSAL OF repeat,hiksi
+be possible; can; might; may; _possibility_; OBJ {possibility} can happen,,spa <puede> [ˈpweðe],pote
+enable; SBJ makes OBJ become possible,,INCOHATIVE OF be possible,poteki
+prevent; SBJ makes OBJ stop being possible,,CESSATIVE OF be possible,potenu
+be usable; be practical; OBJ is usable,,POSSIBILITY OF use,luatkwekipote
+be impractical; be unusable; OBJ is not usable,,NEGATIVE OF be usable,luatkwekipotenyo
+be stable; be sustainable; OBJ can continue without changing,,POSSIBILITY OF continue,calupote
+be unstable; be unsustainable; OBJ cannot continue forever,,NEGATIVE OF be stable,calupotenyo
 try; attempt; will; intend; attempt; do for; do so; do in order to; SBJ {purposeful; intentful} makes OBJ {means} happen in order to make IND {purpose; reason; goal; end; intention; beneficiary} happen,,cmn <试> [ʂɨ˥˩],ci
 give up; quit; stop trying; SBJ {quitter} stops trying to make IND happen by doing OBJ,,CESSATIVE OF try,cinu
 want; like; beI good; desire; favour; beI appealing; beI pleasing; hunger; have an appetite; hope; beI beautiful; be positive; OBJ {liker; optimist; hoper; wanter; desirous; hungry; -phile} has positive inclinations toward IND {desire; wish; hope; preference; favourite} {AMOUNT:goodness; preference level|LOCATION:heaven},,ben <চাই> [t͡ɕai],cai
-dislike; be averse; beI bad; disfavour; be unappealing; be displeasing; want not; beI ugly; beI gross; be negative; OBJ {pessimist; -phobe} has negative inclinations toward IND {unfavourable; anathema; least favourite} {LOCATION:hell},,ANTONYM OF want,fau
+dislike; be averse; beI bad; disfavour; be unappealing; be displeasing; want not; beI ugly; beI gross; be negative; OBJ {pessimist; -phobe} has negative inclinations toward IND {unfavourable; anathema; least favourite} {LOCATION:hell},,ANTONYM OF want,hau
 encourage; improve; defend; argue for; SBJ {encourager; improver} raises OBJ {encouraged}'s opinion of IND,,INCOHATIVE OF want,caiki
 discourage; worsen; insult; argue against; SBJ {discourager; worsener} lowers OBJ {discouraged}'s opinion of IND,,CESSATIVE OF want,cainu
 need; require; must; be necessary; suffice; be enough; OBJ {requisite; requirement} must be true in order for IND to be true,,epo <bezoni> [beˈzoni],pesoni
-be unacceptable; be too much; be insufficient; IND cannot be true if OBJ is true,,ANTONYM OF need,moheku
-*should; be fit; be good; OBJ should happen to make IND {value function; goal} happen,,yor <yẹ> [jɛ],je
+be unacceptable; be too much; be insufficient; IND cannot be true if OBJ is true,,ANTONYM OF need,mofeku
+*should; be fit; be good; OBJ should happen to make IND {value function; goal} happen,,yor <yẹ> [jɛ],ye
 should not; be bad; be unwise; OBJ {problem} should not happen to make IND happen,,ANTONYM OF should,wo
 *must; have to; be responsible; be obligated; OBJ is obligated to make IND {obligation; duty; responsibility; rule} happen,,spa <debe> [ˈdeβe],tepe
 assign; obligate; SBJ {assigner} makes OBJ responsible for IND happening,,INCOHATIVE OF must,tepeki
-not have to; may not; OBJ does not have to make IND happen,,NEGATIVE OF must,
-alleviate responsibility; unassign; deobligate; SBJ makes OBJ no longer responsible for IND happening,,INCOHATIVE OF not-have-to,
-be more; exceed; be positive; be greater; be enough; be too much; OBJ is numerically greater than IND {zero; reference} {AMOUNT:numerical value; positiveness {GENITIVE:numerical; cardinal}},,ibo <ọzọ> [ɒzɒ],oso
-be less; be negative; be not enough; be too little; OBJ is numerically less than IND,,ANTONYM OF be more,ehe
-increase; multiply; spread; SBJ {increaser} makes OBJ increase relative to IND,,INCOHATIVE OF be more,osoki
-decrease; diminish; dwindle; consolidate; SBJ {decreaser} makes OBJ decrease relative to IND,,CESSATIVE OF be more,osonu
+not have to; may not; OBJ does not have to make IND happen,,NEGATIVE OF must,tepenyo
+alleviate responsibility; unassign; deobligate; SBJ makes OBJ no longer responsible for IND happening,,INCOHATIVE OF not have to,tepenyoki
+be more; exceed; be positive; be greater; be enough; be too much; OBJ is numerically greater than IND {zero; reference} {AMOUNT:numerical value; positiveness {GENITIVE:numerical; cardinal}},,eng <more> [mɔɹ],mo
+be less; be negative; be not enough; be too little; OBJ is numerically less than IND,,ANTONYM OF be more,pe
+increase; multiply; spread; SBJ {increaser} makes OBJ increase relative to IND,,INCOHATIVE OF be more,moki
+decrease; diminish; dwindle; consolidate; SBJ {decreaser} makes OBJ decrease relative to IND,,CESSATIVE OF be more,monu
 be number; be in *order; be -th; index; OBJ {item; element} has a late position in IND {list; order; sequence; queue; line} {AMOUNT:position; index; number {GENITIVE:ordinal}},ordenar; estar en orden; OBJ tiene una posición tarde en IND {lista; orden; secuencia; cola; fila} {AMOUNT:posición; índice; numero},epo <ordo> [ˈordo],olto
 be number from the end; be in order from the end; negatively index; OBJ has an early position in IND {AMOUNT:position from end; negative index; number from end},,ANTONYM OF be number,etle
 move down; position; sort; arrange; order; SBJ {sorter} moves OBJ down the sequence IND {sorted} {METHOD:order},,INCOHATIVE OF be number,oltoki
 move up; position; SBJ moves OBJ up the sequence IND,,CESSATIVE OF be number,oltonu
 say; convey; SBJ {sayer} conveys IND {message; idea; signal; utterance} to OBJ {addressee} {INSTRUMENT:phone; cell phone; communicator; communication device|METHOD:language; protocol {GENITIVE:linguistic; lingual}},,cmn <说> [ʂwɔ˥],cwo
-consult; look up; reference; refer; read; SBJ retrieves IND {desired information} from OBJ {reference; table; consultation},,REVERSAL OF say,fje
-perceive; sense; observe; beI perceptible; see; hear; feel; smell; taste; OBJ {perceiver; observer} perceives IND {perception; experience {GENITIVE:subjective}} {INSTRUMENT:sense; sensor|GENITIVE:perceptual},,ben <বোঝা> [bod͡ʑ̤a],poca
-show; look; listen; sniff; taste; read; SBJ {shower; looker; listener} shows IND {thing that is shown} to OBJ,,INCOHATIVE OF perceive,pocaki
-obscure; hide; remove; cloud; SBJ {cloud} makes OBJ stop perceiving IND {cloudy},,CESSATIVE OF perceive,pocanu
-can see; see; view; OBJ {seer} sees IND {image; picture; sight; view} {GENITIVE:visual; optic},,spa <ve> [be],pe
-look; reveal; SBJ shows IND {show; visualisation} to OBJ visually,,INCOHATIVE OF can see,peki
-hide; obscure; remove from view; SBJ makes OBJ stop seeing IND,,CESSATIVE OF can see,penu
-watch; stare; SBJ forces OBJ to watch IND,,PROGRESSIVE OF can see,petawliki
-be sighted; OBJ is sighted,,POSSIBILITY OF can see,pepowi
-be blind; OBJ is blind,,NEGATIVE OF be sighted,pepowinjo
-sighten; restore sight; SBJ causes OBJ to become sighted,,INCOHATIVE OF be sighted,pepowiki
-blind; SBJ {blinding} causes OBJ to become blind,,CESSATIVE OF be sighted,pepowinu
-can hear; hear; OBJ hears IND {sound; audio} {GENITIVE:auditory; acoustic},,mar <ऐका> [æːkaː],aka
-listen; SBJ shows IND to OBJ audially,,INCOHATIVE OF can hear,akaki
-mute; SBJ makes OBJ stop hearing IND,,CESSATIVE OF can hear,akanu
-have hearing; OBJ has hearing {INSTRUMENT:hearing aid},,POSSIBILITY OF can hear,akapowi
-be deaf; OBJ is deaf,,NEGATIVE OF have hearing,akapowinjo
-hearify; restore hearing; SBJ makes OBJ able to hear,,INCOHATIVE OF have hearing,akapowiki
-deafen; SBJ {deafening} causes OBJ to become deaf,,CESSATIVE OF have hearing,akapowinu
+consult; look up; reference; refer; read; SBJ retrieves IND {desired information} from OBJ {reference; table; consultation},,REVERSAL OF say,hye
+perceive; sense; observe; beI perceptible; see; hear; feel; smell; taste; OBJ {perceiver; observer} perceives IND {perception; experience {GENITIVE:subjective}} {INSTRUMENT:sense; sensor|GENITIVE:perceptual},,cmn <感知> [kan˧˩˧ʈ͡ʂɨ˥],kanci
+show; look; listen; sniff; taste; read; SBJ {shower; looker; listener} shows IND {thing that is shown} to OBJ,,INCOHATIVE OF perceive,kanciki
+obscure; hide; remove; cloud; SBJ {cloud} makes OBJ stop perceiving IND {cloudy},,CESSATIVE OF perceive,kancinu
+can see; see; view; OBJ {seer} sees IND {image; picture; sight; view} {GENITIVE:visual; optic},,sho <ona> [ona],ona
+look; reveal; SBJ shows IND {show; visualisation} to OBJ visually,,INCOHATIVE OF can see,onaki
+hide; obscure; remove from view; SBJ makes OBJ stop seeing IND,,CESSATIVE OF can see,onanu
+watch; stare; SBJ forces OBJ to watch IND,,PROGRESSIVE OF can see,onacalu
+be sighted; OBJ is sighted,,POSSIBILITY OF can see,onapote
+be blind; OBJ is blind,,NEGATIVE OF be sighted,onapotenyo
+sighten; restore sight; SBJ causes OBJ to become sighted,,INCOHATIVE OF be sighted,onapoteki
+blind; SBJ {blinding} causes OBJ to become blind,,CESSATIVE OF be sighted,onapotenu
+can hear; hear; OBJ hears IND {sound; audio} {GENITIVE:auditory; acoustic},,hin <सुनो> [suno],suno
+listen; SBJ shows IND to OBJ audially,,INCOHATIVE OF can hear,sunoki
+mute; SBJ makes OBJ stop hearing IND,,CESSATIVE OF can hear,sunonu
+have hearing; OBJ has hearing {INSTRUMENT:hearing aid},,POSSIBILITY OF can hear,sunopote
+be deaf; OBJ is deaf,,NEGATIVE OF have hearing,sunopotenyo
+hearify; restore hearing; SBJ makes OBJ able to hear,,INCOHATIVE OF have hearing,sunopoteki
+deafen; SBJ {deafening} causes OBJ to become deaf,,CESSATIVE OF have hearing,sunopotenu
 can smell; smell; OBJ smells IND {scent; odor; aroma; smell} {GENITIVE:olfactory},,epo <odori> [oˈdori],otoli
 waft; sniff; smell; show aromatically; SBJ makes OBJ start smelling IND,,INCOHATIVE OF can smell,otoliki
 smother; suppress odor; SBJ makes OBJ stop smelling IND,,CESSATIVE OF can smell,otolinu
-can taste; taste; OBJ tastes IND {taste; flavour} {GENITIVE:gustatory},,fil <lasa> [lasa],lasa
-sample; show taste; SBJ makes OBJ start tasting IND,,INCOHATIVE OF can taste,lasaki
-obscure taste; SBJ makes OBJ stop tasting IND,,CESSATIVE OF can taste,lasanu
+can taste; taste; OBJ tastes IND {taste; flavour} {GENITIVE:gustatory},,ibo <uto> [uto],uto
+sample; show taste; SBJ makes OBJ start tasting IND,,INCOHATIVE OF can taste,utoki
+obscure taste; SBJ makes OBJ stop tasting IND,,CESSATIVE OF can taste,utonu
 can feel; feel; *touch; OBJ can physically feel IND {GENITIVE:tactile; tactual},,epo <tuŝi> [ˈtuʃi],tuci
 show tactually; SBJ shows IND to OBJ tactually,,INCOHATIVE OF can feel,tuciki
 hide tactually; SBJ makes OBJ stop feeling IND,,CESSATIVE OF can feel,tucinu
@@ -68,55 +68,55 @@ read; load; interpret; SBJ {reader} reads OBJ {file; text; reading; passage; dat
 write; record; type; mark; save; transcribe; SBJ {writer} encodes OBJ {writing; data} physically on IND {record} {INSTRUMENT:writing utensil|LOCATION:desk; writing surface|GENITIVE:literary; scriptural|METHOD:script; writing system; encoding},,yor <kọ> [kɔ],ko
 erase; overwrite; obscure; SBJ {one who erases; eraser} removes traces of OBJ {erased} from IND {INSTRUMENT:eraser},,REVERSAL OF write,ne
 speak; voice; say out loud; SBJ {speaker} says IND {quote; words; phrase; utterance; speech} to OBJ out loud {INSTRUMENT:voice|GENITIVE:vocal; locutory|METHOD:accent; manner of speech},,ben <বল> [bɔl̪ɔ],polo
-be tangible; be physical; be objective; OBJ {object; thing} is tangible,,ibo <anya> [aɲa],anja
+be tangible; be physical; be objective; OBJ {object; thing} is tangible,,ibo <anya> [aɲa],anya
 be digital; be intangible; be abstract; be nonphysical; OBJ {concept} is abstract,,ANTONYM OF be tangible,akwa
-print; tangiblise; soidify; SBJ {printer} brings OBJ into the physical realm,,INCOHATIVE OF be tangible,anjaki
-scan; abstract; intangiblise; SBJ {scanner abstracter} takes OBJ out of the physical realm,,CESSATIVE OF be tangible,anjanu
-own; have; possess; belong; OBJ {owner} owns IND {property},,jav <duwe> [d̪uwe],tue
-give; receive; obtain; get; transfer ownership; SBJ {giver} gives IND {gift; given} to OBJ {receiver; obtainer},,INCOHATIVE OF own,tueki
-take; lose; give away; renounce ownership; SBJ {taker} takes IND {theft; prize; taken} from OBJ {loser},,CESSATIVE OF own,tuenu
-keep; retain ownership; SBJ lets OBJ {keeper; hoarder} keep IND {kept},,PROGRESSIVE OF own,tuetawliki
+print; tangiblise; soidify; SBJ {printer} brings OBJ into the physical realm,,INCOHATIVE OF be tangible,anyaki
+scan; abstract; intangiblise; SBJ {scanner abstracter} takes OBJ out of the physical realm,,CESSATIVE OF be tangible,anyanu
+own; have; possess; belong; OBJ {owner} owns IND {property},,epo <posedi> [poˈsedi],poseti
+give; receive; obtain; get; transfer ownership; SBJ {giver} gives IND {gift; given} to OBJ {receiver; obtainer},,INCOHATIVE OF own,posetiki
+take; lose; give away; renounce ownership; SBJ {taker} takes IND {theft; prize; taken} from OBJ {loser},,CESSATIVE OF own,posetinu
+keep; retain ownership; SBJ lets OBJ {keeper; hoarder} keep IND {kept},,PROGRESSIVE OF own,poseticalu
 accompany; come with; be together; be beside; _accompanitive_; OBJ {companion; accompaniment; mate; partner; company} accompanies SBJ {accompanied},,epo <akompani> [akomˈpani],akompani
 be without; be apart; be away; OBJ does not accompany SBJ,,OPPOSITE OF accompany,anepmaku
 be between; be among; OBJ exists in the space encompassed by the elements of IND {bounds},,swa <kati> [kati],kati
 put between; place among; SBJ puts OBJ among IND,,INCOHATIVE OF be between,katiki
 remove from between; pull from; take out of; SBJ removes OBJ from among IND,,CESSATIVE OF be between,katinu
-be stacked; be layered; OBJ {layer} is stacked on IND {book; stack},,cmn <堆叠> [tweɪ̯˥tjɛ˧˥],twetje
-stack; layer; SBJ {stacker} stacks OBJ onto IND,,INCOHATIVE OF be stacked,twetjeki
-unstack; unlayer; SBJ {unstacker} unstacks OBJ from IND,,CESSATIVE OF be stacked,twetjenu
-"be sure; be *certain; beI probable; beI likely; OBJ is likely to happen according to IND; see ""believe"" and ""think"" {AMOUNT:Bayesian probability}",,cmn <有把握> [yoʊ̯˧˩˧pa˧˩˧wɔ˥˩],iopawo
-be skeptical; beI improbable; beI unlikely; Bayesian improbability; IND is unlikely to happen according to OBJ {skeptic},,ANTONYM OF be sure,uemaje
-convince; persuade; make sure; SBJ provides new information that leads OBJ to come to find IND probable,,INCOHATIVE OF be sure,iopawoki
-unconvince; become skeptical; SBJ provides new information that leads IND comes to beI OBJ improbable,,CESSATIVE OF be sure,iopawonu
-"believe; seem; OBJ {believer} accepts that IND {seeming} is true on a subconcious level; see ""be sure"" and ""think""",,sho <tenda> [tenda],tenta
+be stacked; be layered; OBJ {layer} is stacked on IND {book; stack},,cmn <堆叠> [tweɪ̯˥tjɛ˧˥],twetye
+stack; layer; SBJ {stacker} stacks OBJ onto IND,,INCOHATIVE OF be stacked,twetyeki
+unstack; unlayer; SBJ {unstacker} unstacks OBJ from IND,,CESSATIVE OF be stacked,twetyenu
+"be sure; be *certain; beI probable; beI likely; OBJ is likely to happen according to IND; see ""believe"" and ""think"" {AMOUNT:Bayesian probability}",,cmn <有把握> [joʊ̯˧˩˧pa˧˩˧wɔ˥˩],yopawo
+be skeptical; beI improbable; beI unlikely; Bayesian improbability; IND is unlikely to happen according to OBJ {skeptic},,ANTONYM OF be sure,wemaye
+convince; persuade; make sure; SBJ provides new information that leads OBJ to come to find IND probable,,INCOHATIVE OF be sure,yopawoki
+unconvince; become skeptical; SBJ provides new information that leads IND comes to beI OBJ improbable,,CESSATIVE OF be sure,yopawonu
+"believe; seem; OBJ {believer} accepts that IND {seeming} is true on a subconcious level; see ""be sure"" and ""think""",,swa <amini> [amini],amini
 "think; appear; OBJ {thinker; accepter} consciously decides that IND {apparent} is true; see ""be sure"" and ""believe""",,epo <pensi> [ˈpensi],pensi
 recall; remind; remember; remember to; jog memory; SBJ {mnemonic} helps OBJ {recaller} recall IND {factoid; datum} from memory,,cmn <记起> [t͡ɕi˥˩t͡ɕʰi˧˩˧],cici
-can remember; remember; know; OBJ {knowledgeable; smart} has IND stored in memory,,POSSIBILITY OF recall,cicipowi
-memorize; drill; remind; SBJ {driller; crammer; memorizer} makes OBJ memorize IND,,INCOHATIVE OF can remember,cicipowiki
-forget; erase memory; SBJ {mind-eraser} makes OBJ forget IND,,CESSATIVE OF can remember,cicipowinu
-understand; comprehend; beI sensical; know; be smart; OBJ {understander} understands IND {understood} well {AMOUNT:level of understanding},,cmn <了解> [ljɑʊ̯˧˩˧t͡ɕjɛ˧˩˧],ljawcje
-misunderstand; be confused; beI cryptic; OBJ does not understand IND {misunderstood} well,,ANTONYM OF understand,twajfwo
-explain; describe; SBJ {tutor; teacher} teaches OBJ {tutee; student} to understand IND,,INCOHATIVE OF understand,ljawcjeki
-confuse; unlearn; SBJ {confuser} makes OBJ stop understanding IND,,CESSATIVE OF understand,ljawcjenu
-"know; be informed; be educated; OBJ {knower; smart} remembers IND {knowledge}, believes and thinks it to be true, and correctly understands why it is true",,yor <mọ> [mɔ],mo
-teach; learn; study; beI out; SBJ {teacher; professor; master} teaches IND to OBJ {student; learner} {LOCATION:school; college; university|TIME:lesson; education},,INCOHATIVE OF know,moki
-unteach; unlearn; confound; SBJ {unteacher} makes IND {unlearner} unlearn what they thought they knew about OBJ,,CESSATIVE OF know,monu
-beI apparent; beI obvious; beI deducable; be smart; IND is apparent to OBJ {fast learner},,POSSIBILITY OF know,mopowi
-beI unapparent; beI secret; beI concealed; be stupid; IND is not easily apparent to OBJ {[https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]},,NEGATIVE OF be apparent,mopowinjo
-be *familiar with; be accustomed to; beI famous; beI notorious; IND {familiar to; accquaintance} is familiar to OBJ,,epo <familiara> [familiˈara],familiala
-be unfamiliar with; be strange; be foreign; beI obscure; beI anonymous; IND {unfamiliar to; stranger} is unfamiliar to OBJ,,ANTONYM OF be familiar with,caputuata
-familiarise; get accustomed to; SBJ {familiariser} makes OBJ become familiar with IND,,INCOHATIVE OF be familiar with,familialaki
-unfamiliarise; SBJ {unfamiliariser} makes OBJ become unfamiliar with IND,,CESSATIVE OF be familiar with,familialanu
+can remember; remember; know; OBJ {knowledgeable; smart} has IND stored in memory,,POSSIBILITY OF recall,cicipote
+memorize; drill; remind; SBJ {driller; crammer; memorizer} makes OBJ memorize IND,,INCOHATIVE OF can remember,cicipoteki
+forget; erase memory; SBJ {mind-eraser} makes OBJ forget IND,,CESSATIVE OF can remember,cicipotenu
+understand; comprehend; beI sensical; know; be smart; OBJ {understander} understands IND {understood} well {AMOUNT:level of understanding},,cmn <了解> [ljɑʊ̯˧˩˧t͡ɕjɛ˧˩˧],lyawcye
+misunderstand; be confused; beI cryptic; OBJ does not understand IND {misunderstood} well,,ANTONYM OF understand,twayhwo
+explain; describe; SBJ {tutor; teacher} teaches OBJ {tutee; student} to understand IND,,INCOHATIVE OF understand,lyawcyeki
+confuse; unlearn; SBJ {confuser} makes OBJ stop understanding IND,,CESSATIVE OF understand,lyawcyenu
+"know; be informed; be educated; OBJ {knower; smart} remembers IND {knowledge}, believes and thinks it to be true, and correctly understands why it is true",,spa <sabe> [ˈsaβe],sape
+teach; learn; study; beI out; SBJ {teacher; professor; master} teaches IND to OBJ {student; learner} {LOCATION:school; college; university|TIME:lesson; education},,INCOHATIVE OF know,sapeki
+unteach; unlearn; confound; SBJ {unteacher} makes IND {unlearner} unlearn what they thought they knew about OBJ,,CESSATIVE OF know,sapenu
+beI apparent; beI obvious; beI deducable; be smart; IND is apparent to OBJ {fast learner},,POSSIBILITY OF know,sapepote
+beI unapparent; beI secret; beI concealed; be stupid; IND is not easily apparent to OBJ {[https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]},,NEGATIVE OF be apparent,sapepotenyo
+be *familiar with; know; be accustomed; be used to; beI famous; beI notorious; IND {familiar to; accquaintance} is familiar to OBJ,,epo <familiara> [familiˈara],familiala
+be unfamiliar with; be unaccustomed; be strange; be foreign; beI obscure; beI anonymous; IND {unfamiliar to; stranger} is unfamiliar to OBJ,,ANTONYM OF be familiar with,saputuata
+familiarise; get to know; get accustomed; practise; SBJ {familiariser} makes OBJ become familiar with IND,,INCOHATIVE OF be familiar with,familialaki
+unfamiliarise; get unaccustomed; forget; lose; SBJ {unfamiliariser} makes OBJ become unfamiliar with IND,,CESSATIVE OF be familiar with,familialanu
 be friendly; be nice; be kind; OBJ considers IND {friend} a friend {AMOUNT:friendliness; amity},,epo <amiki> [aˈmiki],amiki
 be hostile; be mean; be harsh; OBJ is hostile toward IND {enemy; infamous},,ANTONYM OF be friendly,apunu
 befriend; introduce; soften; SBJ {friend-arranger} makes OBJ become friends with IND,,INCOHATIVE OF be friendly,amikiki
 drive apart; aggravate; SBJ {enemy-maker} makes OBJ become hostile toward IND,,CESSATIVE OF be friendly,amikinu
 love; be infatuated; OBJ {lover} is in love with IND {love; object of affection},,spa <ama> [ˈama],ama
 set up; fall in love; introduce; infatuate; SBJ {matchmaker; cupid} makes OBJ fall in love with IND,,INCOHATIVE OF love,amaki
-be related; share blood; OBJ {relatee} is genetically related to IND {relative; kin; blood; ethnic},,ibo <ịkọ> [ɪkɒ],iko
-be okay; be fine; be all right; be acceptable; OBJ is okay,,ara <جيدا> [d͡ʒiːdæː],cita
-make okay; make acceptable; SBJ makes OBJ okay,,INCOHATIVE OF be okay,citaki
-make not okay; cross the line; make unacceptable; SBJ makes OBJ not okay,,CESSATIVE OF be okay,citanu
+be related; share blood; OBJ {relatee} is genetically related to IND {relative; *kin; blood; ethnic},,spa <pariente> [paˈɾente],palente
+be okay; be fine; be all right; be acceptable; OBJ is okay,,swa <ema> [ema],ema
+make okay; make acceptable; SBJ makes OBJ okay,,INCOHATIVE OF be okay,emaki
+make not okay; cross the line; make unacceptable; SBJ makes OBJ not okay,,CESSATIVE OF be okay,emanu
 be old; OBJ {elder; senior; adult; grown-up} is old {AMOUNT:age},,msa <tua> [tua],tua
 be young; OBJ {kid; girl; boy} is young,,ANTONYM OF be old,lia
 age; wear; SBJ {ager; Father Time} makes OBJ get older,,INCOHATIVE OF be old,tuaki
@@ -125,66 +125,66 @@ be late; be after; be tardy; positive time; OBJ {future} happens after IND {AMOU
 be early; be before; be timely; negative time; OBJ {past} happens before IND,,ANTONYM OF be late,latlo
 laten; delay; postpone; put off; procrastinate; travel forward through time; SBJ {postponer} pushes OBJ forward through time,,INCOHATIVE OF be late,talteki
 pass; advance; travel back in time; SBJ {time machine} causes OBJ {passing; present} to become before IND,,CESSATIVE OF be late,taltenu
-be big; be large; be spacious; OBJ has a high volume {AMOUNT:size; volume},,jav <gedhe> [ɡeɖe],kete
-be small; be little; OBJ has a low volume,,ANTONYM OF be big,nolo
-grow; expand; dilate; SBJ {grower} grows OBJ {balloon},,INCOHATIVE OF be big,keteki
-shrink; contract; constrict; SBJ {shrinker} shrinks OBJ,,CESSATIVE OF be big,ketenu
+be big; be large; be spacious; OBJ has a high volume {AMOUNT:size; volume},,mar <मोठा> [moʈʰaː],mota
+be small; be little; OBJ has a low volume,,ANTONYM OF be big,pela
+grow; expand; dilate; SBJ {grower} grows OBJ {balloon},,INCOHATIVE OF be big,motaki
+shrink; contract; constrict; SBJ {shrinker} shrinks OBJ,,CESSATIVE OF be big,motanu
 be long; be tall; OBJ {protrusion; length} is long {AMOUNT:length; maximum physical dimension; length of time},,msa <lama> [lama],lama
-be short; OBJ {nub; knob} is short,,ANTONYM OF be long,tapa
+be short; OBJ {nub; knob; bump} is short,,ANTONYM OF be long,tapa
 lengthen; grow; SBJ {lengthener} lengthens OBJ,,INCOHATIVE OF be long,lamaki
 shorten; shrink; SBJ {shortener} shortens OBJ,,CESSATIVE OF be long,lamanu
 be broad; OBJ {ribbon; blade} is broad {AMOUNT:breadth; middle dimension},,spa <ancho> [ˈant͡ʃo],anco
-be narrow; OBJ is narrow,,ANTONYM OF be broad,akfe
+be narrow; OBJ is narrow,,ANTONYM OF be broad,akhe
 broaden; SBJ {broadener} broadens OBJ,,INCOHATIVE OF be broad,ancoki
 narrow; SBJ {narrower} narrows OBJ,,CESSATIVE OF be broad,anconu
-be thick; OBJ {slab} is thick {AMOUNT:thickness; minimum dimension},,hin <मोटा> [moʈaː],mota
-be thin; OBJ {film} is thin,,ANTONYM OF be thick,pela
-thicken; SBJ {thickener} thickens OBJ,,INCOHATIVE OF be thick,motaki
-thin; SBJ {thinner} thins OBJ,,CESSATIVE OF be thick,motanu
-be far; be distant; be beyond; be not at all; be remote; tele; OBJ is physically or numerically far from IND {space} {AMOUNT:distance},,xho <kude> [kud̤ɛ],kute
+be thick; OBJ {slab} is thick {AMOUNT:thickness; minimum dimension},,cmn <厚> [xoʊ̯˥˩],hou
+be thin; OBJ {film} is thin,,ANTONYM OF be thick,cei
+thicken; SBJ {thickener} thickens OBJ,,INCOHATIVE OF be thick,houki
+thin; SBJ {thinner} thins OBJ,,CESSATIVE OF be thick,hounu
+be far; be distant; be beyond; be not at all; be remote; tele; OBJ is physically or numerically far from IND {space} {AMOUNT:distance},,zul <kude> [kude],kute
 be near; be close; be before; be approximately; be almost; be like; OBJ is physically or numerically close to IND {TIME:meeting},,ANTONYM OF be far,nilo
 distance; go away; separate; SBJ {separator} distances OBJ from IND,,INCOHATIVE OF be far,kuteki
 approach; go toward; meet; draw close; bring together; gather; SBJ {gatherer; joiner} moves OBJ toward IND,,CESSATIVE OF be far,kutenu
-keep apart; separate; divide; avoid; SBJ {wall; barrier} keeps OBJ {other side} away from IND,,PROGRESSIVE OF be far,kutetawliki
-be in front; be *ahead; be forward; OBJ {field of view} has a positive _y_ coordinate from IND's point of view {AMOUNT:_y_ coordinate; progress},,hin <सामने> [saːmne],samne
-be behind; be backward; lag; OBJ {back} has a negative _y_ coordinate from IND's point of view,,ANTONYM OF be in front,hapko
-advance; go ahead; go forward; progress; gain; SBJ {advancer} makes OBJ move forward from IND's point of view,,INCOHATIVE OF be in front,samneki
-retreat; fall behind; go backward; lose; SBJ {retreater} makes OBJ move backward from IND's point of view,,CESSATIVE OF be in front,samnenu
-follow; trail; SBJ makes OBJ {follower; tail} follow IND {followed},,PROGRESSIVE OF be behind,hapkotawliki
-be to the right; OBJ {right side} has a positive _x_ coordinate from IND's point of view {AMOUNT:_x_ coordinate},estar *derecha; OBJ {el lado derecho} tiene una coordenada _x_ positiva del punto de vista de IND {AMOUNT:coordenada _x_},cmn <右> [yoʊ̯˥˩],iou
-be to the left; OBJ {left side} has a negative _x_ coordinate from IND's point of view,,ANTONYM OF be to the right,uei
-go right; SBJ makes OBJ move right from IND's point of view,,INCOHATIVE OF be to the right,iouki
-go left; SBJ makes OBJ move left from IND's point of view,,CESSATIVE OF be to the right,iounu
+keep apart; separate; divide; avoid; SBJ {wall; barrier} keeps OBJ {other side} away from IND,,PROGRESSIVE OF be far,kutecalu
+be in front; be *ahead; be forward; OBJ {field of view} has a positive _y_ coordinate from IND's point of view {AMOUNT:_y_ coordinate; progress},,hin <आगे> [aːɡe],ake
+be behind; be backward; lag; OBJ {back} has a negative _y_ coordinate from IND's point of view,,ANTONYM OF be in front,ano
+advance; go ahead; go forward; progress; gain; SBJ {advancer} makes OBJ move forward from IND's point of view,,INCOHATIVE OF be in front,akeki
+retreat; fall behind; go backward; lose; SBJ {retreater} makes OBJ move backward from IND's point of view,,CESSATIVE OF be in front,akenu
+follow; trail; SBJ makes OBJ {follower; tail} follow IND {followed},,PROGRESSIVE OF be behind,anocalu
+be to the right; OBJ {right side} has a positive _x_ coordinate from IND's point of view {AMOUNT:_x_ coordinate},estar *derecha; OBJ {el lado derecho} tiene una coordenada _x_ positiva del punto de vista de IND {AMOUNT:coordenada _x_},cmn <右> [joʊ̯˥˩],you
+be to the left; OBJ {left side} has a negative _x_ coordinate from IND's point of view,,ANTONYM OF be to the right,wei
+go right; SBJ makes OBJ move right from IND's point of view,,INCOHATIVE OF be to the right,youki
+go left; SBJ makes OBJ move left from IND's point of view,,CESSATIVE OF be to the right,younu
 be wide; be obtuse; be big; be large; OBJ {splotch; blotch} spans a wide angle from the point of view of IND {AMOUNT:angle;angular size},,hin <चौड़ा> [t͡ʃɔːɽaː],cola
-be narrow; be acute; be small; be little; OBJ {dot; point} spans a narrow angle from the point of view of IND {edge; blade; corner},,ANTONYM OF be wide,feta
+be narrow; be acute; be small; be little; OBJ {dot; point} spans a narrow angle from the point of view of IND {edge; blade; corner},,ANTONYM OF be wide,heta
 widen; grow; spread out; dilate; SBJ makes OBJ span a wider angle from the point of view of IND,,INCOHATIVE OF be wide,colaki
 narrow; shrink; contract; SBJ makes OBJ span a smaller angle from the point of view of IND,,CESSATIVE OF be wide,colanu
 be below; be down; SBJ {header; top} appears below OBJ from the point of view of IND {AMOUNT:altitude angle; distance down page},,ben <নিচে> [n̪it͡ɕe],nice
-be above; be up; SBJ {footer; bottom} appears below OBJ from the point of view of IND,,ANTONYM OF be below,kufo
+be above; be up; SBJ {footer; bottom} appears below OBJ from the point of view of IND,,ANTONYM OF be below,kuho
 go down; lower; sink; SBJ {one who moves down} makes OBJ appear to move down from the point of view of IND,,INCOHATIVE OF be below,niceki
-go up; raise; rise; SBJ {one who moves up} makes OBJ appear to move up from the point of view of IND,,CESSATIVE OF be below,nicenu
-be starboard; be right; OBJ appears on IND's right {AMOUNT:bearing; azimuth angle; distance across page},,cmn <右舷> [yoʊ̯˥˩ɕjɛn˧˥],iocjene
-be port; be left; OBJ appears on IND's left,,ANTONYM OF be starboard,uefwoko
-go starboard; go right; SBJ moves OBJ to IND's right,,INCOHATIVE OF be starboard,iocjeneki
-go port; go left; SBJ moves OBJ to IND's left,,CESSATIVE OF be starboard,iocjenenu
+go up; raise; rise; SBJ {one who moves up} makes OBJ appear to move up from the point of view of IND {INSTRUMENT:stool},,CESSATIVE OF be below,nicenu
+be starboard; be right; OBJ appears on IND's right {AMOUNT:bearing; azimuth angle; distance across page},,cmn <右舷> [joʊ̯˥˩ɕjɛn˧˥],yocyene
+be port; be left; OBJ appears on IND's left,,ANTONYM OF be starboard,wehwoko
+go starboard; go right; SBJ moves OBJ to IND's right,,INCOHATIVE OF be starboard,yocyeneki
+go port; go left; SBJ moves OBJ to IND's left,,CESSATIVE OF be starboard,yocyenenu
 be counterclockwise; be widdershins; OBJ appears rotated counterclockwise from the orientation IND {original orientation; right-side up} from the point of view of IND {AMOUNT:orientation; rotation},,ben <বামাবর্তে> [bamabɔrt̪e],pamapolte
 be clockwise; OBJ appears rotated clockwise from the orientation OBJ from the point of view of IND,,ANTONYM OF be counterclockwise,mapametlo
 rotate counterclockwise; SBJ {counterclockwise turner} turns OBJ counterclockwise from IND's point of view,,INCOHATIVE OF be counterclockwise,pamapolteki
 rotate clockwise; SBJ {clockwise turner} turns OBJ clockwise from IND's point of view,,CESSATIVE OF be counterclockwise,pamapoltenu
-be low; be under; OBJ {bottom; depths; ground; earth; hell; underlayer} has a lower altitude than IND {standard altitude; usually sea level} {AMOUNT:lowness; deelevation; altitude; layer},,cmn <低> [ti˥],ti
+be low; be under; be deep; OBJ {bottom; depths; ground; earth; hell; underlayer} has a lower altitude than IND {standard altitude; usually sea level} {AMOUNT:lowness; deelevation; altitude; layer},,cmn <低> [ti˥],ti
 be high; be over; OBJ {top; heights; heaven; sky; cosmos} has a higher altitude than IND,,ANTONYM OF be low,lu
 lower; descend; depress; SBJ {one who lowers} decreases OBJ's altitude relative to IND,,INCOHATIVE OF be low,tiki
 lift; heighten; ascend; elevate; SBJ {one who heightens} increases OBJ's altitude relative to IND,,CESSATIVE OF be low,tinu
 be south; OBJ has a lower latitude than IND {standard parallel; usually the North Pole} {AMOUNT:latitude},,epo <sude> [ˈsude],sute
-be north; OBJ has a higher latitude than IND,,ANTONYM OF be south,hilo
+be north; OBJ has a higher latitude than IND,,ANTONYM OF be south,filo
 go south; SBJ decreases the latitude of OBJ relative to IND,,INCOHATIVE OF be south,suteki
 go north; SBJ increases the latitude of OBJ relative to IND,,CESSATIVE OF be south,sutenu
-be east; OBJ has a higher longitude than IND {standard meridian; prime meridian} {AMOUNT:longitude},,spa <este> [ˈeste],este
-be west; OBJ has a lower longitude than IND,,ANTONYM OF be east,ohlo
-go east; SBJ increases the longitude of OBJ relative to IND,,INCOHATIVE OF be east,esteki
-go west; SBJ decreases the longitude of OBJ relative to IND,,CESSATIVE OF be east,estenu
+be east; OBJ has a higher longitude than IND {standard meridian; prime meridian} {AMOUNT:longitude},,ben <পূর্ব> [purbɔ],pulpo
+be west; OBJ has a lower longitude than IND,,ANTONYM OF be east,mitme
+go east; SBJ increases the longitude of OBJ relative to IND,,INCOHATIVE OF be east,pulpoki
+go west; SBJ decreases the longitude of OBJ relative to IND,,CESSATIVE OF be east,pulponu
 be dense; beI cramped; be frequent; be common; be tightly packed; be fine; OBJ occurs frequently and close together in IND,,cmn <稠密> [ʈ͡ʂʰoʊ̯˧˥mi˥˩],comi
-be sparse; beI spacious; be infrequent; be uncommon; be loosely distributed; be coarse; OBJ is few and far between in IND {space; room; open space},,ANTONYM OF be dense,fepu
+be sparse; beI spacious; be infrequent; be uncommon; be loosely distributed; be coarse; OBJ is few and far between in IND {space; room; open space},,ANTONYM OF be dense,hepu
 gather; collect; cluster; densify; SBJ increases the spacial frequency of OBJ,,INCOHATIVE OF be dense,comiki
 spread out; separate; SBJ decreases the spacial frequency of OBJ,,CESSATIVE OF be dense,cominu
 face; point; confront; OBJ {direction} is oriented in the direction toward IND {target; front},,ben <মুখে> [mukʰe],muke
@@ -195,43 +195,43 @@ turn away; avert; SBJ makes OBJ turn away from IND,,CESSATIVE OF face,mukenu
 rectify; turn good; SBJ makes OBJ become moral,,INCOHATIVE OF be moral,molalaki
 wrong; turn evil; SBJ makes OBJ become evil,,CESSATIVE OF be moral,molalanu
 be skillful; be apt; be effective; be good; OBJ is good at causing IND {AMOUNT:skill level},,nya <luso> [ɽuso],luso
-be inept; be unskillful; be ineffective; be bad; OBJ is bad at causing IND,,ANTONYM OF be skillful,tihe
+be inept; be unskillful; be ineffective; be bad; OBJ is bad at causing IND,,ANTONYM OF be skillful,tife
 train; teach; SBJ {trainer} makes OBJ {trainee} become skillful at IND,,INCOHATIVE OF be skillful,lusoki
 untrain; forget; become rusty; SBJ {untrainer} makes OBJ {rusty} become unskillful at IND,,CESSATIVE OF be skillful,lusonu
 work; work hard; be productive; be driven; OBJ {worker} is working hard on IND {job; work} {AMOUNT:productivity; efficiency; work|LOCATION:workplace; workstation; office},,cmn <工作> [kʊ̯ŋ˥t͡swɔ˥˩],kunswo
-be unproductive; be lazy; OBJ is working little on IND {neglected},,ANTONYM OF work,nikhje
+be unproductive; be lazy; OBJ is working little on IND {neglected},,ANTONYM OF work,nikfye
 put to work; make productive; employ; SBJ makes OBJ start working on IND,,INCOHATIVE OF work,kunswoki
 retire; give up; make unproductive; fire; SBJ makes OBJ become unproductive at IND,,CESSATIVE OF work,kunswonu
 notice; be aware; OBJ {noticer} is conciously aware of the presence of IND {noticed} {AMOUNT:awareness},,spa <nota> [ˈnota],nota
 be oblivious; be unaware; OBJ fails to notice the presence of IND {inconspicuous; stealthy},,ANTONYM OF notice,kela
 point out; notify; call attention; wave; SBJ calls OBJ's attention to IND,,INCOHATIVE OF notice,notaki
 hide; obscure; SBJ {hider; obscurer} hides IND from OBJ,,CESSATIVE OF notice,notanu
-pay attention; focus; watch; occupy; OBJ pays attention to IND {attention; focus} {AMOUNT:attention; focus},,cmn <要注意> [jɑʊ̯˥˩ʈ͡ʂu˥˩i˥˩],jawcui
-ignore; disregard; OBJ pays little attention to IND,,ANTONYM OF pay attention,wajfiu
-give attention; draw attention; SBJ makes OBJ pay attention to IND,,INCOHATIVE OF pay attention,jawcuiki
-distract; SBJ makes OBJ stop paying attention to IND,,CESSATIVE OF pay attention,jawcuinu
+pay attention; focus; watch; occupy; OBJ pays attention to IND {attention; focus} {AMOUNT:attention; focus},,epo <atenti> [aˈtenti],atenti
+ignore; disregard; OBJ pays little attention to IND,,ANTONYM OF pay attention,aloklu
+give attention; draw attention; SBJ makes OBJ pay attention to IND,,INCOHATIVE OF pay attention,atentiki
+distract; SBJ makes OBJ stop paying attention to IND,,CESSATIVE OF pay attention,atentinu
 mean; call; name; SBJ {name; signal; word; significant} means IND {definition; meaning; denotation; named} to OBJ {METHOD:convention; protocol},,zul <sho> [ʃo],co
-live; be alive; be lively; survive; reside; OBJ {life; organism; living thing} is alive {AMOUNT:liveliness|TIME:life|LOCATION:residence},,spa <vive> [ˈbiβe],pipe
-be dead; be unlively; OBJ {corpse} is dead {TIME:death},,ANTONYM OF live,mumo
-bring to life; come to life; SBJ brings OBJ to life,,INCOHATIVE OF live,pipeki
-kill; murder; die; pass away; SBJ {killer; murderer} kills OBJ,,CESSATIVE OF live,pipenu
-save; rescue; sustain; SBJ {saver; life support} keeps OBJ from dying,,PROGRESSIVE OF live,pipetawliki
-be turned on; be animate; be active; be open; OBJ is turned on,,ben <চালু> [t͡ɕal̪u],calu
-be turned off; be inanimate; be passive; be closed; OBJ is turned off,,ANTONYM OF be turned on,fati
-turn on; go off; animate; activate; SBJ {activator} turns on OBJ,,INCOHATIVE OF be turned on,caluki
-turn off; deactivate; kill; SBJ {deactivator} turns off OBJ,,CESSATIVE OF be turned on,calunu
+live; be alive; be lively; survive; reside; OBJ {life; organism; living thing} is alive {TIME:life|LOCATION:residence},,hin <जिन्दा> [d͡ʒindaː],cinta
+be dead; OBJ {corpse; dead thing} is dead {TIME:death},,ANTONYM OF live,hukla
+bring to life; come to life; SBJ brings OBJ to life,,INCOHATIVE OF live,cintaki
+kill; murder; die; pass away; SBJ {killer; murderer} kills OBJ,,CESSATIVE OF live,cintanu
+save; rescue; sustain; SBJ {saver; life support} keeps OBJ from dying,,PROGRESSIVE OF live,cintacalu
+be turned on; be animate; be active; be open; OBJ is turned on,,swa <waka> [waka],waka
+be turned off; be inanimate; be passive; be closed; OBJ is turned off,,ANTONYM OF be turned on,yana
+turn on; go off; animate; activate; SBJ {activator} turns on OBJ,,INCOHATIVE OF be turned on,wakaki
+turn off; deactivate; kill; SBJ {deactivator} turns off OBJ,,CESSATIVE OF be turned on,wakanu
 convert; translate; transform; represent; encode; SBJ {converter; translator} conveys OBJ in the form IND {translation; symbol} {METHOD:transformation},,spa <convierte> [konˈbjeɾte],konpelte
-wear; be clothed; OBJ wears IND {clothing; clothes; article},,ibo <eyi> [eji],ei
-put on; dress; robe; SBJ {dresser} puts IND on OBJ {dressee},,INCOHATIVE OF wear,eiki
-take off; undress; disrobje; SBJ {undresser} takes IND off of OBJ {undressee},,CESSATIVE OF wear,einu
+wear; be clothed; OBJ wears IND {clothing; clothes; article},,eng <wear> [wɛɹ],we
+put on; dress; robe; SBJ {dresser} puts IND on OBJ {dressee},,INCOHATIVE OF wear,tuakiki
+take off; undress; disrobje; SBJ {undresser} takes IND off of OBJ {undressee},,CESSATIVE OF wear,tuakinu
 move; jostle; be energetic; be restless; go; OBJ is deforming and moving {AMOUNT:motion; energy},,hin <हिला> [ɦilaː],hila
-be still; be unenergetic; OBJ is motionless in place,,ANTONYM OF move,suta
+be still; be unenergetic; OBJ is motionless in place,,ANTONYM OF move,cuta
 set off; set in motion; move; energise; SBJ {motor; mover} makes OBJ start moving,,INCOHATIVE OF move,hilaki
 stop; still; settle; deenergise; SBJ {brake} makes OBJ stop moving,,CESSATIVE OF move,hilanu
-be mobile; be movable; OBJ can move,,POSSIBILITY OF move,hilapowi
-be stuck; stick; be immobile; OBJ {sticker} is stuck to IND,,NEGATIVE OF be mobile,hilapowinjo
-unstick; mobilise; extricate; SBJ makes OBJ stop being stuck to IND,,INCOHATIVE OF be mobile,hilapowiki
-stick to; demobilise; trap; SBJ sticks OBJ to IND,,CESSATIVE OF be mobile,hilapowinu
+be mobile; be movable; be loose; be portable; OBJ moves around easily,,POSSIBILITY OF move,hilapote
+be stuck; stick; be immobile; be immovable; be tight; be fixed; be fast; OBJ {sticker} does not move easily,,ANTONYM OF be mobile,cutamelo
+unstick; mobilise; loosen; extricate; unfasten; SBJ {loosener} makes OBJ stop being stuck to IND,,INCOHATIVE OF be mobile,hilapoteki
+stick; tighten; fasten; trap; SBJ {tightener} sticks OBJ to IND,,CESSATIVE OF be mobile,hilapotenu
 spin; rotate; revolve; OBJ {spinning} is spinning about IND {axis; centre},,hin <घुमा> [ɡ̤umaː],kuma
 step; SBJ steps on OBJ {walkway},,epo <paŝi> [ˈpaʃi],paci
 fall; be falling; OBJ moves uncontrollably under gravitational forces {CAUSE:gravity},,spa <cae> [ˈkae],kae
@@ -253,13 +253,13 @@ exit; remove; release; take out; extract; emerge; SBJ moves OBJ out of IND {LOCA
 be quiet; dim; soft; faint; weak; OBJ is quiet,,ono [ʃː],sica
 be loud; be bright; be strong; OBJ is bright {AMOUNT:volume; amplitude; brightness},,ANTONYM OF be quiet,fuha
 dampen; quiet; dim; soften; weaken; decrescendo; SBJ {damper} dampens OBJ,,INCOHATIVE OF be quiet,sicaki
-amplify; louden; brighten; strengthen; crescendo; SBJ {amplifier} amplifies OBJ,,CESSATIVE OF be quiet,fuhaki
+amplify; louden; brighten; strengthen; crescendo; SBJ {amplifier} amplifies OBJ,,CESSATIVE OF be quiet,sicanu
 eat; drink; take; SBJ {eater} eats OBJ {food; drink; meal} {TIME:meal; mealtime|LOCATION:dining room; dining hall|INSTRUMENT:eating utensil; silverware},comer; bebir; tomar; SBJ come OBJ {comida; bebida} {LOCATION:comedor|INSTRUMENT:utensilios para comer},ono [njam njam],njamja
 be part; be in; compose; contain; comprise; include; OBJ {piece; component; element; detail} is part of IND {group; whole; set; party; association; organisation; institution; system} {AMOUNT:portion; fraction},,epo <parto> [ˈparto],palto
 join; incorporate; add; append; SBJ {joiner} makes OBJ join IND,,INCOHATIVE OF be part,paltoki
 leave; separate; remove; SBJ {remover} makes OBJ leave IND,,CESSATIVE OF be part,paltonu
-beI inclusive; beI open; be eligible; IND is open to OBJ joining,,POSSIBILITY OF be part,paltopowi
-beI exclusive; beI closed; be ineligible; IND excludes OBJ from joining,,NEGATIVE OF be inclusive,paltopowinjo
+beI inclusive; beI open; be eligible; IND is open to OBJ joining,,POSSIBILITY OF be part,paltopote
+beI exclusive; beI closed; be ineligible; IND excludes OBJ from joining,,NEGATIVE OF be inclusive,paltopotenyo
 surround; cover; OBJ {surroundings; cover; environment; context} covers most of IND {surrounded; covered} {AMOUNT:coverage},,yor <yika> [jika],ika
 leave bare; expose; leave open; OBJ covers little of IND {bare; open; exposed},,ANTONYM OF surround,una
 surround; cover; SBJ {coverer} surrounds OBJ with IND,,INCOHATIVE OF surround,ikaki
@@ -268,59 +268,59 @@ be typical; exemplify; qualify; the type of OBJ {instance; example} is IND {cate
 categorise; classify; SBJ places OBJ as an instance of IND,,INCOHATIVE OF be typical,tipaki
 disqualify; declassify; SBJ makes OBJ not be an instance of IND,,CESSATIVE OF be typical,tipanu
 beI in *control; beI in charge; beI powerful; depend; IND {oppressor; controller; leader; official} controls OBJ {oppressed; dependent},,cmn <控制> [kʰʊ̯ŋ˥˩ʈ͡ʂɨ˥˩],kunci
-be free; be independent; beI weak; IND cannot tell OBJ what to do,,ANTONYM OF be in control,nikfu
+be free; be independent; beI weak; IND cannot tell OBJ what to do,,ANTONYM OF be in control,nikhu
 take control; capture; give control; put in charge; SBJ {capturer} puts IND in control of OBJ {captured},,INCOHATIVE OF be in control,kunciki
 lose control; release; free; SBJ {releaser} releases OBJ {freed} from IND's control,,CESSATIVE OF be in control,kuncinu
-obey; command; follow; lead; SBJ {obedient; follower} does OBJ {order; command} because IND {leader; commander; manager; authority} said to do it,,eng <obey> [oʊ̯ˈbeɪ̯],opei
-care; matter; value; beI important; hold dear; OBJ {caring; passionate} cares about IND {value; main; primary},,ara <بالى> [bæːlæː],pala
-beI unimportant; be indifferent; ignore; OBJ does not care about IND {fringe; secondary},,ANTONYM OF care,mata
-make important; inflate; SBJ makes OBJ care about IND,,INCOHATIVE OF care,palaki
-make unimportant; devalue; SBJ makes OBJ stop caring about IND,,CESSATIVE OF care,palanu
+obey; command; follow; lead; SBJ {obedient; follower} does OBJ {order; command} because IND {leader; commander; manager; authority} said to do it,,epo <obei> [oˈbei],opei
+care; matter; value; beI important; hold dear; OBJ {caring; passionate} cares about IND {value; main; primary},,cmn <在乎> [t͡saɪ̯˥˩xu],sayhu
+beI unimportant; be indifferent; ignore; OBJ does not care about IND {fringe; secondary},,ANTONYM OF care,fawci
+make important; inflate; SBJ makes OBJ care about IND,,INCOHATIVE OF care,sayhuki
+make unimportant; devalue; SBJ makes OBJ stop caring about IND,,CESSATIVE OF care,sayhunu
 be simple; be basic; OBJ is simple,,mar <सोपे> [sope],sope
-be complex; be complicated; be wicked; OBJ is complex,,ANTONYM OF be simple,hemo
+be complex; be complicated; be wicked; OBJ is complex,,ANTONYM OF be simple,femo
 simplify; SBJ {simplifier} simplifies OBJ,,INCOHATIVE OF be simple,sopeki
 complicate; SBJ {complicater} complicates OBJ,,CESSATIVE OF be simple,sopenu
 govern; administer; have citizenship; IND {government {GENITIVE:public}} serves as the governing body to OBJ {citizen; governed; people},,cmn <统治> [tʰʊ̯ŋ˧˩˧ʈ͡ʂɨ˥˩],tunci
 take over; elect; come to power; conquer; annex; SBJ makes IND become the government of OBJ,,INCOHATIVE OF govern,tunciki
 secede; collapse; impeach; SBJ makes IND stop governing OBJ,,CESSATIVE OF govern,tuncinu
-be clean; be sanitary; OBJ is clean,,cmn <清洁> [t͡ɕʰiŋ˥t͡ɕjɛ˧˥],cincje
-be unclean; be dirty; be filthy; be grimy; be gross; be unsanitary; OBJ {filth} is unclean,,ANTONYM OF be clean,fukfwo
-clean; sanitise; SBJ {cleaner} cleans OBJ {INSTRUMENT:cleaning utensil},,INCOHATIVE OF be clean,cincjeki
-dirty; grimify; desanitise; SBJ {dirtier} makes OBJ unclean,,CESSATIVE OF be clean,cincjenu
-be neat; be orderly; be organised; be clean; be tidy; OBJ is neat,,epo <neta> [ˈneta],neta
-be chaotic; be disorganised; be messy; be in disarray; be askance; OBJ is chaotic,,ANTONYM OF be neat,kola
-order; organise; clean; tidy; sort; put in order; finalise; SBJ {organiser; cleaner; tidier} puts OBJ in order {INSTRUMENT:organisation tool},,INCOHATIVE OF be neat,netaki
-disorganise; mess up; disrupt; trash; SBJ {disorganiser; trasher} puts OBJ into chaos,,CESSATIVE OF be neat,netanu
-stand structurally; OBJ {*structure; building} stands structurally on IND {foundation; site},,cmn <结构体> [t͡ɕjɛ˧˥koʊ̯˥˩tʰi˧˩˧],cjekoti
-construct; build; assemble; erect; SBJ {constructor; builder} constructs OBJ {INSTRUMENT:construction tool},,INCOHATIVE OF stand structurally,cjekotiki
-deconstruct; disassemble; demolish; take apart; SBJ {deconstructor} deconstructs OBJ,,CESSATIVE OF stand structurally,cjekotinu
+be clean; be sanitary; OBJ is clean,,cmn <清洁> [t͡ɕʰiŋ˥t͡ɕjɛ˧˥],cincye
+be unclean; be dirty; be filthy; be grimy; be gross; be unsanitary; OBJ {filth} is unclean,,ANTONYM OF be clean,hukhwo
+clean; sanitise; SBJ {cleaner} cleans OBJ {INSTRUMENT:cleaning utensil},,INCOHATIVE OF be clean,cincyeki
+dirty; grimify; desanitise; SBJ {dirtier} makes OBJ unclean,,CESSATIVE OF be clean,cincyenu
+be neat; be orderly; be organised; be clean; be tidy; OBJ is neat,,yor <ọfọ> [ɔfɔ],ofo
+be chaotic; be disorganised; be messy; be in disarray; be askance; OBJ is chaotic,,ANTONYM OF be neat,ese
+order; organise; clean; tidy; sort; put in order; finalise; SBJ {organiser; cleaner; tidier} puts OBJ in order {INSTRUMENT:organisation tool},,INCOHATIVE OF be neat,ofoki
+disorganise; mess up; disrupt; trash; SBJ {disorganiser; trasher} puts OBJ into chaos,,CESSATIVE OF be neat,ofonu
+stand structurally; OBJ {*structure; building} stands structurally on IND {foundation; site},,cmn <结构体> [t͡ɕjɛ˧˥koʊ̯˥˩tʰi˧˩˧],cyekoti
+construct; build; assemble; erect; SBJ {constructor; builder} constructs OBJ {INSTRUMENT:construction tool},,INCOHATIVE OF stand structurally,cyekotiki
+deconstruct; disassemble; demolish; take apart; SBJ {deconstructor} deconstructs OBJ,,CESSATIVE OF stand structurally,cyekotinu
 sell; buy; vend; purchase; OBJ {buyer; customer} legally obtains IND {good; service} from SBJ {vendor; salesperson {GENITIVE:private}} {TIME:financial transaction|LOCATION:store; shop|INSTRUMENT:money; currency},,yor <ta> [ta],ta
-plan; expect; OBJ {expecting} expects IND {plan; expectation} to happen {INSTRUMENT:planner; planning tool},,swa <panga> [panɡa],panka
-deduce; compute; *reason; be reasonable; be logical; figure; figure out; compute; think through; SBJ {reasonable} logically deduces OBJ {conclusion; computation},,ara <نهى> [nuhæː],nuha
-act crazy; be unreasonable; be illogical; jump to conclusion; guess; SBJ {unreasonable; crazy} comes to the conclusion OBJ without any logic,,OPPOSITE OF deduce,kisa
+plan; expect; OBJ {expecting} expects IND {plan; expectation} to happen {INSTRUMENT:planner; planning tool},,sho <ronga> [roŋɡa],lonka
+deduce; compute; *reason; be reasonable; be logical; figure; figure out; compute; think through; SBJ {reasonable} logically deduces OBJ {conclusion; computation},,ben <কারণ> [karɔnɔ],kalono
+act crazy; be unreasonable; be illogical; jump to conclusion; guess; SBJ {unreasonable; crazy} comes to the conclusion OBJ without any logic,,OPPOSITE OF deduce,nateke
 think of; come up with; invent; have an idea; SBJ {creative; clever; idea person} thinks of OBJ {idea; thought; invention} {CAUSE:inspiration},*idear; sugerir; proponer; SBJ {creativo} idea OBJ {idea; pienso; invención} {CAUSE:inspiración},spa <idea> [iˈðea],itea
-ponder; think about; imagine; consider; SBJ {thinker; ponderer} is thinks about OBJ {train of thought} {INSTRUMENT:mind; imaaagination},,ben <চিন্তা> [t͡ɕin̪t̪a],cinta
-"be fast; be quick; be frequent; hurry; OBJ progresses, oscillates, or decays quickly {AMOUNT:speed; frequency}",,cmn <快速> [kʰwaɪ̯˥˩su˥˩],kwajsu
-"be slow; be gradual; be periodic; OBJ progresses, oscillates, or decays slowly {AMOUNT:period; time constant}",,ANTONYM OF be fast,njawhi
-be heavy; weigh; be massive; OBJ {weight; heavyweight} is heavy {AMOUNT:weight; mass},,pan <ਭਾਰੀ> [pɑɾi],pali
+ponder; think about; imagine; consider; SBJ {thinker; ponderer} is thinks about OBJ {train of thought} {INSTRUMENT:mind; imaaagination},,yor <ronu> [ronu],lonu
+"be fast; be quick; be frequent; hurry; OBJ progresses, oscillates, or decays quickly {AMOUNT:speed; frequency}",,cmn <快速> [kʰwaɪ̯˥˩su˥˩],kwaysu
+"be slow; be gradual; be periodic; OBJ progresses, oscillates, or decays slowly {AMOUNT:period; time constant}",,ANTONYM OF be fast,nyawfi
+be heavy; weigh; be massive; OBJ {weight; heavyweight} is heavy {AMOUNT:weight; mass},,hin <भारी> [b̤aːriː],pali
 be light; OBJ {lightweight} is light,ser ligero; OBJ es ligero,ANTONYM OF be heavy,matu
 weight; weigh; burden; SBJ weighs down OBJ,,INCOHATIVE OF be heavy,paliki
 lighten; SBJ lightens OBJ,,CESSATIVE OF be heavy,palinu
 be high-pitched; be shrill; OBJ {high note} is highly pitched {AMOUNT:pitch; frequency},ser agudo; OBJ es agudo,eng <high> [hɑɪ̯],hai
-be low-pitched; be deep; be sonorous; OBJ {low note} is lowly pitched,,ANTONYM OF be high-pitched,sau
+be low-pitched; be deep; be sonorous; OBJ {low note} is lowly pitched,,ANTONYM OF be high-pitched,cau
 raise; pitch up; modulate; SBJ raises the pitch of OBJ,,INCOHATIVE OF be high-pitched,haiki
 lower; deepen; SBJ lowers the pitch of OBJ,,CESSATIVE OF be high-pitched,hainu
 be rhythmic; pulse; cycle; oscillate; flash; beat; SBJ {pulser; beater} makes OBJ {rhythm; routine} happens rhythmically,,ono [dudum dudum],tumut
 beI easy; beI convenient; IND is easy to OBJ,,eng <easy> [ˈiːziː],isi
-beI difficult; beI hard; beI inconvenient; IND is hard for OBJ,,ANTONYM OF be easy,uhu
+beI difficult; beI hard; beI inconvenient; IND is hard for OBJ,,ANTONYM OF be easy,ufu
 facilitate; convenience; make easy; SBJ makes IND easier for OBJ,,INCOHATIVE OF be easy,isiki
 defacilitate; inconvenience; resist; make difficult; SBJ makes IND harder for OBJ,,CESSATIVE OF be easy,isinu
 party; throw party; play; hang out; celebrate; SBJ {partier; host} initiates a social gathering with OBJ {party-goer; attendee} {TIME:party; play-date},,hin <पार्टी> [paːrʈiː],palti
 storytell; SBJ {storyteller} tells OBJ {*story; tale} to IND {audience; listener} {TIME:story-time},,cmn <故事> [ku˥˩ʂɨ˥˩],kuci
 stand; be erect; OBJ {standing} is standing {METHOD:posture},,cmn <站立> [ʈ͡ʂan˥˩li˥˩],canli
 stand up; erect; SBJ {stand} stands up OBJ,,INCOHATIVE OF stand,canliki
-lie; be prone; OBJ {lying down} is prone,,OPPOSITE OF stand,faktu
-lie down; knock over; SBJ lays down OBJ,,INCOHATIVE OF lie,faktuki
+lie; be prone; OBJ {lying down} is prone,,OPPOSITE OF stand,haktu
+lie down; knock over; SBJ lays down OBJ,,INCOHATIVE OF lie,haktuki
 sit; be sitting; OBJ is sitting,,cmn <坐> [t͡swɔ˥˩],swo
 sit down; sit up; sit; SBJ {sitter} sits down OBJ,,INCOHATIVE OF sit,swoki
 take care; support; OBJ {caretaker; staff} takes care of IND {dependent; cared for},,cmn <照顾> [ʈ͡ʂɑʊ̯˥˩ku],cawku
@@ -330,8 +330,8 @@ deal; have deal; do business; OBJ {dealer; entrepreneur} has a deal with IND {bu
 strike deal; make deal; do business; negotiate; SBJ {negotiator} causes OBJ to come to a business agreement with IND,,INCOHATIVE OF deal,sotaki
 break deal; violate agreement; cut ties; SBJ {deal breaker} causes business to cease between OBJ and IND {ex-business partner},,CESSATIVE OF deal,sotanu
 be related; be *about; focus; OBJ is about IND {topic; subject},,pan <ਬਾਰੇ> [bɑɾe],pale
-focus; SBJ makes OBJ about IND,,INCOHATIVE OF be related,paleki
-defocus; SBJ makes OBJ not be about IND,,CESSATIVE OF be related,palenu
+focus; SBJ makes OBJ about IND,,INCOHATIVE OF be related,palenteki
+defocus; SBJ makes OBJ not be about IND,,CESSATIVE OF be related,palentenu
 be full; OBJ is full of IND {filling},,pan <ਪੂਰੀ> [puɾi],puli
 be empty; be blank; OBJ {void; vacuum} is empty of IND,,ANTONYM OF be full,mitu
 fill; SBJ fills OBJ with IND,,INCOHATIVE OF be full,puliki
@@ -339,7 +339,7 @@ empty; clear; SBJ empties OBJ of IND,,CESSATIVE OF be full,pulinu
 be coloured; have *colour; IND {colour} is the colour of OBJ,,epo <koloro> [koˈloro],kololo
 colour; shade; SBJ {colourer} colours OBJ IND,,INCOHATIVE OF be coloured,kololoki
 be red; OBJ reflects low wavelength light {AMOUNT:redness},,spa <rojo> [ˈroxo],loho
-be teal; be cyan; be aqua; be sky blue; OBJ reflects medium and long wavelength light,,ANTONYM OF be red,tese
+be teal; be cyan; be aqua; be sky blue; OBJ reflects medium and long wavelength light,,ANTONYM OF be red,tece
 redden; colour red; SBJ colours OBJ red,,INCOHATIVE OF be red,lohoki
 colour tea; SBJ colours OBJ teal,,CESSATIVE OF be red,lohonu
 be green; OBJ reflects medium wavelength light {AMOUNT:greenness},,fil <berde> [beɾde],pelte
@@ -351,124 +351,120 @@ be yellow; be blonde; OBJ reflects short and medium wavelength light,,ANTONYM OF
 colour blue; SBJ colours OBJ blue,,INCOHATIVE OF be blue,nilaki
 colour yellow; SBJ colours OBJ yellow,,CESSATIVE OF be blue,nilanu
 be white; be light; be fair; OBJ reflects all wavelengths of light {AMOUNT:whiteness; value},,ben <সাদা> [s̪ad̪a],sata
-be black; be dark; be tan; OBJ reflects no wavelengths of light,,ANTONYM OF be white,hala
+be black; be dark; be tan; OBJ reflects no wavelengths of light,,ANTONYM OF be white,fala
 whiten; lighten; dodge; SBJ lightens OBJ,,INCOHATIVE OF be white,sataki
 blacken; darken; shade; tan; SBJ darkens OBJ,,CESSATIVE OF be white,satanu
-be gray; be *grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,eng <grey> [ɡɹʷeɪ̯],kwei
-be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,ANTONYM OF be gray,njou
-colour gray; colour grey; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,kweiki
-colour; SBJ brightens the colours of OBJ,,CESSATIVE OF be gray,kweinu
+be gray; be *grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,ben <ধূসর> [d̪̤us̪ɔrɔ],tusolo
+be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,ANTONYM OF be gray,lifete
+colour gray; colour grey; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,tusoloki
+colour; SBJ brightens the colours of OBJ,,CESSATIVE OF be gray,tusolonu
 be brown; be murkey; OBJ looks brown,,hin <भूरा> [b̤uːraː],pula
 brown; colour brown; SBJ colours OBJ brown,,INCOHATIVE OF be brown,pulaki
-be opaque; OBJ absorbs light that it does not reflect {AMOUNT:opacity},,epo <opaka> [oˈpaka],opaka
-be transparent; be see-through; OBJ {window} lets unreflected light pass through it,,ANTONYM OF be opaque,emana
-opaquify; SBJ make OBJ become opaque,,INCOHATIVE OF be opaque,opakaki
-transparify; SBJ makes OBJ become transparent,,CESSATIVE OF be opaque,opakanu
-be shiny; shine; be reflective; be smooth; OBJ {mirror} reflects light specularly {AMOUNT:shininess},,eng <shiny> [ˈʃɑɪ̯niː],cajni
-be matte; be dull; be rough; OBJ reflects light diffusely,,ANTONYM OF be shiny,fawku
-shine; polish; SBJ makes OBJ become shiny,,INCOHATIVE OF be shiny,cajniki
-matte; SBJ makes OBJ become matte,,CESSATIVE OF be shiny,cajninu
-be sweet; be sweetened; OBJ {candy} is sweet {AMOUNT:sweetness},,ara <حلو> [ħæluː],halu
-sweeten; SBJ makes OBJ become sweet,,INCOHATIVE OF be sweet,haluki
-be bitter; OBJ is bitter {AMOUNT:bitterness},,ANTONYM OF be sweet,sati
-bitter; SBJ makes OBJ become bitter,,CESSATIVE OF be sweet,halunu
+be opaque; OBJ absorbs light that it does not reflect {AMOUNT:opacity},,spa <opaco> [oˈpako],opako
+be transparent; be see-through; OBJ {window} lets unreflected light pass through it,,ANTONYM OF be opaque,emane
+opaquify; SBJ make OBJ become opaque,,INCOHATIVE OF be opaque,opakoki
+transparify; SBJ makes OBJ become transparent,,CESSATIVE OF be opaque,opakonu
+be shiny; shine; be reflective; be smooth; OBJ {mirror} reflects light specularly {AMOUNT:shininess},,eng <shiny> [ˈʃɑɪ̯niː],cayni
+be matte; be dull; be rough; OBJ reflects light diffusely,,ANTONYM OF be shiny,hawku
+shine; polish; SBJ makes OBJ become shiny,,INCOHATIVE OF be shiny,cayniki
+matte; SBJ makes OBJ become matte,,CESSATIVE OF be shiny,cayninu
+be sweet; be sweetened; OBJ {candy} is sweet {AMOUNT:sweetness},,spa <dulce> [ˈdulse],tulse
+sweeten; SBJ makes OBJ become sweet,,INCOHATIVE OF be sweet,tulseki
+be bitter; OBJ is bitter {AMOUNT:bitterness},,ANTONYM OF be sweet,litfo
+bitter; SBJ makes OBJ become bitter,,CESSATIVE OF be sweet,tulsenu
 be sour; OBJ is sour {AMOUNT:sourness},,ben <টক> [tɔkɔ],toko
 sour; SBJ makes OBJ become sour,,INCOHATIVE OF be sour,tokoki
 be savoury; have umami; OBJ is savoury {AMOUNT:savouriness; umami},,ANTONYM OF be sour,lene
 make savoury; SBJ makes OBJ become savoury,,CESSATIVE OF be sour,tokonu
 be salty; OBJ is salty {AMOUNT:saltiness; salt},,eng <salty> [ˈsɒɫtiː],solti
-be unsalty; OBJ is not salty,,ANTONYM OF be salty,hetlu
+be unsalty; OBJ is not salty,,ANTONYM OF be salty,fetlu
 salt; SBJ makes OBJ become salty,,INCOHATIVE OF be salty,soltiki
 desalt; purify; SBJ makes OBJ less salty,,CESSATIVE OF be salty,soltinu
 be spicy; be hot; OBJ is spicy {AMOUNT:spiciness; spice; heat},,yor <lata> [lata],lata
 be mild; be cool; OBJ is not spicy,,ANTONYM OF be spicy,tala
 spice; SBJ makes OBJ become spicy,,INCOHATIVE OF be spicy,lataki
 mild; cool; despice; SBJ makes OBJ become less spicy,,CESSATIVE OF be spicy,latanu
-be shaped; be shaped like; OBJ {sculpture} is shaped like IND {*shape},,spa <forma> [ˈfoɾma],folma
-shape; form; sculpt; SBJ {shaper; sculptor} shapes OBJ into IND,,INCOHATIVE OF be shaped,folmaki
-deform; SBJ makes OBJ {deformed} lose its shape,,CESSATIVE OF be shaped,folmanu
+be shaped; be shaped like; OBJ {sculpture} is shaped like IND {*shape},,epo <formo> [ˈformo],folmo
+shape; form; sculpt; SBJ {shaper; sculptor} shapes OBJ into IND,,INCOHATIVE OF be shaped,folmoki
+deform; SBJ makes OBJ {deformed} lose its shape,,CESSATIVE OF be shaped,folmonu
 be circular; be round; OBJ {circle; ring} is circular,,epo <cirkuli> [t͡sirˈkuli],silkuli
 circularise; round; circle; SBJ turns OBJ into a circle,,INCOHATIVE OF be circular,silkuliki
-be square; be rectangular; be right; OBJ {rectangle; square} is rectangular,,OPPOSITE OF be circular,hutnitu
-square; rectify; right; SBJ makes OBJ rectangular,,INCOHATIVE OF be square,hutnituki
-skew; SBJ makes OBJ stop being rectangular,,CESSATIVE OF be square,hutnitunu
+be square; be rectangular; be right; OBJ {rectangle; square} is rectangular,,OPPOSITE OF be circular,futnitu
+square; rectify; right; SBJ makes OBJ rectangular,,INCOHATIVE OF be square,futnituki
+skew; SBJ makes OBJ stop being rectangular,,CESSATIVE OF be square,futnitunu
 be closed; be hollow; be looped; be complete; OBJ {shell; loop; circuit; circle; ring; closed path; closed surface} is closed,,ben <বন্ধ> [bɔn̪d̪̤ɔ],ponto
 be open; OBJ is open,,ANTONYM OF be closed,mekle
 close; shut; SBJ {closer} closes OBJ,,INCOHATIVE OF be closed,pontoki
 open; SBJ {opener} opens OBJ,,CESSATIVE OF be closed,pontonu
-be unlocked; OBJ is unlocked,,POSSIBILITY OF be open,meklepowi
-be locked; OBJ is locked,,NEGATIVE OF be unlocked,meklepowinjo
-unlock; open; SBJ unlocks OBJ,,INCOHATIVE OF be unlocked,meklepowiki
-lock; close; SBJ locks OBJ,,CESSATIVE OF be unlocked,meklepowinu
+be unlocked; OBJ is unlocked,,POSSIBILITY OF be open,meklepote
+be locked; OBJ is locked,,NEGATIVE OF be unlocked,meklepotenyo
+unlock; open; SBJ unlocks OBJ,,INCOHATIVE OF be unlocked,meklepoteki
+lock; close; SBJ locks OBJ,,CESSATIVE OF be unlocked,meklepotenu
 be cupped; be U-shaped; be open; be confined; OBJ {cup; bowl; corner; bay; bay; dip; U; open container} is open on one side and closed on the others,,spa <hueco> [ˈweko],weko
 cup; dig; divot; carve out; SBJ makes OBJ be open on one side,,INCOHATIVE OF be cupped,wekoki
 be powder; be fine; OBJ is a powder,,sot <phofo> [pʰofo],pofo
 pulverise; powder; SBJ {pulveriser} turns OBJ into a powder,,INCOHATIVE OF be powder,pofoki
-be chunky; be a pile; be bits; OBJ comprises small chunky bits,,cmn <矮胖> [aɪ̯˧˩˧pʰɑŋ˥˩],ajpana
-chunk; grind; pile; SBJ {chunker} turns OBJ into a pile of chunky bits,,INCOHATIVE OF be chunky,ajpanaki
-be straight; be linear; be flat; OBJ {line; plane; straightedge} is straight,ser *recto; ser derecho; ser lineal; OBJ {línea; plano} es recto,epo <rekte> [ˈrekte],lekte
-be wavy; be curly; be bent; be bumpy; OBJ {squiggle; wave; curl} is wavy,,ANTONYM OF be straight,tonlo
-straighten; flatten; SBJ {straightener; flattener} straightens OBJ,,INCOHATIVE OF be straight,lekteki
-bend; curl; kink; SBJ {bender; curler} bends OBJ,,CESSATIVE OF be straight,lektenu
+be chunky; be a pile; be bits; OBJ comprises small chunky bits,,spa <fornido> [foɾˈniðo],folnito
+chunk; grind; pile; SBJ {chunker} turns OBJ into a pile of chunky bits,,INCOHATIVE OF be chunky,folnitoki
+be straight; be linear; be flat; OBJ {line; plane; straightedge} is straight,ser *recto; ser derecho; ser lineal; OBJ {línea; plano} es recto,hin <सीधे> [siːd̤e],site
+be wavy; be curly; be bent; be bumpy; OBJ {squiggle; wave; curl} is wavy,,ANTONYM OF be straight,fulo
+straighten; flatten; SBJ {straightener; flattener} straightens OBJ,,INCOHATIVE OF be straight,siteki
+bend; curl; kink; SBJ {bender; curler} bends OBJ,,CESSATIVE OF be straight,sitenu
 be smooth; be polished; be flat; OBJ is smooth,,cmn <平滑> [pʰiŋ˧˥xwa˧˥],pinhwa
-be rough; be abrasive; be sharp; OBJ {sandpaper} is rough,,ANTONYM OF be smooth,muksja
+be rough; be abrasive; be sharp; OBJ {sandpaper} is rough,,ANTONYM OF be smooth,mukcya
 smoothen; polish; SBJ smoothens OBJ,,INCOHATIVE OF be smooth,pinhwaki
 roughen; rough up; scratch; SBJ roughens OBJ,,CESSATIVE OF be smooth,pinhwanu
-be damaged; be hurt; be wounded; be in tatters; OBJ is damaged,,spa <dañado> [daˈɲaðo],tanjato
-damage; hurt; harm; wear; SBJ {harmer} damages OBJ,,INCOHATIVE OF be damaged,tanjatoki
-repair; mend; fix; clean; SBJ {repairperson} repairs OBJ,,CESSATIVE OF be damaged,tanjatonu
-be susceptible; be vulnerable; be exposed; SBJ can harm OBJ,,POSSIBILITY OF damage,tanjatokipowi
-be invulnerable; be invincible; be durable; SBJ cannot harm OBJ,,NEGATIVE OF be susceptible,tanjatokipowinjo
-vulnerate; expose; lower defenses; SBJ makes OBJ vulnerable to IND,,INCOHATIVE OF be susceptible,tanjatokipowiki
-protect; defend; guard; SBJ {shield; protection; defense; guard} prevents IND from harming OBJ,,CESSATIVE OF be susceptible,tanjatokipowinu
+be damaged; be hurt; be wounded; be in tatters; OBJ is damaged,,spa <dañado> [daˈɲaðo],tanyato
+damage; hurt; harm; wear; SBJ {harmer} damages OBJ,,INCOHATIVE OF be damaged,tanyatoki
+repair; mend; fix; clean; SBJ {repairperson} repairs OBJ,,CESSATIVE OF be damaged,tanyatonu
+be susceptible; be vulnerable; be exposed; SBJ can harm OBJ,,POSSIBILITY OF damage,tanyatokipote
+be invulnerable; be invincible; be durable; SBJ cannot harm OBJ,,NEGATIVE OF be susceptible,tanyatokipotenyo
+vulnerate; expose; lower defenses; SBJ makes OBJ vulnerable to IND,,INCOHATIVE OF be susceptible,tanyatokipoteki
+protect; defend; guard; SBJ {shield; protection; defense; guard} prevents IND from harming OBJ,,CESSATIVE OF be susceptible,tanyatokipotenu
 be in pieces; be *broken; be piecemeal; OBJ is in multiple pieces,,spa <roto> [ˈroto],loto
 break; shatter; destroy; SBJ {breaker} breaks OBJ into multiple pieces,,INCOHATIVE OF be in pieces,lotoki
 mend; fix; put back together; SBJ {fixer} puts OBJ back together,,CESSATIVE OF be in pieces,lotonu
-be structurally weak; be crumbly; OBJ is easy to break,,POSSIBILITY OF break,lotokipowi
-be structurally strong; be durable; OBJ is difficult to break {AMOUNT:structural integrity; strength; durability},,NEGATIVE OF be structurally weak,lotokipowinjo
-weaken; compromise; sabotage; SBJ {weakener; saboteur} makes OBJ structurally weaker,,INCOHATIVE OF be structurally weak,lotokipowiki
-strengthen; brace; glue; SBJ {strengthener; glue} makes OBJ structurally stronger,,CESSATIVE OF be structurally weak,lotokipowinu
+be structurally weak; be crumbly; OBJ is easy to break,,POSSIBILITY OF break,lotokipote
+be structurally strong; be durable; OBJ is difficult to break {AMOUNT:structural integrity; strength; durability},,NEGATIVE OF be structurally weak,lotokipotenyo
+weaken; compromise; sabotage; SBJ {weakener; saboteur} makes OBJ structurally weaker,,INCOHATIVE OF be structurally weak,lotokipoteki
+strengthen; brace; glue; SBJ {strengthener; glue} makes OBJ structurally stronger,,CESSATIVE OF be structurally weak,lotokipotenu
 be solid; be rigid; be firm; OBJ {solid; rigid body} is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
 be fluid; be amorphous; OBJ is fluid,,ANTONYM OF be solid,nilu
 freeze; solidify; deposit; SBJ {one who freezes; freezer} freezes OBJ {frozen; ice} {INSTRUMENT:freezer},,INCOHATIVE OF be solid,kutiki
 melt; sublimate; SBJ {melter} melts OBJ {molten},,CESSATIVE OF be solid,kutinu
-be liquid; OBJ {liquid; water; puddle} is liquid {AMOUNT:liquidity; wetness},,cmn <液体> [jɛ˥˩tʰi˧˩˧],jeti
+be liquid; OBJ {liquid; water; puddle} is liquid {AMOUNT:liquidity; wetness},,cmn <液体> [jɛ˥˩tʰi˧˩˧],yeti
 be gaseous; be air; OBJ {gas; cloud} is gaseous,,ANTONYM OF be liquid,wolu
-condense; liquidify; SBJ {condenser} condenses OBJ {condensed; cloud} into a liquid,,INCOHATIVE OF be liquid,jetiki
-boil; evaporate; SBJ {boiler} boils OBJ,,CESSATIVE OF be liquid,jetinu
-be loose; be movable; be portable; OBJ moves around easily,,POSSIBILITY OF move,hilapowi
-be tight; be immovable; be fixed; OBJ does not move easily,,ANTONYM OF be loose,sutameju
-loosen; SBJ {loosener} makes OBJ looser,,INCOHATIVE OF be loose,hilapowiki
-tighten; SBJ {tightener} makes OBJ tighter,,CESSATIVE OF be loose,hilapowinu
-be flimsy; be soft; be flexible; be loose; OBJ bends easily,,POSSIBILITY OF bend,lektenupowi
-be rigid; be solid; be hard; be brittle; be firm; OBJ does not bend,,NEGATIVE OF be flimsy,lektenupowinjo
-flimsen; weaken; SBJ {one who increases flimsiness} makes OBJ more flimsy,,INCOHATIVE OF be flimsy,lektenupowiki
-rigidify; brace; harden; SBJ {brace; hardener} makes OBJ more rigid,,CESSATIVE OF be flimsy,lektenupowinu
+condense; liquidify; SBJ {condenser} condenses OBJ {condensed; cloud} into a liquid,,INCOHATIVE OF be liquid,yetiki
+boil; evaporate; SBJ {boiler} boils OBJ,,CESSATIVE OF be liquid,yetinu
+be flimsy; be soft; be flexible; be loose; OBJ bends easily,,POSSIBILITY OF bend,sitenupote
+be rigid; be solid; be hard; be brittle; be firm; OBJ does not bend,,NEGATIVE OF be flimsy,sitenupotenyo
+flimsen; weaken; SBJ {one who increases flimsiness} makes OBJ more flimsy,,INCOHATIVE OF be flimsy,sitenupoteki
+rigidify; brace; harden; SBJ {brace; hardener} makes OBJ more rigid,,CESSATIVE OF be flimsy,sitenupotenu
 be viscous; be thick; OBJ {paste; gel; goop} is viscous {AMOUNT:viscosity},,pan <ਵੀਕਸੀ> [ʋiksi],wiksi
-be inviscous; be thin; OBJ {lubricant; oil; liquid} is inviscous,,ANTONYM OF be viscous,junhu
+be inviscous; be thin; OBJ {lubricant; oil; liquid} is inviscous,,ANTONYM OF be viscous,yunfu
 thicken; increase viscosity; SBJ {thickener; viscosity increaser} makes OBJ more viscous,,INCOHATIVE OF be viscous,wiksiki
 thin; decrease viscosity; SBJ {thinner; viscosity reducer} makes OBJ less viscous,,CESSATIVE OF be viscous,wiksinu
 be foamy; be spongy; OBJ {foam; sponge} is foamy,,eng <foamy> [ˈfoʊ̯miː],fomi
-be consistent; be solid; be smooth; be filled; OBJ is solid all the way through,,ANTONYM OF be foamy,cepu
+be consistent; be solid; be smooth; be filled; OBJ is solid all the way through,,ANTONYM OF be foamy,sepu
 foam; froth; rise; air; SBJ {foamer; frother} fills OBJ with small pockets,,INCOHATIVE OF be foamy,fomiki
 compress; solidify; smooth; coalesce; SBJ {defoamer} removes the small pockets from OBJ,,CESSATIVE OF be foamy,fominu
-be burnt; be burned; OBJ {ash; char; charcoal} is burnt,,cmn <焦> [t͡ɕjɑʊ̯˥],cjau
-burn; SBJ {burner} burns OBJ {fuel},,INCOHATIVE OF be burnt,cjauki
+be burnt; be burned; OBJ {ash; char; charcoal} is burnt,,cmn <焦> [t͡ɕjɑʊ̯˥],cyau
+burn; SBJ {burner} burns OBJ {fuel},,INCOHATIVE OF be burnt,cyauki
 be on *fire; be flaming; OBJ {fire; flame} is on fire,,cmn <火> [xwɔ˧˩˧],hwo
 ignite; light on fire; SBJ {fire starter} lights OBJ {ignited} on fire,,INCOHATIVE OF be on fire,hwoki
 douse; put out; extinguish; SBJ {fire extinguisher} puts out the fire on OBJ {doused},,CESSATIVE OF be on fire,hwonu
-be flammable; OBJ can burn,,POSSIBILITY OF burn,cjaukipowi
-be unflammable; be fire-resistant; be flame-retardant; OBJ does not burn easily,,NEGATIVE OF be flammable,cjaukipowinjo
-flammibify; SBJ makes OBJ flammable,,INCOHATIVE OF be flammable,cjaukipowiki
-deflammibify; SBJ makes OBJ less flammable,,CESSATIVE OF be flammable,cjaukipowinu
-bounce; spring; SBJ {bouncer} bounces OBJ {spring} off of IND,,ara <نبا> [næbæː],napa
-be elastic; be bouncy; be springy; OBJ bounces well {AMOUNT:elasticicity},,POSSIBILITY OF bounce,napapowi
-be inelastic; be unbouncy; be flat; be hard; OBJ does not bounce well,,NEGATIVE OF be elastic,napapowinjo
-elastify; bouncify; make elastic; SBJ makes OBJ elastic,,INCOHATIVE OF be elastic,napapowiki
-deelastify; make inelastic; SBJ makes OBJ less elastic,,CESSATIVE OF be elastic,napapowinu
+be flammable; OBJ can burn,,POSSIBILITY OF burn,cyaukipote
+be unflammable; be fire-resistant; be flame-retardant; OBJ does not burn easily,,NEGATIVE OF be flammable,cyaukipotenyo
+flammibify; SBJ makes OBJ flammable,,INCOHATIVE OF be flammable,cyaukipoteki
+deflammibify; SBJ makes OBJ less flammable,,CESSATIVE OF be flammable,cyaukipotenu
+bounce; spring; SBJ {bouncer} bounces OBJ {spring} off of IND,,epo <resalti> [reˈsalti],lesalti
+be elastic; be bouncy; be springy; OBJ bounces well {AMOUNT:elasticicity},,POSSIBILITY OF bounce,lesaltipote
+be inelastic; be unbouncy; be flat; be hard; OBJ does not bounce well,,NEGATIVE OF be elastic,lesaltipotenyo
+elastify; bouncify; make elastic; SBJ makes OBJ elastic,,INCOHATIVE OF be elastic,lesaltipoteki
+deelastify; make inelastic; SBJ makes OBJ less elastic,,CESSATIVE OF be elastic,lesaltipotenu
 rub; *slide; slip; scrub; wipe; SBJ rubs OBJ {INSTRUMENT:wipe; scrubber},,msa <sapu> [sapu],sapu
-be slippery; be smooth; OBJ is slippery on IND,,POSSIBILITY OF rub,sapupowi
-grip; drag; be grippy; OBJ exerts a frictional force on IND {AMOUNT:coefficient of friction},,NEGATIVE OF be slippery,sapupowinjo
+be slippery; be smooth; OBJ is slippery on IND,,POSSIBILITY OF rub,sapupote
+grip; drag; be grippy; OBJ exerts a frictional force on IND {AMOUNT:coefficient of friction},,NEGATIVE OF be slippery,sapupotenyo
 be made of; comprise; OBJ {construction; object; product} is made out of IND {*material; substance; chemical; element},,jav <materi> [materi],mateli
 make out of; turn to; SBJ {alchemist} changes OBJ to be made out of IND,,INCOHATIVE OF be made of,mateliki
 be wood; be wooden; OBJ is made out of wood,,cmn <木> [mu˥˩],mu
@@ -484,14 +480,14 @@ crystalise; SBJ turns OBJ into crystal,,INCOHATIVE OF be crystal,iklistaloki
 be charged; be electrified; OBJ {battery} has electric energy stored {AMOUNT:electric potential; voltage; *electricity},,hin <बिजली> [bid͡ʒliː],picli
 charge; electrify; SBJ {charger} imbues OBJ with electric energy,,INCOHATIVE OF be charged,picliki
 discharge; shock; electrify; power; SBJ releases the electric energy of OBJ onto IND {machine; electric circuit} {METHOD:conduit; wire; circuit; component},,CESSATIVE OF be charged,piclinu
-be capacitive; OBJ {capacitor} is a capacitor {AMOUNT:capacitance},,POSSIBILITY OF be charged,piclipowi
+be capacitive; OBJ {capacitor} is a capacitor {AMOUNT:capacitance},,POSSIBILITY OF be charged,piclipote
 be social; socialise; OBJ {extravert} socialises with IND {society; community} {AMOUNT:extraversion},,yor <awujo> [awud͡ʒo],auco
-be introverted; be isolated; OBJ {introvert} is socially isolated from IND,,ANTONYM OF be social,aife
+be introverted; be isolated; OBJ {introvert} is socially isolated from IND,,ANTONYM OF be social,aihe
 integrate; SBJ socially integrates OBJ with IND,,INCOHATIVE OF be social,aucoki
 isolate; SBJ socially isolates OBJ from IND,,CESSATIVE OF be social,auconu
 ride; transport; SBJ {passenger} rides on OBJ {vehicle},,ben <চালা> [t͡ɕal̪a],cala
-play; OBJ {player} is playing IND {game; sport},,epo <ludi> [ˈludi],luti
-wait; OBJ {in wait} is waiting for IND,,sho <mira> [mira],mila
+play; OBJ {player} is playing IND {game; sport},,spa <juega> [ˈxweɣa],huka
+wait; OBJ {in wait} is waiting for IND,,sot <leta> [letʼɑ],leta
 act; fill; stand in; OBJ {roleplayer; filler} fills the role IND {role},,epo <agi> [ˈaɡi],aki
 differ; be *different; OBJ is different from IND,,jav <beda> [bed̪a],peta
 be similar; be the same; OBJ is similar to IND,,ANTONYM OF differ,mola
@@ -509,9 +505,9 @@ abort; get abortion; SBJ {aborter} gives OBJ an abortion,,CESSATIVE OF be pregna
 give birth; get born; SBJ {biological mother} gives birth to OBJ {offspring; biological child; newborn} by IND {biological father}'s seed {TIME:birth},,ben <জন্ম> [d͡ʑɔn̪mɔ],conmo
 prosper; fare; be-well; be-good; OBJ is doing well,,yor <rere> [rere],lele
 struggle; be-bad; OBJ is not doing well,,ANTONYM OF prosper,toto
-be grateful; be thankful; OBJ feels grateful to SBJ,,cmn <感激> [kan˧˩˧t͡ɕi˥],kanci
+be grateful; be thankful; OBJ feels grateful to SBJ,,hin <आभारी> [aːb̤aːriː],apali
 sleep; nap; be asleep; be unconscious; OBJ is sleeping,,hin <सो> [so],so
-be awake; be concious; OBJ is awake,,ANTONYM OF sleep,he
+be awake; be concious; OBJ is awake,,ANTONYM OF sleep,fe
 fall asleep; put to sleep; fall unconscious; SBJ puts OBJ to sleep,,INCOHATIVE OF sleep,soki
 wake up; come to; SBJ (alarm clock) wakes OBJ up,,CESSATIVE OF sleep,sonu
 laugh; SBJ {laugher} laughs out OBJ {laughter},,ono [ha ha],hahak
@@ -526,33 +522,33 @@ kiss; snog; make out; SBJ {kisser} kisses OBJ {kissee},,ono [mwa],mwap
 swallow; suck; consume whole; SBJ {swallower} swallows OBJ {swallowed},,ono [glup glup],kulup
 have sex; make love; SBJ initiates and has sex with OBJ,,spa <sexo> [ˈsekso],sekso
 feel; emote; be emotional; be excited; OBJ emotionally feels IND {emotion; feeling},,epo <senti> [ˈsenti],senti
-be proud; OBJ feels proud of IND {pride},,epo <fieri> [fiˈeri],fieli
-be ashamed; be sorry; be remorseful; regret; OBJ feels ashamed about IND {shameful},,ANTONYM OF be proud,cuotu
-make proud; SBJ makes OBJ feel proud about IND,,INCOHATIVE OF be proud,fieliki
-shame; SBJ makes OBJ feel ashamed about IND,,CESSATIVE OF be proud,fielinu
-be excited; be interested; OBJ is excited about IND {exciting},,ara <هاش> [hæːʃ],haca
-be disgusted; OBJ is disgusted by IND,,ANTONYM OF be excited,safa
-"excite; interest; SBJ gets OBJ excited about IND""",,INCOHATIVE OF be excited,hacaki
-"disgust; make disgusted; SBJ makes OBJ disgusted by IND""",,CESSATIVE OF be excited,hacanu
-fear; be scared; be afraid; OBJ {fearful} is afraid of IND {scary},,ara <خشي> [kæʃiː],kaci
-be angry; be mad; OBJ is angry about IND {maddening},,ANTONYM OF fear,nafu
-scare; frighten; make afraid; SBJ makes OBJ afraid of IND,,INCOHATIVE OF fear,kaciki
-anger; embolden; SBJ makes OBJ angry about IND,,CESSATIVE OF fear,kacinu
-be timid; be skittish; OBJ is easily scared,,POSSIBILITY OF fear,kacipowi
-be courageous; be bold; be brave; OBJ is not easily scared,,ANTONYM OF be timid,nafumeju
-timidify; frighten; SBJ makes OBJ more timid,,INCOHATIVE OF be timid,kacipowiki
-embolden; encourage; embraven; SBJ makes OBJ braver,,CESSATIVE OF be timid,kacipowinu
+be proud; OBJ feels proud of IND {pride},,cmn <骄傲> [t͡ɕjɑʊ̯˥ɑʊ̯˥˩],cyawau
+be ashamed; be sorry; be remorseful; regret; OBJ feels ashamed about IND {shameful},,ANTONYM OF be proud,hwayai
+make proud; SBJ makes OBJ feel proud about IND,,INCOHATIVE OF be proud,cyawauki
+shame; SBJ makes OBJ feel ashamed about IND,,CESSATIVE OF be proud,cyawaunu
+be excited; be interested; OBJ is excited about IND {exciting},,msa <teruja> [terud͡ʒa],teluca
+be disgusted; OBJ is disgusted by IND,,ANTONYM OF be excited,lotiha
+"excite; interest; SBJ gets OBJ excited about IND""",,INCOHATIVE OF be excited,telucaki
+"disgust; make disgusted; SBJ makes OBJ disgusted by IND""",,CESSATIVE OF be excited,telucanu
+fear; be scared; be afraid; OBJ {fearful} is afraid of IND {scary},,eng <fear> [fɪɹ],fi
+be angry; be mad; OBJ is angry about IND {maddening},,ANTONYM OF fear,su
+scare; frighten; make afraid; SBJ makes OBJ afraid of IND,,INCOHATIVE OF fear,fiki
+anger; embolden; SBJ makes OBJ angry about IND,,CESSATIVE OF fear,finu
+be timid; be skittish; OBJ is easily scared,,POSSIBILITY OF fear,fipote
+be courageous; be bold; be brave; OBJ is not easily scared,,ANTONYM OF be timid,sumelo
+timidify; frighten; SBJ makes OBJ more timid,,INCOHATIVE OF be timid,fipoteki
+embolden; encourage; embraven; SBJ makes OBJ braver,,CESSATIVE OF be timid,fipotenu
 be happy; be joyful; OBJ feels happy,,eng <happy> [ˈhæpiː],hapi
-be sad; be sorrowful; be anguished; be distressed; OBJ feels sad,,ANTONYM OF be happy,samu
+be sad; be sorrowful; be anguished; be distressed; OBJ feels sad,,ANTONYM OF be happy,camu
 bring joy; brighten; SBJ makes OBJ happier,,INCOHATIVE OF be happy,hapiki
 sadden; anguish; distress; SBJ makes OBJ sadder,,CESSATIVE OF be happy,hapinu
-be depressed; OBJ is chronically sad,,PROGRESSIVE OF be sad,samutawliki
-surprise; SBJ {surprising} surprises OBJ {surprised} with IND,,cmn <惊讶> [t͡ɕiŋ˥ja˥˩],cinja
+be depressed; OBJ is chronically sad,,PROGRESSIVE OF be sad,camucalu
+surprise; SBJ {surprising} surprises OBJ {surprised} with IND,,cmn <惊讶> [t͡ɕiŋ˥ja˥˩],cinya
 anticipate; be prepared; be careful; be cautious; beware; OBJ {anticipative} anticipates IND {anticipated},,spa <anticipa> [antiˈsipa],antisipa
 build anticipation; prepare; caution; SBJ makes OBJ anticipative about IND,,INCOHATIVE OF anticipate,antisipaki
 lower anticipation; SBJ makes OBJ stop anticipating IND,,CESSATIVE OF anticipate,antisipanu
 have fun; play; be amused; entertain; OBJ {entertained; audience} is entertained by IND {show; entertainment} {TIME:performance; game; show},,ben <মজা> [mɔd͡ʑa],moca
-be bored; OBJ is bored by IND {boring},,ANTONYM OF have fun,pefa
+be bored; OBJ is bored by IND {boring},,ANTONYM OF have fun,peha
 entertain; make fun; SBJ {entertainer} makes OBJ be entertained by IND,,INCOHATIVE OF have fun,mocaki
 bore; tire; kill joy; SBJ makes OBJ be bored by IND,,CESSATIVE OF have fun,mocanu
 be fatigued; be *tired; OBJ is fatigued,,cmn <累> [leɪ̯˥˩],lei
@@ -563,26 +559,26 @@ feel *pleasure; feel good; feel satisfied; feel euphoria; OBJ {satisfied} feels 
 hurt; be in pain; IND {pain; place where it hurts} hurts OBJ,,ANTONYM OF feel pleasure,emuile
 please; satisfy; soothe; SBJ makes OBJ feel pleased by IND,,INCOHATIVE OF feel pleasure,opiutoki
 torture; inflict pain; SBJ {torturer} causes OBJ to be pained by IND,,CESSATIVE OF feel pleasure,opiutonu
-worry; bother; trouble; concern; IND {problem; trouble; issue} troubles OBJ {worried; bothered},,sho <netseka> [net͡seka],neseka
-relieve; calm; reassure; IND {relief} gives OBJ {soothed} relieved feelings,,ANTONYM OF worry,kohona
-make worried; make bothered; SBJ {[https://xkcd.com/1015/]} causes OBJ to be bothered by IND,,INCOHATIVE OF worry,nesekaki
-assuage; sooth; relieve; calm; SBJ {reliever} causes OBJ to feel relieved by IND,,CESSATIVE OF worry,nesekanu
+worry; bother; trouble; concern; IND {problem; trouble; issue} troubles OBJ {worried; bothered},,ara <بَالَى> [bæːlæː],pala
+relieve; calm; reassure; IND {relief} gives OBJ {soothed} relieved feelings,,ANTONYM OF worry,mata
+make worried; make bothered; SBJ {[https://xkcd.com/1015/]} causes OBJ to be bothered by IND,,INCOHATIVE OF worry,palaki
+assuage; sooth; relieve; calm; SBJ {reliever} causes OBJ to feel relieved by IND,,CESSATIVE OF worry,palanu
 be likely; be unremarkable; be expectable; OBJ is likely {AMOUNT:P-value},,cmn <容易> [ʐʊ̯ŋ˧˥i˥˩],cuni
-be unlikely; be remarkable; be unexpected; OBJ {coincidence} is unlikely,,ANTONYM OF be likely,fiku
+be unlikely; be remarkable; be unexpected; OBJ {coincidence} is unlikely,,ANTONYM OF be likely,hiku
 increase chances; explain away; favour; SBJ makes OBJ more likely,,INCOHATIVE OF be likely,cuniki
 decrease chances; find coincidence; SBJ makes OBJ less likely,,CESSATIVE OF be likely,cuninu
-correspond; match; be respective; OBJ corresponds to IND,,msa <sama> [sama],sama
+correspond; match; be respective; OBJ corresponds to IND,,ben <মিলা> [mil̪a],mila
 be sharp; be clear; OBJ {edge; blade} is sharp,,epo <akra> [ˈakra],akla
 be dull; be blurry; be nebulous; OBJ is dull,,ANTONYM OF be sharp,anta
 sharpen; clarify; SBJ sharpens OBJ,,INCOHATIVE OF be sharp,aklaki
 dull; blur; SBJ dulls OBJ,,CESSATIVE OF be sharp,aklanu
-be strong; be forceful; OBJ is capable of exerting a lot of force {AMOUNT:strength; force},,ara <قوي> [qɑwiː],kawi
-be weak; be wimpy; OBJ is not capable of exerting very much force,,ANTONYM OF be strong,naju
-strengthen; exercise; SBJ {strengthener; trainer} strengthens OBJ,,INCOHATIVE OF be strong,kawiki
-weaken; SBJ {weakener; junk food} weakens OBJ,,CESSATIVE OF be strong,kawinu
-study; measure; conduct science; investigate; observe; experiment; test; research; SBJ {scientist} uses empirical observation to learn the answer to or more about OBJ {science; field of study; big question; the body of knowledge formed by the scientific process} {LOCATION:laboratory; lab|INSTRUMENT:measuring device; instrument; meter},,spa <estudia> [esˈtuðja],estutja
-employ *technology; engineer; SBJ {engineer} uses technical skills and fine problem-solving to solve OBJ {technical problem} {TOOL:technology},,spa <ingenia> [inˈxenja],inhenja
-be magical; do magic; SBJ {magician; sorcerer; wizard} makes OBJ {magic trick; spell} happen magically {INSTRUMENT:magic},,hin <जादुई> [d͡ʒaːduiː],catui
+be strong; be forceful; OBJ is capable of exerting a lot of force {AMOUNT:strength; force},,cmn <强大> [t͡ɕʰjɑŋ˧˥ta˥˩],cyanta
+be weak; be wimpy; OBJ is not capable of exerting very much force,,ANTONYM OF be strong,hwakla
+strengthen; exercise; SBJ {strengthener; trainer} strengthens OBJ,,INCOHATIVE OF be strong,cyantaki
+weaken; SBJ {weakener; junk food} weakens OBJ,,CESSATIVE OF be strong,cyantanu
+study; measure; conduct science; investigate; observe; experiment; test; research; SBJ {scientist} uses empirical observation to learn the answer to or more about OBJ {science; field of study; big question; the body of knowledge formed by the scientific process} {LOCATION:laboratory; lab|INSTRUMENT:measuring device; instrument; meter},,spa <estudia> [esˈtuðja],estutya
+employ *technology; engineer; SBJ {engineer} uses technical skills and fine problem-solving to solve OBJ {technical problem} {INSTRUMENT:technology},,jav <teknologi> [tekn̪oloɡi],teknoloki
+be magical; do magic; SBJ {magician; sorcerer; wizard} makes OBJ {magic trick; spell} happen magically {INSTRUMENT:magic},,mar <जादुई> [d͡ʑaːduiː],catui
 hit; strike; collide; SBJ hits OBJ {INSTRUMENT:hammer},,epo <bati> [ˈbati],pati
 "clap; slap; tick; spark; flash; SBJ makes OBJ {clap; slap; tick; spark; flash; a sudden, loud, shrill sound or action}",,ono [kʰ],kef
 "boom; crash; SBJ makes OBJ {boom; crash; a sudden, loud, sonorous sound or action}",,ono [bum],pum
@@ -590,44 +586,44 @@ hit; strike; collide; SBJ hits OBJ {INSTRUMENT:hammer},,epo <bati> [ˈbati],pati
 "hum; buzz; SBJ makes OBJ {hum; buzz; a drawn-out, sonorous sound or action}",,ono [mː],mumum
 "chatter; wobble; rustle; rattle; SBJ makes OBJ {chatter; wobble; rustle; rattle; a noisy, shrill sound or action}",,ono [t͡ʃət͡ʃət͡ʃə],cececef
 "rumble; flicker; SBJ makes OBJ {rumble; flicker; a noisy, sonorous sound or action}",,ono [wumbawumba],puwapuwam
-cook; prepare; make; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave; SBJ {cook; chef; baker} cooks OBJ {cooking} {INSTRUMENT:pot; pan},,ara <طهى> [tˤɑhæː],taha
+cook; prepare; make; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave; SBJ {cook; chef; baker} cooks OBJ {cooking} {INSTRUMENT:pot; pan},,nya <phika> [pʰika],pika
 help; be for; ally; support; benefit; work with; be auxiliary; OBJ {helper} is working toward the same goal as IND {ally; friend},,epo <helpi> [ˈhelpi],helpi
-hinder; be against; oppose; harm; compete; fight; OBJ {opposer} is working toward a goal contrary to that of IND {opponent; competitor; enemy},,ANTONYM OF help,sotmu
+hinder; be against; oppose; harm; compete; fight; OBJ {opposer} is working toward a goal contrary to that of IND {opponent; competitor; enemy},,ANTONYM OF help,cotmu
 align with; join; team up; SBJ {alliance forger} makes OBJ ally with IND,,INCOHATIVE OF help,helpiki
 turn against; betray; split up; SBJ {instigator} turns OBJ {traitor} against IND,,CESSATIVE OF help,helpinu
-fight; battle; OBJ {fighter; warrior} is in a violent engagement with IND {adversary; opponent} {INSTRUMENT:weapon|TIME:battle},,cmn <打架> [ta˧˩˧t͡ɕja˥˩],tacja
-attack; sick; aggravate; SBJ {attacker} causes OBJ to fight IND,,INCOHATIVE OF fight,tacjaki
-make peace; call off; deescalate; SBJ {peace maker} causes OBJ to stop fighting IND,,CESSATIVE OF fight,tacjanu
+fight; battle; OBJ {fighter; warrior} is in a violent engagement with IND {adversary; opponent} {INSTRUMENT:weapon|TIME:battle},,cmn <打架> [ta˧˩˧t͡ɕja˥˩],tacya
+attack; sick; aggravate; SBJ {attacker} causes OBJ to fight IND,,INCOHATIVE OF fight,tacyaki
+make peace; call off; deescalate; SBJ {peace maker} causes OBJ to stop fighting IND,,CESSATIVE OF fight,tacyanu
 win; beat; lose; SBJ {winner; victor} wins OBJ {contest; game} against IND {loser; defeated},,spa <gana> [ˈɡana],kana
 be rotten; OBJ is rotten,,epo <putra> [ˈputra],putla
 be fresh; OBJ is fresh,,ANTONYM OF be rotten,milta
 rot; SBJ rots OBJ,,INCOHATIVE OF be rotten,putlaki
 freshen; SBJ freshens OBJ,,CESSATIVE OF be rotten,putlanu
 be mixed; be impure; be tainted; permeate; IND {solute} is mixed into OBJ {solvent} {LOCATION:mixer; mixing pot},,ben <মিশ্র> [miɕrɔ],miclo
-be pure; OBJ is pure of IND,,ANTONYM OF be mixed,pufte
+be pure; OBJ is pure of IND,,ANTONYM OF be mixed,puhte
 mix; taint; pollute; disolve; infuse; SBJ mixes IND into OBJ,,INCOHATIVE OF be mixed,micloki
 purify; precipitate; extract; SBJ purifies OBJ of IND {precipitate; extract},,CESSATIVE OF be mixed,miclonu
 be healthy; OBJ is healthy {AMOUNT:health},,spa <sano> [ˈsano],sano
-be sick; be ill; OBJ is sick {METHOD:sickness; disease; illness},,ANTONYM OF be healthy,hake
+be sick; be ill; OBJ is sick {METHOD:sickness; disease; illness},,ANTONYM OF be healthy,fake
 heal; treat; SBJ {doctor; healer} heals OBJ {patient} {INSTRUMENT:medicine},,INCOHATIVE OF be healthy,sanoki
 sicken; poison; SBJ {poisoner} sickens OBJ {poisoned} {INSTRUMENT:poison},,CESSATIVE OF be healthy,sanonu
-be married; OBJ is married to IND {spouse},,yor <iyawo> [ijawo],iawo
-marry; wed; SBJ marries OBJ to IND {TIME:wedding},,INCOHATIVE OF be married,iawoki
-divorce; SBJ divorces OBJ from IND,,CESSATIVE OF be married,iawonu
+be married; OBJ is married to IND {spouse},,ibo <lụrụ> [lʊɾʊ],lulu
+marry; wed; SBJ marries OBJ to IND {TIME:wedding},,INCOHATIVE OF be married,luluki
+divorce; SBJ divorces OBJ from IND,,CESSATIVE OF be married,lulunu
 function; work; go; OBJ does what it is supposed to do,,jav <fungsi> [fuŋsi],funsi
-be functional; be effective; work; OBJ works,,POSSIBILITY OF function,funsipowi
-be nonfunctional; be broken; OBJ does not work,,NEGATIVE OF be functional,funsipowinjo
+be functional; be effective; work; OBJ works,,POSSIBILITY OF function,funsipote
+be nonfunctional; be broken; OBJ does not work,,NEGATIVE OF be functional,funsipotenyo
 beI serious; admire; respect; awe; OBJ {in awe; respectful} takes IND {admired; awesome} seriously,,zul <sina> [sina],sina
-beI funny; amuse; beI silly; be ironic; goof off; IND {amusing} is funny to OBJ {goof},,ANTONYM OF be serious,huka
+beI funny; amuse; beI silly; be ironic; goof off; IND {amusing} is funny to OBJ {goof},,ANTONYM OF be serious,fuka
 awe; command respect; SBJ makes OBJ take IND seriously,,INCOHATIVE OF be serious,sinaki
 mock; make fun; SBJ makes OBJ stop taking IND seriously,,CESSATIVE OF be serious,sinanu
-cost; be expensive; OBJ {valuable} costs a lot {AMOUNT:price; cost},,spa <cuesta> [ˈkwesta],kosta
-be cheap; OBJ does not cost a lot,,ANTONYM OF cost,nehla
-mark up; SBJ increases the cost of OBJ,,INCOHATIVE OF cost,kostaki
-discount; mark down; SBJ decreases the cost of OBJ,,CESSATIVE OF cost,kostanu
-have faith; be faithful; hope; OBJ faithfully believes in IND {faith} {AMOUNT:faith; faithfulness|METHOD:religion; faith},,spa <fe> [fe],fe
-give faith; take faith; build up hope; SBJ causes OBJ to gain faith in IND,,INCOHATIVE OF have faith,feki
-lose faith; destroy faith; lose hope; SBJ causes OBJ to lose faith in IND,,CESSATIVE OF have faith,fenu
+cost; be expensive; OBJ {valuable} costs a lot {AMOUNT:price; cost},,epo <kosti> [ˈkosti],kosti
+be cheap; OBJ does not cost a lot,,ANTONYM OF cost,neflu
+mark up; SBJ increases the cost of OBJ,,INCOHATIVE OF cost,kostiki
+discount; mark down; SBJ decreases the cost of OBJ,,CESSATIVE OF cost,kostinu
+have faith; be faithful; hope; OBJ faithfully believes in IND {faith; belief} {AMOUNT:faith; faithfulness|METHOD:religion; faith},,hin <आस्था> [aːstʰaː],asta
+give faith; take faith; build up hope; SBJ causes OBJ to gain faith in IND,,INCOHATIVE OF have faith,astaki
+lose faith; destroy faith; lose hope; SBJ causes OBJ to lose faith in IND,,CESSATIVE OF have faith,astanu
 be tangled; be knotted; OBJ {knot} is tangled together with IND,,ben <জট> [d͡ʑɔtɔ],coto
 tie; knot; tangle; SBJ ties OBJ to IND,,INCOHATIVE OF be tangled,cotoki
 untie; unknot; untangle; SBJ unties OBJ from IND,,CESSATIVE OF be tangled,cotonu
@@ -638,33 +634,33 @@ be across; be transverse; straddle; be perpendicular; OBJ is across IND {crossed
 be along; be longitudinal; be with; be parallel; OBJ is along IND,,ANTONYM OF be across,luo
 cross; move across; pass; SBJ makes OBJ cross IND {LOCATION:intersection; cross},,INCOHATIVE OF be across,tieki
 align; move along; move with; SBJ makes OBJ go along IND,,CESSATIVE OF be across,tienu
-hunt; chase; pursue; SBJ {hunter} hunts for OBJ {hunted},,cmn <打猎> [ta˧˩˧ljɛ˥˩],talje
+hunt; chase; pursue; SBJ {hunter} hunts for OBJ {hunted},,cmn <打猎> [ta˧˩˧ljɛ˥˩],talye
 deserve; be entitled; OBJ {worthy; deserving; entitled} deserves IND {dessert},,cmn <应受> [iŋ˥ʂoʊ̯˥˩],incou
 earn; SBJ makes OBJ deserve IND,,INCOHATIVE OF deserve,incouki
 lose privelage; SBJ makes OBJ stop deserving IND,,CESSATIVE OF deserve,incounu
-act; say; voice; SBJ {actor} acts as though OBJ {act; role; charade; character; farce} is true,,yor <ṣe> [ʃe],ce
-be steep; OBJ is steep {AMOUNT:slope},,ben <খাড়া> [kʰaɽa],kala
-be gentle; be flat; be shallow; be gradual; OBJ is not very steep,,ANTONYM OF be steep,nata
-steepen; tilt; rock; SBJ steepens OBJ,,INCOHATIVE OF be steep,kalaki
-flatten; right; SBJ makes OBJ less steep,,CESSATIVE OF be steep,kalanu
+act; say; voice; SBJ {actor} acts as though OBJ {act; role; charade; character; farce} is true,,spa <actúa> [akˈtua],aktua
+be steep; OBJ is steep {AMOUNT:slope},,ibo <elu> [elu],elu
+be gentle; be flat; be shallow; be gradual; OBJ is not very steep,,ANTONYM OF be steep,oti
+steepen; tilt; rock; SBJ steepens OBJ,,INCOHATIVE OF be steep,eluki
+flatten; right; SBJ makes OBJ less steep,,CESSATIVE OF be steep,elunu
 be tense; be intense; be under pressure; OBJ is under pressure {AMOUNT:pressure},ser *tenso; ser intenso; estar bajo presión; OBJ es tenso,spa <tenso> [ˈtenso],tenso
-be relaxed; be lax; be chill; OBJ is not under pressure,,ANTONYM OF be tense,lokhe
+be relaxed; be lax; be chill; OBJ is not under pressure,,ANTONYM OF be tense,lokfe
 tense up; intensify; pressurise; SBJ puts OBJ under pressure,,INCOHATIVE OF be tense,tensoki
 relax; take off pressure; SBJ takes pressure off of OBJ,,CESSATIVE OF be tense,tensonu
-choose; decide; SBJ {arbitrator} chooses OBJ {choice; decision},,epo <elekti> [eˈlekti],elekti
+choose; decide; SBJ {arbitrator} chooses OBJ {choice; decision},,spa <elige> [eˈlixe],elihe
 be natural; OBJ {nature} is natural,,epo <natura> [naˈtura],natula
 be artificial; be unnatural; OBJ is artificial,,ANTONYM OF be natural,kalita
 naturalise; SBJ makes OBJ become natural,,INCOHATIVE OF be natural,natulaki
 process; artificialise; SBJ makes OBJ become artificial,,CESSATIVE OF be natural,natulanu
-be amazing; be extreme; be incredible; be absurd; OBJ is to a very high degree,,swa <ajabu> [aʄaɓu],akjapu
-be average; be meh; be moderate; OBJ is to a low degree,,ANTONYM OF be amazing,anwami
+be amazing; be extreme; be incredible; be absurd; OBJ is to a very high degree,,yor <iyanu> [ijanu],ianu
+be average; be meh; be moderate; OBJ is to a low degree,,ANTONYM OF be amazing,uaki
 be widespread; be prevalent; be expansive; OBJ exists in many places {AMOUNT:prevalence},,sot <atile> [ɑtʼile],atile
 be confined; be rare; OBJ exists in few places,,ANTONYM OF be widespread,aluto
 spread; expand; copy; SBJ {spreader} spreads OBJ {spread},,INCOHATIVE OF be widespread,atileki
 extinguish; erase; confine; recede; SBJ {extinguisher} makes OBJ less prevalent,,CESSATIVE OF be widespread,atilenu
-be contagious; OBJ is contagious,,POSSIBILITY OF spread,atilekipowi
+be contagious; OBJ is contagious,,POSSIBILITY OF spread,atilekipote
 push; repell; SBJ {force} pushes on OBJ {pushed},,epo <puŝi> [ˈpuʃi],puci
-pull; attract; SBJ {attraction} pulls on OBJ {pulled},,REVERSAL OF push,mifu
+pull; attract; SBJ {attraction} pulls on OBJ {pulled},,REVERSAL OF push,mihu
 be infinite; OBJ {infinity} is infinitely so,,swa <usio> [usio],usio
 be specific; be particular; OBJ is specific,,xho <ethile> [ɛtʰilɛ],etile
 be general; be vague; OBJ is general,,ANTONYM OF be specific,oluto
