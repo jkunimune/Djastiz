@@ -256,8 +256,8 @@ def apply_phonotactics(ipa, ending=''):
 
 	lsl = re.sub(r'([lnmhcsfktp])w([lnmhcsfktp])', r'\1u\2', lsl) # these rogue semivowels are weird and need to go die.
 	lsl = re.sub(r'([lnmhcsfktp])y([lnmhcsfktp])', r'\1i\2', lsl)
-	lsl = re.sub(r'ey([lnmhcsfktp\b])', r'e\1', lsl) # restricted diphthongs
-	lsl = re.sub(r'ow([lnmhcsfktp\b])', r'o\1', lsl)
+	lsl = re.sub(r'ey([lnmhcsfktp]|$)', r'e\1', lsl) # restricted diphthongs
+	lsl = re.sub(r'ow([lnmhcsfktp]|$)', r'o\1', lsl)
 	lsl = re.sub(r'w?uw?', 'u', lsl) # these are effectively double letters
 	lsl = re.sub(r'y?iy?', 'i', lsl)
 
@@ -331,7 +331,7 @@ def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''):
 	if test_word in all_words:
 		logging.debug("{}'s {} ({}) is already a word".format(lang, test_word, ipa))
 		return False # make sure it doesn't collide; if it does, don't add it to the list
-	for suffix in ['ki','nu','nyo','kwe','pote']:
+	for suffix in ['ki','nu','nyo','kwe','pote','calu']:
 		if test_word != suffix and test_word.endswith(suffix):
 			logging.debug("'{}' sounds kind of like it has a {} derivative".format(test_word, suffix))
 			return False
@@ -605,9 +605,9 @@ def analyse_dictionary(all_words):
 	for word in all_words.values():
 		if '<' in word['source'] and word['partos'] != 'loanword':
 			tallies[word['source'][:3]] += 1
-	actual_fracs = {lang:tallies[lang]/sum(tallies.values()) for lang in DESIRED_FRAC.keys()}
-	for lang, frac in sorted(actual_fracs.items(), key=lambda t:-t[1]):
-		logging.info("{}:{:.3f}".format(lang, frac))
+	actual_fracs = [(lang, tallies[lang]/sum(tallies.values())) for lang in DESIRED_FRAC.keys()]
+	for lang, frac in sorted(actual_fracs, key=lambda t:-t[1]):
+		logging.info("{}:{:.3f} ({:2d})".format(lang, frac, tallies[lang]))
 	logging.info("{} roots, {} of which are of European origin".format(
 		sum(tallies.values()), tallies['eng']+tallies['spa']+tallies['epo']))
 
