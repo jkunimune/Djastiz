@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.ERROR)
+logging.basicConfig(level=logging.INFO)
 
 
 DIACRITIC_GUIDE = {
@@ -331,22 +331,16 @@ def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''):
 	if test_word in all_words:
 		logging.debug("{}'s {} ({}) is already a word".format(lang, test_word, ipa))
 		return False # make sure it doesn't collide; if it does, don't add it to the list
+	for suffix in ['ki','nu','nyo','kwe','pote']:
+		if test_word != suffix and test_word.endswith(suffix):
+			logging.debug("'{}' sounds kind of like it has a {} derivative".format(test_word, suffix))
+			return False
 	if has_antonym:
 		if difference(word, get_antonym(word)) < 2:
 			logging.debug("{} is too similar to its own antonym".format(word))
 			return False
 		if not legal_new_word(get_antonym(word), all_words, open_words, False, lang=lang, ipa=ipa):
 			logging.debug("And that endangers its antonym")
-			return False
-	for preexisting in open_words: # make sure it doesn't look like an open word plus a potential closed word
-		if re.fullmatch(preexisting+r'[lnmhcsfktp]([eaoiu]+[lnmhcsfktp])+', test_word):
-			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
-			return False # this is a little weird, I admit, but important for morphological self-segregation
-		if re.fullmatch(r'([lnmhcsfktp][eaoiu]+)+[lnmhcsfktp]'+preexisting, test_word):
-			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
-			return False
-		if test_word == preexisting+'l' or test_word == 'l'+preexisting:
-			logging.debug("{}'s {} ({}) collides with {}".format(lang, repr(word), ipa, repr(preexisting)))
 			return False
 	return True
 
@@ -383,10 +377,10 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		scores.append(score)
 
 	for i, ((lang, orthography, narrow, reduced), score) in enumerate(zip(options, scores)):
-		score -= 3.0*len(reduced) # prefer shorter words
+		score -= 1.0*len(reduced)**2 # prefer shorter words
 		for lang2, _, _, reduced2 in options:
 			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other major languages
-				if c1 == c2:								score += 6.0*DESIRED_FRAC[lang2]
+				if c1 == c2:														score += 6.0*DESIRED_FRAC[lang2]
 				elif is_consonant(c1, ipa=False) or is_consonant(c2, ipa=False):	break
 		scores[i] = score
 
@@ -609,9 +603,11 @@ def analyse_dictionary(all_words):
 	""" count up the number of words with each root """
 	tallies = collections.Counter()
 	for word in all_words.values():
-		if '<' in word['source'] and not word['ltl'].startswith("'"):
+		if '<' in word['source'] and word['partos'] != 'loanword':
 			tallies[word['source'][:3]] += 1
-	logging.info(tallies)
+	actual_fracs = {lang:tallies[lang]/sum(tallies.values()) for lang in DESIRED_FRAC.keys()}
+	for lang, frac in sorted(actual_fracs.items(), key=lambda t:-t[1]):
+		logging.info("{}:{:.3f}".format(lang, frac))
 	logging.info("{} roots, {} of which are of European origin".format(
 		sum(tallies.values()), tallies['eng']+tallies['spa']+tallies['epo']))
 
