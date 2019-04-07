@@ -99,7 +99,7 @@ Approved extensions to the Chatisun alphabet for more accurate transcription of 
 |**Plosive**               | p b    | t d    | t d      | t d          | ky gy   | k g   | ʔ       |
 |**Affricate**             | pf bv  | tθ dð  | ts dz    | tʃ dʒ        | kxy gʀy | kx gʀ | ʔh      |
 |**Fricative**             | f v    | θ ð    | s z      | ʃ ʒ          | xy ʀy   | x ʀ   | h       |
-|**Lateral fricative**     | lf lv  | lʃ lʒ  | lʃ lʒ    | lʃ lʒ        | lx lʀ   | lx lʀ |         |
+|**Lateral fricative**     | lf lv  | lh lʒ  | lh lʒ    | lh lʒ        | lx lʀ   | lx lʀ |         |
 |**Approximant**           | w      | ɹ      | ɹ        | ɹ            | y       | ɯ     |         |
 |**Lateral approximant**   | lw     | l      | l        | l            | ly      | lɯ    |         |
 |**Tap/Trill**             | ʙ      | r      | r        | r            |         | ʀ     |         |
