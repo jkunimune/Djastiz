@@ -414,10 +414,8 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 		return all_words[inflection_word]['ltl'] + ' ' + source_word
 	elif deriv_type == 'RELATIVE':
 		return 'l' + source_word
-	elif deriv_type == 'COMPLEMENT':
-		return 'l' + source_word # TODO: what am I going to do about these complements? They can't take a verb; then stuff would collide. But they can't not take a verb. Then they look like relatives.
 	elif deriv_type == 'VERB':
-		return all_words['which']['ltl'] + source_word + all_words['do']['ltl']
+		return all_words['which']['ltl'] + source_word + all_words['do']['ltl'] # TODO: why doesn't this actually append kweki?
 	else:
 		raise ValueError("The {1} of {0}?".format(source_word, deriv_type))
 
@@ -647,7 +645,7 @@ if __name__ == '__main__':
 	verify_words(all_words)
 	logging.info(json.dumps(all_words, indent=2))
 	analyse_dictionary(all_words)
-	save_dictionary(all_words, 'words')
+	# save_dictionary(all_words, 'words')
 	format_dictionary(all_words, '../Dictionaries')
 	hist = measure_corpus('../Example Texts')
 	for word, count in hist.most_common(36):

@@ -1,12 +1,12 @@
 eng,spa,source,ltl
-"of; -'s; _marks modifier or associate_ {COMPLEMENT:kind; relation; specifier {GENITIVE:genitive}|RELATIVE:whose (relative)|INTERROGATIVE:whose (interrogative)}",,hin <का> [kaː],ak
-"than; as; _marks amount or degree_ {COMPLEMENT:amount; number; quantity; extent; magnitude {GENITIVE:numerical; quantitative; equative}|RELATIVE:the amount that|INTERROGATIVE:how much}",,cmn <量> [ljaŋ˥˩],yan
-"by; _marks agent_ {COMPLEMENT:agent (linguistics) {GENITIVE:agentive (linguistics)}|RELATIVE:who (relative)}",,,es
-"on; to; _marks patient or experiencer_ {COMPLEMENT:patient (linguistics); experiencer (linguistics) {GENITIVE:patientive (linguistics)}|RELATIVE:which (relative)}",,epo <-on> [on],on
-"to; by; _marks theme, stimulus, or recipient_ {COMPLEMENT:theme (linguistics); stimulus (linguistics); recipient (linguistics) {GENITIVE:thematic (linguistics)}|RELATIVE:whom (relative)}",,pan <ਨੂੰ> [nũː],um
-"at; on; in; _marks time_ {COMPLEMENT:time; date; instance {GENITIVE:temporal; dative (linguistics)}|RELATIVE:when (relative)|INTERROGATIVE:when (interrogative)|INDETERMINATE:one day; sometime; at some point|DETERMINATE:then|PROXIMAL:now|VERB:be at; coincide; OBJ {event} happens at the same time as IND {time of occurence}}",,mar <वेळ> [ˈʋeɭə],wel
-"on; at; in; _marks location_ {COMPLEMENT:location; place; space {GENITIVE:spacial; locative (linguistics)}|RELATIVE:where (relative)|INTERROGATIVE:where (interrogative)|INDETERMINATE:somewhere|DETERMINATE:there|PROXIMAL:here|VERB:be present; attend; be around; be strong; be; OBJ {presence} is present at IND}",,OPPOSITE OF at,yot
-"because; since; _marks cause_ {COMPLEMENT:cause; inciting event; agent {GENITIVE:causal (linguistics)}|RELATIVE:why (relative); because of which|INTERROGATIVE:why (interrogative)|INDETERMINATE:for some reason|DETERMINATE:therefore; for that reason|PROXIMAL:herefore; because of this}",,epo <ial> [ˈial],ial
-"by; with; through; _marks instrument_ {COMPLEMENT:tool; medium; instrument {GENITIVE:instrumental; prolative (linguistics)}|RELATIVE:with which (relative)|INTERROGATIVE:with what (interrogative)|INDETERMINATE:with something; somehow|DETERMINATE:with that; thus|PROXIMAL:with this; like so|VERB:use; work through; SBJ {user} uses OBJ}",,OPPOSITE OF because,uat
-"if; for; _marks hypothetical world_ {COMPLEMENT:condition; world {GENITIVE:conditional (linguistics)}|RELATIVE:for which|INTERROGATIVE:under what condition; when (interrogative)|INDETERMINATE:in some event|DETERMINATE:in that event|PROXIMAL:given this}",,eng <if> [ɪf],ayf
-"by; as; via; _marks method or manner_ {COMPLEMENT:method; way; path; manner {GENITIVE:methodical; formal; instructive (linguistics)}|RELATIVE:how (relative); by which|INTERROGATIVE:how (interrogative)|INDETERMINATE:somehow|DETERMINATE:thus; thereby|PROXIMAL:like so; hereby}",,,ip
+"of; -'s; _marks modifier or associate_ {RELATIVE:whose (relative)|INTERROGATIVE:whose (interrogative)}",,hin <का> [kaː],ak
+"than; as; _marks amount or degree_ {RELATIVE:the amount that|INTERROGATIVE:how much}",,cmn <量> [ljaŋ˥˩],yan
+"by; _marks agent_ {RELATIVE:who (relative)}",,,es
+"on; to; _marks patient or experiencer_ {RELATIVE:which (relative)}",,epo <-on> [on],on
+"to; by; _marks theme, stimulus, or recipient_ {RELATIVE:whom (relative)}",,pan <ਨੂੰ> [nũː],um
+"at; on; in; _marks time_ {RELATIVE:when (relative)|INTERROGATIVE:when (interrogative)|INDETERMINATE:one day; sometime; at some point|DETERMINATE:then|PROXIMAL:now|VERB:be at; coincide; OBJ {event} happens at the same time as IND {time of occurence}}",,mar <वेळ> [ˈʋeɭə],wel
+"on; at; in; _marks location_ {RELATIVE:where (relative)|INTERROGATIVE:where (interrogative)|INDETERMINATE:somewhere|DETERMINATE:there|PROXIMAL:here|VERB:be present; attend; be around; be strong; be; OBJ {presence} is present at IND}",,OPPOSITE OF at,yot
+"because; since; _marks cause_ {RELATIVE:why (relative); because of which|INTERROGATIVE:why (interrogative)|INDETERMINATE:for some reason|DETERMINATE:therefore; for that reason|PROXIMAL:herefore; because of this}",,epo <ial> [ˈial],ial
+"by; with; through; _marks instrument_ {RELATIVE:with which (relative)|INTERROGATIVE:with what (interrogative)|INDETERMINATE:with something; somehow|DETERMINATE:with that; thus|PROXIMAL:with this; like so|VERB:use; work through; SBJ {user} uses OBJ}",,OPPOSITE OF because,uat
+"if; for; _marks hypothetical world_ {RELATIVE:for which|INTERROGATIVE:under what condition; when (interrogative)|INDETERMINATE:in some event|DETERMINATE:in that event|PROXIMAL:given this}",,eng <if> [ɪf],ayf
+"by; as; via; _marks method or manner_ {RELATIVE:how (relative); by which|INTERROGATIVE:how (interrogative)|INDETERMINATE:somehow|DETERMINATE:thus; thereby|PROXIMAL:like so; hereby}",,,ip
