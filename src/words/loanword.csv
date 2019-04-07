@@ -173,6 +173,7 @@ Malaysia; the country {GENITIVE:Malaysian; from Malaysia},,msa <TODO> [məlejsi�
 Maldives; the country {GENITIVE:Maldive; from Maldives},,div <TODO> [diʋehirəːd͡ʒe],'tiwehilace
 Mali; the country {GENITIVE:Malian; Malinese; from Mali},,bam <TODO> [mali],'mali
 Malta; the country {GENITIVE:Maltan; from Malta},,mlt <TODO> [mɐltɐ],'malta
+Maori; the Maori people {GENITIVE:Maori; of the Maori|LANGUAGE:Maori; Te Reo; the Maori language},,mri <Māori> [maːɔɾi],'maoli
 Marshall Islands; the country {GENITIVE:Marshall Island; Marshall Islander; from Marshall Islands},,mah <TODO> [mˠɑzʲɛʌ̯ɫ],'masyel
 Mauritania; the country {GENITIVE:Mauritanian; from Mauritania},,ara <TODO> [muːriːtaːnijaː],'mulitania
 Mauritius; the country {GENITIVE:Mauritian; from Mauritius},,mfe <TODO> [moʁis],'mohis
@@ -227,7 +228,7 @@ Slovakia; the country {GENITIVE:Slovak; from Slovakia},,slk <TODO> [sloʋensko],
 Slovenia; the country {GENITIVE:Slovenian; Slovene; from Slovenia},,slv <TODO> [slɔˈʋeːnija],'soloweniya
 Solomon Islands; the country {GENITIVE:Solomon Island; Solomon Islander; from Solomon Islands},,pis <TODO> [solomon],'solomon
 Somalia; the country {GENITIVE:Somalian; from Somalia},,som <TODO> [sɔːmɑːlijɑ],'somaliya
-Spaniard; the Spanish people {GENITIVE:Spanish; from Spain|COUNTRY:Spain|LANGUAGE:Spanish|LANGUAGE:the Spanish language},,spa <España> [espaɲa],'espanya
+Spaniard; the Spanish people {GENITIVE:Spanish; from Spain|COUNTRY:Spain|LANGUAGE:Spanish|LANGUAGE:the Spanish language},,spa <español> [espaɲol],'espanyol
 Sri Lanka; the country {GENITIVE:Sri Lankan; from Sri Lanka},,sin <TODO> [sriː laŋkaːʋa],'sililankawa
 Sudan; the country {GENITIVE:Sudanese; from Sudan},,ara <TODO> [assuːdaːn],'asutan
 South Sudan; the country {GENITIVE:South Sudanese; from South Sudan},,din <TODO> [paguot t̪uda̤n],'pakuotutan
@@ -371,6 +372,7 @@ makbūs; the dish,,ara <مچبوس> [mɑt͡ʃˈbuːs],'macpus
 pizza; the dish,,ita <pizza> [ˈpit͡sːa],'pitsa
 salteña; the dish,,spa <salteña> [salˈteɲa],'saltenya
 schnitzel; the dish,,deu <schnitzel> [ˈʃnɪtsl̩],'ecnitsel
+spaghetti; the dish,,ita <spaghetti> [spaˈɡetti],'espaketi
 beer; the drink,,eng <beer> [bɪɹ],'pia
 wine; the drink,,,
 vodka; the drink,,,
@@ -432,7 +434,7 @@ galaxy,,gre <γαλαξίας> [ɡalaksíaːs],'kalasias
 radian; the unit of angles,,eng <radian> [ˈɹʷeɪdiɪn],'watian
 metre; the unit of length,,fra <mètre> [ˈmɛtʁ],'methe
 litre; the unit of volume,,fra <litre> [ˈlitʁ],'lithe
-kilogram; the unit of mass,,fra <kilogramme> [ˈkilɔɡʁam],'kiloham
+kilogram; the unit of mass,,fra <kilogramme> [ˈkilɔɡʁam],'kilokham
 °C; the unit of temperature,,swe <celcius> [ˈsɛːlsjʊs],'selsyus
 ke; the unit of time,,cmn <刻> [kʰɤ˨˩],'kao
 span; the unit of time,,eng <span> [spæn],'espan

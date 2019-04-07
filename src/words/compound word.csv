@@ -1,7 +1,7 @@
 eng,spa,source,ltl
 Ulcwoliel,,this language,oltilip
-hello; goodbye; yay; bless; okay; _positive exclamative mood_,,want wow,caiwa
-boo; fuck; not; _negative exclamative mood_,,dislike wow,hauwa
+hello; goodbye; yay; bless; okay; _positive exclamative mood_,,wow want,wacai
+boo; fuck; not; _negative exclamative mood_,,wow dislike,wahau
 despite; though,,even both,ifenyo
 but; and even,,even and,ifenaw
 "us all; _first person plural inclusive_; the speaker, the listener, and possibly others {GENITIVE:all our}",,I you,minpuk
@@ -18,7 +18,8 @@ exclaim; SBJ {exclaimer} makes an exclamatory utterance of OBJ {exclamation} to 
 greet; praise; celebrate; SBJ {greeter; praiser} makes a positive utterance of OBJ {praised; occasion} to IND {greeted},,hello say,caiwati
 complain; denounce; condemn; SBJ {complainer} makes a negative utterance of OBJ {complaint; denouncee} to IND ,,boo say,hauwati
 suggest; advise; recommend; SBJ {advisor; recommender} suggests that IND {advisee} do OBJ {suggestion; advice; recommendation},,should say,yeti
-multiple,,1 more,kanmolon
+multiple; plural,,1 more,kanmolon
+at all; nonzero,,0 falsehood,nulnyolon
 interact; interfere; involve; SBJ makes OBJ interact with IND,,accompany do,solokweki
 beI forbidden; beI against the rules; beI illegal; beI prohibited; OBJ is not allowed to make IND {banned} happen,,no must,nyotewi
 forbid; pass rules against; prohibit; ban; SBJ {authority} forbids OBJ from making IND happen,,INCOHATIVE OF be forbidden,nyotewiki
@@ -49,30 +50,26 @@ mobile phone; cellural phone; cell phone,,move phone,mopetiluat
 smart phone; phone,,understand phone,pucutiluat
 be feminine; OBJ {woman; girl} is feminine,,female act,inaktua
 be masculine; OBJ {man; boy} is masculine,,male act,ukaktua
-year,,ground period,telwatalyan
-month,,moon period,fikwatalyan
-week,,7 period,pitwatalyan
-day,,sun period,sunwatalyan
+year,,ground time,tellwel
+month,,moon time,fiklwel
+week,,7 time,pitlwel
+day,,sun time,sunlwel
 time of day; hour,,be-small time,pelalwel
-birthday,,give-birth day,conmosunwatalyan
-morning; 00:00–12:00 or ;00–;50,,sun begin time,sunkilwel
-daytime; day; 06:00–18:00 or ;25–;75 or whenever the sun is up,,sun time,sunlwel
-evening; 12:00–00:00 or ;50–;00,,sun end time,sunnulwel
-nighttime; night; 18:00–06:00 or ;75-;25 or whenever the sun is down,,moon time,fiklwel
+birthday,,give-birth day,conmosunlwel
 spring,,begin season,kilit
 summer,,be-hot season,okulit
 autumn,,end season,nulit
 winter,,be-cold season,enilit
-yesterday,,previous day,nitaksunwatalyan
-today,,this day,olsunwatalyan
-tomorrow,,next day,kulansunwatalyan
-last year,,previous year,nitaktelwatalyan
-this year,,this year,oltelwatalyan
-next year,,next year,kulantelwatalyan
+yesterday,,previous day,nitaksunlwel
+today,,this day,olsunlwel
+tomorrow,,next day,kulansunlwel
+last year,,previous year,nitaktellwel
+this year,,this year,oltellwel
+next year,,next year,kulantellwel
 bathroom; restroom,,be-clean indoors,pulaenelon
 layer,,be-below surface,supeus
 dream; OBJ {dreamer} dreams IND {dream},,sleep perceive,tolmipoca
-daydream; hallucinate; OBJ {daydreamer} hallucinates IND {daydream},,day dream,sunwatalyantolmipoca
+daydream; hallucinate; OBJ {daydreamer} hallucinates IND {daydream},,day dream,sunlweltolmipoca
 map,,layout image,kaksilum
 map projection,,map transformation,kaksilumnowahilip
 be hallowed; worship; OBJ {worshiper} worships SBJ,,god want,tyoscai
@@ -264,7 +261,7 @@ pelican,,mouth bird,nyamaeccipicif
 seagull,,beach bird,cawaknulyotcipicif
 condor,,be-big bird-of-prey,motakiah
 vulture,,wear no bird-of-prey,cyokinyokiah
-owl,,nighttime bird-of-prey,fiklwelkiah
+owl,,nighttime bird-of-prey,sicalwelkiah
 bald eagle,,head bird-of-prey,silkiah
 flamingo,,be-pink bird,unwecipicif
 stork,,leg bird,lekcipicif
@@ -361,13 +358,13 @@ Saturn; the planet {GENITIVE:Saturnic},,circle ground,silkulilontel
 Uranus; the planet {GENITIVE:Uranic},,sky ground,lottel
 Venus; the planet {GENITIVE:Venusian},,be-loud ground,fuhatel
 Milky Way; the galaxy {GENITIVE:Milky},,person galaxy,can'kalasias
-Monday,,moon day,fiksunwatalyan
-Tuesday,,be-red day,lucisunwatalyan
-Wednesday,,be-fast day,yalasunwatalyan
-Thursday,,be-big day,motasunwatalyan
-Friday,,be-loud day,fuhasunwatalyan
-Saturday,,circle day,silkulilonsunwatalyan
-Sunday,,sun day,sunsunwatalyan
+Monday,,moon day,fiksunlwel
+Tuesday,,be-red day,lucisunlwel
+Wednesday,,be-fast day,yalasunlwel
+Thursday,,be-big day,motasunlwel
+Friday,,be-loud day,fuhasunlwel
+Saturday,,circle day,silkulilonsunlwel
+Sunday,,sun day,sunsunlwel
 be armoured; IND {armour} armours OBJ {armoured},,protect wear,nasilakipotenucyoki
 armour; SBJ {armourer} armours OBJ in IND,,protect put-on,nasilakipotenucyokiki
 peel; SBJ peels OBJ,,edge cut,nulyottokanu
@@ -460,7 +457,7 @@ do statistics; SBJ {statistician} studies data to learn about OBJ {statistics},,
 do hydrodynamics; SBJ {hydrodynamicist} studies the motion of fluids to learn about OBJ {hydrodynamics},,be-fluid move study,nilumopesoma
 do magnetohydrodynamics; SBJ {magnetohydrodynamicist} studies the motion of conductive fluids in magnetic fields to learn about OBJ {magnetohydrodynamics},,be-magnetic be-fluid move study,mihutatunilumopesoma
 do thermomagnetohydrodynamics; SBJ {thermomagnetohydrodynamicist} studies the heat transfer of conductive fluids in magnetic fields to learn about OBJ {thermomagnetohydrodynamics},,be-hot be-magnetic be-fluid move study,okumihutatunilumopesoma
-metastudy; SBJ {metascientist} studies the scientific method and establishment,,study study,
+metastudy; SBJ {metascientist} studies the scientific method and establishment,,study study,somasoma
 eat breakfast; breakfast; SBJ {fast-breaker} eats OBJ {breakfast} {TIME:breakfast time},,sun begin eat,sunkinyama
 eat brunch; brunch; SBJ {bruncher} eats OBJ {brunch} {TIME:brunchtime},,be-early sun eat,citusunnyama
 eat lunch; lunch; SBJ {luncher} eats OBJ {lunch} {TIME:lunchtime},,sun eat,sunnyama
@@ -507,17 +504,17 @@ pre-educate; SBJ {pre-school teacher} teaches OBJ {pre-schooler} {LOCATION:pre-s
 primarily educate; elementary school; middle school; SBJ {elementary school teacher} teaches OBJ {elementary schooler} {LOCATION:elementary school; middle school|TIME:primary education},,be-behind teach,anonoki
 secondarily educate; high school; middle school; SBJ {high school teacher} teaches OBJ {high schooler} {LOCATION:high school; middle school|TIME:secondary education},,be-in-front teach,akenoki
 tertiarily educate; college; university; higher educate; SBJ {professor} teaches OBJ {college student} {LOCATION:college; university|TIME:tertiary education},,be-late teach,hulinoki
-kindergarden,,0 teach year,nulnokitelwatalyan
-first grade,,1 teach year,kannokitelwatalyan
-second grade,,2 teach year,tosnokitelwatalyan
-freshman year of high school,,9 teach year,mesnokitelwatalyan
-sophomore year of high school,,1 0 teach year,kannulnokitelwatalyan
-junior year of high school,,1 1 teach year,kankannokitelwatalyan
-senior year of high school,,1 2 teach year,kantosnokitelwatalyan
-freshman year of college,,1 3 teach year,kansannokitelwatalyan
-sophomore year of college,,1 4 teach year,kanfolnokitelwatalyan
-junior year of college,,1 5 teach year,kanlimnokitelwatalyan
-senior year of college,,1 6 teach year,kancahnokitelwatalyan
+kindergarden,,0 teach year,nulnokitellwel
+first grade,,1 teach year,kannokitellwel
+second grade,,2 teach year,tosnokitellwel
+freshman year of high school,,9 teach year,mesnokitellwel
+sophomore year of high school,,1 0 teach year,kannulnokitellwel
+junior year of high school,,1 1 teach year,kankannokitellwel
+senior year of high school,,1 2 teach year,kantosnokitellwel
+freshman year of college,,1 3 teach year,kansannokitellwel
+sophomore year of college,,1 4 teach year,kanfolnokitellwel
+junior year of college,,1 5 teach year,kanlimnokitellwel
+senior year of college,,1 6 teach year,kancahnokitellwel
 be undead; OBJ is undead {TIME:afterlife},,live repeat,icipeta
 mine; quarry,,stone source,patulontulum
 well,,water source,icicwelontulum
@@ -691,7 +688,7 @@ be sarcastic; SBJ conveys IND sarcastically to OBJ,,be-opposite say,oflati
 congratulate; apologise; SBJ expresses sympathy to OBJ,,sympathise say,tafucamuti
 door,,be-open furniture,meklemwel
 window,,can-see furniture,simwel
-excuse; pardon; accept; tolerate; SBJ excuses OBJ,,okay say,emalonti
+excuse; pardon; accept; tolerate; SBJ excuses OBJ,,be-okay say,emati
 enterprise,,,
 go shopping; OBJ is going shopping,,much sell,kehmai
 welcome!,,please enter,panaeneki
@@ -717,3 +714,4 @@ climb; OBJ {climber} climbs {INSTRUMENT:ladder; handholds},,surface move,usmope
 dig; OBJ {digger} digs,,solid move,kutilonmope
 time travel; OBJ travels through time,,time move,lwelmope
 live monastically; OBJ {monk; nun; cenobite; hermit; anchorite; hesychast; solitary} lives as a monk {LOCATION:monastery},,have-faith live,fitiici
+prostitute; sell one's body; SBJ {prostitute; whore; harlot} has sex with OBJ for pay,,have-sex sell,seksomai
