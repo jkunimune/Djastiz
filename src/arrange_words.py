@@ -97,7 +97,7 @@ for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
 SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictiorary translated
 
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
-NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD',
+NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','CONDITION',
 		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','RELIGION','ETHNICGROUP']
 MISC_DERIVATIONS = ['OPPOSITE']
 
@@ -400,13 +400,13 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 			return get_antonym(source_word) + all_words['begin']['ltl']
 		else:
 			return source_word + all_words['end']['ltl']
-	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ', 'IND',
-			'AMOUNT', 'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'LANGUAGE', 'COUNTRY', 'REGION', 'RELIGION', 'ETHNICGROUP']:
+	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ', 'IND', 'AMOUNT',
+			'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'CONDITION', 'LANGUAGE', 'COUNTRY', 'REGION', 'RELIGION', 'ETHNICGROUP']:
 		inflection_word = {
 			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who (relative)',
 			'OBJ':'which (relative)', 'IND':'whom (relative)', 'AMO':'the amount that', 'LOC':'where (relative)',
 			'TIM':'when (relative)', 'INS':'with which (relative)', 'CAU':'why (relative)', 'MET':'how (relative)',
-			'LAN':'language', 'COU':'country', 'REG':'location', 'REL':'religion', 'ETH':'relative',
+			'CON':'for which', 'LAN':'language', 'COU':'country', 'REG':'location', 'REL':'religion', 'ETH':'relative',
 		}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['ltl']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
