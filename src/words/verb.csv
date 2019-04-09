@@ -3,7 +3,7 @@ be absent; be gone; be away; be weak; OBJ is absent,,NEGATIVE OF be present,lyot
 summon; bring forth; pull up; place; SBJ summons OBJ,,INCOHATIVE OF be present,lyotki
 dispose; throw away; get rid; get away; remove; leave; SBJ disposes of OBJ {trash; garbage},,CESSATIVE OF be present,lyotnu
 continue; be happening; keep; stay; be in progress; undergo; maintain; preserve; _progressive_; SBJ {maintainer} makes OBJ hold true for some time {TIME:equilibrium},,pan <ਚਾਲੂ> [t͡ʃɑlu],calu
-change; be in flux; SBJ {bringer of change} changes OBJ somehow,,NEGATIVE OF continue,calunyo
+change; be in flux; switch; SBJ {bringer of change} changes OBJ somehow {INSTRUMENT:switch},,NEGATIVE OF continue,calunyo
 repeat; do again; return to; SBJ makes OBJ happen multiple times,,sot <pheta> [pʰetʼɑ],peta
 reverse; do back; return from; SBJ makes OBJ happen in reverse after having happened,,REVERSAL OF repeat,mola
 be possible; can; might; may; _possibility_; OBJ {possibility} can happen,,spa <puede> [ˈpweðe],pote
@@ -37,7 +37,7 @@ be number; be in *order; be -th; index; OBJ {item; element} has a late position 
 be number from the end; be in order from the end; negatively index; OBJ has an early position in IND {AMOUNT:position from end; negative index; number from end},,ANTONYM OF be number,etle
 move down; position; sort; arrange; order; SBJ {sorter} moves OBJ down the sequence IND {sorted} {METHOD:order},,INCOHATIVE OF be number,oltoki
 move up; position; SBJ moves OBJ up the sequence IND,,CESSATIVE OF be number,oltonu
-say; convey; SBJ {sayer} conveys IND {message; idea; signal; utterance} to OBJ {addressee} {INSTRUMENT:phone; cell phone; communicator; communication device|METHOD:language; protocol {GENITIVE:linguistic; lingual}},,xho <thi> [tʰi],ti
+say; convey; communicate; SBJ {sayer} conveys IND {message; idea; signal; utterance} to OBJ {addressee} {INSTRUMENT:phone; cell phone; communicator; communication device|METHOD:language; protocol {GENITIVE:linguistic; lingual}},,xho <thi> [tʰi],ti
 consult; look up; reference; refer; read; SBJ retrieves IND {desired information} from OBJ {reference; table; consultation},,REVERSAL OF say,lu
 perceive; sense; observe; beI perceptible; see; hear; feel; smell; taste; OBJ {perceiver; observer} perceives IND {perception; experience {GENITIVE:subjective}} {INSTRUMENT:sense; sensor|GENITIVE:perceptual},,ben <বোঝা> [bod͡ʑ̤a],poca
 show; look; listen; sniff; taste; read; SBJ {shower; looker; listener} shows IND {thing that is shown} to OBJ,,INCOHATIVE OF perceive,pocaki
@@ -92,8 +92,8 @@ unstack; unlayer; SBJ {unstacker} unstacks OBJ from IND,,CESSATIVE OF be stacked
 be skeptical; beI improbable; beI unlikely; Bayesian improbability; IND is unlikely to happen according to OBJ {skeptic},,ANTONYM OF be sure,oka
 convince; persuade; make sure; SBJ provides new information that leads OBJ to come to find IND probable,,INCOHATIVE OF be sure,enaki
 unconvince; become skeptical; SBJ provides new information that leads IND comes to beI OBJ improbable,,CESSATIVE OF be sure,enanu
-"believe; seem; OBJ {believer} accepts that IND {seeming} is true on a subconcious level; see ""be sure"" and ""think""",,spa <cree> [ˈkɾee],ekle
-"think; appear; OBJ {thinker; accepter} consciously decides that IND {apparent} is true; see ""be sure"" and ""believe""",,yor <ro> [ro],lo
+"believe; seem; OBJ {believer} accepts that IND {feeling} is true on a subconcious level; see ""be sure"" and ""think""",,spa <cree> [ˈkɾee],ekle
+"think; appear; beI apparent; OBJ {thinker; accepter} consciously decides that IND {opinion} is true; see ""be sure"" and ""believe""",,yor <ro> [ro],lo
 recall; remind; remember; remember to; jog memory; SBJ {mnemonic} helps OBJ {recaller} recall IND {factoid; datum} from memory,,cmn <记起> [t͡ɕi˥˩t͡ɕʰi˧˩˧],cici
 can remember; remember; know; OBJ {knowledgeable; smart} has IND stored in memory,,POSSIBILITY OF recall,cicipote
 memorize; drill; remind; SBJ {driller; crammer; memorizer} makes OBJ memorize IND,,INCOHATIVE OF can remember,cicipoteki
@@ -273,7 +273,7 @@ uncover; bare; expose; open; SBJ {uncoverer} makes OBJ stop surrounding IND,,CES
 be typical; exemplify; qualify; the type of OBJ {instance; example} is IND {category; class; kind; type},,epo <tipa> [ˈtipa],tipa
 categorise; classify; SBJ places OBJ as an instance of IND,,INCOHATIVE OF be typical,tipaki
 disqualify; declassify; SBJ makes OBJ not be an instance of IND,,CESSATIVE OF be typical,tipanu
-beI in *control; beI in charge; beI powerful; depend; IND {oppressor; controller; leader; official} controls OBJ {oppressed; dependent},,cmn <控制> [kʰʊ̯ŋ˥˩ʈ͡ʂɨ˥˩],kunci
+beI in *control; beI in charge; beI powerful; depend; IND {oppressor; controller; leader; official} controls OBJ {oppressed; dependent} {INSTRUMENT:controls; controller},,cmn <控制> [kʰʊ̯ŋ˥˩ʈ͡ʂɨ˥˩],kunci
 be free; be independent; beI weak; IND cannot tell OBJ what to do,,ANTONYM OF be in control,nikhu
 take control; capture; give control; put in charge; SBJ {capturer} puts IND in control of OBJ {captured},,INCOHATIVE OF be in control,kunciki
 lose control; release; free; SBJ {releaser} releases OBJ {freed} from IND's control,,CESSATIVE OF be in control,kuncinu
@@ -375,13 +375,21 @@ be matte; be dull; be rough; OBJ reflects light diffusely,,ANTONYM OF be shiny,h
 shine; polish; SBJ makes OBJ become shiny,,INCOHATIVE OF be shiny,cayniki
 matte; SBJ makes OBJ become matte,,CESSATIVE OF be shiny,cayninu
 be sweet; be sweetened; OBJ {candy} is sweet {AMOUNT:sweetness},,pan <ਮਿੱਠੇ> [mɪːʈʰe],mite
+be unsweet; be unsweetened; OBJ is unsweet,,ANTONYM OF be sweet,pulo
 sweeten; SBJ makes OBJ become sweet,,INCOHATIVE OF be sweet,miteki
-be bitter; OBJ is bitter {AMOUNT:bitterness},,ANTONYM OF be sweet,pulo
-bitter; SBJ makes OBJ become bitter,,CESSATIVE OF be sweet,mitenu
+unsweeten; SBJ makes OBJ become less sweet,,CESSATIVE OF be sweet,puloki
+be bitter; OBJ is bitter {AMOUNT:bitterness},,,
+be unbitter; OBJ is not very bitter,,ANTONYM OF be bitter,
+bitter; SBJ makes OBJ become bitter,,INCOHATIVE OF be bitter,mitenu
+debitter; SBJ makes OBJ become less bitter,,CESSATIVE OF be bitter,
 be sour; OBJ is sour {AMOUNT:sourness},,ben <টক> [tɔkɔ],toko
+be unsour; OBJ is not very sour,,ANTONYM OF be sour,lene
 sour; SBJ makes OBJ become sour,,INCOHATIVE OF be sour,tokoki
-be savoury; have umami; OBJ is savoury {AMOUNT:savouriness; umami},,ANTONYM OF be sour,lene
-make savoury; SBJ makes OBJ become savoury,,CESSATIVE OF be sour,tokonu
+desour; SBJ makes OBJ become less sour,,CESSATIVE OF be sour,leneki
+be savoury; have umami; OBJ is savoury {AMOUNT:savouriness; umami},,,
+be unsavoury; OBJ is not very savoury,,ANTONYM OF be savoury,
+make savoury; SBJ makes OBJ become savoury,,INCOHATIVE OF be savoury,tokonu
+desavoury; SBJ makes OBJ become less savoury,,CESSATIVE OF be savoury,
 be salty; OBJ is salty {AMOUNT:saltiness; salt},,pan <ਖਾਰੇ> [kʰɑɾe],kale
 be unsalty; OBJ is not salty,,ANTONYM OF be salty,nato
 salt; SBJ makes OBJ become salty,,INCOHATIVE OF be salty,kaleki
@@ -471,7 +479,7 @@ deelastify; make inelastic; SBJ makes OBJ less elastic,,CESSATIVE OF be elastic,
 rub; *slide; slip; scrub; wipe; SBJ rubs OBJ {INSTRUMENT:wipe; scrubber},,msa <sapu> [sapu],sapu
 be slippery; be smooth; OBJ is slippery on IND,,POSSIBILITY OF rub,sapupote
 grip; drag; be grippy; OBJ exerts a frictional force on IND {AMOUNT:coefficient of friction},,NEGATIVE OF be slippery,sapupotenyo
-be made of; comprise; OBJ {construction; object; product} is made out of IND {*material; substance; chemical; element},,jav <materi> [materi],mateli
+be made of; comprise; OBJ {construction; object; product} is made out of IND {*material; substance; chemical; element},,jav <saka> [materi],mateli
 make out of; turn to; SBJ {alchemist} changes OBJ to be made out of IND,,INCOHATIVE OF be made of,mateliki
 be wood; be wooden; OBJ is made out of wood,,cmn <木> [mu˥˩],mu
 woodify; SBJ turns OBJ into wood,,INCOHATIVE OF be wood,muki
@@ -576,7 +584,7 @@ decrease chances; find coincidence; SBJ makes OBJ less likely,,CESSATIVE OF be l
 correspond; match; be respective; OBJ corresponds to IND,,msa <sama> [sama],sama
 be sharp; be clear; OBJ {edge; blade} is sharp,,epo <akra> [ˈakra],akla
 be dull; be blurry; be nebulous; OBJ is dull,,ANTONYM OF be sharp,anta
-sharpen; clarify; SBJ sharpens OBJ,,INCOHATIVE OF be sharp,aklaki
+sharpen; clarify; SBJ sharpens OBJ {INSTRUMENT:sharpener},,INCOHATIVE OF be sharp,aklaki
 dull; blur; SBJ dulls OBJ,,CESSATIVE OF be sharp,aklanu
 be strong; be forceful; OBJ is capable of exerting a lot of force {AMOUNT:strength; force},,ibo <ike> [ike],ike
 be weak; be wimpy; OBJ is not capable of exerting very much force,,ANTONYM OF be strong,uno

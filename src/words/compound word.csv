@@ -20,7 +20,7 @@ complain; denounce; condemn; SBJ {complainer} makes a negative utterance of OBJ 
 suggest; advise; recommend; SBJ {advisor; recommender} suggests that IND {advisee} do OBJ {suggestion; advice; recommendation},,should say,yeti
 multiple; plural,,1 more,kanmolon
 at all; nonzero,,0 falsehood,nulnyolon
-interact; interfere; involve; SBJ makes OBJ interact with IND,,accompany do,solokweki
+interact; interfere; involve; SBJ makes OBJ interact with IND {INSTRUMENT:interface},,accompany do,solokweki
 beI forbidden; beI against the rules; beI illegal; beI prohibited; OBJ is not allowed to make IND {banned} happen,,no must,nyotewi
 forbid; pass rules against; prohibit; ban; SBJ {authority} forbids OBJ from making IND happen,,INCOHATIVE OF be forbidden,nyotewiki
 may; beI allowed; beI legal; beI permitted; OBJ is allowed to make IND happen,,no not-have-to,nyotewinyo
@@ -274,6 +274,7 @@ catfish,,hair carp,culkap
 magikarp,,be-magical carp,catuikap
 anglerfish,,light fish,luspes
 pufferfish,,balloon fish,motakilonpes
+koi; koi fish,,be-coloured carp,
 seahorse,,ocean equine,hayanhihin
 vertebrate,,be-rigid animal,sitenupotenyotun
 invertebrate,,be-flimsy animal,sitenupotetun
