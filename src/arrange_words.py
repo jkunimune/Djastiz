@@ -304,11 +304,12 @@ def apply_phonotactics(ipa, ending=''):
 			else:
 				max_len = 2
 			if len(cluster) > max_len: # that are too long
-				idcs = list(range(len(cluster))) # pick out the most important consonants
-				idcs.sort(key=lambda idx:strength_of(cluster[idx]))
-				idcs = sorted(idcs[-max_len:])
-				clusters[i] = ''.join(cluster[j] for j in idcs) # and discard the rest
 				changes += len(cluster) - max_len
+				idcs = list(range(len(cluster)))
+				idcs = [idx for idx in idcs if cluster[idx] not in cluster[idx+1:]] # remove all but the last instance of each particular sound
+				idcs.sort(key=lambda idx:strength_of(cluster[idx])) # pick out the most important consonants
+				idcs = sorted(idcs[-max_len:])
+				clusters[i] = ''.join(cluster[j] for j in idcs) # and reassemble the now reduced cluster
 	lsl = ''.join(clusters)
 
 	logging.debug("{} -> {}".format(ipa, lsl))
@@ -331,7 +332,7 @@ def legal_new_word(word, all_words, has_antonym, lang='', ipa=''):
 	if test_word in all_words:
 		logging.debug("{}'s {} ({}) is already a word".format(lang, test_word, ipa))
 		return False # make sure it doesn't collide; if it does, don't add it to the list
-	for suffix in ['ki','nu','nyo','kwe','pote','calu']:
+	for suffix in ['ki','nu','nyo','kwe','powi','calu']:
 		if test_word != suffix and test_word.endswith(suffix):
 			logging.debug("'{}' sounds kind of like it has a {} derivative".format(test_word, suffix))
 			return False
@@ -369,14 +370,14 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
 		if not legal_new_word(reduced, all_words, has_antonym, lang=lang, ipa=narrow):
 			score = float('-inf') # don't allow it to be taken if it's not legal (but still put it in the list so we can compare it to other candidates)
-		score -= 10.0*changes # favour words that require fewer changes
+		score -= 10.0*changes**2 # favour words that require fewer changes
 
-		options.append((lang, orthography, narrow, reduced))
+		options.append((lang, orthography, narrow, reduced, changes))
 		scores.append(score)
 
-	for i, ((lang, orthography, narrow, reduced), score) in enumerate(zip(options, scores)):
+	for i, ((lang, orthography, narrow, reduced, changes), score) in enumerate(zip(options, scores)):
 		score -= 1.0*len(reduced)**2 # prefer shorter words
-		for lang2, _, _, reduced2 in options:
+		for lang2, _, _, reduced2, _ in options:
 			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other major languages
 				if c1 == c2:														score += 6.0*DESIRED_FRAC[lang2]
 				elif is_consonant(c1, ipa=False) or is_consonant(c2, ipa=False):	break
@@ -384,7 +385,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 
 	if np.isfinite(max(scores)):
 		logging.info("Out of \n{};\nI choose {}".format(',\n'.join(str(tup) for tup in options), options[np.argmax(scores)]))
-		return options[np.argmax(scores)]
+		return options[np.argmax(scores)][:4]
 	else:
 		raise Exception("There are no possible words for '{}' that don't conflict with words I already have. Oh god. How did this happen? Do I need even more languages?".format(english))
 
