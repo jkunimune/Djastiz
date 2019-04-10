@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.ERROR)
 
 
 DIACRITIC_GUIDE = {
@@ -325,7 +325,7 @@ def choose_key(entry):
 	return key
 
 
-def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''):
+def legal_new_word(word, all_words, has_antonym, lang='', ipa=''):
 	""" does this word at all conflict with what already exists? """
 	test_word = word.replace('y','i').replace('w','u')
 	if test_word in all_words:
@@ -339,17 +339,15 @@ def legal_new_word(word, all_words, open_words, has_antonym, lang='', ipa=''):
 		if difference(word, get_antonym(word)) < 2:
 			logging.debug("{} is too similar to its own antonym".format(word))
 			return False
-		if not legal_new_word(get_antonym(word), all_words, open_words, False, lang=lang, ipa=ipa):
+		if not legal_new_word(get_antonym(word), all_words, False, lang=lang, ipa=ipa):
 			logging.debug("And that endangers its antonym")
 			return False
 	return True
 
 
-def choose_word(english, real_words, counts, partos, has_antonym=False, all_words={}, open_words=None):
+def choose_word(english, real_words, counts, partos, has_antonym=False, all_words={}):
 	""" determine what word should represent english, based on the given foreign dictionaries and
 		current representation of each language. Return the source lang, source orthography, source IPA, and my word """
-	if open_words is None:	open_words = all_words
-
 	logging.info("choosing a word for '{}'".format(english))
 	options, scores = [], []
 	for _, lang, target_frac in SOURCE_LANGUAGES:
@@ -369,7 +367,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 			continue
 
 		score = sum(counts.values())*target_frac - counts[lang] # determine how far above or below its target this language is
-		if not legal_new_word(reduced, all_words, open_words, has_antonym, lang=lang, ipa=narrow):
+		if not legal_new_word(reduced, all_words, has_antonym, lang=lang, ipa=narrow):
 			score = float('-inf') # don't allow it to be taken if it's not legal (but still put it in the list so we can compare it to other candidates)
 		score -= 10.0*changes # favour words that require fewer changes
 
@@ -498,11 +496,13 @@ def load_dictionary(directory):
 
 		for possible_gloss in entry['eng']:
 			if possible_gloss not in words:
+				entry['gloss'] = possible_gloss
 				words[possible_gloss] = entry
 				break
 		if words[possible_gloss] != entry:
 			gloss = '{}{:03d}'.format(entry['eng'][0], len(words))
 			logging.warning("There is no possible gloss for {}. '{}' will be used as a key.".format(entry, gloss))
+			entry['gloss'] = gloss
 			words[gloss] = entry
 
 		if entry['partos'] == 'compound word':
@@ -553,12 +553,11 @@ def fill_blanks(my_words, real_words):
 		onomotopoeias, and update the compound words accordingly """
 	for entry in my_words.values(): # start by clearing the nouns, verbs, derivatives, and compounds
 		if (entry['partos'] in ['noun','verb'] and not entry['source'].startswith('ono ')) \
-				or ' OF ' in entry['source'] \
+				or (' OF ' in entry['source'] and not entry['partos'] == 'proverb') \
 				or entry['partos'].startswith('compound'):
 			entry['ltl'] = ''
 
 	all_ltl_words = set()
-	all_open_ltl_words = set() # the set of open words that can cause isolating morphology issues 
 	tallies = collections.Counter()
 	for entry in my_words.values(): # then count how many words we have of each language already
 		if entry['partos'] not in ['noun','verb','loanword'] or re.match(r'^ono ', entry['source']): # only count grammar words and onomotopoeias
@@ -566,8 +565,6 @@ def fill_blanks(my_words, real_words):
 				tallies[entry['source'].split()[0]] += 1
 			if entry['ltl'] and not entry['partos'].startswith('compound'):
 				all_ltl_words.add(entry['ltl'].replace('y','i').replace('w','u'))
-				if 'OF' not in entry['source'] and 'ono [' not in entry['source']:
-					all_open_ltl_words.add(entry['ltl'].replace('y','i').replace('w','u'))
 	logging.info(tallies)
 				
 	for entry in my_words.values():
@@ -580,7 +577,7 @@ def fill_blanks(my_words, real_words):
 		elif entry['partos'] in ['noun','verb'] and entry['ltl'] == '': # make up words for any noun or verb that needs it
 			eng = choose_key(entry)
 			lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies,
-				partos=entry['partos'], has_antonym=has_antonym(entry), all_words=all_ltl_words, open_words=all_open_ltl_words)
+				partos=entry['partos'], has_antonym=has_antonym(entry), all_words=all_ltl_words)
 			entry['ltl'] = my_word
 			entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
 			tallies[lang] += 1

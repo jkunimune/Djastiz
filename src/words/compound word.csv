@@ -458,7 +458,7 @@ do statistics; SBJ {statistician} studies data to learn about OBJ {statistics},,
 do hydrodynamics; SBJ {hydrodynamicist} studies the motion of fluids to learn about OBJ {hydrodynamics},,be-fluid move study,nilumopesoma
 do magnetohydrodynamics; SBJ {magnetohydrodynamicist} studies the motion of conductive fluids in magnetic fields to learn about OBJ {magnetohydrodynamics},,be-magnetic be-fluid move study,mihutatunilumopesoma
 do thermomagnetohydrodynamics; SBJ {thermomagnetohydrodynamicist} studies the heat transfer of conductive fluids in magnetic fields to learn about OBJ {thermomagnetohydrodynamics},,be-hot be-magnetic be-fluid move study,okumihutatunilumopesoma
-metastudy; SBJ {metascientist} studies the scientific method and establishment,,study study,somasoma
+metastudy; SBJ {metascientist} metastudies OBJ {qualities of the scientific method and establishment},,study study,somasoma
 eat breakfast; breakfast; SBJ {fast-breaker} eats OBJ {breakfast} {TIME:breakfast time},,sun begin eat,sunkinyama
 eat brunch; brunch; SBJ {bruncher} eats OBJ {brunch} {TIME:brunchtime},,be-early sun eat,citusunnyama
 eat lunch; lunch; SBJ {luncher} eats OBJ {lunch} {TIME:lunchtime},,sun eat,sunnyama
@@ -595,7 +595,7 @@ break up; stop going out; SBJ makes OBJ stop dating IND,,CESSATIVE OF date,amiyo
 legacy,,person future,canhulilon
 twin; triplet; quadruplet,,be-similar sibling,umasolomamalon
 be lucky; be fortunate; that OBJ happens is lucky,,want be-unlikely,caihiku
-be unlicky; be unfortunate; that OBJ happens is unlucky,,dislike be-unlikely,hauhiku
+be unlucky; be unfortunate; that OBJ happens is unlucky,,dislike be-unlikely,hauhiku
 meteor; meteorite,,outer-space stone,taykunpatulon
 asteroid,,sun outer-space stone,suntaykunpatulon
 stilt,,be-high leg,macelek
