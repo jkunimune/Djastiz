@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.ERROR)
+logging.basicConfig(level=logging.INFO)
 
 
 DIACRITIC_GUIDE = {
@@ -571,7 +571,7 @@ def fill_blanks(my_words, real_words):
 		if ' OF ' in entry['source']: # derive their derivatives
 			d_type, d_gloss = entry['source'].split(' OF ')
 			assert my_words[d_gloss]['ltl'], entry['source']
-			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words, 'ANTONYM' in entry['derivatives'])
+			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words, 'ANTONYM' in my_words[d_gloss]['derivatives'])
 			all_ltl_words.add(entry['ltl'].replace('y','i').replace('w','u'))
 
 		elif entry['partos'] in ['noun','verb'] and entry['ltl'] == '': # make up words for any noun or verb that needs it
@@ -642,7 +642,7 @@ if __name__ == '__main__':
 	verify_words(all_words)
 	logging.info(json.dumps(all_words, indent=2))
 	analyse_dictionary(all_words)
-	# save_dictionary(all_words, 'words')
+	save_dictionary(all_words, 'words')
 	format_dictionary(all_words, '../Dictionaries')
 	hist = measure_corpus('../Example Texts')
 	for word, count in hist.most_common(36):

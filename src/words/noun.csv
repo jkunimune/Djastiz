@@ -3,7 +3,7 @@ notion; idea; not necessarily true or objective {GENITIVE:conceptual; ideal},,hi
 point; a particular time or place {GENITIVE:particular; local},,hin <बिंदु> [bindu],pin
 path; line; curve {GENITIVE:linear; curvilinear},,eng <path> [pʰæθ],pas
 surface; plane; layer {GENITIVE:planar; superficial; facial},,swa <uso> [uso],us
-region; volume; interval {GENITIVE:regional; volumetric; periodic},,spa <región> [reˈxjon],lehyon
+region; volume; interval {GENITIVE:regional; volumetric; periodic},,ben <এলাকা> [el̪aka],elak
 stick; rod; limb,,cmn <棒> [pɑŋ˥˩],pan
 string; thread; wire; hair; thread,,cmn <线> [ɕjɛn˥˩],cyen
 plate; board; wall,,OPPOSITE OF string,hwok
@@ -32,23 +32,23 @@ mountain {GENITIVE:mountainous; montanical},,epo <monto> [ˈmonto],mon
 valley {GENITIVE:valley},,OPPOSITE OF mountain,pek
 settlement; *city; town; village {GENITIVE:urban; villestial},,cmn <市> [ʂɨ˥˩],cih
 state; *country; polity {GENITIVE:political; national},,hin <देश> [deʃ],tec
-storm; tempest {GENITIVE:stormy; cyclonical},,hin <आंधी> [aːnd̤iː],an
+storm; tempest {GENITIVE:stormy; cyclonical},,ben <ঝড়> [d͡ʑ̤ɔɽɔ],col
 art {GENITIVE:artistic},,eng <art> [ɑɹt],at
 sentence {GENITIVE:sentential},,msa <ayat> [ajat],ayat
 word {GENITIVE:lexical; literal},,cmn <字> [t͡sɯ˥˩],suh
 letter; phoneme {GENITIVE:epistolary; alphabetical; phonemic},*letra,cmn <字母> [t͡sɯ˥˩mu˧˩˧],sum
-home {GENITIVE:domestic},,hin <होम> [ɦom],hom
+home {GENITIVE:domestic},,eng <home> [hoʊ̯m],hom
 furniture,,spa <mueble> [ˈmweβle],mwel
-body; chassis {GENITIVE:bodily; physical; corporal},,eng <body> [ˈbɑɾiː],pat
-spirit; soul,,OPPOSITE OF body,mal
+body; chassis {GENITIVE:bodily; physical; corporal},,jav <awak> [awak],awak
+spirit; soul,,OPPOSITE OF body,ayan
 hair {GENITIVE:pilar; hairy},,ben <চুল> [t͡ɕul̪],cul
 face {GENITIVE:facial},,ben <মুখ> [mukʰ],muk
 head {GENITIVE:cranial; cephalic},,hin <सिर> [sir],sil
 torso {GENITIVE:torsal},,ben <ধড়> [d̪̤ɔɽɔ],tol
 arm {GENITIVE:brachial; appendicular},,eng <arm> [ɑɹm],am
-hand {GENITIVE:manual},,cmn <手> [ʂoʊ̯˧˩˧],coh
-finger; toe {GENITIVE:digital},,mar <बोट> [boʈ],pot
-buttocks; butt; bum {GENITIVE:gluteal; posterial},,fil <pigi> [piɡi],pik
+hand {GENITIVE:manual},,epo <mano> [ˈmano],man
+finger; toe {GENITIVE:digital},,cmn <手指> [ʂoʊ̯˧˩˧ʈ͡ʂɨ˧˩˧],coc
+buttocks; butt; bum {GENITIVE:gluteal; posterial},,eng <butt> [bət],pat
 leg; appendage {GENITIVE:crural; appendicular},,eng <leg> [lɛɡ],lek
 gland; organ; node {GENITIVE:glandular; nodal; bodily; internal},,yor <ẹṣẹ> [ɛʃɛ],ec
 female; woman {GENITIVE:female},,epo <ino> [ˈino],in
@@ -59,7 +59,7 @@ scale; squame; flake {GENITIVE:squamous; scaly},*escama,cmn <鳞> [lin˧˥],lin
 feather {GENITIVE:plumal; feathery; feathered},,jav <wulu> [wulu],ul
 egg {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],tan
 seed {GENITIVE:seminal},,hin <बीज> [biːd͡ʒ],pic
-leaf; blade of grass {GENITIVE:foliar; leafy},,cmn <叶> [jɛ˥˩],yeh
+leaf; blade of grass {GENITIVE:foliar; leafy},,spa <hoja> [ˈoxa],oh
 fruit {GENITIVE:pomonal; fruity},,eng <fruit> [fɹʷuːt],fut
 root {GENITIVE:radical; rooted},,pan <ਰੂਟ> [ɾuʈ],lut
 stem; trunk; treetrunk {GENITIVE:basal; stemular; trunkular},,epo <tigo> [ˈtiɡo],tik
@@ -69,7 +69,7 @@ rice {GENITIVE:rozal; ricey},,cmn <饭> [fan˥˩],fan
 corn; maize {GENITIVE:cornly; corny},,spa <maíz> [maˈis],mais
 wheat {GENITIVE:wheaten},,eng <wheat> [wiːt],wit
 soy; soybean {GENITIVE:sojan},,spa <soja> [ˈsoxa],soh
-tomato {GENITIVE:tomatan},,epo <tomato> [toˈmato],tomat
+tomato {GENITIVE:tomatan},,jav <tomat> [tomat],tomat
 grape {GENITIVE:vineal},,spa <uva> [ˈuβa],up
 apple {GENITIVE:pomaceous},,hin <सेब> [seb],sep
 information; notion; data; number {GENITIVE:informational; theoretical},,cmn <信息> [ɕin˥˩ɕi˥],cin
@@ -79,18 +79,18 @@ culture; nation {GENITIVE:cultural; national},,sho <tsika> [t͡sika],sik
 layout; topography; geography {GENITIVE:topographical; geographical},,pan <ਖਾਕਾ> [kʰɑkɑ],kak
 computer {GENITIVE:digital; electronic; computerised},,xho <khomputha> [kʰɔmputʰa],komput
 animal; meat {GENITIVE:animal; meaty},,cmn <动物> [tʊ̯ŋ˥˩u˥˩],tun
-plant; vegetable {GENITIVE:botanical; vegetal},,ben <উদ্ভিদ> [ud̪b̤id̪],utpit
+plant; vegetable {GENITIVE:botanical; vegetal},,hin <पौधा> [pɔːd̤aː],pot
 fungus {GENITIVE:fungal; fungic; fungous},,cmn <菌> [t͡ɕyn˥],ciwn
 primate; monkey; ape {GENITIVE:simian},,ono [u ki ki],kukim
 rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew {GENITIVE:murine},,cmn <啮齿> [njɛ˥˩ʈ͡ʂʰɨ˧˩˧],nyec
 feline; cat {GENITIVE:feline},,ono [mjaw],mjawf
 canine; dog; wolf; dingo; and fox {GENITIVE:canine},,ono [baw waw wof],pawawf
-bear {GENITIVE:ursine},,pan <ਰਿੱਛ> [ɾɪːt͡ʃʰ],lic
+bear {GENITIVE:ursine},,spa <oso> [ˈoso],os
 seal; includes walruses and maybe sea lions I think?,,mar <शिक्का> [ɕikkaː],cik
 musteloidea; red panda; skunk; *raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine,,cmn <狸> [li],lih
 equine; horse; zebra; wild butt {GENITIVE:equine},,ono [hi hi],hihin
 tapir,,spa <tapir> [taˈpir],tapil
-rhinoceros,,pan <ਗੈਂਡੇ> [ɡɛ̃ɖe],ken
+rhinoceros,,pan <ਗੈਂਡਾ> [ɡɛ̃ɖɑ],ken
 camel; llama; alpaca; guanaco,,ben <উট> [ut],ut
 swine; boar; *pig; pork {GENITIVE:swine},,pan <ਸੂਰ> [suɾ],sul
 giraffe; okapi,,hin <जिराफ़> [d͡ʒiraːf],cilaf
@@ -117,7 +117,7 @@ crocodilian; *crocodile; alligator,,nya <ng&#39;ona> [ŋona],non
 turtle; tortoise; terrapin,,cmn <龟> [kweɪ̯˥],kweh
 frog; toad,,ono [kwak kwak],kwakwam
 fish {GENITIVE:pescous; aquatic},,spa <pez> [pes],pes
-carp; koi; catfish; loach; minnow; herring; tetra,,hin <काप> [kaːp],kap
+carp; koi; catfish; loach; minnow; herring; tetra,,eng <carp> [kʰɑɹp],kap
 salmon; trout; pike; dragonfish; smelt,,epo <salmo> [ˈsalmo],sal
 tuna; tunafish; mackerel,,spa <atún> [aˈtun],atun
 shark,,eng <shark> [ʃɑɹk],cak
@@ -136,15 +136,15 @@ butterfly; moths,,hin <तितली> [titliː],til
 wasp,,ibo <wep> [wep],wep
 ant,,cmn <蚂蚁> [ma˧˩˧i˧˩˧],maih
 bee,,ono [zum zum],susum
-cricket; grasshopper; tatydids,,eng <cricket> [ˈkʰɹʷɪkɪt],kwikit
+cricket; grasshopper; tatydids,,hin <क्रिकेट> [krikeʈ],ikliket
 cockroach; roach; termite,,fil <ipis> [ipis],ipis
 mantis,,cmn <螂> [lɑŋ˧˥],lan
 earwig; dermapteran,,eng <earwig> [ˈɪɹwɪɡ],iwik
-worm,,fil <uod> [uod],uot
+worm,,hin <कीड़ा> [kiːɽaː],kil
 slug; land slug,,spa <babosa> [baˈβosa],papos
 nautilus,,epo <naŭtilo> [nawˈtilo],nawtil
 sea *anemone,,epo <anemono> [aneˈmono],anemon
-jellyfish,,spa <medusa> [meˈðusa],metus
+jellyfish,,epo <meduzo> [meˈduzo],metus
 mushroom; toadstool,,cmn <蘑菇> [mwɔ˧˥ku],mwok
 bacterium,,hin <जीवाणु> [d͡ʒiːvaːɳu],ciwan
 virus,,spa <virus> [ˈbiɾus],pilus
@@ -155,4 +155,4 @@ cactus,,epo <kakto> [ˈkakto],kat
 bulrush; reed; cattail; typha,,cmn <香蒲> [ɕjɑŋ˥pʰu˧˥],cyan
 grass; seagrass; rush; sedge,,hin <घास> [ɡ̤aːs],kas
 bamboo,,cmn <竹> [ʈ͡ʂu˧˥],cuh
-machine; robot; automaton,,epo <maŝino> [maˈʃino],macin
+machine; robot; automaton,,ben <মেশিন> [meɕin̪],mecin
