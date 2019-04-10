@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.ERROR)
 
 
 DIACRITIC_GUIDE = {
@@ -59,8 +59,8 @@ ALLOWED_CHANGES = [
 	('iɪɨ', 'i'),
 	('oɔɒ', 'o'),
 	('uʊʉɯ', 'u'),
-	('mɱ', 'm'),
-	('nɳŋɴ', 'n'),
+	('mᵐɱᶬ', 'm'),
+	('nⁿɳŋᵑɴ', 'n'),
 	('ɲ', 'ny'),
 	('pbɓ', 'p'),
 	('tdʈɖɗ', 't'),
