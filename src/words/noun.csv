@@ -47,12 +47,12 @@ head {GENITIVE:cranial; cephalic},,hin <सिर> [sir],sil
 torso {GENITIVE:torsal},,ben <ধড়> [d̪̤ɔɽɔ],tol
 arm {GENITIVE:brachial; appendicular},,eng <arm> [ɑɹm],am
 hand {GENITIVE:manual},,cmn <手> [ʂoʊ̯˧˩˧],coh
-finger; toe {GENITIVE:digital},,cmn <手指> [ʂoʊ̯˧˩˧ʈ͡ʂɨ˧˩˧],coc
-buttocks; butt; bum {GENITIVE:gluteal; posterial},,eng <butt> [bət],pat
+finger; toe {GENITIVE:digital},,mar <बोट> [boʈ],pot
+buttocks; butt; bum {GENITIVE:gluteal; posterial},,fil <pigi> [piɡi],pik
 leg; appendage {GENITIVE:crural; appendicular},,eng <leg> [lɛɡ],lek
 gland; organ; node {GENITIVE:glandular; nodal; bodily; internal},,cmn <腺> [ɕjɛn˥˩],cyen
-female; woman {GENITIVE:female},,epo <femalo> [feˈmalo],femal
-male; man {GENITIVE:male},,OPPOSITE OF female,sopat
+female; woman {GENITIVE:female},,eng <female> [ˈfiːmeɪ̯ɫ],fimel
+male; man {GENITIVE:male},,OPPOSITE OF female,supot
 chest; breast; bussom {GENITIVE:chestal; mamillary},,hin <छाती> [t͡ʃʰaːtiː],cat
 claw; quill; fingernail; {GENITIVE:ungual; sharp},,spa <garra> [ˈɡara],kal
 scale; squame; flake {GENITIVE:squamous; scaly},*escama,cmn <鳞> [lin˧˥],lin
@@ -79,7 +79,7 @@ culture; nation {GENITIVE:cultural; national},,sho <tsika> [t͡sika],sik
 layout; topography; geography {GENITIVE:topographical; geographical},,pan <ਖਾਕਾ> [kʰɑkɑ],kak
 computer {GENITIVE:digital; electronic; computerised},,xho <khomputha> [kʰɔmputʰa],komput
 animal; meat {GENITIVE:animal; meaty},,cmn <动物> [tʊ̯ŋ˥˩u˥˩],tun
-plant; vegetable {GENITIVE:botanical; vegetal},,hin <पौधा> [pɔːd̤aː],pot
+plant; vegetable {GENITIVE:botanical; vegetal},,ben <উদ্ভিদ> [ud̪b̤id̪],utpit
 fungus {GENITIVE:fungal; fungic; fungous},,cmn <菌> [t͡ɕyn˥],ciwn
 primate; monkey; ape {GENITIVE:simian},,ono [u ki ki],kukim
 rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew {GENITIVE:murine},,cmn <啮齿> [njɛ˥˩ʈ͡ʂʰɨ˧˩˧],nyec
@@ -90,9 +90,9 @@ seal; includes walruses and maybe sea lions I think?,,jav <segel> [seɡel],sekel
 musteloidea; red panda; skunk; *raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine,,cmn <狸> [li],lih
 equine; horse; zebra; wild butt {GENITIVE:equine},,ono [hi hi],hihin
 tapir,,spa <tapir> [taˈpir],tapil
-rhinoceros,,cmn <犀牛> [ɕi˥njoʊ̯˧˥],cinyoh
-camel; llama; alpaca; guanaco,,ben <উট> [ut],ut
-swine; boar; *pig; pork {GENITIVE:swine},,pan <ਸੂਰ> [suɾ],sul
+rhinoceros,,msa <badak> [badak],patak
+camel; llama; alpaca; guanaco,,pan <ਊਠ> [uʈʰ],ut
+swine; boar; *pig; pork {GENITIVE:swine},,cmn <猪> [ʈ͡ʂu˥],cuh
 giraffe; okapi,,hin <जिराफ़> [d͡ʒiraːf],cilaf
 bovine; cow; beef;buffalo; antelope; sheep; mutton; goat; ,,ono [muː],mum
 hippopotamus,,sot <holo> [holo],hol
@@ -128,10 +128,10 @@ spider,,cmn <蜘蛛> [ʈ͡ʂɨ˥ʈ͡ʂu˥],cic
 scorpion,,yor <ilọ-ara> [ilɔ-ara],iloal
 crustacean; *crab; lobster,,eng <crab> [kʰɹʷæb],kwap
 barnacle; copepod,,yor <ọwọn> [ɔwɔ̃],owon
-beetle,,ibo <ebe> [ebe],ep
+beetle,,cmn <甲虫> [t͡ɕja˧˩˧ʈ͡ʂʰʊ̯ŋ˧˥],cyacun
 mosquito,,ben <মশা> [mɔɕa],moc
 fly; *housefly; gnat; midge,mosca,epo <muŝo> [ˈmuʃo],muc
-flea,,msa <loak> [loak],loak
+flea,,ben <মাছি> [mat͡ɕʰi],mac
 butterfly; moths,,cmn <蝴蝶> [xu˧˥tjɛ˧˥],hutyeh
 wasp,,ibo <wep> [wep],wep
 ant,,cmn <蚂蚁> [ma˧˩˧i˧˩˧],maih
@@ -154,5 +154,5 @@ tree,,ben <গাছ> [ɡat͡ɕʰ],kac
 cactus,,spa <cactus> [ˈkaktus],kaktus
 bulrush; reed; cattail; water sausage; typha,,epo <tifao> [tiˈfao],tifaoh
 grass; seagrass; rush; sedge,,hin <घास> [ɡ̤aːs],kas
-bamboo,,cmn <竹> [ʈ͡ʂu˧˥],cuh
+bamboo,,msa <buluh> [buluh],puluh
 machine; robot; automaton,,epo <maŝino> [maˈʃino],macin

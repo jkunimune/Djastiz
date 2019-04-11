@@ -18,9 +18,9 @@ eng,spa,source,ltl
 "E; 14; fourteen; only used for hexadecimal {GENITIVE:fourteenth}","14; catorce",OPPOSITE OF 2,lef
 "F; 15; fifteen; only used for hexadecimal {GENITIVE:fifteenth}","15; quince",OPPOSITE OF 1,nak
 "G; 16; sixteen; only used to describe hexadecimal {GENITIVE:sixteenth}","16; dieciseis",eng <hex> [hɛks],hes
-"much; many",mucho; muchos,jav <akeh> [akeh],keh
+"much; many; very",mucho; muchos,jav <akeh> [akeh],keh
 "several; some; few; handful; medium; (1, radix]","unos; (1, base]",spa <vario> [ˈβaɾjo],pal
-"little; few",poco; pocos,OPPOSITE OF much,noc
+"little; few; slight",poco; pocos,OPPOSITE OF much,noc
 "all; absolute; maximum {GENITIVE:last; universal}",todo; todos; absoluto; máximo,OPPOSITE OF 0,kit
 "universalise; popularise; permeate; pervade; SBJ causes OBJ to become everything",popularizar; permear; SBJ hace que OBJ se convierta en todo,,kitki
 "point; radix point",punto; punto be base,cmn <點> [tjɛn˧˩˥],tyen

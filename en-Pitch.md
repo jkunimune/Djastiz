@@ -16,3 +16,5 @@ Rather than valuing naturalism, Oltilip maximises international learnability, ut
 
 For the linguisticly inclined, here is a summary of Oltilip's characteristics:
 	- 
+
+And just in case that hasn't convinced you, I've saved the most compelling advantange to Oltilip yet: because of its stative verbs, the sentence "I am hungry" can _never_ be interpreted as "My name is hungry"!
