@@ -10,10 +10,10 @@ ant,ant,ænt,ænt
 apple,apple,ˈæpəl,ˈæpəɫ
 arm,arm,ɑɹm,ɑɹm
 art,art,ɑɹt,ɑɹt
-bacterium,bacteria,bækˈtɪɹʷiə,bækˈtʰɪɹʷiə
+bacterium,bacteria,bækˈtɪəɹʷiə,bækˈtʰɪɹʷiə
 bamboo,bamboo,bæmˈbu,bæmˈbuː
 barnacle,barnacle,ˈbɑɹnəkəl,ˈbɑɹnəkəɫ
-bear,bear,bɛɹ,bɛɹ
+bear,bear,bɛəɹ,bɛɹ
 beetle,beetle,ˈbitəl,ˈbiːɾəɫ
 below,below,bɪˈloʊ̯,bɪˈloʊ̯
 between,between,bɪtˈwin,bɪtˈwiːn
@@ -54,14 +54,14 @@ crab,crab,kɹʷæb,kʰɹʷæb
 cricket,cricket,ˈkɹʷɪkɪt,ˈkʰɹʷɪkɪt
 crocodile,crocodile,ˈkɹʷɑkəˌdɑɪ̯l,ˈkʰɹʷɑkəˌdɑɪ̯ɫ
 crystal,crystal,ˈkɹʷɪstəl,ˈkʰɹʷɪstəɫ
-culture,culture,ˈkəlt͡ʃəɹ,ˈkʰəɫt͡ʃɚ
+culture,culture,ˈkʊlt͡ʃəɹ,ˈkʰʊɫt͡ʃɚ
 cupped,cupped,ˈkəpt,ˈkʰəpt
 damaged,damaged,ˈdæmɪd͡ʒd,ˈdæmɪd͡ʒd
 dense,dense,dɛns,dɛns
 derecha,right,ɹʷɑɪ̯t,ɹʷəɪ̯t
 descansar,rest,ɹʷɛst,ɹʷɛst
 different,different,ˈdɪfəɹʷənt,ˈdɪfɚɹʷənt
-earwig,earwig,ˈɪɹwɪɡ,ˈɪɹwɪɡ
+earwig,earwig,ˈɪəɹwɪɡ,ˈɪɹwɪɡ
 east,east,ist,iːst
 easy,easy,ˈizi,ˈiːziː
 egg,egg,ɛɡ,ɛɡ
@@ -97,16 +97,16 @@ good,good,ɡʊd,ɡʊd
 grain,grain,ɡɹʷeɪ̯n,ɡɹʷeɪ̯n
 grape,grape,ɡɹʷeɪ̯p,ɡɹʷeɪ̯p
 grass,grass,ɡɹʷæs,ɡɹʷæs
-grateful,grateful,ˈɡɹʷeɪ̯tfəl,ˈɡɹʷeɪ̯tfəɫ
+grateful,grateful,ˈɡɹʷeɪ̯tfʊl,ˈɡɹʷeɪ̯tfəɫ
 green,green,ɡɹʷin,ɡɹʷiːn
 grey,grey,ɡɹʷeɪ̯,ɡɹʷeɪ̯
 ground,ground,ɡɹʷaʊ̯nd,ɡɹʷaʊ̯nd
-hair,hair,hɛɹ,hɛɹ
+hair,hair,hɛəɹ,hɛɹ
 hand,hand,hænd,hænd
 happy,happy,ˈhæpi,ˈhæpiː
 head,head,hɛd,hɛd
 healthy,healthy,ˈhɛlθi,ˈhɛɫθiː
-hear,hear,hɪɹ,hɪɹ
+hear,hear,hɪəɹ,hɪɹ
 heavy,heavy,ˈhɛvi,ˈhɛviː
 high-pitched,high,hɑɪ̯,hɑɪ̯
 hippopotamus,hippopotamus,ˌhɪpoʊ̯ˈpɒtəməs,ˌhɪpəˈpʰɒɾəməs
@@ -138,8 +138,8 @@ machine,machine,məˈʃin,məˈʃiːn
 magical,magical,ˈmæd͡ʒɪkəl,ˈmæd͡ʒɪkəɫ
 mammal,mammal,ˈmæməl,ˈmæməɫ
 mantis,mantis,ˈmæntɪs,ˈmæntɪs
-married,married,ˈmɛɹʷid,ˈmɛɹʷiːd
-material,material,məˈtɪɹʷiəl,məˈtʰɪɹʷiːəɫ
+married,married,ˈmɛəɹʷid,ˈmɛɹʷiːd
+material,material,məˈtɪəɹʷiəl,məˈtʰɪɹʷiːəɫ
 metal,metal,ˈmɛtəl,ˈmɛɾəɫ
 mixed,mixed,mɪkst,mɪkst
 moral,moral,ˈmɔɹʷəl,ˈmɔɹʷəɫ
@@ -166,7 +166,7 @@ person,person,ˈpəɹsən,ˈpʰɚsən
 pig,pig,pɪɡ,pʰɪɡ
 pigeon,pigeon,ˈpɪd͡ʒɪn,ˈpʰɪd͡ʒɪn
 plant,plant,plænt,pʰlænt
-pleasure,pleasure,ˈplɛʒəɹ,ˈpʰlɛʒɚ
+pleasure,pleasure,ˈplɛʒʊəɹ,ˈpʰlɛʒɚ
 point,point,pɔɪ̯nt,pʰɔɪ̯nt
 possible,can,kæn,kʰæn
 powder,powder,ˈpaʊ̯dəɹ,ˈpʰaʊ̯ɾɚ
@@ -181,21 +181,21 @@ recto,straight,stɹʷeɪ̯t,stɹʷeɪ̯t
 red,red,ɹʷɛd,ɹʷɛd
 region,region,ˈɹʷid͡ʒən,ˈɹʷiːd͡ʒən
 reptile,reptile,ˈɹʷɛptɑɪ̯l,ˈɹʷɛptɑɪ̯ɫ
-rhinoceros,rhinoceros,ɹʷɑɪ̯ˈnɒsəɹʷəs,ɹʷɑɪ̯ˈnɒsɚʷəs
+rhinoceros,rhinoceros,ɹʷɑɪ̯ˈnɒsəɹʷəs,ɹʷɑɪ̯ˈnɒsɚɹʷəs
 rice,rice,ɹʷɑɪ̯s,ɹʷəɪ̯s
 rodent,rodent,ˈɹʷoʊ̯dɛnt,ˈɹʷoʊ̯ɾənt
 root,root,ɹʷut,ɹʷuːt
 rotten,rotten,ˈɹʷɒtɛn,ˈɹʷɒɾən
 salmon,salmon,ˈsæmən,ˈsæmən
 salty,salty,ˈsɒlti,ˈsɒɫtiː
-savoury,savoury,ˈseɪ̯vɔɹʷi,ˈseɪ̯və˞ɹʷiː
+savoury,savoury,ˈseɪ̯vɔɹʷi,ˈseɪ̯vɚɹʷiː
 scorpion,scorpion,ˈskɔɹpiən,ˈskɔɹpiːən
 seal,seal,sil,siːɫ
 season,season,ˈsizən,ˈsiːzən
 see,see,si,siː
 seed,seed,sid,siːd
 sentence,sentence,ˈsɛntɛns,ˈsɛntəns
-serious,serious,ˈsɪɹʷiəs,ˈsɪɹʷiːəs
+serious,serious,ˈsɪəɹʷiəs,ˈsɪɹʷiːəs
 sex,sex,sɛks,sɛks
 shape,shape,ʃeɪ̯p,ʃeɪ̯p
 shark,shark,ʃɑɹk,ʃɑɹk
@@ -235,7 +235,7 @@ surface,surface,ˈsəɹfəs,ˈsɚfəs
 sweet,sweet,swit,swiːt
 tangible,tangible,ˈtænd͡ʒɪbəl,ˈtʰænd͡ʒəbəɫ
 tangled,tangled,ˈtæŋɡəld,ˈtʰæŋɡəɫd
-tapir,tapir,ˈteɪ̯pɪɹ,ˈtʰeɪ̯pɪɹ
+tapir,tapir,ˈteɪ̯pɪəɹ,ˈtʰeɪ̯pɪɹ
 taste,taste,teɪ̯st,tʰeɪ̯st
 technology,technology,tɛkˈnɒləd͡ʒi,tʰɛkˈnɒləd͡ʒiː
 tenso,tense,tɛns,tʰɛns
@@ -247,7 +247,7 @@ to act,act,ækt,ækt
 to anticipate,anticipate,ænˈtɪsəˌpeɪ̯t,ænˈtʰɪsəˌpeɪ̯t
 to believe,believe,bɪˈliv,bɪˈliːv
 to bounce,bounce,baʊ̯ns,baʊ̯ns
-to care,care,kɛɹ,kʰɛɹ
+to care,care,kɛəɹ,kʰɛɹ
 to choose,choose,t͡ʃuz,t͡ʃuːz
 to continue,continue,kənˈtɪnju,kʰənˈtʰɪnjuː
 to convert,convert,ˈkɒnvəɹt,ˈkʰɒnvɚt
@@ -256,10 +256,10 @@ to correspond,correspond,ˌkɔɹʷɛˈspɒnd,ˌkɔɹʷəˈspɒnd
 to cost,cost,kɒst,kʰɒst
 to deal,deal,dil,diːɫ
 to deserve,deserve,dɪˈzəɹv,dɪˈzɚv
-to engineer,engineer,ˌɛnd͡ʒɪˈnɪɹ,ˌɛnd͡ʒəˈnɪɹ
+to engineer,engineer,ˌɛnd͡ʒɪˈnɪəɹ,ˌɛnd͡ʒəˈnɪɹ
 to face,face,feɪ̯s,feɪ̯s
 to fall,fall,fɒl,fɒːɫ
-to fear,fear,fɪɹ,fɪɹ
+to fear,fear,fɪəɹ,fɪɹ
 to feel,feel,fil,fiːɫ
 to fight,fight,fɑɪ̯t,fəɪ̯t
 to fly,fly,flɑɪ̯,flɑɪ̯
@@ -304,14 +304,14 @@ to step,step,stɛp,stɛp
 to study,study,ˈstədi,ˈstəɾiː
 to surprise,surprise,səɹˈpɹʷɑɪ̯z,səˈpʰɹʷɑɪ̯z
 to surround,surround,səɹʷaʊ̯nd,sɚʷaʊ̯nd
-to take care,take care,teɪ̯k kɛɹ,tʰeɪ̯k kʰɛɹ
+to take care,take care,teɪ̯k kɛəɹ,tʰeɪ̯k kʰɛɹ
 to think,think,θɪŋk,θɪŋk
 to touch,touch,tət͡ʃ,tʰət͡ʃ
 to try,try,tɹʷɑɪ̯,tʰɹʷɑɪ̯
 to understand,understand,ˌəndəɹˈstænd,ˌəndɚˈstænd
 to wait,wait,weɪ̯t,weɪ̯t
 to want,want,wɒnt,wɒnt
-to wear,wear,wɛɹ,wɛɹ
+to wear,wear,wɛəɹ,wɛɹ
 to win,win,wɪn,wɪn
 to work,work,wəɹk,wɚk
 to worry,worry,ˈwəɹʷi,ˈwɚɹʷiː

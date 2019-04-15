@@ -377,10 +377,12 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 
 	for i, ((lang, orthography, narrow, reduced, changes), score) in enumerate(zip(options, scores)):
 		score -= 1.0*len(reduced)**2 # prefer shorter words
-		for lang2, _, _, reduced2, _ in options:
-			for c1, c2 in zip(reduced, reduced2): # prefer words that are similar in other major languages
-				if c1 == c2:														score += 6.0*DESIRED_FRAC[lang2]
-				elif is_consonant(c1, ipa=False) or is_consonant(c2, ipa=False):	break
+		for lang2, _, _, reduced2, _ in options: # prefer words that are similar in other major languages
+			if lang2 != lang:
+				for is_important in [(lambda c: True), (lambda c: is_consonant(c, ipa=False))]: # measuring similarity as number of matching letters, and number of
+					for c1, c2 in zip([c for c in reduced if is_important(c)], [c for c in reduced2 if is_important(c)]): # matching consonants
+						if c1 == c2:	score += 3.0*DESIRED_FRAC[lang2]
+						else:			break
 		scores[i] = score
 
 	if np.isfinite(max(scores)):
