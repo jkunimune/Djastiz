@@ -61,15 +61,12 @@ ALLOWED_CHANGES = [
 	('uʊʉɯ', 'u'),
 	('mᵐɱᶬ', 'm'),
 	('nⁿɳŋᵑɴ', 'n'),
-	('ɲ', 'ny'),
 	('pbɓ', 'p'),
 	('tdʈɖɗ', 't'),
-	('cɟʄ', 'ky'),
 	('kɡɠq', 'k'),
 	('fɸ', 'f'),
 	('θsz', 's'),
 	('ʃʒɕʑʂʐ', 'c'),
-	('ç', 'hy'),
 	('xχħhɦ', 'h'),
 	('wʷɰ', 'w'),
 	('jʲʎ', 'y'),
@@ -84,10 +81,15 @@ RESTRICTED_CHANGES = [
 	('œø', 'ew'),
 	('ǃǀ', 't'),
 	('ǁ', 'k'),
-	('ʄ', 'ky'),
+	('ǂ', 'ky'),
 	('ð', 's'),
 	('ɣʁʀ', 'h'),
 	('ʔʕ', ''),
+]
+PALATAL_CHANGES = [
+	('ɲ', 'ny'),
+	('cɟʄ', 'ky'),
+	('ç', 'hy'),
 ]
 
 PHONEME_TABLE = ['eaoiu', 'yw', 'h', 'ktp', 'f', 'cs', 'nm', 'l'] # the lawnsosliel phonemes, arranged by strength
@@ -213,6 +215,14 @@ def reduce_phoneme(phoneme, before='', after=''):
 			return 'l', 0 # use 'l' when intervocalic or initial and prevocalic
 		else:
 			return '', 0 # otherwise it's better as nothing
+	if phoneme in ['ɲ','c','ɟ','ç','ʄ']:
+		for fulls, reduced in PALATAL_CHANGES:
+			if phoneme in fulls:
+				default = reduced # palatals tend to be transcribed as an alveolar plus a [j]
+		if is_consonant(after):
+			return default[0], 0 # unless they come before a consonant, in which case that's not needed
+		else:
+			return default, 0
 	if phoneme == '̃':
 		return 'm' if after in ['p','f'] else 'n', 0 # nasal vowels can be n or m
 	if unicodedata.combining(phoneme):
@@ -332,7 +342,7 @@ def legal_new_word(word, all_words, has_antonym, lang='', ipa=''):
 	if test_word in all_words:
 		logging.debug("{}'s {} ({}) is already a word".format(lang, test_word, ipa))
 		return False # make sure it doesn't collide; if it does, don't add it to the list
-	for suffix in ['ki','nu','nyo','kwe','powi','calu']:
+	for suffix in ['ki','nu','nyo','kwe','powi','calu','ak','lon','les','lum']:
 		if test_word != suffix and test_word.endswith(suffix):
 			logging.debug("'{}' sounds kind of like it has a {} derivative".format(test_word, suffix))
 			return False
