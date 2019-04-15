@@ -15,8 +15,8 @@ LANG_CODES = {
 	'zh-CN', 'es', 'eo', 'en', 'hi', 'bn', 'ar', 'pa', 'jv', 'yo',
 	'mr', 'ms', 'ig', 'tl', 'sw', 'zu', 'ny', 'xh', 'sn', 'st'}
 EPITRANSLATORS = {lang:epitran.Epitran(script) for lang, script in
-	[('hi','hin-Deva'), ('bn','ben-Beng'), ('pa','pan-Guru'), ('jv','jav-Latn'),
-	 ('yo','yor-Latn'), ('mr','mar-Deva'), ('ms','msa-Latn'), ('tl','tgl-Latn'), ('sw','swa-Latn'),
+	[('hi','hin-Deva'), ('bn','ben-Beng'), ('pa','pan-Guru'), ('yo','yor-Latn'),
+	 ('mr','mar-Deva'), ('ms','msa-Latn'), ('tl','tgl-Latn'), ('sw','swa-Latn'),
 	 ('zu','zul-Latn'), ('ny','nya-Latn'), ('xh','xho-Latn'), ('sn','sna-Latn')]}
 
 
@@ -358,6 +358,56 @@ def read_sotho(word):
 	return broad, narrow # here come the allophoooooooooooooooooooooooones
 
 
+JAVA_DIGRAPHS = {
+	'ny':'ɲ', 'nc':'ɲt͡ʃ', 'nj':'ɲd͡ʒ', 'ng':'ŋ', 'kh':'x', 'sy':'ʃ', 'ai':'aj', 'th':'ʈ', 'dh':'ɖ'}
+JAVA_MONOGRAPHS = {
+	'a':'ɑ', 'e':'ə', 'é':'e', 'g':'ɡ', 'y':'j', 'c':'t͡ʃ', 'j':'d͡ʒ', 's':'ʂ', 'l':'ɭ', 'r':'ɽ'}
+
+def read_javanese(word):
+	broad = ""
+	i = 0
+	while i < len(word):
+		if i+1 < len(word) and word[i:i+2] in JAVA_DIGRAPHS:
+			broad += JAVA_DIGRAPHS[word[i:i+2]]
+			i += 2
+		elif word[i] in JAVA_MONOGRAPHS:
+			broad += JAVA_MONOGRAPHS[word[i]]
+			i += 1
+		else:
+			broad += word[i]
+			i += 1
+
+	narrow = ""
+	for i, c in enumerate(broad):
+		if c in 'bdɖɡ':
+			narrow += {'b':'p','d':'t','ɖ':'ʈ','ɡ':'k'}[c]
+		elif c in 'iu':
+			if (i+1 == len(broad)-1 and broad[i+1] not in 'ɑeiouə') or \
+					(i+2 < len(broad) and broad[i+1] not in 'ɑeiouə' and broad[i+2] not in 'ɑeiouə'):
+				narrow += {'i':'ɪ','u':'ʊ'}[c]
+			else:
+				narrow += c
+		elif c in 'eo':
+			if (i+1 == len(broad)-1 and broad[i+1] not in 'ɑeiouə') or \
+					(i+2 < len(broad) and broad[i+1] not in 'ɑeiouə' and broad[i+2] not in 'ɑeiouə') or \
+					(i+2 < len(broad) and (broad[i+2] == 'ə' or broad[i+2] == c)) or \
+					(i+2 < len(broad) and broad[i+2] in 'iu' and (i+3 == len(broad) or (i+3 < len(broad) and broad[i+3] in 'ɑeiouə'))):
+				narrow += {'e':'ɛ','o':'ɔ'}[c]
+			else:
+				narrow += c
+		elif c == 'ɑ':
+			if i+1 == len(broad) or (i+3 == len(broad) and broad[i+2] == 'ɑ'):
+				narrow += 'ɔ'
+			else:
+				narrow += 'ɑ'
+		else:
+			narrow += c
+		if c in 'ɑeiouə' and i-1 >= 0 and broad[i-1] in 'bdɖɡ':
+			narrow += '̤'
+
+	return broad, narrow
+
+
 def read(orthography, broad, lang):
 	""" Convert a word in a language to IPA, usually straight from the orthography,
 		but using a broad transcription as well in cases like Arabic. """
@@ -375,6 +425,8 @@ def read(orthography, broad, lang):
 		return read_igbo(orthography)
 	elif lang == 'st':
 		return read_sotho(orthography)
+	elif lang == 'jv':
+		return read_javanese(orthography)
 	else:
 		epitranslated = EPITRANSLATORS[lang].transliterate(orthography.replace('&#39;',"'")) # TODO: epitran kind of sucks at Bengali... maybe I should do it myself
 		if any([symb in epitranslated for symb in ['ऑ','ॉ','ऍ','ॅ']]): # I'm pretty sure this means it just didn't know how to say that in that language
