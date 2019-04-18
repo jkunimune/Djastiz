@@ -361,7 +361,7 @@ def read_sotho(word):
 JAVA_DIGRAPHS = {
 	'ny':'ɲ', 'nc':'ɲt͡ʃ', 'nj':'ɲd͡ʒ', 'ng':'ŋ', 'kh':'x', 'sy':'ʃ', 'ai':'aj', 'th':'ʈ', 'dh':'ɖ'}
 JAVA_MONOGRAPHS = {
-	'a':'ɑ', 'e':'ə', 'é':'e', 'g':'ɡ', 'y':'j', 'c':'t͡ʃ', 'j':'d͡ʒ', 's':'ʂ', 'l':'ɭ', 'r':'ɽ'}
+	'a':'ɑ', 'e':'ə', 'é':'e', 'è':'ɛ', 'g':'ɡ', 'y':'j', 'c':'t͡ʃ', 'j':'d͡ʒ', 's':'ʂ', 'l':'ɭ', 'r':'ɽ'}
 
 def read_javanese(word):
 	broad = ""
