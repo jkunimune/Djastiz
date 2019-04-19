@@ -55,7 +55,7 @@ Afghan; the Afgan people {GENITIVE:Afghan; from Afghanistan|COUNTRY:Afghanistan}
 Albanian; the Albanian people {GENITIVE:Albanian; from Albania|COUNTRY:Albania|LANGUAGE:Albanian; the Albanian language},,alb <Shqip> [ʃcip],'ickip
 American; the American people {GENITIVE:American; U.S.; from the U.S.|COUNTRY:the United States of America; U.S.A.; America},,eng <U.S.A.> [juː ɛs eɪ̯],'yuesey
 South African; the South African people {GENITIVE:South African; from South Africa|COUNTRY:South Africa},,xho <Mzansi> [m̩z̤ansi],'umsansi
-Algerian; the Algerian people {GENITIVE:Algerian; from Algeria|COUNTRY:Algeria},,ara <الدزاير> [ald͡zaːjiːr],'alsayil
+Algerian; the Algerian people {GENITIVE:Algerian; from Algeria|COUNTRY:Algeria|CITY:Algiers},,ara <الدزاير> [ald͡zaːjiːr],'alsayil
 Andorran; the Andorran people {GENITIVE:Andorran; from Andorra|COUNTRY:Andorra},,cat <Andorra> [ənˈdorə],'antola
 Angolan; the Angolan people {GENITIVE:Angolan; from Angola|COUNTRY:Angola},,por <Angola> [ɐ̃ˈɡɔlɐ],'ankola
 Antiguan; Barbudan; the Antiguan and Barbudan people {GENITIVE:Antiguan; Barbudan; from Antigua and Barbuda|COUNTRY:Antigua and Barbuda},,eng <Antigua and Barbuda> [æntiːɡə ən bɑːbjuːdə],'antikapapyuta
@@ -245,7 +245,7 @@ East Timor; the country {GENITIVE:Timorese; from East Timor},,tet <TODO> [timor 
 Togo; the country {GENITIVE:Togolese; from Togo},,fra <TODO> [togo],'toko
 Tonga; the country {GENITIVE:Tongan; from Tonga},,ton <TODO> [toŋa],'tona
 Trinidad and Tobago; the country {GENITIVE:Trinidadian; Tobagonian; from Trinidad and Tobago},,eng <Trinidad Tobago> [ˈtɹʷɪnɪdæd təˈbeɪ̯ɡəʊ̯],'twinitatapeykow
-Tunisia; the country {GENITIVE:Tunisian; from Tunisia},,ara <TODO> [tuːnis],'tunis
+Tunisian; the Tunisian people {GENITIVE:Tunisian; from Tunisia|COUNTRY:Tunisia|LANGUAGE:Tunisia; the Tunisian people|CITY:Tunis},,ara <تونس> [tuːnis],'tunis
 Turk; the Turkish people {GENITIVE:Turkish; Turkic; from Turkey|COUNTRY:Turkey|LANGUAGE:Turkish; the Turkish language},,tur <Türk> [tyɾk],'tiwlki
 Turkmenistan; the country {GENITIVE:Turkmen; from Turkmenistan},,tuk <TODO> [tyɾkmeniθtɑn],'tukmenistan
 Tuvalu; the country {GENITIVE:Tuvaluan; from Tuvalu},,tvl <TODO> [tuːvalu],'tufalu

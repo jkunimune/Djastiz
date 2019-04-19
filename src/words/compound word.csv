@@ -37,6 +37,7 @@ conlang; constructed language,,design language,ciestakitilip
 auxlang; international auxiliary language,,international language,kehtecaktilip
 artlang; artistic language,,art language,ictilip
 succeed; SBJ succeeds at making OBJ happen,,try do,cikweki
+mistake; have an accident; SBJ accidentally makes OBJ {mistake; accident} happen,,try no do,cinyokweki
 be correct; be right; OBJ correctly thinks IND {truth} to be true,,yes think,kwepensi
 be wrong; be incorrect; OBJ falsely thinks IND {falsehood} to be true,,no think,nyopensi
 "tell the truth; be honest; SBJ expresses OBJ {the truth; truth}, which they think to be true {AMOUNT:honesty; integrity}",,yes say,kweti
@@ -91,20 +92,20 @@ tube,,be-long circle,lamasiklalon
 be mottled; be speckled; OBJ is mottled in colour,,be-foamy be-coloured,fomilono
 spot; dot {GENITIVE:spotted; dotted},,be-coloured region,lonolehyon
 stripe {GENITIVE:striped},,be-coloured line,lonositelon
-be brown; be murky; OBJ looks brown,,be-black be-yellow,falakuta
+be gray; be *grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,be-white be-black,imwi
+colour gray; colour grey; dull; desaturate; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,imwiki
+be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,be-red be-yellow be-blue,upyu
+colour; SBJ brightens the colours of OBJ,,INCOHATIVE OF be brightly coloured,upyuki
+be brown; be murky; OBJ looks brown,,be-black be-orange,falakuta
 brown; colour brown; SBJ colours OBJ brown,,INCOHATIVE OF be brown,falakutaki
-be orange; OBJ looks orange,,be-red be-yellow,lucikuta
-orange; colour orange; SBJ colours OBJ orange,,INCOHATIVE OF be orange,lucikutaki
-be purple; be violet; OBJ looks purple,,be-blue be-magenta,nilaunwe
-colour purple; colour violet; SBJ colours OBJ purple,,INCOHATIVE OF be purple,nilaunweki
 be pink; be rose; OBJ looks pink,,be-white be-red,sataluci
 pinken; rose-tint; colour pink; SBJ colours OBJ pink,,INCOHATIVE OF be pink,sataluciki
-be light blue; be sky blue; OBJ looks light blue,,be-white be-blue,satanila
-colour light blue; colour sky blue; SBJ colours OBJ light blue,,INCOHATIVE OF light blue,satanilalonki
-be teal; be turquoise; OBJ looks teal,,be-blue be-green,nilaikyo
-colour teal; colour teal; SBJ colours OBJ teal,,INCOHATIVE OF be teal,nilaikyoki
-be light green; be lime; OBJ looks light green,,be-white be-green,sataikyo
-colour light green; colour lime; SBJ colours OBJ light green,,INCOHATIVE OF be light green,sataikyoki
+be azure; be sky blue; OBJ looks azure,,be-white be-blue,satanila
+colour azure; colour sky blue; SBJ colours OBJ azure,,INCOHATIVE OF light blue,satanilalonki
+be cyan; be teal; be blue-green; OBJ looks cyan,,be-blue be-green,
+colour cyan; colour teal; colour blue-green; SBJ colours OBJ cyan,,INCOHATIVE OF be cyan,
+be magenta; be fuchsia; OBJ looks magenta,,be-red be-purple,
+colour magenta; colour fuchsia; SBJ colours OBJ magenta,,INCOHATIVE OF be magenta,
 water; dihydrogen monoxide,,live puddle,icicwelon
 air; atmosphere; nitrogen and oxygen and all that jazz,,sky gas,lothyolon
 lava; magma,,be-stone puddle,patocwelon

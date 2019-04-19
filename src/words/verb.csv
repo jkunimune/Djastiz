@@ -246,7 +246,7 @@ be precarious; OBJ is precariously placed,,POSSIBILITY OF fall,kaepowi
 "fly; soar; OBJ {projectile} moves through the air, not necessarily of its own accord",,ben <উড়ে> [uɽe],ule
 throw; shoot; take off; jump; SBJ sends OBJ into the air,,INCOHATIVE OF fly,uleki
 land; down; ground; take down; alight; SBJ brings OBJ down from the air,,CESSATIVE OF fly,ulenu
-roll; be rolling; OBJ {wheel; roller} is rolling,,spa <rueda> [ˈrweða],lota
+roll; tumble; be rolling; OBJ {wheel; roller} is rolling,,spa <rueda> [ˈrweða],lota
 start rolling; roll from; SBJ {roller} makes OBJ start rolling,,INCOHATIVE OF roll,lotaki
 stop rolling; roll into; SBJ makes OBJ stop rolling,,CESSATIVE OF roll,lotanu
 be on; rest on; lean on; support; hold; carry; OBJ {at rest; on top} rests on IND {table; ground; floor; support; base},estar en; *descansar; sostener; OBJ {descansando; arriba} esta en IND {mesa; piso; suelo; base},cmn <依靠> [i˥kʰɑʊ̯˥˩],ikau
@@ -345,26 +345,22 @@ fill; SBJ fills OBJ with IND,,INCOHATIVE OF be full,puliki
 empty; clear; SBJ empties OBJ of IND,,CESSATIVE OF be full,mituki
 be coloured; have *colour; IND {colour} is the colour of OBJ,,ben <রঙ> [rɔŋɔ],lono
 colour; shade; SBJ {colourer} colours OBJ IND,,INCOHATIVE OF be coloured,lonoki
-be red; OBJ reflects low wavelength light {AMOUNT:redness},,epo <ruĝi> [ˈrud͡ʒi],luci
-be cyan; be teal; be aqua; be sky blue; OBJ reflects medium and long wavelength light,,ANTONYM OF be red,tihu
+be white; be light; be fair; OBJ reflects a lot of light {AMOUNT:whiteness; value},,ben <সাদা> [s̪ad̪a],sata
+be black; be dark; be tan; OBJ reflects little light,,ANTONYM OF be white,fala
+whiten; lighten; wash out; dodge; SBJ lightens OBJ,,INCOHATIVE OF be white,sataki
+blacken; darken; shade; burn; tan; SBJ darkens OBJ,,CESSATIVE OF be white,falaki
+be red; OBJ reflects short wavelength light {AMOUNT:redness},,epo <ruĝi> [ˈrud͡ʒi],luci
+be green; OBJ reflects medium and long wavelength light,,ANTONYM OF be red,tihu
 redden; colour red; SBJ colours OBJ red,,INCOHATIVE OF be red,luciki
-colour cyan; colour teal; SBJ colours OBJ cyan,,CESSATIVE OF be red,tihuki
-be green; OBJ reflects medium wavelength light {AMOUNT:greenness},,jav <ijo> [iɟo],ikyo
-be magenta; be hot pink; be fuchsia; be purple; OBJ reflects short and long wavelength light,,ANTONYM OF be green,unwe
-green; colour green; SBJ colours OBJ green,,INCOHATIVE OF be green,ikyoki
-colour pink; SBJ colours OBJ pink,,CESSATIVE OF be green,unweki
-be blue; OBJ reflects short wavelength light {AMOUNT:blueness},,hin <नीला> [niːlaː],nila
-be yellow; be blonde; OBJ reflects short and medium wavelength light,,ANTONYM OF be blue,kuta
+green; colour green; SBJ colours OBJ green,,CESSATIVE OF be red,tihuki
+be yellow; OBJ reflects medium wavelength light {AMOUNT:yellowness},,jav <ijo> [iɟo],ikyo
+be purple; be violet; OBJ reflects short and long wavelength light,,ANTONYM OF be yellow,unwe
+yellow; colour yellow; SBJ colours OBJ yellow,,INCOHATIVE OF be yellow,ikyoki
+colour purple; colour violet; SBJ colours OBJ purple,,CESSATIVE OF be yellow,unweki
+be blue; be cool; OBJ reflects short wavelength light {AMOUNT:blueness},,hin <नीला> [niːlaː],nila
+be orange; be warm; OBJ reflects long and medium wavelength light,,ANTONYM OF be blue,kuta
 colour blue; SBJ colours OBJ blue,,INCOHATIVE OF be blue,nilaki
-colour yellow; SBJ colours OBJ yellow,,CESSATIVE OF be blue,kutaki
-be white; be light; be fair; OBJ reflects all wavelengths of light {AMOUNT:whiteness; value},,ben <সাদা> [s̪ad̪a],sata
-be black; be dark; be tan; OBJ reflects no wavelengths of light,,ANTONYM OF be white,fala
-whiten; lighten; dodge; SBJ lightens OBJ,,INCOHATIVE OF be white,sataki
-blacken; darken; shade; tan; SBJ darkens OBJ,,CESSATIVE OF be white,falaki
-be gray; be *grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,nya <imvi> [iɱvi],imwi
-be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,ANTONYM OF be gray,upyu
-colour gray; colour grey; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,imwiki
-colour; SBJ brightens the colours of OBJ,,CESSATIVE OF be gray,upyuki
+colour orange; SBJ colours OBJ orange,,CESSATIVE OF be blue,kutaki
 be opaque; OBJ absorbs light that it does not reflect {AMOUNT:opacity},,epo <opaka> [oˈpaka],opaka
 be transparent; be see-through; OBJ {window} lets unreflected light pass through it,,ANTONYM OF be opaque,emana
 opaquify; SBJ make OBJ become opaque,,INCOHATIVE OF be opaque,opakaki
@@ -502,8 +498,8 @@ ride; transport; SBJ {passenger} rides on OBJ {vehicle},,epo <rajdi> [ˈrajdi],l
 play; OBJ {player} is playing IND {game; sport},,spa <juega> [ˈxweɣa],huka
 wait; OBJ {in wait} is waiting for IND,,sho <mira> [mira],mila
 act; fill; stand in; OBJ {roleplayer; filler} fills the role IND {role},,spa <actúa> [akˈtua],aktua
-differ; be *different; OBJ is different from IND,,ibo <dị iche> [dɪ it͡ʃe],tice
-be similar; be the same; OBJ is similar to IND,,ANTONYM OF differ,luho
+differ; be *different; be distinct; OBJ is different from IND,,ibo <dị iche> [dɪ it͡ʃe],tice
+be similar; be the same; be like; be alike; OBJ is similar to IND,,ANTONYM OF differ,luho
 diverge; make different; SBJ makes OBJ become different from IND,,INCOHATIVE OF differ,ticeki
 converge; make similar; resolve; SBJ makes OBJ become smilar to IND,,CESSATIVE OF differ,luhoki
 model; replicate; image; SBJ {modeler} makes OBJ {model; image} after IND {source; original},,cmn <模拟> [mwɔ˧˥ni˧˩˧],mwoni
