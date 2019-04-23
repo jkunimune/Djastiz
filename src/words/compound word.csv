@@ -47,10 +47,10 @@ mistrust; find untrustworthy; OBJ does not trust IND,,lie believe,imokolwa
 achieve; accomplish; complete; SBJ makes OBJ {achiever} achieve IND {accomplished; achieved; completed},,all advance,kitakeki
 use internet; go online; signal; SBJ {sender (engineering)} digitally sends IND {packet (engineering)} to OBJ {receiver (engineering)} {INSTRUMENT:socket (engineering)|METHOD:communication protocol; protocol (engineering)},,computer say,komputti
 telephone; telegraph,,be-far phone,kuletiluat
-mobile phone; cellural phone; cell phone,,move phone,hilatiluat
-smart phone; phone,,understand phone,pucatiluat
-be feminine; OBJ {woman; girl} is feminine,,female act,femalaktua
-be masculine; OBJ {man; boy} is masculine,,male act,sopataktua
+mobile phone; cellural phone; cell phone,,move phone,mopetiluat
+smart phone; phone,,understand phone,elewatiluat
+be feminine; OBJ {woman; girl} is feminine,,female act,fimelaktua
+be masculine; OBJ {man; boy} is masculine,,male act,supotaktua
 year,,ground time,telkwelwel
 month,,moon time,fikkwelwel
 week,,7 time,pitkwelwel
@@ -72,7 +72,7 @@ layer,,be-below surface,niceus
 dream; OBJ {dreamer} dreams IND {dream},,sleep perceive,tolmicua
 daydream; hallucinate; OBJ {daydreamer} hallucinates IND {daydream},,day dream,sunkwelweltolmicua
 map,,layout image,pinsashulum
-map projection,,map transformation,pinsashulumnowahilip
+map projection,,map transformation,pinsashulumpatililip
 be hallowed; worship; OBJ {worshiper} worships SBJ,,god want,canfe
 rule as a monarch; IND {monarch; king; queen} rules OBJ {peasant; kingdom} {LOCATION:kingdom; monarchy},,1 govern,kanpusa
 rule as an oligarchy; IND {oligarchy} rules OBJ {LOCATION:oligarchic kingdom},,little govern,nocpusa
@@ -92,35 +92,35 @@ tube,,be-long circle,lamasiklalon
 be mottled; be speckled; OBJ is mottled in colour,,be-foamy be-coloured,fomilono
 spot; dot {GENITIVE:spotted; dotted},,be-coloured region,lonolehyon
 stripe {GENITIVE:striped},,be-coloured line,lonositelon
-be gray; be *grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,be-white be-black,imwi
-colour gray; colour grey; dull; desaturate; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,imwiki
-be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,be-red be-yellow be-blue,upyu
-colour; SBJ brightens the colours of OBJ,,INCOHATIVE OF be brightly coloured,upyuki
-be brown; be murky; OBJ looks brown,,be-black be-orange,falakuta
-brown; colour brown; SBJ colours OBJ brown,,INCOHATIVE OF be brown,falakutaki
-be pink; be rose; OBJ looks pink,,be-white be-red,sataluci
-pinken; rose-tint; colour pink; SBJ colours OBJ pink,,INCOHATIVE OF be pink,sataluciki
-be azure; be sky blue; OBJ looks azure,,be-white be-blue,satanila
-colour azure; colour sky blue; SBJ colours OBJ azure,,INCOHATIVE OF light blue,satanilalonki
-be cyan; be teal; be blue-green; OBJ looks cyan,,be-blue be-green,
-colour cyan; colour teal; colour blue-green; SBJ colours OBJ cyan,,INCOHATIVE OF be cyan,
-be magenta; be fuchsia; OBJ looks magenta,,be-red be-purple,
-colour magenta; colour fuchsia; SBJ colours OBJ magenta,,INCOHATIVE OF be magenta,
+be gray; be grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,be-white be-black,ocaeha
+colour gray; colour grey; dull; desaturate; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,ocaehaki
+be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,be-red be-yellow be-blue,lucipilanila
+colour; SBJ brightens the colours of OBJ,,INCOHATIVE OF be brightly coloured,lucipilanilaki
+be brown; be murky; OBJ looks brown,,be-black be-orange,ehakuta
+brown; colour brown; SBJ colours OBJ brown,,INCOHATIVE OF be brown,ehakutaki
+be pink; be rose; OBJ looks pink,,be-white be-red,ocaluci
+pinken; rose-tint; colour pink; SBJ colours OBJ pink,,INCOHATIVE OF be pink,ocaluciki
+be azure; be sky blue; OBJ looks azure,,be-white be-blue,ocanila
+colour azure; colour sky blue; SBJ colours OBJ azure,,INCOHATIVE OF be azure,ocanilaki
+be cyan; be teal; be blue-green; OBJ looks cyan,,be-blue be-green,nilatihu
+colour cyan; colour teal; colour blue-green; SBJ colours OBJ cyan,,INCOHATIVE OF be cyan,nilatihuki
+be magenta; be fuchsia; OBJ looks magenta,,be-red be-purple,lucimuta
+colour magenta; colour fuchsia; SBJ colours OBJ magenta,,INCOHATIVE OF be magenta,lucimutaki
 water; dihydrogen monoxide,,live puddle,icicwelon
 air; atmosphere; nitrogen and oxygen and all that jazz,,sky gas,lothyolon
 lava; magma,,be-stone puddle,patocwelon
 mud,,be-soil puddle,maticwelon
 oxygen,,breathe gas,hihahhyolon
-be copper,,be-cyan metal,tihutatulon
-be bronze; OBJ is made of bronze,,be-skillful be-copper,lusotihutatulon
+be copper,,be-cyan metal,nilatihutatulon
+be bronze; OBJ is made of bronze,,be-skillful be-copper,lusonilatihutatulon
 be iron; OBJ is made of iron,,be-heavy be-metal,palitatu
 be steel; OBJ is made of steel,,be-skillful be-iron,lusopalitatu
-be gold; OBJ is made of gold,,be-yellow be-metal,kutatatu
+be gold; OBJ is made of gold,,be-yellow be-metal,pilatatu
 be aluminium; OBJ is made of aluminium,,be-light be-metal,matutatu
 gunpowder,,burn powder,cyaukiufalon
 oil; petroleum,,burn puddle,cyaukicwelon
-be quartz; OBJ is made of quartz,,white be-crystal,satalonkio
-be emerald; OBJ is made of emerald,,be-green be-crystal,ikyokio
+be quartz; OBJ is made of quartz,,white be-crystal,ocalonkio
+be emerald; OBJ is made of emerald,,be-green be-crystal,tihukio
 be diamond; OBJ is made of diamond,,be-transparent be-crystal,emanakio
 be-pearl; OBJ is made of pearl,,be-circular be-crystal,siklakio
 be plastic; OBJ is made of plastic,,person be-crystal,wonkio
@@ -143,14 +143,14 @@ oasis; watering hole,,be-liquid point,cwetyen
 island,,small landmass,pelalontayl
 lake; pond,,pure ocean,puhtelonlawt
 river; stream; brook,,be-liquid line,cwesitelon
-waterfall,,lower river,pahokicwesitelon
+waterfall,,water fall where-(relative),icicwelonkaelyot
 body of water; lake; ocean; lagoon,,be-big puddle,motacwelon
-plateau; highlands {GENITIVE:highland; high},,be-high landmass,macetayl
-lowlands,,be-low landmass,pahotayl
+plateau; highlands {GENITIVE:highland; high},,be-high landmass,kuhitayl
+lowlands,,be-low landmass,nicutayl
 plains {GENITIVE:plain; planar; campal},,be-straight landmass,sitetayl
 tundra {GENITIVE:tundra; tundral},,be-cold landmass,enitayl
 desert {GENITIVE:desert; deserted},,be-sand landmass,patoufatayl
-jungle; rainforest {GENITIVE:jungle; rainforest; jungular},,plant landmass,pottayl
+jungle; rainforest {GENITIVE:jungle; rainforest; jungular},,plant landmass,utpittayl
 swamp; marsh; bog; wetlands {GENITIVE:marhal; wetland; wet},,be-liquid landmass,cwetayl
 hold; carry; have with one; have on one's person; OBJ {holder} holds IND {held; accessory},,hand own,cohtue
 pick up; hand; grab; SBJ {hander; picker upper} puts IND in OBJ's hand,,INCOHATIVE OF hold,cohtueki
@@ -165,7 +165,7 @@ cook; fry; bake; boil; simmer; grill; SBJ {cook; chef; baker} cooks OBJ {cooking
 bake; SBJ {baker} bakes OBJ {pastry; baked good},,be-gaseous cook,hyopeka
 vegetarian; something that does not eat meat,,0 animal eater,nultunnyamales
 carnivore; something that eats meat,,animal eater,tunnyamales
-herbivore; something that eats plants,,plant eater,potnyamales
+herbivore; something that eats plants,,plant eater,utpitnyamales
 alcohol {GENITIVE:alcoholic},,have-fun puddle,mocacwelon
 be drunk; be intoxicated; OBJ is drunk,,have-fun be-sick,mocafake
 be sober; be dry; OBJ is sober,,be-bored be-sick,pehafake
@@ -177,8 +177,8 @@ milk,,parent puddle,mamacwelon
 wine,,grape alcohol,upmocacwelon
 blood,,be-rhythmic puddle,tutumcwelon
 bleed; SBJ bleeds out OBJ,,blood exit,tutumcwelonkoki
-urine; pee,,be-yellow puddle,kutacwelon
-urinate; pee; SBJ urinates out OBJ,,urine exit,kutacwelonkoki
+urine; pee,,be-yellow puddle,pilacwelon
+urinate; pee; SBJ urinates out OBJ,,urine exit,pilacwelonkoki
 feces; excrement; poop,,buttocks solid,pikkutilon
 diarrhea,,be-liquid feces,cwepikkutilon
 defecate; poop; SBJ defecates out OBJ,,feces exit,pikkutilonkoki
@@ -204,7 +204,7 @@ bicep; upper arm,,be-inside arm,neam
 forearm; lower arm,,be-outside arm,koam
 thigh; upper leg,,be-inside leg,nelek
 shin; lower leg,,be-outside leg,kolek
-pelvis; hips,,torso bottom,tolpaholon
+pelvis; hips,,torso bottom,tolniculon
 mouth,,eat gland,nyamacyen
 larynx; vocal chords; voice box,,speak gland,puacyen
 sensor; sense,,perceive gland,cuacyen
@@ -217,7 +217,7 @@ skin,,can-feel gland,amacyen
 heart,,be-rhythmic gland,tutumcyen
 heart (metaphorical); soul; spirit,,feel gland,swacyen
 brain,,ponder gland,cintacyen
-muscle,,move gland,hilacyen
+muscle,,move gland,mopecyen
 uterus,,be-pregnant gland,imecyen
 ovary,,egg gland,tancyen
 testicle,,seed gland,piccyen
@@ -226,15 +226,15 @@ penis,,have-sex rod,seksosot
 genital,,have-sex gland,seksocyen
 mamary gland,,parent gland,mamacyen
 breast; bussom; boob; nipple,,parent nub,mamatapalon
-bladder,,urine gland,kutacweloncyen
+bladder,,urine gland,pilacweloncyen
 rectum,,feces gland,pikkutiloncyen
 anus; asshole,,feces hole,pikkutilonkokilyot
 lick; SBJ {licker} licks OBJ {licked},,tongue rub,utocyensapu
 suck; SBJ {sucker} sucks on OBJ {sucked},,mouth rub,nyamacyensapu
 sand; SBJ {sander} sands OBJ {sanded},,powder rub,ufalonsapu
 scratch; SBJ scratches OBJ {INSTRUMENT:scratcher},,be-sharp rub,aklasapu
-carbon,,life material,icilwelsakalum
-nitrogen,,sky material,lotsakalum
+carbon,,life material,icilwelcakalum
+nitrogen,,sky material,lotcakalum
 antenna,,string arm,talam
 tentacle,,string leg,tallek
 wing,,fly arm,uleam
@@ -242,52 +242,52 @@ shell,,protect gland,nasilakipowinucyen
 skin; hide,,be-outside gland,kocyen
 bat; flying fox,,fly mammal,ulemamul
 pangolin,,scale mammal,linmamul
-cat,,person feline,wonmjawf
-tiger,,stripe feline,lonositelonmjawf
-lion,,hair feline,tofmjawf
-dog,,person canine,wonpawawf
+cat,,person feline,wonmyawf
+tiger,,stripe feline,lonositelonmyawf
+lion,,hair feline,tofmyawf
+dog,,person canine,wonpawaf
 horse,,person equine,wonhihin
 rabbit; hare,,fast rodent,yalalonnyec
 porcupine,,be-sharp rodent,aklanyec
-mole,,be-low rodent,pahonyec
+mole,,be-low rodent,nicunyec
 skunk,,scent musteloidea,olelumlih
-raccoon,,black face musteloidea,falalonihulih
+raccoon,,black face musteloidea,ehalonihulih
 camel,,desert camel,patoufataylut
-llama,,mountain camel,komut
+llama,,mountain camel,pilut
 alpaca,,string camel,talut
-zebra,,be-gray equine,imwihihin
-pig; pork,,person swine,wonsul
-cow; bull; beef,,spot bovine,lonolehyonmum
-ox,,be-strong bovine,ikemum
-antelope,,be-fast bovine,yalamum
-sheep; mutton,,string bovine,talmum
-goat,,mountain bovine,kommum
+zebra,,be-gray equine,ocaehahihin
+pig; pork,,person swine,woncuh
+cow; bull; beef,,spot bovine,lonolehyonmumum
+ox,,be-strong bovine,ikemumum
+antelope,,be-fast bovine,yalamumum
+sheep; mutton,,string bovine,talmumum
+goat,,mountain bovine,pilmumum
 sloth,,slow mammal,watalonmamul
 anteater,,ant eat mammal,maihnyamamamul
 armadillo,,shell mammal,pontolonmamul
-manatee; sea-cow,,ocean elephant,lawtpjah
+manatee; sea-cow,,ocean elephant,lawtpyah
 platypus,,egg mammal,tanmamul
 waterfowl; duck; goose; swan,,be-liquid fowl,cweap
 landfowl; chicken; turkey; pheasant,,ground fowl,telap
-dove,,white pigeon,satalonpicin
-hummingbird,,hum bustard,mumumpawh
-penguin,,be-cold bird,enicipicif
-pelican,,mouth bird,nyamacyencipicif
-seagull,,beach bird,taylhetalumcipicif
+dove,,white pigeon,ocalonpicin
+hummingbird,,hum bustard,mumupawh
+penguin,,be-cold bird,enicipcip
+pelican,,mouth bird,nyamacyencipcip
+seagull,,beach bird,taylhetalumcipcip
 condor,,be-big bird-of-prey,motakiah
 vulture,,wear no bird-of-prey,cyokinyokiah
 owl,,nighttime bird-of-prey,sicalwelkiah
 bald eagle,,head bird-of-prey,silkiah
-flamingo,,be-pink bird,satalucicipicif
-stork,,leg bird,lekcipicif
+flamingo,,be-pink bird,ocalucicipcip
+stork,,leg bird,lekcipcip
 amphibian {GENITIVE:amphibious},,fish lizard,peskatal
 salamander,,,
 lungfish,,sky fish,lotpes
-eel,,snake fish,sasahpes
+eel,,snake fish,saspes
 minnow,,be-small carp,pelakap
 catfish,,hair carp,tofkap
-magikarp,,be-magical carp,catuikap
-anglerfish,,light fish,kwanpes
+magikarp,,be-magical carp,makiakap
+anglerfish,,light fish,luspes
 pufferfish,,balloon fish,motakilonpes
 koi; koi fish,,be-coloured carp,lonokap
 seahorse,,ocean equine,lawthihin
@@ -305,8 +305,8 @@ centipede,,poison centipede,fakekiluatkehlek
 dragonfly; damselfly,,be-long bug,lamacuc
 louse,,hair bug,tofcuc
 scorpionfly,,sky scorpion,lotiloal
-moth,,be-brown butterfly,falakutahutyeh
-butterfly,,be-coloured moth,lonofalakutahutyeh
+moth,,be-brown butterfly,ehakutahutyeh
+butterfly,,be-coloured moth,lonoehakutahutyeh
 stickbug,,rod bug,sotcuc
 cockroach,,be-big cockroach,motaipis
 termite,,wood cockroach,mulonipis
@@ -317,15 +317,15 @@ octopus,,8 molusk,hattallektun
 decapus; squid; cuttlefish,,1 0 molusk,kannultallektun
 beard worm,,be-big tube worm,motalamasiklalonkil
 leech,,blood worm,tutumcwelonkil
-anemone; seafan; seawhip,,string plant animal,talpottun
+anemone; seafan; seawhip,,string plant animal,talutpittun
 coral,,be-solid life,kutiicilwel
 sea sponge,,be-foamy life,fomiicilwel
 tardigrade; waterbear; the animal,,be-small bear,pelalic
-moss; liverwort; hornwort,,landmass algae,taylsawl
-algae; alga,,ocean algae,lawtsawl
-palm tree,,be-big leaf tree,motaohcuh
-pine tree,,be-thin leaf tree,ceohcuh
-orchid,,flower plant,pulpot
+moss; liverwort; hornwort,,landmass algae,taylalkas
+algae; alga,,ocean algae,lawtalkas
+palm tree,,be-big leaf tree,motaohkac
+pine tree,,be-thin leaf tree,ceohkac
+orchid,,flower plant,pulutpit
 ginger,,,
 bird of paradise,,,
 nutmeg,,,
@@ -354,7 +354,7 @@ Central America; the region {GENITIVE:Central American},,be-inside America,ne'am
 Oceania; the region {GENITIVE:Oceanic},,ocean landmass,lawttayl
 The Atlantic Ocean; the ocean {GENITIVE:Atlantic},,Atlas-mountains ocean,'atlaslawt
 The Indian Ocean; the ocean {GENITIVE:Indian Oceanic},,Indian ocean,'palataklawt
-The Pacific Ocean; the ocean {GENITIVE:Pacific},,be-big be-still ocean,motacutalawt
+The Pacific Ocean; the ocean {GENITIVE:Pacific},,be-big be-still ocean,motapemolawt
 The Arabian Sea; the sea,,Arab ocean,'alaplawt
 The Bering Sea; the sea,,Bering ocean,'beringlawt
 The Caribbean Sea; the sea,,Island-Carib ocean,'kalinakolawt
@@ -404,24 +404,24 @@ athiesm,,0 god,nulcan
 agnosticism; secularism; religious nonaffiliation,,0 religion,nulfitilip
 be vibrant; be colourful; OBJ has many hues and colours,,much be-coloured,kehlono
 be monochromatic; OBJ has few colours,,little be-coloured,noclono
-flag; banner,,cloth translation,talfelnowahilum
+flag; banner,,cloth translation,talfelpatililum
 undergo revolution; OBJ goes through a revolution {TIME:revolution},,be-fast change,yalacalunyo
 sugar,,be-sweet powder,miteufalon
 salt,,be-salty powder,kaleufalon
 flour,,be-powder grain,ufaanac
 bread,,be-foamy grain,fomianac
 cereal,,be-chunky grain,isaanac
-corn; maize,,be-yellow grain,kutaanac
+corn; maize,,be-yellow grain,pilaanac
 noodle; linguini,,string grain,talanac
 banana,,rod fruit,sotfut
-sugarcane,,be-sweet plant,mitepot
-cotton,,be-foamy plant,fomipot
-coffee,,move plant,hilapot
-onion,,layer plant,palnalonpot
-venus fly-trap,,eat plant,nyamapot
+sugarcane,,be-sweet plant,miteutpit
+cotton,,be-foamy plant,fomiutpit
+coffee,,move plant,mopeutpit
+onion,,layer plant,capalonutpit
+venus fly-trap,,eat plant,nyamautpit
 bean,,be-flimsy seed,fulokipowipic
 nut,,be-rigid seed,fulokipowinyopic
-rubber,,be-elastic tree,pikapowicuh
+rubber,,be-elastic tree,pikapowikac
 coconut,,string fruit,talfut
 clock; watch,,time measuring-device,kwelwelsomaluat
 stopwatch,,be-late amount measuring-device,hulikwelyansomaluat
@@ -430,17 +430,17 @@ meterstick; ruler; measuring tape; stick,,length measuring-device,lamalyansomalu
 scale; balance,,weight measuring-device,palilyansomaluat
 thermometer,,temperature measuring-device,okulyansomaluat
 barometer,,pressure measuring-device,tensolyansomaluat
-spectrometer,,light length measuring-device,kwanlamalyansomaluat
+spectrometer,,light length measuring-device,luslamalyansomaluat
 whole; entirety; entire,,be-in-pieces no which-(relative),lotonyolon
 shirt; top,,torso clothing,toleilum
 sleeve; armband,,arm clothing,ameilum
 pants; shorts; skirt,,leg clothing,lekeilum
 pants; shorts,,2 pants,toslekeilum
 skirt,,be-open pants,meklelekeilum
-underwear,,be-low clothing,pahoeilum
-blazer,,be-high clothing,maceeilum
+underwear,,be-low clothing,nicueilum
+blazer,,be-high clothing,kuhieilum
 shoe,,foot clothing,lekcoheilum
-sock; stocking,,be-low shoe,paholekcoheilum
+sock; stocking,,be-low shoe,niculekcoheilum
 glove,,hand clothing,coheilum
 hat,,hair clothing,tofeilum
 mask; glasses,,face clothing,ihueilum
@@ -450,7 +450,7 @@ suit; costume; uniform,,whole clothing,lotonyoloneilum
 watch; wristwatch,,arm clock,amkwelwelsomaluat
 be found; OBJ knows where SBJ is,,where-(relative) think,lyotpensi
 go through; OBJ moves into and then out of IND {tube; hallway; corridor},,enter exit,nekikoki
-travel; SBJ travels from IND to OBJ {destination; getaway},,be-far move,kulehila
+travel; SBJ travels from IND to OBJ {destination; getaway},,be-far move,kulemope
 society,,person group,wononcolum
 economy,,sell group,maioncolum
 ecosystem; environment,,life group,icilweloncolum
@@ -458,8 +458,8 @@ advertise; SBJ {advertiser} advertises IND {advertisement} to OBJ {advertisee},,
 ticket; voucher,,sell sheet,maifel
 be magnetic; OBJ {magnet} is magnetic,,pull be-metal,mihutatu
 do math; do maths; SBJ {mathematician} studies numbers to learn about OBJ {mathematics},,amount study,kwelyansoma
-do physics; SBJ {physicist} studies motion to learn about OBJ {physics},,move study,hilasoma
-do chemistry; do material science; SBJ {chemist} studies chemicals to learn about OBJ {chemistry; material science},,material study,sakalumsoma
+do physics; SBJ {physicist} studies motion to learn about OBJ {physics},,move study,mopesoma
+do chemistry; do material science; SBJ {chemist} studies chemicals to learn about OBJ {chemistry; material science},,material study,cakalumsoma
 do biology; SBJ {biologist} studies lifeforms to learn about OBJ {biology},,live study,icisoma
 do psychology; SBJ {psychologist} studies the human mind to learn about OBJ {psychology},,think study,pensisoma
 do sociology; SBJ {sociologist} studies societies to learn about OBJ {sociology},,society study,sosialumsoma
@@ -470,9 +470,9 @@ do pedagogy; SBJ {pedagologist} studies pedagogy to learn about OBJ {pedagogy},,
 do computer science; SBJ {computer scientist} studies computers to learn about OBJ {computer science},,computer study,komputsoma
 do theology; SBJ {theologist} studies religion to learn about OBJ {theology},,god study,cansoma
 do statistics; SBJ {statistician} studies data to learn about OBJ {statistics},,be-likely study,cunisoma
-do hydrodynamics; SBJ {hydrodynamicist} studies the motion of fluids to learn about OBJ {hydrodynamics},,be-fluid move study,niluhilasoma
-do magnetohydrodynamics; SBJ {magnetohydrodynamicist} studies the motion of conductive fluids in magnetic fields to learn about OBJ {magnetohydrodynamics},,be-magnetic be-fluid move study,mihutatuniluhilasoma
-do thermomagnetohydrodynamics; SBJ {thermomagnetohydrodynamicist} studies the heat transfer of conductive fluids in magnetic fields to learn about OBJ {thermomagnetohydrodynamics},,be-hot be-magnetic be-fluid move study,okumihutatuniluhilasoma
+do hydrodynamics; SBJ {hydrodynamicist} studies the motion of fluids to learn about OBJ {hydrodynamics},,be-fluid move study,nilumopesoma
+do magnetohydrodynamics; SBJ {magnetohydrodynamicist} studies the motion of conductive fluids in magnetic fields to learn about OBJ {magnetohydrodynamics},,be-magnetic be-fluid move study,mihutatunilumopesoma
+do thermomagnetohydrodynamics; SBJ {thermomagnetohydrodynamicist} studies the heat transfer of conductive fluids in magnetic fields to learn about OBJ {thermomagnetohydrodynamics},,be-hot be-magnetic be-fluid move study,okumihutatunilumopesoma
 metastudy; SBJ {metascientist} metastudies OBJ {qualities of the scientific method and establishment},,study study,somasoma
 eat breakfast; breakfast; SBJ {fast-breaker} eats OBJ {breakfast} {TIME:breakfast time},,sun begin eat,sunkinyama
 eat brunch; brunch; SBJ {bruncher} eats OBJ {brunch} {TIME:brunchtime},,be-early sun eat,citusunnyama
@@ -482,7 +482,7 @@ eat supper; eat dinner; sup; dine; SBJ {diner; supper} eats OBJ {dinner; supper}
 eat dessert; eat midnight snack; SBJ {dessert} eats OBJ {dessert; midnight snack},,moon eat,fiknyama
 dine out; OBJ {diner} buys IND {restaurant meal} from SBJ {restaurant; server} {LOCATION:restaurant; food court; dining area},,eat sell,nyamamai
 grocery store,,need store,nilomailyot
-bookstore,,book store,palnalummailyot
+bookstore,,book store,capalummailyot
 locutorio,,information store,osmailyot
 butchery,,be-dead animal store,uhutunmailyot
 ticket booth,,ticket store,maifelmailyot
@@ -543,14 +543,14 @@ religion,,god method,cankwelip
 sect,,religion piece,fitiliponcolon
 ripple; wave; waves ripple through OBJ {TIME:wave},,be-fluid be-rhythmic,nilututum
 rain; precipitate; OBJ {rain; precipitation} falls from the sky,,sky fall,lotkae
-blow; gust; wind blows on OBJ from SBJ {wind system},,sky move,lothila
+blow; gust; wind blows on OBJ from SBJ {wind system},,sky move,lotmope
 strike; OBJ is struck by lightning from SBJ {thundercloud; thunderstorm},,sky discharge,lotinanu
-flood; OBJ is struck by a flood from SBJ {floodwaters},,be-liquid lift,cwemaceki
-earthquake; OBJ is struck by an earthquake from SBJ {faultline},,ground move,telhila
+flood; OBJ is struck by a flood from SBJ {floodwaters},,be-liquid lift,cwekuhiki
+earthquake; OBJ is struck by an earthquake from SBJ {faultline},,ground move,telmope
 tsunami; tidal wave; OBJ is struck by a tsunami from SBJ {oceanic earthquake},,be-big wave,motanilututumlwel
 thunderstorm,,be-charged storm,inacol
 hurricane; typhoon,,spin storm,kumacol
-volcano,,be-hot mountain,okukom
+volcano,,be-hot mountain,okupil
 umbrella,,rain shield,lotkaenasilakipowinules
 address,,location number,kwelyotestalyan
 be legally required; be mandated by law; OBJ is required by law to make IND {law} happen,,govern must,pusatewi
@@ -574,16 +574,16 @@ agree; OBJ agrees with IND,,be-similar think,luhopensi
 disagree; OBJ disagrees with IND,,differ think,ticepensi
 consent; approve; SBJ consents to OBJ,,want say,feti
 dissent; disapprove; SBJ dissents from OBJ,,dislike say,soti
-team,,help group,helpioncolum
+team,,help group,ayutaoncolum
 conduct; be conductive; OBJ {conductor} conducts electricity {AMOUNT:conductivity},,be-charged be-easy,inaisi
 insulate; resist; be resistive; OBJ {insulator; resistor} resists electrical current {AMOUNT:resistance},,be-charged be-difficult,inaufu
-mooch; leech; have parasitic relation; OBJ {parasite; leech; freeloader} benefits from hindering IND {host},,hinder live,cotmuici
-synergise; have mutualistic relation; OBJ {symbiote} benefits from helping IND {host},,help live,helpiici
+mooch; leech; have parasitic relation; OBJ {parasite; leech; freeloader} benefits from hindering IND {host},,hinder live,awilaici
+synergise; have mutualistic relation; OBJ {symbiote} benefits from helping IND {host},,help live,ayutaici
 graph; plot {GENITIVE:graphical},,number image,estalyanhulum
 asphalt,,path stone,paspatolon
 mail; send letter; SBJ {sender of a letter} sends IND {letter} to OBJ {recipient of a letter} as a letter,,paper say,tefelti
 text; message; instant-message SBJ {sender of a text} sends IND {text message} to OBJ {recipient of a text},,be-fast say,yalati
-flail; SBJ flails OBJ {flail; flailing limb},,arm move,amhila
+flail; SBJ flails OBJ {flail; flailing limb},,arm move,ammope
 be public; IND is openly exposed to OBJ {the public},,be-outside can-see,kohu
 be private; IND is privately concealed from OBJ,,be-inside can-see,nehu
 be foreign; OBJ is foreign relative to IND,,landmass be-far,taylkule
@@ -604,38 +604,38 @@ bowl,,eat holder,nyamacohtuelon
 bucket,,be-liquid holder,cwecohtuelon
 smoke; SBJ smokes OBJ,,be-burnt eat,cyaunyama
 vape; e-smoke; SBJ vapes OBJ,,be-charged be-burnt eat,inacyaunyama
-date; court; OBJ is dating IND,,love be-friendly,tayohau
-ask out; set up; start going out; SBJ {matchmaker} makes OBJ start dating IND,,INCOHATIVE OF date,tayohauki
-break up; stop going out; SBJ makes OBJ stop dating IND,,CESSATIVE OF date,tayohaunu
+date; court; OBJ is dating IND,,love be-friendly,amiyohau
+ask out; set up; start going out; SBJ {matchmaker} makes OBJ start dating IND,,INCOHATIVE OF date,amiyohauki
+break up; stop going out; SBJ makes OBJ stop dating IND,,CESSATIVE OF date,amiyohaunu
 legacy,,person future,wonhulilon
 twin; triplet; quadruplet,,be-similar sibling,luhokunemamalon
 be lucky; be fortunate; that OBJ happens is lucky,,want be-unlikely,fehiku
 be unlucky; be unfortunate; that OBJ happens is unlucky,,dislike be-unlikely,sohiku
 meteor; meteorite,,outer-space stone,malpatolon
 asteroid,,sun outer-space stone,sunmalpatolon
-stilt,,be-high leg,macelek
+stilt,,be-high leg,kuhilek
 be woven; OBJ is woven,,be-neat be-tangled,netacoto
 weave; SBJ {weaver} weaves OBJ,,INCOHATIVE OF be woven,netacotoki
 unweave; SBJ unweaves OBJ,,CESSATIVE OF be woven,netacotonu
 basket,,be-tangled cup,cotowekolon
 comment; commentary; SBJ {commenter} comments OBJ {metadata; comment; commentary} on IND,,be-outside say,koti
-light; light source,,light source,kwantulum
+light; light source,,light source,lustulum
 differentiate; take derivative; SBJ {differentiater} takes the nth derivative of OBJ {antiderivative; differentiation function} with respect to IND {differentiation variable} {AMOUNT:derivative order},,be-fast deduce,yalaiti
 integrate; take integral; SBJ {integrator} takes the n-dimensional integral of OBJ {derivative; integration function} over IND {integration variable} {AMOUNT:integral dimensionality|LOCATION:integration bounds},,all deduce,kititi
 reach; extend; SBJ reaches OBJ toward IND,,touch try,tokaci
 share; beI communal; the members of OBJ {sharers} share IND {commons},,accompany own,kunetue
-go over; cross; SBJ moves OBJ over IND,,be-high cross,macetieki
-go under; SBJ moves OBJ under IND,,be-low cross,pahotieki
+go over; cross; SBJ moves OBJ over IND,,be-high cross,kuhitieki
+go under; SBJ moves OBJ under IND,,be-low cross,nicutieki
 research; SBJ {researcher} finds information about IND {reasearch topic} and uses it to update OBJ {research; notes; archive},,repeat study,petasoma
 feel schadenfreude; OBJ feels schodenfreude at IND,,hurt be-happy,tafuhapi
 sympathise; take pity; OBJ sympathises with IND,,hurt be-sad,tafucamu
 empathise; share feelings; OBJ empathises with IND,,be-similar feel,luhoswa
 feel bittersweet; OBJ feels bittersweetly about IND {bittersweet},,be-happy be-sad,hapicamu
 be nostalgic; OBJ feels nostalgia about IND,,be-early feel-bittersweet,cituhapicamu
-jump scare; SBJ jump-scares OBJ with IND,,fear surprise,timicinya
-be anxious; OBJ feels anxious about IND,,fear hurt,timitafu
+jump scare; SBJ jump-scares OBJ with IND,,fear surprise,pyocinya
+be anxious; OBJ feels anxious about IND,,fear hurt,pyotafu
 feel awe; OBJ {awed} feels awe at IND {awesome; awful},,be-big feel,motaswa
-feel curious; wonder; OBJ is curious about IND,,understand want,pucafe
+feel curious; wonder; OBJ is curious about IND,,understand want,elewafe
 feel hungry; OBJ is hungry for IND,,eat want,nyamafe
 feel thirsty; OBJ is thirsty for IND,,be-liquid want,cwefe
 feel horny; sexually attract; beI sexy; OBJ is sexually attracted to IND,,have-sex want,seksofe
@@ -656,7 +656,7 @@ run; SBJ runs on OBJ {treadmill},,fly step,ulepuco
 fast-walk; SBJ does a fast walk on OBJ,,be-fast walk,yalapucopuco
 jog; SBJ jogs on OBJ,,be-slow run,wataulepuco
 virgin,,have-sex no which,seksonyol
-creep out; OBJ {creeped out} finds IND {creepy; creeper} creepy,,little fear,noctimi
+creep out; OBJ {creeped out} finds IND {creepy; creeper} creepy,,little fear,nocpyo
 be apprehensive; hesitate; OBJ is apprehensive to do IND,,choose dislike,eleheso
 adore; beI cute; OBJ finds IND cute,,be-small want,pelafe
 beI awkward; be uncomfortable; OBJ finds IND {herp} awkward,,be-social hurt,sosiatafu
@@ -675,24 +675,24 @@ be in prison; be incarcerated; OBJ {prisoner} is imprisoned by IND {warden} {LOC
 be at large; be free; be out of prison; OBJ is not imprisoned by IND,,NEGATIVE OF be in prison,tewikuncinyo
 imprison; throw in jail; SBJ imprisons OBJ,,INCOHATIVE OF be in prison,tewikunciki
 release from prison; set free; SBJ releases OBJ from prison,,CESSATIVE OF be in prison,tewikuncinu
-be lit; be illuminated; be bright; OBJ is brightly lit,,light be-loud,kwanfuha
-be dim; be dark; OBJ {shadow} is dimly lit,,light be-quiet,kwansica
-illuminate; light up; SBJ illuminates OBJ,,light amplify,kwanfuhaki
-darken; dim; SBJ darkens OBJ,,light dampen,kwansicaki
+be lit; be illuminated; be bright; OBJ is brightly lit,,light be-loud,lusfuha
+be dim; be dark; OBJ {shadow} is dimly lit,,light be-quiet,lussica
+illuminate; light up; SBJ illuminates OBJ,,light amplify,lusfuhaki
+darken; dim; SBJ darkens OBJ,,light dampen,lussicaki
 tradition; ritual; ceremony,,repeat event,petalwelkwekilon
 think big picture; think grandly; OBJ tends to think of the big picture,,group deduce,oncolumiti
 be detail-oriented; OBJ tends to focus on small details,,piece deduce,oncoloniti
 rebel; SBJ rebels against OBJ,,government fight,pusalumlwa
 protest; SBJ protests IND to OBJ,,government complain,pusalumwasoti
-bury; SBJ buries OBJ,,be-soil lower,matipahoki
-exhume; uncover; SBJ exhumes OBJ,,be-soil lift,matimaceki
+bury; SBJ buries OBJ,,be-soil lower,matinicuki
+exhume; uncover; SBJ exhumes OBJ,,be-soil lift,matikuhiki
 code; program; SBJ {programmer} codes OBJ with IND {code; program},,computer tell,komputnati
 coexist; tolerate; OBJ coexists with IND,,be-near be,nitoesta
-flow; SBJ makes OBJ {current; stream} OBJ {METHOD:streamline},,be-fluid move,niluhila
-be downstream; be downwind; OBJ is downstream of IND,,flow be-low,niluhilapaho
-be upstream; be upwind; OBJ is upstream of IND,,flow be-high,niluhilamace
-encode; SBJ encodes OBJ as IND {METHOD:code},,misunderstand convert,mihanowahi
-decode; parse; SBJ decodes OBJ into IND,,understand convert,pucanowahi
+flow; SBJ makes OBJ {current; stream} OBJ {METHOD:streamline},,be-fluid move,nilumope
+be downstream; be downwind; OBJ is downstream of IND,,flow be-low,nilumopenicu
+be upstream; be upwind; OBJ is upstream of IND,,flow be-high,nilumopekuhi
+encode; SBJ encodes OBJ as IND {METHOD:code},,misunderstand convert,otoyapatili
+decode; parse; SBJ decodes OBJ into IND,,understand convert,elewapatili
 gesture; sign; SBJ gestures IND to OBJ {METHOD:gesture},,hand say,cohti
 explore; peruse,,,
 whisper; SBJ says IND {whisper} to OBJ without voicing,,be-quiet speak,sicapua
@@ -712,26 +712,26 @@ phrase,,word group,suhoncolum
 emoticon; emoji,,feel image,swahulum
 spiral,,,
 itch; OBJ's IND {itch} itches,,little hurt,noctafu
-holy book,,have-faith book,fitipalnalum
+holy book,,have-faith book,fiticapalum
 church,,religion group,fitiliponcolum
-car; truck,,ground vehicle,tellaytilon
-boat,,be-liquid vehicle,cwelaytilon
-flying machine; airplane; helicopter; balloon,,sky vehicle,lotlaytilon
-spaceship,,outer-space vehicle,mallaytilon
-train,,path vehicle,paslaytilon
-time machine,,time vehicle,kwelwellaytilon
-submarine,,be-low boat,pahocwelaytilon
-sedan; saloon; car,,be-small vehicle,pelalaytilon
-truck,,be-big vehicle,motalaytilon
-airplane; jet; plane,,wing vehicle,uleamlaytilon
-helicopter,,spin flying-machine,kumalotlaytilon
-swim; OBJ {swimmer} swims,,be-liquid move,cwehila
-climb; OBJ {climber} climbs {INSTRUMENT:ladder; handholds},,surface move,ushila
-dig; OBJ {digger} digs,,solid move,kutilonhila
-time travel; OBJ travels through time,,time move,kwelwelhila
+car; truck,,ground vehicle,telcowalon
+boat,,be-liquid vehicle,cwecowalon
+flying machine; airplane; helicopter; balloon,,sky vehicle,lotcowalon
+spaceship,,outer-space vehicle,malcowalon
+train,,path vehicle,pascowalon
+time machine,,time vehicle,kwelwelcowalon
+submarine,,be-low boat,nicucwecowalon
+sedan; saloon; car,,be-small vehicle,pelacowalon
+truck,,be-big vehicle,motacowalon
+airplane; jet; plane,,wing vehicle,uleamcowalon
+helicopter,,spin flying-machine,kumalotcowalon
+swim; OBJ {swimmer} swims,,be-liquid move,cwemope
+climb; OBJ {climber} climbs {INSTRUMENT:ladder; handholds},,surface move,usmope
+dig; OBJ {digger} digs,,solid move,kutilonmope
+time travel; OBJ travels through time,,time move,kwelwelmope
 live monastically; OBJ {monk; nun; cenobite; hermit; anchorite; hesychast; solitary} lives as a monk {LOCATION:monastery},,have-faith live,fitiici
 prostitute; sell one's body; SBJ {prostitute; whore; harlot} has sex with OBJ for pay,,have-sex sell,seksomai
-take shower; shower; SBJ showers OBJ with IND {shower},duchar; ducharse; SBJ ducha OBJ con IND {ducha},be-liquid,cwe
+take shower; shower; SBJ showers OBJ with IND {shower},duchar; ducharse; SBJ ducha OBJ con IND {ducha},be-liquid drop,cwekaeki
 launch coup d'etat; seize power; SBJ suddenly seizes control of OBJ {TIME:coup d'etat; coup; putsch; golpe},,be-fast take-control,yalakunciki
 make eye contact; OBJ has eye contact with IND,,eye can-see,hucyenhu
 heartbeat; have pulse; OBJ has a heartbeat {AMOUNT:heartrate},,live be-rhythmic,icitutum

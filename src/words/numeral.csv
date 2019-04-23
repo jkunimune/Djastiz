@@ -11,20 +11,20 @@ eng,spa,source,ltl
 "7; seven {GENITIVE:seventh}","7; siete {GENITIVE:séptimo}",jav <pitu> [pitu],pit
 "8; eight {GENITIVE:eighth}","8; ocho {GENITIVE:ocho}",ben <আট> [aʈ],hat
 "9; nine {GENITIVE:ninth}","9; nueve {GENITIVE:noveno}",yor <mẹsan> [mɛsan],mes
-"A; 10; ten; only used for duodecimal and hexadecimal {GENITIVE:tenth}","10; diez {GENITIVE:noveno}",spa <diez> [djes],tes
-"B; 11; eleven; only used for duodecimal and hexadecimal {GENITIVE:eleventh}","11; once",OPPOSITE OF 5,tup
-"C; 12; twelve; dozen; only used for hexadecimal {GENITIVE:twelfth}","12; doce",OPPOSITE OF 4,set
-"D; 13; thirteen; baker's dozen; only used for hexadecimal {GENITIVE:thirteenth}","13; trece",OPPOSITE OF 3,fak
-"E; 14; fourteen; only used for hexadecimal {GENITIVE:fourteenth}","14; catorce",OPPOSITE OF 2,lef
-"F; 15; fifteen; only used for hexadecimal {GENITIVE:fifteenth}","15; quince",OPPOSITE OF 1,nak
-"G; 16; sixteen; only used to describe hexadecimal {GENITIVE:sixteenth}","16; dieciseis",eng <hex> [hɛks],hes
+"A; ten; only used for duodecimal and hexadecimal {GENITIVE:tenth}","10; diez {GENITIVE:noveno}",spa <diez> [djes],tes
+"B; eleven; only used for duodecimal and hexadecimal {GENITIVE:eleventh}","11; once",OPPOSITE OF 5,tup
+"C; twelve; dozen; only used for hexadecimal {GENITIVE:twelfth}","12; doce",OPPOSITE OF 4,set
+"D; thirteen; baker's dozen; only used for hexadecimal {GENITIVE:thirteenth}","13; trece",OPPOSITE OF 3,fak
+"E; fourteen; only used for hexadecimal {GENITIVE:fourteenth}","14; catorce",OPPOSITE OF 2,lef
+"F; fifteen; only used for hexadecimal {GENITIVE:fifteenth}","15; quince",OPPOSITE OF 1,nak
+"G; sixteen; only used to describe hexadecimal {GENITIVE:sixteenth}","16; dieciseis",eng <hex> [hɛks],hes
 "much; many; very",mucho; muchos,jav <akeh> [akeh],keh
-"several; some; a few; handful; medium; (1, radix]","unos; un poco; (1, base]",spa <vario> [ˈβaɾjo],pal
+"several; some; a few; handful; medium; 1 to 10","unos; un poco; 1 to 10",spa <vario> [ˈβaɾjo],pal
 "little; few; slight",poco; pocos,OPPOSITE OF much,noc
 "all; absolute; maximum; exact {GENITIVE:last; universal}",todo; todos; absoluto; máximo,OPPOSITE OF 0,kit
 "universalise; popularise; permeate; pervade; SBJ causes OBJ to become everything",popularizar; permear; SBJ hace que OBJ se convierta en todo,,kitki
-"point; radix point",punto; punto be base,cmn <點> [tjɛn˧˩˥],tyen
-"×10^; -llion; times the radix to the",×10^; -illon,spa <-illón> [iˈʎon],lyon
+"point; radix point",punto; punto de base,cmn <點> [tjɛn˧˩˥],tyen
+"×10^; -llion; times the radix to the",×10^; -illon,spa <-illón> [iˈʝon],lyon
 "radix",base,eng <-imal> [ɪml̩],imal
 "minus; negative",menos; negativo,spa <menos> [ˈmenos],men
 "positive; plus",positivo; plus,OPPOSITE OF minus,pok

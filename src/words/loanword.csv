@@ -103,7 +103,7 @@ Cuban; the Cuban people {GENITIVE:Cuban; from Cuba|COUNTRY:Cuba},,spa <Cuba> [ku
 Cypriot; the Cypriot people {GENITIVE:Cypriot; from Cyprus|COUNTRY:Cyprus},,ell <Κύπρος> [ˈcipros],'kiplos
 Czech; the Czech people {GENITIVE:Czech; from the Czech Republic|LANGUAGE:Czech; the Czech language},,ces <češ-> [ˈt͡ʃɛʃ],'cec
 Dane; the Danish people {GENITIVE:Danish; from Denmark|COUNTRY:Denmark|LANGUAGE:Danish; the Danish language},,dan <Dan-> [dan],'tan 
-Djiboutian; the Djiboutian people {GENITIVE:Djiboutian; from Djibouti|COUNTRY:Djibouti},,som <Jabuuti> [d͡ʒæbuːt],'caputi
+Djiboutian; the Djiboutian people {GENITIVE:Djiboutian; from Djibouti|COUNTRY:Djibouti|CITY:Djibouti; the city of Djibouti},,som <Jabuuti> [d͡ʒæbuːt],'caputi
 Dominican; the Dominican people {GENITIVE:Dominican; from Dominica|COUNTRY:Dominica},,eng <Dominica> [dɒmɪˈniːkə],'tominika
 Dominican; Quisqueyan; the people of the Dominican Republic {GENITIVE:Dominican; Quisqueyan; from Dominican Republic|COUNTRY:the Dominican Republic},,spa <Quisqueya> [kisˈkeʝa],'kiskeya
 Ecuadorian; the Equadorian people {GENITIVE:Ecuadorian; from Ecuador|COUNTRY:Ecuador},,spa <Écuador> [ˈekwaðoɾ],'ekwatol
@@ -141,7 +141,7 @@ Indonesian; the Indonesian people {GENITIVE:Indonesian; from Indonesia|COUNTRY:I
 Iran; the country {GENITIVE:Iranian; from Iran},,fas <TODO> [ʔiːɾɒːn],'ilan
 Iraq; the country {GENITIVE:Iraqi; from Iraq},,ara <TODO> [ʕiraːq],'ilak
 Ireland; the country {GENITIVE:Irish; from Ireland},,eng <Ireland> [ˈaɪ̯əɹlənd],'ayalan
-Javanese; the Javanese people {GENITIVE:Javanese; from Java|LANGUAGE:Javanese; the Javanese language|PLACE:Java},,jav <ꦗꦮ> [d͡ʒɔwɔ],'cawa
+Javanese; the Javanese people {GENITIVE:Javanese; from Java|LANGUAGE:Javanese; the Javanese language|REGION:Java (island)},,jav <ꦗꦮ> [d͡ʒɔwɔ],'cawa
 Northern Ireland; the country {GENITIVE:Northern Irish; from Northern Ireland},,gle <TODO> [ˈt̪ˠuəʃcəɾˠt̪ˠ ˈeːɾʲən̪ˠ],'tuackyaltaelyan
 Israel; the country {GENITIVE:Israeli; from Israel},,heb <TODO> [jisʁael],'yishael
 Italian; the Italian people {GENITIVE:Italian; Italic; from Italy|COUNTRY:Italy|LANGUAGE:Italian; the Italian language},,ita <Italia> [itaːlja],'italya
