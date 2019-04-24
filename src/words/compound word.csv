@@ -111,7 +111,7 @@ water; dihydrogen monoxide,,live puddle,icicwelon
 air; atmosphere; nitrogen and oxygen and all that jazz,,sky gas,lothyolon
 lava; magma,,be-stone puddle,patocwelon
 mud,,be-soil puddle,anicwelon
-oxygen,,breathe gas,hihahhyolon
+oxygen,,breathe gas,hihahyolon
 be copper,,be-cyan metal,nilatihutatulon
 be bronze; OBJ is made of bronze,,be-skillful be-copper,lusonilatihutatulon
 be iron; OBJ is made of iron,,be-heavy be-metal,palitatu
@@ -151,7 +151,7 @@ lowlands,,be-low landmass,nicutayl
 plains {GENITIVE:plain; planar; campal},,be-straight landmass,sitetayl
 tundra {GENITIVE:tundra; tundral},,be-cold landmass,enitayl
 desert {GENITIVE:desert; deserted},,be-sand landmass,patoufatayl
-jungle; rainforest {GENITIVE:jungle; rainforest; jungular},,plant landmass,pottayl
+jungle; rainforest {GENITIVE:jungle; rainforest; jungular},,plant landmass,utpittayl
 swamp; marsh; bog; wetlands {GENITIVE:marhal; wetland; wet},,be-liquid landmass,cwetayl
 hold; carry; have with one; have on one's person; OBJ {holder} holds IND {held; accessory},,hand own,cohtue
 pick up; hand; grab; SBJ {hander; picker upper} puts IND in OBJ's hand,,INCOHATIVE OF hold,cohtueki
@@ -166,14 +166,14 @@ cook; fry; bake; boil; simmer; grill; SBJ {cook; chef; baker} cooks OBJ {cooking
 bake; SBJ {baker} bakes OBJ {pastry; baked good},,be-gaseous cook,hyolana
 vegetarian; something that does not eat meat,,0 animal eater,nultunnyamales
 carnivore; something that eats meat,,animal eater,tunnyamales
-herbivore; something that eats plants,,plant eater,potnyamales
+herbivore; something that eats plants,,plant eater,utpitnyamales
 alcohol {GENITIVE:alcoholic},,have-fun puddle,mocacwelon
 be drunk; be intoxicated; OBJ is drunk,,have-fun be-sick,mocafake
 be sober; be dry; OBJ is sober,,be-bored be-sick,pehafake
 drink; get drunk; intoxicate; SBJ makes OBJ drunk,,INCOHATIVE OF be drunk,mocafakeki
 sober; SBJ makes OBJ become sober,,CESSATIVE OF be drunk,mocafakenu
 have hangover; OBJ has a hangover,,be-bored begin be-sick,pehakifake
-tea,,leaf puddle,pancwelon
+tea,,leaf puddle,ohcwelon
 milk,,parent puddle,mamacwelon
 wine,,grape alcohol,upmocacwelon
 blood,,be-rhythmic puddle,tutumucwelon
@@ -190,8 +190,8 @@ sweat; perspiration,,be-hot puddle,okucwelon
 sweat; perspire; SBJ sweats out OBJ,,sweat exit,okucwelonkoki
 tears,,be-sad puddle,camucwelon
 cry; weep; sob; tear; SBJ cries out OBJ,,tears exit,camucwelonkoki
-mucus; snot,,breathe puddle,hihahcwelon
-have runny nose; drip mucus; SBJ's nose runs OBJ,,mucus exit,hihahcwelonkoki
+mucus; snot,,breathe puddle,hihacwelon
+have runny nose; drip mucus; SBJ's nose runs OBJ,,mucus exit,hihacwelonkoki
 semen,,have-sex puddle,seksocwelon
 ejaculate; SBJ ejaculates out OBJ,,semen exit,seksocwelonkoki
 pus,,bacterium puddle,ciciwncwelon
@@ -316,17 +316,17 @@ snail,,shell slug,pontolonkuhol
 molusk; cephalapod,,tentacle animal,tallektun
 octopus,,8 molusk,hattallektun
 decapus; squid; cuttlefish,,1 0 molusk,kannultallektun
-beard worm,,be-big tube worm,motalamasiklalonuot
-leech,,blood worm,tutumucwelonuot
-anemone; seafan; seawhip,,string plant animal,talpottun
+beard worm,,be-big tube worm,motalamasiklalonkil
+leech,,blood worm,tutumucwelonkil
+anemone; seafan; seawhip,,string plant animal,talutpittun
 coral,,be-solid life,kutiicilwel
 sea sponge,,be-foamy life,fomiicilwel
 tardigrade; waterbear; the animal,,be-small bear,pelalic
 moss; liverwort; hornwort,,landmass algae,taylsawl
 algae; alga,,ocean algae,lawtsawl
-palm tree,,be-big leaf tree,motapancuh
-pine tree,,be-thin leaf tree,cepancuh
-orchid,,flower plant,pulpot
+palm tree,,be-big leaf tree,motaohcuh
+pine tree,,be-thin leaf tree,ceohcuh
+orchid,,flower plant,pulutpit
 ginger,,,
 bird of paradise,,,
 nutmeg,,,
@@ -415,11 +415,11 @@ cereal,,be-chunky grain,isaanac
 corn; maize,,be-yellow grain,pilaanac
 noodle; linguini,,string grain,talanac
 banana,,rod fruit,sotfut
-sugarcane,,be-sweet plant,tamupot
-cotton,,be-foamy plant,fomipot
-coffee,,move plant,mopepot
-onion,,layer plant,capalonpot
-venus fly-trap,,eat plant,nyamapot
+sugarcane,,be-sweet plant,tamuutpit
+cotton,,be-foamy plant,fomiutpit
+coffee,,move plant,mopeutpit
+onion,,layer plant,capalonutpit
+venus fly-trap,,eat plant,nyamautpit
 bean,,be-flimsy seed,fulokipowipic
 nut,,be-rigid seed,fulokipowinyopic
 rubber,,be-elastic tree,polaipowicuh
@@ -740,3 +740,4 @@ make eye contact; OBJ has eye contact with IND,,eye can-see,hucyenhu
 heartbeat; have pulse; OBJ has a heartbeat {AMOUNT:heartrate},,live be-rhythmic,icitutumu
 corporation; company; business,,sell group,maioncolum
 sandpaper,,be-rough sheet,fyamofel
+party; throw party; play; hang out; celebrate; SBJ {partier; host} initiates a social gathering with OBJ {party-goers; attendee} {TIME:party; play-date},,be-social have-fun,sosiamoca

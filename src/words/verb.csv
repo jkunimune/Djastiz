@@ -320,7 +320,6 @@ beI easy; beI convenient; IND is easy to OBJ,,eng <easy> [ˈiːziː],isi
 beI difficult; beI hard; beI inconvenient; IND is hard for OBJ,,ANTONYM OF be easy,ufu
 facilitate; convenience; make easy; SBJ makes IND easier for OBJ,,INCOHATIVE OF be easy,isiki
 defacilitate; inconvenience; resist; make difficult; SBJ makes IND harder for OBJ,,CESSATIVE OF be easy,ufuki
-party; throw party; play; hang out; celebrate; SBJ {partier; host} initiates a social gathering with OBJ {party-goer; attendee} {TIME:party; play-date},,hin <पार्टी> [paːrʈiː],palti
 storytell; SBJ {storyteller} tells OBJ {*story; tale} to IND {audience; listener} {TIME:story-time},,cmn <故事> [ku˥˩ʂɨ˥˩],kuci
 stand; be erect; OBJ {standing} is standing {METHOD:posture},,mar <उभे> [ub̤e],upe
 stand up; erect; SBJ {stand} stands up OBJ,,INCOHATIVE OF stand,upeki
@@ -493,7 +492,7 @@ isolate; SBJ socially isolates OBJ from IND,,CESSATIVE OF be social,fefuaki
 ride; transport; SBJ {passenger} rides on OBJ {vehicle},,spa <monta> [ˈmonta],monta
 play; OBJ {player} is playing IND {game; sport},,epo <ludi> [ˈludi],luti
 wait; OBJ {in wait} is waiting for IND,,sho <mira> [mira],mila
-act; fill; stand in; OBJ {actor} fills the role IND {role},,spa <actúa> [akˈtua],aktua
+act; say; voice; fill; SBJ {actor} acts as though OBJ {act; role; charade; character; farce} is true,,spa <actúa> [akˈtua],aktua
 differ; be *different; be distinct; OBJ is different from IND,,yor <yàtọ̀> [jàtɔ̀],yato
 be similar; be the same; be like; be alike; OBJ is similar to IND,,ANTONYM OF differ,wale
 diverge; make different; SBJ makes OBJ become different from IND,,INCOHATIVE OF differ,yatoki
@@ -515,15 +514,15 @@ be awake; be concious; OBJ is awake,,ANTONYM OF sleep,liti
 fall asleep; put to sleep; fall unconscious; SBJ puts OBJ to sleep,,INCOHATIVE OF sleep,tuluki
 wake up; come to; SBJ (alarm clock) wakes OBJ up,,CESSATIVE OF sleep,litiki
 laugh; SBJ {laugher} laughs out OBJ {laughter},,ono [ha ha],haha
-burp; belch; SBJ {one who burps} burps out OBJ {burp},,ono [korop],kolop
-fart; SBJ {one who farts} farts out OBJ {fart; flatulence},,ono [pʰut],putut
-sneeze; SBJ {sneezer} sneezes out OBJ {sneeze},,ono [haˈt͡ʃuh],hacus
-yawn; SBJ {one who yawns} yawns OBJ {yawn},,ono [ˈhaː.aː],hawap
-hiccup; SBJ {one who hiccups} hiccups OBJ {hiccup},,ono [hikk],hikik
-cough; SBJ {cougher} coughs up OBJ {cough},,ono [ʡah],kahak
-breathe; SBJ makes OBJ breathe,,ono [hi̤ːha̤ː],hihah
-kiss; snog; make out; SBJ {kisser} kisses OBJ {kissee},,ono [mwa],mwap
-swallow; suck; consume whole; SBJ {swallower} swallows OBJ {swallowed},,ono [glup glup],kulup
+burp; belch; SBJ {one who burps} burps out OBJ {burp},,ono [korop],kolopo
+fart; SBJ {one who farts} farts out OBJ {fart; flatulence},,ono [pʰut],puthu
+sneeze; SBJ {sneezer} sneezes out OBJ {sneeze},,ono [haˈt͡ʃuh],hacu
+yawn; SBJ {one who yawns} yawns OBJ {yawn},,ono [ˈha̤ːa̤ː],hawa
+hiccup; SBJ {one who hiccups} hiccups OBJ {hiccup},,ono [hik],hiki
+cough; SBJ {cougher} coughs up OBJ {cough},,ono [ʡah],kaha
+breathe; SBJ makes OBJ breathe,,ono [hi̤ːha̤ː],hiha
+kiss; snog; make out; SBJ {kisser} kisses OBJ {kissee},,ono [mwa],mwa
+swallow; suck; consume whole; SBJ {swallower} swallows OBJ {swallowed},,ono [glup a̤ː],kulpa
 have sex; make love; SBJ initiates and has sex with OBJ,,spa <sexo> [ˈsekso],sekso
 feel; emote; be emotional; be excited; OBJ emotionally feels IND {emotion; feeling},,zul <zwa> [zwa],swa
 be proud; OBJ feels proud of IND {pride},,epo <fieri> [fiˈeri],fieli
@@ -551,7 +550,7 @@ surprise; SBJ {surprising} surprises OBJ {surprised} with IND,,cmn <惊讶> [t͡
 anticipate; be prepared; be careful; be cautious; beware; OBJ {anticipative} anticipates IND {anticipated},,cmn <期待> [t͡ɕʰi˥taɪ̯˥˩],citai
 build anticipation; prepare; caution; SBJ makes OBJ anticipative about IND,,INCOHATIVE OF anticipate,citaiki
 lower anticipation; SBJ makes OBJ stop anticipating IND,,CESSATIVE OF anticipate,citainu
-have fun; play; be amused; entertain; OBJ {entertained; audience} is entertained by IND {show; entertainment} {TIME:performance; game; show},,ben <মজা> [mɔd͡ʑa],moca
+have fun; be amused; play; entertain; OBJ {entertained; audience} is entertained by IND {show; entertainment} {TIME:performance; game; show},,ben <মজা> [mɔd͡ʑa],moca
 be bored; OBJ is bored by IND {boring},,ANTONYM OF have fun,peha
 entertain; make fun; SBJ {entertainer} makes OBJ be entertained by IND,,INCOHATIVE OF have fun,mocaki
 bore; tire; kill joy; SBJ makes OBJ be bored by IND,,CESSATIVE OF have fun,pehaki
@@ -642,7 +641,6 @@ hunt; chase; pursue; SBJ {hunter} hunts for OBJ {hunted},,epo <ĉasi> [ˈt͡ʃas
 deserve; be entitled; OBJ {worthy; deserving; entitled} deserves IND {dessert},,cmn <应受> [iŋ˥ʂoʊ̯˥˩],inco
 earn; SBJ makes OBJ deserve IND,,INCOHATIVE OF deserve,incoki
 lose privelage; SBJ makes OBJ stop deserving IND,,CESSATIVE OF deserve,inconu
-act; say; voice; SBJ {actor} acts as though OBJ {act; role; charade; character; farce} is true,,eng <act> [ækt],akta
 be steep; OBJ is steep {AMOUNT:slope},,ben <খাড়া> [kʰaɽa],kala
 be gentle; be flat; be shallow; be gradual; OBJ is not very steep,,ANTONYM OF be steep,nata
 steepen; tilt; rock; SBJ steepens OBJ,,INCOHATIVE OF be steep,kalaki
