@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.ERROR)
+logging.basicConfig(level=logging.INFO)
 
 
 DIACRITIC_GUIDE = {
@@ -191,7 +191,7 @@ def reduce_phoneme(phoneme, before='', after=''):
 			return reduced, 1
 	if phoneme in ['β','v','ⱱ','ʋ']: # these blocks will take care of the weird ones that depend on context
 		if before in ['w','u','ʊ'] or after in ['w','u','ʊ'] or (before in ['o','ɔ'] and is_consonant(after)): # for example, labial sonorants
-			return 'f', .5 # use 'f' to create contrast,
+			return 'f', 1 # use 'f' to create contrast,
 		else:
 			return 'w', .5 # 'w' otherwise
 	if phoneme == 'ʝ':
@@ -232,7 +232,7 @@ def reduce_phoneme(phoneme, before='', after=''):
 
 def apply_phonotactics(ipa, ending=''):
 	""" take some phonetic alphabet and approximate it with my phonotactics, and say how many changes there were """
-	to_convert = ipa
+	to_convert = ipa.replace('̤','')
 	lsl, changes = '', 0
 	left_phoneme, this_phoneme, next_phoneme = '', '', ''
 	while to_convert or left_phoneme: # go backwards through the word

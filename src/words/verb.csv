@@ -88,8 +88,8 @@ remove from between; pull from; take out of; SBJ removes OBJ from among IND,,CES
 be stacked; be layered; OBJ {layer} is stacked on IND {book; stack},,jav <sap> [ʂɑp],capa
 stack; layer; SBJ {stacker} stacks OBJ onto IND,,INCOHATIVE OF be stacked,capaki
 unstack; unlayer; SBJ {unstacker} unstacks OBJ from IND,,CESSATIVE OF be stacked,capanu
-"be sure; be *certain; beI probable; beI likely; OBJ is likely to happen according to IND; see ""believe"" and ""think"" {AMOUNT:Bayesian probability}",,epo <certi> [ˈt͡serti],selti
-be skeptical; beI improbable; beI unlikely; Bayesian improbability; IND is unlikely to happen according to OBJ {skeptic},,ANTONYM OF be sure,fotlu
+"be sure; be *certain; beI probable; beI likely; beI easy; OBJ is likely to happen according to IND; see ""believe"" and ""think"" {AMOUNT:probability}",,epo <certi> [ˈt͡serti],selti
+be skeptical; beI improbable; beI unlikely; IND is unlikely to happen according to OBJ {skeptic},,ANTONYM OF be sure,fotlu
 convince; persuade; make sure; SBJ provides new information that leads OBJ to come to find IND probable,,INCOHATIVE OF be sure,seltiki
 unconvince; become skeptical; SBJ provides new information that leads IND comes to beI OBJ improbable,,CESSATIVE OF be sure,fotluki
 "believe; seem; OBJ {believer} accepts that IND {belief; feeling} is true on a subconscious level; see ""be sure"" and ""think""",,zul <kholwa> [ˈkʰɔːlwa],kolwa
@@ -316,7 +316,7 @@ be low-pitched; be deep; be sonorous; OBJ {low note} is lowly pitched,,ANTONYM O
 raise; pitch up; modulate; SBJ raises the pitch of OBJ,,INCOHATIVE OF be high-pitched,haiki
 lower; deepen; SBJ lowers the pitch of OBJ,,CESSATIVE OF be high-pitched,cauki
 be rhythmic; pulse; cycle; oscillate; flash; beat; OBJ {rhythm; routine} happens rhythmically {AMOUNT:frequency},,ono [dudum dudum],tutumu
-beI easy; beI convenient; IND is easy to OBJ,,eng <easy> [ˈiːziː],isi
+beI easy; beI convenient; IND is easy to OBJ,,eng <easy> [ˈiːzi],isi
 beI difficult; beI hard; beI inconvenient; IND is hard for OBJ,,ANTONYM OF be easy,ufu
 facilitate; convenience; make easy; SBJ makes IND easier for OBJ,,INCOHATIVE OF be easy,isiki
 defacilitate; inconvenience; resist; make difficult; SBJ makes IND harder for OBJ,,CESSATIVE OF be easy,ufuki
@@ -362,7 +362,7 @@ be opaque; OBJ absorbs light that it does not reflect {AMOUNT:opacity},,epo <opa
 be transparent; be see-through; OBJ {window} lets unreflected light pass through it,,ANTONYM OF be opaque,emana
 opaquify; SBJ make OBJ become opaque,,INCOHATIVE OF be opaque,opakaki
 transparify; SBJ makes OBJ become transparent,,CESSATIVE OF be opaque,emanaki
-be shiny; shine; be reflective; be smooth; OBJ {mirror} reflects light specularly {AMOUNT:shininess},,eng <shiny> [ˈʃɑɪ̯niː],cayni
+be shiny; shine; be reflective; be smooth; OBJ {mirror} reflects light specularly {AMOUNT:shininess},,eng <shiny> [ˈʃɑɪ̯ni],cayni
 be matte; be dull; be rough; OBJ reflects light diffusely,,ANTONYM OF be shiny,hawku
 shine; polish; SBJ makes OBJ become shiny,,INCOHATIVE OF be shiny,cayniki
 matte; SBJ makes OBJ become matte,,CESSATIVE OF be shiny,hawkuki
@@ -448,7 +448,7 @@ be viscous; be thick; OBJ {paste; gel; goop} is viscous {AMOUNT:viscosity},,pan 
 be inviscous; be thin; OBJ {lubricant; oil; liquid} is inviscous,,ANTONYM OF be viscous,tofta
 thicken; increase viscosity; SBJ {thickener; viscosity increaser} makes OBJ more viscous,,INCOHATIVE OF be viscous,leslaki
 thin; decrease viscosity; SBJ {thinner; viscosity reducer} makes OBJ less viscous,,CESSATIVE OF be viscous,toftaki
-be foamy; be spongy; OBJ {foam; sponge} is foamy,,eng <foamy> [ˈfoʊ̯miː],fomi
+be foamy; be spongy; OBJ {foam; sponge} is foamy,,eng <foamy> [ˈfoʊ̯mi],fomi
 be consistent; be solid; be smooth; be filled; OBJ is solid all the way through,,ANTONYM OF be foamy,sepu
 foam; froth; rise; air; SBJ {foamer; frother} fills OBJ with small pockets,,INCOHATIVE OF be foamy,fomiki
 compress; solidify; smooth; coalesce; SBJ {defoamer} removes the small pockets from OBJ,,CESSATIVE OF be foamy,sepuki
@@ -524,29 +524,28 @@ breathe; SBJ makes OBJ breathe,,ono [hi̤ːha̤ː],hiha
 kiss; snog; make out; SBJ {kisser} kisses OBJ {kissee},,ono [mwa],mwa
 swallow; suck; consume whole; SBJ {swallower} swallows OBJ {swallowed},,ono [glup a̤ː],kulpa
 have sex; make love; SBJ initiates and has sex with OBJ,,spa <sexo> [ˈsekso],sekso
-feel; emote; be emotional; be excited; OBJ emotionally feels IND {emotion; feeling},,zul <zwa> [zwa],swa
+feel; emote; be emotional; be excited; OBJ emotionally feels IND {emotion; feeling},,zul <-zwa> [zwa],swa
 be proud; OBJ feels proud of IND {pride},,epo <fieri> [fiˈeri],fieli
 be ashamed; be sorry; be remorseful; regret; OBJ feels ashamed about IND {shameful},,ANTONYM OF be proud,suotu
 make proud; SBJ makes OBJ feel proud about IND,,INCOHATIVE OF be proud,fieliki
 shame; SBJ makes OBJ feel ashamed about IND,,CESSATIVE OF be proud,suotuki
-be excited; be interested; OBJ is excited about IND {exciting},,xho <vuyiswa> [v̤ujiswa],uiswa
-be disgusted; OBJ is disgusted by IND,,ANTONYM OF be excited,iufya
-"excite; interest; SBJ gets OBJ excited about IND""",,INCOHATIVE OF be excited,uiswaki
-"disgust; make disgusted; SBJ makes OBJ disgusted by IND""",,CESSATIVE OF be excited,iufyaki
+be excited; be interested; be hype; OBJ is excited about IND {exciting},,msa <teruja> [terud͡ʒa],teluca
+be disgusted; OBJ is disgusted by IND,,ANTONYM OF be excited,lotiha
+"excite; interest; SBJ gets OBJ excited about IND""",,INCOHATIVE OF be excited,telucaki
+"disgust; make disgusted; SBJ makes OBJ disgusted by IND""",,CESSATIVE OF be excited,lotihaki
 fear; be scared; be afraid; OBJ {fearful} is afraid of IND {scary},,ben <ভয়> [b̤e̯ɔ],pyo
 be angry; be mad; OBJ is angry about IND {maddening},,ANTONYM OF fear,mwe
 scare; frighten; make afraid; SBJ makes OBJ afraid of IND,,INCOHATIVE OF fear,pyoki
 anger; embolden; SBJ makes OBJ angry about IND,,CESSATIVE OF fear,mweki
 be timid; be skittish; OBJ is easily scared,,POSSIBILITY OF fear,pyopowi
-be courageous; be bold; be brave; OBJ is not easily scared,,ANTONYM OF be timid,mwemeyu
-timidify; frighten; SBJ makes OBJ more timid,,INCOHATIVE OF be timid,pyopowiki
-embolden; encourage; embraven; SBJ makes OBJ braver,,CESSATIVE OF be timid,mwemeyuki
-be happy; be joyful; OBJ feels happy,,eng <happy> [ˈhæpiː],hapi
+be bold; be courageous; be brave; be brash; be hot-headed; OBJ is quick to anger,,POSSIBILITY OF be angry,mwepowi
+embolden; encourage; embraven; SBJ makes OBJ bolder,,INCOHATIVE OF be bold,mwepowiki
+be happy; be joyful; OBJ feels happy,,eng <happy> [ˈhæpi],hapi
 be sad; be sorrowful; be anguished; be distressed; OBJ feels sad,,ANTONYM OF be happy,camu
 bring joy; brighten; SBJ makes OBJ happier,,INCOHATIVE OF be happy,hapiki
 sadden; anguish; distress; SBJ makes OBJ sadder,,CESSATIVE OF be happy,camuki
 be depressed; OBJ is chronically sad,,PROGRESSIVE OF be sad,camucalu
-surprise; SBJ {surprising} surprises OBJ {surprised} with IND,,cmn <惊讶> [t͡ɕiŋ˥ja˥˩],cinya
+surprise; astonish; shock; SBJ {surprising} surprises OBJ {surprised} with IND,,cmn <惊讶> [t͡ɕiŋ˥ja˥˩],cinya
 anticipate; be prepared; be careful; be cautious; beware; OBJ {anticipative} anticipates IND {anticipated},,cmn <期待> [t͡ɕʰi˥taɪ̯˥˩],citai
 build anticipation; prepare; caution; SBJ makes OBJ anticipative about IND,,INCOHATIVE OF anticipate,citaiki
 lower anticipation; SBJ makes OBJ stop anticipating IND,,CESSATIVE OF anticipate,citainu
@@ -562,17 +561,17 @@ feel *pleasure; feel good; feel satisfied; feel euphoria; OBJ {satisfied} feels 
 hurt; be in pain; IND {pain; place where it hurts} hurts OBJ,,ANTONYM OF feel pleasure,tafu
 please; satisfy; soothe; SBJ makes OBJ feel pleased by IND,,INCOHATIVE OF feel pleasure,lasiki
 torture; inflict pain; SBJ {torturer} causes OBJ to be pained by IND,,CESSATIVE OF feel pleasure,tafuki
-worry; bother; trouble; concern; IND {problem; trouble; issue} troubles OBJ {worried; bothered},,eng <worry> [ˈwɚɹʷiː],wawi
+worry; bother; trouble; concern; IND {problem; trouble; issue} troubles OBJ {worried; bothered},,eng <worry> [ˈwɚɹʷi],wawi
 relieve; calm; reassure; IND {relief} gives OBJ {soothed} relieved feelings,,ANTONYM OF worry,yayu
 make worried; make bothered; SBJ {[https://xkcd.com/1015/]} causes OBJ to be bothered by IND,,INCOHATIVE OF worry,wawiki
 assuage; sooth; relieve; calm; SBJ {reliever} causes OBJ to feel relieved by IND,,CESSATIVE OF worry,yayuki
-be likely; be normal; be common; be unremarkable; be expectable; OBJ is likely {AMOUNT:P-value},,cmn <容易> [ʐʊ̯ŋ˧˥i˥˩],cuni
+be likely; be normal; be common; be unremarkable; be expectable; OBJ is likely true {AMOUNT:P-value},,cmn <容易> [ʐʊ̯ŋ˧˥i˥˩],cuni
 be unlikely; be weird; be rare; be strange; be remarkable; be unexpected; OBJ {coincidence} is unlikely {AMOUNT:rarity; weirdness},,ANTONYM OF be likely,hiku
 increase chances; explain away; favour; SBJ makes OBJ more likely,,INCOHATIVE OF be likely,cuniki
 decrease chances; find coincidence; SBJ makes OBJ less likely,,CESSATIVE OF be likely,hikuki
 correspond; match; be respective; OBJ corresponds to IND,,msa <sama> [sama],sama
 be sharp; be clear; OBJ {edge; blade} is sharp,,epo <akra> [ˈakra],akla
-be dull; be blurry; be nebulous; OBJ is dull,,ANTONYM OF be sharp,anta
+be dull; be blunt; be blurry; be nebulous; OBJ is dull,,ANTONYM OF be sharp,anta
 sharpen; clarify; SBJ sharpens OBJ {INSTRUMENT:sharpener},,INCOHATIVE OF be sharp,aklaki
 dull; blur; SBJ dulls OBJ,,CESSATIVE OF be sharp,antaki
 be strong; be forceful; OBJ is capable of exerting a lot of force {AMOUNT:strength; force},,ibo <ike> [ike],ike
@@ -583,18 +582,18 @@ study; measure; conduct science; investigate; observe; experiment; test; researc
 employ *technology; engineer; SBJ {engineer} uses technical skills and fine problem-solving to solve OBJ {technical problem} {INSTRUMENT:technology},,cmn <技术> [t͡ɕi˥˩ʂu˥˩],cicu
 be magical; do magic; SBJ {magician; sorcerer; wizard} makes OBJ {magic trick; spell} happen magically {INSTRUMENT:magic},,hin <जादुई> [d͡ʒaːduiː],catui
 hit; strike; collide; SBJ hits OBJ {INSTRUMENT:hammer},,epo <bati> [ˈbati],pati
-"clap; slap; tick; spark; flash; SBJ makes OBJ {clap; slap; tick; spark; flash; a sudden, loud, shrill sound or action}",,ono [kʰ],kaha
+"clap; slap; tick; spark; flash; SBJ makes OBJ {clap; slap; tick; spark; flash; a sudden, loud, shrill sound or action}",,ono [kʰ],kehe
 "boom; crash; SBJ makes OBJ {boom; crash; a sudden, loud, sonorous sound or action}",,ono [bum],puma
 "screech; wail; whistle; SBJ makes OBJ {screech; wail; whistle; a drawn-out, shrill sound or action}",,ono [fwiː],fwi
 "hum; buzz; SBJ makes OBJ {hum; buzz; a drawn-out, sonorous sound or action}",,ono [mː],mumu
-"chatter; wobble; rustle; rattle; SBJ makes OBJ {chatter; wobble; rustle; rattle; a noisy, shrill sound or action}",,ono [t͡ʃət͡ʃət͡ʃə],cecece
-"rumble; flicker; SBJ makes OBJ {rumble; flicker; a noisy, sonorous sound or action}",,ono [wumbawumba],umpaumpa
-cook; prepare; make; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave; SBJ {cook; chef; baker} cooks OBJ {cooking} {INSTRUMENT:pot; pan},,ben <রান্না> [ran̪n̪a],lana
+"chatter; wobble; rustle; rattle; SBJ makes OBJ {chatter; wobble; rustle; rattle; a noisy, shrill sound or action}",,ono [t͡ʃət͡ʃə],cece
+"rumble; flicker; SBJ makes OBJ {rumble; flicker; a noisy, sonorous sound or action}",,ono [wumba],wompa
+cook; prepare; make; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave; SBJ {cook; chef; baker} cooks OBJ {cooking} {INSTRUMENT:pot; pan},,xho <-pheka> [pʰɛka],peka
 help; be for; ally; support; benefit; work with; be auxiliary; OBJ {helper} is working toward the same goal as IND {ally; friend},,epo <helpi> [ˈhelpi],helpi
 hinder; be against; oppose; harm; compete; fight; counter; OBJ {opposer} is working toward a goal contrary to that of IND {opponent; competitor; enemy},,ANTONYM OF help,cotmu
 align with; join; team up; SBJ {alliance forger} makes OBJ ally with IND,,INCOHATIVE OF help,helpiki
 turn against; betray; split up; SBJ {instigator} turns OBJ {traitor} against IND,,CESSATIVE OF help,cotmuki
-fight; battle; OBJ {fighter; warrior} is in a violent engagement with IND {adversary; opponent} {INSTRUMENT:weapon|TIME:battle},,xho <lwa> [lwa],lwa
+fight; battle; OBJ {fighter; warrior} is in a violent engagement with IND {adversary; opponent} {INSTRUMENT:weapon|TIME:battle},,xho <-lwa> [lwa],lwa
 attack; sick; aggravate; SBJ {attacker} causes OBJ to fight IND,,INCOHATIVE OF fight,lwaki
 make peace; call off; deescalate; SBJ {peace maker} causes OBJ to stop fighting IND,,CESSATIVE OF fight,lwanu
 win; beat; lose; SBJ {winner; victor} wins OBJ {contest; game} against IND {loser; defeated},,spa <gana> [ˈɡana],kana
@@ -610,20 +609,20 @@ be healthy; OBJ is healthy {AMOUNT:health},,spa <sano> [ˈsano],sano
 be sick; be ill; OBJ is sick {METHOD:sickness; disease; illness},,ANTONYM OF be healthy,fake
 heal; treat; SBJ {doctor; healer} heals OBJ {patient} {INSTRUMENT:medicine},,INCOHATIVE OF be healthy,sanoki
 sicken; poison; SBJ {poisoner} sickens OBJ {poisoned} {INSTRUMENT:poison},,CESSATIVE OF be healthy,fakeki
-be married; OBJ is married to IND {spouse},,ibo <lụrụ> [lʊɾʊ],lulu
-marry; wed; SBJ marries OBJ to IND {TIME:wedding},,INCOHATIVE OF be married,luluki
-divorce; SBJ divorces OBJ from IND,,CESSATIVE OF be married,lulunu
-function; work; go; OBJ does what it is supposed to do,,yor <sisẹ> [sisɛ],sise
-be functional; be effective; work; OBJ works,,POSSIBILITY OF function,sisepowi
-be nonfunctional; be broken; be incapacitated; OBJ does not work,,NEGATIVE OF be functional,sisepowinyo
-beI serious; admire; respect; awe; OBJ {in awe; respectful} takes IND {admired; awesome} seriously,,zul <sina> [sina],sina
-beI funny; amuse; beI silly; be ironic; goof off; IND {amusing} is funny to OBJ {goof},,ANTONYM OF be serious,fuka
-awe; command respect; SBJ makes OBJ take IND seriously,,INCOHATIVE OF be serious,sinaki
-mock; make fun; SBJ makes OBJ stop taking IND seriously,,CESSATIVE OF be serious,fukaki
-cost; be expensive; OBJ {valuable} costs a lot {AMOUNT:price; cost},,spa <cuesta> [ˈkwesta],kosta
-be cheap; OBJ does not cost a lot,,ANTONYM OF be expensive,nefla
-mark up; SBJ increases the cost of OBJ,,INCOHATIVE OF be expensive,kostaki
-discount; mark down; SBJ decreases the cost of OBJ,,CESSATIVE OF be expensive,neflaki
+be married; OBJ is married to IND {spouse},,yor <ìyàwó> [ìjáwó],iawo
+marry; wed; SBJ marries OBJ to IND {TIME:wedding},,INCOHATIVE OF be married,iawoki
+divorce; SBJ divorces OBJ from IND,,CESSATIVE OF be married,iawonu
+function; work; go; OBJ does what it is supposed to do,,yor <isẹ> [isɛ],ise
+be functional; be effective; work; OBJ works,,POSSIBILITY OF function,isepowi
+be nonfunctional; be broken; be incapacitated; OBJ does not work,,NEGATIVE OF be functional,isepowinyo
+beI serious; admire; respect; awe; OBJ {in awe; respectful} takes IND {admired; awesome} seriously,,spa <serio> [ˈseɾjo],selyo
+beI funny; amuse; beI silly; be ironic; goof off; IND {amusing} is funny to OBJ {goof},,ANTONYM OF be serious,fotwe
+awe; command respect; SBJ makes OBJ take IND seriously,,INCOHATIVE OF be serious,selyoki
+mock; make fun; SBJ makes OBJ stop taking IND seriously,,CESSATIVE OF be serious,fotweki
+cost; be expensive; OBJ {valuable} costs a lot {AMOUNT:price; cost},,epo <kosti> [ˈkosti],kosti
+be cheap; OBJ does not cost a lot,,ANTONYM OF be expensive,neflu
+mark up; SBJ increases the cost of OBJ,,INCOHATIVE OF be expensive,kostiki
+discount; mark down; SBJ decreases the cost of OBJ,,CESSATIVE OF be expensive,nefluki
 have faith; be faithful; hope; OBJ faithfully believes in IND {faith; belief} {AMOUNT:faith; faithfulness|METHOD:religion; faith},,epo <fidi> [ˈfidi],fiti
 give faith; take faith; build up hope; SBJ causes OBJ to gain faith in IND,,INCOHATIVE OF have faith,fitiki
 lose faith; destroy faith; lose hope; SBJ causes OBJ to lose faith in IND,,CESSATIVE OF have faith,fitinu
@@ -650,10 +649,10 @@ be relaxed; be lax; be chill; OBJ is not under pressure,,ANTONYM OF be tense,lok
 tense up; intensify; pressurise; SBJ puts OBJ under pressure,,INCOHATIVE OF be tense,tensoki
 relax; take off pressure; SBJ takes pressure off of OBJ,,CESSATIVE OF be tense,lokfeki
 choose; decide; SBJ {arbitrator} chooses OBJ {choice; decision},,spa <elige> [eˈlixe],elehe
-be natural; OBJ {nature} is natural,,ibo <eke> [eke],eke
-be artificial; be unnatural; OBJ is artificial,,ANTONYM OF be natural,ono
-naturalise; SBJ makes OBJ become natural,,INCOHATIVE OF be natural,ekeki
-process; artificialise; SBJ makes OBJ become artificial,,CESSATIVE OF be natural,onoki
+be natural; OBJ {nature} is natural,,epo <natura> [naˈtura],natula
+be artificial; be unnatural; OBJ is artificial,,ANTONYM OF be natural,kalita
+naturalise; SBJ makes OBJ become natural,,INCOHATIVE OF be natural,natulaki
+process; artificialise; SBJ makes OBJ become artificial,,CESSATIVE OF be natural,kalitaki
 be amazing; be extreme; be incredible; be absurd; OBJ is to a very high degree,,swa <ajabu> [aʄaɓu],acapu
 be average; be meh; be moderate; OBJ is to a low degree,,ANTONYM OF be amazing,ahami
 be widespread; be prevalent; be expansive; OBJ exists in many places {AMOUNT:prevalence},,jav <ambra> [ɑmpɽɔ],amla
@@ -663,7 +662,7 @@ extinguish; erase; confine; recede; SBJ {extinguisher} makes OBJ less prevalent,
 be contagious; OBJ is contagious,,POSSIBILITY OF spread,amlakipowi
 push; repell; SBJ {force} pushes on OBJ {pushed},,epo <puŝi> [ˈpuʃi],puci
 pull; attract; SBJ {attraction} pulls on OBJ {pulled},,REVERSAL OF push,mihu
-be infinite; OBJ {infinity} is infinitely so,,swa <usio> [usio],usio
+be infinite; OBJ {infinity} is infinitely so,,ben <অসীম> [os̪im],osimi
 be specific; be particular; OBJ is specific,,cmn <具体> [t͡ɕy˥˩tʰi˧˩˧],ciwti
 be general; be vague; OBJ is general,,ANTONYM OF be specific,huylu
 specify; identify; SBJ specifies OBJ,,INCOHATIVE OF be specific,ciwtiki

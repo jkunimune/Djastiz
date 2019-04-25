@@ -91,7 +91,7 @@ In addition to this subset of Latin letters, a subset of other Latin symbols may
 There are several more letters that may be used for transcribing foreign names in Ulcwoliel. Guidelines on when to do this can be found in section ?. 
 
 Approved extensions to the Chatisun alphabet for more accurate transcription of loanwords:
-ɒ u̟ ɯ ŋ ʔ b d g θ ʃ x v ð z ʒ ʀ ʙ r | ˩ ˧ ˥
+ɒ ø ɥ ɤ ɯ ŋ ʔ b d g θ ʃ x v ð z ʒ ʀ ʙ r | ˩ ˧ ˥
 
 |                          | Labial | Dental | Alveolar | Postalveolar&tilde;Retroflex | Palatal | Velar&tilde;Uvular | Pharangeal&tilde;Glottal |
 |--------------------------|--------|--------|----------|--------------|---------|-------|---------|
@@ -106,12 +106,12 @@ Approved extensions to the Chatisun alphabet for more accurate transcription of 
 |**Click/Implosive**       | \|     | \|     | \|       | \|           | \|      | \|    |         |
 |**Secondary articulation**| ◌w     | ◌ɹ     | ◌ɹ       | ◌ɹ           | ◌y      | ◌ʀ    | ◌ʔ      |
 
-|               | Front | Central | Back |
-|---------------|-------|---------|------|
-|**Approximant**| j u̟   | j w     | ɯ w  |
-|**Close**      | i u̟   | i u     | ɯ u  |
-|**Mid**        | e u̟   | ə ə     | ɯ o  |
-|**Open**       | a ɒ   | a ɒ     | a ɒ  |
+|             | Front | Central | Back |
+|-------------|-------|---------|------|
+|**Semivowel**| y ɥ   | y w     | ɯ w  |
+|**Close**    | i ɥ   | ɨ ʉ     | ɯ u  |
+|**Mid**      | e ø   | ə ə     | ɤ o  |
+|**Open**     | a ɒ   | a ɒ     | a ɒ  |
 
 |                   |    |          |   |
 |-------------------|----|----------|---|
