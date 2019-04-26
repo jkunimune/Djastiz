@@ -30,8 +30,7 @@ alphabet {GENITIVE:alphabetical},,letter list,sumoltolum
 part-of-speech,,word category,suhtipalum
 onomatopoeia,,sound word,oyelumsuh
 design; SBJ {designer} makes OBJ {designed} with the goal of IND {design goal},,try create,ciestaki
-country; sovereign; independent state {GENITIVE:national; federal},,be-free state,nikhukwelon
-province; state; territory; constituent country; sub-polity {GENITIVE:provincial; state; territorial},,be-in-control state,kuncikwelon
+province; state; territory; constituent country; sub-polity {GENITIVE:provincial; state; territorial},,be-inside state,kuncikwelon
 international; global,,much political,kehtecak
 conlang; constructed language,,design language,ciestakitilip
 auxlang; international auxiliary language,,international language,kehtecaktilip
@@ -141,7 +140,9 @@ be flesh; be meat; OBJ is made of flesh,,animal be-flimsy,tunfulokipowi
 "subcontinent (e.g. Europe, South Asia)",,be-small continent,pelapawan
 beach,,landmass edge,taylhetalum
 oasis; watering hole,,be-liquid point,cwetyen
-island,,small landmass,pelalontayl
+"continent; large landmass bounded by ocean on most sides, e.g. Eurasia, North America",,be-big landmass,
+"subcontinent; subsection of a continent bounded by divisors of geographical and cultural significance, e.g. Europe, South Asia",,be-inside continent,
+island; landmass that is smaller than a continent and bounded by ocean,,be-small landmass,pelalontayl
 lake; pond,,pure ocean,puhtelonlawt
 river; stream; brook,,be-liquid line,cwesitelon
 waterfall,,water fall where-(relative),icicwelontalyot
@@ -452,9 +453,9 @@ watch; wristwatch,,arm clock,amkwelwelsomaluat
 be found; OBJ knows where SBJ is,,where-(relative) think,lyotpensi
 go through; OBJ moves into and then out of IND {tube; hallway; corridor},,enter exit,nekikoki
 travel; SBJ travels from IND to OBJ {destination; getaway},,be-far move,kulemope
-society,,person group,wononcolum
-economy,,sell group,maioncolum
-ecosystem; environment,,life group,icilweloncolum
+society,,be-social network,wononcolum
+economy,,sell network,maioncolum
+ecosystem; environment,,live network,icilweloncolum
 advertise; SBJ {advertiser} advertises IND {advertisement} to OBJ {advertisee},,sell show,maicuaki
 ticket; voucher,,sell sheet,maifel
 be magnetic; OBJ {magnet} is magnetic,,pull be-metal,mihutatu
@@ -741,3 +742,6 @@ heartbeat; have pulse; OBJ has a heartbeat {AMOUNT:heartrate},,live be-rhythmic,
 corporation; company; business,,sell group,maioncolum
 sandpaper,,be-rough sheet,fyamofel
 party; throw party; play; hang out; celebrate; SBJ {partier; host} initiates a social gathering with OBJ {party-goers; attendee} {TIME:party; play-date},,be-social have-fun,sosiamoca
+word; sememe {GENITIVE:lexical; literal},,say piece,
+glyph; character; letter; grapheme,,write piece,
+sound; phoneme,,speak piece,

@@ -1,69 +1,70 @@
 eng,spa,source,ltl
-notion; idea; not necessarily true or objective {GENITIVE:conceptual; ideal},,yor <iro> [iro],il
-point; a particular time or place {GENITIVE:particular; local},,eng <point> [pʰɔɪ̯nt],poyn
-path; line; curve {GENITIVE:linear; curvilinear},,eng <path> [pʰæθ],pas
-surface; plane; layer {GENITIVE:planar; superficial; facial},,ibo <elu> [elu],el
-region; volume; interval {GENITIVE:regional; volumetric; periodic},,spa <región> [reˈxjon],lehyon
-stick; rod; limb,,pan <ਸੋਟੀ> [soʈi],sot
-string; thread; wire; hair; thread,,hin <तार> [taːr],tal
-plate; board; wall,,OPPOSITE OF string,lat
-sheet; slip,,OPPOSITE OF rod,fel
-network; net; web; system {GENITIVE:web},,spa <red> [reð],let
-person; woman; man; human {GENITIVE:personal; humanistic; domesticated},,jav <wong> [wɔŋ],won
+notion; idea; information; data; number; intangible information that is not necessarily true {GENITIVE:conceptual; ideal; theoretical; informational},,yor <iro> [iro],il
+point; particular time or place {GENITIVE:particular; local},,eng <point> [pʰɔɪ̯nt],poyn
+path; line; curve; one-dimensional locus {GENITIVE:linear; curvilinear},,eng <path> [pʰæθ],pas
+surface; plane; layer; two-dimensional locus {GENITIVE:planar; superficial; facial},,ibo <elu> [elu],el
+region; volume; interval; continuous locus bounded on all sides {GENITIVE:regional; volumetric; periodic},,spa <región> [reˈxjon],lehyon
+stick; rod; limb; rigid roughly straight one-dimensional object,,pan <ਸੋਟੀ> [soʈi],sot
+string; thread; wire; hair; thread; flexible one-dimensional object,,hin <तार> [taːr],tal
+plate; board; wall; rigid two-dimensional object,,OPPOSITE OF string,lat
+sheet; slip; flexible two-dimensional object,,OPPOSITE OF rod,fel
+network; net; web; system; collection of interconnected nodes {GENITIVE:web},,spa <red> [reð],let
+person; woman; man; human; homo sapien {GENITIVE:personal; humanistic; domesticated},,jav <wong> [wɔŋ],won
 personify; humanise; anthropomorphise,,INCOHATIVE OF person,wonki
-beast; wild animal {GENITIVE:wild; beastial; animalistic; visceral},,OPPOSITE OF person,yek
-baby {GENITIVE:infantile},,ono [ɡuː ɡaː],kukam
-adult {GENITIVE:adult},,eng <adult> [ˈædəɫt],atul
-child; girl; boy; adolescent; youth; kid {GENITIVE:juvenile},,OPPOSITE OF adult,alit
-senior citizen; elder; a _really_ old person {GENITIVE:elder},,OPPOSITE OF baby,ninap
-specialist; personel; qualified {GENITIVE:special; technical},,msa <pakar> [pakar],pakal
-layperson; civilian; customer; member of the public {GENITIVE:popular; general},,OPPOSITE OF specialist,manat
-light {GENITIVE:photic; optic; luminescient},*luz,spa <luz> [lus],lus
-"god; deity; a general term, not a reference to any particular god {GENITIVE:divine; godly; deific}",,cmn <神> [ʂən˧˥],can
-ground; planet {GENITIVE:terrestrial; planetary},,hin <भूमि> [b̤uːmi],pum
-sky; atmosphere; weather; heavens {GENITIVE:celestial; atmospheric; meteorological; aerial},,OPPOSITE OF ground,mip
-outer *space; cosmos {GENITIVE:cosmic; astral; interstellar},,nya <malo> [maɽo],mal
-sun; star {GENITIVE:solar; stellar},,epo <suno> [ˈsuno],sun
-moon; satelite {GENITIVE:lunar},,OPPOSITE OF sun,fik
-ocean; sea {GENITIVE:marine; oceanic},,msa <laut> [lawt],lawt
-land; landmass {GENITIVE:terrestrial},,OPPOSITE OF ocean,tayl
-"continent; North America, Eurasia, etc. {GENITIVE:continental}",,jav <bawana> [pɑ̤wɔnɔ],pawan
-mountain {GENITIVE:mountainous; montanical},,nya <phiri> [pʰiɽi],pil
-valley {GENITIVE:valley},,OPPOSITE OF mountain,mut
-settlement; *city; town; village {GENITIVE:urban; villestial},,cmn <市> [ʂɨ˥˩],cih
-state; *country; polity {GENITIVE:political; national},,hin <देश> [deʃ],tec
-storm; tempest {GENITIVE:stormy; cyclonical},,ben <ঝড়> [d͡ʑ̤ɔɽɔ],col
-art {GENITIVE:artistic},,cmn <艺术> [i˥˩ʂu˥˩],ic
-sentence {GENITIVE:sentential},,msa <ayat> [ajat],ayat
-word {GENITIVE:lexical; literal},,cmn <字> [t͡sɯ˥˩],suh
-letter; phoneme {GENITIVE:epistolary; alphabetical; phonemic},*letra,cmn <字母> [t͡sɯ˥˩mu˧˩˧],sum
-home {GENITIVE:domestic},,eng <home> [hoʊ̯m],hom
-furniture,,swa <samani> [samani],saman
-body; chassis {GENITIVE:bodily; physical; corporal},,ben <শরীর> [ɕɔrir],colil
-spirit; soul,,OPPOSITE OF body,hetut
-hair {GENITIVE:pilar; hairy},,cmn <头发> [tʰoʊ̯˧˥fa],tof
-face {GENITIVE:facial},,eng <face> [feɪ̯s],fes
-head {GENITIVE:cranial; cephalic},,hin <सिर> [sir],sil
-torso {GENITIVE:torsal},,ben <ধড়> [d̪̤ɔɽɔ],tol
-arm {GENITIVE:brachial; appendicular},,eng <arm> [ɑɹm],am
-hand {GENITIVE:manual},,cmn <手> [ʂoʊ̯˧˩˧],coh
-finger; toe {GENITIVE:digital},,mar <बोट> [boʈ],pot
-buttocks; butt; bum {GENITIVE:gluteal; posterial},,fil <pigi> [piɡi],pik
-leg; appendage {GENITIVE:crural; appendicular},,eng <leg> [lɛɡ],lek
-gland; organ; node {GENITIVE:glandular; nodal; bodily; internal},,cmn <腺> [ɕjɛn˥˩],cyen
-female; woman {GENITIVE:female},,eng <female> [ˈfiːmeɪ̯ɫ],fimel
-male; man {GENITIVE:male},,OPPOSITE OF female,supot
-chest; breast; bussom {GENITIVE:chestal; mamillary},,hin <छाती> [t͡ʃʰaːtiː],cat
-claw; quill; fingernail; {GENITIVE:ungual; sharp},,spa <garra> [ˈɡara],kal
-scale; squame; flake {GENITIVE:squamous; scaly},*escama,cmn <鳞> [lin˧˥],lin
-feather {GENITIVE:plumal; feathery; feathered},,jav <wulu> [wuɭu],ul
-egg {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],tan
-seed {GENITIVE:seminal},,hin <बीज> [biːd͡ʒ],pic
-leaf; blade of grass {GENITIVE:foliar; leafy},,spa <hoja> [ˈoxa],oh
-fruit {GENITIVE:pomonal; fruity},,eng <fruit> [fɹʷuːt],fut
-root {GENITIVE:radical; rooted},,pan <ਰੂਟ> [ɾuʈ],lut
-stem; trunk; treetrunk {GENITIVE:basal; stemular; trunkular},,epo <tigo> [ˈtiɡo],tik
-flower {GENITIVE:floral},,hin <फूल> [pʰuːl],pul
+beast; wild animal; non-human animal {GENITIVE:wild; beastial; animalistic; visceral},,OPPOSITE OF person,yek
+baby; infant; newborn; very young and underdeveloped animal {GENITIVE:infantile},,ono [ɡuː ɡaː],kukam
+child; girl; boy; adolescent; youth; kid; not fully-grown animal {GENITIVE:juvenile; adolescent},,,
+adult; fully-grown animal {GENITIVE:adult},,OPPOSITE OF child,atul
+senior citizen; elder; very old and decrepit animal {GENITIVE:elder},,OPPOSITE OF baby,ninap
+specialist; personnel; qualified; authorised; person with special training and knowledge in a context {GENITIVE:special; technical},,msa <pakar> [pakar],pakal
+layperson; civilian; customer; member of the public; person with only general knowledge in a context {GENITIVE:popular; general},,OPPOSITE OF specialist,manat
+light; electromagnetic radiation {GENITIVE:photic; optic; luminescient},*luz,spa <luz> [lus],lus
+"god; deity; superhuman entity worshiped as having great influence over reality, but not any god in particular {GENITIVE:divine; godly; deific}",,cmn <神> [ʂən˧˥],can
+ground; planet; gravitationally-bound solid mass {GENITIVE:terrestrial; planetary},,hin <भूमि> [b̤uːmi],pum
+sky; atmosphere; weather; heavens; the pneumatic space directly above the ground {GENITIVE:celestial; atmospheric; meteorological; aerial},,OPPOSITE OF ground,mip
+outer *space; cosmos; the vacuumic space above the atmosphere {GENITIVE:cosmic; astral; interstellar},,nya <malo> [maɽo],mal
+sun; star; gravitationally-bound mass of burning plasma {GENITIVE:solar; stellar},,epo <suno> [ˈsuno],sun
+moon; satellite; solid object gravitationally orbiting another {GENITIVE:lunar},,OPPOSITE OF sun,fik
+ocean; sea; large interconnected bodies of liquid covering most of a planet {GENITIVE:marine; oceanic},,msa <laut> [lawt],lawt
+land; landmass; solid surface above and surrounded by ocean {GENITIVE:terrestrial},,OPPOSITE OF ocean,tayl
+mountain; large elevated region of a planet's crust {GENITIVE:mountainous; montanical},,nya <phiri> [pʰiɽi],pil
+valley; large locally depressed region of a planet's crust {GENITIVE:valley},,OPPOSITE OF mountain,mut
+settlement; *city; town; village; dense collection of human homes {GENITIVE:urban; villestial},,cmn <市> [ʂɨ˥˩],cih
+storm; tempest; violent and dangerous disturbance of the atmosphere {GENITIVE:stormy; cyclonical},,ben <ঝড়> [d͡ʑ̤ɔɽɔ],col
+state; *country; polity; politically independent group of people {GENITIVE:political; national; federal},,hin <देश> [deʃ],tec
+culture; nation; tribe; clan; human social group {GENITIVE:cultural; national; tribal; social},,sho <tsika> [t͡sika],sik
+art; art {GENITIVE:artistic},,cmn <艺术> [i˥˩ʂu˥˩],ic
+phrase; sentence; meaningful string of words {GENITIVE:phrasal; sentential},,msa <ayat> [ajat],ayat
+family; intimate group of people {GENITIVE:familial},,,
+home; place of residence of an individual or family {GENITIVE:domestic},,eng <home> [hoʊ̯m],hom
+furniture; large movable equipment used to make a space more livable,,swa <samani> [samani],saman
+season; period of time characterised by some thing or event {GENITIVE:seasonal},,ben <ঋতু> [ɽit̪u],lit
+reality; possibility; world; dimension; universe; collection of all coexisting things {GENITIVE:realistic; possible; dimensional},,epo <realaĵo> [reaˈlaʒo],lealac
+layout; topography; geography {GENITIVE:topographical; geographical},,ben <বিন্যাস> [bin̪d͡zas̪],pinsas
+body; chassis; physical manifestation {GENITIVE:bodily; physical; corporal},,ben <শরীর> [ɕɔrir],colil
+spirit; soul; spiritual essence,,OPPOSITE OF body,hetut
+gland; organ; node; functional organic module {GENITIVE:glandular; nodal; bodily; internal},,cmn <腺> [ɕjɛn˥˩],cyen
+"female; woman; animal biologically characterised by ovaries, vaginas and estrogen {GENITIVE:female}",,eng <female> [ˈfiːmeɪ̯ɫ],fimel
+"male; man; animal biologically characterised by testicles, penises, and testosterone {GENITIVE:male},,OPPOSITE OF female,supot
+hair; fur; organically extruded strings {GENITIVE:pilar; hairy},,cmn <头发> [tʰoʊ̯˧˥fa],tof
+face; the front part of a head {GENITIVE:facial},,eng <face> [feɪ̯s],fes
+head; the bulge on top of an animal containing many of its sensual and cognitive capabilities {GENITIVE:cranial; cephalic},,hin <सिर> [sir],sil
+torso; trunk; stem; core; central base of a body {GENITIVE:torsal; basal},,ben <ধড়> [d̪̤ɔɽɔ],tol
+arm; long appendage used for manipulation {GENITIVE:brachial; appendicular},,eng <arm> [ɑɹm],am
+hand; multi-appendaged manipulator {GENITIVE:manual},,cmn <手> [ʂoʊ̯˧˩˧],coh
+finger; toe; small manipulator attached to a hand or foot {GENITIVE:digital},,mar <बोट> [boʈ],pot
+buttocks; butt; bum; the soft region between the back of an animal's legs and torso {GENITIVE:gluteal; posterial},,fil <pigi> [piɡi],pik
+leg; appendage; long appendage used for transportation {GENITIVE:crural; appendicular},,eng <leg> [lɛɡ],lek
+chest; breast; bussom; the upper front surface of a torso {GENITIVE:chestal; mamillary},,hin <छाती> [t͡ʃʰaːtiː],cat
+"claw; quill; fingernail; rigid, sharp, organic protrusion {GENITIVE:ungual; sharp}",,spa <garra> [ˈɡara],kal
+"scale; squame; flake; rigid, external, organic plate used in array with others {GENITIVE:squamous; scaly}",*escama,cmn <鳞> [lin˧˥],lin
+"feather; rigid organic extension of a bird or dinosaur lined with hairs {GENITIVE:plumal; feathery; feathered},,jav <wulu> [wuɭu],ul
+egg; the first cell of a new organism {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],tan
+seed; small courier of genetic information {GENITIVE:seminal},,hin <बीज> [biːd͡ʒ],pic
+leaf; blade of grass; photosynthetic flap of a plant {GENITIVE:foliar; leafy},,spa <hoja> [ˈoxa],oh
+fruit; seed-bearing structure of a flowering plant {GENITIVE:pomonal; fruity},,eng <fruit> [fɹʷuːt],fut
+flower; pollen-bearing structure of a flowering plant {GENITIVE:floral},,hin <फूल> [pʰuːl],pul
+"root; basic and stabilising portion of a system, esp. of a plant {GENITIVE:radical; rooted}",,pan <ਰੂਟ> [ɾuʈ],lut
 grain {GENITIVE:cereal},,hin <अनाज> [anaːd͡ʒ],anac
 rice {GENITIVE:rozal; ricey},,cmn <饭> [fan˥˩],fan
 corn; maize {GENITIVE:cornly; corny},,spa <maíz> [maˈis],mais
@@ -72,12 +73,6 @@ soy; soybean {GENITIVE:sojan},,spa <soja> [ˈsoxa],soh
 tomato {GENITIVE:tomatan},,epo <tomato> [toˈmato],tomat
 grape {GENITIVE:vineal},,spa <uva> [ˈuβa],up
 apple {GENITIVE:pomaceous},,hin <सेब> [seb],sep
-information; notion; data; number {GENITIVE:informational; theoretical},,ibo <ozi> [ozi],os
-season {GENITIVE:seasonal},,ben <ঋতু> [ɽit̪u],lit
-reality; possibility; world; dimension; universe {GENITIVE:realistic; possible; dimensional},,epo <realaĵo> [reaˈlaʒo],lealac
-culture; nation; tribe; clan {GENITIVE:cultural; national},,sho <tsika> [t͡sika],sik
-layout; topography; geography {GENITIVE:topographical; geographical},,ben <বিন্যাস> [bin̪d͡zas̪],pinsas
-computer {GENITIVE:digital; electronic; computerised},,xho <khomputha> [kʰɔmputʰa],komput
 animal; meat {GENITIVE:animal; meaty},,cmn <动物> [tʊ̯ŋ˥˩u˥˩],tun
 plant; vegetable {GENITIVE:botanical; vegetal},,ben <উদ্ভিদ> [ud̪b̤id̪],utpit
 fungus {GENITIVE:fungal; fungic; fungous},,cmn <菌> [t͡ɕyn˥],ciwn
@@ -156,3 +151,4 @@ bulrush; reed; cattail; water sausage; typha,,epo <tifao> [tiˈfao],tifaoh
 grass; seagrass; rush; sedge,,hin <घास> [ɡ̤aːs],kas
 bamboo,,pan <ਬਾਂਸ> [bɑ̃s],pan
 machine; robot; automaton,,epo <maŝino> [maˈʃino],macin
+computer {GENITIVE:digital; electronic; computerised},,xho <khomputha> [kʰɔmputʰa],komput
