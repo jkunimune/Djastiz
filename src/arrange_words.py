@@ -190,7 +190,7 @@ def reduce_phoneme(phoneme, before='', after=''):
 		if phoneme in fulls:
 			return reduced, 1
 	if phoneme in ['β','v','ⱱ','ʋ']: # these blocks will take care of the weird ones that depend on context
-		if before in ['w','u','ʊ'] or after in ['w','u','ʊ'] or (before in ['o','ɔ'] and is_consonant(after)): # for example, labial sonorants
+		if before in ['w','u','ʊ'] or after in ['w','u','ʊ',''] or (before in ['o','ɔ'] and is_consonant(after)): # for example, labial sonorants
 			return 'f', 1 # use 'f' to create contrast,
 		else:
 			return 'w', .5 # 'w' otherwise
