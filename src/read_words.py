@@ -23,7 +23,7 @@ EPITRANSLATORS = {lang:epitran.Epitran(script) for lang, script in
 def read_mandarin(word):
 	""" read a word phonetically in Hanzi (Mandarin pronunciations) """
 	try:
-		broad = hanzi.to_ipa(word).replace('ɪ','ɪ̯').replace('ʊ','ʊ̯').replace('ʈʂ','ʈ͡ʂ').replace('tɕ','t͡ɕ').replace('ts','t͡s').replace(' ','') # well, that was easy
+		broad = hanzi.to_ipa(word).replace('ɪ','ɪ̯').replace('ʊ','ʊ̯').replace('ʈʂ','ʈ͡ʂ').replace('tɕ','t͡ɕ').replace('ts','t͡s').replace('ʐ','ɻ').replace(' ','') # well, that was easy
 	except ValueError:
 		broad = '*'
 	return broad, broad

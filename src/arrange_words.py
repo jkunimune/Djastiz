@@ -212,9 +212,14 @@ def reduce_phoneme(phoneme, before='', after=''):
 			return 'yu', 1 # and not like much on its own
 	if phoneme == 'ɹ':
 		if (is_vowel(before) or before == '') and is_vowel(after):
-			return 'l', 0 # use 'l' when intervocalic or initial and prevocalic
+			return 'l', 1 # use 'l' when intervocalic or initial and prevocalic
 		else:
 			return '', 0 # otherwise it's better as nothing
+	if phoneme == 'ɻ':
+		if (is_vowel(before) or before == '') and is_vowel(after):
+			return 'l', 1 # use 'l' when intervocalic or initial and prevocalic
+		else:
+			return '', 1 # otherwise it's better as nothing (but not as good in the alveolar case)
 	if phoneme in ['ɲ','c','ɟ','ç','ʄ']:
 		for fulls, reduced in PALATAL_CHANGES:
 			if phoneme in fulls:
@@ -482,7 +487,7 @@ def load_dictionary(directory):
 						k = deriv_statement.index(':')
 						unprocessed_derivatives[deriv_statement[:k]][key] = deriv_statement[k+1:]
 					else:
-						assert value[i-4:i-1] in ['SBJ','OBJ','IND'], value
+						assert value[i-4:i-1] in ['SBJ','OBJ','IND'], '{}\t"{}"\t{}?'.format(value[:i-4], value[i-4:i-1], value[i-1:])
 						unprocessed_derivatives[value[i-4:i-1]][key] = deriv_statement
 				value = (value[:i-1] + value[j+1:]).strip()
 				entry[key] = value

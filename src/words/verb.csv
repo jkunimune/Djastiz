@@ -70,9 +70,9 @@ be tangible; be physical; be objective; IND {object; thing} is tangible to OBJ,,
 be digital; be intangible; be abstract; be nonphysical; IND {concept} is abstract from OBJ's point of view,,NEGATIVE OF be tangible,amapowinyo
 print; tangiblise; soidify; SBJ {printer} brings OBJ into the physical realm,,INCOHATIVE OF be tangible,amapowiki
 scan; abstract; intangiblise; SBJ {scanner abstracter} takes OBJ out of the physical realm,,CESSATIVE OF be tangible,amapowinu
-read; load; interpret; SBJ {reader} reads OBJ {file; text; reading; passage; data; note} from the physical state of IND {source},,cmn <读> [tu˧˥],tu
-write; record; type; mark; save; transcribe; SBJ {writer} encodes OBJ {writing; data} physically on IND {record; book} {INSTRUMENT:writing utensil|LOCATION:desk; writing surface|GENITIVE:literary; scriptural|METHOD:script; writing system; encoding},,ibo <de> [de],te
-erase; overwrite; obscure; SBJ {one who erases; eraser} removes traces of OBJ {erased} from IND {INSTRUMENT:eraser},,REVERSAL OF write,lo
+read; load; interpret; SBJ {reader} reads OBJ {file; text; reading; passage; data; note} from the physical state of IND {source; text},,cmn <读> [tu˧˥],tu
+write; record; type; mark; save; transcribe; SBJ {writer} encodes OBJ {writing; data} physically on IND {record; book; paper} {INSTRUMENT:writing utensil|LOCATION:desk; writing surface|GENITIVE:literary; scriptural|METHOD:script; writing system; encoding},,ibo <de> [de],te
+erase; overwrite; obscure; SBJ {one who erases; eraser} removes traces of OBJ {erased} from IND {blank slate} {INSTRUMENT:eraser},,REVERSAL OF write,lo
 speak; voice; say out loud; SBJ {speaker} says IND {quote; words; phrase; utterance; speech} to OBJ out loud {INSTRUMENT:voice|GENITIVE:vocal; locutory|METHOD:accent; manner of speech},,sot <bua> [buɑ],pua
 own; have; possess; belong; OBJ {owner} owns IND {property},,jav <duwé> [tṳwe],tue
 give; receive; obtain; get; transfer ownership; SBJ {giver} gives IND {gift; given} to OBJ {receiver; obtainer},,INCOHATIVE OF own,tueki
@@ -272,7 +272,7 @@ uncover; bare; expose; open; SBJ {uncoverer} makes OBJ stop surrounding IND,,CES
 be typical; exemplify; qualify; the type of OBJ {instance; example} is IND {category; class; kind; type},,epo <tipa> [ˈtipa],tipa
 categorise; classify; SBJ places OBJ as an instance of IND,,INCOHATIVE OF be typical,tipaki
 disqualify; declassify; SBJ makes OBJ not be an instance of IND,,CESSATIVE OF be typical,tipanu
-beI in *control; beI in charge; beI powerful; depend; IND {oppressor; controller; leader; official} controls OBJ {oppressed; dependent} {INSTRUMENT:controls; controller; harness},,cmn <控制> [kʰʊ̯ŋ˥˩ʈ͡ʂɨ˥˩],kunci
+beI in *control; beI in charge; beI powerful; depend; IND {oppressor; controller; leader; official} controls OBJ {oppressed; dependent} {INSTRUMENT:controls; controller; harness},,cmn <控制> [kʰʊŋ˥˩ʈ͡ʂɨ˥˩],kunci
 be free; be independent; beI weak; IND cannot tell OBJ what to do,,ANTONYM OF be in control,nikhu
 take control; capture; give control; put in charge; SBJ {capturer} puts IND in control of OBJ {captured},,INCOHATIVE OF be in control,kunciki
 lose control; release; free; SBJ {releaser} releases OBJ {freed} from IND's control,,CESSATIVE OF be in control,nikhuki
@@ -320,7 +320,6 @@ beI easy; beI convenient; IND is easy to OBJ,,eng <easy> [ˈiːzi],isi
 beI difficult; beI hard; beI inconvenient; IND is hard for OBJ,,ANTONYM OF be easy,ufu
 facilitate; convenience; make easy; SBJ makes IND easier for OBJ,,INCOHATIVE OF be easy,isiki
 defacilitate; inconvenience; resist; make difficult; SBJ makes IND harder for OBJ,,CESSATIVE OF be easy,ufuki
-storytell; SBJ {storyteller} tells OBJ {*story; tale} to IND {audience; listener} {TIME:story-time},,cmn <故事> [ku˥˩ʂɨ˥˩],kuci
 stand; be erect; OBJ {standing} is standing {METHOD:posture},,mar <उभे> [ub̤e],upe
 stand up; erect; SBJ {stand} stands up OBJ,,INCOHATIVE OF stand,upeki
 lie; be prone; OBJ {lying down} is prone,,OPPOSITE OF stand,imo
@@ -540,11 +539,11 @@ anger; embolden; SBJ makes OBJ angry about IND,,CESSATIVE OF fear,mweki
 be timid; be skittish; OBJ is easily scared,,POSSIBILITY OF fear,pyopowi
 be bold; be courageous; be brave; be brash; be hot-headed; OBJ is quick to anger,,POSSIBILITY OF be angry,mwepowi
 embolden; encourage; embraven; SBJ makes OBJ bolder,,INCOHATIVE OF be bold,mwepowiki
-be happy; be joyful; OBJ feels happy,,eng <happy> [ˈhæpi],hapi
-be sad; be sorrowful; be anguished; be distressed; OBJ feels sad,,ANTONYM OF be happy,camu
-bring joy; brighten; SBJ makes OBJ happier,,INCOHATIVE OF be happy,hapiki
-sadden; anguish; distress; SBJ makes OBJ sadder,,CESSATIVE OF be happy,camuki
-be depressed; OBJ is chronically sad,,PROGRESSIVE OF be sad,camucalu
+be happy; be joyful; OBJ feels happy,,ben <খুশি> [kʰuɕi],kuci
+be sad; be sorrowful; be anguished; be distressed; OBJ feels sad,,ANTONYM OF be happy,nihu
+bring joy; brighten; SBJ makes OBJ happier,,INCOHATIVE OF be happy,kuciki
+sadden; anguish; distress; SBJ makes OBJ sadder,,CESSATIVE OF be happy,nihuki
+be depressed; OBJ is chronically sad,,PROGRESSIVE OF be sad,nihucalu
 surprise; astonish; shock; SBJ {surprising} surprises OBJ {surprised} with IND,,cmn <惊讶> [t͡ɕiŋ˥ja˥˩],cinya
 anticipate; be prepared; be careful; be cautious; beware; OBJ {anticipative} anticipates IND {anticipated},,cmn <期待> [t͡ɕʰi˥taɪ̯˥˩],citai
 build anticipation; prepare; caution; SBJ makes OBJ anticipative about IND,,INCOHATIVE OF anticipate,citaiki
@@ -565,10 +564,10 @@ worry; bother; trouble; concern; IND {problem; trouble; issue} troubles OBJ {wor
 relieve; calm; reassure; IND {relief} gives OBJ {soothed} relieved feelings,,ANTONYM OF worry,yayu
 make worried; make bothered; SBJ {[https://xkcd.com/1015/]} causes OBJ to be bothered by IND,,INCOHATIVE OF worry,wawiki
 assuage; sooth; relieve; calm; SBJ {reliever} causes OBJ to feel relieved by IND,,CESSATIVE OF worry,yayuki
-be likely; be normal; be common; be unremarkable; be expectable; OBJ is likely true {AMOUNT:P-value},,cmn <容易> [ʐʊ̯ŋ˧˥i˥˩],cuni
-be unlikely; be weird; be rare; be strange; be remarkable; be unexpected; OBJ {coincidence} is unlikely {AMOUNT:rarity; weirdness},,ANTONYM OF be likely,hiku
-increase chances; explain away; favour; SBJ makes OBJ more likely,,INCOHATIVE OF be likely,cuniki
-decrease chances; find coincidence; SBJ makes OBJ less likely,,CESSATIVE OF be likely,hikuki
+be likely; be normal; be common; be unremarkable; be expectable; OBJ is likely true {AMOUNT:P-value},,cmn <容易> [ɻʊŋ˧˥i˥˩],luni
+be unlikely; be weird; be rare; be strange; be remarkable; be unexpected; OBJ {coincidence} is unlikely {AMOUNT:rarity; weirdness},,ANTONYM OF be likely,tiku
+increase chances; explain away; favour; SBJ makes OBJ more likely,,INCOHATIVE OF be likely,luniki
+decrease chances; find coincidence; SBJ makes OBJ less likely,,CESSATIVE OF be likely,tikuki
 correspond; match; be respective; OBJ corresponds to IND,,msa <sama> [sama],sama
 be sharp; be clear; OBJ {edge; blade} is sharp,,epo <akra> [ˈakra],akla
 be dull; be blunt; be blurry; be nebulous; OBJ is dull,,ANTONYM OF be sharp,anta
@@ -589,10 +588,10 @@ hit; strike; collide; SBJ hits OBJ {INSTRUMENT:hammer},,epo <bati> [ˈbati],pati
 "chatter; wobble; rustle; rattle; SBJ makes OBJ {chatter; wobble; rustle; rattle; a noisy, shrill sound or action}",,ono [t͡ʃət͡ʃə],cece
 "rumble; flicker; SBJ makes OBJ {rumble; flicker; a noisy, sonorous sound or action}",,ono [wumba],wompa
 cook; prepare; make; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave; SBJ {cook; chef; baker} cooks OBJ {cooking} {INSTRUMENT:pot; pan},,xho <-pheka> [pʰɛka],peka
-help; be for; ally; support; benefit; work with; be auxiliary; OBJ {helper} is working toward the same goal as IND {ally; friend},,epo <helpi> [ˈhelpi],helpi
-hinder; be against; oppose; harm; compete; fight; counter; OBJ {opposer} is working toward a goal contrary to that of IND {opponent; competitor; enemy},,ANTONYM OF help,cotmu
-align with; join; team up; SBJ {alliance forger} makes OBJ ally with IND,,INCOHATIVE OF help,helpiki
-turn against; betray; split up; SBJ {instigator} turns OBJ {traitor} against IND,,CESSATIVE OF help,cotmuki
+help; be for; ally; support; benefit; work with; be auxiliary; OBJ {helper} is working toward the same goal as IND {ally; friend},,cmn <帮助> [pɑŋ˥ʈ͡ʂu˥˩],pancu
+hinder; be against; oppose; harm; compete; fight; counter; OBJ {opposer} is working toward a goal contrary to that of IND {opponent; competitor; enemy},,ANTONYM OF help,makhi
+align with; join; team up; SBJ {alliance forger} makes OBJ ally with IND,,INCOHATIVE OF help,pancuki
+turn against; betray; split up; SBJ {instigator} turns OBJ {traitor} against IND,,CESSATIVE OF help,makhiki
 fight; battle; OBJ {fighter; warrior} is in a violent engagement with IND {adversary; opponent} {INSTRUMENT:weapon|TIME:battle},,xho <-lwa> [lwa],lwa
 attack; sick; aggravate; SBJ {attacker} causes OBJ to fight IND,,INCOHATIVE OF fight,lwaki
 make peace; call off; deescalate; SBJ {peace maker} causes OBJ to stop fighting IND,,CESSATIVE OF fight,lwanu

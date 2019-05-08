@@ -1,13 +1,13 @@
 eng,spa,source,ltl
-notion; idea; information; data; number; intangible information that is not necessarily true {GENITIVE:conceptual; ideal; theoretical; informational},,yor <iro> [iro],il
+notion; idea; information; data; number; intangible information that is not necessarily true {GENITIVE:conceptual; ideal; theoretical; informational},,yor <ìrọ> [ìrɔ̄],il
 point; particular time or place {GENITIVE:particular; local},,eng <point> [pʰɔɪ̯nt],poyn
 path; line; curve; one-dimensional locus {GENITIVE:linear; curvilinear},,eng <path> [pʰæθ],pas
-surface; plane; layer; two-dimensional locus {GENITIVE:planar; superficial; facial},,ibo <elu> [elu],el
+surface; plane; layer; two-dimensional locus {GENITIVE:planar; superficial; facial},,swa <uso> [uso],us
 region; volume; interval; continuous locus bounded on all sides {GENITIVE:regional; volumetric; periodic},,spa <región> [reˈxjon],lehyon
-stick; rod; limb; beam; rigid roughly straight one-dimensional object,,pan <ਸੋਟੀ> [soʈi],sot
+stick; rod; limb; beam; rigid roughly straight one-dimensional object,,pan <ਸੋਟੀ> [soˈʈi],sot
 string; thread; wire; hair; thread; flexible one-dimensional object,,hin <तार> [taːr],tal
-plate; board; wall; rigid two-dimensional object,,OPPOSITE OF string,lat
-sheet; slip; flexible two-dimensional object,,OPPOSITE OF rod,fel
+plate; board; wall; rigid two-dimensional object,,OPPOSITE OF rod,fel
+sheet; slip; flexible two-dimensional object,,OPPOSITE OF string,lat
 network; net; web; system; collection of interconnected nodes {GENITIVE:web},,spa <red> [reð],let
 person; woman; man; human; homo sapien {GENITIVE:personal; humanistic; domesticated},,jav <wong> [wɔŋ],won
 personify; humanise; anthropomorphise,,INCOHATIVE OF person,wonki
@@ -19,10 +19,10 @@ senior citizen; elder; very old and decrepit animal {GENITIVE:elder},,OPPOSITE O
 specialist; personnel; qualified; authorised; person with special training and knowledge in a context {GENITIVE:special; technical},,msa <pakar> [pakar],pakal
 layperson; civilian; customer; member of the public; person with only general knowledge in a context {GENITIVE:popular; general},,OPPOSITE OF specialist,manat
 light; electromagnetic radiation {GENITIVE:photic; optic; luminescient},*luz,spa <luz> [lus],lus
-"god; deity; superhuman entity worshiped as having great influence over reality, but not any god in particular {GENITIVE:divine; godly; deific}",,cmn <神> [ʂən˧˥],can
+"god; deity; superhuman entity worshiped as having great influence over reality, but not any god in particular {GENITIVE:divine; godly; deific}",,eng <god> [ɡɒd],kot
 ground; planet; gravitationally-bound solid mass {GENITIVE:terrestrial; planetary},,hin <भूमि> [b̤uːmi],pum
 sky; atmosphere; weather; heavens; the pneumatic space directly above the ground {GENITIVE:celestial; atmospheric; meteorological; aerial},,OPPOSITE OF ground,mip
-outer *space; cosmos; the vacuumic space above the atmosphere {GENITIVE:cosmic; astral; interstellar},,nya <malo> [maɽo],mal
+outer *space; cosmos; the vacuumic space above the atmosphere {GENITIVE:cosmic; astral; interstellar},,cmn <太空> [tʰaɪ̯˥˩kʰʊŋ˥],taykun
 sun; star; gravitationally-bound mass of burning plasma {GENITIVE:solar; stellar},,epo <suno> [ˈsuno],sun
 moon; satellite; solid object gravitationally orbiting another {GENITIVE:lunar},,OPPOSITE OF sun,fik
 ocean; sea; large interconnected bodies of liquid covering most of a planet {GENITIVE:marine; oceanic},,msa <laut> [lawt],lawt
@@ -39,15 +39,15 @@ family; intimate group of people {GENITIVE:familial},,cmn <家庭> [t͡ɕja˥tʰ
 home; place of residence of an individual or family {GENITIVE:domestic},,eng <home> [hoʊ̯m],hom
 furniture; large movable equipment used to make a space more livable,,swa <samani> [samani],saman
 season; period of time characterised by some thing or event {GENITIVE:seasonal},,ben <ঋতু> [ɽit̪u],lit
-reality; possibility; world; dimension; universe; collection of all coexisting things {GENITIVE:realistic; possible; dimensional},,yor <otito> [otito],otit
+reality; possibility; world; dimension; universe; collection of all coexisting things {GENITIVE:realistic; possible; dimensional},,epo <realaĵo> [reaˈlaʒo],lealac
 layout; topography; geography {GENITIVE:topographical; geographical},,eng <layout> [leɪ̯aʊ̯t],leyawt
-body; chassis; physical manifestation {GENITIVE:bodily; physical; corporal},,ben <শরীর> [ɕɔrir],colil
-spirit; soul; spiritual essence,,OPPOSITE OF body,hetut
+body; chassis; physical manifestation {GENITIVE:bodily; physical; corporal},,eng <body> [ˈbɑɾi],pat
+spirit; soul; spiritual essence,,OPPOSITE OF body,mal
 gland; organ; node; functional organic module {GENITIVE:glandular; nodal; bodily; internal},,cmn <腺> [ɕjɛn˥˩],cyen
 "female; woman; animal biologically characterised by ovaries, vaginas and estrogen {GENITIVE:female}",,eng <female> [ˈfiːmeɪ̯ɫ],fimel
 "male; man; animal biologically characterised by testicles, penises, and testosterone {GENITIVE:male}",,OPPOSITE OF female,supot
 hair; fur; organically extruded strings {GENITIVE:pilar; hairy},,cmn <头发> [tʰoʊ̯˧˥fa],tof
-face; the front part of a head {GENITIVE:facial},,eng <face> [feɪ̯s],fes
+face; the front part of a head {GENITIVE:facial},,ben <মুখ> [mukʰ],muk
 head; the bulge on top of an animal containing many of its sensual and cognitive capabilities {GENITIVE:cranial; cephalic},,hin <सिर> [sir],sil
 torso; trunk; stem; core; central base of a body {GENITIVE:torsal; basal},,ben <ধড়> [d̪̤ɔɽɔ],tol
 arm; long appendage used for manipulation {GENITIVE:brachial; appendicular},,cmn <臂> [pi˥˩],pih
@@ -73,8 +73,8 @@ soy; soybean {GENITIVE:sojan},,spa <soja> [ˈsoxa],soh
 tomato {GENITIVE:tomatan},,epo <tomato> [toˈmato],tomat
 grape {GENITIVE:vineal},,spa <uva> [ˈuβa],up
 apple {GENITIVE:pomaceous},,hin <सेब> [seb],sep
-animal; meat {GENITIVE:animal; meaty},,cmn <动物> [tʊ̯ŋ˥˩u˥˩],tun
-plant; vegetable {GENITIVE:botanical; vegetal},,hin <पौधा> [pɔːd̤aː],pot
+animal; meat {GENITIVE:animal; meaty},,cmn <动物> [tʊŋ˥˩u˥˩],tun
+plant; vegetable {GENITIVE:botanical; vegetal},,cmn <厂> [ʈ͡ʂʰɑŋ˧˩˧],can
 fungus {GENITIVE:fungal; fungic; fungous},,cmn <菌> [t͡ɕyn˥],ciwn
 primate; monkey; ape {GENITIVE:simian},,ono [u ki ki],ukim
 rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew {GENITIVE:murine},,cmn <啮齿> [njɛ˥˩ʈ͡ʂʰɨ˧˩˧],nyec
@@ -105,7 +105,7 @@ ostrich; emu; rhea; tinamou; kiwi; cassowary,,sot <lema> [lemɑ],lem
 fowl; duck; swan; goose; chicken; turkey; pheasant,,spa <ave> [ˈaβe],ap
 chicken,,ono [kuk kurikoː],kukulik
 turkey,,ono [gululu],kululun
-pigeon; dove; sandgrouse; mesite,,ben <পায়রা> [pae̯ra],payl
+pigeon; dove; sandgrouse; mesite,,eng <pigeon> [ˈpʰɪd͡ʒɪn],picin
 bustard; turaco; cuckoo; nightbird; swift; hummingbird,,cmn <鸨> [pɑʊ̯˧˩˧],pawh
 bird of prey; hawk; eagle; kite; vulture; condor; osprey; owl; falcon,,ono [kijɑː],kiah
 crocodilian; *crocodile; alligator,,nya <ng&#39;ona> [ŋona],non
@@ -135,7 +135,7 @@ cricket; grasshopper; tatydids,,hin <झींगुर> [d͡ʒ̤iːŋɡur],cink
 cockroach; roach; termite,,fil <ipis> [ipis],ipis
 mantis,,spa <mantis> [ˈmantis],mantis
 earwig; dermapteran,,eng <earwig> [ˈɪɹwɪɡ],iawik
-worm,,fil <uod> [uod],uot
+worm,,hin <कीड़ा> [kiːɽaː],kil
 slug; land slug,,fil <kuhol> [kuhol],kuhol
 nautilus,,epo <naŭtilo> [nawˈtilo],nawtil
 sea *anemone,,epo <anemono> [aneˈmono],anemon
