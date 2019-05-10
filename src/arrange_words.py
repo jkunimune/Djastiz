@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.ERROR)
 
 
 DIACRITIC_GUIDE = {
@@ -76,7 +76,7 @@ ALLOWED_CHANGES = [
 	('- ˩˨˧˦˥ˈˌː͡⁀..,，​', ''),
 ]
 RESTRICTED_CHANGES = [
-	('ə', 'a'),
+	('əɚ', 'a'),
 	('ɤʌ', 'aw'),
 	('œø', 'ew'),
 	('ǃǀ', 't'),
@@ -100,7 +100,7 @@ SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictior
 
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
 NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','CONDITION',
-		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','RELIGION','ETHNICGROUP','CITY']
+		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','RELIGION']
 MISC_DERIVATIONS = ['OPPOSITE']
 
 
@@ -417,12 +417,12 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 		else:
 			return source_word + all_words['end']['ltl']
 	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ', 'IND', 'AMOUNT',
-			'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'CONDITION', 'LANGUAGE', 'COUNTRY', 'REGION', 'RELIGION', 'ETHNICGROUP', 'CITY']:
+			'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'CONDITION', 'LANGUAGE', 'COUNTRY', 'REGION', 'RELIGION']:
 		inflection_word = {
 			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who (relative)',
 			'OBJ':'which (relative)', 'IND':'whom (relative)', 'AMO':'the amount that', 'LOC':'where (relative)',
 			'TIM':'when (relative)', 'INS':'with which (relative)', 'CAU':'why (relative)', 'MET':'how (relative)',
-			'CON':'for which', 'LAN':'language', 'COU':'country', 'REG':'location', 'REL':'religion', 'ETH':'relative', 'CIT':'settlement',
+			'CON':'for which', 'LAN':'language', 'COU':'country', 'REG':'location', 'REL':'religion',
 		}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['ltl']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:

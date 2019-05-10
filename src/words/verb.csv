@@ -480,6 +480,10 @@ be metal; be metallic; OBJ is made out of metal,,hin <धातु> [d̤aːtu],t
 metallicise; SBJ turns OBJ into metal,,INCOHATIVE OF be metal,tatuki
 be crystal; OBJ {jewel; gem} is made out of crystal,,swa <kioo> [kioo],kio
 crystalise; SBJ turns OBJ into crystal,,INCOHATIVE OF be crystal,kioki
+be bone; OBJ {skeleton} is made out of bone,,epo <osto> [ˈosto],osto
+bonify; SBJ turns OBJ into bone,,INCOHATIVE OF be bone,ostoki
+be flesh; OBJ {meat} si made out of flesh,,OPPOSITE OF be bone,efle
+meatify; SBJ turns OBJ into flesh,,INCOHATIVE OF be flesh,efleki
 be charged; be electrified; OBJ {battery} has electric energy stored {AMOUNT:electric potential; voltage; *electricity},,yor <iná> [ĩ̄á],ina
 charge; electrify; SBJ {charger} imbues OBJ with electric energy,,INCOHATIVE OF be charged,inaki
 discharge; shock; electrify; power; SBJ releases the electric energy of OBJ onto IND {machine; electric circuit} {METHOD:conduit; wire; circuit; component},,CESSATIVE OF be charged,inanu
@@ -489,7 +493,7 @@ be introverted; be isolated; OBJ {introvert} is socially isolated from IND,,ANTO
 integrate; SBJ socially integrates OBJ with IND,,INCOHATIVE OF be social,sosiaki
 isolate; SBJ socially isolates OBJ from IND,,CESSATIVE OF be social,fefuaki
 ride; transport; SBJ {passenger} rides on OBJ {vehicle},,spa <monta> [ˈmonta],monta
-play; OBJ {player} is playing IND {game; sport},,epo <ludi> [ˈludi],luti
+play; OBJ {player} is playing IND {game; sport},,spa <juega> [ˈxweɣa],huka
 wait; OBJ {in wait} is waiting for IND,,sho <mira> [mira],mila
 act; say; voice; fill; SBJ {actor} acts as though OBJ {act; role; charade; character; farce} is true,,spa <actúa> [akˈtua],aktua
 differ; be *different; be distinct; OBJ is different from IND,,yor <yàtọ̀> [jàtɔ̀],yato
@@ -604,10 +608,10 @@ be mixed; be impure; be tainted; permeate; IND {solute} is mixed into OBJ {solve
 be pure; OBJ is pure of IND,,ANTONYM OF be mixed,puhte
 mix; taint; pollute; disolve; infuse; SBJ mixes IND into OBJ,,INCOHATIVE OF be mixed,micloki
 purify; precipitate; extract; SBJ purifies OBJ of IND {precipitate; extract},,CESSATIVE OF be mixed,puhteki
-be healthy; OBJ is healthy {AMOUNT:health},,spa <sano> [ˈsano],sano
-be sick; be ill; OBJ is sick {METHOD:sickness; disease; illness},,ANTONYM OF be healthy,fake
-heal; treat; SBJ {doctor; healer} heals OBJ {patient} {INSTRUMENT:medicine},,INCOHATIVE OF be healthy,sanoki
-sicken; poison; SBJ {poisoner} sickens OBJ {poisoned} {INSTRUMENT:poison},,CESSATIVE OF be healthy,fakeki
+be healthy; OBJ is healthy {AMOUNT:health},,epo <sani> [ˈsani],sani
+be sick; be ill; OBJ is sick {METHOD:sickness; disease; illness},,ANTONYM OF be healthy,faku
+heal; treat; SBJ {doctor; healer} heals OBJ {patient} {INSTRUMENT:medicine},,INCOHATIVE OF be healthy,saniki
+sicken; poison; SBJ {poisoner} sickens OBJ {poisoned} {INSTRUMENT:poison},,CESSATIVE OF be healthy,fakuki
 be married; OBJ is married to IND {spouse},,yor <ìyàwó> [ìjáwó],iawo
 marry; wed; SBJ marries OBJ to IND {TIME:wedding},,INCOHATIVE OF be married,iawoki
 divorce; SBJ divorces OBJ from IND,,CESSATIVE OF be married,iawonu

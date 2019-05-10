@@ -13,8 +13,8 @@ person; woman; man; human; homo sapien {GENITIVE:personal; humanistic; domestica
 personify; humanise; anthropomorphise,,INCOHATIVE OF person,wonki
 beast; wild animal; non-human animal {GENITIVE:wild; beastial; animalistic; visceral},,OPPOSITE OF person,yek
 baby; infant; newborn; very young and underdeveloped animal {GENITIVE:infantile},,ono [ɡuː ɡaː],kukam
-child; youth; girl; boy; adolescent; kid; not fully-grown animal {GENITIVE:juvenile; adolescent},,ben <শিশু> [ɕiɕu],cic
-adult; fully-grown animal {GENITIVE:adult},,OPPOSITE OF youth,huh
+child; youth; girl; boy; adolescent; kid; not fully-grown animal {GENITIVE:juvenile; adolescent},,cmn <儿童> [ɚ˧˥tʰʊŋ˧˥],atun
+adult; fully-grown animal {GENITIVE:adult},,OPPOSITE OF youth,alik
 senior citizen; elder; very old and decrepit animal {GENITIVE:elder},,OPPOSITE OF baby,ninap
 specialist; personnel; qualified; authorised; person with special training and knowledge in a context {GENITIVE:special; technical},,msa <pakar> [pakar],pakal
 layperson; civilian; customer; member of the public; person with only general knowledge in a context {GENITIVE:popular; general},,OPPOSITE OF specialist,manat
@@ -35,11 +35,11 @@ state; *country; polity; politically independent group of people {GENITIVE:polit
 culture; nation; tribe; clan; human social group {GENITIVE:cultural; national; tribal; social},,sho <tsika> [t͡sika],sik
 art; art {GENITIVE:artistic},,eng <art> [ɑɹt],at
 phrase; sentence; meaningful string of words {GENITIVE:phrasal; sentential},,eng <phrase> [fɹʷeɪ̯z],fwes
-family; intimate group of people {GENITIVE:familial},,cmn <家庭> [t͡ɕja˥tʰiŋ˧˥],cyatin
+family; intimate group of people {GENITIVE:familial},,sho <mhuri> [m̤uri],mul
 home; place of residence of an individual or family {GENITIVE:domestic},,eng <home> [hoʊ̯m],hom
 furniture; large movable equipment used to make a space more livable,,swa <samani> [samani],saman
 season; period of time characterised by some thing or event {GENITIVE:seasonal},,ben <ঋতু> [ɽit̪u],lit
-reality; possibility; world; dimension; universe; collection of all coexisting things {GENITIVE:realistic; possible; dimensional},,epo <realaĵo> [reaˈlaʒo],lealac
+reality; possibility; world; dimension; universe; collection of all coexisting things {GENITIVE:realistic; possible; dimensional},,yor <òtítọ́> [òtítɔ́],otit
 layout; topography; geography {GENITIVE:topographical; geographical},,eng <layout> [leɪ̯aʊ̯t],leyawt
 body; chassis; physical manifestation {GENITIVE:bodily; physical; corporal},,eng <body> [ˈbɒɾi],pot
 spirit; soul; spiritual essence,,OPPOSITE OF body,mel
@@ -85,7 +85,7 @@ seal; includes walruses and maybe sea lions I think?,,spa <sello> [ˈseʝo],seyo
 musteloidea; red panda; skunk; *raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine,,cmn <狸> [li],lih
 equine; horse; zebra; wild butt {GENITIVE:equine},,ono [hi hin],hihin
 tapir,,spa <tapir> [taˈpir],tapil
-rhinoceros,,cmn <犀牛> [ɕi˥njoʊ̯˧˥],cinyoh
+rhinoceros,,ben <গণ্ডার> [ɡɔndar],kontal
 camel; llama; alpaca; guanaco,,pan <ਊਠ> [uʈʰ],ut
 swine; boar; *pig; pork {GENITIVE:swine},,pan <ਸੂਰ> [suɾ],sul
 giraffe; okapi,,hin <जिराफ़> [d͡ʒiraːf],cilaf
@@ -114,12 +114,12 @@ frog; toad,,ono [kwak kwak],kwakwak
 fish {GENITIVE:pescous; aquatic},,spa <pez> [pes],pes
 carp; koi; catfish; loach; minnow; herring; tetra,,eng <carp> [kʰɑɹp],kap
 salmon; trout; pike; dragonfish; smelt,,spa <salmón> [salˈmon],salmon
-tuna; tunafish; mackerel,,spa <atún> [aˈtun],atun
+tuna; tunafish; mackerel,,epo <tinuso> [tiˈnuso],tinus
 shark,,msa <jerung> [d͡ʒeruŋ],celun
 ray; manta ray; stingray; skate,,eng <ray> [ɹʷeɪ̯],weh
 bug; insect; arachnid; myriapod; entognath,,ben <জুজু> [d͡ʑud͡ʑu],cuc
 tick; mite,,mar <टिक> [ʈik],tik
-spider,,mar <कोळी> [koɭiː],kol
+spider,,cmn <蜘蛛> [ʈ͡ʂɨ˥ʈ͡ʂu˥],cic
 scorpion,,yor <ilọ-ara> [ilɔ-ara],iloal
 crustacean; *crab; lobster,,eng <crab> [kʰɹʷæb],kwap
 barnacle; copepod,,yor <ọwọn> [ɔwɔ̃],owon
