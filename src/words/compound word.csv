@@ -34,7 +34,8 @@ part-of-speech,,word category,tioncolontipalum
 onomatopoeia,,sound word,oyelumtioncolon
 design; SBJ {designer} makes OBJ {designed} with the goal of IND {design goal},,try create,ciestaki
 province; state; territory; constituent country; sub-polity {GENITIVE:provincial; state; territorial},,be-inside state,nekwelon
-international; global,,much political,kehtecak
+international,,much political,kehtecak
+global; international,,all political,kittecak
 conlang; constructed language,,design language,ciestakitilip
 auxlang; international auxiliary language,,international language,kehtecaktilip
 artlang; artistic language,,art language,attilip
@@ -138,8 +139,6 @@ smoke,,be-burnt gas,cyauhyolon
 be sand; be dust; OBJ {pile of sand} is made of sand,,be-stone be-powder,patoufa
 be gravel; course sand; OBJ is made of gravel,,be-stone be-chunky,patoisa
 be snow; be shaved ice; be slush; OBJ is made of snow,,be-cold be-powder,eniufa
-be bone; OBJ is made of bone,,animal be-rigid,tunfulokipowinyo
-be flesh; be meat; OBJ is made of flesh,,animal be-flimsy,tunfulokipowi
 beach,,landmass edge,taylnulyot
 oasis; watering hole,,be-liquid point,cwetyen
 "continent; large landmass bounded by ocean on most sides, e.g. Eurasia, North America",,be-big landmass,motatayl
@@ -171,11 +170,11 @@ vegetarian; something that does not eat meat,,0 animal eater,nultunnyamales
 carnivore; something that eats meat,,animal eater,tunnyamales
 herbivore; something that eats plants,,plant eater,cannyamales
 alcohol {GENITIVE:alcoholic},,have-fun puddle,mocacwelon
-be drunk; be intoxicated; OBJ is drunk,,have-fun be-sick,mocafake
-be sober; be dry; OBJ is sober,,be-bored be-sick,pehafake
-drink; get drunk; intoxicate; SBJ makes OBJ drunk,,INCOHATIVE OF be drunk,mocafakeki
-sober; SBJ makes OBJ become sober,,CESSATIVE OF be drunk,mocafakenu
-have hangover; OBJ has a hangover,,be-bored begin be-sick,pehakifake
+be drunk; be intoxicated; OBJ is drunk,,have-fun be-sick,mocafaku
+be sober; be dry; OBJ is sober,,be-bored be-sick,pehafaku
+drink; get drunk; intoxicate; SBJ makes OBJ drunk,,INCOHATIVE OF be drunk,mocafakuki
+sober; SBJ makes OBJ become sober,,CESSATIVE OF be drunk,mocafakunu
+have hangover; OBJ has a hangover,,be-bored begin be-sick,pehakifaku
 tea,,leaf puddle,pancwelon
 milk,,parent puddle,mamacwelon
 wine,,grape alcohol,upmocacwelon
@@ -210,6 +209,11 @@ thigh; upper leg,,be-inside leg,nelek
 shin; lower leg,,be-outside leg,kolek
 pelvis; hips,,torso bottom,tolniculon
 mouth,,eat gland,nyamacyen
+lip,,eat sheet,nyamalat
+tooth,,eat skeleton,nyamaostolon
+gums,,eat flimsy,nyamafulokipowilon
+alveolar ridge; alveolar margin,,tooth nub,nyamaostolontapalon
+palate; hard palate,,mouth plate,nyamacyenfel
 larynx; vocal chords; voice box,,speak gland,puacyen
 sensor; sense,,perceive gland,cuacyen
 eye; eyeball,,can-see gland,hucyen
@@ -301,11 +305,11 @@ arthropod {GENITIVE:arthropodic},,shell animal,pontolontun
 seastar; sealily,,flower animal,pultun
 seaurchin,,be-sharp animal,aklatun
 seacucumber,,cucumber animal,'hiyaltun
-pantopod,,ocean spider,lawtkol
+pantopod,,ocean spider,lawtcic
 shrimp,,be-small crustacean,pelakwap
 mantisshrimp,,be-strong crustacean,ikekwap
 centipede; millipede,,much leg,kehlek
-centipede,,poison centipede,fakekiluatkehlek
+centipede,,poison centipede,fakukiluatkehlek
 dragonfly; damselfly,,be-long bug,lamacuc
 louse,,hair bug,tofcuc
 scorpionfly,,sky scorpion,mipiloal
@@ -357,7 +361,7 @@ Latin America; the region {GENITIVE:Latin American},,Latin America,'latin'amelik
 Central America; the region {GENITIVE:Central American},,be-inside America,ne'amelika
 Oceania; the region {GENITIVE:Oceanic},,ocean landmass,lawttayl
 The Atlantic Ocean; the ocean {GENITIVE:Atlantic},,Atlas-mountains ocean,'atlaslawt
-The Indian Ocean; the ocean {GENITIVE:Indian Oceanic},,Indian ocean,'palataklawt
+The Indian Ocean; the ocean {GENITIVE:Indian Oceanic},,Indian ocean,'palatlawt
 The Pacific Ocean; the ocean {GENITIVE:Pacific},,be-big be-still ocean,motapemolawt
 The Arabian Sea; the sea,,Arab ocean,'alaplawt
 The Bering Sea; the sea,,Bering ocean,'beringlawt
@@ -366,11 +370,18 @@ The Coral Sea; the sea,,coral ocean,kutiicilwellawt
 The Gulf of Mexico; the sea,,Mexican ocean,'mehikoaklawt
 The Mediterranean Sea; the sea,,land be-inside ocean,fonunelawt
 The South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
+Algiers,,Algerian settlement,'alsayilcih
+Djibouti (city),,Djiboutian settlement,'caputicih
 Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
 Northern Ireland,,be-north Ireland,fila'elyatec
+the Jordan River,,Jordanian river,'ultunakcwesitelon
+Mount Kenya,,Kenyan mountain,'kenyapil
+North Korea {GENITIVE:North Korean; from North Korea},,be-north Korea,fila'cosawnkwelyot
+South Korea {GENITIVE:South Korean; from South Korea},,be-south Korea,suta'cosawnkwelyot
+Tunis,,Tunisian settlement,'tuniscih
 Sol; The Sun,,person sun,wonsun
 Luna; The Moon,,person moon,wonfik
-Earth {GENITIVE:earthling; terran},,person ground,wonpum
+Earth {GENITIVE:global; earthling; terran},,person ground,wonpum
 Mars; the planet {GENITIVE:Martian},,be-red ground,lucipum
 Mercury; the planet {GENITIVE:Mercurian},,be-fast ground,yalapum
 Neptune; the planet {GENITIVE:Neptunian},,ocean ground,lawtpum

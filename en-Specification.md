@@ -1,12 +1,10 @@
 # How to Speak Chatisun
 
-So, you want to sing a better and more succinct version of [Olde Djastiz](https://github.com/jkunimune15/Djastiz/tree/master). How do you do that? By speaking Chatisun, that's how! What's Chatisun? It's a high-level language optimised for efficiency that I invented. Here's how it works.
-
 ## Phonology and orthography
 
 ### Alphabet
 
-Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pen", "pane", and "bane" sound different to most English speakers, all are acceptable pronunciations for Ulcwoliel "pen". The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days. In particular, if you already speak English, the only things that need be learned are the vowels, which are as in Spanish, Japanese, or Hawaiian, and the letter "j", which is as in German or Latin:
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pen", "pane", and "bane" sound different to most English speakers, all are acceptable pronunciations for Oltilip "pen". The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days. In particular, if you already speak English, the only things that need be learned are the vowels, which are as in Spanish, Japanese, or Hawaiian:
 
 | Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)| Inverse | Class
 |------|--------|--------------|------------|------------|-------------|---------|-------
@@ -43,7 +41,7 @@ If you're a linguist, the following [IPA](1) table may prove easier to read:
 |**Mid**  |   e   |  o   |
 |**Open** |   a   |      |
 
-If you don't know what any of that means, don't worry about it. Here is a more thorough table. Note that in addition to a name and a symbol, each letter has a default, recommended pronunciation, and several alternate pronunciations. The alternate pronunciations are just allowed variations on each sound for people who don't have the recommended pronunciation in their native tongue. You speak English, so you pretty much have all of the recommended pronunciations down, so just know that you might hear people of different backgrounds using some slightly different pronunciations of each letter. The "Inverse" and "Class" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
+The "Inverse" and "Class" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
 
 
 
