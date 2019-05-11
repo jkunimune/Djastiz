@@ -166,8 +166,8 @@ be wide; be obtuse; be big; be large; OBJ {splotch; blotch} spans a wide angle f
 be narrow; be acute; be small; be little; OBJ {dot; point} spans a narrow angle from the point of view of IND {edge; blade; corner},,ANTONYM OF be wide,heta
 widen; grow; spread out; dilate; SBJ makes OBJ span a wider angle from the point of view of IND,,INCOHATIVE OF be wide,colaki
 narrow; shrink; contract; SBJ makes OBJ span a smaller angle from the point of view of IND,,CESSATIVE OF be wide,hetaki
-be below; be down; SBJ {header; top} appears below OBJ from the point of view of IND {AMOUNT:altitude angle; distance down page},,ben <নিচে> [n̪it͡ɕe],nice
-be above; be up; SBJ {footer; bottom} appears below OBJ from the point of view of IND,,ANTONYM OF be below,kuho
+be below; be down; be low; SBJ {header; top} appears below OBJ from the point of view of IND {AMOUNT:altitude angle; distance down page},,ben <নিচে> [n̪it͡ɕe],nice
+be above; be up; be high; SBJ {footer; bottom} appears below OBJ from the point of view of IND,,ANTONYM OF be below,kuho
 go down; lower; sink; SBJ {one who moves down} makes OBJ appear to move down from the point of view of IND,,INCOHATIVE OF be below,niceki
 go up; raise; rise; SBJ {one who moves up} makes OBJ appear to move up from the point of view of IND {INSTRUMENT:stool},,CESSATIVE OF be below,kuhoki
 be turned *counterclockwise; be widdershins; OBJ appears rotated counterclockwise from the orientation IND {original orientation; right-side up} from the point of view of IND {AMOUNT:orientation; rotation},,ben <বামাবর্তে> [bamabɔrt̪e],pamapolte
@@ -319,7 +319,7 @@ be rhythmic; pulse; cycle; oscillate; flash; beat; OBJ {rhythm; routine} happens
 beI easy; beI convenient; IND is easy to OBJ,,eng <easy> [ˈiːzi],isi
 beI difficult; beI hard; beI inconvenient; IND is hard for OBJ,,ANTONYM OF be easy,ufu
 facilitate; convenience; make easy; SBJ makes IND easier for OBJ,,INCOHATIVE OF be easy,isiki
-defacilitate; inconvenience; resist; make difficult; SBJ makes IND harder for OBJ,,CESSATIVE OF be easy,ufuki
+restrict; resist; inconvenience; make difficult; SBJ makes IND harder for OBJ,,CESSATIVE OF be easy,ufuki
 stand; be erect; OBJ {standing} is standing {METHOD:posture},,mar <उभे> [ub̤e],upe
 stand up; erect; SBJ {stand} stands up OBJ,,INCOHATIVE OF stand,upeki
 lie; be prone; OBJ {lying down} is prone,,OPPOSITE OF stand,imo

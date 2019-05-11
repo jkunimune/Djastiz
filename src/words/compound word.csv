@@ -145,7 +145,7 @@ oasis; watering hole,,be-liquid point,cwetyen
 "subcontinent; subsection of a continent bounded by divisors of geographical and cultural significance, e.g. Europe, South Asia",,be-inside continent,nemotatayl
 island; landmass that is smaller than a continent and bounded by ocean,,be-small landmass,pelatayl
 lake; pond,,pure ocean,puhtelonlawt
-river; stream; brook,,be-liquid line,cwesitelon
+river; stream; brook,,be-liquid path,cwepas
 waterfall,,water fall where-(relative),icicwelontalyot
 body of water; lake; ocean; lagoon,,be-big puddle,motacwelon
 plateau; highlands {GENITIVE:highland; high},,be-high landmass,kuhitayl
@@ -213,7 +213,8 @@ lip,,eat sheet,nyamalat
 tooth,,eat skeleton,nyamaostolon
 gums,,eat flimsy,nyamafulokipowilon
 alveolar ridge; alveolar margin,,tooth nub,nyamaostolontapalon
-palate; hard palate,,mouth plate,nyamacyenfel
+hard palate,,mouth plate,nyamacyenfel
+soft palate; velum,,mouth sheet,nyamacyenlat
 larynx; vocal chords; voice box,,speak gland,puacyen
 sensor; sense,,perceive gland,cuacyen
 eye; eyeball,,can-see gland,hucyen
@@ -341,8 +342,9 @@ avocado,,,
 pepper,,,
 tulip,,,
 lily,,,
-the Antarctic Ocean; the ocean; the ocean,,Antarctica ocean,'antaktikalawt
-the Arctic Ocean; the ocean; the ocean,,be-north ocean,filalawt
+Antarctica; the landmass; the continent,,be-south landmass,
+the Antarctic Ocean; the ocean,,be-south ocean,'antaktikalawt
+the Arctic Ocean; the ocean,,be-north ocean,filalawt
 Afro-Eurasia; the landmass {GENITIVE:Afro-Eurasian},,Africa Eurasia,'aflika'yewlasia
 Sub-Saharan Africa; the region {GENITIVE:Sub-Saharan},,be-south Africa,suta'aflika
 North America; the continent {GENITIVE:North American; from North America},,be-north America,fila'amelika
@@ -372,12 +374,14 @@ The Mediterranean Sea; the sea,,land be-inside ocean,fonunelawt
 The South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
 Algiers,,Algerian settlement,'alsayilcih
 Djibouti (city),,Djiboutian settlement,'caputicih
+Indus River,,Indian river,'hintucwepas
 Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
 Northern Ireland,,be-north Ireland,fila'elyatec
-the Jordan River,,Jordanian river,'ultunakcwesitelon
+the Jordan River,,Jordanian river,'ultuncwepas
 Mount Kenya,,Kenyan mountain,'kenyapil
 North Korea {GENITIVE:North Korean; from North Korea},,be-north Korea,fila'cosawnkwelyot
 South Korea {GENITIVE:South Korean; from South Korea},,be-south Korea,suta'cosawnkwelyot
+Namib desert,,Namibian desert,
 Tunis,,Tunisian settlement,'tuniscih
 Sol; The Sun,,person sun,wonsun
 Luna; The Moon,,person moon,wonfik
