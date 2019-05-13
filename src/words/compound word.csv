@@ -4,6 +4,7 @@ hello; goodbye; yay; bless; okay; _positive exclamative mood_,,wow want,wafe
 boo; fuck; not; _negative exclamative mood_,,wow dislike,waso
 despite; though,,even both,ifenyo
 but; and even,,even and,ifenaw
+instead; rather,,no and,nyoaw
 "us all; _first person plural inclusive_; the speaker, the listener, and possibly others {GENITIVE:all our}",,I you,minpuk
 us; _first person plural exclusive_; the speaker and others {GENITIVE:our},,I it,minet
 y'all; _second person plural_; the listener and others {GENITIVE:y'all's},,you it,puket
@@ -25,13 +26,18 @@ beI forbidden; beI against the rules; beI illegal; beI prohibited; OBJ is not al
 forbid; pass rules against; prohibit; ban; SBJ {authority} forbids OBJ from making IND happen,,INCOHATIVE OF be forbidden,nyotewiki
 may; beI allowed; beI legal; beI permitted; OBJ is allowed to make IND happen,,no not-have-to,nyotewinyo
 allow; permit; SBJ permits OBJ to make IND happen,,CESSATIVE OF be forbidden,nyotewinu
-word; sememe {GENITIVE:lexical; literal},,say piece,tioncolon
-glyph; character; letter; grapheme,,write piece,teoncolon
-sound; phoneme,,speak piece,puaoncolon
-dictionary,,word list,tioncolonoltolum
-alphabet; syllabary {GENITIVE:alphabetical},,glyph list,teoncolonoltolum
-part-of-speech,,word category,tioncolontipalum
-onomatopoeia,,sound word,oyelumtioncolon
+glyph; character; letter; grapheme,,write piece,tepaltolon
+sound; phoneme,,speak piece,puapaltolon
+dictionary,,name list,colonoltolum
+alphabet; syllabary {GENITIVE:alphabetical},,glyph list,tepaltolonoltolum
+part-of-speech,,name category,colontipalum
+onomatopoeia,,can-hear name,oyecolon
+verb,,change name,calunyocolon
+noun,,thing name,estaloncolon
+incohative; inceptive (linguistics),,begin name,kicolon
+cessative (linguistics),,end name,nucolon
+apostrophe,,be-small line,pelasitelon
+slash,,be-square no line,funtanyositelon
 design; SBJ {designer} makes OBJ {designed} with the goal of IND {design goal},,try create,ciestaki
 province; state; territory; constituent country; sub-polity {GENITIVE:provincial; state; territorial},,be-inside state,nekwelon
 international,,much political,kehtecak
@@ -170,11 +176,11 @@ vegetarian; something that does not eat meat,,0 animal eater,nultunnyamales
 carnivore; something that eats meat,,animal eater,tunnyamales
 herbivore; something that eats plants,,plant eater,cannyamales
 alcohol {GENITIVE:alcoholic},,have-fun puddle,mocacwelon
-be drunk; be intoxicated; OBJ is drunk,,have-fun be-sick,mocafaku
-be sober; be dry; OBJ is sober,,be-bored be-sick,pehafaku
-drink; get drunk; intoxicate; SBJ makes OBJ drunk,,INCOHATIVE OF be drunk,mocafakuki
-sober; SBJ makes OBJ become sober,,CESSATIVE OF be drunk,mocafakunu
-have hangover; OBJ has a hangover,,be-bored begin be-sick,pehakifaku
+be drunk; be intoxicated; OBJ is drunk,,have-fun be-sick,mocafake
+be sober; be dry; OBJ is sober,,be-bored be-sick,pehafake
+drink; get drunk; intoxicate; SBJ makes OBJ drunk,,INCOHATIVE OF be drunk,mocafakeki
+sober; SBJ makes OBJ become sober,,CESSATIVE OF be drunk,mocafakenu
+have hangover; OBJ has a hangover,,be-bored begin be-sick,pehakifake
 tea,,leaf puddle,pancwelon
 milk,,parent puddle,mamacwelon
 wine,,grape alcohol,upmocacwelon
@@ -210,9 +216,9 @@ shin; lower leg,,be-outside leg,kolek
 pelvis; hips,,torso bottom,tolniculon
 mouth,,eat gland,nyamacyen
 lip,,eat sheet,nyamalat
-tooth,,eat skeleton,nyamaostolon
+tooth,,eat skeleton,nyamawesolon
 gums,,eat flimsy,nyamafulokipowilon
-alveolar ridge; alveolar margin,,tooth nub,nyamaostolontapalon
+alveolar ridge; alveolar margin,,tooth nub,nyamawesolontapalon
 hard palate,,mouth plate,nyamacyenfel
 soft palate; velum,,mouth sheet,nyamacyenlat
 larynx; vocal chords; voice box,,speak gland,puacyen
@@ -278,7 +284,7 @@ manatee; sea-cow,,ocean elephant,lawtpyah
 platypus,,egg mammal,tanmamul
 waterfowl; duck; goose; swan,,be-liquid fowl,cweap
 landfowl; chicken; turkey; pheasant,,ground fowl,pumap
-dove,,white pigeon,ocalonpicin
+dove,,white pigeon,ocalonpayl
 hummingbird,,hum bustard,mumupawh
 penguin,,be-cold bird,enicipcip
 pelican,,mouth bird,nyamacyencipcip
@@ -310,7 +316,7 @@ pantopod,,ocean spider,lawtcic
 shrimp,,be-small crustacean,pelakwap
 mantisshrimp,,be-strong crustacean,ikekwap
 centipede; millipede,,much leg,kehlek
-centipede,,poison centipede,fakukiluatkehlek
+centipede,,poison centipede,fakekiluatkehlek
 dragonfly; damselfly,,be-long bug,lamacuc
 louse,,hair bug,tofcuc
 scorpionfly,,sky scorpion,mipiloal
@@ -342,8 +348,8 @@ avocado,,,
 pepper,,,
 tulip,,,
 lily,,,
-Antarctica; the landmass; the continent,,be-south landmass,
-the Antarctic Ocean; the ocean,,be-south ocean,'antaktikalawt
+Antarctica; the landmass; the continent,,be-south landmass,sutatayl
+the Antarctic Ocean; the ocean,,be-south ocean,sutalawt
 the Arctic Ocean; the ocean,,be-north ocean,filalawt
 Afro-Eurasia; the landmass {GENITIVE:Afro-Eurasian},,Africa Eurasia,'aflika'yewlasia
 Sub-Saharan Africa; the region {GENITIVE:Sub-Saharan},,be-south Africa,suta'aflika
@@ -363,7 +369,7 @@ Latin America; the region {GENITIVE:Latin American},,Latin America,'latin'amelik
 Central America; the region {GENITIVE:Central American},,be-inside America,ne'amelika
 Oceania; the region {GENITIVE:Oceanic},,ocean landmass,lawttayl
 The Atlantic Ocean; the ocean {GENITIVE:Atlantic},,Atlas-mountains ocean,'atlaslawt
-The Indian Ocean; the ocean {GENITIVE:Indian Oceanic},,Indian ocean,'palatlawt
+The Indian Ocean; the ocean {GENITIVE:Indian Oceanic},,Indian ocean,'hintulawt
 The Pacific Ocean; the ocean {GENITIVE:Pacific},,be-big be-still ocean,motapemolawt
 The Arabian Sea; the sea,,Arab ocean,'alaplawt
 The Bering Sea; the sea,,Bering ocean,'beringlawt
@@ -379,9 +385,9 @@ Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntili
 Northern Ireland,,be-north Ireland,fila'elyatec
 the Jordan River,,Jordanian river,'ultuncwepas
 Mount Kenya,,Kenyan mountain,'kenyapil
-North Korea {GENITIVE:North Korean; from North Korea},,be-north Korea,fila'cosawnkwelyot
-South Korea {GENITIVE:South Korean; from South Korea},,be-south Korea,suta'cosawnkwelyot
-Namib desert,,Namibian desert,
+North Korea {GENITIVE:North Korean; from North Korea},,be-north unified-Korea,fila'cosawntec
+South Korea {GENITIVE:South Korean; from South Korea},,be-south unified-Korea,suta'cosawntec
+Namib desert,,Namibian desert,'namipiapatoufatayl
 Tunis,,Tunisian settlement,'tuniscih
 Sol; The Sun,,person sun,wonsun
 Luna; The Moon,,person moon,wonfik
@@ -560,7 +566,7 @@ be timely; be on time; OBJ is at the correct time,,must be-early,tewicitu
 be polite; act appropriately; SBJ is polite to OBJ,,culture be-friendly,sikyohau
 be rude; act inappropriately; SBJ is rude to OBJ,,culture be-hostile,sikwecai
 religion,,god method,kotkwelip
-sect,,religion piece,fitiliponcolon
+sect,,religion piece,fitilippaltolon
 ripple; wave; waves ripple through OBJ {TIME:wave},,be-fluid be-rhythmic,nilututumu
 rain; precipitate; OBJ {rain; precipitation} falls from the sky,,sky fall,mipta
 blow; gust; wind blows on OBJ from SBJ {wind system},,sky move,mipmope
@@ -594,7 +600,7 @@ agree; OBJ agrees with IND,,be-similar think,walepensi
 disagree; OBJ disagrees with IND,,differ think,yatopensi
 consent; approve; SBJ consents to OBJ,,want say,feti
 dissent; disapprove; SBJ dissents from OBJ,,dislike say,soti
-team,,help group,pancuoncolum
+team,,help group,pancupaltolum
 conduct; be conductive; OBJ {conductor} conducts electricity {AMOUNT:conductivity},,be-charged be-easy,inaisi
 insulate; resist; be resistive; OBJ {insulator; resistor} resists electrical current {AMOUNT:resistance},,be-charged be-difficult,inaufu
 mooch; leech; have parasitic relation; OBJ {parasite; leech; freeloader} benefits from hindering IND {host},,hinder live,makhiici
@@ -615,7 +621,7 @@ be random; be unpredictable; OBJ cannot possibly be predicted,,NEGATIVE OF be pr
 make predictable; order; determine,,INCOHATIVE OF be predetermined,citupensipowiki
 randomise; scramble; make unpredictable,,CESSATIVE OF be predetermined,citupensipowinu
 be pseudorandom,,NEGATIVE OF be random,citupensipowinyonyo
-elect; SBJ elects IND to office over OBJ,,choose take-over,elehepusaki
+elect; SBJ elects IND to office over OBJ,,choose take-over,ketapusaki
 fork,,be-sharp eating-utensil,aklanyamaluat
 spoon,,be-liquid eating-utensil,cwenyamaluat
 chopsticks,,rod eating-utensil,sotnyamaluat
@@ -666,7 +672,7 @@ be infinitessimal; OBJ is infinitessimally small,,be-infinite be-small,osimipela
 canon,,1 story,kanpuamocakilum
 prove; verify; log in; SBJ verifies OBJ's veracity,,yes teach,kwenoki
 disprove; falsify; compromise; log out; SBJ proves OBJ false,,no teach,nyonoki
-design; SBJ {designer} designs OBJ {design},,choose create,eleheestaki
+design; SBJ {designer} designs OBJ {design},,choose create,ketaestaki
 be unique; be special; OBJ is unique among IND,,1 be-similar,kanwale
 be common; be normal; be standard; OBJ is common among IND,,all be-similar,kitwale
 be available; be free; OBJ has nothing scheduled,,time be,kwelwelesta
@@ -677,12 +683,12 @@ fast-walk; SBJ does a fast walk on OBJ,,be-fast walk,yalapucopuco
 jog; SBJ jogs on OBJ,,be-slow run,watafopuco
 virgin,,have-sex no which,seksonyol
 creep out; OBJ {creeped out} finds IND {creepy; creeper} creepy,,little fear,nocpyo
-be apprehensive; hesitate; OBJ is apprehensive to do IND,,choose dislike,eleheso
+be apprehensive; hesitate; OBJ is apprehensive to do IND,,choose dislike,ketaso
 adore; beI cute; OBJ finds IND cute,,be-small want,pelafe
 beI awkward; be uncomfortable; OBJ finds IND {herp} awkward,,be-social hurt,sosiatafu
 replace; substitute; swap; SBJ removes IND and replaces it with OBJ,,summon dispose,lyotkwekikilyotkwekinu
-majority,,over 2 more,peltosmolon
-minority,,over 2 less,peltospelon
+be majority; be most; OBJ is most of IND,,over 2 be-more,peltosmo
+be minority; OBJ is less than half of IND,,over 2 be-less,peltospe
 cane; staff; walking stick,,step rod,pucosot
 invent; innovate; SBJ {inventor} invents OBJ {invention},,engineer think-of,ciculesitea
 be conservative; resist change; OBJ is conservative,,change dislike,calunyoso
@@ -700,8 +706,8 @@ be dim; be dark; OBJ {shadow} is dimly lit,,light be-quiet,lussica
 illuminate; light up; SBJ illuminates OBJ,,light amplify,lusfuhaki
 darken; dim; SBJ darkens OBJ,,light dampen,lussicaki
 tradition; ritual; ceremony,,repeat event,petalwelkwekilon
-think big picture; think grandly; OBJ tends to think of the big picture,,group deduce,oncolumiti
-be detail-oriented; OBJ tends to focus on small details,,piece deduce,oncoloniti
+think big picture; think grandly; OBJ tends to think of the big picture,,group deduce,paltolumiti
+be detail-oriented; OBJ tends to focus on small details,,piece deduce,paltoloniti
 rebel; SBJ rebels against OBJ,,government fight,pusalumlwa
 protest; SBJ protests IND to OBJ,,government complain,pusalumwasoti
 bury; SBJ buries OBJ,,be-soil lower,aninicuki
@@ -732,7 +738,7 @@ emoticon; emoji,,feel image,swahulum
 spiral,,,
 itch; OBJ's IND {itch} itches,,little hurt,noctafu
 holy book,,have-faith book,fiticapalum
-church,,religion group,fitiliponcolum
+church,,religion group,fitilippaltolum
 car; truck,,ground vehicle,pummontalon
 boat,,be-liquid vehicle,cwemontalon
 flying machine; airplane; helicopter; balloon,,sky vehicle,mipmontalon
@@ -754,8 +760,10 @@ take shower; shower; SBJ showers OBJ with IND {shower},duchar; ducharse; SBJ duc
 launch coup d'etat; seize power; SBJ suddenly seizes control of OBJ {TIME:coup d'etat; coup; putsch; golpe},,be-fast take-control,yalakunciki
 make eye contact; OBJ has eye contact with IND,,eye can-see,hucyenhu
 heartbeat; have pulse; OBJ has a heartbeat {AMOUNT:heartrate},,live be-rhythmic,icitutumu
-corporation; company; business,,sell group,maioncolum
+corporation; company; business,,sell group,maipaltolum
 sandpaper,,be-rough sheet,fyamolat
 party; throw party; play; hang out; celebrate; SBJ {partier; host} initiates a social gathering with OBJ {party-goers; attendee} {TIME:party; play-date},,be-social have-fun,sosiamoca
 stretch; SBJ stretches OBJ,,be-long bend,lamafuloki
 compress; squeeze; SBJ compresses OBJ,,be-short bend,tapafuloki
+pentagram; pentalpha; pentangle; star pentagon,,5 path,limpas
+popcorn,,pop corn,kehemais

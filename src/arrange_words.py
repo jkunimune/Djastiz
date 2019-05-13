@@ -15,7 +15,7 @@ import unicodedata
 
 
 
-logging.basicConfig(level=logging.ERROR)
+logging.basicConfig(level=logging.INFO)
 
 
 DIACRITIC_GUIDE = {
@@ -519,7 +519,7 @@ def load_dictionary(directory):
 				break
 		if words[possible_gloss] != entry:
 			gloss = '{}{:03d}'.format(entry['eng'][0], len(words))
-			logging.warning("There is no possible gloss for {}. '{}' will be used as a key.".format(entry, gloss))
+			# logging.warning("There is no possible gloss for {}. '{}' will be used as a key.".format(entry, gloss))
 			entry['gloss'] = gloss
 			words[gloss] = entry
 
@@ -616,9 +616,9 @@ def analyse_dictionary(all_words):
 	""" count up the number of words with each root """
 	tallies = collections.Counter()
 	for word in all_words.values():
-		if '<' in word['source'] and word['partos'] != 'loanword':
+		if '[' in word['source'] and word['partos'] != 'loanword':
 			tallies[word['source'][:3]] += 1
-	actual_fracs = [(lang, tallies[lang]/sum(tallies.values())) for lang in DESIRED_FRAC.keys()]
+	actual_fracs = [(lang, tallies[lang]/sum(tallies.values())) for lang in tallies.keys()]
 	for lang, frac in sorted(actual_fracs, key=lambda t:-t[1]):
 		logging.info("{}:{:.3f} ({:2d})".format(lang, frac, tallies[lang]))
 	logging.info("{} roots, {} of which are of European origin".format(

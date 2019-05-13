@@ -6,6 +6,6 @@ eng,spa,source,ltl
 "do; happen; cause; pro-verb; SBJ {agent; participant {GENITIVE:agentive}} makes OBJ {effect; patient (linguistics); experiencer (linguistics) {GENITIVE:patientive (linguistics)}} come true to IND {theme (linguistics); stimulus (linguistics); recipient (linguistics) {GENITIVE:thematic (linguistics)}}",,INCOHATIVE OF yes,kweki
 "undo; OBJ happens in reverse",,CESSATIVE OF yes,nyoki
 "be; exist; have; equal; be the same; _copula_; OBJ {thing} exists and is the same thing as IND {AMOUNT:number; count; amount|GENITIVE:fair; uniform; equal}",,spa <estar> [estar],esta
-"be opposite; be contrary; OBJ is the opposite of IND",,OPPOSITE OF be,ohka
-"create; make; give; get; appear; produce; SBJ {creator} makes OBJ {creation} into IND {LOCATION:factory; makery; source|METHOD:recipe}",,INCOHATIVE OF be,estaki
-"delete; destroy; take; disappear; ruin; SBJ {deleter; destroyer} deletes OBJ {deleted; disappeared}",,CESSATIVE OF be,estanu
+"be opposite; be contrary; OBJ is the opposite of IND",,OPPOSITE OF be,ofla
+"create; make; give; get; appear; produce; originate; SBJ {creator} makes OBJ {creation} into IND {LOCATION:factory; makery; source|METHOD:recipe}",,INCOHATIVE OF be,estaki
+"delete; destroy; take; disappear; ruin; end; SBJ {deleter; destroyer} deletes OBJ {deleted; disappeared}",,CESSATIVE OF be,estanu
