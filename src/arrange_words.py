@@ -327,7 +327,6 @@ def apply_phonotactics(ipa, ending=''):
 				clusters[i] = ''.join(cluster[j] for j in idcs) # and reassemble the now reduced cluster
 	lsl = ''.join(clusters)
 
-	logging.debug("{} -> {}".format(ipa, lsl))
 	return lsl, changes
 
 
@@ -364,7 +363,7 @@ def legal_new_word(word, all_words, has_antonym, lang='', ipa=''):
 def choose_word(english, real_words, counts, partos, has_antonym=False, all_words={}):
 	""" determine what word should represent english, based on the given foreign dictionaries and
 		current representation of each language. Return the source lang, source orthography, source IPA, and my word """
-	logging.info("choosing a word for '{}'".format(english))
+	logging.debug("choosing a word for '{}'".format(english))
 	options, scores = [], []
 	for _, lang, target_frac in SOURCE_LANGUAGES:
 		try:
@@ -401,7 +400,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		scores[i] = score
 
 	if np.isfinite(max(scores)):
-		logging.info("Out of \n{};\nI choose {}".format(',\n'.join(str(tup) for tup in options), options[np.argmax(scores)]))
+		logging.debug("Out of \n{};\nI choose {}".format(',\n'.join(str(tup) for tup in options), options[np.argmax(scores)]))
 		return options[np.argmax(scores)][:4]
 	else:
 		raise Exception("There are no possible words for '{}' that don't conflict with words I already have. Oh god. How did this happen? Do I need even more languages?".format(english))

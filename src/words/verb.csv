@@ -17,14 +17,16 @@ be ready; OBJ is ready to make IND happen,,POSSIBILITY OF begin,kipowi
 ready; prepare; SBJ gets OBJ ready for IND,,INCOHATIVE OF be ready,kipowiki
 try; attempt; will; intend; attempt; do for; do so; do in order to; SBJ {purposeful; intentful} makes OBJ {means} happen in order to make IND {purpose; reason; goal; end; intention; beneficiary} happen,,cmn <试> [ʂɨ˥˩],ci
 give up; quit; stop trying; SBJ {quitter} stops trying to make IND happen by doing OBJ,,CESSATIVE OF try,cinu
-want; like; beI good; desire; favour; beI appealing; beI pleasing; hunger; have an appetite; hope; beI beautiful; be positive; OBJ {liker; optimist; hoper; wanter; desirous; hungry; -phile} has positive inclinations toward IND {desire; wish; hope; preference; favourite} {AMOUNT:value; goodness; preference level|LOCATION:heaven},,yor <fẹ́> [fɛ́],fe
+want; like; beI good; desire; favour; beI appealing; beI pleasing; hunger; have an appetite; hope; beI beautiful; be positive; OBJ {liker; optimist; hoper; wanter; desirous; hungry; -phile} has positive inclinations toward IND {desire; wish; hope; preference; favourite} {AMOUNT:value; goodness; preference level|LOCATION:heaven|METHOD:style; stylisation},,yor <fẹ́> [fɛ́],fe
 dislike; be averse; beI bad; disfavour; be unappealing; be displeasing; want not; beI ugly; beI gross; be negative; OBJ {pessimist; -phobe} has negative inclinations toward IND {unfavourable; anathema; least favourite} {LOCATION:hell|AMOUNT:cost},,ANTONYM OF want,so
 encourage; improve; defend; argue for; positively impact; SBJ {encourager; improver} raises OBJ {encouraged}'s opinion of IND,,INCOHATIVE OF want,feki
 discourage; worsen; insult; argue against; negatively impact; SBJ {discourager; worsener} lowers OBJ {discouraged}'s opinion of IND,,CESSATIVE OF want,soki
+beI dangerous; IND {danger} is dangerous to OBJ,,POSSIBILITY OF dislike,sopowi
+beI safe; be secure; IND is safe for OBJ {AMOUNT:safety},,NEGATIVE OF be dangerous,sopowinyo
 need; require; must; be necessary; suffice; be enough; OBJ {requisite; requirement} must be true in order for IND to be true,,yor <ní-lò> [nílò],nilo
 be unacceptable; be too much; be insufficient; IND cannot be true if OBJ is true,,ANTONYM OF need,kute
-*should; be fit; be good; be proper; OBJ should happen to make IND {value function; goal} happen,,yor <ìbá> [ìbá],ipa
-should not; be bad; be unwise; OBJ {problem} should not happen to make IND happen,,ANTONYM OF should,uma
+*should; be fit; be good; be proper; be correct; OBJ should happen to make IND {value function; goal} happen,,yor <ìbá> [ìbá],ipa
+should not; be bad; be unwise; be incorrect; OBJ {problem} should not happen to make IND happen,,ANTONYM OF should,uma
 *must; have to; be responsible; be obligated; OBJ is obligated to make IND {obligation; duty; responsibility; rule} happen,,epo <devi> [ˈdevi],tewi
 assign; obligate; require; SBJ {assigner} makes OBJ responsible for IND happening,,INCOHATIVE OF must,tewiki
 not have to; may not; OBJ does not have to make IND happen,,NEGATIVE OF must,tewinyo
@@ -127,7 +129,7 @@ make not okay; cross the line; make unacceptable; SBJ makes OBJ not okay,,CESSAT
 be old; OBJ {elder; senior; adult; grown-up; relic} is old {AMOUNT:age},,cmn <旧> [t͡ɕjoʊ̯˥˩],cyo
 be young; be new; OBJ {kid; girl; boy} is young,,ANTONYM OF be old,hwe
 age; wear; SBJ {ager; Father Time} makes OBJ get older,,INCOHATIVE OF be old,cyoki
-age backward; youngen; SBJ {youngener} makes OBJ get younger,,CESSATIVE OF be old,hweki
+renew; update; SBJ {updater} makes OBJ become new,,CESSATIVE OF be old,hweki
 be late; be after; be tardy; positive time; OBJ {future} happens after IND {AMOUNT:time; time interval; duration},,fil <huli> [huli],huli
 be early; be before; be timely; negative time; OBJ {past} happens before IND,,ANTONYM OF be late,citu
 laten; delay; postpone; put off; procrastinate; travel forward through time; SBJ {postponer} pushes OBJ forward through time,,INCOHATIVE OF be late,huliki
@@ -361,7 +363,7 @@ be opaque; OBJ absorbs light that it does not reflect {AMOUNT:opacity},,epo <opa
 be transparent; be see-through; OBJ {window} lets unreflected light pass through it,,ANTONYM OF be opaque,emana
 opaquify; SBJ make OBJ become opaque,,INCOHATIVE OF be opaque,opakaki
 transparify; SBJ makes OBJ become transparent,,CESSATIVE OF be opaque,emanaki
-be shiny; shine; be reflective; be smooth; OBJ {mirror} reflects light specularly {AMOUNT:shininess},,eng <shiny> [ˈʃɑɪ̯ni],cayni
+be shiny; shine; be reflective; be smooth; be metallic; OBJ {mirror} reflects light specularly {AMOUNT:shininess},,eng <shiny> [ˈʃɑɪ̯ni],cayni
 be matte; be dull; be rough; OBJ reflects light diffusely,,ANTONYM OF be shiny,hawku
 shine; polish; SBJ makes OBJ become shiny,,INCOHATIVE OF be shiny,cayniki
 matte; SBJ makes OBJ become matte,,CESSATIVE OF be shiny,hawkuki
@@ -431,7 +433,7 @@ be structurally weak; be crumbly; OBJ is easy to break,,POSSIBILITY OF break,lot
 be structurally strong; be durable; OBJ is difficult to break {AMOUNT:structural integrity; strength; durability},,NEGATIVE OF be structurally weak,lotokipowinyo
 weaken; compromise; sabotage; SBJ {weakener; saboteur} makes OBJ structurally weaker,,INCOHATIVE OF be structurally weak,lotokipowiki
 strengthen; brace; glue; SBJ {strengthener; glue} makes OBJ structurally stronger,,CESSATIVE OF be structurally weak,lotokipowinu
-be solid; be rigid; be firm; OBJ {solid; rigid body} is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
+be solid; be rigid; be firm; OBJ {rigid body} is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
 be fluid; be amorphous; OBJ is fluid,,ANTONYM OF be solid,nilu
 freeze; solidify; deposit; SBJ {one who freezes; freezer} freezes OBJ {frozen; ice} {INSTRUMENT:freezer},,INCOHATIVE OF be solid,kutiki
 melt; sublimate; SBJ {melter} melts OBJ {molten},,CESSATIVE OF be solid,niluki
@@ -670,3 +672,6 @@ be specific; be particular; OBJ is specific,,cmn <具体> [t͡ɕy˥˩tʰi˧˩˧]
 be general; be vague; OBJ is general,,ANTONYM OF be specific,huylu
 specify; identify; SBJ specifies OBJ,,INCOHATIVE OF be specific,ciwtiki
 generalise; SBJ generalises OBJ,,CESSATIVE OF be specific,huyluki
+take up; consume; hold; occupy; OBJ {slot; space; resource} is taken up by IND {allocation},,hin <लेना> [lenaː],lena
+allocate; allot; spend; SBJ allocates OBJ to IND,,INCOHATIVE OF take up,lenaki
+free; revoke; SBJ frees up OBJ from IND,,CESSATIVE OF take up,lenanu
