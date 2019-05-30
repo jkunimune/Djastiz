@@ -18,41 +18,31 @@ t; /t/; alveolar plosive,,ono [t],'ta
 p; /p/; bilabial plosive,,ono [p],'pe
 Ido; the language {GENITIVE:Ido; in Ido},,ido <Ido> [ˈido],'ito
 Interlingua; the language {GENITIVE:Interlingua; in Interlingua},,ina <Interlingua> [inteɾˈliŋɡwa],'intelinkwa
-Korean; the language {GENITIVE:Korean; in Korean},,kor <한국어> [haːnɡuɡʌ],'hankuka
 Lingua Franca Nova; Elefen; the language {GENITIVE:Lingua Franca Nova; in Lingua Franca Nova},,lfn <Elefen> [elefen],'elefen
 Lojban; the language {GENITIVE:Lojban; in Lojban},,ljb <.lojban.> [ˈʔloʒbanʔ],'locpan
-Malay; the language {GENITIVE:Malay; in Malay},,msa <بهاس ملايو> [bahasə melaju],'pahasamelayu
 Neo Patwa; the language {GENITIVE:Neo Patwa; in Neo Patwa},,npt <Neo Patwa> [neˈo paˈtwa],'neopatwa
-Persian; the language {GENITIVE:Persian; in Persian},,fas <فارسی> [fɒːɾˈsiː],'folsi
 Shona; the language {GENITIVE:Shona; in Shona},,sna <chiShona> [t͡ʃiʃona],'cicona
-Sotho; the language {GENITIVE:Sotho; in Sotho},,sot <Sesotho> [sɪ˨sʊ˦tʰʊ˨],'sisutu
 Southern Min Chinese; the language {GENITIVE:Southern Min; in Southern Min},,nan <閩南語> [ho˧lo˧˥we˧],'holowe
 Tamil; the language {GENITIVE:Tamil; in Tamil},,tam <தமிழ்> [t̪ɐmɨɻ],'tamil
 Telugu; the language {GENITIVE:Telugu; in Telugu},,tel <తెలుగు> [t̪el̪uɡu],'teluku
-Thai; the language {GENITIVE:Thai; in Thai},,tha <ภาษาไทย> [pʰaː˧saː˩˦ tʰaj˧],'pasatay
 Toki Pona; the language {GENITIVE:Toki Pona; in Toki Pona},,tkp <toki pona> [ˈtoki ˈpona],'tokipona
-Urdu; the language {GENITIVE:Urdu; in Urdu},,urd <اُردُو‬‎> [ˈʊrd̪uː],'ultu
 Xhosa; the language {GENITIVE:Xhosa; in Xhosa},,xho <isiXhosa> [i˨si˨kǁʰɔː˦sa˨],'isiklosa
 Zulu; the language {GENITIVE:Zulu; in Zulu},,zul <isiZulu> [isiˈzuːlu],'isisulu
 The World Wide Web; The Internet; The Cloud {GENITIVE:Internet; cloud; cyber},,eng <Internet> [ˈɪntɚnɛt],'intanet
 America; The Americas; the landmass {GENITIVE:American; from America},,spa <América> [aˈmeɾika],'amelika
 Africa; the continent {GENITIVE:African; from Africa},swa <Afrika> [afrika],,'aflika
-Australian; the Australian people; Australia; the landmass; the continent {GENITIVE:Australian; from Australia|COUNTRY:Australia; the Commonwealth of Australia},,eng <Australia> [əˈstɹʷæɪ̯ljə],'ostwaylya
+Australian; the Australian people {GENITIVE:Australian; from Australia|COUNTRY:Australia (country); the Commonwealth of Australia},,eng <Australia> [əˈstɹʷæɪ̯ljə],'ostwaylya
 Eurasia; the continent {GENITIVE:Eurasian; from Eurasia},,rus <Евразия> [jɪˈvrazʲɪjə],'yewlasia
-European; the European people {GENITIVE:European; from Europe|REGION:Europe},,grc <Εὐρώπη> [ēwrɔ́ːpɛ̄ː],'ewlope
-Maghrebi person; the Maghrebi people {GENITIVE:Maghrebi; Maghreb; from the Maghreb|REGION:the Maghreb},,ara <مغرب> [ɣɑrɑba],'halapa
-Mashriqi person; the Mashriqi people {GENITIVE:Mashriqi; Mashriq; from the Mashriq|REGION:the Mashriq},,ara <شرق‎> [ʃɑrɑqɑ],'calaka
-Melanesian; the Melanesian people {GENITIVE:Melanesian; from Melanesia|REGION:Melanesia},,fra <Mélanésie> [ˈmelɐnezi],'melanesi
-Micronesian; the Micronesion people {GENITIVE:Micronesian; from Micronesia|REGION:Micronesia|COUNTRY:Micronesia; Federated States of Micronesia},,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
-Polynesian; the Polynesian people {GENITIVE:Polynesian; from Polynesia|REGION:Polynesia},,fra <Polynésie> ['polinezi],'polinesi
+Abkhazian; Abkhaz; the Abkhazian people {GENITIVE:Abkhazian; Abkhaz; from Abkhazia|COUNTRY:Abkhazia|LANGUAGE:Abkhaz; Abkhazian; Abxaz; the Abkhaz language},,abk <Аҧсуа> [apʰswa],'apswa
 Afghan; the Afgan people {GENITIVE:Afghan; from Afghanistan|COUNTRY:Afghanistan},,prs <افغانستان‬> [avɣɒn],'afhan
 Albanian; the Albanian people {GENITIVE:Albanian; from Albania|COUNTRY:Albania|LANGUAGE:Albanian; the Albanian language},,alb <Shqip> [ʃcip],'ickip
-American; the American people {GENITIVE:American; U.S.; from the U.S.|COUNTRY:the United States of America; U.S.A.; America},,eng <America> [əˈmɛɹʷɪkə],'amewika
+American; the American people {GENITIVE:American; U.S.; from the U.S.|COUNTRY:United States of America; U.S.A.; America},,eng <America> [əˈmɛɹʷɪkə],'amewika
 South African; the South African people {GENITIVE:South African; from South Africa|COUNTRY:South Africa},,xho <Mzansi> [m̩z̤ansi],'umsansi
 Algerian; the Algerian people {GENITIVE:Algerian; from Algeria|COUNTRY:Algeria},,ara <الدزاير> [ald͡zaːjiːr],'alsayil
 Andorran; the Andorran people {GENITIVE:Andorran; from Andorra|COUNTRY:Andorra},,cat <Andorra> [ənˈdorə],'antola
 Angolan; the Angolan people {GENITIVE:Angolan; from Angola|COUNTRY:Angola},,por <Angola> [ɐ̃ˈɡɔlɐ],'ankola
 Antiguan; Barbudan; the Antiguan and Barbudan people {GENITIVE:Antiguan; Barbudan; from Antigua and Barbuda|COUNTRY:Antigua and Barbuda},,eng <Antigua and Barbuda> [æntiːɡə ən bɑːbjuːdə],'antikapapyuta
+Arab; the Arabian people {GENITIVE:Saudi; Saudi Arabian; Arabia; from Saudi Arabia|COUNTRY:Saudi Arabia|LANGUAGE:Arabic; the Arabic language|REGION:Arabia; the Arabian peninsula},,ara <عَرَب> [ˈʕarab],'alap
 Argentinean; the Argentinean people {GENITIVE:Argentinean; Argentine; from Argentina|COUNTRY:Argentina},,spa <Argentina> [aɾxenˈtina],alhentina
 Armenian; the Armenian people {GENITIVE:Armenian; from Armenia|COUNTRY:Armenia|LANGUAGE:Armenian; the Armenian language},,hye <Հայք> [hɑjkʰ],'hayk
 Austrian; the Austrian people {GENITIVE:Austrian; from Austria|COUNTRY:Austria},,deu <Österreich> [ˈøːstɐraɪç],'ostalayc
@@ -70,6 +60,7 @@ Bolivian; the Bolivian people; {GENITIVE:Bolivian; from Bolivia|COUNTRY:Bolivia}
 Bosnia and Herzegovina; the country {GENITIVE:Bosnian; from Bosnia and Herzegovina},,hrv <Bosna> [bosna],'posna
 Batswana; the Tswana people {GENITIVE:Botswanan; from Botswana|COUNTRY:Botswana|LANGUAGE:Setswana; the Tswana language},,tsn <tswana> [t͡swana],'swana
 Brazilian; the Brazilian people {GENITIVE:Brazilian; from Brazil|COUNTRY:Brazil},,por <Brasil> [bɾaˈziw],'palasiw
+Briton; Brit; the Brittish people {GENITIVE:British; UK; from the United Kingdom|COUNTRY:Brittan; the UK; the United Kingdom of Great Brittan and Northern Ireland},,eng <Briton> [ˈbɹʷɪʔən],'pwiton
 Bruneian; the Bruneian people {GENITIVE:Bruneian; from Brunei|COUNTRY:Brunei|LANGUAGE:Brunei Malay},,kxd <بروني> [brunai],'palunai
 Bulgarian; the Bulgarian people {GENITIVE:Bulgarian; from Bulgaria|COUNTRY:Bulgaria|LANGUAGE:Bulgarian; the Bulgarian language},,bul <Българ> [bɐɫˈɡar],'palkal
 Burkinabé; the Burkinabé people {GENITIVE:Burkinabé; Burkinabè; from Burkina Faso|COUNTRY:Burkina Faso},,fra <Burkina> [buʁkina],'puhkinafaso
@@ -79,10 +70,10 @@ Cameroonian; the Cameroonian people {GENITIVE:Cameroonian; from Cameroon|COUNTRY
 Canadaian; the Canadian people {GENITIVE:Canadian; from Canada|COUNTRY:Canada},,eng <Canada> [ˈkænədə],'kanata
 Cabo Verdean; Cape Verdean; the Cabo Verdean people {GENITIVE:Cabo Verdean; Cape Verdean; from Cabo Verde|COUNTRY:Cabo Verde; Cape Verde},,por <Cabo Verde> [kaβu veɾðɨ],'kapufelti
 Island Carib; the Carib people; the Kalinago people {GENITIVE:Island Carib; Carib|LANGUAGE:Island Carib; Igneri},,crb <Kalinago> [kalinaɡo],'kalinako
-Castillian; the Castillian people {GENITIVE:Castillian; from Castile|COUNTRY:the Kingdom of Castile|LANGUAGE:Castillian; the Castillian language|REGION:Castile},,spa <Castellano> [kasˈtiʎa],'kastilya
+Castillian; the Castillian people {GENITIVE:Castillian; from Castile|COUNTRY:Castile|LANGUAGE:Castillian; the Castillian language|REGION:Castile (region)},,spa <Castellano> [kasˈtiʎa],'kastilya
 Central African; the Central African people {GENITIVE:Central African; from the Central African Republic|COUNTRY:Central African Republic},,fra <Centrafrique> [sɑ̃tʁafʁik],'sanhafhik
 Chadian; the Chadian people {GENITIVE:Chadian; from Chad|COUNTRY:Chad},,fra <Tshad> [tʃad],'cat
-Chewa; the Chewa people {GENITIVE:Chewa; of the Chewa|LANGUAGE:Chichewa; Chinyanja},,nya <Chewa> [t͡ʃewa],'cewa
+Chewa; Nyanja; Nyasa; the Chewa people {GENITIVE:Chewa; Malawian; from Malawi|COUNTRY:Malawi|LANGUAGE:Chichewa; Chinyanja},,nya <Chewa> [t͡ʃewa],'cewa
 Chilean; the Chilean people {GENITIVE:Chilean; from Chile|COUNTRY:Chile},,spa <Chile> [ˈt͡ʃile],'cile
 Chinese; the Chinese people {GENITIVE:Chinese; from China|COUNTRY:China|LANGUAGE:Chinese; the Chinese macrolanguage},,cmn <中> [ʈ͡ʂʊŋ˥],'cun
 Colombian; the Columbian people {GENITIVE:Columbian; from Colombia|COUNTRY:Columbia},,spa <Colombia> [koˈlombja],'kolompya
@@ -92,27 +83,29 @@ Congolese; the people of the Democratic Republic of the Congo; the country {GENI
 Congolese; the people of the Republic of the Congo; the country {GENITIVE:Congolese; from Republic of the Congo},,fra <Congo-Brazzaville> [kɔ̃ɡo bʁazavil],'konopalasafil
 Cook Islander; the Cook Islander people {GENITIVE:Cook Island; Cook Islander; from the Cook Islands|COUNTRY:Cook Islands|LANGUAGE:Cook Islands Maori},,eng <Cook Islands> [ˈkʊk ˈaɪləndz],'kukaylan
 Costa Rican; the Costa Rican people {GENITIVE:Costa Rican; from Costa Rica|COUNTRY:Costa Rica},,spa <Costa Rica> [kosta rika],'kostalika
-Croat; the Croat people {GENITIVE:Croatian; from Croatia|COUNTRY:Croatia|LANGUAGE:Croatian; the Croatian language},,hrv <Hrvati> [xr̩ʋăːti],'helwati
+Croat; the Croat people {GENITIVE:Croatian; from Croatia|COUNTRY:Croatia|LANGUAGE:Croatian; the Croatian language},,hrv <Hrvati> [xr̩ʋăːti],'halwati
 Cuban; the Cuban people {GENITIVE:Cuban; from Cuba|COUNTRY:Cuba},,spa <Cuba> [kuβa],'kupa
 Cypriot; the Cypriot people {GENITIVE:Cypriot; from Cyprus|COUNTRY:Cyprus},,ell <Κύπρος> [ˈcipros],'kiplos
-Czech; the Czech people {GENITIVE:Czech; from the Czech Republic|LANGUAGE:Czech; the Czech language},,ces <češ-> [ˈt͡ʃɛʃ],'cec
+Czech; the Czech people {GENITIVE:Czech; from the Czech Republic|COUNTRY:Czechia; Czech Republic|LANGUAGE:Czech; the Czech language},,ces <čech> [ˈt͡ʃɛx],'ceh
 Dane; the Danish people {GENITIVE:Danish; from Denmark|COUNTRY:Denmark|LANGUAGE:Danish; the Danish language},,dan <Dan-> [dan],'tan 
 Djiboutian; the Djiboutian people {GENITIVE:Djiboutian; from Djibouti|COUNTRY:Djibouti},,som <Jabuuti> [d͡ʒæbuːt],'caputi
 Dominican; the Dominican people {GENITIVE:Dominican; from Dominica|COUNTRY:Dominica},,eng <Dominica> [dɒmɪˈniːkə],'tominika
-Dominican; Quisqueyan; the people of the Dominican Republic {GENITIVE:Dominican; Quisqueyan; from Dominican Republic|COUNTRY:the Dominican Republic},,spa <Quisqueya> [kisˈkeʝa],'kiskeya
+Dominican; Quisqueyan; the people of the Dominican Republic {GENITIVE:Dominican; Quisqueyan; from Dominican Republic|COUNTRY:Dominican Republic},,spa <Quisqueya> [kisˈkeʝa],'kiskeya
 Ecuadorian; the Equadorian people {GENITIVE:Ecuadorian; from Ecuador|COUNTRY:Ecuador},,spa <Écuador> [ˈekwaðoɾ],'ekwatol
 Egyptian; the Egyptian people {GENITIVE:Egyptian; from Egypt|COUNTRY:Egypt},,ara <مَصر> [mɑsˁɾ],'masli
 Englishman; the English people {GENITIVE:English; Anglic; from England|COUNTRY:England|LANGUAGE:English; the English language},,eng <Engl-> [ˈɪŋɡl],'inkil
 Equatorial Guinean; Equatoguinean; the Equatorial Guinean people {GENITIVE:Equatorial Guinean; from Equatorial Guinea|COUNTRY:Equatorial Guinea},,spa <Guinea Ecuatorial> [giˈnea ekwatoˈɾjal],'kineaekwatolyal
-Esperantist {GENITIVE:Esperanto; Esperantist; Esperanta|LANGUAGE:Esperanto; the Esperanto language},,epo <Esperanto> [espeˈranto],'esperanto
 Eritrean; the Eritrean people {GENITIVE:Eritrean; from Eritrea|COUNTRY:Eritrea},,tir <ኤርትራ> [ertra],'elitla
+Esperantist {GENITIVE:Esperanto; Esperantist; Esperanta|LANGUAGE:Esperanto; the Esperanto language},,epo <Esperanto> [espeˈranto],'esperanto
 Estonian; the Estonian people {GENITIVE:Estonian; from Estonia|COUNTRY:Estonia|LANGUAGE:Estonian; the Estonian language},,est <eesti> [eːsti],'esti
+European; the European people {GENITIVE:European; from Europe|REGION:Europe},,grc <Εὐρώπη> [ēwrɔ́ːpɛ̄ː],'ewlope
 Swazi; Swati; the Swazi people {GENITIVE:Swazi; Swati; from eSwatini|COUNTRY:eSwatini; Swaziland|LANGUAGE:Swazi; Swati; siSwati; the Swazi language},,ssw <Swati> [swatˈi],'swati
 Ethiopian; the Ethiopian people {GENITIVE:Ethiopian; from Ethiopia|COUNTRY:Ethiopia},,amh <ኢትዮጵያ> [ʔɨtjoppʼja],'ityopya
 Fijian; the Fijian people {GENITIVE:Fijian; Fijindian; from Fiji|COUNTRY:Fiji|LANGUAGE:Fijian; the Fijian language},,fij <Viti> [ˈβit͡ʃi],'fici
 Finn; the Finnish people {GENITIVE:Finnish; from Finland|COUNTRY:Finland|LANGUAGE:Finnish; the Finnish people},,fin <suom-> [ˈsuo̯m],'suom
 Frenchman; the French people {GENITIVE:French; from France|COUNTRY:France|LANGUAGE:French; the French language},,fra <français> [ˈfʁɑ̃sɛ],'fahanse
 Gabonese; Gabonaise; the Gabonese people {GENITIVE:Gabonese; Gabonaise; from Gabon|COUNTRY:Gabon},,fra <Gabon> [ɡabɔ̃],'kapon
+Gael; the Gaelic people {GENITIVE:Gaelic; of the Gaels|LANGUAGE:Goidelic; Gaelic; a Goidelic language},,gla <Gàidheal> [ˈkɛːəɫ],'keal
 Gambian; the Gambian people {GENITIVE:Gambian; from The Gambia|COUNTRY:The Gambia},,eng <Gambia> [ˈɡæmbiə],'kampia
 Georgian; the Georgian people {GENITIVE:Georgian; from Georgia|COUNTRY:Georgia|LANGUAGE:Georgian; the Georgian langauge|REGION:Kartli},,kat <ქართველ-> [kʰɑrtʰvɛl],'kaltwel
 German; the German people {GENITIVE:German; Germanic; from Germany|COUNTRY:Germany|LANGUAGE:German; the German language},,deu <Deutsch> [ˈdɔʏ̯t͡ʃ],'tojc
@@ -127,6 +120,7 @@ Guyanaese; the Guyanese people {GENITIVE:Guyanese; from Guyana|COUNTRY:Guyana},,
 Haitian; the Haitian people {GENITIVE:Haitian; from Haiti|COUNTRY:Haiti|LANGUAGE:Haitian creole},,hat <Ayiti> [ajiti],'ajiti
 Han; the Han people {GENITIVE:Han; of the Han|RELIGION:Han folk religion; Chinese folk religion},,cmn <漢> [xan˥˩],'han
 Hausa; Ausa; the Hausa people {GENITIVE:Hausa; of the Hausa|LANGUAGE:Hausa; the Hausa language},,hau <Hausa> [hawsa],'hawsa
+Hawaiian; the Hawaiian people {GENITIVE:Hawaiian; Kamaʻaina; from Hawai'i|COUNTRY:Hawaiʻi|LANGUAGE:Hawaiian; the Hawaiian language},,haw <Hawaiʻi> [həˈvɐjʔi],'hawayi
 Honduran; Catracho; the Honduran people {GENITIVE:Honduran; from Honduras|COUNTRY:Honduras},,spa <Honduras> [onˈduɾas],'ontulas
 Hungarian; the Hungarian people {GENITIVE:Hungarian; from Hungary|COUNTRY:Hungary|LANGUAGE:Hungarian; the Hungarian language},,hun <maygar> [mɒɟɒr],'makyal
 Icelander; the Icelandic people {GENITIVE:Icelandic; from Iceland|COUNTRY:Iceland|LANGUAGE:Icelandic; the Icelandic language},,isl <Ísland> [ˈistlant],'islan
@@ -135,141 +129,137 @@ Indian; the Indian people {GENITIVE:Indian; from India|COUNTRY:India; Hindustan|
 Indonesian; the Indonesian people {GENITIVE:Indonesian; from Indonesia|COUNTRY:Indonesia|LANGUAGE:Indonesian; the Indonesian language},,ind <Indonesia> [ɪndonesia],'intonesia
 Iranian; Persian; the Iranian people {GENITIVE:Iranian; from Iran|LANGUAGE:Persian; Farsi; the Persian language},,fas <ایران‎ > [ʔiːɾɒːn],'ilan
 Iraqi; the Iraqi people {GENITIVE:Iraqi; from Iraq|COUNTRY:Iraq},,ara <عراق> [ʕiraːq],'ilak
-Irishman; the Irish people {GENITIVE:Irish; from Ireland|COUNTRY:Ireland; the Republic of Ireland|LANGUAGE:Irish; Gaelic; the Irish language|REGION:Ireland (island)},,gle <Éire> [ˈeːɾʲə],'elya
+Irishman; the Irish people {GENITIVE:Irish; from Ireland|COUNTRY:Ireland; the Republic of Ireland|LANGUAGE:Irish; Gaelic; the Irish language},,gle <Éire> [ˈeːɾʲə],'elya
 Israeli; Israelite; the Israeli people {GENITIVE:Israeli; from Israel|COUNTRY:Israel|LANGUAGE:Hebrew; the Hebrew language},,heb <ישראל> [jisʁael],'yishael
 Italian; the Italian people {GENITIVE:Italian; Italic; from Italy|COUNTRY:Italy|LANGUAGE:Italian; the Italian language},,ita <Italia> [itaːlja],'italya
 Ivorian; the Ivorian people {GENITIVE:Ivorian; from Ivory Coast|COUNTRY:Ivory Coast; Côte d'Ivoire},,fra <ivoire> [ivwaʁ],'ifwah
 Japanese person; the Japanese people {GENITIVE:Japanese; from Japan|COUNTRY:Japan|LANGUAGE:Japanese; the Japanese language},,jap <日本> [ɲipːoɴ],'nipon
 Jamaican; the Jamaican people {GENITIVE:Jamaican; from Jamaica|COUNTRY:Jamaica|LANGUAGE:Jamaican Patois; Patwa; Jamaican Creole},,jam <Jamaica> [d͡ʒʊmiɛka],'cumieka
-Javanese; the Javanese people {GENITIVE:Javanese; from Java|LANGUAGE:Javanese; the Javanese language|REGION:Java (island)},,jav <ꦗꦮ> [d͡ʒɔwɔ],'cawa
+Javanese; the Javanese people {GENITIVE:Javanese; from Java|LANGUAGE:Javanese; the Javanese language},,jav <ꦗꦮ> [d͡ʒɔwɔ],'cawa
 Jordanian; the Jordanian people {GENITIVE:Jordanian; from Jordan},,ara <ْأُردن> [ʔurdunn],'ultun
 Kazakh; Kazakhstani; the Kazakhstani people {GENITIVE:Kazakhstani; from Kazakhstan|COUNTRY:Kazakhstan|LANGUAGE:Kazakh; Kazak; the Kazakh language},,kaz <Kazak> [qɑzɑq],'kasak
 Kenyan; the Kenyan people {GENITIVE:Kenyan; from Kenya|COUNTRY:Kenya},,swa <Kenya> [kɛɲɑ],'kenya
 I-Kiribati; Gilbertese; the I-Kiribati people {GENITIVE:I-Kiribati; from Kiribati|COUNTRY:Kiribati; the Gilbert Islands|LANGUAGE:Gilbertese; Kiribati; Kiribatese; the Kiribati language},,gil <TODO> [kiɾipas],'kilipas
 Kurd; the Kurdish people {GENITIVE:Kurdish; of the Kurds|LANGUAGE:Kurdish; the Kurdish language|COUNTRY:Kurdistan},,kur <کورد‎> [kuɾd],'kulti
-Korean; the Korean people {GENITIVE:Korean; from Korea|LANGUAGE:Korean; the Korean language|COUNTRY:Korea; unified Korea|REGION:Korea; Korean peninsula},,kor <조선> [t͡ɕosʰʌn],'cosawn
+Korean; the Korean people {GENITIVE:Korean; from Korea|LANGUAGE:Korean; the Korean language|REGION:Korea; the Korean peninsula},,kor <조선> [t͡ɕosʰʌn],'cosawn
+Kosovan; Kosovar; the Kosovan people {GENITIVE:Kosovan; Kosovar; from Kosovo|COUNTRY:Kosovo},,sqi <Kosovë> [kɔˈsɔːv],'kosow
 Kuwaiti; the Kuwaiti people {GENITIVE:Kuwaiti; from Kuwait|COUNTRY:Kuwait},,ara <كويت> [kweːt],'kwet
 Kyrgyz; Kyrgyzstani; the Kyrgyz people {GENITIVE:Kyrgyz; Kyrgyzstani; Kirgiz; Kirghiz; from Kyrgyzstan|COUNTRY:Kyrgyzstan|LANGUAGE:Kyrgyz; the Kyrgyz language},,kir <кыргыз> [qɯrʁɯs],'kulkus
 Lao; Laotian; the Lao people {GENITIVE:Lao; Laotian; from Laos|COUNTRY:Laos|LANGUAGE:Lao; the Lao language},,lao <ລາວ> [laːw˧],'law
 Latin; the Latin people {GENITIVE:Latin; of Latin|LANGUAGE:Latin|REGION:Latium},,lat <Latīne> [laˈtiːn],'latin
 Latvian; the Latvian people {GENITIVE:Latvian; from Latvia|COUNTRY:Latvia|LANGUAGE:Latvian; the Latvian language},,lav <Latvija> [ˈlatvija],'latwiya
 Lebanese; the Lebanese people {GENITIVE:Lebanese; from Lebanon|COUNTRY:Lebanon},,ara <لبنان‎> [lɪbˈnɛːn],'lupnen
-Lesotho; the country {GENITIVE:Mosotho; Basotho; from Lesotho},,sot <Lesotho> [lɪsʊtʰʊ],'lisutu
-Liberia; the country {GENITIVE:Liberian; from Liberia},,eng <Liberia> [laɪ̯ˈbɪɹʷiə],'laypiwia
-Libya; the country {GENITIVE:Libyan; from Libya},,ara <TODO> [liːbija],'lipia
-Liechtenstein; the country {GENITIVE:Liechtensteiner; from Liechtenstein},,deu <Liechtenstein> [lɪçtn̩ʃtaɪ̯n],'lictenectayn
-Lithuania; the country {GENITIVE:Lithuanian; from Lithuania},,lit <TODO> [lʲɪɛtʊˈvɐ],'lyietufa
-Luxembourg; the country {GENITIVE:Luxembougish; Luxembourgian; from Luxembourg},,ltz <Lëtzebuerg> [lət͡səbuːəɕ],'latsapuac
-The Former Yugoslav Republic of Macedonia; the country {GENITIVE:Macedonian; from the Former Yugoslav Republic of Macedonia},,mkd <Македонија> [makɛdɔnija],'maketoniya
-Madagascar; the country {GENITIVE:Madagascan; from Madagascar},,mlf <TODO> [madaɡaskʲarə̥],'matakaskyal
-Malawi; the country {GENITIVE:Malawian; from Malawi},,nya <TODO> [malaβi],'malawi
+Basotho; Sotho; the Sotho people {GENITIVE:Mosotho; from Lesotho|COUNTRY:Lesotho|LANGUAGE:Sesotho; Sotho; the Sotho language},,sot <Sotho> [sʊ́tʰʊ̀],'sutu
+Liberian; the Liberian people {GENITIVE:Liberian; from Liberia|COUNTRY:Liberia},,eng <Liberia> [laɪ̯ˈbɪɹʷiə],'laypiwia
+Libyan; the Libyan people {GENITIVE:Libyan; from Libya|COUNTRY:Libya},,ara <ليبيا‎> [liːbija],'lipiya
+Liechtensteiner; the people of Liechtenstein {GENITIVE:Liechtensteiner; from Liechtenstein|COUNTRY:Liechtenstein},,deu <Liechtenstein> [lɪçtn̩ʃtaɪ̯n],'lictenectayn
+Lithuanian; the Lithuanian people {GENITIVE:Lithuanian; from Lithuania|COUNTRY:Lithuania|LANGUAGE:Lithuanian; the Lithuanian language},,lit <lietuvis> [lʲɪɛtʊˈvɪs],'lietuwis
+Luxembourger; the Luxembourgish people {GENITIVE:Luxembougish; Luxembourgian; from Luxembourg|COUNTRY:Luxembourg|LANGUAGE:Luxembourgish; the Luxembourgish language},,ltz <Lëtzebuerg> [lət͡səbuːəɕ],'latsapuac
+Macedonian; the Macedonian people {GENITIVE:Macedonian; from Macedonia|COUNTRY:Macedon; Macedonia|LANGUAGE:Macedonian; the Macedonian language},,mkd <Македон> [makɛdɔn],'maketon
+Malagasy; the Malagasy people {GENITIVE:Malagasy; from Madagascar|COUNTRY:Madagascar (country); Republic of Madagascar|LANGUAGE:Malagasy; the Malagasy language|REGION:Madagascar (island)},,mlg <malagasy> [ˌmalaˈɡasʲ],'malakas
 Malaysian; Malay; the Malaysian people {GENITIVE:Malaysian; from Malaysia|COUNTRY:Malaysia|LANGUAGE:Malay; Malaysian; the Malay language},,msa <Melayu> [məlaju],malayu
-Maldives; the country {GENITIVE:Maldive; from Maldives},,div <TODO> [diʋehirəːd͡ʒe],'tiwehilace
-Mali; the country {GENITIVE:Malian; Malinese; from Mali},,bam <TODO> [mali],'mali
-Malta; the country {GENITIVE:Maltan; from Malta},,mlt <TODO> [mɐltɐ],'malta
+Maldivian; Dhivehi; Divehi; the Maldivian people {GENITIVE:Maldivian; from the Maldives|COUNTRY:Maldives|LANGUAGE:Maldivian; Dhivehi; Divehi; the Maldivian language},,div <ދިވެހި> [diˈʋehi],'tiwehi
+Malian; the Malian people {GENITIVE:Malian; Malinese; from Mali|COUNTRY:Mali},,bam <Mali> [mali],'mali
+Maltese; the Maltese people {GENITIVE:Maltese; from Malta|COUNTRY:Malta|LANGUAGE:Maltese; the Maltese language},,mlt <Malti> [mɐltɪ],'malti
 Maori; the Maori people {GENITIVE:Maori; of the Maori|COUNTRY:New Zealand; Aotearoa|LANGUAGE:Maori; Te Reo; the Maori language},,mri <Māori> [maːɔɾi],'maoli
 Marathi; Maratha; the Marathi people {GENITIVE:Marathi; of the Marathi|COUNTRY:Maharashtra|LANGUAGE:Marathi; the Marathi language},,mar <मराठा> [məˈɾaʈʰa],'malata
-Marshall Islands; the country {GENITIVE:Marshall Island; Marshall Islander; from Marshall Islands},,mah <TODO> [mˠɑzʲɛʌ̯ɫ],'masyel
-Mauritania; the country {GENITIVE:Mauritanian; from Mauritania},,ara <TODO> [muːriːtaːnijaː],'mulitanya
-Mauritius; the country {GENITIVE:Mauritian; from Mauritius},,mfe <TODO> [moʁis],'mohis
-Mexico; the country {GENITIVE:Mexican; from Mexico},,spa <México> [ˈmexiko],'mehiko
-Micronesia; the country {GENITIVE:Micronesian; from Micronesia},,eng <Micronesia> [maɪ̯kɹʷoʊ̯ˈniːʒə],'maykwonica
-Moldova; the country {GENITIVE:Moldovan; from Moldova},,ron <TODO> [moldova],'moltofa
-Monaco; the country {GENITIVE:Monacan; Monégasque; from Monaco},,fra <Monaco> [mɔnako],'monako
+Marshallese; the Marshallese people {GENITIVE:Marshallese; Marshall Islander; from the Marshall Islands|COUNTRY:Marshall Islands|LANGUAGE:Marshallese; the Marshallese language},,mah <M̧ajeļ> [mˠɑzʲɛʌ̯ɫ],'masyel
+Mashriqi person; the Mashriqi people {GENITIVE:Mashriqi; Mashriq; from the Mashriq|REGION:Mashriq},,ara <شرق‎> [ʃɑrɑqɑ],'calaka
+Mauritanian; the Mauritanian people {GENITIVE:Mauritanian; from Mauritania|COUNTRY:Mauritania},,ara <موريتانيا‎> [muːriːtaːnijaː],'mulitanya
+Mauritian; the Mauritian people {GENITIVE:Mauritian; from Mauritius|COUNTRY:Mauritius|LANGUAGE:Mauritian creole; Morisien},,mfe <Moris> [moʁis],'mohis
+Melanesian; the Melanesian people {GENITIVE:Melanesian; from Melanesia|REGION:Melanesia},,fra <Mélanésie> [ˈmelɐnezi],'melanesi
+Mexican; the Mexican people {GENITIVE:Mexican; from Mexico|COUNTRY:Mexico},,spa <México> [ˈmexiko],'mehiko
+Micronesian; the Micronesian people {GENITIVE:Micronesian; from Micronesia|REGION:Micronesia (archipelago)|COUNTRY:Micronesia; Federated States of Micronesia},,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
+Moldovan; the Moldovan people {GENITIVE:Moldovan; from Moldova|COUNTRY:Moldova|LANGUAGE:Moldovan; the Moldovan language},,ron <Moldova> [moldova],'moltofa
+Monégasque; Monacan; the Monacan people {GENITIVE:Monacan; Monégasque; from Monaco},,fra <Monaco> [mɔnako],'monako
 Mongol; the Mongolian people {GENITIVE:Mongolian; from Mongolia|COUNTRY:Mongolia|LANGUAGE:Mongolian; the Mongolian language},,mon <ᠮᠣᠩᠭᠣᠯ> [mɔŋɢɔɮ],'monkol
 Montenegro; the country {GENITIVE:Montenegrin; from Montenegro},,cnr <TODO> [t͡sr̩ːnaː ɡɔra],'selnakola
-Moroccan; the Moroccan people {GENITIVE:Moroccan; from Morocco|COUNTRY:Morocco|LANGUAGE:Standard Moroccan Berber; Amazigh; Tamazight},,ara <مغرب‎> [mɪʁrɪb],'mahlip
-Mozambique; the country {GENITIVE:Mozambican; from Mozambique},,por <TODO> [musɐ̃bikɨ],'musanpiki
-Myanmar; Burma; the country {GENITIVE:Myanma; Burmese; from Myanmar},,mya <TODO> [mjəma˩],'myama
+Moroccan; the Moroccan people {GENITIVE:Moroccan; from Morocco|COUNTRY:Morocco|LANGUAGE:Standard Moroccan Berber; Amazigh; Tamazight|REGION:Maghreb},,ara <مغرب> [ɣɑrɑba],'halap
+Mozambican; the Mozambican people {GENITIVE:Mozambican; from Mozambique|COUNTRY:Mozambique},,por <Moçambique> [musɐ̃ˈbikɨ],'musampiki
+Bamar; Burmese; Burman; the Burmese people {GENITIVE:Myanma; Burmese; from Myanmar|COUNTRY:Myanmar; Burma|LANGUAGE:Burmese; Myanmar; the Burmese language},,mya <ဗမာ> [bəmà],'pama
 Namibian; the Namibian people {GENITIVE:Namibian; from Namibia|COUNTRY:Namibia},,naq <namib> [naˈmip],'namipia
-Nauru; the country {GENITIVE:Nauruan; from Nauru},,nau <TODO> [nɑːuːruː],'naulu
-Nepal; the country {GENITIVE:Nepalese; Nepali; from Nepal},,nep <TODO> [nepal],'nepal
-Netherlands; the country {GENITIVE:Dutch; Netherlandic; from Netherlands},,nld <TODO> [neːdərlɑnt],'netalant
-Nicaragua; the country {GENITIVE:Nicaraguan; from Nicaragua},,spa <Nicaragua> [nikaˈɾaɣwa],'nikalakwa
-Niger; the country {GENITIVE:Nigerien; from Niger},,fra <Niger> [niʒɛʁ],'niceh
-Nigeria; the country {GENITIVE:Nigerian; from Nigeria},,eng <Nigeria> [naɪ̯ˈd͡ʒɪɹʷiə],'naycilia
-Niue; the country {GENITIVE:Niuean; from Niue},,niu <TODO> [niweː],'niwe
-Norway; the country {GENITIVE:Norwegian; from Norway},,nor <TODO> [noɾɡə],'nolka
-Oman; the country {GENITIVE:Omani; from Oman},,ara <TODO> [ʕʊmaːn],'uman
-Pakistan; the country {GENITIVE:Pakistani; from Pakistan},,pan <TODO> [pɑːkɪst̪ɑːn],'pakistan
-Palau; the country {GENITIVE:Palauan; from Palau},,eng <Palau> [pəˈlaʊ̯],'palaw
-Panama; the country {GENITIVE:Panaman; from Panama},,spa <Panamá> [panaˈma],'panama
-Punjabi; the Punjabi people {GENITIVE:Punjabi; in Punjabi|LANGUAGE:Punjabi; the Punjabi language|REGION:Punjab},,pan <ਪੰਜਾਬ> [pə̃d͡ʒɑːb],'pancap
+Nauruan; the Nauruan people {GENITIVE:Nauruan; from Nauru|COUNTRY:Nauru|LANGUAGE:Nauruan; the Nauruan language},,nau <Naoero> [naoero],'naoelo
+Nepalese; Nepali; the Nepalese people {GENITIVE:Nepalese; Nepali; from Nepal|COUNTRY:Nepal|LANGUAGE:Nepali; the Nepali language},,nep <Naoero> [nepali],'nepali
+Dutch; Netherlander; the Dutch people {GENITIVE:Dutch; Netherlandic; from the Netherlands|COUNTRY:Netherlands; Holland; the Low Countries|LANGUAGE:Dutch; the Dutch language|Region:the Low Countries; the Low Lands; the Netherlands},,nld <Nederland> [neːdərlɑnt],'netalan
+Nicaraguan; the Nicaraguan people {GENITIVE:Nicaraguan; from Nicaragua|COUNTRY:Nicaragua},,spa <Nicaragua> [nikaˈɾaɣwa],'nikalakwa
+Nigerien; the Nigerien people {GENITIVE:Nigerien; from Niger|COUNTRY:Niger},,fra <Niger> [niʒɛʁ],'niceh
+Nigerian; the Nigerian people {GENITIVE:Nigerian; from Nigeria|COUNTRY:Nigeria},,eng <Nigeria> [naɪ̯ˈd͡ʒɪɹʷiə],'nayciwia
+Niuean; the Niuean people {GENITIVE:Niuean; from Niue|COUNTRY:Niue|LANGUAGE:Niuean; the Niuean language},,niu <Niuē> [niweː],'niwe
+Norwegian; the Norwegian people {GENITIVE:Norwegian; from Norway|COUNTRY:Norway|LANGUAGE:Norwegian; the Norwegian language},,nor <nor-> [nʊɾ],'nol
+Omani; the Omani people {GENITIVE:Omani; from Oman|COUNTRY:Oman},,ara <عمان‎> [ʕʊˈmaːn],'uman
+Ossetian; Ossete; the Ossetian people {GENITIVE:Ossetian; of the Ossetians|LANGUAGE:Ossetian; Ossete; Ossetic; the Ossetian language},,oss <Аллон> [alon],'alon
+Pakistani; the Pakistani people {GENITIVE:Pakistani; from Pakistan|COUNTRY:Pakistan},,pan <پاکِستان‎> [pɑːkɪstɑːn],'pakistan
+Palauan; the Palauan people {GENITIVE:Palauan; from Palau|COUNTRY:Palau; Belau; Palaos; Pelew|LANGUAGE:Palauan; the Palauan language},,pau <Belau> [bɛlaw],'pelaw
+Palestinian; the Palestinian people {GENITIVE:Palestinian; Palestine; from Palestine|COUNTRY:Palestine|REGION:Palestine (region)},,ara <فلسطين> [filastˁiːn],'filastin
+Panamanian; the Panamanian people {GENITIVE:Panamanian; from Panama|COUNTRY:Panama},,spa <Panamá> [panaˈma],'panama
 Papuan; the Papuan people {GENITIVE:Papua New Guinean; Papuan; from Papua New Guinea|COUNTRY:Papua New Guinea|LANGUAGE:Tok Pisin},,tpi <Papua Niugini> [papua],'papua
-Paraguay; the country {GENITIVE:Paraguayan; from Paraguay},,spa <Paraguay> [paɾaˈɣwaj],'palakway
+Paraguay; the country {GENITIVE:Paraguayan; from Paraguay},,gug <Paraguái> [paɾaˈɰwaj],'palakway
+Pashtun; Pakhtun; Afghan; Pathan; the Pashtun people {GENITIVE:Pashtun; of Pashtuns|LANGUAGE:Pashto; the Pashto language},,prs <پښتانه‎‎> [pəʂt̪aːnə],'pactan
 Peruvian; the Peruvian people {GENITIVE:Peruvian; from Peru|COUNTRY:Peru},,spa <Perú> [peˈɾu],'pelu
-Filipino; Filipina; Pinoy; Pinay; the Filipino people {GENITIVE:Filipino; Philippine; from the Philippines|COUNTRY:the Philippines|LANGUAGE:Filipino},,fil <Pilipino> [pɪlɪpina],'pilipina
-Poland; the country {GENITIVE:Polish; from Poland},,pol <TODO> [pɔlska],'poloska
+Polynesian; the Polynesian people {GENITIVE:Polynesian; from Polynesia|REGION:Polynesia},,fra <Polynésie> ['polinezi],'polinesi
+Punjabi; the Punjabi people {GENITIVE:Punjabi; in Punjabi|LANGUAGE:Punjabi; the Punjabi language|REGION:Punjab},,pan <ਪੰਜਾਬ> [pə̃d͡ʒɑːb],'pancap
+Filipino; Filipina; Pinoy; Pinay; the Filipino people {GENITIVE:Filipino; Philippine; from the Philippines|COUNTRY:Philippines|LANGUAGE:Filipino},,fil <Pilipino> [pɪlɪpina],'pilipina
+Pole; the Polish people {GENITIVE:Polish; from Poland|COUNTRY:Poland|LANGUAGE:Polish; the Polish language},,pol <pol-> [pɔl],'pol
 Portuguese; the Portuguese people {GENITIVE:Portuguese; in Portuguese|COUNTRY:Portugal|LANGUAGE:Portuguese; the Portuguese language},,por <Portugal> [puɾtuˈɣal],'pultukal
-Qatar; the country {GENITIVE:Qatari; from Qatar},,ara <TODO> [qɑtˤɑr],'katal
-Romania; the country {GENITIVE:Romanian; from Romania},,ron <TODO> [romɨˈnia],'lominia
-Russian; the Russian people {GENITIVE:Russian; from Russia|COUNTRY:Russia|LANGUAGE:Russian; the Russian language},,rus <рось> [rusʲ],'lusyi
-Rwanda; the country {GENITIVE:Rwandan; from Rwanda},,kin <TODO> [uɾɡwanda],'ulkwanta
-Saint Kitts and Nevis; the country {GENITIVE:Kittitian; Nevisian; from Saint Kitts and Nevis},,aig <TODO> [sɛnt kits ɑːn nivis],'senkitsanifis
-Saint Lucia; the country {GENITIVE:Saint Lucian; from Saint Lucia},,acf <TODO> [sɛnt lisi],'senlisi
-Saint Vincent and the Grenadines; the country {GENITIVE:Saint Vincentian; Vincentian; from Saint Vincent and the Grenadines},,eng <Saint Vincent> [seɪ̯nt ˈvɪnsənt],'seynfinsan
-El Salvador; the country {GENITIVE:Salvadoran; from El Salvador},,spa <El Salvador> [el salβaˈðor],'elsalpatol
-Samoa; the country {GENITIVE:Samoan; from Samoa},,smo <Sāmoa> [saːmoa],'samoa
-San Marino; the country {GENITIVE:Sammarinese; from San Marino},,ita <TODO> [san mariːno],'sanmalino
-São Tomé and Príncipe; the country {GENITIVE:São Toméan; from São Tomé and Príncipe},,por <TODO> [sɐ̃w tuˈmɛ i ˈpɾĩsɨpɨ],'sawntumeiplinsipi
-Arab; the Arabian people {GENITIVE:Saudi; Saudi Arabian; Arabia; from Saudi Arabia|COUNTRY:Saudi Arabia|LANGUAGE:Arabic; the Arabic language|REGION:Arabia; the Arabian peninsula},,ara <عَرَب> [ˈʕarab],'alap
-Scotland; the country {GENITIVE:Scottish; from Scotland},,gla <Alba> [ˈal̪ˠapə],'alkapa
-Senegal; the country {GENITIVE:Senegalese; from Senegal},,wol <TODO> [sɛnɛgaːl],'senekal
-Serbia; the country {GENITIVE:Serbian; from Serbia},,hrv <Србија> [sř̩bija],'salpiya
-Seychelles; the country {GENITIVE:Seychellois; from Seychelles},,crs <TODO> [sesɛl],'sesel
-Sierra Leone; the country {GENITIVE:Sierra Leonean; from Sierra Leone},,kri <TODO> [salon],'salon
-Singapore; the country {GENITIVE:Singaporean; Singapore; from Singapore},,eng <Singapore> [sɪŋəpɔː],'sinapo
-Slovakia; the country {GENITIVE:Slovak; from Slovakia},,slk <TODO> [sloʋensko],'solowenesko
-Slovenia; the country {GENITIVE:Slovenian; Slovene; from Slovenia},,slv <TODO> [slɔˈʋeːnija],'soloweniya
-Solomon Islands; the country {GENITIVE:Solomon Island; Solomon Islander; from Solomon Islands},,pis <TODO> [solomon],'solomon
+Qatari; the Qatari people {GENITIVE:Qatari; from Qatar|COUNTRY:Qatar},,ara <قطر‎> [ˈɡɪtˤɑr],'ketal
+Romanian; the Romanian people {GENITIVE:Romanian; from Romania|COUNTRY:Romania|LANGUAGE:Romanian; the Romanian language},,ron <român> [romɨn],'lomin
+Russian; the Russian people {GENITIVE:Russian; from Russia|COUNTRY:Russia|LANGUAGE:Russian; the Russian language},,rus <рось> [rusʲ],'lusi
+Rwandan; the Rwandan people {GENITIVE:Rwandan; Rwandese; from Rwanda|COUNTRY:Rwanda|LANGUAGE:Kinyarwanda; Urufumbira; the Kinyarwanda language},,kin <Rwanda> [ɾɡwanda],'ulkwanta
+Kittitian; Nevisian; the people of Saint Kitts and Nevis {GENITIVE:Kittitian; Nevisian; from Saint Kitts and Nevis|COUNTRY:Saint Kitts and Nevis|LANGUAGE:Saint Kitts Creole},,aig <Saint Kitts> [sɛnt kits],'senkitsi
+Sahrawi; the Sahrawi people {GENITIVE:Sahrawi|COUNTRY:Sahrawi Republic; the Sahrawi Arab Democratic Republic},,ara <صحراوي> [sˤaħraːwiː],'sahlawi
+Saint Lucian; the Saint Lucian people {GENITIVE:Saint Lucian; from Saint Lucia|COUNTRY:Saint Lucia|LANGUAGE:Saint Lucian Creole},,acf <Sainte-Lucie> [sɛ̃t lysi],'senliwsi
+Saint Vincentian; Vincentian; Vincy; the Saint Vincentian people {GENITIVE:Saint Vincentian; Vincentian; from Saint Vincent and the Grenadines|COUNTRY:Saint Vincent and the Grenadines|LANGUAGE:Vincentian Creole},,svc <Vincent> [ˈvɪnsənt],'finsanta
+Salvadoran; Salvadorian; Salvadorean; Guanaco; the Salvadoran people {GENITIVE:Salvadoran; from El Salvador|COUNTRY:El Salvador},,spa <Salvador> [salβaˈðor],'salpatol
+Samoan; the Samoan people {GENITIVE:Samoan; from Samoa|COUNTRY:Samoa|LANGUAGE:Samoan; the Samoan language},,smo <Sāmoa> [ˈsaːmoa],'samoa
+Sanmarinese; the Sanmarinese people {GENITIVE:Sammarinese; from San Marino|COUNTRY:San Marino},,ita <San Marino> [san mariːno],'sanmalino
+São Toméan; the São Toméan people {GENITIVE:São Toméan; Santomean; from São Tomé and Príncipe|COUNTRY:São Tomé and Príncipe|LANGUAGE:Forro Creole},,por <São Tomé> [sɐ̃w̃ tuˈmɛ],'sawntume
+Scot; the Scottish people {GENITIVE:Scottish; from Scotland|COUNTRY:Scotland|LANGUAGE:Scots; Lowland Scots; the Scots language},,sco <Scot> [skɔt],'oskot
+Senegalese; the Senegalese people {GENITIVE:Senegalese; from Senegal|COUNTRY:Senegal},,wol <Senegaal> [sɛnɛgaːl],'senekal
+Serb; the Serbian people {GENITIVE:Serbian; from Serbia|COUNTRY:Serbia|LANGUAGE:Serbian; the Serbian language},,srp <Срби> [sr̩̂biː],'salpi
+Seychellois; the Sechellois people {GENITIVE:Seychellois; from the Seychelles|COUNTRY:Seychelles|LANGUAGE:Sechellois Creole},,crs <Sesel> [sesɛl],'sesel
+Sierra Leonean; the Sierra Leonean people {GENITIVE:Sierra Leonean; from Sierra Leone|COUNTRY:Sierra Leone|LANGUAGE:Krio; Sierra Leonean Creole},,kri <Salone> [salon],'salon
+Singaporean; the Singaporean people {GENITIVE:Singaporean; Singapore; from Singapore|COUNTRY:Singapore},,msa <Singapura> [siŋəpurə],'sinapula
+Slovak; Slovakian; the Slovak people {GENITIVE:Slovak; Slovakian; from Slovakia|COUNTRY:Slovakia|LANGUAGE:Slovak; Slovakian; the Slovak language},,slk <Slovák> [sɫɔʋaːk],'solowak
+Slovene; Slovenian; the Slovene people {GENITIVE:Slovenian; Slovene; from Slovenia|COUNTRY:Slovenia|LANGUAGE:Slovene; the Slovene language},,slv <slovén-> [slɔˈʋeːn],'solowen
+Solomon Islander; the people of the Solomon Islands {GENITIVE:Solomon Island; Solomon Islander; from the Solomon Islands|COUNTRY:Solomon Islands|LANGUAGE:Pijin; Solomons Pidgin},,pis <Solomon> [solomon],'solomon
 Somali; Somalian; the Somali people {GENITIVE:Somalian; from Somalia|COUNTRY:Somalia|LANGUAGE:Somali; the Somali language},,som <Soomaali> [sɔ̀ːmɑ́ːlì],'somali
 Spaniard; the Spanish people {GENITIVE:Spanish; from Spain|COUNTRY:Spain|LANGUAGE:Spanish|LANGUAGE:the Spanish language},,spa <español> [espaɲol],'espanyol
-Sri Lanka; the country {GENITIVE:Sri Lankan; from Sri Lanka},,sin <TODO> [sriː laŋkaːʋa],'sililankawa
-Sudan; the country {GENITIVE:Sudanese; from Sudan},,ara <TODO> [assuːdaːn],'asutan
-South Sudan; the country {GENITIVE:South Sudanese; from South Sudan},,din <TODO> [paguot t̪uda̤n],'pakuotutan
-Suriname; the country {GENITIVE:Nurinamese; from Suriname},,nld <TODO> [ˌsyːriˈnaːmə],'sulinama
+Sri Lankan; the Sri Lankan people {GENITIVE:Sri Lankan; from Sri Lanka|COUNTRY:Sri Lanka},,sin <ලංකා> [laŋkaː],'lanka
+Sudanese; the Sudanese people {GENITIVE:Sudanese; from Sudan|COUNTRY:Sudan},,ara <السودان‎> [assuːdaːn],'asutan
+Surinamese; the Surinamese people {GENITIVE:Surinamese; from Suriname|COUNTRY:Suriname},,nld <Suriname> [ˌsyːriˈnaːmə],'sulinama
 Swahili; the Swahili people {GENITIVE:Swahili; of the Swahili|LANGUAGE:Swahili; the Swahili language},,swa <swahili> [swahili],'swahili
-Sweden; the country {GENITIVE:Swedish; from Sweden},,swe <TODO> [ˈsværjə],'swalya
-Switzerland; the country {GENITIVE:Swiss; from Switzerland},,deu <TODO> [ʃvaɪ̯ts],'cways
-Syria; the country {GENITIVE:Syrian; from Syria},,ara <TODO> [suːrijaː],'sulia
+Swede; the Swedish people {GENITIVE:Swedish; from Sweden|COUNTRY:Sweden|LANGUAGE:Swedish; the Swedish language},,swe <svensk> [svɛnːsk],'swensek
+Swiss; the Swiss people {GENITIVE:Swiss; from Switzerland|COUNTRY:Switzerland},,roh <sviz-> [svit͡s],'swis
+Syrian; the Syrian people {GENITIVE:Syrian; from Syria|COUNTRY:Syria},,ara <سوري‎> [suːriː],'suli
 Tagalog; the Tagalog people {GENITIVE:Tagalog; of the Tagalog|LANGUAGE:Tagalog; the Tagalog language},,tgl <ᜆᜄᜎᜓᜄ᜔> [tɐˈɡaːloɡ],'takalok
-Tajikistan; the country {GENITIVE:Tajk; from Tajikistan},,tgk <TODO> [tɔːd͡ʒikistɔːn],'tocikiston
-Tanzania; the country {GENITIVE:Tanzanian; from Tanzania},,swa <TODO> [tɑnzɑˈniɑ],'tansania
-Thailand; the country {GENITIVE:Thai; from Thailand},,tha <TODO> [tʰaj˧],'tay
-East Timor; the country {GENITIVE:Timorese; from East Timor},,tet <TODO> [timor lorosaʔe],'timololosae
-Togo; the country {GENITIVE:Togolese; from Togo},,fra <TODO> [togo],'toko
-Tonga; the country {GENITIVE:Tongan; from Tonga},,ton <TODO> [toŋa],'tona
-Trinidad and Tobago; the country {GENITIVE:Trinidadian; Tobagonian; from Trinidad and Tobago},,eng <Trinidad Tobago> [ˈtɹʷɪnɪdæd təˈbeɪ̯ɡəʊ̯],'twinitatapeykow
+Taiwanese; Chinese; the Taiwanese people {GENITIVE:Taiwanese; from Taiwan|COUNTRY:Taiwan; the Republic of Taiwan; Chinese Taipei},,cmn <台湾> [tʰaɪ̯˧˥wan˥],'taywan
+Tajik; the Tajik people {GENITIVE:Tajik; from Tajikistan|COUNTRY:Tajikistan|LANGUAGE:Tajik; Tajiki; the Tajik language},,tgk <Тоҷик> [tɔd͡ʒik],'tocik
+Tanzanian; the Tanzanian people {GENITIVE:Tanzanian; from Tanzania|COUNTRY:Tanzania},,swa <Tanzan-> [tanzan],'tansan
+Thai; Siamese; the Thai people {GENITIVE:Thai; from Thailand|COUNTRY:Thailand|LANGUAGE:Thai; Siamese; the Thai language},,tha <ไทย> [tʰaj˧],'tay
+Timorese; East Timorese; Maubere; the East Timorese people {GENITIVE:Timorese; from East Timor|COUNTRY:East Timor},,tet <Timór> [timor],'timol
+Togolese; the Togolese people {GENITIVE:Togolese; from Togo|COUNTRY:Togo},,fra <Togo> [togo],'toko
+Tongan; the Tongan people {GENITIVE:Tongan; from Tonga|COUNTRY:Tonga|LANGUAGE:Tongan; the Tongan language},,ton <Tonga> [ˈtoŋa],'tona
+Trinidadian; Tobagonian; Trini; Trinbagonian; the people of Trinidad and Tobago {GENITIVE:Trinidadian; Tobagonian; from Trinidad and Tobago},,eng <Trinbagonian> [tɹʷɪnbəˈɡəʊ̯niən],'twinpekonian
 Tunisian; the Tunisian people {GENITIVE:Tunisian; from Tunisia|COUNTRY:Tunisia|LANGUAGE:Tunisia; the Tunisian people},,ara <تونس> [tuːnis],'tunis
 Turk; the Turkish people {GENITIVE:Turkish; Turkic; from Turkey|COUNTRY:Turkey|LANGUAGE:Turkish; the Turkish language},,tur <Türk> [tyɾk],'tiwlki
-Turkmenistan; the country {GENITIVE:Turkmen; from Turkmenistan},,tuk <TODO> [tyɾkmeniθtɑn],'tukmenistan
-Tuvalu; the country {GENITIVE:Tuvaluan; from Tuvalu},,tvl <TODO> [tuːvalu],'tufalu
-Uganda; the country {GENITIVE:Ugandan; from Uganda},,lug <TODO> [jugaːnda],'yukanta
-Ukraine; the country {GENITIVE:Ukranian; from Ukraine},,ukr <TODO> [ukrɑjinɑ],'uklayina
-United Arab Emirates; the country {GENITIVE:Emirati; Emirian; Emiri; from United Arab Emirates},,ara <TODO> [ʔimaːraːt],'imalat
-United Kingdom; the country {GENITIVE:British; UK; from United Kingdom},,eng <U.K.> [juː kʰeɪ̯],'yukey
-Uruguay; the country {GENITIVE:Uruguayan; from Uruguay},,spa <Uruguay> [uɾuˈɣaj],'ulukway
-Uzbekistan; the country {GENITIVE:Uzbek; Uzbekistani; from Uzbekistan},,uzb <TODO> [ɒ:zbekist̪ɒn],'ospekistan
-Vanuatu; the country {GENITIVE:Ni-Vanuatu; Vanuatuan; from Vanuatu},,bis <TODO> [vɑnuɑtu],'fanuatu
-Vatican City; the country {GENITIVE:Vatican; from Vatican City},,ita <TODO> [t͡ʃitta del vatikaːno],'citatelfatikano
-Venezuela; the country {GENITIVE:Venezuelan; from Venezuela},,spa <Venezuela> [beneˈswela],'peneswela
+Turkmen; the Turkmen people {GENITIVE:Turkmen; from Turkmenistan|COUNTRY:Turkmenistan|LANGUAGE:Turkmen; the Turkmen language},,tuk <türkmen> [tʏɾkmɛn],'tiwlkimen
+Tuvaluan; the Tuvaluan people {GENITIVE:Tuvaluan; from Tuvalu|COUNTRY:Tuvalu|LANGUAGE:Tuvaluan; the Tuvaluan language},,tvl <Tuuvalu> [tuːvalu],'tuwalu
+Ganda; Muganda; the Ganda people {GENITIVE:Ganda; from Buganda|COUNTRY:Buganda|LANGUAGE:Ganda; Luganda; the Ganda language},,lug <-ganda> [ɡâːndá],'kanta
+Ukrainian; the Ukranian people {GENITIVE:Ukranian; from Ukraine|COUNTRY:Ukraine|LANGUAGE:Ukrainian; the Ukrainian language},,ukr <українці> [ukrɑˈjinʲtsʲi],'uklayinsi
+Emirati; the Emirati people {GENITIVE:Emirati; Emirian; Emiri; from the United Arab Emirates|COUNTRY:United Arab Emirates},,ara <إماراتيين‎> [ʔemaːraːti],'emalati
+Uruguayan; the Uruguayan people {GENITIVE:Uruguayan; from Uruguay},,spa <Uruguay> [uɾuˈɣaj],'ulukway
+Uzbek; the Uzbek people {GENITIVE:Uzbek; Uzbekistani; from Uzbekistan|COUNTRY:Uzbekistan|LANGUAGE:Uzbek; the Uzbek language},,uzb <Oʻzbek> [ozbek],'ospek
+Ni-Vanuatu; Vanuatuan; the Ni-Vanuatu people {GENITIVE:Ni-Vanuatu; Vanuatuan; from Vanuatu|LANGUAGE:Bislama; the Bislama language},,bis <Vanuatu> [vɑnuɑtu],'fanuatu
+Vatican; the people of the Vatican City {GENITIVE:Vatican; of the Vatican City|COUNTRY:Vatican City},,lat <Vāticāna> [vatiˈkaːna],'watikana
+Venezuelan; the Venezuelan people {GENITIVE:Venezuelan; from Venezuela|COUNTRY:Venezuela},,spa <Venezuela> [beneˈswela],'peneswela
 Vietnamese; the Vietnamese people {GENITIVE:Vietnamese; from Vietnam|COUNTRY:Vietnam|LANGUAGE:Vietnamese; the Vietnamese people},,vie <Việt> [viə̯t˦˨],'fiat
-Wales; the country {GENITIVE:Welsh; from Wales},,cym <Cymru> [ˈkəmri],'kamli
+Welsh; the Welsh people {GENITIVE:Welsh; from Wales|COUNTRY:Wales|LANGUAGE:Welsh; the welsh language},,cym <Cymry> [ˈkəmrɨ],'kamli
 Wu speaker; Wu sinophone {GENITIVE:Wu; in Wu|LANGUAGE:Wu Chinese},,wuu <吴> [ɲy˦],'nyu
 Yoruba; Ioruba; Joruba; the Yoruba people {GENITIVE:Yoruba; of the Yoruba|LANGUAGE:Yoruba; the Yoruba language},,yor <Yorùbá> [jōɾùbá],yolupa
 Yue speaker; Yue sinophone {GENITIVE:Yue; in Yue|LANGUAGE:Yue Chinese; Cantonese},,yue <粵> [jyːt̚˧˥],'yut
-Yemen; the country {GENITIVE:Yemeni; from Yemen},,ara <TODO> [jaman],'yaman
-Zambia; the country {GENITIVE:Zambian; from Zambia},,eng <Zambia> [ˈzæmbiə],'sampia
-Zimbabwe; the country {GENITIVE:Zimbabwean; from Zimbabwe},,sna <TODO> [zimbabwe],'simpapwe
-Abkhazia; the disputed territory {GENITIVE:Abkhaz; Abkhazian; from Abkhazia},,abk <TODO> [apʰsˈnɨ],'apseni
-Northern Cyprus; the disputed territory {GENITIVE:North Cypriot; from Northern Cyprus},,tur <TODO> [kuzej kɯbɾɯs],'kuseykuplus
-Kosovo; the disputed territory {GENITIVE:Kosovan; Kosovar; from Kosovo},,sqi <TODO> [kɔsɔva],'kosofa
-South Ossetia; the disputed territory {GENITIVE:South Ossetian; from South Ossetia},,oss <TODO> [ˈalonston],'alonson
-Palestine; the disputed territory {GENITIVE:Palestinian; Palestine; from Palestine},,ara <TODO> [filastˁiːn],'filastin
-Sahrawi Arab Democratic Republic; the disputed territory {GENITIVE:Sahrawi; from Sahrawi Arab Democratic Republic},,ara <TODO> [asˤsˤaħraːwiːjah],'asahlawiyah
-Taiwan; the disputed territory {GENITIVE:Taiwanese; from Taiwan},,cmn <TODO> [tʰaɪ̯˧˥wan˥],'taywan
-Hawaiian; the Hawaiian people {GENITIVE:Hawaiian; Kamaʻaina; from Hawai'i|COUNTRY:Hawaiʻi|LANGUAGE:Hawaiian; the Hawaiian language},,haw <Hawaiʻi> [həˈvɐjʔi],'hawayi
-Pashtun; Pakhtun; Afghan; Pathan; the Pashtun people {GENITIVE:Pashtun; of Pashtuns|LANGUAGE:Pashto; the Pashto language},,prs <پښتانه‎‎> [pəʂt̪aːnə],'pactan
+Yemeni; Yemenite; the Yemeni people {GENITIVE:Yemeni; from Yemen|COUNTRY:Yemen},,ara <يمن> [jaman],'yaman
+Zambian; the Zambian people {GENITIVE:Zambian; from Zambia|COUNTRY:Zambia},,eng <Zamb-> [ˈzæmb],'sampi
+Zimbabwean; Zimbo; the Zimbabwean people {GENITIVE:Zimbabwean; from Zimbabwe|COUNTRY:Zimbabwe},,sna <Zimbabwe> [zimbabwe],'simpapwe
 Babylon; the city,,akk <TODO> [baːbili],'papilim
 Beijing; the city,,cmn <TODO> [pej˨˩˦t͡ɕiŋ˥],'peycin
 Białystok; the city,,pol <Białystok> [bʲaˈwɨstɔk],'pyawistok

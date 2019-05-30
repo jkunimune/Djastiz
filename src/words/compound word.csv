@@ -385,16 +385,35 @@ The Gulf of Mexico; the sea,,Mexican ocean,'mehikoaklawt
 The Mediterranean Sea; the sea,,land be-inside ocean,fonunelawt
 The South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
 Algiers,,Algerian settlement,'alsayilcih
-Djibouti (city),,Djiboutian settlement,'caputicih
-Indus River,,Indian river,'hintucwepas
+Australia (landmass),,Australian landmass,'ostwaylyatayl
+British Isles,,Briton landmass,'pwitontayl
+Great Brittan,,be-big British-Isles,
 Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
-Northern Ireland,,be-north Ireland,fila'elyatec
+Northern Cypriot; the Northern Cypriot people {GENITIVE:North Cypriot; from Northern Cyprus|COUNTRY:Northern Cyprus},,be-north Cypriot
+Djibouti (city),,Djiboutian settlement,'caputicih
+Scots Gaelic; the Scots Gaelic language,,Scot Goidelic,'oscot'kealtilip
+Gambia River,,Gambian river
+Indus River,,Indian river,'hintucwepas
+Ireland (island),,Irish landmass,
+Northern Irish; the Northern Irish people {GENITIVE:Northern Irish; from Northern Ireland|COUNTRY:Northern Ireland},,be-north Ireland,fila'elyatec
+Java (island),,Javanese landmass,
 the Jordan River,,Jordanian river,'ultuncwepas
 Mount Kenya,,Kenyan mountain,'kenyapil
-North Korea {GENITIVE:North Korean; from North Korea},,be-north unified-Korea,fila'cosawntec
-South Korea {GENITIVE:South Korean; from South Korea},,be-south unified-Korea,suta'cosawntec
+North Korean; the North Korean people {GENITIVE:North Korean; from North Korea|COUNTRY:North Korea},,be-north unified-Korea,fila'cosawntec
+South Korean; the South Korean people {GENITIVE:South Korean; from South Korea|COUNTRY:South Korea},,be-south unified-Korea,suta'cosawntec
+North Macedonia; the Former Yugoslav Republic of Macedonia {GENITIVE:North Macedonian; from North Macedonia},,be-north Macedon,fila'maketon
+Moldova River,,Moldovan river,'moltofacwepas
+Mozambique (island),,Mozambican landmass,
 Namib desert,,Namibian desert,'namipiapatoufatayl
+Niger river,,Nigerien river,'nicehcwepas
+South Ossetian; Alanian; the South Ossetian people {GENITIVE:South Ossetian; of South Ossetia|COUNTRY:South Ossetia; Alania},,oss <Аллон> [alon],'alon
+South Sudanese; the South Sudanese people {GENITIVE:South Sudanese; from South Sudan|COUNTRY:South Sudan},,be-south Sudanese
+Taiwan (island),,Taiwanese landmass,
+Timor,,Timorese landmass,
 Tunis,,Tunisian settlement,'tuniscih
+Ugandan; the Ugandan people {GENITIVE:Ugandan; from Uganda|COUNTRY:Uganda},,be-big Buganda,
+Vatican Hill,,Vatican hill,
+Zambezi River,,Zambian river,'sampicwepas
 Sol; The Sun,,person sun,wonsun
 Luna; The Moon,,person moon,wonfik
 Earth {GENITIVE:global; earthling; terran},,person ground,wonpum
@@ -581,6 +600,7 @@ tsunami; tidal wave; OBJ is struck by a tsunami from SBJ {oceanic earthquake},,b
 thunderstorm,,be-charged storm,inacol
 hurricane; typhoon,,spin storm,hilacol
 volcano,,be-hot mountain,okupil
+hill,,be-small mountain,
 umbrella,,rain shield,miptasilakipowinules
 address,,location number,kwelyotestalyan
 be legally required; be mandated by law; OBJ is required by law to make IND {law} happen,,govern must,pusatewi
