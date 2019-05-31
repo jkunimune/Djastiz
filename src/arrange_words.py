@@ -637,7 +637,7 @@ def save_dictionary(dictionary, directory):
 					row['ltl'] = entry['ltl']
 					break
 
-		with open(path.join(directory, partos+'.csv'), 'w', encoding='utf-8') as f:
+		with open(path.join(directory, partos+'.csv'), 'w', encoding='utf-8', newline='\n') as f:
 			rows.to_csv(f, index=False)
 
 

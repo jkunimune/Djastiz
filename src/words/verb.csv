@@ -23,8 +23,6 @@ encourage; improve; defend; argue for; positively impact; SBJ {encourager; impro
 discourage; worsen; insult; argue against; negatively impact; SBJ {discourager; worsener} lowers OBJ {discouraged}'s opinion of IND,,CESSATIVE OF want,soki
 beI dangerous; IND {danger} is dangerous to OBJ,,POSSIBILITY OF dislike,sopowi
 beI safe; be secure; IND is safe for OBJ {AMOUNT:safety},,NEGATIVE OF be dangerous,sopowinyo
-need; require; must; be necessary; suffice; be enough; OBJ {requisite; requirement} must be true in order for IND to be true,,yor <ní-lò> [nílò],nilo
-be unacceptable; be too much; be insufficient; IND cannot be true if OBJ is true,,ANTONYM OF need,kute
 *should; be fit; be good; be proper; be correct; OBJ should happen to make IND {value function; goal} happen,,yor <ìbá> [ìbá],ipa
 should not; be bad; be unwise; be incorrect; OBJ {problem} should not happen to make IND happen,,ANTONYM OF should,uma
 *must; have to; be responsible; be obligated; OBJ is obligated to make IND {obligation; duty; responsibility; rule} happen,,epo <devi> [ˈdevi],tewi
@@ -221,10 +219,10 @@ be dead; OBJ {corpse; dead thing} is dead {TIME:death},,ANTONYM OF live,uhu
 bring to life; come to life; SBJ brings OBJ to life,,INCOHATIVE OF live,iciki
 kill; murder; die; pass away; SBJ {killer; murderer} kills OBJ,,CESSATIVE OF live,uhuki
 save; rescue; sustain; SBJ {saver; life support} keeps OBJ from dying,,PROGRESSIVE OF live,icicalu
-be turned on; be animate; be active; be open; OBJ is turned on,,cmn <打开> [ta˧˩˧kʰaɪ̯˥],takai
-be turned off; be inanimate; be passive; be closed; OBJ is turned off,,ANTONYM OF be turned on,lanau
-turn on; go off; animate; activate; trigger; SBJ {activator; trigger} turns on OBJ,,INCOHATIVE OF be turned on,takaiki
-turn off; deactivate; kill; SBJ {deactivator} turns off OBJ,,CESSATIVE OF be turned on,lanauki
+be turned on; be animate; be active; be open; OBJ is turned on,,swa <waka> [waka],waka
+be turned off; be inanimate; be passive; be closed; OBJ is turned off,,ANTONYM OF be turned on,yana
+turn on; go off; animate; activate; trigger; SBJ {activator; trigger} turns on OBJ,,INCOHATIVE OF be turned on,wakaki
+turn off; deactivate; kill; SBJ {deactivator} turns off OBJ,,CESSATIVE OF be turned on,yanaki
 convert; translate; transform; represent; encode; SBJ {converter; translator} conveys OBJ in the form IND {translation; symbol; representative} {METHOD:transformation},,swa <-badili> [ɓaɗili],patili
 wear; be clothed; OBJ wears IND {clothing; clothes; article},,ben <পরা > [pɔra ],pola
 put on; dress; robe; SBJ {dresser} puts IND on OBJ {dressee},,INCOHATIVE OF be clothed,polaki
@@ -287,17 +285,17 @@ be simple; be basic; be elementary; OBJ is simple,,mar <सोपे> [sope],sop
 be complex; be complicated; be wicked; OBJ is complex,,ANTONYM OF be simple,femo
 simplify; SBJ {simplifier} simplifies OBJ,,INCOHATIVE OF be simple,sopeki
 complicate; SBJ {complicator} complicates OBJ,,CESSATIVE OF be simple,femoki
-govern; administer; have citizenship; IND {government {GENITIVE:public}} serves as the governing body to OBJ {citizen; governed; people},,sot <busa> [busɑ],pusa
-take over; elect; come to power; conquer; annex; SBJ makes IND become the government of OBJ,,INCOHATIVE OF govern,pusaki
-secede; collapse; impeach; SBJ makes IND stop governing OBJ,,CESSATIVE OF govern,pusanu
+govern; administer; have citizenship; IND {government {GENITIVE:public}} serves as the governing body to OBJ {citizen; governed; people},,cmn <统治> [tʰʊŋ˧˩˧ʈ͡ʂɨ˥˩],tunci
+take over; elect; come to power; conquer; annex; SBJ makes IND become the government of OBJ,,INCOHATIVE OF govern,tunciki
+secede; collapse; impeach; SBJ makes IND stop governing OBJ,,CESSATIVE OF govern,tuncinu
 be clean; be sanitary; OBJ is clean,,epo <pura> [ˈpura],pula
 be unclean; be dirty; be filthy; be grimy; be gross; be unsanitary; OBJ {filth} is unclean,,ANTONYM OF be clean,mita
 clean; sanitise; SBJ {cleaner} cleans OBJ {INSTRUMENT:cleaning utensil},,INCOHATIVE OF be clean,pulaki
 dirty; grimify; desanitise; SBJ {dirtier} makes OBJ unclean,,CESSATIVE OF be clean,mitaki
-be neat; be orderly; be organised; be clean; be tidy; OBJ is neat {AMOUNT:order; neatness; organisation; cleanliness},,epo <neta> [ˈneta],neta
-be chaotic; be disorganised; be messy; be in disarray; be askance; OBJ is chaotic {AMOUNT:entropy; chaos},,ANTONYM OF be neat,kola
-order; organise; clean; tidy; sort; put in order; structure; finalise; SBJ {organiser; cleaner; tidier} puts OBJ in order {INSTRUMENT:organisation tool},,INCOHATIVE OF be neat,netaki
-disorganise; mess up; disrupt; trash; throw into chaos; SBJ {disorganiser; trasher} puts OBJ into chaos,,CESSATIVE OF be neat,kolaki
+be neat; be orderly; be organised; be clean; be tidy; OBJ is neat {AMOUNT:order; neatness; organisation; cleanliness},,yor <ọfọ> [ɔfɔ],ofo
+be chaotic; be disorganised; be messy; be in disarray; be askance; OBJ is chaotic {AMOUNT:entropy; chaos},,ANTONYM OF be neat,ese
+order; organise; clean; tidy; sort; put in order; structure; finalise; SBJ {organiser; cleaner; tidier} puts OBJ in order {INSTRUMENT:organisation tool},,INCOHATIVE OF be neat,ofoki
+disorganise; mess up; disrupt; trash; throw into chaos; SBJ {disorganiser; trasher} puts OBJ into chaos,,CESSATIVE OF be neat,eseki
 stand structurally; OBJ {*structure; building} stands structurally on IND {foundation; site},,yor <ọ̀na> [ɔ̀na],ona
 construct; build; assemble; erect; SBJ {constructor; builder} constructs OBJ {INSTRUMENT:construction tool},,INCOHATIVE OF stand structurally,onaki
 deconstruct; disassemble; demolish; take apart; SBJ {deconstructor} deconstructs OBJ,,CESSATIVE OF stand structurally,onanu
@@ -482,10 +480,10 @@ be metal; be metallic; OBJ is made out of metal,,hin <धातु> [d̤aːtu],t
 metallicise; SBJ turns OBJ into metal,,INCOHATIVE OF be metal,tatuki
 be crystal; OBJ {jewel; gem} is made out of crystal,,swa <kioo> [kioo],kio
 crystalise; SBJ turns OBJ into crystal,,INCOHATIVE OF be crystal,kioki
-be bone; OBJ {skeleton} is made out of bone,,spa <hueso> [ˈweso],weso
-bonify; SBJ turns OBJ into bone,,INCOHATIVE OF be bone,wesoki
-be flesh; OBJ {meat} si made out of flesh,,OPPOSITE OF be bone,yofe
-meatify; SBJ turns OBJ into flesh,,INCOHATIVE OF be flesh,yofeki
+be bone; OBJ {skeleton} is made out of bone,,epo <osto> [ˈosto],osto
+bonify; SBJ turns OBJ into bone,,INCOHATIVE OF be bone,ostoki
+be flesh; OBJ {meat} si made out of flesh,,OPPOSITE OF be bone,efle
+meatify; SBJ turns OBJ into flesh,,INCOHATIVE OF be flesh,efleki
 be charged; be electrified; OBJ {battery} has electric energy stored {AMOUNT:electric potential; voltage; *electricity},,yor <iná> [ĩ̄á],ina
 charge; electrify; SBJ {charger} imbues OBJ with electric energy,,INCOHATIVE OF be charged,inaki
 discharge; shock; electrify; power; SBJ releases the electric energy of OBJ onto IND {machine; electric circuit} {METHOD:conduit; wire; circuit; component},,CESSATIVE OF be charged,inanu
@@ -495,7 +493,7 @@ be introverted; be isolated; OBJ {introvert} is socially isolated from IND,,ANTO
 integrate; SBJ socially integrates OBJ with IND,,INCOHATIVE OF be social,sosiaki
 isolate; SBJ socially isolates OBJ from IND,,CESSATIVE OF be social,fefuaki
 ride; transport; SBJ {passenger} rides on OBJ {vehicle},,spa <monta> [ˈmonta],monta
-play; OBJ {player} is playing IND {game; sport},,epo <ludi> [ˈludi],luti
+play; OBJ {player} is playing IND {game; sport},,spa <juega> [ˈxweɣa],huka
 wait; OBJ {in wait} is waiting for IND,,sho <mira> [mira],mila
 act; say; voice; fill; SBJ {actor} acts as though OBJ {act; role; charade; character; farce} is true,,spa <actúa> [akˈtua],aktua
 differ; be *different; be distinct; OBJ is different from IND,,yor <yàtọ̀> [jàtɔ̀],yato
@@ -610,10 +608,10 @@ be mixed; be impure; be tainted; permeate; IND {solute} is mixed into OBJ {solve
 be pure; OBJ is pure of IND,,ANTONYM OF be mixed,puhte
 mix; taint; pollute; disolve; infuse; SBJ mixes IND into OBJ,,INCOHATIVE OF be mixed,micloki
 purify; precipitate; extract; SBJ purifies OBJ of IND {precipitate; extract},,CESSATIVE OF be mixed,puhteki
-be healthy; OBJ is healthy {AMOUNT:health},,spa <sano> [ˈsano],sano
-be sick; be ill; OBJ is sick {METHOD:sickness; disease; illness},,ANTONYM OF be healthy,fake
-heal; treat; SBJ {doctor; healer} heals OBJ {patient} {INSTRUMENT:medicine},,INCOHATIVE OF be healthy,sanoki
-sicken; poison; SBJ {poisoner} sickens OBJ {poisoned} {INSTRUMENT:poison},,CESSATIVE OF be healthy,fakeki
+be healthy; OBJ is healthy {AMOUNT:health},,epo <sani> [ˈsani],sani
+be sick; be ill; OBJ is sick {METHOD:sickness; disease; illness},,ANTONYM OF be healthy,faku
+heal; treat; SBJ {doctor; healer} heals OBJ {patient} {INSTRUMENT:medicine},,INCOHATIVE OF be healthy,saniki
+sicken; poison; SBJ {poisoner} sickens OBJ {poisoned} {INSTRUMENT:poison},,CESSATIVE OF be healthy,fakuki
 be married; OBJ is married to IND {spouse},,yor <ìyàwó> [ìjáwó],iawo
 marry; wed; SBJ marries OBJ to IND {TIME:wedding},,INCOHATIVE OF be married,iawoki
 divorce; SBJ divorces OBJ from IND,,CESSATIVE OF be married,iawonu
@@ -653,18 +651,18 @@ be tense; be intense; be under pressure; OBJ is under pressure {AMOUNT:pressure}
 be relaxed; be lax; be chill; OBJ is not under pressure,,ANTONYM OF be tense,lokfe
 tense up; intensify; pressurise; SBJ puts OBJ under pressure,,INCOHATIVE OF be tense,tensoki
 relax; take off pressure; SBJ takes pressure off of OBJ,,CESSATIVE OF be tense,lokfeki
-choose; decide; SBJ {arbitrator} chooses OBJ {choice; decision},,zul <khetha> [kʰetʰa],keta
+choose; decide; SBJ {arbitrator} chooses OBJ {choice; decision},,spa <elige> [eˈlixe],elehe
 be natural; OBJ {nature} is natural,,epo <natura> [naˈtura],natula
 be artificial; be unnatural; OBJ is artificial,,ANTONYM OF be natural,kalita
 naturalise; SBJ makes OBJ become natural,,INCOHATIVE OF be natural,natulaki
 process; artificialise; SBJ makes OBJ become artificial,,CESSATIVE OF be natural,kalitaki
 be amazing; be extreme; be incredible; be absurd; OBJ is to a very high degree,,swa <ajabu> [aʄaɓu],acapu
 be average; be meh; be moderate; OBJ is to a low degree,,ANTONYM OF be amazing,ahami
-be widespread; be prevalent; be expansive; OBJ exists in many places {AMOUNT:prevalence},,jav <ambra> [ɑmpɽɔ],amla
-be confined; be rare; OBJ exists in few places,,ANTONYM OF be widespread,apta
-spread; expand; copy; SBJ {spreader} spreads OBJ {spread},,INCOHATIVE OF be widespread,amlaki
-extinguish; erase; confine; recede; SBJ {extinguisher} makes OBJ less prevalent,,CESSATIVE OF be widespread,aptaki
-be contagious; OBJ is contagious,,POSSIBILITY OF spread,amlakipowi
+be widespread; be prevalent; be expansive; OBJ exists in many places {AMOUNT:prevalence},,sot <atile> [ɑtʼile],atile
+be confined; be rare; OBJ exists in few places,,ANTONYM OF be widespread,aluto
+spread; expand; copy; advertise; SBJ {spreader} spreads OBJ {spread},,INCOHATIVE OF be widespread,atileki
+extinguish; erase; confine; recede; SBJ {extinguisher} makes OBJ less prevalent,,CESSATIVE OF be widespread,alutoki
+be contagious; OBJ is contagious,,POSSIBILITY OF spread,atilekipowi
 push; repell; SBJ {force} pushes on OBJ {pushed},,epo <puŝi> [ˈpuʃi],puci
 pull; attract; SBJ {attraction} pulls on OBJ {pulled},,REVERSAL OF push,mihu
 be infinite; OBJ {infinity} is infinitely so,,ben <অসীম> [os̪im],osimi
