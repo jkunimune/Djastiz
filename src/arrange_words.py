@@ -412,9 +412,9 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 		return get_antonym(source_word)
 	elif deriv_type in ['CESSATIVE']:
 		if has_antonym:
-			return get_antonym(source_word) + all_words['begin']['ltl']
+			return get_antonym(source_word) + all_words['begin']['otp']
 		else:
-			return source_word + all_words['end']['ltl']
+			return source_word + all_words['end']['otp']
 	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ', 'IND', 'AMOUNT',
 			'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'CONDITION', 'LANGUAGE', 'COUNTRY', 'REGION', 'RELIGION']:
 		inflection_word = {
@@ -423,14 +423,14 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 			'TIM':'when (relative)', 'INS':'with which (relative)', 'CAU':'why (relative)', 'MET':'how (relative)',
 			'CON':'for which', 'LAN':'language', 'COU':'country', 'REG':'location', 'REL':'religion',
 		}[deriv_type[:3]]
-		return source_word + all_words[inflection_word]['ltl']
+		return source_word + all_words[inflection_word]['otp']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
 		inflection_word = {'INT':'what', 'IND':'something', 'DET':'it', 'PRO':'this'}[deriv_type[:3]]
-		return all_words[inflection_word]['ltl'] + ' ' + source_word
+		return all_words[inflection_word]['otp'] + ' ' + source_word
 	elif deriv_type == 'RELATIVE':
 		return 'l' + source_word
 	elif deriv_type == 'VERB':
-		return all_words['which']['ltl'] + source_word + all_words['do']['ltl'] # TODO: why doesn't this actually append kweki?
+		return all_words['which']['otp'] + source_word + all_words['do']['otp'] # TODO: why doesn't this actually append kweki?
 	else:
 		raise ValueError("The {1} of {0}?".format(source_word, deriv_type))
 
@@ -492,7 +492,7 @@ def load_dictionary(directory):
 				entry[key] = value
 
 		for key in SUPPORTED_LANGUAGES:
-			if key not in ['source', 'ltl', 'derivatives', 'partos']:
+			if key not in ['source', 'otp', 'derivatives', 'partos']:
 				entry[key] = entry[key].split('; ') # separate definitions when applicable
 				for i, meaning in reversed(list(enumerate(entry[key]))):
 					if meaning == '' or meaning in entry[key][:i]:
@@ -550,10 +550,10 @@ def verify_words(my_words):
 		if not entry['eng']:
 			logging.error("The entry {} has no meaning".format(entry))
 			errors += 1
-		if entry['ltl']:
+		if entry['otp']:
 			for entry1 in my_words.values():
-				if entry1['eng'] < entry['eng'] and entry1 is not entry and entry1['ltl'] == entry['ltl']:
-					logging.error("{} ({}) is homophonous with {} ({})".format(entry['ltl'], entry['eng'], entry1['ltl'], entry1['eng']))
+				if entry1['eng'] < entry['eng'] and entry1 is not entry and entry1['otp'] == entry['otp']:
+					logging.error("{} ({}) is homophonous with {} ({})".format(entry['otp'], entry['eng'], entry1['otp'], entry1['eng']))
 		if not any(w in entry['derivatives'] for w in ['ANTONYM','OPPOSITE','REVERSAL']) and has_antonym(entry):
 			logging.error("Derivatives of '{0}' have antonyms even though '{0}' itself does not".format(entry['eng'][0], entry))
 			errors += 1
@@ -572,39 +572,39 @@ def fill_blanks(my_words, real_words):
 		if (entry['partos'] in ['noun','verb'] and not entry['source'].startswith('ono ')) \
 				or (' OF ' in entry['source'] and not entry['partos'] == 'proverb') \
 				or entry['partos'].startswith('compound'):
-			entry['ltl'] = ''
+			entry['otp'] = ''
 
-	all_ltl_words = set()
+	all_otp_words = set()
 	tallies = collections.Counter()
 	for entry in my_words.values(): # then count how many words we have of each language already
 		if entry['partos'] not in ['noun','verb','loanword'] or re.match(r'^ono ', entry['source']): # only count grammar words and onomotopoeias
 			if re.match(r'^[a-z][a-z][a-z] <.*> \[.*\]', entry['source']):
 				tallies[entry['source'].split()[0]] += 1
-			if entry['ltl'] and not entry['partos'].startswith('compound'):
-				all_ltl_words.add(entry['ltl'].replace('y','i').replace('w','u'))
+			if entry['otp'] and not entry['partos'].startswith('compound'):
+				all_otp_words.add(entry['otp'].replace('y','i').replace('w','u'))
 	logging.info(tallies)
 				
 	for entry in my_words.values():
 		if ' OF ' in entry['source']: # derive their derivatives
 			d_type, d_gloss = entry['source'].split(' OF ')
-			assert my_words[d_gloss]['ltl'], entry['source']
-			entry['ltl'] = derive(my_words[d_gloss]['ltl'], d_type, my_words, 'ANTONYM' in my_words[d_gloss]['derivatives'])
-			all_ltl_words.add(entry['ltl'].replace('y','i').replace('w','u'))
+			assert my_words[d_gloss]['otp'], entry['source']
+			entry['otp'] = derive(my_words[d_gloss]['otp'], d_type, my_words, 'ANTONYM' in my_words[d_gloss]['derivatives'])
+			all_otp_words.add(entry['otp'].replace('y','i').replace('w','u'))
 
-		elif entry['partos'] in ['noun','verb'] and entry['ltl'] == '': # make up words for any noun or verb that needs it
+		elif entry['partos'] in ['noun','verb'] and entry['otp'] == '': # make up words for any noun or verb that needs it
 			eng = choose_key(entry)
 			lang, source_orth, source_ipa, my_word = choose_word(eng, real_words, tallies,
-				partos=entry['partos'], has_antonym=has_antonym(entry), all_words=all_ltl_words)
-			entry['ltl'] = my_word
+				partos=entry['partos'], has_antonym=has_antonym(entry), all_words=all_otp_words)
+			entry['otp'] = my_word
 			entry['source'] = "{} <{}> [{}]".format(lang, source_orth, source_ipa)
 			tallies[lang] += 1
-			all_ltl_words.add(my_word.replace('y','i').replace('w','u')) # skip the i/j distinction behind the curtain
+			all_otp_words.add(my_word.replace('y','i').replace('w','u')) # skip the i/j distinction behind the curtain
 
 		elif entry['partos'].startswith('compound'): # and then compound the compound words
 			if entry['source']:
 				for component in entry['source'].split():
-					if component.replace('-',' ') in my_words and my_words[component.replace('-',' ')]['ltl'] != '':
-						entry['ltl'] += my_words[component.replace('-',' ')]['ltl']
+					if component.replace('-',' ') in my_words and my_words[component.replace('-',' ')]['otp'] != '':
+						entry['otp'] += my_words[component.replace('-',' ')]['otp']
 					else:
 						raise ValueError("No '{}' for {}'s {}".format(component, entry['eng'][0], entry['source'].split()))
 			else:
@@ -634,7 +634,7 @@ def save_dictionary(dictionary, directory):
 			for entry in dictionary.values(): # look for the entry
 				if entry['partos'][:4] == partos[:4] and entry['Index'] == row_index: # that matches this file and row
 					row['source'] = entry['source'] # and overwrite the latter two columns
-					row['ltl'] = entry['ltl']
+					row['otp'] = entry['otp']
 					break
 
 		with open(path.join(directory, partos+'.csv'), 'w', encoding='utf-8', newline='\n') as f:
