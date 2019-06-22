@@ -274,99 +274,6 @@ tentacle,,string leg,tallek
 wing,,fly arm,fopih
 shell,,protect gland,silakipowinucyen
 skin; hide,,be-outside gland,kocyen
-bat; flying fox,,fly mammal,fomamul
-pangolin,,scale mammal,linmamul
-cat,,person feline,wonmyawf
-tiger,,stripe feline,lonositelonmyawf
-lion,,hair feline,tofmyawf
-dog,,person canine,wonpawaf
-horse,,person equine,wonhihin
-rabbit; hare,,fast rodent,yalalonnyec
-porcupine,,be-sharp rodent,aklanyec
-mole,,be-low rodent,nicunyec
-skunk,,scent musteloidea,olelumlih
-raccoon,,black face musteloidea,ehalonilulih
-camel,,desert camel,patoufataylut
-llama,,mountain camel,pilut
-alpaca,,string camel,talut
-zebra,,be-gray equine,ocaehahihin
-pig; pork,,person swine,wonsul
-cow; bull; beef,,spot bovine,lonowiconmuf
-ox,,be-strong bovine,ikemuf
-antelope,,be-fast bovine,yalamuf
-sheep; mutton,,string bovine,talmuf
-goat,,mountain bovine,pilmuf
-sloth,,slow mammal,watalonmamul
-anteater,,ant eat mammal,maihnyamamamul
-armadillo,,shell mammal,pontolonmamul
-manatee; sea-cow,,ocean elephant,lawtpyah
-platypus,,egg mammal,tanmamul
-waterfowl; duck; goose; swan,,be-liquid fowl,cweap
-landfowl; chicken; turkey; pheasant,,ground fowl,pumap
-dove,,white pigeon,ocalonpayl
-hummingbird,,hum bustard,mumupawh
-penguin,,be-cold bird,enicipcip
-pelican,,mouth bird,nyamacyencipcip
-seagull,,beach bird,taylnulyotcipcip
-condor,,be-big bird-of-prey,motakiah
-vulture,,be-clothed no bird-of-prey,polanyokiah
-owl,,nighttime bird-of-prey,sicalwelkiah
-bald eagle,,head bird-of-prey,silkiah
-flamingo,,be-pink bird,ocalucicipcip
-stork,,leg bird,lekcipcip
-amphibian {GENITIVE:amphibious},,fish lizard,peslisat
-salamander,,,
-lungfish,,sky fish,mippes
-eel,,snake fish,saspes
-minnow,,be-small carp,pelakap
-catfish,,hair carp,tofkap
-magikarp,,be-magical carp,catuikap
-anglerfish,,light fish,luspes
-pufferfish,,balloon fish,motakilonpes
-koi; koi fish,,be-coloured carp,lonokap
-seahorse,,ocean equine,lawthihin
-vertebrate,,be-rigid animal,fulokipowinyotun
-invertebrate,,be-flimsy animal,fulokipowitun
-arthropod {GENITIVE:arthropodic},,shell animal,pontolontun
-seastar; sealily,,flower animal,pultun
-seaurchin,,be-sharp animal,aklatun
-seacucumber,,cucumber animal,'hiyaltun
-pantopod,,ocean spider,lawtcic
-shrimp,,be-small crustacean,pelakwap
-mantisshrimp,,be-strong crustacean,ikekwap
-centipede; millipede,,much leg,kehlek
-centipede,,poison centipede,fakukiluatkehlek
-dragonfly; damselfly,,be-long bug,lamacuc
-louse,,hair bug,tofcuc
-scorpionfly,,sky scorpion,mipiloal
-moth,,be-brown butterfly,ehakutahutyeh
-butterfly,,be-coloured moth,lonoehakutahutyeh
-stickbug,,rod bug,sotcuc
-cockroach,,be-big cockroach,motaipis
-termite,,wood cockroach,mulonipis
-plankton,,be-small life,pelaicilwel
-snail,,shell slug,pontolonkuhol
-molusk; cephalapod,,tentacle animal,tallektun
-octopus,,8 molusk,hattallektun
-decapus; squid; cuttlefish,,1 0 molusk,kannultallektun
-beard worm,,be-big tube worm,motalamasiklalonkil
-leech,,blood worm,tutumucwelonkil
-anemone; seafan; seawhip,,string plant animal,talcantun
-coral,,be-rigid life,fulokipowinyoicilwel
-sea sponge,,be-foamy life,fomiicilwel
-tardigrade; waterbear; the animal,,be-small bear,pelalic
-moss; liverwort; hornwort,,landmass algae,taylsawl
-algae; alga,,ocean algae,lawtsawl
-palm tree,,be-big leaf tree,motapancat
-pine tree,,be-thin leaf tree,cepancat
-orchid,,flower plant,pulcan
-ginger,,,
-bird of paradise,,,
-nutmeg,,,
-avocado,,,
-pepper,,,
-tulip,,,
-lily,,,
 Antarctica; the landmass; the continent,,be-south landmass,sutatayl
 the Antarctic Ocean; the ocean,,be-south ocean,sutalawt
 the Arctic Ocean; the ocean,,be-north ocean,filalawt
@@ -470,23 +377,159 @@ be vibrant; be colourful; OBJ has many hues and colours,,much be-coloured,kehlon
 be monochromatic; OBJ has few colours,,little be-coloured,noclono
 flag; banner,,cloth translation,tallatpatililum
 undergo revolution; OBJ goes through a revolution {TIME:revolution},,be-fast change,yalacalunyo
+bat; flying fox,,fly mammal,fomamul
+pangolin,,scale mammal,linmamul
+cat,,person feline,wonmyawf
+tiger,,stripe feline,lonositelonmyawf
+lion,,hair feline,tofmyawf
+dog,,person canine,wonpawaf
+horse,,person equine,wonhihin
+rabbit; hare,,fast rodent,yalalonnyec
+porcupine,,be-sharp rodent,aklanyec
+mole,,be-low rodent,nicunyec
+skunk,,scent musteloidea,olelumlih
+raccoon,,black face musteloidea,ehalonilulih
+camel,,desert camel,patoufataylut
+llama,,mountain camel,pilut
+alpaca,,string camel,talut
+zebra,,be-gray equine,ocaehahihin
+pig; pork,,person swine,wonsul
+cow; bull; beef,,spot bovine,lonowiconmuf
+ox,,be-strong bovine,ikemuf
+antelope,,be-fast bovine,yalamuf
+sheep; mutton,,string bovine,talmuf
+goat,,mountain bovine,pilmuf
+sloth,,slow mammal,watalonmamul
+anteater,,ant eat mammal,maihnyamamamul
+armadillo,,shell mammal,pontolonmamul
+manatee; sea-cow,,ocean elephant,lawtpyah
+platypus,,egg mammal,tanmamul
+waterfowl; duck; goose; swan,,be-liquid fowl,cweap
+landfowl; chicken; turkey; pheasant,,ground fowl,pumap
+dove,,white pigeon,ocalonpayl
+hummingbird,,hum bustard,mumupawh
+penguin,,be-cold bird,enicipcip
+pelican,,mouth bird,nyamacyencipcip
+seagull,,beach bird,taylnulyotcipcip
+condor,,be-big bird-of-prey,motakiah
+vulture,,be-clothed no bird-of-prey,polanyokiah
+owl,,nighttime bird-of-prey,sicalwelkiah
+bald eagle,,head bird-of-prey,silkiah
+flamingo,,be-pink bird,ocalucicipcip
+stork,,leg bird,lekcipcip
+amphibian {GENITIVE:amphibious},,fish lizard,peslisat
+salamander,,frog lizard,
+caecilian,,snake frog,
+lungfish,,sky fish,mippes
+eel,,snake fish,saspes
+minnow,,be-small carp,pelakap
+catfish,,hair carp,tofkap
+magikarp,,be-magical carp,catuikap
+anglerfish,,light fish,luspes
+pufferfish,,balloon fish,motakilonpes
+koi; koi fish,,be-coloured carp,lonokap
+seahorse,,ocean equine,lawthihin
+vertebrate,,be-rigid animal,fulokipowinyotun
+invertebrate,,be-flimsy animal,fulokipowitun
+arthropod {GENITIVE:arthropodic},,shell animal,pontolontun
+seastar; sealily,,flower animal,pultun
+seaurchin,,be-sharp animal,aklatun
+seacucumber,,cucumber animal,'hiyaltun
+pantopod,,ocean spider,lawtcic
+shrimp,,be-small crustacean,pelakwap
+mantisshrimp,,be-strong crustacean,ikekwap
+centipede; millipede,,much leg,kehlek
+centipede,,poison centipede,fakukiluatkehlek
+dragonfly; damselfly,,be-long bug,lamacuc
+louse,,hair bug,tofcuc
+scorpionfly,,sky scorpion,mipiloal
+moth,,be-brown butterfly,ehakutahutyeh
+butterfly,,be-coloured moth,lonoehakutahutyeh
+stickbug,,rod bug,sotcuc
+cockroach,,be-big cockroach,motaipis
+termite,,wood cockroach,mulonipis
+plankton,,be-small organism,pelaicilwel
+snail,,shell slug,pontolonkuhol
+molusk; cephalapod,,tentacle animal,tallektun
+octopus,,8 molusk,hattallektun
+decapus; squid; cuttlefish,,1 0 molusk,kannultallektun
+beard worm,,be-big tube worm,motalamasiklalonkil
+leech,,blood worm,tutumucwelonkil
+sea anemone; sea fan; seawhip,,flower animal,talcantun
+coral,,be-rigid organism,fulokipowinyoicilwel
+sea sponge,,be-foamy organism,fomiicilwel
+tardigrade; waterbear; the animal,,be-small bear,pelalic
+moss; liverwort; hornwort,,landmass algae,taylsawl
+algae; alga,,ocean algae,lawtsawl
+apricot,,be-orange prunus,
+asparagus; sparrow grass,,be-after can-smell plant,
+avocado,,crocodilian fruit,
+banana; plantain,,be-long fruit,sotfut
+buckwheat,,cereal flower,
+bird of paradise,,bird flower,
+broccoli,,tree cauliflower,
+cabbage; brassica,,head leaf,
+cacao; cocoa; chocolate,,be-sweet seed,
+cantelope,,be-orange melon,
+cashew,,be-outside seed,
+cauliflower,,be-white cauliflower,
+carrot,,be-orange root,
+castor bean; castor oil plant; palm of Christ,,tick seed,
+chard; spinach beet,,leaf beet
+cherry,,be-small prunus,
+coconut,,string fruit,talfut
+cotton; the plant; the material,,be-foamy plant,fomican
+coffee; the plant; the beverage,,move seed,mopecan
+cowpea; black-eye pea; yardlong bean; the plant,,claw legume,
+eggplant; aubergine; brinjal,,be-foamy fruit,
+fava bean; broad bean; horse bean; the plant,,be-big legume,
+garden beet; beetroot,,root beet,
+gourd; cucurbit,,be-rigid fruit,
+grape,,vine berry,
+green bean; french bean; string bean; snap,,string legume,
+honeydew,,be-green melon,
+lemon,,be-yellow citrus,
+lentil,,be-flat legume,
+lime,,be-green citrus,
+onion,,stack plant,capaloncan
+orange; mandarin; tangerine,,be-orange citrus,
+orchid,,flower plant,pulcan
+palm; palm tree,,tree leaf,
+peach; nectarine,,be-pink prunus,
+pine tree,,be-thin leaf tree,cepancat
+pineapple,,claw fruit,
+peanut; groundnut; goober,,monkey legume,
+pepper,,be-spicy fruit,
+plum,,be-purple prunus,
+potato; tuber; the plant,,ground tuber,
+pumpkin,,be-orange squash,
+rubber tree; latex,,be-elastic tree,polaipowicat
+sea beet; wild spinach,,be-natural beet,
+sesame,,oil seed,
+sugar beet,,be-sweet beet,
+sugarcane; cane sugar,,be-sweet grass,tamucan
+sunflower; the plant; the flower,,sun flower,
+taro; elephant ears,,be-big leaf,
+tea; the plant; the beverage,,be-liquid leaf,
+tobacco; the plant; the product,,be-gas leaf,
+triticale,,wheat rye,
+venus fly-trap,,eat plant,nyamacan
+watermelon,,,be-red melon,
+yam; sweet potato,,be-sweet tuber,
+oil palm,,oil palm,
+sweet potato,,America yam,
+yam,,Afro-Eurasia yam,
 sugar,,be-sweet powder,tamuufalon
 salt,,be-salty powder,lunaufalon
-flour,,be-powder grain,ufaanac
-bread,,be-foamy grain,fomianac
-cereal,,be-chunky grain,isaanac
-corn; maize,,be-yellow grain,pilaanac
-noodle; linguini,,string grain,talanac
-banana,,rod fruit,sotfut
-sugarcane,,be-sweet plant,tamucan
-cotton,,be-foamy plant,fomican
-coffee,,move plant,mopecan
-onion,,layer plant,capaloncan
-venus fly-trap,,eat plant,nyamacan
-bean,,be-flimsy seed,fulokipowipic
-nut,,be-rigid seed,fulokipowinyopic
-rubber,,be-elastic tree,polaipowicat
-coconut,,string fruit,talfut
+flour,,be-powder cereal,ufaanac
+bread,,be-foamy cereal,fomianac
+cereal; breakfast cereal,,be-chunky cereal,isaanac
+noodle; linguini,,string cereal,talanac
+"be cucumiform; be cucumber-shaped; OBJ is cylindrical, with rounded tapers on the ends",,cucumber be-shaped,
+be luniform; be moon-shaped; OBJ {crescent} is long, curved, and pointy on the ends,moon be-shaped,
+be pisciform; be fish-shaped; OBJ has a larger round bit connected to a triangular bit,fish be-shaped,
+be pyriform; be pear-shaped; OBJ is fatter on one side than the other,,pear be-shaped,
+be stelliform; be star-shaped; OBJ {star} is covered in sharp radial points,star be-shaped,
 clock; watch,,time measuring-device,kwelwelsomaluat
 stopwatch,,lateness measuring-device,hulilyansomaluat
 timer,,earliness amount measuring-device,citulyansomaluat

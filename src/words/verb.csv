@@ -134,7 +134,7 @@ laten; delay; postpone; put off; procrastinate; travel forward through time; SBJ
 pass; advance; travel back in time; SBJ {time machine} causes OBJ {passing; present} to become before IND,,CESSATIVE OF be late,cituki
 be big; be large; be spacious; OBJ has a high volume {AMOUNT:size; volume},,mar <मोठा> [moʈʰaː],mota
 be small; be little; OBJ has a low volume,,ANTONYM OF be big,pela
-grow; expand; dilate; SBJ {grower} grows OBJ {balloon},,INCOHATIVE OF be big,motaki
+grow; expand; dilate; swell; SBJ {grower} grows OBJ {balloon; swollen; bulb},,INCOHATIVE OF be big,motaki
 shrink; contract; constrict; SBJ {shrinker} shrinks OBJ,,CESSATIVE OF be big,pelaki
 be long; be tall; OBJ {protrusion; length} is long in time or space {AMOUNT:length; maximum physical dimension; length of time},,msa <lama> [lama],lama
 be short; OBJ {nub; knob; bump} is short in time or space,,ANTONYM OF be long,tapa
@@ -428,7 +428,7 @@ be in pieces; be *broken; be piecemeal; OBJ is in multiple pieces,,spa <roto> [�
 break; shatter; destroy; SBJ {breaker} breaks OBJ into multiple pieces,,INCOHATIVE OF be in pieces,lotoki
 mend; fix; put back together; SBJ {fixer} puts OBJ back together,,CESSATIVE OF be in pieces,lotonu
 be structurally weak; be crumbly; OBJ is easy to break,,POSSIBILITY OF break,lotokipowi
-be structurally strong; be durable; OBJ is difficult to break {AMOUNT:structural integrity; strength; durability},,NEGATIVE OF be structurally weak,lotokipowinyo
+be structurally strong; be durable; be hard; OBJ is difficult to break {AMOUNT:structural integrity; strength; durability},,NEGATIVE OF be structurally weak,lotokipowinyo
 weaken; compromise; sabotage; SBJ {weakener; saboteur} makes OBJ structurally weaker,,INCOHATIVE OF be structurally weak,lotokipowiki
 strengthen; brace; glue; SBJ {strengthener; glue} makes OBJ structurally stronger,,CESSATIVE OF be structurally weak,lotokipowinu
 be solid; be rigid; be coherent; be coagulated; OBJ is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
@@ -447,7 +447,7 @@ be viscous; be thick; OBJ {paste; gel; goop} is viscous {AMOUNT:viscosity},,pan 
 be inviscous; be thin; OBJ {lubricant; oil; liquid} is inviscous,,ANTONYM OF be viscous,tofta
 thicken; increase viscosity; SBJ {thickener; viscosity increaser} makes OBJ more viscous,,INCOHATIVE OF be viscous,leslaki
 thin; decrease viscosity; SBJ {thinner; viscosity reducer} makes OBJ less viscous,,CESSATIVE OF be viscous,toftaki
-be foamy; be spongy; OBJ {foam; sponge} is foamy,,eng <foamy> [ˈfoʊ̯mi],fomi
+be foamy; be spongy; be fluffy; OBJ {foam; sponge} is foamy,,eng <foamy> [ˈfoʊ̯mi],fomi
 be consistent; be solid; be smooth; be filled; OBJ is solid all the way through,,ANTONYM OF be foamy,sepu
 foam; froth; rise; air; SBJ {foamer; frother} fills OBJ with small pockets,,INCOHATIVE OF be foamy,fomiki
 compress; solidify; smooth; coalesce; SBJ {defoamer} removes the small pockets from OBJ,,CESSATIVE OF be foamy,sepuki
