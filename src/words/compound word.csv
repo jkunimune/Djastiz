@@ -2,6 +2,9 @@ eng,spa,source,otp
 Ulcwoliel,,this language,oltilip
 hello; goodbye; yay; bless; okay; _positive exclamative mood_,,wow want,wafe
 boo; fuck; not; _negative exclamative mood_,,wow dislike,waso
+to oneself,,who-(relative) on,
+by oneself,,which-(relative) by,
+about oneself,,which-(relative) to,
 despite; though,,even both,ifenyo
 but; and even,,even and,ifenaw
 instead; rather,,no and,nyoaw
@@ -106,6 +109,8 @@ be gray; be grey; be dull; be bland; be desaturated; OBJ reflects all wavelength
 colour gray; colour grey; dull; desaturate; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,ocaehaki
 be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,be-red be-yellow be-blue,lucipilanila
 colour; SBJ brightens the colours of OBJ,,INCOHATIVE OF be brightly coloured,lucipilanilaki
+"be warm-coloured; OBJ is red, orange, yellow, or white",,be-hot be-coloured,
+"be cool-coloured; OBJ is green, blue, purple, or black",,be-cold be-coloured,
 be brown; be murky; OBJ looks brown,,be-black be-orange,ehakuta
 brown; colour brown; SBJ colours OBJ brown,,INCOHATIVE OF be brown,ehakutaki
 be pink; be rose; OBJ looks pink,,be-white be-red,ocaluci
@@ -116,6 +121,7 @@ be cyan; be teal; be blue-green; OBJ looks cyan,,be-blue be-green,nilatihu
 colour cyan; colour teal; colour blue-green; SBJ colours OBJ cyan,,INCOHATIVE OF be cyan,nilatihuki
 be magenta; be fuchsia; OBJ looks magenta,,be-red be-purple,lucimuta
 colour magenta; colour fuchsia; SBJ colours OBJ magenta,,INCOHATIVE OF be magenta,lucimutaki
+be wood; be wooden; OBJ is made out of wood,,tree be-made-of,
 water; dihydrogen monoxide,,live puddle,icicwelon
 air; atmosphere; nitrogen and oxygen and all that jazz,,sky gas,miphyolon
 lava; magma,,be-stone puddle,patocwelon
@@ -131,9 +137,10 @@ gunpowder,,burn powder,cyaukiufalon
 oil; petroleum,,burn puddle,cyaukicwelon
 be quartz; OBJ is made of quartz,,white be-crystal,ocalonkio
 be emerald; OBJ is made of emerald,,be-green be-crystal,tihukio
-be diamond; OBJ is made of diamond,,be-transparent be-crystal,emanakio
+be diamond; OBJ is made of diamond,,be-structurally-strong be-crystal,emanakio
 be-pearl; OBJ is made of pearl,,be-circular be-crystal,siklakio
 be plastic; OBJ is made of plastic,,person be-crystal,wonkio
+be rubber; OBJ is made of rubber,,bounce be-crystal,
 be glass; OBJ is made of glass,,be-transparent be-stone,emanapato
 be graphite OBJ is made of graphite,,write be-stone,tepato
 cloth; fabric,,string sheet,tallat
@@ -169,6 +176,11 @@ be humid; be dank; OBJ is humid,,be-liquid be-mixed,cwemiclo
 be arid; be dry; OBJ is not humid,,be-gaseous be-mixed,hyomiclo
 be wet; IND is wet with OBJ {AMOUNT:wetness},,be-liquid be-on,cweikau
 be dry; IND is dry of OBJ,,be-gaseous be-on,hyoikau
+wet; wetten; SBJ wets IND with OBJ,,INCOHATIVE OF be wet,cweikauki
+dry; SBJ dries OBJ off of IND,,INCOHATIVE OF be dry,hyoikauki
+be dusty; IND is covered in OBJ dust,,be-powder be-on,ufaikau
+dust; SBJ covers IND in OBJ dust,,INCOHATIVE OF be dusty,ufaikauki
+undust; dust; SBJ removes the OBJ dust from IND {INSTRUMENT:duster},,CESSATIVE OF be dusty,ufaikaunu
 mist,,be-liquid powder,cweufalon
 kitchen,,food factory,nyamalonestakilyot
 cook; fry; bake; boil; simmer; grill; SBJ {cook; chef; baker} cooks OBJ {cooking},,food burn,nyamaloncyauki
@@ -211,10 +223,10 @@ shoulder,,arm joint,pihtokalyot
 hip,,leg joint,lektokalyot
 wrist,,hand joint,cohtokalyot
 ankle,,foot joint,lekcohtokalyot
-bicep; upper arm,,be-inside arm,nepih
-forearm; lower arm,,be-outside arm,kopih
-thigh; upper leg,,be-inside leg,nelek
-shin; lower leg,,be-outside leg,kolek
+bicep; upper arm,,be-near arm,nepih
+forearm; lower arm,,be-far arm,kopih
+thigh; upper leg,,be-near leg,nelek
+shin; lower leg,,be-far leg,kolek
 pelvis; hips,,torso bottom,tolniculon
 mouth,,eat gland,nyamacyen
 lip,,eat sheet,nyamalat
@@ -255,7 +267,7 @@ sweep; SBJ sweeps OBJ off of IND {INSTRUMENT:broom},,be-broad rub,ancosapu
 mop,,be-liquid broom,cweancosapuluat
 shake; vibrate; OBJ shakes,,be-rhythmic move,tutumumope
 shake; vibrate; SBJ shakes OBJ,,INCOHATIVE OF shake,tutumumopeki
-carbon,,life material,icilwelcakalum
+carbon,,live material,icilwelcakalum
 nitrogen,,sky material,mipcakalum
 antenna,,string arm,talpih
 tentacle,,string leg,tallek
@@ -358,7 +370,7 @@ lily,,,
 Antarctica; the landmass; the continent,,be-south landmass,sutatayl
 the Antarctic Ocean; the ocean,,be-south ocean,sutalawt
 the Arctic Ocean; the ocean,,be-north ocean,filalawt
-Afro-Eurasia; the landmass {GENITIVE:Afro-Eurasian},,Africa Eurasia,'aflika'yewlasia
+Afro-Eurasia; the Old World; the landmass {GENITIVE:Afro-Eurasian},,Africa Eurasia,'aflika'yewlasia
 Sub-Saharan Africa; the region {GENITIVE:Sub-Saharan},,be-south Africa,suta'aflika
 North America; the continent {GENITIVE:North American; from North America},,be-north America,fila'amelika
 South America; the continent {GENITIVE:South American; from South America},,be-south America,suta'amelika
@@ -387,6 +399,8 @@ The Mediterranean Sea; the sea,,land be-inside ocean,fonunelawt
 The South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
 Algiers,,Algerian settlement,'alsayilcih
 Australia (landmass),,Australian landmass,'ostwaylyatayl
+Banda Islands,,Banda landmass,'pantatayl
+Banda Sea,,Banda ocean,'pantalawt
 British Isles,,Briton landmass,'pwitontayl
 Great Brittan,,be-big British-Isles,mota'pwitontayl
 Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
@@ -448,7 +462,6 @@ pencil,,be-stone writing-utensil,patoteluat
 draw; SBJ {drawer} paints IND {drawn; drawing subject} as OBJ {drawing},,surface model,usmwoni
 paint; SBJ {painter} paints IND {painting subject} as OBJ {painting},,be-liquid model,cwemwoni
 sculpt; etch; carve; SBJ {carver} carves IND {sculpture subject} as OBJ {sculpture},,be-solid model,kutimwoni
-duster,,,
 polytheism; pantheon,,much god,kehkot
 monothiesm,,1 god,kankot
 athiesm,,0 god,nulkot
@@ -475,8 +488,8 @@ nut,,be-rigid seed,fulokipowinyopic
 rubber,,be-elastic tree,polaipowicat
 coconut,,string fruit,talfut
 clock; watch,,time measuring-device,kwelwelsomaluat
-stopwatch,,be-late amount measuring-device,hulikwelyansomaluat
-timer,,be-early amount measuring-device,citukwelyansomaluat
+stopwatch,,lateness measuring-device,hulilyansomaluat
+timer,,earliness amount measuring-device,citulyansomaluat
 meterstick; ruler; measuring tape; stick,,length measuring-device,lamalyansomaluat
 scale; balance,,weight measuring-device,palilyansomaluat
 thermometer,,temperature measuring-device,okulyansomaluat
@@ -745,7 +758,7 @@ be upstream; be upwind; OBJ is upstream of IND,,flow be-high,nilumopekuhi
 encode; SBJ encodes OBJ as IND {METHOD:code},,misunderstand convert,otoyapatili
 decode; parse; SBJ decodes OBJ into IND,,understand convert,elewapatili
 gesture; sign; SBJ gestures IND to OBJ {METHOD:gesture},,hand say,cohti
-explore; peruse,,,
+explore; SBJ sends OBJ {probe} to IND to learn about it,,move study,
 whisper; SBJ says IND {whisper} to OBJ without voicing,,be-quiet speak,sicapua
 shout; yell; scream; raise voice; SBJ shouts IND to OBJ,,be-loud speak,fuhapua
 challenge; be challenging; SBJ {challenger} challenges OBJ {challenged} with IND {challenge},,have-fun be-difficult,mocaufu
@@ -756,11 +769,12 @@ congratulate; apologise; SBJ expresses sympathy to OBJ,,sympathise say,tafunihut
 door,,be-open furniture,meklesaman
 window,,can-see furniture,husaman
 excuse; pardon; accept; tolerate; SBJ excuses OBJ,,be-okay say,oketi
-enterprise,,,
+be resourceful; enterprise; OBJ resourcefully acquires IND,,by-oneself give,
 go shopping; OBJ is going shopping,,much sell,kehmai
 welcome!,,please enter,pananeki
 emoticon; emoji,,feel image,swahulum
-spiral,,,
+spiral out; OBJ spirals outward from IND,,spin distance,
+spiral in; OBJ spirals into IND {METHOD:spiral},,spin approach,
 itch; OBJ's IND {itch} itches,,little hurt,noctafu
 holy book,,have-faith book,fiticapalum
 church,,religion group,fitilippaltolum
@@ -793,3 +807,4 @@ compress; squeeze; SBJ compresses OBJ,,be-short bend,tapafuloki
 pentagram; pentalpha; pentangle; star pentagon,,5 path,limpas
 popcorn,,pop corn,kehemais
 harvest; SBJ harvests OBJ {crop} from IND {LOCATION:farm},,plant gather,cancomiki
+lens,,,

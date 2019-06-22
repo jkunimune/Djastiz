@@ -63,16 +63,12 @@ egg; the first cell of a new organism {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩
 seed; small courier of genetic information {GENITIVE:seminal},,hin <बीज> [biːd͡ʒ],pic
 leaf; blade of grass; photosynthetic flap of a plant {GENITIVE:foliar; leafy},,mar <पान> [paːn],pan
 fruit; seed-bearing structure of a flowering plant {GENITIVE:pomonal; fruity},,eng <fruit> [fɹʷuːt],fut
+berry,
+vine,
+melon,
+tuber,
 flower; pollen-bearing structure of a flowering plant {GENITIVE:floral},,hin <फूल> [pʰuːl],pul
-"root; basic and stabilising portion of a system, esp. of a plant {GENITIVE:radical; rooted}",,pan <ਰੂਟ> [ɾuʈ],lut
-grain {GENITIVE:cereal},,hin <अनाज> [anaːd͡ʒ],anac
-rice {GENITIVE:rozal; ricey},,cmn <饭> [fan˥˩],fan
-corn; maize {GENITIVE:cornly; corny},,spa <maíz> [maˈis],mais
-wheat {GENITIVE:wheaten},,eng <wheat> [wiːt],wit
-soy; soybean {GENITIVE:sojan},,spa <soja> [ˈsoxa],soh
-tomato {GENITIVE:tomatan},,jav <tomat> [tomɑt],tomat
-grape {GENITIVE:vineal},,spa <uva> [ˈuβa],up
-apple {GENITIVE:pomaceous},,hin <सेब> [seb],sep
+"root; underground component of a plant that gathers nutrients {GENITIVE:radical; rooted}",,pan <ਰੂਟ> [ɾuʈ],lut
 animal; meat {GENITIVE:animal; meaty},,cmn <动物> [tʊŋ˥˩u˥˩],tun
 plant; vegetable {GENITIVE:botanical; vegetal},,cmn <厂> [ʈ͡ʂʰɑŋ˧˩˧],can
 fungus {GENITIVE:fungal; fungic; fungous},,cmn <菌> [t͡ɕyn˥],ciwn
@@ -146,9 +142,43 @@ virus,,spa <virus> [ˈbiɾus],pilus
 algae; moss,alga,cmn <藻类> [t͡sɑʊ̯˧˩˧leɪ̯˥˩],sawl
 fern,,spa <helecho> [eˈlet͡ʃo],elec
 tree,,mar <झाड> [d͡ʑ̤aːɖ],cat
+cereal; *grain; cereal grain,,hin <अनाज> [anaːd͡ʒ],anac
+legume; *bean; pea,,,
+corn; maize,,,
+rice,,cmn <饭> [fan˥˩],fan
+soy; soybean,,,
+bamboo,,tree grass
+barley,,,
+sorghum; great millet; milo,,,
+rapeseed; rape; canola,,,
+millet,,,
+cassava,,,
+chick pea; gram; garbanzo,,,
+oat,,,
+pigeon pea; the plant,,,
+mango; mangosteen; guava,,,
+apple,,,
+beet,,,
+tomato,,,
+rye,,,
+citrus,,,
+flax; linseed; linen,,,
+pea; green pea,,,
+prunus; plum; *peach; cherry; apricot,,,
+okra; ochro; ladies' fingers,,,
+cucumber; gherkin,,,
+squash; pumpkin; gourd,,,
+almond,,,
+garlic,,,
+jute; mallow-leaves,,string plant,
+cauliflower; broccoli,,,
+pear,,,
+coriander; cilantro; anise; star anise; badiane; fennel,,,
+lettuce; chicory,,,
+walnut,,,
+persimmon,,,
 cactus,,spa <cactus> [ˈkaktus],kaktus
 bulrush; reed; cattail; water sausage; typha,,epo <tifao> [tiˈfao],tifaoh
-grass; seagrass; rush; sedge,,hin <घास> [ɡ̤aːs],kas
 bamboo,,cmn <竹> [ʈ͡ʂu˧˥],cuh
 machine; robot; automaton,,epo <maŝino> [maˈʃino],macin
 computer {GENITIVE:digital; electronic; computerised},,xho <khomputha> [kʰɔmputʰa],komput

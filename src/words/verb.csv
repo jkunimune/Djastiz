@@ -94,7 +94,7 @@ convince; persuade; make sure; SBJ provides new information that leads OBJ to co
 unconvince; become skeptical; SBJ provides new information that leads IND comes to beI OBJ improbable,,CESSATIVE OF be sure,fotluki
 "believe; seem; OBJ {believer} accepts that IND {belief; feeling} is true on a subconscious level; see ""be sure"" and ""think""",,zul <kholwa> [ˈkʰɔːlwa],kolwa
 convince; sway; SBJ leads OBJ to believe that IND is true,,INCOHATIVE OF believe,kolwaki
-"think; appear; beI apparent; OBJ {thinker; accepter} consciously decides that IND {opinion} is true; see ""be sure"" and ""believe""",,epo <pensi> [ˈpensi],pensi
+"think; appear; beI apparent; OBJ {thinker; accepter} consciously decides that IND {opinion} is true; see ""be sure"" and ""believe"" {CAUSE:evidence}",,epo <pensi> [ˈpensi],pensi
 persuade; convince; SBJ leads OBJ to determine that IND is true,,INCOHATIVE OF think,pensiki
 recall; remind; remember; remember to; jog memory; SBJ {mnemonic} helps OBJ {recaller} recall IND {factoid; datum} from memory,,hin <याद> [jaːd],yata
 can remember; remember; know; OBJ {knowledgeable; smart} has IND stored in memory,,POSSIBILITY OF recall,yatapowi
@@ -106,7 +106,7 @@ explain; describe; SBJ {tutor; teacher} teaches OBJ {tutee; student} to understa
 confuse; unlearn; SBJ {confuser} makes OBJ stop understanding IND,,CESSATIVE OF understand,otoyaki
 "know; be informed; be educated; OBJ {knower; smart} remembers IND {knowledge}, believes and thinks it to be true, and correctly understands why it is true",,eng <know> [noʊ̯],no
 beI unknown; OBJ does not know IND,,NEGATIVE OF know,nonyo
-teach; learn; study; beI out; SBJ {teacher; professor; master} teaches IND to OBJ {student; learner} {LOCATION:school; college; university|TIME:lesson; education},,INCOHATIVE OF know,noki
+teach; learn; study; inform; SBJ {teacher; professor; master} teaches IND to OBJ {student; learner} {LOCATION:school; college; university|TIME:lesson; education},,INCOHATIVE OF know,noki
 unteach; unlearn; confound; SBJ {unteacher} makes IND {unlearner} unlearn what they thought they knew about OBJ,,CESSATIVE OF know,nonu
 beI apparent; beI obvious; beI knowable; beI deducable; beI notorious; beI famous; be smart; IND is apparent to OBJ {fast learner},,POSSIBILITY OF know,nopowi
 beI unapparent; beI secret; beI unknowable; beI concealed; beI obscure; beI anonymous; beI be stupid; IND is not easily apparent to OBJ {[https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]},,NEGATIVE OF be apparent,nopowinyo
@@ -128,8 +128,8 @@ be old; OBJ {elder; senior; adult; grown-up; relic} is old {AMOUNT:age},,cmn <�
 be young; be new; OBJ {kid; girl; boy} is young,,ANTONYM OF be old,hwe
 age; wear; SBJ {ager; Father Time} makes OBJ get older,,INCOHATIVE OF be old,cyoki
 renew; update; SBJ {updater} makes OBJ become new,,CESSATIVE OF be old,hweki
-be late; be after; be tardy; positive time; OBJ {future} happens after IND {AMOUNT:time; time interval; duration},,fil <huli> [huli],huli
-be early; be before; be timely; negative time; OBJ {past} happens before IND,,ANTONYM OF be late,citu
+be late; be after; be tardy; positive time; OBJ {future} happens after IND {AMOUNT:lateness},,fil <huli> [huli],huli
+be early; be before; be timely; negative time; OBJ {past} happens before IND {AMOUNT:earliness},,ANTONYM OF be late,citu
 laten; delay; postpone; put off; procrastinate; travel forward through time; SBJ {postponer} pushes OBJ forward through time,,INCOHATIVE OF be late,huliki
 pass; advance; travel back in time; SBJ {time machine} causes OBJ {passing; present} to become before IND,,CESSATIVE OF be late,cituki
 be big; be large; be spacious; OBJ has a high volume {AMOUNT:size; volume},,mar <मोठा> [moʈʰaː],mota
@@ -150,8 +150,8 @@ thicken; SBJ {thickener} thickens OBJ,,INCOHATIVE OF be thick,hoki
 thin; SBJ {thinner} thins OBJ,,CESSATIVE OF be thick,ceki
 be far; be distant; be beyond; be not at all; be remote; tele; OBJ is physically or numerically far from IND {space} {AMOUNT:distance},,sho <kure> [kure],kule
 be near; be close; be before; be approximately; be almost; be like; OBJ is physically or numerically close to IND {TIME:meeting},,ANTONYM OF be far,nito
-distance; go away; separate; come from; SBJ {separator} distances OBJ from IND,,INCOHATIVE OF be far,kuleki
-approach; go toward; meet; draw close; bring together; gather; go to; SBJ {gatherer; joiner} moves OBJ toward IND,,CESSATIVE OF be far,nitoki
+distance; go away; separate; come from; go out; SBJ {separator} distances OBJ from IND,,INCOHATIVE OF be far,kuleki
+approach; go toward; meet; draw close; bring together; gather; go to; go in; SBJ {gatherer; joiner} moves OBJ toward IND,,CESSATIVE OF be far,nitoki
 keep apart; separate; divide; avoid; SBJ {wall; barrier} keeps OBJ {other side} away from IND,,PROGRESSIVE OF be far,kulecalu
 be in front; be *ahead; be forward; OBJ {field of view} has a positive _y_ coordinate from IND's point of view {AMOUNT:_y_ coordinate; progress},,hin <आगे> [aːɡe],ake
 be behind; be backward; lag; OBJ {back} has a negative _y_ coordinate from IND's point of view,,ANTONYM OF be in front,ano
@@ -251,7 +251,7 @@ be on; rest on; lean on; support; hold; carry; OBJ {at rest; on top} rests on IN
 put on; get on; pick up; SBJ rests OBJ on IND,,INCOHATIVE OF be on,ikauki
 take off; get off; put down; SBJ takes OBJ off of IND,,CESSATIVE OF be on,ikaunu
 be inside; be in; contain; be inner; be central; be in the middle; OBJ {indoors; room; content; center; middle; heart; bowels} is inside IND {container} {AMOUNT:innerness},,cmn <内> [neɪ̯˥˩],ne
-be outside; be outer; be peripheral; OBJ {outdoors; edge; fringe} is outside of IND,,ANTONYM OF be inside,ko
+be outside; be outer; be out; be peripheral; OBJ {outdoors; edge; fringe} is outside of IND,,ANTONYM OF be inside,ko
 enter; insert; put in; SBJ moves OBJ into IND,,INCOHATIVE OF be inside,neki
 exit; remove; release; escape; take out; extract; emerge; SBJ moves OBJ out of IND {LOCATION:hole},,CESSATIVE OF be inside,koki
 be quiet; dim; soft; faint; weak; OBJ is quiet {TIME:nighttime; night},,ono [ʃː],sica
@@ -431,7 +431,7 @@ be structurally weak; be crumbly; OBJ is easy to break,,POSSIBILITY OF break,lot
 be structurally strong; be durable; OBJ is difficult to break {AMOUNT:structural integrity; strength; durability},,NEGATIVE OF be structurally weak,lotokipowinyo
 weaken; compromise; sabotage; SBJ {weakener; saboteur} makes OBJ structurally weaker,,INCOHATIVE OF be structurally weak,lotokipowiki
 strengthen; brace; glue; SBJ {strengthener; glue} makes OBJ structurally stronger,,CESSATIVE OF be structurally weak,lotokipowinu
-be solid; be rigid; be firm; OBJ {rigid body} is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
+be solid; be rigid; be coherent; be coagulated; OBJ is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
 be fluid; be amorphous; OBJ is fluid,,ANTONYM OF be solid,nilu
 freeze; solidify; deposit; SBJ {one who freezes; freezer} freezes OBJ {frozen; ice} {INSTRUMENT:freezer},,INCOHATIVE OF be solid,kutiki
 melt; sublimate; SBJ {melter} melts OBJ {molten},,CESSATIVE OF be solid,niluki
@@ -440,7 +440,7 @@ be gaseous; be air; OBJ {gas; cloud} is gaseous,,ANTONYM OF be liquid,hyo
 condense; liquidify; SBJ {condenser} condenses OBJ {condensed; cloud} into a liquid,,INCOHATIVE OF be liquid,cweki
 boil; evaporate; SBJ {boiler} boils OBJ,,CESSATIVE OF be liquid,hyoki
 be flimsy; be soft; be flexible; be loose; OBJ bends easily,,POSSIBILITY OF bend,fulokipowi
-be rigid; be solid; be hard; be brittle; be firm; OBJ does not bend,,NEGATIVE OF be flimsy,fulokipowinyo
+be rigid; be solid; be hard; be brittle; be firm; OBJ {rigid body} does not bend,,NEGATIVE OF be flimsy,fulokipowinyo
 flimsen; weaken; SBJ {one who increases flimsiness} makes OBJ more flimsy,,INCOHATIVE OF be flimsy,fulokipowiki
 rigidify; brace; harden; SBJ {brace; hardener} makes OBJ more rigid,,CESSATIVE OF be flimsy,fulokipowinu
 be viscous; be thick; OBJ {paste; gel; goop} is viscous {AMOUNT:viscosity},,pan <ਲੇਸਲਾ> [leslɑ],lesla
@@ -470,8 +470,6 @@ be slippery; be smooth; OBJ is slippery on IND,,POSSIBILITY OF rub,sapupowi
 grip; drag; be grippy; OBJ exerts a frictional force on IND {AMOUNT:coefficient of friction},,NEGATIVE OF be slippery,sapupowinyo
 be made of; comprise; OBJ {construction; object; product} is made out of IND {*material; substance; chemical; element},,jav <saka> [ʂɔkɔ],caka
 make out of; turn to; SBJ {alchemist} changes OBJ to be made out of IND,,INCOHATIVE OF be made of,cakaki
-be wood; be wooden; OBJ is made out of wood,,cmn <木> [mu˥˩],mu
-woodify; SBJ turns OBJ into wood,,INCOHATIVE OF be wood,muki
 be stone; be rock; be earthen; OBJ is made out of earth,,fil <bato> [bato],pato
 turn to stone; earthify; SBJ turns OBJ to stone,,INCOHATIVE OF be stone,patoki
 be soil; be dirt; be earth; OBJ is made out of dirt,,ibo <anị> [anɪ],ani

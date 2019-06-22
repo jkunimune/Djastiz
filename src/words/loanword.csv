@@ -17,7 +17,7 @@ k; /k/; velar plosive,,ono [k],'ko
 t; /t/; alveolar plosive,,ono [t],'ta
 p; /p/; bilabial plosive,,ono [p],'pe
 The World Wide Web; The Internet; The Cloud {GENITIVE:Internet; cloud; cyber},,eng <Internet> [ˈɪntɚnɛt],'intanet
-America; The Americas; the landmass {GENITIVE:American; from America},,spa <América> [aˈmeɾika],'amelika
+America; the Americas; the New World; the landmass {GENITIVE:American; from America},,spa <América> [aˈmeɾika],'amelika
 Africa; the continent {GENITIVE:African; from Africa},swa <Afrika> [afrika],,'aflika
 Australian; the Australian people {GENITIVE:Australian; from Australia|COUNTRY:Australia (country); the Commonwealth of Australia},,eng <Australia> [əˈstɹʷæɪ̯ljə],'ostwaylya
 Eurasia; the continent {GENITIVE:Eurasian; from Eurasia},,rus <Евразия> [jɪˈvrazʲɪjə],'yewlasia
@@ -31,12 +31,13 @@ Andorran; the Andorran people {GENITIVE:Andorran; from Andorra|COUNTRY:Andorra},
 Angolan; the Angolan people {GENITIVE:Angolan; from Angola|COUNTRY:Angola},,por <Angola> [ɐ̃ˈɡɔlɐ],'ankola
 Antiguan; Barbudan; the Antiguan and Barbudan people {GENITIVE:Antiguan; Barbudan; from Antigua and Barbuda|COUNTRY:Antigua and Barbuda},,eng <Antigua and Barbuda> [æntiːɡə ən bɑːbjuːdə],'antikapapyuta
 Arab; the Arabian people {GENITIVE:Saudi; Saudi Arabian; Arabia; from Saudi Arabia|COUNTRY:Saudi Arabia|LANGUAGE:Arabic; the Arabic language|REGION:Arabia; the Arabian peninsula},,ara <عَرَب> [ˈʕarab],'alap
-Argentinean; the Argentinean people {GENITIVE:Argentinean; Argentine; from Argentina|COUNTRY:Argentina},,spa <Argentina> [aɾxenˈtina],alhentina
+Argentinean; the Argentinean people {GENITIVE:Argentinean; Argentine; from Argentina|COUNTRY:Argentina},,spa <Argentina> [aɾxenˈtina],'alhentina
 Armenian; the Armenian people {GENITIVE:Armenian; from Armenia|COUNTRY:Armenia|LANGUAGE:Armenian; the Armenian language},,hye <Հայք> [hɑjkʰ],'hayk
 Austrian; the Austrian people {GENITIVE:Austrian; from Austria|COUNTRY:Austria},,deu <Österreich> [ˈøːstɐraɪç],'ostalayc
 Azerbaijani; the Azerbaijani people {GENITIVE:Azerbaijani; from Azerbaijan|COUNTRY:Azerbaijan|LANGUAGE:Azerbaijani; the Azerbaijani language},,aze <Azərbaycan> [ɑːzæɾbɑjˈd͡ʒɑn],'asalpaycan
 Bahamian; the Bahamian people {GENITIVE:Bahamian; from the Bahamas|COUNTRY:The Bahamas},,eng <Bahama> [bəˈhɑːmə],'pahama
 Bahraini; the Bahraini people {GENITIVE:Bahraini; from Bahrain|COUNTRY:Bahrain},,ara <بحرين‎> [baħrajn],'pahlayn
+Bandanese; the Bandanese people {GENITIVE:Bandanese; from the Banda islands},,msa <Banda> [banda],'panta
 Bangladeshi; the Bangladeshi people {GENITIVE:Bangladeshi; from Bangladesh|COUNTRY:Bangladesh|REGION:Bengal|LANGUAGE:Bengali; Bangla; the Bengali language},,ben <বাংলা> [ˈbaŋla],'panla
 Barbadian; Bajan; the Barbadian people {GENITIVE:Barbadian; from Barbados|COUNTRY:Barbados|LANGUAGE:Bajan Creole},,bjs <Barbados> [bɑːɹˈbeɪ̯dɒs],'papeytos
 Belarusian; the Belarusian people {GENITIVE:Belarusian; from Belarus|COUNTRY:Belarus|LANGUAGE:Belarusian},,bel <Biełaruś> [bʲɛlarusʲ],'pyelalus
@@ -117,16 +118,17 @@ Igbo; the Igbo people {GENITIVE:Igbo; in Igbo|LANGUAGE:Igbo; the Igbo language},
 Indian; the Indian people {GENITIVE:Indian; from India|COUNTRY:India; Hindustan|LANGUAGE:Hindustani; Hindi; Urdu; the Hindustani language|RELIGION:Hinduism},,hin <हिन्दू> [ɦɪnduː],'hintu
 Indonesian; the Indonesian people {GENITIVE:Indonesian; from Indonesia|COUNTRY:Indonesia|LANGUAGE:Indonesian; the Indonesian language},,ind <Indonesia> [ɪndonesia],'intonesia
 Interlinguist; the Interlingua speakers {GENITIVE:Interlingua; in Interlingua|LANGUAGE:Interlingua},,ina <Interlingua> [inteɾˈliŋɡwa],'intelinkwa
-Occidentallist; the Interlingue speakers {GENITIVE:Interlingue; in Interlingue|LANGUAGE:Interlingue; Occidental; the Occidental language},,ile <Interlingue> [interlingwe],intelinkwe
+Occidentallist; the Interlingue speakers {GENITIVE:Interlingue; in Interlingue|LANGUAGE:Interlingue; Occidental; the Occidental language},,ile <Interlingue> [interlingwe],'intelinkwe
 Iranian; Persian; the Iranian people {GENITIVE:Iranian; from Iran|LANGUAGE:Persian; Farsi; the Persian language},,fas <ایران‎ > [ʔiːɾɒːn],'ilan
 Iraqi; the Iraqi people {GENITIVE:Iraqi; from Iraq|COUNTRY:Iraq},,ara <عراق> [ʕiraːq],'ilak
 Irishman; the Irish people {GENITIVE:Irish; from Ireland|COUNTRY:Ireland; the Republic of Ireland|LANGUAGE:Irish; Gaelic; the Irish language},,gle <Éire> [ˈeːɾʲə],'elya
-Israeli; Israelite; the Israeli people {GENITIVE:Israeli; from Israel|COUNTRY:Israel|LANGUAGE:Hebrew; the Hebrew language},,heb <ישראל> [jisʁael],'yishael
+Israelite; the Israeli people {GENITIVE:Israeli; from Israel|COUNTRY:Israel|LANGUAGE:Hebrew; the Hebrew language},,heb <ישראל> [jisʁael],'yishael
 Italian; the Italian people {GENITIVE:Italian; Italic; from Italy|COUNTRY:Italy|LANGUAGE:Italian; the Italian language},,ita <Italia> [itaːlja],'italya
 Ivorian; the Ivorian people {GENITIVE:Ivorian; from Ivory Coast|COUNTRY:Ivory Coast; Côte d'Ivoire},,fra <ivoire> [ivwaʁ],'ifwah
 Japanese person; the Japanese people {GENITIVE:Japanese; from Japan|COUNTRY:Japan|LANGUAGE:Japanese; the Japanese language},,jap <日本> [ɲipːoɴ],'nipon
 Jamaican; the Jamaican people {GENITIVE:Jamaican; from Jamaica|COUNTRY:Jamaica|LANGUAGE:Jamaican Patois; Patwa; Jamaican Creole},,jam <Jamaica> [d͡ʒʊmiɛka],'cumieka
 Javanese; the Javanese people {GENITIVE:Javanese; from Java|LANGUAGE:Javanese; the Javanese language},,jav <ꦗꦮ> [d͡ʒɔwɔ],'cawa
+Jew; the Jewish people {GENITIVE:Jewish; of the Jews|COUNTRY:Judah; the Kingdom of Judah|RELIGION:Judaism},,heb <יְהוּדִים> [jehuˈdim],'yehutim
 Jordanian; the Jordanian people {GENITIVE:Jordanian; from Jordan},,ara <ْأُردن> [ʔurdunn],'ultun
 Kazakh; Kazakhstani; the Kazakhstani people {GENITIVE:Kazakhstani; from Kazakhstan|COUNTRY:Kazakhstan|LANGUAGE:Kazakh; Kazak; the Kazakh language},,kaz <Kazak> [qɑzɑq],'kasak
 Kenyan; the Kenyan people {GENITIVE:Kenyan; from Kenya|COUNTRY:Kenya},,swa <Kenya> [kɛɲɑ],'kenya
@@ -149,7 +151,7 @@ Lojbanist; the Lojban speakers {GENITIVE:Lojban; in Lojban|LANGUAGE:Lojban},,ljb
 Luxembourger; the Luxembourgish people {GENITIVE:Luxembougish; Luxembourgian; from Luxembourg|COUNTRY:Luxembourg|LANGUAGE:Luxembourgish; the Luxembourgish language},,ltz <Lëtzebuerg> [lət͡səbuːəɕ],'latsapuac
 Macedonian; the Macedonian people {GENITIVE:Macedonian; from Macedonia|COUNTRY:Macedon; Macedonia|LANGUAGE:Macedonian; the Macedonian language},,mkd <Македон> [makɛdɔn],'maketon
 Malagasy; the Malagasy people {GENITIVE:Malagasy; from Madagascar|COUNTRY:Madagascar (country); Republic of Madagascar|LANGUAGE:Malagasy; the Malagasy language|REGION:Madagascar (island)},,mlg <malagasy> [ˌmalaˈɡasʲ],'malakas
-Malaysian; Malay; the Malaysian people {GENITIVE:Malaysian; from Malaysia|COUNTRY:Malaysia|LANGUAGE:Malay; Malaysian; the Malay language},,msa <Melayu> [məlaju],malayu
+Malaysian; Malay; the Malaysian people {GENITIVE:Malaysian; from Malaysia|COUNTRY:Malaysia|LANGUAGE:Malay; Malaysian; the Malay language},,msa <Melayu> [məlaju],'malayu
 Maldivian; Dhivehi; Divehi; the Maldivian people {GENITIVE:Maldivian; from the Maldives|COUNTRY:Maldives|LANGUAGE:Maldivian; Dhivehi; Divehi; the Maldivian language},,div <ދިވެހި> [diˈʋehi],'tiwehi
 Malian; the Malian people {GENITIVE:Malian; Malinese; from Mali|COUNTRY:Mali},,bam <Mali> [mali],'mali
 Maltese; the Maltese people {GENITIVE:Maltese; from Malta|COUNTRY:Malta|LANGUAGE:Maltese; the Maltese language},,mlt <Malti> [mɐltɪ],'malti
@@ -256,7 +258,7 @@ Vietnamese; the Vietnamese people {GENITIVE:Vietnamese; from Vietnam|COUNTRY:Vie
 Welsh; the Welsh people {GENITIVE:Welsh; from Wales|COUNTRY:Wales|LANGUAGE:Welsh; the welsh language},,cym <Cymry> [ˈkəmrɨ],'kamli
 Wu speaker; Wu sinophone {GENITIVE:Wu; in Wu|LANGUAGE:Wu Chinese},,wuu <吴> [ɲy˦],'nyu
 Xhosa; the Xhosa people {GENITIVE:Xhosa; of the Xhosa|LANGUAGE:Xhosa; the Xhosa language},,xho <Xhosa> [kǁʰɔ́ːsa],'kosa
-Yoruba; Ioruba; Joruba; the Yoruba people {GENITIVE:Yoruba; of the Yoruba|LANGUAGE:Yoruba; the Yoruba language},,yor <Yorùbá> [jōɾùbá],yolupa
+Yoruba; Ioruba; Joruba; the Yoruba people {GENITIVE:Yoruba; of the Yoruba|LANGUAGE:Yoruba; the Yoruba language},,yor <Yorùbá> [jōɾùbá],'yolupa
 Yue speaker; Yue sinophone {GENITIVE:Yue; in Yue|LANGUAGE:Yue Chinese; Cantonese},,yue <粵> [jyːt̚˧˥],'yut
 Yemeni; Yemenite; the Yemeni people {GENITIVE:Yemeni; from Yemen|COUNTRY:Yemen},,ara <يمن> [jaman],'yaman
 Zambian; the Zambian people {GENITIVE:Zambian; from Zambia|COUNTRY:Zambia},,eng <Zamb-> [ˈzæmb],'sampi
@@ -309,7 +311,6 @@ Christianity; the religion {GENITIVE:Christian},,heb <נוֹצְרִי> [not͡s�
 Eastern Orthodoxy; the sect {GENITIVE:Eastern Orthodox},,ell <Ανατολική Ορθοδοξία> [anatoliˈki orθoðoˈksia],'anatolikiolsosoksia
 Islam; the religion {GENITIVE:Islamic; Muslim},,ara <إسلام> [ʔɪsˈlaːm],'islam
 Jainism; the religion {GENITIVE:Jain},,hin <जैन धर्म> [d͡ʒɛːn dʱɑːɾm],'centam
-Judaism; the religion {GENITIVE:Jewish},,heb <יהדות> [jehuˈda],'yehuta
 Protestantism; the sect {GENITIVE:Protestant},,deu <Protestantismus> [ˌpʀ̥otɛstanˈtɪsmʊs],'potestantismus
 Shaivism; the sect {GENITIVE:Shaiva},,hin <शैव धर्म> [ɕɛːʋə dʱɑːɾm],'cewatam
 Shaktism; the sect {GENITIVE:Shakta},,hin <शाक्तः धर्म> [ɕaːktəɦ dʱɑːɾm],'caktahtam
@@ -327,7 +328,7 @@ feng shui; the pseudoscience,,cmn <风水> [fəŋ˥ʂwej˧˩˥],'fancwey
 homeopathy; the pseudoscience,,deu <homöopathie> [hoːmœoːpatiː],'homeopati
 bitcoin; the currency,,,
 dollar; the currency,,eng <dollar> [ˈdɑlɚ],'tala
-euro; the currency,,,yuho
+euro; the currency,,,'yuho
 franc; the currency,,,
 krona; the currency,,,
 lira; the currency,,,
@@ -358,10 +359,10 @@ feijoada; the dish,,por <feijoada> [fejʒuˈadɐ],'feycuata
 makbūs; the dish,,ara <مچبوس> [mɑt͡ʃˈbuːs],'macpus
 pizza; the dish,,ita <pizza> [ˈpit͡sːa],'pitsa
 salteña; the dish,,spa <salteña> [salˈteɲa],'saltenya
-schnitzel; the dish,,deu <schnitzel> [ˈʃnɪtsl̩],'ecnitsel
+schnitzel; the dish,,deu <schnitzel> [ˈʃnɪtsl̩],'cinitsel
 spaghetti; the dish,,ita <spaghetti> [spaˈɡetti],'espaketi
 beer; the drink,,eng <beer> [bɪɹ],'pia
-wine; the drink,,,
+wine; the drink,,kat <ღვინო> [ɣvinɔ],'wino
 vodka; the drink,,,
 tequila; the drink,,spa <tequila> [teˈkila],'tekila
 jasmine tea; the drink,,,
