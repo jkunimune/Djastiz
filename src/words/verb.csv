@@ -178,12 +178,12 @@ be low; be under; be deep; OBJ {bottom; depths; ground; earth; hell; underlayer}
 be high; be over; OBJ {top; heights; heaven; sky; cosmos} has a higher altitude than IND,,ANTONYM OF be low,kuhi
 lower; descend; depress; SBJ {one who lowers} decreases OBJ's altitude relative to IND,,INCOHATIVE OF be low,nicuki
 lift; heighten; ascend; elevate; SBJ {one who heightens} increases OBJ's altitude relative to IND,,CESSATIVE OF be low,kuhiki
-be south; OBJ has a lower latitude than IND {standard parallel; usually the North Pole} {AMOUNT:latitude},,epo <suda> [ˈsuda],suta
-be north; OBJ has a higher latitude than IND,,ANTONYM OF be south,fila
+be south; OBJ {the South} has a lower latitude than IND,,epo <suda> [ˈsuda],suta
+be north; OBJ {the North} has a higher latitude than IND {standard parallel; usually the equator} {AMOUNT:latitude},,ANTONYM OF be south,fila
 go south; SBJ decreases the latitude of OBJ relative to IND,,INCOHATIVE OF be south,sutaki
 go north; SBJ increases the latitude of OBJ relative to IND,,CESSATIVE OF be south,filaki
-be east; OBJ has a higher longitude than IND {standard meridian; prime meridian} {AMOUNT:longitude},,spa <este> [ˈeste],este
-be west; OBJ has a lower longitude than IND,,ANTONYM OF be east,oflo
+be east; OBJ {the East} has a higher longitude than IND {standard meridian; prime meridian} {AMOUNT:longitude},,spa <este> [ˈeste],este
+be west; OBJ {the West} has a lower longitude than IND,,ANTONYM OF be east,oflo
 go east; SBJ increases the longitude of OBJ relative to IND,,INCOHATIVE OF be east,esteki
 go west; SBJ decreases the longitude of OBJ relative to IND,,CESSATIVE OF be east,ofloki
 be dense; beI cramped; be frequent; be common; be tightly packed; be fine; be urban; OBJ occurs frequently and close together in IND {METHOD:distribution},,cmn <稠密> [ʈ͡ʂʰoʊ̯˧˥mi˥˩],comi

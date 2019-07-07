@@ -274,14 +274,22 @@ tentacle,,string leg,tallek
 wing,,fly arm,fopih
 shell,,protect gland,silakipowinucyen
 skin; hide,,be-outside gland,kocyen
+south pole,,be-south point,
+north pole,,be-north point,
+equator,,be-middle standard-parallel,
+parallel,,latitude path,
+meridian,,longitude path,
 Antarctica; the landmass; the continent,,be-south landmass,sutatayl
 the Antarctic Ocean; the ocean,,be-south ocean,sutalawt
 the Arctic Ocean; the ocean,,be-north ocean,filalawt
-Afro-Eurasia; the Old World; the landmass {GENITIVE:Afro-Eurasian},,Africa Eurasia,'aflika'yewlasia
-Sub-Saharan Africa; the region {GENITIVE:Sub-Saharan},,be-south Africa,suta'aflika
-North America; the continent {GENITIVE:North American; from North America},,be-north America,fila'amelika
-South America; the continent {GENITIVE:South American; from South America},,be-south America,suta'amelika
-North Africa; the Magreb; the region {GENITIVE:North African; Maghrebi},,be-north Africa,fila'aflika
+Afro-Eurasia; the Old World; the landmass,,Africa Eurasia,'aflika'yewlasia
+North America; the continent,,be-north America,fila'amelika
+South America; the continent,,be-south America,suta'amelika
+North Africa; the Magreb; the region,,be-north Africa,fila'aflika
+Southern Africa; the region {COUNTRY:South Africa; the Republic of South Africa {PEOPLE:South African; the South African people}},,be-south Africa,suta'aflika
+West Africa; the region,,be-west Africa,oflo'aflika
+East Africa; the region,,be-east Africa,este'aflika
+Central Africa; the region {COUNTRY:Central African Republic {PEOPLE:Central African; the Central African people}},,be-inside Africa,ene'aflika
 South Asia; India; the region {GENITIVE:South Asian; Indian},,be-south Eurasia,suta'yewlasia
 Southeast Asia; the region {GENITIVE:Southeastern Asian},,be-south be-east Eurasia,sutaeste'yewlasia
 Eastern Asia; Far East; the Orient; the region {GENITIVE:Asian; Eastern Asian; Oriental},,be-east Eurasia,este'yewlasia
@@ -304,39 +312,30 @@ The Coral Sea; the sea,,coral ocean,fulokipowinyoicilwellawt
 The Gulf of Mexico; the sea,,Mexican ocean,'mehikolawt
 The Mediterranean Sea; the sea,,land be-inside ocean,fonunelawt
 The South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
-Algiers,,Algerian settlement,'alsayilcih
-Australia (landmass),,Australian landmass,'ostwaylyatayl
-Banda Islands,,Banda landmass,'pantatayl
-Banda Sea,,Banda ocean,'pantalawt
 British Isles,,Briton landmass,'pwitontayl
 Great Brittan,,be-big British-Isles,mota'pwitontayl
 Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
-Northern Cypriot; the Northern Cypriot people {GENITIVE:North Cypriot; from Northern Cyprus|COUNTRY:Northern Cyprus},,be-north Cypriot,fila'kiplos
+Democratic Republic of the Congo {GENITIVE:Congolese; from Democratic Republic of the Congo|PEOPLE:Congolese; the people of the Democratic Republic of the Congo},,Kinshasa the-Kingdom-of-the-Kongo,
+Republic of the Congo {GENITIVE:Congolese; from Republic of the Congo|PEOPLE:Congolese; the people of the Republic of the Congo},,Brazzaville the-Kingdom-of-the-Kongo,
+Northern Cyprus; Turkish Republic of Northern Cyprus {GENITIVE:North Cypriot; from Northern Cyprus|PEOPLE:Northern Cypriot; the Northern Cypriot people},,be-north the-Republic-of-Cyprus,fila'kiplos
 Djibouti (city),,Djiboutian settlement,'caputicih
 Scots Gaelic; the Scots Gaelic language,,Scot Goidelic,'oskot'kealtilip
 Gambia River,,Gambian river,'kampiacwepas
-Indus River,,Indian river,'hintucwepas
-Ireland (island),,Irish landmass,'elyatiliptayl
+Equatorial Guinea; the Republic of Equatorial Guinea {GENITIVE:Equatorial Guinean; from Equatorial Guinea|PEOPLE:Equatorial Guinean; Equatoguinean; the Equatorial Guinean people},,equator Guinea,
+Guinea-Bissau; the Republic of Guinea-Bissau {GENITIVE:Bissau-Guinean; from Guinea-Bissau|PEOPLE:Bissau-Guinean; the Bissau-Guinean people},,Bissau Guinea
+Guinea; Guinea-Conakry; the Republic of Guinea {PEOPLE:Guinean; the Guinean people},,Conakry Guinea
+Hindustani; the Hindustani language {PEOPLE:Hindustani speakers},,Hindi Urdu,
 Northern Irish; the Northern Irish people {GENITIVE:Northern Irish; from Northern Ireland|COUNTRY:Northern Ireland},,be-north Ireland,fila'elyatec
-Java (island),,Javanese landmass,'cawatayl
-the Jordan River,,Jordanian river,'ultuncwepas
-Mount Kenya,,Kenyan mountain,'kenyapil
 North Korean; the North Korean people {GENITIVE:North Korean; from North Korea|COUNTRY:North Korea},,be-north Korean,fila'cosawn
 South Korean; the South Korean people {GENITIVE:South Korean; from South Korea|COUNTRY:South Korea},,be-south Korean,suta'cosawn
 North Macedonia; the Former Yugoslav Republic of Macedonia {GENITIVE:North Macedonian; from North Macedonia},,be-north Macedon,fila'maketontec
-Southern Min; the Southern Min people {GENITIVE:Southern Min; from Southern Fujian|LANGUAGE:Southern Min; Minnan; Hokkien-Taiwanese; the Southern Min languages},,be-south Fujianese,suta'hokyen
-Moldova River,,Moldovan river,'moltofacwepas
-Mozambique (island),,Mozambican landmass,'musampikitayl
+Southern Min; Minnan; Hokkien-Taiwanese; the Southern Min languages,,be-south Min-Chinese
 Namib desert,,Namibian desert,'namipiapatoufatayl
 Niger river,,Nigerien river,'nicehcwepas
 South Ossetian; Alanian; the South Ossetian people {GENITIVE:South Ossetian; of South Ossetia|COUNTRY:South Ossetia; Alania},,be-south Ossetian,suta'alon
-South Sudanese; the South Sudanese people {GENITIVE:South Sudanese; from South Sudan|COUNTRY:South Sudan},,be-south Sudanese,suta'asutan
-Taiwan (island),,Taiwanese landmass,'taywantayl
-Timor,,Timorese landmass,'timoltayl
-Tunis,,Tunisian settlement,'tuniscih
+South Sudan {GENITIVE:South Sudanese; from South Sudan|PEOPLE:South Sudanese; the South Sudanese people},,be-south Sudanese,suta'asutan
+East Timor; Timor-Leste; Democratic Republic of Timor-Leste {PEOPLE:Timorese; East Timorese; Maubere; the East Timorese people},,be-east Timor,
 Ugandan; the Ugandan people {GENITIVE:Ugandan; from Uganda|COUNTRY:Uganda},,be-big Buganda,mota'kantatec
-Vatican Hill,,Vatican hill,'watikanapelapil
-Zambezi River,,Zambian river,'sampicwepas
 Sol; The Sun,,person sun,wonsun
 Luna; The Moon,,person moon,wonfik
 Earth {GENITIVE:global; earthling; terran},,person ground,wonpum
