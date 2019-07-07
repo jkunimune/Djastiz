@@ -125,7 +125,7 @@ Jew; the Jewish people {GENITIVE:Jewish; of the Jews|COUNTRY:Judah; the Kingdom 
 Jordan River {GENITIVE:Jordanian; from Jordan|PEOPLE:Jordanian; the Jordanian people|COUNTRY:Jordan; the Hashemite Kingdom of Jordan},,ara <ْأُردن> [ʔurdunn],'ultun
 Kazakh; Kazakhstani; the Kazakhstani people {GENITIVE:Kazakhstani; from Kazakhstan|COUNTRY:Kazakhstan|LANGUAGE:Kazakh; Kazak; the Kazakh language},,kaz <Kazak> [qɑzɑq],'kasak
 Mount Kenya {GENITIVE:Kenyan; from Kenya|PEOPLE:Kenyan; the Kenyan people|COUNTRY:Kenya; the Republic of Kenya},,swa <Kenya> [kɛɲɑ],'kenya
-Kiribati; the Gilbert Islands {GENITIVE:I-Kiribati; from Kiribati|PEOPLE:I-Kiribati; Gilbertese; the I-Kiribati people|COUNTRY:Kiribati; the Republic of Kiribati|LANGUAGE:Gilbertese; Kiribati; Kiribatese; the Kiribati language},,gil <TODO> [kiɾipas],'kilipas
+Kiribati; the Gilbert Islands {GENITIVE:I-Kiribati; from Kiribati|PEOPLE:I-Kiribati; Gilbertese; the I-Kiribati people|COUNTRY:Kiribati; the Republic of Kiribati|LANGUAGE:Gilbertese; Kiribati; Kiribatese; the Kiribati language},,gil <Kiribati> [kiɾipas],'kilipas
 Kurd; the Kurdish people {GENITIVE:Kurdish; of the Kurds|LANGUAGE:Kurdish; the Kurdish language|COUNTRY:Kurdistan},,kur <کورد‎> [kuɾd],'kulti
 Korea; the Korean peninsula {GENITIVE:Korean; from Korea|PEOPLE:Korean; the Korean people|LANGUAGE:Korean; the Korean language},,kor <조선> [t͡ɕosʰʌn],'cosawn
 Kosovo; the Republic of Kosovo {GENITIVE:Kosovan; Kosovar; from Kosovo|PEOPLE:Kosovan; Kosovar; the Kosovan people},,sqi <Kosovë> [kɔˈsɔvə],'kosowa
@@ -257,36 +257,36 @@ Yemen {GENITIVE:Yemeni; from Yemen|PEOPLE:Yemeni; Yemenite; the Yemeni people},,
 Zambezi River {GENITIVE:Zambian|PEOPLE:Zambian; the Zambian people|COUNTRY:Zambia; the Republic of Zambia},,eng <Zambezi> [zæmˈbɛzi],'sampesi
 Zimbabwe {GENITIVE:Zimbabwean; from Zimbabwe|PEOPLE:Zimbabwean; Zimbo; the Zimbabwean people},,sna <Zimbabwe> [zimbabwe],'simpapwe
 Zulu; the Zulu people {GENITIVE:Zulu; of the Zulu|LANGUAGE:Zulu; the Zulu language},,zul <Zulu> [zuːlu],'sulu
-Babylon; the city,,akk <TODO> [baːbili],'papilim
-Beijing; the city,,cmn <TODO> [pej˨˩˦t͡ɕiŋ˥],'peycin
+Babylon; the city,,akk <𒆍𒀭𒊏𒆠> [baːbili],'papilim
+Beijing; the city,,cmn <北京> [pej˨˩˦t͡ɕiŋ˥],'peycin
 Białystok; the city,,pol <Białystok> [bʲaˈwɨstɔk],'pyawistok
 Bissau; the city,,por <Bissau> [biˈsaw],'pisaw
 Brazzaville; the city,,fra <Brazzaville> [bʁazavil],'pahasafil
-Brussels; the city,,fra <TODO> [ˈbʁysɛl vil],'puhuselfil
+Brussels; the city,,nld <Brussel> [ˈbrʏsəl],'pulusel
 Buenos Aires; the city,,spa <Buenos Aires> [ˈbwenos ˈajɾes],'pwenosayles
-Cairo; the city,,ara <TODO> [ˈqaːhiɾah],'kahilah
+Cairo; the city,,ara <قاهرة> [ˈqaːhiɾah],'kahilah
 Conakry; the city,,fra <Conakry> [konakʁi],'konakhi
-Chengdu; the city,,cmn <TODO> [ʈ͡ʂʰə˧˥ŋtu˥],'cantu
-Chongquing; the city,,cmn <TODO> [ʈ͡ʂʰʊŋ˧˥t͡ɕʰi˥˩ŋ],'cuncin
-Delhi; the city,,hin <TODO> [dɪlliː],'tili
-Dhaka; the city,,ben <TODO> [ɖʱaka],'taka
-Guangzhou; the city,,yue <TODO> [kʷɔ˧˥ːŋt͡sɐw˥],'kwonsaw
+Chengdu; the city,,cmn <成都> [ʈ͡ʂʰə˧˥ŋtu˥],'cantu
+Chongqing; the city,,cmn <重庆> [ʈ͡ʂʰʊŋ˧˥t͡ɕʰi˥˩ŋ],'cuncin
+Delhi; the city,,hin <दिल्ली > [dɪlliː],'tili
+Dhaka; the city,,ben <ঢাকা> [ɖʱaka],'taka
+Guangzhou; the city,,yue <广州> [kʷɔ˧˥ːŋt͡sɐw˥],'kwonsaw
 Honolulu; the city,,haw <Honolulu> [honoˈlulu],'honolulu
-Istanbul; the city,,tur <TODO> [isˈtanbuɫ],'istanpul
-Jerusalem; the city,,heb <TODO> [jeʁuʃaˈlajim],'yelucalayim
-Karachi; the city,,urd <TODO> [kəˈɾaːt͡ʃi],'kalaci
+Istanbul; the city,,tur <İstanbul> [isˈtanbuɫ],'istanpul
+Jerusalem; the city,,heb <יְרוּשָׁלַיִם> [jeʁuʃaˈlajim],'yelucalayim
+Karachi; the city,,urd <کراچی‎> [kəˈɾaːt͡ʃi],'kalaci
 Kinshasa; the city,,fra <Kinshasa> [kinʃasa],'kincasa
 Lagos; the city,,eng <Lagos> [ˈleɪ̯ɡɒs],'leykos
-Lahore; the city,,pan <TODO> [ləˈhɔːɾ],'lahol
+Lahore; the city,,pan <لہور> [ləˈhɔːɾ],'lahol
 London; the city,,eng <London> [ˈlʌndən],'lontan
-Moscow; the city,,rus <TODO> [mɐˈskva],'maskwa
-Mumbai; the city,,mar <TODO> [mumbaiː],'mumpai
+Moscow; the city,,rus <Москва́> [mɐˈskva],'maskwa
+Mumbai; the city,,mar <मुंबई> [mumbaiː],'mumpai
 New York City; the city,,eng <New York City> [nuː jɔɹk ˈsɪɾiː],'nuyoksiti
-Paris; the city,,fra <TODO> [paˈʁi],'pahi
+Paris; the city,,fra <Paris> [paˈʁi],'pahi
 Rome; the city {COUNTRY:Rome; the Roman Empire},,ita <Roma> [ˈroːma],'loma
-São Paulo; the city,,por <TODO> [sɐ̃w̃ ˈpawlu],'sawnpawlu
+São Paulo; the city,,por <São Paulo> [sɐ̃w̃ ˈpawlu],'sawmpawlu
 Shanghai; the city {LANGUAGE:Shanghainese; the Shanghainese language; the Shanghainese dialect; the Hu dialect},,wuu <上海> [zɑ̃hɛ],'sanhe
-Tianjin; the city,,cmn <TODO> [tʰjɛn˥t͡ɕin˥],'tyencin
+Tianjin; the city,,cmn <天津> [tʰjɛn˥t͡ɕin˥],'tyencin
 Tokyo; the city,,jpn <東京> [toːkʲoː],'tokyo
 Washington D.C.; the city,,eng <Washington D.C.> [ˈwɑʃiŋtɪn diː siː],'wacintontisi
 Atlas mountains,,ara <الأطـلـس‎> [ʔatˤlas],'atlas
@@ -297,7 +297,7 @@ Arcturus; the star,,grc <Ἀρκτοῦρος> [ark˦to˦˨ːros],'aktolos
 Polaris; North Star; the star,,lat <Polaris> [polaris],'polalis
 Sigma Octantis; Polaris Australis; South Star; the star,,lat <Polaris Australis> [pɔlarɪs awstralɪs],'polalisawstalis
 Sirius; the star,,lat <Sīrius> [siːrɪʊs],'silius
-Vega; the star,,ara <TODO> [waːqiʔ],'waki
+Vega; the star,,ara <واقع‎> [wɑːqeʔ],'wake
 Andromeda; the galaxy {GENITIVE:Andromedan},,grc <Ἀνδρομέδα> [an˦dro˧me˦da˧],'antometa
 Bahá'í; the religion {GENITIVE:Bahá'í},,far <بهائی‎> [ba˨ˈha˦ʔi˦],'pahai
 Buddhism; the religion {GENITIVE:Buddhist},,san <बुद्ध> [bud̚˨dʱɐ˦],'putha
@@ -320,7 +320,7 @@ Taoism; Daoism; the religion {GENITIVE:Taoist; Daoist},,cmn <道教> [taw˥˩ t�
 Vaishnavism; the sect {GENITIVE:Vaishnava},,hin <वैष्णव धर्म> [ʋɛːɕnaːʋə dʱɑːɾm],'wecnawatam
 Zoroastrianism; the religion {GENITIVE:Zoroastrian},,ave <𐬨𐬀𐬰𐬛𐬀𐬫𐬀𐬯𐬥𐬀> [mazdajasna],'mastayasna
 Bering; the Danish cartographer and explorer,,dan <Bering> [?],'bering
-feng shui; the pseudoscience,,cmn <风水> [fəŋ˥ʂwej˧˩˥],'fancwey
+feng shui; the pseudoscience,,cmn <风水> [fəŋ˥ʂweɪ̯˧˩˥],'fancwey
 homeopathy; the pseudoscience,,deu <homöopathie> [hoːmœoːpatiː],'homeopati
 bitcoin; the currency,,,
 dollar; the currency,,eng <dollar> [ˈdɑlɚ],'tala
@@ -341,14 +341,14 @@ Christmas; the event,,lat <nātīvitās> [naːˈtiːwɪtaːs],'natiwitas
 makahiki; the event,,haw <makahiki> [makɐˈhiki],'makahiki
 fox; the canine,,lat <vulpes> [ˈwʊɫpɛs],'wulpes
 reef triggerfish; the fish,,haw <humuhumunukunukuapuaʻa> [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə],'humuhumunukunukuapuaa
-cucumber; the plant,,far <TODO> [χiːjɒːɾ],'hiyal
-cinnamon; the plant; the spice,,tam <TODO> [ilʌʋʌŋˈɡʌpːʌʈːʌj],'ilawankapatay
+cinnamon; the plant; the spice,,tam <இலவங்கப்பட்டை> [ilʌʋʌŋˈɡʌpːʌʈːʌj],'ilawankapatay
 date; date palm,,ara <بلح> [balɑħ],'palah
 ginger; the plant; the spice,,pan <ਸੁੰਢ> [suɖə],'suta
 kiwifruit; the plant,,cmn <猕猴桃> [mi˧˥xoʊ̯˧˥tʰaʊ̯˧˥],'mihowtaw
+mango; the plant,,tam <மாம்பழம்> [maːmpɐɻɐm],'mampalam
 nutmeg; the plant; the spice,,ind <pala> [pala],'pala
 olive; the plant,,lat <oliva> [ɔˈliwa],'oliwa
-pomegranate; the plant,,far <TODO> [æˈnɒːɾ],'anol
+pomegranate; the plant,,far <انار> [æˈnɒːɾ],'anol
 cake; the dish,,non <kaka> [kaka],'kaka
 calzone; the dish,,ita <calzone> [kalˈt͡soːne],'kalsone
 chowder; the dish,,eng <chowder> [ˈt͡ʃaʊ̯dɚ],'cawta
@@ -425,11 +425,6 @@ litre; the unit of volume,,fra <litre> [ˈlitʁ],'lithe
 kilogram; the unit of mass,,fra <kilogramme> [ˈkilɔɡʁam],'kilokham
 °C; the unit of temperature,,swe <celcius> [ˈsɛːlsjʊs],'selsyus
 ke; the unit of time,,cmn <刻> [kʰɤ˨˩],'kao
-span; the unit of time,,eng <span> [spæn],'espan
-snap; the unit of time,,eng <snap> [snæp],'esnap
-hour; the unit of time,,,
-minute; the unit of time,,,
-second; the unit of time,,nld <seconde> [ʃɛˈkɔndɛ],'cekonte
 football; soccer; the sport,,eng <football> [ˈfʊʔbɔːl],'futpol
 American football; the sport,,eng <football> [fʊtbɑl],'futbal
 golf; the sport,,eng <golf> [ɡɒf],'kof
@@ -449,8 +444,8 @@ Congress; the legislative body,,eng <congress> [ˈkʰɑŋɡɹʷɨs],'kankwes
 Republican Party; the political party {GENITIVE:republican},,eng <republican> [ɹʷɪˈpʰɜblɪkɪn],'lwipaplikan
 Democratic Party; the political party {GENITIVE:democratic},,eng <democrat> [ˈdɛməkɹʷæt],'temoklat
 YHWH; Yahweh; Jehovah; God; Allah; Abrahamic God,,heb <יהוה‬> [jahwe],'yahwe
-Christian heaven,,heb <TODO> [ʃɔmäˈjim],'comayim
-amen,,heb <TODO> [ɔˈmeɪ̯n],'omeyn
+Christian heaven,,heb <שָׁמַיִם> [ʃɔmäˈjim],'comayim
+amen,,heb <אָמֵן> [ɔˈmeɪ̯n],'omeyn
 email,,eng <email> [ˈiːmeɪ̯l],'imeyl
 Unicode; the standard,,eng <Unicode> [ˈjunɪkoʊ̯d],'yunikot
 emoji; the character set,,jap <絵文字> [emod͡ʑi],'emoci

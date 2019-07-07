@@ -1,5 +1,5 @@
 eng,spa,source,otp
-notion; idea; information; data; number; intangible information that is not necessarily true {GENITIVE:conceptual; ideal; theoretical; informational},,yor <ìrọ> [ìrɔ̄],il
+notion; idea; information; data; number; intangible facts or falsehoods {GENITIVE:conceptual; ideal; theoretical; informational},,yor <ìrọ> [ìrɔ̄],il
 point; particular time or place {GENITIVE:particular; local},,eng <point> [pʰɔɪ̯nt],poyn
 path; line; curve; one-dimensional locus {GENITIVE:linear; curvilinear},,eng <path> [pʰæθ],pas
 surface; plane; layer; two-dimensional locus {GENITIVE:planar; superficial; facial},,swa <uso> [uso],us
@@ -47,21 +47,21 @@ gland; organ; node; functional organic module {GENITIVE:glandular; nodal; bodily
 "female; woman; animal biologically characterised by ovaries, vaginas and estrogen {GENITIVE:female}",,eng <female> [ˈfiːmeɪ̯ɫ],fimel
 "male; man; animal biologically characterised by testicles, penises, and testosterone {GENITIVE:male}",,OPPOSITE OF female,supot
 hair; fur; organically extruded strings {GENITIVE:pilar; hairy},,cmn <头发> [tʰoʊ̯˧˥fa],tof
-face; the front part of a head {GENITIVE:facial},,ben <মুখ> [mukʰ],muk
-head; the bulge on top of an animal containing many of its sensual and cognitive capabilities {GENITIVE:cranial; cephalic},,hin <सिर> [sir],sil
+face; front part of a head {GENITIVE:facial},,ben <মুখ> [mukʰ],muk
+head; bulge on top of an animal containing many of its sensual and cognitive capabilities {GENITIVE:cranial; cephalic},,hin <सिर> [sir],sil
 torso; trunk; stem; core; central base of a body {GENITIVE:torsal; basal},,ben <ধড়> [d̪̤ɔɽɔ],tol
 arm; long appendage used for manipulation {GENITIVE:brachial; appendicular},,cmn <臂> [pi˥˩],pih
 hand; multi-appendaged manipulator {GENITIVE:manual},,cmn <手> [ʂoʊ̯˧˩˧],coh
 finger; toe; small manipulator attached to a hand or foot {GENITIVE:digital},,cmn <手指> [ʂoʊ̯˧˩˧ʈ͡ʂɨ˧˩˧],coc
-buttocks; butt; bum; the soft region between the back of an animal's legs and torso {GENITIVE:gluteal; posterial},,fil <pigi> [piɡi],pik
+buttocks; butt; bum; soft region between the back of an animal's legs and torso {GENITIVE:gluteal; posterial},,fil <pigi> [piɡi],pik
 leg; appendage; long appendage used for transportation {GENITIVE:crural; appendicular},,eng <leg> [lɛɡ],lek
-chest; breast; bosom; the upper front surface of a torso {GENITIVE:chestal; mamillary},,spa <pecho> [ˈpet͡ʃo],pec
+chest; breast; bosom; upper front surface of a torso {GENITIVE:chestal; mamillary},,spa <pecho> [ˈpet͡ʃo],pec
 "claw; quill; fingernail; rigid, sharp, organic protrusion {GENITIVE:ungual; sharp}",,spa <garra> [ˈɡara],kal
 "scale; squame; flake; rigid, external, organic plate used in array with others {GENITIVE:squamous; scaly}",*escama,cmn <鳞> [lin˧˥],lin
 feather; rigid organic extension of a bird or dinosaur lined with hairs {GENITIVE:plumal; feathery; feathered},,jav <wulu> [wuɭu],ul
-egg; the first cell of a new organism {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],tan
+egg; first cell of a new organism {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],tan
 seed; small courier of genetic information {GENITIVE:seminal},,hin <बीज> [biːd͡ʒ],pic
-leaf; blade of grass; photosynthetic flap of a plant {GENITIVE:foliar; leafy},,mar <पान> [paːn],pan
+leaf; blade of grass; photosynthetic structure of a plant {GENITIVE:foliar; leafy},,mar <पान> [paːn],pan
 fruit; seed-bearing structure of a flowering plant {GENITIVE:pomonal; fruity},,eng <fruit> [fɹʷuːt],fut
 berry,
 vine,
