@@ -376,6 +376,7 @@ be vibrant; be colourful; OBJ has many hues and colours,,much be-coloured,kehlon
 be monochromatic; OBJ has few colours,,little be-coloured,noclono
 flag; banner,,cloth translation,tallatpatililum
 undergo revolution; OBJ goes through a revolution {TIME:revolution},,be-fast change,yalacalunyo
+berry,,be-small fruit,
 bat; flying fox,,fly mammal,fomamul
 pangolin,,scale mammal,linmamul
 cat,,person feline,wonmyawf
@@ -463,15 +464,17 @@ algae; alga,,ocean algae,lawtsawl
 apricot,,be-orange prunus,
 asparagus; sparrow grass,,be-after can-smell plant,
 avocado,,crocodilian fruit,
+bamboo,,tree grass,
 banana; plantain,,be-long fruit,sotfut
 buckwheat,,cereal flower,
 bird of paradise,,bird flower,
-broccoli,,tree cauliflower,
-cabbage; brassica,,head leaf,
+broccoli,,tree cabbage,
+Brussels sprouts,,be-small cabbage
+cabbage; brassica,,head cabbage,
 cacao; cocoa; chocolate,,be-sweet seed,
 cantelope,,be-orange melon,
 cashew,,be-outside seed,
-cauliflower,,be-white cauliflower,
+cauliflower,,be-white cabbage,
 carrot,,be-orange root,
 castor bean; castor oil plant; palm of Christ,,tick seed,
 chard; spinach beet,,leaf beet
@@ -484,9 +487,11 @@ eggplant; aubergine; brinjal,,be-foamy fruit,
 fava bean; broad bean; horse bean; the plant,,be-big legume,
 garden beet; beetroot,,root beet,
 gourd; cucurbit,,be-rigid fruit,
-grape,,vine berry,
+grape,,fruit vine,
 green bean; french bean; string bean; snap,,string legume,
 honeydew,,be-green melon,
+jute; mallow-leaves,,string plant,
+kale; leaf cabbage,,leaf cabbage,
 lemon,,be-yellow citrus,
 lentil,,be-flat legume,
 lime,,be-green citrus,
@@ -501,7 +506,6 @@ peanut; groundnut; goober,,monkey legume,
 pepper,,be-spicy fruit,
 plum,,be-purple prunus,
 potato; tuber; the plant,,ground tuber,
-pumpkin,,be-orange squash,
 rubber tree; latex,,be-elastic tree,polaipowicat
 sea beet; wild spinach,,be-natural beet,
 sesame,,oil seed,
@@ -512,6 +516,7 @@ taro; elephant ears,,be-big leaf,
 tea; the plant; the beverage,,be-liquid leaf,
 tobacco; the plant; the product,,be-gas leaf,
 triticale,,wheat rye,
+turnip,,be-white root,
 venus fly-trap,,eat plant,nyamacan
 watermelon,,,be-red melon,
 yam; sweet potato,,be-sweet tuber,

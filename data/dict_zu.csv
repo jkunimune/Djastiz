@@ -7,7 +7,6 @@ amazing,amazing,amaziŋ,amaziŋ
 anemone,*,*,*
 animal,isilwane,isilwane,isilwane
 ant,*,*,*
-apple,*,*,*
 arm,ingalo,iŋalo,iŋalo
 art,ubuciko,uɓuǀiko,uɓuǀiko
 bacterium,ibhaktheriya,ibaktʰerija,ibaktʰerija
@@ -49,7 +48,6 @@ colour,umbala,umbala,umbala
 computer,ikhompyutha,ikʰompjutʰa,ikʰompjutʰa
 continent,izwekazi,izwekazi,izwekazi
 control,ukulawula,ukulawula,ukulawula
-corn,ukolweni,ukolweni,ukolweni
 counterclockwise,*,*,*
 country,izwe,izwe,izwe
 crab,udoti,udoti,udoti
@@ -186,7 +184,7 @@ red,obomvu,oɓomvu,oɓomvu
 region,isifunda,isifunda,isifunda
 reptile,*,*,*
 rhinoceros,*,*,*
-rice,ilayisi,ilajisi,ilajisi
+rice,-layisi,lajisi,lajisi
 rodent,*,*,*
 root,impande,impande,impande
 rotten,ebolile,eɓolile,eɓolile
@@ -321,7 +319,7 @@ to win,wina,wina,wina
 to work,sebenza,seɓenza,seɓenza
 to worry,khathazeka,kʰatʰazeka,kʰatʰazeka
 to write,bhala,bala,bala
-tomato,utamatisi,utamatisi,utamatisi
+tomato,-tamatisi,
 torso,*,*,*
 touch,thinta,tʰinta,tʰinta
 tree,isihlahla,isiɬaɬa,isiɬaɬa
@@ -342,3 +340,37 @@ wood,izinkuni,iziŋkuni,iziŋkuni
 word,igama,iɡama,iɡama
 worm,imbungu,imbuŋu,imbuŋu
 yellow,ophuzi,opʰuzi,opʰuzi
+grain,-hlamvu
+bean,-bhontshisi
+corn,ummbila
+barley,
+sorghum,-bele
+rapeseed,
+millet,
+cassava,-dumbula
+chickpea,
+oat,
+pigeon pea,
+guava,-gwava
+apple,-aphula
+beet,
+rye,
+citrus,
+flax,-linen
+pea,
+peach,-pentshisi
+okra,
+cucumber,unsolozi
+squash,-thanga
+almond,
+garlic,
+cabbage,iklabishi
+pear,-pheya
+coriander,
+lettuce,-letisi
+walnut,
+persimmon,
+berry,-hlamvu
+vine,
+melon,
+tuber,-goni

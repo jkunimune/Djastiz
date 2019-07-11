@@ -63,10 +63,8 @@ egg; first cell of a new organism {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],ta
 seed; small courier of genetic information {GENITIVE:seminal},,hin <बीज> [biːd͡ʒ],pic
 leaf; blade of grass; photosynthetic structure of a plant {GENITIVE:foliar; leafy},,mar <पान> [paːn],pan
 fruit; seed-bearing structure of a flowering plant {GENITIVE:pomonal; fruity},,eng <fruit> [fɹʷuːt],fut
-berry,
-vine,
-melon,
-tuber,
+"climber; *vine; creeper; ivy; long, climbing plant",
+"tuber; enlarged nutrient-storing structure of a plant",
 flower; pollen-bearing structure of a flowering plant {GENITIVE:floral},,hin <फूल> [pʰuːl],pul
 "root; underground component of a plant that gathers nutrients {GENITIVE:radical; rooted}",,pan <ਰੂਟ> [ɾuʈ],lut
 animal; meat {GENITIVE:animal; meaty},,cmn <动物> [tʊŋ˥˩u˥˩],tun
@@ -147,18 +145,18 @@ legume; *bean; pea,,,
 corn; maize,,,
 rice,,cmn <饭> [fan˥˩],fan
 soy; soybean,,,
-bamboo,,tree grass
 barley,,,
 sorghum; great millet; milo,,,
 rapeseed; rape; canola,,,
 millet,,,
-cassava,,,
-chick pea; gram; garbanzo,,,
+cassava; manioc; yuca; macaxeira; mandioca; aipim,,,
+chickpea; gram; garbanzo,,,
 oat,,,
-pigeon pea; the plant,,,
-mango; mangosteen; guava,,,
+pigeon pea; red gram; tropical green pea; gandule,,,
+guava,,,
 apple,,,
 beet,,,
+melon,
 tomato,,,
 rye,,,
 citrus,,,
@@ -170,8 +168,7 @@ cucumber; gherkin,,,
 squash; pumpkin; gourd,,,
 almond,,,
 garlic,,,
-jute; mallow-leaves,,string plant,
-cauliflower; broccoli,,,
+cabbage; cauliflower; broccoli; kale; Brussels sprouts; collard greens; savoy; kohlrabi; gai lan,,,
 pear,,,
 coriander; cilantro; anise; star anise; badiane; fennel,,,
 lettuce; chicory,,,
@@ -179,6 +176,5 @@ walnut,,,
 persimmon,,,
 cactus,,spa <cactus> [ˈkaktus],kaktus
 bulrush; reed; cattail; water sausage; typha,,epo <tifao> [tiˈfao],tifaoh
-bamboo,,cmn <竹> [ʈ͡ʂu˧˥],cuh
 machine; robot; automaton,,epo <maŝino> [maˈʃino],macin
 computer {GENITIVE:digital; electronic; computerised},,xho <khomputha> [kʰɔmputʰa],komput

@@ -13,7 +13,7 @@ art,ubugcisa,uɓuɡ̤ǀ̤isa,uɓuɡ̤ǀ̤isa
 bacterium,bhakteri,b̤aktɛri,b̤aktɛri
 bamboo,bamboo,ɓamɓɔɔ,ɓamɓɔɔ
 barnacle,ingcwaba,iŋ̤ǀ̤waɓa,iŋ̤ǀ̤waɓa
-bear,ibhere,ib̤ɛrɛ,ib̤ɛrɛ
+bear,-bhere,
 beetle,beetle,ɓɛɛtlɛ,ɓɛɛtlɛ
 below,ngezantsi,nɡ̤ɛz̤ant͡si,nɡ̤ɛz̤ant͡si
 between,phakathi,pʰakatʰi,pʰakatʰi
@@ -33,7 +33,7 @@ bustard,*,*,*
 butterfly,ibhabhathane,ib̤ab̤atʰanɛ,ib̤ab̤atʰanɛ
 buttocks,mathupha,matʰupʰa,matʰupʰa
 cactus,cactus,kǀakǀtus,kǀakǀtus
-camel,ikamela,ikamɛla,ikamɛla
+camel,-kamela
 carp,*,*,*
 certain,qinisekile,kǃinisɛkilɛ,kǃinisɛkilɛ
 chest,esifubeni,ɛsifuɓɛni,ɛsifuɓɛni
@@ -92,8 +92,8 @@ fruit,iziqhamo,iz̤ikǃʰamɔ,iz̤ikǃʰamɔ
 full,epheleleyo,ɛpʰɛlɛlɛjɔ,ɛpʰɛlɛlɛjɔ
 fun,nwabisa,nwaɓisa,nwaɓisa
 fungus,*,*,*
-furniture,ifenitshala,ifɛnit͡ʃala,ifɛnit͡ʃala
-giraffe,isirafu,isirafu,isirafu
+furniture,-fenitshala
+giraffe,-sirafu
 gland,*,*,*
 god,uthixo,utʰikǁɔ,utʰikǁɔ
 good,kulungile,kulunɡ̤ilɛ,kulunɡ̤ilɛ
@@ -149,7 +149,7 @@ moral,yokuziphatha,jɔkuz̤ipʰatʰa,jɔkuz̤ipʰatʰa
 more,kaninzi,kaninz̤i,kaninz̤i
 mosquito,umiyane,umijanɛ,umijanɛ
 mountain,entabeni,ɛntaɓɛni,ɛntaɓɛni
-mushroom,imashurumi,imaʃurumi,imaʃurumi
+mushroom,-mashurumi
 must,funeka,funɛka,funɛka
 natural,zendalo,z̤ɛnd̤alɔ,z̤ɛnd̤alɔ
 nautilus,*,*,*
@@ -185,12 +185,12 @@ recto,ngqo,ŋ̤ǃ̤ɔ,ŋ̤ǃ̤ɔ
 red,bomvu,ɓɔmv̤u,ɓɔmv̤u
 region,mmandla,mmanɮa,mmanɮa
 reptile,izidumbu,iz̤id̤umɓu,iz̤id̤umɓu
-rhinoceros,iihhinoceros,iiɦinɔkǀɛrɔs,iiɦinɔkǀɛrɔs
-rice,ilayisi,ilajisi,ilajisi
+rhinoceros,*,*,*
+rice,-layisi
 rodent,*,*,*
 root,ingcambu,iŋ̤ǀ̤amɓu,iŋ̤ǀ̤amɓu
 rotten,zibolile,z̤iɓɔlilɛ,z̤iɓɔlilɛ
-salmon,islamoni,islamɔni,islamɔni
+salmon,-slamoni
 salty,usawoti,usawɔti,usawɔti
 savoury,nwabisa,nwaɓisa,nwaɓisa
 scorpion,*,*,*
@@ -321,11 +321,11 @@ to win,phumelela,pʰumɛlɛla,pʰumɛlɛla
 to work,sebenza,sɛɓɛnz̤a,sɛɓɛnz̤a
 to worry,khathazeka,kʰatʰaz̤ɛka,kʰatʰaz̤ɛka
 to write,bhala,b̤ala,b̤ala
-tomato,itumato,itumatɔ,itumatɔ
+tomato,-tumato
 torso,isibetho,isiɓɛtʰɔ,isiɓɛtʰɔ
 touch,thintela,tʰintɛla,tʰintɛla
 tree,umthi,umtʰi,umtʰi
-tuna,ityhuna,itʰʲuna,itʰʲuna
+tuna,-tyhuna
 turned on,*,*,*
 turtle,ihote,ihɔtɛ,ihɔtɛ
 typical,eziqhelekileyo,ɛz̤ikǃʰɛlɛkilɛjɔ,ɛz̤ikǃʰɛlɛkilɛjɔ
@@ -342,3 +342,33 @@ wood,ngomthi,nɡ̤ɔmtʰi,nɡ̤ɔmtʰi
 word,igama,iɡ̤ama,iɡ̤ama
 worm,imbungu,imɓunɡ̤u,imɓunɡ̤u
 yellow,lubhelu,lub̤ɛlu,lub̤ɛlu
+bean,ezinemidumba
+barley,irhasi
+sorghum,-sogam
+rapeseed,
+millet,
+cassava,
+chickpea,
+oat,ihabile
+pigeon pea,
+guava,-gwava
+beet,-bhitruthi
+rye,-rye
+citrus,-sitrasi
+flax,
+pea,
+peach,-pesika
+okra,
+cucumber,-nkonkomire
+squash,-sikwashi
+almond,
+garlic,-galikhi
+cabbage,-khapetshu
+pear,-pere
+coriander,-khoriyanda
+lettuce,-letisi
+walnut,
+persimmon,
+vine,imidiliya
+melon,umxoxozi
+tuber,
