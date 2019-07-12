@@ -348,21 +348,21 @@ corn,मकई
 rice,चावल
 soy,सोया
 barley,जौ
-sorghum,
-rapeseed,
+sorghum,ज्वार
+rapeseed,कैनोला
 millet,बाजरा
 cassava,कसावा
-chickpea,
+chickpea,चना
 oat,जई
-pigeon pea,
+pigeon pea,अरहर
 guava,अमरूद
 apple,सेब
 beet,चुकंदर
 tomato,टमाटर
 rye,राई
 citrus,नींबू
-flax,
-pea,
+flax,अलसी
+pea,मटर
 peach,आड़ू
 okra,भिंडी
 cucumber,ककड़ी
@@ -375,6 +375,6 @@ coriander,धनिया
 lettuce,
 walnut,अखरोट
 persimmon,तेंदू फल
-vine,
-melon,
-tuber,
+vine,लता
+melon,*
+tuber,*

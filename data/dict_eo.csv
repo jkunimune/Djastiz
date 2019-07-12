@@ -343,16 +343,16 @@ word,vorto,ˈvorto,ˈvorto
 worm,vermo,ˈvermo,ˈvermo
 yellow,flava,ˈflava,ˈflava
 grain,greno
-bean,
+bean,legumo
 corn,maizo
 rice,rizo
 soy,sojo
 barley,hordeo
 sorghum,sorgo
-rapeseed,
+rapeseed,kolzo
 millet,milio
 cassava,manioko
-chickpea,
+chickpea,kajano
 oat,aveno
 pigeon pea,
 guava,gujavo
@@ -364,7 +364,7 @@ citrus,citruso
 flax,lino
 pea,pizo
 peach,persiko
-okra,
+okra,gombo
 cucumber,kukumo
 squash,kukurbo
 almond,migdalo
@@ -374,7 +374,7 @@ pear,piro
 coriander,
 lettuce,laktuko
 walnut,juglando
-persimmon,
-vine,
-melon,
-tuber,
+persimmon,persimono
+vine,rebo
+melon,*
+tuber,tubero
