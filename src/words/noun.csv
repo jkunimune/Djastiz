@@ -21,8 +21,8 @@ layperson; civilian; customer; member of the public; person with only general kn
 light; electromagnetic radiation {GENITIVE:photic; optic; luminescient},*luz,spa <luz> [lus],lus
 "god; deity; superhuman entity worshiped as having great influence over reality, but not any god in particular {GENITIVE:divine; godly; deific}",,eng <god> [ɡɒd],kot
 ground; planet; gravitationally-bound solid mass {GENITIVE:terrestrial; planetary},,hin <भूमि> [b̤uːmi],pum
-sky; atmosphere; weather; heavens; the pneumatic space directly above the ground {GENITIVE:celestial; atmospheric; meteorological; aerial},,OPPOSITE OF ground,mip
-outer *space; cosmos; the vacuumic space above the atmosphere {GENITIVE:cosmic; astral; interstellar},,cmn <太空> [tʰaɪ̯˥˩kʰʊŋ˥],taykun
+sky; atmosphere; weather; heavens; pneumatic space directly above the ground {GENITIVE:celestial; atmospheric; meteorological; aerial},,OPPOSITE OF ground,mip
+outer *space; cosmos; vacuumic space above the atmosphere {GENITIVE:cosmic; astral; interstellar},,cmn <太空> [tʰaɪ̯˥˩kʰʊŋ˥],taykun
 sun; star; gravitationally-bound mass of burning plasma {GENITIVE:solar; stellar},,epo <suno> [ˈsuno],sun
 moon; satellite; solid object gravitationally orbiting another {GENITIVE:lunar},,OPPOSITE OF sun,fik
 ocean; sea; large interconnected bodies of liquid covering most of a planet {GENITIVE:marine; oceanic},,msa <laut> [lawt],lawt
@@ -58,7 +58,7 @@ leg; appendage; long appendage used for transportation {GENITIVE:crural; appendi
 chest; breast; bosom; upper front surface of a torso {GENITIVE:chestal; mamillary},,spa <pecho> [ˈpet͡ʃo],pec
 "claw; quill; fingernail; rigid, sharp, organic protrusion {GENITIVE:ungual; sharp}",,spa <garra> [ˈɡara],kal
 "scale; squame; flake; rigid, external, organic plate used in array with others {GENITIVE:squamous; scaly}",*escama,cmn <鳞> [lin˧˥],lin
-feather; rigid organic extension of a bird or dinosaur lined with hairs {GENITIVE:plumal; feathery; feathered},,jav <wulu> [wuɭu],ul
+feather; plumage; rigid organic extension of a bird or dinosaur lined with hairs {GENITIVE:plumal; feathery; feathered},,jav <wulu> [wuɭu],ul
 egg; first cell of a new organism {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],tan
 seed; small courier of genetic information {GENITIVE:seminal},,hin <बीज> [biːd͡ʒ],pic
 leaf; blade of grass; photosynthetic structure of a plant {GENITIVE:foliar; leafy},,mar <पान> [paːn],pan
@@ -67,114 +67,112 @@ fruit; seed-bearing structure of a flowering plant {GENITIVE:pomonal; fruity},,e
 "tuber; enlarged nutrient-storing structure of a plant",
 flower; pollen-bearing structure of a flowering plant {GENITIVE:floral},,hin <फूल> [pʰuːl],pul
 "root; underground component of a plant that gathers nutrients {GENITIVE:radical; rooted}",,pan <ਰੂਟ> [ɾuʈ],lut
-animal; meat {GENITIVE:animal; meaty},,cmn <动物> [tʊŋ˥˩u˥˩],tun
-plant; vegetable {GENITIVE:botanical; vegetal},,cmn <厂> [ʈ͡ʂʰɑŋ˧˩˧],can
-fungus {GENITIVE:fungal; fungic; fungous},,cmn <菌> [t͡ɕyn˥],ciwn
-primate; monkey; ape {GENITIVE:simian},,ono [u ki ki],ukim
-rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew {GENITIVE:murine},,cmn <啮齿> [njɛ˥˩ʈ͡ʂʰɨ˧˩˧],nyec
-feline; cat {GENITIVE:feline},,ono [mjaw],myawf
-canine; dog; wolf; dingo; and fox {GENITIVE:canine},,ono [baw waw wof],pawaf
-bear {GENITIVE:ursine},,pan <ਰਿੱਛ> [ɾɪːt͡ʃʰ],lic
-seal; includes walruses and maybe sea lions I think?,,spa <sello> [ˈseʝo],seyoh
-musteloidea; red panda; skunk; *raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine,,cmn <狸> [li],lih
-equine; horse; zebra; wild butt {GENITIVE:equine},,ono [hi hin],hihin
-tapir,,spa <tapir> [taˈpir],tapil
-rhinoceros,,ben <গণ্ডার> [ɡɔndar],kontal
-camel; llama; alpaca; guanaco,,pan <ਊਠ> [uʈʰ],ut
-swine; boar; *pig; pork {GENITIVE:swine},,pan <ਸੂਰ> [suɾ],sul
-giraffe; okapi,,hin <जिराफ़> [d͡ʒiraːf],cilaf
-bovine; cow; beef; buffalo; antelope; sheep; mutton; goat; ,,ono [muː],muf
-hippopotamus,,sot <holo> [holo],hol
-whale; dolphin; porpoise,,cmn <鲸> [t͡ɕiŋ˥],cin
-elephant,elefante,ono bjãː,pyah
-opossum; possum; shrew-opossum,,fil <oposum> [oposum],oposum
-koala; wombat; tasmanian devil; numbat,,epo <koalo> [koˈalo],koal
-kangaroo; wallaby,,cmn <袋鼠> [taɪ̯˥˩ʂu˧˩˧],tayc
-mammal {GENITIVE:mammalian},,epo <mamulo> [maˈmulo],mamul
-reptile {GENITIVE:reptilian},,spa <reptil> [repˈtil],leptil
-bird {GENITIVE:avian},,ono [t͡ʃip t͡ʃip],cipcip
-lizard; tuatara,,eng <lizard> [ˈlɪzɚd],lisat
-snake,,ono [sː],sas
-ostrich; emu; rhea; tinamou; kiwi; cassowary,,sot <lema> [lemɑ],lem
-fowl; duck; swan; goose; chicken; turkey; pheasant,,spa <ave> [ˈaβe],ap
-chicken,,ono [kuk kurikoː],kukulik
-turkey,,ono [gululu],kululun
-pigeon; dove; sandgrouse; mesite,,ben <পায়রা> [pae̯ra],payl
-bustard; turaco; cuckoo; nightbird; swift; hummingbird,,cmn <鸨> [pɑʊ̯˧˩˧],pawh
-bird of prey; hawk; eagle; kite; vulture; condor; osprey; owl; falcon,,ono [kijɑː],kiah
-crocodilian; *crocodile; alligator,,nya <ng&#39;ona> [ŋona],non
-turtle; tortoise; terrapin,,cmn <龟> [kweɪ̯˥],kweh
-frog; toad,,ono [kwak kwak],kwakwak
-fish {GENITIVE:pescous; aquatic},,spa <pez> [pes],pes
-carp; koi; catfish; loach; minnow; herring; tetra,,eng <carp> [kʰɑɹp],kap
-salmon; trout; pike; dragonfish; smelt,,spa <salmón> [salˈmon],salmon
-tuna; tunafish; mackerel,,epo <tinuso> [tiˈnuso],tinus
-shark,,msa <jerung> [d͡ʒeruŋ],celun
-ray; manta ray; stingray; skate,,epo <rajo> [ˈrajo],layoh
-bug; insect; arachnid; myriapod; entognath,,ben <জুজু> [d͡ʑud͡ʑu],cuc
-tick; mite,,mar <टिक> [ʈik],tik
-spider,,cmn <蜘蛛> [ʈ͡ʂɨ˥ʈ͡ʂu˥],cic
-scorpion,,yor <ilọ-ara> [ilɔ-ara],iloal
-crustacean; *crab; lobster,,eng <crab> [kʰɹʷæb],kwap
-barnacle; copepod,,yor <ọwọn> [ɔwɔ̃],owon
-beetle,,ibo <ebe> [ebe],ep
-mosquito,,ben <মশা> [mɔɕa],moc
-fly; *housefly; gnat; midge,mosca,epo <muŝo> [ˈmuʃo],muc
-flea,,ben <মাছি> [mat͡ɕʰi],mac
-butterfly; moths,,cmn <蝴蝶> [xu˧˥tjɛ˧˥],hutyeh
-wasp,,ibo <wep> [wep],wep
-ant,,cmn <蚂蚁> [ma˧˩˧i˧˩˧],maih
-bee,,ono [zum zum],sumsum
-cricket; grasshopper; tatydids,,hin <झींगुर> [d͡ʒ̤iːŋɡur],cinkul
-cockroach; roach; termite,,fil <ipis> [ipis],ipis
-mantis,,spa <mantis> [ˈmantis],mantis
-earwig; dermapteran,,eng <earwig> [ˈɪɹwɪɡ],iawik
-worm,,hin <कीड़ा> [kiːɽaː],kil
-slug; land slug,,fil <kuhol> [kuhol],kuhol
-nautilus,,epo <naŭtilo> [nawˈtilo],nawtil
-sea *anemone,,epo <anemono> [aneˈmono],anemon
-jellyfish,,epo <meduzo> [meˈduzo],metus
-mushroom; toadstool,,cmn <蘑菇> [mwɔ˧˥ku],mwok
-bacterium,,cmn <细菌> [ɕi˥˩t͡ɕyn˥],ciciwn
+animal; meat; Animalia {GENITIVE:animal; meaty},,cmn <动物> [tʊŋ˥˩u˥˩],tun
+plant; vegetable; Plantae {GENITIVE:botanical; vegetal},,cmn <厂> [ʈ͡ʂʰɑŋ˧˩˧],can
+fungus; Fungi {GENITIVE:fungal; fungic; fungous},,cmn <菌> [t͡ɕyn˥],ciwn
+primate; monkey; ape; Primates {GENITIVE:simian},,ono [u ki ki],ukim
+rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew; Glires {GENITIVE:murine},,cmn <啮齿> [njɛ˥˩ʈ͡ʂʰɨ˧˩˧],nyec
+feline; cat; Felidae {GENITIVE:feline},,ono [mjaw],myawf
+canine; dog; wolf; dingo; fox; Canidae {GENITIVE:canine},,ono [baw waw wof],pawaf
+bear; Ursidae {GENITIVE:ursine},,pan <ਰਿੱਛ> [ɾɪːt͡ʃʰ],lic
+seal; walrus; sea lion; Pinnipedia,,spa <sello> [ˈseʝo],seyoh
+musteloid; red panda; skunk; *raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine; Musteloidea,,cmn <狸> [li],lih
+equid; horse; zebra; wild butt; Equidae {GENITIVE:equine},,ono [hi hin],hihin
+tapir; Tapiridae,,spa <tapir> [taˈpir],tapil
+rhinoceros; rhino; rhinocerotidae,,ben <গণ্ডার> [ɡɔndar],kontal
+camelid; camel; llama; alpaca; guanaco; Camelidae,,pan <ਊਠ> [uʈʰ],ut
+suid; swine; boar; *pig; hog; pork; Suidae {GENITIVE:swine},,pan <ਸੂਰ> [suɾ],sul
+giraffe; okapi; Giraffidae,,hin <जिराफ़> [d͡ʒiraːf],cilaf
+bovid; cow; beef; buffalo; antelope; sheep; mutton; goat; Bovidae,,ono [muː],muf
+hippopotamus; hippo; Hippopotamidae,,sot <holo> [holo],hol
+cetacean; whale; dolphin; porpoise; Cetacea,,cmn <鲸> [t͡ɕiŋ˥],cin
+elephant; Elephantidae,elefante,ono bjãː,pyah
+opossum; Didelphimorphia,,fil <oposum> [oposum],oposum
+koala; wombat; Vombatiformes,,epo <koalo> [koˈalo],koal
+macropod; kangaroo; wallaby; Macropodiformes,,cmn <袋鼠> [taɪ̯˥˩ʂu˧˩˧],tayc
+mammal; Mammalia {GENITIVE:mammalian},,epo <mamulo> [maˈmulo],mamul
+reptile; Reptilia {GENITIVE:reptilian},,spa <reptil> [repˈtil],leptil
+bird; Aves {GENITIVE:avian},,ono [t͡ʃip t͡ʃip],cipcip
+lizard; Lacertilia,,eng <lizard> [ˈlɪzɚd],lisat
+snake; Serpentes,,ono [sː],sas
+paleognath; ostrich; emu; rhea; tinamou; kiwi; cassowary; Palaeognathae,,sot <lema> [lemɑ],lem
+fowl; duck; swan; goose; chicken; turkey; pheasant; Galloanserae,,spa <ave> [ˈaβe],ap
+chicken; junglefowl; Gallus,,ono [kuk kurikoː],kukulik
+turkey (bird); Meleagris,,ono [gululu],kululun
+pigeon; dove; sandgrouse; mesite; Columbimorphae,,ben <পায়রা> [pae̯ra],payl
+raptor; hawk; eagle; kite; vulture; condor; osprey; owl; falcon; bird of prey,,ono [kijɑː],kiah
+crocodilian; *crocodile; alligator; Crocodilia,,nya <ng&#39;ona> [ŋona],non
+turtle; tortoise; terrapin; Testudine,,cmn <龟> [kweɪ̯˥],kweh
+frog; toad; Anura,,ono [kwak kwak],kwakwak
+fish; pisces; ichthyes; Gnathostomata minus Tetrapoda {GENITIVE:pescous; aquatic},,spa <pez> [pes],pes
+carp; koi; catfish; loach; minnow; herring; tetra; Cypriniformes,,eng <carp> [kʰɑɹp],kap
+salmon; trout; pike; dragonfish; smelt; Protacanthopterygii,,spa <salmón> [salˈmon],salmon
+mackerel; *tuna; tunny; Scombridae,,epo <tinuso> [tiˈnuso],tinus
+shark; Selachimorpha,,msa <jerung> [d͡ʒeruŋ],celun
+ray; manta ray; stingray; skate; sawfish; Batoidea,,epo <rajo> [ˈrajo],layoh
+bug; insect; arachnid; myriapod; entognath; small terrestrial invertebrate,,ben <জুজু> [d͡ʑud͡ʑu],cuc
+tick; mite; Acari,,mar <टिक> [ʈik],tik
+spider; Araneae,,cmn <蜘蛛> [ʈ͡ʂɨ˥ʈ͡ʂu˥],cic
+scorpion; Scorpiones,,yor <ilọ-ara> [ilɔ-ara],iloal
+crustacean; *crab; lobster; crayfish; shrimp; prawn; krill; Crustacea,,eng <crab> [kʰɹʷæb],kwap
+barnacle; copepod; Cirripedia,,yor <ọwọn> [ɔwɔ̃],owon
+beetle; Coleoptera,,ibo <ebe> [ebe],ep
+mosquito; Culicidae,,ben <মশা> [mɔɕa],moc
+fly; *housefly; gnat; midge; Muscidae,mosca,epo <muŝo> [ˈmuʃo],muc
+flea; Siphonaptera,,ben <মাছি> [mat͡ɕʰi],mac
+butterfly; moths; Lepidoptera,,cmn <蝴蝶> [xu˧˥tjɛ˧˥],hutyeh
+wasp; Apocrita minus Anthophilia and Formicidae,,ibo <wep> [wep],wep
+ant; Formicidae,,cmn <蚂蚁> [ma˧˩˧i˧˩˧],maih
+bee; Anthophilia,,ono [zum zum],sumsum
+cricket; grasshopper; locust; tatydid; Orthoptera,,hin <झींगुर> [d͡ʒ̤iːŋɡur],cinkul
+cockroach; roach; termite; Blattodea,,fil <ipis> [ipis],ipis
+mantis; Mantodea,,spa <mantis> [ˈmantis],mantis
+earwig; Dermaptera,,eng <earwig> [ˈɪɹwɪɡ],iawik
+worm; long limbless invertebrate,,hin <कीड़ा> [kiːɽaː],kil
+slug; land slug; shell-less terrestrial gastropod mollusc,,fil <kuhol> [kuhol],kuhol
+nautilus; Nautilidae,,epo <naŭtilo> [nawˈtilo],nawtil
+sea *anemone; Actiniaria,,epo <anemono> [aneˈmono],anemon
+jellyfish; medusa; Medusozoa,,epo <meduzo> [meˈduzo],metus
+mushroom; toadstool; superterranean fungus with a stem and cap,,cmn <蘑菇> [mwɔ˧˥ku],mwok
+prokaryote; *bacterium; archaeon; cellular organism with no nucleus,,cmn <细菌> [ɕi˥˩t͡ɕyn˥],ciciwn
 virus,,spa <virus> [ˈbiɾus],pilus
-algae; moss,alga,cmn <藻类> [t͡sɑʊ̯˧˩˧leɪ̯˥˩],sawl
-fern,,spa <helecho> [eˈlet͡ʃo],elec
-tree,,mar <झाड> [d͡ʑ̤aːɖ],cat
-cereal; *grain; cereal grain,,hin <अनाज> [anaːd͡ʒ],anac
-legume; *bean; pea,,,
-corn; maize,,,
-rice,,cmn <饭> [fan˥˩],fan
-soy; soybean,,,
-barley,,,
-sorghum; great millet; milo,,,
-rapeseed; rape; canola,,,
-millet,,,
-cassava; manioc; yuca; macaxeira; mandioca; aipim,,,
-chickpea; gram; garbanzo,,,
-oat,,,
-pigeon pea; red gram; tropical green pea; gandule,,,
-guava,,,
-apple,,,
-beet,,,
-melon,
-tomato,,,
-rye,,,
-citrus,,,
-flax; linseed; linen,,,
-pea; green pea,,,
-prunus; plum; *peach; cherry; apricot,,,
-okra; ochro; ladies' fingers,,,
-cucumber; gherkin,,,
-squash; pumpkin; gourd,,,
-almond,,,
-garlic,,,
-cabbage; cauliflower; broccoli; kale; Brussels sprouts; collard greens; savoy; kohlrabi; gai lan,,,
-pear,,,
-coriander; cilantro; anise; star anise; badiane; fennel,,,
-lettuce; chicory,,,
-walnut,,,
-persimmon,,,
-cactus,,spa <cactus> [ˈkaktus],kaktus
-bulrush; reed; cattail; water sausage; typha,,epo <tifao> [tiˈfao],tifaoh
-machine; robot; automaton,,epo <maŝino> [maˈʃino],macin
-computer {GENITIVE:digital; electronic; computerised},,xho <khomputha> [kʰɔmputʰa],komput
+algae; moss; tiny clumping photosynthetic prokaryote,alga,cmn <藻类> [t͡sɑʊ̯˧˩˧leɪ̯˥˩],sawl
+fern; Polypodiopsida,,spa <helecho> [eˈlet͡ʃo],elec
+tree; tall woody plant structure,,mar <झाड> [d͡ʑ̤aːɖ],cat
+cereal; *grain; cereal grain; grass cultivated for its edible seeds,,hin <अनाज> [anaːd͡ʒ],anac
+legume; pulse; *bean; pea; Fabaceae,,,
+corn; maize; Zea mays,,,
+rice; Oryza,,cmn <饭> [fan˥˩],fan
+soy; soybean; soya bean; Glycine max,,,
+barley; Hordeum,,,
+sorghum; great millet; milo; Sorghum bicolor,,,
+rapeseed; rape; canola; Brassica,,,
+"millet; resilient, productive cereal crop",,,
+cassava; manioc; yuca; macaxeira; mandioca; aipim; Manihot esculenta,,,
+chickpea; gram; garbanzo; Cicer arietinum,,,
+oat; Avena,,,
+pigeon pea; red gram; tropical green pea; gandule; Cajanus cajan,,,
+guava; Psidium,,,
+apple; Malus,,,
+beet; beetroot; sugar beet; chard; Beta,,,
+tomato; Solanum lycopersicum,,,
+rye; Secale,,,
+citrus; Citrus,,,
+flax; linseed; linen; Linum,,,
+pea; green pea; Pisum,,,
+plum; *peach; cherry; apricot; Prunus minus Prunus dulcis,,,
+okra; ochro; ladies' fingers; Abelmoschus esculentus,,,
+"melon; any member of Cucurbitaceae with sweet, fleshy fruit",,,
+cucumber; gherkin; Cucumis sativus,,,
+squash; gourd; pumpkin; zucchini; Cucurbita,,,
+almond; Prunus dulcis,,,
+onion; garlic; leek; scallion; Allium,,,
+cabbage; cauliflower; broccoli; kale; Brussels sprouts; collard greens; savoy; kohlrabi; gai lan; Brassica oleracea,,,
+pear; Pyrus,,,
+coriander; cilantro; anise; star anise; badiane; fennel; Chinese parsley; Coriandrum,,,
+lettuce; chicory; Lactuca,,,
+walnut; Juglans,,,
+cactus; Cactaceae,,spa <cactus> [ˈkaktus],kaktus
+bulrush; reed; cattail; water sausage; Typha,,epo <tifao> [tiˈfao],tifaoh
+machine; robot; automaton; artificial mechanical structure,,epo <maŝino> [maˈʃino],macin
+computer; artificial device capable of arithmetic or logical operations {GENITIVE:digital; electronic; computerised},,xho <khomputha> [kʰɔmputʰa],komput

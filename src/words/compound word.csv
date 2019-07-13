@@ -279,40 +279,27 @@ north pole,,be-north point,
 equator,,be-middle standard-parallel,
 parallel,,latitude path,
 meridian,,longitude path,
-Antarctica; the landmass; the continent,,be-south landmass,sutatayl
-the Antarctic Ocean; the ocean,,be-south ocean,sutalawt
-the Arctic Ocean; the ocean,,be-north ocean,filalawt
-Afro-Eurasia; the Old World; the landmass,,Africa Eurasia,'aflika'yewlasia
-North America; the continent,,be-north America,fila'amelika
-South America; the continent,,be-south America,suta'amelika
-North Africa; the Magreb; the region,,be-north Africa,fila'aflika
-Southern Africa; the region {COUNTRY:South Africa; the Republic of South Africa {PEOPLE:South African; the South African people}},,be-south Africa,suta'aflika
-West Africa; the region,,be-west Africa,oflo'aflika
-East Africa; the region,,be-east Africa,este'aflika
-Central Africa; the region {COUNTRY:Central African Republic {PEOPLE:Central African; the Central African people}},,be-inside Africa,ene'aflika
-South Asia; India; the region {GENITIVE:South Asian; Indian},,be-south Eurasia,suta'yewlasia
-Southeast Asia; the region {GENITIVE:Southeastern Asian},,be-south be-east Eurasia,sutaeste'yewlasia
-Eastern Asia; Far East; the Orient; the region {GENITIVE:Asian; Eastern Asian; Oriental},,be-east Eurasia,este'yewlasia
-Siberia; the region {GENITIVE:Siberian},,be-north Eurasia,fila'yewlasia
-Europe and the Middle East; western Eurasia; the region {GENITIVE:European},,be-west Eurasia,oflo'yewlasia
-the Middle East; the Near East; West Asia; the region {GENITIVE:Middle Eastern},,be-south be-west Eurasia,sutaoflo'yewlasia
-Central Asia; the region {GENITIVE:Central Asian},,be-inside Eurasia,ne'yewlasia
-the Southern Cone; the region {GENITIVE:Southern Conal},,be-south South-America,sutasuta'amelika
-the Andean States; the region {GENITIVE:Andean},,be-east South-America,estesuta'amelika
-Latin America; the region {GENITIVE:Latin American},,Latin America,'latin'amelika
-Central America; the region {GENITIVE:Central American},,be-inside America,ne'amelika
-Oceania; the region {GENITIVE:Oceanic},,ocean landmass,lawttayl
-The Atlantic Ocean; the ocean {GENITIVE:Atlantic},,Atlas-mountains ocean,'atlaslawt
-The Indian Ocean; the ocean {GENITIVE:Indian Oceanic},,Indian ocean,'hintulawt
-The Pacific Ocean; the ocean {GENITIVE:Pacific},,be-big be-still ocean,motapemolawt
-The Arabian Sea; the sea,,Arab ocean,'alaplawt
-The Bering Sea; the sea,,Bering ocean,'beringlawt
-The Caribbean Sea; the sea,,Island-Carib ocean,'kalinakolawt
-The Coral Sea; the sea,,coral ocean,fulokipowinyoicilwellawt
-The Gulf of Mexico; the sea,,Mexican ocean,'mehikolawt
-The Mediterranean Sea; the sea,,land be-inside ocean,fonunelawt
-The South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
-British Isles,,Briton landmass,'pwitontayl
+Antarctica,,be-south landmass,sutatayl
+Antarctic Ocean,,be-south ocean,sutalawt
+Arctic Ocean,,be-north ocean,filalawt
+Afro-Eurasia; the Old World,,Africa Eurasia,'aflika'yewlasia
+North America,,be-north America,fila'amelika
+South America,,be-south America,suta'amelika
+Southern Africa {COUNTRY:South Africa; the Republic of South Africa {PEOPLE:South African; the South African people}},,be-south Africa,suta'aflika
+Central Africa {COUNTRY:Central African Republic {PEOPLE:Central African; the Central African people}},,be-inside Africa,ene'aflika
+Latin America {GENITIVE:Latin American},,the-Latin-people America,'latin'amelika
+Sinosphere; East Asia; the East Asian cultural sphere; Asia; the Sinic world,,be-east culture region,
+Oceania {GENITIVE:Oceanic},,ocean landmass,lawttayl
+Atlantic Ocean {GENITIVE:Atlantic},,Atlas-mountains ocean,'atlaslawt
+Indian Ocean {GENITIVE:Indian Oceanic},,India ocean,'hintulawt
+Pacific Ocean {GENITIVE:Pacific},,be-big be-still ocean,motapemolawt
+Arabian Sea,,Arab ocean,'alaplawt
+Bering Sea,,Bering ocean,'beringlawt
+Caribbean Sea,,Island-Carib ocean,'kalinakolawt
+Coral Sea,,coral ocean,fulokipowinyoicilwellawt
+Gulf of Mexico,,Mexico ocean,'mehikolawt
+Mediterranean Sea,,land be-inside ocean,taylenelawt
+South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
 Great Brittan,,be-big British-Isles,mota'pwitontayl
 Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
 Democratic Republic of the Congo {GENITIVE:Congolese; from Democratic Republic of the Congo|PEOPLE:Congolese; the people of the Democratic Republic of the Congo},,Kinshasa the-Kingdom-of-the-Kongo,
@@ -339,14 +326,14 @@ Ugandan; the Ugandan people {GENITIVE:Ugandan; from Uganda|COUNTRY:Uganda},,be-b
 Sol; The Sun,,person sun,wonsun
 Luna; The Moon,,person moon,wonfik
 Earth {GENITIVE:global; earthling; terran},,person ground,wonpum
-Mars; the planet {GENITIVE:Martian},,be-red ground,lucipum
-Mercury; the planet {GENITIVE:Mercurian},,be-fast ground,yalapum
-Neptune; the planet {GENITIVE:Neptunian},,ocean ground,lawtpum
-Jupiter; the planet {GENITIVE:Jovian},,be-big ground,motapum
-Saturn; the planet {GENITIVE:Saturnic},,circle ground,siklalonpum
-Uranus; the planet {GENITIVE:Uranic},,sky ground,mippum
-Venus; the planet {GENITIVE:Venusian},,be-loud ground,fuhapum
-Milky Way; the galaxy {GENITIVE:Milky},,person galaxy,won'kalasias
+Mars {GENITIVE:Martian},,be-red ground,lucipum
+Mercury {GENITIVE:Mercurian},,be-fast ground,yalapum
+Neptune {GENITIVE:Neptunian},,ocean ground,lawtpum
+Jupiter {GENITIVE:Jovian},,be-big ground,motapum
+Saturn {GENITIVE:Saturnic},,circle ground,siklalonpum
+Uranus {GENITIVE:Uranic},,sky ground,mippum
+Venus {GENITIVE:Venusian},,be-loud ground,fuhapum
+Milky Way {GENITIVE:Milky},,person galaxy,won'kalasias
 Monday,,moon day,fiksunkwelwel
 Tuesday,,be-red day,lucisunkwelwel
 Wednesday,,be-fast day,yalasunkwelwel
@@ -403,6 +390,7 @@ sloth,,slow mammal,watalonmamul
 anteater,,ant eat mammal,maihnyamamamul
 armadillo,,shell mammal,pontolonmamul
 manatee; sea-cow,,ocean elephant,lawtpyah
+possum; glider; cuscus,,Australia-(landmass) opossum,
 platypus,,egg mammal,tanmamul
 waterfowl; duck; goose; swan,,be-liquid fowl,cweap
 landfowl; chicken; turkey; pheasant,,ground fowl,pumap
@@ -438,7 +426,7 @@ seacucumber,,cucumber animal,'hiyaltun
 pantopod,,ocean spider,lawtcic
 shrimp,,be-small crustacean,pelakwap
 mantisshrimp,,be-strong crustacean,ikekwap
-centipede; millipede,,much leg,kehlek
+centipede; millipede,,leg bug,kehlek
 centipede,,poison centipede,fakukiluatkehlek
 dragonfly; damselfly,,be-long bug,lamacuc
 louse,,hair bug,tofcuc
@@ -458,20 +446,21 @@ leech,,blood worm,tutumucwelonkil
 sea anemone; sea fan; seawhip,,flower animal,talcantun
 coral,,be-rigid organism,fulokipowinyoicilwel
 sea sponge,,be-foamy organism,fomiicilwel
-tardigrade; waterbear; the animal,,be-small bear,pelalic
+tardigrade; water bear; moss piglet; Tardigrada,,be-small bear,pelalic
 moss; liverwort; hornwort,,landmass algae,taylsawl
 algae; alga,,ocean algae,lawtsawl
 apricot,,be-orange prunus,
 asparagus; sparrow grass,,be-after can-smell plant,
 avocado,,crocodilian fruit,
 bamboo,,tree grass,
-banana; plantain,,be-long fruit,sotfut
+banana; plantain,,stick fruit,sotfut
 buckwheat,,cereal flower,
 bird of paradise,,bird flower,
 broccoli,,tree cabbage,
 Brussels sprouts,,be-small cabbage
 cabbage; brassica,,head cabbage,
 cacao; cocoa; chocolate,,be-sweet seed,
+candlenut; candleberry; Indian walnut; kukui nut tree; Aleurites moluccanus,,light seed,
 cantelope,,be-orange melon,
 cashew,,be-outside seed,
 cauliflower,,be-white cabbage,
@@ -479,14 +468,16 @@ carrot,,be-orange root,
 castor bean; castor oil plant; palm of Christ,,tick seed,
 chard; spinach beet,,leaf beet
 cherry,,be-small prunus,
+chives; Allium schoenoprasum,,flower onion,
 coconut,,string fruit,talfut
-cotton; the plant; the material,,be-foamy plant,fomican
-coffee; the plant; the beverage,,move seed,mopecan
-cowpea; black-eye pea; yardlong bean; the plant,,claw legume,
-eggplant; aubergine; brinjal,,be-foamy fruit,
-fava bean; broad bean; horse bean; the plant,,be-big legume,
+cotton,,be-foamy plant,fomican
+coffee; Coffea,,move seed,mopecan
+cowpea; black-eye pea; yardlong bean; Vigna unguiculata,,claw legume,
+eggplant; aubergine; brinjal; Solanum melongena,,be-foamy fruit,
+fava bean; broad bean; horse bean; Vicia faba,,be-big legume,
 garden beet; beetroot,,root beet,
-gourd; cucurbit,,be-rigid fruit,
+garlic; Allium sativum,,be-powder onion,
+gourd; Cucurbitaceae with rigid shells,,be-rigid fruit
 grape,,fruit vine,
 green bean; french bean; string bean; snap,,string legume,
 honeydew,,be-green melon,
@@ -495,7 +486,7 @@ kale; leaf cabbage,,leaf cabbage,
 lemon,,be-yellow citrus,
 lentil,,be-flat legume,
 lime,,be-green citrus,
-onion,,stack plant,capaloncan
+onion; bulb onion; common onion; Allium cepa,,stack plant,capaloncan
 orange; mandarin; tangerine,,be-orange citrus,
 orchid,,flower plant,pulcan
 palm; palm tree,,tree leaf,
@@ -505,21 +496,24 @@ pineapple,,claw fruit,
 peanut; groundnut; goober,,monkey legume,
 pepper,,be-spicy fruit,
 plum,,be-purple prunus,
-potato; tuber; the plant,,ground tuber,
+potato; tuber; Solanum tuberosum,,ground tuber,
+pumpkin,,be-big squash,
 rubber tree; latex,,be-elastic tree,polaipowicat
+scallion; green onion; spring onion; salad onion,,leaf onion,
 sea beet; wild spinach,,be-natural beet,
 sesame,,oil seed,
 sugar beet,,be-sweet beet,
 sugarcane; cane sugar,,be-sweet grass,tamucan
-sunflower; the plant; the flower,,sun flower,
+sunflower; Helianthus,,sun flower,
 taro; elephant ears,,be-big leaf,
-tea; the plant; the beverage,,be-liquid leaf,
-tobacco; the plant; the product,,be-gas leaf,
+tea; Camellia sinensis,,be-liquid leaf,
+tobacco; Nicotiana,,be-gas leaf,
 triticale,,wheat rye,
 turnip,,be-white root,
 venus fly-trap,,eat plant,nyamacan
 watermelon,,,be-red melon,
 yam; sweet potato,,be-sweet tuber,
+zucchini; courgette,,be-small squash,
 oil palm,,oil palm,
 sweet potato,,America yam,
 yam,,Afro-Eurasia yam,
