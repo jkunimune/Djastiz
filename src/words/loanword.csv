@@ -93,7 +93,7 @@ Gambia River; River Gambra {GENITIVE:Gambian; from The Gambia|PEOPLE:Gambian; th
 Georgian; the Georgian people {GENITIVE:Georgian; from Georgia|COUNTRY:Georgia|LANGUAGE:Georgian; the Georgian langauge|REGION:Kartli},,kat <ქართველ-> [kʰɑrtʰvɛl],'kaltwel
 German; the German people {GENITIVE:German; Germanic; from Germany|COUNTRY:Germany|LANGUAGE:German; the German language},,deu <Deutsch> [ˈdɔʏ̯t͡ʃ],'tojc
 Ghana {GENITIVE:Ghanian; from Ghana|PEOPLE:Ghanian; the Ghanian people},,eng <Ghana> [ˈɡɑːnə],'kana
-Greek; Grecian; Hellene; the Greek people {GENITIVE:Greek; Grecian; Hellenic; from Greece|COUNTRY:Greece|LANGUAGE:Greek; the Greek language},,ell <Έλληνες> [ˈelines],'elines
+Greek; Grecian; Hellene; the Greek people {GENITIVE:Greek; Grecian; Hellenic; from Greece|COUNTRY:Greece|LANGUAGE:Greek; the Greek language},,ell <Έλλην> [ˈelin],'elin
 Greenlander; the Greenlandic people {GENITIVE:Greenlandic; from Greenland|COUNTRY:Greenland|LANGUAGE:Greenlandic; the Greenlandic language},,kal <Kalaallit> [kalaːɬit],'kalaclit
 Grenada (landmass) {GENITIVE:Grenadan; from Grenada|PEOPLE:Grenadan; the Grenadan people|COUNTRY:Grenada (country)},,eng <Grenada> [ɡɹʷəˈneɪ̯də],'kwanejta
 Grenadines; Grenadine Islands {GENITIVE:Grenadinese; from the Grenadines},,svc <Grenadines> [ɡɹɛnədiːnz],'kwenatin
@@ -305,27 +305,26 @@ Sigma Octantis; Polaris Australis; the South Star,,lat <Polaris Australis> [pɔl
 Sirius,,lat <Sīrius> [siːrɪʊs],'silius
 Vega,,ara <واقع‎> [wɑːqeʔ],'wake
 Andromeda (galaxy) {GENITIVE:Andromedan},,grc <Ἀνδρομέδα> [an˦dro˧me˦da˧],'antometa
-Bahá'í; the religion {GENITIVE:Bahá'í},,far <بهائی‎> [ba˨ˈha˦ʔi˦],'pahai
-Buddhism; the religion {GENITIVE:Buddhist},,san <बुद्ध> [bud̚˨dʱɐ˦],'putha
-Caodaism; the religion {GENITIVE:Caodaist},,vie <Đạo Cao Đài> [ɗaw˧ kaːw˧ ɗaːj˦˨],'tawkawtay
-Catholicism; the sect {GENITIVE:Catholic},,lat <Catolicismus> [kaˈtoliˌkismʊs],'katolikismus
-Christianity; the religion {GENITIVE:Christian},,heb <נוֹצְרִי> [not͡sˤri],'nosli
-Eastern Orthodoxy; the sect {GENITIVE:Eastern Orthodox},,ell <Ανατολική Ορθοδοξία> [anatoliˈki orθoðoˈksia],'anatolikiolsosoksia
-Islam; the religion {GENITIVE:Islamic; Muslim},,ara <إسلام> [ʔɪsˈlaːm],'islam
-Jainism; the religion {GENITIVE:Jain},,hin <जैन धर्म> [d͡ʒɛːn dʱɑːɾm],'centam
-Protestantism; the sect {GENITIVE:Protestant},,deu <Protestantismus> [ˌpʀ̥otɛstanˈtɪsmʊs],'potestantismus
-Shaivism; the sect {GENITIVE:Shaiva},,hin <शैव धर्म> [ɕɛːʋə dʱɑːɾm],'cewatam
-Shaktism; the sect {GENITIVE:Shakta},,hin <शाक्तः धर्म> [ɕaːktəɦ dʱɑːɾm],'caktahtam
-Shia Islam; the sect {GENITIVE:Shia},,ara <شيعة‎> [ʃiːʔah],'ciah
-Shintoism; the religion {GENITIVE:Shinto},,jap <神道> [ɕintoː],'cinto
-Sikhism; the religion {GENITIVE:Sikh},,pan <ਸਿੱਖੀ> [ˈsɪkːʰiː],'sikhi
-Smartism; the sect {GENITIVE:Smarta},,hin <स्मृति> [smr̩ti],'sumalti
-Spiritualism; the religion {GENITIVE:Spiritualist},,eng <Spiritualism> [ˈspɪɹʷɪt͡ʃwəlɪzm̩],'supiwitwalisam
-Sunni Islam; the sect {GENITIVE:Sunni},,ara <سني> [ˈsunniː],'suni
-Taoism; Daoism; the religion {GENITIVE:Taoist; Daoist},,cmn <道教> [taw˥˩ tɕjaw˥˩],'tawcyaw
-Vaishnavism; the sect {GENITIVE:Vaishnava},,hin <वैष्णव धर्म> [ʋɛːɕnaːʋə dʱɑːɾm],'wecnawatam
-Zoroastrianism; the religion {GENITIVE:Zoroastrian},,ave <𐬨𐬀𐬰𐬛𐬀𐬫𐬀𐬯𐬥𐬀> [mazdajasna],'mastayasna
-Bering; Vitus Jonassen Bering; Ivan Ivanovich Bering,,dan <Bering> [Bering],'bering
+Bahá'í; the Bahá'í Faith; Bahaism {GENITIVE:Bahá'í; of the Bahá'í Faith|PEOPLE:Bahá'í; followers of Bahá'u'lláh},,far <بهائی‎> [ba˨ˈha˦ʔi˦],'pahai
+Buddha (title) {RELIGION:Buddhism {GENITIVE:Buddhist; of Buddhism|PEOPLE:Buddhist; followers of Buddhism}},,san <बुद्ध> [bud̚˨dʱɐ˦],'puta
+Cao Đài; Cao Đài Tiên Ông Đại Bồ Tát Ma Ha Tát {RELIGION:Caodaism; Đại Đạo Tam Kỳ Phổ Độ; the Cao Đài religion {GENITIVE:Caodaist; of Caodaism|PEOPLE:Caodaist; followers of Caodaism}},,vie <Cao Đài> [kaːw˧ ɗaːj˦˨],'kawtay
+Catholicism; the Catholic Church; the Roman Catholic Church {GENITIVE:Catholic; Roman Catholic; of the Catholic Church|PEOPLE:Catholic; followers of the Catholic Church},,lat <Catholicismo> [kaˈtɔlɪt͡ʃismɔ],'katolicismo
+Christ; the Christ {RELIGION:Christianity {GENITIVE:Christian; of Christianity|PEOPLE:Christian; followers of Christianity},,grc <Χριστός> [kʰriːstós],'kilistos
+Eastern Orthodoxy; Orthodox Catholicism; Greek Orthodoxy {GENITIVE:Eastern Orthodox},,ell <Ορθοδοξία> [orθoðoˈksia],'olsotoksia
+Islam; Muhammadanism {GENITIVE:Islamic|PEOPLE:Muslim; followers of Islam},,ara <إسلام> [ʔɪsˈlaːm],'islam
+Jain; follower of Jainism {GENITIVE:Jain; Jainist; of Jainism|RELIGION:Jainism},,san <जैन> [d͡ʒɛːn],'cen
+Protestantism {GENITIVE:Protestant; of Protestantism|PEOPLE:Protestant; follower of Protestantism},,deu <Protestantismus> [ˌpʀ̥otɛstanˈtɪsmʊs],'pohotestantismus
+Shiva {RELIGION:Shaivism {GENITIVE:Shaiva; of Shaivism|PEOPLE:Shaivite; Saivite; followers of Shaivism}},,san <शिव> [ɕiʋɐ́],'ciwa
+Shakti {RELIGION:Shaktism {GENITIVE:Shakta; of Shaktism|PEOPLE:Shaktist; followers of Shaktism}},,hin <शक्ति> [ʃəkti],'cakti
+Shia Islam; Shia {GENITIVE:Shia; of Shia Islam|PEOPLE:Shia of Ali; Shia; followers of Shia Islam},,ara <شيعة‎> [ʃiːʔah],'ciah
+Shintoism {GENITIVE:Shinto; of Shintoism|PEOPLE:Shintoist; followers of Shintoism},,jap <神道> [ɕintoː],'cinto
+Sikh; followers of Sikhism {GENITIVE:Sikh; of Sikhism|RELIGION:Sikhism; Sikhi},,pan <ਸਿੱਖ> [ˈsɪkkʰ],'sik
+Smriti {RELIGION:Smartism; Smarta tradition {GENITIVE:Smarta; of Smartism|PEOPLE:Smartism; follower of Smriti},,san <स्मृति> [smr̩ti],'samliti
+spirit (Spiritualism) {RELIGION:Spiritualism {GENITIVE:Spiritualist; of Spiritualism|PEOPLE:Spiritualist; followers of Spiritualism}},,eng <spirit> [ˈspɪɹʷɪt],'sipiwit
+Sunni Islam; Sunniism {GENITIVE:Sunni; of Sunni Islam|PEOPLE:Sunni; followers of Sunni Islam},,ara <سنة> [ˈsunnah],'sunah
+Dao; Tao {RELIGION:Daoist; Taoist {GENITIVE:Daoist; Taoist; of Daoism|PEOPLE:Daoist; Taoist; followers of Daoism},,cmn <道> [taw˥˩],'taw
+Vishnu {RELIGION:Vaishnavism {GENITIVE:Vaishnist; of Vaishnavism|PEOPLE:Vaishnava; Vaishnavite; followers of Vaishnavism}},,san <विष्णु> [ʋɪʂɳʊ],'wicnu
+Ahura Mazda; Ohrmazd; Ahuramazda; Hourmazd; Hormazd; Hurmuz {RELIGION:Zoroastrianism; Mazdayasna {GENITIVE:Zoroastrian; Zarathustrian; of Zoroastrianism|PEOPLE:Zoroastrian; Zarathustrian; followers of Zoroastrianism}},,ave <𐬨𐬀𐬰𐬛𐬁> [mazdaː],'masta
 feng shui,,cmn <风水> [fəŋ˥ʂweɪ̯˧˩˥],'fancwey
 homeopathy,,deu <homöopathie> [hoːmœoːpatiː],'homeopati
 bitcoin,,,
