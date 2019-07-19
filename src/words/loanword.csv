@@ -296,13 +296,13 @@ Tianjin; Tientsin,,cmn <天津> [tʰjɛn˥t͡ɕin˥],'tyencin
 Tokyo,,jpn <東京> [toːkʲoː],'tokyo
 Washington D.C.; Washington,,eng <Washington D.C.> [ˈwɑʃiŋtɪn diː siː],'wacintontisi
 Atlas Mountains,,ara <الأطـلـس‎> [ʔatˤlas],'atlas
-Alpha Centauri A; Rigil Kentaurus,,lat <Rigil Centaurus> [rɪgɪl kɛntawrʊs],'likilkentawlus
+Alpha Centauri A; Rigil Kentaurus,,lat <Rigil Centaurus> [rɪd͡ʒɪl kɛntawrʊs],'licilkentawlus
 Alpha Centauri B; Toliman,,ara <ظلمان> [zulman],'sulman
-Proxima Centauri,,lat <Proxima Centauri> [prɔksɪma kɛntawrɪ],'poksimakentawli
+Proxima Centauri,,lat <Proxima Centauri> [prɔksɪma t͡ʃɛntawrɪ],'poksimacentawli
 Arcturus,,grc <Ἀρκτοῦρος> [ark˦to˦˨ːros],'aktolos
 Polaris; the North Star,,lat <Polaris> [polaris],'polalis
 Sigma Octantis; Polaris Australis; the South Star,,lat <Polaris Australis> [pɔlarɪs awstralɪs],'polalisawstalis
-Sirius,,lat <Sīrius> [siːrɪʊs],'silius
+Sirius,,lat <Sīrius> [sirɪʊs],'silius
 Vega,,ara <واقع‎> [wɑːqeʔ],'wake
 Andromeda (galaxy) {GENITIVE:Andromedan},,grc <Ἀνδρομέδα> [an˦dro˧me˦da˧],'antometa
 Bahá'í; the Bahá'í Faith; Bahaism {GENITIVE:Bahá'í; of the Bahá'í Faith|PEOPLE:Bahá'í; followers of Bahá'u'lláh},,far <بهائی‎> [ba˨ˈha˦ʔi˦],'pahai
@@ -349,7 +349,7 @@ date; date palm; Phoenix dactylifera,,ara <بلح> [balɑħ],'palah
 ginger; Zingiber,,pan <ਸੁੰਢ> [suɖə],'suta
 jasmine; Jasminum,,hin <चमेली> [t͡ʃəmeːliː],'cameli
 kiwifruit; kiwi; Chinese gooseberry; Actinidia,,cmn <猕猴桃> [mi˧˥xoʊ̯˧˥tʰaʊ̯˧˥],'mihowtaw
-leek,,lat <Porrum> [pɔrʊm],'polum
+leek,,lat <Porrum> [pɔrʊ̃],'polum
 mango; Mangifera,,tam <மாம்பழம்> [maːmpɐɻɐm],'mampalam
 nutmeg; Myristica fragrans,,ind <pala> [pala],'pala
 olive; Olea europaea,,lat <oliva> [ɔˈliwa],'oliwa
@@ -367,9 +367,8 @@ pizza,,ita <pizza> [ˈpit͡sːa],'pitsa
 salteña,,spa <salteña> [salˈteɲa],'saltenya
 schnitzel,,deu <schnitzel> [ˈʃnɪtsl̩],'cinitsel
 spaghetti,,ita <spaghetti> [spaˈɡetti],'espaketi
-beer,,eng <beer> [bɪɚ],'pia
 wine,,kat <ღვინო> [ɣvinɔ],'wino
-vodka,,,
+vodka,,rus <водка> [ˈvotkə],'wotka
 tequila,,spa <tequila> [teˈkila],'tekila
 jeans,,eng <jeans> [d͡ʒiːnz],'cin
 kimono,,jpn <着物> [kʲimono],'kimono
@@ -389,41 +388,39 @@ Tai chi,,cmn <太极拳> [tʰaj˥˩.t͡ɕi˧˥ t͡ɕʰɥɛn˧˥],'taycicwen
 Karate,,jpn <空手> [kaɾate],'kalate
 Aikido,,jpn <合気道> [aikiꜜdoː],'aikido
 Kendo,,jpn <剣道> [kɛndoː],'kento
-hydrogen,,lat <hydrogenium> [hidrɔgɛnɪʊm],'hitlokenium
-helium,,lat <helium> [hɛlɪʊm],'helium
-lithium,,lat <lithium> [lɪtɪʊm],'litium
-beryllium,,
-boron,,
-carbon,,
-nitrogen,,
-florine,,
-neon,,
-sodium,,
-magnesium,,
-silicon,,
-phosphorus,,
-sulfur,,
-chlorine,,
-argon,,
-potassium,,
-calcium,,
-scandium,,
-titanium,,
-vanadium,,
-chromium,,
-manganese,,
-cobalt (substance),,
-nickel (substance),,
-zinc,,
-galium,,
-germanium,,
-arsenic,,
-selenium,,
-bromine,,
-krypton,,
-tungsten,,
-wolfram,,
-denim,,eng <denim> [ˈdɛnəm],'tenem
+hydrogen,,lat <hydrogenium> [hidrɔd͡ʒɛnɪʊ̃],'hitlocenium
+helium,,lat <helium> [hɛlɪʊ̃],'helium
+lithium,,lat <lithium> [lɪtɪʊ̃],'litium
+beryllium,,lat <beryllium> [bɛrillɪʊ̃],'pelilium
+boron,,lat <borium> [borɪʊ̃],'polium
+fluorine,,lat <fluorum> [flʊorʊ̃],'fuluolum
+neon,,lat <neon> [neɔ̃],'neon
+magnesium,,lat <magnesium> [maɡnezɪʊ̃],'maknesium
+aluminium; aluminum,,lat <aluminium> [alʊminɪʊ̃],'aluminium
+silicon,,lat <silicium> [sɪlit͡ʃɪʊ̃],'silicium
+phosphorus,,lat <phosphorus> [fosfɔrus],'fosfolus
+sulfur; sulphur; brimstone,,lat <sulphurium> [sʊlfurɪʊ̃],'sulfulium
+chlorine,,lat <chlorium> [klorɪʊ̃],'kolorium
+argon,,lat <argon> [arɡɔn],'alkon
+potassium,,lat <kalium> [kalɪʊ̃],'kalium
+calcium,,lat <calcium> [kalt͡ʃɪʊ̃],'kalcium
+scandium,,lat <scandium> [skandɪʊ̃],'sakantium
+titanium,,lat <titanium> [tɪtanɪʊ̃],'titanium
+vanadium,,lat <vanadium> [vanadɪʊ̃],'wanatium
+chromium,,lat <chromium> [kromɪʊ̃],'kolomium
+manganese,,lat <manganum> [manɡanʊ̃],'mankanum
+nickel (substance),,lat <nichelium> [nɪkelɪʊ̃],'nikelium
+zinc,,lat <zincum> [zincʊ̃],'sinkum
+gallium,,lat <gallium> [ɡallɪʊ̃],'kalium
+germanium,,lat <germanium> [d͡ʒɛrmanɪʊ̃],'celmanium
+arsenic,,lat <arsenicum> [arsenɪkʊ̃],'alsenikum
+selenium,,lat <selenium> [selenɪʊ̃],'selenium
+bromine,,lat <bromium> [bromɪʊ̃],'pulomium
+krypton,,lat <krypton> [kriptɔn],'kilipton
+rubidium,,lat <rubidium> [rʊbidɪʊ̃],'lupitium
+strontium,,lat <strontium> [stront͡sɪʊ̃],'sotlonsium
+tungsten; wolfram,,lat <wolframium> [wɔlframɪʊ̃],'wolfamium
+denim,,eng <denim> [ˈdɛnəm],'tenim
 tapa; tapa cloth,,tah <tapa> [tapa],'tapa
 galaxy,,gre <γαλαξίας> [ɡalaksíaːs],'kalasias
 radian; rad,,eng <radian> [ˈɹʷeɪdiɪn],'watian

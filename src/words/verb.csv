@@ -427,21 +427,25 @@ protect; defend; guard; SBJ {shield; protection; defense; guard} prevents IND fr
 be in pieces; be *broken; be piecemeal; OBJ is in multiple pieces,,spa <roto> [ˈroto],loto
 break; shatter; destroy; SBJ {breaker} breaks OBJ into multiple pieces,,INCOHATIVE OF be in pieces,lotoki
 mend; fix; put back together; SBJ {fixer} puts OBJ back together,,CESSATIVE OF be in pieces,lotonu
-be structurally weak; be crumbly; OBJ is easy to break,,POSSIBILITY OF break,lotokipowi
-be structurally strong; be durable; be hard; OBJ is difficult to break {AMOUNT:structural integrity; strength; durability},,NEGATIVE OF be structurally weak,lotokipowinyo
+be fragile; be structurally weak; be crumbly; OBJ is easy to break,,POSSIBILITY OF break,lotokipowi
+be unbreaking; be structurally strong; be durable; OBJ is difficult to break {AMOUNT:structural integrity; strength; durability},,NEGATIVE OF be structurally weak,lotokipowinyo
 weaken; compromise; sabotage; SBJ {weakener; saboteur} makes OBJ structurally weaker,,INCOHATIVE OF be structurally weak,lotokipowiki
 strengthen; brace; glue; SBJ {strengthener; glue} makes OBJ structurally stronger,,CESSATIVE OF be structurally weak,lotokipowinu
-be solid; be rigid; be coherent; be coagulated; OBJ is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
+be soft; be flimsy; be squishy; give; OBJ feels soft,,,
+be hard; be rigid; be firm; be unforgiving; OBJ feels tough,,ANTONYM OF be soft,
+soften; melt; SBJ makes OBJ become soft,,INCOHATIVE OF be soft,
+harden; firm; SBJ makes OBJ become hard,,CESSATIVE OF be soft,
+be solid; be coherent; be coagulated; OBJ is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
 be fluid; be amorphous; OBJ is fluid,,ANTONYM OF be solid,nilu
-freeze; solidify; deposit; SBJ {one who freezes; freezer} freezes OBJ {frozen; ice} {INSTRUMENT:freezer},,INCOHATIVE OF be solid,kutiki
+freeze; solidify; deposit; SBJ {freezer; one who freezes} freezes OBJ {frozen; ice} {INSTRUMENT:freezer},,INCOHATIVE OF be solid,kutiki
 melt; sublimate; SBJ {melter} melts OBJ {molten},,CESSATIVE OF be solid,niluki
 be liquid; be water; OBJ {puddle} is a liquid {AMOUNT:liquidity},,cmn <水> [ʂweɪ̯˧˩˧],cwe
 be gaseous; be air; OBJ {gas; cloud} is gaseous,,ANTONYM OF be liquid,hyo
 condense; liquidify; SBJ {condenser} condenses OBJ {condensed; cloud} into a liquid,,INCOHATIVE OF be liquid,cweki
 boil; evaporate; SBJ {boiler} boils OBJ,,CESSATIVE OF be liquid,hyoki
-be flimsy; be soft; be flexible; be loose; OBJ bends easily,,POSSIBILITY OF bend,fulokipowi
-be rigid; be solid; be hard; be brittle; be firm; OBJ {rigid body} does not bend,,NEGATIVE OF be flimsy,fulokipowinyo
-flimsen; weaken; SBJ {one who increases flimsiness} makes OBJ more flimsy,,INCOHATIVE OF be flimsy,fulokipowiki
+be flexible; be flimsy; be malleable; be soft; OBJ bends easily,,POSSIBILITY OF bend,fulokipowi
+be unmalleable; be rigid; be brittle; be firm; OBJ {rigid body} does not bend,,NEGATIVE OF be flimsy,fulokipowinyo
+flimsen; weaken; SBJ makes OBJ more flimsy,,INCOHATIVE OF be flimsy,fulokipowiki
 rigidify; brace; harden; SBJ {brace; hardener} makes OBJ more rigid,,CESSATIVE OF be flimsy,fulokipowinu
 be viscous; be thick; OBJ {paste; gel; goop} is viscous {AMOUNT:viscosity},,pan <ਲੇਸਲਾ> [leslɑ],lesla
 be inviscous; be thin; OBJ {lubricant; oil; liquid} is inviscous,,ANTONYM OF be viscous,tofta
@@ -478,10 +482,6 @@ be metal; be metallic; OBJ is made out of metal,,hin <धातु> [d̤aːtu],t
 metallicise; SBJ turns OBJ into metal,,INCOHATIVE OF be metal,tatuki
 be crystal; OBJ {jewel; gem} is made out of crystal,,swa <kioo> [kioo],kio
 crystalise; SBJ turns OBJ into crystal,,INCOHATIVE OF be crystal,kioki
-be bone; OBJ {skeleton} is made out of bone,,epo <osto> [ˈosto],osto
-bonify; SBJ turns OBJ into bone,,INCOHATIVE OF be bone,ostoki
-be flesh; OBJ {meat} si made out of flesh,,OPPOSITE OF be bone,efle
-meatify; SBJ turns OBJ into flesh,,INCOHATIVE OF be flesh,efleki
 be charged; be electrified; OBJ {battery} has electric energy stored {AMOUNT:electric potential; voltage; *electricity},,yor <iná> [ĩ̄á],ina
 charge; electrify; SBJ {charger} imbues OBJ with electric energy,,INCOHATIVE OF be charged,inaki
 discharge; shock; electrify; power; SBJ releases the electric energy of OBJ onto IND {machine; electric circuit} {METHOD:conduit; wire; circuit; component},,CESSATIVE OF be charged,inanu

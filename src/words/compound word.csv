@@ -127,17 +127,22 @@ air; atmosphere; nitrogen and oxygen and all that jazz,,sky gas,miphyolon
 lava; magma,,be-stone puddle,patocwelon
 mud,,be-soil puddle,anicwelon
 oxygen,,breathe gas,hihahyolon
-be copper,,be-cyan metal,nilatihutatulon
+be copper,,be-green metal,nilatihutatulon
 be bronze; OBJ is made of bronze,,be-skillful be-copper,lusonilatihutatulon
-be iron; OBJ is made of iron,,be-heavy be-metal,palitatu
+be iron; OBJ is made of iron,,be-hard be-metal,palitatu
 be steel; OBJ is made of steel,,be-skillful be-iron,lusopalitatu
 be gold; OBJ is made of gold,,be-yellow be-metal,pilatatu
-be aluminium; OBJ is made of aluminium,,be-light be-metal,matutatu
+be lead; OBJ is made of lead,,be-heavy be-metal,
+be tin; OBJ is made of tin,,be-soft be-metal,
 gunpowder,,burn powder,cyaukiufalon
 oil; petroleum,,burn puddle,cyaukicwelon
+carbon; coal,,live material,icilwelcakalum
+nitrogen,,sky material,mipcakalum
+sodium,,be-salty material,
+cobalt (substance),,be-blue material,
 be quartz; OBJ is made of quartz,,white be-crystal,ocalonkio
 be emerald; OBJ is made of emerald,,be-green be-crystal,tihukio
-be diamond; OBJ is made of diamond,,be-structurally-strong be-crystal,emanakio
+be diamond; OBJ is made of diamond,,be-hard be-crystal,emanakio
 be-pearl; OBJ is made of pearl,,be-circular be-crystal,siklakio
 be plastic; OBJ is made of plastic,,person be-crystal,wonkio
 be rubber; OBJ is made of rubber,,bounce be-crystal,
@@ -189,6 +194,7 @@ vegetarian; something that does not eat meat,,0 animal eater,nultunnyamales
 carnivore; something that eats meat,,animal eater,tunnyamales
 herbivore; something that eats plants,,plant eater,cannyamales
 alcohol {GENITIVE:alcoholic},,have-fun puddle,mocacwelon
+beer,,cereal puddle,
 be drunk; be intoxicated; OBJ is drunk,,have-fun be-sick,mocafaku
 be sober; be dry; OBJ is sober,,be-bored be-sick,pehafaku
 drink; get drunk; intoxicate; SBJ makes OBJ drunk,,INCOHATIVE OF be drunk,mocafakuki
@@ -196,13 +202,13 @@ sober; SBJ makes OBJ become sober,,CESSATIVE OF be drunk,mocafakunu
 have hangover; OBJ has a hangover,,be-bored begin be-sick,pehakifaku
 tea,,leaf puddle,pancwelon
 milk,,parent puddle,mamacwelon
-cheese,,parent be-liquid rigid-body,mamacwekutilon
+cheese,,parent be-liquid solid,mamacwekutilon
 wine,,grape alcohol,upmocacwelon
 blood,,be-rhythmic puddle,tutumucwelon
 bleed; SBJ bleeds out OBJ,,blood exit,tutumucwelonkoki
 urine; pee,,be-yellow puddle,pilacwelon
 urinate; pee; SBJ urinates out OBJ,,urine exit,pilacwelonkoki
-feces; excrement; poop,,buttocks rigid-body,pikkutilon
+feces; excrement; poop,,buttocks solid,pikkutilon
 diarrhea,,be-liquid feces,cwepikkutilon
 defecate; poop; SBJ defecates out OBJ,,feces exit,pikkutilonkoki
 saliva,,eat puddle,nyamacwelon
@@ -230,8 +236,8 @@ shin; lower leg,,be-far leg,kolek
 pelvis; hips,,torso bottom,tolniculon
 mouth,,eat gland,nyamacyen
 lip,,eat sheet,nyamalat
-tooth,,eat skeleton,nyamaostolon
-gums,,eat flimsy,nyamafulokipowilon
+tooth,,eat hard,nyamaostolon
+gums,,eat soft,nyamafulokipowilon
 alveolar ridge; alveolar margin,,tooth nub,nyamaostolontapalon
 hard palate,,mouth plate,nyamacyenfel
 soft palate; velum,,mouth sheet,nyamacyenlat
@@ -247,6 +253,8 @@ heart,,be-rhythmic gland,tutumucyen
 heart (metaphorical); soul; spirit,,feel gland,swacyen
 brain,,ponder gland,cintacyen
 muscle,,move gland,mopecyen
+bone,,be-hard gland,
+flesh; meat,,be-soft gland,
 uterus,,be-pregnant gland,imecyen
 ovary,,egg gland,tancyen
 testicle,,seed gland,piccyen
@@ -267,8 +275,6 @@ sweep; SBJ sweeps OBJ off of IND {INSTRUMENT:broom},,be-broad rub,ancosapu
 mop,,be-liquid broom,cweancosapuluat
 shake; vibrate; OBJ shakes,,be-rhythmic move,tutumumope
 shake; vibrate; SBJ shakes OBJ,,INCOHATIVE OF shake,tutumumopeki
-carbon,,live material,icilwelcakalum
-nitrogen,,sky material,mipcakalum
 antenna,,string arm,talpih
 tentacle,,string leg,tallek
 wing,,fly arm,fopih
@@ -425,8 +431,8 @@ anglerfish,,light fish,luspes
 pufferfish,,balloon fish,motakilonpes
 koi; koi fish,,be-coloured carp,lonokap
 seahorse,,ocean equine,lawthihin
-vertebrate,,be-rigid animal,fulokipowinyotun
-invertebrate,,be-flimsy animal,fulokipowitun
+vertebrate,,be-hard animal,fulokipowinyotun
+invertebrate,,be-soft animal,fulokipowitun
 arthropod {GENITIVE:arthropodic},,shell animal,pontolontun
 seastar; sealily,,flower animal,pultun
 seaurchin,,be-sharp animal,aklatun
@@ -452,7 +458,7 @@ decapus; squid; cuttlefish,,1 0 molusk,kannultallektun
 beard worm,,be-big tube worm,motalamasiklalonkil
 leech,,blood worm,tutumucwelonkil
 sea anemone; sea fan; seawhip,,flower animal,talcantun
-coral,,be-rigid organism,fulokipowinyoicilwel
+coral,,be-hard organism,fulokipowinyoicilwel
 sea sponge,,be-foamy organism,fomiicilwel
 tardigrade; water bear; moss piglet; Tardigrada,,be-small bear,pelalic
 moss; liverwort; hornwort,,landmass algae,taylsawl
@@ -485,7 +491,7 @@ eggplant; aubergine; brinjal; Solanum melongena,,be-foamy fruit,
 fava bean; broad bean; horse bean; Vicia faba,,be-big legume,
 garden beet; beetroot,,root beet,
 garlic; Allium sativum,,be-powder onion,
-gourd; Cucurbitaceae with rigid shells,,be-rigid fruit
+gourd; Cucurbitaceae with rigid shells,,be-hard fruit
 grape,,fruit vine,
 green bean; french bean; string bean; snap,,string legume,
 honeydew,,be-green melon,
