@@ -89,7 +89,7 @@ Finland {GENITIVE:Finnish; from Finland|PEOPLE:Finn; the Finnish people|LANGUAGE
 France {GENITIVE:French; from France|PEOPLE:Frenchman; the French people|LANGUAGE:French; the French language},,fra <France> [ˈfʁɑ̃s],'fahanse
 Gabon {GENITIVE:Gabonese; Gabonaise; from Gabon|PEOPLE:Gabonese; Gabonaise; the Gabonese people},,fra <Gabon> [ɡabɔ̃],'kapon
 Gael; the Gaelic people {GENITIVE:Gaelic; of the Gaels|LANGUAGE:Goidelic; Gaelic; a Goidelic language},,gla <Gàidheal> [ˈkɛːəɫ],'keal
-Gambia River; River Gambra {GENITIVE:Gambian; from The Gambia|PEOPLE:Gambian; the Gambian people|COUNTRY:The Gambia; Republic of The Gambia},,eng <Gambia> [ˈɡæmbiə],'kampia
+Gambia river; the River Gambra {GENITIVE:Gambian; from The Gambia|PEOPLE:Gambian; the Gambian people|COUNTRY:The Gambia; Republic of The Gambia},,eng <Gambia> [ˈɡæmbiə],'kampia
 Georgian; the Georgian people {GENITIVE:Georgian; from Georgia|COUNTRY:Georgia|LANGUAGE:Georgian; the Georgian langauge|REGION:Kartli},,kat <ქართველ-> [kʰɑrtʰvɛl],'kaltwel
 German; the German people {GENITIVE:German; Germanic; from Germany|COUNTRY:Germany|LANGUAGE:German; the German language},,deu <Deutsch> [ˈdɔʏ̯t͡ʃ],'tojc
 Ghana {GENITIVE:Ghanian; from Ghana|PEOPLE:Ghanian; the Ghanian people},,eng <Ghana> [ˈɡɑːnə],'kana
@@ -104,7 +104,7 @@ Haiti {GENITIVE:Haitian; from Haiti|PEOPLE:Haitian; the Haitian people|LANGUAGE:
 Han; the Han people {GENITIVE:Han; of the Han|RELIGION:Han folk religion; Chinese folk religion},,cmn <漢> [xan˥˩],'han
 Hausa; Ausa; the Hausa people {GENITIVE:Hausa; of the Hausa|LANGUAGE:Hausa; the Hausa language},,hau <Hausa> [hawsa],'hawsa
 Hawaii (landmass) {GENITIVE:Hawaiian; Kamaʻaina; from Hawaii|COUNTRY:Hawaii; the State of Hawaii|LANGUAGE:Hawaiian; the Hawaiian language|REGION:Hawaii (archipelago) {PEOPLE:Hawaiian; the Hawaiian people}},,haw <Hawaiʻi> [həˈvɐjʔi],'hawayi
-Herzegovina {GENITIVE:Herzegovinian; from Herzegovina|PEOPLE:Herzegovinian; the Herzegovinian people},,bos <Hercegovina> [xɛ̌rtsɛɡov̞ina],helsekowina
+Herzegovina {GENITIVE:Herzegovinian; from Herzegovina|PEOPLE:Herzegovinian; the Herzegovinian people},,bos <Hercegovina> [xɛ̌rtsɛɡov̞ina],'helsekowina
 Honduras {GENITIVE:Honduran; from Honduras|PEOPLE:Honduran; Catracho; the Honduran people},,spa <Honduras> [onˈduɾas],'ontulas
 Hungarian; the Hungarian people {GENITIVE:Hungarian; from Hungary|COUNTRY:Hungary|LANGUAGE:Hungarian; the Hungarian language},,hun <maygar> [mɒɟɒr],'makyal
 Iceland (landmass) {GENITIVE:Icelandic; from Iceland|PEOPLE:Icelander; the Icelandic people|COUNTRY:Iceland (country)|LANGUAGE:Icelandic; the Icelandic language},,isl <Ísland> [ˈistlant],'islan
@@ -124,7 +124,7 @@ Japan {GENITIVE:Japanese; from Japan|PEOPLE:Japanese person; the Japanese people
 Jamaica (landmass) {GENITIVE:Jamaican; from Jamaica|PEOPLE:Jamaican; the Jamaican people|COUNTRY:Jamaica (country)|LANGUAGE:Jamaican Patois; Patwa; Jamaican Creole},,jam <Jamaica> [d͡ʒʊmiɛka],'cumieka
 Java (island) {GENITIVE:Javanese; from Java|PEOPLE:Javanese; the Javanese people|LANGUAGE:Javanese; the Javanese language},,jav <ꦗꦮ> [d͡ʒɔwɔ],'cawa
 Jew; the Jewish people {GENITIVE:Jewish; of the Jews|COUNTRY:Judah; the Kingdom of Judah|RELIGION:Judaism {PEOPLE:Jew; religious Jew; followers of Judaism}},,heb <יְהוּדִים> [jehuˈdim],'yehutim
-Jordan River {GENITIVE:Jordanian; from Jordan|PEOPLE:Jordanian; the Jordanian people|COUNTRY:Jordan; the Hashemite Kingdom of Jordan},,ara <ْأُردن> [ʔurdunn],'ultun
+Jordan river {GENITIVE:Jordanian; from Jordan|PEOPLE:Jordanian; the Jordanian people|COUNTRY:Jordan; the Hashemite Kingdom of Jordan},,ara <ْأُردن> [ʔurdunn],'ultun
 Kazakh; Kazakhstani; the Kazakhstani people {GENITIVE:Kazakhstani; from Kazakhstan|COUNTRY:Kazakhstan|LANGUAGE:Kazakh; Kazak; the Kazakh language},,kaz <Kazak> [qɑzɑq],'kasak
 Mount Kenya {GENITIVE:Kenyan; from Kenya|PEOPLE:Kenyan; the Kenyan people|COUNTRY:Kenya; the Republic of Kenya},,swa <Kenya> [kɛɲɑ],'kenya
 Kiribati; the Gilbert Islands {GENITIVE:I-Kiribati; from Kiribati|PEOPLE:I-Kiribati; Gilbertese; the I-Kiribati people|COUNTRY:Kiribati; the Republic of Kiribati|LANGUAGE:Gilbertese; Kiribati; Kiribatese; the Kiribati language},,gil <Kiribati> [kiɾipas],'kilipas
@@ -160,7 +160,7 @@ Melanesian; the Melanesian people {GENITIVE:Melanesian; from Melanesia|REGION:Me
 Mexico {GENITIVE:Mexican; from Mexico|PEOPLE:Mexican; the Mexican people},,spa <México> [ˈmexiko],'mehiko
 Micronesia (archipelago) {GENITIVE:Micronesian; from Micronesia|PEOPLE:Micronesian; the Micronesian people|COUNTRY:Micronesia; Federated States of Micronesia {PEOPLE:Micronesian; the Micronesian citizenry},,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
 Fujian; Fujien; Min {GENITIVE:Fujianese; from Fujian|PEOPLE:Fujianese; Fujian; the Fujianese people|LANGUAGE:Min Chinese; the Min languages},,nan <福建> [hok˨kjeŋ˨˩˧],'hokyen
-Moldova River {GENITIVE:Moldovan; from Moldova|PEOPLE:Moldovan; the Moldovan people|COUNTRY:Moldova|LANGUAGE:Moldovan; the Moldovan language},,ron <Moldova> [moldova],'moltofa
+Moldova river {GENITIVE:Moldovan; from Moldova|PEOPLE:Moldovan; the Moldovan people|COUNTRY:Moldova|LANGUAGE:Moldovan; the Moldovan language},,ron <Moldova> [moldova],'moltofa
 Monaco {GENITIVE:Monacan; Monégasque; from Monaco|PEOPLE:Monégasque; Monacan; the Monacan people},,fra <Monaco> [mɔnako],'monako
 Mongol; the Mongolian people {GENITIVE:Mongolian; from Mongolia|COUNTRY:Mongolia|LANGUAGE:Mongolian; the Mongolian language},,mon <ᠮᠣᠩᠭᠣᠯ> [mɔŋɢɔɮ],'monkol
 Montenegro {GENITIVE:Montenegrin; from Montenegro|PEOPLE:Montenegrin; the Montenegrin people|LANGUAGE:Montenegrin; the Montenegrin language},,cnr <Црна Гора> [t͡sr̩ːnaː ɡɔra],'selnakola
@@ -168,14 +168,14 @@ Maghreb; Maghrib {GENITIVE:Maghrebi; Maghreb; from the Maghreb|COUNTRY:Morocco {
 Island of Mozambique {GENITIVE:Mozambican; from Mozambique|COUNTRY:Mozambique; the Republic of Mozambique {PEOPLE:Mozambican; the Mozambican people}},,por <Moçambique> [musɐ̃ˈbikɨ],'musampiki
 Bamar; Burmese; Burman; the Burmese people {GENITIVE:Myanma; Burmese; from Myanmar|COUNTRY:Myanmar; Burma|LANGUAGE:Burmese; Myanmar; the Burmese language},,mya <ဗမာ> [bəmà],'pama
 Nahuatl; the Nahuatl language {GENITIVE:Nahua; of the Nahuas|PEOPLE:Nahua; Aztec; the Nahua people|COUNTRY:Aztec Empire},,nah <Nahuatl> [ˈnaːwat͡ɬ],'nawatla
-Namib Desert {GENITIVE:Namibian; from Namibia|PEOPLE:Namibian; the Namibian people|COUNTRY:Namibia; Republic of Namibia},,naq <namib> [naˈmip],'namipia
+Namib desert {GENITIVE:Namibian; from Namibia|PEOPLE:Namibian; the Namibian people|COUNTRY:Namibia; Republic of Namibia},,naq <namib> [naˈmip],'namipia
 Nauru; Pleasant Island (landmass) {GENITIVE:Nauruan; from Nauru|PEOPLE:Nauruan; the Nauruan people|COUNTRY:Nauru; the Republic of Nauru|LANGUAGE:Nauruan; the Nauruan language},,nau <Naoero> [naoero],'naoelo
 Neo Patwa; Neo Patwah {GENITIVE:Neo Patwa; in Neo Patwa|PEOPLE:Neo Patwist; Neo Patwa speakers},,npt <Neo Patwa> [neˈo paˈtwa],'neopatwa
 Nepal {GENITIVE:Nepalese; Nepali; from Nepal|PEOPLE:Nepalese; Nepali; the Nepalese people|LANGUAGE:Nepali; the Nepali language},,nep <नेपाल> [neˈpal],'nepal
 Netherlands; Holland; the Low Countries {GENITIVE:Dutch; Netherlandic; from the Netherlands|PEOPLE:Dutch; Netherlander; the Dutch people|LANGUAGE:Dutch; the Dutch language|REGION:the Low Countries; the Low Lands; the Netherlands},,nld <Nederland> [neːdərlɑnt],'netalan
 Nicaragua {GENITIVE:Nicaraguan; from Nicaragua|PEOPLE:Nicaraguan; the Nicaraguan people},,spa <Nicaragua> [nikaˈɾaɣwa],'nikalakwa
-Niger {GENITIVE:Nigerien; from Niger|PEOPLE:Nigerien; the Nigerien people},,fra <Niger> [niʒɛʁ],'niceh
-Nigeria {GENITIVE:Nigerian; from Nigeria|PEOPLE:Nigerian; the Nigerian people},,eng <Nigeria> [naɪ̯ˈd͡ʒɪɹʷiə],'nayciwia
+Niger river; the Republic of the Niger {COUNTRY:Niger; {GENITIVE:Nigerien; from Niger|PEOPLE:Nigerien; the Nigerien people}},,fra <Niger> [niʒɛʁ],'niceh
+Nigeria; the Federal Republic of Nigeria {GENITIVE:Nigerian; from Nigeria|PEOPLE:Nigerian; the Nigerian people},,eng <Nigeria> [naɪ̯ˈd͡ʒɪɹʷiə],'nayciwia
 Niue (landmass) {GENITIVE:Niuean; from Niue|PEOPLE:Niuean; the Niuean people|COUNTRY:Niue (country)|LANGUAGE:Niuean; the Niuean language},,niu <Niuē> [niweː],'niwe
 Nevis {GENITIVE:Nevisian; from Nevis},,aig <Nevis> [ˈnivis],'nifis
 Norway {GENITIVE:Norwegian; from Norway|PEOPLE:Norwegian; the Norwegian people|LANGUAGE:Norwegian; the Norwegian language},,nor <Norge> [nʊɾɡə],'nolka
@@ -207,6 +207,7 @@ Saint Vincent; Yurumei; Hairouna {GENITIVE:Saint Vincentian; Vincentian; from Sa
 El Salvador {GENITIVE:Salvadoran; from El Salvador|PEOPLE:Salvadoran; Salvadorian; Salvadorean; Guanaco; the Salvadoran people},,spa <Salvador> [salβaˈðor],'salpatol
 Samoa (landmass) {GENITIVE:Samoan; from Samoa|PEOPLE:Samoan; the Samoan people|COUNTRY:Samoa; the Independent State of Samoa|LANGUAGE:Samoan; the Samoan language},,smo <Sāmoa> [ˈsaːmoa],'samoa
 San Marino {GENITIVE:Sammarinese; from San Marino|PEOPLE:Sanmarinese; the Sanmarinese people},,ita <San Marino> [san mariːno],'sanmalino
+Sanskrit; the Sanskrit language {GENITIVE:Sanskrit; in Sanskrit|PEOPLE:Sanskrit speakers},,san <संस्कृतम्> [ˈsɐ̃skr̩tɐm],'sanskaltam
 São Tomé; São Tomé city,,por <São Tomé> [sɐ̃w tuˈmɛ],'sawntume
 Scot; the Scottish people {GENITIVE:Scottish; from Scotland|COUNTRY:Scotland|LANGUAGE:Scots; Lowland Scots; the Scots language},,sco <Scot> [skɔt],'sokot
 Senegal {GENITIVE:Senegalese; from Senegal|PEOPLE:Senegalese; the Senegalese people},,wol <Senegaal> [sɛnɛgaːl],'senekal
@@ -260,7 +261,7 @@ Xhosa; the Xhosa people {GENITIVE:Xhosa; of the Xhosa|LANGUAGE:Xhosa; the Xhosa 
 Yoruba; Ioruba; Joruba; the Yoruba people {GENITIVE:Yoruba; of the Yoruba|LANGUAGE:Yoruba; the Yoruba language},,yor <Yorùbá> [jōɾùbá],'yolupa
 Guangdong; Canton Province {GENITIVE:Yue; in Yue|LANGUAGE:Yue Chinese; Cantonese},,yue <廣東> [kʷɔ̌ːŋ tʊ́ŋ],'kwontun
 Yemen {GENITIVE:Yemeni; from Yemen|PEOPLE:Yemeni; Yemenite; the Yemeni people},,ara <يمن> [jaman],'yaman
-Zambezi River {GENITIVE:Zambian|PEOPLE:Zambian; the Zambian people|COUNTRY:Zambia; the Republic of Zambia},,eng <Zambezi> [zæmˈbɛzi],'sampesi
+Zambezi river {GENITIVE:Zambian|PEOPLE:Zambian; the Zambian people|COUNTRY:Zambia; the Republic of Zambia},,eng <Zambezi> [zæmˈbɛzi],'sampesi
 Zimbabwe {GENITIVE:Zimbabwean; from Zimbabwe|PEOPLE:Zimbabwean; Zimbo; the Zimbabwean people},,sna <Zimbabwe> [zimbabwe],'simpapwe
 Zulu; the Zulu people {GENITIVE:Zulu; of the Zulu|LANGUAGE:Zulu; the Zulu language},,zul <Zulu> [zuːlu],'sulu
 Babylon,,akk <𒆍𒀭𒊏𒆠> [baːbili],'papilim
@@ -328,12 +329,12 @@ Ahura Mazda; Ohrmazd; Ahuramazda; Hourmazd; Hormazd; Hurmuz {RELIGION:Zoroastria
 feng shui,,cmn <风水> [fəŋ˥ʂweɪ̯˧˩˥],'fancwey
 homeopathy,,deu <homöopathie> [hoːmœoːpatiː],'homeopati
 Bering; Vitus Jonassen Bering; Ivan Ivanovich Bering,,dan <Bering> [beʁɛŋɡ],'pehen
-bitcoin; ₿,,eng <bitcoin> [ˈbɪtkɔɪ̯n],pitkoyn
+bitcoin; ₿,,eng <bitcoin> [ˈbɪtkɔɪ̯n],'pitkoyn
 dollar; $,,eng <dollar> [ˈdɑlɚ],'tala
 euro; €,,spa <euro> [ˈewɾo],'ewlo
-franc; ₣,,fra <franc> [fʁɑ̃],fahan
+franc; ₣,,fra <franc> [fʁɑ̃],'fahan
 krona; krone; króna; kr.,,nor <krone> [ˈkruːnə],'kolona
-pound; lira; libra; £,,vec <lira> [lira],lila
+pound; lira; libra; £,,vec <lira> [lira],'lila
 peso; $; ₱,,spa <peso> [ˈpeso],'peso
 rand; R,,eng <rand> [ɹʷɑnd],'wan
 real; R$,,por <real> [ʁɨˈaɫ],'hial

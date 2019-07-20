@@ -16,12 +16,10 @@ baby; infant; newborn; very young and underdeveloped animal {GENITIVE:infantile}
 child; youth; girl; boy; adolescent; kid; not fully-grown animal {GENITIVE:juvenile; adolescent},,cmn <儿童> [ɚ˧˥tʰʊŋ˧˥],atun
 adult; fully-grown animal {GENITIVE:adult},,OPPOSITE OF youth,alik
 senior citizen; elder; very old and decrepit animal {GENITIVE:elder},,OPPOSITE OF baby,ninap
-specialist; personnel; qualified; authorised; person with special training and knowledge in a context {GENITIVE:special; technical},,msa <pakar> [pakar],pakal
-layperson; civilian; customer; member of the public; person with only general knowledge in a context {GENITIVE:popular; general},,OPPOSITE OF specialist,manat
 light; electromagnetic radiation {GENITIVE:photic; optic; luminescient},*luz,spa <luz> [lus],lus
 "god; deity; superhuman entity worshiped as having great influence over reality, but not any god in particular {GENITIVE:divine; godly; deific}",,eng <god> [ɡɒd],kot
 ground; planet; gravitationally-bound solid mass {GENITIVE:terrestrial; planetary},,hin <भूमि> [b̤uːmi],pum
-sky; atmosphere; weather; heavens; pneumatic space directly above the ground {GENITIVE:celestial; atmospheric; meteorological; aerial},,OPPOSITE OF ground,mip
+sky; atmosphere; weather; heavens; all space above the ground {GENITIVE:celestial; atmospheric; meteorological; aerial; heavenly},,OPPOSITE OF ground,mip
 outer *space; cosmos; vacuumic space above the atmosphere {GENITIVE:cosmic; astral; interstellar},,cmn <太空> [tʰaɪ̯˥˩kʰʊŋ˥],taykun
 sun; star; gravitationally-bound mass of burning plasma {GENITIVE:solar; stellar},,epo <suno> [ˈsuno],sun
 moon; satellite; solid object gravitationally orbiting another {GENITIVE:lunar},,OPPOSITE OF sun,fik
@@ -29,7 +27,8 @@ ocean; sea; large interconnected bodies of liquid covering most of a planet {GEN
 land; landmass; solid surface above and surrounded by ocean {GENITIVE:terrestrial},,OPPOSITE OF ocean,tayl
 mountain; large elevated region of a planet's crust {GENITIVE:mountainous; montanical},,nya <phiri> [pʰiɽi],pil
 valley; large locally depressed region of a planet's crust {GENITIVE:valley},,OPPOSITE OF mountain,mut
-settlement; *city; town; village; dense collection of human homes {GENITIVE:urban; villestial},,cmn <市> [ʂɨ˥˩],cih
+settlement; *city; town; village; dense collection of human residences {GENITIVE:urban; villestial},,cmn <市> [ʂɨ˥˩],cih
+countryside; country; large but sparse distribution of human residences {GENITIVE:rural},,OPPOSITE OF settlement,huc
 storm; tempest; violent and dangerous disturbance of the atmosphere {GENITIVE:stormy; cyclonical},,ben <ঝড়> [d͡ʑ̤ɔɽɔ],col
 state; *country; polity; politically independent group of people {GENITIVE:political; national; federal},,hin <देश> [deʃ],tec
 culture; nation; tribe; clan; human social group {GENITIVE:cultural; national; tribal; social},,sho <tsika> [t͡sika],sik
@@ -39,7 +38,7 @@ family; intimate group of people {GENITIVE:familial},,sho <mhuri> [m̤uri],mul
 home; place of residence of an individual or family {GENITIVE:domestic},,eng <home> [hoʊ̯m],hom
 furniture; large movable equipment used to make a space more livable,,swa <samani> [samani],saman
 season; period of time characterised by some thing or event {GENITIVE:seasonal},,ben <ঋতু> [ɽit̪u],lit
-reality; possibility; world; dimension; universe; collection of all coexisting things {GENITIVE:realistic; possible; dimensional},,yor <òtítọ́> [òtítɔ́],otit
+reality; universe; dimension; collection of all canonical existing things {GENITIVE:real; realistic; possible},,yor <òtítọ́> [òtítɔ́],otit
 layout; topography; geography {GENITIVE:topographical; geographical},,eng <layout> [leɪ̯aʊ̯t],leyawt
 body; chassis; physical manifestation {GENITIVE:bodily; physical; corporal},,eng <body> [ˈbɒɾi],pot
 soul; spirit; metaphysical essence,,OPPOSITE OF body,mel
@@ -72,18 +71,18 @@ plant; vegetable; Plantae {GENITIVE:botanical; vegetal},,cmn <厂> [ʈ͡ʂʰɑŋ
 fungus; Fungi {GENITIVE:fungal; fungic; fungous},,cmn <菌> [t͡ɕyn˥],ciwn
 primate; monkey; ape; Primates {GENITIVE:simian},,ono [u ki ki],ukim
 rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew; Glires {GENITIVE:murine},,cmn <啮齿> [njɛ˥˩ʈ͡ʂʰɨ˧˩˧],nyec
-feline; cat; Felidae {GENITIVE:feline},,ono [mjaw],myawf
-canine; dog; wolf; dingo; fox; Canidae {GENITIVE:canine},,ono [baw waw wof],pawaf
+feline; cat; kitten; Felidae {GENITIVE:feline},,ono [mjaw],myawf
+canine; dog; wolf; dingo; fox; pup; cub; Canidae {GENITIVE:canine},,ono [baw waw wof],pawaf
 bear; Ursidae {GENITIVE:ursine},,pan <ਰਿੱਛ> [ɾɪːt͡ʃʰ],lic
 seal; walrus; sea lion; Pinnipedia,,spa <sello> [ˈseʝo],seyoh
 musteloid; red panda; skunk; *raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine; Musteloidea,,cmn <狸> [li],lih
-equid; horse; zebra; wild butt; Equidae {GENITIVE:equine},,ono [hi hin],hihin
+equid; horse; zebra; pony; wild butt; Equidae {GENITIVE:equine},,ono [hi hin],hihin
 tapir; Tapiridae,,spa <tapir> [taˈpir],tapil
 rhinoceros; rhino; rhinocerotidae,,ben <গণ্ডার> [ɡɔndar],kontal
 camelid; camel; llama; alpaca; guanaco; Camelidae,,pan <ਊਠ> [uʈʰ],ut
-suid; swine; boar; *pig; hog; pork; Suidae {GENITIVE:swine},,pan <ਸੂਰ> [suɾ],sul
+suid; swine; boar; *pig; hog; piglet; pork; Suidae {GENITIVE:swine},,pan <ਸੂਰ> [suɾ],sul
 giraffe; okapi; Giraffidae,,hin <जिराफ़> [d͡ʒiraːf],cilaf
-bovid; cow; beef; buffalo; antelope; sheep; mutton; goat; Bovidae,,ono [muː],muf
+bovid; cow; calf; beef; buffalo; antelope; sheep; lamb; mutton; goat; kid; Bovidae,,ono [muː],muf
 hippopotamus; hippo; Hippopotamidae,,sot <holo> [holo],hol
 cetacean; whale; dolphin; porpoise; Cetacea,,cmn <鲸> [t͡ɕiŋ˥],cin
 elephant; Elephantidae,elefante,ono bjãː,pyah
@@ -97,7 +96,7 @@ lizard; Lacertilia,,eng <lizard> [ˈlɪzɚd],lisat
 snake; Serpentes,,ono [sː],sas
 paleognath; ostrich; emu; rhea; tinamou; kiwi; cassowary; Palaeognathae,,sot <lema> [lemɑ],lem
 fowl; duck; swan; goose; chicken; turkey; pheasant; Galloanserae,,spa <ave> [ˈaβe],ap
-chicken; junglefowl; Gallus,,ono [kuk kurikoː],kukulik
+chicken; chick; junglefowl; Gallus,,ono [kuk kurikoː],kukulik
 turkey (bird); Meleagris,,ono [gululu],kululun
 pigeon; dove; sandgrouse; mesite; Columbimorphae,,ben <পায়রা> [pae̯ra],payl
 raptor; hawk; eagle; kite; vulture; condor; osprey; owl; falcon; bird of prey,,ono [kijɑː],kiah
@@ -118,7 +117,7 @@ crustacean; *crab; lobster; crayfish; shrimp; prawn; krill; Crustacea,,eng <crab
 barnacle; copepod; Cirripedia,,yor <ọwọn> [ɔwɔ̃],owon
 beetle; Coleoptera,,ibo <ebe> [ebe],ep
 mosquito; Culicidae,,ben <মশা> [mɔɕa],moc
-fly; *housefly; gnat; midge; Muscidae,mosca,epo <muŝo> [ˈmuʃo],muc
+fly; *housefly; gnat; midge; Muscidae,mosca,ono [i̋ː],ihih
 flea; Siphonaptera,,ben <মাছি> [mat͡ɕʰi],mac
 butterfly; moths; Lepidoptera,,cmn <蝴蝶> [xu˧˥tjɛ˧˥],hutyeh
 wasp; Apocrita minus Anthophilia and Formicidae,,ibo <wep> [wep],wep
