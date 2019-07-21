@@ -101,7 +101,7 @@ Guatemala {GENITIVE:Guatemalan; from Guatemala|PEOPLE:Guatemalan; the Guatemalan
 Guinea (region),,por <Guiné> [ɡiˈne],'kine
 Guyana {GENITIVE:Guyanese; from Guyana|PEOPLE:Guyanaese; the Guyanese people},,eng <Guyana> [ɡaɪ̯ˈɑːnə],'kajana
 Haiti {GENITIVE:Haitian; from Haiti|PEOPLE:Haitian; the Haitian people|LANGUAGE:Haitian creole},,hat <Ayiti> [ajiti],'ajiti
-Han; the Han people {GENITIVE:Han; of the Han|RELIGION:Han folk religion; Chinese folk religion},,cmn <漢> [xan˥˩],'han
+Han; the Han people {GENITIVE:Han; of the Han},,cmn <漢> [xan˥˩],'han
 Hausa; Ausa; the Hausa people {GENITIVE:Hausa; of the Hausa|LANGUAGE:Hausa; the Hausa language},,hau <Hausa> [hawsa],'hawsa
 Hawaii (landmass) {GENITIVE:Hawaiian; Kamaʻaina; from Hawaii|COUNTRY:Hawaii; the State of Hawaii|LANGUAGE:Hawaiian; the Hawaiian language|REGION:Hawaii (archipelago) {PEOPLE:Hawaiian; the Hawaiian people}},,haw <Hawaiʻi> [həˈvɐjʔi],'hawayi
 Herzegovina {GENITIVE:Herzegovinian; from Herzegovina|PEOPLE:Herzegovinian; the Herzegovinian people},,bos <Hercegovina> [xɛ̌rtsɛɡov̞ina],'helsekowina
@@ -110,7 +110,7 @@ Hungarian; the Hungarian people {GENITIVE:Hungarian; from Hungary|COUNTRY:Hungar
 Iceland (landmass) {GENITIVE:Icelandic; from Iceland|PEOPLE:Icelander; the Icelandic people|COUNTRY:Iceland (country)|LANGUAGE:Icelandic; the Icelandic language},,isl <Ísland> [ˈistlant],'islan
 Ido {GENITIVE:Ido; Idist; Ida|PEOPLE:Idist; Ido speakers},,ido <Ido> [ˈido],'ito
 Igbo; the Igbo people {GENITIVE:Igbo; in Igbo|LANGUAGE:Igbo; the Igbo language},,ibo <Ị̀gbò> [ìɡ͡bò],'ikpo
-India; South Asia; the Hind; the Indian sub-continent {GENITIVE:Indian; from India|COUNTRY:India; Hindustan; the Republic of India {PEOPLE:Indian; the Indian people}|LANGUAGE:Hindi; the Hindi language|RELIGION:Hinduism {PEOPLE:Hindu; followers of Hinduism}},,hin <हिन्दू> [ɦɪnduː],'hintu
+India; South Asia; the Hind; the Indian sub-continent {GENITIVE:Indian; from India|COUNTRY:India; Hindustan; the Republic of India {PEOPLE:Indian; the Indian people}|LANGUAGE:Hindi; the Hindi language},,hin <हिन्दू> [ɦɪnduː],'hintu
 Indonesia {GENITIVE:Indonesian; from Indonesia|PEOPLE:Indonesian; the Indonesian people|LANGUAGE:Indonesian; the Indonesian language},,ind <Indonesia> [ɪndonesia],'intonesia
 Interlingua {GENITIVE:Interlingua; in Interlingua|PEOPLE:Interlinguist; Interlingua speakers},,ina <Interlingua> [inteɾˈliŋɡwa],'intelinkwa
 Interlingue; Occidental {GENITIVE:Interlingue; in Interlingue|PEOPLE:Occidentallist; Interlingue speakers},,ile <Interlingue> [interlingwe],'intelinkwe
@@ -123,7 +123,7 @@ Ivory Coast; Côte d'Ivoire {GENITIVE:Ivorian; from Ivory Coast|PEOPLE:Ivorian; 
 Japan {GENITIVE:Japanese; from Japan|PEOPLE:Japanese person; the Japanese people|LANGUAGE:Japanese; the Japanese language},,jap <日本> [ɲipːoɴ],'nipon
 Jamaica (landmass) {GENITIVE:Jamaican; from Jamaica|PEOPLE:Jamaican; the Jamaican people|COUNTRY:Jamaica (country)|LANGUAGE:Jamaican Patois; Patwa; Jamaican Creole},,jam <Jamaica> [d͡ʒʊmiɛka],'cumieka
 Java (island) {GENITIVE:Javanese; from Java|PEOPLE:Javanese; the Javanese people|LANGUAGE:Javanese; the Javanese language},,jav <ꦗꦮ> [d͡ʒɔwɔ],'cawa
-Jew; the Jewish people {GENITIVE:Jewish; of the Jews|COUNTRY:Judah; the Kingdom of Judah|RELIGION:Judaism {PEOPLE:Jew; religious Jew; followers of Judaism}},,heb <יְהוּדִים> [jehuˈdim],'yehutim
+Jew; the Jewish people {GENITIVE:Jewish; of the Jews|COUNTRY:Judah; the Kingdom of Judah},,heb <יְהוּדִים> [jehuˈdim],'yehutim
 Jordan river {GENITIVE:Jordanian; from Jordan|PEOPLE:Jordanian; the Jordanian people|COUNTRY:Jordan; the Hashemite Kingdom of Jordan},,ara <ْأُردن> [ʔurdunn],'ultun
 Kazakh; Kazakhstani; the Kazakhstani people {GENITIVE:Kazakhstani; from Kazakhstan|COUNTRY:Kazakhstan|LANGUAGE:Kazakh; Kazak; the Kazakh language},,kaz <Kazak> [qɑzɑq],'kasak
 Mount Kenya {GENITIVE:Kenyan; from Kenya|PEOPLE:Kenyan; the Kenyan people|COUNTRY:Kenya; the Republic of Kenya},,swa <Kenya> [kɛɲɑ],'kenya
@@ -296,7 +296,7 @@ Shanghai {LANGUAGE:Shanghainese; the Shanghainese language; the Shanghainese dia
 Tianjin; Tientsin,,cmn <天津> [tʰjɛn˥t͡ɕin˥],'tyencin
 Tokyo,,jpn <東京> [toːkʲoː],'tokyo
 Washington D.C.; Washington,,eng <Washington D.C.> [ˈwɑʃiŋtɪn diː siː],'wacintontisi
-Atlas Mountains,,ara <الأطـلـس‎> [ʔatˤlas],'atlas
+Atlas mountains,,ara <الأطـلـس‎> [ʔatˤlas],'atlas
 Alpha Centauri A; Rigil Kentaurus,,lat <Rigil Centaurus> [rɪd͡ʒɪl kɛntawrʊs],'licilkentawlus
 Alpha Centauri B; Toliman,,ara <ظلمان> [zulman],'sulman
 Proxima Centauri,,lat <Proxima Centauri> [prɔksɪma t͡ʃɛntawrɪ],'poksimacentawli
@@ -307,25 +307,25 @@ Sirius,,lat <Sīrius> [sirɪʊs],'silius
 Vega,,ara <واقع‎> [wɑːqeʔ],'wake
 Andromeda (galaxy) {GENITIVE:Andromedan},,grc <Ἀνδρομέδα> [an˦dro˧me˦da˧],'antometa
 Bahá'í; the Bahá'í Faith; Bahaism {GENITIVE:Bahá'í; of the Bahá'í Faith|PEOPLE:Bahá'í; followers of Bahá'u'lláh},,far <بهائی‎> [ba˨ˈha˦ʔi˦],'pahai
-Buddha (title) {RELIGION:Buddhism {GENITIVE:Buddhist; of Buddhism|PEOPLE:Buddhist; followers of Buddha}},,san <बुद्ध> [bud̚˨dʱɐ˦],'puta
-Cao Đài; Cao Đài Tiên Ông Đại Bồ Tát Ma Ha Tát {RELIGION:Caodaism; Đại Đạo Tam Kỳ Phổ Độ; the Cao Đài religion {GENITIVE:Caodaist; of Caodaism|PEOPLE:Caodaist; followers of Caodaism}},,vie <Cao Đài> [kaːw˧ ɗaːj˦˨],'kawtay
+Buddha (title),,san <बुद्ध> [bud̚˨dʱɐ˦],'puta
+Cao Đài; Cao Đài Tiên Ông Đại Bồ Tát Ma Ha Tát,,vie <Cao Đài> [kaːw˧ ɗaːj˦˨],'kawtay
 Catholicism; the Catholic Church; the Roman Catholic Church {GENITIVE:Catholic; Roman Catholic; of the Catholic Church|PEOPLE:Catholic; followers of the Catholic Church},,lat <Catholicismo> [kaˈtɔlɪt͡ʃismɔ],'katolicismo
-Christ (title) {RELIGION:Christianity {GENITIVE:Christian; of Christianity|PEOPLE:Christian; followers of Christ}},,grc <Χριστός> [kʰriːstós],'kilistos
+Christ (title),,grc <Χριστός> [kʰriːstós],'kilistos
 Eastern Orthodoxy; Orthodox Catholicism; Greek Orthodoxy {GENITIVE:Eastern Orthodox},,ell <Ορθοδοξία> [orθoðoˈksia],'olsotoksia
 Islam; Muhammadanism {GENITIVE:Islamic|PEOPLE:Muslim; followers of Islam},,ara <إسلام> [ʔɪsˈlaːm],'islam
-Jain; follower of Jainism {GENITIVE:Jain; Jainist; of Jainism|RELIGION:Jainism},,san <जैन> [d͡ʒɛːn],'cen
+Jain; follower of Jainism {GENITIVE:Jain; Jainist; of Jainism},,san <जैन> [d͡ʒɛːn],'cen
 Protestantism {GENITIVE:Protestant; of Protestantism|PEOPLE:Protestant; follower of Protestantism},,deu <Protestantismus> [ˌpʀ̥otɛstanˈtɪsmʊs],'pohotestantismus
-Shiva {RELIGION:Shaivism {GENITIVE:Shaiva; of Shaivism|PEOPLE:Shaivite; Saivite; followers of Shiva}},,san <शिव> [ɕiʋɐ́],'ciwa
-Shakti {RELIGION:Shaktism {GENITIVE:Shakta; of Shaktism|PEOPLE:Shaktist; followers of Shakti}},,hin <शक्ति> [ʃəkti],'cakti
+Shiva,,san <शिव> [ɕiʋɐ́],'ciwa
+Shakti,,hin <शक्ति> [ʃəkti],'cakti
 Shia Islam; Shia {GENITIVE:Shia; of Shia Islam|PEOPLE:Shia of Ali; Shia; followers of Shia Islam},,ara <شيعة‎> [ʃiːʔah],'ciah
 Shintoism {GENITIVE:Shinto; of Shintoism|PEOPLE:Shintoist; followers of Shintoism},,jap <神道> [ɕintoː],'cinto
-Sikh; followers of Sikhism {GENITIVE:Sikh; of Sikhism|RELIGION:Sikhism; Sikhi},,pan <ਸਿੱਖ> [ˈsɪkkʰ],'sik
-Smriti {RELIGION:Smartism; Smarta tradition {GENITIVE:Smarta; of Smartism|PEOPLE:Smartism; followers of Smriti}},,san <स्मृति> [smr̩ti],'samliti
-spirit (Spiritualism) {RELIGION:Spiritualism {GENITIVE:Spiritualist; of Spiritualism|PEOPLE:Spiritualist; followers of Spiritualism}},,eng <spirit> [ˈspɪɹʷɪt],'sipiwit
+Sikh; followers of Sikhism {GENITIVE:Sikh; of Sikhism},,pan <ਸਿੱਖ> [ˈsɪkkʰ],'sik
+Smriti,,san <स्मृति> [smr̩ti],'samliti
+spirit (Spiritualism),,eng <spirit> [ˈspɪɹʷɪt],'sipiwit
 Sunni Islam; Sunniism {GENITIVE:Sunni; of Sunni Islam|PEOPLE:Sunni; followers of Sunni Islam},,ara <سنة> [ˈsunnah],'sunah
-Dao; Tao {RELIGION:Daoist; Taoist {GENITIVE:Daoist; Taoist; of Daoism|PEOPLE:Daoist; Taoist; followers of Dao}},,cmn <道> [taw˥˩],'taw
-Vishnu {RELIGION:Vaishnavism {GENITIVE:Vaishnist; of Vaishnavism|PEOPLE:Vaishnava; Vaishnavite; followers of Vishnu}},,san <विष्णु> [ʋɪʂɳʊ],'wicnu
-Ahura Mazda; Ohrmazd; Ahuramazda; Hourmazd; Hormazd; Hurmuz {RELIGION:Zoroastrianism; Mazdayasna {GENITIVE:Zoroastrian; Zarathustrian; of Zoroastrianism|PEOPLE:Zoroastrian; Zarathustrian; followers of Zoroastrianism}},,ave <𐬨𐬀𐬰𐬛𐬁> [mazdaː],'masta
+Dao; Tao,,cmn <道> [taw˥˩],'taw
+Vishnu,,san <विष्णु> [ʋɪʂɳʊ],'wicnu
+Ahura Mazda; Ohrmazd; Ahuramazda; Hourmazd; Hormazd; Hurmuz,,ave <𐬨𐬀𐬰𐬛𐬁> [mazdaː],'masta
 feng shui,,cmn <风水> [fəŋ˥ʂweɪ̯˧˩˥],'fancwey
 homeopathy,,deu <homöopathie> [hoːmœoːpatiː],'homeopati
 Bering; Vitus Jonassen Bering; Ivan Ivanovich Bering,,dan <Bering> [beʁɛŋɡ],'pehen
@@ -403,7 +403,7 @@ phosphorus,,lat <phosphorus> [fosfɔrus],'fosfolus
 sulfur; sulphur; brimstone,,lat <sulphurium> [sʊlfurɪʊ̃],'sulfulium
 chlorine,,lat <chlorium> [klorɪʊ̃],'kolorium
 argon,,lat <argon> [arɡɔn],'alkon
-potassium,,lat <kalium> [kalɪʊ̃],'kalium
+potassium,,lat <potassium> [pɔtassɪʊ̃],'potasium
 calcium,,lat <calcium> [kalt͡ʃɪʊ̃],'kalcium
 scandium,,lat <scandium> [skandɪʊ̃],'sakantium
 titanium,,lat <titanium> [tɪtanɪʊ̃],'titanium

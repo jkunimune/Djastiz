@@ -347,7 +347,7 @@ barley,ਜੌਂ,d͡ʒɔ̃,d͡ʒɔ̃
 sorghum,ਜਵਾਰ,d͡ʒəʋɑɾ,d͡ʒəʋɑɾ
 rapeseed,ਸਰ੍ਹੋਂ,səɾɦõ,səɾɦõ
 millet,ਬਾਜਰਾ,bɑd͡ʒɾɑ,bɑd͡ʒɾɑ
-cassava,,,
+cassava,*,*,*
 chickpea,ਛੋਲੇ,t͡ʃʰole,t͡ʃʰole
 oat,ਜਵੀ,d͡ʒəʋi,d͡ʒəʋi
 pigeon pea,*,*,*
@@ -372,3 +372,6 @@ persimmon,ਪਰਸਿੰਮਨ,pəɾsɪ̃mən,pəɾsɪ̃mən
 vine,ਅੰਗੂਰ ਦੀ ਵੇਲ,ə̃ɡuɾə d̪i ʋel,ə̃ɡuɾə d̪i ʋel
 melon,*,*,*
 tuber,*,*,*
+soft,ਗੁਦਗੁਦਾ,ɡʊd̪ɡʊd̪ɑ,ɡʊd̪ɡʊd̪ɑ
+special,ਉਚੇਚਾ,ʊt͡ʃet͡ʃɑ,ʊt͡ʃet͡ʃɑ
+onion,ਪਿਆਜ,pɪɑd͡ʒ,pɪɑd͡ʒ

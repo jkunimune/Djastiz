@@ -19,7 +19,7 @@ below,suba,ˈsuba,ˈsuba
 between,inter,ˈinter,ˈinter
 big,granda,ˈɡranda,ˈɡranda
 birth,naskiĝo,nasˈkid͡ʒo,nasˈkid͡ʒo
-bitter,maldolĉa,malˈdolt͡ʃa,malˈdolt͡ʃa
+bitter,*,*,*
 blue,blui,ˈblui,ˈblui
 body,korpo,ˈkorpo,ˈkorpo
 bone,osto,ˈosto,ˈosto
@@ -62,7 +62,7 @@ damaged,damaĝita,damaˈd͡ʒita,damaˈd͡ʒita
 dense,densa,ˈdensa,ˈdensa
 derecha,dekstra,ˈdekstra,ˈdekstra
 descansar,apogi,aˈpoɡi,aˈpoɡi
-different,malsama,malˈsama,malˈsama
+different,*,*,*
 earwig,forfikulo,forfiˈkulo,forfiˈkulo
 east,oriento,oriˈento,oriˈento
 easy,facila,faˈt͡sila,faˈt͡sila
@@ -75,7 +75,7 @@ face,vizaĝo,viˈzad͡ʒo,viˈzad͡ʒo
 faith,fidi,ˈfidi,ˈfidi
 familiar,familiara,familiˈara,familiˈara
 family,familio,famiˈlio,famiˈlio
-far,malproksima,malprokˈsima,malprokˈsima
+far,*,*,*
 fast,rapidi,raˈpidi,raˈpidi
 feather,plumo,ˈplumo,ˈplumo
 female,femalo,feˈmalo,feˈmalo
@@ -126,7 +126,7 @@ jellyfish,meduzo,meˈduzo,meˈduzo
 kangaroo,kanguruo,kanɡuˈruo,kaŋɡuˈruo
 kin,parenco,paˈrent͡so,paˈrent͡so
 koala,koalo,koˈalo,koˈalo
-late,malfrua,malˈfrua,malˈfrua
+late,*,*,*
 layout,aranĝo,aˈrand͡ʒo,aˈrand͡ʒo
 leaf,folio,foˈlio,foˈlio
 leg,kruro,ˈkruro,ˈkruro
@@ -135,7 +135,7 @@ likely,verŝajna,verˈʃajna,verˈʃajna
 liquid,likva,ˈlikva,ˈlikva
 lizard,lacerto,laˈt͡serto,laˈt͡serto
 long,longa,ˈlonɡa,ˈloŋɡa
-low,malalta,maˈlalta,maˈlalta
+low,*,*,*
 luz,lumo,ˈlumo,ˈlumo
 machine,maŝino,maˈʃino,maˈʃino
 magical,magia,maˈɡia,maˈɡia
@@ -158,7 +158,8 @@ network,reto,ˈreto,ˈreto
 notion,nocio,noˈt͡sio,noˈt͡sio
 ocean,oceano,ot͡seˈano,ot͡seˈano
 okay,*,*,*
-old,malnova,malˈnova,malˈnova
+old,*,*,*
+onion,cepo,ˈt͡sepo,ˈt͡sepo
 opaque,opaka,oˈpaka,oˈpaka
 opossum,didelfo,diˈdelfo,diˈdelfo
 order,ordo,ˈordo,ˈordo
@@ -319,7 +320,7 @@ to want,voli,ˈvoli,ˈvoli
 to wear,porti,ˈporti,ˈporti
 to win,gajni,ˈɡajni,ˈɡajni
 to work,labori,laˈbori,laˈbori
-to worry,maltrankviliĝi,maltrankviˈlid͡ʒi,maltraŋkviˈlid͡ʒi
+to worry,*,*,*
 to write,skribi,ˈskribi,ˈskribi
 tomato,tomato,toˈmato,toˈmato
 torso,torso,ˈtorso,ˈtorso
@@ -354,7 +355,7 @@ millet,milio,miˈlio,miˈlio
 cassava,manioko,maniˈoko,maniˈoko
 chickpea,kajano,kaˈjano,kaˈjano
 oat,aveno,aˈveno,aˈveno
-pigeon pea,,,
+pigeon pea,*,*,*
 guava,gujavo,ɡuˈjavo,ɡuˈjavo
 apple,pomo,ˈpomo,ˈpomo
 beet,beto,ˈbeto,ˈbeto
@@ -371,10 +372,12 @@ almond,migdalo,miɡˈdalo,miɡˈdalo
 garlic,ajlo,ˈajlo,ˈajlo
 cabbage,brasiko,braˈsiko,braˈsiko
 pear,piro,ˈpiro,ˈpiro
-coriander,,,
+coriander,*,*,*
 lettuce,laktuko,lakˈtuko,lakˈtuko
 walnut,juglando,juɡˈlando,juɡˈlando
 persimmon,persimono,persiˈmono,persiˈmono
 vine,rebo,ˈrebo,ˈrebo
 melon,*,*,*
 tuber,tubero,tuˈbero,tuˈbero
+soft,mola,ˈmola,ˈmola
+special,speciala,spet͡siˈala,spet͡siˈala

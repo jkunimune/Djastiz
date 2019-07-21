@@ -27,6 +27,7 @@ DIACRITIC_GUIDE = {
 	('ĩ', 'ĩ'),
 	('õ', 'õ'),
 	('ũ', 'ũ'),
+	('ń', 'n'),
 }
 
 SOURCE_LANGUAGES = {
@@ -100,7 +101,7 @@ SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictior
 
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
 NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','CONDITION','COMPLEMENT',
-		'RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','RELIGION','PEOPLE']
+		'RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','PEOPLE']
 MISC_DERIVATIONS = ['OPPOSITE']
 
 
@@ -387,7 +388,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 			logging.error("missing translation of '{}' in {}".format(english, lang))
 			orthography, broad, narrow = english, english.replace('g','ɡ'), english # I don't want to stop the proɡram when this happens, so I use the Enɡlish word as a fake IPA transcription
 
-		if broad == '*':
+		if broad in ['*', '']:
 			continue # star means we don't have that word
 
 		try:
@@ -430,13 +431,14 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 			return get_antonym(source_word) + all_words['begin']['otp']
 		else:
 			return source_word + all_words['end']['otp']
-	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ', 'IND', 'AMOUNT',
-			'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'CONDITION', 'LANGUAGE', 'COUNTRY', 'REGION', 'RELIGION', 'PEOPLE']:
+	elif deriv_type in [
+			'NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ', 'IND', 'AMOUNT', 'LOCATION',
+			'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'CONDITION', 'LANGUAGE', 'COUNTRY', 'REGION', 'PEOPLE']:
 		inflection_word = {
 			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who (relative)',
 			'OBJ':'which (relative)', 'IND':'whom (relative)', 'AMO':'the amount that', 'LOC':'where (relative)',
 			'TIM':'when (relative)', 'INS':'with which (relative)', 'CAU':'why (relative)', 'MET':'how (relative)',
-			'CON':'for which', 'LAN':'language', 'COU':'country', 'REG':'location', 'REL':'religion', 'PEO':'person',
+			'CON':'for which', 'LAN':'language', 'COU':'country', 'REG':'location', 'PEO':'person',
 		}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['otp']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
@@ -568,7 +570,7 @@ def verify_words(my_words):
 		if entry['otp']:
 			for entry1 in my_words.values():
 				if entry1['eng'] < entry['eng'] and entry1 is not entry and entry1['otp'] == entry['otp']:
-					logging.error("{} ({}) is homophonous with {} ({})".format(entry['otp'], entry['eng'], entry1['otp'], entry1['eng']))
+					logging.warning("{} ({}) is homophonous with {} ({})".format(entry['otp'], entry['eng'], entry1['otp'], entry1['eng']))
 		if not any(w in entry['derivatives'] for w in ['ANTONYM','OPPOSITE','REVERSAL']) and has_antonym(entry):
 			logging.error("Derivatives of '{0}' have antonyms even though '{0}' itself does not".format(entry['eng'][0], entry))
 			errors += 1
@@ -618,8 +620,9 @@ def fill_blanks(my_words, real_words):
 		elif entry['partos'].startswith('compound'): # and then compound the compound words
 			if entry['source']:
 				for component in entry['source'].split():
-					if component.replace('-',' ') in my_words and my_words[component.replace('-',' ')]['otp'] != '':
-						entry['otp'] += my_words[component.replace('-',' ')]['otp']
+					dehyphenated = component.replace('-',' ').replace('=','-')
+					if dehyphenated in my_words and my_words[dehyphenated]['otp'] != '':
+						entry['otp'] += my_words[dehyphenated]['otp']
 					else:
 						raise ValueError("No '{}' for {}'s {}".format(component, entry['eng'][0], entry['source'].split()))
 			else:

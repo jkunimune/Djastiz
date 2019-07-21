@@ -345,7 +345,7 @@ yellow,njano,nɟano,nɟano
 bean,kunde,kunde,kunde
 barley,shayiri,ʃajiɾi,ʃajiɾi
 sorghum,mtama,mtama,mtama
-rapeseed,,,
+rapeseed,*,*,*
 millet,ulezi,ulezi,ulezi
 cassava,kopa,kopa,kopa
 chickpea,mnjegere-kubwa,mnɟeɠeɾe-kuɓwa,mnɟeɠeɾe-kuɓwa
@@ -372,3 +372,6 @@ persimmon,*,*,*
 vine,*,*,*
 melon,tikiti,tikiti,tikiti
 tuber,kiazi,kiazi,kiazi
+soft,-legea,-leɠea,-leɠea
+special,maalumu,maalumu,maalumu
+onion,kitunguu,kitunɡuu,kitunɡuu

@@ -414,10 +414,10 @@ be straight; be linear; be flat; OBJ {line; plane; straightedge} is straight,ser
 be wavy; be curly; be bent; be bumpy; OBJ {squiggle; wave; curl} is wavy,,ANTONYM OF be straight,fulo
 straighten; flatten; splay; open; SBJ {straightener; flattener} straightens OBJ,,INCOHATIVE OF be straight,siteki
 bend; flex; curl; kink; SBJ {bender; curler} bends OBJ,,CESSATIVE OF be straight,fuloki
-be smooth; be polished; be flat; OBJ is smooth,,spa <suave> [ˈswaβe],swape
-be rough; be abrasive; be sharp; OBJ is rough,,ANTONYM OF be smooth,fyamo
-smoothen; polish; SBJ smoothens OBJ,,INCOHATIVE OF be smooth,swapeki
-roughen; rough up; scratch; SBJ roughens OBJ,,CESSATIVE OF be smooth,fyamoki
+be flexible; be flimsy; be malleable; be soft; OBJ bends easily,,POSSIBILITY OF bend,fulokipowi
+be unbending; be rigid; be brittle; be firm; OBJ {rigid body} does not bend,,NEGATIVE OF be flexible,fulokipowinyo
+flimsen; weaken; SBJ makes OBJ more flimsy,,INCOHATIVE OF be flexible,fulokipowiki
+rigidify; brace; harden; SBJ {brace; hardener} makes OBJ more rigid,,CESSATIVE OF be flexible,fulokipowinu
 be damaged; be hurt; be wounded; be in tatters; OBJ is damaged,,fil <sira> [siɾa],sila
 damage; hurt; harm; wear; SBJ {harmer} damages OBJ,,INCOHATIVE OF be damaged,silaki
 repair; mend; fix; clean; SBJ {repairperson} repairs OBJ,,CESSATIVE OF be damaged,silanu
@@ -432,8 +432,12 @@ be fragile; be structurally weak; be crumbly; be brittle; OBJ is easy to break,,
 be unbreaking; be structurally strong; be durable; OBJ is difficult to break {AMOUNT:structural integrity; strength; durability},,NEGATIVE OF be fragile,lotokipowinyo
 weaken; compromise; sabotage; SBJ {weakener; saboteur} makes OBJ structurally weaker,,INCOHATIVE OF be fragile,lotokipowiki
 strengthen; brace; glue; SBJ {strengthener; glue} makes OBJ structurally stronger,,CESSATIVE OF be fragile,lotokipowinu
-be soft; be flimsy; be squishy; be weak; give; OBJ feels soft,,,
-be hard; be rigid; be firm; be strong; be unforgiving; OBJ feels tough,,ANTONYM OF be soft,
+be smooth; be polished; be flat; OBJ is smooth,,spa <suave> [ˈswaβe],swape
+be rough; be abrasive; be sharp; OBJ is rough,,ANTONYM OF be smooth,fyamo
+smoothen; polish; SBJ smoothens OBJ,,INCOHATIVE OF be smooth,swapeki
+roughen; rough up; scratch; SBJ roughens OBJ,,CESSATIVE OF be smooth,fyamoki
+be soft; be flimsy; be squishy; be weak; give; the surface of OBJ feels soft,,,
+be hard; be rigid; be firm; be strong; be unforgiving; the surface of OBJ feels hard,,ANTONYM OF be soft,
 soften; melt; SBJ makes OBJ become soft,,INCOHATIVE OF be soft,
 harden; firm; SBJ makes OBJ become hard,,CESSATIVE OF be soft,
 be solid; be coherent; be coagulated; OBJ is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
@@ -444,10 +448,6 @@ be liquid; be water; OBJ {body of water} is a liquid {AMOUNT:liquidity},,cmn <�
 be gaseous; be air; OBJ {gas; cloud} is gaseous,,ANTONYM OF be liquid,hyo
 condense; liquidify; SBJ {condenser} condenses OBJ {condensed; cloud} into a liquid,,INCOHATIVE OF be liquid,cweki
 boil; evaporate; SBJ {boiler} boils OBJ,,CESSATIVE OF be liquid,hyoki
-be flexible; be flimsy; be malleable; be soft; OBJ bends easily,,POSSIBILITY OF bend,fulokipowi
-be unbending; be rigid; be brittle; be firm; OBJ {rigid body} does not bend,,NEGATIVE OF be flexible,fulokipowinyo
-flimsen; weaken; SBJ makes OBJ more flimsy,,INCOHATIVE OF be flexible,fulokipowiki
-rigidify; brace; harden; SBJ {brace; hardener} makes OBJ more rigid,,CESSATIVE OF be flexible,fulokipowinu
 be viscous; be thick; OBJ {paste; gel; goop} is viscous {AMOUNT:viscosity},,pan <ਲੇਸਲਾ> [leslɑ],lesla
 be inviscous; be thin; OBJ {lubricant; oil; liquid} is inviscous,,ANTONYM OF be viscous,tofta
 thicken; increase viscosity; SBJ {thickener; viscosity increaser} makes OBJ more viscous,,INCOHATIVE OF be viscous,leslaki
@@ -567,8 +567,8 @@ worry; bother; trouble; concern; IND {problem; trouble; issue} troubles OBJ {wor
 relieve; calm; reassure; IND {relief} gives OBJ {soothed} relieved feelings,,ANTONYM OF worry,yayu
 make worried; make bothered; SBJ {[https://xkcd.com/1015/]} causes OBJ to be bothered by IND,,INCOHATIVE OF worry,wawiki
 assuage; sooth; relieve; calm; SBJ {reliever} causes OBJ to feel relieved by IND,,CESSATIVE OF worry,yayuki
-be likely; be normal; be common; be unremarkable; be expectable; OBJ is likely true {AMOUNT:P-value},,cmn <容易> [ɻʊŋ˧˥i˥˩],luni
-be unlikely; be weird; be rare; be strange; be remarkable; be unexpected; OBJ {coincidence} is unlikely {AMOUNT:rarity; weirdness},,ANTONYM OF be likely,tiku
+be likely; be normal; be unremarkable; be expectable; be common; OBJ is likely true {AMOUNT:P-value},,cmn <容易> [ɻʊŋ˧˥i˥˩],luni
+be unlikely; be weird; be remarkable; be rare; be unexpected; be strange; OBJ {coincidence} is unlikely {AMOUNT:rarity; weirdness},,ANTONYM OF be likely,tiku
 increase chances; explain away; favour; SBJ makes OBJ more likely,,INCOHATIVE OF be likely,luniki
 decrease chances; find coincidence; SBJ makes OBJ less likely,,CESSATIVE OF be likely,tikuki
 correspond; match; be respective; OBJ corresponds to IND,,msa <sama> [sama],sama
@@ -637,7 +637,7 @@ untie; unknot; untangle; SBJ unties OBJ from IND,,CESSATIVE OF be tangled,cotonu
 touch; meet; OBJ {touching} and IND are so close to each other that they cannot physically get any closer (please don't get tecnical with my definition of this) {LOCATION:joint; corner; intersection; edge},,spa <toca> [ˈtoka],toka
 touch; join; SBJ touches OBJ to IND,,INCOHATIVE OF touch,tokaki
 cut; separate; divide; split; SBJ makes OBJ stop touching IND {INSTRUMENT:knife; wedge|LOCATION:gap; separation; cut; split},,CESSATIVE OF touch,tokanu
-be across; be transverse; straddle; be perpendicular; OBJ is across IND {crossed} {AMOUNT:transverseness; obliqueness},,ben <দিয়ে> [d̪ie̯e],tie
+be across; be transverse; straddle; be perpendicular; OBJ {cross; cross member} is across IND {crossed} {AMOUNT:transverseness; obliqueness},,ben <দিয়ে> [d̪ie̯e],tie
 be along; be longitudinal; be with; be parallel; OBJ is along IND,,ANTONYM OF be across,luo
 cross; move across; pass; SBJ makes OBJ cross IND {LOCATION:intersection; cross},,INCOHATIVE OF be across,tieki
 align; move along; move with; SBJ makes OBJ go along IND,,CESSATIVE OF be across,luoki
@@ -676,8 +676,8 @@ generalise; SBJ generalises OBJ,,CESSATIVE OF be specific,huyluki
 take up; consume; hold; occupy; OBJ {slot; space; resource} is taken up by IND {allocation},,hin <लेना> [lenaː],lena
 allocate; allot; spend; SBJ allocates OBJ to IND,,INCOHATIVE OF take up,lenaki
 free; revoke; SBJ frees up OBJ from IND,,CESSATIVE OF take up,lenanu
-be special; be unique; be weird; stand out; OBJ {specialist; personnel} is distinguished from those around it,,msa <pakar> [pakar],pakal
-be normal; be ordinary; be usual; blend in; OBJ {layperson; civilian} is expectable from its surroundings,,ANTONYM OF be special,manat
+be special; be unique; be weird; be rare; stand out; be especial; OBJ {specialist; personnel; outlier} is distinguished from those around it,,msa <pakar> [pakar],pakal
+be normal; be ordinary; be usual; be commonplace; blend in; be average; OBJ {layperson; civilian} is expectable from its surroundings,,ANTONYM OF be special,manat
 specialise; customise; SBJ makes OBJ specially,,INCOHATIVE OF be special,
 conform; normalise; SBJ makes OBJ become normal,,CESSATIVE OF be special,
 storytell; SBJ {storyteller} tells OBJ the *story of IND {story; tale},,,

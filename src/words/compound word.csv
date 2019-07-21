@@ -126,12 +126,12 @@ colour cyan; colour teal; colour blue-green; SBJ colours OBJ cyan,,INCOHATIVE OF
 be magenta; be fuchsia; OBJ looks magenta,,be-red be-purple,lucimuta
 colour magenta; colour fuchsia; SBJ colours OBJ magenta,,INCOHATIVE OF be magenta,lucimutaki
 be wood; be wooden; OBJ is made out of wood,,tree be-made-of,
-water; dihydrogen monoxide,,live puddle,icicwelon
+water; dihydrogen monoxide,,live body-of-water,icicwelon
 air; atmosphere; nitrogen and oxygen and all that jazz,,sky gas,miphyolon
-lava; magma,,be-stone puddle,patocwelon
-mud,,be-soil puddle,anicwelon
+lava; magma,,be-stone body-of-water,patocwelon
+mud,,be-soil body-of-water,anicwelon
 oxygen,,breathe gas,hihahyolon
-be copper,,be-green be-metal,tihutatu
+be copper; OBJ is made of copper,,be-green be-metal,tihutatu
 be bronze; OBJ is made of bronze,,be-skillful be-copper,lusotihutatu
 be iron; OBJ is made of iron,,be-hard be-metal,palitatu
 be steel; OBJ is made of steel,,be-skillful be-iron,lusopalitatu
@@ -140,7 +140,7 @@ be lead; OBJ is made of lead,,be-heavy be-metal,
 be tin; OBJ is made of tin,,be-soft be-metal,
 be mercury; be quicksilver; OBJ is made of mercury,,be-liquid be-metal,cwetatu
 gunpowder,,burn powder,cyaukiufalon
-oil; petroleum,,burn puddle,cyaukicwelon
+oil; petroleum,,burn body-of-water,cyaukicwelon
 carbon; coal,,live material,icilwelcakalum
 nitrogen,,sky material,mipcakalum
 sodium,,be-salty material,
@@ -154,7 +154,7 @@ be rubber; OBJ is made of rubber,,bounce be-crystal,
 be glass; OBJ is made of glass,,be-transparent be-stone,emanapato
 be graphite OBJ is made of graphite,,write be-stone,tepato
 cloth; fabric,,string sheet,tallat
-ink,,write puddle,tecwelon
+ink,,write body-of-water,tecwelon
 paper; piece of paper; sheet of paper,,write sheet,telat
 canvas,,art sheet,atlat
 ceramic,,person stone,wonpatolon
@@ -168,11 +168,9 @@ oasis; watering hole,,be-liquid point,cwetyen
 freshwater,,be-pure body-of-water,puhtecwelon
 river; stream; brook,,be-liquid path,cwepas
 waterfall,,water fall where-(relative),icicwelontalyot
-body of water; lake; ocean; lagoon,,be-big puddle,motacwelon
-hill,,be-small mountain,pelapil
 plateau; highlands {GENITIVE:highland; high},,be-high landmass,kuhitayl
 lowlands,,be-low landmass,nicutayl
-plains {GENITIVE:plain; planar; campal},,be-straight landmass,sitetayl
+plains; flatlands {GENITIVE:plain; planar; campal},,be-straight landmass,sitetayl
 tundra {GENITIVE:tundra; tundral},,be-cold landmass,enitayl
 desert {GENITIVE:desert; deserted},,be-sand landmass,patoufatayl
 jungle; rainforest {GENITIVE:jungle; rainforest; jungular},,plant landmass,cantayl
@@ -214,40 +212,40 @@ bake; SBJ {baker} bakes OBJ {pastry; baked good},,be-gaseous cook,hyopeka
 vegetarian; something that does not eat meat,,0 animal eater,nultunnyamales
 carnivore; something that eats meat,,animal eater,tunnyamales
 herbivore; something that eats plants,,plant eater,cannyamales
-alcohol {GENITIVE:alcoholic},,have-fun puddle,mocacwelon
-beer,,cereal puddle,
+alcohol {GENITIVE:alcoholic},,have-fun body-of-water,mocacwelon
+beer,,cereal body-of-water,
 be drunk; be intoxicated; OBJ is drunk,,have-fun be-sick,mocafaku
 be sober; be dry; OBJ is sober,,be-bored be-sick,pehafaku
 drink; get drunk; intoxicate; SBJ makes OBJ drunk,,INCOHATIVE OF be drunk,mocafakuki
 sober; SBJ makes OBJ become sober,,CESSATIVE OF be drunk,mocafakunu
 have hangover; OBJ has a hangover,,be-bored begin be-sick,pehakifaku
-tea,,leaf puddle,pancwelon
-milk,,parent puddle,mamacwelon
+tea,,leaf body-of-water,pancwelon
+milk,,parent body-of-water,mamacwelon
 cheese,,parent be-liquid solid,mamacwekutilon
-wine,,grape alcohol,upmocacwelon
-blood,,be-rhythmic puddle,tutumucwelon
+blood,,be-rhythmic body-of-water,tutumucwelon
 bleed; SBJ bleeds out OBJ,,blood exit,tutumucwelonkoki
-urine; pee,,be-yellow puddle,pilacwelon
+urine; pee,,be-yellow body-of-water,pilacwelon
 urinate; pee; SBJ urinates out OBJ,,urine exit,pilacwelonkoki
 feces; excrement; poop,,buttocks solid,pikkutilon
 diarrhea,,be-liquid feces,cwepikkutilon
 defecate; poop; SBJ defecates out OBJ,,feces exit,pikkutilonkoki
-saliva,,eat puddle,nyamacwelon
+saliva,,eat body-of-water,nyamacwelon
 expectorate; spit; salivate; SBJ spits OBJ out,,saliva exit,nyamacwelonkoki
 drool; SBJ drools OBJ,,saliva fall,nyamacwelonta
-sweat; perspiration,,be-hot puddle,okucwelon
+sweat; perspiration,,be-hot body-of-water,okucwelon
 sweat; perspire; SBJ sweats out OBJ,,sweat exit,okucwelonkoki
-tears,,be-sad puddle,nihucwelon
+tears,,be-sad body-of-water,nihucwelon
 cry; weep; sob; tear; SBJ cries out OBJ,,tears exit,nihucwelonkoki
-mucus; snot,,breathe puddle,hihacwelon
+mucus; snot,,breathe body-of-water,hihacwelon
 have runny nose; drip mucus; SBJ's nose runs OBJ,,mucus exit,hihacwelonkoki
-semen,,have-sex puddle,seksocwelon
+semen,,have-sex body-of-water,seksocwelon
 ejaculate; SBJ ejaculates out OBJ,,semen exit,seksocwelonkoki
-pus,,bacterium puddle,ciciwncwelon
+pus,,prokaryote body-of-water,ciciwncwelon
 pimple; abscess,,pus container,ciciwncwelonnelum
 foot {GENITIVE:pedal},,leg hand,lekcoh
 shoulder,,arm joint,pihtokalyot
 hip,,leg joint,lektokalyot
+neck,,head joint,
 wrist,,hand joint,cohtokalyot
 ankle,,foot joint,lekcohtokalyot
 bicep; upper arm,,be-near arm,nepih
@@ -300,79 +298,8 @@ antenna,,string arm,talpih
 tentacle,,string leg,tallek
 wing,,fly arm,fopih
 shell,,protect gland,silakipowinucyen
-skin; hide,,be-outside gland,kocyen
+skin; hide; peel,,be-outside gland,kocyen
 pickle; SBJ pickles OBJ {pickled; pickle},,be-salty age,lunacyoki
-south pole,,be-south point,
-north pole,,be-north point,
-equator,,be-middle standard-parallel,
-parallel,,latitude path,
-meridian,,longitude path,
-Antarctica,,be-south landmass,sutatayl
-Antarctic Ocean,,be-south ocean,sutalawt
-Arctic Ocean,,be-north ocean,filalawt
-Afro-Eurasia; the Old World,,Africa Eurasia,'aflika'yewlasia
-North America,,be-north America,fila'amelika
-South America,,be-south America,suta'amelika
-Southern Africa {COUNTRY:South Africa; the Republic of South Africa {PEOPLE:South African; the South African people}},,be-south Africa,suta'aflika
-Central Africa {COUNTRY:Central African Republic {PEOPLE:Central African; the Central African people}},,be-inside Africa,ene'aflika
-Latin America {GENITIVE:Latin American},,the-Latin-people America,'latin'amelika
-Sinosphere; East Asia; the East Asian cultural sphere; Asia; the Sinic world,,be-east culture region,
-Oceania {GENITIVE:Oceanic},,ocean landmass,lawttayl
-Atlantic Ocean {GENITIVE:Atlantic},,Atlas-mountains ocean,'atlaslawt
-Indian Ocean {GENITIVE:Indian Oceanic},,India ocean,'hintulawt
-Pacific Ocean {GENITIVE:Pacific},,be-big be-still ocean,motapemolawt
-Arabian Sea,,Arab ocean,'alaplawt
-Bering Sea,,Bering ocean,'beringlawt
-Caribbean Sea,,Island-Carib ocean,'kalinakolawt
-Coral Sea,,coral ocean,fulokipowinyoicilwellawt
-Gulf of Mexico,,Mexico ocean,'mehikolawt
-Mediterranean Sea,,land be-inside ocean,taylenelawt
-South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
-Antigua and Barbuda {PEOPLE:Antiguans and Barbudans; the people of Antigua and Barbuda},,Antigua Barbuda,'antika'papyuta
-Great Brittan,,be-big British-Isles,mota'pwitontayl
-Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
-Democratic Republic of the Congo {GENITIVE:Congolese; from Democratic Republic of the Congo|PEOPLE:Congolese; the people of the Democratic Republic of the Congo},,Kinshasa the-Kingdom-of-the-Kongo,
-Republic of the Congo {GENITIVE:Congolese; from Republic of the Congo|PEOPLE:Congolese; the people of the Republic of the Congo},,Brazzaville the-Kingdom-of-the-Kongo,
-Northern Cyprus; Turkish Republic of Northern Cyprus {GENITIVE:North Cypriot; from Northern Cyprus|PEOPLE:Northern Cypriot; the Northern Cypriot people},,be-north the-Republic-of-Cyprus,fila'kiplos
-Scots Gaelic; the Scots Gaelic language,,Scot Goidelic,'oskot'kealtilip
-Equatorial Guinea; the Republic of Equatorial Guinea {GENITIVE:Equatorial Guinean; from Equatorial Guinea|PEOPLE:Equatorial Guinean; Equatoguinean; the Equatorial Guinean people},,equator Guinea,
-Guinea-Bissau; the Republic of Guinea-Bissau {GENITIVE:Bissau-Guinean; from Guinea-Bissau|PEOPLE:Bissau-Guinean; the Bissau-Guinean people},,Bissau Guinea,
-Guinea; Guinea-Conakry; the Republic of Guinea {PEOPLE:Guinean; the Guinean people},,Conakry Guinea
-Hindustani; the Hindustani language {PEOPLE:Hindustani speakers},,Hindi Urdu,
-Northern Irish; the Northern Irish people {GENITIVE:Northern Irish; from Northern Ireland|COUNTRY:Northern Ireland},,be-north Ireland,fila'elyatec
-North Korean; the North Korean people {GENITIVE:North Korean; from North Korea|COUNTRY:North Korea},,be-north Korean,fila'cosawn
-South Korean; the South Korean people {GENITIVE:South Korean; from South Korea|COUNTRY:South Korea},,be-south Korean,suta'cosawn
-North Macedonia; the Former Yugoslav Republic of Macedonia {GENITIVE:North Macedonian; from North Macedonia},,be-north Macedon,fila'maketontec
-Southern Min; Minnan; Hokkien-Taiwanese; the Southern Min languages,,be-south Min-Chinese
-South Ossetian; Alanian; the South Ossetian people {GENITIVE:South Ossetian; of South Ossetia|COUNTRY:South Ossetia; Alania},,be-south Ossetian,suta'alon
-Saint Kitts and Nevis {PEOPLE:Kittitians and Nevisians; the people of Saint Kitts and Nevis},,Saint-Kitts Nevis,
-Saint Vincent and the Grenadines {PEOPLE:Saint Vincentian; Vincy; the people of Saint Vincent and the Grenadines},,Saint-Vincent Grenadines,
-São Tomé Island {GENITIVE:São Toméan; Santomean},,São-Tomé land,
-São Tomé and Príncipe; the Democratic Republic of São Tomé and Príncipe {PEOPLE:São Toméans and Principeans; the people of São Tomé and Príncipe},,São-Tomé Príncipe,
-South Sudan {GENITIVE:South Sudanese; from South Sudan|PEOPLE:South Sudanese; the South Sudanese people},,be-south Sudanese,suta'asutan
-East Timor; Timor-Leste; Democratic Republic of Timor-Leste {PEOPLE:Timorese; East Timorese; Maubere; the East Timorese people},,be-east Timor,
-Trinidad and Tobago; the Republic of Trinidad and Tobago {PEOPLE:Trinbagonian; the people of Trinidad and Tobago},,Trinidad Tobago,'twinitat'topeykow
-Ugandan; the Ugandan people {GENITIVE:Ugandan; from Uganda|COUNTRY:Uganda},,be-big Buganda,mota'kantatec
-Roman Catholicism; Catholicism,,Rome Christianity,
-Greek Orthodoxy; Orthodox Catholicism; Eastern Orthodoxy,,Greek Christianity,
-Sol; The Sun,,person sun,wonsun
-Luna; The Moon,,person moon,wonfik
-Earth {GENITIVE:global; earthling; terran},,person ground,wonpum
-Mars {GENITIVE:Martian},,be-red ground,lucipum
-Mercury {GENITIVE:Mercurian},,be-fast ground,yalapum
-Neptune {GENITIVE:Neptunian},,ocean ground,lawtpum
-Jupiter {GENITIVE:Jovian},,be-big ground,motapum
-Saturn {GENITIVE:Saturnic},,circle ground,siklalonpum
-Uranus {GENITIVE:Uranic},,sky ground,mippum
-Venus {GENITIVE:Venusian},,be-loud ground,fuhapum
-Milky Way {GENITIVE:Milky},,person galaxy,won'kalasias
-Monday,,1 day,kansunkwelwel
-Tuesday,,2 day,tossunkwelwel
-Wednesday,,3 day,sansunkwelwel
-Thursday,,4 day,calsunkwelwel
-Friday,,5 day,limsunkwelwel
-Saturday,,6 day,siklalonsunkwelwel
-Sunday,,7 day,sunsunkwelwel
 be armoured; IND {armour} armours OBJ {armoured},,protect be-clothed,silakipowinupola
 armour; SBJ {armourer} armours OBJ in IND,,protect put-on,silakipowinupolaki
 peel; SBJ peels OBJ,,be-outside cut,nulyottokanu
@@ -380,7 +307,8 @@ slice; SBJ slices OBJ into IND {slice},,surface cut,ustokanu
 stab; SBJ stabs OBJ {pincushion} {INSTRUMENT:dagger; stake},,rod cut,sottokanu
 squeeze; compress; SBJ squeezes OBJ,,be-inside push,nepuci
 stretch; expand; SBJ pulls outward on OBJ,,be-outside push,kopuci
-float; be buoyant; OBJ floats in IND {CAUSE:buoyant force; buoyancy},,be-liquid be-on,
+float; be buoyant; SBJ makes OBJ float in IND {CAUSE:buoyant force; buoyancy},,be-liquid go-up,
+sink; submerge; SBJ makes OBJ sink in IND,,be-liquid go-down,
 grid; hatch,,be-square network,funtalet
 bite; SBJ {biter} bites OBJ {bitten},,mouth squeeze,nyamacyennepuci
 snoring; snores,,sleep sound,tuluoyelum
@@ -396,165 +324,6 @@ be vibrant; be colourful; OBJ has many hues and colours,,much be-coloured,kehlon
 be monochromatic; OBJ has few colours,,little be-coloured,noclono
 flag; banner,,cloth translation,tallatpatililum
 undergo revolution; OBJ goes through a revolution {TIME:revolution},,be-fast change,yalacalunyo
-berry,,be-small fruit,
-bat; flying fox,,fly mammal,fomamul
-pangolin,,scale mammal,linmamul
-cat,,person feline,wonmyawf
-tiger,,stripe feline,lonositelonmyawf
-lion,,hair feline,tofmyawf
-dog,,person canine,wonpawaf
-horse,,person equine,wonhihin
-rabbit; hare,,fast rodent,yalalonnyec
-porcupine,,be-sharp rodent,aklanyec
-mole,,be-low rodent,nicunyec
-skunk,,scent musteloidea,olelumlih
-raccoon,,black face musteloidea,ehalonilulih
-camel,,desert camel,patoufataylut
-llama,,mountain camel,pilut
-alpaca,,string camel,talut
-zebra,,be-gray equine,ocaehahihin
-pig; pork,,person swine,wonsul
-cow; bull; beef,,spot bovine,lonowiconmuf
-ox,,be-strong bovine,ikemuf
-antelope,,be-fast bovine,yalamuf
-sheep; mutton,,string bovine,talmuf
-goat,,mountain bovine,pilmuf
-sloth,,slow mammal,watalonmamul
-anteater,,ant eat mammal,maihnyamamamul
-armadillo,,shell mammal,pontolonmamul
-manatee; sea-cow,,ocean elephant,lawtpyah
-possum; glider; cuscus,,Australia-(landmass) opossum,
-platypus,,egg mammal,tanmamul
-waterfowl; duck; goose; swan,,be-liquid fowl,cweap
-landfowl; chicken; turkey; pheasant,,ground fowl,pumap
-dove,,white pigeon,ocalonpayl
-hummingbird,,hum bustard,mumupawh
-penguin,,be-cold bird,enicipcip
-pelican,,sea mouth bird,nyamacyencipcip
-seagull,,beach bird,taylnulyotcipcip
-condor,,be-big bird-of-prey,motakiah
-vulture,,be-clothed no bird-of-prey,polanyokiah
-owl,,nighttime bird-of-prey,sicalwelkiah
-bald eagle,,head bird-of-prey,silkiah
-flamingo,,be-pink bird,ocalucicipcip
-stork,,leg bird,lekcipcip
-toucan; Ramphastidae,,be-coloured mouth bird,
-parrot; Psittaciformes,,speak bird,
-amphibian {GENITIVE:amphibious},,fish lizard,peslisat
-salamander,,frog lizard,
-caecilian,,snake frog,
-lungfish,,sky fish,mippes
-eel,,snake fish,saspes
-minnow,,be-small carp,pelakap
-catfish,,hair carp,tofkap
-magikarp,,be-magical carp,catuikap
-anglerfish,,light fish,luspes
-pufferfish,,balloon fish,motakilonpes
-koi; koi fish,,be-coloured carp,lonokap
-seahorse,,ocean equine,lawthihin
-vertebrate,,be-hard animal,fulokipowinyotun
-invertebrate,,be-soft animal,fulokipowitun
-arthropod {GENITIVE:arthropodic},,shell animal,pontolontun
-seastar; sealily,,flower animal,pultun
-seaurchin,,be-sharp animal,aklatun
-seacucumber,,cucumber animal,'hiyaltun
-pantopod,,ocean spider,lawtcic
-shrimp,,be-small crustacean,pelakwap
-mantisshrimp,,be-strong crustacean,ikekwap
-centipede; millipede,,leg bug,kehlek
-centipede,,poison centipede,fakukiluatkehlek
-dragonfly; damselfly,,be-long bug,lamacuc
-louse,,hair bug,tofcuc
-scorpionfly,,sky scorpion,mipiloal
-moth,,be-brown butterfly,ehakutahutyeh
-butterfly,,be-coloured moth,lonoehakutahutyeh
-stickbug,,rod bug,sotcuc
-cockroach,,be-big cockroach,motaipis
-termite,,wood cockroach,mulonipis
-plankton,,be-small organism,pelaicilwel
-snail,,shell slug,pontolonkuhol
-molusk; cephalapod,,tentacle animal,tallektun
-octopus,,8 molusk,hattallektun
-decapus; squid; cuttlefish,,1 0 molusk,kannultallektun
-beard worm,,be-big tube worm,motalamasiklalonkil
-leech,,blood worm,tutumucwelonkil
-sea anemone; sea fan; seawhip,,flower animal,talcantun
-coral,,be-hard organism,fulokipowinyoicilwel
-sea sponge,,be-foamy organism,fomiicilwel
-tardigrade; water bear; moss piglet; Tardigrada,,be-small bear,pelalic
-moss; liverwort; hornwort,,landmass algae,taylsawl
-algae; alga,,ocean algae,lawtsawl
-plankton,,float life,
-apricot,,be-orange prunus,
-asparagus; sparrow grass,,be-after can-smell plant,
-avocado,,crocodilian fruit,
-bamboo,,tree grass,
-banana; plantain,,stick fruit,sotfut
-bean,,be-soft seed,
-buckwheat,,cereal flower,
-bird of paradise,,bird flower,
-broccoli,,tree cabbage,
-Brussels sprouts,,be-small cabbage
-cabbage; brassica,,head cabbage,
-cacao; cocoa; chocolate,,be-sweet seed,
-candlenut; candleberry; Indian walnut; kukui nut tree; Aleurites moluccanus,,light seed,
-cantelope,,be-orange melon,
-cashew,,be-outside seed,
-cauliflower,,be-white cabbage,
-carrot,,be-orange root,
-castor bean; castor oil plant; palm of Christ,,tick seed,
-chard; spinach beet,,leaf beet
-cherry,,be-small prunus,
-chives; Allium schoenoprasum,,flower onion,
-coconut,,string fruit,talfut
-cotton,,be-foamy plant,fomican
-coffee; Coffea,,move seed,mopecan
-cowpea; black-eye pea; yardlong bean; Vigna unguiculata,,claw legume,
-eggplant; aubergine; brinjal; Solanum melongena,,be-foamy fruit,
-fava bean; broad bean; horse bean; Vicia faba,,be-big legume,
-garden beet; beetroot,,root beet,
-garlic; Allium sativum,,be-powder onion,
-gourd; Cucurbitaceae with rigid shells,,be-hard fruit
-grape,,fruit vine,
-green bean; french bean; string bean; snap,,string legume,
-honeydew,,be-green melon,
-jute; mallow-leaves,,string plant,
-kale; leaf cabbage,,leaf cabbage,
-lemon,,be-yellow citrus,
-lentil,,be-flat legume,
-lime,,be-green citrus,
-nut,,be-hard seed,
-onion; bulb onion; common onion; Allium cepa,,stack plant,capaloncan
-orange; mandarin; tangerine,,be-orange citrus,
-orchid,,flower plant,pulcan
-palm; palm tree,,tree leaf,
-peach; nectarine,,be-pink prunus,
-pine tree,,be-thin leaf tree,cepancat
-pineapple,,claw fruit,
-peanut; groundnut; goober,,monkey legume,
-pepper,,be-spicy fruit,
-plum,,be-purple prunus,
-potato; tuber; Solanum tuberosum,,ground tuber,
-pumpkin,,be-big squash,
-rubber tree; latex,,be-elastic tree,polaipowicat
-scallion; green onion; spring onion; salad onion,,leaf onion,
-sea beet; wild spinach,,be-natural beet,
-sesame,,oil seed,
-sugar beet,,be-sweet beet,
-sugarcane; cane sugar,,be-sweet grass,tamucan
-sunflower; Helianthus,,sun flower,
-taro; elephant ears,,be-big leaf,
-tea; Camellia sinensis,,be-liquid leaf,
-tobacco; Nicotiana,,be-gas leaf,
-triticale,,wheat rye,
-turnip,,be-white root,
-venus fly-trap,,eat plant,nyamacan
-watermelon,,be-red melon,
-yam; sweet potato,,be-sweet tuber,
-zucchini; courgette,,be-small squash,
-oil palm,,oil palm,
-sweet potato,,America yam,
-yam,,Afro-Eurasia yam,
 sugar,,be-sweet powder,tamuufalon
 salt,,be-salty powder,lunaufalon
 flour,,be-powder cereal,ufaanac
@@ -562,11 +331,11 @@ bread,,be-foamy cereal,fomianac
 cereal; breakfast cereal,,be-chunky cereal,isaanac
 noodle; linguini,,string cereal,talanac
 "be cucumiform; be cucumber-shaped; OBJ is cylindrical, with rounded tapers on the ends",,cucumber be-shaped,
-"be luniform; be moon-shaped; OBJ {crescent} is long, bent, and pointy on the ends",moon be-shaped,
-be pisciform; be fish-shaped; OBJ has a larger round bit connected to a triangular bit,fish be-shaped,
+"be luniform; be moon-shaped; OBJ {crescent} is long, bent, and pointy on the ends",,moon be-shaped,
+be pisciform; be fish-shaped; OBJ has a larger round bit connected to a triangular bit,,fish be-shaped,
 be pyriform; be pear-shaped; OBJ is fatter on one side than the other,,pear be-shaped,
-be stelliform; be star-shaped; OBJ {star} is covered in sharp radial points,star be-shaped,
-be cruciform; be cross-shaped; OBJ comprises two crossed beams,X be-shaped,
+be stelliform; be star-shaped; OBJ {star} is covered in sharp radial points,,sun be-shaped,
+be cruciform; be cross-shaped; OBJ comprises two crossed segments,,cross be-shaped,
 "be campanula; be bell-shaped; OBJ is rotationally symmetric, closed on one end, and flared on the other",,bell be-shaped,
 clock; watch,,time measuring-device,kwelwelsomaluat
 stopwatch,,lateness measuring-device,hulilyansomaluat
@@ -645,7 +414,7 @@ tonne,,×10^ 3 kilogram,lyonsan'kilokham
 give birth; get born; SBJ {biological mother} gives birth to OBJ {offspring; biological child; newborn} by IND {biological father}'s seed {TIME:birth},,person create,wonestaki
 sibling,,accompany child,kunemamalon
 anticle; aunt; uncle,,parent sibling,mamakunemamalon
-first cousin,,parent accompany child,mamakunemamalon
+first cousin,,be-far relative,mamakunemamalon
 grandparent,,×10^ 2 mother,lyontosmamales
 great grandparent,,×10^ 3 mother,lyonsanmamales
 great great grandparent,,×10^ 4 mother,lyonfolmamales
@@ -841,7 +610,7 @@ be upstream; be upwind; OBJ is upstream of IND,,flow be-high,nilumopekuhi
 encode; SBJ encodes OBJ as IND {METHOD:code},,misunderstand convert,otoyapatili
 decode; parse; SBJ decodes OBJ into IND,,understand convert,elewapatili
 gesture; sign; SBJ gestures IND to OBJ {METHOD:gesture},,hand say,cohti
-explore; SBJ sends OBJ {probe} to IND to learn about it,,move study,
+explore; probe; SBJ sends OBJ {probe} to IND to learn about it,,move teach,
 whisper; SBJ says IND {whisper} to OBJ without voicing,,be-quiet speak,sicapua
 shout; yell; scream; raise voice; SBJ shouts IND to OBJ,,be-loud speak,fuhapua
 challenge; be challenging; SBJ {challenger} challenges OBJ {challenged} with IND {challenge},,have-fun be-difficult,mocaufu
@@ -891,6 +660,251 @@ pentagram; pentalpha; pentangle; star pentagon,,5 path,limpas
 popcorn,,pop corn,kehemais
 harvest; SBJ harvests OBJ {crop} from IND {LOCATION:farm},,plant gather,cancomiki
 lens,,light pointer,
-alternate; be every-other; be checkerboarded,,yes no yes no,
+alternate; be every-other; OBJ {checkerboard} exists in an alternating pattern,,yes no yes no,
 background music; soundtrack,,ignore music,
-shiver; shudder; tremble; quiver,,be-cold move,
+shiver; shudder; tremble; quiver; OBJ is shivering,,be-cold move,
+berry,,be-small fruit,
+bat; flying fox,,fly mammal,fomamul
+pangolin,,scale mammal,linmamul
+cat,,person feline,wonmyawf
+tiger,,stripe feline,lonositelonmyawf
+lion,,hair feline,tofmyawf
+dog,,person canine,wonpawaf
+horse,,person equine,wonhihin
+rabbit; hare,,fast rodent,yalalonnyec
+porcupine,,be-sharp rodent,aklanyec
+mole,,be-low rodent,nicunyec
+skunk,,scent musteloid,olelumlih
+raccoon,,black face musteloid,ehalonilulih
+camel,,desert camel,patoufataylut
+llama,,mountain camel,pilut
+alpaca,,string camel,talut
+zebra,,be-gray equine,ocaehahihin
+pig; pork,,person swine,wonsul
+cow; bull; beef,,spot bovid,lonowiconmuf
+ox,,be-strong bovid,ikemuf
+antelope,,be-fast bovid,yalamuf
+sheep; mutton,,string bovid,talmuf
+goat,,mountain bovid,pilmuf
+sloth,,slow mammal,watalonmamul
+anteater,,ant eat mammal,maihnyamamamul
+armadillo,,shell mammal,pontolonmamul
+manatee; sea-cow,,ocean elephant,lawtpyah
+possum; glider; cuscus,,Australia-(landmass) opossum,
+platypus,,egg mammal,tanmamul
+waterfowl; duck; goose; swan,,be-liquid fowl,cweap
+landfowl; chicken; turkey; pheasant,,ground fowl,pumap
+dove,,white pigeon,ocalonpayl
+hummingbird,,hum bird,mumupawh
+penguin,,be-cold bird,enicipcip
+pelican,,ocean mouth bird,nyamacyencipcip
+seagull,,beach bird,taylnulyotcipcip
+condor,,be-big raptor,motakiah
+vulture,,be-clothed no raptor,polanyokiah
+owl,,nighttime raptor,sicalwelkiah
+bald eagle,,head raptor,silkiah
+flamingo,,be-pink bird,ocalucicipcip
+stork,,leg bird,lekcipcip
+toucan; Ramphastidae,,be-coloured mouth bird,
+parrot; Psittaciformes,,speak bird,
+amphibian {GENITIVE:amphibious},,fish lizard,peslisat
+salamander,,frog lizard,
+caecilian,,snake frog,
+lungfish,,sky fish,mippes
+eel,,snake fish,saspes
+minnow,,be-small carp,pelakap
+catfish,,hair carp,tofkap
+magikarp,,be-magical carp,catuikap
+anglerfish,,light fish,luspes
+pufferfish,,balloon fish,motakilonpes
+koi; koi fish,,be-coloured carp,lonokap
+seahorse,,ocean equid,lawthihin
+vertebrate,,be-hard animal,fulokipowinyotun
+invertebrate,,be-soft animal,fulokipowitun
+arthropod {GENITIVE:arthropodic},,shell animal,pontolontun
+seastar; sealily,,sun animal,pultun
+seaurchin,,be-sharp animal,aklatun
+seacucumber,,cucumber animal,'hiyaltun
+pantopod,,ocean spider,lawtcic
+shrimp,,be-small crustacean,pelakwap
+mantisshrimp,,be-strong crustacean,ikekwap
+centipede; millipede,,leg bug,kehlek
+centipede,,poison centipede,fakukiluatkehlek
+dragonfly; damselfly,,be-long bug,lamacuc
+louse,,hair bug,tofcuc
+scorpionfly,,sky scorpion,mipiloal
+moth,,be-brown butterfly,ehakutahutyeh
+butterfly,,be-coloured moth,lonoehakutahutyeh
+stickbug,,rod bug,sotcuc
+cockroach,,be-big cockroach,motaipis
+termite,,wood cockroach,mulonipis
+plankton,,be-small organism,pelaicilwel
+snail,,shell slug,pontolonkuhol
+molusk; cephalapod,,tentacle animal,tallektun
+octopus,,8 molusk,hattallektun
+decapus; squid; cuttlefish,,1 0 molusk,kannultallektun
+beard worm,,be-big tube worm,motalamasiklalonkil
+leech,,blood worm,tutumucwelonkil
+sea anemone; sea fan; seawhip,,flower animal,talcantun
+coral,,be-hard organism,fulokipowinyoicilwel
+sea sponge,,be-foamy organism,fomiicilwel
+tardigrade; water bear; moss piglet; Tardigrada,,be-small bear,pelalic
+moss; liverwort; hornwort,,landmass algae,taylsawl
+algae; alga,,ocean algae,lawtsawl
+plankton,,float life,
+apricot,,be-orange plum,
+asparagus; sparrow grass,,be-late can-smell plant,
+avocado,,crocodilian fruit,
+bamboo,,tree grass,
+banana; plantain,,stick fruit,sotfut
+bean,,be-soft seed,
+buckwheat,,cereal flower,
+bird of paradise,,bird flower,
+broccoli,,tree cabbage,
+Brussels sprouts,,be-small cabbage
+cabbage; brassica,,head cabbage,
+cacao; cocoa; chocolate,,be-sweet seed,
+candlenut; candleberry; Indian walnut; kukui nut tree; Aleurites moluccanus,,light seed,
+cantelope,,be-orange melon,
+cashew,,be-outside seed,
+cauliflower,,be-white cabbage,
+carrot,,be-orange root,
+castor bean; castor oil plant; palm of Christ,,tick seed,
+chard; spinach beet,,leaf beet
+cherry,,be-small plum,
+chives; Allium schoenoprasum,,flower onion,
+coconut,,string fruit,talfut
+cotton,,be-foamy plant,fomican
+coffee; Coffea,,move seed,mopecan
+cowpea; black-eye pea; yardlong bean; Vigna unguiculata,,claw legume,
+eggplant; aubergine; brinjal; Solanum melongena,,be-foamy fruit,
+fava bean; broad bean; horse bean; Vicia faba,,be-big legume,
+garden beet; beetroot,,root beet,
+garlic; Allium sativum,,be-powder onion,
+gourd; Cucurbitaceae with rigid shells,,be-hard fruit
+grape,,fruit climber,
+green bean; french bean; string bean; snap,,string legume,
+honeydew,,be-green melon,
+jute; mallow-leaves,,string plant,
+kale; leaf cabbage,,leaf cabbage,
+lemon,,be-yellow citrus,
+lentil,,be-thin legume,
+lime,,be-green citrus,
+nut,,be-hard seed,
+onion; bulb onion; common onion; Allium cepa,,stack plant,capaloncan
+orange; mandarin; tangerine,,be-orange citrus,
+orchid,,flower plant,pulcan
+palm; palm tree,,tree leaf,
+peach; nectarine,,be-pink plum,
+pine tree,,be-narrow leaf tree,cepancat
+pineapple,,claw fruit,
+peanut; groundnut; goober,,primate legume,
+pepper,,be-spicy fruit,
+plum,,be-purple plum,
+potato; tuber; Solanum tuberosum,,ground tuber,
+pumpkin,,be-big squash,
+rubber tree; latex,,be-elastic tree,polaipowicat
+scallion; green onion; spring onion; salad onion,,leaf onion,
+sea beet; wild spinach,,be-natural beet,
+sesame,,oil seed,
+sugar beet,,be-sweet beet,
+sugarcane; cane sugar,,be-sweet grass,tamucan
+sunflower; Helianthus,,sun flower,
+taro; elephant ears,,be-big leaf,
+tea; Camellia sinensis,,be-liquid leaf,
+tobacco; Nicotiana,,be-gaseous leaf,
+triticale,,wheat rye,
+turnip,,be-white root,
+venus fly-trap,,eat plant,nyamacan
+watermelon,,be-red melon,
+yam; sweet potato,,be-sweet tuber,
+zucchini; courgette,,be-small squash,
+oil palm,,oil palm,
+south pole,,be-south point,
+north pole,,be-north point,
+equator,,be-inside standard-parallel,
+parallel,,latitude path,
+meridian,,longitude path,
+Antarctica,,be-south landmass,sutatayl
+Antarctic Ocean,,be-south ocean,sutalawt
+Arctic Ocean,,be-north ocean,filalawt
+Afro-Eurasia; the Old World,,Africa Eurasia,'aflika'yewlasia
+North America,,be-north America,fila'amelika
+South America,,be-south America,suta'amelika
+Southern Africa {COUNTRY:South Africa; the Republic of South Africa {PEOPLE:South African; the South African people}},,be-south Africa,suta'aflika
+Central Africa {COUNTRY:Central African Republic {PEOPLE:Central African; the Central African people}},,be-inside Africa,ene'aflika
+Latin America {GENITIVE:Latin American},,the-Latin-people America,'latin'amelika
+Sinosphere; East Asia; the East Asian cultural sphere; Asia; the Sinic world,,be-east culture region,
+Oceania {GENITIVE:Oceanic},,ocean landmass,lawttayl
+Atlantic Ocean {GENITIVE:Atlantic},,Atlas-mountains ocean,'atlaslawt
+Indian Ocean {GENITIVE:Indian Oceanic},,India ocean,'hintulawt
+Pacific Ocean {GENITIVE:Pacific},,be-big be-still ocean,motapemolawt
+Arabian Sea,,Arab ocean,'alaplawt
+Bering Sea,,Bering ocean,'beringlawt
+Caribbean Sea,,Island-Carib ocean,'kalinakolawt
+Coral Sea,,coral ocean,fulokipowinyoicilwellawt
+Gulf of Mexico,,Mexico ocean,'mehikolawt
+Mediterranean Sea,,landmass be-inside ocean,taylenelawt
+South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
+Antigua and Barbuda {PEOPLE:Antiguans and Barbudans; the people of Antigua and Barbuda},,Antigua Barbuda,'antika'papyuta
+Great Brittan,,be-big British-Isles,mota'pwitontayl
+Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
+Democratic Republic of the Congo {GENITIVE:Congolese; from Democratic Republic of the Congo|PEOPLE:Congolese; the people of the Democratic Republic of the Congo},,Kinshasa the-Kingdom-of-Kongo,
+Republic of the Congo {GENITIVE:Congolese; from Republic of the Congo|PEOPLE:Congolese; the people of the Republic of the Congo},,Brazzaville the-Kingdom-of-Kongo,
+Northern Cyprus; Turkish Republic of Northern Cyprus {GENITIVE:North Cypriot; from Northern Cyprus|PEOPLE:Northern Cypriot; the Northern Cypriot people},,be-north Cyprus,fila'kiplos
+Scots Gaelic; the Scots Gaelic language,,Scot Goidelic,'sokot'kealtilip
+Equatorial Guinea; the Republic of Equatorial Guinea {GENITIVE:Equatorial Guinean; from Equatorial Guinea|PEOPLE:Equatorial Guinean; Equatoguinean; the Equatorial Guinean people},,equator Guinea-(region),
+Guinea-Bissau; the Republic of Guinea-Bissau {GENITIVE:Bissau-Guinean; from Guinea-Bissau|PEOPLE:Bissau-Guinean; the Bissau-Guinean people},,Bissau Guinea-(region),
+Guinea; Guinea-Conakry; the Republic of Guinea {PEOPLE:Guinean; the Guinean people},,Conakry Guinea-(region)
+Hindustani; the Hindustani language {PEOPLE:Hindustani speakers},,Hindi Urdu,
+Northern Irish; the Northern Irish people {GENITIVE:Northern Irish; from Northern Ireland|COUNTRY:Northern Ireland},,be-north Ireland,fila'elyatec
+North Korean; the North Korean people {GENITIVE:North Korean; from North Korea|COUNTRY:North Korea},,be-north Korean,fila'cosawn
+South Korean; the South Korean people {GENITIVE:South Korean; from South Korea|COUNTRY:South Korea},,be-south Korean,suta'cosawn
+North Macedonia; the Former Yugoslav Republic of Macedonia {GENITIVE:North Macedonian; from North Macedonia},,be-north Macedon,fila'maketontec
+Southern Min; Minnan; Hokkien-Taiwanese; the Southern Min languages,,be-south Min-Chinese
+South Ossetian; Alanian; the South Ossetian people {GENITIVE:South Ossetian; of South Ossetia|COUNTRY:South Ossetia; Alania},,be-south Ossetian,suta'alon
+Saint Kitts and Nevis {PEOPLE:Kittitians and Nevisians; the people of Saint Kitts and Nevis},,Saint-Kitts Nevis,
+Saint Vincent and the Grenadines {PEOPLE:Saint Vincentian; Vincy; the people of Saint Vincent and the Grenadines},,Saint-Vincent Grenadines,
+São Tomé Island {GENITIVE:São Toméan; Santomean},,São-Tomé landmass,
+São Tomé and Príncipe; the Democratic Republic of São Tomé and Príncipe {PEOPLE:São Toméans and Principeans; the people of São Tomé and Príncipe},,São-Tomé Príncipe,
+South Sudan {GENITIVE:South Sudanese; from South Sudan|PEOPLE:South Sudanese; the South Sudanese people},,be-south Sudan,suta'asutan
+East Timor; Timor-Leste; Democratic Republic of Timor-Leste {PEOPLE:Timorese; East Timorese; Maubere; the East Timorese people},,be-east Timor-(landmass),
+Trinidad and Tobago; the Republic of Trinidad and Tobago {PEOPLE:Trinbagonian; the people of Trinidad and Tobago},,Trinidad Tobago,'twinitat'topeykow
+Ugandan; the Ugandan people {GENITIVE:Ugandan; from Uganda|COUNTRY:Uganda},,be-big Buganda,mota'kantatec
+Sol; The Sun,,person sun,wonsun
+Luna; The Moon,,person moon,wonfik
+Earth {GENITIVE:global; earthling; terran},,person ground,wonpum
+Mars {GENITIVE:Martian},,be-red ground,lucipum
+Mercury {GENITIVE:Mercurian},,be-fast ground,yalapum
+Neptune {GENITIVE:Neptunian},,ocean ground,lawtpum
+Jupiter {GENITIVE:Jovian},,be-big ground,motapum
+Saturn {GENITIVE:Saturnic},,circle ground,siklalonpum
+Uranus {GENITIVE:Uranic},,sky ground,mippum
+Venus {GENITIVE:Venusian},,be-loud ground,fuhapum
+Milky Way {GENITIVE:Milky},,person galaxy,won'kalasias
+sweet potato,,America yam,
+yam,,Afro=Eurasia yam,
+Monday,,1 day,kansunkwelwel
+Tuesday,,2 day,tossunkwelwel
+Wednesday,,3 day,sansunkwelwel
+Thursday,,4 day,calsunkwelwel
+Friday,,5 day,limsunkwelwel
+Saturday,,6 day,siklalonsunkwelwel
+Sunday,,7 day,sunsunkwelwel
+Buddhism {GENITIVE:Buddhist; of Buddhism|PEOPLE:Buddhist; followers of Buddha},,Buddha-(title) religion,
+Caodaism; Đại Đạo Tam Kỳ Phổ Độ; the Cao Đài religion {GENITIVE:Caodaist; of Caodaism|PEOPLE:Caodaist; followers of Caodaism},,Cao-Đài religion,
+Christianity {GENITIVE:Christian; of Christianity|PEOPLE:Christian; followers of Christ},,Christ-(title) religion,
+Greek Orthodoxy; Orthodox Catholicism; Eastern Orthodoxy,,Greek Christianity,
+Han folk religion; Chinese folk religion,,Han religion
+Hinduism {PEOPLE:Hindu; followers of Hinduism},,India religion,
+Judaism {PEOPLE:Jew; religious Jew; followers of Judaism},,Jew religion,
+Jainism,,Jain religion,
+Roman Catholicism; Catholicism,,Rome Christianity,
+Shaivism {GENITIVE:Shaiva; of Shaivism|PEOPLE:Shaivite; Saivite; followers of Shiva},,Shiva religion,
+Shaktism {GENITIVE:Shakta; of Shaktism|PEOPLE:Shaktist; followers of Shakti},,Shakti religion,
+Sikhism; Sikhi,,Sikh religion,
+Smartism; Smarta tradition {GENITIVE:Smarta; of Smartism|PEOPLE:Smartism; followers of Smriti},,Smriti religion,
+Spiritualism {GENITIVE:Spiritualist; of Spiritualism|PEOPLE:Spiritualist; followers of Spiritualism},,spirit-(Spiritualism) religion,
+Daoism; Taoism {GENITIVE:Daoist; Taoist; of Daoism|PEOPLE:Daoist; Taoist; followers of Dao},,Dao religion,
+Vaishnavism {GENITIVE:Vaishnist; of Vaishnavism|PEOPLE:Vaishnava; Vaishnavite; followers of Vishnu},,Vishnu religion,
+Zoroastrianism; Mazdayasna {GENITIVE:Zoroastrian; Zarathustrian; of Zoroastrianism|PEOPLE:Zoroastrian; Zarathustrian; followers of Zoroastrianism},,Ahura-Mazda religion,
