@@ -484,7 +484,8 @@ sea sponge,,be-foamy organism,fomiicilwel
 tardigrade; water bear; moss piglet; Tardigrada,,be-small bear,pelalic
 moss; liverwort; hornwort,,landmass algae,taylsawl
 algae; alga,,ocean algae,lawtsawl
-plankton,,float life,apricot,,be-orange prunus,
+plankton,,float life,
+apricot,,be-orange prunus,
 asparagus; sparrow grass,,be-after can-smell plant,
 avocado,,crocodilian fruit,
 bamboo,,tree grass,
@@ -548,7 +549,7 @@ tobacco; Nicotiana,,be-gas leaf,
 triticale,,wheat rye,
 turnip,,be-white root,
 venus fly-trap,,eat plant,nyamacan
-watermelon,,,be-red melon,
+watermelon,,be-red melon,
 yam; sweet potato,,be-sweet tuber,
 zucchini; courgette,,be-small squash,
 oil palm,,oil palm,

@@ -99,8 +99,8 @@ for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
 SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictiorary translated
 
 VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
-NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','CONDITION',
-		'COMPLEMENT','RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','RELIGION']
+NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','CONDITION','COMPLEMENT',
+		'RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','RELIGION','PEOPLE']
 MISC_DERIVATIONS = ['OPPOSITE']
 
 
@@ -114,17 +114,32 @@ def get_curly_brace_pair(string):
 	assert '{' in string and '}' in string, "There aren't enough curly braces in {}".format(string)
 	i_open = string.index('{')
 	assert '}' in string[i_open:], "Curly braces out of order: {}".format(string)
-	i_close = i_open+1
 	depth = 1
-	while i_close < len(string):
+	for i_close in range(i_open+1, len(string)):
 		if string[i_close] == '}':
 			depth -= 1
 		elif string[i_close] == '{':
 			depth += 1
 		if depth == 0:
 			return i_open, i_close
-		i_close += 1
 	raise ValueError("Unbalanced curly braces: {}".format(string))
+
+
+def split_by_bars(string):
+	""" return string.split('|'), but ignoring bars in brackets """
+	parts = []
+	depth = 0
+	i_start = 0
+	for i_end in range(len(string)):
+		if string[i_end] == '{':
+			depth += 1
+		elif string[i_end] == '}':
+			depth -= 1
+		elif string[i_end] == '|' and depth == 0:
+			parts.append(string[i_start:i_end])
+			i_start = i_end+1
+	parts.append(string[i_start:])
+	return parts
 
 
 def strength_of(phoneme):
@@ -416,12 +431,12 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 		else:
 			return source_word + all_words['end']['otp']
 	elif deriv_type in ['NEGATIVE', 'INCOHATIVE', 'PROGRESSIVE', 'POSSIBILITY', 'GENITIVE', 'SBJ', 'OBJ', 'IND', 'AMOUNT',
-			'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'CONDITION', 'LANGUAGE', 'COUNTRY', 'REGION', 'RELIGION']:
+			'LOCATION', 'TIME', 'INSTRUMENT', 'CAUSE', 'METHOD', 'CONDITION', 'LANGUAGE', 'COUNTRY', 'REGION', 'RELIGION', 'PEOPLE']:
 		inflection_word = {
 			'NEG':'no', 'INC':'begin', 'PRO':'continue', 'POS':'be possible', 'GEN':'of', 'SBJ':'who (relative)',
 			'OBJ':'which (relative)', 'IND':'whom (relative)', 'AMO':'the amount that', 'LOC':'where (relative)',
 			'TIM':'when (relative)', 'INS':'with which (relative)', 'CAU':'why (relative)', 'MET':'how (relative)',
-			'CON':'for which', 'LAN':'language', 'COU':'country', 'REG':'location', 'REL':'religion',
+			'CON':'for which', 'LAN':'language', 'COU':'country', 'REG':'location', 'REL':'religion', 'PEO':'person',
 		}[deriv_type[:3]]
 		return source_word + all_words[inflection_word]['otp']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
@@ -480,8 +495,8 @@ def load_dictionary(directory):
 		for key in SUPPORTED_LANGUAGES:
 			value = entry[key]
 			while '{' in value: # handle explicit derivatives
-				i, j = get_curly_brace_pair(value)
-				for deriv_statement in value[i+1:j].split('|'):
+				i, j = get_curly_brace_pair(value) # first dig into the matched braces
+				for deriv_statement in split_by_bars(value[i+1:j]): # then separate out the individual derivative statements
 					if re.match(r'^[A-Z]+:', deriv_statement):
 						k = deriv_statement.index(':')
 						unprocessed_derivatives[deriv_statement[:k]][key] = deriv_statement[k+1:]

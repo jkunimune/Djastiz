@@ -158,13 +158,13 @@ Mauritania {GENITIVE:Mauritanian; from Mauritania|PEOPLE:Mauritanian; the Maurit
 Mauritius {GENITIVE:Mauritian; from Mauritius|PEOPLE:Mauritian; the Mauritian people|LANGUAGE:Mauritian creole; Morisien},,mfe <Moris> [moʁis],'mohis
 Melanesian; the Melanesian people {GENITIVE:Melanesian; from Melanesia|REGION:Melanesia},,fra <Mélanésie> [ˈmelɐnezi],'melanesi
 Mexico {GENITIVE:Mexican; from Mexico|PEOPLE:Mexican; the Mexican people},,spa <México> [ˈmexiko],'mehiko
-Micronesia (archipelago) {GENITIVE:Micronesian; from Micronesia|PEOPLE:Micronesian; the Micronesian people|COUNTRY:Micronesia; Federated States of Micronesia {PEOPLE:Micronesian; the Micronesian citizenry},,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
+Micronesia (archipelago) {GENITIVE:Micronesian; from Micronesia|PEOPLE:Micronesian; the Micronesian people|COUNTRY:Micronesia; Federated States of Micronesia {PEOPLE:Micronesian; the Micronesian citizenry}},,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
 Fujian; Fujien; Min {GENITIVE:Fujianese; from Fujian|PEOPLE:Fujianese; Fujian; the Fujianese people|LANGUAGE:Min Chinese; the Min languages},,nan <福建> [hok˨kjeŋ˨˩˧],'hokyen
 Moldova river {GENITIVE:Moldovan; from Moldova|PEOPLE:Moldovan; the Moldovan people|COUNTRY:Moldova|LANGUAGE:Moldovan; the Moldovan language},,ron <Moldova> [moldova],'moltofa
 Monaco {GENITIVE:Monacan; Monégasque; from Monaco|PEOPLE:Monégasque; Monacan; the Monacan people},,fra <Monaco> [mɔnako],'monako
 Mongol; the Mongolian people {GENITIVE:Mongolian; from Mongolia|COUNTRY:Mongolia|LANGUAGE:Mongolian; the Mongolian language},,mon <ᠮᠣᠩᠭᠣᠯ> [mɔŋɢɔɮ],'monkol
 Montenegro {GENITIVE:Montenegrin; from Montenegro|PEOPLE:Montenegrin; the Montenegrin people|LANGUAGE:Montenegrin; the Montenegrin language},,cnr <Црна Гора> [t͡sr̩ːnaː ɡɔra],'selnakola
-Maghreb; Maghrib {GENITIVE:Maghrebi; Maghreb; from the Maghreb|COUNTRY:Morocco {PEOPLE:Moroccan; the Moroccan people|REGION:Maghreb}|LANGUAGE:Berber; Amazigh; Tamazight; the Berber languages},,ara <مغرب‎> [mɑɣreb],'mahlep
+Maghreb; Maghrib {GENITIVE:Maghrebi; Maghreb; from the Maghreb|COUNTRY:Morocco; the Kingdom of Morocco {PEOPLE:Moroccan; the Moroccan people}|LANGUAGE:Berber; Amazigh; Tamazight; the Berber languages},,ara <مغرب‎> [mɑɣreb],'mahlep
 Island of Mozambique {GENITIVE:Mozambican; from Mozambique|COUNTRY:Mozambique; the Republic of Mozambique {PEOPLE:Mozambican; the Mozambican people}},,por <Moçambique> [musɐ̃ˈbikɨ],'musampiki
 Bamar; Burmese; Burman; the Burmese people {GENITIVE:Myanma; Burmese; from Myanmar|COUNTRY:Myanmar; Burma|LANGUAGE:Burmese; Myanmar; the Burmese language},,mya <ဗမာ> [bəmà],'pama
 Nahuatl; the Nahuatl language {GENITIVE:Nahua; of the Nahuas|PEOPLE:Nahua; Aztec; the Nahua people|COUNTRY:Aztec Empire},,nah <Nahuatl> [ˈnaːwat͡ɬ],'nawatla
@@ -174,7 +174,7 @@ Neo Patwa; Neo Patwah {GENITIVE:Neo Patwa; in Neo Patwa|PEOPLE:Neo Patwist; Neo 
 Nepal {GENITIVE:Nepalese; Nepali; from Nepal|PEOPLE:Nepalese; Nepali; the Nepalese people|LANGUAGE:Nepali; the Nepali language},,nep <नेपाल> [neˈpal],'nepal
 Netherlands; Holland; the Low Countries {GENITIVE:Dutch; Netherlandic; from the Netherlands|PEOPLE:Dutch; Netherlander; the Dutch people|LANGUAGE:Dutch; the Dutch language|REGION:the Low Countries; the Low Lands; the Netherlands},,nld <Nederland> [neːdərlɑnt],'netalan
 Nicaragua {GENITIVE:Nicaraguan; from Nicaragua|PEOPLE:Nicaraguan; the Nicaraguan people},,spa <Nicaragua> [nikaˈɾaɣwa],'nikalakwa
-Niger river; the Republic of the Niger {COUNTRY:Niger; {GENITIVE:Nigerien; from Niger|PEOPLE:Nigerien; the Nigerien people}},,fra <Niger> [niʒɛʁ],'niceh
+Niger river; the Republic of the Niger {COUNTRY:Niger; {PEOPLE:Nigerien; the Nigerien people}},,fra <Niger> [niʒɛʁ],'niceh
 Nigeria; the Federal Republic of Nigeria {GENITIVE:Nigerian; from Nigeria|PEOPLE:Nigerian; the Nigerian people},,eng <Nigeria> [naɪ̯ˈd͡ʒɪɹʷiə],'nayciwia
 Niue (landmass) {GENITIVE:Niuean; from Niue|PEOPLE:Niuean; the Niuean people|COUNTRY:Niue (country)|LANGUAGE:Niuean; the Niuean language},,niu <Niuē> [niweː],'niwe
 Nevis {GENITIVE:Nevisian; from Nevis},,aig <Nevis> [ˈnivis],'nifis
@@ -307,24 +307,24 @@ Sirius,,lat <Sīrius> [sirɪʊs],'silius
 Vega,,ara <واقع‎> [wɑːqeʔ],'wake
 Andromeda (galaxy) {GENITIVE:Andromedan},,grc <Ἀνδρομέδα> [an˦dro˧me˦da˧],'antometa
 Bahá'í; the Bahá'í Faith; Bahaism {GENITIVE:Bahá'í; of the Bahá'í Faith|PEOPLE:Bahá'í; followers of Bahá'u'lláh},,far <بهائی‎> [ba˨ˈha˦ʔi˦],'pahai
-Buddha (title) {RELIGION:Buddhism {GENITIVE:Buddhist; of Buddhism|PEOPLE:Buddhist; followers of Buddhism}},,san <बुद्ध> [bud̚˨dʱɐ˦],'puta
+Buddha (title) {RELIGION:Buddhism {GENITIVE:Buddhist; of Buddhism|PEOPLE:Buddhist; followers of Buddha}},,san <बुद्ध> [bud̚˨dʱɐ˦],'puta
 Cao Đài; Cao Đài Tiên Ông Đại Bồ Tát Ma Ha Tát {RELIGION:Caodaism; Đại Đạo Tam Kỳ Phổ Độ; the Cao Đài religion {GENITIVE:Caodaist; of Caodaism|PEOPLE:Caodaist; followers of Caodaism}},,vie <Cao Đài> [kaːw˧ ɗaːj˦˨],'kawtay
 Catholicism; the Catholic Church; the Roman Catholic Church {GENITIVE:Catholic; Roman Catholic; of the Catholic Church|PEOPLE:Catholic; followers of the Catholic Church},,lat <Catholicismo> [kaˈtɔlɪt͡ʃismɔ],'katolicismo
-Christ; the Christ {RELIGION:Christianity {GENITIVE:Christian; of Christianity|PEOPLE:Christian; followers of Christianity},,grc <Χριστός> [kʰriːstós],'kilistos
+Christ (title) {RELIGION:Christianity {GENITIVE:Christian; of Christianity|PEOPLE:Christian; followers of Christ}},,grc <Χριστός> [kʰriːstós],'kilistos
 Eastern Orthodoxy; Orthodox Catholicism; Greek Orthodoxy {GENITIVE:Eastern Orthodox},,ell <Ορθοδοξία> [orθoðoˈksia],'olsotoksia
 Islam; Muhammadanism {GENITIVE:Islamic|PEOPLE:Muslim; followers of Islam},,ara <إسلام> [ʔɪsˈlaːm],'islam
 Jain; follower of Jainism {GENITIVE:Jain; Jainist; of Jainism|RELIGION:Jainism},,san <जैन> [d͡ʒɛːn],'cen
 Protestantism {GENITIVE:Protestant; of Protestantism|PEOPLE:Protestant; follower of Protestantism},,deu <Protestantismus> [ˌpʀ̥otɛstanˈtɪsmʊs],'pohotestantismus
-Shiva {RELIGION:Shaivism {GENITIVE:Shaiva; of Shaivism|PEOPLE:Shaivite; Saivite; followers of Shaivism}},,san <शिव> [ɕiʋɐ́],'ciwa
-Shakti {RELIGION:Shaktism {GENITIVE:Shakta; of Shaktism|PEOPLE:Shaktist; followers of Shaktism}},,hin <शक्ति> [ʃəkti],'cakti
+Shiva {RELIGION:Shaivism {GENITIVE:Shaiva; of Shaivism|PEOPLE:Shaivite; Saivite; followers of Shiva}},,san <शिव> [ɕiʋɐ́],'ciwa
+Shakti {RELIGION:Shaktism {GENITIVE:Shakta; of Shaktism|PEOPLE:Shaktist; followers of Shakti}},,hin <शक्ति> [ʃəkti],'cakti
 Shia Islam; Shia {GENITIVE:Shia; of Shia Islam|PEOPLE:Shia of Ali; Shia; followers of Shia Islam},,ara <شيعة‎> [ʃiːʔah],'ciah
 Shintoism {GENITIVE:Shinto; of Shintoism|PEOPLE:Shintoist; followers of Shintoism},,jap <神道> [ɕintoː],'cinto
 Sikh; followers of Sikhism {GENITIVE:Sikh; of Sikhism|RELIGION:Sikhism; Sikhi},,pan <ਸਿੱਖ> [ˈsɪkkʰ],'sik
-Smriti {RELIGION:Smartism; Smarta tradition {GENITIVE:Smarta; of Smartism|PEOPLE:Smartism; follower of Smriti},,san <स्मृति> [smr̩ti],'samliti
+Smriti {RELIGION:Smartism; Smarta tradition {GENITIVE:Smarta; of Smartism|PEOPLE:Smartism; followers of Smriti}},,san <स्मृति> [smr̩ti],'samliti
 spirit (Spiritualism) {RELIGION:Spiritualism {GENITIVE:Spiritualist; of Spiritualism|PEOPLE:Spiritualist; followers of Spiritualism}},,eng <spirit> [ˈspɪɹʷɪt],'sipiwit
 Sunni Islam; Sunniism {GENITIVE:Sunni; of Sunni Islam|PEOPLE:Sunni; followers of Sunni Islam},,ara <سنة> [ˈsunnah],'sunah
-Dao; Tao {RELIGION:Daoist; Taoist {GENITIVE:Daoist; Taoist; of Daoism|PEOPLE:Daoist; Taoist; followers of Daoism},,cmn <道> [taw˥˩],'taw
-Vishnu {RELIGION:Vaishnavism {GENITIVE:Vaishnist; of Vaishnavism|PEOPLE:Vaishnava; Vaishnavite; followers of Vaishnavism}},,san <विष्णु> [ʋɪʂɳʊ],'wicnu
+Dao; Tao {RELIGION:Daoist; Taoist {GENITIVE:Daoist; Taoist; of Daoism|PEOPLE:Daoist; Taoist; followers of Dao}},,cmn <道> [taw˥˩],'taw
+Vishnu {RELIGION:Vaishnavism {GENITIVE:Vaishnist; of Vaishnavism|PEOPLE:Vaishnava; Vaishnavite; followers of Vishnu}},,san <विष्णु> [ʋɪʂɳʊ],'wicnu
 Ahura Mazda; Ohrmazd; Ahuramazda; Hourmazd; Hormazd; Hurmuz {RELIGION:Zoroastrianism; Mazdayasna {GENITIVE:Zoroastrian; Zarathustrian; of Zoroastrianism|PEOPLE:Zoroastrian; Zarathustrian; followers of Zoroastrianism}},,ave <𐬨𐬀𐬰𐬛𐬁> [mazdaː],'masta
 feng shui,,cmn <风水> [fəŋ˥ʂweɪ̯˧˩˥],'fancwey
 homeopathy,,deu <homöopathie> [hoːmœoːpatiː],'homeopati
