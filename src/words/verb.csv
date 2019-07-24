@@ -186,8 +186,8 @@ be east; OBJ {the East} has a higher longitude than IND {standard meridian; prim
 be west; OBJ {the West} has a lower longitude than IND,,ANTONYM OF be east,oflo
 go east; SBJ increases the longitude of OBJ relative to IND,,INCOHATIVE OF be east,esteki
 go west; SBJ decreases the longitude of OBJ relative to IND,,CESSATIVE OF be east,ofloki
-be dense; beI cramped; be frequent; be common; be tightly packed; be fine; be urban; OBJ occurs frequently and close together in IND {METHOD:distribution},,cmn <稠密> [ʈ͡ʂʰoʊ̯˧˥mi˥˩],comi
-be sparse; beI spacious; be infrequent; be uncommon; be loosely distributed; be coarse; OBJ is few and far between in IND {space; room; open space},,ANTONYM OF be dense,hepu
+be dense; beI cramped; be frequent; be tightly packed; be fine; be urban; OBJ occurs frequently and close together in IND {AMOUNT:density; resolution} {METHOD:distribution},,cmn <稠密> [ʈ͡ʂʰoʊ̯˧˥mi˥˩],comi
+be sparse; beI spacious; be infrequent; be loosely distributed; be coarse; OBJ is few and far between in IND {space; room; open space},,ANTONYM OF be dense,hepu
 gather; collect; cluster; densify; SBJ increases the spacial frequency of OBJ,,INCOHATIVE OF be dense,comiki
 spread out; separate; distribute; SBJ decreases the spacial frequency of OBJ,,CESSATIVE OF be dense,hepuki
 face; point; confront; OBJ {direction} is oriented in the direction toward IND {target; front},,ibo <iru> [iɾu],ilu
@@ -442,7 +442,7 @@ soften; melt; SBJ makes OBJ become soft,,INCOHATIVE OF be soft,kulaki
 harden; firm; SBJ makes OBJ become hard,,CESSATIVE OF be soft,nitaki
 be solid; be coherent; be coagulated; OBJ is solid {AMOUNT:solidity; rigidity},,cmn <固体> [ku˥˩tʰi˧˩˧],kuti
 be fluid; be amorphous; OBJ is fluid,,ANTONYM OF be solid,nilu
-freeze; solidify; deposit; SBJ {freezer; one who freezes} freezes OBJ {frozen; ice} {INSTRUMENT:freezer},,INCOHATIVE OF be solid,kutiki
+freeze; solidify; deposit; SBJ {freezer} freezes OBJ {frozen; ice},,INCOHATIVE OF be solid,kutiki
 melt; sublimate; SBJ {melter} melts OBJ {molten},,CESSATIVE OF be solid,niluki
 be liquid; be water; OBJ {body of water} is a liquid {AMOUNT:liquidity},,cmn <水> [ʂweɪ̯˧˩˧],cwe
 be gaseous; be air; OBJ {gas; cloud} is gaseous,,ANTONYM OF be liquid,hyo
@@ -570,7 +570,7 @@ assuage; sooth; relieve; calm; SBJ {reliever} causes OBJ to feel relieved by IND
 be likely; be normal; be unremarkable; be expectable; be common; OBJ is likely true {AMOUNT:P-value},,cmn <容易> [ɻʊŋ˧˥i˥˩],luni
 be unlikely; be weird; be remarkable; be rare; be unexpected; be strange; OBJ {coincidence} is unlikely {AMOUNT:rarity; weirdness},,ANTONYM OF be likely,tiku
 increase chances; explain away; favour; SBJ makes OBJ more likely,,INCOHATIVE OF be likely,luniki
-decrease chances; find coincidence; SBJ makes OBJ less likely,,CESSATIVE OF be likely,tikuki
+decrease chances; SBJ makes OBJ less likely,,CESSATIVE OF be likely,tikuki
 correspond; match; be respective; OBJ corresponds to IND,,msa <sama> [sama],sama
 be sharp; be clear; be tight; OBJ {blade; edge; point} has a short radius of curvature {AMOUNT:sharpness; clarity},,epo <akra> [ˈakra],akla
 be dull; be blunt; be blurry; be nebulous; be wide; be gradual; OBJ has a long radius of curvature {AMOUNT:radius of curvature},,ANTONYM OF be sharp,anta
@@ -594,7 +594,7 @@ hit; strike; collide; SBJ hits OBJ {INSTRUMENT:hammer},,epo <bati> [ˈbati],pati
 "rumble; flicker; SBJ makes OBJ {rumble; flicker; noisy, low-pitched sound or action}",,ono [wumba],wompa
 "ring; trill; coo; chime; SBU makes OBJ {ring; trill; coo; chime; noisy, concordant sound or action}",,ono [riŋ riŋ],linli
 cook; prepare; make; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave; SBJ {cook; chef; baker} cooks OBJ {cooking} {INSTRUMENT:pot; pan},,xho <-pheka> [pʰɛka],peka
-help; be for; ally; support; benefit; work with; be auxiliary; OBJ {helper} is working toward the same goal as IND {ally; friend},,cmn <帮助> [pɑŋ˥ʈ͡ʂu˥˩],pancu
+help; be for; ally; support; benefit; work with; assist; be auxiliary; OBJ {helper; assistant} is working toward the same goal as IND {ally; friend},,cmn <帮助> [pɑŋ˥ʈ͡ʂu˥˩],pancu
 hinder; be against; oppose; harm; compete; fight; counter; OBJ {opposer} is working toward a goal contrary to that of IND {opponent; competitor; enemy},,ANTONYM OF help,makhi
 align with; join; team up; SBJ {alliance forger} makes OBJ ally with IND,,INCOHATIVE OF help,pancuki
 turn against; betray; split up; SBJ {instigator} turns OBJ {traitor} against IND,,CESSATIVE OF help,makhiki

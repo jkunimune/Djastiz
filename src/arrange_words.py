@@ -406,7 +406,7 @@ def choose_word(english, real_words, counts, partos, has_antonym=False, all_word
 		scores.append(score)
 
 	for i, ((lang, orthography, narrow, reduced, changes), score) in enumerate(zip(options, scores)):
-		score -= 1.0*len(reduced)**2 # prefer shorter words
+		score -= 0.6*len(reduced)**2 # prefer shorter words
 		for lang2, _, _, reduced2, _ in options: # prefer words that are similar in other major languages
 			if lang2 != lang:
 				for is_important in [(lambda c: True), (lambda c: is_consonant(c, ipa=False))]: # measuring similarity as number of matching letters, and number of
