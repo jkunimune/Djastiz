@@ -19,7 +19,6 @@ eng,spa,source,otp
 "F; fifteen; only used for hexadecimal {GENITIVE:fifteenth}","15; quince",OPPOSITE OF 1,nak
 "G; sixteen; only used to describe hexadecimal {GENITIVE:sixteenth}","16; dieciseis",eng <hex> [hɛks],hes
 "much; many; very",mucho; muchos,spa <mucho> [ˈmut͡ʃo],muc
-"several; some; a few; handful; medium; 1 to 10","unos; un poco; 1 to 10",spa <vario> [ˈβaɾjo],pal
 "little; few; slight",poco; pocos,OPPOSITE OF much,pih
 "all; absolute; maximum; exact {GENITIVE:last; universal}",todo; todos; absoluto; máximo,OPPOSITE OF 0,kit
 "universalise; popularise; permeate; pervade; SBJ causes OBJ to become everything",popularizar; permear; SBJ hace que OBJ se convierta en todo,,kitki

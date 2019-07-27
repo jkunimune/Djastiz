@@ -1,13 +1,13 @@
 eng,spa,source,otp
-notion; idea; information; data; number; intangible facts or falsehoods {GENITIVE:conceptual; ideal; theoretical; informational},,yor <ìrọ> [ìrɔ̄],il
+notion; idea; information; data; number; intangible facts or falsehoods {GENITIVE:conceptual; ideal; theoretical; informational},,spa <noción> [noˈsjon],nosyon
 point; particular time or place {GENITIVE:particular; local},,eng <point> [pʰɔɪ̯nt],poyn
 path; line; curve; one-dimensional locus {GENITIVE:linear; curvilinear},,eng <path> [pʰæθ],pas
-surface; plane; layer; two-dimensional locus {GENITIVE:planar; superficial; facial},,swa <uso> [uso],us
+surface; plane; layer; two-dimensional locus {GENITIVE:planar; superficial; facial},,jav <lumah> [ɭumɑh],lumah
 region; volume; interval; continuous locus bounded on all sides {GENITIVE:regional; volumetric; periodic},,eng <region> [ˈɹʷiːd͡ʒən],wicon
-stick; rod; limb; beam; rigid roughly straight one-dimensional object,,pan <ਸੋਟੀ> [soˈʈi],sot
-string; thread; wire; hair; thread; flexible one-dimensional object,,hin <तार> [taːr],tal
-plate; board; wall; rigid two-dimensional object,,OPPOSITE OF rod,fel
-sheet; page; flexible two-dimensional object,,OPPOSITE OF string,lat
+stick; rod; limb; beam; rigid roughly straight one-dimensional object,,spa <palo> [ˈpalo],pal
+string; thread; wire; hair; thread; flexible one-dimensional object,,cmn <线> [ɕjɛn˥˩],cyen
+plate; board; wall; rigid two-dimensional object,,OPPOSITE OF rod,mat
+sheet; page; flexible two-dimensional object,,OPPOSITE OF string,hwok
 network; net; web; system; collection of interconnected nodes {GENITIVE:web},,spa <red> [reð],let
 person; woman; man; human; Homo sapiens {GENITIVE:personal; humanistic; domesticated},,jav <wong> [wɔŋ],won
 personify; humanise; anthropomorphise,,INCOHATIVE OF person,wonki
@@ -16,10 +16,10 @@ baby; infant; newborn; very young and underdeveloped animal {GENITIVE:infantile}
 child; youth; girl; boy; adolescent; kid; not fully-grown animal {GENITIVE:juvenile; adolescent},,cmn <儿童> [ɚ˧˥tʰʊŋ˧˥],atun
 adult; fully-grown animal {GENITIVE:adult},,OPPOSITE OF youth,alik
 senior citizen; elder; very old and decrepit animal {GENITIVE:elder},,OPPOSITE OF baby,ninap
-light; electromagnetic radiation {GENITIVE:photic; optic; luminescient},*luz,spa <luz> [lus],lus
-"god; deity; superhuman entity worshiped as having great influence over reality, but not any god in particular {GENITIVE:divine; godly; deific}",,cmn <神> [ʂən˧˥],can
-ground; planet; gravitationally-bound solid mass {GENITIVE:terrestrial; planetary},,epo <tero> [ˈtero],tel
-sky; atmosphere; weather; heavens; all space above the ground {GENITIVE:celestial; atmospheric; meteorological; aerial; heavenly},,OPPOSITE OF ground,lot
+light; electromagnetic radiation {GENITIVE:photic; optic; luminescient},*luz,cmn <光> [kwɑŋ˥],kwan
+"god; deity; superhuman entity worshiped as having great influence over reality, but not any god in particular {GENITIVE:divine; godly; deific}",,eng <god> [ɡɒd],kot
+ground; planet; gravitationally-bound solid mass {GENITIVE:terrestrial; planetary},,hin <भूमि> [b̤uːmi],pum
+sky; atmosphere; weather; heavens; all space above the ground {GENITIVE:celestial; atmospheric; meteorological; aerial; heavenly},,OPPOSITE OF ground,mip
 outer *space; cosmos; vacuumic space above the atmosphere {GENITIVE:cosmic; astral; interstellar},,cmn <太空> [tʰaɪ̯˥˩kʰʊŋ˥],taykun
 sun; star; gravitationally-bound mass of burning plasma {GENITIVE:solar; stellar},,epo <suno> [ˈsuno],sun
 moon; satellite; solid object gravitationally orbiting another {GENITIVE:lunar},,OPPOSITE OF sun,fik
@@ -29,43 +29,43 @@ mountain; large elevated region of a planet's crust {GENITIVE:mountainous; monta
 valley; large locally depressed region of a planet's crust {GENITIVE:valley},,OPPOSITE OF mountain,mut
 settlement; *city; town; village; dense collection of human residences {GENITIVE:urban; villestial},,cmn <市> [ʂɨ˥˩],cih
 countryside; country; large but sparse distribution of human residences {GENITIVE:rural},,OPPOSITE OF settlement,huc
-storm; tempest; violent and dangerous disturbance of the atmosphere {GENITIVE:stormy; cyclonical},,ben <ঝড়> [d͡ʑ̤ɔɽɔ],col
+storm; tempest; violent and dangerous disturbance of the atmosphere {GENITIVE:stormy; cyclonical},,pan <ਤੂਫਾਨ> [t̪upʰɑn],tupan
 state; *country; polity; politically independent group of people {GENITIVE:political; national; federal},,hin <देश> [deʃ],tec
-culture; nation; tribe; clan; human social group {GENITIVE:cultural; national; tribal; social},,sho <tsika> [t͡sika],sik
+culture; nation; tribe; clan; human social group {GENITIVE:cultural; national; tribal; social},,sot <setso> [set͡sʼo],ses
 art; art {GENITIVE:artistic},,eng <art> [ɑɹt],at
 phrase; sentence; meaningful string of words {GENITIVE:phrasal; sentential},,eng <phrase> [fɹʷeɪ̯z],fwes
-family; intimate group of people {GENITIVE:familial},,yor <ebi> [ebi],ep
+family; intimate group of people {GENITIVE:familial},,cmn <家庭> [t͡ɕja˥tʰiŋ˧˥],cyatin
 home; place of residence of an individual or family {GENITIVE:domestic},,eng <home> [hoʊ̯m],hom
 furniture; large movable equipment used to make a space more livable,,swa <samani> [samani],saman
-season; period of time characterised by some thing or event {GENITIVE:seasonal},,ben <ঋতু> [ɽit̪u],lit
-reality; universe; dimension; collection of all canonical existing things {GENITIVE:real; realistic; possible},,yor <òtítọ́> [òtítɔ́],otit
+season; period of time characterised by some thing or event {GENITIVE:seasonal},,eng <season> [ˈsiːzən],sison
+reality; universe; dimension; collection of all canonical existing things {GENITIVE:real; realistic; possible},,epo <realaĵo> [reaˈlaʒo],lealac
 layout; topography; geography {GENITIVE:topographical; geographical},,eng <layout> [leɪ̯aʊ̯t],leyawt
-body; chassis; physical manifestation {GENITIVE:bodily; physical; corporal},,eng <body> [ˈbɒɾi],pot
-soul; spirit; metaphysical essence,,OPPOSITE OF body,mel
-gland; organ; node; functional organic module {GENITIVE:glandular; nodal; bodily; internal},,cmn <腺> [ɕjɛn˥˩],cyen
+body; chassis; physical manifestation {GENITIVE:bodily; physical; corporal},,ben <শরীর> [ɕɔrir],colil
+soul; spirit; metaphysical essence,,OPPOSITE OF body,hetut
+gland; organ; node; functional organic module {GENITIVE:glandular; nodal; bodily; internal},,yor <ẹṣẹ́> [ɛ̄ʃɛ́],ec
 "female; woman; animal biologically characterised by ovaries, vaginas and estrogen {GENITIVE:female}",,eng <female> [ˈfiːmeɪ̯ɫ],fimel
 "male; man; animal biologically characterised by testicles, penises, and testosterone {GENITIVE:male}",,OPPOSITE OF female,supot
-hair; fur; organically extruded strings {GENITIVE:pilar; hairy},,cmn <头发> [tʰoʊ̯˧˥fa],tof
+hair; fur; organically extruded strings {GENITIVE:pilar; hairy},,mar <केस> [kes],kes
 face; front part of a head {GENITIVE:facial},,ben <মুখ> [mukʰ],muk
 head; bulge on top of an animal containing many of its sensual and cognitive capabilities {GENITIVE:cranial; cephalic},,hin <सिर> [sir],sil
-torso; trunk; stem; core; central base of a body {GENITIVE:torsal; basal},,ben <ধড়> [d̪̤ɔɽɔ],tol
+torso; trunk; stem; core; central base of a body {GENITIVE:torsal; basal},,hin <धड़> [d̤əɽ],tal
 arm; long appendage used for manipulation {GENITIVE:brachial; appendicular},,eng <arm> [ɑɹm],am
 hand; multi-appendaged manipulator {GENITIVE:manual},,cmn <手> [ʂoʊ̯˧˩˧],coh
 finger; toe; small manipulator attached to a hand or foot {GENITIVE:digital},,cmn <手指> [ʂoʊ̯˧˩˧ʈ͡ʂɨ˧˩˧],coc
-buttocks; butt; bum; soft region between the back of an animal's legs and torso {GENITIVE:gluteal; posterial},,fil <pigi> [piɡi],pik
+buttocks; butt; bum; soft region between the back of an animal's legs and torso {GENITIVE:gluteal; posterial},,spa <nalgas> [ˈnalɣas],nalkas
 leg; appendage; long appendage used for transportation {GENITIVE:crural; appendicular},,eng <leg> [lɛɡ],lek
-chest; breast; bosom; upper front surface of a torso {GENITIVE:chestal; mamillary},,spa <pecho> [ˈpet͡ʃo],pec
-"claw; quill; fingernail; rigid, sharp, organic protrusion {GENITIVE:ungual; sharp}",,spa <garra> [ˈɡara],kal
+chest; breast; bosom; upper front surface of a torso {GENITIVE:chestal; mamillary},,hin <छाती> [t͡ʃʰaːtiː],cat
+"claw; quill; fingernail; rigid, sharp, organic protrusion {GENITIVE:ungual; sharp}",,cmn <爪> [ʈ͡ʂɑʊ̯˧˩˧],cawh
 "scale; squame; flake; rigid, external, organic plate used in array with others {GENITIVE:squamous; scaly}",*escama,cmn <鳞> [lin˧˥],lin
 feather; plumage; rigid organic extension of a bird or dinosaur lined with hairs {GENITIVE:plumal; feathery; feathered},,jav <wulu> [wuɭu],ul
 egg; first cell of a new organism {GENITIVE:ovary; eggy},,cmn <蛋> [tan˥˩],tan
 seed; small courier of genetic information {GENITIVE:seminal},,hin <बीज> [biːd͡ʒ],pic
-leaf; blade of grass; photosynthetic structure of a plant {GENITIVE:foliar; leafy},,spa <hoja> [ˈoxa],oh
+leaf; blade of grass; photosynthetic structure of a plant {GENITIVE:foliar; leafy},,cmn <叶> [jɛ˥˩],yeh
 fruit; seed-bearing structure of a flowering plant {GENITIVE:pomonal; fruity},,eng <fruit> [fɹʷuːt],fut
 "climber; *vine; creeper; ivy; long, climbing plant",,epo <rebo> [ˈrebo],lep
-tuber; enlarged nutrient-storing structure of a plant,,msa <ubi> [ubi],up
+tuber; enlarged nutrient-storing structure of a plant,,epo <tubero> [tuˈbero],tupel
 flower; pollen-bearing structure of a flowering plant {GENITIVE:floral},,hin <फूल> [pʰuːl],pul
-root; underground component of a plant that gathers nutrients {GENITIVE:radical; rooted},,pan <ਰੂਟ> [ɾuʈ],lut
+root; underground component of a plant that gathers nutrients {GENITIVE:radical; rooted},,spa <raíz> [raˈis],lais
 animal; meat; Animalia {GENITIVE:animal; meaty},,cmn <动物> [tʊŋ˥˩u˥˩],tun
 plant; vegetable; Plantae {GENITIVE:botanical; vegetal},,cmn <植物> [ʈ͡ʂɨ˧˥u˥˩],ciuh
 fungus; Fungi {GENITIVE:fungal; fungic; fungous},,cmn <菌> [t͡ɕyn˥],ciwn
@@ -73,7 +73,7 @@ primate; monkey; ape; Primates {GENITIVE:simian},,ono [u ki ki],ukik
 rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew; Glires {GENITIVE:murine},,cmn <啮齿> [njɛ˥˩ʈ͡ʂʰɨ˧˩˧],nyec
 feline; cat; kitten; Felidae {GENITIVE:feline},,ono [mjaw],myawf
 canine; dog; wolf; dingo; fox; pup; cub; Canidae {GENITIVE:canine},,ono [baw waw wof],pawaf
-bear; Ursidae {GENITIVE:ursine},,spa <oso> [ˈoso],os
+bear; Ursidae {GENITIVE:ursine},,pan <ਰਿੱਛ> [ɾɪːt͡ʃʰ],lic
 seal; walrus; sea lion; Pinnipedia,,spa <sello> [ˈseʝo],seyoh
 musteloid; red panda; skunk; *raccoon; coatis; kinkajou; olingo; olinguito; ringtail; cacomistle; weasel; badger; otter; marten; ferret; mink; stoat; wolverine; Musteloidea,,cmn <狸> [li],lih
 equid; horse; zebra; pony; wild butt; Equidae {GENITIVE:equine},,ono [hi hin],hihin
@@ -98,7 +98,7 @@ paleognath; *ostrich; emu; rhea; tinamou; kiwi; cassowary; Palaeognathae,,sot <l
 fowl; duck; swan; goose; chicken; turkey; pheasant; Galloanserae,,spa <ave> [ˈaβe],ap
 chicken; chick; junglefowl; Gallus,,ono [kuk kurikoː],kukulik
 turkey (bird); Meleagris,,ono [gululu],kululun
-pigeon; dove; sandgrouse; mesite; Columbimorphae,,ben <পায়রা> [pae̯ra],payl
+pigeon; dove; sandgrouse; mesite; Columbimorphae,,eng <pigeon> [ˈpʰɪd͡ʒɪn],picin
 raptor; hawk; eagle; kite; vulture; condor; osprey; owl; falcon; bird of prey,,ono [kijɑː],kiah
 crocodilian; *crocodile; alligator; Crocodilia,,nya <ng&#39;ona> [ŋona],non
 turtle; tortoise; terrapin; Testudine,,cmn <龟> [kweɪ̯˥],kweh
@@ -108,17 +108,17 @@ carp; koi; catfish; loach; minnow; herring; tetra; Cypriniformes,,eng <carp> [k�
 salmon; trout; pike; dragonfish; smelt; Protacanthopterygii,,spa <salmón> [salˈmon],salmon
 mackerel; *tuna; tunny; Scombridae,,epo <tinuso> [tiˈnuso],tinus
 shark; Selachimorpha,,msa <jerung> [d͡ʒeruŋ],celun
-ray; manta ray; stingray; skate; sawfish; Batoidea,,eng <ray> [ɹʷeɪ̯],weh
+ray; manta ray; stingray; skate; sawfish; Batoidea,,epo <rajo> [ˈrajo],layoh
 bug; insect; arachnid; myriapod; entognath; small terrestrial invertebrate,,ben <জুজু> [d͡ʑud͡ʑu],cuc
 tick; mite; Acari,,mar <टिक> [ʈik],tik
 spider; Araneae,,cmn <蜘蛛> [ʈ͡ʂɨ˥ʈ͡ʂu˥],cic
-scorpion; Scorpiones,,cmn <蝎> [xɤ˧˥],hawh
+scorpion; Scorpiones,,fil <alakdan> [alakdan],alaktan
 crustacean; *crab; lobster; crayfish; shrimp; prawn; krill; Crustacea,,eng <crab> [kʰɹʷæb],kwap
 barnacle; copepod; Cirripedia,,yor <ọwọn> [ɔwɔ̃],owon
 beetle; Coleoptera,,cmn <甲虫> [t͡ɕja˧˩˧ʈ͡ʂʰʊŋ˧˥],cyacun
 mosquito; Culicidae,,ben <মশা> [mɔɕa],moc
-fly; *housefly; gnat; midge; Muscidae,mosca; Muscidae,ono [ĩ̋ː],ihih
-flea; Siphonaptera,,ben <মাছি> [mat͡ɕʰi],mac
+fly; housefly; gnat; midge; Muscidae,mosca; Muscidae,ono [ĩː˥],ihin
+flea; Siphonaptera,,ibo <uba> [uba],up
 butterfly; moths; Lepidoptera,,cmn <蝴蝶> [xu˧˥tjɛ˧˥],hutyeh
 wasp; Apocrita minus Anthophilia and Formicidae,,ibo <wep> [wep],wep
 ant; Formicidae,,cmn <蚂蚁> [ma˧˩˧i˧˩˧],maih
@@ -126,21 +126,21 @@ bee; Anthophilia,abeja; Anthophilia,ono [zum zum],sumsum
 cricket; grasshopper; locust; tatydid; Orthoptera,,hin <झींगुर> [d͡ʒ̤iːŋɡur],cinkul
 cockroach; roach; termite; Blattodea,,fil <ipis> [ipis],ipis
 mantis; Mantodea,,spa <mantis> [ˈmantis],mantis
-earwig; Dermaptera,,eng <earwig> [ˈɪɹwɪɡ],iawik
+earwig; Dermaptera,,fil <earwig> [eaɾwiɡ],ealwik
 worm; long limbless invertebrate,,hin <कीड़ा> [kiːɽaː],kil
 slug; land slug; shell-less terrestrial gastropod mollusc,,fil <kuhol> [kuhol],kuhol
 nautilus; Nautilidae,,epo <naŭtilo> [nawˈtilo],nawtil
 sea *anemone; Actiniaria,,epo <anemono> [aneˈmono],anemon
 jellyfish; medusa; Medusozoa,,epo <meduzo> [meˈduzo],metus
 mushroom; toadstool; superterranean fungus with a stem and cap,,cmn <蘑菇> [mwɔ˧˥ku],mwok
-prokaryote; *bacterium; archaeon; cellular organism with no nucleus,,cmn <细菌> [ɕi˥˩t͡ɕyn˥],ciciwn
+prokaryote; *bacterium; archaeon; cellular organism with no nucleus,,jav <baktèri> [pɑ̤ktɛɽi],paktel
 virus,,spa <virus> [ˈbiɾus],pilus
 algae; moss; tiny clumping photosynthetic prokaryote,alga,spa <algas> [ˈalɣas],alkas
 fern; Polypodiopsida,,spa <helecho> [eˈlet͡ʃo],elec
-tree; tall woody plant structure,,mar <झाड> [d͡ʑ̤aːɖ],cat
+tree; tall woody plant structure,,ben <গাছ> [ɡat͡ɕʰ],kac
 grass; sedge; Poales,,hin <घास> [ɡ̤aːs],kas
-cereal; *grain; cereal grain; grass cultivated for its edible seeds,,pan <ਅਨਾਜ> [ənɑd͡ʒ],anac
-legume; pulse; *bean; pea; Fabaceae,,cmn <豆> [toʊ̯˥˩],toh
+cereal; *grain; cereal grain; grass cultivated for its edible seeds,,spa <cereal> [seɾeˈal],seleal
+legume; pulse; *bean; pea; Fabaceae,,ben <শিম> [ɕim],cim
 wheat; Triticum,,eng <wheat> [wiːt],wit
 corn; maize; Zea mays,,spa <maíz> [maˈis],mais
 rice; Oryza,,cmn <饭> [fan˥˩],fan
@@ -149,25 +149,25 @@ barley; Hordeum,,pan <ਜੌਂ> [d͡ʒɔ̃],con
 sorghum; great millet; milo; Sorghum bicolor,,hin <ज्वार> [d͡ʒvaːr],cwal
 rapeseed; rape; canola; Brassica,,hin <कैनोला> [kæːnolaː],kanol
 "millet; resilient, productive cereal crop",,spa <mijo> [ˈmixo],mih
-cassava; manioc; yuca; macaxeira; mandioca; aipim; Manihot esculenta,,yor <ẹ̀gẹ́> [ɛ̀ɡɛ́],ek
+cassava; manioc; yuca; macaxeira; mandioca; aipim; Manihot esculenta,,jav <dangur> [tɑ̤ŋʊɽ],tanul
 chickpea; gram; garbanzo; Cicer arietinum,,eng <chick> [t͡ʃɪk],cik
 oat; Avena,,mar <ओट> [oʈ],ot
 pigeon pea; red gram; tropical green pea; gandule; Cajanus cajan,,mar <तूर> [tuːr],tul
 guava; Psidium,,hin <अमरूद> [amruːd],amlut
 apple; Malus,,hin <सेब> [seb],sep
 beet; beetroot; sugar beet; chard; Beta,,epo <beto> [ˈbeto],pet
-tomato; Solanum lycopersicum,,epo <tomato> [toˈmato],tomat
-rye; Secale,,hin <राई> [raːiː],laih
+tomato; Solanum lycopersicum,,msa <tomat> [tomat],tomat
+rye; Secale,,epo <sekalo> [seˈkalo],sekal
 citrus; Citrus,,msa <jeruk> [d͡ʒeruk],celuk
 flax; linseed; linen; Linum,,cmn <亚麻> [ja˥˩ma˧˥],yam
 pea; green pea; Pisum,,epo <pizo> [ˈpizo],pis
-plum; *peach; cherry; apricot; Prunus minus Prunus dulcis,,hin <आड़ू> [aːɽuː],al
+plum; *peach; cherry; apricot; Prunus minus Prunus dulcis,,cmn <桃> [tʰɑʊ̯˧˥],tawh
 okra; ochro; ladies' fingers; Abelmoschus esculentus,,ibo <ọ́kụ̀rụ̀> [ɒ́kʊ̀ɹʊ̀],okul
 "melon; any member of Cucurbitaceae with sweet, fleshy fruit",,cmn <瓜> [kwa˥],kwah
 cucumber; gherkin; Cucumis sativus,,ben <শসা> [ɕɔs̪a],cos
-squash; gourd; pumpkin; zucchini; Cucurbita,,sho <budzi> [bud͡zi],pus
+squash; gourd; pumpkin; zucchini; Cucurbita,,jav <waluh> [wɑɭʊh],waluh
 almond; Prunus dulcis,,hin <बादाम> [baːdaːm],patam
-onion; garlic; leek; scallion; Allium,,hin <प्याज> [pjaːd͡ʒ],pyac
+onion; garlic; leek; scallion; Allium,,pan <ਪਿਆਜ> [pɪɑd͡ʒ],piac
 cabbage; cauliflower; broccoli; kale; Brussels sprouts; collard greens; savoy; kohlrabi; gai lan; Brassica oleracea,,spa <col> [kol],kol
 pear; Pyrus,,msa <pear> [pear],peal
 coriander; cilantro; anise; star anise; badiane; fennel; Chinese parsley; Coriandrum,,ben <ধনে> [d̪̤ɔn̪e],ton
@@ -175,5 +175,5 @@ lettuce; chicory; Lactuca,,ben <লেটুস> [l̪etus̪],letus
 walnut; Juglans,,spa <nuez> [nwes],nwes
 cactus; Cactaceae,,spa <cactus> [ˈkaktus],kaktus
 bulrush; reed; cattail; water sausage; Typha,,epo <tifao> [tiˈfao],tifaoh
-machine; robot; automaton; artificial mechanical structure,,epo <maŝino> [maˈʃino],macin
+machine; robot; automaton; artificial mechanical structure,,eng <machine> [məˈʃiːn],macin
 computer; artificial device capable of arithmetic or logical operations {GENITIVE:digital; electronic; computerised},,xho <khomputha> [kʰɔmputʰa],komput
