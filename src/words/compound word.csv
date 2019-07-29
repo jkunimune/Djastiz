@@ -90,7 +90,7 @@ daydream; hallucinate; OBJ {daydreamer} hallucinates IND {daydream},,day dream,s
 be comatose; OBJ is in a coma,,be-finite be-dead,osiminyouhu
 map,,layout image,leyawthulum
 map projection,,map transformation,leyawthulumpatililip
-be hallowed; worship; OBJ {worshiper} worships SBJ {METHOD:religion; faith},,have-faith want,fiticai
+be hallowed; worship; OBJ {worshiper} worships IND,,have-faith want,fiticai
 rule as a monarch; IND {monarch; king; queen} rules OBJ {peasant; kingdom} {LOCATION:kingdom; monarchy},,1 govern,kantunci
 rule as an oligarchy; IND {oligarchy} rules OBJ {LOCATION:oligarchic kingdom},,little govern,pihtunci
 govern as a republic; IND {representative; house; legislature} rules OBJ {LOCATION:republic; representative democracy},,much govern,muctunci
@@ -319,10 +319,10 @@ sculpt; etch; carve; SBJ {carver} carves IND {sculpture subject} as OBJ {sculptu
 polytheism; pantheon,,much god,muckot
 monothiesm,,1 god,kankot
 athiesm,,0 god,nulkot
-agnosticism; secularism; religious nonaffiliation,,0 religion,nulfiticailip
+agnosticism; secularism; religious nonaffiliation,,0 religion,nulfitilip
 be vibrant; be colourful; OBJ has many hues and colours,,much be-coloured,muclono
 be monochromatic; OBJ has few colours,,little be-coloured,pihlono
-flag; banner,,cloth translation,cyenhwokpatililum
+flag; banner,,convert sheet,patilihwok
 undergo revolution; OBJ goes through a revolution {TIME:revolution},,be-fast change,yalacalunyo
 sugar,,be-sweet powder,tulseufalon
 salt,,be-salty powder,lunaufalon
@@ -457,7 +457,7 @@ be timely; be on time; OBJ is at the correct time,,must be-early,tewicitu
 be polite; act appropriately; SBJ is polite to OBJ,,culture be-friendly,sesyohau
 be rude; act inappropriately; SBJ is rude to OBJ,,culture be-hostile,seswecai
 religion,,god method,kotkwelip
-sect,,religion piece,fiticailippaltolon
+sect,,religion piece,fitilippaltolon
 ripple; wave; waves ripple through OBJ {TIME:wave},,be-fluid be-rhythmic,nilututumu
 rain; precipitate; OBJ {rain; precipitation} falls from the sky,,sky fall,mipkae
 blow; gust; wind blows on OBJ from SBJ {wind system},,sky move,miphila
@@ -507,11 +507,11 @@ be foreign; OBJ is foreign relative to IND,,landmass be-far,taylkule
 be local; OBJ is local relative to IND,,landmass be-near,taylnito
 comet,,sky fire,miphwolon
 predict; OBJ {pundit} predicts IND {prediction},,be-early think,citupensi
-be predetermined; be predictable; OBJ can be easily predicted,,POSSIBILITY OF predict,citupensipowi
+be predetermined; be predictable; be deterministic; OBJ can be easily predicted,,POSSIBILITY OF predict,citupensipowi
 be random; be unpredictable; OBJ cannot possibly be predicted,,NEGATIVE OF be predetermined,citupensipowinyo
-make predictable; order; determine,,INCOHATIVE OF be predetermined,citupensipowiki
-randomise; scramble; make unpredictable,,CESSATIVE OF be predetermined,citupensipowinu
-be pseudorandom,,NEGATIVE OF be random,citupensipowinyonyo
+make predictable; order; determine; SBJ makes OBJ less random,,INCOHATIVE OF be predetermined,citupensipowiki
+randomise; scramble; make unpredictable; SBJ makes OBJ more random,,CESSATIVE OF be predetermined,citupensipowinu
+be pseudorandom; OBJ is pseudorandomly determined,,NEGATIVE OF be random,citupensipowinyonyo
 elect; SBJ elects IND to office over OBJ,,choose take-over,elehetunciki
 fork,,be-sharp eating-utensil,aklanyamaluat
 spoon,,be-liquid eating-utensil,cwenyamaluat
@@ -629,7 +629,7 @@ spiral out; OBJ spirals outward from IND,,spin distance,kumnakulelyan
 spiral in; OBJ spirals into IND {METHOD:spiral},,spin approach,kumnanitoki
 itch; OBJ's IND {itch} itches,,little hurt,pihtafu
 holy book,,have-faith book,fiticapalum
-church,,religion group,fiticailippaltolum
+church,,religion group,fitilippaltolum
 car; truck,,ground vehicle,pummontalon
 boat,,be-liquid vehicle,cwemontalon
 flying machine; airplane; helicopter; balloon,,sky vehicle,mipmontalon
@@ -891,20 +891,20 @@ Thursday,,4 day,folsunkwelwel
 Friday,,5 day,limsunkwelwel
 Saturday,,6 day,cahsunkwelwel
 Sunday,,7 day,pitsunkwelwel
-Buddhism {GENITIVE:Buddhist; of Buddhism|PEOPLE:Buddhist; followers of Buddha},,Buddha-(title) religion,'putafiticailip
-Caodaism; Đại Đạo Tam Kỳ Phổ Độ; the Cao Đài religion {GENITIVE:Caodaist; of Caodaism|PEOPLE:Caodaist; followers of Caodaism},,Cao-Đài religion,'kawtayfiticailip
-Christianity {GENITIVE:Christian; of Christianity|PEOPLE:Christian; followers of Christ},,Christ-(title) religion,'kilistosfiticailip
-Greek Orthodoxy; Orthodox Catholicism; Eastern Orthodoxy,,Greek Christianity,'elin'kilistosfiticailip
-Han folk religion; Chinese folk religion,,Han religion,'hanfiticailip
-Hinduism {PEOPLE:Hindu; followers of Hinduism},,India religion,'hintufiticailip
-Judaism {PEOPLE:Jew; religious Jew; followers of Judaism},,Jew religion,'yehutimfiticailip
-Jainism,,Jain religion,'cenfiticailip
-Roman Catholicism; Catholicism,,Rome Christianity,'loma'kilistosfiticailip
-Shaivism {GENITIVE:Shaiva; of Shaivism|PEOPLE:Shaivite; Saivite; followers of Shiva},,Shiva religion,'ciwafiticailip
-Shaktism {GENITIVE:Shakta; of Shaktism|PEOPLE:Shaktist; followers of Shakti},,Shakti religion,'caktifiticailip
-Sikhism; Sikhi,,Sikh religion,'sikfiticailip
-Smartism; Smarta tradition {GENITIVE:Smarta; of Smartism|PEOPLE:Smartism; followers of Smriti},,Smriti religion,'samlitifiticailip
-Spiritualism {GENITIVE:Spiritualist; of Spiritualism|PEOPLE:Spiritualist; followers of Spiritualism},,spirit-(Spiritualism) religion,'sipiwitfiticailip
-Daoism; Taoism {GENITIVE:Daoist; Taoist; of Daoism|PEOPLE:Daoist; Taoist; followers of Dao},,Dao religion,'tawfiticailip
-Vaishnavism {GENITIVE:Vaishnist; of Vaishnavism|PEOPLE:Vaishnava; Vaishnavite; followers of Vishnu},,Vishnu religion,'wicnufiticailip
-Zoroastrianism; Mazdayasna {GENITIVE:Zoroastrian; Zarathustrian; of Zoroastrianism|PEOPLE:Zoroastrian; Zarathustrian; followers of Zoroastrianism},,Ahura-Mazda religion,'mastafiticailip
+Buddhism {GENITIVE:Buddhist; of Buddhism|PEOPLE:Buddhist; followers of Buddha},,Buddha-(title) religion,'putafitilip
+Caodaism; Đại Đạo Tam Kỳ Phổ Độ; the Cao Đài religion {GENITIVE:Caodaist; of Caodaism|PEOPLE:Caodaist; followers of Caodaism},,Cao-Đài religion,'kawtayfitilip
+Christianity {GENITIVE:Christian; of Christianity|PEOPLE:Christian; followers of Christ},,Christ-(title) religion,'kilistosfitilip
+Greek Orthodoxy; Orthodox Catholicism; Eastern Orthodoxy,,Greek Christianity,'elin'kilistosfitilip
+Han folk religion; Chinese folk religion,,Han religion,'hanfitilip
+Hinduism {PEOPLE:Hindu; followers of Hinduism},,India religion,'hintufitilip
+Judaism {PEOPLE:Jew; religious Jew; followers of Judaism},,Jew religion,'yehutimfitilip
+Jainism,,Jain religion,'cenfitilip
+Roman Catholicism; Catholicism,,Rome Christianity,'loma'kilistosfitilip
+Shaivism {GENITIVE:Shaiva; of Shaivism|PEOPLE:Shaivite; Saivite; followers of Shiva},,Shiva religion,'ciwafitilip
+Shaktism {GENITIVE:Shakta; of Shaktism|PEOPLE:Shaktist; followers of Shakti},,Shakti religion,'caktifitilip
+Sikhism; Sikhi,,Sikh religion,'sikfitilip
+Smartism; Smarta tradition {GENITIVE:Smarta; of Smartism|PEOPLE:Smartism; followers of Smriti},,Smriti religion,'samlitifitilip
+Spiritualism {GENITIVE:Spiritualist; of Spiritualism|PEOPLE:Spiritualist; followers of Spiritualism},,spirit-(Spiritualism) religion,'sipiwitfitilip
+Daoism; Taoism {GENITIVE:Daoist; Taoist; of Daoism|PEOPLE:Daoist; Taoist; followers of Dao},,Dao religion,'tawfitilip
+Vaishnavism {GENITIVE:Vaishnist; of Vaishnavism|PEOPLE:Vaishnava; Vaishnavite; followers of Vishnu},,Vishnu religion,'wicnufitilip
+Zoroastrianism; Mazdayasna {GENITIVE:Zoroastrian; Zarathustrian; of Zoroastrianism|PEOPLE:Zoroastrian; Zarathustrian; followers of Zoroastrianism},,Ahura-Mazda religion,'mastafitilip

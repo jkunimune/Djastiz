@@ -53,6 +53,7 @@ SOURCE_LANGUAGES = {
 	('st','sot',.0041),
 }
 DESIRED_FRAC = {threelc:num for twolc, threelc, num in SOURCE_LANGUAGES}
+THREECODE_TO_TWOCODE = {threelc:twolc for twolc, threelc, num in SOURCE_LANGUAGES}
 
 ALLOWED_CHANGES = [
 	('aɑæ', 'a'),
@@ -93,16 +94,23 @@ PALATAL_CHANGES = [
 	('ç', 'hy'),
 ]
 
+ALPHABET = 'eaoiuylwnmhcsfktp'
 PHONEME_TABLE = ['eaoiu', 'yw', 'h', 'ktp', 'f', 'cs', 'nm', 'l'] # the lawnsosliel phonemes, arranged by strength
 INVERSES = {'a':'a', 'e':'o', 'i':'u', 'y':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'c', 's':'f'}
 for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
 
 SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictiorary translated
 
-VERB_DERIVATIONS = ['ANTONYM','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
+VERB_DERIVATIONS = ['ANTONYM','NEGATIVE','INCOHATIVE','CESSATIVE','PROGRESSIVE','REVERSAL','POSSIBILITY','VERB']
 NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INSTRUMENT','CAUSE','METHOD','CONDITION','COMPLEMENT',
 		'RELATIVE','INTERROGATIVE','INDETERMINATE','DETERMINATE','PROXIMAL','COUNTRY','LANGUAGE','REGION','PEOPLE']
 MISC_DERIVATIONS = ['OPPOSITE']
+
+MARKDOWN_ENTRY = """\
+{indent}- **{otp}** _{pos}._ ({source_str})  
+{indent}{definitions}
+
+"""
 
 
 def difference(a, b):
@@ -143,6 +151,11 @@ def split_by_bars(string):
 	return parts
 
 
+def dehyphenated(key):
+	""" return the key of a compound word in a usable state """
+	return key.replace('-',' ').replace('=','-')
+
+
 def strength_of(phoneme):
 	""" return the row of this phoneme in the phoneme table """
 	for i in range(len(PHONEME_TABLE)):
@@ -175,6 +188,21 @@ def has_antonym(entry):
 def get_antonym(word):
 	""" invert all letters up to the second consonant """
 	return ''.join(INVERSES[c] for c in word)
+
+
+def otp_ord(word):
+	""" return a key that can be used to alphabetically sort words in oltilip """
+	val = 0
+	i = 0
+	for c in word:
+		if c == ' ' or c == "'":
+			continue
+		try:
+			val += ALPHABET.index(c)*len(ALPHABET)**(-i)
+		except ValueError:
+			raise ValueError("{} contains {}, which is not allowed in Oltilip words.".format(word, c))
+		i += 1
+	return val
 
 
 def reduce_phoneme(phoneme, before='', after=''):
@@ -443,6 +471,8 @@ def derive(source_word, deriv_type, all_words, has_antonym):
 		return source_word + all_words[inflection_word]['otp']
 	elif deriv_type in ['INTERROGATIVE', 'INDETERMINATE', 'DETERMINATE', 'PROXIMAL']:
 		inflection_word = {'INT':'what', 'IND':'something', 'DET':'it', 'PRO':'this'}[deriv_type[:3]]
+		if not all_words[inflection_word]['otp']:
+			logging.error("The inflection word for {} seems to be missing".format(deriv_type))
 		return all_words[inflection_word]['otp'] + ' ' + source_word
 	elif deriv_type == 'RELATIVE':
 		return 'l' + source_word
@@ -469,7 +499,7 @@ def load_dictionary(directory):
 	queue = collections.deque()
 
 	for filename in [
-		'special', 'postposition', 'sentence particle', 'specifier', 'pronoun',
+		'postposition', 'sentence particle', 'specifier', 'pronoun',
 		'proverb', 'numeral', 'verb', 'noun', 'loanword', 'compound word',
 	]:
 		with open(path.join(directory, filename+'.csv'), 'r', encoding='utf-8') as f:
@@ -540,10 +570,18 @@ def load_dictionary(directory):
 			words[gloss] = entry
 
 		if entry['partos'] == 'compound word':
-			try:
-				entry['partos'] = 'compound '+words[entry['source'].split()[-1].replace('-',' ')]['partos'] # the pos of a compound is based on the last word in it
-			except (KeyError, IndexError):
-				pass # this'll print an error message later
+			if ' OF ' in entry['source']:
+				if entry['source'].split()[0] in VERB_DERIVATIONS:
+					entry['partos'] = 'compound verb'
+				elif entry['source'].split()[0] in NOUN_DERIVATIONS:
+					entry['partos'] = 'compound noun'
+				else:
+					raise ValueError("{} should not be in the compound word list".format(entry['source'].split()[0]))
+			else:
+				try:
+					entry['partos'] = 'compound '+words[dehyphenated(entry['source'].split()[-1])]['partos'] # the pos of a compound is based on the last word in it
+				except (KeyError, IndexError):
+					raise ValueError("Did not understand part of speech of {}".format(words[entry['source']].split()[-1]))
 
 		for deriv_type, deriv_dict in unprocessed_derivatives.items(): # look at each of the unprocessed derivatives (the things in {})
 			deriv_dict['source'] = '{} OF {}'.format(deriv_type, possible_gloss)
@@ -587,7 +625,7 @@ def fill_blanks(my_words, real_words):
 		onomotopoeias, and update the compound words accordingly """
 	for entry in my_words.values(): # start by clearing the nouns, verbs, derivatives, and compounds
 		if (entry['partos'] in ['noun','verb'] and not entry['source'].startswith('ono ')) \
-				or (' OF ' in entry['source'] and not entry['partos'] == 'proverb') \
+				or (' OF ' in entry['source'] and not (entry['partos'] == 'proverb' or entry['partos'] == 'pronoun')) \
 				or entry['partos'].startswith('compound'):
 			entry['otp'] = ''
 
@@ -620,9 +658,9 @@ def fill_blanks(my_words, real_words):
 		elif entry['partos'].startswith('compound'): # and then compound the compound words
 			if entry['source']:
 				for component in entry['source'].split():
-					dehyphenated = component.replace('-',' ').replace('=','-')
-					if dehyphenated in my_words and my_words[dehyphenated]['otp'] != '':
-						entry['otp'] += my_words[dehyphenated]['otp']
+					key = dehyphenated(component)
+					if key in my_words and my_words[key]['otp'] != '':
+						entry['otp'] += my_words[key]['otp']
 					else:
 						raise ValueError("No '{}' for {}'s {}".format(component, entry['eng'][0], entry['source'].split()))
 			else:
@@ -661,7 +699,55 @@ def save_dictionary(dictionary, directory):
 
 def format_dictionary(dictionary, directory):
 	""" make a bunch of nicely-formatterd dictionaries in Markdown and LaTeX """
-	pass
+	partos_abbrv = {'noun':'n', 'loanword':'n', 'verb':'v', 'proverb':'v', 'pronoun':'pn',
+		'numeral':'num', 'postposition':'post', 'sentence particle':'ptcl', 'specifier':'spec'}
+	for lang3 in SUPPORTED_LANGUAGES:
+		lang2 = THREECODE_TO_TWOCODE[lang3]
+		markdown = ""
+		latex = ""
+
+		previous_initial = ''
+		for entry in sorted(dictionary.values(), key=lambda e: otp_ord(e['otp'])):
+			initial = entry['otp'].replace("'",'')[0]
+			if initial != previous_initial:
+				markdown += "## {}\n\n".format(initial)
+				previous_initial = initial
+
+			entry['indent'] = '  ' if entry['source'] and '[' not in entry['source'] else ''
+			while 'compound ' in entry['partos']:
+				entry['partos'] = entry['partos'][9:]
+			entry['pos'] = partos_abbrv[entry['partos']]
+			if '[' in entry['source']:
+				parts = entry['source'].split()
+				if parts[0] == 'ono':
+					entry['source_str'] = "{}. {}".format(*parts)
+				else:
+					parts[0] = parts[0].capitalize()
+					parts[1] = parts[1].replace('<','&langle;').replace('>','&rangle;')
+					entry['source_str'] = "{}. {} {}".format(*parts)
+			elif ' OF ' in entry['source']:
+				base_word = dictionary[entry['source'].split(' OF ')[1]]['otp']
+				if entry['otp'].startswith(base_word):
+					i = len(base_word)
+					entry['source_str'] = entry['otp'][:i] + "+" + entry['otp'][i:]
+				elif entry['otp'].endswith(base_word):
+					i = -len(base_word)
+					entry['source_str'] = entry['otp'][:i] + "+" + entry['otp'][i:]
+				else:
+					entry['source_str'] = "~~{}~~".format(base_word)
+			elif entry['source']:
+				otp_parts = []
+				for part in entry['source'].split(' '):
+					otp_parts.append(dictionary[dehyphenated(part)]['otp'])
+				entry['source_str'] = "+".join(otp_parts)
+			else:
+				entry['source_str'] = "∅"
+			entry['definitions'] = '; '.join(entry[lang3]).replace('SBJ',"ʟєꜱ").replace('OBJ',"ʟᴏᴧ").replace('IND',"ʟᴜᴍ")
+
+			markdown += MARKDOWN_ENTRY.format(**entry)
+	
+		with open(path.join(directory, '{}-dict.md'.format(lang2)), 'w', encoding='utf-8') as f:
+			f.write(markdown)
 
 
 def measure_corpus(directory):

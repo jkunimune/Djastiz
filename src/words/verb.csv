@@ -628,7 +628,7 @@ cost; be expensive; OBJ {valuable} costs a lot {AMOUNT:price; cost},,epo <kosti>
 be cheap; OBJ does not cost a lot,,ANTONYM OF be expensive,neflu
 mark up; SBJ increases the cost of OBJ,,INCOHATIVE OF be expensive,kostiki
 discount; mark down; SBJ decreases the cost of OBJ,,CESSATIVE OF be expensive,nefluki
-have faith; be faithful; hope; OBJ faithfully believes in IND {faith; belief} {AMOUNT:faith; faithfulness},,epo <fidi> [ˈfidi],fiti
+have faith; be faithful; hope; OBJ faithfully believes in IND {faith; belief} {AMOUNT:faith; faithfulness|METHOD:religion; faith},,epo <fidi> [ˈfidi],fiti
 give faith; take faith; build up hope; SBJ causes OBJ to gain faith in IND,,INCOHATIVE OF have faith,fitiki
 lose faith; destroy faith; lose hope; SBJ causes OBJ to lose faith in IND,,CESSATIVE OF have faith,fitinu
 be tangled; be knotted; OBJ {knot} is tangled together with IND,,ben <জট> [d͡ʑɔtɔ],coto

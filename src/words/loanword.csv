@@ -18,7 +18,7 @@ t; /t/; alveolar plosive,,ono [t],'ta
 p; /p/; bilabial plosive,,ono [p],'pe
 The World Wide Web; The Internet; The Cloud {GENITIVE:Internet; cloud; cyber},,eng <Internet> [ˈɪntɚnɛt],'intanet
 America; the Americas; the New World {GENITIVE:American; from America|COUNTRY:America; U.S.A.; the United States of America {PEOPLE:American; the American people}},,spa <América> [aˈmeɾika],'amelika
-Africa {GENITIVE:African; from Africa},swa <Afrika> [afrika],,'aflika
+Africa {GENITIVE:African; from Africa},,swa <Afrika> [afrika],'aflika
 Australia (landmass) {GENITIVE:Australian; from Australia|PEOPLE:Australian; the Australian people|COUNTRY:Australia; the Commonwealth of Australia},,eng <Australia> [əˈstɹʷæɪ̯ljə],'ostwaylya
 Eurasia {GENITIVE:Eurasian; from Eurasia},,rus <Евразия> [jɪˈvrazʲɪjə],'yewlasia
 Abkhazian; Abkhaz; the Abkhazian people {GENITIVE:Abkhazian; Abkhaz; from Abkhazia|COUNTRY:Abkhazia|LANGUAGE:Abkhaz; Abkhazian; Abxaz; the Abkhaz language},,abk <Аҧсуа> [apʰswa],'apswa
@@ -49,7 +49,7 @@ Batswana; the Tswana people {GENITIVE:Botswanan; from Botswana|COUNTRY:Botswana|
 Brazil {GENITIVE:Brazilian; from Brazil|PEOPLE:Brazilian; the Brazilian people|COUNTRY:Brazil},,por <Brasil> [bɾaˈziw],'palasiw
 British Isles; Britain {GENITIVE:British; UK; from the United Kingdom|COUNTRY:Brittan; the UK; the United Kingdom of Great Brittan and Northern Ireland {PEOPLE:Briton; Brit; the British people}},,eng <Britain> [ˈbɹʷɪʔən],'pwitan
 Brunei {GENITIVE:Bruneian; from Brunei|PEOPLE:Bruneian; the Bruneian people|LANGUAGE:Brunei Malay},,kxd <بروني> [brunaj],'palunay
-Bulgarian; the Bulgarian people {GENITIVE:Bulgarian; from Bulgaria|COUNTRY:Bulgaria|LANGUAGE:Bulgarian; the Bulgarian language},,bul <българи> ['bɤɫɡɐri],'palkali
+Bulgarian; the Bulgarian people {GENITIVE:Bulgarian; from Bulgaria|COUNTRY:Bulgaria|LANGUAGE:Bulgarian; the Bulgarian language},,bul <българи> [ˈbɤɫɡɐri],'palkali
 Burkina Faso {GENITIVE:Burkinabé; Burkinabè; from Burkina Faso|PEOPLE:Burkinabé; the Burkinabé people},,fra <Burkina> [buʁkina],'puhkinafaso
 Burundian; the Rundi people {GENITIVE:Burundian; from Burundi|COUNTRY:Burundi|LANGUAGE:Kirundi; Rundi; the Rundi language},,run <Rundi> [ˈɾundi],'lunti
 Khmer; Cambodian; the Khmer people {GENITIVE:Khmer; Cambodian; from Cambodia|COUNTRY:Cambodia|LANGUAGE:Khmer; Cambodian; the Khmer language},,khm <ខ្មែរ> [kʰmae],'kamae
@@ -79,7 +79,7 @@ Ecuador {GENITIVE:Ecuadorian; from Ecuador|PEOPLE:Ecuadorian; the Equadorian peo
 Egypt; the Arab Republic of Egypt {GENITIVE:Egyptian; from Egypt|PEOPLE:Egyptian; the Egyptian people},,ara <مَصر> [mɑsˁɾ],'masli
 Englishman; the English people {GENITIVE:English; Anglic; from England|COUNTRY:England|LANGUAGE:English; the English language},,eng <Engl-> [ˈɪŋɡl],'inkil
 Eritrea {GENITIVE:Eritrean; from Eritrea|PEOPLE:Eritrean; the Eritrean people},,tir <ኤርትራ> [ertra],'elitla
-Esperanto {GENITIVE:Esperanto; Esperantist; Esperanta|PEOPLE:Esperantist; Esperanto speakers},,epo <Esperanto> [espeˈranto],'esperanto
+Esperanto {GENITIVE:Esperanto; Esperantist; Esperanta|PEOPLE:Esperantist; Esperanto speakers},,epo <Esperanto> [espeˈranto],'espelanto
 Estonian; the Estonian people {GENITIVE:Estonian; from Estonia|COUNTRY:Estonia|LANGUAGE:Estonian; the Estonian language},,est <eesti> [eːsti],'esti
 Europe {GENITIVE:European; from Europe|PEOPLE:European; the European people},,grc <Εὐρώπη> [ēwrɔ́ːpɛ̄ː],'ewlope
 Swazi; Swati; the Swazi people {GENITIVE:Swazi; Swati; from eSwatini|COUNTRY:eSwatini; Swaziland|LANGUAGE:Swazi; Swati; siSwati; the Swazi language},,ssw <Swati> [swatˈi],'swati
@@ -91,16 +91,16 @@ Gabon {GENITIVE:Gabonese; Gabonaise; from Gabon|PEOPLE:Gabonese; Gabonaise; the 
 Gael; the Gaelic people {GENITIVE:Gaelic; of the Gaels|LANGUAGE:Goidelic; Gaelic; a Goidelic language},,gla <Gàidheal> [ˈkɛːəɫ],'keal
 Gambia river; the River Gambra {GENITIVE:Gambian; from The Gambia|PEOPLE:Gambian; the Gambian people|COUNTRY:The Gambia; Republic of The Gambia},,eng <Gambia> [ˈɡæmbiə],'kampia
 Georgian; the Georgian people {GENITIVE:Georgian; from Georgia|COUNTRY:Georgia|LANGUAGE:Georgian; the Georgian langauge|REGION:Kartli},,kat <ქართველ-> [kʰɑrtʰvɛl],'kaltwel
-German; the German people {GENITIVE:German; Germanic; from Germany|COUNTRY:Germany|LANGUAGE:German; the German language},,deu <Deutsch> [ˈdɔʏ̯t͡ʃ],'tojc
+German; the German people {GENITIVE:German; Germanic; from Germany|COUNTRY:Germany|LANGUAGE:German; the German language},,deu <Deutsch> [ˈdɔʏ̯t͡ʃ],'toyc
 Ghana {GENITIVE:Ghanian; from Ghana|PEOPLE:Ghanian; the Ghanian people},,eng <Ghana> [ˈɡɑːnə],'kana
 Greek; Grecian; Hellene; the Greek people {GENITIVE:Greek; Grecian; Hellenic; from Greece|COUNTRY:Greece|LANGUAGE:Greek; the Greek language},,ell <Έλλην> [ˈelin],'elin
 Greenlander; the Greenlandic people {GENITIVE:Greenlandic; from Greenland|COUNTRY:Greenland|LANGUAGE:Greenlandic; the Greenlandic language},,kal <Kalaallit> [kalaːɬit],'kalaclit
-Grenada (landmass) {GENITIVE:Grenadan; from Grenada|PEOPLE:Grenadan; the Grenadan people|COUNTRY:Grenada (country)},,eng <Grenada> [ɡɹʷəˈneɪ̯də],'kwanejta
+Grenada (landmass) {GENITIVE:Grenadan; from Grenada|PEOPLE:Grenadan; the Grenadan people|COUNTRY:Grenada (country)},,eng <Grenada> [ɡɹʷəˈneɪ̯də],'kwaneyta
 Grenadines; Grenadine Islands {GENITIVE:Grenadinese; from the Grenadines},,svc <Grenadines> [ɡɹɛnədiːnz],'kwenatin
 Guatemala {GENITIVE:Guatemalan; from Guatemala|PEOPLE:Guatemalan; the Guatemalan people},,spa <Guatemala> [gwateˈmala],'kwatemala
 Guinea (region),,por <Guiné> [ɡiˈne],'kine
-Guyana {GENITIVE:Guyanese; from Guyana|PEOPLE:Guyanaese; the Guyanese people},,eng <Guyana> [ɡaɪ̯ˈɑːnə],'kajana
-Haiti {GENITIVE:Haitian; from Haiti|PEOPLE:Haitian; the Haitian people|LANGUAGE:Haitian creole},,hat <Ayiti> [ajiti],'ajiti
+Guyana {GENITIVE:Guyanese; from Guyana|PEOPLE:Guyanaese; the Guyanese people},,eng <Guyana> [ɡaɪ̯ˈɑːnə],'kayana
+Haiti {GENITIVE:Haitian; from Haiti|PEOPLE:Haitian; the Haitian people|LANGUAGE:Haitian creole},,hat <Ayiti> [ajiti],'ayiti
 Han; the Han people {GENITIVE:Han; of the Han},,cmn <漢> [xan˥˩],'han
 Hausa; Ausa; the Hausa people {GENITIVE:Hausa; of the Hausa|LANGUAGE:Hausa; the Hausa language},,hau <Hausa> [hawsa],'hawsa
 Hawaii (landmass) {GENITIVE:Hawaiian; Kamaʻaina; from Hawaii|COUNTRY:Hawaii; the State of Hawaii|LANGUAGE:Hawaiian; the Hawaiian language|REGION:Hawaii (archipelago) {PEOPLE:Hawaiian; the Hawaiian people}},,haw <Hawaiʻi> [həˈvɐjʔi],'hawayi
@@ -387,7 +387,7 @@ sitar,,pan <ਸਿਤਾਰ> [sɪˈtaːr],'sital
 Taekwondo,,kor <태권도> [tʰɛ.k͈wʌn.do],'tekwanto
 Tai chi,,cmn <太极拳> [tʰaj˥˩.t͡ɕi˧˥ t͡ɕʰɥɛn˧˥],'taycicwen
 Karate,,jpn <空手> [kaɾate],'kalate
-Aikido,,jpn <合気道> [aikiꜜdoː],'aikido
+Aikido,,jpn <合気道> [aikiꜜdoː],'aikito
 Kendo,,jpn <剣道> [kɛndoː],'kento
 hydrogen,,lat <hydrogenium> [hidrɔd͡ʒɛnɪʊ̃],'hitlocenium
 helium,,lat <helium> [hɛlɪʊ̃],'helium
@@ -401,7 +401,7 @@ aluminium; aluminum,,lat <aluminium> [alʊminɪʊ̃],'aluminium
 silicon,,lat <silicium> [sɪlit͡ʃɪʊ̃],'silicium
 phosphorus,,lat <phosphorus> [fosfɔrus],'fosfolus
 sulfur; sulphur; brimstone,,lat <sulphurium> [sʊlfurɪʊ̃],'sulfulium
-chlorine,,lat <chlorium> [klorɪʊ̃],'kolorium
+chlorine,,lat <chlorium> [klorɪʊ̃],'kololium
 argon,,lat <argon> [arɡɔn],'alkon
 potassium,,lat <potassium> [pɔtassɪʊ̃],'potasium
 calcium,,lat <calcium> [kalt͡ʃɪʊ̃],'kalcium
@@ -431,7 +431,7 @@ kilogram; kg,,fra <kilogramme> [ˈkilɔɡʁam],'kilokham
 degree Celsius; degree centigrade; °C,,swe <celcius> [ˈsɛːlsjʊs],'selsyus
 ke (unit),,cmn <刻> [kʰɤ˨˩],'kao
 football; soccer,,eng <football> [ˈfʊʔbɔːl],'futpol
-American football,,eng <football> [fʊtbɑl],'futbal
+American football,,eng <football> [fʊtbɑl],'futpal
 golf,,eng <golf> [ɡɒf],'kof
 pahoehoe,,haw <pāhoehoe> [paːˈhoweˈhowe],'pahoehoe
 aa,,haw <ʻaʻā> [ʔəˈʔaː],'aha
