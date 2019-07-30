@@ -186,8 +186,11 @@ def has_antonym(entry):
 
 
 def get_antonym(word):
-	""" invert all letters up to the second consonant """
-	return ''.join(INVERSES[c] for c in word)
+	""" invert all letters up to the second consonant if applicable """
+	try:
+		return ''.join(INVERSES[c] for c in word)
+	except KeyError:
+		return None
 
 
 def otp_ord(word):
@@ -713,10 +716,10 @@ def format_dictionary(dictionary, directory):
 				markdown += "## {}\n\n".format(initial)
 				previous_initial = initial
 
-			entry['indent'] = '  ' if entry['source'] and '[' not in entry['source'] else ''
 			while 'compound ' in entry['partos']:
 				entry['partos'] = entry['partos'][9:]
 			entry['pos'] = partos_abbrv[entry['partos']]
+
 			if '[' in entry['source']:
 				parts = entry['source'].split()
 				if parts[0] == 'ono':
@@ -727,14 +730,21 @@ def format_dictionary(dictionary, directory):
 					entry['source_str'] = "{}. {} {}".format(*parts)
 			elif ' OF ' in entry['source']:
 				base_word = dictionary[entry['source'].split(' OF ')[1]]['otp']
-				if entry['otp'].startswith(base_word):
-					i = len(base_word)
-					entry['source_str'] = entry['otp'][:i] + "+" + entry['otp'][i:]
-				elif entry['otp'].endswith(base_word):
-					i = -len(base_word)
-					entry['source_str'] = entry['otp'][:i] + "+" + entry['otp'][i:]
-				else:
+				base_invs = get_antonym(base_word)
+				if entry['otp'] == base_invs:
 					entry['source_str'] = "~~{}~~".format(base_word)
+				elif entry['otp'].startswith(base_word) or entry['otp'].startswith(base_invs):
+					i = len(base_word)
+					entry['source_str'] = "{}+{}".format(entry['otp'][:i], entry['otp'][i:])
+				elif entry['otp'].endswith(base_word) or entry['otp'].endswith(base_invs):
+					i = -len(base_word)
+					entry['source_str'] = "{}+{}".format(entry['otp'][:i], entry['otp'][i:])
+				elif base_word in entry['otp']:
+					i = entry['otp'].index(base_word)
+					j = i + len(base_word)
+					entry['source_str'] = "{}+{}+{}".format(entry['otp'][:i], entry['otp'][i:j], entry['otp'][j:])
+				else:
+					raise Exception("How is {} related to {}?".format(entry['otp'], base_word))
 			elif entry['source']:
 				otp_parts = []
 				for part in entry['source'].split(' '):
@@ -742,6 +752,12 @@ def format_dictionary(dictionary, directory):
 				entry['source_str'] = "+".join(otp_parts)
 			else:
 				entry['source_str'] = "∅"
+
+			if '∅' in entry['source_str'] or '[' in entry['source_str'] or '~' in entry['source_str']:
+				entry['indent'] = ''
+			else:
+				entry['indent'] = '  '
+
 			entry['definitions'] = '; '.join(entry[lang3]).replace('SBJ',"ʟєꜱ").replace('OBJ',"ʟᴏᴧ").replace('IND',"ʟᴜᴍ")
 
 			markdown += MARKDOWN_ENTRY.format(**entry)

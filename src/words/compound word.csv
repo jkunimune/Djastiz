@@ -168,13 +168,13 @@ oasis; watering hole,,be-liquid point,cwetyen
 freshwater,,be-pure body-of-water,puhtecwelon
 river; stream; brook,,be-liquid path,cwepucolon
 waterfall,,be-liquid fall where-(relative),cwekaelyot
-plateau; highlands {GENITIVE:highland; high},,be-high landmass,macetayl
+plateau; highlands,,be-high landmass,macetayl
 lowlands,,be-low landmass,pahotayl
-plains; flatlands {GENITIVE:plain; planar; campal},,be-straight landmass,sitetayl
-tundra {GENITIVE:tundra; tundral},,be-cold landmass,enitayl
-desert {GENITIVE:desert; deserted},,be-sand landmass,patoufatayl
-jungle; rainforest {GENITIVE:jungle; rainforest; jungular},,plant landmass,ciuhtayl
-swamp; marsh; bog; wetlands {GENITIVE:marhal; wetland; wet},,be-liquid landmass,cwetayl
+plains; flatlands,,be-straight landmass,sitetayl
+tundra,,be-cold landmass,enitayl
+desert,,be-sand landmass,patoufatayl
+jungle; rainforest,,plant landmass,ciuhtayl
+swamp; marsh; bog; wetlands,,be-liquid landmass,cwetayl
 puddle,,little body-of-water,pihcwelon
 lake; sea,,much body-of-water,muccwelon
 brook; stream; rivulet,,little river,pihcwepucolon

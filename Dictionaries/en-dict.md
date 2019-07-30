@@ -114,8 +114,8 @@ Europe
 - **en** _spec._ (Eng. &langle;any&rangle; [ˈɛni])  
 any; one of; _describes a single arbitrary instance of the following noun phrase_
 
-  - **eni** _v._ (~~oku~~)  
-  be cold; be cool; ʟᴏᴧ is colder than ʟᴜᴍ
+- **eni** _v._ (~~oku~~)  
+be cold; be cool; ʟᴏᴧ is colder than ʟᴜᴍ
 
   - **eniufa** _v._ (eni+ufa)  
   be snow; be shaved ice; be slush; ʟᴏᴧ is made of snow
@@ -141,7 +141,7 @@ any; one of; _describes a single arbitrary instance of the following noun phrase
   - **enisison** _n._ (eni+sison)  
   winter
 
-  - **eniki** _v._ (~~oku~~)  
+  - **eniki** _v._ (eni+ki)  
   cool; ʟєꜱ makes ʟᴏᴧ cool down relative to ʟᴜᴍ
 
   - **enikiles** _n._ (eniki+les)  
@@ -149,9 +149,6 @@ any; one of; _describes a single arbitrary instance of the following noun phrase
 
   - **enitayl** _n._ (eni+tayl)  
   tundra
-
-  - **enitaylak** _n._ (enitayl+ak)  
-  tundra; tundral
 
 - **'emalati** _n._ (Ara. &langle;إماراتيين‎&rangle; [ʔemaːraːti])  
 Emirati; the Emirati people
@@ -162,13 +159,13 @@ Emirati; the Emirati people
   - **'emalatitec** _n._ ('emalati+tec)  
   United Arab Emirates
 
-  - **emana** _v._ (~~opaka~~)  
-  be transparent; be see-through; ʟᴏᴧ lets unreflected light pass through it
+- **emana** _v._ (~~opaka~~)  
+be transparent; be see-through; ʟᴏᴧ lets unreflected light pass through it
 
   - **emanalon** _n._ (emana+lon)  
   window; transparent; see-through
 
-  - **emanaki** _v._ (~~opaka~~)  
+  - **emanaki** _v._ (emana+ki)  
   transparify; ʟєꜱ makes ʟᴏᴧ become transparent
 
   - **emanapato** _v._ (emana+pato)  
@@ -306,13 +303,13 @@ Spain
 - **'espaketi** _n._ (Ita. &langle;spaghetti&rangle; [spaˈɡetti])  
 spaghetti
 
-  - **efe** _v._ (~~oso~~)  
-  be less; be negative; be not enough; be too little; ʟᴏᴧ is numerically less than ʟᴜᴍ
+- **efe** _v._ (~~oso~~)  
+be less; be negative; be not enough; be too little; ʟᴏᴧ is numerically less than ʟᴜᴍ
 
   - **efelon** _n._ (efe+lon)  
   less; negative; not enough; too little
 
-  - **efeki** _v._ (~~oso~~)  
+  - **efeki** _v._ (efe+ki)  
   decrease; diminish; dwindle; consolidate; ʟєꜱ makes ʟᴏᴧ decrease relative to ʟᴜᴍ
 
   - **efekiles** _n._ (efeki+les)  
@@ -348,8 +345,8 @@ it; she; her; he; him; they; them; the; that; _third person_; _determinate_; _di
   - **et yot** _n._ (et +yot)  
   there
 
-  - **etle** _v._ (~~olto~~)  
-  be number from the end; be in order from the end; negatively index; ʟᴏᴧ has an early position in ʟᴜᴍ
+- **etle** _v._ (~~olto~~)  
+be number from the end; be in order from the end; negatively index; ʟᴏᴧ has an early position in ʟᴜᴍ
 
   - **etlelon** _n._ (etle+lon)  
   number from the end; in order from the end
@@ -357,7 +354,7 @@ it; she; her; he; him; they; them; the; that; _third person_; _determinate_; _di
   - **etlelyan** _n._ (etle+lyan)  
   position from end; negative index; number from end
 
-  - **etleki** _v._ (~~olto~~)  
+  - **etleki** _v._ (etle+ki)  
   move up; position; ʟєꜱ moves ʟᴏᴧ up the sequence ʟᴜᴍ
 
   - **et wel** _n._ (et +wel)  
@@ -446,8 +443,8 @@ Ossetian; Ossete; the Ossetian people
 - **'aloha** _n._ (Haw. &langle;aloha&rangle; [əˈloha])  
 aloha; the Aloha Spirit
 
-  - **alik** _n._ (~~atun~~)  
-  adult; fully-grown animal
+- **alik** _n._ (~~atun~~)  
+adult; fully-grown animal
 
   - **alikak** _n._ (alik+ak)  
   adult
@@ -488,8 +485,8 @@ some; _describes an unspecified subset of the following noun phrase_
 - **aw** _spec._ (Cmn. &langle;和&rangle; [xɤ˧˥])  
 and; and/or; /; _delineates a conjugate phrase_
 
-  - **awila** _v._ (~~ayuta~~)  
-  hinder; be against; oppose; harm; compete; fight; counter; ʟᴏᴧ is working toward a goal contrary to that of ʟᴜᴍ
+- **awila** _v._ (~~ayuta~~)  
+hinder; be against; oppose; harm; compete; fight; counter; ʟᴏᴧ is working toward a goal contrary to that of ʟᴜᴍ
 
   - **awilaici** _v._ (awila+ici)  
   mooch; leech; have parasitic relation; ʟᴏᴧ benefits from hindering ʟᴜᴍ
@@ -506,7 +503,7 @@ and; and/or; /; _delineates a conjugate phrase_
   - **awilalum** _n._ (awila+lum)  
   opponent; competitor; enemy
 
-  - **awilaki** _v._ (~~ayuta~~)  
+  - **awilaki** _v._ (awila+ki)  
   turn against; betray; split up; ʟєꜱ turns ʟᴏᴧ against ʟᴜᴍ
 
   - **awilakiles** _n._ (awilaki+les)  
@@ -518,8 +515,8 @@ and; and/or; /; _delineates a conjugate phrase_
 - **anemon** _n._ (Epo. &langle;anemono&rangle; [aneˈmono])  
 sea anemone; Actiniaria
 
-  - **ano** _v._ (~~ake~~)  
-  be behind; be backward; lag; ʟᴏᴧ has a negative _y_ coordinate from ʟᴜᴍ's point of view
+- **ano** _v._ (~~ake~~)  
+be behind; be backward; lag; ʟᴏᴧ has a negative _y_ coordinate from ʟᴜᴍ's point of view
 
 - **'anol** _n._ (Far. &langle;انار&rangle; [æˈnɒːɾ])  
 pomegranate; Punica
@@ -551,7 +548,7 @@ pomegranate; Punica
   - **anocalulum** _n._ (anocalu+lum)  
   followed
 
-  - **anoki** _v._ (~~ake~~)  
+  - **anoki** _v._ (ano+ki)  
   retreat; fall behind; go backward; lose; ʟєꜱ makes ʟᴏᴧ move backward from ʟᴜᴍ's point of view
 
   - **anokiles** _n._ (anoki+les)  
@@ -608,8 +605,8 @@ Angola
   - **'ankolawon** _n._ ('ankola+won)  
   Angolan; the Angolan people
 
-  - **anta** _v._ (~~akla~~)  
-  be dull; be blunt; be blurry; be nebulous; be wide; be gradual; ʟᴏᴧ has a long radius of curvature
+- **anta** _v._ (~~akla~~)  
+be dull; be blunt; be blurry; be nebulous; be wide; be gradual; ʟᴏᴧ has a long radius of curvature
 
   - **antalon** _n._ (anta+lon)  
   dull; blunt; blurry; nebulous; wide; gradual
@@ -617,7 +614,7 @@ Angola
   - **antalyan** _n._ (anta+lyan)  
   radius of curvature
 
-  - **antaki** _v._ (~~akla~~)  
+  - **antaki** _v._ (anta+ki)  
   dull; blur; ʟєꜱ dulls ʟᴏᴧ
 
 - **'antola** _n._ (Cat. &langle;Andorra&rangle; [ənˈdorə])  
@@ -794,8 +791,8 @@ guava; Psidium
 - **'aha** _n._ (Haw. &langle;ʻaʻā&rangle; [ʔəˈʔaː])  
 aa
 
-  - **ahami** _v._ (~~acapu~~)  
-  be average; be meh; be moderate; ʟᴏᴧ is to a low degree
+- **ahami** _v._ (~~acapu~~)  
+be average; be meh; be moderate; ʟᴏᴧ is to a low degree
 
   - **ahamilon** _n._ (ahami+lon)  
   average; meh; moderate
@@ -914,8 +911,8 @@ be sharp; be clear; be tight; ʟᴏᴧ has a short radius of curvature
   - **aklapal** _n._ (akla+pal)  
   needle
 
-  - **akhe** _v._ (~~anco~~)  
-  be narrow; be thin; ʟᴏᴧ is narrow in the dimension that is not length or thickness
+- **akhe** _v._ (~~anco~~)  
+be narrow; be thin; ʟᴏᴧ is narrow in the dimension that is not length or thickness
 
   - **akheyehkac** _n._ (akhe+yeh+kac)  
   pine tree
@@ -923,7 +920,7 @@ be sharp; be clear; be tight; ʟᴏᴧ has a short radius of curvature
   - **akhelon** _n._ (akhe+lon)  
   narrow; thin
 
-  - **akheki** _v._ (~~anco~~)  
+  - **akheki** _v._ (akhe+ki)  
   narrow; ʟєꜱ narrows ʟᴏᴧ
 
   - **akhekiles** _n._ (akheki+les)  
@@ -983,13 +980,13 @@ Abkhazian; Abkhaz; the Abkhazian people
   - **'apswatilip** _n._ ('apswa+tilip)  
   Abkhaz; Abkhazian; Abxaz; the Abkhaz language
 
-  - **apta** _v._ (~~amla~~)  
-  be confined; be rare; ʟᴏᴧ exists in few places
+- **apta** _v._ (~~amla~~)  
+be confined; be rare; ʟᴏᴧ exists in few places
 
   - **aptalon** _n._ (apta+lon)  
   confined; rare
 
-  - **aptaki** _v._ (~~amla~~)  
+  - **aptaki** _v._ (apta+ki)  
   extinguish; erase; confine; recede; ʟєꜱ makes ʟᴏᴧ less prevalent
 
   - **aptakiles** _n._ (aptaki+les)  
@@ -1054,8 +1051,8 @@ can hear; hear; ʟᴏᴧ hears ʟᴜᴍ
   - **oyepowiki** _v._ (oyepowi+ki)  
   hearify; restore hearing; ʟєꜱ makes ʟᴏᴧ able to hear
 
-  - **ol** _pn._ (~~et~~)  
-  this; _proximal_; associated with the time and place of the utterance
+- **ol** _pn._ (~~et~~)  
+this; _proximal_; associated with the time and place of the utterance
 
 - **ole** _v._ (Spa. &langle;huele&rangle; [ˈwele])  
 can smell; smell; ʟᴏᴧ smells ʟᴜᴍ
@@ -1276,8 +1273,8 @@ Uzbek; the Uzbek people
   - **'ospektilip** _n._ ('ospek+tilip)  
   Uzbek; the Uzbek language
 
-  - **ofla** _v._ (~~esta~~)  
-  be opposite; be contrary; ʟᴏᴧ is the opposite of ʟᴜᴍ
+- **ofla** _v._ (~~esta~~)  
+be opposite; be contrary; ʟᴏᴧ is the opposite of ʟᴜᴍ
 
   - **oflalon** _n._ (ofla+lon)  
   opposite; contrary
@@ -1288,17 +1285,17 @@ Uzbek; the Uzbek people
   - **oflatilon** _n._ (oflati+lon)  
   sarcastic
 
-  - **oflo** _v._ (~~este~~)  
-  be west; ʟᴏᴧ has a lower longitude than ʟᴜᴍ
+- **oflo** _v._ (~~este~~)  
+be west; ʟᴏᴧ has a lower longitude than ʟᴜᴍ
 
   - **oflolon** _n._ (oflo+lon)  
   the West; west
 
-  - **ofloki** _v._ (~~este~~)  
+  - **ofloki** _v._ (oflo+ki)  
   go west; ʟєꜱ decreases the longitude of ʟᴏᴧ relative to ʟᴜᴍ
 
-  - **ok** _spec._ (~~en~~)  
-  each; every; _describes every instance of the following noun phrase individually_
+- **ok** _spec._ (~~en~~)  
+each; every; _describes every instance of the following noun phrase individually_
 
 - **oke** _v._ (Eng. &langle;okay&rangle; [ˌoʊ̯ˈkʰeɪ̯])  
 be okay; be fine; be all right; be acceptable; ʟᴏᴧ is okay
@@ -1369,13 +1366,13 @@ okra; ochro; ladies' fingers; Abelmoschus esculentus
 - **ot** _n._ (Mar. &langle;ओट&rangle; [oʈ])  
 oat; Avena
 
-  - **oti** _v._ (~~elu~~)  
-  be gentle; be flat; be shallow; be gradual; ʟᴏᴧ is not very steep
+- **oti** _v._ (~~elu~~)  
+be gentle; be flat; be shallow; be gradual; ʟᴏᴧ is not very steep
 
   - **otilon** _n._ (oti+lon)  
   gentle; flat; shallow; gradual
 
-  - **otiki** _v._ (~~elu~~)  
+  - **otiki** _v._ (oti+ki)  
   flatten; right; ʟєꜱ makes ʟᴏᴧ less steep
 
 - **ope** _v._ (Eng. &langle;obey&rangle; [oʊ̯ˈbeɪ̯])  
@@ -1434,8 +1431,8 @@ be married; ʟᴏᴧ is married to ʟᴜᴍ
 - **'ilawankapatay** _n._ (Tam. &langle;இலவங்கப்பட்டை&rangle; [ilʌʋʌŋˈɡʌpːʌʈːʌj])  
 cinnamon; Cinnamomum
 
-- **'ilan** _n._ (Fas. &langle;ایران‎ >)  
-Iran
+  - **'ilan** _n._ (Fas. &langle;ایران‎ >)  
+  Iran
 
   - **'ilanak** _n._ ('ilan+ak)  
   Iranian; from Iran
@@ -1623,8 +1620,8 @@ email
 - **imal** _num._ (Eng. &langle;-imal&rangle; [ɪml̩])  
 radix
 
-  - **imo** _v._ (~~upe~~)  
-  lie; be prone; ʟᴏᴧ is prone
+- **imo** _v._ (~~upe~~)  
+lie; be prone; ʟᴏᴧ is prone
 
   - **imolon** _n._ (imo+lon)  
   lying down; prone
@@ -1632,13 +1629,13 @@ radix
   - **imoki** _v._ (imo+ki)  
   lie down; knock over; ʟєꜱ lays down ʟᴏᴧ
 
-  - **ihoha** _v._ (~~uceca~~)  
-  be normal; be ordinary; be usual; be commonplace; blend in; be average; ʟᴏᴧ is expectable from its surroundings
+- **ihoha** _v._ (~~uceca~~)  
+be normal; be ordinary; be usual; be commonplace; blend in; be average; ʟᴏᴧ is expectable from its surroundings
 
   - **ihohalon** _n._ (ihoha+lon)  
   layperson; civilian; normal; ordinary; usual; commonplace; average
 
-  - **ihohaki** _v._ (~~uceca~~)  
+  - **ihohaki** _v._ (ihoha+ki)  
   conform; normalise; ʟєꜱ makes ʟᴏᴧ become normal
 
 - **ihin** _n._ (ono. [ĩː˥])  
@@ -1761,8 +1758,8 @@ function; work; go; ʟᴏᴧ does what it is supposed to do
   - **isepowinyolon** _n._ (isepowinyo+lon)  
   nonfunctional; broken; incapacitated
 
-  - **isa** _v._ (~~ufa~~)  
-  be chunky; be coarse; be granulated; be piled; be in bits; ʟᴏᴧ is a loose aggregation of fragments of ʟᴜᴍ
+- **isa** _v._ (~~ufa~~)  
+be chunky; be coarse; be granulated; be piled; be in bits; ʟᴏᴧ is a loose aggregation of fragments of ʟᴜᴍ
 
   - **isalon** _n._ (isa+lon)  
   chunky; coarse; granulated; piled; in bits
@@ -1821,8 +1818,8 @@ even; so; too; neither; _emphasizes something surprising_
   - **ifenyo** _spec._ (ifen+yo)  
   despite; though
 
-  - **ikci** _v._ (~~unhu~~)  
-  be evil; be immoral; be wrong; be bad; if ʟᴏᴧ happens, it will be morally bad
+- **ikci** _v._ (~~unhu~~)  
+be evil; be immoral; be wrong; be bad; if ʟᴏᴧ happens, it will be morally bad
 
   - **ikcilon** _n._ (ikci+lon)  
   evil; sin; immoral; wrong; bad
@@ -1839,7 +1836,7 @@ even; so; too; neither; _emphasizes something surprising_
   - **ikcinatilum** _n._ (ikcinati+lum)  
   temptee
 
-  - **ikciki** _v._ (~~unhu~~)  
+  - **ikciki** _v._ (ikci+ki)  
   wrong; turn evil; ʟєꜱ makes ʟᴏᴧ become evil
 
 - **'ikpo** _n._ (Ibo. &langle;Ị̀gbò&rangle; [ìɡ͡bò])  
@@ -1934,8 +1931,8 @@ cockroach; roach; termite; Blattodea
 - **'u** _n._ (ono. [u])  
 u; /u/; close back rounded vowel
 
-  - **uat** _post._ (~~ial~~)  
-  by; with; through; _marks instrument_
+- **uat** _post._ (~~ial~~)  
+by; with; through; _marks instrument_
 
 - **ul** _n._ (Jav. &langle;wulu&rangle; [wuɭu])  
 feather; plumage; rigid organic extension of a bird or dinosaur lined with hairs
@@ -1943,8 +1940,8 @@ feather; plumage; rigid organic extension of a bird or dinosaur lined with hairs
   - **ulak** _n._ (ul+ak)  
   plumal; feathery; feathered
 
-  - **ulu** _v._ (~~iti~~)  
-  act crazy; be unreasonable; be illogical; jump to conclusion; guess; ʟєꜱ comes to the conclusion ʟᴏᴧ without any logic
+- **ulu** _v._ (~~iti~~)  
+act crazy; be unreasonable; be illogical; jump to conclusion; guess; ʟєꜱ comes to the conclusion ʟᴏᴧ without any logic
 
   - **ulules** _n._ (ulu+les)  
   unreasonable; crazy
@@ -2000,8 +1997,8 @@ be moral; be right; be virtuous; be good; if ʟᴏᴧ happens, it will be morall
 - **um** _post._ (Pan. &langle;ਨੂੰ&rangle; [nũː])  
 to; by; _marks theme, stimulus, or recipient_
 
-  - **uma** _v._ (~~ipa~~)  
-  should not; be bad; be unwise; be incorrect; ʟᴏᴧ should not happen to make ʟᴜᴍ happen
+- **uma** _v._ (~~ipa~~)  
+should not; be bad; be unwise; be incorrect; ʟᴏᴧ should not happen to make ʟᴜᴍ happen
 
   - **umalon** _n._ (uma+lon)  
   problem; bad; unwise; incorrect
@@ -2015,8 +2012,8 @@ Oman
   - **'umanwon** _n._ ('uman+won)  
   Omani; the Omani people
 
-  - **uho** _v._ (~~ice~~)  
-  be unproductive; be lazy; ʟᴏᴧ is working little on ʟᴜᴍ
+- **uho** _v._ (~~ice~~)  
+be unproductive; be lazy; ʟᴏᴧ is working little on ʟᴜᴍ
 
   - **uholon** _n._ (uho+lon)  
   unproductive; lazy
@@ -2024,11 +2021,11 @@ Oman
   - **uholum** _n._ (uho+lum)  
   neglected
 
-  - **uhoki** _v._ (~~ice~~)  
+  - **uhoki** _v._ (uho+ki)  
   retire; give up; make unproductive; fire; ʟєꜱ makes ʟᴏᴧ become unproductive at ʟᴜᴍ
 
-  - **uhu** _v._ (~~ici~~)  
-  be dead; ʟᴏᴧ is dead
+- **uhu** _v._ (~~ici~~)  
+be dead; ʟᴏᴧ is dead
 
   - **uhulon** _n._ (uhu+lon)  
   corpse; dead thing; dead
@@ -2036,7 +2033,7 @@ Oman
   - **uhulwel** _n._ (uhu+lwel)  
   death
 
-  - **uhuki** _v._ (~~ici~~)  
+  - **uhuki** _v._ (uhu+ki)  
   kill; murder; die; pass away; ʟєꜱ kills ʟᴏᴧ
 
   - **uhukiles** _n._ (uhuki+les)  
@@ -2096,13 +2093,13 @@ be powder; be fine; be dust; ʟᴏᴧ is a powder
   - **ufapiac** _n._ (ufa+piac)  
   garlic; Allium sativum
 
-  - **ufu** _v._ (~~isi~~)  
-  be difficult; be hard; be inconvenient; ʟᴜᴍ is hard for ʟᴏᴧ
+- **ufu** _v._ (~~isi~~)  
+be difficult; be hard; be inconvenient; ʟᴜᴍ is hard for ʟᴏᴧ
 
   - **ufulum** _n._ (ufu+lum)  
   difficult; hard; inconvenient
 
-  - **ufuki** _v._ (~~isi~~)  
+  - **ufuki** _v._ (ufu+ki)  
   restrict; resist; inconvenience; make difficult; ʟєꜱ makes ʟᴜᴍ harder for ʟᴏᴧ
 
 - **ukik** _n._ (ono. [u)  
@@ -2224,14 +2221,14 @@ Jew; the Jewish people
   - **yehpiac** _n._ (yeh+piac)  
   scallion; green onion; spring onion; salad onion
 
-  - **yek** _n._ (~~won~~)  
-  beast; wild animal; non-human animal
+- **yek** _n._ (~~won~~)  
+beast; wild animal; non-human animal
 
   - **yekak** _n._ (yek+ak)  
   wild; beastial; animalistic; visceral
 
-  - **yayu** _v._ (~~wawi~~)  
-  relieve; calm; reassure; ʟᴜᴍ gives ʟᴏᴧ relieved feelings
+- **yayu** _v._ (~~wawi~~)  
+relieve; calm; reassure; ʟᴜᴍ gives ʟᴏᴧ relieved feelings
 
   - **yayulon** _n._ (yayu+lon)  
   soothed
@@ -2239,7 +2236,7 @@ Jew; the Jewish people
   - **yayulum** _n._ (yayu+lum)  
   relief
 
-  - **yayuki** _v._ (~~wawi~~)  
+  - **yayuki** _v._ (yayu+ki)  
   assuage; sooth; relieve; calm; ʟєꜱ causes ʟᴏᴧ to feel relieved by ʟᴜᴍ
 
   - **yayukiles** _n._ (yayuki+les)  
@@ -2401,8 +2398,8 @@ be friendly; be nice; be kind; ʟᴏᴧ considers ʟᴜᴍ a friend
   - **yohaukiles** _n._ (yohauki+les)  
   friend-arranger
 
-  - **yot** _post._ (~~wel~~)  
-  on; at; in; _marks location_
+- **yot** _post._ (~~wel~~)  
+on; at; in; _marks location_
 
 - **'yishael** _n._ (Heb. &langle;ישראל&rangle; [jisʁael])  
 Israel
@@ -2466,13 +2463,13 @@ prosper; fare; be-well; be-good; ʟᴏᴧ is doing well
   - **lelon** _n._ (le+lon)  
   fatigued; tired
 
-  - **lene** _v._ (~~toko~~)  
-  be unsour; ʟᴏᴧ is not very sour
+- **lene** _v._ (~~toko~~)  
+be unsour; ʟᴏᴧ is not very sour
 
   - **lenelon** _n._ (lene+lon)  
   unsour
 
-  - **leneki** _v._ (~~toko~~)  
+  - **leneki** _v._ (lene+ki)  
   desour; ʟєꜱ makes ʟᴏᴧ become less sour
 
 - **lena** _v._ (Hin. &langle;लेना&rangle; [lenaː])  
@@ -2514,8 +2511,8 @@ be viscous; be thick; ʟᴏᴧ is viscous
   - **leslakiles** _n._ (leslaki+les)  
   thickener; viscosity increaser
 
-  - **lef** _num._ (~~tos~~)  
-  E; fourteen; only used for hexadecimal
+- **lef** _num._ (~~tos~~)  
+E; fourteen; only used for hexadecimal
 
   - **lefak** _n._ (lef+ak)  
   fourteenth
@@ -2565,13 +2562,13 @@ network; net; web; system; collection of interconnected nodes
 - **letus** _n._ (Ben. &langle;লেটুস&rangle; [l̪etus̪])  
 lettuce; chicory; Lactuca
 
-  - **letpu** _v._ (~~tolmi~~)  
-  be awake; be concious; ʟᴏᴧ is awake
+- **letpu** _v._ (~~tolmi~~)  
+be awake; be concious; ʟᴏᴧ is awake
 
   - **letpulon** _n._ (letpu+lon)  
   awake; concious
 
-  - **letpuki** _v._ (~~tolmi~~)  
+  - **letpuki** _v._ (letpu+ki)  
   wake up; come to; ʟєꜱ (alarm clock) wakes ʟᴏᴧ up
 
 - **lep** _n._ (Epo. &langle;rebo&rangle; [ˈrebo])  
@@ -2655,13 +2652,13 @@ ocean; sea; large interconnected bodies of liquid covering most of a planet
   - **lawtpyah** _n._ (lawt+pyah)  
   manatee; sea-cow
 
-  - **lanau** _v._ (~~takai~~)  
-  be turned off; be inanimate; be passive; be closed; ʟᴏᴧ is turned off
+- **lanau** _v._ (~~takai~~)  
+be turned off; be inanimate; be passive; be closed; ʟᴏᴧ is turned off
 
   - **lanaulon** _n._ (lanau+lon)  
   turned off; inanimate; passive; closed
 
-  - **lanauki** _v._ (~~takai~~)  
+  - **lanauki** _v._ (lanau+ki)  
   turn off; deactivate; kill; ʟєꜱ turns off ʟᴏᴧ
 
   - **lanaukiles** _n._ (lanauki+les)  
@@ -2769,8 +2766,8 @@ Latvia
   - **'latwiyatilip** _n._ ('latwiya+tilip)  
   Latvian; the Latvian language
 
-  - **lo** _v._ (~~te~~)  
-  erase; overwrite; obscure; ʟєꜱ removes traces of ʟᴏᴧ from ʟᴜᴍ
+- **lo** _v._ (~~te~~)  
+erase; overwrite; obscure; ʟєꜱ removes traces of ʟᴏᴧ from ʟᴜᴍ
 
   - **loles** _n._ (lo+les)  
   one who erases; eraser
@@ -2874,13 +2871,13 @@ Lojban
   - **'locpanwon** _n._ ('locpan+won)  
   Lojbanist; Lojban speakers
 
-  - **lokfe** _v._ (~~tenso~~)  
-  be relaxed; be lax; be chill; ʟᴏᴧ is not under pressure
+- **lokfe** _v._ (~~tenso~~)  
+be relaxed; be lax; be chill; ʟᴏᴧ is not under pressure
 
   - **lokfelon** _n._ (lokfe+lon)  
   relaxed; lax; chill
 
-  - **lokfeki** _v._ (~~tenso~~)  
+  - **lokfeki** _v._ (lokfe+ki)  
   relax; take off pressure; ʟєꜱ takes pressure off of ʟᴏᴧ
 
 - **lota** _v._ (Spa. &langle;rueda&rangle; [ˈrweða])  
@@ -2967,13 +2964,13 @@ be in pieces; be broken; be piecemeal; ʟᴏᴧ is in multiple pieces
   - **lotokipowikiles** _n._ (lotokipowiki+les)  
   weakener; saboteur
 
-  - **lotiha** _v._ (~~teluca~~)  
-  be disgusted; ʟᴏᴧ is disgusted by ʟᴜᴍ
+- **lotiha** _v._ (~~teluca~~)  
+be disgusted; ʟᴏᴧ is disgusted by ʟᴜᴍ
 
   - **lotihalon** _n._ (lotiha+lon)  
   disgusted
 
-  - **lotihaki** _v._ (~~teluca~~)  
+  - **lotihaki** _v._ (lotiha+ki)  
   disgust; make disgusted; ʟєꜱ makes ʟᴏᴧ disgusted by ʟᴜᴍ"
 
 - **'lietuwa** _n._ (Lit. &langle;Lietuva&rangle; [lʲɪɛtʊˈvɐ])  
@@ -2991,7 +2988,7 @@ Lithuania
   - **lial** _n._ (l+ial)  
   why (relative); because of which
 
-  - **lialkweki** _v._ (~~ial~~)  
+  - **lialkweki** _v._ (l+ial+kweki)  
   result; follow; bear responsibility; bear fault; ʟᴏᴧ results from ʟᴜᴍ
 
   - **lialkwekilon** _n._ (lialkweki+lon)  
@@ -3039,8 +3036,8 @@ bear; Ursidae
   - **licak** _n._ (lic+ak)  
   ursine
 
-- **'licilkentawlus** _n._ (Lat. &langle;Rigil Centaurus>)  
-Alpha Centauri A; Rigil Kentaurus
+  - **'licilkentawlus** _n._ (Lat. &langle;Rigil Centaurus>)  
+  Alpha Centauri A; Rigil Kentaurus
 
 - **'lictenectayn** _n._ (Deu. &langle;Liechtenstein&rangle; [lɪçtn̩ʃtaɪ̯n])  
 Liechtenstein
@@ -3060,13 +3057,13 @@ lithium
 - **'lithe** _n._ (Fra. &langle;litre&rangle; [ˈlitʁ])  
 litre; liter; L
 
-  - **litfo** _v._ (~~tulse~~)  
-  be unsweet; be unsweetened; ʟᴏᴧ is unsweet
+- **litfo** _v._ (~~tulse~~)  
+be unsweet; be unsweetened; ʟᴏᴧ is unsweet
 
   - **litfolon** _n._ (litfo+lon)  
   unsweet; unsweetened
 
-  - **litfoki** _v._ (~~tulse~~)  
+  - **litfoki** _v._ (litfo+ki)  
   unsweeten; ʟєꜱ makes ʟᴏᴧ become less sweet
 
   - **lip** _n._ (l+ip)  
@@ -3090,13 +3087,13 @@ Lebanon
   - **'lipnenwon** _n._ ('lipnen+won)  
   Lebanese; the Lebanese people
 
-  - **lu** _v._ (~~ti~~)  
-  consult; look up; reference; refer; read; ʟєꜱ retrieves ʟᴜᴍ from ʟᴏᴧ
+- **lu** _v._ (~~ti~~)  
+consult; look up; reference; refer; read; ʟєꜱ retrieves ʟᴜᴍ from ʟᴏᴧ
 
   - **luat** _n._ (l+uat)  
   with which (relative)
 
-  - **luatkweki** _v._ (~~uat~~)  
+  - **luatkweki** _v._ (l+uat+kweki)  
   use; work through; ʟᴏᴧ is using ʟᴜᴍ
 
   - **luatkwekilon** _n._ (luatkweki+lon)  
@@ -3114,13 +3111,13 @@ Lebanon
   - **luatkwekipowinyolon** _n._ (luatkwekipowinyo+lon)  
   impractical; unusable
 
-  - **luo** _v._ (~~tie~~)  
-  be along; be longitudinal; be with; be parallel; ʟᴏᴧ is along ʟᴜᴍ
+- **luo** _v._ (~~tie~~)  
+be along; be longitudinal; be with; be parallel; ʟᴏᴧ is along ʟᴜᴍ
 
   - **luolon** _n._ (luo+lon)  
   along; longitudinal; with; parallel
 
-  - **luoki** _v._ (~~tie~~)  
+  - **luoki** _v._ (luo+ki)  
   align; move along; move with; ʟєꜱ makes ʟᴏᴧ go along ʟᴜᴍ
 
   - **lulon** _n._ (lu+lon)  
@@ -3393,7 +3390,7 @@ ruble; rouble; ₽
   - **lyot** _n._ (l+yot)  
   where (relative)
 
-  - **lyotkweki** _v._ (~~yot~~)  
+  - **lyotkweki** _v._ (l+yot+kweki)  
   be present; attend; be around; be strong; be; ʟᴏᴧ is present at ʟᴜᴍ
 
   - **lyotkwekilon** _n._ (lyotkweki+lon)  
@@ -3426,7 +3423,7 @@ ruble; rouble; ₽
   - **lwel** _n._ (l+wel)  
   when (relative)
 
-  - **lwelkweki** _v._ (~~wel~~)  
+  - **lwelkweki** _v._ (l+wel+kweki)  
   be at; coincide; ʟᴏᴧ happens at the same time as ʟᴜᴍ
 
   - **lwelkwekilon** _n._ (lwelkweki+lon)  
@@ -3470,8 +3467,8 @@ w; /w/; labial-velar approximant
 - **wel** _post._ (Mar. &langle;वेळ&rangle; [ˈʋeɭə])  
 at; on; in; _marks time_
 
-  - **wecai** _v._ (~~yohau~~)  
-  be hostile; be mean; be harsh; ʟᴏᴧ is hostile toward ʟᴜᴍ
+- **wecai** _v._ (~~yohau~~)  
+be hostile; be mean; be harsh; ʟᴏᴧ is hostile toward ʟᴜᴍ
 
   - **wecailon** _n._ (wecai+lon)  
   hostile; mean; harsh
@@ -3479,7 +3476,7 @@ at; on; in; _marks time_
   - **wecailum** _n._ (wecai+lum)  
   enemy; infamous
 
-  - **wecaiki** _v._ (~~yohau~~)  
+  - **wecaiki** _v._ (wecai+ki)  
   drive apart; aggravate; ʟєꜱ makes ʟᴏᴧ become hostile toward ʟᴜᴍ
 
   - **wecaikiles** _n._ (wecaiki+les)  
@@ -3491,8 +3488,8 @@ wasp; Apocrita minus Anthophilia and Formicidae
 - **wa** _ptcl._ (Cmn. &langle;哇&rangle; [wa])  
 wow; how; _neutral exclamative mood_
 
-  - **wale** _v._ (~~yato~~)  
-  be similar; be the same; be like; be alike; ʟᴏᴧ is similar to ʟᴜᴍ
+- **wale** _v._ (~~yato~~)  
+be similar; be the same; be like; be alike; ʟᴏᴧ is similar to ʟᴜᴍ
 
   - **walelon** _n._ (wale+lon)  
   similar; the same; like; alike
@@ -3500,7 +3497,7 @@ wow; how; _neutral exclamative mood_
   - **waleswa** _v._ (wale+swa)  
   empathise; share feelings; ʟᴏᴧ empathises with ʟᴜᴍ
 
-  - **waleki** _v._ (~~yato~~)  
+  - **waleki** _v._ (wale+ki)  
   converge; make similar; resolve; ʟєꜱ makes ʟᴏᴧ become smilar to ʟᴜᴍ
 
   - **walepensi** _v._ (wale+pensi)  
@@ -3581,14 +3578,14 @@ vanadium
   - **wacaitilum** _n._ (wacaiti+lum)  
   greeted
 
-- **'wacintontisi** _n._ (Eng. &langle;Washington D.C.>)  
-Washington D.C.; Washington
+  - **'wacintontisi** _n._ (Eng. &langle;Washington D.C.>)  
+  Washington D.C.; Washington
 
 - **'wake** _n._ (Ara. &langle;واقع‎&rangle; [wɑːqeʔ])  
 Vega
 
-  - **wata** _v._ (~~yala~~)  
-  be slow; be gradual; be periodic; ʟᴏᴧ progresses, oscillates, or decays slowly
+- **wata** _v._ (~~yala~~)  
+be slow; be gradual; be periodic; ʟᴏᴧ progresses, oscillates, or decays slowly
 
 - **'wataiko** _n._ (Jpn. &langle;和太鼓&rangle; [ɰadaikɔː])  
 taiko; taiko drum
@@ -3769,8 +3766,8 @@ be inside; be in; contain; be inner; be central; be in the middle; ʟᴏᴧ is i
 - **'neon** _n._ (Lat. &langle;neon&rangle; [neɔ̃])  
 neon
 
-- **'neopatwa** _n._ (Npt. &langle;Neo Patwa>)  
-Neo Patwa; Neo Patwah
+  - **'neopatwa** _n._ (Npt. &langle;Neo Patwa>)  
+  Neo Patwa; Neo Patwah
 
   - **'neopatwaak** _n._ ('neopatwa+ak)  
   Neo Patwa; in Neo Patwa
@@ -3808,13 +3805,13 @@ Neo Patwa; Neo Patwah
   - **nefilalum'kineak** _n._ (nefilalum'kine+ak)  
   Equatorial Guinean; from Equatorial Guinea
 
-  - **neflu** _v._ (~~kosti~~)  
-  be cheap; ʟᴏᴧ does not cost a lot
+- **neflu** _v._ (~~kosti~~)  
+be cheap; ʟᴏᴧ does not cost a lot
 
   - **neflulon** _n._ (neflu+lon)  
   cheap
 
-  - **nefluki** _v._ (~~kosti~~)  
+  - **nefluki** _v._ (neflu+ki)  
   discount; mark down; ʟєꜱ decreases the cost of ʟᴏᴧ
 
   - **neki** _v._ (ne+ki)  
@@ -3958,13 +3955,13 @@ Nahuatl; the Nahuatl language
 - **nawtil** _n._ (Epo. &langle;naŭtilo&rangle; [nawˈtilo])  
 nautilus; Nautilidae
 
-  - **namo** _v._ (~~kape~~)  
-  ignore; disregard; ʟᴏᴧ pays little attention to ʟᴜᴍ
+- **namo** _v._ (~~kape~~)  
+ignore; disregard; ʟᴏᴧ pays little attention to ʟᴜᴍ
 
   - **namooyemocakilum** _n._ (namo+oyemocakilum)  
   background music; soundtrack
 
-  - **namoki** _v._ (~~kape~~)  
+  - **namoki** _v._ (namo+ki)  
   distract; ʟєꜱ makes ʟᴏᴧ stop paying attention to ʟᴜᴍ
 
 - **'namipia** _n._ (Naq. &langle;namib&rangle; [naˈmip])  
@@ -3979,8 +3976,8 @@ Namib desert
   - **'namipiatec** _n._ ('namipia+tec)  
   Namibia; Republic of Namibia
 
-  - **nak** _num._ (~~kan~~)  
-  F; fifteen; only used for hexadecimal
+- **nak** _num._ (~~kan~~)  
+F; fifteen; only used for hexadecimal
 
   - **nakak** _n._ (nak+ak)  
   fifteenth
@@ -4132,8 +4129,8 @@ notice; be aware; ʟᴏᴧ is conciously aware of the presence of ʟᴜᴍ
   - **nopowinyolumlon** _n._ (nopowinyolum+lon)  
   stupid
 
-  - **ni** _v._ (~~ku~~)  
-  be unbitter; ʟᴏᴧ is not very bitter
+- **ni** _v._ (~~ku~~)  
+be unbitter; ʟᴏᴧ is not very bitter
 
 - **nila** _v._ (Hin. &langle;नीला&rangle; [niːlaː])  
 be blue; be cool; ʟᴏᴧ reflects short wavelength light
@@ -4162,8 +4159,8 @@ be blue; be cool; ʟᴏᴧ reflects short wavelength light
   - **nilon** _n._ (ni+lon)  
   unbitter
 
-  - **nilu** _v._ (~~kuti~~)  
-  be fluid; be amorphous; ʟᴏᴧ is fluid
+- **nilu** _v._ (~~kuti~~)  
+be fluid; be amorphous; ʟᴏᴧ is fluid
 
   - **nilulon** _n._ (nilu+lon)  
   fluid; amorphous
@@ -4198,7 +4195,7 @@ be blue; be cool; ʟᴏᴧ reflects short wavelength light
   - **niluhilapaholon** _n._ (niluhilapaho+lon)  
   downstream; downwind
 
-  - **niluki** _v._ (~~kuti~~)  
+  - **niluki** _v._ (nilu+ki)  
   melt; sublimate; ʟєꜱ melts ʟᴏᴧ
 
   - **nilukiles** _n._ (niluki+les)  
@@ -4228,14 +4225,14 @@ Niue (landmass)
   - **'niwetilip** _n._ ('niwe+tilip)  
   Niuean; the Niuean language
 
-  - **ninap** _n._ (~~kukam~~)  
-  senior citizen; elder; very old and decrepit animal
+- **ninap** _n._ (~~kukam~~)  
+senior citizen; elder; very old and decrepit animal
 
   - **ninapak** _n._ (ninap+ak)  
   elder
 
-  - **nihu** _v._ (~~kuci~~)  
-  be sad; be sorrowful; be anguished; be distressed; ʟᴏᴧ feels sad
+- **nihu** _v._ (~~kuci~~)  
+be sad; be sorrowful; be anguished; be distressed; ʟᴏᴧ feels sad
 
   - **nihulon** _n._ (nihu+lon)  
   sad; sorrowful; anguished; distressed
@@ -4252,7 +4249,7 @@ Niue (landmass)
   - **nihucwelonkoki** _v._ (nihucwelon+koki)  
   cry; weep; sob; tear; ʟєꜱ cries out ʟᴏᴧ
 
-  - **nihuki** _v._ (~~kuci~~)  
+  - **nihuki** _v._ (nihu+ki)  
   sadden; anguish; distress; ʟєꜱ makes ʟᴏᴧ sadder
 
 - **nice** _v._ (Ben. &langle;নিচে&rangle; [n̪it͡ɕe])  
@@ -4303,11 +4300,11 @@ Nicaragua
   - **'nikalakwawon** _n._ ('nikalakwa+won)  
   Nicaraguan; the Nicaraguan people
 
-  - **niki** _v._ (~~ku~~)  
+  - **niki** _v._ (ni+ki)  
   debitter; ʟєꜱ makes ʟᴏᴧ become less bitter
 
-  - **nikhu** _v._ (~~kunci~~)  
-  be free; be independent; be weak; ʟᴜᴍ cannot tell ʟᴏᴧ what to do
+- **nikhu** _v._ (~~kunci~~)  
+be free; be independent; be weak; ʟᴜᴍ cannot tell ʟᴏᴧ what to do
 
   - **nikhulon** _n._ (nikhu+lon)  
   free; independent
@@ -4315,7 +4312,7 @@ Nicaragua
   - **nikhulum** _n._ (nikhu+lum)  
   weak
 
-  - **nikhuki** _v._ (~~kunci~~)  
+  - **nikhuki** _v._ (nikhu+ki)  
   lose control; release; free; ʟєꜱ releases ʟᴏᴧ from ʟᴜᴍ's control
 
   - **nikhukiles** _n._ (nikhuki+les)  
@@ -4324,8 +4321,8 @@ Nicaragua
   - **nikhukilon** _n._ (nikhuki+lon)  
   freed
 
-  - **nita** _v._ (~~kula~~)  
-  be hard; be rigid; be firm; be strong; be unforgiving; the surface of ʟᴏᴧ feels hard
+- **nita** _v._ (~~kula~~)  
+be hard; be rigid; be firm; be strong; be unforgiving; the surface of ʟᴏᴧ feels hard
 
   - **nitaec** _n._ (nita+ec)  
   bone
@@ -4345,10 +4342,10 @@ Nicaragua
   - **nitafut** _n._ (nita+fut)  
   gourd; Cucurbitaceae with rigid shells
 
-  - **nitak** _pn._ (~~kulan~~)  
-  previous; last
+- **nitak** _pn._ (~~kulan~~)  
+previous; last
 
-  - **nitaki** _v._ (~~kula~~)  
+  - **nitaki** _v._ (nita+ki)  
   harden; firm; ʟєꜱ makes ʟᴏᴧ become hard
 
   - **nitakio** _v._ (nita+kio)  
@@ -4378,8 +4375,8 @@ Nicaragua
   - **nitapic** _n._ (nita+pic)  
   nut
 
-  - **nito** _v._ (~~kule~~)  
-  be near; be close; be before; be approximately; be almost; be like; ʟᴏᴧ is physically or numerically close to ʟᴜᴍ
+- **nito** _v._ (~~kule~~)  
+be near; be close; be before; be approximately; be almost; be like; ʟᴏᴧ is physically or numerically close to ʟᴜᴍ
 
   - **nitoesta** _v._ (nito+esta)  
   coexist; tolerate; ʟᴏᴧ coexists with ʟᴜᴍ
@@ -4396,19 +4393,19 @@ Nicaragua
   - **nitolwel** _n._ (nito+lwel)  
   meeting
 
-  - **nitoki** _v._ (~~kule~~)  
+  - **nitoki** _v._ (nito+ki)  
   approach; go toward; meet; draw close; bring together; gather; go to; go in; ʟєꜱ moves ʟᴏᴧ toward ʟᴜᴍ
 
   - **nitokiles** _n._ (nitoki+les)  
   gatherer; joiner
 
-  - **nitu** _v._ (~~kuli~~)  
-  be unsavoury; ʟᴏᴧ is not very savoury
+- **nitu** _v._ (~~kuli~~)  
+be unsavoury; ʟᴏᴧ is not very savoury
 
   - **nitulon** _n._ (nitu+lon)  
   unsavoury
 
-  - **nituki** _v._ (~~kuli~~)  
+  - **nituki** _v._ (nitu+ki)  
   desavoury; ʟєꜱ makes ʟᴏᴧ become less savoury
 
 - **'nipon** _n._ (Jap. &langle;日本&rangle; [ɲipːoɴ])  
@@ -4423,11 +4420,11 @@ Japan
   - **'nipontilip** _n._ ('nipon+tilip)  
   Japanese; the Japanese language
 
-  - **nu** _v._ (~~ki~~)  
-  end; stop; cease; cancel; unbecome; come from; go from; change from; send; leave; depart; from; de- -ify; _cessative_; ʟєꜱ makes ʟᴏᴧ transitions from truth to falsehood
+- **nu** _v._ (~~ki~~)  
+end; stop; cease; cancel; unbecome; come from; go from; change from; send; leave; depart; from; de- -ify; _cessative_; ʟєꜱ makes ʟᴏᴧ transitions from truth to falsehood
 
-- **'nuyoksiti** _n._ (Eng. &langle;New York)  
-New York City
+  - **'nuyoksiti** _n._ (Eng. &langle;New York)  
+  New York City
 
 - **nul** _num._ (Epo. &langle;nulo&rangle; [nulo])  
 0; zero; none; no
@@ -4665,13 +4662,13 @@ Melanesian; the Melanesian people
 - **men** _num._ (Spa. &langle;menos&rangle; [ˈmenos])  
 minus; negative
 
-  - **meha** _v._ (~~poca~~)  
-  be fresh; ʟᴏᴧ is fresh
+- **meha** _v._ (~~poca~~)  
+be fresh; ʟᴏᴧ is fresh
 
   - **mehalon** _n._ (meha+lon)  
   fresh
 
-  - **mehaki** _v._ (~~poca~~)  
+  - **mehaki** _v._ (meha+ki)  
   freshen; ʟєꜱ freshens ʟᴏᴧ
 
 - **'mehiko** _n._ (Spa. &langle;México&rangle; [ˈmexiko])  
@@ -4695,8 +4692,8 @@ Mexico
   - **mesnokipumkwelwel** _n._ (mes+noki+pumkwelwel)  
   freshman year of high school
 
-  - **mekle** _v._ (~~ponto~~)  
-  be open; be cupped; be U-shaped; be confined; ʟᴏᴧ is open on one side
+- **mekle** _v._ (~~ponto~~)  
+be open; be cupped; be U-shaped; be confined; ʟᴏᴧ is open on one side
 
   - **meklelekpoltilum** _n._ (mekle+lekpoltilum)  
   skirt
@@ -4707,7 +4704,7 @@ Mexico
   - **meklesaman** _n._ (mekle+saman)  
   door
 
-  - **mekleki** _v._ (~~ponto~~)  
+  - **mekleki** _v._ (mekle+ki)  
   open; dig; cup; divot; carve out; ʟєꜱ makes ʟᴏᴧ open
 
   - **meklekiles** _n._ (mekleki+les)  
@@ -4815,13 +4812,13 @@ corn; maize; Zea mays
   - **maipaltolum** _n._ (mai+paltolum)  
   corporation; company; business
 
-  - **mayo** _v._ (~~pawe~~)  
-  leave bare; expose; leave open; ʟᴏᴧ covers little of ʟᴜᴍ
+- **mayo** _v._ (~~pawe~~)  
+leave bare; expose; leave open; ʟᴏᴧ covers little of ʟᴜᴍ
 
   - **mayolum** _n._ (mayo+lum)  
   bare; open; exposed
 
-  - **mayoki** _v._ (~~pawe~~)  
+  - **mayoki** _v._ (mayo+ki)  
   uncover; bare; expose; open; ʟєꜱ makes ʟᴏᴧ stop surrounding ʟᴜᴍ
 
   - **mayokiles** _n._ (mayoki+les)  
@@ -4956,8 +4953,8 @@ Maghreb; Maghrib
   - **'mahleptilip** _n._ ('mahlep+tilip)  
   Berber; Amazigh; Tamazight; the Berber languages
 
-  - **mace** _v._ (~~paho~~)  
-  be high; be over; ʟᴏᴧ has a higher altitude than ʟᴜᴍ
+- **mace** _v._ (~~paho~~)  
+be high; be over; ʟᴏᴧ has a higher altitude than ʟᴜᴍ
 
   - **macelek** _n._ (mace+lek)  
   stilt
@@ -4965,7 +4962,7 @@ Maghreb; Maghrib
   - **macelon** _n._ (mace+lon)  
   top; heights; high; over
 
-  - **maceki** _v._ (~~paho~~)  
+  - **maceki** _v._ (mace+ki)  
   lift; heighten; ascend; elevate; ʟєꜱ increases ʟᴏᴧ's altitude relative to ʟᴜᴍ
 
   - **macekiles** _n._ (maceki+les)  
@@ -4973,9 +4970,6 @@ Maghreb; Maghrib
 
   - **macetayl** _n._ (mace+tayl)  
   plateau; highlands
-
-  - **macetaylak** _n._ (macetayl+ak)  
-  highland; high
 
   - **macetielon** _n._ (mace+tielon)  
   go over; cross; ʟєꜱ moves ʟᴏᴧ over ʟᴜᴍ
@@ -5064,32 +5058,32 @@ Hungarian; the Hungarian people
 - **'maknesium** _n._ (Lat. &langle;magnesium&rangle; [maɡnezɪʊ̃])  
 magnesium
 
-  - **mat** _n._ (~~pal~~)  
-  plate; board; wall; rigid two-dimensional object
+- **mat** _n._ (~~pal~~)  
+plate; board; wall; rigid two-dimensional object
 
-  - **matu** _v._ (~~pali~~)  
-  be light; ʟᴏᴧ is light
+- **matu** _v._ (~~pali~~)  
+be light; ʟᴏᴧ is light
 
   - **matulon** _n._ (matu+lon)  
   lightweight; light
 
-  - **matuki** _v._ (~~pali~~)  
+  - **matuki** _v._ (matu+ki)  
   lighten; ʟєꜱ lightens ʟᴏᴧ
 
-  - **mapametlo** _v._ (~~pamapolte~~)  
-  be turned clockwise; ʟᴏᴧ appears rotated clockwise from the orientation ʟᴏᴧ from the point of view of ʟᴜᴍ
+- **mapametlo** _v._ (~~pamapolte~~)  
+be turned clockwise; ʟᴏᴧ appears rotated clockwise from the orientation ʟᴏᴧ from the point of view of ʟᴜᴍ
 
   - **mapametlolon** _n._ (mapametlo+lon)  
   turned clockwise
 
-  - **mapametloki** _v._ (~~pamapolte~~)  
+  - **mapametloki** _v._ (mapametlo+ki)  
   rotate clockwise; ʟєꜱ turns ʟᴏᴧ clockwise from ʟᴜᴍ's point of view
 
   - **mapametlokiles** _n._ (mapametloki+les)  
   clockwise turner
 
-  - **mo** _v._ (~~pe~~)  
-  be without; be apart; be away; ʟᴏᴧ does not accompany ʟєꜱ
+- **mo** _v._ (~~pe~~)  
+be without; be apart; be away; ʟᴏᴧ does not accompany ʟєꜱ
 
 - **moye** _v._ (Yor. &langle;mòye&rangle; [mòjē])  
 understand; comprehend; be sensical; know; be smart; ʟᴏᴧ understands ʟᴜᴍ well
@@ -5121,8 +5115,8 @@ understand; comprehend; be sensical; know; be smart; ʟᴏᴧ understands ʟᴜ�
   - **moyepatili** _v._ (moye+patili)  
   decode; parse; ʟєꜱ decodes ʟᴏᴧ into ʟᴜᴍ
 
-  - **mola** _v._ (~~peta~~)  
-  reverse; do back; return from; ʟєꜱ makes ʟᴏᴧ happen in reverse after having happened
+- **mola** _v._ (~~peta~~)  
+reverse; do back; return from; ʟєꜱ makes ʟᴏᴧ happen in reverse after having happened
 
   - **molon** _n._ (mo+lon)  
   without; apart; away
@@ -5325,8 +5319,8 @@ wait; ʟᴏᴧ is waiting for ʟᴜᴍ
   - **milalon** _n._ (mila+lon)  
   in wait
 
-  - **milu** _v._ (~~puti~~)  
-  be black; be dark; be tan; ʟᴏᴧ reflects little light
+- **milu** _v._ (~~puti~~)  
+be black; be dark; be tan; ʟᴏᴧ reflects little light
 
   - **miluilulih** _n._ (milu+ilu+lih)  
   raccoon
@@ -5334,7 +5328,7 @@ wait; ʟᴏᴧ is waiting for ʟᴜᴍ
   - **milulon** _n._ (milu+lon)  
   black; dark; tan
 
-  - **miluki** _v._ (~~puti~~)  
+  - **miluki** _v._ (milu+ki)  
   blacken; darken; shade; burn; tan; ʟєꜱ darkens ʟᴏᴧ
 
   - **milukuta** _v._ (milu+kuta)  
@@ -5373,8 +5367,8 @@ millet; resilient, productive cereal crop
 - **'mihowtaw** _n._ (Cmn. &langle;猕猴桃&rangle; [mi˧˥xoʊ̯˧˥tʰaʊ̯˧˥])  
 kiwifruit; kiwi; Chinese gooseberry; Actinidia
 
-  - **mihu** _v._ (~~puci~~)  
-  pull; attract; ʟєꜱ pulls on ʟᴏᴧ
+- **mihu** _v._ (~~puci~~)  
+pull; attract; ʟєꜱ pulls on ʟᴏᴧ
 
   - **mihules** _n._ (mihu+les)  
   attraction
@@ -5427,29 +5421,29 @@ Micronesia (archipelago)
   - **'mikhonesitecwon** _n._ ('mikhonesitec+won)  
   Micronesian; the Micronesian citizenry
 
-  - **mita** _v._ (~~pula~~)  
-  be unclean; be dirty; be filthy; be grimy; be gross; be unsanitary; ʟᴏᴧ is unclean
+- **mita** _v._ (~~pula~~)  
+be unclean; be dirty; be filthy; be grimy; be gross; be unsanitary; ʟᴏᴧ is unclean
 
   - **mitalon** _n._ (mita+lon)  
   filth; unclean; dirty; filthy; grimy; gross; unsanitary
 
-  - **mitaki** _v._ (~~pula~~)  
+  - **mitaki** _v._ (mita+ki)  
   dirty; grimify; desanitise; ʟєꜱ makes ʟᴏᴧ unclean
 
   - **mitakiles** _n._ (mitaki+les)  
   dirtier
 
-  - **mitu** _v._ (~~puli~~)  
-  be empty; be blank; ʟᴏᴧ is empty of ʟᴜᴍ
+- **mitu** _v._ (~~puli~~)  
+be empty; be blank; ʟᴏᴧ is empty of ʟᴜᴍ
 
   - **mitulon** _n._ (mitu+lon)  
   void; vacuum; empty; blank
 
-  - **mituki** _v._ (~~puli~~)  
+  - **mituki** _v._ (mitu+ki)  
   empty; clear; ʟєꜱ empties ʟᴏᴧ of ʟᴜᴍ
 
-  - **mip** _n._ (~~pum~~)  
-  sky; atmosphere; weather; heavens; all space above the ground
+- **mip** _n._ (~~pum~~)  
+sky; atmosphere; weather; heavens; all space above the ground
 
   - **mipalaktan** _n._ (mip+alaktan)  
   scorpionfly
@@ -5499,8 +5493,8 @@ Micronesia (archipelago)
   - **mippumak** _n._ (mippum+ak)  
   Uranic
 
-  - **muafa** _v._ (~~piasa~~)  
-  be unfamiliar with; be unaccustomed; be strange; be foreign; ʟᴜᴍ is unfamiliar to ʟᴏᴧ
+- **muafa** _v._ (~~piasa~~)  
+be unfamiliar with; be unaccustomed; be strange; be foreign; ʟᴜᴍ is unfamiliar to ʟᴏᴧ
 
   - **muafalon** _n._ (muafa+lon)  
   unfamiliar with; unaccustomed; strange; foreign
@@ -5508,7 +5502,7 @@ Micronesia (archipelago)
   - **muafalum** _n._ (muafa+lum)  
   unfamiliar to; stranger
 
-  - **muafaki** _v._ (~~piasa~~)  
+  - **muafaki** _v._ (muafa+ki)  
   unfamiliarise; get unaccustomed; forget; lose; ʟєꜱ makes ʟᴏᴧ become unfamiliar with ʟᴜᴍ
 
   - **muafakiles** _n._ (muafaki+les)  
@@ -5523,13 +5517,13 @@ Mauritania
   - **'mulitanyawon** _n._ ('mulitanya+won)  
   Mauritanian; the Mauritanian people
 
-  - **munaklo** _v._ (~~pikante~~)  
-  be mild; be cool; ʟᴏᴧ is not spicy
+- **munaklo** _v._ (~~pikante~~)  
+be mild; be cool; ʟᴏᴧ is not spicy
 
   - **munaklolon** _n._ (munaklo+lon)  
   mild; cool
 
-  - **munakloki** _v._ (~~pikante~~)  
+  - **munakloki** _v._ (munaklo+ki)  
   mild; cool; despice; ʟєꜱ makes ʟᴏᴧ become less spicy
 
 - **mumu** _v._ (ono. [mː])  
@@ -5634,11 +5628,11 @@ face; front part of a head
   - **mukak** _n._ (muk+ak)  
   facial
 
-  - **mut** _n._ (~~pil~~)  
-  valley; large locally depressed region of a planet's crust
+- **mut** _n._ (~~pil~~)  
+valley; large locally depressed region of a planet's crust
 
-  - **muta** _v._ (~~pila~~)  
-  be purple; be violet; ʟᴏᴧ reflects short and long wavelength light
+- **muta** _v._ (~~pila~~)  
+be purple; be violet; ʟᴏᴧ reflects short and long wavelength light
 
   - **mutalon** _n._ (muta+lon)  
   purple; violet
@@ -5646,7 +5640,7 @@ face; front part of a head
   - **mutak** _n._ (mut+ak)  
   valley
 
-  - **mutaki** _v._ (~~pila~~)  
+  - **mutaki** _v._ (muta+ki)  
   colour purple; colour violet; ʟєꜱ colours ʟᴏᴧ purple
 
   - **mutatawh** _n._ (muta+tawh)  
@@ -5658,8 +5652,8 @@ feline; cat; kitten; Felidae
   - **myawfak** _n._ (myawf+ak)  
   feline
 
-  - **mwe** _v._ (~~pyo~~)  
-  be angry; be mad; ʟᴏᴧ is angry about ʟᴜᴍ
+- **mwe** _v._ (~~pyo~~)  
+be angry; be mad; ʟᴏᴧ is angry about ʟᴜᴍ
 
   - **mwelon** _n._ (mwe+lon)  
   angry; mad
@@ -5667,7 +5661,7 @@ feline; cat; kitten; Felidae
   - **mwelum** _n._ (mwe+lum)  
   maddening
 
-  - **mweki** _v._ (~~pyo~~)  
+  - **mweki** _v._ (mwe+ki)  
   anger; embolden; ʟєꜱ makes ʟᴏᴧ angry about ʟᴜᴍ
 
   - **mwepowi** _v._ (mwe+powi)  
@@ -5723,8 +5717,8 @@ G; sixteen; only used to describe hexadecimal
   - **hesak** _n._ (hes+ak)  
   sixteenth
 
-  - **heta** _v._ (~~cola~~)  
-  be narrow; be acute; be small; be little; ʟᴏᴧ spans a narrow angle from the point of view of ʟᴜᴍ
+- **heta** _v._ (~~cola~~)  
+be narrow; be acute; be small; be little; ʟᴏᴧ spans a narrow angle from the point of view of ʟᴜᴍ
 
   - **hetalon** _n._ (heta+lon)  
   dot; point; narrow; acute; small; little
@@ -5732,14 +5726,14 @@ G; sixteen; only used to describe hexadecimal
   - **hetalum** _n._ (heta+lum)  
   corner
 
-  - **hetaki** _v._ (~~cola~~)  
+  - **hetaki** _v._ (heta+ki)  
   narrow; shrink; contract; ʟєꜱ makes ʟᴏᴧ span a smaller angle from the point of view of ʟᴜᴍ
 
-  - **hetut** _n._ (~~colil~~)  
-  soul; spirit; metaphysical essence
+- **hetut** _n._ (~~colil~~)  
+soul; spirit; metaphysical essence
 
-  - **hepu** _v._ (~~comi~~)  
-  be sparse; be spacious; be infrequent; be loosely distributed; be coarse; ʟᴏᴧ is few and far between in ʟᴜᴍ
+- **hepu** _v._ (~~comi~~)  
+be sparse; be spacious; be infrequent; be loosely distributed; be coarse; ʟᴏᴧ is few and far between in ʟᴜᴍ
 
   - **hepulon** _n._ (hepu+lon)  
   sparse; infrequent; loosely distributed; coarse
@@ -5747,7 +5741,7 @@ G; sixteen; only used to describe hexadecimal
   - **hepulum** _n._ (hepu+lum)  
   space; room; open space; spacious
 
-  - **hepuki** _v._ (~~comi~~)  
+  - **hepuki** _v._ (hepu+ki)  
   spread out; separate; distribute; ʟєꜱ decreases the spacial frequency of ʟᴏᴧ
 
 - **hai** _v._ (Eng. &langle;high&rangle; [hɑɪ̯])  
@@ -5762,8 +5756,8 @@ be high-pitched; be shrill; ʟᴏᴧ is highly pitched
   - **haiki** _v._ (hai+ki)  
   raise; pitch up; modulate; ʟєꜱ raises the pitch of ʟᴏᴧ
 
-  - **hau** _v._ (~~cai~~)  
-  dislike; be averse; be bad; disfavour; be unappealing; be displeasing; want not; be ugly; be gross; be negative; ʟᴏᴧ has negative inclinations toward ʟᴜᴍ
+- **hau** _v._ (~~cai~~)  
+dislike; be averse; be bad; disfavour; be unappealing; be displeasing; want not; be ugly; be gross; be negative; ʟᴏᴧ has negative inclinations toward ʟᴜᴍ
 
   - **haulon** _n._ (hau+lon)  
   pessimist; -phobe; averse; unappealing; displeasing; negative
@@ -5777,7 +5771,7 @@ be high-pitched; be shrill; ʟᴏᴧ is highly pitched
   - **haulyot** _n._ (hau+lyot)  
   hell
 
-  - **hauki** _v._ (~~cai~~)  
+  - **hauki** _v._ (hau+ki)  
   discourage; worsen; insult; argue against; negatively impact; ʟєꜱ lowers ʟᴏᴧ's opinion of ʟᴜᴍ
 
   - **haukiles** _n._ (hauki+les)  
@@ -5873,13 +5867,13 @@ Hausa; Ausa; the Hausa people
   - **'hawsatilip** _n._ ('hawsa+tilip)  
   Hausa; the Hausa language
 
-  - **hawku** _v._ (~~cayni~~)  
-  be matte; be dull; be rough; ʟᴏᴧ reflects light diffusely
+- **hawku** _v._ (~~cayni~~)  
+be matte; be dull; be rough; ʟᴏᴧ reflects light diffusely
 
   - **hawkulon** _n._ (hawku+lon)  
   matte; dull; rough
 
-  - **hawkuki** _v._ (~~cayni~~)  
+  - **hawkuki** _v._ (hawku+ki)  
   matte; ʟєꜱ makes ʟᴏᴧ become matte
 
 - **'han** _n._ (Cmn. &langle;漢&rangle; [xan˥˩])  
@@ -6128,13 +6122,13 @@ can see; see; view; ʟᴏᴧ sees ʟᴜᴍ
   - **huak** _n._ (hu+ak)  
   visual; optic
 
-  - **huylu** _v._ (~~ciwti~~)  
-  be general; be vague; ʟᴏᴧ is general
+- **huylu** _v._ (~~ciwti~~)  
+be general; be vague; ʟᴏᴧ is general
 
   - **huylulon** _n._ (huylu+lon)  
   general; vague
 
-  - **huyluki** _v._ (~~ciwti~~)  
+  - **huyluki** _v._ (huylu+ki)  
   generalise; ʟєꜱ generalises ʟᴏᴧ
 
   - **hulon** _n._ (hu+lon)  
@@ -6215,8 +6209,8 @@ be late; be recent; be after; be tardy; positive time; ʟᴏᴧ happens after ʟ
 - **'humuhumunukunukuapua** _n._ (Haw. &langle;humuhumunukunukuapuaʻa&rangle; [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə])  
 reef triggerfish; rectangular triggerfish
 
-  - **huc** _n._ (~~cih~~)  
-  countryside; country; large but sparse distribution of human residences
+- **huc** _n._ (~~cih~~)  
+countryside; country; large but sparse distribution of human residences
 
   - **hucalu** _v._ (hu+calu)  
   watch; stare; ʟєꜱ forces ʟᴏᴧ to watch ʟᴜᴍ
@@ -6257,8 +6251,8 @@ butterfly; moths; Lepidoptera
   - **hupowiki** _v._ (hupowi+ki)  
   sighten; restore sight; ʟєꜱ causes ʟᴏᴧ to become sighted
 
-  - **hyo** _v._ (~~cwe~~)  
-  be gaseous; be air; ʟᴏᴧ is gaseous
+- **hyo** _v._ (~~cwe~~)  
+be gaseous; be air; ʟᴏᴧ is gaseous
 
   - **hyoyeh** _n._ (hyo+yeh)  
   tobacco; Nicotiana
@@ -6272,7 +6266,7 @@ butterfly; moths; Lepidoptera
   - **hyomiclolon** _n._ (hyomiclo+lon)  
   arid; dry
 
-  - **hyoki** _v._ (~~cwe~~)  
+  - **hyoki** _v._ (hyo+ki)  
   boil; evaporate; ʟєꜱ boils ʟᴏᴧ
 
   - **hyokiles** _n._ (hyoki+les)  
@@ -6296,13 +6290,13 @@ butterfly; moths; Lepidoptera
   - **hyopekalon** _n._ (hyopeka+lon)  
   pastry; baked good
 
-  - **hwe** _v._ (~~cyo~~)  
-  be young; be new; ʟᴏᴧ is young
+- **hwe** _v._ (~~cyo~~)  
+be young; be new; ʟᴏᴧ is young
 
   - **hwelon** _n._ (hwe+lon)  
   kid; girl; boy; young; new
 
-  - **hweki** _v._ (~~cyo~~)  
+  - **hweki** _v._ (hwe+ki)  
   renew; update; ʟєꜱ makes ʟᴏᴧ become new
 
   - **hwekiles** _n._ (hweki+les)  
@@ -6326,8 +6320,8 @@ be on fire; be flaming; ʟᴏᴧ is on fire
   - **hwonulon** _n._ (hwonu+lon)  
   doused
 
-  - **hwok** _n._ (~~cyen~~)  
-  sheet; page; flexible two-dimensional object
+- **hwok** _n._ (~~cyen~~)  
+sheet; page; flexible two-dimensional object
 
   - **hwoki** _v._ (hwo+ki)  
   ignite; light on fire; ʟєꜱ lights ʟᴏᴧ on fire
@@ -6346,8 +6340,8 @@ be on fire; be flaming; ʟᴏᴧ is on fire
 
 ## c
 
-  - **ce** _v._ (~~ho~~)  
-  be thin; ʟᴏᴧ is thin in its smallest dimension
+- **ce** _v._ (~~ho~~)  
+be thin; ʟᴏᴧ is thin in its smallest dimension
 
   - **celon** _n._ (ce+lon)  
   film; thin
@@ -6403,7 +6397,7 @@ chatter; wobble; rustle; rattle; ʟєꜱ makes ʟᴏᴧ
   - **cecim** _n._ (ce+cim)  
   lentil
 
-  - **ceki** _v._ (~~ho~~)  
+  - **ceki** _v._ (ce+ki)  
   thin; ʟєꜱ thins ʟᴏᴧ
 
   - **cekiles** _n._ (ceki+les)  
@@ -6448,13 +6442,13 @@ want; like; be good; desire; favour; be appealing; be pleasing; hunger; have an 
   - **caitikulon** _n._ (caitiku+lon)  
   lucky; fortunate
 
-  - **cau** _v._ (~~hai~~)  
-  be low-pitched; be deep; be sonorous; ʟᴏᴧ is lowly pitched
+- **cau** _v._ (~~hai~~)  
+be low-pitched; be deep; be sonorous; ʟᴏᴧ is lowly pitched
 
   - **caulon** _n._ (cau+lon)  
   low note; low-pitched; deep; sonorous
 
-  - **cauki** _v._ (~~hai~~)  
+  - **cauki** _v._ (cau+ki)  
   lower; deepen; ʟєꜱ lowers the pitch of ʟᴏᴧ
 
 - **cayni** _v._ (Eng. &langle;shiny&rangle; [ˈʃɑɪ̯ni])  
@@ -6910,9 +6904,6 @@ plant; vegetable; Plantae
   - **ciuhtayl** _n._ (ciuh+tayl)  
   jungle; rainforest
 
-  - **ciuhtaylak** _n._ (ciuhtayl+ak)  
-  jungle; rainforest; jungular
-
 - **'cile** _n._ (Spa. &langle;Chile&rangle; [ˈt͡ʃile])  
 Chile
 
@@ -7102,8 +7093,8 @@ anticipate; be prepared; be careful; be cautious; beware; ʟᴏᴧ anticipates �
   - **citaiki** _v._ (citai+ki)  
   build anticipation; prepare; caution; ʟєꜱ makes ʟᴏᴧ anticipative about ʟᴜᴍ
 
-  - **citu** _v._ (~~huli~~)  
-  be early; be soon; be before; be timely; negative time; ʟᴏᴧ happens before ʟᴜᴍ
+- **citu** _v._ (~~huli~~)  
+be early; be soon; be before; be timely; negative time; ʟᴏᴧ happens before ʟᴜᴍ
 
   - **citulon** _n._ (citu+lon)  
   past; early; soon; before; timely
@@ -7150,7 +7141,7 @@ anticipate; be prepared; be careful; be cautious; beware; ʟᴏᴧ anticipates �
   - **citusunnyamales** _n._ (citusunnyama+les)  
   bruncher
 
-  - **cituki** _v._ (~~huli~~)  
+  - **cituki** _v._ (citu+ki)  
   pass; advance; move up; travel back in time; ʟєꜱ causes ʟᴏᴧ to become before ʟᴜᴍ
 
   - **citukiles** _n._ (cituki+les)  
@@ -7282,13 +7273,13 @@ Jamaica (landmass)
 - **cuc** _n._ (Ben. &langle;জুজু&rangle; [d͡ʑud͡ʑu])  
 bug; insect; arachnid; myriapod; entognath; small terrestrial invertebrate
 
-  - **cuta** _v._ (~~hila~~)  
-  be still; be unenergetic; move with; ʟᴏᴧ is motionless relative to ʟᴜᴍ
+- **cuta** _v._ (~~hila~~)  
+be still; be unenergetic; move with; ʟᴏᴧ is motionless relative to ʟᴜᴍ
 
   - **cutalon** _n._ (cuta+lon)  
   still; unenergetic
 
-  - **cutaki** _v._ (~~hila~~)  
+  - **cutaki** _v._ (cuta+ki)  
   stop; still; settle; deenergise; ʟєꜱ makes ʟᴏᴧ stop moving relative to ʟᴜᴍ
 
   - **cutakiles** _n._ (cutaki+les)  
@@ -7522,9 +7513,6 @@ be liquid; be water; ʟᴏᴧ is a liquid
   - **cwetayl** _n._ (cwe+tayl)  
   swamp; marsh; bog; wetlands
 
-  - **cwetaylak** _n._ (cwetayl+ak)  
-  marhal; wetland; wet
-
   - **cwetaka** _v._ (cwe+taka)  
   be wet; ʟᴜᴍ is wet with ʟᴏᴧ
 
@@ -7557,8 +7545,8 @@ sorghum; great millet; milo; Sorghum bicolor
 - **seyoh** _n._ (Spa. &langle;sello&rangle; [ˈseʝo])  
 seal; walrus; sea lion; Pinnipedia
 
-- **'seynfinsen** _n._ (Svc. &langle;Saint Vincent>)  
-Saint Vincent; Yurumei; Hairouna
+  - **'seynfinsen** _n._ (Svc. &langle;Saint Vincent>)  
+  Saint Vincent; Yurumei; Hairouna
 
   - **'seynfinsenak** _n._ ('seynfinsen+ak)  
   Saint Vincentian; Vincentian; from Saint Vincent
@@ -7596,8 +7584,8 @@ be serious; admire; respect; awe; ʟᴏᴧ takes ʟᴜᴍ seriously
   - **selyoki** _v._ (selyo+ki)  
   awe; command respect; ʟєꜱ makes ʟᴏᴧ take ʟᴜᴍ seriously
 
-- **'selnakola** _n._ (Cnr. &langle;Црна Гора>)  
-Montenegro
+  - **'selnakola** _n._ (Cnr. &langle;Црна Гора>)  
+  Montenegro
 
   - **'selnakolaak** _n._ ('selnakola+ak)  
   Montenegrin; from Montenegro
@@ -7650,8 +7638,8 @@ Saint Lucia (landmass)
   - **'senliwsitilip** _n._ ('senliwsi+tilip)  
   Saint Lucian Creole
 
-- **'senkitsi** _n._ (Aig. &langle;Saint Kitts>)  
-Saint Kitts; Saint Christopher Island; Liamuiga
+  - **'senkitsi** _n._ (Aig. &langle;Saint Kitts>)  
+  Saint Kitts; Saint Christopher Island; Liamuiga
 
   - **'senkitsiak** _n._ ('senkitsi+ak)  
   Kittitian; from Saint Kitts
@@ -7734,19 +7722,19 @@ have sex; make love; ʟєꜱ initiates and has sex with ʟᴏᴧ
   - **seksopal** _n._ (sekso+pal)  
   penis
 
-  - **set** _num._ (~~fol~~)  
-  C; twelve; dozen; only used for hexadecimal
+- **set** _num._ (~~fol~~)  
+C; twelve; dozen; only used for hexadecimal
 
   - **setak** _n._ (set+ak)  
   twelfth
 
-  - **setlu** _v._ (~~folti~~)  
-  be weak; be wimpy; ʟᴏᴧ is not capable of exerting very much force
+- **setlu** _v._ (~~folti~~)  
+be weak; be wimpy; ʟᴏᴧ is not capable of exerting very much force
 
   - **setlulon** _n._ (setlu+lon)  
   weak; wimpy
 
-  - **setluki** _v._ (~~folti~~)  
+  - **setluki** _v._ (setlu+ki)  
   weaken; ʟєꜱ weakens ʟᴏᴧ
 
   - **setlukiles** _n._ (setluki+les)  
@@ -7755,8 +7743,8 @@ have sex; make love; ʟєꜱ initiates and has sex with ʟᴏᴧ
 - **sep** _n._ (Hin. &langle;सेब&rangle; [seb])  
 apple; Malus
 
-  - **sepu** _v._ (~~fomi~~)  
-  be consistent; be solid; be smooth; be filled; ʟᴏᴧ is solid all the way through
+- **sepu** _v._ (~~fomi~~)  
+be consistent; be solid; be smooth; be filled; ʟᴏᴧ is solid all the way through
 
   - **sepulon** _n._ (sepu+lon)  
   consistent; solid; smooth; filled
@@ -7764,7 +7752,7 @@ apple; Malus
   - **sepusiklalon** _n._ (sepu+siklalon)  
   disc
 
-  - **sepuki** _v._ (~~fomi~~)  
+  - **sepuki** _v._ (sepu+ki)  
   compress; solidify; smooth; coalesce; ʟєꜱ removes the small pockets from ʟᴏᴧ
 
   - **sepukiles** _n._ (sepuki+les)  
@@ -7827,8 +7815,8 @@ Serb; the Serbian people
   - **'salpitilip** _n._ ('salpi+tilip)  
   Serbian; the Serbian language
 
-- **'sawntume** _n._ (Por. &langle;São Tomé>)  
-São Tomé; São Tomé city
+  - **'sawntume** _n._ (Por. &langle;São Tomé>)  
+  São Tomé; São Tomé city
 
   - **'sawntumetayl** _n._ ('sawntume+tayl)  
   São Tomé Island
@@ -7842,8 +7830,8 @@ São Tomé; São Tomé city
   - **'sawntume'pilinsipiwon** _n._ ('sawntume'pilinsipi+won)  
   São Toméans and Principeans; the people of São Tomé and Príncipe
 
-- **'sawmpawlu** _n._ (Por. &langle;São Paulo>)  
-São Paulo
+  - **'sawmpawlu** _n._ (Por. &langle;São Paulo>)  
+  São Paulo
 
 - **san** _num._ (Cmn. &langle;三&rangle; [san])  
 3; three; triple
@@ -7872,8 +7860,8 @@ be healthy; ʟᴏᴧ is healthy
   - **sanokiluat** _n._ (sanoki+luat)  
   medicine
 
-- **'sanmalino** _n._ (Ita. &langle;San Marino>)  
-San Marino
+  - **'sanmalino** _n._ (Ita. &langle;San Marino>)  
+  San Marino
 
   - **'sanmalinoak** _n._ ('sanmalino+ak)  
   Sammarinese; from San Marino
@@ -8385,9 +8373,6 @@ be straight; be linear; be flat; ʟᴏᴧ is straight
   - **sitetayl** _n._ (site+tayl)  
   plains; flatlands
 
-  - **sitetaylak** _n._ (sitetayl+ak)  
-  plain; planar; campal
-
   - **siteponto** _v._ (site+ponto)  
   be polygonal; ʟᴏᴧ is polygonal
 
@@ -8430,8 +8415,8 @@ Finland
   - **'suomitilip** _n._ ('suomi+tilip)  
   Finnish; the Finnish people
 
-  - **suotu** _v._ (~~fieli~~)  
-  be ashamed; be sorry; be remorseful; regret; ʟᴏᴧ feels ashamed about ʟᴜᴍ
+- **suotu** _v._ (~~fieli~~)  
+be ashamed; be sorry; be remorseful; regret; ʟᴏᴧ feels ashamed about ʟᴜᴍ
 
   - **suotulon** _n._ (suotu+lon)  
   ashamed; sorry; remorseful
@@ -8439,7 +8424,7 @@ Finland
   - **suotulum** _n._ (suotu+lum)  
   shameful
 
-  - **suotuki** _v._ (~~fieli~~)  
+  - **suotuki** _v._ (suotu+ki)  
   shame; ʟєꜱ makes ʟᴏᴧ feel ashamed about ʟᴜᴍ
 
 - **sul** _n._ (Pan. &langle;ਸੂਰ&rangle; [suɾ])  
@@ -8634,8 +8619,8 @@ Basotho; Sotho; the Sotho people
   - **'sututilip** _n._ ('sutu+tilip)  
   Sesotho; Sotho; the Sotho language
 
-  - **supot** _n._ (~~fimel~~)  
-  male; man; animal biologically characterised by testicles, penises, and testosterone
+- **supot** _n._ (~~fimel~~)  
+male; man; animal biologically characterised by testicles, penises, and testosterone
 
   - **supotak** _n._ (supot+ak)  
   male
@@ -8771,25 +8756,25 @@ feijoada
   - **femamul** _n._ (fe+mamul)  
   bat; flying fox
 
-  - **femo** _v._ (~~sope~~)  
-  be complex; be complicated; be wicked; ʟᴏᴧ is complex
+- **femo** _v._ (~~sope~~)  
+be complex; be complicated; be wicked; ʟᴏᴧ is complex
 
   - **femolon** _n._ (femo+lon)  
   complex; complicated; wicked
 
-  - **femoki** _v._ (~~sope~~)  
+  - **femoki** _v._ (femo+ki)  
   complicate; ʟєꜱ complicates ʟᴏᴧ
 
   - **femokiles** _n._ (femoki+les)  
   complicator
 
-  - **fefua** _v._ (~~sosia~~)  
-  be introverted; be isolated; ʟᴏᴧ is socially isolated from ʟᴜᴍ
+- **fefua** _v._ (~~sosia~~)  
+be introverted; be isolated; ʟᴏᴧ is socially isolated from ʟᴜᴍ
 
   - **fefualon** _n._ (fefua+lon)  
   introvert; introverted; isolated
 
-  - **fefuaki** _v._ (~~sosia~~)  
+  - **fefuaki** _v._ (fefua+ki)  
   isolate; ʟєꜱ socially isolates ʟᴏᴧ from ʟᴜᴍ
 
   - **feki** _v._ (fe+ki)  
@@ -8807,8 +8792,8 @@ feijoada
   - **fepucocalulum** _n._ (fepucocalu+lum)  
   treadmill
 
-  - **fawci** _v._ (~~sayhu~~)  
-  be unimportant; be indifferent; ignore; ʟᴏᴧ does not care about ʟᴜᴍ
+- **fawci** _v._ (~~sayhu~~)  
+be unimportant; be indifferent; ignore; ʟᴏᴧ does not care about ʟᴜᴍ
 
   - **fawcilon** _n._ (fawci+lon)  
   indifferent
@@ -8816,7 +8801,7 @@ feijoada
   - **fawcilum** _n._ (fawci+lum)  
   fringe; secondary; unimportant
 
-  - **fawciki** _v._ (~~sayhu~~)  
+  - **fawciki** _v._ (fawci+ki)  
   make unimportant; devalue; ʟєꜱ makes ʟᴏᴧ stop caring about ʟᴜᴍ
 
 - **fan** _n._ (Cmn. &langle;饭&rangle; [fan˥˩])  
@@ -8858,11 +8843,11 @@ France
   - **'fahansetilip** _n._ ('fahanse+tilip)  
   French; the French language
 
-  - **fak** _num._ (~~san~~)  
-  D; thirteen; baker's dozen; only used for hexadecimal
+- **fak** _num._ (~~san~~)  
+D; thirteen; baker's dozen; only used for hexadecimal
 
-  - **fake** _v._ (~~sano~~)  
-  be sick; be ill; ʟᴏᴧ is sick
+- **fake** _v._ (~~sano~~)  
+be sick; be ill; ʟᴏᴧ is sick
 
   - **fakelon** _n._ (fake+lon)  
   sick; ill
@@ -8870,7 +8855,7 @@ France
   - **fakelip** _n._ (fake+lip)  
   sickness; disease; illness
 
-  - **fakeki** _v._ (~~sano~~)  
+  - **fakeki** _v._ (fake+ki)  
   sicken; poison; ʟєꜱ sickens ʟᴏᴧ
 
   - **fakekiles** _n._ (fakeki+les)  
@@ -8972,8 +8957,8 @@ be foamy; be spongy; be fluffy; ʟᴏᴧ is foamy
 - **'fosfolus** _n._ (Lat. &langle;phosphorus&rangle; [fosfɔrus])  
 phosphorus
 
-  - **fotlu** _v._ (~~selti~~)  
-  be skeptical; be improbable; be unlikely; ʟᴜᴍ is unlikely to happen according to ʟᴏᴧ
+- **fotlu** _v._ (~~selti~~)  
+be skeptical; be improbable; be unlikely; ʟᴜᴍ is unlikely to happen according to ʟᴏᴧ
 
   - **fotlulon** _n._ (fotlu+lon)  
   skeptic; skeptical
@@ -8981,11 +8966,11 @@ phosphorus
   - **fotlulum** _n._ (fotlu+lum)  
   improbable; unlikely
 
-  - **fotluki** _v._ (~~selti~~)  
+  - **fotluki** _v._ (fotlu+ki)  
   unconvince; become skeptical; ʟєꜱ provides new information that leads ʟᴜᴍ comes to beI ʟᴏᴧ improbable
 
-  - **fotwe** _v._ (~~selyo~~)  
-  be funny; amuse; be silly; be ironic; goof off; ʟᴜᴍ is funny to ʟᴏᴧ
+- **fotwe** _v._ (~~selyo~~)  
+be funny; amuse; be silly; be ironic; goof off; ʟᴜᴍ is funny to ʟᴏᴧ
 
   - **fotwelon** _n._ (fotwe+lon)  
   goof; ironic
@@ -8993,7 +8978,7 @@ phosphorus
   - **fotwelum** _n._ (fotwe+lum)  
   amusing; funny; silly
 
-  - **fotweki** _v._ (~~selyo~~)  
+  - **fotweki** _v._ (fotwe+ki)  
   mock; make fun; ʟєꜱ makes ʟᴏᴧ stop taking ʟᴜᴍ seriously
 
 - **'fi** _n._ (Grc. &langle;φ&rangle; [pʰi])  
@@ -9029,8 +9014,8 @@ viola
 - **'fiolino** _n._ (Ita. &langle;violino&rangle; [vioˈlino])  
 violin
 
-  - **fila** _v._ (~~suta~~)  
-  be north; ʟᴏᴧ has a higher latitude than ʟᴜᴍ
+- **fila** _v._ (~~suta~~)  
+be north; ʟᴏᴧ has a higher latitude than ʟᴜᴍ
 
   - **fila'elyatec** _n._ (fila+'elyatec)  
   Northern Irish; the Northern Irish people
@@ -9089,7 +9074,7 @@ Palestine
   - **'filastinkwelyot** _n._ ('filastin+kwelyot)  
   Palestine (region)
 
-  - **filaki** _v._ (~~suta~~)  
+  - **filaki** _v._ (fila+ki)  
   go north; ʟєꜱ increases the latitude of ʟᴏᴧ relative to ʟᴜᴍ
 
   - **fila'kiplostec** _n._ (fila+'kiplostec)  
@@ -9131,8 +9116,8 @@ Fiji (archipelago)
   - **'ficitilip** _n._ ('fici+tilip)  
   Fijian; the Fijian language
 
-  - **fik** _n._ (~~sun~~)  
-  moon; satellite; solid object gravitationally orbiting another
+- **fik** _n._ (~~sun~~)  
+moon; satellite; solid object gravitationally orbiting another
 
   - **fikak** _n._ (fik+ak)  
   lunar
@@ -9200,13 +9185,13 @@ have faith; be faithful; hope; ʟᴏᴧ faithfully believes in ʟᴜᴍ
   - **fitiki** _v._ (fiti+ki)  
   give faith; take faith; build up hope; ʟєꜱ causes ʟᴏᴧ to gain faith in ʟᴜᴍ
 
-  - **fulo** _v._ (~~site~~)  
-  be wavy; be curly; be bent; be bumpy; ʟᴏᴧ is wavy
+- **fulo** _v._ (~~site~~)  
+be wavy; be curly; be bent; be bumpy; ʟᴏᴧ is wavy
 
   - **fulolon** _n._ (fulo+lon)  
   squiggle; wave; curl; wavy; curly; bent; bumpy
 
-  - **fuloki** _v._ (~~site~~)  
+  - **fuloki** _v._ (fulo+ki)  
   bend; flex; curl; kink; ʟєꜱ bends ʟᴏᴧ
 
   - **fulokiles** _n._ (fuloki+les)  
@@ -9236,8 +9221,8 @@ have faith; be faithful; hope; ʟᴏᴧ faithfully believes in ʟᴜᴍ
 - **'fuluolum** _n._ (Lat. &langle;fluorum&rangle; [flʊorʊ̃])  
 fluorine
 
-  - **funta** _v._ (~~sikla~~)  
-  be square; be rectangular; be right; ʟᴏᴧ is rectangular
+- **funta** _v._ (~~sikla~~)  
+be square; be rectangular; be right; ʟᴏᴧ is rectangular
 
   - **funtalet** _n._ (funta+let)  
   grid; hatch
@@ -9254,8 +9239,8 @@ fluorine
   - **funtaki** _v._ (funta+ki)  
   square; rectify; right; ʟєꜱ makes ʟᴏᴧ rectangular
 
-  - **fuha** _v._ (~~sica~~)  
-  be loud; be bright; be strong; ʟᴏᴧ is bright
+- **fuha** _v._ (~~sica~~)  
+be loud; be bright; be strong; ʟᴏᴧ is bright
 
   - **fuhalon** _n._ (fuha+lon)  
   loud; bright; strong
@@ -9266,7 +9251,7 @@ fluorine
   - **fuhalwel** _n._ (fuha+lwel)  
   daytime; day
 
-  - **fuhaki** _v._ (~~sica~~)  
+  - **fuhaki** _v._ (fuha+ki)  
   amplify; louden; brighten; strengthen; crescendo; ʟєꜱ amplifies ʟᴏᴧ
 
   - **fuhakiles** _n._ (fuhaki+les)  
@@ -9299,8 +9284,8 @@ American football
 - **'futpol** _n._ (Eng. &langle;football&rangle; [ˈfʊʔbɔːl])  
 football; soccer
 
-  - **fyamo** _v._ (~~swape~~)  
-  be rough; be abrasive; be sharp; ʟᴏᴧ is rough
+- **fyamo** _v._ (~~swape~~)  
+be rough; be abrasive; be sharp; ʟᴏᴧ is rough
 
   - **fyamolon** _n._ (fyamo+lon)  
   rough; abrasive; sharp
@@ -9308,7 +9293,7 @@ football; soccer
   - **fyamohwok** _n._ (fyamo+hwok)  
   sandpaper
 
-  - **fyamoki** _v._ (~~swape~~)  
+  - **fyamoki** _v._ (fyamo+ki)  
   roughen; rough up; scratch; ʟєꜱ roughens ʟᴏᴧ
 
 - **'fyoloncelo** _n._ (Ita. &langle;violoncello&rangle; [vjolonˈt͡ʃɛllo])  
@@ -9340,8 +9325,8 @@ Gael; the Gaelic people
   - **'kealtilip** _n._ ('keal+tilip)  
   Goidelic; Gaelic; a Goidelic language
 
-  - **kela** _v._ (~~nota~~)  
-  be oblivious; be unaware; ʟᴏᴧ fails to notice the presence of ʟᴜᴍ
+- **kela** _v._ (~~nota~~)  
+be oblivious; be unaware; ʟᴏᴧ fails to notice the presence of ʟᴜᴍ
 
   - **kelalon** _n._ (kela+lon)  
   oblivious; unaware
@@ -9349,7 +9334,7 @@ Gael; the Gaelic people
   - **kelalum** _n._ (kela+lum)  
   inconspicuous; stealthy
 
-  - **kelaki** _v._ (~~nota~~)  
+  - **kelaki** _v._ (kela+ki)  
   hide; obscure; ʟєꜱ hides ʟᴜᴍ from ʟᴏᴧ
 
   - **kelakiles** _n._ (kelaki+les)  
@@ -9487,13 +9472,13 @@ Island Carib; the Carib people; the Kalinago people
   - **'kalinakotilip** _n._ ('kalinako+tilip)  
   Island Carib; Igneri
 
-  - **kalita** _v._ (~~natula~~)  
-  be artificial; be unnatural; ʟᴏᴧ is artificial
+- **kalita** _v._ (~~natula~~)  
+be artificial; be unnatural; ʟᴏᴧ is artificial
 
   - **kalitalon** _n._ (kalita+lon)  
   artificial; unnatural
 
-  - **kalitaki** _v._ (~~natula~~)  
+  - **kalitaki** _v._ (kalita+ki)  
   process; artificialise; ʟєꜱ makes ʟᴏᴧ become artificial
 
 - **'kalcium** _n._ (Lat. &langle;calcium&rangle; [kalt͡ʃɪʊ̃])  
@@ -9520,8 +9505,8 @@ Georgian; the Georgian people
 - **'kawai** _n._ (Jpn. &langle;かわいい&rangle; [kaɰaiː])  
 kawaii
 
-- **'kawtay** _n._ (Vie. &langle;Cao Đài>)  
-Cao Đài; Cao Đài Tiên Ông Đại Bồ Tát Ma Ha Tát
+  - **'kawtay** _n._ (Vie. &langle;Cao Đài>)  
+  Cao Đài; Cao Đài Tiên Ông Đại Bồ Tát Ma Ha Tát
 
   - **'kawtayfitilip** _n._ ('kawtay+fitilip)  
   Caodaism; Đại Đạo Tam Kỳ Phổ Độ; the Cao Đài religion
@@ -9841,8 +9826,8 @@ Gabon
   - **'kaponwon** _n._ ('kapon+won)  
   Gabonese; Gabonaise; the Gabonese people
 
-- **'kapufelti** _n._ (Por. &langle;Cabo Verde>)  
-Cabo Verde; Cape Verde (archipelago)
+  - **'kapufelti** _n._ (Por. &langle;Cabo Verde>)  
+  Cabo Verde; Cape Verde (archipelago)
 
   - **'kapufeltiak** _n._ ('kapufelti+ak)  
   Cabo Verdean; Cape Verdean; from Cabo Verde
@@ -9856,8 +9841,8 @@ Cabo Verde; Cape Verde (archipelago)
   - **'kapufeltitilip** _n._ ('kapufelti+tilip)  
   Cape Verdean Creole
 
-  - **ko** _v._ (~~ne~~)  
-  be outside; be outer; be out; be peripheral; ʟᴏᴧ is outside of ʟᴜᴍ
+- **ko** _v._ (~~ne~~)  
+be outside; be outer; be out; be peripheral; ʟᴏᴧ is outside of ʟᴜᴍ
 
 - **'ko** _n._ (ono. [k])  
 k; /k/; velar plosive
@@ -9871,8 +9856,8 @@ koala; wombat; Vombatiformes
 - **kol** _n._ (Spa. &langle;col&rangle; [kol])  
 cabbage; cauliflower; broccoli; kale; Brussels sprouts; collard greens; savoy; kohlrabi; gai lan; Brassica oleracea
 
-  - **kola** _v._ (~~neta~~)  
-  be chaotic; be disorganised; be messy; be in disarray; be askance; ʟᴏᴧ is chaotic
+- **kola** _v._ (~~neta~~)  
+be chaotic; be disorganised; be messy; be in disarray; be askance; ʟᴏᴧ is chaotic
 
   - **kolalon** _n._ (kola+lon)  
   chaotic; disorganised; messy; in disarray; askance
@@ -9880,7 +9865,7 @@ cabbage; cauliflower; broccoli; kale; Brussels sprouts; collard greens; savoy; k
   - **kolalyan** _n._ (kola+lyan)  
   entropy; chaos
 
-  - **kolaki** _v._ (~~neta~~)  
+  - **kolaki** _v._ (kola+ki)  
   disorganise; mess up; disrupt; trash; throw into chaos; ʟєꜱ puts ʟᴏᴧ into chaos
 
   - **kolakiles** _n._ (kolaki+les)  
@@ -10069,8 +10054,8 @@ Kosovo; the Republic of Kosovo
   - **'kosowawon** _n._ ('kosowa+won)  
   Kosovan; Kosovar; the Kosovan people
 
-- **'kostalika** _n._ (Spa. &langle;Costa Rica>)  
-Costa Rica
+  - **'kostalika** _n._ (Spa. &langle;Costa Rica>)  
+  Costa Rica
 
   - **'kostalikaak** _n._ ('kostalika+ak)  
   Costa Rican; from Costa Rica
@@ -10093,7 +10078,7 @@ cost; be expensive; ʟᴏᴧ costs a lot
 - **'kof** _n._ (Eng. &langle;golf&rangle; [ɡɒf])  
 golf
 
-  - **koki** _v._ (~~ne~~)  
+  - **koki** _v._ (ko+ki)  
   exit; remove; release; escape; take out; extract; emerge; ʟєꜱ moves ʟᴏᴧ out of ʟᴜᴍ
 
   - **kokilyot** _n._ (koki+lyot)  
@@ -10117,8 +10102,8 @@ god; deity; superhuman entity worshiped as having great influence over reality, 
   - **kotilon** _n._ (koti+lon)  
   metadata; comment; commentary
 
-- **'kotifwah** _n._ (Fra. &langle;Côte d'Ivoire>)  
-Ivory Coast; Côte d'Ivoire
+  - **'kotifwah** _n._ (Fra. &langle;Côte d'Ivoire>)  
+  Ivory Coast; Côte d'Ivoire
 
   - **'kotifwahak** _n._ ('kotifwah+ak)  
   Ivorian; from Ivory Coast
@@ -10240,8 +10225,8 @@ Dominican Republic
   - **'kiskeyawon** _n._ ('kiskeya+won)  
   Quisqueyan; the people of the Dominican Republic
 
-  - **kit** _num._ (~~nul~~)  
-  all; absolute; maximum; exact
+- **kit** _num._ (~~nul~~)  
+all; absolute; maximum; exact
 
   - **kitak** _n._ (kit+ak)  
   last; universal
@@ -10507,8 +10492,8 @@ spin; rotate; revolve; ʟᴏᴧ is spinning about ʟᴜᴍ
   - **kumnatupan** _n._ (kumna+tupan)  
   hurricane; typhoon
 
-  - **kuho** _v._ (~~nice~~)  
-  be above; be up; be high; ʟєꜱ appears below ʟᴏᴧ from the point of view of ʟᴜᴍ
+- **kuho** _v._ (~~nice~~)  
+be above; be up; be high; ʟєꜱ appears below ʟᴏᴧ from the point of view of ʟᴜᴍ
 
 - **kuhol** _n._ (Fil. &langle;kuhol&rangle; [kuhol])  
 slug; land slug; shell-less terrestrial gastropod mollusc
@@ -10519,7 +10504,7 @@ slug; land slug; shell-less terrestrial gastropod mollusc
   - **kuholon** _n._ (kuho+lon)  
   above; up; high
 
-  - **kuhoki** _v._ (~~nice~~)  
+  - **kuhoki** _v._ (kuho+ki)  
   go up; raise; rise; ʟєꜱ makes ʟᴏᴧ appear to move up from the point of view of ʟᴜᴍ
 
   - **kuhokiles** _n._ (kuhoki+les)  
@@ -10546,8 +10531,8 @@ be happy; be joyful; ʟᴏᴧ feels happy
 - **'kuskus** _n._ (Ara. &langle;كسكس&rangle; [kuskus])  
 couscous
 
-- **'kukaylan** _n._ (Eng. &langle;Cook Islands>)  
-Cook Islands (archipelago)
+  - **'kukaylan** _n._ (Eng. &langle;Cook Islands>)  
+  Cook Islands (archipelago)
 
   - **'kukaylanak** _n._ ('kukaylan+ak)  
   Cook Island; Cook Islander; from the Cook Islands
@@ -10573,8 +10558,8 @@ baby; infant; newborn; very young and underdeveloped animal
 - **kukulik** _n._ (ono. [kuk)  
 chicken; chick; junglefowl; Gallus
 
-  - **kuta** _v._ (~~nila~~)  
-  be orange; be warm; ʟᴏᴧ reflects long and medium wavelength light
+- **kuta** _v._ (~~nila~~)  
+be orange; be warm; ʟᴏᴧ reflects long and medium wavelength light
 
   - **kutalais** _n._ (kuta+lais)  
   carrot
@@ -10585,7 +10570,7 @@ chicken; chick; junglefowl; Gallus
   - **kutaceluk** _n._ (kuta+celuk)  
   orange; mandarin; tangerine
 
-  - **kutaki** _v._ (~~nila~~)  
+  - **kutaki** _v._ (kuta+ki)  
   colour orange; ʟєꜱ colours ʟᴏᴧ orange
 
   - **kutakwah** _n._ (kuta+kwah)  
@@ -10639,8 +10624,8 @@ Cuba
   - **'kupawon** _n._ ('kupa+won)  
   Cuban; the Cuban people
 
-  - **kwe** _v._ (~~nyo~~)  
-  yes; be true; be right; be correct; be real; be happening; _positive_; ʟᴏᴧ is happening
+- **kwe** _v._ (~~nyo~~)  
+yes; be true; be right; be correct; be real; be happening; _positive_; ʟᴏᴧ is happening
 
   - **kwelayf** _n._ (kwe+layf)  
   condition; world
@@ -11130,8 +11115,8 @@ Thai; Siamese; the Thai people
   - **'tayak** _n._ ('tay+ak)  
   Thai; from Thailand
 
-  - **tayl** _n._ (~~lawt~~)  
-  land; landmass; solid surface above and surrounded by ocean
+- **tayl** _n._ (~~lawt~~)  
+land; landmass; solid surface above and surrounded by ocean
 
   - **taylalkas** _n._ (tayl+alkas)  
   moss; liverwort; hornwort
@@ -11277,8 +11262,8 @@ Tamil; Tamilian; the Tamil people
   - **'tamiltilip** _n._ ('tamil+tilip)  
   Tamil; the Tamil language
 
-  - **tafu** _v._ (~~lasi~~)  
-  hurt; be in pain; ʟᴜᴍ hurts ʟᴏᴧ
+- **tafu** _v._ (~~lasi~~)  
+hurt; be in pain; ʟᴜᴍ hurts ʟᴏᴧ
 
   - **tafulon** _n._ (tafu+lon)  
   in pain
@@ -11292,7 +11277,7 @@ Tamil; Tamilian; the Tamil people
   - **tafunihuti** _v._ (tafunihu+ti)  
   congratulate; apologise; ʟєꜱ expresses sympathy to ʟᴏᴧ
 
-  - **tafuki** _v._ (~~lasi~~)  
+  - **tafuki** _v._ (tafu+ki)  
   torture; inflict pain; ʟєꜱ causes ʟᴏᴧ to be pained by ʟᴜᴍ
 
   - **tafukiles** _n._ (tafuki+les)  
@@ -11352,8 +11337,8 @@ be metal; be metallic; ʟᴏᴧ is made out of metal
   - **tatuki** _v._ (tatu+ki)  
   metallicise; ʟєꜱ turns ʟᴏᴧ into metal
 
-  - **tapa** _v._ (~~lama~~)  
-  be short; ʟᴏᴧ is short in time or space
+- **tapa** _v._ (~~lama~~)  
+be short; ʟᴏᴧ is short in time or space
 
 - **'tapa** _n._ (Tah. &langle;tapa&rangle; [tapa])  
 tapa; tapa cloth
@@ -11364,7 +11349,7 @@ tapa; tapa cloth
   - **tapafuloki** _v._ (tapa+fuloki)  
   compress; squeeze; ʟєꜱ compresses ʟᴏᴧ
 
-  - **tapaki** _v._ (~~lama~~)  
+  - **tapaki** _v._ (tapa+ki)  
   shorten; shrink; ʟєꜱ shortens ʟᴏᴧ
 
   - **tapakiles** _n._ (tapaki+les)  
@@ -11376,8 +11361,8 @@ tapa; tapa cloth
 - **tapil** _n._ (Spa. &langle;tapir&rangle; [taˈpir])  
 tapir; Tapiridae
 
-  - **to** _v._ (~~le~~)  
-  be rested; be energetic; be bright; have a bushy tail; ʟᴏᴧ is well-rested
+- **to** _v._ (~~le~~)  
+be rested; be energetic; be bright; have a bushy tail; ʟᴏᴧ is well-rested
 
 - **'toyc** _n._ (Deu. &langle;Deutsch&rangle; [ˈdɔʏ̯t͡ʃ])  
 German; the German people
@@ -11481,13 +11466,13 @@ Tajik; the Tajik people
   - **toskwelwel** _n._ (tos+kwelwel)  
   second
 
-  - **tofta** _v._ (~~lesla~~)  
-  be inviscous; be thin; ʟᴏᴧ is inviscous
+- **tofta** _v._ (~~lesla~~)  
+be inviscous; be thin; ʟᴏᴧ is inviscous
 
   - **toftalon** _n._ (tofta+lon)  
   lubricant; oil; liquid; inviscous; thin
 
-  - **toftaki** _v._ (~~lesla~~)  
+  - **toftaki** _v._ (tofta+ki)  
   thin; decrease viscosity; ʟєꜱ makes ʟᴏᴧ less viscous
 
   - **toftakiles** _n._ (toftaki+les)  
@@ -11541,11 +11526,11 @@ Togo
   - **tokoki** _v._ (toko+ki)  
   sour; ʟєꜱ makes ʟᴏᴧ become sour
 
-  - **toki** _v._ (~~le~~)  
+  - **toki** _v._ (to+ki)  
   rest; recharge; ʟєꜱ makes ʟᴏᴧ feel rested
 
-- **'tokipona** _n._ (Tok. &langle;toki pona>)  
-Toki Pona
+  - **'tokipona** _n._ (Tok. &langle;toki pona>)  
+  Toki Pona
 
   - **'tokiponaak** _n._ ('tokipona+ak)  
   Toki Pona; in Toki Pona
@@ -11556,8 +11541,8 @@ Toki Pona
 - **'tokyo** _n._ (Jpn. &langle;東京&rangle; [toːkʲoː])  
 Tokyo
 
-  - **toto** _v._ (~~lele~~)  
-  struggle; be-bad; ʟᴏᴧ is not doing well
+- **toto** _v._ (~~lele~~)  
+struggle; be-bad; ʟᴏᴧ is not doing well
 
 - **'topeykow** _n._ (Eng. &langle;Tobago&rangle; [təbeɪɡəʊ])  
 Tobago
@@ -11598,8 +11583,8 @@ be across; be transverse; straddle; be perpendicular; ʟᴏᴧ is across ʟᴜ�
   - **tilon** _n._ (ti+lon)  
   addressee
 
-- **'tili** _n._ (Hin. &langle;दिल्ली >)  
-Delhi
+  - **'tili** _n._ (Hin. &langle;दिल्ली >)  
+  Delhi
 
   - **tilip** _n._ (ti+lip)  
   language; protocol
@@ -11691,8 +11676,8 @@ Timor (landmass)
   - **'timolak** _n._ ('timol+ak)  
   Timorese; from Timor
 
-  - **tihu** _v._ (~~luci~~)  
-  be green; ʟᴏᴧ reflects medium and long wavelength light
+- **tihu** _v._ (~~luci~~)  
+be green; ʟᴏᴧ reflects medium and long wavelength light
 
   - **tihulon** _n._ (tihu+lon)  
   green
@@ -11700,7 +11685,7 @@ Timor (landmass)
   - **tihuceluk** _n._ (tihu+celuk)  
   lime
 
-  - **tihuki** _v._ (~~luci~~)  
+  - **tihuki** _v._ (tihu+ki)  
   green; colour green; ʟєꜱ colours ʟᴏᴧ green
 
   - **tihukio** _v._ (tihu+kio)  
@@ -11721,8 +11706,8 @@ Timor (landmass)
 - **'ticat** _n._ (Eng. &langle;T-shirt&rangle; [tʰiː)  
 T-shirt
 
-  - **tife** _v._ (~~luso~~)  
-  be inept; be unskillful; be ineffective; be bad; ʟᴏᴧ is bad at causing ʟᴜᴍ
+- **tife** _v._ (~~luso~~)  
+be inept; be unskillful; be ineffective; be bad; ʟᴏᴧ is bad at causing ʟᴜᴍ
 
   - **tifelon** _n._ (tife+lon)  
   inept; unskillful; ineffective; bad
@@ -11730,7 +11715,7 @@ T-shirt
   - **tifecoh** _n._ (tife+coh)  
   nondominant hand
 
-  - **tifeki** _v._ (~~luso~~)  
+  - **tifeki** _v._ (tife+ki)  
   untrain; forget; become rusty; ʟєꜱ makes ʟᴏᴧ become unskillful at ʟᴜᴍ
 
   - **tifekiles** _n._ (tifeki+les)  
@@ -11745,17 +11730,17 @@ bulrush; reed; cattail; water sausage; Typha
 - **tik** _n._ (Mar. &langle;टिक&rangle; [ʈik])  
 tick; mite; Acari
 
-  - **tika** _v._ (~~luna~~)  
-  be unsalty; ʟᴏᴧ is not salty
+- **tika** _v._ (~~luna~~)  
+be unsalty; ʟᴏᴧ is not salty
 
   - **tikalon** _n._ (tika+lon)  
   unsalty
 
-  - **tikaki** _v._ (~~luna~~)  
+  - **tikaki** _v._ (tika+ki)  
   desalt; purify; ʟєꜱ makes ʟᴏᴧ less salty
 
-  - **tiku** _v._ (~~luni~~)  
-  be unlikely; be weird; be remarkable; be rare; be unexpected; be strange; ʟᴏᴧ is unlikely
+- **tiku** _v._ (~~luni~~)  
+be unlikely; be weird; be remarkable; be rare; be unexpected; be strange; ʟᴏᴧ is unlikely
 
   - **tikulon** _n._ (tiku+lon)  
   coincidence; unlikely; weird; remarkable; rare; unexpected; strange
@@ -11763,7 +11748,7 @@ tick; mite; Acari
   - **tikulyan** _n._ (tiku+lyan)  
   rarity; weirdness
 
-  - **tikuki** _v._ (~~luni~~)  
+  - **tikuki** _v._ (tiku+ki)  
   decrease chances; ʟєꜱ makes ʟᴏᴧ less likely
 
   - **tikpic** _n._ (tik+pic)  
@@ -12030,8 +12015,8 @@ be rhythmic; pulse; cycle; oscillate; flash; beat; ʟᴏᴧ happens rhythmically
   - **tutumutilum** _n._ (tutumu+tilum)  
   magazine; periodical
 
-  - **tup** _num._ (~~lim~~)  
-  B; eleven; only used for duodecimal and hexadecimal
+- **tup** _num._ (~~lim~~)  
+B; eleven; only used for duodecimal and hexadecimal
 
 - **tupel** _n._ (Epo. &langle;tubero&rangle; [tuˈbero])  
 tuber; enlarged nutrient-storing structure of a plant
@@ -12089,8 +12074,8 @@ over; division; fraction
   - **peles** _n._ (pe+les)  
   accompanied
 
-  - **pela** _v._ (~~mota~~)  
-  be small; be little; ʟᴏᴧ has a low volume
+- **pela** _v._ (~~mota~~)  
+be small; be little; ʟᴏᴧ has a low volume
 
   - **pelaicilon** _n._ (pela+icilon)  
   plankton
@@ -12140,7 +12125,7 @@ Palau; Belau; Palaos; Pelew (landmass)
   - **pelakol** _n._ (pela+kol)  
   Brussels sprouts
 
-  - **pelaki** _v._ (~~mota~~)  
+  - **pelaki** _v._ (pela+ki)  
   shrink; contract; constrict; ʟєꜱ shrinks ʟᴏᴧ
 
   - **pelakiles** _n._ (pelaki+les)  
@@ -12197,8 +12182,8 @@ Belgium
   - **peltososolon** _n._ (peltososo+lon)  
   majority; most
 
-  - **pewo** _v._ (~~moye~~)  
-  misunderstand; be confused; be cryptic; ʟᴏᴧ does not understand ʟᴜᴍ well
+- **pewo** _v._ (~~moye~~)  
+misunderstand; be confused; be cryptic; ʟᴏᴧ does not understand ʟᴜᴍ well
 
   - **pewolon** _n._ (pewo+lon)  
   confused
@@ -12206,7 +12191,7 @@ Belgium
   - **pewolum** _n._ (pewo+lum)  
   misunderstood; cryptic
 
-  - **pewoki** _v._ (~~moye~~)  
+  - **pewoki** _v._ (pewo+ki)  
   confuse; unlearn; ʟєꜱ makes ʟᴏᴧ stop understanding ʟᴜᴍ
 
   - **pewokiles** _n._ (pewoki+les)  
@@ -12269,8 +12254,8 @@ Bering; Vitus Jonassen Bering; Ivan Ivanovich Bering
   - **'pehenlawt** _n._ ('pehen+lawt)  
   Bering Sea
 
-  - **peha** _v._ (~~moca~~)  
-  be bored; ʟᴏᴧ is bored by ʟᴜᴍ
+- **peha** _v._ (~~moca~~)  
+be bored; ʟᴏᴧ is bored by ʟᴜᴍ
 
   - **pehalon** _n._ (peha+lon)  
   bored
@@ -12284,7 +12269,7 @@ Bering; Vitus Jonassen Bering; Ivan Ivanovich Bering
   - **pehafakelon** _n._ (pehafake+lon)  
   sober; dry
 
-  - **pehaki** _v._ (~~moca~~)  
+  - **pehaki** _v._ (peha+ki)  
   bore; tire; kill joy; ʟєꜱ makes ʟᴏᴧ be bored by ʟᴜᴍ
 
   - **pehakifake** _v._ (peha+ki+fake)  
@@ -12638,8 +12623,8 @@ Bahá'í; the Bahá'í Faith; Bahaism
   - **'pahaiwon** _n._ ('pahai+won)  
   Bahá'í; followers of Bahá'u'lláh
 
-- **'pahama** _n._ (Eng. &langle;The Bahamas>)  
-The Bahamas
+  - **'pahama** _n._ (Eng. &langle;The Bahamas>)  
+  The Bahamas
 
   - **'pahamaak** _n._ ('pahama+ak)  
   Bahamian; from the Bahamas
@@ -12740,13 +12725,13 @@ Pakistan
   - **'pakistantilip** _n._ ('pakistan+tilip)  
   Urdu; the Urdu language
 
-  - **pakha** _v._ (~~manca~~)  
-  be to the left; ʟᴏᴧ has a negative _x_ coordinate from ʟᴜᴍ's point of view
+- **pakha** _v._ (~~manca~~)  
+be to the left; ʟᴏᴧ has a negative _x_ coordinate from ʟᴜᴍ's point of view
 
   - **pakhalon** _n._ (pakha+lon)  
   left side; to the left
 
-  - **pakhaki** _v._ (~~manca~~)  
+  - **pakhaki** _v._ (pakha+ki)  
   go left; ʟєꜱ makes ʟᴏᴧ move left from ʟᴜᴍ's point of view
 
 - **paktel** _n._ (Jav. &langle;baktèri&rangle; [pɑ̤ktɛɽi])  
@@ -12781,9 +12766,6 @@ be stone; be rock; be earthen; ʟᴏᴧ is made out of earth
 
   - **patoufatayl** _n._ (patoufa+tayl)  
   desert
-
-  - **patoufataylak** _n._ (patoufatayl+ak)  
-  desert; deserted
 
   - **patolon** _n._ (pato+lon)  
   stone; rock; earthen
@@ -12833,8 +12815,8 @@ Barbados (landmass)
 - **'papilim** _n._ (Akk. &langle;𒆍𒀭𒊏𒆠&rangle; [baːbili])  
 Babylon
 
-- **'papua** _n._ (Tpi. &langle;Papua Niugini>)  
-Papua New Guinea
+  - **'papua** _n._ (Tpi. &langle;Papua Niugini>)  
+  Papua New Guinea
 
   - **'papuaak** _n._ ('papua+ak)  
   Papua New Guinean; Papuan; from Papua New Guinea
@@ -12914,8 +12896,8 @@ bounce; spring; ʟєꜱ bounces ʟᴏᴧ off of ʟᴜᴍ
 - **'polalis** _n._ (Lat. &langle;Polaris&rangle; [polaris])  
 Polaris; the North Star
 
-- **'polalisawstalis** _n._ (Lat. &langle;Polaris Australis>)  
-Sigma Octantis; Polaris Australis; the South Star
+  - **'polalisawstalis** _n._ (Lat. &langle;Polaris Australis>)  
+  Sigma Octantis; Polaris Australis; the South Star
 
   - **polalip** _n._ (pola+lip)  
   accent; manner of speech
@@ -13067,11 +13049,11 @@ Bosna; the River Bosna
   - **'posnatilip** _n._ ('posna+tilip)  
   Bosnian; the Bosnian language
 
-  - **pok** _num._ (~~men~~)  
-  positive; plus
+- **pok** _num._ (~~men~~)  
+positive; plus
 
-- **'poksimacentawli** _n._ (Lat. &langle;Proxima Centauri>)  
-Proxima Centauri
+  - **'poksimacentawli** _n._ (Lat. &langle;Proxima Centauri>)  
+  Proxima Centauri
 
 - **'potasium** _n._ (Lat. &langle;potassium&rangle; [pɔtassɪʊ̃])  
 potassium
@@ -13163,8 +13145,8 @@ virus
   - **pilmuf** _n._ (pil+muf)  
   goat
 
-  - **pih** _num._ (~~muc~~)  
-  little; few; slight
+- **pih** _num._ (~~muc~~)  
+little; few; slight
 
   - **pihonalon** _n._ (pih+onalon)  
   hut; cottage
@@ -13394,8 +13376,8 @@ Burkina Faso
   - **'puhkinafasowon** _n._ ('puhkinafaso+won)  
   Burkinabé; the Burkinabé people
 
-  - **puhte** _v._ (~~miclo~~)  
-  be pure; ʟᴏᴧ is pure of ʟᴜᴍ
+- **puhte** _v._ (~~miclo~~)  
+be pure; ʟᴏᴧ is pure of ʟᴜᴍ
 
   - **puhtelon** _n._ (puhte+lon)  
   pure
@@ -13403,7 +13385,7 @@ Burkina Faso
   - **puhtecwelon** _n._ (puhte+cwelon)  
   freshwater
 
-  - **puhteki** _v._ (~~miclo~~)  
+  - **puhteki** _v._ (puhte+ki)  
   purify; precipitate; extract; ʟєꜱ purifies ʟᴏᴧ of ʟᴜᴍ
 
   - **puhtekilum** _n._ (puhteki+lum)  
@@ -13436,8 +13418,8 @@ push; repell; ʟєꜱ pushes on ʟᴏᴧ
   - **pucilon** _n._ (puci+lon)  
   pushed
 
-  - **puk** _pn._ (~~min~~)  
-  you; _second person_; the listener
+- **puk** _pn._ (~~min~~)  
+you; _second person_; the listener
 
   - **puket** _pn._ (puk+et)  
   y'all; _second person plural_; the listener and others
@@ -13577,8 +13559,8 @@ fear; be scared; be afraid; ʟᴏᴧ is afraid of ʟᴜᴍ
   - **pyopowilon** _n._ (pyopowi+lon)  
   timid; skittish
 
-- **'pwenosayles** _n._ (Spa. &langle;Buenos Aires>)  
-Buenos Aires
+  - **'pwenosayles** _n._ (Spa. &langle;Buenos Aires>)  
+  Buenos Aires
 
 - **'pwitan** _n._ (Eng. &langle;Britain&rangle; [ˈbɹʷɪʔən])  
 British Isles; Britain

@@ -114,8 +114,8 @@
 - **en** _spec._ (Eng. &langle;any&rangle; [ˈɛni])  
 
 
-  - **eni** _v._ (~~oku~~)  
-  
+- **eni** _v._ (~~oku~~)  
+
 
   - **eniufa** _v._ (eni+ufa)  
   
@@ -141,16 +141,13 @@
   - **enisison** _n._ (eni+sison)  
   
 
-  - **eniki** _v._ (~~oku~~)  
+  - **eniki** _v._ (eni+ki)  
   
 
   - **enikiles** _n._ (eniki+les)  
   
 
   - **enitayl** _n._ (eni+tayl)  
-  
-
-  - **enitaylak** _n._ (enitayl+ak)  
   
 
 - **'emalati** _n._ (Ara. &langle;إماراتيين‎&rangle; [ʔemaːraːti])  
@@ -162,13 +159,13 @@
   - **'emalatitec** _n._ ('emalati+tec)  
   
 
-  - **emana** _v._ (~~opaka~~)  
-  
+- **emana** _v._ (~~opaka~~)  
+
 
   - **emanalon** _n._ (emana+lon)  
   
 
-  - **emanaki** _v._ (~~opaka~~)  
+  - **emanaki** _v._ (emana+ki)  
   
 
   - **emanapato** _v._ (emana+pato)  
@@ -306,13 +303,13 @@
 - **'espaketi** _n._ (Ita. &langle;spaghetti&rangle; [spaˈɡetti])  
 
 
-  - **efe** _v._ (~~oso~~)  
-  
+- **efe** _v._ (~~oso~~)  
+
 
   - **efelon** _n._ (efe+lon)  
   
 
-  - **efeki** _v._ (~~oso~~)  
+  - **efeki** _v._ (efe+ki)  
   
 
   - **efekiles** _n._ (efeki+les)  
@@ -348,8 +345,8 @@
   - **et yot** _n._ (et +yot)  
   
 
-  - **etle** _v._ (~~olto~~)  
-  
+- **etle** _v._ (~~olto~~)  
+
 
   - **etlelon** _n._ (etle+lon)  
   
@@ -357,7 +354,7 @@
   - **etlelyan** _n._ (etle+lyan)  
   
 
-  - **etleki** _v._ (~~olto~~)  
+  - **etleki** _v._ (etle+ki)  
   
 
   - **et wel** _n._ (et +wel)  
@@ -446,8 +443,8 @@
 - **'aloha** _n._ (Haw. &langle;aloha&rangle; [əˈloha])  
 
 
-  - **alik** _n._ (~~atun~~)  
-  
+- **alik** _n._ (~~atun~~)  
+
 
   - **alikak** _n._ (alik+ak)  
   
@@ -488,8 +485,8 @@ alga
 - **aw** _spec._ (Cmn. &langle;和&rangle; [xɤ˧˥])  
 
 
-  - **awila** _v._ (~~ayuta~~)  
-  
+- **awila** _v._ (~~ayuta~~)  
+
 
   - **awilaici** _v._ (awila+ici)  
   
@@ -506,7 +503,7 @@ alga
   - **awilalum** _n._ (awila+lum)  
   
 
-  - **awilaki** _v._ (~~ayuta~~)  
+  - **awilaki** _v._ (awila+ki)  
   
 
   - **awilakiles** _n._ (awilaki+les)  
@@ -518,8 +515,8 @@ alga
 - **anemon** _n._ (Epo. &langle;anemono&rangle; [aneˈmono])  
 
 
-  - **ano** _v._ (~~ake~~)  
-  
+- **ano** _v._ (~~ake~~)  
+
 
 - **'anol** _n._ (Far. &langle;انار&rangle; [æˈnɒːɾ])  
 
@@ -551,7 +548,7 @@ alga
   - **anocalulum** _n._ (anocalu+lum)  
   
 
-  - **anoki** _v._ (~~ake~~)  
+  - **anoki** _v._ (ano+ki)  
   
 
   - **anokiles** _n._ (anoki+les)  
@@ -608,8 +605,8 @@ alga
   - **'ankolawon** _n._ ('ankola+won)  
   
 
-  - **anta** _v._ (~~akla~~)  
-  
+- **anta** _v._ (~~akla~~)  
+
 
   - **antalon** _n._ (anta+lon)  
   
@@ -617,7 +614,7 @@ alga
   - **antalyan** _n._ (anta+lyan)  
   
 
-  - **antaki** _v._ (~~akla~~)  
+  - **antaki** _v._ (anta+ki)  
   
 
 - **'antola** _n._ (Cat. &langle;Andorra&rangle; [ənˈdorə])  
@@ -794,8 +791,8 @@ alga
 - **'aha** _n._ (Haw. &langle;ʻaʻā&rangle; [ʔəˈʔaː])  
 
 
-  - **ahami** _v._ (~~acapu~~)  
-  
+- **ahami** _v._ (~~acapu~~)  
+
 
   - **ahamilon** _n._ (ahami+lon)  
   
@@ -914,8 +911,8 @@ alga
   - **aklapal** _n._ (akla+pal)  
   
 
-  - **akhe** _v._ (~~anco~~)  
-  
+- **akhe** _v._ (~~anco~~)  
+
 
   - **akheyehkac** _n._ (akhe+yeh+kac)  
   
@@ -923,7 +920,7 @@ alga
   - **akhelon** _n._ (akhe+lon)  
   
 
-  - **akheki** _v._ (~~anco~~)  
+  - **akheki** _v._ (akhe+ki)  
   
 
   - **akhekiles** _n._ (akheki+les)  
@@ -983,13 +980,13 @@ alga
   - **'apswatilip** _n._ ('apswa+tilip)  
   
 
-  - **apta** _v._ (~~amla~~)  
-  
+- **apta** _v._ (~~amla~~)  
+
 
   - **aptalon** _n._ (apta+lon)  
   
 
-  - **aptaki** _v._ (~~amla~~)  
+  - **aptaki** _v._ (apta+ki)  
   
 
   - **aptakiles** _n._ (aptaki+les)  
@@ -1054,8 +1051,8 @@ alga
   - **oyepowiki** _v._ (oyepowi+ki)  
   
 
-  - **ol** _pn._ (~~et~~)  
-  
+- **ol** _pn._ (~~et~~)  
+
 
 - **ole** _v._ (Spa. &langle;huele&rangle; [ˈwele])  
 
@@ -1276,8 +1273,8 @@ ordenar; estar en orden; ʟᴏᴧ tiene una posición tarde en ʟᴜᴍ
   - **'ospektilip** _n._ ('ospek+tilip)  
   
 
-  - **ofla** _v._ (~~esta~~)  
-  
+- **ofla** _v._ (~~esta~~)  
+
 
   - **oflalon** _n._ (ofla+lon)  
   
@@ -1288,17 +1285,17 @@ ordenar; estar en orden; ʟᴏᴧ tiene una posición tarde en ʟᴜᴍ
   - **oflatilon** _n._ (oflati+lon)  
   
 
-  - **oflo** _v._ (~~este~~)  
-  
+- **oflo** _v._ (~~este~~)  
+
 
   - **oflolon** _n._ (oflo+lon)  
   
 
-  - **ofloki** _v._ (~~este~~)  
+  - **ofloki** _v._ (oflo+ki)  
   
 
-  - **ok** _spec._ (~~en~~)  
-  
+- **ok** _spec._ (~~en~~)  
+
 
 - **oke** _v._ (Eng. &langle;okay&rangle; [ˌoʊ̯ˈkʰeɪ̯])  
 
@@ -1369,13 +1366,13 @@ ordenar; estar en orden; ʟᴏᴧ tiene una posición tarde en ʟᴜᴍ
 - **ot** _n._ (Mar. &langle;ओट&rangle; [oʈ])  
 
 
-  - **oti** _v._ (~~elu~~)  
-  
+- **oti** _v._ (~~elu~~)  
+
 
   - **otilon** _n._ (oti+lon)  
   
 
-  - **otiki** _v._ (~~elu~~)  
+  - **otiki** _v._ (oti+ki)  
   
 
 - **ope** _v._ (Eng. &langle;obey&rangle; [oʊ̯ˈbeɪ̯])  
@@ -1434,8 +1431,8 @@ ordenar; estar en orden; ʟᴏᴧ tiene una posición tarde en ʟᴜᴍ
 - **'ilawankapatay** _n._ (Tam. &langle;இலவங்கப்பட்டை&rangle; [ilʌʋʌŋˈɡʌpːʌʈːʌj])  
 
 
-- **'ilan** _n._ (Fas. &langle;ایران‎ >)  
-
+  - **'ilan** _n._ (Fas. &langle;ایران‎ >)  
+  
 
   - **'ilanak** _n._ ('ilan+ak)  
   
@@ -1623,8 +1620,8 @@ ordenar; estar en orden; ʟᴏᴧ tiene una posición tarde en ʟᴜᴍ
 - **imal** _num._ (Eng. &langle;-imal&rangle; [ɪml̩])  
 base
 
-  - **imo** _v._ (~~upe~~)  
-  
+- **imo** _v._ (~~upe~~)  
+
 
   - **imolon** _n._ (imo+lon)  
   
@@ -1632,13 +1629,13 @@ base
   - **imoki** _v._ (imo+ki)  
   
 
-  - **ihoha** _v._ (~~uceca~~)  
-  
+- **ihoha** _v._ (~~uceca~~)  
+
 
   - **ihohalon** _n._ (ihoha+lon)  
   
 
-  - **ihohaki** _v._ (~~uceca~~)  
+  - **ihohaki** _v._ (ihoha+ki)  
   
 
 - **ihin** _n._ (ono. [ĩː˥])  
@@ -1761,8 +1758,8 @@ mosca; Muscidae
   - **isepowinyolon** _n._ (isepowinyo+lon)  
   
 
-  - **isa** _v._ (~~ufa~~)  
-  
+- **isa** _v._ (~~ufa~~)  
+
 
   - **isalon** _n._ (isa+lon)  
   
@@ -1821,8 +1818,8 @@ mosca; Muscidae
   - **ifenyo** _spec._ (ifen+yo)  
   
 
-  - **ikci** _v._ (~~unhu~~)  
-  
+- **ikci** _v._ (~~unhu~~)  
+
 
   - **ikcilon** _n._ (ikci+lon)  
   
@@ -1839,7 +1836,7 @@ mosca; Muscidae
   - **ikcinatilum** _n._ (ikcinati+lum)  
   
 
-  - **ikciki** _v._ (~~unhu~~)  
+  - **ikciki** _v._ (ikci+ki)  
   
 
 - **'ikpo** _n._ (Ibo. &langle;Ị̀gbò&rangle; [ìɡ͡bò])  
@@ -1934,8 +1931,8 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
 - **'u** _n._ (ono. [u])  
 
 
-  - **uat** _post._ (~~ial~~)  
-  
+- **uat** _post._ (~~ial~~)  
+
 
 - **ul** _n._ (Jav. &langle;wulu&rangle; [wuɭu])  
 
@@ -1943,8 +1940,8 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **ulak** _n._ (ul+ak)  
   
 
-  - **ulu** _v._ (~~iti~~)  
-  
+- **ulu** _v._ (~~iti~~)  
+
 
   - **ulules** _n._ (ulu+les)  
   
@@ -2000,8 +1997,8 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
 - **um** _post._ (Pan. &langle;ਨੂੰ&rangle; [nũː])  
 
 
-  - **uma** _v._ (~~ipa~~)  
-  
+- **uma** _v._ (~~ipa~~)  
+
 
   - **umalon** _n._ (uma+lon)  
   
@@ -2015,8 +2012,8 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **'umanwon** _n._ ('uman+won)  
   
 
-  - **uho** _v._ (~~ice~~)  
-  
+- **uho** _v._ (~~ice~~)  
+
 
   - **uholon** _n._ (uho+lon)  
   
@@ -2024,11 +2021,11 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **uholum** _n._ (uho+lum)  
   
 
-  - **uhoki** _v._ (~~ice~~)  
+  - **uhoki** _v._ (uho+ki)  
   
 
-  - **uhu** _v._ (~~ici~~)  
-  
+- **uhu** _v._ (~~ici~~)  
+
 
   - **uhulon** _n._ (uhu+lon)  
   
@@ -2036,7 +2033,7 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **uhulwel** _n._ (uhu+lwel)  
   
 
-  - **uhuki** _v._ (~~ici~~)  
+  - **uhuki** _v._ (uhu+ki)  
   
 
   - **uhukiles** _n._ (uhuki+les)  
@@ -2096,13 +2093,13 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **ufapiac** _n._ (ufa+piac)  
   
 
-  - **ufu** _v._ (~~isi~~)  
-  
+- **ufu** _v._ (~~isi~~)  
+
 
   - **ufulum** _n._ (ufu+lum)  
   
 
-  - **ufuki** _v._ (~~isi~~)  
+  - **ufuki** _v._ (ufu+ki)  
   
 
 - **ukik** _n._ (ono. [u)  
@@ -2224,14 +2221,14 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **yehpiac** _n._ (yeh+piac)  
   
 
-  - **yek** _n._ (~~won~~)  
-  
+- **yek** _n._ (~~won~~)  
+
 
   - **yekak** _n._ (yek+ak)  
   
 
-  - **yayu** _v._ (~~wawi~~)  
-  
+- **yayu** _v._ (~~wawi~~)  
+
 
   - **yayulon** _n._ (yayu+lon)  
   
@@ -2239,7 +2236,7 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **yayulum** _n._ (yayu+lum)  
   
 
-  - **yayuki** _v._ (~~wawi~~)  
+  - **yayuki** _v._ (yayu+ki)  
   
 
   - **yayukiles** _n._ (yayuki+les)  
@@ -2401,8 +2398,8 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **yohaukiles** _n._ (yohauki+les)  
   
 
-  - **yot** _post._ (~~wel~~)  
-  
+- **yot** _post._ (~~wel~~)  
+
 
 - **'yishael** _n._ (Heb. &langle;ישראל&rangle; [jisʁael])  
 
@@ -2466,13 +2463,13 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **lelon** _n._ (le+lon)  
   
 
-  - **lene** _v._ (~~toko~~)  
-  
+- **lene** _v._ (~~toko~~)  
+
 
   - **lenelon** _n._ (lene+lon)  
   
 
-  - **leneki** _v._ (~~toko~~)  
+  - **leneki** _v._ (lene+ki)  
   
 
 - **lena** _v._ (Hin. &langle;लेना&rangle; [lenaː])  
@@ -2514,8 +2511,8 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **leslakiles** _n._ (leslaki+les)  
   
 
-  - **lef** _num._ (~~tos~~)  
-  14; catorce
+- **lef** _num._ (~~tos~~)  
+14; catorce
 
   - **lefak** _n._ (lef+ak)  
   
@@ -2565,13 +2562,13 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
 - **letus** _n._ (Ben. &langle;লেটুস&rangle; [l̪etus̪])  
 
 
-  - **letpu** _v._ (~~tolmi~~)  
-  
+- **letpu** _v._ (~~tolmi~~)  
+
 
   - **letpulon** _n._ (letpu+lon)  
   
 
-  - **letpuki** _v._ (~~tolmi~~)  
+  - **letpuki** _v._ (letpu+ki)  
   
 
 - **lep** _n._ (Epo. &langle;rebo&rangle; [ˈrebo])  
@@ -2655,13 +2652,13 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **lawtpyah** _n._ (lawt+pyah)  
   
 
-  - **lanau** _v._ (~~takai~~)  
-  
+- **lanau** _v._ (~~takai~~)  
+
 
   - **lanaulon** _n._ (lanau+lon)  
   
 
-  - **lanauki** _v._ (~~takai~~)  
+  - **lanauki** _v._ (lanau+ki)  
   
 
   - **lanaukiles** _n._ (lanauki+les)  
@@ -2769,8 +2766,8 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **'latwiyatilip** _n._ ('latwiya+tilip)  
   
 
-  - **lo** _v._ (~~te~~)  
-  
+- **lo** _v._ (~~te~~)  
+
 
   - **loles** _n._ (lo+les)  
   
@@ -2874,13 +2871,13 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **'locpanwon** _n._ ('locpan+won)  
   
 
-  - **lokfe** _v._ (~~tenso~~)  
-  
+- **lokfe** _v._ (~~tenso~~)  
+
 
   - **lokfelon** _n._ (lokfe+lon)  
   
 
-  - **lokfeki** _v._ (~~tenso~~)  
+  - **lokfeki** _v._ (lokfe+ki)  
   
 
 - **lota** _v._ (Spa. &langle;rueda&rangle; [ˈrweða])  
@@ -2967,13 +2964,13 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **lotokipowikiles** _n._ (lotokipowiki+les)  
   
 
-  - **lotiha** _v._ (~~teluca~~)  
-  
+- **lotiha** _v._ (~~teluca~~)  
+
 
   - **lotihalon** _n._ (lotiha+lon)  
   
 
-  - **lotihaki** _v._ (~~teluca~~)  
+  - **lotihaki** _v._ (lotiha+ki)  
   
 
 - **'lietuwa** _n._ (Lit. &langle;Lietuva&rangle; [lʲɪɛtʊˈvɐ])  
@@ -2991,7 +2988,7 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
   - **lial** _n._ (l+ial)  
   
 
-  - **lialkweki** _v._ (~~ial~~)  
+  - **lialkweki** _v._ (l+ial+kweki)  
   
 
   - **lialkwekilon** _n._ (lialkweki+lon)  
@@ -3039,8 +3036,8 @@ escama
   - **licak** _n._ (lic+ak)  
   
 
-- **'licilkentawlus** _n._ (Lat. &langle;Rigil Centaurus>)  
-
+  - **'licilkentawlus** _n._ (Lat. &langle;Rigil Centaurus>)  
+  
 
 - **'lictenectayn** _n._ (Deu. &langle;Liechtenstein&rangle; [lɪçtn̩ʃtaɪ̯n])  
 
@@ -3060,13 +3057,13 @@ escama
 - **'lithe** _n._ (Fra. &langle;litre&rangle; [ˈlitʁ])  
 
 
-  - **litfo** _v._ (~~tulse~~)  
-  
+- **litfo** _v._ (~~tulse~~)  
+
 
   - **litfolon** _n._ (litfo+lon)  
   
 
-  - **litfoki** _v._ (~~tulse~~)  
+  - **litfoki** _v._ (litfo+ki)  
   
 
   - **lip** _n._ (l+ip)  
@@ -3090,13 +3087,13 @@ escama
   - **'lipnenwon** _n._ ('lipnen+won)  
   
 
-  - **lu** _v._ (~~ti~~)  
-  
+- **lu** _v._ (~~ti~~)  
+
 
   - **luat** _n._ (l+uat)  
   
 
-  - **luatkweki** _v._ (~~uat~~)  
+  - **luatkweki** _v._ (l+uat+kweki)  
   
 
   - **luatkwekilon** _n._ (luatkweki+lon)  
@@ -3114,13 +3111,13 @@ escama
   - **luatkwekipowinyolon** _n._ (luatkwekipowinyo+lon)  
   
 
-  - **luo** _v._ (~~tie~~)  
-  
+- **luo** _v._ (~~tie~~)  
+
 
   - **luolon** _n._ (luo+lon)  
   
 
-  - **luoki** _v._ (~~tie~~)  
+  - **luoki** _v._ (luo+ki)  
   
 
   - **lulon** _n._ (lu+lon)  
@@ -3393,7 +3390,7 @@ escama
   - **lyot** _n._ (l+yot)  
   
 
-  - **lyotkweki** _v._ (~~yot~~)  
+  - **lyotkweki** _v._ (l+yot+kweki)  
   
 
   - **lyotkwekilon** _n._ (lyotkweki+lon)  
@@ -3426,7 +3423,7 @@ escama
   - **lwel** _n._ (l+wel)  
   
 
-  - **lwelkweki** _v._ (~~wel~~)  
+  - **lwelkweki** _v._ (l+wel+kweki)  
   
 
   - **lwelkwekilon** _n._ (lwelkweki+lon)  
@@ -3470,8 +3467,8 @@ escama
 - **wel** _post._ (Mar. &langle;वेळ&rangle; [ˈʋeɭə])  
 
 
-  - **wecai** _v._ (~~yohau~~)  
-  
+- **wecai** _v._ (~~yohau~~)  
+
 
   - **wecailon** _n._ (wecai+lon)  
   
@@ -3479,7 +3476,7 @@ escama
   - **wecailum** _n._ (wecai+lum)  
   
 
-  - **wecaiki** _v._ (~~yohau~~)  
+  - **wecaiki** _v._ (wecai+ki)  
   
 
   - **wecaikiles** _n._ (wecaiki+les)  
@@ -3491,8 +3488,8 @@ escama
 - **wa** _ptcl._ (Cmn. &langle;哇&rangle; [wa])  
 
 
-  - **wale** _v._ (~~yato~~)  
-  
+- **wale** _v._ (~~yato~~)  
+
 
   - **walelon** _n._ (wale+lon)  
   
@@ -3500,7 +3497,7 @@ escama
   - **waleswa** _v._ (wale+swa)  
   
 
-  - **waleki** _v._ (~~yato~~)  
+  - **waleki** _v._ (wale+ki)  
   
 
   - **walepensi** _v._ (wale+pensi)  
@@ -3581,14 +3578,14 @@ escama
   - **wacaitilum** _n._ (wacaiti+lum)  
   
 
-- **'wacintontisi** _n._ (Eng. &langle;Washington D.C.>)  
-
+  - **'wacintontisi** _n._ (Eng. &langle;Washington D.C.>)  
+  
 
 - **'wake** _n._ (Ara. &langle;واقع‎&rangle; [wɑːqeʔ])  
 
 
-  - **wata** _v._ (~~yala~~)  
-  
+- **wata** _v._ (~~yala~~)  
+
 
 - **'wataiko** _n._ (Jpn. &langle;和太鼓&rangle; [ɰadaikɔː])  
 
@@ -3769,8 +3766,8 @@ escama
 - **'neon** _n._ (Lat. &langle;neon&rangle; [neɔ̃])  
 
 
-- **'neopatwa** _n._ (Npt. &langle;Neo Patwa>)  
-
+  - **'neopatwa** _n._ (Npt. &langle;Neo Patwa>)  
+  
 
   - **'neopatwaak** _n._ ('neopatwa+ak)  
   
@@ -3808,13 +3805,13 @@ escama
   - **nefilalum'kineak** _n._ (nefilalum'kine+ak)  
   
 
-  - **neflu** _v._ (~~kosti~~)  
-  
+- **neflu** _v._ (~~kosti~~)  
+
 
   - **neflulon** _n._ (neflu+lon)  
   
 
-  - **nefluki** _v._ (~~kosti~~)  
+  - **nefluki** _v._ (neflu+ki)  
   
 
   - **neki** _v._ (ne+ki)  
@@ -3958,13 +3955,13 @@ escama
 - **nawtil** _n._ (Epo. &langle;naŭtilo&rangle; [nawˈtilo])  
 
 
-  - **namo** _v._ (~~kape~~)  
-  
+- **namo** _v._ (~~kape~~)  
+
 
   - **namooyemocakilum** _n._ (namo+oyemocakilum)  
   
 
-  - **namoki** _v._ (~~kape~~)  
+  - **namoki** _v._ (namo+ki)  
   
 
 - **'namipia** _n._ (Naq. &langle;namib&rangle; [naˈmip])  
@@ -3979,8 +3976,8 @@ escama
   - **'namipiatec** _n._ ('namipia+tec)  
   
 
-  - **nak** _num._ (~~kan~~)  
-  15; quince
+- **nak** _num._ (~~kan~~)  
+15; quince
 
   - **nakak** _n._ (nak+ak)  
   
@@ -4132,8 +4129,8 @@ escama
   - **nopowinyolumlon** _n._ (nopowinyolum+lon)  
   
 
-  - **ni** _v._ (~~ku~~)  
-  
+- **ni** _v._ (~~ku~~)  
+
 
 - **nila** _v._ (Hin. &langle;नीला&rangle; [niːlaː])  
 
@@ -4162,8 +4159,8 @@ escama
   - **nilon** _n._ (ni+lon)  
   
 
-  - **nilu** _v._ (~~kuti~~)  
-  
+- **nilu** _v._ (~~kuti~~)  
+
 
   - **nilulon** _n._ (nilu+lon)  
   
@@ -4198,7 +4195,7 @@ escama
   - **niluhilapaholon** _n._ (niluhilapaho+lon)  
   
 
-  - **niluki** _v._ (~~kuti~~)  
+  - **niluki** _v._ (nilu+ki)  
   
 
   - **nilukiles** _n._ (niluki+les)  
@@ -4228,14 +4225,14 @@ escama
   - **'niwetilip** _n._ ('niwe+tilip)  
   
 
-  - **ninap** _n._ (~~kukam~~)  
-  
+- **ninap** _n._ (~~kukam~~)  
+
 
   - **ninapak** _n._ (ninap+ak)  
   
 
-  - **nihu** _v._ (~~kuci~~)  
-  
+- **nihu** _v._ (~~kuci~~)  
+
 
   - **nihulon** _n._ (nihu+lon)  
   
@@ -4252,7 +4249,7 @@ escama
   - **nihucwelonkoki** _v._ (nihucwelon+koki)  
   
 
-  - **nihuki** _v._ (~~kuci~~)  
+  - **nihuki** _v._ (nihu+ki)  
   
 
 - **nice** _v._ (Ben. &langle;নিচে&rangle; [n̪it͡ɕe])  
@@ -4303,11 +4300,11 @@ escama
   - **'nikalakwawon** _n._ ('nikalakwa+won)  
   
 
-  - **niki** _v._ (~~ku~~)  
+  - **niki** _v._ (ni+ki)  
   
 
-  - **nikhu** _v._ (~~kunci~~)  
-  
+- **nikhu** _v._ (~~kunci~~)  
+
 
   - **nikhulon** _n._ (nikhu+lon)  
   
@@ -4315,7 +4312,7 @@ escama
   - **nikhulum** _n._ (nikhu+lum)  
   
 
-  - **nikhuki** _v._ (~~kunci~~)  
+  - **nikhuki** _v._ (nikhu+ki)  
   
 
   - **nikhukiles** _n._ (nikhuki+les)  
@@ -4324,8 +4321,8 @@ escama
   - **nikhukilon** _n._ (nikhuki+lon)  
   
 
-  - **nita** _v._ (~~kula~~)  
-  
+- **nita** _v._ (~~kula~~)  
+
 
   - **nitaec** _n._ (nita+ec)  
   
@@ -4345,10 +4342,10 @@ escama
   - **nitafut** _n._ (nita+fut)  
   
 
-  - **nitak** _pn._ (~~kulan~~)  
-  
+- **nitak** _pn._ (~~kulan~~)  
 
-  - **nitaki** _v._ (~~kula~~)  
+
+  - **nitaki** _v._ (nita+ki)  
   
 
   - **nitakio** _v._ (nita+kio)  
@@ -4378,8 +4375,8 @@ escama
   - **nitapic** _n._ (nita+pic)  
   
 
-  - **nito** _v._ (~~kule~~)  
-  
+- **nito** _v._ (~~kule~~)  
+
 
   - **nitoesta** _v._ (nito+esta)  
   
@@ -4396,19 +4393,19 @@ escama
   - **nitolwel** _n._ (nito+lwel)  
   
 
-  - **nitoki** _v._ (~~kule~~)  
+  - **nitoki** _v._ (nito+ki)  
   
 
   - **nitokiles** _n._ (nitoki+les)  
   
 
-  - **nitu** _v._ (~~kuli~~)  
-  
+- **nitu** _v._ (~~kuli~~)  
+
 
   - **nitulon** _n._ (nitu+lon)  
   
 
-  - **nituki** _v._ (~~kuli~~)  
+  - **nituki** _v._ (nitu+ki)  
   
 
 - **'nipon** _n._ (Jap. &langle;日本&rangle; [ɲipːoɴ])  
@@ -4423,11 +4420,11 @@ escama
   - **'nipontilip** _n._ ('nipon+tilip)  
   
 
-  - **nu** _v._ (~~ki~~)  
+- **nu** _v._ (~~ki~~)  
+
+
+  - **'nuyoksiti** _n._ (Eng. &langle;New York)  
   
-
-- **'nuyoksiti** _n._ (Eng. &langle;New York)  
-
 
 - **nul** _num._ (Epo. &langle;nulo&rangle; [nulo])  
 0; cero; nada
@@ -4665,13 +4662,13 @@ comer; bebir; tomar; ʟєꜱ come ʟᴏᴧ
 - **men** _num._ (Spa. &langle;menos&rangle; [ˈmenos])  
 menos; negativo
 
-  - **meha** _v._ (~~poca~~)  
-  
+- **meha** _v._ (~~poca~~)  
+
 
   - **mehalon** _n._ (meha+lon)  
   
 
-  - **mehaki** _v._ (~~poca~~)  
+  - **mehaki** _v._ (meha+ki)  
   
 
 - **'mehiko** _n._ (Spa. &langle;México&rangle; [ˈmexiko])  
@@ -4695,8 +4692,8 @@ menos; negativo
   - **mesnokipumkwelwel** _n._ (mes+noki+pumkwelwel)  
   
 
-  - **mekle** _v._ (~~ponto~~)  
-  
+- **mekle** _v._ (~~ponto~~)  
+
 
   - **meklelekpoltilum** _n._ (mekle+lekpoltilum)  
   
@@ -4707,7 +4704,7 @@ menos; negativo
   - **meklesaman** _n._ (mekle+saman)  
   
 
-  - **mekleki** _v._ (~~ponto~~)  
+  - **mekleki** _v._ (mekle+ki)  
   
 
   - **meklekiles** _n._ (mekleki+les)  
@@ -4815,13 +4812,13 @@ menos; negativo
   - **maipaltolum** _n._ (mai+paltolum)  
   
 
-  - **mayo** _v._ (~~pawe~~)  
-  
+- **mayo** _v._ (~~pawe~~)  
+
 
   - **mayolum** _n._ (mayo+lum)  
   
 
-  - **mayoki** _v._ (~~pawe~~)  
+  - **mayoki** _v._ (mayo+ki)  
   
 
   - **mayokiles** _n._ (mayoki+les)  
@@ -4956,8 +4953,8 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
   - **'mahleptilip** _n._ ('mahlep+tilip)  
   
 
-  - **mace** _v._ (~~paho~~)  
-  
+- **mace** _v._ (~~paho~~)  
+
 
   - **macelek** _n._ (mace+lek)  
   
@@ -4965,16 +4962,13 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
   - **macelon** _n._ (mace+lon)  
   
 
-  - **maceki** _v._ (~~paho~~)  
+  - **maceki** _v._ (mace+ki)  
   
 
   - **macekiles** _n._ (maceki+les)  
   
 
   - **macetayl** _n._ (mace+tayl)  
-  
-
-  - **macetaylak** _n._ (macetayl+ak)  
   
 
   - **macetielon** _n._ (mace+tielon)  
@@ -5064,32 +5058,32 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
 - **'maknesium** _n._ (Lat. &langle;magnesium&rangle; [maɡnezɪʊ̃])  
 
 
-  - **mat** _n._ (~~pal~~)  
-  
+- **mat** _n._ (~~pal~~)  
 
-  - **matu** _v._ (~~pali~~)  
-  ser ligero; ʟᴏᴧ es ligero
+
+- **matu** _v._ (~~pali~~)  
+ser ligero; ʟᴏᴧ es ligero
 
   - **matulon** _n._ (matu+lon)  
   
 
-  - **matuki** _v._ (~~pali~~)  
+  - **matuki** _v._ (matu+ki)  
   
 
-  - **mapametlo** _v._ (~~pamapolte~~)  
-  
+- **mapametlo** _v._ (~~pamapolte~~)  
+
 
   - **mapametlolon** _n._ (mapametlo+lon)  
   
 
-  - **mapametloki** _v._ (~~pamapolte~~)  
+  - **mapametloki** _v._ (mapametlo+ki)  
   
 
   - **mapametlokiles** _n._ (mapametloki+les)  
   
 
-  - **mo** _v._ (~~pe~~)  
-  
+- **mo** _v._ (~~pe~~)  
+
 
 - **moye** _v._ (Yor. &langle;mòye&rangle; [mòjē])  
 
@@ -5121,8 +5115,8 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
   - **moyepatili** _v._ (moye+patili)  
   
 
-  - **mola** _v._ (~~peta~~)  
-  
+- **mola** _v._ (~~peta~~)  
+
 
   - **molon** _n._ (mo+lon)  
   
@@ -5325,8 +5319,8 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
   - **milalon** _n._ (mila+lon)  
   
 
-  - **milu** _v._ (~~puti~~)  
-  
+- **milu** _v._ (~~puti~~)  
+
 
   - **miluilulih** _n._ (milu+ilu+lih)  
   
@@ -5334,7 +5328,7 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
   - **milulon** _n._ (milu+lon)  
   
 
-  - **miluki** _v._ (~~puti~~)  
+  - **miluki** _v._ (milu+ki)  
   
 
   - **milukuta** _v._ (milu+kuta)  
@@ -5373,8 +5367,8 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
 - **'mihowtaw** _n._ (Cmn. &langle;猕猴桃&rangle; [mi˧˥xoʊ̯˧˥tʰaʊ̯˧˥])  
 
 
-  - **mihu** _v._ (~~puci~~)  
-  
+- **mihu** _v._ (~~puci~~)  
+
 
   - **mihules** _n._ (mihu+les)  
   
@@ -5427,29 +5421,29 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
   - **'mikhonesitecwon** _n._ ('mikhonesitec+won)  
   
 
-  - **mita** _v._ (~~pula~~)  
-  
+- **mita** _v._ (~~pula~~)  
+
 
   - **mitalon** _n._ (mita+lon)  
   
 
-  - **mitaki** _v._ (~~pula~~)  
+  - **mitaki** _v._ (mita+ki)  
   
 
   - **mitakiles** _n._ (mitaki+les)  
   
 
-  - **mitu** _v._ (~~puli~~)  
-  
+- **mitu** _v._ (~~puli~~)  
+
 
   - **mitulon** _n._ (mitu+lon)  
   
 
-  - **mituki** _v._ (~~puli~~)  
+  - **mituki** _v._ (mitu+ki)  
   
 
-  - **mip** _n._ (~~pum~~)  
-  
+- **mip** _n._ (~~pum~~)  
+
 
   - **mipalaktan** _n._ (mip+alaktan)  
   
@@ -5499,8 +5493,8 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
   - **mippumak** _n._ (mippum+ak)  
   
 
-  - **muafa** _v._ (~~piasa~~)  
-  
+- **muafa** _v._ (~~piasa~~)  
+
 
   - **muafalon** _n._ (muafa+lon)  
   
@@ -5508,7 +5502,7 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
   - **muafalum** _n._ (muafa+lum)  
   
 
-  - **muafaki** _v._ (~~piasa~~)  
+  - **muafaki** _v._ (muafa+ki)  
   
 
   - **muafakiles** _n._ (muafaki+les)  
@@ -5523,13 +5517,13 @@ estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de 
   - **'mulitanyawon** _n._ ('mulitanya+won)  
   
 
-  - **munaklo** _v._ (~~pikante~~)  
-  
+- **munaklo** _v._ (~~pikante~~)  
+
 
   - **munaklolon** _n._ (munaklo+lon)  
   
 
-  - **munakloki** _v._ (~~pikante~~)  
+  - **munakloki** _v._ (munaklo+ki)  
   
 
 - **mumu** _v._ (ono. [mː])  
@@ -5634,11 +5628,11 @@ mucho; muchos
   - **mukak** _n._ (muk+ak)  
   
 
-  - **mut** _n._ (~~pil~~)  
-  
+- **mut** _n._ (~~pil~~)  
 
-  - **muta** _v._ (~~pila~~)  
-  
+
+- **muta** _v._ (~~pila~~)  
+
 
   - **mutalon** _n._ (muta+lon)  
   
@@ -5646,7 +5640,7 @@ mucho; muchos
   - **mutak** _n._ (mut+ak)  
   
 
-  - **mutaki** _v._ (~~pila~~)  
+  - **mutaki** _v._ (muta+ki)  
   
 
   - **mutatawh** _n._ (muta+tawh)  
@@ -5658,8 +5652,8 @@ mucho; muchos
   - **myawfak** _n._ (myawf+ak)  
   
 
-  - **mwe** _v._ (~~pyo~~)  
-  
+- **mwe** _v._ (~~pyo~~)  
+
 
   - **mwelon** _n._ (mwe+lon)  
   
@@ -5667,7 +5661,7 @@ mucho; muchos
   - **mwelum** _n._ (mwe+lum)  
   
 
-  - **mweki** _v._ (~~pyo~~)  
+  - **mweki** _v._ (mwe+ki)  
   
 
   - **mwepowi** _v._ (mwe+powi)  
@@ -5723,8 +5717,8 @@ mucho; muchos
   - **hesak** _n._ (hes+ak)  
   
 
-  - **heta** _v._ (~~cola~~)  
-  
+- **heta** _v._ (~~cola~~)  
+
 
   - **hetalon** _n._ (heta+lon)  
   
@@ -5732,14 +5726,14 @@ mucho; muchos
   - **hetalum** _n._ (heta+lum)  
   
 
-  - **hetaki** _v._ (~~cola~~)  
+  - **hetaki** _v._ (heta+ki)  
   
 
-  - **hetut** _n._ (~~colil~~)  
-  
+- **hetut** _n._ (~~colil~~)  
 
-  - **hepu** _v._ (~~comi~~)  
-  
+
+- **hepu** _v._ (~~comi~~)  
+
 
   - **hepulon** _n._ (hepu+lon)  
   
@@ -5747,7 +5741,7 @@ mucho; muchos
   - **hepulum** _n._ (hepu+lum)  
   
 
-  - **hepuki** _v._ (~~comi~~)  
+  - **hepuki** _v._ (hepu+ki)  
   
 
 - **hai** _v._ (Eng. &langle;high&rangle; [hɑɪ̯])  
@@ -5762,8 +5756,8 @@ ser agudo; ʟᴏᴧ es agudo
   - **haiki** _v._ (hai+ki)  
   
 
-  - **hau** _v._ (~~cai~~)  
-  
+- **hau** _v._ (~~cai~~)  
+
 
   - **haulon** _n._ (hau+lon)  
   
@@ -5777,7 +5771,7 @@ ser agudo; ʟᴏᴧ es agudo
   - **haulyot** _n._ (hau+lyot)  
   
 
-  - **hauki** _v._ (~~cai~~)  
+  - **hauki** _v._ (hau+ki)  
   
 
   - **haukiles** _n._ (hauki+les)  
@@ -5873,13 +5867,13 @@ ser agudo; ʟᴏᴧ es agudo
   - **'hawsatilip** _n._ ('hawsa+tilip)  
   
 
-  - **hawku** _v._ (~~cayni~~)  
-  
+- **hawku** _v._ (~~cayni~~)  
+
 
   - **hawkulon** _n._ (hawku+lon)  
   
 
-  - **hawkuki** _v._ (~~cayni~~)  
+  - **hawkuki** _v._ (hawku+ki)  
   
 
 - **'han** _n._ (Cmn. &langle;漢&rangle; [xan˥˩])  
@@ -6128,13 +6122,13 @@ ser agudo; ʟᴏᴧ es agudo
   - **huak** _n._ (hu+ak)  
   
 
-  - **huylu** _v._ (~~ciwti~~)  
-  
+- **huylu** _v._ (~~ciwti~~)  
+
 
   - **huylulon** _n._ (huylu+lon)  
   
 
-  - **huyluki** _v._ (~~ciwti~~)  
+  - **huyluki** _v._ (huylu+ki)  
   
 
   - **hulon** _n._ (hu+lon)  
@@ -6215,8 +6209,8 @@ ser agudo; ʟᴏᴧ es agudo
 - **'humuhumunukunukuapua** _n._ (Haw. &langle;humuhumunukunukuapuaʻa&rangle; [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə])  
 
 
-  - **huc** _n._ (~~cih~~)  
-  
+- **huc** _n._ (~~cih~~)  
+
 
   - **hucalu** _v._ (hu+calu)  
   
@@ -6257,8 +6251,8 @@ ser agudo; ʟᴏᴧ es agudo
   - **hupowiki** _v._ (hupowi+ki)  
   
 
-  - **hyo** _v._ (~~cwe~~)  
-  
+- **hyo** _v._ (~~cwe~~)  
+
 
   - **hyoyeh** _n._ (hyo+yeh)  
   
@@ -6272,7 +6266,7 @@ ser agudo; ʟᴏᴧ es agudo
   - **hyomiclolon** _n._ (hyomiclo+lon)  
   
 
-  - **hyoki** _v._ (~~cwe~~)  
+  - **hyoki** _v._ (hyo+ki)  
   
 
   - **hyokiles** _n._ (hyoki+les)  
@@ -6296,13 +6290,13 @@ ser agudo; ʟᴏᴧ es agudo
   - **hyopekalon** _n._ (hyopeka+lon)  
   
 
-  - **hwe** _v._ (~~cyo~~)  
-  
+- **hwe** _v._ (~~cyo~~)  
+
 
   - **hwelon** _n._ (hwe+lon)  
   
 
-  - **hweki** _v._ (~~cyo~~)  
+  - **hweki** _v._ (hwe+ki)  
   
 
   - **hwekiles** _n._ (hweki+les)  
@@ -6326,8 +6320,8 @@ ser agudo; ʟᴏᴧ es agudo
   - **hwonulon** _n._ (hwonu+lon)  
   
 
-  - **hwok** _n._ (~~cyen~~)  
-  
+- **hwok** _n._ (~~cyen~~)  
+
 
   - **hwoki** _v._ (hwo+ki)  
   
@@ -6346,8 +6340,8 @@ ser agudo; ʟᴏᴧ es agudo
 
 ## c
 
-  - **ce** _v._ (~~ho~~)  
-  
+- **ce** _v._ (~~ho~~)  
+
 
   - **celon** _n._ (ce+lon)  
   
@@ -6403,7 +6397,7 @@ ser agudo; ʟᴏᴧ es agudo
   - **cecim** _n._ (ce+cim)  
   
 
-  - **ceki** _v._ (~~ho~~)  
+  - **ceki** _v._ (ce+ki)  
   
 
   - **cekiles** _n._ (ceki+les)  
@@ -6448,13 +6442,13 @@ ser agudo; ʟᴏᴧ es agudo
   - **caitikulon** _n._ (caitiku+lon)  
   
 
-  - **cau** _v._ (~~hai~~)  
-  
+- **cau** _v._ (~~hai~~)  
+
 
   - **caulon** _n._ (cau+lon)  
   
 
-  - **cauki** _v._ (~~hai~~)  
+  - **cauki** _v._ (cau+ki)  
   
 
 - **cayni** _v._ (Eng. &langle;shiny&rangle; [ˈʃɑɪ̯ni])  
@@ -6910,9 +6904,6 @@ ser agudo; ʟᴏᴧ es agudo
   - **ciuhtayl** _n._ (ciuh+tayl)  
   
 
-  - **ciuhtaylak** _n._ (ciuhtayl+ak)  
-  
-
 - **'cile** _n._ (Spa. &langle;Chile&rangle; [ˈt͡ʃile])  
 
 
@@ -7102,8 +7093,8 @@ ser agudo; ʟᴏᴧ es agudo
   - **citaiki** _v._ (citai+ki)  
   
 
-  - **citu** _v._ (~~huli~~)  
-  
+- **citu** _v._ (~~huli~~)  
+
 
   - **citulon** _n._ (citu+lon)  
   
@@ -7150,7 +7141,7 @@ ser agudo; ʟᴏᴧ es agudo
   - **citusunnyamales** _n._ (citusunnyama+les)  
   
 
-  - **cituki** _v._ (~~huli~~)  
+  - **cituki** _v._ (citu+ki)  
   
 
   - **citukiles** _n._ (cituki+les)  
@@ -7282,13 +7273,13 @@ ser agudo; ʟᴏᴧ es agudo
 - **cuc** _n._ (Ben. &langle;জুজু&rangle; [d͡ʑud͡ʑu])  
 
 
-  - **cuta** _v._ (~~hila~~)  
-  
+- **cuta** _v._ (~~hila~~)  
+
 
   - **cutalon** _n._ (cuta+lon)  
   
 
-  - **cutaki** _v._ (~~hila~~)  
+  - **cutaki** _v._ (cuta+ki)  
   
 
   - **cutakiles** _n._ (cutaki+les)  
@@ -7522,9 +7513,6 @@ ser agudo; ʟᴏᴧ es agudo
   - **cwetayl** _n._ (cwe+tayl)  
   
 
-  - **cwetaylak** _n._ (cwetayl+ak)  
-  
-
   - **cwetaka** _v._ (cwe+taka)  
   
 
@@ -7557,8 +7545,8 @@ ser agudo; ʟᴏᴧ es agudo
 - **seyoh** _n._ (Spa. &langle;sello&rangle; [ˈseʝo])  
 
 
-- **'seynfinsen** _n._ (Svc. &langle;Saint Vincent>)  
-
+  - **'seynfinsen** _n._ (Svc. &langle;Saint Vincent>)  
+  
 
   - **'seynfinsenak** _n._ ('seynfinsen+ak)  
   
@@ -7596,8 +7584,8 @@ ser agudo; ʟᴏᴧ es agudo
   - **selyoki** _v._ (selyo+ki)  
   
 
-- **'selnakola** _n._ (Cnr. &langle;Црна Гора>)  
-
+  - **'selnakola** _n._ (Cnr. &langle;Црна Гора>)  
+  
 
   - **'selnakolaak** _n._ ('selnakola+ak)  
   
@@ -7650,8 +7638,8 @@ ser agudo; ʟᴏᴧ es agudo
   - **'senliwsitilip** _n._ ('senliwsi+tilip)  
   
 
-- **'senkitsi** _n._ (Aig. &langle;Saint Kitts>)  
-
+  - **'senkitsi** _n._ (Aig. &langle;Saint Kitts>)  
+  
 
   - **'senkitsiak** _n._ ('senkitsi+ak)  
   
@@ -7734,19 +7722,19 @@ ser agudo; ʟᴏᴧ es agudo
   - **seksopal** _n._ (sekso+pal)  
   
 
-  - **set** _num._ (~~fol~~)  
-  12; doce
+- **set** _num._ (~~fol~~)  
+12; doce
 
   - **setak** _n._ (set+ak)  
   
 
-  - **setlu** _v._ (~~folti~~)  
-  
+- **setlu** _v._ (~~folti~~)  
+
 
   - **setlulon** _n._ (setlu+lon)  
   
 
-  - **setluki** _v._ (~~folti~~)  
+  - **setluki** _v._ (setlu+ki)  
   
 
   - **setlukiles** _n._ (setluki+les)  
@@ -7755,8 +7743,8 @@ ser agudo; ʟᴏᴧ es agudo
 - **sep** _n._ (Hin. &langle;सेब&rangle; [seb])  
 
 
-  - **sepu** _v._ (~~fomi~~)  
-  
+- **sepu** _v._ (~~fomi~~)  
+
 
   - **sepulon** _n._ (sepu+lon)  
   
@@ -7764,7 +7752,7 @@ ser agudo; ʟᴏᴧ es agudo
   - **sepusiklalon** _n._ (sepu+siklalon)  
   
 
-  - **sepuki** _v._ (~~fomi~~)  
+  - **sepuki** _v._ (sepu+ki)  
   
 
   - **sepukiles** _n._ (sepuki+les)  
@@ -7827,8 +7815,8 @@ ser agudo; ʟᴏᴧ es agudo
   - **'salpitilip** _n._ ('salpi+tilip)  
   
 
-- **'sawntume** _n._ (Por. &langle;São Tomé>)  
-
+  - **'sawntume** _n._ (Por. &langle;São Tomé>)  
+  
 
   - **'sawntumetayl** _n._ ('sawntume+tayl)  
   
@@ -7842,8 +7830,8 @@ ser agudo; ʟᴏᴧ es agudo
   - **'sawntume'pilinsipiwon** _n._ ('sawntume'pilinsipi+won)  
   
 
-- **'sawmpawlu** _n._ (Por. &langle;São Paulo>)  
-
+  - **'sawmpawlu** _n._ (Por. &langle;São Paulo>)  
+  
 
 - **san** _num._ (Cmn. &langle;三&rangle; [san])  
 3; tres; triple
@@ -7872,8 +7860,8 @@ ser agudo; ʟᴏᴧ es agudo
   - **sanokiluat** _n._ (sanoki+luat)  
   
 
-- **'sanmalino** _n._ (Ita. &langle;San Marino>)  
-
+  - **'sanmalino** _n._ (Ita. &langle;San Marino>)  
+  
 
   - **'sanmalinoak** _n._ ('sanmalino+ak)  
   
@@ -8385,9 +8373,6 @@ ser recto; ser derecho; ser lineal; ʟᴏᴧ es recto
   - **sitetayl** _n._ (site+tayl)  
   
 
-  - **sitetaylak** _n._ (sitetayl+ak)  
-  
-
   - **siteponto** _v._ (site+ponto)  
   
 
@@ -8430,8 +8415,8 @@ ser recto; ser derecho; ser lineal; ʟᴏᴧ es recto
   - **'suomitilip** _n._ ('suomi+tilip)  
   
 
-  - **suotu** _v._ (~~fieli~~)  
-  
+- **suotu** _v._ (~~fieli~~)  
+
 
   - **suotulon** _n._ (suotu+lon)  
   
@@ -8439,7 +8424,7 @@ ser recto; ser derecho; ser lineal; ʟᴏᴧ es recto
   - **suotulum** _n._ (suotu+lum)  
   
 
-  - **suotuki** _v._ (~~fieli~~)  
+  - **suotuki** _v._ (suotu+ki)  
   
 
 - **sul** _n._ (Pan. &langle;ਸੂਰ&rangle; [suɾ])  
@@ -8634,8 +8619,8 @@ abeja; Anthophilia
   - **'sututilip** _n._ ('sutu+tilip)  
   
 
-  - **supot** _n._ (~~fimel~~)  
-  
+- **supot** _n._ (~~fimel~~)  
+
 
   - **supotak** _n._ (supot+ak)  
   
@@ -8771,25 +8756,25 @@ abeja; Anthophilia
   - **femamul** _n._ (fe+mamul)  
   
 
-  - **femo** _v._ (~~sope~~)  
-  
+- **femo** _v._ (~~sope~~)  
+
 
   - **femolon** _n._ (femo+lon)  
   
 
-  - **femoki** _v._ (~~sope~~)  
+  - **femoki** _v._ (femo+ki)  
   
 
   - **femokiles** _n._ (femoki+les)  
   
 
-  - **fefua** _v._ (~~sosia~~)  
-  
+- **fefua** _v._ (~~sosia~~)  
+
 
   - **fefualon** _n._ (fefua+lon)  
   
 
-  - **fefuaki** _v._ (~~sosia~~)  
+  - **fefuaki** _v._ (fefua+ki)  
   
 
   - **feki** _v._ (fe+ki)  
@@ -8807,8 +8792,8 @@ abeja; Anthophilia
   - **fepucocalulum** _n._ (fepucocalu+lum)  
   
 
-  - **fawci** _v._ (~~sayhu~~)  
-  
+- **fawci** _v._ (~~sayhu~~)  
+
 
   - **fawcilon** _n._ (fawci+lon)  
   
@@ -8816,7 +8801,7 @@ abeja; Anthophilia
   - **fawcilum** _n._ (fawci+lum)  
   
 
-  - **fawciki** _v._ (~~sayhu~~)  
+  - **fawciki** _v._ (fawci+ki)  
   
 
 - **fan** _n._ (Cmn. &langle;饭&rangle; [fan˥˩])  
@@ -8858,11 +8843,11 @@ abeja; Anthophilia
   - **'fahansetilip** _n._ ('fahanse+tilip)  
   
 
-  - **fak** _num._ (~~san~~)  
-  13; trece
+- **fak** _num._ (~~san~~)  
+13; trece
 
-  - **fake** _v._ (~~sano~~)  
-  
+- **fake** _v._ (~~sano~~)  
+
 
   - **fakelon** _n._ (fake+lon)  
   
@@ -8870,7 +8855,7 @@ abeja; Anthophilia
   - **fakelip** _n._ (fake+lip)  
   
 
-  - **fakeki** _v._ (~~sano~~)  
+  - **fakeki** _v._ (fake+ki)  
   
 
   - **fakekiles** _n._ (fakeki+les)  
@@ -8972,8 +8957,8 @@ abeja; Anthophilia
 - **'fosfolus** _n._ (Lat. &langle;phosphorus&rangle; [fosfɔrus])  
 
 
-  - **fotlu** _v._ (~~selti~~)  
-  
+- **fotlu** _v._ (~~selti~~)  
+
 
   - **fotlulon** _n._ (fotlu+lon)  
   
@@ -8981,11 +8966,11 @@ abeja; Anthophilia
   - **fotlulum** _n._ (fotlu+lum)  
   
 
-  - **fotluki** _v._ (~~selti~~)  
+  - **fotluki** _v._ (fotlu+ki)  
   
 
-  - **fotwe** _v._ (~~selyo~~)  
-  
+- **fotwe** _v._ (~~selyo~~)  
+
 
   - **fotwelon** _n._ (fotwe+lon)  
   
@@ -8993,7 +8978,7 @@ abeja; Anthophilia
   - **fotwelum** _n._ (fotwe+lum)  
   
 
-  - **fotweki** _v._ (~~selyo~~)  
+  - **fotweki** _v._ (fotwe+ki)  
   
 
 - **'fi** _n._ (Grc. &langle;φ&rangle; [pʰi])  
@@ -9029,8 +9014,8 @@ abeja; Anthophilia
 - **'fiolino** _n._ (Ita. &langle;violino&rangle; [vioˈlino])  
 
 
-  - **fila** _v._ (~~suta~~)  
-  
+- **fila** _v._ (~~suta~~)  
+
 
   - **fila'elyatec** _n._ (fila+'elyatec)  
   
@@ -9089,7 +9074,7 @@ abeja; Anthophilia
   - **'filastinkwelyot** _n._ ('filastin+kwelyot)  
   
 
-  - **filaki** _v._ (~~suta~~)  
+  - **filaki** _v._ (fila+ki)  
   
 
   - **fila'kiplostec** _n._ (fila+'kiplostec)  
@@ -9131,8 +9116,8 @@ abeja; Anthophilia
   - **'ficitilip** _n._ ('fici+tilip)  
   
 
-  - **fik** _n._ (~~sun~~)  
-  
+- **fik** _n._ (~~sun~~)  
+
 
   - **fikak** _n._ (fik+ak)  
   
@@ -9200,13 +9185,13 @@ abeja; Anthophilia
   - **fitiki** _v._ (fiti+ki)  
   
 
-  - **fulo** _v._ (~~site~~)  
-  
+- **fulo** _v._ (~~site~~)  
+
 
   - **fulolon** _n._ (fulo+lon)  
   
 
-  - **fuloki** _v._ (~~site~~)  
+  - **fuloki** _v._ (fulo+ki)  
   
 
   - **fulokiles** _n._ (fuloki+les)  
@@ -9236,8 +9221,8 @@ abeja; Anthophilia
 - **'fuluolum** _n._ (Lat. &langle;fluorum&rangle; [flʊorʊ̃])  
 
 
-  - **funta** _v._ (~~sikla~~)  
-  
+- **funta** _v._ (~~sikla~~)  
+
 
   - **funtalet** _n._ (funta+let)  
   
@@ -9254,8 +9239,8 @@ abeja; Anthophilia
   - **funtaki** _v._ (funta+ki)  
   
 
-  - **fuha** _v._ (~~sica~~)  
-  
+- **fuha** _v._ (~~sica~~)  
+
 
   - **fuhalon** _n._ (fuha+lon)  
   
@@ -9266,7 +9251,7 @@ abeja; Anthophilia
   - **fuhalwel** _n._ (fuha+lwel)  
   
 
-  - **fuhaki** _v._ (~~sica~~)  
+  - **fuhaki** _v._ (fuha+ki)  
   
 
   - **fuhakiles** _n._ (fuhaki+les)  
@@ -9299,8 +9284,8 @@ abeja; Anthophilia
 - **'futpol** _n._ (Eng. &langle;football&rangle; [ˈfʊʔbɔːl])  
 
 
-  - **fyamo** _v._ (~~swape~~)  
-  
+- **fyamo** _v._ (~~swape~~)  
+
 
   - **fyamolon** _n._ (fyamo+lon)  
   
@@ -9308,7 +9293,7 @@ abeja; Anthophilia
   - **fyamohwok** _n._ (fyamo+hwok)  
   
 
-  - **fyamoki** _v._ (~~swape~~)  
+  - **fyamoki** _v._ (fyamo+ki)  
   
 
 - **'fyoloncelo** _n._ (Ita. &langle;violoncello&rangle; [vjolonˈt͡ʃɛllo])  
@@ -9340,8 +9325,8 @@ abeja; Anthophilia
   - **'kealtilip** _n._ ('keal+tilip)  
   
 
-  - **kela** _v._ (~~nota~~)  
-  
+- **kela** _v._ (~~nota~~)  
+
 
   - **kelalon** _n._ (kela+lon)  
   
@@ -9349,7 +9334,7 @@ abeja; Anthophilia
   - **kelalum** _n._ (kela+lum)  
   
 
-  - **kelaki** _v._ (~~nota~~)  
+  - **kelaki** _v._ (kela+ki)  
   
 
   - **kelakiles** _n._ (kelaki+les)  
@@ -9487,13 +9472,13 @@ abeja; Anthophilia
   - **'kalinakotilip** _n._ ('kalinako+tilip)  
   
 
-  - **kalita** _v._ (~~natula~~)  
-  
+- **kalita** _v._ (~~natula~~)  
+
 
   - **kalitalon** _n._ (kalita+lon)  
   
 
-  - **kalitaki** _v._ (~~natula~~)  
+  - **kalitaki** _v._ (kalita+ki)  
   
 
 - **'kalcium** _n._ (Lat. &langle;calcium&rangle; [kalt͡ʃɪʊ̃])  
@@ -9520,8 +9505,8 @@ abeja; Anthophilia
 - **'kawai** _n._ (Jpn. &langle;かわいい&rangle; [kaɰaiː])  
 
 
-- **'kawtay** _n._ (Vie. &langle;Cao Đài>)  
-
+  - **'kawtay** _n._ (Vie. &langle;Cao Đài>)  
+  
 
   - **'kawtayfitilip** _n._ ('kawtay+fitilip)  
   
@@ -9841,8 +9826,8 @@ abeja; Anthophilia
   - **'kaponwon** _n._ ('kapon+won)  
   
 
-- **'kapufelti** _n._ (Por. &langle;Cabo Verde>)  
-
+  - **'kapufelti** _n._ (Por. &langle;Cabo Verde>)  
+  
 
   - **'kapufeltiak** _n._ ('kapufelti+ak)  
   
@@ -9856,8 +9841,8 @@ abeja; Anthophilia
   - **'kapufeltitilip** _n._ ('kapufelti+tilip)  
   
 
-  - **ko** _v._ (~~ne~~)  
-  
+- **ko** _v._ (~~ne~~)  
+
 
 - **'ko** _n._ (ono. [k])  
 
@@ -9871,8 +9856,8 @@ abeja; Anthophilia
 - **kol** _n._ (Spa. &langle;col&rangle; [kol])  
 
 
-  - **kola** _v._ (~~neta~~)  
-  
+- **kola** _v._ (~~neta~~)  
+
 
   - **kolalon** _n._ (kola+lon)  
   
@@ -9880,7 +9865,7 @@ abeja; Anthophilia
   - **kolalyan** _n._ (kola+lyan)  
   
 
-  - **kolaki** _v._ (~~neta~~)  
+  - **kolaki** _v._ (kola+ki)  
   
 
   - **kolakiles** _n._ (kolaki+les)  
@@ -10069,8 +10054,8 @@ abeja; Anthophilia
   - **'kosowawon** _n._ ('kosowa+won)  
   
 
-- **'kostalika** _n._ (Spa. &langle;Costa Rica>)  
-
+  - **'kostalika** _n._ (Spa. &langle;Costa Rica>)  
+  
 
   - **'kostalikaak** _n._ ('kostalika+ak)  
   
@@ -10093,7 +10078,7 @@ abeja; Anthophilia
 - **'kof** _n._ (Eng. &langle;golf&rangle; [ɡɒf])  
 
 
-  - **koki** _v._ (~~ne~~)  
+  - **koki** _v._ (ko+ki)  
   
 
   - **kokilyot** _n._ (koki+lyot)  
@@ -10117,8 +10102,8 @@ abeja; Anthophilia
   - **kotilon** _n._ (koti+lon)  
   
 
-- **'kotifwah** _n._ (Fra. &langle;Côte d'Ivoire>)  
-
+  - **'kotifwah** _n._ (Fra. &langle;Côte d'Ivoire>)  
+  
 
   - **'kotifwahak** _n._ ('kotifwah+ak)  
   
@@ -10240,8 +10225,8 @@ abeja; Anthophilia
   - **'kiskeyawon** _n._ ('kiskeya+won)  
   
 
-  - **kit** _num._ (~~nul~~)  
-  todo; todos; absoluto; máximo
+- **kit** _num._ (~~nul~~)  
+todo; todos; absoluto; máximo
 
   - **kitak** _n._ (kit+ak)  
   
@@ -10507,8 +10492,8 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
   - **kumnatupan** _n._ (kumna+tupan)  
   
 
-  - **kuho** _v._ (~~nice~~)  
-  
+- **kuho** _v._ (~~nice~~)  
+
 
 - **kuhol** _n._ (Fil. &langle;kuhol&rangle; [kuhol])  
 
@@ -10519,7 +10504,7 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
   - **kuholon** _n._ (kuho+lon)  
   
 
-  - **kuhoki** _v._ (~~nice~~)  
+  - **kuhoki** _v._ (kuho+ki)  
   
 
   - **kuhokiles** _n._ (kuhoki+les)  
@@ -10546,8 +10531,8 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
 - **'kuskus** _n._ (Ara. &langle;كسكس&rangle; [kuskus])  
 
 
-- **'kukaylan** _n._ (Eng. &langle;Cook Islands>)  
-
+  - **'kukaylan** _n._ (Eng. &langle;Cook Islands>)  
+  
 
   - **'kukaylanak** _n._ ('kukaylan+ak)  
   
@@ -10573,8 +10558,8 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
 - **kukulik** _n._ (ono. [kuk)  
 
 
-  - **kuta** _v._ (~~nila~~)  
-  
+- **kuta** _v._ (~~nila~~)  
+
 
   - **kutalais** _n._ (kuta+lais)  
   
@@ -10585,7 +10570,7 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
   - **kutaceluk** _n._ (kuta+celuk)  
   
 
-  - **kutaki** _v._ (~~nila~~)  
+  - **kutaki** _v._ (kuta+ki)  
   
 
   - **kutakwah** _n._ (kuta+kwah)  
@@ -10639,8 +10624,8 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
   - **'kupawon** _n._ ('kupa+won)  
   
 
-  - **kwe** _v._ (~~nyo~~)  
-  
+- **kwe** _v._ (~~nyo~~)  
+
 
   - **kwelayf** _n._ (kwe+layf)  
   
@@ -11130,8 +11115,8 @@ ser tenso; ser intenso; estar bajo presión; ʟᴏᴧ es tenso
   - **'tayak** _n._ ('tay+ak)  
   
 
-  - **tayl** _n._ (~~lawt~~)  
-  
+- **tayl** _n._ (~~lawt~~)  
+
 
   - **taylalkas** _n._ (tayl+alkas)  
   
@@ -11277,8 +11262,8 @@ ser tenso; ser intenso; estar bajo presión; ʟᴏᴧ es tenso
   - **'tamiltilip** _n._ ('tamil+tilip)  
   
 
-  - **tafu** _v._ (~~lasi~~)  
-  
+- **tafu** _v._ (~~lasi~~)  
+
 
   - **tafulon** _n._ (tafu+lon)  
   
@@ -11292,7 +11277,7 @@ ser tenso; ser intenso; estar bajo presión; ʟᴏᴧ es tenso
   - **tafunihuti** _v._ (tafunihu+ti)  
   
 
-  - **tafuki** _v._ (~~lasi~~)  
+  - **tafuki** _v._ (tafu+ki)  
   
 
   - **tafukiles** _n._ (tafuki+les)  
@@ -11352,8 +11337,8 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **tatuki** _v._ (tatu+ki)  
   
 
-  - **tapa** _v._ (~~lama~~)  
-  
+- **tapa** _v._ (~~lama~~)  
+
 
 - **'tapa** _n._ (Tah. &langle;tapa&rangle; [tapa])  
 
@@ -11364,7 +11349,7 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **tapafuloki** _v._ (tapa+fuloki)  
   
 
-  - **tapaki** _v._ (~~lama~~)  
+  - **tapaki** _v._ (tapa+ki)  
   
 
   - **tapakiles** _n._ (tapaki+les)  
@@ -11376,8 +11361,8 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
 - **tapil** _n._ (Spa. &langle;tapir&rangle; [taˈpir])  
 
 
-  - **to** _v._ (~~le~~)  
-  
+- **to** _v._ (~~le~~)  
+
 
 - **'toyc** _n._ (Deu. &langle;Deutsch&rangle; [ˈdɔʏ̯t͡ʃ])  
 
@@ -11481,13 +11466,13 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **toskwelwel** _n._ (tos+kwelwel)  
   
 
-  - **tofta** _v._ (~~lesla~~)  
-  
+- **tofta** _v._ (~~lesla~~)  
+
 
   - **toftalon** _n._ (tofta+lon)  
   
 
-  - **toftaki** _v._ (~~lesla~~)  
+  - **toftaki** _v._ (tofta+ki)  
   
 
   - **toftakiles** _n._ (toftaki+les)  
@@ -11541,11 +11526,11 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **tokoki** _v._ (toko+ki)  
   
 
-  - **toki** _v._ (~~le~~)  
+  - **toki** _v._ (to+ki)  
   
 
-- **'tokipona** _n._ (Tok. &langle;toki pona>)  
-
+  - **'tokipona** _n._ (Tok. &langle;toki pona>)  
+  
 
   - **'tokiponaak** _n._ ('tokipona+ak)  
   
@@ -11556,8 +11541,8 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
 - **'tokyo** _n._ (Jpn. &langle;東京&rangle; [toːkʲoː])  
 
 
-  - **toto** _v._ (~~lele~~)  
-  
+- **toto** _v._ (~~lele~~)  
+
 
 - **'topeykow** _n._ (Eng. &langle;Tobago&rangle; [təbeɪɡəʊ])  
 
@@ -11598,8 +11583,8 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **tilon** _n._ (ti+lon)  
   
 
-- **'tili** _n._ (Hin. &langle;दिल्ली >)  
-
+  - **'tili** _n._ (Hin. &langle;दिल्ली >)  
+  
 
   - **tilip** _n._ (ti+lip)  
   
@@ -11691,8 +11676,8 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **'timolak** _n._ ('timol+ak)  
   
 
-  - **tihu** _v._ (~~luci~~)  
-  
+- **tihu** _v._ (~~luci~~)  
+
 
   - **tihulon** _n._ (tihu+lon)  
   
@@ -11700,7 +11685,7 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **tihuceluk** _n._ (tihu+celuk)  
   
 
-  - **tihuki** _v._ (~~luci~~)  
+  - **tihuki** _v._ (tihu+ki)  
   
 
   - **tihukio** _v._ (tihu+kio)  
@@ -11721,8 +11706,8 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
 - **'ticat** _n._ (Eng. &langle;T-shirt&rangle; [tʰiː)  
 
 
-  - **tife** _v._ (~~luso~~)  
-  
+- **tife** _v._ (~~luso~~)  
+
 
   - **tifelon** _n._ (tife+lon)  
   
@@ -11730,7 +11715,7 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **tifecoh** _n._ (tife+coh)  
   
 
-  - **tifeki** _v._ (~~luso~~)  
+  - **tifeki** _v._ (tife+ki)  
   
 
   - **tifekiles** _n._ (tifeki+les)  
@@ -11745,17 +11730,17 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
 - **tik** _n._ (Mar. &langle;टिक&rangle; [ʈik])  
 
 
-  - **tika** _v._ (~~luna~~)  
-  
+- **tika** _v._ (~~luna~~)  
+
 
   - **tikalon** _n._ (tika+lon)  
   
 
-  - **tikaki** _v._ (~~luna~~)  
+  - **tikaki** _v._ (tika+ki)  
   
 
-  - **tiku** _v._ (~~luni~~)  
-  
+- **tiku** _v._ (~~luni~~)  
+
 
   - **tikulon** _n._ (tiku+lon)  
   
@@ -11763,7 +11748,7 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **tikulyan** _n._ (tiku+lyan)  
   
 
-  - **tikuki** _v._ (~~luni~~)  
+  - **tikuki** _v._ (tiku+ki)  
   
 
   - **tikpic** _n._ (tik+pic)  
@@ -12030,8 +12015,8 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
   - **tutumutilum** _n._ (tutumu+tilum)  
   
 
-  - **tup** _num._ (~~lim~~)  
-  11; once
+- **tup** _num._ (~~lim~~)  
+11; once
 
 - **tupel** _n._ (Epo. &langle;tubero&rangle; [tuˈbero])  
 
@@ -12089,8 +12074,8 @@ sobre; dividido por
   - **peles** _n._ (pe+les)  
   
 
-  - **pela** _v._ (~~mota~~)  
-  
+- **pela** _v._ (~~mota~~)  
+
 
   - **pelaicilon** _n._ (pela+icilon)  
   
@@ -12140,7 +12125,7 @@ sobre; dividido por
   - **pelakol** _n._ (pela+kol)  
   
 
-  - **pelaki** _v._ (~~mota~~)  
+  - **pelaki** _v._ (pela+ki)  
   
 
   - **pelakiles** _n._ (pelaki+les)  
@@ -12197,8 +12182,8 @@ sobre; dividido por
   - **peltososolon** _n._ (peltososo+lon)  
   
 
-  - **pewo** _v._ (~~moye~~)  
-  
+- **pewo** _v._ (~~moye~~)  
+
 
   - **pewolon** _n._ (pewo+lon)  
   
@@ -12206,7 +12191,7 @@ sobre; dividido por
   - **pewolum** _n._ (pewo+lum)  
   
 
-  - **pewoki** _v._ (~~moye~~)  
+  - **pewoki** _v._ (pewo+ki)  
   
 
   - **pewokiles** _n._ (pewoki+les)  
@@ -12269,8 +12254,8 @@ sobre; dividido por
   - **'pehenlawt** _n._ ('pehen+lawt)  
   
 
-  - **peha** _v._ (~~moca~~)  
-  
+- **peha** _v._ (~~moca~~)  
+
 
   - **pehalon** _n._ (peha+lon)  
   
@@ -12284,7 +12269,7 @@ sobre; dividido por
   - **pehafakelon** _n._ (pehafake+lon)  
   
 
-  - **pehaki** _v._ (~~moca~~)  
+  - **pehaki** _v._ (peha+ki)  
   
 
   - **pehakifake** _v._ (peha+ki+fake)  
@@ -12638,8 +12623,8 @@ sobre; dividido por
   - **'pahaiwon** _n._ ('pahai+won)  
   
 
-- **'pahama** _n._ (Eng. &langle;The Bahamas>)  
-
+  - **'pahama** _n._ (Eng. &langle;The Bahamas>)  
+  
 
   - **'pahamaak** _n._ ('pahama+ak)  
   
@@ -12740,13 +12725,13 @@ sobre; dividido por
   - **'pakistantilip** _n._ ('pakistan+tilip)  
   
 
-  - **pakha** _v._ (~~manca~~)  
-  
+- **pakha** _v._ (~~manca~~)  
+
 
   - **pakhalon** _n._ (pakha+lon)  
   
 
-  - **pakhaki** _v._ (~~manca~~)  
+  - **pakhaki** _v._ (pakha+ki)  
   
 
 - **paktel** _n._ (Jav. &langle;baktèri&rangle; [pɑ̤ktɛɽi])  
@@ -12780,9 +12765,6 @@ sobre; dividido por
   
 
   - **patoufatayl** _n._ (patoufa+tayl)  
-  
-
-  - **patoufataylak** _n._ (patoufatayl+ak)  
   
 
   - **patolon** _n._ (pato+lon)  
@@ -12833,8 +12815,8 @@ sobre; dividido por
 - **'papilim** _n._ (Akk. &langle;𒆍𒀭𒊏𒆠&rangle; [baːbili])  
 
 
-- **'papua** _n._ (Tpi. &langle;Papua Niugini>)  
-
+  - **'papua** _n._ (Tpi. &langle;Papua Niugini>)  
+  
 
   - **'papuaak** _n._ ('papua+ak)  
   
@@ -12914,8 +12896,8 @@ sobre; dividido por
 - **'polalis** _n._ (Lat. &langle;Polaris&rangle; [polaris])  
 
 
-- **'polalisawstalis** _n._ (Lat. &langle;Polaris Australis>)  
-
+  - **'polalisawstalis** _n._ (Lat. &langle;Polaris Australis>)  
+  
 
   - **polalip** _n._ (pola+lip)  
   
@@ -13067,11 +13049,11 @@ sobre; dividido por
   - **'posnatilip** _n._ ('posna+tilip)  
   
 
-  - **pok** _num._ (~~men~~)  
-  positivo; plus
+- **pok** _num._ (~~men~~)  
+positivo; plus
 
-- **'poksimacentawli** _n._ (Lat. &langle;Proxima Centauri>)  
-
+  - **'poksimacentawli** _n._ (Lat. &langle;Proxima Centauri>)  
+  
 
 - **'potasium** _n._ (Lat. &langle;potassium&rangle; [pɔtassɪʊ̃])  
 
@@ -13163,8 +13145,8 @@ sobre; dividido por
   - **pilmuf** _n._ (pil+muf)  
   
 
-  - **pih** _num._ (~~muc~~)  
-  poco; pocos
+- **pih** _num._ (~~muc~~)  
+poco; pocos
 
   - **pihonalon** _n._ (pih+onalon)  
   
@@ -13394,8 +13376,8 @@ sobre; dividido por
   - **'puhkinafasowon** _n._ ('puhkinafaso+won)  
   
 
-  - **puhte** _v._ (~~miclo~~)  
-  
+- **puhte** _v._ (~~miclo~~)  
+
 
   - **puhtelon** _n._ (puhte+lon)  
   
@@ -13403,7 +13385,7 @@ sobre; dividido por
   - **puhtecwelon** _n._ (puhte+cwelon)  
   
 
-  - **puhteki** _v._ (~~miclo~~)  
+  - **puhteki** _v._ (puhte+ki)  
   
 
   - **puhtekilum** _n._ (puhteki+lum)  
@@ -13436,8 +13418,8 @@ sobre; dividido por
   - **pucilon** _n._ (puci+lon)  
   
 
-  - **puk** _pn._ (~~min~~)  
-  
+- **puk** _pn._ (~~min~~)  
+
 
   - **puket** _pn._ (puk+et)  
   
@@ -13577,8 +13559,8 @@ elefante
   - **pyopowilon** _n._ (pyopowi+lon)  
   
 
-- **'pwenosayles** _n._ (Spa. &langle;Buenos Aires>)  
-
+  - **'pwenosayles** _n._ (Spa. &langle;Buenos Aires>)  
+  
 
 - **'pwitan** _n._ (Eng. &langle;Britain&rangle; [ˈbɹʷɪʔən])  
 
