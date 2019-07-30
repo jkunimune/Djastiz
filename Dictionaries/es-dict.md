@@ -1,13576 +1,13576 @@
-## e
+### e
 
-- **'e** _n._ (ono. [e])  
+- <a name="'e">**'e**</a> _n._ (ono. [e])  
 
 
-- **'e** _n._ (Lat. &langle;e&rangle; [eː])  
+- <a name="'e">**'e**</a> _n._ (Lat. &langle;e&rangle; [eː])  
 
 
-- **ealwik** _n._ (Fil. &langle;earwig&rangle; [eaɾwiɡ])  
+- <a name="ealwik">**ealwik**</a> _n._ (Fil. &langle;earwig&rangle; [eaɾwiɡ])  
 
 
-- **elehe** _v._ (Spa. &langle;elige&rangle; [eˈlixe])  
+- <a name="elehe">**elehe**</a> _v._ (Spa. &langle;elige&rangle; [eˈlixe])  
 
 
-  - **eleheestaki** _v._ (elehe+estaki)  
-  
+- <a name="eleheestaki">**eleheestaki**</a> _v._ ([elehe](#elehe)+[estaki](#estaki))  
 
-  - **eleheestakiles** _n._ (eleheestaki+les)  
-  
 
-  - **eleheestakilon** _n._ (eleheestaki+lon)  
-  
+- <a name="eleheestakiles">**eleheestakiles**</a> _n._ ([eleheestaki](#eleheestaki)+[les](#les))  
 
-  - **eleheles** _n._ (elehe+les)  
-  
 
-  - **elehelon** _n._ (elehe+lon)  
-  
+- <a name="eleheestakilon">**eleheestakilon**</a> _n._ ([eleheestaki](#eleheestaki)+[lon](#lon))  
 
-  - **elehehau** _v._ (elehe+hau)  
-  
 
-  - **elehehaulon** _n._ (elehehau+lon)  
-  
+- <a name="eleheles">**eleheles**</a> _n._ ([elehe](#elehe)+[les](#les))  
 
-  - **elehetunciki** _v._ (elehe+tunciki)  
-  
 
-- **elec** _n._ (Spa. &langle;helecho&rangle; [eˈlet͡ʃo])  
+- <a name="elehelon">**elehelon**</a> _n._ ([elehe](#elehe)+[lon](#lon))  
 
 
-- **'elefen** _n._ (Lfn. &langle;Elefen&rangle; [elefen])  
+- <a name="elehehau">**elehehau**</a> _v._ ([elehe](#elehe)+[hau](#hau))  
 
 
-  - **'elefenak** _n._ ('elefen+ak)  
-  
+- <a name="elehehaulon">**elehehaulon**</a> _n._ ([elehehau](#elehehau)+[lon](#lon))  
 
-  - **'elefenwon** _n._ ('elefen+won)  
-  
 
-- **'elin** _n._ (Ell. &langle;Έλλην&rangle; [ˈelin])  
+- <a name="elehetunciki">**elehetunciki**</a> _v._ ([elehe](#elehe)+[tunciki](#tunciki))  
 
 
-  - **'elinak** _n._ ('elin+ak)  
-  
+- <a name="elec">**elec**</a> _n._ (Spa. &langle;helecho&rangle; [eˈlet͡ʃo])  
 
-  - **'elin'kilistosfitilip** _n._ ('elin+'kilistosfitilip)  
-  
 
-  - **'elintec** _n._ ('elin+tec)  
-  
+- <a name="'elefen">**'elefen**</a> _n._ (Lfn. &langle;Elefen&rangle; [elefen])  
 
-  - **'elintilip** _n._ ('elin+tilip)  
-  
 
-- **'elitla** _n._ (Tir. &langle;ኤርትራ&rangle; [ertra])  
+- <a name="'elefenak">**'elefenak**</a> _n._ (['elefen](#'elefen)+[ak](#ak))  
 
 
-  - **'elitlaak** _n._ ('elitla+ak)  
-  
+- <a name="'elefenwon">**'elefenwon**</a> _n._ (['elefen](#'elefen)+[won](#won))  
 
-  - **'elitlawon** _n._ ('elitla+won)  
-  
 
-- **elu** _v._ (Ibo. &langle;elu&rangle; [elu])  
+- <a name="'elin">**'elin**</a> _n._ (Ell. &langle;Έλλην&rangle; [ˈelin])  
 
 
-  - **elulon** _n._ (elu+lon)  
-  
+- <a name="'elinak">**'elinak**</a> _n._ (['elin](#'elin)+[ak](#ak))  
 
-  - **elulyan** _n._ (elu+lyan)  
-  
 
-  - **eluki** _v._ (elu+ki)  
-  
+- <a name="'elin'kilistosfitilip">**'elin'kilistosfitilip**</a> _n._ (['elin](#'elin)+['kilistosfitilip](#'kilistosfitilip))  
 
-- **'elya** _n._ (Gle. &langle;Éire&rangle; [ˈeːɾʲə])  
 
+- <a name="'elintec">**'elintec**</a> _n._ (['elin](#'elin)+[tec](#tec))  
 
-  - **'elyaak** _n._ ('elya+ak)  
-  
 
-  - **'elyawon** _n._ ('elya+won)  
-  
+- <a name="'elintilip">**'elintilip**</a> _n._ (['elin](#'elin)+[tilip](#tilip))  
 
-  - **'elyatec** _n._ ('elya+tec)  
-  
 
-  - **'elyatilip** _n._ ('elya+tilip)  
-  
+- <a name="'elitla">**'elitla**</a> _n._ (Tir. &langle;ኤርትራ&rangle; [ertra])  
 
-- **'ewlo** _n._ (Spa. &langle;euro&rangle; [ˈewɾo])  
 
+- <a name="'elitlaak">**'elitlaak**</a> _n._ (['elitla](#'elitla)+[ak](#ak))  
 
-- **'ewlope** _n._ (Grc. &langle;Εὐρώπη&rangle; [ēwrɔ́ːpɛ̄ː])  
 
+- <a name="'elitlawon">**'elitlawon**</a> _n._ (['elitla](#'elitla)+[won](#won))  
 
-  - **'ewlopeak** _n._ ('ewlope+ak)  
-  
 
-  - **'ewlopewon** _n._ ('ewlope+won)  
-  
+- <a name="elu">**elu**</a> _v._ (Ibo. &langle;elu&rangle; [elu])  
 
-- **en** _spec._ (Eng. &langle;any&rangle; [ˈɛni])  
 
+- <a name="elulon">**elulon**</a> _n._ ([elu](#elu)+[lon](#lon))  
 
-- **eni** _v._ (~~oku~~)  
 
+- <a name="elulyan">**elulyan**</a> _n._ ([elu](#elu)+[lyan](#lyan))  
 
-  - **eniufa** _v._ (eni+ufa)  
-  
 
-  - **eniufalon** _n._ (eniufa+lon)  
-  
+- <a name="eluki">**eluki**</a> _v._ ([elu](#elu)+[ki](#ki))  
 
-  - **enilon** _n._ (eni+lon)  
-  
 
-  - **enilono** _v._ (eni+lono)  
-  
+- <a name="'elya">**'elya**</a> _n._ (Gle. &langle;Éire&rangle; [ˈeːɾʲə])  
 
-  - **enilonolon** _n._ (enilono+lon)  
-  
 
-  - **enihila** _v._ (eni+hila)  
-  
+- <a name="'elyaak">**'elyaak**</a> _n._ (['elya](#'elya)+[ak](#ak))  
 
-  - **enicipcip** _n._ (eni+cipcip)  
-  
 
-  - **enisison** _n._ (eni+sison)  
-  
+- <a name="'elyawon">**'elyawon**</a> _n._ (['elya](#'elya)+[won](#won))  
 
-  - **eniki** _v._ (eni+ki)  
-  
 
-  - **enikiles** _n._ (eniki+les)  
-  
+- <a name="'elyatec">**'elyatec**</a> _n._ (['elya](#'elya)+[tec](#tec))  
 
-  - **enitayl** _n._ (eni+tayl)  
-  
 
-- **'emalati** _n._ (Ara. &langle;إماراتيين‎&rangle; [ʔemaːraːti])  
+- <a name="'elyatilip">**'elyatilip**</a> _n._ (['elya](#'elya)+[tilip](#tilip))  
 
 
-  - **'emalatiak** _n._ ('emalati+ak)  
-  
+- <a name="'ewlo">**'ewlo**</a> _n._ (Spa. &langle;euro&rangle; [ˈewɾo])  
 
-  - **'emalatitec** _n._ ('emalati+tec)  
-  
 
-- **emana** _v._ (~~opaka~~)  
+- <a name="'ewlope">**'ewlope**</a> _n._ (Grc. &langle;Εὐρώπη&rangle; [ēwrɔ́ːpɛ̄ː])  
 
 
-  - **emanalon** _n._ (emana+lon)  
-  
+- <a name="'ewlopeak">**'ewlopeak**</a> _n._ (['ewlope](#'ewlope)+[ak](#ak))  
 
-  - **emanaki** _v._ (emana+ki)  
-  
 
-  - **emanapato** _v._ (emana+pato)  
-  
+- <a name="'ewlopewon">**'ewlopewon**</a> _n._ (['ewlope](#'ewlope)+[won](#won))  
 
-  - **emanapatolon** _n._ (emanapato+lon)  
-  
 
-- **'emoci** _n._ (Jap. &langle;絵文字&rangle; [emod͡ʑi])  
+- <a name="en">**en**</a> _spec._ (Eng. &langle;any&rangle; [ˈɛni])  
 
 
-- **'empanata** _n._ (Spa. &langle;empanada&rangle; [empaˈnaða])  
+- <a name="eni">**eni**</a> _v._ ([~~oku~~](#oku))  
 
 
-- **ec** _n._ (Yor. &langle;ẹṣẹ́&rangle; [ɛ̄ʃɛ́])  
+- <a name="eniufa">**eniufa**</a> _v._ ([eni](#eni)+[ufa](#ufa))  
 
 
-  - **ecak** _n._ (ec+ak)  
-  
+- <a name="eniufalon">**eniufalon**</a> _n._ ([eniufa](#eniufa)+[lon](#lon))  
 
-- **es** _post._ (∅)  
 
+- <a name="enilon">**enilon**</a> _n._ ([eni](#eni)+[lon](#lon))  
 
-- **'eskutelya** _n._ (Cat. &langle;escudella&rangle; [əskuˈðeʎə])  
 
+- <a name="enilono">**enilono**</a> _v._ ([eni](#eni)+[lono](#lono))  
 
-- **este** _v._ (Spa. &langle;este&rangle; [ˈeste])  
 
+- <a name="enilonolon">**enilonolon**</a> _n._ ([enilono](#enilono)+[lon](#lon))  
 
-  - **estelon** _n._ (este+lon)  
-  
 
-  - **estelum** _n._ (este+lum)  
-  
+- <a name="enihila">**enihila**</a> _v._ ([eni](#eni)+[hila](#hila))  
 
-  - **estelyan** _n._ (este+lyan)  
-  
 
-  - **estelyanpucolon** _n._ (estelyan+pucolon)  
-  
+- <a name="enicipcip">**enicipcip**</a> _n._ ([eni](#eni)+[cipcip](#cipcip))  
 
-  - **esteseswicon** _n._ (este+ses+wicon)  
-  
 
-  - **esteki** _v._ (este+ki)  
-  
+- <a name="enisison">**enisison**</a> _n._ ([eni](#eni)+[sison](#sison))  
 
-  - **este'timol** _n._ (este+'timol)  
-  
 
-  - **este'timolwon** _n._ (este'timol+won)  
-  
+- <a name="eniki">**eniki**</a> _v._ ([eni](#eni)+[ki](#ki))  
 
-- **esta** _v._ (Spa. &langle;estar&rangle; [estar])  
 
+- <a name="enikiles">**enikiles**</a> _n._ ([eniki](#eniki)+[les](#les))  
 
-  - **estaak** _n._ (esta+ak)  
-  
 
-  - **estalon** _n._ (esta+lon)  
-  
+- <a name="enitayl">**enitayl**</a> _n._ ([eni](#eni)+[tayl](#tayl))  
 
-  - **estaloncolon** _n._ (estalon+colon)  
-  
 
-  - **estalyan** _n._ (esta+lyan)  
-  
+- <a name="'emalati">**'emalati**</a> _n._ (Ara. &langle;إماراتيين‎&rangle; [ʔemaːraːti])  
 
-  - **estalyanhulum** _n._ (estalyan+hulum)  
-  
 
-  - **estalyanhulumak** _n._ (estalyanhulum+ak)  
-  
+- <a name="'emalatiak">**'emalatiak**</a> _n._ (['emalati](#'emalati)+[ak](#ak))  
 
-  - **estanu** _v._ (esta+nu)  
-  
 
-  - **estanules** _n._ (estanu+les)  
-  
+- <a name="'emalatitec">**'emalatitec**</a> _n._ (['emalati](#'emalati)+[tec](#tec))  
 
-  - **estanulon** _n._ (estanu+lon)  
-  
 
-  - **estanyolon** _n._ (esta+nyo+lon)  
-  
+- <a name="emana">**emana**</a> _v._ ([~~opaka~~](#opaka))  
 
-  - **estaki** _v._ (esta+ki)  
-  
 
-  - **estakiles** _n._ (estaki+les)  
-  
+- <a name="emanalon">**emanalon**</a> _n._ ([emana](#emana)+[lon](#lon))  
 
-  - **estakilon** _n._ (estaki+lon)  
-  
 
-  - **estakilip** _n._ (estaki+lip)  
-  
+- <a name="emanaki">**emanaki**</a> _v._ ([emana](#emana)+[ki](#ki))  
 
-  - **estakilyot** _n._ (estaki+lyot)  
-  
 
-- **'esti** _n._ (Est. &langle;eesti&rangle; [eːsti])  
+- <a name="emanapato">**emanapato**</a> _v._ ([emana](#emana)+[pato](#pato))  
 
 
-  - **'estiak** _n._ ('esti+ak)  
-  
+- <a name="emanapatolon">**emanapatolon**</a> _n._ ([emanapato](#emanapato)+[lon](#lon))  
 
-  - **'estitec** _n._ ('esti+tec)  
-  
 
-  - **'estitilip** _n._ ('esti+tilip)  
-  
+- <a name="'emoci">**'emoci**</a> _n._ (Jap. &langle;絵文字&rangle; [emod͡ʑi])  
 
-- **'espelanto** _n._ (Epo. &langle;Esperanto&rangle; [espeˈranto])  
 
+- <a name="'empanata">**'empanata**</a> _n._ (Spa. &langle;empanada&rangle; [empaˈnaða])  
 
-  - **'espelantoak** _n._ ('espelanto+ak)  
-  
 
-  - **'espelantowon** _n._ ('espelanto+won)  
-  
+- <a name="ec">**ec**</a> _n._ (Yor. &langle;ẹṣẹ́&rangle; [ɛ̄ʃɛ́])  
 
-- **'espanya** _n._ (Spa. &langle;españa&rangle; [espaɲa])  
 
+- <a name="ecak">**ecak**</a> _n._ ([ec](#ec)+[ak](#ak))  
 
-  - **'espanyaak** _n._ ('espanya+ak)  
-  
 
-  - **'espanyawon** _n._ ('espanya+won)  
-  
+- <a name="es">**es**</a> _post._ (∅)  
 
-  - **'espanyatilip** _n._ ('espanya+tilip)  
-  
 
-- **'espaketi** _n._ (Ita. &langle;spaghetti&rangle; [spaˈɡetti])  
+- <a name="'eskutelya">**'eskutelya**</a> _n._ (Cat. &langle;escudella&rangle; [əskuˈðeʎə])  
 
 
-- **efe** _v._ (~~oso~~)  
+- <a name="este">**este**</a> _v._ (Spa. &langle;este&rangle; [ˈeste])  
 
 
-  - **efelon** _n._ (efe+lon)  
-  
+- <a name="estelon">**estelon**</a> _n._ ([este](#este)+[lon](#lon))  
 
-  - **efeki** _v._ (efe+ki)  
-  
 
-  - **efekiles** _n._ (efeki+les)  
-  
+- <a name="estelum">**estelum**</a> _n._ ([este](#este)+[lum](#lum))  
 
-- **'ekwatol** _n._ (Spa. &langle;Écuador&rangle; [ˈekwaðoɾ])  
 
+- <a name="estelyan">**estelyan**</a> _n._ ([este](#este)+[lyan](#lyan))  
 
-  - **'ekwatolak** _n._ ('ekwatol+ak)  
-  
 
-  - **'ekwatolwon** _n._ ('ekwatol+won)  
-  
+- <a name="estelyanpucolon">**estelyanpucolon**</a> _n._ ([estelyan](#estelyan)+[pucolon](#pucolon))  
 
-- **et** _pn._ (Ben. &langle;টা&rangle; [eʈa])  
 
+- <a name="esteseswicon">**esteseswicon**</a> _n._ ([este](#este)+[ses](#ses)+[wicon](#wicon))  
 
-  - **et ayf** _n._ (et +ayf)  
-  
 
-  - **etak** _n._ (et+ak)  
-  
+- <a name="esteki">**esteki**</a> _v._ ([este](#este)+[ki](#ki))  
 
-  - **et ial** _n._ (et +ial)  
-  
 
-  - **et ip** _n._ (et +ip)  
-  
+- <a name="este'timol">**este'timol**</a> _n._ ([este](#este)+['timol](#'timol))  
 
-  - **et uat** _n._ (et +uat)  
-  
 
-  - **et yot** _n._ (et +yot)  
-  
+- <a name="este'timolwon">**este'timolwon**</a> _n._ ([este'timol](#este'timol)+[won](#won))  
 
-- **etle** _v._ (~~olto~~)  
 
+- <a name="esta">**esta**</a> _v._ (Spa. &langle;estar&rangle; [estar])  
 
-  - **etlelon** _n._ (etle+lon)  
-  
 
-  - **etlelyan** _n._ (etle+lyan)  
-  
+- <a name="estaak">**estaak**</a> _n._ ([esta](#esta)+[ak](#ak))  
 
-  - **etleki** _v._ (etle+ki)  
-  
 
-  - **et wel** _n._ (et +wel)  
-  
+- <a name="estalon">**estalon**</a> _n._ ([esta](#esta)+[lon](#lon))  
 
-## a
 
-- **'a** _n._ (ono. [a])  
+- <a name="estaloncolon">**estaloncolon**</a> _n._ ([estalon](#estalon)+[colon](#colon))  
 
 
-- **'aikito** _n._ (Jpn. &langle;合気道&rangle; [aikiꜜdoː])  
+- <a name="estalyan">**estalyan**</a> _n._ ([esta](#esta)+[lyan](#lyan))  
 
 
-- **'ayiti** _n._ (Hat. &langle;Ayiti&rangle; [ajiti])  
+- <a name="estalyanhulum">**estalyanhulum**</a> _n._ ([estalyan](#estalyan)+[hulum](#hulum))  
 
 
-  - **'ayitiak** _n._ ('ayiti+ak)  
-  
+- <a name="estalyanhulumak">**estalyanhulumak**</a> _n._ ([estalyanhulum](#estalyanhulum)+[ak](#ak))  
 
-  - **'ayitiwon** _n._ ('ayiti+won)  
-  
 
-  - **'ayititilip** _n._ ('ayiti+tilip)  
-  
+- <a name="estanu">**estanu**</a> _v._ ([esta](#esta)+[nu](#nu))  
 
-- **ayuta** _v._ (Spa. &langle;ayuda&rangle; [aˈʝuða])  
 
+- <a name="estanules">**estanules**</a> _n._ ([estanu](#estanu)+[les](#les))  
 
-  - **ayutaici** _v._ (ayuta+ici)  
-  
 
-  - **ayutaicilon** _n._ (ayutaici+lon)  
-  
+- <a name="estanulon">**estanulon**</a> _n._ ([estanu](#estanu)+[lon](#lon))  
 
-  - **ayutaicilum** _n._ (ayutaici+lum)  
-  
 
-  - **ayutalon** _n._ (ayuta+lon)  
-  
+- <a name="estanyolon">**estanyolon**</a> _n._ ([esta](#esta)+[nyo](#nyo)+[lon](#lon))  
 
-  - **ayutalum** _n._ (ayuta+lum)  
-  
 
-  - **ayutaki** _v._ (ayuta+ki)  
-  
+- <a name="estaki">**estaki**</a> _v._ ([esta](#esta)+[ki](#ki))  
 
-  - **ayutakiles** _n._ (ayutaki+les)  
-  
 
-  - **ayutapaltolum** _n._ (ayuta+paltolum)  
-  
+- <a name="estakiles">**estakiles**</a> _n._ ([estaki](#estaki)+[les](#les))  
 
-- **ayf** _post._ (Eng. &langle;if&rangle; [ɪf])  
 
+- <a name="estakilon">**estakilon**</a> _n._ ([estaki](#estaki)+[lon](#lon))  
 
-- **alaktan** _n._ (Fil. &langle;alakdan&rangle; [alakdan])  
 
+- <a name="estakilip">**estakilip**</a> _n._ ([estaki](#estaki)+[lip](#lip))  
 
-- **'alap** _n._ (Ara. &langle;عَرَب&rangle; [ˈʕarab])  
 
+- <a name="estakilyot">**estakilyot**</a> _n._ ([estaki](#estaki)+[lyot](#lyot))  
 
-  - **'alapak** _n._ ('alap+ak)  
-  
 
-  - **'alaplawt** _n._ ('alap+lawt)  
-  
+- <a name="'esti">**'esti**</a> _n._ (Est. &langle;eesti&rangle; [eːsti])  
 
-  - **'alapkwelyot** _n._ ('alap+kwelyot)  
-  
 
-  - **'alaptec** _n._ ('alap+tec)  
-  
+- <a name="'estiak">**'estiak**</a> _n._ (['esti](#'esti)+[ak](#ak))  
 
-  - **'alaptilip** _n._ ('alap+tilip)  
-  
 
-- **'alon** _n._ (Oss. &langle;Аллон&rangle; [alon])  
+- <a name="'estitec">**'estitec**</a> _n._ (['esti](#'esti)+[tec](#tec))  
 
 
-  - **'alonak** _n._ ('alon+ak)  
-  
+- <a name="'estitilip">**'estitilip**</a> _n._ (['esti](#'esti)+[tilip](#tilip))  
 
-  - **'alontilip** _n._ ('alon+tilip)  
-  
 
-- **'aloha** _n._ (Haw. &langle;aloha&rangle; [əˈloha])  
+- <a name="'espelanto">**'espelanto**</a> _n._ (Epo. &langle;Esperanto&rangle; [espeˈranto])  
 
 
-- **alik** _n._ (~~atun~~)  
+- <a name="'espelantoak">**'espelantoak**</a> _n._ (['espelanto](#'espelanto)+[ak](#ak))  
 
 
-  - **alikak** _n._ (alik+ak)  
-  
+- <a name="'espelantowon">**'espelantowon**</a> _n._ (['espelanto](#'espelanto)+[won](#won))  
 
-- **'aluminium** _n._ (Lat. &langle;aluminium&rangle; [alʊminɪʊ̃])  
 
+- <a name="'espanya">**'espanya**</a> _n._ (Spa. &langle;españa&rangle; [espaɲa])  
 
-- **'alhentina** _n._ (Spa. &langle;Argentina&rangle; [aɾxenˈtina])  
 
+- <a name="'espanyaak">**'espanyaak**</a> _n._ (['espanya](#'espanya)+[ak](#ak))  
 
-  - **'alhentinaak** _n._ ('alhentina+ak)  
-  
 
-  - **'alhentinawon** _n._ ('alhentina+won)  
-  
+- <a name="'espanyawon">**'espanyawon**</a> _n._ (['espanya](#'espanya)+[won](#won))  
 
-- **'alsenikum** _n._ (Lat. &langle;arsenicum&rangle; [arsenɪkʊ̃])  
 
+- <a name="'espanyatilip">**'espanyatilip**</a> _n._ (['espanya](#'espanya)+[tilip](#tilip))  
 
-- **'alsayil** _n._ (Ara. &langle;الدزاير&rangle; [ald͡zaːjiːr])  
 
+- <a name="'espaketi">**'espaketi**</a> _n._ (Ita. &langle;spaghetti&rangle; [spaˈɡetti])  
 
-  - **'alsayiltec** _n._ ('alsayil+tec)  
-  
 
-  - **'alsayiltecwon** _n._ ('alsayiltec+won)  
-  
+- <a name="efe">**efe**</a> _v._ ([~~oso~~](#oso))  
 
-- **alkas** _n._ (Spa. &langle;algas&rangle; [ˈalɣas])  
+
+- <a name="efelon">**efelon**</a> _n._ ([efe](#efe)+[lon](#lon))  
+
+
+- <a name="efeki">**efeki**</a> _v._ ([efe](#efe)+[ki](#ki))  
+
+
+- <a name="efekiles">**efekiles**</a> _n._ ([efeki](#efeki)+[les](#les))  
+
+
+- <a name="'ekwatol">**'ekwatol**</a> _n._ (Spa. &langle;Écuador&rangle; [ˈekwaðoɾ])  
+
+
+- <a name="'ekwatolak">**'ekwatolak**</a> _n._ (['ekwatol](#'ekwatol)+[ak](#ak))  
+
+
+- <a name="'ekwatolwon">**'ekwatolwon**</a> _n._ (['ekwatol](#'ekwatol)+[won](#won))  
+
+
+- <a name="et">**et**</a> _pn._ (Ben. &langle;টা&rangle; [eʈa])  
+
+
+- <a name="et ayf">**et ayf**</a> _n._ ([et ](#et )+[ayf](ayf))  
+
+
+- <a name="etak">**etak**</a> _n._ ([et](#et)+[ak](#ak))  
+
+
+- <a name="et ial">**et ial**</a> _n._ ([et ](#et )+[ial](ial))  
+
+
+- <a name="et ip">**et ip**</a> _n._ ([et ](#et )+[ip](ip))  
+
+
+- <a name="et uat">**et uat**</a> _n._ ([et ](#et )+[uat](uat))  
+
+
+- <a name="et yot">**et yot**</a> _n._ ([et ](#et )+[yot](yot))  
+
+
+- <a name="etle">**etle**</a> _v._ ([~~olto~~](#olto))  
+
+
+- <a name="etlelon">**etlelon**</a> _n._ ([etle](#etle)+[lon](#lon))  
+
+
+- <a name="etlelyan">**etlelyan**</a> _n._ ([etle](#etle)+[lyan](#lyan))  
+
+
+- <a name="etleki">**etleki**</a> _v._ ([etle](#etle)+[ki](#ki))  
+
+
+- <a name="et wel">**et wel**</a> _n._ ([et ](#et )+[wel](wel))  
+
+
+### a
+
+- <a name="'a">**'a**</a> _n._ (ono. [a])  
+
+
+- <a name="'aikito">**'aikito**</a> _n._ (Jpn. &langle;合気道&rangle; [aikiꜜdoː])  
+
+
+- <a name="'ayiti">**'ayiti**</a> _n._ (Hat. &langle;Ayiti&rangle; [ajiti])  
+
+
+- <a name="'ayitiak">**'ayitiak**</a> _n._ (['ayiti](#'ayiti)+[ak](#ak))  
+
+
+- <a name="'ayitiwon">**'ayitiwon**</a> _n._ (['ayiti](#'ayiti)+[won](#won))  
+
+
+- <a name="'ayititilip">**'ayititilip**</a> _n._ (['ayiti](#'ayiti)+[tilip](#tilip))  
+
+
+- <a name="ayuta">**ayuta**</a> _v._ (Spa. &langle;ayuda&rangle; [aˈʝuða])  
+
+
+- <a name="ayutaici">**ayutaici**</a> _v._ ([ayuta](#ayuta)+[ici](#ici))  
+
+
+- <a name="ayutaicilon">**ayutaicilon**</a> _n._ ([ayutaici](#ayutaici)+[lon](#lon))  
+
+
+- <a name="ayutaicilum">**ayutaicilum**</a> _n._ ([ayutaici](#ayutaici)+[lum](#lum))  
+
+
+- <a name="ayutalon">**ayutalon**</a> _n._ ([ayuta](#ayuta)+[lon](#lon))  
+
+
+- <a name="ayutalum">**ayutalum**</a> _n._ ([ayuta](#ayuta)+[lum](#lum))  
+
+
+- <a name="ayutaki">**ayutaki**</a> _v._ ([ayuta](#ayuta)+[ki](#ki))  
+
+
+- <a name="ayutakiles">**ayutakiles**</a> _n._ ([ayutaki](#ayutaki)+[les](#les))  
+
+
+- <a name="ayutapaltolum">**ayutapaltolum**</a> _n._ ([ayuta](#ayuta)+[paltolum](#paltolum))  
+
+
+- <a name="ayf">**ayf**</a> _post._ (Eng. &langle;if&rangle; [ɪf])  
+
+
+- <a name="alaktan">**alaktan**</a> _n._ (Fil. &langle;alakdan&rangle; [alakdan])  
+
+
+- <a name="'alap">**'alap**</a> _n._ (Ara. &langle;عَرَب&rangle; [ˈʕarab])  
+
+
+- <a name="'alapak">**'alapak**</a> _n._ (['alap](#'alap)+[ak](#ak))  
+
+
+- <a name="'alaplawt">**'alaplawt**</a> _n._ (['alap](#'alap)+[lawt](#lawt))  
+
+
+- <a name="'alapkwelyot">**'alapkwelyot**</a> _n._ (['alap](#'alap)+[kwelyot](#kwelyot))  
+
+
+- <a name="'alaptec">**'alaptec**</a> _n._ (['alap](#'alap)+[tec](#tec))  
+
+
+- <a name="'alaptilip">**'alaptilip**</a> _n._ (['alap](#'alap)+[tilip](#tilip))  
+
+
+- <a name="'alon">**'alon**</a> _n._ (Oss. &langle;Аллон&rangle; [alon])  
+
+
+- <a name="'alonak">**'alonak**</a> _n._ (['alon](#'alon)+[ak](#ak))  
+
+
+- <a name="'alontilip">**'alontilip**</a> _n._ (['alon](#'alon)+[tilip](#tilip))  
+
+
+- <a name="'aloha">**'aloha**</a> _n._ (Haw. &langle;aloha&rangle; [əˈloha])  
+
+
+- <a name="alik">**alik**</a> _n._ ([~~atun~~](#atun))  
+
+
+- <a name="alikak">**alikak**</a> _n._ ([alik](#alik)+[ak](#ak))  
+
+
+- <a name="'aluminium">**'aluminium**</a> _n._ (Lat. &langle;aluminium&rangle; [alʊminɪʊ̃])  
+
+
+- <a name="'alhentina">**'alhentina**</a> _n._ (Spa. &langle;Argentina&rangle; [aɾxenˈtina])  
+
+
+- <a name="'alhentinaak">**'alhentinaak**</a> _n._ (['alhentina](#'alhentina)+[ak](#ak))  
+
+
+- <a name="'alhentinawon">**'alhentinawon**</a> _n._ (['alhentina](#'alhentina)+[won](#won))  
+
+
+- <a name="'alsenikum">**'alsenikum**</a> _n._ (Lat. &langle;arsenicum&rangle; [arsenɪkʊ̃])  
+
+
+- <a name="'alsayil">**'alsayil**</a> _n._ (Ara. &langle;الدزاير&rangle; [ald͡zaːjiːr])  
+
+
+- <a name="'alsayiltec">**'alsayiltec**</a> _n._ (['alsayil](#'alsayil)+[tec](#tec))  
+
+
+- <a name="'alsayiltecwon">**'alsayiltecwon**</a> _n._ (['alsayiltec](#'alsayiltec)+[won](#won))  
+
+
+- <a name="alkas">**alkas**</a> _n._ (Spa. &langle;algas&rangle; [ˈalɣas])  
 alga
 
-- **'alkon** _n._ (Lat. &langle;argon&rangle; [arɡɔn])  
+- <a name="'alkon">**'alkon**</a> _n._ (Lat. &langle;argon&rangle; [arɡɔn])  
 
 
-- **alkun** _spec._ (Spa. &langle;algunos&rangle; [alˈɣunos])  
+- <a name="alkun">**alkun**</a> _spec._ (Spa. &langle;algunos&rangle; [alˈɣunos])  
 
 
-- **aw** _spec._ (Cmn. &langle;和&rangle; [xɤ˧˥])  
+- <a name="aw">**aw**</a> _spec._ (Cmn. &langle;和&rangle; [xɤ˧˥])  
 
 
-- **awila** _v._ (~~ayuta~~)  
+- <a name="awila">**awila**</a> _v._ ([~~ayuta~~](#ayuta))  
 
 
-  - **awilaici** _v._ (awila+ici)  
-  
+- <a name="awilaici">**awilaici**</a> _v._ ([awila](#awila)+[ici](#ici))  
 
-  - **awilaicilon** _n._ (awilaici+lon)  
-  
 
-  - **awilaicilum** _n._ (awilaici+lum)  
-  
+- <a name="awilaicilon">**awilaicilon**</a> _n._ ([awilaici](#awilaici)+[lon](#lon))  
 
-  - **awilalon** _n._ (awila+lon)  
-  
 
-  - **awilalum** _n._ (awila+lum)  
-  
+- <a name="awilaicilum">**awilaicilum**</a> _n._ ([awilaici](#awilaici)+[lum](#lum))  
 
-  - **awilaki** _v._ (awila+ki)  
-  
 
-  - **awilakiles** _n._ (awilaki+les)  
-  
+- <a name="awilalon">**awilalon**</a> _n._ ([awila](#awila)+[lon](#lon))  
 
-  - **awilakilon** _n._ (awilaki+lon)  
-  
 
-- **anemon** _n._ (Epo. &langle;anemono&rangle; [aneˈmono])  
+- <a name="awilalum">**awilalum**</a> _n._ ([awila](#awila)+[lum](#lum))  
 
 
-- **ano** _v._ (~~ake~~)  
+- <a name="awilaki">**awilaki**</a> _v._ ([awila](#awila)+[ki](#ki))  
 
 
-- **'anol** _n._ (Far. &langle;انار&rangle; [æˈnɒːɾ])  
+- <a name="awilakiles">**awilakiles**</a> _n._ ([awilaki](#awilaki)+[les](#les))  
 
 
-  - **anolon** _n._ (ano+lon)  
-  
+- <a name="awilakilon">**awilakilon**</a> _n._ ([awilaki](#awilaki)+[lon](#lon))  
 
-  - **anonoki** _v._ (ano+noki)  
-  
 
-  - **anonokiles** _n._ (anonoki+les)  
-  
+- <a name="anemon">**anemon**</a> _n._ (Epo. &langle;anemono&rangle; [aneˈmono])  
 
-  - **anonokilon** _n._ (anonoki+lon)  
-  
 
-  - **anonokilyot** _n._ (anonoki+lyot)  
-  
+- <a name="ano">**ano**</a> _v._ ([~~ake~~](#ake))  
 
-  - **anonokilwel** _n._ (anonoki+lwel)  
-  
 
-  - **anocalu** _v._ (ano+calu)  
-  
+- <a name="'anol">**'anol**</a> _n._ (Far. &langle;انار&rangle; [æˈnɒːɾ])  
 
-  - **anocalulon** _n._ (anocalu+lon)  
-  
 
-  - **anocalulum** _n._ (anocalu+lum)  
-  
+- <a name="anolon">**anolon**</a> _n._ ([ano](#ano)+[lon](#lon))  
 
-  - **anoki** _v._ (ano+ki)  
-  
 
-  - **anokiles** _n._ (anoki+les)  
-  
+- <a name="anonoki">**anonoki**</a> _v._ ([ano](#ano)+[noki](#noki))  
 
-- **ani** _v._ (Ibo. &langle;anị&rangle; [anɪ])  
 
+- <a name="anonokiles">**anonokiles**</a> _n._ ([anonoki](#anonoki)+[les](#les))  
 
-  - **anilon** _n._ (ani+lon)  
-  
 
-- **'anime** _n._ (Jpn. &langle;アニメ&rangle; [aɲime])  
+- <a name="anonokilon">**anonokilon**</a> _n._ ([anonoki](#anonoki)+[lon](#lon))  
 
 
-  - **animaceki** _v._ (ani+maceki)  
-  
+- <a name="anonokilyot">**anonokilyot**</a> _n._ ([anonoki](#anonoki)+[lyot](#lyot))  
 
-  - **anicwelon** _n._ (ani+cwelon)  
-  
 
-  - **aniki** _v._ (ani+ki)  
-  
+- <a name="anonokilwel">**anonokilwel**</a> _n._ ([anonoki](#anonoki)+[lwel](#lwel))  
 
-  - **anipahoki** _v._ (ani+pahoki)  
-  
 
-- **anco** _v._ (Spa. &langle;ancho&rangle; [ˈant͡ʃo])  
+- <a name="anocalu">**anocalu**</a> _v._ ([ano](#ano)+[calu](#calu))  
 
 
-  - **ancolon** _n._ (anco+lon)  
-  
+- <a name="anocalulon">**anocalulon**</a> _n._ ([anocalu](#anocalu)+[lon](#lon))  
 
-  - **ancolyan** _n._ (anco+lyan)  
-  
 
-  - **ancosapu** _v._ (anco+sapu)  
-  
+- <a name="anocalulum">**anocalulum**</a> _n._ ([anocalu](#anocalu)+[lum](#lum))  
 
-  - **ancosapuluat** _n._ (ancosapu+luat)  
-  
 
-  - **ancoki** _v._ (anco+ki)  
-  
+- <a name="anoki">**anoki**</a> _v._ ([ano](#ano)+[ki](#ki))  
 
-  - **ancokiles** _n._ (ancoki+les)  
-  
 
-- **'ankola** _n._ (Por. &langle;Angola&rangle; [ɐ̃ˈɡɔlɐ])  
+- <a name="anokiles">**anokiles**</a> _n._ ([anoki](#anoki)+[les](#les))  
 
 
-  - **'ankolaak** _n._ ('ankola+ak)  
-  
+- <a name="ani">**ani**</a> _v._ (Ibo. &langle;anị&rangle; [anɪ])  
 
-  - **'ankolawon** _n._ ('ankola+won)  
-  
 
-- **anta** _v._ (~~akla~~)  
+- <a name="anilon">**anilon**</a> _n._ ([ani](#ani)+[lon](#lon))  
 
 
-  - **antalon** _n._ (anta+lon)  
-  
+- <a name="'anime">**'anime**</a> _n._ (Jpn. &langle;アニメ&rangle; [aɲime])  
 
-  - **antalyan** _n._ (anta+lyan)  
-  
 
-  - **antaki** _v._ (anta+ki)  
-  
+- <a name="animaceki">**animaceki**</a> _v._ ([ani](#ani)+[maceki](#maceki))  
 
-- **'antola** _n._ (Cat. &langle;Andorra&rangle; [ənˈdorə])  
 
+- <a name="anicwelon">**anicwelon**</a> _n._ ([ani](#ani)+[cwelon](#cwelon))  
 
-  - **'antolaak** _n._ ('antola+ak)  
-  
 
-  - **'antolatec** _n._ ('antola+tec)  
-  
+- <a name="aniki">**aniki**</a> _v._ ([ani](#ani)+[ki](#ki))  
 
-- **'antometa** _n._ (Grc. &langle;Ἀνδρομέδα&rangle; [an˦dro˧me˦da˧])  
 
+- <a name="anipahoki">**anipahoki**</a> _v._ ([ani](#ani)+[pahoki](#pahoki))  
 
-  - **'antometaak** _n._ ('antometa+ak)  
-  
 
-- **'antika** _n._ (Aig. &langle;Antigua&rangle; [ænˈtiːɡə])  
+- <a name="anco">**anco**</a> _v._ (Spa. &langle;ancho&rangle; [ˈant͡ʃo])  
 
 
-  - **'antikaak** _n._ ('antika+ak)  
-  
+- <a name="ancolon">**ancolon**</a> _n._ ([anco](#anco)+[lon](#lon))  
 
-  - **'antikatilip** _n._ ('antika+tilip)  
-  
 
-  - **'antika'papyuta** _n._ ('antika+'papyuta)  
-  
+- <a name="ancolyan">**ancolyan**</a> _n._ ([anco](#anco)+[lyan](#lyan))  
 
-  - **'antika'papyutawon** _n._ ('antika'papyuta+won)  
-  
 
-- **am** _n._ (Eng. &langle;arm&rangle; [ɑɹm])  
+- <a name="ancosapu">**ancosapu**</a> _v._ ([anco](#anco)+[sapu](#sapu))  
 
 
-- **'amelika** _n._ (Spa. &langle;América&rangle; [aˈmeɾika])  
+- <a name="ancosapuluat">**ancosapuluat**</a> _n._ ([ancosapu](#ancosapu)+[luat](#luat))  
 
 
-  - **'amelikaak** _n._ ('amelika+ak)  
-  
+- <a name="ancoki">**ancoki**</a> _v._ ([anco](#anco)+[ki](#ki))  
 
-  - **'amelikatec** _n._ ('amelika+tec)  
-  
 
-  - **'amelikatecwon** _n._ ('amelikatec+won)  
-  
+- <a name="ancokiles">**ancokiles**</a> _n._ ([ancoki](#ancoki)+[les](#les))  
 
-  - **'amelikatulsetupel** _n._ ('amelika+tulsetupel)  
-  
 
-- **ama** _v._ (Sot. &langle;ama&rangle; [ɑmɑ])  
+- <a name="'ankola">**'ankola**</a> _n._ (Por. &langle;Angola&rangle; [ɐ̃ˈɡɔlɐ])  
 
 
-  - **amaec** _n._ (ama+ec)  
-  
+- <a name="'ankolaak">**'ankolaak**</a> _n._ (['ankola](#'ankola)+[ak](#ak))  
 
-  - **amaak** _n._ (ama+ak)  
-  
 
-  - **amanu** _v._ (ama+nu)  
-  
+- <a name="'ankolawon">**'ankolawon**</a> _n._ (['ankola](#'ankola)+[won](#won))  
 
-  - **amak** _n._ (am+ak)  
-  
 
-  - **amaki** _v._ (ama+ki)  
-  
+- <a name="anta">**anta**</a> _v._ ([~~akla~~](#akla))  
 
-  - **amapowi** _v._ (ama+powi)  
-  
 
-  - **amapowilon** _n._ (amapowi+lon)  
-  
+- <a name="antalon">**antalon**</a> _n._ ([anta](#anta)+[lon](#lon))  
 
-  - **amapowilum** _n._ (amapowi+lum)  
-  
 
-  - **amapowilummai** _v._ (amapowilum+mai)  
-  
+- <a name="antalyan">**antalyan**</a> _n._ ([anta](#anta)+[lyan](#lyan))  
 
-  - **amapowilummailwel** _n._ (amapowilummai+lwel)  
-  
 
-  - **amapowilummailes** _n._ (amapowilummai+les)  
-  
+- <a name="antaki">**antaki**</a> _v._ ([anta](#anta)+[ki](#ki))  
 
-  - **amapowilummailum** _n._ (amapowilummai+lum)  
-  
 
-  - **amapowilummailon** _n._ (amapowilummai+lon)  
-  
+- <a name="'antola">**'antola**</a> _n._ (Cat. &langle;Andorra&rangle; [ənˈdorə])  
 
-  - **amapowinu** _v._ (amapowi+nu)  
-  
 
-  - **amapowinules** _n._ (amapowinu+les)  
-  
+- <a name="'antolaak">**'antolaak**</a> _n._ (['antola](#'antola)+[ak](#ak))  
 
-  - **amapowinyo** _v._ (amapowi+nyo)  
-  
 
-  - **amapowinyolon** _n._ (amapowinyo+lon)  
-  
+- <a name="'antolatec">**'antolatec**</a> _n._ (['antola](#'antola)+[tec](#tec))  
 
-  - **amapowinyolum** _n._ (amapowinyo+lum)  
-  
 
-  - **amapowiki** _v._ (amapowi+ki)  
-  
+- <a name="'antometa">**'antometa**</a> _n._ (Grc. &langle;Ἀνδρομέδα&rangle; [an˦dro˧me˦da˧])  
 
-  - **amapowikiles** _n._ (amapowiki+les)  
-  
 
-- **ami** _v._ (Epo. &langle;ami&rangle; [ˈami])  
+- <a name="'antometaak">**'antometaak**</a> _n._ (['antometa](#'antometa)+[ak](#ak))  
 
 
-  - **amiyohau** _v._ (ami+yohau)  
-  
+- <a name="'antika">**'antika**</a> _n._ (Aig. &langle;Antigua&rangle; [ænˈtiːɡə])  
 
-  - **amilon** _n._ (ami+lon)  
-  
 
-  - **amilum** _n._ (ami+lum)  
-  
+- <a name="'antikaak">**'antikaak**</a> _n._ (['antika](#'antika)+[ak](#ak))  
 
-  - **amiki** _v._ (ami+ki)  
-  
 
-  - **amikiles** _n._ (amiki+les)  
-  
+- <a name="'antikatilip">**'antikatilip**</a> _n._ (['antika](#'antika)+[tilip](#tilip))  
 
-- **amla** _v._ (Jav. &langle;ambra&rangle; [ɑmpɽɔ])  
 
+- <a name="'antika'papyuta">**'antika'papyuta**</a> _n._ (['antika](#'antika)+['papyuta](#'papyuta))  
 
-  - **amlalon** _n._ (amla+lon)  
-  
 
-  - **amlalyan** _n._ (amla+lyan)  
-  
+- <a name="'antika'papyutawon">**'antika'papyutawon**</a> _n._ (['antika'papyuta](#'antika'papyuta)+[won](#won))  
 
-  - **amlaki** _v._ (amla+ki)  
-  
 
-  - **amlakiles** _n._ (amlaki+les)  
-  
+- <a name="am">**am**</a> _n._ (Eng. &langle;arm&rangle; [ɑɹm])  
 
-  - **amlakilon** _n._ (amlaki+lon)  
-  
 
-  - **amlakipowi** _v._ (amlaki+powi)  
-  
+- <a name="'amelika">**'amelika**</a> _n._ (Spa. &langle;América&rangle; [aˈmeɾika])  
 
-  - **amlakipowilon** _n._ (amlakipowi+lon)  
-  
 
-- **amlut** _n._ (Hin. &langle;अमरूद&rangle; [amruːd])  
+- <a name="'amelikaak">**'amelikaak**</a> _n._ (['amelika](#'amelika)+[ak](#ak))  
 
 
-  - **amhila** _v._ (am+hila)  
-  
+- <a name="'amelikatec">**'amelikatec**</a> _n._ (['amelika](#'amelika)+[tec](#tec))  
 
-  - **amhilalon** _n._ (amhila+lon)  
-  
 
-  - **amkwelwelsomaluat** _n._ (am+kwelwelsomaluat)  
-  
+- <a name="'amelikatecwon">**'amelikatecwon**</a> _n._ (['amelikatec](#'amelikatec)+[won](#won))  
 
-  - **amtokalyot** _n._ (am+tokalyot)  
-  
 
-  - **ampoltilum** _n._ (am+poltilum)  
-  
+- <a name="'amelikatulsetupel">**'amelikatulsetupel**</a> _n._ (['amelika](#'amelika)+[tulsetupel](#tulsetupel))  
 
-- **'aha** _n._ (Haw. &langle;ʻaʻā&rangle; [ʔəˈʔaː])  
 
+- <a name="ama">**ama**</a> _v._ (Sot. &langle;ama&rangle; [ɑmɑ])  
 
-- **ahami** _v._ (~~acapu~~)  
 
+- <a name="amaec">**amaec**</a> _n._ ([ama](#ama)+[ec](#ec))  
 
-  - **ahamilon** _n._ (ahami+lon)  
-  
 
-- **acapu** _v._ (Swa. &langle;ajabu&rangle; [aʄaɓu])  
+- <a name="amaak">**amaak**</a> _n._ ([ama](#ama)+[ak](#ak))  
 
 
-  - **acapulon** _n._ (acapu+lon)  
-  
+- <a name="amanu">**amanu**</a> _v._ ([ama](#ama)+[nu](#nu))  
 
-- **'asalpaycan** _n._ (Aze. &langle;Azərbaycan&rangle; [ɑːzæɾbɑjˈd͡ʒɑn])  
 
+- <a name="amak">**amak**</a> _n._ ([am](#am)+[ak](#ak))  
 
-  - **'asalpaycanak** _n._ ('asalpaycan+ak)  
-  
 
-  - **'asalpaycantec** _n._ ('asalpaycan+tec)  
-  
+- <a name="amaki">**amaki**</a> _v._ ([ama](#ama)+[ki](#ki))  
 
-  - **'asalpaycantilip** _n._ ('asalpaycan+tilip)  
-  
 
-- **'asutan** _n._ (Ara. &langle;السودان‎&rangle; [assuːdaːn])  
+- <a name="amapowi">**amapowi**</a> _v._ ([ama](#ama)+[powi](#powi))  
 
 
-  - **'asutanak** _n._ ('asutan+ak)  
-  
+- <a name="amapowilon">**amapowilon**</a> _n._ ([amapowi](#amapowi)+[lon](#lon))  
 
-  - **'asutanwon** _n._ ('asutan+won)  
-  
 
-- **'aflika** _n._ (Swa. &langle;Afrika&rangle; [afrika])  
+- <a name="amapowilum">**amapowilum**</a> _n._ ([amapowi](#amapowi)+[lum](#lum))  
 
 
-  - **'aflikaak** _n._ ('aflika+ak)  
-  
+- <a name="amapowilummai">**amapowilummai**</a> _v._ ([amapowilum](#amapowilum)+[mai](#mai))  
 
-  - **'aflika'yewlasia** _n._ ('aflika+'yewlasia)  
-  
 
-  - **'aflika'yewlasiatulsetupel** _n._ ('aflika'yewlasia+tulsetupel)  
-  
+- <a name="amapowilummailwel">**amapowilummailwel**</a> _n._ ([amapowilummai](#amapowilummai)+[lwel](#lwel))  
 
-- **'afhan** _n._ (Prs. &langle;افغانستان‬&rangle; [avɣɒn])  
 
+- <a name="amapowilummailes">**amapowilummailes**</a> _n._ ([amapowilummai](#amapowilummai)+[les](#les))  
 
-  - **'afhanak** _n._ ('afhan+ak)  
-  
 
-  - **'afhantec** _n._ ('afhan+tec)  
-  
+- <a name="amapowilummailum">**amapowilummailum**</a> _n._ ([amapowilummai](#amapowilummai)+[lum](#lum))  
 
-- **ak** _post._ (Hin. &langle;का&rangle; [kaː])  
 
+- <a name="amapowilummailon">**amapowilummailon**</a> _n._ ([amapowilummai](#amapowilummai)+[lon](#lon))  
 
-- **ake** _v._ (Hin. &langle;आगे&rangle; [aːɡe])  
 
+- <a name="amapowinu">**amapowinu**</a> _v._ ([amapowi](#amapowi)+[nu](#nu))  
 
-  - **akelon** _n._ (ake+lon)  
-  
 
-  - **akelyan** _n._ (ake+lyan)  
-  
+- <a name="amapowinules">**amapowinules**</a> _n._ ([amapowinu](#amapowinu)+[les](#les))  
 
-  - **akenoki** _v._ (ake+noki)  
-  
 
-  - **akenokiles** _n._ (akenoki+les)  
-  
+- <a name="amapowinyo">**amapowinyo**</a> _v._ ([amapowi](#amapowi)+[nyo](#nyo))  
 
-  - **akenokilon** _n._ (akenoki+lon)  
-  
 
-  - **akenokilyot** _n._ (akenoki+lyot)  
-  
+- <a name="amapowinyolon">**amapowinyolon**</a> _n._ ([amapowinyo](#amapowinyo)+[lon](#lon))  
 
-  - **akenokilwel** _n._ (akenoki+lwel)  
-  
 
-  - **akeki** _v._ (ake+ki)  
-  
+- <a name="amapowinyolum">**amapowinyolum**</a> _n._ ([amapowinyo](#amapowinyo)+[lum](#lum))  
 
-  - **akekiles** _n._ (akeki+les)  
-  
 
-- **akla** _v._ (Epo. &langle;akra&rangle; [ˈakra])  
+- <a name="amapowiki">**amapowiki**</a> _v._ ([amapowi](#amapowi)+[ki](#ki))  
 
 
-  - **aklalon** _n._ (akla+lon)  
-  
+- <a name="amapowikiles">**amapowikiles**</a> _n._ ([amapowiki](#amapowiki)+[les](#les))  
 
-  - **aklalyan** _n._ (akla+lyan)  
-  
 
-  - **aklanyec** _n._ (akla+nyec)  
-  
+- <a name="ami">**ami**</a> _v._ (Epo. &langle;ami&rangle; [ˈami])  
 
-  - **aklanyamaluat** _n._ (akla+nyamaluat)  
-  
 
-  - **aklasapu** _v._ (akla+sapu)  
-  
+- <a name="amiyohau">**amiyohau**</a> _v._ ([ami](#ami)+[yohau](#yohau))  
 
-  - **aklasapuluat** _n._ (aklasapu+luat)  
-  
 
-  - **aklaki** _v._ (akla+ki)  
-  
+- <a name="amilon">**amilon**</a> _n._ ([ami](#ami)+[lon](#lon))  
 
-  - **aklakiluat** _n._ (aklaki+luat)  
-  
 
-  - **aklatun** _n._ (akla+tun)  
-  
+- <a name="amilum">**amilum**</a> _n._ ([ami](#ami)+[lum](#lum))  
 
-  - **aklapal** _n._ (akla+pal)  
-  
 
-- **akhe** _v._ (~~anco~~)  
+- <a name="amiki">**amiki**</a> _v._ ([ami](#ami)+[ki](#ki))  
 
 
-  - **akheyehkac** _n._ (akhe+yeh+kac)  
-  
+- <a name="amikiles">**amikiles**</a> _n._ ([amiki](#amiki)+[les](#les))  
 
-  - **akhelon** _n._ (akhe+lon)  
-  
 
-  - **akheki** _v._ (akhe+ki)  
-  
+- <a name="amla">**amla**</a> _v._ (Jav. &langle;ambra&rangle; [ɑmpɽɔ])  
 
-  - **akhekiles** _n._ (akheki+les)  
-  
 
-- **'aktolos** _n._ (Grc. &langle;Ἀρκτοῦρος&rangle; [ark˦to˦˨ːros])  
+- <a name="amlalon">**amlalon**</a> _n._ ([amla](#amla)+[lon](#lon))  
 
 
-- **aktua** _v._ (Spa. &langle;actúa&rangle; [akˈtua])  
+- <a name="amlalyan">**amlalyan**</a> _n._ ([amla](#amla)+[lyan](#lyan))  
 
 
-  - **aktuales** _n._ (aktua+les)  
-  
+- <a name="amlaki">**amlaki**</a> _v._ ([amla](#amla)+[ki](#ki))  
 
-  - **aktualon** _n._ (aktua+lon)  
-  
 
-- **at** _n._ (Eng. &langle;art&rangle; [ɑɹt])  
+- <a name="amlakiles">**amlakiles**</a> _n._ ([amlaki](#amlaki)+[les](#les))  
 
 
-  - **atak** _n._ (at+ak)  
-  
+- <a name="amlakilon">**amlakilon**</a> _n._ ([amlaki](#amlaki)+[lon](#lon))  
 
-- **atun** _n._ (Cmn. &langle;儿童&rangle; [ɚ˧˥tʰʊŋ˧˥])  
 
+- <a name="amlakipowi">**amlakipowi**</a> _v._ ([amlaki](#amlaki)+[powi](#powi))  
 
-  - **atunak** _n._ (atun+ak)  
-  
 
-- **'atlas** _n._ (Ara. &langle;الأطـلـس‎&rangle; [ʔatˤlas])  
+- <a name="amlakipowilon">**amlakipowilon**</a> _n._ ([amlakipowi](#amlakipowi)+[lon](#lon))  
 
 
-  - **'atlaslawt** _n._ ('atlas+lawt)  
-  
+- <a name="amlut">**amlut**</a> _n._ (Hin. &langle;अमरूद&rangle; [amruːd])  
 
-  - **'atlaslawtak** _n._ ('atlaslawt+ak)  
-  
 
-  - **athwok** _n._ (at+hwok)  
-  
+- <a name="amhila">**amhila**</a> _v._ ([am](#am)+[hila](#hila))  
 
-  - **attilip** _n._ (at+tilip)  
-  
 
-- **ap** _n._ (Spa. &langle;ave&rangle; [ˈaβe])  
+- <a name="amhilalon">**amhilalon**</a> _n._ ([amhila](#amhila)+[lon](#lon))  
 
 
-- **'apswa** _n._ (Abk. &langle;Аҧсуа&rangle; [apʰswa])  
+- <a name="amkwelwelsomaluat">**amkwelwelsomaluat**</a> _n._ ([am](#am)+[kwelwelsomaluat](#kwelwelsomaluat))  
 
 
-  - **'apswaak** _n._ ('apswa+ak)  
-  
+- <a name="amtokalyot">**amtokalyot**</a> _n._ ([am](#am)+[tokalyot](#tokalyot))  
 
-  - **'apswatec** _n._ ('apswa+tec)  
-  
 
-  - **'apswatilip** _n._ ('apswa+tilip)  
-  
+- <a name="ampoltilum">**ampoltilum**</a> _n._ ([am](#am)+[poltilum](#poltilum))  
 
-- **apta** _v._ (~~amla~~)  
 
+- <a name="'aha">**'aha**</a> _n._ (Haw. &langle;ʻaʻā&rangle; [ʔəˈʔaː])  
 
-  - **aptalon** _n._ (apta+lon)  
-  
 
-  - **aptaki** _v._ (apta+ki)  
-  
+- <a name="ahami">**ahami**</a> _v._ ([~~acapu~~](#acapu))  
 
-  - **aptakiles** _n._ (aptaki+les)  
-  
 
-## o
+- <a name="ahamilon">**ahamilon**</a> _n._ ([ahami](#ahami)+[lon](#lon))  
 
-- **'o** _n._ (ono. [o])  
 
+- <a name="acapu">**acapu**</a> _v._ (Swa. &langle;ajabu&rangle; [aʄaɓu])  
 
-- **oye** _v._ (Spa. &langle;oye&rangle; [ˈoʝe])  
 
+- <a name="acapulon">**acapulon**</a> _n._ ([acapu](#acapu)+[lon](#lon))  
 
-  - **oyeec** _n._ (oye+ec)  
-  
 
-  - **oyeak** _n._ (oye+ak)  
-  
+- <a name="'asalpaycan">**'asalpaycan**</a> _n._ (Aze. &langle;Azərbaycan&rangle; [ɑːzæɾbɑjˈd͡ʒɑn])  
 
-  - **oyelum** _n._ (oye+lum)  
-  
 
-  - **oyenu** _v._ (oye+nu)  
-  
+- <a name="'asalpaycanak">**'asalpaycanak**</a> _n._ (['asalpaycan](#'asalpaycan)+[ak](#ak))  
 
-  - **oyemocaki** _v._ (oye+mocaki)  
-  
 
-  - **oyemocakiles** _n._ (oyemocaki+les)  
-  
+- <a name="'asalpaycantec">**'asalpaycantec**</a> _n._ (['asalpaycan](#'asalpaycan)+[tec](#tec))  
 
-  - **oyemocakilum** _n._ (oyemocaki+lum)  
-  
 
-  - **oyemocakilyot** _n._ (oyemocaki+lyot)  
-  
+- <a name="'asalpaycantilip">**'asalpaycantilip**</a> _n._ (['asalpaycan](#'asalpaycan)+[tilip](#tilip))  
 
-  - **oyecolon** _n._ (oye+colon)  
-  
 
-  - **oyeki** _v._ (oye+ki)  
-  
+- <a name="'asutan">**'asutan**</a> _n._ (Ara. &langle;السودان‎&rangle; [assuːdaːn])  
 
-  - **oyepowi** _v._ (oye+powi)  
-  
 
-  - **oyepowiluat** _n._ (oyepowi+luat)  
-  
+- <a name="'asutanak">**'asutanak**</a> _n._ (['asutan](#'asutan)+[ak](#ak))  
 
-  - **oyepowinu** _v._ (oyepowi+nu)  
-  
 
-  - **oyepowinules** _n._ (oyepowinu+les)  
-  
+- <a name="'asutanwon">**'asutanwon**</a> _n._ (['asutan](#'asutan)+[won](#won))  
 
-  - **oyepowinyo** _v._ (oyepowi+nyo)  
-  
 
-  - **oyepowinyolon** _n._ (oyepowinyo+lon)  
-  
+- <a name="'aflika">**'aflika**</a> _n._ (Swa. &langle;Afrika&rangle; [afrika])  
 
-  - **oyepowiki** _v._ (oyepowi+ki)  
-  
 
-- **ol** _pn._ (~~et~~)  
+- <a name="'aflikaak">**'aflikaak**</a> _n._ (['aflika](#'aflika)+[ak](#ak))  
 
 
-- **ole** _v._ (Spa. &langle;huele&rangle; [ˈwele])  
+- <a name="'aflika'yewlasia">**'aflika'yewlasia**</a> _n._ (['aflika](#'aflika)+['yewlasia](#'yewlasia))  
 
 
-  - **oleec** _n._ (ole+ec)  
-  
+- <a name="'aflika'yewlasiatulsetupel">**'aflika'yewlasiatulsetupel**</a> _n._ (['aflika'yewlasia](#'aflika'yewlasia)+[tulsetupel](#tulsetupel))  
 
-  - **oleak** _n._ (ole+ak)  
-  
 
-  - **olelih** _n._ (ole+lih)  
-  
+- <a name="'afhan">**'afhan**</a> _n._ (Prs. &langle;افغانستان‬&rangle; [avɣɒn])  
 
-  - **olelum** _n._ (ole+lum)  
-  
 
-  - **olenu** _v._ (ole+nu)  
-  
+- <a name="'afhanak">**'afhanak**</a> _n._ (['afhan](#'afhan)+[ak](#ak))  
 
-  - **oleki** _v._ (ole+ki)  
-  
 
-  - **oletapalon** _n._ (ole+tapalon)  
-  
+- <a name="'afhantec">**'afhantec**</a> _n._ (['afhan](#'afhan)+[tec](#tec))  
 
-  - **ol ayf** _n._ (ol +ayf)  
-  
 
-  - **olak** _n._ (ol+ak)  
-  
+- <a name="ak">**ak**</a> _post._ (Hin. &langle;का&rangle; [kaː])  
 
-  - **ol ial** _n._ (ol +ial)  
-  
 
-- **'oliwa** _n._ (Lat. &langle;oliva&rangle; [ɔˈliwa])  
+- <a name="ake">**ake**</a> _v._ (Hin. &langle;आगे&rangle; [aːɡe])  
 
 
-  - **ol ip** _n._ (ol +ip)  
-  
+- <a name="akelon">**akelon**</a> _n._ ([ake](#ake)+[lon](#lon))  
 
-  - **ol uat** _n._ (ol +uat)  
-  
 
-  - **ol yot** _n._ (ol +yot)  
-  
+- <a name="akelyan">**akelyan**</a> _n._ ([ake](#ake)+[lyan](#lyan))  
 
-  - **ol wel** _n._ (ol +wel)  
-  
 
-- **'olsotoksia** _n._ (Ell. &langle;Ορθοδοξία&rangle; [orθoðoˈksia])  
+- <a name="akenoki">**akenoki**</a> _v._ ([ake](#ake)+[noki](#noki))  
 
 
-  - **'olsotoksiaak** _n._ ('olsotoksia+ak)  
-  
+- <a name="akenokiles">**akenokiles**</a> _n._ ([akenoki](#akenoki)+[les](#les))  
 
-  - **olsunkwelwel** _n._ (ol+sunkwelwel)  
-  
 
-- **olto** _v._ (Epo. &langle;ordo&rangle; [ˈordo])  
+- <a name="akenokilon">**akenokilon**</a> _n._ ([akenoki](#akenoki)+[lon](#lon))  
+
+
+- <a name="akenokilyot">**akenokilyot**</a> _n._ ([akenoki](#akenoki)+[lyot](#lyot))  
+
+
+- <a name="akenokilwel">**akenokilwel**</a> _n._ ([akenoki](#akenoki)+[lwel](#lwel))  
+
+
+- <a name="akeki">**akeki**</a> _v._ ([ake](#ake)+[ki](#ki))  
+
+
+- <a name="akekiles">**akekiles**</a> _n._ ([akeki](#akeki)+[les](#les))  
+
+
+- <a name="akla">**akla**</a> _v._ (Epo. &langle;akra&rangle; [ˈakra])  
+
+
+- <a name="aklalon">**aklalon**</a> _n._ ([akla](#akla)+[lon](#lon))  
+
+
+- <a name="aklalyan">**aklalyan**</a> _n._ ([akla](#akla)+[lyan](#lyan))  
+
+
+- <a name="aklanyec">**aklanyec**</a> _n._ ([akla](#akla)+[nyec](#nyec))  
+
+
+- <a name="aklanyamaluat">**aklanyamaluat**</a> _n._ ([akla](#akla)+[nyamaluat](#nyamaluat))  
+
+
+- <a name="aklasapu">**aklasapu**</a> _v._ ([akla](#akla)+[sapu](#sapu))  
+
+
+- <a name="aklasapuluat">**aklasapuluat**</a> _n._ ([aklasapu](#aklasapu)+[luat](#luat))  
+
+
+- <a name="aklaki">**aklaki**</a> _v._ ([akla](#akla)+[ki](#ki))  
+
+
+- <a name="aklakiluat">**aklakiluat**</a> _n._ ([aklaki](#aklaki)+[luat](#luat))  
+
+
+- <a name="aklatun">**aklatun**</a> _n._ ([akla](#akla)+[tun](#tun))  
+
+
+- <a name="aklapal">**aklapal**</a> _n._ ([akla](#akla)+[pal](#pal))  
+
+
+- <a name="akhe">**akhe**</a> _v._ ([~~anco~~](#anco))  
+
+
+- <a name="akheyehkac">**akheyehkac**</a> _n._ ([akhe](#akhe)+[yeh](#yeh)+[kac](#kac))  
+
+
+- <a name="akhelon">**akhelon**</a> _n._ ([akhe](#akhe)+[lon](#lon))  
+
+
+- <a name="akheki">**akheki**</a> _v._ ([akhe](#akhe)+[ki](#ki))  
+
+
+- <a name="akhekiles">**akhekiles**</a> _n._ ([akheki](#akheki)+[les](#les))  
+
+
+- <a name="'aktolos">**'aktolos**</a> _n._ (Grc. &langle;Ἀρκτοῦρος&rangle; [ark˦to˦˨ːros])  
+
+
+- <a name="aktua">**aktua**</a> _v._ (Spa. &langle;actúa&rangle; [akˈtua])  
+
+
+- <a name="aktuales">**aktuales**</a> _n._ ([aktua](#aktua)+[les](#les))  
+
+
+- <a name="aktualon">**aktualon**</a> _n._ ([aktua](#aktua)+[lon](#lon))  
+
+
+- <a name="at">**at**</a> _n._ (Eng. &langle;art&rangle; [ɑɹt])  
+
+
+- <a name="atak">**atak**</a> _n._ ([at](#at)+[ak](#ak))  
+
+
+- <a name="atun">**atun**</a> _n._ (Cmn. &langle;儿童&rangle; [ɚ˧˥tʰʊŋ˧˥])  
+
+
+- <a name="atunak">**atunak**</a> _n._ ([atun](#atun)+[ak](#ak))  
+
+
+- <a name="'atlas">**'atlas**</a> _n._ (Ara. &langle;الأطـلـس‎&rangle; [ʔatˤlas])  
+
+
+- <a name="'atlaslawt">**'atlaslawt**</a> _n._ (['atlas](#'atlas)+[lawt](#lawt))  
+
+
+- <a name="'atlaslawtak">**'atlaslawtak**</a> _n._ (['atlaslawt](#'atlaslawt)+[ak](#ak))  
+
+
+- <a name="athwok">**athwok**</a> _n._ ([at](#at)+[hwok](#hwok))  
+
+
+- <a name="attilip">**attilip**</a> _n._ ([at](#at)+[tilip](#tilip))  
+
+
+- <a name="ap">**ap**</a> _n._ (Spa. &langle;ave&rangle; [ˈaβe])  
+
+
+- <a name="'apswa">**'apswa**</a> _n._ (Abk. &langle;Аҧсуа&rangle; [apʰswa])  
+
+
+- <a name="'apswaak">**'apswaak**</a> _n._ (['apswa](#'apswa)+[ak](#ak))  
+
+
+- <a name="'apswatec">**'apswatec**</a> _n._ (['apswa](#'apswa)+[tec](#tec))  
+
+
+- <a name="'apswatilip">**'apswatilip**</a> _n._ (['apswa](#'apswa)+[tilip](#tilip))  
+
+
+- <a name="apta">**apta**</a> _v._ ([~~amla~~](#amla))  
+
+
+- <a name="aptalon">**aptalon**</a> _n._ ([apta](#apta)+[lon](#lon))  
+
+
+- <a name="aptaki">**aptaki**</a> _v._ ([apta](#apta)+[ki](#ki))  
+
+
+- <a name="aptakiles">**aptakiles**</a> _n._ ([aptaki](#aptaki)+[les](#les))  
+
+
+### o
+
+- <a name="'o">**'o**</a> _n._ (ono. [o])  
+
+
+- <a name="oye">**oye**</a> _v._ (Spa. &langle;oye&rangle; [ˈoʝe])  
+
+
+- <a name="oyeec">**oyeec**</a> _n._ ([oye](#oye)+[ec](#ec))  
+
+
+- <a name="oyeak">**oyeak**</a> _n._ ([oye](#oye)+[ak](#ak))  
+
+
+- <a name="oyelum">**oyelum**</a> _n._ ([oye](#oye)+[lum](#lum))  
+
+
+- <a name="oyenu">**oyenu**</a> _v._ ([oye](#oye)+[nu](#nu))  
+
+
+- <a name="oyemocaki">**oyemocaki**</a> _v._ ([oye](#oye)+[mocaki](#mocaki))  
+
+
+- <a name="oyemocakiles">**oyemocakiles**</a> _n._ ([oyemocaki](#oyemocaki)+[les](#les))  
+
+
+- <a name="oyemocakilum">**oyemocakilum**</a> _n._ ([oyemocaki](#oyemocaki)+[lum](#lum))  
+
+
+- <a name="oyemocakilyot">**oyemocakilyot**</a> _n._ ([oyemocaki](#oyemocaki)+[lyot](#lyot))  
+
+
+- <a name="oyecolon">**oyecolon**</a> _n._ ([oye](#oye)+[colon](#colon))  
+
+
+- <a name="oyeki">**oyeki**</a> _v._ ([oye](#oye)+[ki](#ki))  
+
+
+- <a name="oyepowi">**oyepowi**</a> _v._ ([oye](#oye)+[powi](#powi))  
+
+
+- <a name="oyepowiluat">**oyepowiluat**</a> _n._ ([oyepowi](#oyepowi)+[luat](#luat))  
+
+
+- <a name="oyepowinu">**oyepowinu**</a> _v._ ([oyepowi](#oyepowi)+[nu](#nu))  
+
+
+- <a name="oyepowinules">**oyepowinules**</a> _n._ ([oyepowinu](#oyepowinu)+[les](#les))  
+
+
+- <a name="oyepowinyo">**oyepowinyo**</a> _v._ ([oyepowi](#oyepowi)+[nyo](#nyo))  
+
+
+- <a name="oyepowinyolon">**oyepowinyolon**</a> _n._ ([oyepowinyo](#oyepowinyo)+[lon](#lon))  
+
+
+- <a name="oyepowiki">**oyepowiki**</a> _v._ ([oyepowi](#oyepowi)+[ki](#ki))  
+
+
+- <a name="ol">**ol**</a> _pn._ ([~~et~~](#et))  
+
+
+- <a name="ole">**ole**</a> _v._ (Spa. &langle;huele&rangle; [ˈwele])  
+
+
+- <a name="oleec">**oleec**</a> _n._ ([ole](#ole)+[ec](#ec))  
+
+
+- <a name="oleak">**oleak**</a> _n._ ([ole](#ole)+[ak](#ak))  
+
+
+- <a name="olelih">**olelih**</a> _n._ ([ole](#ole)+[lih](#lih))  
+
+
+- <a name="olelum">**olelum**</a> _n._ ([ole](#ole)+[lum](#lum))  
+
+
+- <a name="olenu">**olenu**</a> _v._ ([ole](#ole)+[nu](#nu))  
+
+
+- <a name="oleki">**oleki**</a> _v._ ([ole](#ole)+[ki](#ki))  
+
+
+- <a name="oletapalon">**oletapalon**</a> _n._ ([ole](#ole)+[tapalon](#tapalon))  
+
+
+- <a name="ol ayf">**ol ayf**</a> _n._ ([ol ](#ol )+[ayf](ayf))  
+
+
+- <a name="olak">**olak**</a> _n._ ([ol](#ol)+[ak](#ak))  
+
+
+- <a name="ol ial">**ol ial**</a> _n._ ([ol ](#ol )+[ial](ial))  
+
+
+- <a name="'oliwa">**'oliwa**</a> _n._ (Lat. &langle;oliva&rangle; [ɔˈliwa])  
+
+
+- <a name="ol ip">**ol ip**</a> _n._ ([ol ](#ol )+[ip](ip))  
+
+
+- <a name="ol uat">**ol uat**</a> _n._ ([ol ](#ol )+[uat](uat))  
+
+
+- <a name="ol yot">**ol yot**</a> _n._ ([ol ](#ol )+[yot](yot))  
+
+
+- <a name="ol wel">**ol wel**</a> _n._ ([ol ](#ol )+[wel](wel))  
+
+
+- <a name="'olsotoksia">**'olsotoksia**</a> _n._ (Ell. &langle;Ορθοδοξία&rangle; [orθoðoˈksia])  
+
+
+- <a name="'olsotoksiaak">**'olsotoksiaak**</a> _n._ (['olsotoksia](#'olsotoksia)+[ak](#ak))  
+
+
+- <a name="olsunkwelwel">**olsunkwelwel**</a> _n._ ([ol](#ol)+[sunkwelwel](#sunkwelwel))  
+
+
+- <a name="olto">**olto**</a> _v._ (Epo. &langle;ordo&rangle; [ˈordo])  
 ordenar; estar en orden; ʟᴏᴧ tiene una posición tarde en ʟᴜᴍ
 
-  - **oltolon** _n._ (olto+lon)  
-  
+- <a name="oltolon">**oltolon**</a> _n._ ([olto](#olto)+[lon](#lon))  
 
-  - **oltolum** _n._ (olto+lum)  
-  lista; orden; secuencia; cola; fila
 
-  - **oltolyan** _n._ (olto+lyan)  
-  posición; índice; numero
+- <a name="oltolum">**oltolum**</a> _n._ ([olto](#olto)+[lum](#lum))  
+lista; orden; secuencia; cola; fila
 
-  - **oltolyanak** _n._ (oltolyan+ak)  
-  
+- <a name="oltolyan">**oltolyan**</a> _n._ ([olto](#olto)+[lyan](#lyan))  
+posición; índice; numero
 
-  - **oltoki** _v._ (olto+ki)  
-  
+- <a name="oltolyanak">**oltolyanak**</a> _n._ ([oltolyan](#oltolyan)+[ak](#ak))  
 
-  - **oltokiles** _n._ (oltoki+les)  
-  
 
-  - **oltokilip** _n._ (oltoki+lip)  
-  
+- <a name="oltoki">**oltoki**</a> _v._ ([olto](#olto)+[ki](#ki))  
 
-  - **oltokilum** _n._ (oltoki+lum)  
-  
 
-  - **oltilip** _n._ (ol+tilip)  
-  
+- <a name="oltokiles">**oltokiles**</a> _n._ ([oltoki](#oltoki)+[les](#les))  
 
-  - **olpumkwelwel** _n._ (ol+pumkwelwel)  
-  
 
-- **owon** _n._ (Yor. &langle;ọwọn&rangle; [ɔwɔ̃])  
+- <a name="oltokilip">**oltokilip**</a> _n._ ([oltoki](#oltoki)+[lip](#lip))  
 
 
-- **on** _post._ (Epo. &langle;-on&rangle; [on])  
+- <a name="oltokilum">**oltokilum**</a> _n._ ([oltoki](#oltoki)+[lum](#lum))  
 
 
-- **ona** _v._ (Yor. &langle;ọ̀na&rangle; [ɔ̀na])  
+- <a name="oltilip">**oltilip**</a> _n._ ([ol](#ol)+[tilip](#tilip))  
 
 
-  - **onalon** _n._ (ona+lon)  
-  
+- <a name="olpumkwelwel">**olpumkwelwel**</a> _n._ ([ol](#ol)+[pumkwelwel](#pumkwelwel))  
 
-  - **onalum** _n._ (ona+lum)  
-  
 
-  - **onanu** _v._ (ona+nu)  
-  
+- <a name="owon">**owon**</a> _n._ (Yor. &langle;ọwọn&rangle; [ɔwɔ̃])  
 
-  - **onanules** _n._ (onanu+les)  
-  
 
-  - **onaki** _v._ (ona+ki)  
-  
+- <a name="on">**on**</a> _post._ (Epo. &langle;-on&rangle; [on])  
 
-  - **onakiles** _n._ (onaki+les)  
-  
 
-  - **onakiluat** _n._ (onaki+luat)  
-  
+- <a name="ona">**ona**</a> _v._ (Yor. &langle;ọ̀na&rangle; [ɔ̀na])  
 
-- **'ontulas** _n._ (Spa. &langle;Honduras&rangle; [onˈduɾas])  
 
+- <a name="onalon">**onalon**</a> _n._ ([ona](#ona)+[lon](#lon))  
 
-  - **'ontulasak** _n._ ('ontulas+ak)  
-  
 
-  - **'ontulaswon** _n._ ('ontulas+won)  
-  
+- <a name="onalum">**onalum**</a> _n._ ([ona](#ona)+[lum](#lum))  
 
-- **'omeyn** _n._ (Heb. &langle;אָמֵן&rangle; [ɔˈmeɪ̯n])  
 
+- <a name="onanu">**onanu**</a> _v._ ([ona](#ona)+[nu](#nu))  
 
-- **oso** _v._ (Ibo. &langle;ọzọ&rangle; [ɒzɒ])  
 
+- <a name="onanules">**onanules**</a> _n._ ([onanu](#onanu)+[les](#les))  
 
-  - **osolon** _n._ (oso+lon)  
-  
 
-  - **osolum** _n._ (oso+lum)  
-  
+- <a name="onaki">**onaki**</a> _v._ ([ona](#ona)+[ki](#ki))  
 
-  - **osolyan** _n._ (oso+lyan)  
-  
 
-  - **osolyanak** _n._ (osolyan+ak)  
-  
+- <a name="onakiles">**onakiles**</a> _n._ ([onaki](#onaki)+[les](#les))  
 
-  - **osoki** _v._ (oso+ki)  
-  
 
-  - **osokiles** _n._ (osoki+les)  
-  
+- <a name="onakiluat">**onakiluat**</a> _n._ ([onaki](#onaki)+[luat](#luat))  
 
-- **osimi** _v._ (Ben. &langle;অসীম&rangle; [os̪im])  
 
+- <a name="'ontulas">**'ontulas**</a> _n._ (Spa. &langle;Honduras&rangle; [onˈduɾas])  
 
-  - **osimilon** _n._ (osimi+lon)  
-  
 
-  - **osiminyo** _v._ (osimi+nyo)  
-  
+- <a name="'ontulasak">**'ontulasak**</a> _n._ (['ontulas](#'ontulas)+[ak](#ak))  
 
-  - **osiminyouhu** _v._ (osiminyo+uhu)  
-  
 
-  - **osiminyouhulon** _n._ (osiminyouhu+lon)  
-  
+- <a name="'ontulaswon">**'ontulaswon**</a> _n._ (['ontulas](#'ontulas)+[won](#won))  
 
-  - **osiminyolon** _n._ (osiminyo+lon)  
-  
 
-  - **osimimota** _v._ (osimi+mota)  
-  
+- <a name="'omeyn">**'omeyn**</a> _n._ (Heb. &langle;אָמֵן&rangle; [ɔˈmeɪ̯n])  
 
-  - **osimimotalon** _n._ (osimimota+lon)  
-  
 
-  - **osimipela** _v._ (osimi+pela)  
-  
+- <a name="oso">**oso**</a> _v._ (Ibo. &langle;ọzọ&rangle; [ɒzɒ])  
 
-  - **osimipelalon** _n._ (osimipela+lon)  
-  
 
-- **'ostalayc** _n._ (Deu. &langle;Österreich&rangle; [ˈøːstɐraɪç])  
+- <a name="osolon">**osolon**</a> _n._ ([oso](#oso)+[lon](#lon))  
 
 
-  - **'ostalaycak** _n._ ('ostalayc+ak)  
-  
+- <a name="osolum">**osolum**</a> _n._ ([oso](#oso)+[lum](#lum))  
 
-  - **'ostalaycwon** _n._ ('ostalayc+won)  
-  
 
-- **'ostwaylya** _n._ (Eng. &langle;Australia&rangle; [əˈstɹʷæɪ̯ljə])  
+- <a name="osolyan">**osolyan**</a> _n._ ([oso](#oso)+[lyan](#lyan))  
 
 
-  - **'ostwaylyaak** _n._ ('ostwaylya+ak)  
-  
+- <a name="osolyanak">**osolyanak**</a> _n._ ([osolyan](#osolyan)+[ak](#ak))  
 
-  - **'ostwaylyaoposum** _n._ ('ostwaylya+oposum)  
-  
 
-  - **'ostwaylyawon** _n._ ('ostwaylya+won)  
-  
+- <a name="osoki">**osoki**</a> _v._ ([oso](#oso)+[ki](#ki))  
 
-  - **'ostwaylyatec** _n._ ('ostwaylya+tec)  
-  
 
-- **'ospek** _n._ (Uzb. &langle;Oʻzbek&rangle; [ozbek])  
+- <a name="osokiles">**osokiles**</a> _n._ ([osoki](#osoki)+[les](#les))  
 
 
-  - **'ospekak** _n._ ('ospek+ak)  
-  
+- <a name="osimi">**osimi**</a> _v._ (Ben. &langle;অসীম&rangle; [os̪im])  
 
-  - **'ospektec** _n._ ('ospek+tec)  
-  
 
-  - **'ospektilip** _n._ ('ospek+tilip)  
-  
+- <a name="osimilon">**osimilon**</a> _n._ ([osimi](#osimi)+[lon](#lon))  
 
-- **ofla** _v._ (~~esta~~)  
 
+- <a name="osiminyo">**osiminyo**</a> _v._ ([osimi](#osimi)+[nyo](#nyo))  
 
-  - **oflalon** _n._ (ofla+lon)  
-  
 
-  - **oflati** _v._ (ofla+ti)  
-  
+- <a name="osiminyouhu">**osiminyouhu**</a> _v._ ([osiminyo](#osiminyo)+[uhu](#uhu))  
 
-  - **oflatilon** _n._ (oflati+lon)  
-  
 
-- **oflo** _v._ (~~este~~)  
+- <a name="osiminyouhulon">**osiminyouhulon**</a> _n._ ([osiminyouhu](#osiminyouhu)+[lon](#lon))  
 
 
-  - **oflolon** _n._ (oflo+lon)  
-  
+- <a name="osiminyolon">**osiminyolon**</a> _n._ ([osiminyo](#osiminyo)+[lon](#lon))  
 
-  - **ofloki** _v._ (oflo+ki)  
-  
 
-- **ok** _spec._ (~~en~~)  
+- <a name="osimimota">**osimimota**</a> _v._ ([osimi](#osimi)+[mota](#mota))  
 
 
-- **oke** _v._ (Eng. &langle;okay&rangle; [ˌoʊ̯ˈkʰeɪ̯])  
+- <a name="osimimotalon">**osimimotalon**</a> _n._ ([osimimota](#osimimota)+[lon](#lon))  
 
 
-  - **okelon** _n._ (oke+lon)  
-  
+- <a name="osimipela">**osimipela**</a> _v._ ([osimi](#osimi)+[pela](#pela))  
 
-  - **okenu** _v._ (oke+nu)  
-  
 
-  - **okeki** _v._ (oke+ki)  
-  
+- <a name="osimipelalon">**osimipelalon**</a> _n._ ([osimipela](#osimipela)+[lon](#lon))  
 
-  - **oketi** _v._ (oke+ti)  
-  
 
-- **oku** _v._ (Ibo. &langle;ọkụ&rangle; [ɒkʊ])  
+- <a name="'ostalayc">**'ostalayc**</a> _n._ (Deu. &langle;Österreich&rangle; [ˈøːstɐraɪç])  
 
 
-- **okul** _n._ (Ibo. &langle;ọ́kụ̀rụ̀&rangle; [ɒ́kʊ̀ɹʊ̀])  
+- <a name="'ostalaycak">**'ostalaycak**</a> _n._ (['ostalayc](#'ostalayc)+[ak](#ak))  
 
 
-  - **okulon** _n._ (oku+lon)  
-  
+- <a name="'ostalaycwon">**'ostalaycwon**</a> _n._ (['ostalayc](#'ostalayc)+[won](#won))  
 
-  - **okulono** _v._ (oku+lono)  
-  
 
-  - **okulonolon** _n._ (okulono+lon)  
-  
+- <a name="'ostwaylya">**'ostwaylya**</a> _n._ (Eng. &langle;Australia&rangle; [əˈstɹʷæɪ̯ljə])  
 
-  - **okulum** _n._ (oku+lum)  
-  
 
-  - **okulyan** _n._ (oku+lyan)  
-  
+- <a name="'ostwaylyaak">**'ostwaylyaak**</a> _n._ (['ostwaylya](#'ostwaylya)+[ak](#ak))  
 
-  - **okulyansomaluat** _n._ (okulyan+somaluat)  
-  
 
-  - **okumihutatuniluhilasoma** _v._ (oku+mihutatu+nilu+hila+soma)  
-  
+- <a name="'ostwaylyaoposum">**'ostwaylyaoposum**</a> _n._ (['ostwaylya](#'ostwaylya)+[oposum](#oposum))  
 
-  - **okumihutatuniluhilasomalon** _n._ (okumihutatuniluhilasoma+lon)  
-  
 
-  - **okumihutatuniluhilasomales** _n._ (okumihutatuniluhilasoma+les)  
-  
+- <a name="'ostwaylyawon">**'ostwaylyawon**</a> _n._ (['ostwaylya](#'ostwaylya)+[won](#won))  
 
-  - **okucwelon** _n._ (oku+cwelon)  
-  
 
-  - **okucwelonkoki** _v._ (okucwelon+koki)  
-  
+- <a name="'ostwaylyatec">**'ostwaylyatec**</a> _n._ (['ostwaylya](#'ostwaylya)+[tec](#tec))  
 
-  - **okusison** _n._ (oku+sison)  
-  
 
-  - **okuki** _v._ (oku+ki)  
-  
+- <a name="'ospek">**'ospek**</a> _n._ (Uzb. &langle;Oʻzbek&rangle; [ozbek])  
 
-  - **okukiles** _n._ (okuki+les)  
-  
 
-  - **okupil** _n._ (oku+pil)  
-  
+- <a name="'ospekak">**'ospekak**</a> _n._ (['ospek](#'ospek)+[ak](#ak))  
 
-- **ot** _n._ (Mar. &langle;ओट&rangle; [oʈ])  
 
+- <a name="'ospektec">**'ospektec**</a> _n._ (['ospek](#'ospek)+[tec](#tec))  
 
-- **oti** _v._ (~~elu~~)  
 
+- <a name="'ospektilip">**'ospektilip**</a> _n._ (['ospek](#'ospek)+[tilip](#tilip))  
 
-  - **otilon** _n._ (oti+lon)  
-  
 
-  - **otiki** _v._ (oti+ki)  
-  
+- <a name="ofla">**ofla**</a> _v._ ([~~esta~~](#esta))  
 
-- **ope** _v._ (Eng. &langle;obey&rangle; [oʊ̯ˈbeɪ̯])  
 
+- <a name="oflalon">**oflalon**</a> _n._ ([ofla](#ofla)+[lon](#lon))  
 
-  - **opeles** _n._ (ope+les)  
-  
 
-  - **opelon** _n._ (ope+lon)  
-  
+- <a name="oflati">**oflati**</a> _v._ ([ofla](#ofla)+[ti](#ti))  
 
-  - **opelum** _n._ (ope+lum)  
-  
 
-- **opaka** _v._ (Epo. &langle;opaka&rangle; [oˈpaka])  
+- <a name="oflatilon">**oflatilon**</a> _n._ ([oflati](#oflati)+[lon](#lon))  
 
 
-  - **opakalon** _n._ (opaka+lon)  
-  
+- <a name="oflo">**oflo**</a> _v._ ([~~este~~](#este))  
 
-  - **opakalyan** _n._ (opaka+lyan)  
-  
 
-  - **opakaki** _v._ (opaka+ki)  
-  
+- <a name="oflolon">**oflolon**</a> _n._ ([oflo](#oflo)+[lon](#lon))  
 
-- **oposum** _n._ (Fil. &langle;oposum&rangle; [oposum])  
 
+- <a name="ofloki">**ofloki**</a> _v._ ([oflo](#oflo)+[ki](#ki))  
 
-## i
 
-- **'i** _n._ (ono. [i])  
+- <a name="ok">**ok**</a> _spec._ ([~~en~~](#en))  
 
 
-- **ial** _post._ (Epo. &langle;ial&rangle; [ˈial])  
+- <a name="oke">**oke**</a> _v._ (Eng. &langle;okay&rangle; [ˌoʊ̯ˈkʰeɪ̯])  
 
 
-- **iawo** _v._ (Yor. &langle;ìyàwó&rangle; [ìjáwó])  
+- <a name="okelon">**okelon**</a> _n._ ([oke](#oke)+[lon](#lon))  
 
 
-  - **iawolon** _n._ (iawo+lon)  
-  
+- <a name="okenu">**okenu**</a> _v._ ([oke](#oke)+[nu](#nu))  
 
-  - **iawolum** _n._ (iawo+lum)  
-  
 
-  - **iawonu** _v._ (iawo+nu)  
-  
+- <a name="okeki">**okeki**</a> _v._ ([oke](#oke)+[ki](#ki))  
 
-  - **iawoki** _v._ (iawo+ki)  
-  
 
-  - **iawokilwel** _n._ (iawoki+lwel)  
-  
+- <a name="oketi">**oketi**</a> _v._ ([oke](#oke)+[ti](#ti))  
 
-- **'ilawankapatay** _n._ (Tam. &langle;இலவங்கப்பட்டை&rangle; [ilʌʋʌŋˈɡʌpːʌʈːʌj])  
 
+- <a name="oku">**oku**</a> _v._ (Ibo. &langle;ọkụ&rangle; [ɒkʊ])  
 
-  - **'ilan** _n._ (Fas. &langle;ایران‎ >)  
-  
 
-  - **'ilanak** _n._ ('ilan+ak)  
-  
+- <a name="okul">**okul**</a> _n._ (Ibo. &langle;ọ́kụ̀rụ̀&rangle; [ɒ́kʊ̀ɹʊ̀])  
 
-  - **'ilanwon** _n._ ('ilan+won)  
-  
 
-  - **'ilantilip** _n._ ('ilan+tilip)  
-  
+- <a name="okulon">**okulon**</a> _n._ ([oku](#oku)+[lon](#lon))  
 
-- **'ilak** _n._ (Ara. &langle;عراق&rangle; [ʕiraːq])  
 
+- <a name="okulono">**okulono**</a> _v._ ([oku](#oku)+[lono](#lono))  
 
-  - **'ilakak** _n._ ('ilak+ak)  
-  
 
-  - **'ilaktilip** _n._ ('ilak+tilip)  
-  
+- <a name="okulonolon">**okulonolon**</a> _n._ ([okulono](#okulono)+[lon](#lon))  
 
-- **ilu** _v._ (Ibo. &langle;iru&rangle; [iɾu])  
 
+- <a name="okulum">**okulum**</a> _n._ ([oku](#oku)+[lum](#lum))  
 
-  - **ilulon** _n._ (ilu+lon)  
-  
 
-  - **ilulum** _n._ (ilu+lum)  
-  
+- <a name="okulyan">**okulyan**</a> _n._ ([oku](#oku)+[lyan](#lyan))  
 
-  - **ilunu** _v._ (ilu+nu)  
-  
 
-  - **iluki** _v._ (ilu+ki)  
-  
+- <a name="okulyansomaluat">**okulyansomaluat**</a> _n._ ([okulyan](#okulyan)+[somaluat](#somaluat))  
 
-  - **ilukiles** _n._ (iluki+les)  
-  
 
-  - **ilupoltilum** _n._ (ilu+poltilum)  
-  
+- <a name="okumihutatuniluhilasoma">**okumihutatuniluhilasoma**</a> _v._ ([oku](#oku)+[mihutatu](#mihutatu)+[nilu](#nilu)+[hila](#hila)+[soma](#soma))  
 
-- **ina** _v._ (Yor. &langle;iná&rangle; [ĩ̄á])  
 
+- <a name="okumihutatuniluhilasomalon">**okumihutatuniluhilasomalon**</a> _n._ ([okumihutatuniluhilasoma](#okumihutatuniluhilasoma)+[lon](#lon))  
 
-  - **inaisi** _v._ (ina+isi)  
-  
 
-  - **inaisilon** _n._ (inaisi+lon)  
-  
+- <a name="okumihutatuniluhilasomales">**okumihutatuniluhilasomales**</a> _n._ ([okumihutatuniluhilasoma](#okumihutatuniluhilasoma)+[les](#les))  
 
-  - **inaisilyan** _n._ (inaisi+lyan)  
-  
 
-  - **inaufu** _v._ (ina+ufu)  
-  
+- <a name="okucwelon">**okucwelon**</a> _n._ ([oku](#oku)+[cwelon](#cwelon))  
 
-  - **inaufulon** _n._ (inaufu+lon)  
-  
 
-  - **inaufulyan** _n._ (inaufu+lyan)  
-  
+- <a name="okucwelonkoki">**okucwelonkoki**</a> _v._ ([okucwelon](#okucwelon)+[koki](#koki))  
 
-  - **inalon** _n._ (ina+lon)  
-  
 
-  - **inalyan** _n._ (ina+lyan)  
-  
+- <a name="okusison">**okusison**</a> _n._ ([oku](#oku)+[sison](#sison))  
 
-  - **inanu** _v._ (ina+nu)  
-  
 
-  - **inanulip** _n._ (inanu+lip)  
-  
+- <a name="okuki">**okuki**</a> _v._ ([oku](#oku)+[ki](#ki))  
 
-  - **inanulum** _n._ (inanu+lum)  
-  
 
-  - **inacyaunyama** _v._ (ina+cyau+nyama)  
-  
+- <a name="okukiles">**okukiles**</a> _n._ ([okuki](#okuki)+[les](#les))  
 
-  - **inaki** _v._ (ina+ki)  
-  
 
-  - **inakiles** _n._ (inaki+les)  
-  
+- <a name="okupil">**okupil**</a> _n._ ([oku](#oku)+[pil](#pil))  
 
-  - **inatupan** _n._ (ina+tupan)  
-  
 
-  - **inapowi** _v._ (ina+powi)  
-  
+- <a name="ot">**ot**</a> _n._ (Mar. &langle;ओट&rangle; [oʈ])  
 
-  - **inapowilon** _n._ (inapowi+lon)  
-  
 
-  - **inapowilyan** _n._ (inapowi+lyan)  
-  
+- <a name="oti">**oti**</a> _v._ ([~~elu~~](#elu))  
 
-- **inco** _v._ (Cmn. &langle;应受&rangle; [iŋ˥ʂoʊ̯˥˩])  
 
+- <a name="otilon">**otilon**</a> _n._ ([oti](#oti)+[lon](#lon))  
 
-  - **incolon** _n._ (inco+lon)  
-  
 
-  - **incolum** _n._ (inco+lum)  
-  
+- <a name="otiki">**otiki**</a> _v._ ([oti](#oti)+[ki](#ki))  
 
-  - **inconu** _v._ (inco+nu)  
-  
 
-  - **incoki** _v._ (inco+ki)  
-  
+- <a name="ope">**ope**</a> _v._ (Eng. &langle;obey&rangle; [oʊ̯ˈbeɪ̯])  
 
-- **'inkil** _n._ (Eng. &langle;Engl-&rangle; [ˈɪŋɡl])  
 
+- <a name="opeles">**opeles**</a> _n._ ([ope](#ope)+[les](#les))  
 
-  - **'inkilak** _n._ ('inkil+ak)  
-  
 
-  - **'inkiltec** _n._ ('inkil+tec)  
-  
+- <a name="opelon">**opelon**</a> _n._ ([ope](#ope)+[lon](#lon))  
 
-  - **'inkiltilip** _n._ ('inkil+tilip)  
-  
 
-- **'intelinkwe** _n._ (Ile. &langle;Interlingue&rangle; [interlingwe])  
+- <a name="opelum">**opelum**</a> _n._ ([ope](#ope)+[lum](#lum))  
 
 
-  - **'intelinkweak** _n._ ('intelinkwe+ak)  
-  
+- <a name="opaka">**opaka**</a> _v._ (Epo. &langle;opaka&rangle; [oˈpaka])  
 
-  - **'intelinkwewon** _n._ ('intelinkwe+won)  
-  
 
-- **'intelinkwa** _n._ (Ina. &langle;Interlingua&rangle; [inteɾˈliŋɡwa])  
+- <a name="opakalon">**opakalon**</a> _n._ ([opaka](#opaka)+[lon](#lon))  
 
 
-  - **'intelinkwaak** _n._ ('intelinkwa+ak)  
-  
+- <a name="opakalyan">**opakalyan**</a> _n._ ([opaka](#opaka)+[lyan](#lyan))  
 
-  - **'intelinkwawon** _n._ ('intelinkwa+won)  
-  
 
-- **'intanet** _n._ (Eng. &langle;Internet&rangle; [ˈɪntɚnɛt])  
+- <a name="opakaki">**opakaki**</a> _v._ ([opaka](#opaka)+[ki](#ki))  
 
 
-  - **'intanetak** _n._ ('intanet+ak)  
-  
+- <a name="oposum">**oposum**</a> _n._ (Fil. &langle;oposum&rangle; [oposum])  
 
-- **'intonesia** _n._ (Ind. &langle;Indonesia&rangle; [ɪndonesia])  
 
+### i
 
-  - **'intonesiaak** _n._ ('intonesia+ak)  
-  
+- <a name="'i">**'i**</a> _n._ (ono. [i])  
 
-  - **'intonesiawon** _n._ ('intonesia+won)  
-  
 
-  - **'intonesiatilip** _n._ ('intonesia+tilip)  
-  
+- <a name="ial">**ial**</a> _post._ (Epo. &langle;ial&rangle; [ˈial])  
 
-- **ime** _v._ (Ibo. &langle;ime&rangle; [ime])  
 
+- <a name="iawo">**iawo**</a> _v._ (Yor. &langle;ìyàwó&rangle; [ìjáwó])  
 
-  - **imeec** _n._ (ime+ec)  
-  
 
-- **'imeyl** _n._ (Eng. &langle;email&rangle; [ˈiːmeɪ̯l])  
+- <a name="iawolon">**iawolon**</a> _n._ ([iawo](#iawo)+[lon](#lon))  
 
 
-  - **imelon** _n._ (ime+lon)  
-  
+- <a name="iawolum">**iawolum**</a> _n._ ([iawo](#iawo)+[lum](#lum))  
 
-  - **imenu** _v._ (ime+nu)  
-  
 
-  - **imenules** _n._ (imenu+les)  
-  
+- <a name="iawonu">**iawonu**</a> _v._ ([iawo](#iawo)+[nu](#nu))  
 
-  - **imeki** _v._ (ime+ki)  
-  
 
-  - **imekiles** _n._ (imeki+les)  
+- <a name="iawoki">**iawoki**</a> _v._ ([iawo](#iawo)+[ki](#ki))  
+
+
+- <a name="iawokilwel">**iawokilwel**</a> _n._ ([iawoki](#iawoki)+[lwel](#lwel))  
+
+
+- <a name="'ilawankapatay">**'ilawankapatay**</a> _n._ (Tam. &langle;இலவங்கப்பட்டை&rangle; [ilʌʋʌŋˈɡʌpːʌʈːʌj])  
+
+
+  - <a name="'ilan">**'ilan**</a> _n._ (Fas. &langle;ایران‎ >)  
   
+
+- <a name="'ilanak">**'ilanak**</a> _n._ (['ilan](#'ilan)+[ak](#ak))  
+
+
+- <a name="'ilanwon">**'ilanwon**</a> _n._ (['ilan](#'ilan)+[won](#won))  
+
+
+- <a name="'ilantilip">**'ilantilip**</a> _n._ (['ilan](#'ilan)+[tilip](#tilip))  
+
+
+- <a name="'ilak">**'ilak**</a> _n._ (Ara. &langle;عراق&rangle; [ʕiraːq])  
+
+
+- <a name="'ilakak">**'ilakak**</a> _n._ (['ilak](#'ilak)+[ak](#ak))  
+
+
+- <a name="'ilaktilip">**'ilaktilip**</a> _n._ (['ilak](#'ilak)+[tilip](#tilip))  
+
+
+- <a name="ilu">**ilu**</a> _v._ (Ibo. &langle;iru&rangle; [iɾu])  
+
+
+- <a name="ilulon">**ilulon**</a> _n._ ([ilu](#ilu)+[lon](#lon))  
+
+
+- <a name="ilulum">**ilulum**</a> _n._ ([ilu](#ilu)+[lum](#lum))  
+
+
+- <a name="ilunu">**ilunu**</a> _v._ ([ilu](#ilu)+[nu](#nu))  
+
+
+- <a name="iluki">**iluki**</a> _v._ ([ilu](#ilu)+[ki](#ki))  
+
+
+- <a name="ilukiles">**ilukiles**</a> _n._ ([iluki](#iluki)+[les](#les))  
+
+
+- <a name="ilupoltilum">**ilupoltilum**</a> _n._ ([ilu](#ilu)+[poltilum](#poltilum))  
+
+
+- <a name="ina">**ina**</a> _v._ (Yor. &langle;iná&rangle; [ĩ̄á])  
+
+
+- <a name="inaisi">**inaisi**</a> _v._ ([ina](#ina)+[isi](#isi))  
+
+
+- <a name="inaisilon">**inaisilon**</a> _n._ ([inaisi](#inaisi)+[lon](#lon))  
+
+
+- <a name="inaisilyan">**inaisilyan**</a> _n._ ([inaisi](#inaisi)+[lyan](#lyan))  
+
+
+- <a name="inaufu">**inaufu**</a> _v._ ([ina](#ina)+[ufu](#ufu))  
+
+
+- <a name="inaufulon">**inaufulon**</a> _n._ ([inaufu](#inaufu)+[lon](#lon))  
+
+
+- <a name="inaufulyan">**inaufulyan**</a> _n._ ([inaufu](#inaufu)+[lyan](#lyan))  
+
+
+- <a name="inalon">**inalon**</a> _n._ ([ina](#ina)+[lon](#lon))  
+
+
+- <a name="inalyan">**inalyan**</a> _n._ ([ina](#ina)+[lyan](#lyan))  
+
+
+- <a name="inanu">**inanu**</a> _v._ ([ina](#ina)+[nu](#nu))  
+
+
+- <a name="inanulip">**inanulip**</a> _n._ ([inanu](#inanu)+[lip](#lip))  
+
+
+- <a name="inanulum">**inanulum**</a> _n._ ([inanu](#inanu)+[lum](#lum))  
+
+
+- <a name="inacyaunyama">**inacyaunyama**</a> _v._ ([ina](#ina)+[cyau](#cyau)+[nyama](#nyama))  
+
+
+- <a name="inaki">**inaki**</a> _v._ ([ina](#ina)+[ki](#ki))  
+
+
+- <a name="inakiles">**inakiles**</a> _n._ ([inaki](#inaki)+[les](#les))  
+
+
+- <a name="inatupan">**inatupan**</a> _n._ ([ina](#ina)+[tupan](#tupan))  
+
+
+- <a name="inapowi">**inapowi**</a> _v._ ([ina](#ina)+[powi](#powi))  
+
+
+- <a name="inapowilon">**inapowilon**</a> _n._ ([inapowi](#inapowi)+[lon](#lon))  
+
+
+- <a name="inapowilyan">**inapowilyan**</a> _n._ ([inapowi](#inapowi)+[lyan](#lyan))  
+
+
+- <a name="inco">**inco**</a> _v._ (Cmn. &langle;应受&rangle; [iŋ˥ʂoʊ̯˥˩])  
+
+
+- <a name="incolon">**incolon**</a> _n._ ([inco](#inco)+[lon](#lon))  
+
+
+- <a name="incolum">**incolum**</a> _n._ ([inco](#inco)+[lum](#lum))  
+
+
+- <a name="inconu">**inconu**</a> _v._ ([inco](#inco)+[nu](#nu))  
+
+
+- <a name="incoki">**incoki**</a> _v._ ([inco](#inco)+[ki](#ki))  
+
+
+- <a name="'inkil">**'inkil**</a> _n._ (Eng. &langle;Engl-&rangle; [ˈɪŋɡl])  
+
+
+- <a name="'inkilak">**'inkilak**</a> _n._ (['inkil](#'inkil)+[ak](#ak))  
+
+
+- <a name="'inkiltec">**'inkiltec**</a> _n._ (['inkil](#'inkil)+[tec](#tec))  
+
+
+- <a name="'inkiltilip">**'inkiltilip**</a> _n._ (['inkil](#'inkil)+[tilip](#tilip))  
+
+
+- <a name="'intelinkwe">**'intelinkwe**</a> _n._ (Ile. &langle;Interlingue&rangle; [interlingwe])  
+
+
+- <a name="'intelinkweak">**'intelinkweak**</a> _n._ (['intelinkwe](#'intelinkwe)+[ak](#ak))  
+
+
+- <a name="'intelinkwewon">**'intelinkwewon**</a> _n._ (['intelinkwe](#'intelinkwe)+[won](#won))  
+
+
+- <a name="'intelinkwa">**'intelinkwa**</a> _n._ (Ina. &langle;Interlingua&rangle; [inteɾˈliŋɡwa])  
+
+
+- <a name="'intelinkwaak">**'intelinkwaak**</a> _n._ (['intelinkwa](#'intelinkwa)+[ak](#ak))  
+
+
+- <a name="'intelinkwawon">**'intelinkwawon**</a> _n._ (['intelinkwa](#'intelinkwa)+[won](#won))  
+
+
+- <a name="'intanet">**'intanet**</a> _n._ (Eng. &langle;Internet&rangle; [ˈɪntɚnɛt])  
+
+
+- <a name="'intanetak">**'intanetak**</a> _n._ (['intanet](#'intanet)+[ak](#ak))  
+
+
+- <a name="'intonesia">**'intonesia**</a> _n._ (Ind. &langle;Indonesia&rangle; [ɪndonesia])  
+
+
+- <a name="'intonesiaak">**'intonesiaak**</a> _n._ (['intonesia](#'intonesia)+[ak](#ak))  
+
+
+- <a name="'intonesiawon">**'intonesiawon**</a> _n._ (['intonesia](#'intonesia)+[won](#won))  
+
+
+- <a name="'intonesiatilip">**'intonesiatilip**</a> _n._ (['intonesia](#'intonesia)+[tilip](#tilip))  
+
+
+- <a name="ime">**ime**</a> _v._ (Ibo. &langle;ime&rangle; [ime])  
+
+
+- <a name="imeec">**imeec**</a> _n._ ([ime](#ime)+[ec](#ec))  
+
+
+- <a name="'imeyl">**'imeyl**</a> _n._ (Eng. &langle;email&rangle; [ˈiːmeɪ̯l])  
+
+
+- <a name="imelon">**imelon**</a> _n._ ([ime](#ime)+[lon](#lon))  
+
+
+- <a name="imenu">**imenu**</a> _v._ ([ime](#ime)+[nu](#nu))  
+
+
+- <a name="imenules">**imenules**</a> _n._ ([imenu](#imenu)+[les](#les))  
+
+
+- <a name="imeki">**imeki**</a> _v._ ([ime](#ime)+[ki](#ki))  
+
+
+- <a name="imekiles">**imekiles**</a> _n._ ([imeki](#imeki)+[les](#les))  
+
 
-- **imal** _num._ (Eng. &langle;-imal&rangle; [ɪml̩])  
+- <a name="imal">**imal**</a> _num._ (Eng. &langle;-imal&rangle; [ɪml̩])  
 base
 
-- **imo** _v._ (~~upe~~)  
+- <a name="imo">**imo**</a> _v._ ([~~upe~~](#upe))  
 
 
-  - **imolon** _n._ (imo+lon)  
-  
-
-  - **imoki** _v._ (imo+ki)  
-  
-
-- **ihoha** _v._ (~~uceca~~)  
+- <a name="imolon">**imolon**</a> _n._ ([imo](#imo)+[lon](#lon))  
 
 
-  - **ihohalon** _n._ (ihoha+lon)  
-  
+- <a name="imoki">**imoki**</a> _v._ ([imo](#imo)+[ki](#ki))  
 
-  - **ihohaki** _v._ (ihoha+ki)  
-  
 
-- **ihin** _n._ (ono. [ĩː˥])  
+- <a name="ihoha">**ihoha**</a> _v._ ([~~uceca~~](#uceca))  
+
+
+- <a name="ihohalon">**ihohalon**</a> _n._ ([ihoha](#ihoha)+[lon](#lon))  
+
+
+- <a name="ihohaki">**ihohaki**</a> _v._ ([ihoha](#ihoha)+[ki](#ki))  
+
+
+- <a name="ihin">**ihin**</a> _n._ (ono. [ĩː˥])  
 mosca; Muscidae
 
-- **ice** _v._ (Yor. &langle;iṣẹ́&rangle; [īʃɛ́])  
+- <a name="ice">**ice**</a> _v._ (Yor. &langle;iṣẹ́&rangle; [īʃɛ́])  
 
 
-  - **icelon** _n._ (ice+lon)  
-  
+- <a name="icelon">**icelon**</a> _n._ ([ice](#ice)+[lon](#lon))  
 
-  - **icelum** _n._ (ice+lum)  
-  
 
-  - **icelyan** _n._ (ice+lyan)  
-  
+- <a name="icelum">**icelum**</a> _n._ ([ice](#ice)+[lum](#lum))  
 
-  - **icelyot** _n._ (ice+lyot)  
-  
 
-  - **icemai** _v._ (ice+mai)  
-  
+- <a name="icelyan">**icelyan**</a> _n._ ([ice](#ice)+[lyan](#lyan))  
 
-  - **icemailes** _n._ (icemai+les)  
-  
 
-  - **icemailon** _n._ (icemai+lon)  
-  
+- <a name="icelyot">**icelyot**</a> _n._ ([ice](#ice)+[lyot](#lyot))  
 
-  - **icemailum** _n._ (icemai+lum)  
-  
 
-  - **icemailwel** _n._ (icemai+lwel)  
-  
+- <a name="icemai">**icemai**</a> _v._ ([ice](#ice)+[mai](#mai))  
 
-  - **iceki** _v._ (ice+ki)  
-  
 
-- **ici** _v._ (Swa. &langle;-ishi&rangle; [iʃi])  
+- <a name="icemailes">**icemailes**</a> _n._ ([icemai](#icemai)+[les](#les))  
 
 
-  - **icilet** _n._ (ici+let)  
-  
+- <a name="icemailon">**icemailon**</a> _n._ ([icemai](#icemai)+[lon](#lon))  
 
-  - **icilon** _n._ (ici+lon)  
-  
 
-  - **icilyot** _n._ (ici+lyot)  
-  
+- <a name="icemailum">**icemailum**</a> _n._ ([icemai](#icemai)+[lum](#lum))  
 
-  - **icilwel** _n._ (ici+lwel)  
-  
 
-  - **icicalu** _v._ (ici+calu)  
-  
+- <a name="icemailwel">**icemailwel**</a> _n._ ([icemai](#icemai)+[lwel](#lwel))  
 
-  - **icicalules** _n._ (icicalu+les)  
-  
 
-  - **icicakalum** _n._ (ici+cakalum)  
-  
+- <a name="iceki">**iceki**</a> _v._ ([ice](#ice)+[ki](#ki))  
 
-  - **icicwelon** _n._ (ici+cwelon)  
-  
 
-  - **icicwelontulum** _n._ (icicwelon+tulum)  
-  
+- <a name="ici">**ici**</a> _v._ (Swa. &langle;-ishi&rangle; [iʃi])  
 
-  - **icisoma** _v._ (ici+soma)  
-  
 
-  - **icisomales** _n._ (icisoma+les)  
-  
+- <a name="icilet">**icilet**</a> _n._ ([ici](#ici)+[let](#let))  
 
-  - **icisomalon** _n._ (icisoma+lon)  
-  
 
-  - **iciki** _v._ (ici+ki)  
-  
+- <a name="icilon">**icilon**</a> _n._ ([ici](#ici)+[lon](#lon))  
 
-  - **icitutumu** _v._ (ici+tutumu)  
-  
 
-  - **icitutumulyan** _n._ (icitutumu+lyan)  
-  
+- <a name="icilyot">**icilyot**</a> _n._ ([ici](#ici)+[lyot](#lyot))  
 
-  - **icipeta** _v._ (ici+peta)  
-  
 
-  - **icipetalon** _n._ (icipeta+lon)  
-  
+- <a name="icilwel">**icilwel**</a> _n._ ([ici](#ici)+[lwel](#lwel))  
 
-  - **icipetalwel** _n._ (icipeta+lwel)  
-  
 
-- **'ickip** _n._ (Alb. &langle;Shqip&rangle; [ʃcip])  
+- <a name="icicalu">**icicalu**</a> _v._ ([ici](#ici)+[calu](#calu))  
 
 
-  - **'ickipak** _n._ ('ickip+ak)  
-  
+- <a name="icicalules">**icicalules**</a> _n._ ([icicalu](#icicalu)+[les](#les))  
 
-  - **'ickiptec** _n._ ('ickip+tec)  
-  
 
-  - **'ickiptilip** _n._ ('ickip+tilip)  
-  
+- <a name="icicakalum">**icicakalum**</a> _n._ ([ici](#ici)+[cakalum](#cakalum))  
 
-- **ise** _v._ (Yor. &langle;isẹ&rangle; [isɛ])  
 
+- <a name="icicwelon">**icicwelon**</a> _n._ ([ici](#ici)+[cwelon](#cwelon))  
 
-  - **isepowi** _v._ (ise+powi)  
-  
 
-  - **isepowilon** _n._ (isepowi+lon)  
-  
+- <a name="icicwelontulum">**icicwelontulum**</a> _n._ ([icicwelon](#icicwelon)+[tulum](#tulum))  
 
-  - **isepowinyo** _v._ (isepowi+nyo)  
-  
 
-  - **isepowinyolon** _n._ (isepowinyo+lon)  
-  
+- <a name="icisoma">**icisoma**</a> _v._ ([ici](#ici)+[soma](#soma))  
 
-- **isa** _v._ (~~ufa~~)  
 
+- <a name="icisomales">**icisomales**</a> _n._ ([icisoma](#icisoma)+[les](#les))  
 
-  - **isalon** _n._ (isa+lon)  
-  
 
-  - **isaseleal** _n._ (isa+seleal)  
-  
+- <a name="icisomalon">**icisomalon**</a> _n._ ([icisoma](#icisoma)+[lon](#lon))  
 
-  - **isaki** _v._ (isa+ki)  
-  
 
-  - **isakiles** _n._ (isaki+les)  
-  
+- <a name="iciki">**iciki**</a> _v._ ([ici](#ici)+[ki](#ki))  
 
-- **isi** _v._ (Eng. &langle;easy&rangle; [ˈiːzi])  
 
+- <a name="icitutumu">**icitutumu**</a> _v._ ([ici](#ici)+[tutumu](#tutumu))  
 
-  - **isilum** _n._ (isi+lum)  
-  
 
-  - **isiki** _v._ (isi+ki)  
-  
+- <a name="icitutumulyan">**icitutumulyan**</a> _n._ ([icitutumu](#icitutumu)+[lyan](#lyan))  
 
-- **'islan** _n._ (Isl. &langle;Ísland&rangle; [ˈistlant])  
 
+- <a name="icipeta">**icipeta**</a> _v._ ([ici](#ici)+[peta](#peta))  
 
-  - **'islanak** _n._ ('islan+ak)  
-  
 
-  - **'islanwon** _n._ ('islan+won)  
-  
+- <a name="icipetalon">**icipetalon**</a> _n._ ([icipeta](#icipeta)+[lon](#lon))  
 
-  - **'islantec** _n._ ('islan+tec)  
-  
 
-  - **'islantilip** _n._ ('islan+tilip)  
-  
+- <a name="icipetalwel">**icipetalwel**</a> _n._ ([icipeta](#icipeta)+[lwel](#lwel))  
 
-- **'islam** _n._ (Ara. &langle;إسلام&rangle; [ʔɪsˈlaːm])  
 
+- <a name="'ickip">**'ickip**</a> _n._ (Alb. &langle;Shqip&rangle; [ʃcip])  
 
-  - **'islamak** _n._ ('islam+ak)  
-  
 
-  - **'islamwon** _n._ ('islam+won)  
-  
+- <a name="'ickipak">**'ickipak**</a> _n._ (['ickip](#'ickip)+[ak](#ak))  
 
-- **'istanpul** _n._ (Tur. &langle;İstanbul&rangle; [isˈtanbuɫ])  
 
+- <a name="'ickiptec">**'ickiptec**</a> _n._ (['ickip](#'ickip)+[tec](#tec))  
 
-- **ifen** _spec._ (Eng. &langle;even&rangle; [ˈiːvn̩])  
 
+- <a name="'ickiptilip">**'ickiptilip**</a> _n._ (['ickip](#'ickip)+[tilip](#tilip))  
 
-  - **ifenaw** _spec._ (ifen+aw)  
-  
 
-  - **ifenyo** _spec._ (ifen+yo)  
-  
+- <a name="ise">**ise**</a> _v._ (Yor. &langle;isẹ&rangle; [isɛ])  
 
-- **ikci** _v._ (~~unhu~~)  
 
+- <a name="isepowi">**isepowi**</a> _v._ ([ise](#ise)+[powi](#powi))  
 
-  - **ikcilon** _n._ (ikci+lon)  
-  
 
-  - **ikcinati** _v._ (ikci+nati)  
-  
+- <a name="isepowilon">**isepowilon**</a> _n._ ([isepowi](#isepowi)+[lon](#lon))  
 
-  - **ikcinatiles** _n._ (ikcinati+les)  
-  
 
-  - **ikcinatilon** _n._ (ikcinati+lon)  
-  
+- <a name="isepowinyo">**isepowinyo**</a> _v._ ([isepowi](#isepowi)+[nyo](#nyo))  
 
-  - **ikcinatilum** _n._ (ikcinati+lum)  
-  
 
-  - **ikciki** _v._ (ikci+ki)  
-  
+- <a name="isepowinyolon">**isepowinyolon**</a> _n._ ([isepowinyo](#isepowinyo)+[lon](#lon))  
 
-- **'ikpo** _n._ (Ibo. &langle;Ị̀gbò&rangle; [ìɡ͡bò])  
 
+- <a name="isa">**isa**</a> _v._ ([~~ufa~~](#ufa))  
 
-  - **'ikpoak** _n._ ('ikpo+ak)  
-  
 
-  - **'ikpotilip** _n._ ('ikpo+tilip)  
-  
+- <a name="isalon">**isalon**</a> _n._ ([isa](#isa)+[lon](#lon))  
 
-- **itea** _v._ (Spa. &langle;idea&rangle; [iˈðea])  
+
+- <a name="isaseleal">**isaseleal**</a> _n._ ([isa](#isa)+[seleal](#seleal))  
+
+
+- <a name="isaki">**isaki**</a> _v._ ([isa](#isa)+[ki](#ki))  
+
+
+- <a name="isakiles">**isakiles**</a> _n._ ([isaki](#isaki)+[les](#les))  
+
+
+- <a name="isi">**isi**</a> _v._ (Eng. &langle;easy&rangle; [ˈiːzi])  
+
+
+- <a name="isilum">**isilum**</a> _n._ ([isi](#isi)+[lum](#lum))  
+
+
+- <a name="isiki">**isiki**</a> _v._ ([isi](#isi)+[ki](#ki))  
+
+
+- <a name="'islan">**'islan**</a> _n._ (Isl. &langle;Ísland&rangle; [ˈistlant])  
+
+
+- <a name="'islanak">**'islanak**</a> _n._ (['islan](#'islan)+[ak](#ak))  
+
+
+- <a name="'islanwon">**'islanwon**</a> _n._ (['islan](#'islan)+[won](#won))  
+
+
+- <a name="'islantec">**'islantec**</a> _n._ (['islan](#'islan)+[tec](#tec))  
+
+
+- <a name="'islantilip">**'islantilip**</a> _n._ (['islan](#'islan)+[tilip](#tilip))  
+
+
+- <a name="'islam">**'islam**</a> _n._ (Ara. &langle;إسلام&rangle; [ʔɪsˈlaːm])  
+
+
+- <a name="'islamak">**'islamak**</a> _n._ (['islam](#'islam)+[ak](#ak))  
+
+
+- <a name="'islamwon">**'islamwon**</a> _n._ (['islam](#'islam)+[won](#won))  
+
+
+- <a name="'istanpul">**'istanpul**</a> _n._ (Tur. &langle;İstanbul&rangle; [isˈtanbuɫ])  
+
+
+- <a name="ifen">**ifen**</a> _spec._ (Eng. &langle;even&rangle; [ˈiːvn̩])  
+
+
+- <a name="ifenaw">**ifenaw**</a> _spec._ ([ifen](#ifen)+[aw](#aw))  
+
+
+- <a name="ifenyo">**ifenyo**</a> _spec._ ([ifen](#ifen)+[yo](#yo))  
+
+
+- <a name="ikci">**ikci**</a> _v._ ([~~unhu~~](#unhu))  
+
+
+- <a name="ikcilon">**ikcilon**</a> _n._ ([ikci](#ikci)+[lon](#lon))  
+
+
+- <a name="ikcinati">**ikcinati**</a> _v._ ([ikci](#ikci)+[nati](#nati))  
+
+
+- <a name="ikcinatiles">**ikcinatiles**</a> _n._ ([ikcinati](#ikcinati)+[les](#les))  
+
+
+- <a name="ikcinatilon">**ikcinatilon**</a> _n._ ([ikcinati](#ikcinati)+[lon](#lon))  
+
+
+- <a name="ikcinatilum">**ikcinatilum**</a> _n._ ([ikcinati](#ikcinati)+[lum](#lum))  
+
+
+- <a name="ikciki">**ikciki**</a> _v._ ([ikci](#ikci)+[ki](#ki))  
+
+
+- <a name="'ikpo">**'ikpo**</a> _n._ (Ibo. &langle;Ị̀gbò&rangle; [ìɡ͡bò])  
+
+
+- <a name="'ikpoak">**'ikpoak**</a> _n._ (['ikpo](#'ikpo)+[ak](#ak))  
+
+
+- <a name="'ikpotilip">**'ikpotilip**</a> _n._ (['ikpo](#'ikpo)+[tilip](#tilip))  
+
+
+- <a name="itea">**itea**</a> _v._ (Spa. &langle;idea&rangle; [iˈðea])  
 idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
 
-  - **iteales** _n._ (itea+les)  
-  creativo
+- <a name="iteales">**iteales**</a> _n._ ([itea](#itea)+[les](#les))  
+creativo
 
-  - **itealon** _n._ (itea+lon)  
-  idea; pienso; invención
+- <a name="itealon">**itealon**</a> _n._ ([itea](#itea)+[lon](#lon))  
+idea; pienso; invención
 
-  - **itealial** _n._ (itea+lial)  
-  inspiración
+- <a name="itealial">**itealial**</a> _n._ ([itea](#itea)+[lial](#lial))  
+inspiración
 
-- **'italya** _n._ (Ita. &langle;Italia&rangle; [itaːlja])  
+- <a name="'italya">**'italya**</a> _n._ (Ita. &langle;Italia&rangle; [itaːlja])  
 
 
-  - **'italyaak** _n._ ('italya+ak)  
-  
+- <a name="'italyaak">**'italyaak**</a> _n._ (['italya](#'italya)+[ak](#ak))  
 
-  - **'italyawon** _n._ ('italya+won)  
-  
 
-  - **'italyatilip** _n._ ('italya+tilip)  
-  
+- <a name="'italyawon">**'italyawon**</a> _n._ (['italya](#'italya)+[won](#won))  
 
-- **'ito** _n._ (Ido. &langle;Ido&rangle; [ˈido])  
 
+- <a name="'italyatilip">**'italyatilip**</a> _n._ (['italya](#'italya)+[tilip](#tilip))  
 
-  - **'itoak** _n._ ('ito+ak)  
-  
 
-  - **'itowon** _n._ ('ito+won)  
-  
+- <a name="'ito">**'ito**</a> _n._ (Ido. &langle;Ido&rangle; [ˈido])  
 
-- **iti** _v._ (Yor. &langle;ìdí&rangle; [ìdí])  
 
+- <a name="'itoak">**'itoak**</a> _n._ (['ito](#'ito)+[ak](#ak))  
 
-  - **itiles** _n._ (iti+les)  
-  
 
-  - **itilon** _n._ (iti+lon)  
-  
+- <a name="'itowon">**'itowon**</a> _n._ (['ito](#'ito)+[won](#won))  
 
-- **'ityopya** _n._ (Amh. &langle;ኢትዮጵያ&rangle; [ʔɨtjoppʼja])  
 
+- <a name="iti">**iti**</a> _v._ (Yor. &langle;ìdí&rangle; [ìdí])  
 
-  - **'ityopyaak** _n._ ('ityopya+ak)  
-  
 
-  - **'ityopyawon** _n._ ('ityopya+won)  
-  
+- <a name="itiles">**itiles**</a> _n._ ([iti](#iti)+[les](#les))  
 
-- **ip** _post._ (∅)  
 
+- <a name="itilon">**itilon**</a> _n._ ([iti](#iti)+[lon](#lon))  
 
-- **ipa** _v._ (Yor. &langle;ìbá&rangle; [ìbá])  
 
+- <a name="'ityopya">**'ityopya**</a> _n._ (Amh. &langle;ኢትዮጵያ&rangle; [ʔɨtjoppʼja])  
 
-  - **ipalon** _n._ (ipa+lon)  
-  
 
-  - **ipalum** _n._ (ipa+lum)  
-  
+- <a name="'ityopyaak">**'ityopyaak**</a> _n._ (['ityopya](#'ityopya)+[ak](#ak))  
 
-  - **ipati** _v._ (ipa+ti)  
-  
 
-  - **ipatiles** _n._ (ipati+les)  
-  
+- <a name="'ityopyawon">**'ityopyawon**</a> _n._ (['ityopya](#'ityopya)+[won](#won))  
 
-  - **ipatilon** _n._ (ipati+lon)  
-  
 
-  - **ipatilum** _n._ (ipati+lum)  
-  
+- <a name="ip">**ip**</a> _post._ (∅)  
 
-- **ipis** _n._ (Fil. &langle;ipis&rangle; [ipis])  
 
+- <a name="ipa">**ipa**</a> _v._ (Yor. &langle;ìbá&rangle; [ìbá])  
 
-## u
 
-- **'u** _n._ (ono. [u])  
+- <a name="ipalon">**ipalon**</a> _n._ ([ipa](#ipa)+[lon](#lon))  
 
 
-- **uat** _post._ (~~ial~~)  
+- <a name="ipalum">**ipalum**</a> _n._ ([ipa](#ipa)+[lum](#lum))  
 
 
-- **ul** _n._ (Jav. &langle;wulu&rangle; [wuɭu])  
+- <a name="ipati">**ipati**</a> _v._ ([ipa](#ipa)+[ti](#ti))  
 
 
-  - **ulak** _n._ (ul+ak)  
-  
+- <a name="ipatiles">**ipatiles**</a> _n._ ([ipati](#ipati)+[les](#les))  
 
-- **ulu** _v._ (~~iti~~)  
 
+- <a name="ipatilon">**ipatilon**</a> _n._ ([ipati](#ipati)+[lon](#lon))  
 
-  - **ulules** _n._ (ulu+les)  
-  
 
-  - **ululon** _n._ (ulu+lon)  
-  
+- <a name="ipatilum">**ipatilum**</a> _n._ ([ipati](#ipati)+[lum](#lum))  
 
-- **'ulukway** _n._ (Spa. &langle;Uruguay&rangle; [uɾuˈɣaj])  
 
+- <a name="ipis">**ipis**</a> _n._ (Fil. &langle;ipis&rangle; [ipis])  
 
-  - **'ulukwayak** _n._ ('ulukway+ak)  
-  
 
-  - **'ulukwaywon** _n._ ('ulukway+won)  
-  
+### u
 
-- **'ulkwanta** _n._ (Kin. &langle;Rwanda&rangle; [ɾɡwanda])  
+- <a name="'u">**'u**</a> _n._ (ono. [u])  
 
 
-  - **'ulkwantaak** _n._ ('ulkwanta+ak)  
-  
+- <a name="uat">**uat**</a> _post._ ([~~ial~~](#ial))  
 
-  - **'ulkwantawon** _n._ ('ulkwanta+won)  
-  
 
-  - **'ulkwantatilip** _n._ ('ulkwanta+tilip)  
-  
+- <a name="ul">**ul**</a> _n._ (Jav. &langle;wulu&rangle; [wuɭu])  
 
-- **'ultun** _n._ (Ara. &langle;ْأُردن&rangle; [ʔurdunn])  
 
+- <a name="ulak">**ulak**</a> _n._ ([ul](#ul)+[ak](#ak))  
 
-  - **'ultunak** _n._ ('ultun+ak)  
-  
 
-  - **'ultunwon** _n._ ('ultun+won)  
-  
+- <a name="ulu">**ulu**</a> _v._ ([~~iti~~](#iti))  
 
-  - **'ultuntec** _n._ ('ultun+tec)  
-  
 
-- **unhu** _v._ (Sho. &langle;unhu&rangle; [unhu])  
+- <a name="ulules">**ulules**</a> _n._ ([ulu](#ulu)+[les](#les))  
 
 
-  - **unhulon** _n._ (unhu+lon)  
-  
+- <a name="ululon">**ululon**</a> _n._ ([ulu](#ulu)+[lon](#lon))  
 
-  - **unhulyan** _n._ (unhu+lyan)  
-  
 
-  - **unhuki** _v._ (unhu+ki)  
-  
+- <a name="'ulukway">**'ulukway**</a> _n._ (Spa. &langle;Uruguay&rangle; [uɾuˈɣaj])  
 
-- **um** _post._ (Pan. &langle;ਨੂੰ&rangle; [nũː])  
 
+- <a name="'ulukwayak">**'ulukwayak**</a> _n._ (['ulukway](#'ulukway)+[ak](#ak))  
 
-- **uma** _v._ (~~ipa~~)  
 
+- <a name="'ulukwaywon">**'ulukwaywon**</a> _n._ (['ulukway](#'ulukway)+[won](#won))  
 
-  - **umalon** _n._ (uma+lon)  
-  
 
-- **'uman** _n._ (Ara. &langle;عمان‎&rangle; [ʕʊˈmaːn])  
+- <a name="'ulkwanta">**'ulkwanta**</a> _n._ (Kin. &langle;Rwanda&rangle; [ɾɡwanda])  
 
 
-  - **'umanak** _n._ ('uman+ak)  
-  
+- <a name="'ulkwantaak">**'ulkwantaak**</a> _n._ (['ulkwanta](#'ulkwanta)+[ak](#ak))  
 
-  - **'umanwon** _n._ ('uman+won)  
-  
 
-- **uho** _v._ (~~ice~~)  
+- <a name="'ulkwantawon">**'ulkwantawon**</a> _n._ (['ulkwanta](#'ulkwanta)+[won](#won))  
 
 
-  - **uholon** _n._ (uho+lon)  
-  
+- <a name="'ulkwantatilip">**'ulkwantatilip**</a> _n._ (['ulkwanta](#'ulkwanta)+[tilip](#tilip))  
 
-  - **uholum** _n._ (uho+lum)  
-  
 
-  - **uhoki** _v._ (uho+ki)  
-  
+- <a name="'ultun">**'ultun**</a> _n._ (Ara. &langle;ْأُردن&rangle; [ʔurdunn])  
 
-- **uhu** _v._ (~~ici~~)  
 
+- <a name="'ultunak">**'ultunak**</a> _n._ (['ultun](#'ultun)+[ak](#ak))  
 
-  - **uhulon** _n._ (uhu+lon)  
-  
 
-  - **uhulwel** _n._ (uhu+lwel)  
-  
+- <a name="'ultunwon">**'ultunwon**</a> _n._ (['ultun](#'ultun)+[won](#won))  
 
-  - **uhuki** _v._ (uhu+ki)  
-  
 
-  - **uhukiles** _n._ (uhuki+les)  
-  
+- <a name="'ultuntec">**'ultuntec**</a> _n._ (['ultun](#'ultun)+[tec](#tec))  
 
-  - **uhutunmailyot** _n._ (uhu+tun+mailyot)  
-  
 
-- **uceca** _v._ (Pan. &langle;ਉਚੇਚਾ&rangle; [ʊt͡ʃet͡ʃɑ])  
+- <a name="unhu">**unhu**</a> _v._ (Sho. &langle;unhu&rangle; [unhu])  
 
 
-  - **ucecalon** _n._ (uceca+lon)  
-  
+- <a name="unhulon">**unhulon**</a> _n._ ([unhu](#unhu)+[lon](#lon))  
 
-  - **ucecaki** _v._ (uceca+ki)  
-  
 
-- **ufa** _v._ (Nya. &langle;ufa&rangle; [ufa])  
+- <a name="unhulyan">**unhulyan**</a> _n._ ([unhu](#unhu)+[lyan](#lyan))  
 
 
-  - **ufalon** _n._ (ufa+lon)  
-  
+- <a name="unhuki">**unhuki**</a> _v._ ([unhu](#unhu)+[ki](#ki))  
 
-  - **ufalonsapu** _v._ (ufalon+sapu)  
-  
 
-  - **ufalonsapules** _n._ (ufalonsapu+les)  
-  
+- <a name="um">**um**</a> _post._ (Pan. &langle;ਨੂੰ&rangle; [nũː])  
 
-  - **ufalonsapulon** _n._ (ufalonsapu+lon)  
-  
 
-  - **ufaseleal** _n._ (ufa+seleal)  
-  
+- <a name="uma">**uma**</a> _v._ ([~~ipa~~](#ipa))  
 
-  - **ufaki** _v._ (ufa+ki)  
-  
 
-  - **ufakiles** _n._ (ufaki+les)  
-  
+- <a name="umalon">**umalon**</a> _n._ ([uma](#uma)+[lon](#lon))  
 
-  - **ufataka** _v._ (ufa+taka)  
-  
 
-  - **ufatakalon** _n._ (ufataka+lon)  
-  
+- <a name="'uman">**'uman**</a> _n._ (Ara. &langle;عمان‎&rangle; [ʕʊˈmaːn])  
 
-  - **ufatakanu** _v._ (ufataka+nu)  
-  
 
-  - **ufatakanuluat** _n._ (ufatakanu+luat)  
-  
+- <a name="'umanak">**'umanak**</a> _n._ (['uman](#'uman)+[ak](#ak))  
 
-  - **ufatakaki** _v._ (ufataka+ki)  
-  
 
-  - **ufapiac** _n._ (ufa+piac)  
-  
+- <a name="'umanwon">**'umanwon**</a> _n._ (['uman](#'uman)+[won](#won))  
 
-- **ufu** _v._ (~~isi~~)  
 
+- <a name="uho">**uho**</a> _v._ ([~~ice~~](#ice))  
 
-  - **ufulum** _n._ (ufu+lum)  
-  
 
-  - **ufuki** _v._ (ufu+ki)  
-  
+- <a name="uholon">**uholon**</a> _n._ ([uho](#uho)+[lon](#lon))  
 
-- **ukik** _n._ (ono. [u)  
 
+- <a name="uholum">**uholum**</a> _n._ ([uho](#uho)+[lum](#lum))  
 
-  - **ukikak** _n._ (ukik+ak)  
-  
 
-  - **ukikcim** _n._ (ukik+cim)  
-  
+- <a name="uhoki">**uhoki**</a> _v._ ([uho](#uho)+[ki](#ki))  
 
-- **'ukulele** _n._ (Haw. &langle;ʻukulele&rangle; [ˈʔukuˈlɛlɛ])  
 
+- <a name="uhu">**uhu**</a> _v._ ([~~ici~~](#ici))  
 
-- **'uklayina** _n._ (Ukr. &langle;Україна&rangle; [ukrɑˈjinɑ])  
 
+- <a name="uhulon">**uhulon**</a> _n._ ([uhu](#uhu)+[lon](#lon))  
 
-  - **'uklayinaak** _n._ ('uklayina+ak)  
-  
 
-  - **'uklayinawon** _n._ ('uklayina+won)  
-  
+- <a name="uhulwel">**uhulwel**</a> _n._ ([uhu](#uhu)+[lwel](#lwel))  
 
-  - **'uklayinatilip** _n._ ('uklayina+tilip)  
-  
 
-- **ut** _n._ (Pan. &langle;ਊਠ&rangle; [uʈʰ])  
+- <a name="uhuki">**uhuki**</a> _v._ ([uhu](#uhu)+[ki](#ki))  
 
 
-- **uto** _v._ (Ibo. &langle;uto&rangle; [uto])  
+- <a name="uhukiles">**uhukiles**</a> _n._ ([uhuki](#uhuki)+[les](#les))  
 
 
-  - **utoec** _n._ (uto+ec)  
-  
+- <a name="uhutunmailyot">**uhutunmailyot**</a> _n._ ([uhu](#uhu)+[tun](#tun)+[mailyot](#mailyot))  
 
-  - **utoecsapu** _v._ (utoec+sapu)  
-  
 
-  - **utoecsapules** _n._ (utoecsapu+les)  
-  
+- <a name="uceca">**uceca**</a> _v._ (Pan. &langle;ਉਚੇਚਾ&rangle; [ʊt͡ʃet͡ʃɑ])  
 
-  - **utoecsapulon** _n._ (utoecsapu+lon)  
-  
 
-  - **utoak** _n._ (uto+ak)  
-  
+- <a name="ucecalon">**ucecalon**</a> _n._ ([uceca](#uceca)+[lon](#lon))  
 
-  - **utolum** _n._ (uto+lum)  
-  
 
-  - **utonu** _v._ (uto+nu)  
-  
+- <a name="ucecaki">**ucecaki**</a> _v._ ([uceca](#uceca)+[ki](#ki))  
 
-  - **utoki** _v._ (uto+ki)  
-  
 
-- **upe** _v._ (Mar. &langle;उभे&rangle; [ub̤e])  
+- <a name="ufa">**ufa**</a> _v._ (Nya. &langle;ufa&rangle; [ufa])  
 
 
-- **up** _n._ (Ibo. &langle;uba&rangle; [uba])  
+- <a name="ufalon">**ufalon**</a> _n._ ([ufa](#ufa)+[lon](#lon))  
 
 
-  - **upelon** _n._ (upe+lon)  
-  
+- <a name="ufalonsapu">**ufalonsapu**</a> _v._ ([ufalon](#ufalon)+[sapu](#sapu))  
 
-  - **upelip** _n._ (upe+lip)  
-  
 
-  - **upeki** _v._ (upe+ki)  
-  
+- <a name="ufalonsapules">**ufalonsapules**</a> _n._ ([ufalonsapu](#ufalonsapu)+[les](#les))  
 
-  - **upekiles** _n._ (upeki+les)  
-  
 
-## y
+- <a name="ufalonsapulon">**ufalonsapulon**</a> _n._ ([ufalonsapu](#ufalonsapu)+[lon](#lon))  
 
-- **'yelucalayim** _n._ (Heb. &langle;יְרוּשָׁלַיִם&rangle; [jeʁuʃaˈlajim])  
 
+- <a name="ufaseleal">**ufaseleal**</a> _n._ ([ufa](#ufa)+[seleal](#seleal))  
 
-- **'yewlasia** _n._ (Rus. &langle;Евразия&rangle; [jɪˈvrazʲɪjə])  
 
+- <a name="ufaki">**ufaki**</a> _v._ ([ufa](#ufa)+[ki](#ki))  
 
-  - **'yewlasiaak** _n._ ('yewlasia+ak)  
-  
 
-  - **'yewlasiasutaestelawt** _n._ ('yewlasia+suta+este+lawt)  
-  
+- <a name="ufakiles">**ufakiles**</a> _n._ ([ufaki](#ufaki)+[les](#les))  
 
-- **yeh** _n._ (Cmn. &langle;叶&rangle; [jɛ˥˩])  
 
+- <a name="ufataka">**ufataka**</a> _v._ ([ufa](#ufa)+[taka](#taka))  
 
-  - **yehak** _n._ (yeh+ak)  
-  
 
-- **'yehutim** _n._ (Heb. &langle;יְהוּדִים&rangle; [jehuˈdim])  
+- <a name="ufatakalon">**ufatakalon**</a> _n._ ([ufataka](#ufataka)+[lon](#lon))  
 
 
-  - **'yehutimak** _n._ ('yehutim+ak)  
-  
+- <a name="ufatakanu">**ufatakanu**</a> _v._ ([ufataka](#ufataka)+[nu](#nu))  
 
-  - **'yehutimfitilip** _n._ ('yehutim+fitilip)  
-  
 
-  - **'yehutimfitilipwon** _n._ ('yehutimfitilip+won)  
-  
+- <a name="ufatakanuluat">**ufatakanuluat**</a> _n._ ([ufatakanu](#ufatakanu)+[luat](#luat))  
 
-  - **'yehutimtec** _n._ ('yehutim+tec)  
-  
 
-  - **yehcwelon** _n._ (yeh+cwelon)  
-  
+- <a name="ufatakaki">**ufatakaki**</a> _v._ ([ufataka](#ufataka)+[ki](#ki))  
 
-  - **yehkol** _n._ (yeh+kol)  
-  
 
-  - **yehpet** _n._ (yeh+pet)  
-  
+- <a name="ufapiac">**ufapiac**</a> _n._ ([ufa](#ufa)+[piac](#piac))  
 
-  - **yehpiac** _n._ (yeh+piac)  
-  
 
-- **yek** _n._ (~~won~~)  
+- <a name="ufu">**ufu**</a> _v._ ([~~isi~~](#isi))  
 
 
-  - **yekak** _n._ (yek+ak)  
-  
+- <a name="ufulum">**ufulum**</a> _n._ ([ufu](#ufu)+[lum](#lum))  
 
-- **yayu** _v._ (~~wawi~~)  
 
+- <a name="ufuki">**ufuki**</a> _v._ ([ufu](#ufu)+[ki](#ki))  
 
-  - **yayulon** _n._ (yayu+lon)  
-  
 
-  - **yayulum** _n._ (yayu+lum)  
-  
+- <a name="ukik">**ukik**</a> _n._ (ono. [u)  
 
-  - **yayuki** _v._ (yayu+ki)  
-  
 
-  - **yayukiles** _n._ (yayuki+les)  
-  
+- <a name="ukikak">**ukikak**</a> _n._ ([ukik](#ukik)+[ak](#ak))  
 
-- **yala** _v._ (Yor. &langle;yára&rangle; [járā])  
 
+- <a name="ukikcim">**ukikcim**</a> _n._ ([ukik](#ukik)+[cim](#cim))  
 
-  - **yalaiti** _v._ (yala+iti)  
-  
 
-  - **yalaitiles** _n._ (yalaiti+les)  
-  
+- <a name="'ukulele">**'ukulele**</a> _n._ (Haw. &langle;ʻukulele&rangle; [ˈʔukuˈlɛlɛ])  
 
-  - **yalaitilon** _n._ (yalaiti+lon)  
-  
 
-  - **yalaitilum** _n._ (yalaiti+lum)  
-  
+- <a name="'uklayina">**'uklayina**</a> _n._ (Ukr. &langle;Україна&rangle; [ukrɑˈjinɑ])  
 
-  - **yalaitilyan** _n._ (yalaiti+lyan)  
-  
 
-  - **yalalon** _n._ (yala+lon)  
-  
+- <a name="'uklayinaak">**'uklayinaak**</a> _n._ (['uklayina](#'uklayina)+[ak](#ak))  
 
-  - **yalalonnyec** _n._ (yalalon+nyec)  
-  
 
-  - **yalalyan** _n._ (yala+lyan)  
-  
+- <a name="'uklayinawon">**'uklayinawon**</a> _n._ (['uklayina](#'uklayina)+[won](#won))  
 
-  - **yalamuf** _n._ (yala+muf)  
-  
 
-  - **yalacalunyo** _v._ (yala+calunyo)  
-  
+- <a name="'uklayinatilip">**'uklayinatilip**</a> _n._ (['uklayina](#'uklayina)+[tilip](#tilip))  
 
-  - **yalacalunyolwel** _n._ (yalacalunyo+lwel)  
-  
 
-  - **yalakunciki** _v._ (yala+kunciki)  
-  
+- <a name="ut">**ut**</a> _n._ (Pan. &langle;ਊਠ&rangle; [uʈʰ])  
 
-  - **yalakuncikilwel** _n._ (yalakunciki+lwel)  
-  
 
-  - **yalati** _v._ (yala+ti)  
-  
+- <a name="uto">**uto**</a> _v._ (Ibo. &langle;uto&rangle; [uto])  
 
-  - **yalatiles** _n._ (yalati+les)  
-  
 
-  - **yalatilon** _n._ (yalati+lon)  
-  
+- <a name="utoec">**utoec**</a> _n._ ([uto](#uto)+[ec](#ec))  
 
-  - **yalatilum** _n._ (yalati+lum)  
-  
 
-  - **yalapum** _n._ (yala+pum)  
-  
+- <a name="utoecsapu">**utoecsapu**</a> _v._ ([utoec](#utoec)+[sapu](#sapu))  
 
-  - **yalapumak** _n._ (yalapum+ak)  
-  
 
-  - **yalapucocalu** _v._ (yala+pucocalu)  
-  
+- <a name="utoecsapules">**utoecsapules**</a> _n._ ([utoecsapu](#utoecsapu)+[les](#les))  
 
-- **yan** _post._ (Cmn. &langle;量&rangle; [ljaŋ˥˩])  
 
+- <a name="utoecsapulon">**utoecsapulon**</a> _n._ ([utoecsapu](#utoecsapu)+[lon](#lon))  
 
-- **yam** _n._ (Cmn. &langle;亚麻&rangle; [ja˥˩ma˧˥])  
 
+- <a name="utoak">**utoak**</a> _n._ ([uto](#uto)+[ak](#ak))  
 
-- **'yaman** _n._ (Ara. &langle;يمن&rangle; [jaman])  
 
+- <a name="utolum">**utolum**</a> _n._ ([uto](#uto)+[lum](#lum))  
 
-  - **'yamanak** _n._ ('yaman+ak)  
-  
 
-  - **'yamanwon** _n._ ('yaman+won)  
-  
+- <a name="utonu">**utonu**</a> _v._ ([uto](#uto)+[nu](#nu))  
 
-- **'yahwe** _n._ (Heb. &langle;יהוה‬&rangle; [jahwe])  
 
+- <a name="utoki">**utoki**</a> _v._ ([uto](#uto)+[ki](#ki))  
 
-- **yata** _v._ (Hin. &langle;याद&rangle; [jaːd])  
 
+- <a name="upe">**upe**</a> _v._ (Mar. &langle;उभे&rangle; [ub̤e])  
 
-  - **yatales** _n._ (yata+les)  
-  
 
-  - **yatalon** _n._ (yata+lon)  
-  
+- <a name="up">**up**</a> _n._ (Ibo. &langle;uba&rangle; [uba])  
 
-  - **yatalum** _n._ (yata+lum)  
-  
 
-  - **yatapowi** _v._ (yata+powi)  
-  
+- <a name="upelon">**upelon**</a> _n._ ([upe](#upe)+[lon](#lon))  
 
-  - **yatapowilon** _n._ (yatapowi+lon)  
-  
 
-  - **yatapowinu** _v._ (yatapowi+nu)  
-  
+- <a name="upelip">**upelip**</a> _n._ ([upe](#upe)+[lip](#lip))  
 
-  - **yatapowinules** _n._ (yatapowinu+les)  
-  
 
-  - **yatapowiki** _v._ (yatapowi+ki)  
-  
+- <a name="upeki">**upeki**</a> _v._ ([upe](#upe)+[ki](#ki))  
 
-  - **yatapowikiles** _n._ (yatapowiki+les)  
-  
 
-- **yato** _v._ (Yor. &langle;yàtọ̀&rangle; [jàtɔ̀])  
+- <a name="upekiles">**upekiles**</a> _n._ ([upeki](#upeki)+[les](#les))  
 
 
-  - **yatolon** _n._ (yato+lon)  
-  
+### y
 
-  - **yatoki** _v._ (yato+ki)  
-  
+- <a name="'yelucalayim">**'yelucalayim**</a> _n._ (Heb. &langle;יְרוּשָׁלַיִם&rangle; [jeʁuʃaˈlajim])  
 
-  - **yatopensi** _v._ (yato+pensi)  
-  
 
-- **yo** _spec._ (Cmn. &langle;又&rangle; [jow˥˩])  
+- <a name="'yewlasia">**'yewlasia**</a> _n._ (Rus. &langle;Евразия&rangle; [jɪˈvrazʲɪjə])  
 
 
-- **'yo** _n._ (ono. [j])  
+- <a name="'yewlasiaak">**'yewlasiaak**</a> _n._ (['yewlasia](#'yewlasia)+[ak](#ak))  
 
 
-- **'yolupa** _n._ (Yor. &langle;Yorùbá&rangle; [jōɾùbá])  
+- <a name="'yewlasiasutaestelawt">**'yewlasiasutaestelawt**</a> _n._ (['yewlasia](#'yewlasia)+[suta](#suta)+[este](#este)+[lawt](#lawt))  
 
 
-  - **'yolupaak** _n._ ('yolupa+ak)  
-  
+- <a name="yeh">**yeh**</a> _n._ (Cmn. &langle;叶&rangle; [jɛ˥˩])  
 
-  - **'yolupatilip** _n._ ('yolupa+tilip)  
-  
 
-- **yohau** _v._ (Cmn. &langle;友好&rangle; [joʊ̯˧˩˧xɑʊ̯˧˩˧])  
+- <a name="yehak">**yehak**</a> _n._ ([yeh](#yeh)+[ak](#ak))  
 
 
-  - **yohaulon** _n._ (yohau+lon)  
-  
+- <a name="'yehutim">**'yehutim**</a> _n._ (Heb. &langle;יְהוּדִים&rangle; [jehuˈdim])  
 
-  - **yohaulum** _n._ (yohau+lum)  
-  
 
-  - **yohaulyan** _n._ (yohau+lyan)  
-  
+- <a name="'yehutimak">**'yehutimak**</a> _n._ (['yehutim](#'yehutim)+[ak](#ak))  
 
-  - **yohauki** _v._ (yohau+ki)  
-  
 
-  - **yohaukiles** _n._ (yohauki+les)  
-  
+- <a name="'yehutimfitilip">**'yehutimfitilip**</a> _n._ (['yehutim](#'yehutim)+[fitilip](#fitilip))  
 
-- **yot** _post._ (~~wel~~)  
 
+- <a name="'yehutimfitilipwon">**'yehutimfitilipwon**</a> _n._ (['yehutimfitilip](#'yehutimfitilip)+[won](#won))  
 
-- **'yishael** _n._ (Heb. &langle;ישראל&rangle; [jisʁael])  
 
+- <a name="'yehutimtec">**'yehutimtec**</a> _n._ (['yehutim](#'yehutim)+[tec](#tec))  
 
-  - **'yishaelak** _n._ ('yishael+ak)  
-  
 
-  - **'yishaelwon** _n._ ('yishael+won)  
-  
+- <a name="yehcwelon">**yehcwelon**</a> _n._ ([yeh](#yeh)+[cwelon](#cwelon))  
 
-  - **'yishaeltilip** _n._ ('yishael+tilip)  
-  
 
-- **'yuan** _n._ (Cmn. &langle;元&rangle; [ɥæn˧˥])  
+- <a name="yehkol">**yehkol**</a> _n._ ([yeh](#yeh)+[kol](#kol))  
 
 
-- **'yunikowt** _n._ (Eng. &langle;Unicode&rangle; [ˈjunɪkoʊ̯d])  
+- <a name="yehpet">**yehpet**</a> _n._ ([yeh](#yeh)+[pet](#pet))  
 
 
-## l
+- <a name="yehpiac">**yehpiac**</a> _n._ ([yeh](#yeh)+[piac](#piac))  
 
-- **l** _pn._ (∅)  
 
+- <a name="yek">**yek**</a> _n._ ([~~won~~](#won))  
 
-- **le** _v._ (Cmn. &langle;累&rangle; [leɪ̯˥˩])  
 
+- <a name="yekak">**yekak**</a> _n._ ([yek](#yek)+[ak](#ak))  
 
-- **lealac** _n._ (Epo. &langle;realaĵo&rangle; [reaˈlaʒo])  
 
+- <a name="yayu">**yayu**</a> _v._ ([~~wawi~~](#wawi))  
 
-  - **lealacak** _n._ (lealac+ak)  
-  
 
-  - **lealacsoma** _v._ (lealac+soma)  
-  
+- <a name="yayulon">**yayulon**</a> _n._ ([yayu](#yayu)+[lon](#lon))  
 
-  - **lealacsomales** _n._ (lealacsoma+les)  
-  
 
-  - **lealacsomalon** _n._ (lealacsoma+lon)  
-  
+- <a name="yayulum">**yayulum**</a> _n._ ([yayu](#yayu)+[lum](#lum))  
 
-- **leyawt** _n._ (Eng. &langle;layout&rangle; [leɪ̯aʊ̯t])  
 
+- <a name="yayuki">**yayuki**</a> _v._ ([yayu](#yayu)+[ki](#ki))  
 
-  - **leyawtak** _n._ (leyawt+ak)  
-  
 
-  - **leyawthulum** _n._ (leyawt+hulum)  
-  
+- <a name="yayukiles">**yayukiles**</a> _n._ ([yayuki](#yayuki)+[les](#les))  
 
-  - **leyawthulumpatililip** _n._ (leyawthulum+patililip)  
-  
 
-- **'leykos** _n._ (Eng. &langle;Lagos&rangle; [ˈleɪ̯ɡɒs])  
+- <a name="yala">**yala**</a> _v._ (Yor. &langle;yára&rangle; [járā])  
 
 
-- **lele** _v._ (Yor. &langle;rere&rangle; [rērē])  
+- <a name="yalaiti">**yalaiti**</a> _v._ ([yala](#yala)+[iti](#iti))  
 
 
-  - **lelon** _n._ (le+lon)  
-  
+- <a name="yalaitiles">**yalaitiles**</a> _n._ ([yalaiti](#yalaiti)+[les](#les))  
 
-- **lene** _v._ (~~toko~~)  
 
+- <a name="yalaitilon">**yalaitilon**</a> _n._ ([yalaiti](#yalaiti)+[lon](#lon))  
 
-  - **lenelon** _n._ (lene+lon)  
-  
 
-  - **leneki** _v._ (lene+ki)  
-  
+- <a name="yalaitilum">**yalaitilum**</a> _n._ ([yalaiti](#yalaiti)+[lum](#lum))  
 
-- **lena** _v._ (Hin. &langle;लेना&rangle; [lenaː])  
 
+- <a name="yalaitilyan">**yalaitilyan**</a> _n._ ([yalaiti](#yalaiti)+[lyan](#lyan))  
 
-  - **lenalon** _n._ (lena+lon)  
-  
 
-  - **lenalum** _n._ (lena+lum)  
-  
+- <a name="yalalon">**yalalon**</a> _n._ ([yala](#yala)+[lon](#lon))  
 
-  - **lenanu** _v._ (lena+nu)  
-  
 
-  - **lenaki** _v._ (lena+ki)  
-  
+- <a name="yalalonnyec">**yalalonnyec**</a> _n._ ([yalalon](#yalalon)+[nyec](#nyec))  
 
-- **lem** _n._ (Sot. &langle;lema&rangle; [lemɑ])  
 
+- <a name="yalalyan">**yalalyan**</a> _n._ ([yala](#yala)+[lyan](#lyan))  
 
-  - **les** _n._ (l+es)  
-  
 
-  - **leson** _post._ (les+on)  
-  
+- <a name="yalamuf">**yalamuf**</a> _n._ ([yala](#yala)+[muf](#muf))  
 
-- **lesla** _v._ (Pan. &langle;ਲੇਸਲਾ&rangle; [leslɑ])  
 
+- <a name="yalacalunyo">**yalacalunyo**</a> _v._ ([yala](#yala)+[calunyo](#calunyo))  
 
-  - **leslalon** _n._ (lesla+lon)  
-  
 
-  - **leslalyan** _n._ (lesla+lyan)  
-  
+- <a name="yalacalunyolwel">**yalacalunyolwel**</a> _n._ ([yalacalunyo](#yalacalunyo)+[lwel](#lwel))  
 
-  - **leslaki** _v._ (lesla+ki)  
-  
 
-  - **leslakiles** _n._ (leslaki+les)  
-  
+- <a name="yalakunciki">**yalakunciki**</a> _v._ ([yala](#yala)+[kunciki](#kunciki))  
 
-- **lef** _num._ (~~tos~~)  
+
+- <a name="yalakuncikilwel">**yalakuncikilwel**</a> _n._ ([yalakunciki](#yalakunciki)+[lwel](#lwel))  
+
+
+- <a name="yalati">**yalati**</a> _v._ ([yala](#yala)+[ti](#ti))  
+
+
+- <a name="yalatiles">**yalatiles**</a> _n._ ([yalati](#yalati)+[les](#les))  
+
+
+- <a name="yalatilon">**yalatilon**</a> _n._ ([yalati](#yalati)+[lon](#lon))  
+
+
+- <a name="yalatilum">**yalatilum**</a> _n._ ([yalati](#yalati)+[lum](#lum))  
+
+
+- <a name="yalapum">**yalapum**</a> _n._ ([yala](#yala)+[pum](#pum))  
+
+
+- <a name="yalapumak">**yalapumak**</a> _n._ ([yalapum](#yalapum)+[ak](#ak))  
+
+
+- <a name="yalapucocalu">**yalapucocalu**</a> _v._ ([yala](#yala)+[pucocalu](#pucocalu))  
+
+
+- <a name="yan">**yan**</a> _post._ (Cmn. &langle;量&rangle; [ljaŋ˥˩])  
+
+
+- <a name="yam">**yam**</a> _n._ (Cmn. &langle;亚麻&rangle; [ja˥˩ma˧˥])  
+
+
+- <a name="'yaman">**'yaman**</a> _n._ (Ara. &langle;يمن&rangle; [jaman])  
+
+
+- <a name="'yamanak">**'yamanak**</a> _n._ (['yaman](#'yaman)+[ak](#ak))  
+
+
+- <a name="'yamanwon">**'yamanwon**</a> _n._ (['yaman](#'yaman)+[won](#won))  
+
+
+- <a name="'yahwe">**'yahwe**</a> _n._ (Heb. &langle;יהוה‬&rangle; [jahwe])  
+
+
+- <a name="yata">**yata**</a> _v._ (Hin. &langle;याद&rangle; [jaːd])  
+
+
+- <a name="yatales">**yatales**</a> _n._ ([yata](#yata)+[les](#les))  
+
+
+- <a name="yatalon">**yatalon**</a> _n._ ([yata](#yata)+[lon](#lon))  
+
+
+- <a name="yatalum">**yatalum**</a> _n._ ([yata](#yata)+[lum](#lum))  
+
+
+- <a name="yatapowi">**yatapowi**</a> _v._ ([yata](#yata)+[powi](#powi))  
+
+
+- <a name="yatapowilon">**yatapowilon**</a> _n._ ([yatapowi](#yatapowi)+[lon](#lon))  
+
+
+- <a name="yatapowinu">**yatapowinu**</a> _v._ ([yatapowi](#yatapowi)+[nu](#nu))  
+
+
+- <a name="yatapowinules">**yatapowinules**</a> _n._ ([yatapowinu](#yatapowinu)+[les](#les))  
+
+
+- <a name="yatapowiki">**yatapowiki**</a> _v._ ([yatapowi](#yatapowi)+[ki](#ki))  
+
+
+- <a name="yatapowikiles">**yatapowikiles**</a> _n._ ([yatapowiki](#yatapowiki)+[les](#les))  
+
+
+- <a name="yato">**yato**</a> _v._ (Yor. &langle;yàtọ̀&rangle; [jàtɔ̀])  
+
+
+- <a name="yatolon">**yatolon**</a> _n._ ([yato](#yato)+[lon](#lon))  
+
+
+- <a name="yatoki">**yatoki**</a> _v._ ([yato](#yato)+[ki](#ki))  
+
+
+- <a name="yatopensi">**yatopensi**</a> _v._ ([yato](#yato)+[pensi](#pensi))  
+
+
+- <a name="yo">**yo**</a> _spec._ (Cmn. &langle;又&rangle; [jow˥˩])  
+
+
+- <a name="'yo">**'yo**</a> _n._ (ono. [j])  
+
+
+- <a name="'yolupa">**'yolupa**</a> _n._ (Yor. &langle;Yorùbá&rangle; [jōɾùbá])  
+
+
+- <a name="'yolupaak">**'yolupaak**</a> _n._ (['yolupa](#'yolupa)+[ak](#ak))  
+
+
+- <a name="'yolupatilip">**'yolupatilip**</a> _n._ (['yolupa](#'yolupa)+[tilip](#tilip))  
+
+
+- <a name="yohau">**yohau**</a> _v._ (Cmn. &langle;友好&rangle; [joʊ̯˧˩˧xɑʊ̯˧˩˧])  
+
+
+- <a name="yohaulon">**yohaulon**</a> _n._ ([yohau](#yohau)+[lon](#lon))  
+
+
+- <a name="yohaulum">**yohaulum**</a> _n._ ([yohau](#yohau)+[lum](#lum))  
+
+
+- <a name="yohaulyan">**yohaulyan**</a> _n._ ([yohau](#yohau)+[lyan](#lyan))  
+
+
+- <a name="yohauki">**yohauki**</a> _v._ ([yohau](#yohau)+[ki](#ki))  
+
+
+- <a name="yohaukiles">**yohaukiles**</a> _n._ ([yohauki](#yohauki)+[les](#les))  
+
+
+- <a name="yot">**yot**</a> _post._ ([~~wel~~](#wel))  
+
+
+- <a name="'yishael">**'yishael**</a> _n._ (Heb. &langle;ישראל&rangle; [jisʁael])  
+
+
+- <a name="'yishaelak">**'yishaelak**</a> _n._ (['yishael](#'yishael)+[ak](#ak))  
+
+
+- <a name="'yishaelwon">**'yishaelwon**</a> _n._ (['yishael](#'yishael)+[won](#won))  
+
+
+- <a name="'yishaeltilip">**'yishaeltilip**</a> _n._ (['yishael](#'yishael)+[tilip](#tilip))  
+
+
+- <a name="'yuan">**'yuan**</a> _n._ (Cmn. &langle;元&rangle; [ɥæn˧˥])  
+
+
+- <a name="'yunikowt">**'yunikowt**</a> _n._ (Eng. &langle;Unicode&rangle; [ˈjunɪkoʊ̯d])  
+
+
+### l
+
+- <a name="l">**l**</a> _pn._ (∅)  
+
+
+- <a name="le">**le**</a> _v._ (Cmn. &langle;累&rangle; [leɪ̯˥˩])  
+
+
+- <a name="lealac">**lealac**</a> _n._ (Epo. &langle;realaĵo&rangle; [reaˈlaʒo])  
+
+
+- <a name="lealacak">**lealacak**</a> _n._ ([lealac](#lealac)+[ak](#ak))  
+
+
+- <a name="lealacsoma">**lealacsoma**</a> _v._ ([lealac](#lealac)+[soma](#soma))  
+
+
+- <a name="lealacsomales">**lealacsomales**</a> _n._ ([lealacsoma](#lealacsoma)+[les](#les))  
+
+
+- <a name="lealacsomalon">**lealacsomalon**</a> _n._ ([lealacsoma](#lealacsoma)+[lon](#lon))  
+
+
+- <a name="leyawt">**leyawt**</a> _n._ (Eng. &langle;layout&rangle; [leɪ̯aʊ̯t])  
+
+
+- <a name="leyawtak">**leyawtak**</a> _n._ ([leyawt](#leyawt)+[ak](#ak))  
+
+
+- <a name="leyawthulum">**leyawthulum**</a> _n._ ([leyawt](#leyawt)+[hulum](#hulum))  
+
+
+- <a name="leyawthulumpatililip">**leyawthulumpatililip**</a> _n._ ([leyawthulum](#leyawthulum)+[patililip](#patililip))  
+
+
+- <a name="'leykos">**'leykos**</a> _n._ (Eng. &langle;Lagos&rangle; [ˈleɪ̯ɡɒs])  
+
+
+- <a name="lele">**lele**</a> _v._ (Yor. &langle;rere&rangle; [rērē])  
+
+
+- <a name="lelon">**lelon**</a> _n._ ([le](#le)+[lon](#lon))  
+
+
+- <a name="lene">**lene**</a> _v._ ([~~toko~~](#toko))  
+
+
+- <a name="lenelon">**lenelon**</a> _n._ ([lene](#lene)+[lon](#lon))  
+
+
+- <a name="leneki">**leneki**</a> _v._ ([lene](#lene)+[ki](#ki))  
+
+
+- <a name="lena">**lena**</a> _v._ (Hin. &langle;लेना&rangle; [lenaː])  
+
+
+- <a name="lenalon">**lenalon**</a> _n._ ([lena](#lena)+[lon](#lon))  
+
+
+- <a name="lenalum">**lenalum**</a> _n._ ([lena](#lena)+[lum](#lum))  
+
+
+- <a name="lenanu">**lenanu**</a> _v._ ([lena](#lena)+[nu](#nu))  
+
+
+- <a name="lenaki">**lenaki**</a> _v._ ([lena](#lena)+[ki](#ki))  
+
+
+- <a name="lem">**lem**</a> _n._ (Sot. &langle;lema&rangle; [lemɑ])  
+
+
+- <a name="les">**les**</a> _n._ ([l](#l)+[es](es))  
+
+
+- <a name="leson">**leson**</a> _post._ ([les](#les)+[on](#on))  
+
+
+- <a name="lesla">**lesla**</a> _v._ (Pan. &langle;ਲੇਸਲਾ&rangle; [leslɑ])  
+
+
+- <a name="leslalon">**leslalon**</a> _n._ ([lesla](#lesla)+[lon](#lon))  
+
+
+- <a name="leslalyan">**leslalyan**</a> _n._ ([lesla](#lesla)+[lyan](#lyan))  
+
+
+- <a name="leslaki">**leslaki**</a> _v._ ([lesla](#lesla)+[ki](#ki))  
+
+
+- <a name="leslakiles">**leslakiles**</a> _n._ ([leslaki](#leslaki)+[les](#les))  
+
+
+- <a name="lef">**lef**</a> _num._ ([~~tos~~](#tos))  
 14; catorce
 
-  - **lefak** _n._ (lef+ak)  
-  
+- <a name="lefak">**lefak**</a> _n._ ([lef](#lef)+[ak](#ak))  
 
-- **lek** _n._ (Eng. &langle;leg&rangle; [lɛɡ])  
 
+- <a name="lek">**lek**</a> _n._ (Eng. &langle;leg&rangle; [lɛɡ])  
 
-  - **lekak** _n._ (lek+ak)  
-  
 
-  - **leki** _v._ (le+ki)  
-  
+- <a name="lekak">**lekak**</a> _n._ ([lek](#lek)+[ak](#ak))  
 
-  - **lekiles** _n._ (leki+les)  
-  
 
-  - **lekcoh** _n._ (lek+coh)  
-  
+- <a name="leki">**leki**</a> _v._ ([le](#le)+[ki](#ki))  
 
-  - **lekcohak** _n._ (lekcoh+ak)  
-  
 
-  - **lekcohtokalyot** _n._ (lekcoh+tokalyot)  
-  
+- <a name="lekiles">**lekiles**</a> _n._ ([leki](#leki)+[les](#les))  
 
-  - **lekcohpoltilum** _n._ (lekcoh+poltilum)  
-  
 
-  - **lekcipcip** _n._ (lek+cipcip)  
-  
+- <a name="lekcoh">**lekcoh**</a> _n._ ([lek](#lek)+[coh](#coh))  
 
-  - **lekcuc** _n._ (lek+cuc)  
-  
 
-  - **lektokalyot** _n._ (lek+tokalyot)  
-  
+- <a name="lekcohak">**lekcohak**</a> _n._ ([lekcoh](#lekcoh)+[ak](#ak))  
 
-  - **lekpoltilum** _n._ (lek+poltilum)  
-  
 
-- **let** _n._ (Spa. &langle;red&rangle; [reð])  
+- <a name="lekcohtokalyot">**lekcohtokalyot**</a> _n._ ([lekcoh](#lekcoh)+[tokalyot](#tokalyot))  
 
 
-  - **letak** _n._ (let+ak)  
-  
+- <a name="lekcohpoltilum">**lekcohpoltilum**</a> _n._ ([lekcoh](#lekcoh)+[poltilum](#poltilum))  
 
-- **letus** _n._ (Ben. &langle;লেটুস&rangle; [l̪etus̪])  
 
+- <a name="lekcipcip">**lekcipcip**</a> _n._ ([lek](#lek)+[cipcip](#cipcip))  
 
-- **letpu** _v._ (~~tolmi~~)  
 
+- <a name="lekcuc">**lekcuc**</a> _n._ ([lek](#lek)+[cuc](#cuc))  
 
-  - **letpulon** _n._ (letpu+lon)  
-  
 
-  - **letpuki** _v._ (letpu+ki)  
-  
+- <a name="lektokalyot">**lektokalyot**</a> _n._ ([lek](#lek)+[tokalyot](#tokalyot))  
 
-- **lep** _n._ (Epo. &langle;rebo&rangle; [ˈrebo])  
 
+- <a name="lekpoltilum">**lekpoltilum**</a> _n._ ([lek](#lek)+[poltilum](#poltilum))  
 
-- **leptil** _n._ (Spa. &langle;reptil&rangle; [repˈtil])  
 
+- <a name="let">**let**</a> _n._ (Spa. &langle;red&rangle; [reð])  
 
-  - **leptilak** _n._ (leptil+ak)  
-  
 
-- **'la** _n._ (ono. [l])  
+- <a name="letak">**letak**</a> _n._ ([let](#let)+[ak](#ak))  
 
 
-- **lais** _n._ (Spa. &langle;raíz&rangle; [raˈis])  
+- <a name="letus">**letus**</a> _n._ (Ben. &langle;লেটুস&rangle; [l̪etus̪])  
 
 
-  - **laisak** _n._ (lais+ak)  
-  
+- <a name="letpu">**letpu**</a> _v._ ([~~tolmi~~](#tolmi))  
 
-  - **laispet** _n._ (lais+pet)  
-  
 
-- **layoh** _n._ (Epo. &langle;rajo&rangle; [ˈrajo])  
+- <a name="letpulon">**letpulon**</a> _n._ ([letpu](#letpu)+[lon](#lon))  
 
 
-  - **layf** _n._ (l+ayf)  
-  
+- <a name="letpuki">**letpuki**</a> _v._ ([letpu](#letpu)+[ki](#ki))  
 
-- **'laypiwia** _n._ (Eng. &langle;Liberia&rangle; [laɪ̯ˈbɪɹʷiə])  
 
+- <a name="lep">**lep**</a> _n._ (Epo. &langle;rebo&rangle; [ˈrebo])  
 
-  - **'laypiwiaak** _n._ ('laypiwia+ak)  
-  
 
-  - **'laypiwiawon** _n._ ('laypiwia+won)  
-  
+- <a name="leptil">**leptil**</a> _n._ (Spa. &langle;reptil&rangle; [repˈtil])  
 
-- **'law** _n._ (Lao. &langle;ລາວ&rangle; [laːw˧])  
 
+- <a name="leptilak">**leptilak**</a> _n._ ([leptil](#leptil)+[ak](#ak))  
 
-  - **'lawak** _n._ ('law+ak)  
-  
 
-- **lawt** _n._ (Msa. &langle;laut&rangle; [lawt])  
+- <a name="'la">**'la**</a> _n._ (ono. [l])  
 
 
-  - **'lawtec** _n._ ('law+tec)  
-  
+- <a name="lais">**lais**</a> _n._ (Spa. &langle;raíz&rangle; [raˈis])  
 
-  - **lawtalkas** _n._ (lawt+alkas)  
-  
 
-  - **lawtak** _n._ (lawt+ak)  
-  
+- <a name="laisak">**laisak**</a> _n._ ([lais](#lais)+[ak](#ak))  
 
-  - **'lawtilip** _n._ ('law+tilip)  
-  
 
-  - **lawtnyamaeccipcip** _n._ (lawt+nyamaec+cipcip)  
-  
+- <a name="laispet">**laispet**</a> _n._ ([lais](#lais)+[pet](#pet))  
 
-  - **lawthihin** _n._ (lawt+hihin)  
-  
 
-  - **lawtcic** _n._ (lawt+cic)  
-  
+- <a name="layoh">**layoh**</a> _n._ (Epo. &langle;rajo&rangle; [ˈrajo])  
 
-  - **lawttayl** _n._ (lawt+tayl)  
-  
 
-  - **lawttaylak** _n._ (lawttayl+ak)  
-  
+- <a name="layf">**layf**</a> _n._ ([l](#l)+[ayf](ayf))  
 
-  - **lawtpum** _n._ (lawt+pum)  
-  
 
-  - **lawtpumak** _n._ (lawtpum+ak)  
-  
+- <a name="'laypiwia">**'laypiwia**</a> _n._ (Eng. &langle;Liberia&rangle; [laɪ̯ˈbɪɹʷiə])  
 
-  - **lawtpyah** _n._ (lawt+pyah)  
-  
 
-- **lanau** _v._ (~~takai~~)  
+- <a name="'laypiwiaak">**'laypiwiaak**</a> _n._ (['laypiwia](#'laypiwia)+[ak](#ak))  
 
 
-  - **lanaulon** _n._ (lanau+lon)  
-  
+- <a name="'laypiwiawon">**'laypiwiawon**</a> _n._ (['laypiwia](#'laypiwia)+[won](#won))  
 
-  - **lanauki** _v._ (lanau+ki)  
-  
 
-  - **lanaukiles** _n._ (lanauki+les)  
-  
+- <a name="'law">**'law**</a> _n._ (Lao. &langle;ລາວ&rangle; [laːw˧])  
 
-- **'lanka** _n._ (Sin. &langle;ලංකා&rangle; [laŋkaː])  
 
+- <a name="'lawak">**'lawak**</a> _n._ (['law](#'law)+[ak](#ak))  
 
-  - **'lankaak** _n._ ('lanka+ak)  
-  
 
-  - **'lankawon** _n._ ('lanka+won)  
-  
+- <a name="lawt">**lawt**</a> _n._ (Msa. &langle;laut&rangle; [lawt])  
 
-  - **'lankatec** _n._ ('lanka+tec)  
-  
 
-- **lama** _v._ (Msa. &langle;lama&rangle; [lama])  
+- <a name="'lawtec">**'lawtec**</a> _n._ (['law](#'law)+[tec](#tec))  
 
 
-  - **lamaaklalon** _n._ (lama+aklalon)  
-  
+- <a name="lawtalkas">**lawtalkas**</a> _n._ ([lawt](#lawt)+[alkas](#alkas))  
 
-  - **lamalon** _n._ (lama+lon)  
-  
 
-  - **lamalyan** _n._ (lama+lyan)  
-  
+- <a name="lawtak">**lawtak**</a> _n._ ([lawt](#lawt)+[ak](#ak))  
 
-  - **lamalyansomaluat** _n._ (lamalyan+somaluat)  
-  
 
-  - **lamacuc** _n._ (lama+cuc)  
-  
+- <a name="'lawtilip">**'lawtilip**</a> _n._ (['law](#'law)+[tilip](#tilip))  
 
-  - **lamasiklalon** _n._ (lama+siklalon)  
-  
 
-  - **lamafuloki** _v._ (lama+fuloki)  
-  
+- <a name="lawtnyamaeccipcip">**lawtnyamaeccipcip**</a> _n._ ([lawt](#lawt)+[nyamaec](#nyamaec)+[cipcip](#cipcip))  
 
-  - **lamaki** _v._ (lama+ki)  
-  
 
-  - **lamakiles** _n._ (lamaki+les)  
-  
+- <a name="lawthihin">**lawthihin**</a> _n._ ([lawt](#lawt)+[hihin](#hihin))  
 
-- **'lahol** _n._ (Pan. &langle;لہور&rangle; [ləˈhɔːɾ])  
 
+- <a name="lawtcic">**lawtcic**</a> _n._ ([lawt](#lawt)+[cic](#cic))  
 
-- **'lasapuac** _n._ (Ltz. &langle;Lëtzebuerg&rangle; [lət͡səbuːəɕ])  
 
+- <a name="lawttayl">**lawttayl**</a> _n._ ([lawt](#lawt)+[tayl](#tayl))  
 
-  - **'lasapuacak** _n._ ('lasapuac+ak)  
-  
 
-  - **'lasapuacwon** _n._ ('lasapuac+won)  
-  
+- <a name="lawttaylak">**lawttaylak**</a> _n._ ([lawttayl](#lawttayl)+[ak](#ak))  
 
-  - **'lasapuactilip** _n._ ('lasapuac+tilip)  
-  
 
-- **lasi** _v._ (Swa. &langle;radhi&rangle; [ɾaði])  
+- <a name="lawtpum">**lawtpum**</a> _n._ ([lawt](#lawt)+[pum](#pum))  
 
 
-  - **lasilon** _n._ (lasi+lon)  
-  
+- <a name="lawtpumak">**lawtpumak**</a> _n._ ([lawtpum](#lawtpum)+[ak](#ak))  
 
-  - **lasilum** _n._ (lasi+lum)  
-  
 
-  - **lasiki** _v._ (lasi+ki)  
-  
+- <a name="lawtpyah">**lawtpyah**</a> _n._ ([lawt](#lawt)+[pyah](#pyah))  
 
-  - **lak** _n._ (l+ak)  
-  
 
-- **'latium** _n._ (Lat. &langle;Latium&rangle; [ˈɫatiũː])  
+- <a name="lanau">**lanau**</a> _v._ ([~~takai~~](#takai))  
 
 
-  - **'latiumak** _n._ ('latium+ak)  
-  
+- <a name="lanaulon">**lanaulon**</a> _n._ ([lanau](#lanau)+[lon](#lon))  
 
-  - **'latiumwon** _n._ ('latium+won)  
-  
 
-  - **'latiumwon'amelika** _n._ ('latiumwon+'amelika)  
-  
+- <a name="lanauki">**lanauki**</a> _v._ ([lanau](#lanau)+[ki](#ki))  
 
-  - **'latiumwon'amelikaak** _n._ ('latiumwon'amelika+ak)  
-  
 
-  - **'latiumtilip** _n._ ('latium+tilip)  
-  
+- <a name="lanaukiles">**lanaukiles**</a> _n._ ([lanauki](#lanauki)+[les](#les))  
 
-- **'latwiya** _n._ (Lav. &langle;Latvija&rangle; [ˈlatvija])  
 
+- <a name="'lanka">**'lanka**</a> _n._ (Sin. &langle;ලංකා&rangle; [laŋkaː])  
 
-  - **'latwiyaak** _n._ ('latwiya+ak)  
-  
 
-  - **'latwiyawon** _n._ ('latwiya+won)  
-  
+- <a name="'lankaak">**'lankaak**</a> _n._ (['lanka](#'lanka)+[ak](#ak))  
 
-  - **'latwiyatilip** _n._ ('latwiya+tilip)  
-  
 
-- **lo** _v._ (~~te~~)  
+- <a name="'lankawon">**'lankawon**</a> _n._ (['lanka](#'lanka)+[won](#won))  
 
 
-  - **loles** _n._ (lo+les)  
-  
+- <a name="'lankatec">**'lankatec**</a> _n._ (['lanka](#'lanka)+[tec](#tec))  
 
-  - **lolon** _n._ (lo+lon)  
-  
 
-  - **loluat** _n._ (lo+luat)  
-  
+- <a name="lama">**lama**</a> _v._ (Msa. &langle;lama&rangle; [lama])  
 
-  - **lolum** _n._ (lo+lum)  
-  
 
-  - **lon** _n._ (l+on)  
-  
+- <a name="lamaaklalon">**lamaaklalon**</a> _n._ ([lama](#lama)+[aklalon](#aklalon))  
 
-  - **lones** _post._ (lon+es)  
-  
 
-  - **lonestueki** _v._ (lones+tueki)  
-  
+- <a name="lamalon">**lamalon**</a> _n._ ([lama](#lama)+[lon](#lon))  
 
-  - **lonestuekilon** _n._ (lonestueki+lon)  
-  
 
-- **lono** _v._ (Ben. &langle;রঙ&rangle; [rɔŋɔ])  
+- <a name="lamalyan">**lamalyan**</a> _n._ ([lama](#lama)+[lyan](#lyan))  
 
 
-  - **lonolon** _n._ (lono+lon)  
-  
+- <a name="lamalyansomaluat">**lamalyansomaluat**</a> _n._ ([lamalyan](#lamalyan)+[somaluat](#somaluat))  
 
-  - **lonolum** _n._ (lono+lum)  
-  
 
-  - **lonowicon** _n._ (lono+wicon)  
-  
+- <a name="lamacuc">**lamacuc**</a> _n._ ([lama](#lama)+[cuc](#cuc))  
 
-  - **lonowiconak** _n._ (lonowicon+ak)  
-  
 
-  - **lonowiconmuf** _n._ (lonowicon+muf)  
-  
+- <a name="lamasiklalon">**lamasiklalon**</a> _n._ ([lama](#lama)+[siklalon](#siklalon))  
 
-  - **lononyamaeccipcip** _n._ (lono+nyamaec+cipcip)  
-  
 
-  - **lonomilukutahutyeh** _n._ (lono+milukutahutyeh)  
-  
+- <a name="lamafuloki">**lamafuloki**</a> _v._ ([lama](#lama)+[fuloki](#fuloki))  
 
-  - **lonositelon** _n._ (lono+sitelon)  
-  
 
-  - **lonositelonak** _n._ (lonositelon+ak)  
-  
+- <a name="lamaki">**lamaki**</a> _v._ ([lama](#lama)+[ki](#ki))  
 
-  - **lonositelonmyawf** _n._ (lonositelon+myawf)  
-  
 
-  - **lonokap** _n._ (lono+kap)  
-  
+- <a name="lamakiles">**lamakiles**</a> _n._ ([lamaki](#lamaki)+[les](#les))  
 
-  - **lonoki** _v._ (lono+ki)  
-  
 
-  - **lonokiles** _n._ (lonoki+les)  
-  
+- <a name="'lahol">**'lahol**</a> _n._ (Pan. &langle;لہور&rangle; [ləˈhɔːɾ])  
 
-  - **lonum** _post._ (lon+um)  
-  
 
-- **'lontan** _n._ (Eng. &langle;London&rangle; [ˈlʌndən])  
+- <a name="'lasapuac">**'lasapuac**</a> _n._ (Ltz. &langle;Lëtzebuerg&rangle; [lət͡səbuːəɕ])  
 
 
-- **'loma** _n._ (Ita. &langle;Roma&rangle; [ˈroːma])  
+- <a name="'lasapuacak">**'lasapuacak**</a> _n._ (['lasapuac](#'lasapuac)+[ak](#ak))  
 
 
-  - **'loma'kilistosfitilip** _n._ ('loma+'kilistosfitilip)  
-  
+- <a name="'lasapuacwon">**'lasapuacwon**</a> _n._ (['lasapuac](#'lasapuac)+[won](#won))  
 
-  - **'lomatec** _n._ ('loma+tec)  
-  
 
-- **'lomin** _n._ (Ron. &langle;român&rangle; [romɨn])  
+- <a name="'lasapuactilip">**'lasapuactilip**</a> _n._ (['lasapuac](#'lasapuac)+[tilip](#tilip))  
 
 
-  - **'lominak** _n._ ('lomin+ak)  
-  
+- <a name="lasi">**lasi**</a> _v._ (Swa. &langle;radhi&rangle; [ɾaði])  
 
-  - **'lomintec** _n._ ('lomin+tec)  
-  
 
-  - **'lomintilip** _n._ ('lomin+tilip)  
-  
+- <a name="lasilon">**lasilon**</a> _n._ ([lasi](#lasi)+[lon](#lon))  
 
-- **'locpan** _n._ (Ljb. &langle;.lojban.&rangle; [ˈʔloʒbanʔ])  
 
+- <a name="lasilum">**lasilum**</a> _n._ ([lasi](#lasi)+[lum](#lum))  
 
-  - **'locpanak** _n._ ('locpan+ak)  
-  
 
-  - **'locpanwon** _n._ ('locpan+won)  
-  
+- <a name="lasiki">**lasiki**</a> _v._ ([lasi](#lasi)+[ki](#ki))  
 
-- **lokfe** _v._ (~~tenso~~)  
 
+- <a name="lak">**lak**</a> _n._ ([l](#l)+[ak](ak))  
 
-  - **lokfelon** _n._ (lokfe+lon)  
-  
 
-  - **lokfeki** _v._ (lokfe+ki)  
-  
+- <a name="'latium">**'latium**</a> _n._ (Lat. &langle;Latium&rangle; [ˈɫatiũː])  
 
-- **lota** _v._ (Spa. &langle;rueda&rangle; [ˈrweða])  
 
+- <a name="'latiumak">**'latiumak**</a> _n._ (['latium](#'latium)+[ak](#ak))  
 
-  - **lotalon** _n._ (lota+lon)  
-  
 
-  - **lotanu** _v._ (lota+nu)  
-  
+- <a name="'latiumwon">**'latiumwon**</a> _n._ (['latium](#'latium)+[won](#won))  
 
-  - **lotaki** _v._ (lota+ki)  
-  
 
-  - **lotakiles** _n._ (lotaki+les)  
-  
+- <a name="'latiumwon'amelika">**'latiumwon'amelika**</a> _n._ (['latiumwon](#'latiumwon)+['amelika](#'amelika))  
 
-- **loto** _v._ (Spa. &langle;roto&rangle; [ˈroto])  
 
+- <a name="'latiumwon'amelikaak">**'latiumwon'amelikaak**</a> _n._ (['latiumwon'amelika](#'latiumwon'amelika)+[ak](#ak))  
 
-  - **lotolon** _n._ (loto+lon)  
-  
 
-  - **lotonu** _v._ (loto+nu)  
-  
+- <a name="'latiumtilip">**'latiumtilip**</a> _n._ (['latium](#'latium)+[tilip](#tilip))  
 
-  - **lotonules** _n._ (lotonu+les)  
-  
 
-  - **lotonyolon** _n._ (loto+nyo+lon)  
-  
+- <a name="'latwiya">**'latwiya**</a> _n._ (Lav. &langle;Latvija&rangle; [ˈlatvija])  
 
-  - **lotonyolonpoltilum** _n._ (lotonyolon+poltilum)  
-  
 
-  - **lotoki** _v._ (loto+ki)  
-  
+- <a name="'latwiyaak">**'latwiyaak**</a> _n._ (['latwiya](#'latwiya)+[ak](#ak))  
 
-  - **lotokiles** _n._ (lotoki+les)  
-  
 
-  - **lotokihepuki** _v._ (lotoki+hepuki)  
-  
+- <a name="'latwiyawon">**'latwiyawon**</a> _n._ (['latwiya](#'latwiya)+[won](#won))  
 
-  - **lotokihepukilon** _n._ (lotokihepuki+lon)  
-  
 
-  - **lotokihepukiles** _n._ (lotokihepuki+les)  
-  
+- <a name="'latwiyatilip">**'latwiyatilip**</a> _n._ (['latwiya](#'latwiya)+[tilip](#tilip))  
 
-  - **lotokicomiki** _v._ (lotoki+comiki)  
-  
 
-  - **lotokicomikilon** _n._ (lotokicomiki+lon)  
-  
+- <a name="lo">**lo**</a> _v._ ([~~te~~](#te))  
 
-  - **lotokicomikiles** _n._ (lotokicomiki+les)  
-  
 
-  - **lotokipowi** _v._ (lotoki+powi)  
-  
+- <a name="loles">**loles**</a> _n._ ([lo](#lo)+[les](#les))  
 
-  - **lotokipowilon** _n._ (lotokipowi+lon)  
-  
 
-  - **lotokipowinu** _v._ (lotokipowi+nu)  
-  
+- <a name="lolon">**lolon**</a> _n._ ([lo](#lo)+[lon](#lon))  
 
-  - **lotokipowinules** _n._ (lotokipowinu+les)  
-  
 
-  - **lotokipowinyo** _v._ (lotokipowi+nyo)  
-  
+- <a name="loluat">**loluat**</a> _n._ ([lo](#lo)+[luat](#luat))  
 
-  - **lotokipowinyolon** _n._ (lotokipowinyo+lon)  
-  
 
-  - **lotokipowinyolyan** _n._ (lotokipowinyo+lyan)  
-  
+- <a name="lolum">**lolum**</a> _n._ ([lo](#lo)+[lum](#lum))  
 
-  - **lotokipowiki** _v._ (lotokipowi+ki)  
-  
 
-  - **lotokipowikiles** _n._ (lotokipowiki+les)  
-  
+- <a name="lon">**lon**</a> _n._ ([l](#l)+[on](on))  
 
-- **lotiha** _v._ (~~teluca~~)  
 
+- <a name="lones">**lones**</a> _post._ ([lon](#lon)+[es](#es))  
 
-  - **lotihalon** _n._ (lotiha+lon)  
-  
 
-  - **lotihaki** _v._ (lotiha+ki)  
-  
+- <a name="lonestueki">**lonestueki**</a> _v._ ([lones](#lones)+[tueki](#tueki))  
 
-- **'lietuwa** _n._ (Lit. &langle;Lietuva&rangle; [lʲɪɛtʊˈvɐ])  
 
+- <a name="lonestuekilon">**lonestuekilon**</a> _n._ ([lonestueki](#lonestueki)+[lon](#lon))  
 
-  - **'lietuwaak** _n._ ('lietuwa+ak)  
-  
 
-  - **'lietuwawon** _n._ ('lietuwa+won)  
-  
+- <a name="lono">**lono**</a> _v._ (Ben. &langle;রঙ&rangle; [rɔŋɔ])  
 
-  - **'lietuwatilip** _n._ ('lietuwa+tilip)  
-  
 
-  - **lial** _n._ (l+ial)  
-  
+- <a name="lonolon">**lonolon**</a> _n._ ([lono](#lono)+[lon](#lon))  
 
-  - **lialkweki** _v._ (l+ial+kweki)  
-  
 
-  - **lialkwekilon** _n._ (lialkweki+lon)  
-  
+- <a name="lonolum">**lonolum**</a> _n._ ([lono](#lono)+[lum](#lum))  
 
-- **'lila** _n._ (Vec. &langle;lira&rangle; [lira])  
 
+- <a name="lonowicon">**lonowicon**</a> _n._ ([lono](#lono)+[wicon](#wicon))  
 
-- **'liwla** _n._ (Gmy. &langle;λύρα&rangle; [ly˦ra])  
 
+- <a name="lonowiconak">**lonowiconak**</a> _n._ ([lonowicon](#lonowicon)+[ak](#ak))  
 
-- **lin** _n._ (Cmn. &langle;鳞&rangle; [lin˧˥])  
+
+- <a name="lonowiconmuf">**lonowiconmuf**</a> _n._ ([lonowicon](#lonowicon)+[muf](#muf))  
+
+
+- <a name="lononyamaeccipcip">**lononyamaeccipcip**</a> _n._ ([lono](#lono)+[nyamaec](#nyamaec)+[cipcip](#cipcip))  
+
+
+- <a name="lonomilukutahutyeh">**lonomilukutahutyeh**</a> _n._ ([lono](#lono)+[milukutahutyeh](#milukutahutyeh))  
+
+
+- <a name="lonositelon">**lonositelon**</a> _n._ ([lono](#lono)+[sitelon](#sitelon))  
+
+
+- <a name="lonositelonak">**lonositelonak**</a> _n._ ([lonositelon](#lonositelon)+[ak](#ak))  
+
+
+- <a name="lonositelonmyawf">**lonositelonmyawf**</a> _n._ ([lonositelon](#lonositelon)+[myawf](#myawf))  
+
+
+- <a name="lonokap">**lonokap**</a> _n._ ([lono](#lono)+[kap](#kap))  
+
+
+- <a name="lonoki">**lonoki**</a> _v._ ([lono](#lono)+[ki](#ki))  
+
+
+- <a name="lonokiles">**lonokiles**</a> _n._ ([lonoki](#lonoki)+[les](#les))  
+
+
+- <a name="lonum">**lonum**</a> _post._ ([lon](#lon)+[um](#um))  
+
+
+- <a name="'lontan">**'lontan**</a> _n._ (Eng. &langle;London&rangle; [ˈlʌndən])  
+
+
+- <a name="'loma">**'loma**</a> _n._ (Ita. &langle;Roma&rangle; [ˈroːma])  
+
+
+- <a name="'loma'kilistosfitilip">**'loma'kilistosfitilip**</a> _n._ (['loma](#'loma)+['kilistosfitilip](#'kilistosfitilip))  
+
+
+- <a name="'lomatec">**'lomatec**</a> _n._ (['loma](#'loma)+[tec](#tec))  
+
+
+- <a name="'lomin">**'lomin**</a> _n._ (Ron. &langle;român&rangle; [romɨn])  
+
+
+- <a name="'lominak">**'lominak**</a> _n._ (['lomin](#'lomin)+[ak](#ak))  
+
+
+- <a name="'lomintec">**'lomintec**</a> _n._ (['lomin](#'lomin)+[tec](#tec))  
+
+
+- <a name="'lomintilip">**'lomintilip**</a> _n._ (['lomin](#'lomin)+[tilip](#tilip))  
+
+
+- <a name="'locpan">**'locpan**</a> _n._ (Ljb. &langle;.lojban.&rangle; [ˈʔloʒbanʔ])  
+
+
+- <a name="'locpanak">**'locpanak**</a> _n._ (['locpan](#'locpan)+[ak](#ak))  
+
+
+- <a name="'locpanwon">**'locpanwon**</a> _n._ (['locpan](#'locpan)+[won](#won))  
+
+
+- <a name="lokfe">**lokfe**</a> _v._ ([~~tenso~~](#tenso))  
+
+
+- <a name="lokfelon">**lokfelon**</a> _n._ ([lokfe](#lokfe)+[lon](#lon))  
+
+
+- <a name="lokfeki">**lokfeki**</a> _v._ ([lokfe](#lokfe)+[ki](#ki))  
+
+
+- <a name="lota">**lota**</a> _v._ (Spa. &langle;rueda&rangle; [ˈrweða])  
+
+
+- <a name="lotalon">**lotalon**</a> _n._ ([lota](#lota)+[lon](#lon))  
+
+
+- <a name="lotanu">**lotanu**</a> _v._ ([lota](#lota)+[nu](#nu))  
+
+
+- <a name="lotaki">**lotaki**</a> _v._ ([lota](#lota)+[ki](#ki))  
+
+
+- <a name="lotakiles">**lotakiles**</a> _n._ ([lotaki](#lotaki)+[les](#les))  
+
+
+- <a name="loto">**loto**</a> _v._ (Spa. &langle;roto&rangle; [ˈroto])  
+
+
+- <a name="lotolon">**lotolon**</a> _n._ ([loto](#loto)+[lon](#lon))  
+
+
+- <a name="lotonu">**lotonu**</a> _v._ ([loto](#loto)+[nu](#nu))  
+
+
+- <a name="lotonules">**lotonules**</a> _n._ ([lotonu](#lotonu)+[les](#les))  
+
+
+- <a name="lotonyolon">**lotonyolon**</a> _n._ ([loto](#loto)+[nyo](#nyo)+[lon](#lon))  
+
+
+- <a name="lotonyolonpoltilum">**lotonyolonpoltilum**</a> _n._ ([lotonyolon](#lotonyolon)+[poltilum](#poltilum))  
+
+
+- <a name="lotoki">**lotoki**</a> _v._ ([loto](#loto)+[ki](#ki))  
+
+
+- <a name="lotokiles">**lotokiles**</a> _n._ ([lotoki](#lotoki)+[les](#les))  
+
+
+- <a name="lotokihepuki">**lotokihepuki**</a> _v._ ([lotoki](#lotoki)+[hepuki](#hepuki))  
+
+
+- <a name="lotokihepukilon">**lotokihepukilon**</a> _n._ ([lotokihepuki](#lotokihepuki)+[lon](#lon))  
+
+
+- <a name="lotokihepukiles">**lotokihepukiles**</a> _n._ ([lotokihepuki](#lotokihepuki)+[les](#les))  
+
+
+- <a name="lotokicomiki">**lotokicomiki**</a> _v._ ([lotoki](#lotoki)+[comiki](#comiki))  
+
+
+- <a name="lotokicomikilon">**lotokicomikilon**</a> _n._ ([lotokicomiki](#lotokicomiki)+[lon](#lon))  
+
+
+- <a name="lotokicomikiles">**lotokicomikiles**</a> _n._ ([lotokicomiki](#lotokicomiki)+[les](#les))  
+
+
+- <a name="lotokipowi">**lotokipowi**</a> _v._ ([lotoki](#lotoki)+[powi](#powi))  
+
+
+- <a name="lotokipowilon">**lotokipowilon**</a> _n._ ([lotokipowi](#lotokipowi)+[lon](#lon))  
+
+
+- <a name="lotokipowinu">**lotokipowinu**</a> _v._ ([lotokipowi](#lotokipowi)+[nu](#nu))  
+
+
+- <a name="lotokipowinules">**lotokipowinules**</a> _n._ ([lotokipowinu](#lotokipowinu)+[les](#les))  
+
+
+- <a name="lotokipowinyo">**lotokipowinyo**</a> _v._ ([lotokipowi](#lotokipowi)+[nyo](#nyo))  
+
+
+- <a name="lotokipowinyolon">**lotokipowinyolon**</a> _n._ ([lotokipowinyo](#lotokipowinyo)+[lon](#lon))  
+
+
+- <a name="lotokipowinyolyan">**lotokipowinyolyan**</a> _n._ ([lotokipowinyo](#lotokipowinyo)+[lyan](#lyan))  
+
+
+- <a name="lotokipowiki">**lotokipowiki**</a> _v._ ([lotokipowi](#lotokipowi)+[ki](#ki))  
+
+
+- <a name="lotokipowikiles">**lotokipowikiles**</a> _n._ ([lotokipowiki](#lotokipowiki)+[les](#les))  
+
+
+- <a name="lotiha">**lotiha**</a> _v._ ([~~teluca~~](#teluca))  
+
+
+- <a name="lotihalon">**lotihalon**</a> _n._ ([lotiha](#lotiha)+[lon](#lon))  
+
+
+- <a name="lotihaki">**lotihaki**</a> _v._ ([lotiha](#lotiha)+[ki](#ki))  
+
+
+- <a name="'lietuwa">**'lietuwa**</a> _n._ (Lit. &langle;Lietuva&rangle; [lʲɪɛtʊˈvɐ])  
+
+
+- <a name="'lietuwaak">**'lietuwaak**</a> _n._ (['lietuwa](#'lietuwa)+[ak](#ak))  
+
+
+- <a name="'lietuwawon">**'lietuwawon**</a> _n._ (['lietuwa](#'lietuwa)+[won](#won))  
+
+
+- <a name="'lietuwatilip">**'lietuwatilip**</a> _n._ (['lietuwa](#'lietuwa)+[tilip](#tilip))  
+
+
+- <a name="lial">**lial**</a> _n._ ([l](#l)+[ial](ial))  
+
+
+- <a name="lialkweki">**lialkweki**</a> _v._ ([l](#l)+[ial](#ial)+[kweki](#kweki))  
+
+
+- <a name="lialkwekilon">**lialkwekilon**</a> _n._ ([lialkweki](#lialkweki)+[lon](#lon))  
+
+
+- <a name="'lila">**'lila**</a> _n._ (Vec. &langle;lira&rangle; [lira])  
+
+
+- <a name="'liwla">**'liwla**</a> _n._ (Gmy. &langle;λύρα&rangle; [ly˦ra])  
+
+
+- <a name="lin">**lin**</a> _n._ (Cmn. &langle;鳞&rangle; [lin˧˥])  
 escama
 
-  - **linak** _n._ (lin+ak)  
-  
-
-- **linli** _v._ (ono. [riŋ)  
+- <a name="linak">**linak**</a> _n._ ([lin](#lin)+[ak](#ak))  
 
 
-  - **linlilon** _n._ (linli+lon)  
-  
+- <a name="linli">**linli**</a> _v._ (ono. [riŋ)  
 
-  - **linmamul** _n._ (lin+mamul)  
-  
 
-- **lim** _num._ (Jav. &langle;lima&rangle; [lima])  
+- <a name="linlilon">**linlilon**</a> _n._ ([linli](#linli)+[lon](#lon))  
+
+
+- <a name="linmamul">**linmamul**</a> _n._ ([lin](#lin)+[mamul](#mamul))  
+
+
+- <a name="lim">**lim**</a> _num._ (Jav. &langle;lima&rangle; [lima])  
 5; cinco
 
-  - **limak** _n._ (lim+ak)  
-  quinto
+- <a name="limak">**limak**</a> _n._ ([lim](#lim)+[ak](#ak))  
+quinto
 
-  - **limsunkwelwel** _n._ (lim+sunkwelwel)  
-  
+- <a name="limsunkwelwel">**limsunkwelwel**</a> _n._ ([lim](#lim)+[sunkwelwel](#sunkwelwel))  
 
-  - **limpucolon** _n._ (lim+pucolon)  
-  
 
-- **lih** _n._ (Cmn. &langle;狸&rangle; [li])  
+- <a name="limpucolon">**limpucolon**</a> _n._ ([lim](#lim)+[pucolon](#pucolon))  
 
 
-- **lic** _n._ (Pan. &langle;ਰਿੱਛ&rangle; [ɾɪːt͡ʃʰ])  
+- <a name="lih">**lih**</a> _n._ (Cmn. &langle;狸&rangle; [li])  
 
 
-  - **licak** _n._ (lic+ak)  
-  
+- <a name="lic">**lic**</a> _n._ (Pan. &langle;ਰਿੱਛ&rangle; [ɾɪːt͡ʃʰ])  
 
-  - **'licilkentawlus** _n._ (Lat. &langle;Rigil Centaurus>)  
-  
 
-- **'lictenectayn** _n._ (Deu. &langle;Liechtenstein&rangle; [lɪçtn̩ʃtaɪ̯n])  
+- <a name="licak">**licak**</a> _n._ ([lic](#lic)+[ak](#ak))  
 
 
-  - **'lictenectaynak** _n._ ('lictenectayn+ak)  
+  - <a name="'licilkentawlus">**'licilkentawlus**</a> _n._ (Lat. &langle;Rigil Centaurus>)  
   
 
-  - **'lictenectaynwon** _n._ ('lictenectayn+won)  
-  
+- <a name="'lictenectayn">**'lictenectayn**</a> _n._ (Deu. &langle;Liechtenstein&rangle; [lɪçtn̩ʃtaɪ̯n])  
 
-- **lisat** _n._ (Eng. &langle;lizard&rangle; [ˈlɪzɚd])  
 
+- <a name="'lictenectaynak">**'lictenectaynak**</a> _n._ (['lictenectayn](#'lictenectayn)+[ak](#ak))  
 
-- **'litium** _n._ (Lat. &langle;lithium&rangle; [lɪtɪʊ̃])  
 
+- <a name="'lictenectaynwon">**'lictenectaynwon**</a> _n._ (['lictenectayn](#'lictenectayn)+[won](#won))  
 
-- **'lithe** _n._ (Fra. &langle;litre&rangle; [ˈlitʁ])  
 
+- <a name="lisat">**lisat**</a> _n._ (Eng. &langle;lizard&rangle; [ˈlɪzɚd])  
 
-- **litfo** _v._ (~~tulse~~)  
 
+- <a name="'litium">**'litium**</a> _n._ (Lat. &langle;lithium&rangle; [lɪtɪʊ̃])  
 
-  - **litfolon** _n._ (litfo+lon)  
-  
 
-  - **litfoki** _v._ (litfo+ki)  
-  
+- <a name="'lithe">**'lithe**</a> _n._ (Fra. &langle;litre&rangle; [ˈlitʁ])  
 
-  - **lip** _n._ (l+ip)  
-  
 
-- **'lipiya** _n._ (Ara. &langle;ليبيا‎&rangle; [liːbija])  
+- <a name="litfo">**litfo**</a> _v._ ([~~tulse~~](#tulse))  
 
 
-  - **'lipiyaak** _n._ ('lipiya+ak)  
-  
+- <a name="litfolon">**litfolon**</a> _n._ ([litfo](#litfo)+[lon](#lon))  
 
-  - **'lipiyawon** _n._ ('lipiya+won)  
-  
 
-- **'lipnen** _n._ (Ara. &langle;لبنان‎&rangle; [lɪbˈnɛːn])  
+- <a name="litfoki">**litfoki**</a> _v._ ([litfo](#litfo)+[ki](#ki))  
 
 
-  - **'lipnenak** _n._ ('lipnen+ak)  
-  
+- <a name="lip">**lip**</a> _n._ ([l](#l)+[ip](ip))  
 
-  - **'lipnenwon** _n._ ('lipnen+won)  
-  
 
-- **lu** _v._ (~~ti~~)  
+- <a name="'lipiya">**'lipiya**</a> _n._ (Ara. &langle;ليبيا‎&rangle; [liːbija])  
 
 
-  - **luat** _n._ (l+uat)  
-  
+- <a name="'lipiyaak">**'lipiyaak**</a> _n._ (['lipiya](#'lipiya)+[ak](#ak))  
 
-  - **luatkweki** _v._ (l+uat+kweki)  
-  
 
-  - **luatkwekilon** _n._ (luatkweki+lon)  
-  
+- <a name="'lipiyawon">**'lipiyawon**</a> _n._ (['lipiya](#'lipiya)+[won](#won))  
 
-  - **luatkwekipowi** _v._ (luatkweki+powi)  
-  
 
-  - **luatkwekipowilon** _n._ (luatkwekipowi+lon)  
-  
+- <a name="'lipnen">**'lipnen**</a> _n._ (Ara. &langle;لبنان‎&rangle; [lɪbˈnɛːn])  
 
-  - **luatkwekipowinyo** _v._ (luatkwekipowi+nyo)  
-  
 
-  - **luatkwekipowinyolon** _n._ (luatkwekipowinyo+lon)  
-  
+- <a name="'lipnenak">**'lipnenak**</a> _n._ (['lipnen](#'lipnen)+[ak](#ak))  
 
-- **luo** _v._ (~~tie~~)  
 
+- <a name="'lipnenwon">**'lipnenwon**</a> _n._ (['lipnen](#'lipnen)+[won](#won))  
 
-  - **luolon** _n._ (luo+lon)  
-  
 
-  - **luoki** _v._ (luo+ki)  
-  
+- <a name="lu">**lu**</a> _v._ ([~~ti~~](#ti))  
 
-  - **lulon** _n._ (lu+lon)  
-  
 
-  - **lulum** _n._ (lu+lum)  
-  
+- <a name="luat">**luat**</a> _n._ ([l](#l)+[uat](uat))  
 
-- **luna** _v._ (Pan. &langle;ਲੂਣਾ&rangle; [luɳɑ])  
 
+- <a name="luatkweki">**luatkweki**</a> _v._ ([l](#l)+[uat](#uat)+[kweki](#kweki))  
 
-  - **lunaufalon** _n._ (luna+ufalon)  
-  
 
-  - **lunalon** _n._ (luna+lon)  
-  
+- <a name="luatkwekilon">**luatkwekilon**</a> _n._ ([luatkweki](#luatkweki)+[lon](#lon))  
 
-  - **lunalyan** _n._ (luna+lyan)  
-  
 
-  - **lunacakalum** _n._ (luna+cakalum)  
-  
+- <a name="luatkwekipowi">**luatkwekipowi**</a> _v._ ([luatkweki](#luatkweki)+[powi](#powi))  
 
-  - **lunacyolyan** _n._ (luna+cyolyan)  
-  
 
-  - **lunacyolyanlon** _n._ (lunacyolyan+lon)  
-  
+- <a name="luatkwekipowilon">**luatkwekipowilon**</a> _n._ ([luatkwekipowi](#luatkwekipowi)+[lon](#lon))  
 
-  - **lunaki** _v._ (luna+ki)  
-  
 
-- **luni** _v._ (Cmn. &langle;容易&rangle; [ɻʊŋ˧˥i˥˩])  
+- <a name="luatkwekipowinyo">**luatkwekipowinyo**</a> _v._ ([luatkwekipowi](#luatkwekipowi)+[nyo](#nyo))  
 
 
-  - **lunilon** _n._ (luni+lon)  
-  
+- <a name="luatkwekipowinyolon">**luatkwekipowinyolon**</a> _n._ ([luatkwekipowinyo](#luatkwekipowinyo)+[lon](#lon))  
 
-  - **lunilyan** _n._ (luni+lyan)  
-  
 
-  - **lunisoma** _v._ (luni+soma)  
-  
+- <a name="luo">**luo**</a> _v._ ([~~tie~~](#tie))  
 
-  - **lunisomales** _n._ (lunisoma+les)  
-  
 
-  - **lunisomalon** _n._ (lunisoma+lon)  
-  
+- <a name="luolon">**luolon**</a> _n._ ([luo](#luo)+[lon](#lon))  
 
-  - **luniki** _v._ (luni+ki)  
-  
 
-- **'lunti** _n._ (Run. &langle;Rundi&rangle; [ˈɾundi])  
+- <a name="luoki">**luoki**</a> _v._ ([luo](#luo)+[ki](#ki))  
 
 
-  - **'luntiak** _n._ ('lunti+ak)  
-  
+- <a name="lulon">**lulon**</a> _n._ ([lu](#lu)+[lon](#lon))  
 
-  - **'luntitec** _n._ ('lunti+tec)  
-  
 
-  - **'luntitilip** _n._ ('lunti+tilip)  
-  
+- <a name="lulum">**lulum**</a> _n._ ([lu](#lu)+[lum](#lum))  
 
-  - **lum** _n._ (l+um)  
-  
 
-- **lumah** _n._ (Jav. &langle;lumah&rangle; [ɭumɑh])  
+- <a name="luna">**luna**</a> _v._ (Pan. &langle;ਲੂਣਾ&rangle; [luɳɑ])  
 
 
-  - **lumahak** _n._ (lumah+ak)  
-  
+- <a name="lunaufalon">**lunaufalon**</a> _n._ ([luna](#luna)+[ufalon](#ufalon))  
 
-  - **lumahmwoni** _v._ (lumah+mwoni)  
-  
 
-  - **lumahmwoniles** _n._ (lumahmwoni+les)  
-  
+- <a name="lunalon">**lunalon**</a> _n._ ([luna](#luna)+[lon](#lon))  
 
-  - **lumahmwonilon** _n._ (lumahmwoni+lon)  
-  
 
-  - **lumahmwonilum** _n._ (lumahmwoni+lum)  
-  
+- <a name="lunalyan">**lunalyan**</a> _n._ ([luna](#luna)+[lyan](#lyan))  
 
-  - **lumahhila** _v._ (lumah+hila)  
-  
 
-  - **lumahhilalon** _n._ (lumahhila+lon)  
-  
+- <a name="lunacakalum">**lunacakalum**</a> _n._ ([luna](#luna)+[cakalum](#cakalum))  
 
-  - **lumahhilaluat** _n._ (lumahhila+luat)  
-  
 
-  - **lumahsikla** _v._ (lumah+sikla)  
-  
+- <a name="lunacyolyan">**lunacyolyan**</a> _n._ ([luna](#luna)+[cyolyan](#cyolyan))  
 
-  - **lumahsiklalon** _n._ (lumahsikla+lon)  
-  
 
-  - **lumahsiteponto** _v._ (lumah+siteponto)  
-  
+- <a name="lunacyolyanlon">**lunacyolyanlon**</a> _n._ ([lunacyolyan](#lunacyolyan)+[lon](#lon))  
 
-  - **lumahsitepontolon** _n._ (lumahsiteponto+lon)  
-  
 
-  - **lumahfunta** _v._ (lumah+funta)  
-  
+- <a name="lunaki">**lunaki**</a> _v._ ([luna](#luna)+[ki](#ki))  
 
-  - **lumahfuntalon** _n._ (lumahfunta+lon)  
-  
 
-  - **lumahtokanu** _v._ (lumah+tokanu)  
-  
+- <a name="luni">**luni**</a> _v._ (Cmn. &langle;容易&rangle; [ɻʊŋ˧˥i˥˩])  
 
-  - **lumahtokanulum** _n._ (lumahtokanu+lum)  
-  
 
-- **luci** _v._ (Epo. &langle;ruĝi&rangle; [ˈrud͡ʒi])  
+- <a name="lunilon">**lunilon**</a> _n._ ([luni](#luni)+[lon](#lon))  
 
 
-  - **lucilon** _n._ (luci+lon)  
-  
+- <a name="lunilyan">**lunilyan**</a> _n._ ([luni](#luni)+[lyan](#lyan))  
 
-  - **lucilyan** _n._ (luci+lyan)  
-  
 
-  - **lucimuta** _v._ (luci+muta)  
-  
+- <a name="lunisoma">**lunisoma**</a> _v._ ([luni](#luni)+[soma](#soma))  
 
-  - **lucimutalon** _n._ (lucimuta+lon)  
-  
 
-  - **lucimutaki** _v._ (lucimuta+ki)  
-  
+- <a name="lunisomales">**lunisomales**</a> _n._ ([lunisoma](#lunisoma)+[les](#les))  
 
-  - **lucicipcip** _n._ (luci+cipcip)  
-  
 
-  - **luciki** _v._ (luci+ki)  
-  
+- <a name="lunisomalon">**lunisomalon**</a> _n._ ([lunisoma](#lunisoma)+[lon](#lon))  
 
-  - **lucikwah** _n._ (luci+kwah)  
-  
 
-  - **lucitawh** _n._ (luci+tawh)  
-  
+- <a name="luniki">**luniki**</a> _v._ ([luni](#luni)+[ki](#ki))  
 
-  - **lucipilanila** _v._ (luci+pila+nila)  
-  
 
-  - **lucipilanilalon** _n._ (lucipilanila+lon)  
-  
+- <a name="'lunti">**'lunti**</a> _n._ (Run. &langle;Rundi&rangle; [ˈɾundi])  
 
-  - **lucipilanilalyan** _n._ (lucipilanila+lyan)  
-  
 
-  - **lucipilanilaki** _v._ (lucipilanila+ki)  
-  
+- <a name="'luntiak">**'luntiak**</a> _n._ (['lunti](#'lunti)+[ak](#ak))  
 
-  - **lucipum** _n._ (luci+pum)  
-  
 
-  - **lucipumak** _n._ (lucipum+ak)  
-  
+- <a name="'luntitec">**'luntitec**</a> _n._ (['lunti](#'lunti)+[tec](#tec))  
 
-- **luso** _v._ (Nya. &langle;-luso&rangle; [ɽuso])  
 
+- <a name="'luntitilip">**'luntitilip**</a> _n._ (['lunti](#'lunti)+[tilip](#tilip))  
 
-  - **lusolon** _n._ (luso+lon)  
-  
 
-  - **lusolyan** _n._ (luso+lyan)  
-  
+- <a name="lum">**lum**</a> _n._ ([l](#l)+[um](um))  
 
-  - **lusonitatatu** _v._ (luso+nitatatu)  
-  
 
-  - **lusonitatatulon** _n._ (lusonitatatu+lon)  
-  
+- <a name="lumah">**lumah**</a> _n._ (Jav. &langle;lumah&rangle; [ɭumɑh])  
 
-  - **lusocoh** _n._ (luso+coh)  
-  
 
-  - **lusoki** _v._ (luso+ki)  
-  
+- <a name="lumahak">**lumahak**</a> _n._ ([lumah](#lumah)+[ak](#ak))  
 
-  - **lusokiles** _n._ (lusoki+les)  
-  
 
-  - **lusokilon** _n._ (lusoki+lon)  
-  
+- <a name="lumahmwoni">**lumahmwoni**</a> _v._ ([lumah](#lumah)+[mwoni](#mwoni))  
 
-  - **lusotihutatu** _v._ (luso+tihutatu)  
-  
 
-  - **lusotihutatulon** _n._ (lusotihutatu+lon)  
-  
+- <a name="lumahmwoniles">**lumahmwoniles**</a> _n._ ([lumahmwoni](#lumahmwoni)+[les](#les))  
 
-- **'lusi** _n._ (Rus. &langle;рось&rangle; [rusʲ])  
 
+- <a name="lumahmwonilon">**lumahmwonilon**</a> _n._ ([lumahmwoni](#lumahmwoni)+[lon](#lon))  
 
-  - **'lusiak** _n._ ('lusi+ak)  
-  
 
-  - **'lusitec** _n._ ('lusi+tec)  
-  
+- <a name="lumahmwonilum">**lumahmwonilum**</a> _n._ ([lumahmwoni](#lumahmwoni)+[lum](#lum))  
 
-  - **'lusitecwon** _n._ ('lusitec+won)  
-  
 
-  - **'lusitectilip** _n._ ('lusitec+tilip)  
-  
+- <a name="lumahhila">**lumahhila**</a> _v._ ([lumah](#lumah)+[hila](#hila))  
 
-- **luti** _v._ (Epo. &langle;ludi&rangle; [ˈludi])  
 
+- <a name="lumahhilalon">**lumahhilalon**</a> _n._ ([lumahhila](#lumahhila)+[lon](#lon))  
 
-  - **lutilon** _n._ (luti+lon)  
-  
 
-  - **lutilum** _n._ (luti+lum)  
-  
+- <a name="lumahhilaluat">**lumahhilaluat**</a> _n._ ([lumahhila](#lumahhila)+[luat](#luat))  
 
-- **'lupitium** _n._ (Lat. &langle;rubidium&rangle; [rʊbidɪʊ̃])  
 
+- <a name="lumahsikla">**lumahsikla**</a> _v._ ([lumah](#lumah)+[sikla](#sikla))  
 
-- **'lupya** _n._ (Hin. &langle;रुपया&rangle; [ɾʊpjɑː])  
 
+- <a name="lumahsiklalon">**lumahsiklalon**</a> _n._ ([lumahsikla](#lumahsikla)+[lon](#lon))  
 
-- **'lupli** _n._ (Rus. &langle;рубль&rangle; [rublʲ])  
 
+- <a name="lumahsiteponto">**lumahsiteponto**</a> _v._ ([lumah](#lumah)+[siteponto](#siteponto))  
 
-  - **lyan** _n._ (l+yan)  
-  
+
+- <a name="lumahsitepontolon">**lumahsitepontolon**</a> _n._ ([lumahsiteponto](#lumahsiteponto)+[lon](#lon))  
+
+
+- <a name="lumahfunta">**lumahfunta**</a> _v._ ([lumah](#lumah)+[funta](#funta))  
+
+
+- <a name="lumahfuntalon">**lumahfuntalon**</a> _n._ ([lumahfunta](#lumahfunta)+[lon](#lon))  
+
+
+- <a name="lumahtokanu">**lumahtokanu**</a> _v._ ([lumah](#lumah)+[tokanu](#tokanu))  
+
+
+- <a name="lumahtokanulum">**lumahtokanulum**</a> _n._ ([lumahtokanu](#lumahtokanu)+[lum](#lum))  
+
+
+- <a name="luci">**luci**</a> _v._ (Epo. &langle;ruĝi&rangle; [ˈrud͡ʒi])  
+
+
+- <a name="lucilon">**lucilon**</a> _n._ ([luci](#luci)+[lon](#lon))  
+
+
+- <a name="lucilyan">**lucilyan**</a> _n._ ([luci](#luci)+[lyan](#lyan))  
+
+
+- <a name="lucimuta">**lucimuta**</a> _v._ ([luci](#luci)+[muta](#muta))  
+
+
+- <a name="lucimutalon">**lucimutalon**</a> _n._ ([lucimuta](#lucimuta)+[lon](#lon))  
+
+
+- <a name="lucimutaki">**lucimutaki**</a> _v._ ([lucimuta](#lucimuta)+[ki](#ki))  
+
+
+- <a name="lucicipcip">**lucicipcip**</a> _n._ ([luci](#luci)+[cipcip](#cipcip))  
+
+
+- <a name="luciki">**luciki**</a> _v._ ([luci](#luci)+[ki](#ki))  
+
+
+- <a name="lucikwah">**lucikwah**</a> _n._ ([luci](#luci)+[kwah](#kwah))  
+
+
+- <a name="lucitawh">**lucitawh**</a> _n._ ([luci](#luci)+[tawh](#tawh))  
+
+
+- <a name="lucipilanila">**lucipilanila**</a> _v._ ([luci](#luci)+[pila](#pila)+[nila](#nila))  
+
+
+- <a name="lucipilanilalon">**lucipilanilalon**</a> _n._ ([lucipilanila](#lucipilanila)+[lon](#lon))  
+
+
+- <a name="lucipilanilalyan">**lucipilanilalyan**</a> _n._ ([lucipilanila](#lucipilanila)+[lyan](#lyan))  
+
+
+- <a name="lucipilanilaki">**lucipilanilaki**</a> _v._ ([lucipilanila](#lucipilanila)+[ki](#ki))  
+
+
+- <a name="lucipum">**lucipum**</a> _n._ ([luci](#luci)+[pum](#pum))  
+
+
+- <a name="lucipumak">**lucipumak**</a> _n._ ([lucipum](#lucipum)+[ak](#ak))  
+
+
+- <a name="luso">**luso**</a> _v._ (Nya. &langle;-luso&rangle; [ɽuso])  
+
+
+- <a name="lusolon">**lusolon**</a> _n._ ([luso](#luso)+[lon](#lon))  
+
+
+- <a name="lusolyan">**lusolyan**</a> _n._ ([luso](#luso)+[lyan](#lyan))  
+
+
+- <a name="lusonitatatu">**lusonitatatu**</a> _v._ ([luso](#luso)+[nitatatu](#nitatatu))  
+
+
+- <a name="lusonitatatulon">**lusonitatatulon**</a> _n._ ([lusonitatatu](#lusonitatatu)+[lon](#lon))  
+
+
+- <a name="lusocoh">**lusocoh**</a> _n._ ([luso](#luso)+[coh](#coh))  
+
+
+- <a name="lusoki">**lusoki**</a> _v._ ([luso](#luso)+[ki](#ki))  
+
+
+- <a name="lusokiles">**lusokiles**</a> _n._ ([lusoki](#lusoki)+[les](#les))  
+
+
+- <a name="lusokilon">**lusokilon**</a> _n._ ([lusoki](#lusoki)+[lon](#lon))  
+
+
+- <a name="lusotihutatu">**lusotihutatu**</a> _v._ ([luso](#luso)+[tihutatu](#tihutatu))  
+
+
+- <a name="lusotihutatulon">**lusotihutatulon**</a> _n._ ([lusotihutatu](#lusotihutatu)+[lon](#lon))  
+
+
+- <a name="'lusi">**'lusi**</a> _n._ (Rus. &langle;рось&rangle; [rusʲ])  
+
+
+- <a name="'lusiak">**'lusiak**</a> _n._ (['lusi](#'lusi)+[ak](#ak))  
+
+
+- <a name="'lusitec">**'lusitec**</a> _n._ (['lusi](#'lusi)+[tec](#tec))  
+
+
+- <a name="'lusitecwon">**'lusitecwon**</a> _n._ (['lusitec](#'lusitec)+[won](#won))  
+
+
+- <a name="'lusitectilip">**'lusitectilip**</a> _n._ (['lusitec](#'lusitec)+[tilip](#tilip))  
+
+
+- <a name="luti">**luti**</a> _v._ (Epo. &langle;ludi&rangle; [ˈludi])  
+
+
+- <a name="lutilon">**lutilon**</a> _n._ ([luti](#luti)+[lon](#lon))  
+
+
+- <a name="lutilum">**lutilum**</a> _n._ ([luti](#luti)+[lum](#lum))  
+
+
+- <a name="'lupitium">**'lupitium**</a> _n._ (Lat. &langle;rubidium&rangle; [rʊbidɪʊ̃])  
+
+
+- <a name="'lupya">**'lupya**</a> _n._ (Hin. &langle;रुपया&rangle; [ɾʊpjɑː])  
+
+
+- <a name="'lupli">**'lupli**</a> _n._ (Rus. &langle;рубль&rangle; [rublʲ])  
+
+
+- <a name="lyan">**lyan**</a> _n._ ([l](#l)+[yan](yan))  
+
 
-- **lyon** _num._ (Spa. &langle;-illón&rangle; [iˈʝon])  
+- <a name="lyon">**lyon**</a> _num._ (Spa. &langle;-illón&rangle; [iˈʝon])  
 ×10^; -illon
 
-  - **lyonmencah'kilokham** _n._ (lyon+men+cah+'kilokham)  
-  
+- <a name="lyonmencah'kilokham">**lyonmencah'kilokham**</a> _n._ ([lyon](#lyon)+[men](#men)+[cah](#cah)+['kilokham](#'kilokham))  
 
-  - **lyonmensan'lithe** _n._ (lyon+men+san+'lithe)  
-  
 
-  - **lyonmensan'methe** _n._ (lyon+men+san+'methe)  
-  
+- <a name="lyonmensan'lithe">**lyonmensan'lithe**</a> _n._ ([lyon](#lyon)+[men](#men)+[san](#san)+['lithe](#'lithe))  
 
-  - **lyonmensan'kilokham** _n._ (lyon+men+san+'kilokham)  
-  
 
-  - **lyonmentos'methe** _n._ (lyon+men+tos+'methe)  
-  
+- <a name="lyonmensan'methe">**lyonmensan'methe**</a> _n._ ([lyon](#lyon)+[men](#men)+[san](#san)+['methe](#'methe))  
 
-  - **lyonsan'methe** _n._ (lyon+san+'methe)  
-  
 
-  - **lyonsanmamales** _n._ (lyon+san+mamales)  
-  
+- <a name="lyonmensan'kilokham">**lyonmensan'kilokham**</a> _n._ ([lyon](#lyon)+[men](#men)+[san](#san)+['kilokham](#'kilokham))  
 
-  - **lyonsan'kilokham** _n._ (lyon+san+'kilokham)  
-  
 
-  - **lyonfolmamales** _n._ (lyon+fol+mamales)  
-  
+- <a name="lyonmentos'methe">**lyonmentos'methe**</a> _n._ ([lyon](#lyon)+[men](#men)+[tos](#tos)+['methe](#'methe))  
 
-  - **lyontosmamales** _n._ (lyon+tos+mamales)  
-  
 
-  - **lyot** _n._ (l+yot)  
-  
+- <a name="lyonsan'methe">**lyonsan'methe**</a> _n._ ([lyon](#lyon)+[san](#san)+['methe](#'methe))  
 
-  - **lyotkweki** _v._ (l+yot+kweki)  
-  
 
-  - **lyotkwekilon** _n._ (lyotkweki+lon)  
-  
+- <a name="lyonsanmamales">**lyonsanmamales**</a> _n._ ([lyon](#lyon)+[san](#san)+[mamales](#mamales))  
 
-  - **lyotkwekinu** _v._ (lyotkweki+nu)  
-  
 
-  - **lyotkwekinulon** _n._ (lyotkwekinu+lon)  
-  
+- <a name="lyonsan'kilokham">**lyonsan'kilokham**</a> _n._ ([lyon](#lyon)+[san](#san)+['kilokham](#'kilokham))  
 
-  - **lyotkwekinyo** _v._ (lyotkweki+nyo)  
-  
 
-  - **lyotkwekinyolon** _n._ (lyotkwekinyo+lon)  
-  
+- <a name="lyonfolmamales">**lyonfolmamales**</a> _n._ ([lyon](#lyon)+[fol](#fol)+[mamales](#mamales))  
 
-  - **lyotkwekiki** _v._ (lyotkweki+ki)  
-  
 
-  - **lyotkwekikilyotkwekinu** _v._ (lyotkwekiki+lyotkwekinu)  
-  
+- <a name="lyontosmamales">**lyontosmamales**</a> _n._ ([lyon](#lyon)+[tos](#tos)+[mamales](#mamales))  
 
-  - **lyotpensi** _v._ (lyot+pensi)  
-  
 
-  - **lyotpensilon** _n._ (lyotpensi+lon)  
-  
+- <a name="lyot">**lyot**</a> _n._ ([l](#l)+[yot](yot))  
 
-  - **lwel** _n._ (l+wel)  
-  
 
-  - **lwelkweki** _v._ (l+wel+kweki)  
-  
+- <a name="lyotkweki">**lyotkweki**</a> _v._ ([l](#l)+[yot](#yot)+[kweki](#kweki))  
 
-  - **lwelkwekilon** _n._ (lwelkweki+lon)  
-  
 
-  - **lwelkwekilum** _n._ (lwelkweki+lum)  
-  
+- <a name="lyotkwekilon">**lyotkwekilon**</a> _n._ ([lyotkweki](#lyotkweki)+[lon](#lon))  
 
-- **lwa** _v._ (Xho. &langle;-lwa&rangle; [lwa])  
 
+- <a name="lyotkwekinu">**lyotkwekinu**</a> _v._ ([lyotkweki](#lyotkweki)+[nu](#nu))  
 
-  - **lwalon** _n._ (lwa+lon)  
-  
 
-  - **lwaluat** _n._ (lwa+luat)  
-  
+- <a name="lyotkwekinulon">**lyotkwekinulon**</a> _n._ ([lyotkwekinu](#lyotkwekinu)+[lon](#lon))  
 
-  - **lwalum** _n._ (lwa+lum)  
-  
 
-  - **lwalwel** _n._ (lwa+lwel)  
-  
+- <a name="lyotkwekinyo">**lyotkwekinyo**</a> _v._ ([lyotkweki](#lyotkweki)+[nyo](#nyo))  
 
-  - **lwanu** _v._ (lwa+nu)  
-  
 
-  - **lwanules** _n._ (lwanu+les)  
-  
+- <a name="lyotkwekinyolon">**lyotkwekinyolon**</a> _n._ ([lyotkwekinyo](#lyotkwekinyo)+[lon](#lon))  
 
-  - **lwaki** _v._ (lwa+ki)  
-  
 
-  - **lwakiles** _n._ (lwaki+les)  
-  
+- <a name="lyotkwekiki">**lyotkwekiki**</a> _v._ ([lyotkweki](#lyotkweki)+[ki](#ki))  
 
-## w
 
-- **'we** _n._ (ono. [w])  
+- <a name="lyotkwekikilyotkwekinu">**lyotkwekikilyotkwekinu**</a> _v._ ([lyotkwekiki](#lyotkwekiki)+[lyotkwekinu](#lyotkwekinu))  
 
 
-- **wel** _post._ (Mar. &langle;वेळ&rangle; [ˈʋeɭə])  
+- <a name="lyotpensi">**lyotpensi**</a> _v._ ([lyot](#lyot)+[pensi](#pensi))  
 
 
-- **wecai** _v._ (~~yohau~~)  
+- <a name="lyotpensilon">**lyotpensilon**</a> _n._ ([lyotpensi](#lyotpensi)+[lon](#lon))  
 
 
-  - **wecailon** _n._ (wecai+lon)  
-  
+- <a name="lwel">**lwel**</a> _n._ ([l](#l)+[wel](wel))  
 
-  - **wecailum** _n._ (wecai+lum)  
-  
 
-  - **wecaiki** _v._ (wecai+ki)  
-  
+- <a name="lwelkweki">**lwelkweki**</a> _v._ ([l](#l)+[wel](#wel)+[kweki](#kweki))  
 
-  - **wecaikiles** _n._ (wecaiki+les)  
-  
 
-- **wep** _n._ (Ibo. &langle;wep&rangle; [wep])  
+- <a name="lwelkwekilon">**lwelkwekilon**</a> _n._ ([lwelkweki](#lwelkweki)+[lon](#lon))  
 
 
-- **wa** _ptcl._ (Cmn. &langle;哇&rangle; [wa])  
+- <a name="lwelkwekilum">**lwelkwekilum**</a> _n._ ([lwelkweki](#lwelkweki)+[lum](#lum))  
 
 
-- **wale** _v._ (~~yato~~)  
+- <a name="lwa">**lwa**</a> _v._ (Xho. &langle;-lwa&rangle; [lwa])  
 
 
-  - **walelon** _n._ (wale+lon)  
-  
+- <a name="lwalon">**lwalon**</a> _n._ ([lwa](#lwa)+[lon](#lon))  
 
-  - **waleswa** _v._ (wale+swa)  
-  
 
-  - **waleki** _v._ (wale+ki)  
-  
+- <a name="lwaluat">**lwaluat**</a> _n._ ([lwa](#lwa)+[luat](#luat))  
 
-  - **walepensi** _v._ (wale+pensi)  
-  
 
-  - **walepemamalon** _n._ (wale+pemamalon)  
-  
+- <a name="lwalum">**lwalum**</a> _n._ ([lwa](#lwa)+[lum](#lum))  
 
-- **waluh** _n._ (Jav. &langle;waluh&rangle; [wɑɭʊh])  
 
+- <a name="lwalwel">**lwalwel**</a> _n._ ([lwa](#lwa)+[lwel](#lwel))  
 
-- **wawi** _v._ (Eng. &langle;worry&rangle; [ˈwɚɹʷi])  
 
+- <a name="lwanu">**lwanu**</a> _v._ ([lwa](#lwa)+[nu](#nu))  
 
-  - **wawilon** _n._ (wawi+lon)  
-  
 
-  - **wawilum** _n._ (wawi+lum)  
-  
+- <a name="lwanules">**lwanules**</a> _n._ ([lwanu](#lwanu)+[les](#les))  
 
-  - **wawiki** _v._ (wawi+ki)  
-  
 
-  - **wawikiles** _n._ (wawiki+les)  
-  
+- <a name="lwaki">**lwaki**</a> _v._ ([lwa](#lwa)+[ki](#ki))  
 
-- **wan** _pn._ (Eng. &langle;one&rangle; [wən])  
 
+- <a name="lwakiles">**lwakiles**</a> _n._ ([lwaki](#lwaki)+[les](#les))  
 
-- **'wan** _n._ (Eng. &langle;rand&rangle; [ɹʷɑnd])  
 
+### w
 
-  - **wan ayf** _n._ (wan +ayf)  
-  
+- <a name="'we">**'we**</a> _n._ (ono. [w])  
 
-- **'wanatium** _n._ (Lat. &langle;vanadium&rangle; [vanadɪʊ̃])  
 
+- <a name="wel">**wel**</a> _post._ (Mar. &langle;वेळ&rangle; [ˈʋeɭə])  
 
-  - **wan ial** _n._ (wan +ial)  
-  
 
-  - **wan ip** _n._ (wan +ip)  
-  
+- <a name="wecai">**wecai**</a> _v._ ([~~yohau~~](#yohau))  
 
-  - **wan uat** _n._ (wan +uat)  
-  
 
-  - **wan yot** _n._ (wan +yot)  
-  
+- <a name="wecailon">**wecailon**</a> _n._ ([wecai](#wecai)+[lon](#lon))  
 
-  - **wan wel** _n._ (wan +wel)  
-  
 
-  - **wahau** _v._ (wa+hau)  
-  
+- <a name="wecailum">**wecailum**</a> _n._ ([wecai](#wecai)+[lum](#lum))  
 
-  - **wahauti** _v._ (wahau+ti)  
-  
 
-  - **wahautiles** _n._ (wahauti+les)  
-  
+- <a name="wecaiki">**wecaiki**</a> _v._ ([wecai](#wecai)+[ki](#ki))  
 
-  - **wahautilon** _n._ (wahauti+lon)  
-  
 
-  - **wacai** _v._ (wa+cai)  
-  
+- <a name="wecaikiles">**wecaikiles**</a> _n._ ([wecaiki](#wecaiki)+[les](#les))  
 
-  - **wacaiti** _v._ (wacai+ti)  
-  
 
-  - **wacaitiles** _n._ (wacaiti+les)  
-  
+- <a name="wep">**wep**</a> _n._ (Ibo. &langle;wep&rangle; [wep])  
 
-  - **wacaitilon** _n._ (wacaiti+lon)  
-  
 
-  - **wacaitilum** _n._ (wacaiti+lum)  
-  
+- <a name="wa">**wa**</a> _ptcl._ (Cmn. &langle;哇&rangle; [wa])  
 
-  - **'wacintontisi** _n._ (Eng. &langle;Washington D.C.>)  
-  
 
-- **'wake** _n._ (Ara. &langle;واقع‎&rangle; [wɑːqeʔ])  
+- <a name="wale">**wale**</a> _v._ ([~~yato~~](#yato))  
 
 
-- **wata** _v._ (~~yala~~)  
+- <a name="walelon">**walelon**</a> _n._ ([wale](#wale)+[lon](#lon))  
 
 
-- **'wataiko** _n._ (Jpn. &langle;和太鼓&rangle; [ɰadaikɔː])  
+- <a name="waleswa">**waleswa**</a> _v._ ([wale](#wale)+[swa](#swa))  
 
 
-  - **watalon** _n._ (wata+lon)  
-  
+- <a name="waleki">**waleki**</a> _v._ ([wale](#wale)+[ki](#ki))  
 
-  - **watalyan** _n._ (wata+lyan)  
-  
 
-  - **watamamul** _n._ (wata+mamul)  
-  
+- <a name="walepensi">**walepensi**</a> _v._ ([wale](#wale)+[pensi](#pensi))  
 
-  - **watafepucocalu** _v._ (wata+fepucocalu)  
-  
 
-  - **wati** _v._ (wa+ti)  
-  
+- <a name="walepemamalon">**walepemamalon**</a> _n._ ([wale](#wale)+[pemamalon](#pemamalon))  
 
-- **'watian** _n._ (Eng. &langle;radian&rangle; [ˈɹʷeɪdiɪn])  
 
+- <a name="waluh">**waluh**</a> _n._ (Jav. &langle;waluh&rangle; [wɑɭʊh])  
 
-  - **watiles** _n._ (wati+les)  
-  
 
-  - **watilon** _n._ (wati+lon)  
-  
+- <a name="wawi">**wawi**</a> _v._ (Eng. &langle;worry&rangle; [ˈwɚɹʷi])  
 
-- **'watikana** _n._ (Lat. &langle;Vāticāna&rangle; [vatiˈkaːna])  
 
+- <a name="wawilon">**wawilon**</a> _n._ ([wawi](#wawi)+[lon](#lon))  
 
-  - **'watikanaak** _n._ ('watikana+ak)  
-  
 
-  - **'watikanatec** _n._ ('watikana+tec)  
-  
+- <a name="wawilum">**wawilum**</a> _n._ ([wawi](#wawi)+[lum](#lum))  
 
-- **'wolfamium** _n._ (Lat. &langle;wolframium&rangle; [wɔlframɪʊ̃])  
 
+- <a name="wawiki">**wawiki**</a> _v._ ([wawi](#wawi)+[ki](#ki))  
 
-- **won** _n._ (Jav. &langle;wong&rangle; [wɔŋ])  
 
+- <a name="wawikiles">**wawikiles**</a> _n._ ([wawiki](#wawiki)+[les](#les))  
 
-  - **wonestaki** _v._ (won+estaki)  
-  
 
-  - **wonestakiles** _n._ (wonestaki+les)  
-  
+- <a name="wan">**wan**</a> _pn._ (Eng. &langle;one&rangle; [wən])  
 
-  - **wonestakilon** _n._ (wonestaki+lon)  
-  
 
-  - **wonestakilum** _n._ (wonestaki+lum)  
-  
+- <a name="'wan">**'wan**</a> _n._ (Eng. &langle;rand&rangle; [ɹʷɑnd])  
 
-  - **wonestakilwel** _n._ (wonestaki+lwel)  
-  
 
-  - **wonestakisunkwelwel** _n._ (wonestaki+sunkwelwel)  
-  
+- <a name="wan ayf">**wan ayf**</a> _n._ ([wan ](#wan )+[ayf](ayf))  
 
-  - **wonak** _n._ (won+ak)  
-  
 
-  - **wonmocaki** _v._ (won+mocaki)  
-  
+- <a name="'wanatium">**'wanatium**</a> _n._ (Lat. &langle;vanadium&rangle; [vanadɪʊ̃])  
 
-  - **wonmocakiles** _n._ (wonmocaki+les)  
-  
 
-  - **wonmocakilum** _n._ (wonmocaki+lum)  
-  
+- <a name="wan ial">**wan ial**</a> _n._ ([wan ](#wan )+[ial](ial))  
 
-  - **wonmocakilyot** _n._ (wonmocaki+lyot)  
-  
 
-  - **wonmyawf** _n._ (won+myawf)  
-  
+- <a name="wan ip">**wan ip**</a> _n._ ([wan ](#wan )+[ip](ip))  
 
-  - **wonhihin** _n._ (won+hihin)  
-  
 
-  - **wonhulilon** _n._ (won+hulilon)  
-  
+- <a name="wan uat">**wan uat**</a> _n._ ([wan ](#wan )+[uat](uat))  
 
-  - **wonsulak** _n._ (won+sulak)  
-  
 
-  - **wonsun** _n._ (won+sun)  
-  
+- <a name="wan yot">**wan yot**</a> _n._ ([wan ](#wan )+[yot](yot))  
 
-  - **wonfik** _n._ (won+fik)  
-  
 
-  - **won'kalasias** _n._ (won+'kalasias)  
-  
+- <a name="wan wel">**wan wel**</a> _n._ ([wan ](#wan )+[wel](wel))  
 
-  - **won'kalasiasak** _n._ (won'kalasias+ak)  
-  
 
-  - **wonki** _n._ (won+ki)  
-  
+- <a name="wahau">**wahau**</a> _v._ ([wa](#wa)+[hau](#hau))  
 
-  - **wonkio** _v._ (won+kio)  
-  
 
-  - **wonkiolon** _n._ (wonkio+lon)  
-  
+- <a name="wahauti">**wahauti**</a> _v._ ([wahau](#wahau)+[ti](#ti))  
 
-  - **wonpawaf** _n._ (won+pawaf)  
-  
 
-  - **wonpatolon** _n._ (won+patolon)  
-  
+- <a name="wahautiles">**wahautiles**</a> _n._ ([wahauti](#wahauti)+[les](#les))  
 
-  - **wonpum** _n._ (won+pum)  
-  
 
-  - **wonpumak** _n._ (wonpum+ak)  
-  
+- <a name="wahautilon">**wahautilon**</a> _n._ ([wahauti](#wahauti)+[lon](#lon))  
 
-- **wompa** _v._ (ono. [wumba])  
 
+- <a name="wacai">**wacai**</a> _v._ ([wa](#wa)+[cai](#cai))  
 
-  - **wompalon** _n._ (wompa+lon)  
-  
+
+- <a name="wacaiti">**wacaiti**</a> _v._ ([wacai](#wacai)+[ti](#ti))  
+
 
-- **'wotka** _n._ (Rus. &langle;водка&rangle; [ˈvotkə])  
+- <a name="wacaitiles">**wacaitiles**</a> _n._ ([wacaiti](#wacaiti)+[les](#les))  
 
 
-- **'wino** _n._ (Kat. &langle;ღვინო&rangle; [ɣvinɔ])  
+- <a name="wacaitilon">**wacaitilon**</a> _n._ ([wacaiti](#wacaiti)+[lon](#lon))  
 
 
-- **wicon** _n._ (Eng. &langle;region&rangle; [ˈɹʷiːd͡ʒən])  
+- <a name="wacaitilum">**wacaitilum**</a> _n._ ([wacaiti](#wacaiti)+[lum](#lum))  
 
 
-  - **wiconak** _n._ (wicon+ak)  
+  - <a name="'wacintontisi">**'wacintontisi**</a> _n._ (Eng. &langle;Washington D.C.>)  
   
 
-- **'wicnu** _n._ (San. &langle;विष्णु&rangle; [ʋɪʂɳʊ])  
+- <a name="'wake">**'wake**</a> _n._ (Ara. &langle;واقع‎&rangle; [wɑːqeʔ])  
 
 
-  - **'wicnufitilip** _n._ ('wicnu+fitilip)  
-  
+- <a name="wata">**wata**</a> _v._ ([~~yala~~](#yala))  
 
-  - **'wicnufitilipak** _n._ ('wicnufitilip+ak)  
-  
 
-  - **'wicnufitilipwon** _n._ ('wicnufitilip+won)  
-  
+- <a name="'wataiko">**'wataiko**</a> _n._ (Jpn. &langle;和太鼓&rangle; [ɰadaikɔː])  
 
-- **wit** _n._ (Eng. &langle;wheat&rangle; [wiːt])  
 
+- <a name="watalon">**watalon**</a> _n._ ([wata](#wata)+[lon](#lon))  
 
-  - **witsekal** _n._ (wit+sekal)  
-  
 
-- **'wipaplikan** _n._ (Eng. &langle;republican&rangle; [ɹʷɪˈpʰɜblɪkɪn])  
+- <a name="watalyan">**watalyan**</a> _n._ ([wata](#wata)+[lyan](#lyan))  
 
 
-- **'wulpes** _n._ (Lat. &langle;vulpes&rangle; [ˈwʊɫpɛs])  
+- <a name="watamamul">**watamamul**</a> _n._ ([wata](#wata)+[mamul](#mamul))  
 
 
-## n
+- <a name="watafepucocalu">**watafepucocalu**</a> _v._ ([wata](#wata)+[fepucocalu](#fepucocalu))  
 
-- **ne** _v._ (Cmn. &langle;内&rangle; [neɪ̯˥˩])  
 
+- <a name="wati">**wati**</a> _v._ ([wa](#wa)+[ti](#ti))  
 
-  - **ne'aflika** _n._ (ne+'aflika)  
-  
 
-  - **ne'aflikatec** _n._ (ne'aflika+tec)  
-  
+- <a name="'watian">**'watian**</a> _n._ (Eng. &langle;radian&rangle; [ˈɹʷeɪdiɪn])  
 
-  - **ne'aflikatecwon** _n._ (ne'aflikatec+won)  
-  
 
-- **'neon** _n._ (Lat. &langle;neon&rangle; [neɔ̃])  
+- <a name="watiles">**watiles**</a> _n._ ([wati](#wati)+[les](#les))  
 
 
-  - **'neopatwa** _n._ (Npt. &langle;Neo Patwa>)  
-  
+- <a name="watilon">**watilon**</a> _n._ ([wati](#wati)+[lon](#lon))  
 
-  - **'neopatwaak** _n._ ('neopatwa+ak)  
-  
 
-  - **'neopatwawon** _n._ ('neopatwa+won)  
-  
+- <a name="'watikana">**'watikana**</a> _n._ (Lat. &langle;Vāticāna&rangle; [vatiˈkaːna])  
 
-  - **nelon** _n._ (ne+lon)  
-  
 
-  - **nelum** _n._ (ne+lum)  
-  
+- <a name="'watikanaak">**'watikanaak**</a> _n._ (['watikana](#'watikana)+[ak](#ak))  
 
-  - **nelyan** _n._ (ne+lyan)  
-  
 
-  - **nemuctayl** _n._ (ne+muctayl)  
-  
+- <a name="'watikanatec">**'watikanatec**</a> _n._ (['watikana](#'watikana)+[tec](#tec))  
 
-  - **nehu** _v._ (ne+hu)  
-  
 
-  - **nehulon** _n._ (nehu+lon)  
-  
+- <a name="'wolfamium">**'wolfamium**</a> _n._ (Lat. &langle;wolframium&rangle; [wɔlframɪʊ̃])  
 
-  - **nefilalum** _n._ (ne+filalum)  
-  
 
-  - **nefilalum'kine** _n._ (nefilalum+'kine)  
-  
+- <a name="won">**won**</a> _n._ (Jav. &langle;wong&rangle; [wɔŋ])  
 
-  - **nefilalum'kinewon** _n._ (nefilalum'kine+won)  
-  
 
-  - **nefilalum'kineak** _n._ (nefilalum'kine+ak)  
-  
+- <a name="wonestaki">**wonestaki**</a> _v._ ([won](#won)+[estaki](#estaki))  
 
-- **neflu** _v._ (~~kosti~~)  
 
+- <a name="wonestakiles">**wonestakiles**</a> _n._ ([wonestaki](#wonestaki)+[les](#les))  
 
-  - **neflulon** _n._ (neflu+lon)  
-  
 
-  - **nefluki** _v._ (neflu+ki)  
-  
+- <a name="wonestakilon">**wonestakilon**</a> _n._ ([wonestaki](#wonestaki)+[lon](#lon))  
 
-  - **neki** _v._ (ne+ki)  
-  
 
-  - **nekikoki** _v._ (neki+koki)  
-  
+- <a name="wonestakilum">**wonestakilum**</a> _n._ ([wonestaki](#wonestaki)+[lum](#lum))  
 
-  - **nekikokilum** _n._ (nekikoki+lum)  
-  
 
-  - **nekwelon** _n._ (ne+kwelon)  
-  
+- <a name="wonestakilwel">**wonestakilwel**</a> _n._ ([wonestaki](#wonestaki)+[lwel](#lwel))  
 
-  - **nekwelonak** _n._ (nekwelon+ak)  
-  
 
-- **neta** _v._ (Epo. &langle;neta&rangle; [ˈneta])  
+- <a name="wonestakisunkwelwel">**wonestakisunkwelwel**</a> _n._ ([wonestaki](#wonestaki)+[sunkwelwel](#sunkwelwel))  
 
 
-- **'netalan** _n._ (Nld. &langle;Nederland&rangle; [neːdərlɑnt])  
+- <a name="wonak">**wonak**</a> _n._ ([won](#won)+[ak](#ak))  
 
 
-  - **'netalanak** _n._ ('netalan+ak)  
-  
+- <a name="wonmocaki">**wonmocaki**</a> _v._ ([won](#won)+[mocaki](#mocaki))  
 
-  - **'netalanwon** _n._ ('netalan+won)  
-  
 
-  - **'netalankwelyot** _n._ ('netalan+kwelyot)  
-  
+- <a name="wonmocakiles">**wonmocakiles**</a> _n._ ([wonmocaki](#wonmocaki)+[les](#les))  
 
-  - **'netalantilip** _n._ ('netalan+tilip)  
-  
 
-  - **netalon** _n._ (neta+lon)  
-  
+- <a name="wonmocakilum">**wonmocakilum**</a> _n._ ([wonmocaki](#wonmocaki)+[lum](#lum))  
 
-  - **netalyan** _n._ (neta+lyan)  
-  
 
-  - **netacoto** _v._ (neta+coto)  
-  
+- <a name="wonmocakilyot">**wonmocakilyot**</a> _n._ ([wonmocaki](#wonmocaki)+[lyot](#lyot))  
 
-  - **netacotolon** _n._ (netacoto+lon)  
-  
 
-  - **netacotonu** _v._ (netacoto+nu)  
-  
+- <a name="wonmyawf">**wonmyawf**</a> _n._ ([won](#won)+[myawf](#myawf))  
 
-  - **netacotoki** _v._ (netacoto+ki)  
-  
 
-  - **netacotokiles** _n._ (netacotoki+les)  
-  
+- <a name="wonhihin">**wonhihin**</a> _n._ ([won](#won)+[hihin](#hihin))  
 
-  - **netaki** _v._ (neta+ki)  
-  
 
-  - **netakiles** _n._ (netaki+les)  
-  
+- <a name="wonhulilon">**wonhulilon**</a> _n._ ([won](#won)+[hulilon](#hulilon))  
 
-  - **netakiluat** _n._ (netaki+luat)  
-  
 
-- **'nepal** _n._ (Nep. &langle;नेपाल&rangle; [neˈpal])  
+- <a name="wonsulak">**wonsulak**</a> _n._ ([won](#won)+[sulak](#sulak))  
 
 
-  - **'nepalak** _n._ ('nepal+ak)  
-  
+- <a name="wonsun">**wonsun**</a> _n._ ([won](#won)+[sun](#sun))  
 
-  - **'nepalwon** _n._ ('nepal+won)  
-  
 
-  - **'nepaltilip** _n._ ('nepal+tilip)  
-  
+- <a name="wonfik">**wonfik**</a> _n._ ([won](#won)+[fik](#fik))  
 
-  - **nepuci** _v._ (ne+puci)  
-  
 
-- **na** _ptcl._ (Hin. &langle;ना&rangle; [nɑː])  
+- <a name="won'kalasias">**won'kalasias**</a> _n._ ([won](#won)+['kalasias](#'kalasias))  
 
 
-- **'na** _n._ (ono. [n])  
+- <a name="won'kalasiasak">**won'kalasiasak**</a> _n._ ([won'kalasias](#won'kalasias)+[ak](#ak))  
 
 
-- **'naoelo** _n._ (Nau. &langle;Naoero&rangle; [naoero])  
+- <a name="wonki">**wonki**</a> _n._ ([won](#won)+[ki](#ki))  
 
 
-  - **'naoeloak** _n._ ('naoelo+ak)  
-  
+- <a name="wonkio">**wonkio**</a> _v._ ([won](#won)+[kio](#kio))  
 
-  - **'naoelowon** _n._ ('naoelo+won)  
-  
 
-  - **'naoelotec** _n._ ('naoelo+tec)  
-  
+- <a name="wonkiolon">**wonkiolon**</a> _n._ ([wonkio](#wonkio)+[lon](#lon))  
 
-  - **'naoelotilip** _n._ ('naoelo+tilip)  
-  
 
-- **'nayciwia** _n._ (Eng. &langle;Nigeria&rangle; [naɪ̯ˈd͡ʒɪɹʷiə])  
+- <a name="wonpawaf">**wonpawaf**</a> _n._ ([won](#won)+[pawaf](#pawaf))  
 
 
-  - **'nayciwiaak** _n._ ('nayciwia+ak)  
-  
+- <a name="wonpatolon">**wonpatolon**</a> _n._ ([won](#won)+[patolon](#patolon))  
 
-  - **'nayciwiawon** _n._ ('nayciwia+won)  
-  
 
-- **nalkas** _n._ (Spa. &langle;nalgas&rangle; [ˈnalɣas])  
+- <a name="wonpum">**wonpum**</a> _n._ ([won](#won)+[pum](#pum))  
 
 
-  - **nalkasak** _n._ (nalkas+ak)  
-  
+- <a name="wonpumak">**wonpumak**</a> _n._ ([wonpum](#wonpum)+[ak](#ak))  
 
-  - **nalkaskutilon** _n._ (nalkas+kutilon)  
-  
 
-  - **nalkaskutilonec** _n._ (nalkaskutilon+ec)  
-  
+- <a name="wompa">**wompa**</a> _v._ (ono. [wumba])  
 
-  - **nalkaskutilonkoki** _v._ (nalkaskutilon+koki)  
-  
 
-  - **nalkaskutilonkokilyot** _n._ (nalkaskutilon+kokilyot)  
-  
+- <a name="wompalon">**wompalon**</a> _n._ ([wompa](#wompa)+[lon](#lon))  
 
-- **'nawatla** _n._ (Nah. &langle;Nahuatl&rangle; [ˈnaːwat͡ɬ])  
 
+- <a name="'wotka">**'wotka**</a> _n._ (Rus. &langle;водка&rangle; [ˈvotkə])  
 
-  - **'nawatlaak** _n._ ('nawatla+ak)  
-  
 
-  - **'nawatlawon** _n._ ('nawatla+won)  
-  
+- <a name="'wino">**'wino**</a> _n._ (Kat. &langle;ღვინო&rangle; [ɣvinɔ])  
 
-  - **'nawatlatec** _n._ ('nawatla+tec)  
-  
 
-- **nawtil** _n._ (Epo. &langle;naŭtilo&rangle; [nawˈtilo])  
+- <a name="wicon">**wicon**</a> _n._ (Eng. &langle;region&rangle; [ˈɹʷiːd͡ʒən])  
 
 
-- **namo** _v._ (~~kape~~)  
+- <a name="wiconak">**wiconak**</a> _n._ ([wicon](#wicon)+[ak](#ak))  
 
 
-  - **namooyemocakilum** _n._ (namo+oyemocakilum)  
-  
+- <a name="'wicnu">**'wicnu**</a> _n._ (San. &langle;विष्णु&rangle; [ʋɪʂɳʊ])  
 
-  - **namoki** _v._ (namo+ki)  
-  
 
-- **'namipia** _n._ (Naq. &langle;namib&rangle; [naˈmip])  
+- <a name="'wicnufitilip">**'wicnufitilip**</a> _n._ (['wicnu](#'wicnu)+[fitilip](#fitilip))  
 
 
-  - **'namipiaak** _n._ ('namipia+ak)  
-  
+- <a name="'wicnufitilipak">**'wicnufitilipak**</a> _n._ (['wicnufitilip](#'wicnufitilip)+[ak](#ak))  
 
-  - **'namipiawon** _n._ ('namipia+won)  
-  
+
+- <a name="'wicnufitilipwon">**'wicnufitilipwon**</a> _n._ (['wicnufitilip](#'wicnufitilip)+[won](#won))  
+
+
+- <a name="wit">**wit**</a> _n._ (Eng. &langle;wheat&rangle; [wiːt])  
+
+
+- <a name="witsekal">**witsekal**</a> _n._ ([wit](#wit)+[sekal](#sekal))  
+
+
+- <a name="'wipaplikan">**'wipaplikan**</a> _n._ (Eng. &langle;republican&rangle; [ɹʷɪˈpʰɜblɪkɪn])  
+
+
+- <a name="'wulpes">**'wulpes**</a> _n._ (Lat. &langle;vulpes&rangle; [ˈwʊɫpɛs])  
+
+
+### n
+
+- <a name="ne">**ne**</a> _v._ (Cmn. &langle;内&rangle; [neɪ̯˥˩])  
+
+
+- <a name="ne'aflika">**ne'aflika**</a> _n._ ([ne](#ne)+['aflika](#'aflika))  
+
+
+- <a name="ne'aflikatec">**ne'aflikatec**</a> _n._ ([ne'aflika](#ne'aflika)+[tec](#tec))  
+
+
+- <a name="ne'aflikatecwon">**ne'aflikatecwon**</a> _n._ ([ne'aflikatec](#ne'aflikatec)+[won](#won))  
 
-  - **'namipiatec** _n._ ('namipia+tec)  
+
+- <a name="'neon">**'neon**</a> _n._ (Lat. &langle;neon&rangle; [neɔ̃])  
+
+
+  - <a name="'neopatwa">**'neopatwa**</a> _n._ (Npt. &langle;Neo Patwa>)  
   
+
+- <a name="'neopatwaak">**'neopatwaak**</a> _n._ (['neopatwa](#'neopatwa)+[ak](#ak))  
+
+
+- <a name="'neopatwawon">**'neopatwawon**</a> _n._ (['neopatwa](#'neopatwa)+[won](#won))  
+
+
+- <a name="nelon">**nelon**</a> _n._ ([ne](#ne)+[lon](#lon))  
+
+
+- <a name="nelum">**nelum**</a> _n._ ([ne](#ne)+[lum](#lum))  
+
+
+- <a name="nelyan">**nelyan**</a> _n._ ([ne](#ne)+[lyan](#lyan))  
+
+
+- <a name="nemuctayl">**nemuctayl**</a> _n._ ([ne](#ne)+[muctayl](#muctayl))  
+
+
+- <a name="nehu">**nehu**</a> _v._ ([ne](#ne)+[hu](#hu))  
+
+
+- <a name="nehulon">**nehulon**</a> _n._ ([nehu](#nehu)+[lon](#lon))  
+
+
+- <a name="nefilalum">**nefilalum**</a> _n._ ([ne](#ne)+[filalum](#filalum))  
+
+
+- <a name="nefilalum'kine">**nefilalum'kine**</a> _n._ ([nefilalum](#nefilalum)+['kine](#'kine))  
+
+
+- <a name="nefilalum'kinewon">**nefilalum'kinewon**</a> _n._ ([nefilalum'kine](#nefilalum'kine)+[won](#won))  
+
+
+- <a name="nefilalum'kineak">**nefilalum'kineak**</a> _n._ ([nefilalum'kine](#nefilalum'kine)+[ak](#ak))  
+
+
+- <a name="neflu">**neflu**</a> _v._ ([~~kosti~~](#kosti))  
+
+
+- <a name="neflulon">**neflulon**</a> _n._ ([neflu](#neflu)+[lon](#lon))  
+
+
+- <a name="nefluki">**nefluki**</a> _v._ ([neflu](#neflu)+[ki](#ki))  
+
+
+- <a name="neki">**neki**</a> _v._ ([ne](#ne)+[ki](#ki))  
+
+
+- <a name="nekikoki">**nekikoki**</a> _v._ ([neki](#neki)+[koki](#koki))  
+
+
+- <a name="nekikokilum">**nekikokilum**</a> _n._ ([nekikoki](#nekikoki)+[lum](#lum))  
+
+
+- <a name="nekwelon">**nekwelon**</a> _n._ ([ne](#ne)+[kwelon](#kwelon))  
+
+
+- <a name="nekwelonak">**nekwelonak**</a> _n._ ([nekwelon](#nekwelon)+[ak](#ak))  
+
+
+- <a name="neta">**neta**</a> _v._ (Epo. &langle;neta&rangle; [ˈneta])  
+
+
+- <a name="'netalan">**'netalan**</a> _n._ (Nld. &langle;Nederland&rangle; [neːdərlɑnt])  
+
+
+- <a name="'netalanak">**'netalanak**</a> _n._ (['netalan](#'netalan)+[ak](#ak))  
+
+
+- <a name="'netalanwon">**'netalanwon**</a> _n._ (['netalan](#'netalan)+[won](#won))  
+
+
+- <a name="'netalankwelyot">**'netalankwelyot**</a> _n._ (['netalan](#'netalan)+[kwelyot](#kwelyot))  
+
+
+- <a name="'netalantilip">**'netalantilip**</a> _n._ (['netalan](#'netalan)+[tilip](#tilip))  
+
+
+- <a name="netalon">**netalon**</a> _n._ ([neta](#neta)+[lon](#lon))  
+
+
+- <a name="netalyan">**netalyan**</a> _n._ ([neta](#neta)+[lyan](#lyan))  
+
+
+- <a name="netacoto">**netacoto**</a> _v._ ([neta](#neta)+[coto](#coto))  
+
+
+- <a name="netacotolon">**netacotolon**</a> _n._ ([netacoto](#netacoto)+[lon](#lon))  
+
+
+- <a name="netacotonu">**netacotonu**</a> _v._ ([netacoto](#netacoto)+[nu](#nu))  
+
+
+- <a name="netacotoki">**netacotoki**</a> _v._ ([netacoto](#netacoto)+[ki](#ki))  
+
+
+- <a name="netacotokiles">**netacotokiles**</a> _n._ ([netacotoki](#netacotoki)+[les](#les))  
+
+
+- <a name="netaki">**netaki**</a> _v._ ([neta](#neta)+[ki](#ki))  
+
+
+- <a name="netakiles">**netakiles**</a> _n._ ([netaki](#netaki)+[les](#les))  
+
+
+- <a name="netakiluat">**netakiluat**</a> _n._ ([netaki](#netaki)+[luat](#luat))  
+
+
+- <a name="'nepal">**'nepal**</a> _n._ (Nep. &langle;नेपाल&rangle; [neˈpal])  
+
+
+- <a name="'nepalak">**'nepalak**</a> _n._ (['nepal](#'nepal)+[ak](#ak))  
+
+
+- <a name="'nepalwon">**'nepalwon**</a> _n._ (['nepal](#'nepal)+[won](#won))  
+
+
+- <a name="'nepaltilip">**'nepaltilip**</a> _n._ (['nepal](#'nepal)+[tilip](#tilip))  
+
+
+- <a name="nepuci">**nepuci**</a> _v._ ([ne](#ne)+[puci](#puci))  
+
+
+- <a name="na">**na**</a> _ptcl._ (Hin. &langle;ना&rangle; [nɑː])  
+
+
+- <a name="'na">**'na**</a> _n._ (ono. [n])  
+
+
+- <a name="'naoelo">**'naoelo**</a> _n._ (Nau. &langle;Naoero&rangle; [naoero])  
+
+
+- <a name="'naoeloak">**'naoeloak**</a> _n._ (['naoelo](#'naoelo)+[ak](#ak))  
+
+
+- <a name="'naoelowon">**'naoelowon**</a> _n._ (['naoelo](#'naoelo)+[won](#won))  
+
+
+- <a name="'naoelotec">**'naoelotec**</a> _n._ (['naoelo](#'naoelo)+[tec](#tec))  
+
+
+- <a name="'naoelotilip">**'naoelotilip**</a> _n._ (['naoelo](#'naoelo)+[tilip](#tilip))  
+
+
+- <a name="'nayciwia">**'nayciwia**</a> _n._ (Eng. &langle;Nigeria&rangle; [naɪ̯ˈd͡ʒɪɹʷiə])  
+
+
+- <a name="'nayciwiaak">**'nayciwiaak**</a> _n._ (['nayciwia](#'nayciwia)+[ak](#ak))  
+
+
+- <a name="'nayciwiawon">**'nayciwiawon**</a> _n._ (['nayciwia](#'nayciwia)+[won](#won))  
+
+
+- <a name="nalkas">**nalkas**</a> _n._ (Spa. &langle;nalgas&rangle; [ˈnalɣas])  
+
+
+- <a name="nalkasak">**nalkasak**</a> _n._ ([nalkas](#nalkas)+[ak](#ak))  
+
+
+- <a name="nalkaskutilon">**nalkaskutilon**</a> _n._ ([nalkas](#nalkas)+[kutilon](#kutilon))  
+
+
+- <a name="nalkaskutilonec">**nalkaskutilonec**</a> _n._ ([nalkaskutilon](#nalkaskutilon)+[ec](#ec))  
+
+
+- <a name="nalkaskutilonkoki">**nalkaskutilonkoki**</a> _v._ ([nalkaskutilon](#nalkaskutilon)+[koki](#koki))  
+
+
+- <a name="nalkaskutilonkokilyot">**nalkaskutilonkokilyot**</a> _n._ ([nalkaskutilon](#nalkaskutilon)+[kokilyot](#kokilyot))  
+
+
+- <a name="'nawatla">**'nawatla**</a> _n._ (Nah. &langle;Nahuatl&rangle; [ˈnaːwat͡ɬ])  
+
+
+- <a name="'nawatlaak">**'nawatlaak**</a> _n._ (['nawatla](#'nawatla)+[ak](#ak))  
+
+
+- <a name="'nawatlawon">**'nawatlawon**</a> _n._ (['nawatla](#'nawatla)+[won](#won))  
+
+
+- <a name="'nawatlatec">**'nawatlatec**</a> _n._ (['nawatla](#'nawatla)+[tec](#tec))  
+
+
+- <a name="nawtil">**nawtil**</a> _n._ (Epo. &langle;naŭtilo&rangle; [nawˈtilo])  
+
+
+- <a name="namo">**namo**</a> _v._ ([~~kape~~](#kape))  
+
+
+- <a name="namooyemocakilum">**namooyemocakilum**</a> _n._ ([namo](#namo)+[oyemocakilum](#oyemocakilum))  
+
+
+- <a name="namoki">**namoki**</a> _v._ ([namo](#namo)+[ki](#ki))  
+
+
+- <a name="'namipia">**'namipia**</a> _n._ (Naq. &langle;namib&rangle; [naˈmip])  
+
+
+- <a name="'namipiaak">**'namipiaak**</a> _n._ (['namipia](#'namipia)+[ak](#ak))  
+
+
+- <a name="'namipiawon">**'namipiawon**</a> _n._ (['namipia](#'namipia)+[won](#won))  
+
+
+- <a name="'namipiatec">**'namipiatec**</a> _n._ (['namipia](#'namipia)+[tec](#tec))  
+
 
-- **nak** _num._ (~~kan~~)  
+- <a name="nak">**nak**</a> _num._ ([~~kan~~](#kan))  
 15; quince
 
-  - **nakak** _n._ (nak+ak)  
-  
+- <a name="nakak">**nakak**</a> _n._ ([nak](#nak)+[ak](#ak))  
 
-  - **nati** _v._ (na+ti)  
-  
 
-  - **natiles** _n._ (nati+les)  
-  
+- <a name="nati">**nati**</a> _v._ ([na](#na)+[ti](#ti))  
 
-  - **natilon** _n._ (nati+lon)  
-  
 
-  - **natilum** _n._ (nati+lum)  
-  
+- <a name="natiles">**natiles**</a> _n._ ([nati](#nati)+[les](#les))  
 
-- **'natiwitas** _n._ (Lat. &langle;nātīvitās&rangle; [naːˈtiːwɪtaːs])  
 
+- <a name="natilon">**natilon**</a> _n._ ([nati](#nati)+[lon](#lon))  
 
-- **natula** _v._ (Epo. &langle;natura&rangle; [naˈtura])  
 
+- <a name="natilum">**natilum**</a> _n._ ([nati](#nati)+[lum](#lum))  
 
-  - **natulalon** _n._ (natula+lon)  
-  
 
-  - **natulaki** _v._ (natula+ki)  
-  
+- <a name="'natiwitas">**'natiwitas**</a> _n._ (Lat. &langle;nātīvitās&rangle; [naːˈtiːwɪtaːs])  
 
-  - **natulapet** _n._ (natula+pet)  
-  
 
-- **no** _v._ (Eng. &langle;know&rangle; [noʊ̯])  
+- <a name="natula">**natula**</a> _v._ (Epo. &langle;natura&rangle; [naˈtura])  
 
 
-  - **nolon** _n._ (no+lon)  
-  
+- <a name="natulalon">**natulalon**</a> _n._ ([natula](#natula)+[lon](#lon))  
 
-  - **nolum** _n._ (no+lum)  
-  
 
-- **'nolka** _n._ (Nor. &langle;Norge&rangle; [nʊɾɡə])  
+- <a name="natulaki">**natulaki**</a> _v._ ([natula](#natula)+[ki](#ki))  
 
 
-  - **'nolkaak** _n._ ('nolka+ak)  
-  
+- <a name="natulapet">**natulapet**</a> _n._ ([natula](#natula)+[pet](#pet))  
 
-  - **'nolkawon** _n._ ('nolka+won)  
-  
 
-  - **'nolkatilip** _n._ ('nolka+tilip)  
-  
+- <a name="no">**no**</a> _v._ (Eng. &langle;know&rangle; [noʊ̯])  
 
-- **'nowial** _n._ (Nov. &langle;novial&rangle; [novial])  
 
+- <a name="nolon">**nolon**</a> _n._ ([no](#no)+[lon](#lon))  
 
-  - **'nowialak** _n._ ('nowial+ak)  
-  
 
-  - **'nowialwon** _n._ ('nowial+won)  
-  
+- <a name="nolum">**nolum**</a> _n._ ([no](#no)+[lum](#lum))  
 
-- **non** _n._ (Nya. &langle;ng&#39;ona&rangle; [ŋona])  
 
+- <a name="'nolka">**'nolka**</a> _n._ (Nor. &langle;Norge&rangle; [nʊɾɡə])  
 
-  - **nonu** _v._ (no+nu)  
-  
 
-  - **nonules** _n._ (nonu+les)  
-  
+- <a name="'nolkaak">**'nolkaak**</a> _n._ (['nolka](#'nolka)+[ak](#ak))  
 
-  - **nonulum** _n._ (nonu+lum)  
-  
 
-  - **nonyo** _v._ (no+nyo)  
-  
+- <a name="'nolkawon">**'nolkawon**</a> _n._ (['nolka](#'nolka)+[won](#won))  
 
-  - **nonyolum** _n._ (nonyo+lum)  
-  
 
-  - **nonfut** _n._ (non+fut)  
-  
+- <a name="'nolkatilip">**'nolkatilip**</a> _n._ (['nolka](#'nolka)+[tilip](#tilip))  
 
-- **nosyon** _n._ (Spa. &langle;noción&rangle; [noˈsjon])  
 
+- <a name="'nowial">**'nowial**</a> _n._ (Nov. &langle;novial&rangle; [novial])  
 
-  - **nosyonak** _n._ (nosyon+ak)  
-  
 
-  - **nosyonmailyot** _n._ (nosyon+mailyot)  
-  
+- <a name="'nowialak">**'nowialak**</a> _n._ (['nowial](#'nowial)+[ak](#ak))  
 
-  - **noki** _v._ (no+ki)  
-  
 
-  - **nokiles** _n._ (noki+les)  
-  
+- <a name="'nowialwon">**'nowialwon**</a> _n._ (['nowial](#'nowial)+[won](#won))  
 
-  - **nokilon** _n._ (noki+lon)  
-  
 
-  - **nokilyot** _n._ (noki+lyot)  
-  
+- <a name="non">**non**</a> _n._ (Nya. &langle;ng&#39;ona&rangle; [ŋona])  
 
-  - **nokilwel** _n._ (noki+lwel)  
-  
 
-  - **nokisoma** _v._ (noki+soma)  
-  
+- <a name="nonu">**nonu**</a> _v._ ([no](#no)+[nu](#nu))  
 
-  - **nokisomales** _n._ (nokisoma+les)  
-  
 
-  - **nokisomalon** _n._ (nokisoma+lon)  
-  
+- <a name="nonules">**nonules**</a> _n._ ([nonu](#nonu)+[les](#les))  
 
-- **nota** _v._ (Spa. &langle;nota&rangle; [ˈnota])  
 
+- <a name="nonulum">**nonulum**</a> _n._ ([nonu](#nonu)+[lum](#lum))  
 
-  - **notalon** _n._ (nota+lon)  
-  
 
-  - **notalum** _n._ (nota+lum)  
-  
+- <a name="nonyo">**nonyo**</a> _v._ ([no](#no)+[nyo](#nyo))  
 
-  - **notalyan** _n._ (nota+lyan)  
-  
 
-  - **notaki** _v._ (nota+ki)  
-  
+- <a name="nonyolum">**nonyolum**</a> _n._ ([nonyo](#nonyo)+[lum](#lum))  
 
-  - **nopowi** _v._ (no+powi)  
-  
 
-  - **nopowilon** _n._ (nopowi+lon)  
-  
+- <a name="nonfut">**nonfut**</a> _n._ ([non](#non)+[fut](#fut))  
 
-  - **nopowilum** _n._ (nopowi+lum)  
-  
 
-  - **nopowinyo** _v._ (nopowi+nyo)  
-  
+- <a name="nosyon">**nosyon**</a> _n._ (Spa. &langle;noción&rangle; [noˈsjon])  
 
-  - **nopowinyolon** _n._ (nopowinyo+lon)  
-  
 
-  - **nopowinyolum** _n._ (nopowinyo+lum)  
-  
+- <a name="nosyonak">**nosyonak**</a> _n._ ([nosyon](#nosyon)+[ak](#ak))  
 
-  - **nopowinyolumlon** _n._ (nopowinyolum+lon)  
-  
 
-- **ni** _v._ (~~ku~~)  
+- <a name="nosyonmailyot">**nosyonmailyot**</a> _n._ ([nosyon](#nosyon)+[mailyot](#mailyot))  
 
 
-- **nila** _v._ (Hin. &langle;नीला&rangle; [niːlaː])  
+- <a name="noki">**noki**</a> _v._ ([no](#no)+[ki](#ki))  
 
 
-  - **nilalon** _n._ (nila+lon)  
-  
+- <a name="nokiles">**nokiles**</a> _n._ ([noki](#noki)+[les](#les))  
 
-  - **nilalyan** _n._ (nila+lyan)  
-  
 
-  - **nilacakalum** _n._ (nila+cakalum)  
-  
+- <a name="nokilon">**nokilon**</a> _n._ ([noki](#noki)+[lon](#lon))  
 
-  - **nilaki** _v._ (nila+ki)  
-  
 
-  - **nilatihu** _v._ (nila+tihu)  
-  
+- <a name="nokilyot">**nokilyot**</a> _n._ ([noki](#noki)+[lyot](#lyot))  
 
-  - **nilatihulon** _n._ (nilatihu+lon)  
-  
 
-  - **nilatihuki** _v._ (nilatihu+ki)  
-  
+- <a name="nokilwel">**nokilwel**</a> _n._ ([noki](#noki)+[lwel](#lwel))  
 
-  - **nilon** _n._ (ni+lon)  
-  
 
-- **nilu** _v._ (~~kuti~~)  
+- <a name="nokisoma">**nokisoma**</a> _v._ ([noki](#noki)+[soma](#soma))  
 
 
-  - **nilulon** _n._ (nilu+lon)  
-  
+- <a name="nokisomales">**nokisomales**</a> _n._ ([nokisoma](#nokisoma)+[les](#les))  
 
-  - **niluhila** _v._ (nilu+hila)  
-  
 
-  - **niluhilalon** _n._ (niluhila+lon)  
-  
+- <a name="nokisomalon">**nokisomalon**</a> _n._ ([nokisoma](#nokisoma)+[lon](#lon))  
 
-  - **niluhilalip** _n._ (niluhila+lip)  
-  
 
-  - **niluhilamace** _v._ (niluhila+mace)  
-  
+- <a name="nota">**nota**</a> _v._ (Spa. &langle;nota&rangle; [ˈnota])  
 
-  - **niluhilamacelon** _n._ (niluhilamace+lon)  
-  
 
-  - **niluhilasoma** _v._ (nilu+hila+soma)  
-  
+- <a name="notalon">**notalon**</a> _n._ ([nota](#nota)+[lon](#lon))  
 
-  - **niluhilasomalon** _n._ (niluhilasoma+lon)  
-  
 
-  - **niluhilasomales** _n._ (niluhilasoma+les)  
-  
+- <a name="notalum">**notalum**</a> _n._ ([nota](#nota)+[lum](#lum))  
 
-  - **niluhilapaho** _v._ (niluhila+paho)  
-  
 
-  - **niluhilapaholon** _n._ (niluhilapaho+lon)  
-  
+- <a name="notalyan">**notalyan**</a> _n._ ([nota](#nota)+[lyan](#lyan))  
 
-  - **niluki** _v._ (nilu+ki)  
-  
 
-  - **nilukiles** _n._ (niluki+les)  
-  
+- <a name="notaki">**notaki**</a> _v._ ([nota](#nota)+[ki](#ki))  
 
-  - **nilukilon** _n._ (niluki+lon)  
-  
 
-  - **nilututumu** _v._ (nilu+tutumu)  
-  
+- <a name="nopowi">**nopowi**</a> _v._ ([no](#no)+[powi](#powi))  
 
-  - **nilututumulwel** _n._ (nilututumu+lwel)  
-  
 
-- **'niwe** _n._ (Niu. &langle;Niuē&rangle; [niweː])  
+- <a name="nopowilon">**nopowilon**</a> _n._ ([nopowi](#nopowi)+[lon](#lon))  
 
 
-  - **'niweak** _n._ ('niwe+ak)  
-  
+- <a name="nopowilum">**nopowilum**</a> _n._ ([nopowi](#nopowi)+[lum](#lum))  
 
-  - **'niwewon** _n._ ('niwe+won)  
-  
 
-  - **'niwetec** _n._ ('niwe+tec)  
-  
+- <a name="nopowinyo">**nopowinyo**</a> _v._ ([nopowi](#nopowi)+[nyo](#nyo))  
 
-  - **'niwetilip** _n._ ('niwe+tilip)  
-  
 
-- **ninap** _n._ (~~kukam~~)  
+- <a name="nopowinyolon">**nopowinyolon**</a> _n._ ([nopowinyo](#nopowinyo)+[lon](#lon))  
 
 
-  - **ninapak** _n._ (ninap+ak)  
-  
+- <a name="nopowinyolum">**nopowinyolum**</a> _n._ ([nopowinyo](#nopowinyo)+[lum](#lum))  
 
-- **nihu** _v._ (~~kuci~~)  
 
+- <a name="nopowinyolumlon">**nopowinyolumlon**</a> _n._ ([nopowinyolum](#nopowinyolum)+[lon](#lon))  
 
-  - **nihulon** _n._ (nihu+lon)  
-  
 
-  - **nihucalu** _v._ (nihu+calu)  
-  
+- <a name="ni">**ni**</a> _v._ ([~~ku~~](#ku))  
 
-  - **nihucalulon** _n._ (nihucalu+lon)  
-  
 
-  - **nihucwelon** _n._ (nihu+cwelon)  
-  
+- <a name="nila">**nila**</a> _v._ (Hin. &langle;नीला&rangle; [niːlaː])  
 
-  - **nihucwelonkoki** _v._ (nihucwelon+koki)  
-  
 
-  - **nihuki** _v._ (nihu+ki)  
-  
+- <a name="nilalon">**nilalon**</a> _n._ ([nila](#nila)+[lon](#lon))  
 
-- **nice** _v._ (Ben. &langle;নিচে&rangle; [n̪it͡ɕe])  
 
+- <a name="nilalyan">**nilalyan**</a> _n._ ([nila](#nila)+[lyan](#lyan))  
 
-  - **niceles** _n._ (nice+les)  
-  
 
-  - **nicelon** _n._ (nice+lon)  
-  
+- <a name="nilacakalum">**nilacakalum**</a> _n._ ([nila](#nila)+[cakalum](#cakalum))  
 
-  - **nicelumah** _n._ (nice+lumah)  
-  
 
-  - **nicelyan** _n._ (nice+lyan)  
-  
+- <a name="nilaki">**nilaki**</a> _v._ ([nila](#nila)+[ki](#ki))  
 
-- **'niceh** _n._ (Fra. &langle;Niger&rangle; [niʒɛʁ])  
 
+- <a name="nilatihu">**nilatihu**</a> _v._ ([nila](#nila)+[tihu](#tihu))  
 
-  - **'nicehtec** _n._ ('niceh+tec)  
-  
 
-  - **'nicehtecwon** _n._ ('nicehtec+won)  
-  
+- <a name="nilatihulon">**nilatihulon**</a> _n._ ([nilatihu](#nilatihu)+[lon](#lon))  
 
-  - **niceki** _v._ (nice+ki)  
-  
 
-  - **nicekiles** _n._ (niceki+les)  
-  
+- <a name="nilatihuki">**nilatihuki**</a> _v._ ([nilatihu](#nilatihu)+[ki](#ki))  
 
-- **'nifis** _n._ (Aig. &langle;Nevis&rangle; [ˈnivis])  
 
+- <a name="nilon">**nilon**</a> _n._ ([ni](#ni)+[lon](#lon))  
 
-  - **'nifisak** _n._ ('nifis+ak)  
-  
 
-- **'nikelium** _n._ (Lat. &langle;nichelium&rangle; [nɪkelɪʊ̃])  
+- <a name="nilu">**nilu**</a> _v._ ([~~kuti~~](#kuti))  
 
 
-- **'nikalakwa** _n._ (Spa. &langle;Nicaragua&rangle; [nikaˈɾaɣwa])  
+- <a name="nilulon">**nilulon**</a> _n._ ([nilu](#nilu)+[lon](#lon))  
 
 
-  - **'nikalakwaak** _n._ ('nikalakwa+ak)  
-  
+- <a name="niluhila">**niluhila**</a> _v._ ([nilu](#nilu)+[hila](#hila))  
 
-  - **'nikalakwawon** _n._ ('nikalakwa+won)  
-  
 
-  - **niki** _v._ (ni+ki)  
-  
+- <a name="niluhilalon">**niluhilalon**</a> _n._ ([niluhila](#niluhila)+[lon](#lon))  
 
-- **nikhu** _v._ (~~kunci~~)  
 
+- <a name="niluhilalip">**niluhilalip**</a> _n._ ([niluhila](#niluhila)+[lip](#lip))  
 
-  - **nikhulon** _n._ (nikhu+lon)  
-  
 
-  - **nikhulum** _n._ (nikhu+lum)  
-  
+- <a name="niluhilamace">**niluhilamace**</a> _v._ ([niluhila](#niluhila)+[mace](#mace))  
 
-  - **nikhuki** _v._ (nikhu+ki)  
-  
 
-  - **nikhukiles** _n._ (nikhuki+les)  
-  
+- <a name="niluhilamacelon">**niluhilamacelon**</a> _n._ ([niluhilamace](#niluhilamace)+[lon](#lon))  
 
-  - **nikhukilon** _n._ (nikhuki+lon)  
-  
 
-- **nita** _v._ (~~kula~~)  
+- <a name="niluhilasoma">**niluhilasoma**</a> _v._ ([nilu](#nilu)+[hila](#hila)+[soma](#soma))  
 
 
-  - **nitaec** _n._ (nita+ec)  
-  
+- <a name="niluhilasomalon">**niluhilasomalon**</a> _n._ ([niluhilasoma](#niluhilasoma)+[lon](#lon))  
 
-  - **nitaicilon** _n._ (nita+icilon)  
-  
 
-  - **nitaicilonlawt** _n._ (nitaicilon+lawt)  
-  
+- <a name="niluhilasomales">**niluhilasomales**</a> _n._ ([niluhilasoma](#niluhilasoma)+[les](#les))  
 
-  - **nitalon** _n._ (nita+lon)  
-  
 
-  - **nitamamul** _n._ (nita+mamul)  
-  
+- <a name="niluhilapaho">**niluhilapaho**</a> _v._ ([niluhila](#niluhila)+[paho](#paho))  
 
-  - **nitafut** _n._ (nita+fut)  
-  
 
-- **nitak** _pn._ (~~kulan~~)  
+- <a name="niluhilapaholon">**niluhilapaholon**</a> _n._ ([niluhilapaho](#niluhilapaho)+[lon](#lon))  
 
 
-  - **nitaki** _v._ (nita+ki)  
-  
+- <a name="niluki">**niluki**</a> _v._ ([nilu](#nilu)+[ki](#ki))  
 
-  - **nitakio** _v._ (nita+kio)  
-  
 
-  - **nitakiolon** _n._ (nitakio+lon)  
-  
+- <a name="nilukiles">**nilukiles**</a> _n._ ([niluki](#niluki)+[les](#les))  
 
-  - **nitakuhol** _n._ (nita+kuhol)  
-  
 
-  - **nitaksunkwelwel** _n._ (nitak+sunkwelwel)  
-  
+- <a name="nilukilon">**nilukilon**</a> _n._ ([niluki](#niluki)+[lon](#lon))  
 
-  - **nitakpumkwelwel** _n._ (nitak+pumkwelwel)  
-  
 
-  - **nitatatu** _v._ (nita+tatu)  
-  
+- <a name="nilututumu">**nilututumu**</a> _v._ ([nilu](#nilu)+[tutumu](#tutumu))  
 
-  - **nitatatulon** _n._ (nitatatu+lon)  
-  
 
-  - **nitatun** _n._ (nita+tun)  
-  
+- <a name="nilututumulwel">**nilututumulwel**</a> _n._ ([nilututumu](#nilututumu)+[lwel](#lwel))  
 
-  - **nitapic** _n._ (nita+pic)  
-  
 
-- **nito** _v._ (~~kule~~)  
+- <a name="'niwe">**'niwe**</a> _n._ (Niu. &langle;Niuē&rangle; [niweː])  
 
 
-  - **nitoesta** _v._ (nito+esta)  
-  
+- <a name="'niweak">**'niweak**</a> _n._ (['niwe](#'niwe)+[ak](#ak))  
 
-  - **nitoam** _n._ (nito+am)  
-  
 
-  - **nitolek** _n._ (nito+lek)  
-  
+- <a name="'niwewon">**'niwewon**</a> _n._ (['niwe](#'niwe)+[won](#won))  
 
-  - **nitolon** _n._ (nito+lon)  
-  
 
-  - **nitolwel** _n._ (nito+lwel)  
-  
+- <a name="'niwetec">**'niwetec**</a> _n._ (['niwe](#'niwe)+[tec](#tec))  
 
-  - **nitoki** _v._ (nito+ki)  
-  
 
-  - **nitokiles** _n._ (nitoki+les)  
-  
+- <a name="'niwetilip">**'niwetilip**</a> _n._ (['niwe](#'niwe)+[tilip](#tilip))  
 
-- **nitu** _v._ (~~kuli~~)  
 
+- <a name="ninap">**ninap**</a> _n._ ([~~kukam~~](#kukam))  
 
-  - **nitulon** _n._ (nitu+lon)  
-  
 
-  - **nituki** _v._ (nitu+ki)  
-  
+- <a name="ninapak">**ninapak**</a> _n._ ([ninap](#ninap)+[ak](#ak))  
 
-- **'nipon** _n._ (Jap. &langle;日本&rangle; [ɲipːoɴ])  
 
+- <a name="nihu">**nihu**</a> _v._ ([~~kuci~~](#kuci))  
 
-  - **'niponak** _n._ ('nipon+ak)  
-  
 
-  - **'niponwon** _n._ ('nipon+won)  
-  
+- <a name="nihulon">**nihulon**</a> _n._ ([nihu](#nihu)+[lon](#lon))  
 
-  - **'nipontilip** _n._ ('nipon+tilip)  
-  
+
+- <a name="nihucalu">**nihucalu**</a> _v._ ([nihu](#nihu)+[calu](#calu))  
+
+
+- <a name="nihucalulon">**nihucalulon**</a> _n._ ([nihucalu](#nihucalu)+[lon](#lon))  
+
+
+- <a name="nihucwelon">**nihucwelon**</a> _n._ ([nihu](#nihu)+[cwelon](#cwelon))  
+
+
+- <a name="nihucwelonkoki">**nihucwelonkoki**</a> _v._ ([nihucwelon](#nihucwelon)+[koki](#koki))  
+
+
+- <a name="nihuki">**nihuki**</a> _v._ ([nihu](#nihu)+[ki](#ki))  
+
+
+- <a name="nice">**nice**</a> _v._ (Ben. &langle;নিচে&rangle; [n̪it͡ɕe])  
+
+
+- <a name="niceles">**niceles**</a> _n._ ([nice](#nice)+[les](#les))  
+
+
+- <a name="nicelon">**nicelon**</a> _n._ ([nice](#nice)+[lon](#lon))  
+
+
+- <a name="nicelumah">**nicelumah**</a> _n._ ([nice](#nice)+[lumah](#lumah))  
+
+
+- <a name="nicelyan">**nicelyan**</a> _n._ ([nice](#nice)+[lyan](#lyan))  
+
+
+- <a name="'niceh">**'niceh**</a> _n._ (Fra. &langle;Niger&rangle; [niʒɛʁ])  
+
+
+- <a name="'nicehtec">**'nicehtec**</a> _n._ (['niceh](#'niceh)+[tec](#tec))  
+
+
+- <a name="'nicehtecwon">**'nicehtecwon**</a> _n._ (['nicehtec](#'nicehtec)+[won](#won))  
+
+
+- <a name="niceki">**niceki**</a> _v._ ([nice](#nice)+[ki](#ki))  
+
+
+- <a name="nicekiles">**nicekiles**</a> _n._ ([niceki](#niceki)+[les](#les))  
+
+
+- <a name="'nifis">**'nifis**</a> _n._ (Aig. &langle;Nevis&rangle; [ˈnivis])  
+
+
+- <a name="'nifisak">**'nifisak**</a> _n._ (['nifis](#'nifis)+[ak](#ak))  
+
+
+- <a name="'nikelium">**'nikelium**</a> _n._ (Lat. &langle;nichelium&rangle; [nɪkelɪʊ̃])  
+
+
+- <a name="'nikalakwa">**'nikalakwa**</a> _n._ (Spa. &langle;Nicaragua&rangle; [nikaˈɾaɣwa])  
+
+
+- <a name="'nikalakwaak">**'nikalakwaak**</a> _n._ (['nikalakwa](#'nikalakwa)+[ak](#ak))  
+
+
+- <a name="'nikalakwawon">**'nikalakwawon**</a> _n._ (['nikalakwa](#'nikalakwa)+[won](#won))  
+
+
+- <a name="niki">**niki**</a> _v._ ([ni](#ni)+[ki](#ki))  
+
+
+- <a name="nikhu">**nikhu**</a> _v._ ([~~kunci~~](#kunci))  
+
+
+- <a name="nikhulon">**nikhulon**</a> _n._ ([nikhu](#nikhu)+[lon](#lon))  
+
+
+- <a name="nikhulum">**nikhulum**</a> _n._ ([nikhu](#nikhu)+[lum](#lum))  
+
+
+- <a name="nikhuki">**nikhuki**</a> _v._ ([nikhu](#nikhu)+[ki](#ki))  
+
+
+- <a name="nikhukiles">**nikhukiles**</a> _n._ ([nikhuki](#nikhuki)+[les](#les))  
+
+
+- <a name="nikhukilon">**nikhukilon**</a> _n._ ([nikhuki](#nikhuki)+[lon](#lon))  
+
+
+- <a name="nita">**nita**</a> _v._ ([~~kula~~](#kula))  
+
+
+- <a name="nitaec">**nitaec**</a> _n._ ([nita](#nita)+[ec](#ec))  
+
+
+- <a name="nitaicilon">**nitaicilon**</a> _n._ ([nita](#nita)+[icilon](#icilon))  
+
+
+- <a name="nitaicilonlawt">**nitaicilonlawt**</a> _n._ ([nitaicilon](#nitaicilon)+[lawt](#lawt))  
+
+
+- <a name="nitalon">**nitalon**</a> _n._ ([nita](#nita)+[lon](#lon))  
+
+
+- <a name="nitamamul">**nitamamul**</a> _n._ ([nita](#nita)+[mamul](#mamul))  
+
+
+- <a name="nitafut">**nitafut**</a> _n._ ([nita](#nita)+[fut](#fut))  
+
+
+- <a name="nitak">**nitak**</a> _pn._ ([~~kulan~~](#kulan))  
+
+
+- <a name="nitaki">**nitaki**</a> _v._ ([nita](#nita)+[ki](#ki))  
+
+
+- <a name="nitakio">**nitakio**</a> _v._ ([nita](#nita)+[kio](#kio))  
+
+
+- <a name="nitakiolon">**nitakiolon**</a> _n._ ([nitakio](#nitakio)+[lon](#lon))  
+
+
+- <a name="nitakuhol">**nitakuhol**</a> _n._ ([nita](#nita)+[kuhol](#kuhol))  
+
+
+- <a name="nitaksunkwelwel">**nitaksunkwelwel**</a> _n._ ([nitak](#nitak)+[sunkwelwel](#sunkwelwel))  
+
+
+- <a name="nitakpumkwelwel">**nitakpumkwelwel**</a> _n._ ([nitak](#nitak)+[pumkwelwel](#pumkwelwel))  
+
+
+- <a name="nitatatu">**nitatatu**</a> _v._ ([nita](#nita)+[tatu](#tatu))  
+
+
+- <a name="nitatatulon">**nitatatulon**</a> _n._ ([nitatatu](#nitatatu)+[lon](#lon))  
+
+
+- <a name="nitatun">**nitatun**</a> _n._ ([nita](#nita)+[tun](#tun))  
+
+
+- <a name="nitapic">**nitapic**</a> _n._ ([nita](#nita)+[pic](#pic))  
+
+
+- <a name="nito">**nito**</a> _v._ ([~~kule~~](#kule))  
+
+
+- <a name="nitoesta">**nitoesta**</a> _v._ ([nito](#nito)+[esta](#esta))  
+
+
+- <a name="nitoam">**nitoam**</a> _n._ ([nito](#nito)+[am](#am))  
+
+
+- <a name="nitolek">**nitolek**</a> _n._ ([nito](#nito)+[lek](#lek))  
+
+
+- <a name="nitolon">**nitolon**</a> _n._ ([nito](#nito)+[lon](#lon))  
+
+
+- <a name="nitolwel">**nitolwel**</a> _n._ ([nito](#nito)+[lwel](#lwel))  
+
+
+- <a name="nitoki">**nitoki**</a> _v._ ([nito](#nito)+[ki](#ki))  
+
+
+- <a name="nitokiles">**nitokiles**</a> _n._ ([nitoki](#nitoki)+[les](#les))  
+
+
+- <a name="nitu">**nitu**</a> _v._ ([~~kuli~~](#kuli))  
+
+
+- <a name="nitulon">**nitulon**</a> _n._ ([nitu](#nitu)+[lon](#lon))  
+
+
+- <a name="nituki">**nituki**</a> _v._ ([nitu](#nitu)+[ki](#ki))  
+
+
+- <a name="'nipon">**'nipon**</a> _n._ (Jap. &langle;日本&rangle; [ɲipːoɴ])  
+
+
+- <a name="'niponak">**'niponak**</a> _n._ (['nipon](#'nipon)+[ak](#ak))  
+
+
+- <a name="'niponwon">**'niponwon**</a> _n._ (['nipon](#'nipon)+[won](#won))  
+
+
+- <a name="'nipontilip">**'nipontilip**</a> _n._ (['nipon](#'nipon)+[tilip](#tilip))  
+
 
-- **nu** _v._ (~~ki~~)  
+- <a name="nu">**nu**</a> _v._ ([~~ki~~](#ki))  
 
 
-  - **'nuyoksiti** _n._ (Eng. &langle;New York)  
+  - <a name="'nuyoksiti">**'nuyoksiti**</a> _n._ (Eng. &langle;New York)  
   
 
-- **nul** _num._ (Epo. &langle;nulo&rangle; [nulo])  
+- <a name="nul">**nul**</a> _num._ (Epo. &langle;nulo&rangle; [nulo])  
 0; cero; nada
 
-  - **nules** _n._ (nu+les)  
-  
-
-  - **nulak** _n._ (nul+ak)  
-  
-
-  - **nulon** _n._ (nu+lon)  
-  
-
-  - **nulyot** _n._ (nu+lyot)  
-  
-
-  - **nulwel** _n._ (nu+lwel)  
-  
-
-  - **nulwelak** _n._ (nulwel+ak)  
-  
-
-  - **nulnokipumkwelwel** _n._ (nul+noki+pumkwelwel)  
-  
-
-  - **nulnyolon** _n._ (nul+nyolon)  
-  
-
-  - **nulfitilip** _n._ (nul+fitilip)  
-  
-
-  - **nulkot** _n._ (nul+kot)  
-  
-
-  - **nultunnyamales** _n._ (nul+tun+nyamales)  
-  
-
-  - **nucolon** _n._ (nu+colon)  
-  
-
-  - **nusison** _n._ (nu+sison)  
-  
-
-- **nyec** _n._ (Cmn. &langle;啮齿&rangle; [njɛ˥˩ʈ͡ʂʰɨ˧˩˧])  
+- <a name="nules">**nules**</a> _n._ ([nu](#nu)+[les](#les))  
 
 
-  - **nyecak** _n._ (nyec+ak)  
-  
+- <a name="nulak">**nulak**</a> _n._ ([nul](#nul)+[ak](#ak))  
 
-- **nyama** _v._ (ono. [njam)  
+
+- <a name="nulon">**nulon**</a> _n._ ([nu](#nu)+[lon](#lon))  
+
+
+- <a name="nulyot">**nulyot**</a> _n._ ([nu](#nu)+[lyot](#lyot))  
+
+
+- <a name="nulwel">**nulwel**</a> _n._ ([nu](#nu)+[lwel](#lwel))  
+
+
+- <a name="nulwelak">**nulwelak**</a> _n._ ([nulwel](#nulwel)+[ak](#ak))  
+
+
+- <a name="nulnokipumkwelwel">**nulnokipumkwelwel**</a> _n._ ([nul](#nul)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+
+
+- <a name="nulnyolon">**nulnyolon**</a> _n._ ([nul](#nul)+[nyolon](#nyolon))  
+
+
+- <a name="nulfitilip">**nulfitilip**</a> _n._ ([nul](#nul)+[fitilip](#fitilip))  
+
+
+- <a name="nulkot">**nulkot**</a> _n._ ([nul](#nul)+[kot](#kot))  
+
+
+- <a name="nultunnyamales">**nultunnyamales**</a> _n._ ([nul](#nul)+[tun](#tun)+[nyamales](#nyamales))  
+
+
+- <a name="nucolon">**nucolon**</a> _n._ ([nu](#nu)+[colon](#colon))  
+
+
+- <a name="nusison">**nusison**</a> _n._ ([nu](#nu)+[sison](#sison))  
+
+
+- <a name="nyec">**nyec**</a> _n._ (Cmn. &langle;啮齿&rangle; [njɛ˥˩ʈ͡ʂʰɨ˧˩˧])  
+
+
+- <a name="nyecak">**nyecak**</a> _n._ ([nyec](#nyec)+[ak](#ak))  
+
+
+- <a name="nyama">**nyama**</a> _v._ (ono. [njam)  
 comer; bebir; tomar; ʟєꜱ come ʟᴏᴧ
 
-  - **nyamaec** _n._ (nyama+ec)  
-  
+- <a name="nyamaec">**nyamaec**</a> _n._ ([nyama](#nyama)+[ec](#ec))  
 
-  - **nyamaecnepuci** _v._ (nyamaec+nepuci)  
-  
 
-  - **nyamaecnepucilon** _n._ (nyamaecnepuci+lon)  
-  
+- <a name="nyamaecnepuci">**nyamaecnepuci**</a> _v._ ([nyamaec](#nyamaec)+[nepuci](#nepuci))  
 
-  - **nyamaecnepuciles** _n._ (nyamaecnepuci+les)  
-  
 
-  - **nyamaecmat** _n._ (nyamaec+mat)  
-  
+- <a name="nyamaecnepucilon">**nyamaecnepucilon**</a> _n._ ([nyamaecnepuci](#nyamaecnepuci)+[lon](#lon))  
 
-  - **nyamaechwok** _n._ (nyamaec+hwok)  
-  
 
-  - **nyamaecsapu** _v._ (nyamaec+sapu)  
-  
+- <a name="nyamaecnepuciles">**nyamaecnepuciles**</a> _n._ ([nyamaecnepuci](#nyamaecnepuci)+[les](#les))  
 
-  - **nyamaecsapules** _n._ (nyamaecsapu+les)  
-  
 
-  - **nyamaecsapulon** _n._ (nyamaecsapu+lon)  
-  
+- <a name="nyamaecmat">**nyamaecmat**</a> _n._ ([nyamaec](#nyamaec)+[mat](#mat))  
 
-  - **nyamales** _n._ (nyama+les)  
-  
 
-  - **nyamalon** _n._ (nyama+lon)  
-  comida; bebida
+- <a name="nyamaechwok">**nyamaechwok**</a> _n._ ([nyamaec](#nyamaec)+[hwok](#hwok))  
 
-  - **nyamalonestakilyot** _n._ (nyamalon+estakilyot)  
-  
 
-  - **nyamaloncyauki** _v._ (nyamalon+cyauki)  
-  
+- <a name="nyamaecsapu">**nyamaecsapu**</a> _v._ ([nyamaec](#nyamaec)+[sapu](#sapu))  
 
-  - **nyamaloncyaukilon** _n._ (nyamaloncyauki+lon)  
-  
 
-  - **nyamaloncyaukiles** _n._ (nyamaloncyauki+les)  
-  
+- <a name="nyamaecsapules">**nyamaecsapules**</a> _n._ ([nyamaecsapu](#nyamaecsapu)+[les](#les))  
 
-  - **nyamaluat** _n._ (nyama+luat)  
-  utensilios para comer
 
-  - **nyamalyot** _n._ (nyama+lyot)  
-  comedor
+- <a name="nyamaecsapulon">**nyamaecsapulon**</a> _n._ ([nyamaecsapu](#nyamaecsapu)+[lon](#lon))  
 
-  - **nyamalwel** _n._ (nyama+lwel)  
-  
 
-  - **nyamanitalon** _n._ (nyama+nitalon)  
-  
+- <a name="nyamales">**nyamales**</a> _n._ ([nyama](#nyama)+[les](#les))  
 
-  - **nyamanitalontapalon** _n._ (nyamanitalon+tapalon)  
-  
 
-  - **nyamamai** _v._ (nyama+mai)  
-  
+- <a name="nyamalon">**nyamalon**</a> _n._ ([nyama](#nyama)+[lon](#lon))  
+comida; bebida
 
-  - **nyamamailes** _n._ (nyamamai+les)  
-  
+- <a name="nyamalonestakilyot">**nyamalonestakilyot**</a> _n._ ([nyamalon](#nyamalon)+[estakilyot](#estakilyot))  
 
-  - **nyamamailon** _n._ (nyamamai+lon)  
-  
 
-  - **nyamamailum** _n._ (nyamamai+lum)  
-  
+- <a name="nyamaloncyauki">**nyamaloncyauki**</a> _v._ ([nyamalon](#nyamalon)+[cyauki](#cyauki))  
 
-  - **nyamamailyot** _n._ (nyamamai+lyot)  
-  
 
-  - **nyamamat** _n._ (nyama+mat)  
-  
+- <a name="nyamaloncyaukilon">**nyamaloncyaukilon**</a> _n._ ([nyamaloncyauki](#nyamaloncyauki)+[lon](#lon))  
 
-  - **nyamahwok** _n._ (nyama+hwok)  
-  
 
-  - **nyamacai** _v._ (nyama+cai)  
-  
+- <a name="nyamaloncyaukiles">**nyamaloncyaukiles**</a> _n._ ([nyamaloncyauki](#nyamaloncyauki)+[les](#les))  
 
-  - **nyamacohtuelon** _n._ (nyama+cohtuelon)  
-  
 
-  - **nyamaciuh** _n._ (nyama+ciuh)  
-  
+- <a name="nyamaluat">**nyamaluat**</a> _n._ ([nyama](#nyama)+[luat](#luat))  
+utensilios para comer
 
-  - **nyamacwelon** _n._ (nyama+cwelon)  
-  
+- <a name="nyamalyot">**nyamalyot**</a> _n._ ([nyama](#nyama)+[lyot](#lyot))  
+comedor
 
-  - **nyamacwelonkae** _v._ (nyamacwelon+kae)  
-  
+- <a name="nyamalwel">**nyamalwel**</a> _n._ ([nyama](#nyama)+[lwel](#lwel))  
 
-  - **nyamacwelonkoki** _v._ (nyamacwelon+koki)  
-  
 
-  - **nyamakulalon** _n._ (nyama+kulalon)  
-  
+- <a name="nyamanitalon">**nyamanitalon**</a> _n._ ([nyama](#nyama)+[nitalon](#nitalon))  
 
-  - **nyamapowi** _v._ (nyama+powi)  
-  
 
-  - **nyamapowilon** _n._ (nyamapowi+lon)  
-  
+- <a name="nyamanitalontapalon">**nyamanitalontapalon**</a> _n._ ([nyamanitalon](#nyamanitalon)+[tapalon](#tapalon))  
 
-- **nyo** _v._ (Ben. &langle;না&rangle; [naː])  
 
+- <a name="nyamamai">**nyamamai**</a> _v._ ([nyama](#nyama)+[mai](#mai))  
 
-  - **nyoayfhaumailyot** _n._ (nyo+ayf+hau+mailyot)  
-  
 
-  - **nyoaw** _spec._ (nyo+aw)  
-  
+- <a name="nyamamailes">**nyamamailes**</a> _n._ ([nyamamai](#nyamamai)+[les](#les))  
 
-  - **nyolon** _n._ (nyo+lon)  
-  
 
-  - **nyonoki** _v._ (nyo+noki)  
-  
+- <a name="nyamamailon">**nyamamailon**</a> _n._ ([nyamamai](#nyamamai)+[lon](#lon))  
 
-  - **nyotewi** _v._ (nyo+tewi)  
-  
 
-  - **nyotewilum** _n._ (nyotewi+lum)  
-  
+- <a name="nyamamailum">**nyamamailum**</a> _n._ ([nyamamai](#nyamamai)+[lum](#lum))  
 
-  - **nyotewinu** _v._ (nyotewi+nu)  
-  
 
-  - **nyotewinyo** _v._ (nyo+tewinyo)  
-  
+- <a name="nyamamailyot">**nyamamailyot**</a> _n._ ([nyamamai](#nyamamai)+[lyot](#lyot))  
 
-  - **nyotewinyolum** _n._ (nyotewinyo+lum)  
-  
 
-  - **nyotewiki** _v._ (nyotewi+ki)  
-  
+- <a name="nyamamat">**nyamamat**</a> _n._ ([nyama](#nyama)+[mat](#mat))  
 
-  - **nyotewikiles** _n._ (nyotewiki+les)  
-  
 
-  - **nyoti** _v._ (nyo+ti)  
-  
+- <a name="nyamahwok">**nyamahwok**</a> _n._ ([nyama](#nyama)+[hwok](#hwok))  
 
-  - **nyotilon** _n._ (nyoti+lon)  
-  
 
-  - **nyotikolwa** _v._ (nyoti+kolwa)  
-  
+- <a name="nyamacai">**nyamacai**</a> _v._ ([nyama](#nyama)+[cai](#cai))  
 
-  - **nyopensi** _v._ (nyo+pensi)  
-  
 
-  - **nyopensilon** _n._ (nyopensi+lon)  
-  
+- <a name="nyamacohtuelon">**nyamacohtuelon**</a> _n._ ([nyama](#nyama)+[cohtuelon](#cohtuelon))  
 
-  - **nyopensilum** _n._ (nyopensi+lum)  
-  
 
-  - **nyopensiki** _v._ (nyopensi+ki)  
-  
+- <a name="nyamaciuh">**nyamaciuh**</a> _n._ ([nyama](#nyama)+[ciuh](#ciuh))  
 
-- **nwes** _n._ (Spa. &langle;nuez&rangle; [nwes])  
 
+- <a name="nyamacwelon">**nyamacwelon**</a> _n._ ([nyama](#nyama)+[cwelon](#cwelon))  
 
-## m
 
-- **'me** _n._ (ono. [m])  
+- <a name="nyamacwelonkae">**nyamacwelonkae**</a> _v._ ([nyamacwelon](#nyamacwelon)+[kae](#kae))  
 
 
-- **'melanesi** _n._ (Fra. &langle;Mélanésie&rangle; [ˈmelɐnezi])  
+- <a name="nyamacwelonkoki">**nyamacwelonkoki**</a> _v._ ([nyamacwelon](#nyamacwelon)+[koki](#koki))  
 
 
-  - **'melanesiak** _n._ ('melanesi+ak)  
-  
+- <a name="nyamakulalon">**nyamakulalon**</a> _n._ ([nyama](#nyama)+[kulalon](#kulalon))  
 
-  - **'melanesikwelyot** _n._ ('melanesi+kwelyot)  
-  
 
-- **men** _num._ (Spa. &langle;menos&rangle; [ˈmenos])  
+- <a name="nyamapowi">**nyamapowi**</a> _v._ ([nyama](#nyama)+[powi](#powi))  
+
+
+- <a name="nyamapowilon">**nyamapowilon**</a> _n._ ([nyamapowi](#nyamapowi)+[lon](#lon))  
+
+
+- <a name="nyo">**nyo**</a> _v._ (Ben. &langle;না&rangle; [naː])  
+
+
+- <a name="nyoayfhaumailyot">**nyoayfhaumailyot**</a> _n._ ([nyo](#nyo)+[ayf](#ayf)+[hau](#hau)+[mailyot](#mailyot))  
+
+
+- <a name="nyoaw">**nyoaw**</a> _spec._ ([nyo](#nyo)+[aw](#aw))  
+
+
+- <a name="nyolon">**nyolon**</a> _n._ ([nyo](#nyo)+[lon](#lon))  
+
+
+- <a name="nyonoki">**nyonoki**</a> _v._ ([nyo](#nyo)+[noki](#noki))  
+
+
+- <a name="nyotewi">**nyotewi**</a> _v._ ([nyo](#nyo)+[tewi](#tewi))  
+
+
+- <a name="nyotewilum">**nyotewilum**</a> _n._ ([nyotewi](#nyotewi)+[lum](#lum))  
+
+
+- <a name="nyotewinu">**nyotewinu**</a> _v._ ([nyotewi](#nyotewi)+[nu](#nu))  
+
+
+- <a name="nyotewinyo">**nyotewinyo**</a> _v._ ([nyo](#nyo)+[tewinyo](#tewinyo))  
+
+
+- <a name="nyotewinyolum">**nyotewinyolum**</a> _n._ ([nyotewinyo](#nyotewinyo)+[lum](#lum))  
+
+
+- <a name="nyotewiki">**nyotewiki**</a> _v._ ([nyotewi](#nyotewi)+[ki](#ki))  
+
+
+- <a name="nyotewikiles">**nyotewikiles**</a> _n._ ([nyotewiki](#nyotewiki)+[les](#les))  
+
+
+- <a name="nyoti">**nyoti**</a> _v._ ([nyo](#nyo)+[ti](#ti))  
+
+
+- <a name="nyotilon">**nyotilon**</a> _n._ ([nyoti](#nyoti)+[lon](#lon))  
+
+
+- <a name="nyotikolwa">**nyotikolwa**</a> _v._ ([nyoti](#nyoti)+[kolwa](#kolwa))  
+
+
+- <a name="nyopensi">**nyopensi**</a> _v._ ([nyo](#nyo)+[pensi](#pensi))  
+
+
+- <a name="nyopensilon">**nyopensilon**</a> _n._ ([nyopensi](#nyopensi)+[lon](#lon))  
+
+
+- <a name="nyopensilum">**nyopensilum**</a> _n._ ([nyopensi](#nyopensi)+[lum](#lum))  
+
+
+- <a name="nyopensiki">**nyopensiki**</a> _v._ ([nyopensi](#nyopensi)+[ki](#ki))  
+
+
+- <a name="nwes">**nwes**</a> _n._ (Spa. &langle;nuez&rangle; [nwes])  
+
+
+### m
+
+- <a name="'me">**'me**</a> _n._ (ono. [m])  
+
+
+- <a name="'melanesi">**'melanesi**</a> _n._ (Fra. &langle;Mélanésie&rangle; [ˈmelɐnezi])  
+
+
+- <a name="'melanesiak">**'melanesiak**</a> _n._ (['melanesi](#'melanesi)+[ak](#ak))  
+
+
+- <a name="'melanesikwelyot">**'melanesikwelyot**</a> _n._ (['melanesi](#'melanesi)+[kwelyot](#kwelyot))  
+
+
+- <a name="men">**men**</a> _num._ (Spa. &langle;menos&rangle; [ˈmenos])  
 menos; negativo
 
-- **meha** _v._ (~~poca~~)  
+- <a name="meha">**meha**</a> _v._ ([~~poca~~](#poca))  
 
 
-  - **mehalon** _n._ (meha+lon)  
-  
-
-  - **mehaki** _v._ (meha+ki)  
-  
-
-- **'mehiko** _n._ (Spa. &langle;México&rangle; [ˈmexiko])  
+- <a name="mehalon">**mehalon**</a> _n._ ([meha](#meha)+[lon](#lon))  
 
 
-  - **'mehikoak** _n._ ('mehiko+ak)  
-  
+- <a name="mehaki">**mehaki**</a> _v._ ([meha](#meha)+[ki](#ki))  
 
-  - **'mehikolawt** _n._ ('mehiko+lawt)  
-  
 
-  - **'mehikowon** _n._ ('mehiko+won)  
-  
+- <a name="'mehiko">**'mehiko**</a> _n._ (Spa. &langle;México&rangle; [ˈmexiko])  
 
-- **mes** _num._ (Yor. &langle;mẹsan&rangle; [mɛsan])  
+
+- <a name="'mehikoak">**'mehikoak**</a> _n._ (['mehiko](#'mehiko)+[ak](#ak))  
+
+
+- <a name="'mehikolawt">**'mehikolawt**</a> _n._ (['mehiko](#'mehiko)+[lawt](#lawt))  
+
+
+- <a name="'mehikowon">**'mehikowon**</a> _n._ (['mehiko](#'mehiko)+[won](#won))  
+
+
+- <a name="mes">**mes**</a> _num._ (Yor. &langle;mẹsan&rangle; [mɛsan])  
 9; nueve
 
-  - **mesak** _n._ (mes+ak)  
-  noveno
+- <a name="mesak">**mesak**</a> _n._ ([mes](#mes)+[ak](#ak))  
+noveno
 
-  - **mesnokipumkwelwel** _n._ (mes+noki+pumkwelwel)  
-  
+- <a name="mesnokipumkwelwel">**mesnokipumkwelwel**</a> _n._ ([mes](#mes)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
-- **mekle** _v._ (~~ponto~~)  
 
+- <a name="mekle">**mekle**</a> _v._ ([~~ponto~~](#ponto))  
 
-  - **meklelekpoltilum** _n._ (mekle+lekpoltilum)  
-  
 
-  - **meklelon** _n._ (mekle+lon)  
-  
+- <a name="meklelekpoltilum">**meklelekpoltilum**</a> _n._ ([mekle](#mekle)+[lekpoltilum](#lekpoltilum))  
 
-  - **meklesaman** _n._ (mekle+saman)  
-  
 
-  - **mekleki** _v._ (mekle+ki)  
-  
+- <a name="meklelon">**meklelon**</a> _n._ ([mekle](#mekle)+[lon](#lon))  
 
-  - **meklekiles** _n._ (mekleki+les)  
-  
 
-  - **meklepowi** _v._ (mekle+powi)  
-  
+- <a name="meklesaman">**meklesaman**</a> _n._ ([mekle](#mekle)+[saman](#saman))  
 
-  - **meklepowilon** _n._ (meklepowi+lon)  
-  
 
-  - **meklepowinu** _v._ (meklepowi+nu)  
-  
+- <a name="mekleki">**mekleki**</a> _v._ ([mekle](#mekle)+[ki](#ki))  
 
-  - **meklepowinyo** _v._ (meklepowi+nyo)  
-  
 
-  - **meklepowinyolon** _n._ (meklepowinyo+lon)  
-  
+- <a name="meklekiles">**meklekiles**</a> _n._ ([mekleki](#mekleki)+[les](#les))  
 
-  - **meklepowiki** _v._ (meklepowi+ki)  
-  
 
-- **metus** _n._ (Epo. &langle;meduzo&rangle; [meˈduzo])  
+- <a name="meklepowi">**meklepowi**</a> _v._ ([mekle](#mekle)+[powi](#powi))  
 
 
-- **'methe** _n._ (Fra. &langle;mètre&rangle; [ˈmɛtʁ])  
+- <a name="meklepowilon">**meklepowilon**</a> _n._ ([meklepowi](#meklepowi)+[lon](#lon))  
 
 
-- **'maoli** _n._ (Mri. &langle;Māori&rangle; [maːɔɾi])  
+- <a name="meklepowinu">**meklepowinu**</a> _v._ ([meklepowi](#meklepowi)+[nu](#nu))  
 
 
-  - **'maoliak** _n._ ('maoli+ak)  
-  
+- <a name="meklepowinyo">**meklepowinyo**</a> _v._ ([meklepowi](#meklepowi)+[nyo](#nyo))  
 
-  - **'maolitec** _n._ ('maoli+tec)  
-  
 
-  - **'maolitilip** _n._ ('maoli+tilip)  
-  
+- <a name="meklepowinyolon">**meklepowinyolon**</a> _n._ ([meklepowinyo](#meklepowinyo)+[lon](#lon))  
 
-- **mai** _v._ (Cmn. &langle;卖&rangle; [maɪ̯˥˩])  
 
+- <a name="meklepowiki">**meklepowiki**</a> _v._ ([meklepowi](#meklepowi)+[ki](#ki))  
 
-  - **mailes** _n._ (mai+les)  
-  
 
-  - **mailesak** _n._ (mailes+ak)  
-  
+- <a name="metus">**metus**</a> _n._ (Epo. &langle;meduzo&rangle; [meˈduzo])  
 
-  - **mailet** _n._ (mai+let)  
-  
 
-  - **mailetsoma** _v._ (mailet+soma)  
-  
+- <a name="'methe">**'methe**</a> _n._ (Fra. &langle;mètre&rangle; [ˈmɛtʁ])  
 
-  - **mailetsomales** _n._ (mailetsoma+les)  
-  
 
-  - **mailetsomalon** _n._ (mailetsoma+lon)  
-  
+- <a name="'maoli">**'maoli**</a> _n._ (Mri. &langle;Māori&rangle; [maːɔɾi])  
 
-  - **mailon** _n._ (mai+lon)  
-  
 
-  - **mailuat** _n._ (mai+luat)  
-  
+- <a name="'maoliak">**'maoliak**</a> _n._ (['maoli](#'maoli)+[ak](#ak))  
 
-  - **mailum** _n._ (mai+lum)  
-  
 
-  - **mailyot** _n._ (mai+lyot)  
-  
+- <a name="'maolitec">**'maolitec**</a> _n._ (['maoli](#'maoli)+[tec](#tec))  
 
-  - **mailwel** _n._ (mai+lwel)  
-  
 
-- **maih** _n._ (Cmn. &langle;蚂蚁&rangle; [ma˧˩˧i˧˩˧])  
+- <a name="'maolitilip">**'maolitilip**</a> _n._ (['maoli](#'maoli)+[tilip](#tilip))  
 
 
-  - **maihwok** _n._ (mai+hwok)  
-  
+- <a name="mai">**mai**</a> _v._ (Cmn. &langle;卖&rangle; [maɪ̯˥˩])  
 
-  - **maihwokmailyot** _n._ (maihwok+mailyot)  
-  
 
-  - **maihnyamamamul** _n._ (maih+nyama+mamul)  
-  
+- <a name="mailes">**mailes**</a> _n._ ([mai](#mai)+[les](#les))  
 
-  - **maicuaki** _v._ (mai+cuaki)  
-  
 
-  - **maicuakiles** _n._ (maicuaki+les)  
-  
+- <a name="mailesak">**mailesak**</a> _n._ ([mailes](#mailes)+[ak](#ak))  
 
-  - **maicuakilon** _n._ (maicuaki+lon)  
-  
 
-  - **maicuakilum** _n._ (maicuaki+lum)  
-  
+- <a name="mailet">**mailet**</a> _n._ ([mai](#mai)+[let](#let))  
 
-- **mais** _n._ (Spa. &langle;maíz&rangle; [maˈis])  
 
+- <a name="mailetsoma">**mailetsoma**</a> _v._ ([mailet](#mailet)+[soma](#soma))  
 
-  - **maipaltolum** _n._ (mai+paltolum)  
-  
 
-- **mayo** _v._ (~~pawe~~)  
+- <a name="mailetsomales">**mailetsomales**</a> _n._ ([mailetsoma](#mailetsoma)+[les](#les))  
 
 
-  - **mayolum** _n._ (mayo+lum)  
-  
+- <a name="mailetsomalon">**mailetsomalon**</a> _n._ ([mailetsoma](#mailetsoma)+[lon](#lon))  
 
-  - **mayoki** _v._ (mayo+ki)  
-  
 
-  - **mayokiles** _n._ (mayoki+les)  
-  
+- <a name="mailon">**mailon**</a> _n._ ([mai](#mai)+[lon](#lon))  
 
-- **'malayu** _n._ (Msa. &langle;Melayu&rangle; [məlaju])  
 
+- <a name="mailuat">**mailuat**</a> _n._ ([mai](#mai)+[luat](#luat))  
 
-  - **'malayuak** _n._ ('malayu+ak)  
-  
 
-  - **'malayutec** _n._ ('malayu+tec)  
-  
+- <a name="mailum">**mailum**</a> _n._ ([mai](#mai)+[lum](#lum))  
 
-  - **'malayutilip** _n._ ('malayu+tilip)  
-  
 
-- **'malakasi** _n._ (Mlg. &langle;malagasy&rangle; [ˌmalaˈɡasʲ])  
+- <a name="mailyot">**mailyot**</a> _n._ ([mai](#mai)+[lyot](#lyot))  
 
 
-  - **'malakasiak** _n._ ('malakasi+ak)  
-  
+- <a name="mailwel">**mailwel**</a> _n._ ([mai](#mai)+[lwel](#lwel))  
 
-  - **'malakasikwelyot** _n._ ('malakasi+kwelyot)  
-  
 
-  - **'malakasitec** _n._ ('malakasi+tec)  
-  
+- <a name="maih">**maih**</a> _n._ (Cmn. &langle;蚂蚁&rangle; [ma˧˩˧i˧˩˧])  
 
-  - **'malakasitilip** _n._ ('malakasi+tilip)  
-  
 
-- **'malata** _n._ (Mar. &langle;मराठा&rangle; [məˈɾaʈʰa])  
+- <a name="maihwok">**maihwok**</a> _n._ ([mai](#mai)+[hwok](#hwok))  
 
 
-  - **'malataak** _n._ ('malata+ak)  
-  
+- <a name="maihwokmailyot">**maihwokmailyot**</a> _n._ ([maihwok](#maihwok)+[mailyot](#mailyot))  
 
-  - **'malatatec** _n._ ('malata+tec)  
-  
 
-  - **'malatatilip** _n._ ('malata+tilip)  
-  
+- <a name="maihnyamamamul">**maihnyamamamul**</a> _n._ ([maih](#maih)+[nyama](#nyama)+[mamul](#mamul))  
 
-- **'mali** _n._ (Bam. &langle;Mali&rangle; [mali])  
 
+- <a name="maicuaki">**maicuaki**</a> _v._ ([mai](#mai)+[cuaki](#cuaki))  
 
-  - **'maliak** _n._ ('mali+ak)  
-  
 
-  - **'maliwon** _n._ ('mali+won)  
-  
+- <a name="maicuakiles">**maicuakiles**</a> _n._ ([maicuaki](#maicuaki)+[les](#les))  
 
-- **'malta** _n._ (Mlt. &langle;Malta&rangle; [mɐlta])  
 
+- <a name="maicuakilon">**maicuakilon**</a> _n._ ([maicuaki](#maicuaki)+[lon](#lon))  
 
-  - **'maltaak** _n._ ('malta+ak)  
-  
 
-  - **'maltawon** _n._ ('malta+won)  
-  
+- <a name="maicuakilum">**maicuakilum**</a> _n._ ([maicuaki](#maicuaki)+[lum](#lum))  
 
-  - **'maltatilip** _n._ ('malta+tilip)  
-  
 
-- **manca** _v._ (Nya. &langle;-manja&rangle; [mand͡ʒa])  
+- <a name="mais">**mais**</a> _n._ (Spa. &langle;maíz&rangle; [maˈis])  
+
+
+- <a name="maipaltolum">**maipaltolum**</a> _n._ ([mai](#mai)+[paltolum](#paltolum))  
+
+
+- <a name="mayo">**mayo**</a> _v._ ([~~pawe~~](#pawe))  
+
+
+- <a name="mayolum">**mayolum**</a> _n._ ([mayo](#mayo)+[lum](#lum))  
+
+
+- <a name="mayoki">**mayoki**</a> _v._ ([mayo](#mayo)+[ki](#ki))  
+
+
+- <a name="mayokiles">**mayokiles**</a> _n._ ([mayoki](#mayoki)+[les](#les))  
+
+
+- <a name="'malayu">**'malayu**</a> _n._ (Msa. &langle;Melayu&rangle; [məlaju])  
+
+
+- <a name="'malayuak">**'malayuak**</a> _n._ (['malayu](#'malayu)+[ak](#ak))  
+
+
+- <a name="'malayutec">**'malayutec**</a> _n._ (['malayu](#'malayu)+[tec](#tec))  
+
+
+- <a name="'malayutilip">**'malayutilip**</a> _n._ (['malayu](#'malayu)+[tilip](#tilip))  
+
+
+- <a name="'malakasi">**'malakasi**</a> _n._ (Mlg. &langle;malagasy&rangle; [ˌmalaˈɡasʲ])  
+
+
+- <a name="'malakasiak">**'malakasiak**</a> _n._ (['malakasi](#'malakasi)+[ak](#ak))  
+
+
+- <a name="'malakasikwelyot">**'malakasikwelyot**</a> _n._ (['malakasi](#'malakasi)+[kwelyot](#kwelyot))  
+
+
+- <a name="'malakasitec">**'malakasitec**</a> _n._ (['malakasi](#'malakasi)+[tec](#tec))  
+
+
+- <a name="'malakasitilip">**'malakasitilip**</a> _n._ (['malakasi](#'malakasi)+[tilip](#tilip))  
+
+
+- <a name="'malata">**'malata**</a> _n._ (Mar. &langle;मराठा&rangle; [məˈɾaʈʰa])  
+
+
+- <a name="'malataak">**'malataak**</a> _n._ (['malata](#'malata)+[ak](#ak))  
+
+
+- <a name="'malatatec">**'malatatec**</a> _n._ (['malata](#'malata)+[tec](#tec))  
+
+
+- <a name="'malatatilip">**'malatatilip**</a> _n._ (['malata](#'malata)+[tilip](#tilip))  
+
+
+- <a name="'mali">**'mali**</a> _n._ (Bam. &langle;Mali&rangle; [mali])  
+
+
+- <a name="'maliak">**'maliak**</a> _n._ (['mali](#'mali)+[ak](#ak))  
+
+
+- <a name="'maliwon">**'maliwon**</a> _n._ (['mali](#'mali)+[won](#won))  
+
+
+- <a name="'malta">**'malta**</a> _n._ (Mlt. &langle;Malta&rangle; [mɐlta])  
+
+
+- <a name="'maltaak">**'maltaak**</a> _n._ (['malta](#'malta)+[ak](#ak))  
+
+
+- <a name="'maltawon">**'maltawon**</a> _n._ (['malta](#'malta)+[won](#won))  
+
+
+- <a name="'maltatilip">**'maltatilip**</a> _n._ (['malta](#'malta)+[tilip](#tilip))  
+
+
+- <a name="manca">**manca**</a> _v._ (Nya. &langle;-manja&rangle; [mand͡ʒa])  
 estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de ʟᴜᴍ
 
-  - **mancalon** _n._ (manca+lon)  
-  el lado derecho
+- <a name="mancalon">**mancalon**</a> _n._ ([manca](#manca)+[lon](#lon))  
+el lado derecho
 
-  - **mancalyan** _n._ (manca+lyan)  
-  coordenada _x_
+- <a name="mancalyan">**mancalyan**</a> _n._ ([manca](#manca)+[lyan](#lyan))  
+coordenada _x_
 
-  - **mancaki** _v._ (manca+ki)  
-  
+- <a name="mancaki">**mancaki**</a> _v._ ([manca](#manca)+[ki](#ki))  
 
-- **'manka** _n._ (Jpn. &langle;漫画&rangle; [maŋɡa])  
 
+- <a name="'manka">**'manka**</a> _n._ (Jpn. &langle;漫画&rangle; [maŋɡa])  
 
-- **'mankanum** _n._ (Lat. &langle;manganum&rangle; [manɡanʊ̃])  
 
+- <a name="'mankanum">**'mankanum**</a> _n._ (Lat. &langle;manganum&rangle; [manɡanʊ̃])  
 
-- **mantis** _n._ (Spa. &langle;mantis&rangle; [ˈmantis])  
 
+- <a name="mantis">**mantis**</a> _n._ (Spa. &langle;mantis&rangle; [ˈmantis])  
 
-- **mama** _v._ (ono. [mama])  
 
+- <a name="mama">**mama**</a> _v._ (ono. [mama])  
 
-  - **mamaec** _n._ (mama+ec)  
-  
 
-  - **mamales** _n._ (mama+les)  
-  
+- <a name="mamaec">**mamaec**</a> _n._ ([mama](#mama)+[ec](#ec))  
 
-  - **mamalon** _n._ (mama+lon)  
-  
 
-  - **mamacwelon** _n._ (mama+cwelon)  
-  
+- <a name="mamales">**mamales**</a> _n._ ([mama](#mama)+[les](#les))  
 
-  - **mamacwekutilon** _n._ (mama+cwe+kutilon)  
-  
 
-  - **mamatapalon** _n._ (mama+tapalon)  
-  
+- <a name="mamalon">**mamalon**</a> _n._ ([mama](#mama)+[lon](#lon))  
 
-  - **mamapemamalon** _n._ (mama+pemamalon)  
-  
 
-- **mamul** _n._ (Epo. &langle;mamulo&rangle; [maˈmulo])  
+- <a name="mamacwelon">**mamacwelon**</a> _n._ ([mama](#mama)+[cwelon](#cwelon))  
 
 
-  - **mamulak** _n._ (mamul+ak)  
-  
+- <a name="mamacwekutilon">**mamacwekutilon**</a> _n._ ([mama](#mama)+[cwe](#cwe)+[kutilon](#kutilon))  
 
-- **'mampalam** _n._ (Tam. &langle;மாம்பழம்&rangle; [maːmpɐɻɐm])  
 
+- <a name="mamatapalon">**mamatapalon**</a> _n._ ([mama](#mama)+[tapalon](#tapalon))  
 
-- **'mahlep** _n._ (Ara. &langle;مغرب‎&rangle; [mɑɣreb])  
 
+- <a name="mamapemamalon">**mamapemamalon**</a> _n._ ([mama](#mama)+[pemamalon](#pemamalon))  
 
-  - **'mahlepak** _n._ ('mahlep+ak)  
-  
 
-  - **'mahleptec** _n._ ('mahlep+tec)  
-  
+- <a name="mamul">**mamul**</a> _n._ (Epo. &langle;mamulo&rangle; [maˈmulo])  
 
-  - **'mahleptecwon** _n._ ('mahleptec+won)  
-  
 
-  - **'mahleptilip** _n._ ('mahlep+tilip)  
-  
+- <a name="mamulak">**mamulak**</a> _n._ ([mamul](#mamul)+[ak](#ak))  
 
-- **mace** _v._ (~~paho~~)  
 
+- <a name="'mampalam">**'mampalam**</a> _n._ (Tam. &langle;மாம்பழம்&rangle; [maːmpɐɻɐm])  
 
-  - **macelek** _n._ (mace+lek)  
-  
 
-  - **macelon** _n._ (mace+lon)  
-  
+- <a name="'mahlep">**'mahlep**</a> _n._ (Ara. &langle;مغرب‎&rangle; [mɑɣreb])  
 
-  - **maceki** _v._ (mace+ki)  
-  
 
-  - **macekiles** _n._ (maceki+les)  
-  
+- <a name="'mahlepak">**'mahlepak**</a> _n._ (['mahlep](#'mahlep)+[ak](#ak))  
 
-  - **macetayl** _n._ (mace+tayl)  
-  
 
-  - **macetielon** _n._ (mace+tielon)  
-  
+- <a name="'mahleptec">**'mahleptec**</a> _n._ (['mahlep](#'mahlep)+[tec](#tec))  
 
-  - **macepoltilum** _n._ (mace+poltilum)  
-  
 
-- **macin** _n._ (Eng. &langle;machine&rangle; [məˈʃiːn])  
+- <a name="'mahleptecwon">**'mahleptecwon**</a> _n._ (['mahleptec](#'mahleptec)+[won](#won))  
 
 
-- **'maclek** _n._ (Ara. &langle;مـشـرِق‎‎&rangle; [maʃreq])  
+- <a name="'mahleptilip">**'mahleptilip**</a> _n._ (['mahlep](#'mahlep)+[tilip](#tilip))  
 
 
-  - **'maclekak** _n._ ('maclek+ak)  
-  
+- <a name="mace">**mace**</a> _v._ ([~~paho~~](#paho))  
 
-- **'macpus** _n._ (Ara. &langle;مچبوس&rangle; [mɑt͡ʃˈbuːs])  
 
+- <a name="macelek">**macelek**</a> _n._ ([mace](#mace)+[lek](#lek))  
 
-- **'masyel** _n._ (Mah. &langle;M̧ajeļ&rangle; [mˠɑzʲɛʌ̯ɫ])  
 
+- <a name="macelon">**macelon**</a> _n._ ([mace](#mace)+[lon](#lon))  
 
-  - **'masyelak** _n._ ('masyel+ak)  
-  
 
-  - **'masyelwon** _n._ ('masyel+won)  
-  
+- <a name="maceki">**maceki**</a> _v._ ([mace](#mace)+[ki](#ki))  
 
-  - **'masyeltec** _n._ ('masyel+tec)  
-  
 
-  - **'masyeltilip** _n._ ('masyel+tilip)  
-  
+- <a name="macekiles">**macekiles**</a> _n._ ([maceki](#maceki)+[les](#les))  
 
-- **'masli** _n._ (Ara. &langle;مَصر&rangle; [mɑsˁɾ])  
 
+- <a name="macetayl">**macetayl**</a> _n._ ([mace](#mace)+[tayl](#tayl))  
 
-  - **'masliak** _n._ ('masli+ak)  
-  
 
-  - **'masliwon** _n._ ('masli+won)  
-  
+- <a name="macetielon">**macetielon**</a> _n._ ([mace](#mace)+[tielon](#tielon))  
 
-- **'maskwa** _n._ (Rus. &langle;Москва́&rangle; [mɐˈskva])  
 
+- <a name="macepoltilum">**macepoltilum**</a> _n._ ([mace](#mace)+[poltilum](#poltilum))  
 
-- **'masta** _n._ (Ave. &langle;𐬨𐬀𐬰𐬛𐬁&rangle; [mazdaː])  
 
+- <a name="macin">**macin**</a> _n._ (Eng. &langle;machine&rangle; [məˈʃiːn])  
 
-  - **'mastafitilip** _n._ ('masta+fitilip)  
-  
 
-  - **'mastafitilipak** _n._ ('mastafitilip+ak)  
-  
+- <a name="'maclek">**'maclek**</a> _n._ (Ara. &langle;مـشـرِق‎‎&rangle; [maʃreq])  
 
-  - **'mastafitilipwon** _n._ ('mastafitilip+won)  
-  
 
-- **'maketon** _n._ (Mkd. &langle;Македон&rangle; [makɛdɔn])  
+- <a name="'maclekak">**'maclekak**</a> _n._ (['maclek](#'maclek)+[ak](#ak))  
 
 
-  - **'maketonak** _n._ ('maketon+ak)  
-  
+- <a name="'macpus">**'macpus**</a> _n._ (Ara. &langle;مچبوس&rangle; [mɑt͡ʃˈbuːs])  
 
-  - **'maketonwon** _n._ ('maketon+won)  
-  
 
-  - **'maketontilip** _n._ ('maketon+tilip)  
-  
+- <a name="'masyel">**'masyel**</a> _n._ (Mah. &langle;M̧ajeļ&rangle; [mˠɑzʲɛʌ̯ɫ])  
 
-- **'makahiki** _n._ (Haw. &langle;makahiki&rangle; [makɐˈhiki])  
 
+- <a name="'masyelak">**'masyelak**</a> _n._ (['masyel](#'masyel)+[ak](#ak))  
 
-- **'makyal** _n._ (Hun. &langle;maygar&rangle; [mɒɟɒr])  
 
+- <a name="'masyelwon">**'masyelwon**</a> _n._ (['masyel](#'masyel)+[won](#won))  
 
-  - **'makyalak** _n._ ('makyal+ak)  
-  
 
-  - **'makyaltec** _n._ ('makyal+tec)  
-  
+- <a name="'masyeltec">**'masyeltec**</a> _n._ (['masyel](#'masyel)+[tec](#tec))  
 
-  - **'makyaltilip** _n._ ('makyal+tilip)  
-  
 
-- **'maknesium** _n._ (Lat. &langle;magnesium&rangle; [maɡnezɪʊ̃])  
+- <a name="'masyeltilip">**'masyeltilip**</a> _n._ (['masyel](#'masyel)+[tilip](#tilip))  
 
 
-- **mat** _n._ (~~pal~~)  
+- <a name="'masli">**'masli**</a> _n._ (Ara. &langle;مَصر&rangle; [mɑsˁɾ])  
 
 
-- **matu** _v._ (~~pali~~)  
+- <a name="'masliak">**'masliak**</a> _n._ (['masli](#'masli)+[ak](#ak))  
+
+
+- <a name="'masliwon">**'masliwon**</a> _n._ (['masli](#'masli)+[won](#won))  
+
+
+- <a name="'maskwa">**'maskwa**</a> _n._ (Rus. &langle;Москва́&rangle; [mɐˈskva])  
+
+
+- <a name="'masta">**'masta**</a> _n._ (Ave. &langle;𐬨𐬀𐬰𐬛𐬁&rangle; [mazdaː])  
+
+
+- <a name="'mastafitilip">**'mastafitilip**</a> _n._ (['masta](#'masta)+[fitilip](#fitilip))  
+
+
+- <a name="'mastafitilipak">**'mastafitilipak**</a> _n._ (['mastafitilip](#'mastafitilip)+[ak](#ak))  
+
+
+- <a name="'mastafitilipwon">**'mastafitilipwon**</a> _n._ (['mastafitilip](#'mastafitilip)+[won](#won))  
+
+
+- <a name="'maketon">**'maketon**</a> _n._ (Mkd. &langle;Македон&rangle; [makɛdɔn])  
+
+
+- <a name="'maketonak">**'maketonak**</a> _n._ (['maketon](#'maketon)+[ak](#ak))  
+
+
+- <a name="'maketonwon">**'maketonwon**</a> _n._ (['maketon](#'maketon)+[won](#won))  
+
+
+- <a name="'maketontilip">**'maketontilip**</a> _n._ (['maketon](#'maketon)+[tilip](#tilip))  
+
+
+- <a name="'makahiki">**'makahiki**</a> _n._ (Haw. &langle;makahiki&rangle; [makɐˈhiki])  
+
+
+- <a name="'makyal">**'makyal**</a> _n._ (Hun. &langle;maygar&rangle; [mɒɟɒr])  
+
+
+- <a name="'makyalak">**'makyalak**</a> _n._ (['makyal](#'makyal)+[ak](#ak))  
+
+
+- <a name="'makyaltec">**'makyaltec**</a> _n._ (['makyal](#'makyal)+[tec](#tec))  
+
+
+- <a name="'makyaltilip">**'makyaltilip**</a> _n._ (['makyal](#'makyal)+[tilip](#tilip))  
+
+
+- <a name="'maknesium">**'maknesium**</a> _n._ (Lat. &langle;magnesium&rangle; [maɡnezɪʊ̃])  
+
+
+- <a name="mat">**mat**</a> _n._ ([~~pal~~](#pal))  
+
+
+- <a name="matu">**matu**</a> _v._ ([~~pali~~](#pali))  
 ser ligero; ʟᴏᴧ es ligero
 
-  - **matulon** _n._ (matu+lon)  
-  
+- <a name="matulon">**matulon**</a> _n._ ([matu](#matu)+[lon](#lon))  
 
-  - **matuki** _v._ (matu+ki)  
-  
 
-- **mapametlo** _v._ (~~pamapolte~~)  
+- <a name="matuki">**matuki**</a> _v._ ([matu](#matu)+[ki](#ki))  
 
 
-  - **mapametlolon** _n._ (mapametlo+lon)  
-  
+- <a name="mapametlo">**mapametlo**</a> _v._ ([~~pamapolte~~](#pamapolte))  
 
-  - **mapametloki** _v._ (mapametlo+ki)  
-  
 
-  - **mapametlokiles** _n._ (mapametloki+les)  
-  
+- <a name="mapametlolon">**mapametlolon**</a> _n._ ([mapametlo](#mapametlo)+[lon](#lon))  
 
-- **mo** _v._ (~~pe~~)  
 
+- <a name="mapametloki">**mapametloki**</a> _v._ ([mapametlo](#mapametlo)+[ki](#ki))  
 
-- **moye** _v._ (Yor. &langle;mòye&rangle; [mòjē])  
 
+- <a name="mapametlokiles">**mapametlokiles**</a> _n._ ([mapametloki](#mapametloki)+[les](#les))  
 
-  - **moyelon** _n._ (moye+lon)  
-  
 
-  - **moyelum** _n._ (moye+lum)  
-  
+- <a name="mo">**mo**</a> _v._ ([~~pe~~](#pe))  
 
-  - **moyelyan** _n._ (moye+lyan)  
-  
 
-  - **moyecai** _v._ (moye+cai)  
-  
+- <a name="moye">**moye**</a> _v._ (Yor. &langle;mòye&rangle; [mòjē])  
 
-  - **moyeki** _v._ (moye+ki)  
-  
 
-  - **moyekiles** _n._ (moyeki+les)  
-  
+- <a name="moyelon">**moyelon**</a> _n._ ([moye](#moye)+[lon](#lon))  
 
-  - **moyekilon** _n._ (moyeki+lon)  
-  
 
-  - **moyetiluat** _n._ (moye+tiluat)  
-  
+- <a name="moyelum">**moyelum**</a> _n._ ([moye](#moye)+[lum](#lum))  
 
-  - **moyepatili** _v._ (moye+patili)  
-  
 
-- **mola** _v._ (~~peta~~)  
+- <a name="moyelyan">**moyelyan**</a> _n._ ([moye](#moye)+[lyan](#lyan))  
 
 
-  - **molon** _n._ (mo+lon)  
-  
+- <a name="moyecai">**moyecai**</a> _v._ ([moye](#moye)+[cai](#cai))  
 
-- **'moltofa** _n._ (Ron. &langle;Moldova&rangle; [moldova])  
 
+- <a name="moyeki">**moyeki**</a> _v._ ([moye](#moye)+[ki](#ki))  
 
-  - **'moltofaak** _n._ ('moltofa+ak)  
-  
 
-  - **'moltofawon** _n._ ('moltofa+won)  
-  
+- <a name="moyekiles">**moyekiles**</a> _n._ ([moyeki](#moyeki)+[les](#les))  
 
-  - **'moltofatec** _n._ ('moltofa+tec)  
-  
 
-  - **'moltofatilip** _n._ ('moltofa+tilip)  
-  
+- <a name="moyekilon">**moyekilon**</a> _n._ ([moyeki](#moyeki)+[lon](#lon))  
 
-- **'monako** _n._ (Fra. &langle;Monaco&rangle; [mɔnako])  
 
+- <a name="moyetiluat">**moyetiluat**</a> _n._ ([moye](#moye)+[tiluat](#tiluat))  
 
-  - **'monakoak** _n._ ('monako+ak)  
-  
 
-  - **'monakowon** _n._ ('monako+won)  
-  
+- <a name="moyepatili">**moyepatili**</a> _v._ ([moye](#moye)+[patili](#patili))  
 
-- **'monkol** _n._ (Mon. &langle;ᠮᠣᠩᠭᠣᠯ&rangle; [mɔŋɢɔɮ])  
 
+- <a name="mola">**mola**</a> _v._ ([~~peta~~](#peta))  
 
-  - **'monkolak** _n._ ('monkol+ak)  
-  
 
-  - **'monkoltec** _n._ ('monkol+tec)  
-  
+- <a name="molon">**molon**</a> _n._ ([mo](#mo)+[lon](#lon))  
 
-  - **'monkoltilip** _n._ ('monkol+tilip)  
-  
 
-- **monta** _v._ (Spa. &langle;monta&rangle; [ˈmonta])  
+- <a name="'moltofa">**'moltofa**</a> _n._ (Ron. &langle;Moldova&rangle; [moldova])  
 
 
-  - **montales** _n._ (monta+les)  
-  
+- <a name="'moltofaak">**'moltofaak**</a> _n._ (['moltofa](#'moltofa)+[ak](#ak))  
 
-  - **montalon** _n._ (monta+lon)  
-  
 
-- **'mohis** _n._ (Mfe. &langle;Moris&rangle; [moʁis])  
+- <a name="'moltofawon">**'moltofawon**</a> _n._ (['moltofa](#'moltofa)+[won](#won))  
 
 
-  - **'mohisak** _n._ ('mohis+ak)  
-  
+- <a name="'moltofatec">**'moltofatec**</a> _n._ (['moltofa](#'moltofa)+[tec](#tec))  
 
-  - **'mohiswon** _n._ ('mohis+won)  
-  
 
-  - **'mohistilip** _n._ ('mohis+tilip)  
-  
+- <a name="'moltofatilip">**'moltofatilip**</a> _n._ (['moltofa](#'moltofa)+[tilip](#tilip))  
 
-- **moc** _n._ (Ben. &langle;মশা&rangle; [mɔɕa])  
 
+- <a name="'monako">**'monako**</a> _n._ (Fra. &langle;Monaco&rangle; [mɔnako])  
 
-- **moca** _v._ (Ben. &langle;মজা&rangle; [mɔd͡ʑa])  
 
+- <a name="'monakoak">**'monakoak**</a> _n._ (['monako](#'monako)+[ak](#ak))  
 
-  - **mocaufu** _v._ (moca+ufu)  
-  
 
-  - **mocaufules** _n._ (mocaufu+les)  
-  
+- <a name="'monakowon">**'monakowon**</a> _n._ (['monako](#'monako)+[won](#won))  
 
-  - **mocaufulon** _n._ (mocaufu+lon)  
-  
 
-  - **mocaufulum** _n._ (mocaufu+lum)  
-  
+- <a name="'monkol">**'monkol**</a> _n._ (Mon. &langle;ᠮᠣᠩᠭᠣᠯ&rangle; [mɔŋɢɔɮ])  
 
-  - **mocalon** _n._ (moca+lon)  
-  
 
-  - **mocalum** _n._ (moca+lum)  
-  
+- <a name="'monkolak">**'monkolak**</a> _n._ (['monkol](#'monkol)+[ak](#ak))  
 
-  - **mocalwel** _n._ (moca+lwel)  
-  
 
-  - **mocacwelon** _n._ (moca+cwelon)  
-  
+- <a name="'monkoltec">**'monkoltec**</a> _n._ (['monkol](#'monkol)+[tec](#tec))  
 
-  - **mocacwelonak** _n._ (mocacwelon+ak)  
-  
 
-  - **mocafake** _v._ (moca+fake)  
-  
+- <a name="'monkoltilip">**'monkoltilip**</a> _n._ (['monkol](#'monkol)+[tilip](#tilip))  
 
-  - **mocafakelon** _n._ (mocafake+lon)  
-  
 
-  - **mocafakenu** _v._ (mocafake+nu)  
-  
+- <a name="monta">**monta**</a> _v._ (Spa. &langle;monta&rangle; [ˈmonta])  
 
-  - **mocafakeki** _v._ (mocafake+ki)  
-  
 
-  - **mocaki** _v._ (moca+ki)  
-  
+- <a name="montales">**montales**</a> _n._ ([monta](#monta)+[les](#les))  
 
-  - **mocakiles** _n._ (mocaki+les)  
-  
 
-- **mota** _v._ (Mar. &langle;मोठा&rangle; [moʈʰaː])  
+- <a name="montalon">**montalon**</a> _n._ ([monta](#monta)+[lon](#lon))  
 
 
-  - **motaipis** _n._ (mota+ipis)  
-  
+- <a name="'mohis">**'mohis**</a> _n._ (Mfe. &langle;Moris&rangle; [moʁis])  
 
-  - **motayeh** _n._ (mota+yeh)  
-  
 
-  - **motalamasiklalonkil** _n._ (mota+lamasiklalon+kil)  
-  
+- <a name="'mohisak">**'mohisak**</a> _n._ (['mohis](#'mohis)+[ak](#ak))  
 
-  - **motalon** _n._ (mota+lon)  
-  
 
-  - **motalonicelum** _n._ (motalon+icelum)  
-  
+- <a name="'mohiswon">**'mohiswon**</a> _n._ (['mohis](#'mohis)+[won](#won))  
 
-  - **motalyan** _n._ (mota+lyan)  
-  
 
-  - **motawaluh** _n._ (mota+waluh)  
-  
+- <a name="'mohistilip">**'mohistilip**</a> _n._ (['mohis](#'mohis)+[tilip](#tilip))  
 
-  - **motanilututumulwel** _n._ (mota+nilututumulwel)  
-  
 
-  - **motanilututumulwelles** _n._ (motanilututumulwel+les)  
-  
+- <a name="moc">**moc**</a> _n._ (Ben. &langle;মশা&rangle; [mɔɕa])  
 
-  - **motamontalon** _n._ (mota+montalon)  
-  
 
-  - **motacim** _n._ (mota+cim)  
-  
+- <a name="moca">**moca**</a> _v._ (Ben. &langle;মজা&rangle; [mɔd͡ʑa])  
 
-  - **motacutalawt** _n._ (mota+cuta+lawt)  
-  
 
-  - **motacutalawtak** _n._ (motacutalawt+ak)  
-  
+- <a name="mocaufu">**mocaufu**</a> _v._ ([moca](#moca)+[ufu](#ufu))  
 
-  - **motaswa** _v._ (mota+swa)  
-  
 
-  - **motaswalon** _n._ (motaswa+lon)  
-  
+- <a name="mocaufules">**mocaufules**</a> _n._ ([mocaufu](#mocaufu)+[les](#les))  
 
-  - **motaswalum** _n._ (motaswa+lum)  
-  
 
-  - **mota'kantatec** _n._ (mota+'kantatec)  
-  
+- <a name="mocaufulon">**mocaufulon**</a> _n._ ([mocaufu](#mocaufu)+[lon](#lon))  
 
-  - **mota'kantatecak** _n._ (mota'kantatec+ak)  
-  
 
-  - **mota'kantatectec** _n._ (mota'kantatec+tec)  
-  
+- <a name="mocaufulum">**mocaufulum**</a> _n._ ([mocaufu](#mocaufu)+[lum](#lum))  
 
-  - **motaki** _v._ (mota+ki)  
-  
 
-  - **motakiah** _n._ (mota+kiah)  
-  
+- <a name="mocalon">**mocalon**</a> _n._ ([moca](#moca)+[lon](#lon))  
 
-  - **motakiles** _n._ (motaki+les)  
-  
 
-  - **motakilon** _n._ (motaki+lon)  
-  
+- <a name="mocalum">**mocalum**</a> _n._ ([moca](#moca)+[lum](#lum))  
 
-  - **motakilonpes** _n._ (motakilon+pes)  
-  
 
-  - **motapum** _n._ (mota+pum)  
-  
+- <a name="mocalwel">**mocalwel**</a> _n._ ([moca](#moca)+[lwel](#lwel))  
 
-  - **motapumak** _n._ (motapum+ak)  
-  
 
-  - **mota'pwitan** _n._ (mota+'pwitan)  
-  
+- <a name="mocacwelon">**mocacwelon**</a> _n._ ([moca](#moca)+[cwelon](#cwelon))  
 
-- **mila** _v._ (Sho. &langle;mira&rangle; [mira])  
 
+- <a name="mocacwelonak">**mocacwelonak**</a> _n._ ([mocacwelon](#mocacwelon)+[ak](#ak))  
 
-  - **milalon** _n._ (mila+lon)  
-  
 
-- **milu** _v._ (~~puti~~)  
+- <a name="mocafake">**mocafake**</a> _v._ ([moca](#moca)+[fake](#fake))  
 
 
-  - **miluilulih** _n._ (milu+ilu+lih)  
-  
+- <a name="mocafakelon">**mocafakelon**</a> _n._ ([mocafake](#mocafake)+[lon](#lon))  
 
-  - **milulon** _n._ (milu+lon)  
-  
 
-  - **miluki** _v._ (milu+ki)  
-  
+- <a name="mocafakenu">**mocafakenu**</a> _v._ ([mocafake](#mocafake)+[nu](#nu))  
 
-  - **milukuta** _v._ (milu+kuta)  
-  
 
-  - **milukutalon** _n._ (milukuta+lon)  
-  
+- <a name="mocafakeki">**mocafakeki**</a> _v._ ([mocafake](#mocafake)+[ki](#ki))  
 
-  - **milukutahutyeh** _n._ (milukuta+hutyeh)  
-  
 
-  - **milukutaki** _v._ (milukuta+ki)  
-  
+- <a name="mocaki">**mocaki**</a> _v._ ([moca](#moca)+[ki](#ki))  
 
-- **min** _pn._ (Pan. &langle;ਮੈਂ&rangle; [mɛ̃ː])  
 
+- <a name="mocakiles">**mocakiles**</a> _n._ ([mocaki](#mocaki)+[les](#les))  
 
-  - **minet** _pn._ (min+et)  
-  
 
-  - **minetak** _n._ (minet+ak)  
-  
+- <a name="mota">**mota**</a> _v._ (Mar. &langle;मोठा&rangle; [moʈʰaː])  
 
-  - **minak** _n._ (min+ak)  
-  
 
-  - **minpuk** _pn._ (min+puk)  
-  
+- <a name="motaipis">**motaipis**</a> _n._ ([mota](#mota)+[ipis](#ipis))  
 
-  - **minpukak** _n._ (minpuk+ak)  
-  
 
-- **mih** _n._ (Spa. &langle;mijo&rangle; [ˈmixo])  
+- <a name="motayeh">**motayeh**</a> _n._ ([mota](#mota)+[yeh](#yeh))  
 
 
-- **'mihowtaw** _n._ (Cmn. &langle;猕猴桃&rangle; [mi˧˥xoʊ̯˧˥tʰaʊ̯˧˥])  
+- <a name="motalamasiklalonkil">**motalamasiklalonkil**</a> _n._ ([mota](#mota)+[lamasiklalon](#lamasiklalon)+[kil](#kil))  
 
 
-- **mihu** _v._ (~~puci~~)  
+- <a name="motalon">**motalon**</a> _n._ ([mota](#mota)+[lon](#lon))  
 
 
-  - **mihules** _n._ (mihu+les)  
-  
+- <a name="motalonicelum">**motalonicelum**</a> _n._ ([motalon](#motalon)+[icelum](#icelum))  
 
-  - **mihulon** _n._ (mihu+lon)  
-  
 
-  - **mihutatu** _v._ (mihu+tatu)  
-  
+- <a name="motalyan">**motalyan**</a> _n._ ([mota](#mota)+[lyan](#lyan))  
 
-  - **mihutatulon** _n._ (mihutatu+lon)  
-  
 
-  - **mihutatuniluhilasoma** _v._ (mihutatu+nilu+hila+soma)  
-  
+- <a name="motawaluh">**motawaluh**</a> _n._ ([mota](#mota)+[waluh](#waluh))  
 
-  - **mihutatuniluhilasomalon** _n._ (mihutatuniluhilasoma+lon)  
-  
 
-  - **mihutatuniluhilasomales** _n._ (mihutatuniluhilasoma+les)  
-  
+- <a name="motanilututumulwel">**motanilututumulwel**</a> _n._ ([mota](#mota)+[nilututumulwel](#nilututumulwel))  
 
-- **miclo** _v._ (Ben. &langle;মিশ্র&rangle; [miɕrɔ])  
 
+- <a name="motanilututumulwelles">**motanilututumulwelles**</a> _n._ ([motanilututumulwel](#motanilututumulwel)+[les](#les))  
 
-  - **miclolon** _n._ (miclo+lon)  
-  
 
-  - **miclolum** _n._ (miclo+lum)  
-  
+- <a name="motamontalon">**motamontalon**</a> _n._ ([mota](#mota)+[montalon](#montalon))  
 
-  - **miclolyot** _n._ (miclo+lyot)  
-  
 
-  - **micloki** _v._ (miclo+ki)  
-  
+- <a name="motacim">**motacim**</a> _n._ ([mota](#mota)+[cim](#cim))  
 
-- **'mikhonesi** _n._ (Fra. &langle;Micronésie&rangle; [ˈmikʁonezi])  
 
+- <a name="motacutalawt">**motacutalawt**</a> _n._ ([mota](#mota)+[cuta](#cuta)+[lawt](#lawt))  
 
-  - **'mikhonesiak** _n._ ('mikhonesi+ak)  
-  
 
-  - **'mikhonesiwon** _n._ ('mikhonesi+won)  
-  
+- <a name="motacutalawtak">**motacutalawtak**</a> _n._ ([motacutalawt](#motacutalawt)+[ak](#ak))  
 
-  - **'mikhonesitec** _n._ ('mikhonesi+tec)  
-  
 
-  - **'mikhonesitecwon** _n._ ('mikhonesitec+won)  
-  
+- <a name="motaswa">**motaswa**</a> _v._ ([mota](#mota)+[swa](#swa))  
 
-- **mita** _v._ (~~pula~~)  
 
+- <a name="motaswalon">**motaswalon**</a> _n._ ([motaswa](#motaswa)+[lon](#lon))  
 
-  - **mitalon** _n._ (mita+lon)  
-  
 
-  - **mitaki** _v._ (mita+ki)  
-  
+- <a name="motaswalum">**motaswalum**</a> _n._ ([motaswa](#motaswa)+[lum](#lum))  
 
-  - **mitakiles** _n._ (mitaki+les)  
-  
 
-- **mitu** _v._ (~~puli~~)  
+- <a name="mota'kantatec">**mota'kantatec**</a> _n._ ([mota](#mota)+['kantatec](#'kantatec))  
 
 
-  - **mitulon** _n._ (mitu+lon)  
-  
+- <a name="mota'kantatecak">**mota'kantatecak**</a> _n._ ([mota'kantatec](#mota'kantatec)+[ak](#ak))  
 
-  - **mituki** _v._ (mitu+ki)  
-  
 
-- **mip** _n._ (~~pum~~)  
+- <a name="mota'kantatectec">**mota'kantatectec**</a> _n._ ([mota'kantatec](#mota'kantatec)+[tec](#tec))  
 
 
-  - **mipalaktan** _n._ (mip+alaktan)  
-  
+- <a name="motaki">**motaki**</a> _v._ ([mota](#mota)+[ki](#ki))  
 
-  - **mipak** _n._ (mip+ak)  
-  
 
-  - **mipinanu** _v._ (mip+inanu)  
-  
+- <a name="motakiah">**motakiah**</a> _n._ ([mota](#mota)+[kiah](#kiah))  
 
-  - **mipinanules** _n._ (mipinanu+les)  
-  
 
-  - **mipmontalon** _n._ (mip+montalon)  
-  
+- <a name="motakiles">**motakiles**</a> _n._ ([motaki](#motaki)+[les](#les))  
 
-  - **miphila** _v._ (mip+hila)  
-  
 
-  - **miphilales** _n._ (miphila+les)  
-  
+- <a name="motakilon">**motakilon**</a> _n._ ([motaki](#motaki)+[lon](#lon))  
 
-  - **miphyolon** _n._ (mip+hyolon)  
-  
 
-  - **miphwolon** _n._ (mip+hwolon)  
-  
+- <a name="motakilonpes">**motakilonpes**</a> _n._ ([motakilon](#motakilon)+[pes](#pes))  
 
-  - **mipcakalum** _n._ (mip+cakalum)  
-  
 
-  - **mipkae** _v._ (mip+kae)  
-  
+- <a name="motapum">**motapum**</a> _n._ ([mota](#mota)+[pum](#pum))  
 
-  - **mipkaelon** _n._ (mipkae+lon)  
-  
 
-  - **mipkaesilakipowinules** _n._ (mipkae+silakipowinules)  
-  
+- <a name="motapumak">**motapumak**</a> _n._ ([motapum](#motapum)+[ak](#ak))  
 
-  - **mippes** _n._ (mip+pes)  
-  
 
-  - **mippum** _n._ (mip+pum)  
-  
+- <a name="mota'pwitan">**mota'pwitan**</a> _n._ ([mota](#mota)+['pwitan](#'pwitan))  
 
-  - **mippumak** _n._ (mippum+ak)  
-  
 
-- **muafa** _v._ (~~piasa~~)  
+- <a name="mila">**mila**</a> _v._ (Sho. &langle;mira&rangle; [mira])  
 
 
-  - **muafalon** _n._ (muafa+lon)  
-  
+- <a name="milalon">**milalon**</a> _n._ ([mila](#mila)+[lon](#lon))  
 
-  - **muafalum** _n._ (muafa+lum)  
-  
 
-  - **muafaki** _v._ (muafa+ki)  
-  
+- <a name="milu">**milu**</a> _v._ ([~~puti~~](#puti))  
 
-  - **muafakiles** _n._ (muafaki+les)  
-  
 
-- **'mulitanya** _n._ (Ara. &langle;موريتانيا‎&rangle; [muːriːtaːnijaː])  
+- <a name="miluilulih">**miluilulih**</a> _n._ ([milu](#milu)+[ilu](#ilu)+[lih](#lih))  
 
 
-  - **'mulitanyaak** _n._ ('mulitanya+ak)  
-  
+- <a name="milulon">**milulon**</a> _n._ ([milu](#milu)+[lon](#lon))  
 
-  - **'mulitanyawon** _n._ ('mulitanya+won)  
-  
 
-- **munaklo** _v._ (~~pikante~~)  
+- <a name="miluki">**miluki**</a> _v._ ([milu](#milu)+[ki](#ki))  
 
 
-  - **munaklolon** _n._ (munaklo+lon)  
-  
+- <a name="milukuta">**milukuta**</a> _v._ ([milu](#milu)+[kuta](#kuta))  
 
-  - **munakloki** _v._ (munaklo+ki)  
-  
 
-- **mumu** _v._ (ono. [mː])  
+- <a name="milukutalon">**milukutalon**</a> _n._ ([milukuta](#milukuta)+[lon](#lon))  
 
 
-  - **mumulon** _n._ (mumu+lon)  
-  
+- <a name="milukutahutyeh">**milukutahutyeh**</a> _n._ ([milukuta](#milukuta)+[hutyeh](#hutyeh))  
 
-  - **mumucipcip** _n._ (mumu+cipcip)  
-  
 
-- **'mumpai** _n._ (Mar. &langle;मुंबई&rangle; [mumbaiː])  
+- <a name="milukutaki">**milukutaki**</a> _v._ ([milukuta](#milukuta)+[ki](#ki))  
 
 
-- **muc** _num._ (Spa. &langle;mucho&rangle; [ˈmut͡ʃo])  
+- <a name="min">**min**</a> _pn._ (Pan. &langle;ਮੈਂ&rangle; [mɛ̃ː])  
+
+
+- <a name="minet">**minet**</a> _pn._ ([min](#min)+[et](#et))  
+
+
+- <a name="minetak">**minetak**</a> _n._ ([minet](#minet)+[ak](#ak))  
+
+
+- <a name="minak">**minak**</a> _n._ ([min](#min)+[ak](#ak))  
+
+
+- <a name="minpuk">**minpuk**</a> _pn._ ([min](#min)+[puk](#puk))  
+
+
+- <a name="minpukak">**minpukak**</a> _n._ ([minpuk](#minpuk)+[ak](#ak))  
+
+
+- <a name="mih">**mih**</a> _n._ (Spa. &langle;mijo&rangle; [ˈmixo])  
+
+
+- <a name="'mihowtaw">**'mihowtaw**</a> _n._ (Cmn. &langle;猕猴桃&rangle; [mi˧˥xoʊ̯˧˥tʰaʊ̯˧˥])  
+
+
+- <a name="mihu">**mihu**</a> _v._ ([~~puci~~](#puci))  
+
+
+- <a name="mihules">**mihules**</a> _n._ ([mihu](#mihu)+[les](#les))  
+
+
+- <a name="mihulon">**mihulon**</a> _n._ ([mihu](#mihu)+[lon](#lon))  
+
+
+- <a name="mihutatu">**mihutatu**</a> _v._ ([mihu](#mihu)+[tatu](#tatu))  
+
+
+- <a name="mihutatulon">**mihutatulon**</a> _n._ ([mihutatu](#mihutatu)+[lon](#lon))  
+
+
+- <a name="mihutatuniluhilasoma">**mihutatuniluhilasoma**</a> _v._ ([mihutatu](#mihutatu)+[nilu](#nilu)+[hila](#hila)+[soma](#soma))  
+
+
+- <a name="mihutatuniluhilasomalon">**mihutatuniluhilasomalon**</a> _n._ ([mihutatuniluhilasoma](#mihutatuniluhilasoma)+[lon](#lon))  
+
+
+- <a name="mihutatuniluhilasomales">**mihutatuniluhilasomales**</a> _n._ ([mihutatuniluhilasoma](#mihutatuniluhilasoma)+[les](#les))  
+
+
+- <a name="miclo">**miclo**</a> _v._ (Ben. &langle;মিশ্র&rangle; [miɕrɔ])  
+
+
+- <a name="miclolon">**miclolon**</a> _n._ ([miclo](#miclo)+[lon](#lon))  
+
+
+- <a name="miclolum">**miclolum**</a> _n._ ([miclo](#miclo)+[lum](#lum))  
+
+
+- <a name="miclolyot">**miclolyot**</a> _n._ ([miclo](#miclo)+[lyot](#lyot))  
+
+
+- <a name="micloki">**micloki**</a> _v._ ([miclo](#miclo)+[ki](#ki))  
+
+
+- <a name="'mikhonesi">**'mikhonesi**</a> _n._ (Fra. &langle;Micronésie&rangle; [ˈmikʁonezi])  
+
+
+- <a name="'mikhonesiak">**'mikhonesiak**</a> _n._ (['mikhonesi](#'mikhonesi)+[ak](#ak))  
+
+
+- <a name="'mikhonesiwon">**'mikhonesiwon**</a> _n._ (['mikhonesi](#'mikhonesi)+[won](#won))  
+
+
+- <a name="'mikhonesitec">**'mikhonesitec**</a> _n._ (['mikhonesi](#'mikhonesi)+[tec](#tec))  
+
+
+- <a name="'mikhonesitecwon">**'mikhonesitecwon**</a> _n._ (['mikhonesitec](#'mikhonesitec)+[won](#won))  
+
+
+- <a name="mita">**mita**</a> _v._ ([~~pula~~](#pula))  
+
+
+- <a name="mitalon">**mitalon**</a> _n._ ([mita](#mita)+[lon](#lon))  
+
+
+- <a name="mitaki">**mitaki**</a> _v._ ([mita](#mita)+[ki](#ki))  
+
+
+- <a name="mitakiles">**mitakiles**</a> _n._ ([mitaki](#mitaki)+[les](#les))  
+
+
+- <a name="mitu">**mitu**</a> _v._ ([~~puli~~](#puli))  
+
+
+- <a name="mitulon">**mitulon**</a> _n._ ([mitu](#mitu)+[lon](#lon))  
+
+
+- <a name="mituki">**mituki**</a> _v._ ([mitu](#mitu)+[ki](#ki))  
+
+
+- <a name="mip">**mip**</a> _n._ ([~~pum~~](#pum))  
+
+
+- <a name="mipalaktan">**mipalaktan**</a> _n._ ([mip](#mip)+[alaktan](#alaktan))  
+
+
+- <a name="mipak">**mipak**</a> _n._ ([mip](#mip)+[ak](#ak))  
+
+
+- <a name="mipinanu">**mipinanu**</a> _v._ ([mip](#mip)+[inanu](#inanu))  
+
+
+- <a name="mipinanules">**mipinanules**</a> _n._ ([mipinanu](#mipinanu)+[les](#les))  
+
+
+- <a name="mipmontalon">**mipmontalon**</a> _n._ ([mip](#mip)+[montalon](#montalon))  
+
+
+- <a name="miphila">**miphila**</a> _v._ ([mip](#mip)+[hila](#hila))  
+
+
+- <a name="miphilales">**miphilales**</a> _n._ ([miphila](#miphila)+[les](#les))  
+
+
+- <a name="miphyolon">**miphyolon**</a> _n._ ([mip](#mip)+[hyolon](#hyolon))  
+
+
+- <a name="miphwolon">**miphwolon**</a> _n._ ([mip](#mip)+[hwolon](#hwolon))  
+
+
+- <a name="mipcakalum">**mipcakalum**</a> _n._ ([mip](#mip)+[cakalum](#cakalum))  
+
+
+- <a name="mipkae">**mipkae**</a> _v._ ([mip](#mip)+[kae](#kae))  
+
+
+- <a name="mipkaelon">**mipkaelon**</a> _n._ ([mipkae](#mipkae)+[lon](#lon))  
+
+
+- <a name="mipkaesilakipowinules">**mipkaesilakipowinules**</a> _n._ ([mipkae](#mipkae)+[silakipowinules](#silakipowinules))  
+
+
+- <a name="mippes">**mippes**</a> _n._ ([mip](#mip)+[pes](#pes))  
+
+
+- <a name="mippum">**mippum**</a> _n._ ([mip](#mip)+[pum](#pum))  
+
+
+- <a name="mippumak">**mippumak**</a> _n._ ([mippum](#mippum)+[ak](#ak))  
+
+
+- <a name="muafa">**muafa**</a> _v._ ([~~piasa~~](#piasa))  
+
+
+- <a name="muafalon">**muafalon**</a> _n._ ([muafa](#muafa)+[lon](#lon))  
+
+
+- <a name="muafalum">**muafalum**</a> _n._ ([muafa](#muafa)+[lum](#lum))  
+
+
+- <a name="muafaki">**muafaki**</a> _v._ ([muafa](#muafa)+[ki](#ki))  
+
+
+- <a name="muafakiles">**muafakiles**</a> _n._ ([muafaki](#muafaki)+[les](#les))  
+
+
+- <a name="'mulitanya">**'mulitanya**</a> _n._ (Ara. &langle;موريتانيا‎&rangle; [muːriːtaːnijaː])  
+
+
+- <a name="'mulitanyaak">**'mulitanyaak**</a> _n._ (['mulitanya](#'mulitanya)+[ak](#ak))  
+
+
+- <a name="'mulitanyawon">**'mulitanyawon**</a> _n._ (['mulitanya](#'mulitanya)+[won](#won))  
+
+
+- <a name="munaklo">**munaklo**</a> _v._ ([~~pikante~~](#pikante))  
+
+
+- <a name="munaklolon">**munaklolon**</a> _n._ ([munaklo](#munaklo)+[lon](#lon))  
+
+
+- <a name="munakloki">**munakloki**</a> _v._ ([munaklo](#munaklo)+[ki](#ki))  
+
+
+- <a name="mumu">**mumu**</a> _v._ (ono. [mː])  
+
+
+- <a name="mumulon">**mumulon**</a> _n._ ([mumu](#mumu)+[lon](#lon))  
+
+
+- <a name="mumucipcip">**mumucipcip**</a> _n._ ([mumu](#mumu)+[cipcip](#cipcip))  
+
+
+- <a name="'mumpai">**'mumpai**</a> _n._ (Mar. &langle;मुंबई&rangle; [mumbaiː])  
+
+
+- <a name="muc">**muc**</a> _num._ (Spa. &langle;mucho&rangle; [ˈmut͡ʃo])  
 mucho; muchos
 
-  - **muconalon** _n._ (muc+onalon)  
-  
+- <a name="muconalon">**muconalon**</a> _n._ ([muc](#muc)+[onalon](#onalon))  
 
-  - **muclono** _v._ (muc+lono)  
-  
 
-  - **muclonolon** _n._ (muclono+lon)  
-  
+- <a name="muclono">**muclono**</a> _v._ ([muc](#muc)+[lono](#lono))  
 
-  - **mucmai** _v._ (muc+mai)  
-  
 
-  - **muccih** _n._ (muc+cih)  
-  
+- <a name="muclonolon">**muclonolon**</a> _n._ ([muclono](#muclono)+[lon](#lon))  
 
-  - **muccwelon** _n._ (muc+cwelon)  
-  
 
-  - **muccwepucolon** _n._ (muc+cwepucolon)  
-  
+- <a name="mucmai">**mucmai**</a> _v._ ([muc](#muc)+[mai](#mai))  
 
-  - **mucsite** _v._ (muc+site)  
-  
 
-  - **mucsitelon** _n._ (mucsite+lon)  
-  
+- <a name="muccih">**muccih**</a> _n._ ([muc](#muc)+[cih](#cih))  
 
-  - **muckot** _n._ (muc+kot)  
-  
 
-  - **muctec** _n._ (muc+tec)  
-  
+- <a name="muccwelon">**muccwelon**</a> _n._ ([muc](#muc)+[cwelon](#cwelon))  
 
-  - **muctecak** _n._ (muc+tecak)  
-  
 
-  - **muctecaktilip** _n._ (muctecak+tilip)  
-  
+- <a name="muccwepucolon">**muccwepucolon**</a> _n._ ([muc](#muc)+[cwepucolon](#cwepucolon))  
 
-  - **muctayl** _n._ (muc+tayl)  
-  
 
-  - **muctue** _v._ (muc+tue)  
-  
+- <a name="mucsite">**mucsite**</a> _v._ ([muc](#muc)+[site](#site))  
 
-  - **muctuelon** _n._ (muctue+lon)  
-  
 
-  - **muctunci** _v._ (muc+tunci)  
-  
+- <a name="mucsitelon">**mucsitelon**</a> _n._ ([mucsite](#mucsite)+[lon](#lon))  
 
-  - **muctuncilum** _n._ (muctunci+lum)  
-  
 
-  - **muctuncilyot** _n._ (muctunci+lyot)  
-  
+- <a name="muckot">**muckot**</a> _n._ ([muc](#muc)+[kot](#kot))  
 
-  - **mucpatolon** _n._ (muc+patolon)  
-  
 
-  - **mucpil** _n._ (muc+pil)  
-  
+- <a name="muctec">**muctec**</a> _n._ ([muc](#muc)+[tec](#tec))  
 
-  - **mucpihtayl** _n._ (muc+pih+tayl)  
-  
 
-- **'musampiki** _n._ (Por. &langle;Moçambique&rangle; [musɐ̃ˈbikɨ])  
+- <a name="muctecak">**muctecak**</a> _n._ ([muc](#muc)+[tecak](#tecak))  
 
 
-  - **'musampikiak** _n._ ('musampiki+ak)  
-  
+- <a name="muctecaktilip">**muctecaktilip**</a> _n._ ([muctecak](#muctecak)+[tilip](#tilip))  
 
-  - **'musampikitec** _n._ ('musampiki+tec)  
-  
 
-  - **'musampikitecwon** _n._ ('musampikitec+won)  
-  
+- <a name="muctayl">**muctayl**</a> _n._ ([muc](#muc)+[tayl](#tayl))  
 
-- **muf** _n._ (ono. [muː])  
 
+- <a name="muctue">**muctue**</a> _v._ ([muc](#muc)+[tue](#tue))  
 
-- **muk** _n._ (Ben. &langle;মুখ&rangle; [mukʰ])  
 
+- <a name="muctuelon">**muctuelon**</a> _n._ ([muctue](#muctue)+[lon](#lon))  
 
-  - **mukak** _n._ (muk+ak)  
-  
 
-- **mut** _n._ (~~pil~~)  
+- <a name="muctunci">**muctunci**</a> _v._ ([muc](#muc)+[tunci](#tunci))  
 
 
-- **muta** _v._ (~~pila~~)  
+- <a name="muctuncilum">**muctuncilum**</a> _n._ ([muctunci](#muctunci)+[lum](#lum))  
 
 
-  - **mutalon** _n._ (muta+lon)  
-  
+- <a name="muctuncilyot">**muctuncilyot**</a> _n._ ([muctunci](#muctunci)+[lyot](#lyot))  
 
-  - **mutak** _n._ (mut+ak)  
-  
 
-  - **mutaki** _v._ (muta+ki)  
-  
+- <a name="mucpatolon">**mucpatolon**</a> _n._ ([muc](#muc)+[patolon](#patolon))  
 
-  - **mutatawh** _n._ (muta+tawh)  
-  
 
-- **myawf** _n._ (ono. [mjaw])  
+- <a name="mucpil">**mucpil**</a> _n._ ([muc](#muc)+[pil](#pil))  
 
 
-  - **myawfak** _n._ (myawf+ak)  
-  
+- <a name="mucpihtayl">**mucpihtayl**</a> _n._ ([muc](#muc)+[pih](#pih)+[tayl](#tayl))  
 
-- **mwe** _v._ (~~pyo~~)  
 
+- <a name="'musampiki">**'musampiki**</a> _n._ (Por. &langle;Moçambique&rangle; [musɐ̃ˈbikɨ])  
 
-  - **mwelon** _n._ (mwe+lon)  
-  
 
-  - **mwelum** _n._ (mwe+lum)  
-  
+- <a name="'musampikiak">**'musampikiak**</a> _n._ (['musampiki](#'musampiki)+[ak](#ak))  
 
-  - **mweki** _v._ (mwe+ki)  
-  
 
-  - **mwepowi** _v._ (mwe+powi)  
-  
+- <a name="'musampikitec">**'musampikitec**</a> _n._ (['musampiki](#'musampiki)+[tec](#tec))  
 
-  - **mwepowilon** _n._ (mwepowi+lon)  
-  
 
-  - **mwepowiki** _v._ (mwepowi+ki)  
-  
+- <a name="'musampikitecwon">**'musampikitecwon**</a> _n._ (['musampikitec](#'musampikitec)+[won](#won))  
 
-- **mwa** _v._ (ono. [mwa])  
 
+- <a name="muf">**muf**</a> _n._ (ono. [muː])  
 
-  - **mwales** _n._ (mwa+les)  
-  
 
-  - **mwalon** _n._ (mwa+lon)  
-  
+- <a name="muk">**muk**</a> _n._ (Ben. &langle;মুখ&rangle; [mukʰ])  
 
-- **mwoni** _v._ (Cmn. &langle;模拟&rangle; [mwɔ˧˥ni˧˩˧])  
 
+- <a name="mukak">**mukak**</a> _n._ ([muk](#muk)+[ak](#ak))  
 
-  - **mwoniles** _n._ (mwoni+les)  
-  
 
-  - **mwonilon** _n._ (mwoni+lon)  
-  
+- <a name="mut">**mut**</a> _n._ ([~~pil~~](#pil))  
 
-  - **mwonilum** _n._ (mwoni+lum)  
-  
 
-- **mwok** _n._ (Cmn. &langle;蘑菇&rangle; [mwɔ˧˥ku])  
+- <a name="muta">**muta**</a> _v._ ([~~pila~~](#pila))  
 
 
-## h
+- <a name="mutalon">**mutalon**</a> _n._ ([muta](#muta)+[lon](#lon))  
 
-- **'helium** _n._ (Lat. &langle;helium&rangle; [hɛlɪʊ̃])  
 
+- <a name="mutak">**mutak**</a> _n._ ([mut](#mut)+[ak](#ak))  
 
-- **'helsekowina** _n._ (Bos. &langle;Hercegovina&rangle; [xɛ̌rtsɛɡov̞ina])  
 
+- <a name="mutaki">**mutaki**</a> _v._ ([muta](#muta)+[ki](#ki))  
 
-  - **'helsekowinaak** _n._ ('helsekowina+ak)  
-  
 
-  - **'helsekowinawon** _n._ ('helsekowina+won)  
-  
+- <a name="mutatawh">**mutatawh**</a> _n._ ([muta](#muta)+[tawh](#tawh))  
 
-- **hes** _num._ (Eng. &langle;hex&rangle; [hɛks])  
+
+- <a name="myawf">**myawf**</a> _n._ (ono. [mjaw])  
+
+
+- <a name="myawfak">**myawfak**</a> _n._ ([myawf](#myawf)+[ak](#ak))  
+
+
+- <a name="mwe">**mwe**</a> _v._ ([~~pyo~~](#pyo))  
+
+
+- <a name="mwelon">**mwelon**</a> _n._ ([mwe](#mwe)+[lon](#lon))  
+
+
+- <a name="mwelum">**mwelum**</a> _n._ ([mwe](#mwe)+[lum](#lum))  
+
+
+- <a name="mweki">**mweki**</a> _v._ ([mwe](#mwe)+[ki](#ki))  
+
+
+- <a name="mwepowi">**mwepowi**</a> _v._ ([mwe](#mwe)+[powi](#powi))  
+
+
+- <a name="mwepowilon">**mwepowilon**</a> _n._ ([mwepowi](#mwepowi)+[lon](#lon))  
+
+
+- <a name="mwepowiki">**mwepowiki**</a> _v._ ([mwepowi](#mwepowi)+[ki](#ki))  
+
+
+- <a name="mwa">**mwa**</a> _v._ (ono. [mwa])  
+
+
+- <a name="mwales">**mwales**</a> _n._ ([mwa](#mwa)+[les](#les))  
+
+
+- <a name="mwalon">**mwalon**</a> _n._ ([mwa](#mwa)+[lon](#lon))  
+
+
+- <a name="mwoni">**mwoni**</a> _v._ (Cmn. &langle;模拟&rangle; [mwɔ˧˥ni˧˩˧])  
+
+
+- <a name="mwoniles">**mwoniles**</a> _n._ ([mwoni](#mwoni)+[les](#les))  
+
+
+- <a name="mwonilon">**mwonilon**</a> _n._ ([mwoni](#mwoni)+[lon](#lon))  
+
+
+- <a name="mwonilum">**mwonilum**</a> _n._ ([mwoni](#mwoni)+[lum](#lum))  
+
+
+- <a name="mwok">**mwok**</a> _n._ (Cmn. &langle;蘑菇&rangle; [mwɔ˧˥ku])  
+
+
+### h
+
+- <a name="'helium">**'helium**</a> _n._ (Lat. &langle;helium&rangle; [hɛlɪʊ̃])  
+
+
+- <a name="'helsekowina">**'helsekowina**</a> _n._ (Bos. &langle;Hercegovina&rangle; [xɛ̌rtsɛɡov̞ina])  
+
+
+- <a name="'helsekowinaak">**'helsekowinaak**</a> _n._ (['helsekowina](#'helsekowina)+[ak](#ak))  
+
+
+- <a name="'helsekowinawon">**'helsekowinawon**</a> _n._ (['helsekowina](#'helsekowina)+[won](#won))  
+
+
+- <a name="hes">**hes**</a> _num._ (Eng. &langle;hex&rangle; [hɛks])  
 16; dieciseis
 
-  - **hesak** _n._ (hes+ak)  
-  
-
-- **heta** _v._ (~~cola~~)  
+- <a name="hesak">**hesak**</a> _n._ ([hes](#hes)+[ak](#ak))  
 
 
-  - **hetalon** _n._ (heta+lon)  
-  
-
-  - **hetalum** _n._ (heta+lum)  
-  
-
-  - **hetaki** _v._ (heta+ki)  
-  
-
-- **hetut** _n._ (~~colil~~)  
+- <a name="heta">**heta**</a> _v._ ([~~cola~~](#cola))  
 
 
-- **hepu** _v._ (~~comi~~)  
+- <a name="hetalon">**hetalon**</a> _n._ ([heta](#heta)+[lon](#lon))  
 
 
-  - **hepulon** _n._ (hepu+lon)  
-  
+- <a name="hetalum">**hetalum**</a> _n._ ([heta](#heta)+[lum](#lum))  
 
-  - **hepulum** _n._ (hepu+lum)  
-  
 
-  - **hepuki** _v._ (hepu+ki)  
-  
+- <a name="hetaki">**hetaki**</a> _v._ ([heta](#heta)+[ki](#ki))  
 
-- **hai** _v._ (Eng. &langle;high&rangle; [hɑɪ̯])  
+
+- <a name="hetut">**hetut**</a> _n._ ([~~colil~~](#colil))  
+
+
+- <a name="hepu">**hepu**</a> _v._ ([~~comi~~](#comi))  
+
+
+- <a name="hepulon">**hepulon**</a> _n._ ([hepu](#hepu)+[lon](#lon))  
+
+
+- <a name="hepulum">**hepulum**</a> _n._ ([hepu](#hepu)+[lum](#lum))  
+
+
+- <a name="hepuki">**hepuki**</a> _v._ ([hepu](#hepu)+[ki](#ki))  
+
+
+- <a name="hai">**hai**</a> _v._ (Eng. &langle;high&rangle; [hɑɪ̯])  
 ser agudo; ʟᴏᴧ es agudo
 
-  - **hailon** _n._ (hai+lon)  
-  
-
-  - **hailyan** _n._ (hai+lyan)  
-  
-
-  - **haiki** _v._ (hai+ki)  
-  
-
-- **hau** _v._ (~~cai~~)  
+- <a name="hailon">**hailon**</a> _n._ ([hai](#hai)+[lon](#lon))  
 
 
-  - **haulon** _n._ (hau+lon)  
-  
-
-  - **haulum** _n._ (hau+lum)  
-  
-
-  - **haulyan** _n._ (hau+lyan)  
-  
-
-  - **haulyot** _n._ (hau+lyot)  
-  
-
-  - **hauki** _v._ (hau+ki)  
-  
-
-  - **haukiles** _n._ (hauki+les)  
-  
-
-  - **haukilon** _n._ (hauki+lon)  
-  
-
-  - **hauti** _v._ (hau+ti)  
-  
-
-  - **hautiku** _v._ (hau+tiku)  
-  
-
-  - **hautikulon** _n._ (hautiku+lon)  
-  
-
-  - **haupowi** _v._ (hau+powi)  
-  
-
-  - **haupowilum** _n._ (haupowi+lum)  
-  
-
-  - **haupowinyo** _v._ (haupowi+nyo)  
-  
-
-  - **haupowinyolon** _n._ (haupowinyo+lon)  
-  
-
-  - **haupowinyolum** _n._ (haupowinyo+lum)  
-  
-
-  - **haupowinyolyan** _n._ (haupowinyo+lyan)  
-  
-
-- **'hayk** _n._ (Hye. &langle;Հայք&rangle; [hɑjkʰ])  
+- <a name="hailyan">**hailyan**</a> _n._ ([hai](#hai)+[lyan](#lyan))  
 
 
-  - **'haykak** _n._ ('hayk+ak)  
-  
-
-  - **'hayktec** _n._ ('hayk+tec)  
-  
-
-  - **'hayktilip** _n._ ('hayk+tilip)  
-  
-
-- **'halwati** _n._ (Hrv. &langle;Hrvati&rangle; [xr̩ʋăːti])  
+- <a name="haiki">**haiki**</a> _v._ ([hai](#hai)+[ki](#ki))  
 
 
-  - **'halwatiak** _n._ ('halwati+ak)  
-  
-
-  - **'halwatitec** _n._ ('halwati+tec)  
-  
-
-  - **'halwatitilip** _n._ ('halwati+tilip)  
-  
-
-- **hawa** _v._ (ono. [ˈha̤ːa̤ː])  
+- <a name="hau">**hau**</a> _v._ ([~~cai~~](#cai))  
 
 
-- **'hawayi** _n._ (Haw. &langle;Hawaiʻi&rangle; [həˈvɐjʔi])  
+- <a name="haulon">**haulon**</a> _n._ ([hau](#hau)+[lon](#lon))  
 
 
-  - **'hawayiak** _n._ ('hawayi+ak)  
-  
-
-  - **'hawayikwelyot** _n._ ('hawayi+kwelyot)  
-  
-
-  - **'hawayikwelyotwon** _n._ ('hawayikwelyot+won)  
-  
-
-  - **'hawayitec** _n._ ('hawayi+tec)  
-  
-
-  - **'hawayitilip** _n._ ('hawayi+tilip)  
-  
-
-  - **hawales** _n._ (hawa+les)  
-  
-
-  - **hawalon** _n._ (hawa+lon)  
-  
-
-- **'hawsa** _n._ (Hau. &langle;Hausa&rangle; [hawsa])  
+- <a name="haulum">**haulum**</a> _n._ ([hau](#hau)+[lum](#lum))  
 
 
-  - **'hawsaak** _n._ ('hawsa+ak)  
-  
-
-  - **'hawsatilip** _n._ ('hawsa+tilip)  
-  
-
-- **hawku** _v._ (~~cayni~~)  
+- <a name="haulyan">**haulyan**</a> _n._ ([hau](#hau)+[lyan](#lyan))  
 
 
-  - **hawkulon** _n._ (hawku+lon)  
-  
-
-  - **hawkuki** _v._ (hawku+ki)  
-  
-
-- **'han** _n._ (Cmn. &langle;漢&rangle; [xan˥˩])  
+- <a name="haulyot">**haulyot**</a> _n._ ([hau](#hau)+[lyot](#lyot))  
 
 
-  - **'hanak** _n._ ('han+ak)  
-  
-
-  - **'hanfitilip** _n._ ('han+fitilip)  
-  
-
-- **haha** _v._ (ono. [ha)  
+- <a name="hauki">**hauki**</a> _v._ ([hau](#hau)+[ki](#ki))  
 
 
-  - **hahales** _n._ (haha+les)  
-  
-
-  - **hahalon** _n._ (haha+lon)  
-  
-
-- **hacu** _v._ (ono. [haˈt͡ʃuh])  
+- <a name="haukiles">**haukiles**</a> _n._ ([hauki](#hauki)+[les](#les))  
 
 
-  - **hacules** _n._ (hacu+les)  
-  
+- <a name="haukilon">**haukilon**</a> _n._ ([hauki](#hauki)+[lon](#lon))  
 
-  - **haculon** _n._ (hacu+lon)  
-  
 
-- **hat** _num._ (Ben. &langle;আট&rangle; [aʈ])  
+- <a name="hauti">**hauti**</a> _v._ ([hau](#hau)+[ti](#ti))  
+
+
+- <a name="hautiku">**hautiku**</a> _v._ ([hau](#hau)+[tiku](#tiku))  
+
+
+- <a name="hautikulon">**hautikulon**</a> _n._ ([hautiku](#hautiku)+[lon](#lon))  
+
+
+- <a name="haupowi">**haupowi**</a> _v._ ([hau](#hau)+[powi](#powi))  
+
+
+- <a name="haupowilum">**haupowilum**</a> _n._ ([haupowi](#haupowi)+[lum](#lum))  
+
+
+- <a name="haupowinyo">**haupowinyo**</a> _v._ ([haupowi](#haupowi)+[nyo](#nyo))  
+
+
+- <a name="haupowinyolon">**haupowinyolon**</a> _n._ ([haupowinyo](#haupowinyo)+[lon](#lon))  
+
+
+- <a name="haupowinyolum">**haupowinyolum**</a> _n._ ([haupowinyo](#haupowinyo)+[lum](#lum))  
+
+
+- <a name="haupowinyolyan">**haupowinyolyan**</a> _n._ ([haupowinyo](#haupowinyo)+[lyan](#lyan))  
+
+
+- <a name="'hayk">**'hayk**</a> _n._ (Hye. &langle;Հայք&rangle; [hɑjkʰ])  
+
+
+- <a name="'haykak">**'haykak**</a> _n._ (['hayk](#'hayk)+[ak](#ak))  
+
+
+- <a name="'hayktec">**'hayktec**</a> _n._ (['hayk](#'hayk)+[tec](#tec))  
+
+
+- <a name="'hayktilip">**'hayktilip**</a> _n._ (['hayk](#'hayk)+[tilip](#tilip))  
+
+
+- <a name="'halwati">**'halwati**</a> _n._ (Hrv. &langle;Hrvati&rangle; [xr̩ʋăːti])  
+
+
+- <a name="'halwatiak">**'halwatiak**</a> _n._ (['halwati](#'halwati)+[ak](#ak))  
+
+
+- <a name="'halwatitec">**'halwatitec**</a> _n._ (['halwati](#'halwati)+[tec](#tec))  
+
+
+- <a name="'halwatitilip">**'halwatitilip**</a> _n._ (['halwati](#'halwati)+[tilip](#tilip))  
+
+
+- <a name="hawa">**hawa**</a> _v._ (ono. [ˈha̤ːa̤ː])  
+
+
+- <a name="'hawayi">**'hawayi**</a> _n._ (Haw. &langle;Hawaiʻi&rangle; [həˈvɐjʔi])  
+
+
+- <a name="'hawayiak">**'hawayiak**</a> _n._ (['hawayi](#'hawayi)+[ak](#ak))  
+
+
+- <a name="'hawayikwelyot">**'hawayikwelyot**</a> _n._ (['hawayi](#'hawayi)+[kwelyot](#kwelyot))  
+
+
+- <a name="'hawayikwelyotwon">**'hawayikwelyotwon**</a> _n._ (['hawayikwelyot](#'hawayikwelyot)+[won](#won))  
+
+
+- <a name="'hawayitec">**'hawayitec**</a> _n._ (['hawayi](#'hawayi)+[tec](#tec))  
+
+
+- <a name="'hawayitilip">**'hawayitilip**</a> _n._ (['hawayi](#'hawayi)+[tilip](#tilip))  
+
+
+- <a name="hawales">**hawales**</a> _n._ ([hawa](#hawa)+[les](#les))  
+
+
+- <a name="hawalon">**hawalon**</a> _n._ ([hawa](#hawa)+[lon](#lon))  
+
+
+- <a name="'hawsa">**'hawsa**</a> _n._ (Hau. &langle;Hausa&rangle; [hawsa])  
+
+
+- <a name="'hawsaak">**'hawsaak**</a> _n._ (['hawsa](#'hawsa)+[ak](#ak))  
+
+
+- <a name="'hawsatilip">**'hawsatilip**</a> _n._ (['hawsa](#'hawsa)+[tilip](#tilip))  
+
+
+- <a name="hawku">**hawku**</a> _v._ ([~~cayni~~](#cayni))  
+
+
+- <a name="hawkulon">**hawkulon**</a> _n._ ([hawku](#hawku)+[lon](#lon))  
+
+
+- <a name="hawkuki">**hawkuki**</a> _v._ ([hawku](#hawku)+[ki](#ki))  
+
+
+- <a name="'han">**'han**</a> _n._ (Cmn. &langle;漢&rangle; [xan˥˩])  
+
+
+- <a name="'hanak">**'hanak**</a> _n._ (['han](#'han)+[ak](#ak))  
+
+
+- <a name="'hanfitilip">**'hanfitilip**</a> _n._ (['han](#'han)+[fitilip](#fitilip))  
+
+
+- <a name="haha">**haha**</a> _v._ (ono. [ha)  
+
+
+- <a name="hahales">**hahales**</a> _n._ ([haha](#haha)+[les](#les))  
+
+
+- <a name="hahalon">**hahalon**</a> _n._ ([haha](#haha)+[lon](#lon))  
+
+
+- <a name="hacu">**hacu**</a> _v._ (ono. [haˈt͡ʃuh])  
+
+
+- <a name="hacules">**hacules**</a> _n._ ([hacu](#hacu)+[les](#les))  
+
+
+- <a name="haculon">**haculon**</a> _n._ ([hacu](#hacu)+[lon](#lon))  
+
+
+- <a name="hat">**hat**</a> _num._ (Ben. &langle;আট&rangle; [aʈ])  
 8; ocho
 
-  - **hatak** _n._ (hat+ak)  
-  ocho
+- <a name="hatak">**hatak**</a> _n._ ([hat](#hat)+[ak](#ak))  
+ocho
 
-  - **hatcyenlektun** _n._ (hat+cyenlektun)  
-  
+- <a name="hatcyenlektun">**hatcyenlektun**</a> _n._ ([hat](#hat)+[cyenlektun](#cyenlektun))  
 
-- **ho** _v._ (Cmn. &langle;厚&rangle; [xoʊ̯˥˩])  
 
+- <a name="ho">**ho**</a> _v._ (Cmn. &langle;厚&rangle; [xoʊ̯˥˩])  
 
-- **'ho** _n._ (ono. [h])  
 
+- <a name="'ho">**'ho**</a> _n._ (ono. [h])  
 
-- **hol** _n._ (Sot. &langle;holo&rangle; [holo])  
 
+- <a name="hol">**hol**</a> _n._ (Sot. &langle;holo&rangle; [holo])  
 
-  - **holon** _n._ (ho+lon)  
-  
 
-  - **holyan** _n._ (ho+lyan)  
-  
+- <a name="holon">**holon**</a> _n._ ([ho](#ho)+[lon](#lon))  
 
-- **'honolulu** _n._ (Haw. &langle;Honolulu&rangle; [honoˈlulu])  
 
+- <a name="holyan">**holyan**</a> _n._ ([ho](#ho)+[lyan](#lyan))  
 
-- **hom** _n._ (Eng. &langle;home&rangle; [hoʊ̯m])  
 
+- <a name="'honolulu">**'honolulu**</a> _n._ (Haw. &langle;Honolulu&rangle; [honoˈlulu])  
 
-- **'homeopati** _n._ (Deu. &langle;homöopathie&rangle; [hoːmœoːpatiː])  
 
+- <a name="hom">**hom**</a> _n._ (Eng. &langle;home&rangle; [hoʊ̯m])  
 
-  - **homak** _n._ (hom+ak)  
-  
 
-  - **hoki** _v._ (ho+ki)  
-  
+- <a name="'homeopati">**'homeopati**</a> _n._ (Deu. &langle;homöopathie&rangle; [hoːmœoːpatiː])  
 
-  - **hokiles** _n._ (hoki+les)  
-  
 
-- **'hokyen** _n._ (Nan. &langle;福建&rangle; [hok˨kjeŋ˨˩˧])  
+- <a name="homak">**homak**</a> _n._ ([hom](#hom)+[ak](#ak))  
 
 
-  - **'hokyenak** _n._ ('hokyen+ak)  
-  
+- <a name="hoki">**hoki**</a> _v._ ([ho](#ho)+[ki](#ki))  
 
-  - **'hokyenwon** _n._ ('hokyen+won)  
-  
 
-  - **'hokyentilip** _n._ ('hokyen+tilip)  
-  
+- <a name="hokiles">**hokiles**</a> _n._ ([hoki](#hoki)+[les](#les))  
 
-- **'hial** _n._ (Por. &langle;real&rangle; [ʁɨˈaɫ])  
 
+- <a name="'hokyen">**'hokyen**</a> _n._ (Nan. &langle;福建&rangle; [hok˨kjeŋ˨˩˧])  
 
-- **hila** _v._ (Hin. &langle;हिला&rangle; [ɦilaː])  
 
+- <a name="'hokyenak">**'hokyenak**</a> _n._ (['hokyen](#'hokyen)+[ak](#ak))  
 
-  - **hilaec** _n._ (hila+ec)  
-  
 
-  - **hilalon** _n._ (hila+lon)  
-  
+- <a name="'hokyenwon">**'hokyenwon**</a> _n._ (['hokyen](#'hokyen)+[won](#won))  
 
-  - **hilalum** _n._ (hila+lum)  
-  
 
-  - **hilalyan** _n._ (hila+lyan)  
-  
+- <a name="'hokyentilip">**'hokyentilip**</a> _n._ (['hokyen](#'hokyen)+[tilip](#tilip))  
 
-  - **hilanoki** _v._ (hila+noki)  
-  
 
-  - **hilanokilon** _n._ (hilanoki+lon)  
-  
+- <a name="'hial">**'hial**</a> _n._ (Por. &langle;real&rangle; [ʁɨˈaɫ])  
 
-  - **hilamocaki** _v._ (hila+mocaki)  
-  
 
-  - **hilamocakiles** _n._ (hilamocaki+les)  
-  
+- <a name="hila">**hila**</a> _v._ (Hin. &langle;हिला&rangle; [ɦilaː])  
 
-  - **hilamocakilum** _n._ (hilamocaki+lum)  
-  
 
-  - **hilamocakilyot** _n._ (hilamocaki+lyot)  
-  
+- <a name="hilaec">**hilaec**</a> _n._ ([hila](#hila)+[ec](#ec))  
 
-  - **hilasoma** _v._ (hila+soma)  
-  
 
-  - **hilasomales** _n._ (hilasoma+les)  
-  
+- <a name="hilalon">**hilalon**</a> _n._ ([hila](#hila)+[lon](#lon))  
 
-  - **hilasomalon** _n._ (hilasoma+lon)  
-  
 
-  - **hilaki** _v._ (hila+ki)  
-  
+- <a name="hilalum">**hilalum**</a> _n._ ([hila](#hila)+[lum](#lum))  
 
-  - **hilakiles** _n._ (hilaki+les)  
-  
 
-  - **hilatiluat** _n._ (hila+tiluat)  
-  
+- <a name="hilalyan">**hilalyan**</a> _n._ ([hila](#hila)+[lyan](#lyan))  
 
-  - **hilapowi** _v._ (hila+powi)  
-  
 
-  - **hilapowilon** _n._ (hilapowi+lon)  
-  
+- <a name="hilanoki">**hilanoki**</a> _v._ ([hila](#hila)+[noki](#noki))  
 
-  - **hilapowinu** _v._ (hilapowi+nu)  
-  
 
-  - **hilapowinules** _n._ (hilapowinu+les)  
-  
+- <a name="hilanokilon">**hilanokilon**</a> _n._ ([hilanoki](#hilanoki)+[lon](#lon))  
 
-  - **hilapowinuluat** _n._ (hilapowinu+luat)  
-  
 
-  - **hilapowinufut** _n._ (hilapowinu+fut)  
-  
+- <a name="hilamocaki">**hilamocaki**</a> _v._ ([hila](#hila)+[mocaki](#mocaki))  
 
-  - **hilapowinyo** _v._ (hilapowi+nyo)  
-  
 
-  - **hilapowinyolon** _n._ (hilapowinyo+lon)  
-  
+- <a name="hilamocakiles">**hilamocakiles**</a> _n._ ([hilamocaki](#hilamocaki)+[les](#les))  
 
-  - **hilapowinyolum** _n._ (hilapowinyo+lum)  
-  
 
-  - **hilapowiki** _v._ (hilapowi+ki)  
-  
+- <a name="hilamocakilum">**hilamocakilum**</a> _n._ ([hilamocaki](#hilamocaki)+[lum](#lum))  
 
-  - **hilapowikiles** _n._ (hilapowiki+les)  
-  
 
-  - **hilapic** _n._ (hila+pic)  
-  
+- <a name="hilamocakilyot">**hilamocakilyot**</a> _n._ ([hilamocaki](#hilamocaki)+[lyot](#lyot))  
 
-- **'hintu** _n._ (Hin. &langle;हिन्दू&rangle; [ɦɪnduː])  
 
+- <a name="hilasoma">**hilasoma**</a> _v._ ([hila](#hila)+[soma](#soma))  
 
-  - **'hintuak** _n._ ('hintu+ak)  
-  
 
-  - **'hintulawt** _n._ ('hintu+lawt)  
-  
+- <a name="hilasomales">**hilasomales**</a> _n._ ([hilasoma](#hilasoma)+[les](#les))  
 
-  - **'hintulawtak** _n._ ('hintulawt+ak)  
-  
 
-  - **'hintufitilip** _n._ ('hintu+fitilip)  
-  
+- <a name="hilasomalon">**hilasomalon**</a> _n._ ([hilasoma](#hilasoma)+[lon](#lon))  
 
-  - **'hintufitilipwon** _n._ ('hintufitilip+won)  
-  
 
-  - **'hintutec** _n._ ('hintu+tec)  
-  
+- <a name="hilaki">**hilaki**</a> _v._ ([hila](#hila)+[ki](#ki))  
 
-  - **'hintutecwon** _n._ ('hintutec+won)  
-  
 
-  - **'hintutilip** _n._ ('hintu+tilip)  
-  
+- <a name="hilakiles">**hilakiles**</a> _n._ ([hilaki](#hilaki)+[les](#les))  
 
-  - **'hintutilip'pakistantilip** _n._ ('hintutilip+'pakistantilip)  
-  
 
-  - **'hintutilip'pakistantilipwon** _n._ ('hintutilip'pakistantilip+won)  
-  
+- <a name="hilatiluat">**hilatiluat**</a> _n._ ([hila](#hila)+[tiluat](#tiluat))  
 
-- **hiha** _v._ (ono. [hi̤ːha̤ː])  
 
+- <a name="hilapowi">**hilapowi**</a> _v._ ([hila](#hila)+[powi](#powi))  
 
-  - **hihahyolon** _n._ (hiha+hyolon)  
-  
 
-  - **hihacwelon** _n._ (hiha+cwelon)  
-  
+- <a name="hilapowilon">**hilapowilon**</a> _n._ ([hilapowi](#hilapowi)+[lon](#lon))  
 
-  - **hihacwelonkoki** _v._ (hihacwelon+koki)  
-  
 
-- **hihin** _n._ (ono. [hi)  
+- <a name="hilapowinu">**hilapowinu**</a> _v._ ([hilapowi](#hilapowi)+[nu](#nu))  
 
 
-  - **hihinak** _n._ (hihin+ak)  
-  
+- <a name="hilapowinules">**hilapowinules**</a> _n._ ([hilapowinu](#hilapowinu)+[les](#les))  
 
-- **hiki** _v._ (ono. [hik])  
 
+- <a name="hilapowinuluat">**hilapowinuluat**</a> _n._ ([hilapowinu](#hilapowinu)+[luat](#luat))  
 
-  - **hikiles** _n._ (hiki+les)  
-  
 
-  - **hikilon** _n._ (hiki+lon)  
-  
+- <a name="hilapowinufut">**hilapowinufut**</a> _n._ ([hilapowinu](#hilapowinu)+[fut](#fut))  
 
-- **'hitlocenium** _n._ (Lat. &langle;hydrogenium&rangle; [hidrɔd͡ʒɛnɪʊ̃])  
 
+- <a name="hilapowinyo">**hilapowinyo**</a> _v._ ([hilapowi](#hilapowi)+[nyo](#nyo))  
 
-- **hu** _v._ (Ibo. &langle;hụ&rangle; [ɦʊ])  
 
+- <a name="hilapowinyolon">**hilapowinyolon**</a> _n._ ([hilapowinyo](#hilapowinyo)+[lon](#lon))  
 
-  - **huec** _n._ (hu+ec)  
-  
 
-  - **huechu** _v._ (huec+hu)  
-  
+- <a name="hilapowinyolum">**hilapowinyolum**</a> _n._ ([hilapowinyo](#hilapowinyo)+[lum](#lum))  
 
-  - **huak** _n._ (hu+ak)  
-  
 
-- **huylu** _v._ (~~ciwti~~)  
+- <a name="hilapowiki">**hilapowiki**</a> _v._ ([hilapowi](#hilapowi)+[ki](#ki))  
 
 
-  - **huylulon** _n._ (huylu+lon)  
-  
+- <a name="hilapowikiles">**hilapowikiles**</a> _n._ ([hilapowiki](#hilapowiki)+[les](#les))  
 
-  - **huyluki** _v._ (huylu+ki)  
-  
 
-  - **hulon** _n._ (hu+lon)  
-  
+- <a name="hilapic">**hilapic**</a> _n._ ([hila](#hila)+[pic](#pic))  
 
-- **huli** _v._ (Fil. &langle;huli&rangle; [huli])  
 
+- <a name="'hintu">**'hintu**</a> _n._ (Hin. &langle;हिन्दू&rangle; [ɦɪnduː])  
 
-  - **hulioleciuh** _n._ (huli+ole+ciuh)  
-  
 
-  - **hulilon** _n._ (huli+lon)  
-  
+- <a name="'hintuak">**'hintuak**</a> _n._ (['hintu](#'hintu)+[ak](#ak))  
 
-  - **hulilyan** _n._ (huli+lyan)  
-  
 
-  - **hulilyansomaluat** _n._ (hulilyan+somaluat)  
-  
+- <a name="'hintulawt">**'hintulawt**</a> _n._ (['hintu](#'hintu)+[lawt](#lawt))  
 
-  - **hulinoki** _v._ (huli+noki)  
-  
 
-  - **hulinokiles** _n._ (hulinoki+les)  
-  
+- <a name="'hintulawtak">**'hintulawtak**</a> _n._ (['hintulawt](#'hintulawt)+[ak](#ak))  
 
-  - **hulinokilon** _n._ (hulinoki+lon)  
-  
 
-  - **hulinokilyot** _n._ (hulinoki+lyot)  
-  
+- <a name="'hintufitilip">**'hintufitilip**</a> _n._ (['hintu](#'hintu)+[fitilip](#fitilip))  
 
-  - **hulinokilwel** _n._ (hulinoki+lwel)  
-  
 
-  - **hulisunnyama** _v._ (huli+sun+nyama)  
-  
+- <a name="'hintufitilipwon">**'hintufitilipwon**</a> _n._ (['hintufitilip](#'hintufitilip)+[won](#won))  
 
-  - **hulisunnyamalwel** _n._ (hulisunnyama+lwel)  
-  
 
-  - **hulisunnyamalon** _n._ (hulisunnyama+lon)  
-  
+- <a name="'hintutec">**'hintutec**</a> _n._ (['hintu](#'hintu)+[tec](#tec))  
 
-  - **hulisunnyamales** _n._ (hulisunnyama+les)  
-  
 
-  - **huliki** _v._ (huli+ki)  
-  
+- <a name="'hintutecwon">**'hintutecwon**</a> _n._ (['hintutec](#'hintutec)+[won](#won))  
 
-  - **hulikiles** _n._ (huliki+les)  
-  
 
-  - **hulum** _n._ (hu+lum)  
-  
+- <a name="'hintutilip">**'hintutilip**</a> _n._ (['hintu](#'hintu)+[tilip](#tilip))  
 
-  - **hulumah** _n._ (hu+lumah)  
-  
 
-  - **hunu** _v._ (hu+nu)  
-  
+- <a name="'hintutilip'pakistantilip">**'hintutilip'pakistantilip**</a> _n._ (['hintutilip](#'hintutilip)+['pakistantilip](#'pakistantilip))  
 
-  - **humocaki** _v._ (hu+mocaki)  
-  
 
-  - **humocakiles** _n._ (humocaki+les)  
-  
+- <a name="'hintutilip'pakistantilipwon">**'hintutilip'pakistantilipwon**</a> _n._ (['hintutilip'pakistantilip](#'hintutilip'pakistantilip)+[won](#won))  
 
-  - **humocakiluat** _n._ (humocaki+luat)  
-  
 
-  - **humocakilum** _n._ (humocaki+lum)  
-  
+- <a name="hiha">**hiha**</a> _v._ (ono. [hi̤ːha̤ː])  
 
-  - **humocakilyot** _n._ (humocaki+lyot)  
-  
 
-- **'humuhumunukunukuapua** _n._ (Haw. &langle;humuhumunukunukuapuaʻa&rangle; [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə])  
+- <a name="hihahyolon">**hihahyolon**</a> _n._ ([hiha](#hiha)+[hyolon](#hyolon))  
 
 
-- **huc** _n._ (~~cih~~)  
+- <a name="hihacwelon">**hihacwelon**</a> _n._ ([hiha](#hiha)+[cwelon](#cwelon))  
 
 
-  - **hucalu** _v._ (hu+calu)  
-  
+- <a name="hihacwelonkoki">**hihacwelonkoki**</a> _v._ ([hihacwelon](#hihacwelon)+[koki](#koki))  
 
-  - **hucak** _n._ (huc+ak)  
-  
 
-  - **husaman** _n._ (hu+saman)  
-  
+- <a name="hihin">**hihin**</a> _n._ (ono. [hi)  
 
-  - **huki** _v._ (hu+ki)  
-  
 
-  - **hukilum** _n._ (huki+lum)  
-  
+- <a name="hihinak">**hihinak**</a> _n._ ([hihin](#hihin)+[ak](#ak))  
 
-- **hutyeh** _n._ (Cmn. &langle;蝴蝶&rangle; [xu˧˥tjɛ˧˥])  
 
+- <a name="hiki">**hiki**</a> _v._ (ono. [hik])  
 
-  - **hupowi** _v._ (hu+powi)  
-  
 
-  - **hupowilon** _n._ (hupowi+lon)  
-  
+- <a name="hikiles">**hikiles**</a> _n._ ([hiki](#hiki)+[les](#les))  
 
-  - **hupowinu** _v._ (hupowi+nu)  
-  
 
-  - **hupowinules** _n._ (hupowinu+les)  
-  
+- <a name="hikilon">**hikilon**</a> _n._ ([hiki](#hiki)+[lon](#lon))  
 
-  - **hupowinyo** _v._ (hupowi+nyo)  
-  
 
-  - **hupowinyolon** _n._ (hupowinyo+lon)  
-  
+- <a name="'hitlocenium">**'hitlocenium**</a> _n._ (Lat. &langle;hydrogenium&rangle; [hidrɔd͡ʒɛnɪʊ̃])  
 
-  - **hupowiki** _v._ (hupowi+ki)  
-  
 
-- **hyo** _v._ (~~cwe~~)  
+- <a name="hu">**hu**</a> _v._ (Ibo. &langle;hụ&rangle; [ɦʊ])  
 
 
-  - **hyoyeh** _n._ (hyo+yeh)  
-  
+- <a name="huec">**huec**</a> _n._ ([hu](#hu)+[ec](#ec))  
 
-  - **hyolon** _n._ (hyo+lon)  
-  
 
-  - **hyomiclo** _v._ (hyo+miclo)  
-  
+- <a name="huechu">**huechu**</a> _v._ ([huec](#huec)+[hu](#hu))  
 
-  - **hyomiclolon** _n._ (hyomiclo+lon)  
-  
 
-  - **hyoki** _v._ (hyo+ki)  
-  
+- <a name="huak">**huak**</a> _n._ ([hu](#hu)+[ak](#ak))  
 
-  - **hyokiles** _n._ (hyoki+les)  
-  
 
-  - **hyotaka** _v._ (hyo+taka)  
-  
+- <a name="huylu">**huylu**</a> _v._ ([~~ciwti~~](#ciwti))  
 
-  - **hyotakalon** _n._ (hyotaka+lon)  
-  
 
-  - **hyotakaki** _v._ (hyotaka+ki)  
-  
+- <a name="huylulon">**huylulon**</a> _n._ ([huylu](#huylu)+[lon](#lon))  
 
-  - **hyopeka** _v._ (hyo+peka)  
-  
 
-  - **hyopekales** _n._ (hyopeka+les)  
-  
+- <a name="huyluki">**huyluki**</a> _v._ ([huylu](#huylu)+[ki](#ki))  
 
-  - **hyopekalon** _n._ (hyopeka+lon)  
-  
 
-- **hwe** _v._ (~~cyo~~)  
+- <a name="hulon">**hulon**</a> _n._ ([hu](#hu)+[lon](#lon))  
 
 
-  - **hwelon** _n._ (hwe+lon)  
-  
+- <a name="huli">**huli**</a> _v._ (Fil. &langle;huli&rangle; [huli])  
 
-  - **hweki** _v._ (hwe+ki)  
-  
 
-  - **hwekiles** _n._ (hweki+les)  
-  
+- <a name="hulioleciuh">**hulioleciuh**</a> _n._ ([huli](#huli)+[ole](#ole)+[ciuh](#ciuh))  
 
-  - **hwetilum** _n._ (hwe+tilum)  
-  
 
-- **hwo** _v._ (Cmn. &langle;火&rangle; [xwɔ˧˩˧])  
+- <a name="hulilon">**hulilon**</a> _n._ ([huli](#huli)+[lon](#lon))  
 
 
-  - **hwolon** _n._ (hwo+lon)  
-  
+- <a name="hulilyan">**hulilyan**</a> _n._ ([huli](#huli)+[lyan](#lyan))  
 
-  - **hwonu** _v._ (hwo+nu)  
-  
 
-  - **hwonules** _n._ (hwonu+les)  
-  
+- <a name="hulilyansomaluat">**hulilyansomaluat**</a> _n._ ([hulilyan](#hulilyan)+[somaluat](#somaluat))  
 
-  - **hwonulon** _n._ (hwonu+lon)  
-  
 
-- **hwok** _n._ (~~cyen~~)  
+- <a name="hulinoki">**hulinoki**</a> _v._ ([huli](#huli)+[noki](#noki))  
 
 
-  - **hwoki** _v._ (hwo+ki)  
-  
+- <a name="hulinokiles">**hulinokiles**</a> _n._ ([hulinoki](#hulinoki)+[les](#les))  
 
-  - **hwokiles** _n._ (hwoki+les)  
-  
 
-  - **hwokilon** _n._ (hwoki+lon)  
-  
+- <a name="hulinokilon">**hulinokilon**</a> _n._ ([hulinoki](#hulinoki)+[lon](#lon))  
 
-  - **hwokcyen** _n._ (hwok+cyen)  
-  
 
-  - **hwoksiltokalyotpoltilum** _n._ (hwok+siltokalyotpoltilum)  
-  
+- <a name="hulinokilyot">**hulinokilyot**</a> _n._ ([hulinoki](#hulinoki)+[lyot](#lyot))  
 
-## c
 
-- **ce** _v._ (~~ho~~)  
+- <a name="hulinokilwel">**hulinokilwel**</a> _n._ ([hulinoki](#hulinoki)+[lwel](#lwel))  
 
 
-  - **celon** _n._ (ce+lon)  
-  
+- <a name="hulisunnyama">**hulisunnyama**</a> _v._ ([huli](#huli)+[sun](#sun)+[nyama](#nyama))  
 
-- **celun** _n._ (Msa. &langle;jerung&rangle; [d͡ʒeruŋ])  
 
+- <a name="hulisunnyamalwel">**hulisunnyamalwel**</a> _n._ ([hulisunnyama](#hulisunnyama)+[lwel](#lwel))  
 
-- **celuk** _n._ (Msa. &langle;jeruk&rangle; [d͡ʒeruk])  
 
+- <a name="hulisunnyamalon">**hulisunnyamalon**</a> _n._ ([hulisunnyama](#hulisunnyama)+[lon](#lon))  
 
-- **'celmanium** _n._ (Lat. &langle;germanium&rangle; [d͡ʒɛrmanɪʊ̃])  
 
+- <a name="hulisunnyamales">**hulisunnyamales**</a> _n._ ([hulisunnyama](#hulisunnyama)+[les](#les))  
 
-- **'cewa** _n._ (Nya. &langle;Chewa&rangle; [t͡ʃewa])  
 
+- <a name="huliki">**huliki**</a> _v._ ([huli](#huli)+[ki](#ki))  
 
-  - **'cewaak** _n._ ('cewa+ak)  
-  
 
-  - **'cewatec** _n._ ('cewa+tec)  
-  
+- <a name="hulikiles">**hulikiles**</a> _n._ ([huliki](#huliki)+[les](#les))  
 
-  - **'cewatilip** _n._ ('cewa+tilip)  
-  
 
-- **'cen** _n._ (San. &langle;जैन&rangle; [d͡ʒɛːn])  
+- <a name="hulum">**hulum**</a> _n._ ([hu](#hu)+[lum](#lum))  
 
 
-  - **'cenak** _n._ ('cen+ak)  
-  
+- <a name="hulumah">**hulumah**</a> _n._ ([hu](#hu)+[lumah](#lumah))  
 
-  - **'cenfitilip** _n._ ('cen+fitilip)  
-  
 
-- **'ceh** _n._ (Ces. &langle;čech&rangle; [ˈt͡ʃɛx])  
+- <a name="hunu">**hunu**</a> _v._ ([hu](#hu)+[nu](#nu))  
 
 
-  - **'cehak** _n._ ('ceh+ak)  
-  
+- <a name="humocaki">**humocaki**</a> _v._ ([hu](#hu)+[mocaki](#mocaki))  
 
-  - **'cehtec** _n._ ('ceh+tec)  
-  
 
-  - **'cehtilip** _n._ ('ceh+tilip)  
-  
+- <a name="humocakiles">**humocakiles**</a> _n._ ([humocaki](#humocaki)+[les](#les))  
 
-- **cece** _v._ (ono. [t͡ʃət͡ʃə])  
 
+- <a name="humocakiluat">**humocakiluat**</a> _n._ ([humocaki](#humocaki)+[luat](#luat))  
 
-  - **cecelon** _n._ (cece+lon)  
-  
 
-  - **cecim** _n._ (ce+cim)  
-  
+- <a name="humocakilum">**humocakilum**</a> _n._ ([humocaki](#humocaki)+[lum](#lum))  
 
-  - **ceki** _v._ (ce+ki)  
-  
 
-  - **cekiles** _n._ (ceki+les)  
-  
+- <a name="humocakilyot">**humocakilyot**</a> _n._ ([humocaki](#humocaki)+[lyot](#lyot))  
 
-- **'ca** _n._ (ono. [t͡ʃ])  
 
+- <a name="'humuhumunukunukuapua">**'humuhumunukunukuapua**</a> _n._ (Haw. &langle;humuhumunukunukuapuaʻa&rangle; [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə])  
 
-- **cai** _v._ (Ben. &langle;চাই&rangle; [t͡ɕai])  
 
+- <a name="huc">**huc**</a> _n._ ([~~cih~~](#cih))  
 
-  - **cailon** _n._ (cai+lon)  
-  
 
-  - **cailip** _n._ (cai+lip)  
-  
+- <a name="hucalu">**hucalu**</a> _v._ ([hu](#hu)+[calu](#calu))  
 
-  - **cailum** _n._ (cai+lum)  
-  
 
-  - **cailyan** _n._ (cai+lyan)  
-  
+- <a name="hucak">**hucak**</a> _n._ ([huc](#huc)+[ak](#ak))  
 
-  - **cailyot** _n._ (cai+lyot)  
-  
 
-  - **caiki** _v._ (cai+ki)  
-  
+- <a name="husaman">**husaman**</a> _n._ ([hu](#hu)+[saman](#saman))  
 
-  - **caikiles** _n._ (caiki+les)  
-  
 
-  - **caikilon** _n._ (caiki+lon)  
-  
+- <a name="huki">**huki**</a> _v._ ([hu](#hu)+[ki](#ki))  
 
-  - **caiti** _v._ (cai+ti)  
-  
 
-  - **caitiku** _v._ (cai+tiku)  
-  
+- <a name="hukilum">**hukilum**</a> _n._ ([huki](#huki)+[lum](#lum))  
 
-  - **caitikulon** _n._ (caitiku+lon)  
-  
 
-- **cau** _v._ (~~hai~~)  
+- <a name="hutyeh">**hutyeh**</a> _n._ (Cmn. &langle;蝴蝶&rangle; [xu˧˥tjɛ˧˥])  
 
 
-  - **caulon** _n._ (cau+lon)  
-  
+- <a name="hupowi">**hupowi**</a> _v._ ([hu](#hu)+[powi](#powi))  
 
-  - **cauki** _v._ (cau+ki)  
-  
 
-- **cayni** _v._ (Eng. &langle;shiny&rangle; [ˈʃɑɪ̯ni])  
+- <a name="hupowilon">**hupowilon**</a> _n._ ([hupowi](#hupowi)+[lon](#lon))  
 
 
-  - **caynilon** _n._ (cayni+lon)  
-  
+- <a name="hupowinu">**hupowinu**</a> _v._ ([hupowi](#hupowi)+[nu](#nu))  
 
-  - **caynilyan** _n._ (cayni+lyan)  
-  
 
-  - **cayniki** _v._ (cayni+ki)  
-  
+- <a name="hupowinules">**hupowinules**</a> _n._ ([hupowinu](#hupowinu)+[les](#les))  
 
-- **calu** _v._ (Pan. &langle;ਚਾਲੂ&rangle; [t͡ʃɑˈlu])  
 
+- <a name="hupowinyo">**hupowinyo**</a> _v._ ([hupowi](#hupowi)+[nyo](#nyo))  
 
-  - **calules** _n._ (calu+les)  
-  
 
-  - **calulon** _n._ (calu+lon)  
-  
+- <a name="hupowinyolon">**hupowinyolon**</a> _n._ ([hupowinyo](#hupowinyo)+[lon](#lon))  
 
-  - **calulwel** _n._ (calu+lwel)  
-  
 
-  - **calunyo** _v._ (calu+nyo)  
-  
+- <a name="hupowiki">**hupowiki**</a> _v._ ([hupowi](#hupowi)+[ki](#ki))  
 
-  - **calunyoles** _n._ (calunyo+les)  
-  
 
-  - **calunyolon** _n._ (calunyo+lon)  
-  
+- <a name="hyo">**hyo**</a> _v._ ([~~cwe~~](#cwe))  
 
-  - **calunyoluat** _n._ (calunyo+luat)  
-  
 
-  - **calunyohau** _v._ (calunyo+hau)  
-  
+- <a name="hyoyeh">**hyoyeh**</a> _n._ ([hyo](#hyo)+[yeh](#yeh))  
 
-  - **calunyohaulon** _n._ (calunyohau+lon)  
-  
 
-  - **calunyocai** _v._ (calunyo+cai)  
-  
+- <a name="hyolon">**hyolon**</a> _n._ ([hyo](#hyo)+[lon](#lon))  
 
-  - **calunyocailon** _n._ (calunyocai+lon)  
-  
 
-  - **calunyocolon** _n._ (calunyo+colon)  
-  
+- <a name="hyomiclo">**hyomiclo**</a> _v._ ([hyo](#hyo)+[miclo](#miclo))  
 
-  - **calupowi** _v._ (calu+powi)  
-  
 
-  - **calupowilon** _n._ (calupowi+lon)  
-  
+- <a name="hyomiclolon">**hyomiclolon**</a> _n._ ([hyomiclo](#hyomiclo)+[lon](#lon))  
 
-  - **calupowinyo** _v._ (calupowi+nyo)  
-  
 
-  - **calupowinyolon** _n._ (calupowinyo+lon)  
-  
+- <a name="hyoki">**hyoki**</a> _v._ ([hyo](#hyo)+[ki](#ki))  
 
-- **'cawa** _n._ (Jav. &langle;ꦗꦮ&rangle; [d͡ʒɔwɔ])  
 
+- <a name="hyokiles">**hyokiles**</a> _n._ ([hyoki](#hyoki)+[les](#les))  
 
-  - **'cawaak** _n._ ('cawa+ak)  
-  
 
-  - **'cawawon** _n._ ('cawa+won)  
-  
+- <a name="hyotaka">**hyotaka**</a> _v._ ([hyo](#hyo)+[taka](#taka))  
 
-  - **'cawatilip** _n._ ('cawa+tilip)  
-  
 
-- **cawh** _n._ (Cmn. &langle;爪&rangle; [ʈ͡ʂɑʊ̯˧˩˧])  
+- <a name="hyotakalon">**hyotakalon**</a> _n._ ([hyotaka](#hyotaka)+[lon](#lon))  
 
 
-  - **cawhak** _n._ (cawh+ak)  
-  
+- <a name="hyotakaki">**hyotakaki**</a> _v._ ([hyotaka](#hyotaka)+[ki](#ki))  
 
-  - **cawhcim** _n._ (cawh+cim)  
-  
 
-  - **cawhfut** _n._ (cawh+fut)  
-  
+- <a name="hyopeka">**hyopeka**</a> _v._ ([hyo](#hyo)+[peka](#peka))  
 
-- **cawku** _v._ (Cmn. &langle;照顾&rangle; [ʈ͡ʂɑʊ̯˥˩ku])  
 
+- <a name="hyopekales">**hyopekales**</a> _n._ ([hyopeka](#hyopeka)+[les](#les))  
 
-  - **cawkulon** _n._ (cawku+lon)  
-  
 
-  - **cawkulum** _n._ (cawku+lum)  
-  
+- <a name="hyopekalon">**hyopekalon**</a> _n._ ([hyopeka](#hyopeka)+[lon](#lon))  
 
-  - **cawkunu** _v._ (cawku+nu)  
-  
 
-  - **cawkunulon** _n._ (cawkunu+lon)  
-  
+- <a name="hwe">**hwe**</a> _v._ ([~~cyo~~](#cyo))  
 
-  - **cawkuki** _v._ (cawku+ki)  
-  
 
-  - **cawkukiles** _n._ (cawkuki+les)  
-  
+- <a name="hwelon">**hwelon**</a> _n._ ([hwe](#hwe)+[lon](#lon))  
 
-- **'cawta** _n._ (Eng. &langle;chowder&rangle; [ˈt͡ʃaʊ̯dɚ])  
 
+- <a name="hweki">**hweki**</a> _v._ ([hwe](#hwe)+[ki](#ki))  
 
-- **'cantu** _n._ (Cmn. &langle;成都&rangle; [ʈ͡ʂʰə˧˥ŋtu˥])  
 
+- <a name="hwekiles">**hwekiles**</a> _n._ ([hweki](#hweki)+[les](#les))  
 
-- **'cameli** _n._ (Hin. &langle;चमेली&rangle; [t͡ʃəmeːliː])  
 
+- <a name="hwetilum">**hwetilum**</a> _n._ ([hwe](#hwe)+[tilum](#tilum))  
 
-- **cah** _num._ (Hin. &langle;छः&rangle; [t͡ʃəɦ])  
+
+- <a name="hwo">**hwo**</a> _v._ (Cmn. &langle;火&rangle; [xwɔ˧˩˧])  
+
+
+- <a name="hwolon">**hwolon**</a> _n._ ([hwo](#hwo)+[lon](#lon))  
+
+
+- <a name="hwonu">**hwonu**</a> _v._ ([hwo](#hwo)+[nu](#nu))  
+
+
+- <a name="hwonules">**hwonules**</a> _n._ ([hwonu](#hwonu)+[les](#les))  
+
+
+- <a name="hwonulon">**hwonulon**</a> _n._ ([hwonu](#hwonu)+[lon](#lon))  
+
+
+- <a name="hwok">**hwok**</a> _n._ ([~~cyen~~](#cyen))  
+
+
+- <a name="hwoki">**hwoki**</a> _v._ ([hwo](#hwo)+[ki](#ki))  
+
+
+- <a name="hwokiles">**hwokiles**</a> _n._ ([hwoki](#hwoki)+[les](#les))  
+
+
+- <a name="hwokilon">**hwokilon**</a> _n._ ([hwoki](#hwoki)+[lon](#lon))  
+
+
+- <a name="hwokcyen">**hwokcyen**</a> _n._ ([hwok](#hwok)+[cyen](#cyen))  
+
+
+- <a name="hwoksiltokalyotpoltilum">**hwoksiltokalyotpoltilum**</a> _n._ ([hwok](#hwok)+[siltokalyotpoltilum](#siltokalyotpoltilum))  
+
+
+### c
+
+- <a name="ce">**ce**</a> _v._ ([~~ho~~](#ho))  
+
+
+- <a name="celon">**celon**</a> _n._ ([ce](#ce)+[lon](#lon))  
+
+
+- <a name="celun">**celun**</a> _n._ (Msa. &langle;jerung&rangle; [d͡ʒeruŋ])  
+
+
+- <a name="celuk">**celuk**</a> _n._ (Msa. &langle;jeruk&rangle; [d͡ʒeruk])  
+
+
+- <a name="'celmanium">**'celmanium**</a> _n._ (Lat. &langle;germanium&rangle; [d͡ʒɛrmanɪʊ̃])  
+
+
+- <a name="'cewa">**'cewa**</a> _n._ (Nya. &langle;Chewa&rangle; [t͡ʃewa])  
+
+
+- <a name="'cewaak">**'cewaak**</a> _n._ (['cewa](#'cewa)+[ak](#ak))  
+
+
+- <a name="'cewatec">**'cewatec**</a> _n._ (['cewa](#'cewa)+[tec](#tec))  
+
+
+- <a name="'cewatilip">**'cewatilip**</a> _n._ (['cewa](#'cewa)+[tilip](#tilip))  
+
+
+- <a name="'cen">**'cen**</a> _n._ (San. &langle;जैन&rangle; [d͡ʒɛːn])  
+
+
+- <a name="'cenak">**'cenak**</a> _n._ (['cen](#'cen)+[ak](#ak))  
+
+
+- <a name="'cenfitilip">**'cenfitilip**</a> _n._ (['cen](#'cen)+[fitilip](#fitilip))  
+
+
+- <a name="'ceh">**'ceh**</a> _n._ (Ces. &langle;čech&rangle; [ˈt͡ʃɛx])  
+
+
+- <a name="'cehak">**'cehak**</a> _n._ (['ceh](#'ceh)+[ak](#ak))  
+
+
+- <a name="'cehtec">**'cehtec**</a> _n._ (['ceh](#'ceh)+[tec](#tec))  
+
+
+- <a name="'cehtilip">**'cehtilip**</a> _n._ (['ceh](#'ceh)+[tilip](#tilip))  
+
+
+- <a name="cece">**cece**</a> _v._ (ono. [t͡ʃət͡ʃə])  
+
+
+- <a name="cecelon">**cecelon**</a> _n._ ([cece](#cece)+[lon](#lon))  
+
+
+- <a name="cecim">**cecim**</a> _n._ ([ce](#ce)+[cim](#cim))  
+
+
+- <a name="ceki">**ceki**</a> _v._ ([ce](#ce)+[ki](#ki))  
+
+
+- <a name="cekiles">**cekiles**</a> _n._ ([ceki](#ceki)+[les](#les))  
+
+
+- <a name="'ca">**'ca**</a> _n._ (ono. [t͡ʃ])  
+
+
+- <a name="cai">**cai**</a> _v._ (Ben. &langle;চাই&rangle; [t͡ɕai])  
+
+
+- <a name="cailon">**cailon**</a> _n._ ([cai](#cai)+[lon](#lon))  
+
+
+- <a name="cailip">**cailip**</a> _n._ ([cai](#cai)+[lip](#lip))  
+
+
+- <a name="cailum">**cailum**</a> _n._ ([cai](#cai)+[lum](#lum))  
+
+
+- <a name="cailyan">**cailyan**</a> _n._ ([cai](#cai)+[lyan](#lyan))  
+
+
+- <a name="cailyot">**cailyot**</a> _n._ ([cai](#cai)+[lyot](#lyot))  
+
+
+- <a name="caiki">**caiki**</a> _v._ ([cai](#cai)+[ki](#ki))  
+
+
+- <a name="caikiles">**caikiles**</a> _n._ ([caiki](#caiki)+[les](#les))  
+
+
+- <a name="caikilon">**caikilon**</a> _n._ ([caiki](#caiki)+[lon](#lon))  
+
+
+- <a name="caiti">**caiti**</a> _v._ ([cai](#cai)+[ti](#ti))  
+
+
+- <a name="caitiku">**caitiku**</a> _v._ ([cai](#cai)+[tiku](#tiku))  
+
+
+- <a name="caitikulon">**caitikulon**</a> _n._ ([caitiku](#caitiku)+[lon](#lon))  
+
+
+- <a name="cau">**cau**</a> _v._ ([~~hai~~](#hai))  
+
+
+- <a name="caulon">**caulon**</a> _n._ ([cau](#cau)+[lon](#lon))  
+
+
+- <a name="cauki">**cauki**</a> _v._ ([cau](#cau)+[ki](#ki))  
+
+
+- <a name="cayni">**cayni**</a> _v._ (Eng. &langle;shiny&rangle; [ˈʃɑɪ̯ni])  
+
+
+- <a name="caynilon">**caynilon**</a> _n._ ([cayni](#cayni)+[lon](#lon))  
+
+
+- <a name="caynilyan">**caynilyan**</a> _n._ ([cayni](#cayni)+[lyan](#lyan))  
+
+
+- <a name="cayniki">**cayniki**</a> _v._ ([cayni](#cayni)+[ki](#ki))  
+
+
+- <a name="calu">**calu**</a> _v._ (Pan. &langle;ਚਾਲੂ&rangle; [t͡ʃɑˈlu])  
+
+
+- <a name="calules">**calules**</a> _n._ ([calu](#calu)+[les](#les))  
+
+
+- <a name="calulon">**calulon**</a> _n._ ([calu](#calu)+[lon](#lon))  
+
+
+- <a name="calulwel">**calulwel**</a> _n._ ([calu](#calu)+[lwel](#lwel))  
+
+
+- <a name="calunyo">**calunyo**</a> _v._ ([calu](#calu)+[nyo](#nyo))  
+
+
+- <a name="calunyoles">**calunyoles**</a> _n._ ([calunyo](#calunyo)+[les](#les))  
+
+
+- <a name="calunyolon">**calunyolon**</a> _n._ ([calunyo](#calunyo)+[lon](#lon))  
+
+
+- <a name="calunyoluat">**calunyoluat**</a> _n._ ([calunyo](#calunyo)+[luat](#luat))  
+
+
+- <a name="calunyohau">**calunyohau**</a> _v._ ([calunyo](#calunyo)+[hau](#hau))  
+
+
+- <a name="calunyohaulon">**calunyohaulon**</a> _n._ ([calunyohau](#calunyohau)+[lon](#lon))  
+
+
+- <a name="calunyocai">**calunyocai**</a> _v._ ([calunyo](#calunyo)+[cai](#cai))  
+
+
+- <a name="calunyocailon">**calunyocailon**</a> _n._ ([calunyocai](#calunyocai)+[lon](#lon))  
+
+
+- <a name="calunyocolon">**calunyocolon**</a> _n._ ([calunyo](#calunyo)+[colon](#colon))  
+
+
+- <a name="calupowi">**calupowi**</a> _v._ ([calu](#calu)+[powi](#powi))  
+
+
+- <a name="calupowilon">**calupowilon**</a> _n._ ([calupowi](#calupowi)+[lon](#lon))  
+
+
+- <a name="calupowinyo">**calupowinyo**</a> _v._ ([calupowi](#calupowi)+[nyo](#nyo))  
+
+
+- <a name="calupowinyolon">**calupowinyolon**</a> _n._ ([calupowinyo](#calupowinyo)+[lon](#lon))  
+
+
+- <a name="'cawa">**'cawa**</a> _n._ (Jav. &langle;ꦗꦮ&rangle; [d͡ʒɔwɔ])  
+
+
+- <a name="'cawaak">**'cawaak**</a> _n._ (['cawa](#'cawa)+[ak](#ak))  
+
+
+- <a name="'cawawon">**'cawawon**</a> _n._ (['cawa](#'cawa)+[won](#won))  
+
+
+- <a name="'cawatilip">**'cawatilip**</a> _n._ (['cawa](#'cawa)+[tilip](#tilip))  
+
+
+- <a name="cawh">**cawh**</a> _n._ (Cmn. &langle;爪&rangle; [ʈ͡ʂɑʊ̯˧˩˧])  
+
+
+- <a name="cawhak">**cawhak**</a> _n._ ([cawh](#cawh)+[ak](#ak))  
+
+
+- <a name="cawhcim">**cawhcim**</a> _n._ ([cawh](#cawh)+[cim](#cim))  
+
+
+- <a name="cawhfut">**cawhfut**</a> _n._ ([cawh](#cawh)+[fut](#fut))  
+
+
+- <a name="cawku">**cawku**</a> _v._ (Cmn. &langle;照顾&rangle; [ʈ͡ʂɑʊ̯˥˩ku])  
+
+
+- <a name="cawkulon">**cawkulon**</a> _n._ ([cawku](#cawku)+[lon](#lon))  
+
+
+- <a name="cawkulum">**cawkulum**</a> _n._ ([cawku](#cawku)+[lum](#lum))  
+
+
+- <a name="cawkunu">**cawkunu**</a> _v._ ([cawku](#cawku)+[nu](#nu))  
+
+
+- <a name="cawkunulon">**cawkunulon**</a> _n._ ([cawkunu](#cawkunu)+[lon](#lon))  
+
+
+- <a name="cawkuki">**cawkuki**</a> _v._ ([cawku](#cawku)+[ki](#ki))  
+
+
+- <a name="cawkukiles">**cawkukiles**</a> _n._ ([cawkuki](#cawkuki)+[les](#les))  
+
+
+- <a name="'cawta">**'cawta**</a> _n._ (Eng. &langle;chowder&rangle; [ˈt͡ʃaʊ̯dɚ])  
+
+
+- <a name="'cantu">**'cantu**</a> _n._ (Cmn. &langle;成都&rangle; [ʈ͡ʂʰə˧˥ŋtu˥])  
+
+
+- <a name="'cameli">**'cameli**</a> _n._ (Hin. &langle;चमेली&rangle; [t͡ʃəmeːliː])  
+
+
+- <a name="cah">**cah**</a> _num._ (Hin. &langle;छः&rangle; [t͡ʃəɦ])  
 6; seis
 
-  - **cahak** _n._ (cah+ak)  
-  sexto
+- <a name="cahak">**cahak**</a> _n._ ([cah](#cah)+[ak](#ak))  
+sexto
 
-  - **cahsunkwelwel** _n._ (cah+sunkwelwel)  
-  
+- <a name="cahsunkwelwel">**cahsunkwelwel**</a> _n._ ([cah](#cah)+[sunkwelwel](#sunkwelwel))  
 
-- **casi** _v._ (Epo. &langle;ĉasi&rangle; [ˈt͡ʃasi])  
 
+- <a name="casi">**casi**</a> _v._ (Epo. &langle;ĉasi&rangle; [ˈt͡ʃasi])  
 
-  - **casiles** _n._ (casi+les)  
-  
 
-  - **casilon** _n._ (casi+lon)  
-  
+- <a name="casiles">**casiles**</a> _n._ ([casi](#casi)+[les](#les))  
 
-- **caka** _v._ (Jav. &langle;saka&rangle; [ʂɔkɔ])  
 
+- <a name="casilon">**casilon**</a> _n._ ([casi](#casi)+[lon](#lon))  
 
-  - **cakalon** _n._ (caka+lon)  
-  
 
-  - **cakalum** _n._ (caka+lum)  
-  
+- <a name="caka">**caka**</a> _v._ (Jav. &langle;saka&rangle; [ʂɔkɔ])  
 
-  - **cakasoma** _v._ (caka+soma)  
-  
 
-  - **cakasomales** _n._ (cakasoma+les)  
-  
+- <a name="cakalon">**cakalon**</a> _n._ ([caka](#caka)+[lon](#lon))  
 
-  - **cakasomalon** _n._ (cakasoma+lon)  
-  
 
-  - **cakaki** _v._ (caka+ki)  
-  
+- <a name="cakalum">**cakalum**</a> _n._ ([caka](#caka)+[lum](#lum))  
 
-  - **cakakiles** _n._ (cakaki+les)  
-  
 
-- **'cakti** _n._ (Hin. &langle;शक्ति&rangle; [ʃəkti])  
+- <a name="cakasoma">**cakasoma**</a> _v._ ([caka](#caka)+[soma](#soma))  
 
 
-  - **'caktifitilip** _n._ ('cakti+fitilip)  
-  
+- <a name="cakasomales">**cakasomales**</a> _n._ ([cakasoma](#cakasoma)+[les](#les))  
 
-  - **'caktifitilipak** _n._ ('caktifitilip+ak)  
-  
 
-  - **'caktifitilipwon** _n._ ('caktifitilip+won)  
-  
+- <a name="cakasomalon">**cakasomalon**</a> _n._ ([cakasoma](#cakasoma)+[lon](#lon))  
 
-- **cat** _n._ (Hin. &langle;छाती&rangle; [t͡ʃʰaːtiː])  
 
+- <a name="cakaki">**cakaki**</a> _v._ ([caka](#caka)+[ki](#ki))  
 
-- **'cat** _n._ (Fra. &langle;Tshad&rangle; [tʃad])  
 
+- <a name="cakakiles">**cakakiles**</a> _n._ ([cakaki](#cakaki)+[les](#les))  
 
-  - **catak** _n._ (cat+ak)  
-  
 
-  - **'catak** _n._ ('cat+ak)  
-  
+- <a name="'cakti">**'cakti**</a> _n._ (Hin. &langle;शक्ति&rangle; [ʃəkti])  
 
-- **catui** _v._ (Hin. &langle;जादुई&rangle; [d͡ʒaːduiː])  
 
+- <a name="'caktifitilip">**'caktifitilip**</a> _n._ (['cakti](#'cakti)+[fitilip](#fitilip))  
 
-  - **catuiles** _n._ (catui+les)  
-  
 
-  - **catuilon** _n._ (catui+lon)  
-  
+- <a name="'caktifitilipak">**'caktifitilipak**</a> _n._ (['caktifitilip](#'caktifitilip)+[ak](#ak))  
 
-  - **catuiluat** _n._ (catui+luat)  
-  
 
-  - **catuikap** _n._ (catui+kap)  
-  
+- <a name="'caktifitilipwon">**'caktifitilipwon**</a> _n._ (['caktifitilip](#'caktifitilip)+[won](#won))  
 
-  - **'catwon** _n._ ('cat+won)  
-  
 
-- **capa** _v._ (Jav. &langle;sap&rangle; [ʂɑp])  
+- <a name="cat">**cat**</a> _n._ (Hin. &langle;छाती&rangle; [t͡ʃʰaːtiː])  
 
 
-  - **capalon** _n._ (capa+lon)  
-  
+- <a name="'cat">**'cat**</a> _n._ (Fra. &langle;Tshad&rangle; [tʃad])  
 
-  - **capalum** _n._ (capa+lum)  
-  
 
-  - **capalummailyot** _n._ (capalum+mailyot)  
-  
+- <a name="catak">**catak**</a> _n._ ([cat](#cat)+[ak](#ak))  
 
-  - **capanu** _v._ (capa+nu)  
-  
 
-  - **capanules** _n._ (capanu+les)  
-  
+- <a name="'catak">**'catak**</a> _n._ (['cat](#'cat)+[ak](#ak))  
 
-  - **capaki** _v._ (capa+ki)  
-  
 
-  - **capakiles** _n._ (capaki+les)  
-  
+- <a name="catui">**catui**</a> _v._ (Hin. &langle;जादुई&rangle; [d͡ʒaːduiː])  
 
-  - **capakiciuh** _n._ (capaki+ciuh)  
-  
 
-- **'caputi** _n._ (Som. &langle;Jabuuti&rangle; [d͡ʒæbuːt])  
+- <a name="catuiles">**catuiles**</a> _n._ ([catui](#catui)+[les](#les))  
 
 
-  - **'caputiak** _n._ ('caputi+ak)  
-  
+- <a name="catuilon">**catuilon**</a> _n._ ([catui](#catui)+[lon](#lon))  
 
-  - **'caputiwon** _n._ ('caputi+won)  
-  
 
-  - **'caputitec** _n._ ('caputi+tec)  
-  
+- <a name="catuiluat">**catuiluat**</a> _n._ ([catui](#catui)+[luat](#luat))  
 
-- **co** _v._ (Zul. &langle;-sho&rangle; [ʃo])  
 
+- <a name="catuikap">**catuikap**</a> _n._ ([catui](#catui)+[kap](#kap))  
 
-- **cola** _v._ (Hin. &langle;चौड़ा&rangle; [t͡ʃɔːɽaː])  
 
+- <a name="'catwon">**'catwon**</a> _n._ (['cat](#'cat)+[won](#won))  
 
-  - **colalon** _n._ (cola+lon)  
-  
 
-  - **colalyan** _n._ (cola+lyan)  
-  
+- <a name="capa">**capa**</a> _v._ (Jav. &langle;sap&rangle; [ʂɑp])  
 
-  - **colaki** _v._ (cola+ki)  
-  
 
-  - **colon** _n._ (co+lon)  
-  
+- <a name="capalon">**capalon**</a> _n._ ([capa](#capa)+[lon](#lon))  
 
-  - **colonoltolum** _n._ (colon+oltolum)  
-  
 
-  - **colontipalum** _n._ (colon+tipalum)  
-  
+- <a name="capalum">**capalum**</a> _n._ ([capa](#capa)+[lum](#lum))  
 
-- **colil** _n._ (Ben. &langle;শরীর&rangle; [ɕɔrir])  
 
+- <a name="capalummailyot">**capalummailyot**</a> _n._ ([capalum](#capalum)+[mailyot](#mailyot))  
 
-  - **colilak** _n._ (colil+ak)  
-  
 
-  - **colip** _n._ (co+lip)  
-  
+- <a name="capanu">**capanu**</a> _v._ ([capa](#capa)+[nu](#nu))  
 
-  - **colum** _n._ (co+lum)  
-  
 
-- **con** _n._ (Pan. &langle;ਜੌਂ&rangle; [d͡ʒɔ̃])  
+- <a name="capanules">**capanules**</a> _n._ ([capanu](#capanu)+[les](#les))  
 
 
-- **'cona** _n._ (Sna. &langle;Shona&rangle; [ʃona])  
+- <a name="capaki">**capaki**</a> _v._ ([capa](#capa)+[ki](#ki))  
 
 
-  - **'conaak** _n._ ('cona+ak)  
-  
+- <a name="capakiles">**capakiles**</a> _n._ ([capaki](#capaki)+[les](#les))  
 
-  - **'conatilip** _n._ ('cona+tilip)  
-  
 
-- **comi** _v._ (Cmn. &langle;稠密&rangle; [ʈ͡ʂʰoʊ̯˧˥mi˥˩])  
+- <a name="capakiciuh">**capakiciuh**</a> _n._ ([capaki](#capaki)+[ciuh](#ciuh))  
 
 
-  - **comilon** _n._ (comi+lon)  
-  
+- <a name="'caputi">**'caputi**</a> _n._ (Som. &langle;Jabuuti&rangle; [d͡ʒæbuːt])  
 
-  - **comilip** _n._ (comi+lip)  
-  
 
-  - **comilum** _n._ (comi+lum)  
-  
+- <a name="'caputiak">**'caputiak**</a> _n._ (['caputi](#'caputi)+[ak](#ak))  
 
-  - **comilyan** _n._ (comi+lyan)  
-  
 
-  - **comiki** _v._ (comi+ki)  
-  
+- <a name="'caputiwon">**'caputiwon**</a> _n._ (['caputi](#'caputi)+[won](#won))  
 
-- **coh** _n._ (Cmn. &langle;手&rangle; [ʂoʊ̯˧˩˧])  
 
+- <a name="'caputitec">**'caputitec**</a> _n._ (['caputi](#'caputi)+[tec](#tec))  
 
-  - **cohak** _n._ (coh+ak)  
-  
 
-  - **cohluso** _v._ (coh+luso)  
-  
+- <a name="co">**co**</a> _v._ (Zul. &langle;-sho&rangle; [ʃo])  
 
-  - **cohlusolon** _n._ (cohluso+lon)  
-  
+
+- <a name="cola">**cola**</a> _v._ (Hin. &langle;चौड़ा&rangle; [t͡ʃɔːɽaː])  
+
+
+- <a name="colalon">**colalon**</a> _n._ ([cola](#cola)+[lon](#lon))  
+
+
+- <a name="colalyan">**colalyan**</a> _n._ ([cola](#cola)+[lyan](#lyan))  
+
+
+- <a name="colaki">**colaki**</a> _v._ ([cola](#cola)+[ki](#ki))  
+
+
+- <a name="colon">**colon**</a> _n._ ([co](#co)+[lon](#lon))  
+
+
+- <a name="colonoltolum">**colonoltolum**</a> _n._ ([colon](#colon)+[oltolum](#oltolum))  
+
+
+- <a name="colontipalum">**colontipalum**</a> _n._ ([colon](#colon)+[tipalum](#tipalum))  
+
+
+- <a name="colil">**colil**</a> _n._ (Ben. &langle;শরীর&rangle; [ɕɔrir])  
+
+
+- <a name="colilak">**colilak**</a> _n._ ([colil](#colil)+[ak](#ak))  
+
+
+- <a name="colip">**colip**</a> _n._ ([co](#co)+[lip](#lip))  
+
+
+- <a name="colum">**colum**</a> _n._ ([co](#co)+[lum](#lum))  
+
+
+- <a name="con">**con**</a> _n._ (Pan. &langle;ਜੌਂ&rangle; [d͡ʒɔ̃])  
+
+
+- <a name="'cona">**'cona**</a> _n._ (Sna. &langle;Shona&rangle; [ʃona])  
+
+
+- <a name="'conaak">**'conaak**</a> _n._ (['cona](#'cona)+[ak](#ak))  
+
+
+- <a name="'conatilip">**'conatilip**</a> _n._ (['cona](#'cona)+[tilip](#tilip))  
+
+
+- <a name="comi">**comi**</a> _v._ (Cmn. &langle;稠密&rangle; [ʈ͡ʂʰoʊ̯˧˥mi˥˩])  
+
+
+- <a name="comilon">**comilon**</a> _n._ ([comi](#comi)+[lon](#lon))  
+
+
+- <a name="comilip">**comilip**</a> _n._ ([comi](#comi)+[lip](#lip))  
+
+
+- <a name="comilum">**comilum**</a> _n._ ([comi](#comi)+[lum](#lum))  
+
+
+- <a name="comilyan">**comilyan**</a> _n._ ([comi](#comi)+[lyan](#lyan))  
+
+
+- <a name="comiki">**comiki**</a> _v._ ([comi](#comi)+[ki](#ki))  
+
+
+- <a name="coh">**coh**</a> _n._ (Cmn. &langle;手&rangle; [ʂoʊ̯˧˩˧])  
+
+
+- <a name="cohak">**cohak**</a> _n._ ([coh](#coh)+[ak](#ak))  
+
+
+- <a name="cohluso">**cohluso**</a> _v._ ([coh](#coh)+[luso](#luso))  
+
+
+- <a name="cohlusolon">**cohlusolon**</a> _n._ ([cohluso](#cohluso)+[lon](#lon))  
+
+
+- <a name="cohtokalyot">**cohtokalyot**</a> _n._ ([coh](#coh)+[tokalyot](#tokalyot))  
+
+
+- <a name="cohtokalyotpoltilum">**cohtokalyotpoltilum**</a> _n._ ([cohtokalyot](#cohtokalyot)+[poltilum](#poltilum))  
+
+
+- <a name="cohti">**cohti**</a> _v._ ([coh](#coh)+[ti](#ti))  
+
+
+- <a name="cohtilip">**cohtilip**</a> _n._ ([cohti](#cohti)+[lip](#lip))  
+
+
+- <a name="cohtife">**cohtife**</a> _v._ ([coh](#coh)+[tife](#tife))  
+
+
+- <a name="cohtifelon">**cohtifelon**</a> _n._ ([cohtife](#cohtife)+[lon](#lon))  
+
+
+- <a name="cohtue">**cohtue**</a> _v._ ([coh](#coh)+[tue](#tue))  
+
+
+- <a name="cohtuelon">**cohtuelon**</a> _n._ ([cohtue](#cohtue)+[lon](#lon))  
+
+
+- <a name="cohtuelum">**cohtuelum**</a> _n._ ([cohtue](#cohtue)+[lum](#lum))  
+
+
+- <a name="cohtuenu">**cohtuenu**</a> _v._ ([cohtue](#cohtue)+[nu](#nu))  
+
+
+- <a name="cohtuenules">**cohtuenules**</a> _n._ ([cohtuenu](#cohtuenu)+[les](#les))  
+
+
+- <a name="cohtueki">**cohtueki**</a> _v._ ([cohtue](#cohtue)+[ki](#ki))  
+
+
+- <a name="cohtuekiles">**cohtuekiles**</a> _n._ ([cohtueki](#cohtueki)+[les](#les))  
+
+
+- <a name="cohpoltilum">**cohpoltilum**</a> _n._ ([coh](#coh)+[poltilum](#poltilum))  
+
+
+- <a name="coc">**coc**</a> _n._ (Cmn. &langle;手指&rangle; [ʂoʊ̯˧˩˧ʈ͡ʂɨ˧˩˧])  
+
+
+- <a name="cocak">**cocak**</a> _n._ ([coc](#coc)+[ak](#ak))  
+
+
+- <a name="cos">**cos**</a> _n._ (Ben. &langle;শসা&rangle; [ɕɔs̪a])  
+
+
+- <a name="'cosawn">**'cosawn**</a> _n._ (Kor. &langle;조선&rangle; [t͡ɕosʰʌn])  
+
+
+- <a name="'cosawnak">**'cosawnak**</a> _n._ (['cosawn](#'cosawn)+[ak](#ak))  
+
+
+- <a name="'cosawnwon">**'cosawnwon**</a> _n._ (['cosawn](#'cosawn)+[won](#won))  
+
+
+- <a name="'cosawntilip">**'cosawntilip**</a> _n._ (['cosawn](#'cosawn)+[tilip](#tilip))  
+
+
+- <a name="cosfolmo">**cosfolmo**</a> _v._ ([cos](#cos)+[folmo](#folmo))  
+
+
+- <a name="cosfolmolon">**cosfolmolon**</a> _n._ ([cosfolmo](#cosfolmo)+[lon](#lon))  
+
+
+- <a name="costun">**costun**</a> _n._ ([cos](#cos)+[tun](#tun))  
+
+
+- <a name="coto">**coto**</a> _v._ (Ben. &langle;জট&rangle; [d͡ʑɔtɔ])  
+
+
+- <a name="cotolon">**cotolon**</a> _n._ ([coto](#coto)+[lon](#lon))  
+
+
+- <a name="cotonu">**cotonu**</a> _v._ ([coto](#coto)+[nu](#nu))  
+
+
+- <a name="cotomeklelon">**cotomeklelon**</a> _n._ ([coto](#coto)+[meklelon](#meklelon))  
+
+
+- <a name="cotoki">**cotoki**</a> _v._ ([coto](#coto)+[ki](#ki))  
+
+
+- <a name="ci">**ci**</a> _v._ (Cmn. &langle;试&rangle; [ʂɨ˥˩])  
+
+
+- <a name="ciestaki">**ciestaki**</a> _v._ ([ci](#ci)+[estaki](#estaki))  
+
+
+- <a name="ciestakiles">**ciestakiles**</a> _n._ ([ciestaki](#ciestaki)+[les](#les))  
+
+
+- <a name="ciestakilon">**ciestakilon**</a> _n._ ([ciestaki](#ciestaki)+[lon](#lon))  
+
+
+- <a name="ciestakilum">**ciestakilum**</a> _n._ ([ciestaki](#ciestaki)+[lum](#lum))  
+
+
+- <a name="ciestakitilip">**ciestakitilip**</a> _n._ ([ciestaki](#ciestaki)+[tilip](#tilip))  
+
+
+- <a name="'ciah">**'ciah**</a> _n._ (Ara. &langle;شيعة‎&rangle; [ʃiːʔah])  
+
+
+- <a name="'ciahak">**'ciahak**</a> _n._ (['ciah](#'ciah)+[ak](#ak))  
+
+
+- <a name="'ciahwon">**'ciahwon**</a> _n._ (['ciah](#'ciah)+[won](#won))  
+
+
+- <a name="ciuh">**ciuh**</a> _n._ (Cmn. &langle;植物&rangle; [ʈ͡ʂɨ˧˥u˥˩])  
+
+
+- <a name="ciuhak">**ciuhak**</a> _n._ ([ciuh](#ciuh)+[ak](#ak))  
+
+
+- <a name="ciuhnyamales">**ciuhnyamales**</a> _n._ ([ciuh](#ciuh)+[nyamales](#nyamales))  
+
+
+- <a name="ciuhcomiki">**ciuhcomiki**</a> _v._ ([ciuh](#ciuh)+[comiki](#comiki))  
+
+
+- <a name="ciuhcomikilon">**ciuhcomikilon**</a> _n._ ([ciuhcomiki](#ciuhcomiki)+[lon](#lon))  
+
+
+- <a name="ciuhcomikilyot">**ciuhcomikilyot**</a> _n._ ([ciuhcomiki](#ciuhcomiki)+[lyot](#lyot))  
+
+
+- <a name="ciuhtayl">**ciuhtayl**</a> _n._ ([ciuh](#ciuh)+[tayl](#tayl))  
+
+
+- <a name="'cile">**'cile**</a> _n._ (Spa. &langle;Chile&rangle; [ˈt͡ʃile])  
+
+
+- <a name="'cileak">**'cileak**</a> _n._ (['cile](#'cile)+[ak](#ak))  
+
+
+- <a name="'cilewon">**'cilewon**</a> _n._ (['cile](#'cile)+[won](#won))  
+
+
+- <a name="ciles">**ciles**</a> _n._ ([ci](#ci)+[les](#les))  
+
+
+- <a name="cilaf">**cilaf**</a> _n._ (Hin. &langle;जिराफ़&rangle; [d͡ʒiraːf])  
+
+
+- <a name="cilon">**cilon**</a> _n._ ([ci](#ci)+[lon](#lon))  
+
+
+- <a name="cilum">**cilum**</a> _n._ ([ci](#ci)+[lum](#lum))  
+
+
+- <a name="'ciwa">**'ciwa**</a> _n._ (San. &langle;शिव&rangle; [ɕiʋɐ́])  
+
+
+- <a name="'ciwafitilip">**'ciwafitilip**</a> _n._ (['ciwa](#'ciwa)+[fitilip](#fitilip))  
+
+
+- <a name="'ciwafitilipak">**'ciwafitilipak**</a> _n._ (['ciwafitilip](#'ciwafitilip)+[ak](#ak))  
+
+
+- <a name="'ciwafitilipwon">**'ciwafitilipwon**</a> _n._ (['ciwafitilip](#'ciwafitilip)+[won](#won))  
+
+
+- <a name="ciwn">**ciwn**</a> _n._ (Cmn. &langle;菌&rangle; [t͡ɕyn˥])  
+
+
+- <a name="ciwnak">**ciwnak**</a> _n._ ([ciwn](#ciwn)+[ak](#ak))  
+
+
+- <a name="ciwti">**ciwti**</a> _v._ (Cmn. &langle;具体&rangle; [t͡ɕy˥˩tʰi˧˩˧])  
+
+
+- <a name="ciwtilon">**ciwtilon**</a> _n._ ([ciwti](#ciwti)+[lon](#lon))  
+
+
+- <a name="ciwtiki">**ciwtiki**</a> _v._ ([ciwti](#ciwti)+[ki](#ki))  
+
+
+- <a name="cin">**cin**</a> _n._ (Cmn. &langle;鲸&rangle; [t͡ɕiŋ˥])  
+
+
+- <a name="'cin">**'cin**</a> _n._ (Eng. &langle;jeans&rangle; [d͡ʒiːnz])  
+
+
+- <a name="'cinitsel">**'cinitsel**</a> _n._ (Deu. &langle;schnitzel&rangle; [ˈʃnɪtsl̩])  
+
+
+- <a name="cinu">**cinu**</a> _v._ ([ci](#ci)+[nu](#nu))  
+
+
+- <a name="cinules">**cinules**</a> _n._ ([cinu](#cinu)+[les](#les))  
+
+
+- <a name="cinya">**cinya**</a> _v._ (Cmn. &langle;惊讶&rangle; [t͡ɕiŋ˥ja˥˩])  
+
+
+- <a name="cinyales">**cinyales**</a> _n._ ([cinya](#cinya)+[les](#les))  
+
+
+- <a name="cinyalon">**cinyalon**</a> _n._ ([cinya](#cinya)+[lon](#lon))  
+
+
+- <a name="cinyokweki">**cinyokweki**</a> _v._ ([ci](#ci)+[nyo](#nyo)+[kweki](#kweki))  
+
+
+- <a name="cinyokwekilon">**cinyokwekilon**</a> _n._ ([cinyokweki](#cinyokweki)+[lon](#lon))  
+
+
+- <a name="cinci">**cinci**</a> _v._ (Cmn. &langle;亲戚&rangle; [t͡ɕʰin˥t͡ɕʰi])  
+
+
+- <a name="cincilon">**cincilon**</a> _n._ ([cinci](#cinci)+[lon](#lon))  
+
+
+- <a name="cincilum">**cincilum**</a> _n._ ([cinci](#cinci)+[lum](#lum))  
+
+
+- <a name="cincinu">**cincinu**</a> _v._ ([cinci](#cinci)+[nu](#nu))  
+
+
+- <a name="cinciki">**cinciki**</a> _v._ ([cinci](#cinci)+[ki](#ki))  
+
+
+- <a name="cinkul">**cinkul**</a> _n._ (Hin. &langle;झींगुर&rangle; [d͡ʒ̤iːŋɡur])  
+
+
+- <a name="cinta">**cinta**</a> _v._ (Ben. &langle;চিন্তা&rangle; [t͡ɕin̪t̪a])  
+
+
+- <a name="cintaec">**cintaec**</a> _n._ ([cinta](#cinta)+[ec](#ec))  
+
+
+- <a name="cintales">**cintales**</a> _n._ ([cinta](#cinta)+[les](#les))  
+
+
+- <a name="cintalon">**cintalon**</a> _n._ ([cinta](#cinta)+[lon](#lon))  
+
+
+- <a name="cintaluat">**cintaluat**</a> _n._ ([cinta](#cinta)+[luat](#luat))  
+
+
+- <a name="'cinto">**'cinto**</a> _n._ (Jap. &langle;神道&rangle; [ɕintoː])  
+
+
+- <a name="'cintoak">**'cintoak**</a> _n._ (['cinto](#'cinto)+[ak](#ak))  
+
+
+- <a name="'cintowon">**'cintowon**</a> _n._ (['cinto](#'cinto)+[won](#won))  
+
+
+- <a name="cim">**cim**</a> _n._ (Ben. &langle;শিম&rangle; [ɕim])  
+
+
+- <a name="cih">**cih**</a> _n._ (Cmn. &langle;市&rangle; [ʂɨ˥˩])  
+
+
+- <a name="cihak">**cihak**</a> _n._ ([cih](#cih)+[ak](#ak))  
+
+
+- <a name="cihwa">**cihwa**</a> _v._ (Cmn. &langle;计划&rangle; [t͡ɕi˥˩xwa˥˩])  
+
+
+- <a name="cihwalon">**cihwalon**</a> _n._ ([cihwa](#cihwa)+[lon](#lon))  
+
+
+- <a name="cihwaluat">**cihwaluat**</a> _n._ ([cihwa](#cihwa)+[luat](#luat))  
+
+
+- <a name="cihwalum">**cihwalum**</a> _n._ ([cihwa](#cihwa)+[lum](#lum))  
+
+
+- <a name="cihwicon">**cihwicon**</a> _n._ ([cih](#cih)+[wicon](#wicon))  
+
+
+- <a name="cic">**cic**</a> _n._ (Cmn. &langle;蜘蛛&rangle; [ʈ͡ʂɨ˥ʈ͡ʂu˥])  
+
+
+- <a name="cicu">**cicu**</a> _v._ (Cmn. &langle;技术&rangle; [t͡ɕi˥˩ʂu˥˩])  
+
+
+- <a name="cicules">**cicules**</a> _n._ ([cicu](#cicu)+[les](#les))  
+
+
+- <a name="ciculesitea">**ciculesitea**</a> _v._ ([cicules](#cicules)+[itea](#itea))  
+
+
+- <a name="ciculesiteales">**ciculesiteales**</a> _n._ ([ciculesitea](#ciculesitea)+[les](#les))  
+
+
+- <a name="ciculesitealon">**ciculesitealon**</a> _n._ ([ciculesitea](#ciculesitea)+[lon](#lon))  
+
+
+- <a name="ciculon">**ciculon**</a> _n._ ([cicu](#cicu)+[lon](#lon))  
+
+
+- <a name="ciculuat">**ciculuat**</a> _n._ ([cicu](#cicu)+[luat](#luat))  
+
+
+- <a name="cik">**cik**</a> _n._ (Eng. &langle;chick&rangle; [t͡ʃɪk])  
+
+
+- <a name="cikweki">**cikweki**</a> _v._ ([ci](#ci)+[kweki](#kweki))  
+
+
+- <a name="citai">**citai**</a> _v._ (Cmn. &langle;期待&rangle; [t͡ɕʰi˥taɪ̯˥˩])  
+
+
+- <a name="citailon">**citailon**</a> _n._ ([citai](#citai)+[lon](#lon))  
+
+
+- <a name="citailum">**citailum**</a> _n._ ([citai](#citai)+[lum](#lum))  
+
+
+- <a name="citainu">**citainu**</a> _v._ ([citai](#citai)+[nu](#nu))  
+
+
+- <a name="citaiki">**citaiki**</a> _v._ ([citai](#citai)+[ki](#ki))  
+
+
+- <a name="citu">**citu**</a> _v._ ([~~huli~~](#huli))  
+
+
+- <a name="citulon">**citulon**</a> _n._ ([citu](#citu)+[lon](#lon))  
+
+
+- <a name="citulonsoma">**citulonsoma**</a> _v._ ([citulon](#citulon)+[soma](#soma))  
+
+
+- <a name="citulonsomales">**citulonsomales**</a> _n._ ([citulonsoma](#citulonsoma)+[les](#les))  
+
+
+- <a name="citulonsomalon">**citulonsomalon**</a> _n._ ([citulonsoma](#citulonsoma)+[lon](#lon))  
+
+
+- <a name="citulyan">**citulyan**</a> _n._ ([citu](#citu)+[lyan](#lyan))  
+
+
+- <a name="citulyankwelyansomaluat">**citulyankwelyansomaluat**</a> _n._ ([citulyan](#citulyan)+[kwelyan](#kwelyan)+[somaluat](#somaluat))  
+
+
+- <a name="citunoki">**citunoki**</a> _v._ ([citu](#citu)+[noki](#noki))  
+
+
+- <a name="citunokiles">**citunokiles**</a> _n._ ([citunoki](#citunoki)+[les](#les))  
+
+
+- <a name="citunokilon">**citunokilon**</a> _n._ ([citunoki](#citunoki)+[lon](#lon))  
+
+
+- <a name="citunokilyot">**citunokilyot**</a> _n._ ([citunoki](#citunoki)+[lyot](#lyot))  
+
+
+- <a name="citunokilwel">**citunokilwel**</a> _n._ ([citunoki](#citunoki)+[lwel](#lwel))  
+
+
+- <a name="citusunnyama">**citusunnyama**</a> _v._ ([citu](#citu)+[sun](#sun)+[nyama](#nyama))  
+
+
+- <a name="citusunnyamalwel">**citusunnyamalwel**</a> _n._ ([citusunnyama](#citusunnyama)+[lwel](#lwel))  
+
+
+- <a name="citusunnyamalon">**citusunnyamalon**</a> _n._ ([citusunnyama](#citusunnyama)+[lon](#lon))  
+
+
+- <a name="citusunnyamales">**citusunnyamales**</a> _n._ ([citusunnyama](#citusunnyama)+[les](#les))  
+
+
+- <a name="cituki">**cituki**</a> _v._ ([citu](#citu)+[ki](#ki))  
+
+
+- <a name="citukiles">**citukiles**</a> _n._ ([cituki](#cituki)+[les](#les))  
+
+
+- <a name="citukilon">**citukilon**</a> _n._ ([cituki](#cituki)+[lon](#lon))  
+
+
+- <a name="citukucinihu">**citukucinihu**</a> _v._ ([citu](#citu)+[kucinihu](#kucinihu))  
+
+
+- <a name="citukucinihulon">**citukucinihulon**</a> _n._ ([citukucinihu](#citukucinihu)+[lon](#lon))  
 
-  - **cohtokalyot** _n._ (coh+tokalyot)  
-  
 
-  - **cohtokalyotpoltilum** _n._ (cohtokalyot+poltilum)  
-  
+- <a name="citupensi">**citupensi**</a> _v._ ([citu](#citu)+[pensi](#pensi))  
 
-  - **cohti** _v._ (coh+ti)  
-  
 
-  - **cohtilip** _n._ (cohti+lip)  
-  
+- <a name="citupensilon">**citupensilon**</a> _n._ ([citupensi](#citupensi)+[lon](#lon))  
 
-  - **cohtife** _v._ (coh+tife)  
-  
 
-  - **cohtifelon** _n._ (cohtife+lon)  
-  
+- <a name="citupensilum">**citupensilum**</a> _n._ ([citupensi](#citupensi)+[lum](#lum))  
 
-  - **cohtue** _v._ (coh+tue)  
-  
 
-  - **cohtuelon** _n._ (cohtue+lon)  
-  
+- <a name="citupensipowi">**citupensipowi**</a> _v._ ([citupensi](#citupensi)+[powi](#powi))  
 
-  - **cohtuelum** _n._ (cohtue+lum)  
-  
 
-  - **cohtuenu** _v._ (cohtue+nu)  
-  
+- <a name="citupensipowilon">**citupensipowilon**</a> _n._ ([citupensipowi](#citupensipowi)+[lon](#lon))  
 
-  - **cohtuenules** _n._ (cohtuenu+les)  
-  
 
-  - **cohtueki** _v._ (cohtue+ki)  
-  
+- <a name="citupensipowinyo">**citupensipowinyo**</a> _v._ ([citupensipowi](#citupensipowi)+[nyo](#nyo))  
 
-  - **cohtuekiles** _n._ (cohtueki+les)  
-  
 
-  - **cohpoltilum** _n._ (coh+poltilum)  
-  
+- <a name="citupensipowinyolon">**citupensipowinyolon**</a> _n._ ([citupensipowinyo](#citupensipowinyo)+[lon](#lon))  
 
-- **coc** _n._ (Cmn. &langle;手指&rangle; [ʂoʊ̯˧˩˧ʈ͡ʂɨ˧˩˧])  
 
+- <a name="citupensipowinu">**citupensipowinu**</a> _v._ ([citupensipowi](#citupensipowi)+[nu](#nu))  
 
-  - **cocak** _n._ (coc+ak)  
-  
 
-- **cos** _n._ (Ben. &langle;শসা&rangle; [ɕɔs̪a])  
+- <a name="citupensipowinyonyo">**citupensipowinyonyo**</a> _v._ ([citupensipowinyo](#citupensipowinyo)+[nyo](#nyo))  
 
 
-- **'cosawn** _n._ (Kor. &langle;조선&rangle; [t͡ɕosʰʌn])  
+- <a name="citupensipowinyonyolon">**citupensipowinyonyolon**</a> _n._ ([citupensipowinyonyo](#citupensipowinyonyo)+[lon](#lon))  
 
 
-  - **'cosawnak** _n._ ('cosawn+ak)  
-  
+- <a name="citupensipowiki">**citupensipowiki**</a> _v._ ([citupensipowi](#citupensipowi)+[ki](#ki))  
 
-  - **'cosawnwon** _n._ ('cosawn+won)  
-  
 
-  - **'cosawntilip** _n._ ('cosawn+tilip)  
-  
+- <a name="cipcip">**cipcip**</a> _n._ (ono. [t͡ʃip)  
 
-  - **cosfolmo** _v._ (cos+folmo)  
-  
 
-  - **cosfolmolon** _n._ (cosfolmo+lon)  
-  
+- <a name="cipcipak">**cipcipak**</a> _n._ ([cipcip](#cipcip)+[ak](#ak))  
 
-  - **costun** _n._ (cos+tun)  
-  
 
-- **coto** _v._ (Ben. &langle;জট&rangle; [d͡ʑɔtɔ])  
+- <a name="cipcippul">**cipcippul**</a> _n._ ([cipcip](#cipcip)+[pul](#pul))  
 
 
-  - **cotolon** _n._ (coto+lon)  
-  
+- <a name="cu">**cu**</a> _ptcl._ (Epo. &langle;ĉu&rangle; [t͡ʃu])  
 
-  - **cotonu** _v._ (coto+nu)  
-  
 
-  - **cotomeklelon** _n._ (coto+meklelon)  
-  
+- <a name="cua">**cua**</a> _v._ (Swa. &langle;jua&rangle; [ʄua])  
 
-  - **cotoki** _v._ (coto+ki)  
-  
 
-- **ci** _v._ (Cmn. &langle;试&rangle; [ʂɨ˥˩])  
+- <a name="cuaec">**cuaec**</a> _n._ ([cua](#cua)+[ec](#ec))  
 
 
-  - **ciestaki** _v._ (ci+estaki)  
-  
+- <a name="cuaak">**cuaak**</a> _n._ ([cua](#cua)+[ak](#ak))  
 
-  - **ciestakiles** _n._ (ciestaki+les)  
-  
 
-  - **ciestakilon** _n._ (ciestaki+lon)  
-  
+- <a name="cualon">**cualon**</a> _n._ ([cua](#cua)+[lon](#lon))  
 
-  - **ciestakilum** _n._ (ciestaki+lum)  
-  
 
-  - **ciestakitilip** _n._ (ciestaki+tilip)  
-  
+- <a name="cualuat">**cualuat**</a> _n._ ([cua](#cua)+[luat](#luat))  
 
-- **'ciah** _n._ (Ara. &langle;شيعة‎&rangle; [ʃiːʔah])  
 
+- <a name="cualum">**cualum**</a> _n._ ([cua](#cua)+[lum](#lum))  
 
-  - **'ciahak** _n._ ('ciah+ak)  
-  
 
-  - **'ciahwon** _n._ ('ciah+won)  
-  
+- <a name="cualumak">**cualumak**</a> _n._ ([cualum](#cualum)+[ak](#ak))  
 
-- **ciuh** _n._ (Cmn. &langle;植物&rangle; [ʈ͡ʂɨ˧˥u˥˩])  
 
+- <a name="cuanu">**cuanu**</a> _v._ ([cua](#cua)+[nu](#nu))  
 
-  - **ciuhak** _n._ (ciuh+ak)  
-  
 
-  - **ciuhnyamales** _n._ (ciuh+nyamales)  
-  
+- <a name="cuanules">**cuanules**</a> _n._ ([cuanu](#cuanu)+[les](#les))  
 
-  - **ciuhcomiki** _v._ (ciuh+comiki)  
-  
 
-  - **ciuhcomikilon** _n._ (ciuhcomiki+lon)  
-  
+- <a name="cuanulum">**cuanulum**</a> _n._ ([cuanu](#cuanu)+[lum](#lum))  
 
-  - **ciuhcomikilyot** _n._ (ciuhcomiki+lyot)  
-  
 
-  - **ciuhtayl** _n._ (ciuh+tayl)  
-  
+- <a name="cuaki">**cuaki**</a> _v._ ([cua](#cua)+[ki](#ki))  
 
-- **'cile** _n._ (Spa. &langle;Chile&rangle; [ˈt͡ʃile])  
 
+- <a name="cuakiles">**cuakiles**</a> _n._ ([cuaki](#cuaki)+[les](#les))  
 
-  - **'cileak** _n._ ('cile+ak)  
-  
 
-  - **'cilewon** _n._ ('cile+won)  
-  
+- <a name="cuakilum">**cuakilum**</a> _n._ ([cuaki](#cuaki)+[lum](#lum))  
 
-  - **ciles** _n._ (ci+les)  
-  
 
-- **cilaf** _n._ (Hin. &langle;जिराफ़&rangle; [d͡ʒiraːf])  
+- <a name="'cun">**'cun**</a> _n._ (Cmn. &langle;中&rangle; [ʈ͡ʂʊŋ˥])  
 
 
-  - **cilon** _n._ (ci+lon)  
-  
+- <a name="'cunak">**'cunak**</a> _n._ (['cun](#'cun)+[ak](#ak))  
 
-  - **cilum** _n._ (ci+lum)  
-  
 
-- **'ciwa** _n._ (San. &langle;शिव&rangle; [ɕiʋɐ́])  
+- <a name="'cuncin">**'cuncin**</a> _n._ (Cmn. &langle;重庆&rangle; [ʈ͡ʂʰʊŋ˧˥t͡ɕʰi˥˩ŋ])  
 
 
-  - **'ciwafitilip** _n._ ('ciwa+fitilip)  
-  
+- <a name="'cuntec">**'cuntec**</a> _n._ (['cun](#'cun)+[tec](#tec))  
 
-  - **'ciwafitilipak** _n._ ('ciwafitilip+ak)  
-  
 
-  - **'ciwafitilipwon** _n._ ('ciwafitilip+won)  
-  
+- <a name="'cuntilip">**'cuntilip**</a> _n._ (['cun](#'cun)+[tilip](#tilip))  
 
-- **ciwn** _n._ (Cmn. &langle;菌&rangle; [t͡ɕyn˥])  
 
+- <a name="'cumieka">**'cumieka**</a> _n._ (Jam. &langle;Jamaica&rangle; [d͡ʒʊmiɛka])  
 
-  - **ciwnak** _n._ (ciwn+ak)  
-  
 
-- **ciwti** _v._ (Cmn. &langle;具体&rangle; [t͡ɕy˥˩tʰi˧˩˧])  
+- <a name="'cumiekaak">**'cumiekaak**</a> _n._ (['cumieka](#'cumieka)+[ak](#ak))  
 
 
-  - **ciwtilon** _n._ (ciwti+lon)  
-  
+- <a name="'cumiekawon">**'cumiekawon**</a> _n._ (['cumieka](#'cumieka)+[won](#won))  
 
-  - **ciwtiki** _v._ (ciwti+ki)  
-  
 
-- **cin** _n._ (Cmn. &langle;鲸&rangle; [t͡ɕiŋ˥])  
+- <a name="'cumiekatec">**'cumiekatec**</a> _n._ (['cumieka](#'cumieka)+[tec](#tec))  
 
 
-- **'cin** _n._ (Eng. &langle;jeans&rangle; [d͡ʒiːnz])  
+- <a name="'cumiekatilip">**'cumiekatilip**</a> _n._ (['cumieka](#'cumieka)+[tilip](#tilip))  
 
 
-- **'cinitsel** _n._ (Deu. &langle;schnitzel&rangle; [ˈʃnɪtsl̩])  
+- <a name="cuc">**cuc**</a> _n._ (Ben. &langle;জুজু&rangle; [d͡ʑud͡ʑu])  
 
 
-  - **cinu** _v._ (ci+nu)  
-  
+- <a name="cuta">**cuta**</a> _v._ ([~~hila~~](#hila))  
 
-  - **cinules** _n._ (cinu+les)  
-  
 
-- **cinya** _v._ (Cmn. &langle;惊讶&rangle; [t͡ɕiŋ˥ja˥˩])  
+- <a name="cutalon">**cutalon**</a> _n._ ([cuta](#cuta)+[lon](#lon))  
 
 
-  - **cinyales** _n._ (cinya+les)  
-  
+- <a name="cutaki">**cutaki**</a> _v._ ([cuta](#cuta)+[ki](#ki))  
 
-  - **cinyalon** _n._ (cinya+lon)  
-  
 
-  - **cinyokweki** _v._ (ci+nyo+kweki)  
-  
+- <a name="cutakiles">**cutakiles**</a> _n._ ([cutaki](#cutaki)+[les](#les))  
 
-  - **cinyokwekilon** _n._ (cinyokweki+lon)  
-  
 
-- **cinci** _v._ (Cmn. &langle;亲戚&rangle; [t͡ɕʰin˥t͡ɕʰi])  
+- <a name="cutakilyot">**cutakilyot**</a> _n._ ([cutaki](#cutaki)+[lyot](#lyot))  
 
 
-  - **cincilon** _n._ (cinci+lon)  
-  
+- <a name="cuti">**cuti**</a> _v._ ([cu](#cu)+[ti](#ti))  
 
-  - **cincilum** _n._ (cinci+lum)  
-  
 
-  - **cincinu** _v._ (cinci+nu)  
-  
+- <a name="cutiles">**cutiles**</a> _n._ ([cuti](#cuti)+[les](#les))  
 
-  - **cinciki** _v._ (cinci+ki)  
-  
 
-- **cinkul** _n._ (Hin. &langle;झींगुर&rangle; [d͡ʒ̤iːŋɡur])  
+- <a name="cutilon">**cutilon**</a> _n._ ([cuti](#cuti)+[lon](#lon))  
 
 
-- **cinta** _v._ (Ben. &langle;চিন্তা&rangle; [t͡ɕin̪t̪a])  
+- <a name="cutilum">**cutilum**</a> _n._ ([cuti](#cuti)+[lum](#lum))  
 
 
-  - **cintaec** _n._ (cinta+ec)  
-  
+- <a name="cyen">**cyen**</a> _n._ (Cmn. &langle;线&rangle; [ɕjɛn˥˩])  
 
-  - **cintales** _n._ (cinta+les)  
-  
 
-  - **cintalon** _n._ (cinta+lon)  
-  
+- <a name="cyenam">**cyenam**</a> _n._ ([cyen](#cyen)+[am](#am))  
 
-  - **cintaluat** _n._ (cinta+luat)  
-  
 
-- **'cinto** _n._ (Jap. &langle;神道&rangle; [ɕintoː])  
+- <a name="cyenut">**cyenut**</a> _n._ ([cyen](#cyen)+[ut](#ut))  
 
 
-  - **'cintoak** _n._ ('cinto+ak)  
-  
+- <a name="cyenlek">**cyenlek**</a> _n._ ([cyen](#cyen)+[lek](#lek))  
 
-  - **'cintowon** _n._ ('cinto+won)  
-  
 
-- **cim** _n._ (Ben. &langle;শিম&rangle; [ɕim])  
+- <a name="cyenlektun">**cyenlektun**</a> _n._ ([cyenlek](#cyenlek)+[tun](#tun))  
 
 
-- **cih** _n._ (Cmn. &langle;市&rangle; [ʂɨ˥˩])  
+- <a name="cyenmuf">**cyenmuf**</a> _n._ ([cyen](#cyen)+[muf](#muf))  
 
 
-  - **cihak** _n._ (cih+ak)  
-  
+- <a name="cyenhwok">**cyenhwok**</a> _n._ ([cyen](#cyen)+[hwok](#hwok))  
 
-- **cihwa** _v._ (Cmn. &langle;计划&rangle; [t͡ɕi˥˩xwa˥˩])  
 
+- <a name="cyenciuh">**cyenciuh**</a> _n._ ([cyen](#cyen)+[ciuh](#ciuh))  
 
-  - **cihwalon** _n._ (cihwa+lon)  
-  
 
-  - **cihwaluat** _n._ (cihwa+luat)  
-  
+- <a name="cyencim">**cyencim**</a> _n._ ([cyen](#cyen)+[cim](#cim))  
 
-  - **cihwalum** _n._ (cihwa+lum)  
-  
 
-  - **cihwicon** _n._ (cih+wicon)  
-  
+- <a name="cyenseleal">**cyenseleal**</a> _n._ ([cyen](#cyen)+[seleal](#seleal))  
 
-- **cic** _n._ (Cmn. &langle;蜘蛛&rangle; [ʈ͡ʂɨ˥ʈ͡ʂu˥])  
 
+- <a name="cyenfut">**cyenfut**</a> _n._ ([cyen](#cyen)+[fut](#fut))  
 
-- **cicu** _v._ (Cmn. &langle;技术&rangle; [t͡ɕi˥˩ʂu˥˩])  
 
+- <a name="cyau">**cyau**</a> _v._ (Cmn. &langle;焦&rangle; [t͡ɕjɑʊ̯˥])  
 
-  - **cicules** _n._ (cicu+les)  
-  
 
-  - **ciculesitea** _v._ (cicules+itea)  
-  
+- <a name="cyaulon">**cyaulon**</a> _n._ ([cyau](#cyau)+[lon](#lon))  
 
-  - **ciculesiteales** _n._ (ciculesitea+les)  
-  
 
-  - **ciculesitealon** _n._ (ciculesitea+lon)  
-  
+- <a name="cyaunyama">**cyaunyama**</a> _v._ ([cyau](#cyau)+[nyama](#nyama))  
 
-  - **ciculon** _n._ (cicu+lon)  
-  
 
-  - **ciculuat** _n._ (cicu+luat)  
-  
+- <a name="cyauhyolon">**cyauhyolon**</a> _n._ ([cyau](#cyau)+[hyolon](#hyolon))  
 
-- **cik** _n._ (Eng. &langle;chick&rangle; [t͡ʃɪk])  
 
+- <a name="cyaufekiluat">**cyaufekiluat**</a> _n._ ([cyau](#cyau)+[fekiluat](#fekiluat))  
 
-  - **cikweki** _v._ (ci+kweki)  
-  
 
-- **citai** _v._ (Cmn. &langle;期待&rangle; [t͡ɕʰi˥taɪ̯˥˩])  
+- <a name="cyauki">**cyauki**</a> _v._ ([cyau](#cyau)+[ki](#ki))  
 
 
-  - **citailon** _n._ (citai+lon)  
-  
+- <a name="cyaukiufalon">**cyaukiufalon**</a> _n._ ([cyauki](#cyauki)+[ufalon](#ufalon))  
 
-  - **citailum** _n._ (citai+lum)  
-  
 
-  - **citainu** _v._ (citai+nu)  
-  
+- <a name="cyaukiles">**cyaukiles**</a> _n._ ([cyauki](#cyauki)+[les](#les))  
 
-  - **citaiki** _v._ (citai+ki)  
-  
 
-- **citu** _v._ (~~huli~~)  
+- <a name="cyaukilon">**cyaukilon**</a> _n._ ([cyauki](#cyauki)+[lon](#lon))  
 
 
-  - **citulon** _n._ (citu+lon)  
-  
+- <a name="cyaukicwelon">**cyaukicwelon**</a> _n._ ([cyauki](#cyauki)+[cwelon](#cwelon))  
 
-  - **citulonsoma** _v._ (citulon+soma)  
-  
 
-  - **citulonsomales** _n._ (citulonsoma+les)  
-  
+- <a name="cyaukicwelonkac">**cyaukicwelonkac**</a> _n._ ([cyaukicwelon](#cyaukicwelon)+[kac](#kac))  
 
-  - **citulonsomalon** _n._ (citulonsoma+lon)  
-  
 
-  - **citulyan** _n._ (citu+lyan)  
-  
+- <a name="cyaukicwelonpic">**cyaukicwelonpic**</a> _n._ ([cyaukicwelon](#cyaukicwelon)+[pic](#pic))  
 
-  - **citulyankwelyansomaluat** _n._ (citulyan+kwelyan+somaluat)  
-  
 
-  - **citunoki** _v._ (citu+noki)  
-  
+- <a name="cyaukipowi">**cyaukipowi**</a> _v._ ([cyauki](#cyauki)+[powi](#powi))  
 
-  - **citunokiles** _n._ (citunoki+les)  
-  
 
-  - **citunokilon** _n._ (citunoki+lon)  
-  
+- <a name="cyaukipowilon">**cyaukipowilon**</a> _n._ ([cyaukipowi](#cyaukipowi)+[lon](#lon))  
 
-  - **citunokilyot** _n._ (citunoki+lyot)  
-  
 
-  - **citunokilwel** _n._ (citunoki+lwel)  
-  
+- <a name="cyaukipowinu">**cyaukipowinu**</a> _v._ ([cyaukipowi](#cyaukipowi)+[nu](#nu))  
 
-  - **citusunnyama** _v._ (citu+sun+nyama)  
-  
 
-  - **citusunnyamalwel** _n._ (citusunnyama+lwel)  
-  
+- <a name="cyaukipowinyo">**cyaukipowinyo**</a> _v._ ([cyaukipowi](#cyaukipowi)+[nyo](#nyo))  
 
-  - **citusunnyamalon** _n._ (citusunnyama+lon)  
-  
 
-  - **citusunnyamales** _n._ (citusunnyama+les)  
-  
+- <a name="cyaukipowinyolon">**cyaukipowinyolon**</a> _n._ ([cyaukipowinyo](#cyaukipowinyo)+[lon](#lon))  
 
-  - **cituki** _v._ (citu+ki)  
-  
 
-  - **citukiles** _n._ (cituki+les)  
-  
+- <a name="cyaukipowiki">**cyaukipowiki**</a> _v._ ([cyaukipowi](#cyaukipowi)+[ki](#ki))  
 
-  - **citukilon** _n._ (cituki+lon)  
-  
 
-  - **citukucinihu** _v._ (citu+kucinihu)  
-  
+- <a name="cyacun">**cyacun**</a> _n._ (Cmn. &langle;甲虫&rangle; [t͡ɕja˧˩˧ʈ͡ʂʰʊŋ˧˥])  
 
-  - **citukucinihulon** _n._ (citukucinihu+lon)  
-  
 
-  - **citupensi** _v._ (citu+pensi)  
-  
+- <a name="cyatin">**cyatin**</a> _n._ (Cmn. &langle;家庭&rangle; [t͡ɕja˥tʰiŋ˧˥])  
 
-  - **citupensilon** _n._ (citupensi+lon)  
-  
 
-  - **citupensilum** _n._ (citupensi+lum)  
-  
+- <a name="cyatinak">**cyatinak**</a> _n._ ([cyatin](#cyatin)+[ak](#ak))  
 
-  - **citupensipowi** _v._ (citupensi+powi)  
-  
 
-  - **citupensipowilon** _n._ (citupensipowi+lon)  
-  
+- <a name="cyo">**cyo**</a> _v._ (Cmn. &langle;旧&rangle; [t͡ɕjoʊ̯˥˩])  
 
-  - **citupensipowinyo** _v._ (citupensipowi+nyo)  
-  
 
-  - **citupensipowinyolon** _n._ (citupensipowinyo+lon)  
-  
+- <a name="cyolon">**cyolon**</a> _n._ ([cyo](#cyo)+[lon](#lon))  
 
-  - **citupensipowinu** _v._ (citupensipowi+nu)  
-  
 
-  - **citupensipowinyonyo** _v._ (citupensipowinyo+nyo)  
-  
+- <a name="cyolyan">**cyolyan**</a> _n._ ([cyo](#cyo)+[lyan](#lyan))  
 
-  - **citupensipowinyonyolon** _n._ (citupensipowinyonyo+lon)  
-  
 
-  - **citupensipowiki** _v._ (citupensipowi+ki)  
-  
+- <a name="cyoki">**cyoki**</a> _v._ ([cyo](#cyo)+[ki](#ki))  
 
-- **cipcip** _n._ (ono. [t͡ʃip)  
 
+- <a name="cyokiles">**cyokiles**</a> _n._ ([cyoki](#cyoki)+[les](#les))  
 
-  - **cipcipak** _n._ (cipcip+ak)  
-  
 
-  - **cipcippul** _n._ (cipcip+pul)  
-  
+- <a name="cwe">**cwe**</a> _v._ (Cmn. &langle;水&rangle; [ʂweɪ̯˧˩˧])  
 
-- **cu** _ptcl._ (Epo. &langle;ĉu&rangle; [t͡ʃu])  
 
+- <a name="cweancosapuluat">**cweancosapuluat**</a> _n._ ([cwe](#cwe)+[ancosapuluat](#ancosapuluat))  
 
-- **cua** _v._ (Swa. &langle;jua&rangle; [ʄua])  
 
+- <a name="cweap">**cweap**</a> _n._ ([cwe](#cwe)+[ap](#ap))  
 
-  - **cuaec** _n._ (cua+ec)  
-  
 
-  - **cuaak** _n._ (cua+ak)  
-  
+- <a name="cweufalon">**cweufalon**</a> _n._ ([cwe](#cwe)+[ufalon](#ufalon))  
 
-  - **cualon** _n._ (cua+lon)  
-  
 
-  - **cualuat** _n._ (cua+luat)  
-  
+- <a name="cweyeh">**cweyeh**</a> _n._ ([cwe](#cwe)+[yeh](#yeh))  
 
-  - **cualum** _n._ (cua+lum)  
-  
 
-  - **cualumak** _n._ (cualum+ak)  
-  
+- <a name="cwelon">**cwelon**</a> _n._ ([cwe](#cwe)+[lon](#lon))  
 
-  - **cuanu** _v._ (cua+nu)  
-  
 
-  - **cuanules** _n._ (cuanu+les)  
-  
+- <a name="cwelyan">**cwelyan**</a> _n._ ([cwe](#cwe)+[lyan](#lyan))  
 
-  - **cuanulum** _n._ (cuanu+lum)  
-  
 
-  - **cuaki** _v._ (cua+ki)  
-  
+- <a name="cwenalkaskutilon">**cwenalkaskutilon**</a> _n._ ([cwe](#cwe)+[nalkaskutilon](#nalkaskutilon))  
 
-  - **cuakiles** _n._ (cuaki+les)  
-  
 
-  - **cuakilum** _n._ (cuaki+lum)  
-  
+- <a name="cweniceki">**cweniceki**</a> _v._ ([cwe](#cwe)+[niceki](#niceki))  
 
-- **'cun** _n._ (Cmn. &langle;中&rangle; [ʈ͡ʂʊŋ˥])  
 
+- <a name="cwenyamaluat">**cwenyamaluat**</a> _n._ ([cwe](#cwe)+[nyamaluat](#nyamaluat))  
 
-  - **'cunak** _n._ ('cun+ak)  
-  
 
-- **'cuncin** _n._ (Cmn. &langle;重庆&rangle; [ʈ͡ʂʰʊŋ˧˥t͡ɕʰi˥˩ŋ])  
+- <a name="cwemaceki">**cwemaceki**</a> _v._ ([cwe](#cwe)+[maceki](#maceki))  
 
 
-  - **'cuntec** _n._ ('cun+tec)  
-  
+- <a name="cwemacekiles">**cwemacekiles**</a> _n._ ([cwemaceki](#cwemaceki)+[les](#les))  
 
-  - **'cuntilip** _n._ ('cun+tilip)  
-  
 
-- **'cumieka** _n._ (Jam. &langle;Jamaica&rangle; [d͡ʒʊmiɛka])  
+- <a name="cwemontalon">**cwemontalon**</a> _n._ ([cwe](#cwe)+[montalon](#montalon))  
 
 
-  - **'cumiekaak** _n._ ('cumieka+ak)  
-  
+- <a name="cwemiclo">**cwemiclo**</a> _v._ ([cwe](#cwe)+[miclo](#miclo))  
 
-  - **'cumiekawon** _n._ ('cumieka+won)  
-  
 
-  - **'cumiekatec** _n._ ('cumieka+tec)  
-  
+- <a name="cwemiclolon">**cwemiclolon**</a> _n._ ([cwemiclo](#cwemiclo)+[lon](#lon))  
 
-  - **'cumiekatilip** _n._ ('cumieka+tilip)  
-  
 
-- **cuc** _n._ (Ben. &langle;জুজু&rangle; [d͡ʑud͡ʑu])  
+- <a name="cwemwoni">**cwemwoni**</a> _v._ ([cwe](#cwe)+[mwoni](#mwoni))  
 
 
-- **cuta** _v._ (~~hila~~)  
+- <a name="cwemwoniles">**cwemwoniles**</a> _n._ ([cwemwoni](#cwemwoni)+[les](#les))  
 
 
-  - **cutalon** _n._ (cuta+lon)  
-  
+- <a name="cwemwonilon">**cwemwonilon**</a> _n._ ([cwemwoni](#cwemwoni)+[lon](#lon))  
 
-  - **cutaki** _v._ (cuta+ki)  
-  
 
-  - **cutakiles** _n._ (cutaki+les)  
-  
+- <a name="cwemwonilum">**cwemwonilum**</a> _n._ ([cwemwoni](#cwemwoni)+[lum](#lum))  
 
-  - **cutakilyot** _n._ (cutaki+lyot)  
-  
 
-  - **cuti** _v._ (cu+ti)  
-  
+- <a name="cwehila">**cwehila**</a> _v._ ([cwe](#cwe)+[hila](#hila))  
 
-  - **cutiles** _n._ (cuti+les)  
-  
 
-  - **cutilon** _n._ (cuti+lon)  
-  
+- <a name="cwehilalon">**cwehilalon**</a> _n._ ([cwehila](#cwehila)+[lon](#lon))  
 
-  - **cutilum** _n._ (cuti+lum)  
-  
 
-- **cyen** _n._ (Cmn. &langle;线&rangle; [ɕjɛn˥˩])  
+- <a name="cwecai">**cwecai**</a> _v._ ([cwe](#cwe)+[cai](#cai))  
 
 
-  - **cyenam** _n._ (cyen+am)  
-  
+- <a name="cwecohtuelon">**cwecohtuelon**</a> _n._ ([cwe](#cwe)+[cohtuelon](#cohtuelon))  
 
-  - **cyenut** _n._ (cyen+ut)  
-  
 
-  - **cyenlek** _n._ (cyen+lek)  
-  
+- <a name="cwekaelyot">**cwekaelyot**</a> _n._ ([cwe](#cwe)+[kae](#kae)+[lyot](#lyot))  
 
-  - **cyenlektun** _n._ (cyenlek+tun)  
-  
 
-  - **cyenmuf** _n._ (cyen+muf)  
-  
+- <a name="cwekaeki">**cwekaeki**</a> _v._ ([cwe](#cwe)+[kaeki](#kaeki))  
+duchar; ducharse; ʟєꜱ ducha ʟᴏᴧ con ʟᴜᴍ
 
-  - **cyenhwok** _n._ (cyen+hwok)  
-  
+- <a name="cwekaekilum">**cwekaekilum**</a> _n._ ([cwekaeki](#cwekaeki)+[lum](#lum))  
+ducha
 
-  - **cyenciuh** _n._ (cyen+ciuh)  
-  
+- <a name="cweki">**cweki**</a> _v._ ([cwe](#cwe)+[ki](#ki))  
 
-  - **cyencim** _n._ (cyen+cim)  
-  
 
-  - **cyenseleal** _n._ (cyen+seleal)  
-  
+- <a name="cwekiles">**cwekiles**</a> _n._ ([cweki](#cweki)+[les](#les))  
 
-  - **cyenfut** _n._ (cyen+fut)  
-  
 
-- **cyau** _v._ (Cmn. &langle;焦&rangle; [t͡ɕjɑʊ̯˥])  
+- <a name="cwekilon">**cwekilon**</a> _n._ ([cweki](#cweki)+[lon](#lon))  
 
 
-  - **cyaulon** _n._ (cyau+lon)  
-  
+- <a name="cwekuhoki">**cwekuhoki**</a> _v._ ([cwe](#cwe)+[kuhoki](#kuhoki))  
 
-  - **cyaunyama** _v._ (cyau+nyama)  
-  
 
-  - **cyauhyolon** _n._ (cyau+hyolon)  
-  
+- <a name="cwekuhokiicilwel">**cwekuhokiicilwel**</a> _n._ ([cwekuhoki](#cwekuhoki)+[icilwel](#icilwel))  
 
-  - **cyaufekiluat** _n._ (cyau+fekiluat)  
-  
 
-  - **cyauki** _v._ (cyau+ki)  
-  
+- <a name="cwekuhokilon">**cwekuhokilon**</a> _n._ ([cwekuhoki](#cwekuhoki)+[lon](#lon))  
 
-  - **cyaukiufalon** _n._ (cyauki+ufalon)  
-  
 
-  - **cyaukiles** _n._ (cyauki+les)  
-  
+- <a name="cwekuhokilial">**cwekuhokilial**</a> _n._ ([cwekuhoki](#cwekuhoki)+[lial](#lial))  
 
-  - **cyaukilon** _n._ (cyauki+lon)  
-  
 
-  - **cyaukicwelon** _n._ (cyauki+cwelon)  
-  
+- <a name="cwetayl">**cwetayl**</a> _n._ ([cwe](#cwe)+[tayl](#tayl))  
 
-  - **cyaukicwelonkac** _n._ (cyaukicwelon+kac)  
-  
 
-  - **cyaukicwelonpic** _n._ (cyaukicwelon+pic)  
-  
+- <a name="cwetaka">**cwetaka**</a> _v._ ([cwe](#cwe)+[taka](#taka))  
 
-  - **cyaukipowi** _v._ (cyauki+powi)  
-  
 
-  - **cyaukipowilon** _n._ (cyaukipowi+lon)  
-  
+- <a name="cwetakalon">**cwetakalon**</a> _n._ ([cwetaka](#cwetaka)+[lon](#lon))  
 
-  - **cyaukipowinu** _v._ (cyaukipowi+nu)  
-  
 
-  - **cyaukipowinyo** _v._ (cyaukipowi+nyo)  
-  
+- <a name="cwetakalyan">**cwetakalyan**</a> _n._ ([cwetaka](#cwetaka)+[lyan](#lyan))  
 
-  - **cyaukipowinyolon** _n._ (cyaukipowinyo+lon)  
-  
 
-  - **cyaukipowiki** _v._ (cyaukipowi+ki)  
-  
+- <a name="cwetakaki">**cwetakaki**</a> _v._ ([cwetaka](#cwetaka)+[ki](#ki))  
 
-- **cyacun** _n._ (Cmn. &langle;甲虫&rangle; [t͡ɕja˧˩˧ʈ͡ʂʰʊŋ˧˥])  
 
+- <a name="cwetatu">**cwetatu**</a> _v._ ([cwe](#cwe)+[tatu](#tatu))  
 
-- **cyatin** _n._ (Cmn. &langle;家庭&rangle; [t͡ɕja˥tʰiŋ˧˥])  
 
+- <a name="cwetatulon">**cwetatulon**</a> _n._ ([cwetatu](#cwetatu)+[lon](#lon))  
 
-  - **cyatinak** _n._ (cyatin+ak)  
-  
 
-- **cyo** _v._ (Cmn. &langle;旧&rangle; [t͡ɕjoʊ̯˥˩])  
+- <a name="cwetyen">**cwetyen**</a> _num._ ([cwe](#cwe)+[tyen](#tyen))  
 
 
-  - **cyolon** _n._ (cyo+lon)  
-  
+- <a name="cwepucolon">**cwepucolon**</a> _n._ ([cwe](#cwe)+[pucolon](#pucolon))  
 
-  - **cyolyan** _n._ (cyo+lyan)  
-  
 
-  - **cyoki** _v._ (cyo+ki)  
-  
+- <a name="cwal">**cwal**</a> _n._ (Hin. &langle;ज्वार&rangle; [d͡ʒvaːr])  
 
-  - **cyokiles** _n._ (cyoki+les)  
-  
 
-- **cwe** _v._ (Cmn. &langle;水&rangle; [ʂweɪ̯˧˩˧])  
+### s
 
+- <a name="seyoh">**seyoh**</a> _n._ (Spa. &langle;sello&rangle; [ˈseʝo])  
 
-  - **cweancosapuluat** _n._ (cwe+ancosapuluat)  
-  
 
-  - **cweap** _n._ (cwe+ap)  
+  - <a name="'seynfinsen">**'seynfinsen**</a> _n._ (Svc. &langle;Saint Vincent>)  
   
 
-  - **cweufalon** _n._ (cwe+ufalon)  
-  
+- <a name="'seynfinsenak">**'seynfinsenak**</a> _n._ (['seynfinsen](#'seynfinsen)+[ak](#ak))  
 
-  - **cweyeh** _n._ (cwe+yeh)  
-  
 
-  - **cwelon** _n._ (cwe+lon)  
-  
+- <a name="'seynfinsen'kwenatin">**'seynfinsen'kwenatin**</a> _n._ (['seynfinsen](#'seynfinsen)+['kwenatin](#'kwenatin))  
 
-  - **cwelyan** _n._ (cwe+lyan)  
-  
 
-  - **cwenalkaskutilon** _n._ (cwe+nalkaskutilon)  
-  
+- <a name="'seynfinsen'kwenatinwon">**'seynfinsen'kwenatinwon**</a> _n._ (['seynfinsen'kwenatin](#'seynfinsen'kwenatin)+[won](#won))  
 
-  - **cweniceki** _v._ (cwe+niceki)  
-  
 
-  - **cwenyamaluat** _n._ (cwe+nyamaluat)  
-  
+- <a name="'seynfinsentilip">**'seynfinsentilip**</a> _n._ (['seynfinsen](#'seynfinsen)+[tilip](#tilip))  
 
-  - **cwemaceki** _v._ (cwe+maceki)  
-  
 
-  - **cwemacekiles** _n._ (cwemaceki+les)  
-  
+- <a name="seleal">**seleal**</a> _n._ (Spa. &langle;cereal&rangle; [seɾeˈal])  
 
-  - **cwemontalon** _n._ (cwe+montalon)  
-  
 
-  - **cwemiclo** _v._ (cwe+miclo)  
-  
+- <a name="selealcwelon">**selealcwelon**</a> _n._ ([seleal](#seleal)+[cwelon](#cwelon))  
 
-  - **cwemiclolon** _n._ (cwemiclo+lon)  
-  
 
-  - **cwemwoni** _v._ (cwe+mwoni)  
-  
+- <a name="selealpul">**selealpul**</a> _n._ ([seleal](#seleal)+[pul](#pul))  
 
-  - **cwemwoniles** _n._ (cwemwoni+les)  
-  
 
-  - **cwemwonilon** _n._ (cwemwoni+lon)  
-  
+- <a name="'selenium">**'selenium**</a> _n._ (Lat. &langle;selenium&rangle; [selenɪʊ̃])  
 
-  - **cwemwonilum** _n._ (cwemwoni+lum)  
-  
 
-  - **cwehila** _v._ (cwe+hila)  
-  
+- <a name="selyo">**selyo**</a> _v._ (Spa. &langle;serio&rangle; [ˈseɾjo])  
 
-  - **cwehilalon** _n._ (cwehila+lon)  
-  
 
-  - **cwecai** _v._ (cwe+cai)  
-  
+- <a name="selyolon">**selyolon**</a> _n._ ([selyo](#selyo)+[lon](#lon))  
 
-  - **cwecohtuelon** _n._ (cwe+cohtuelon)  
-  
 
-  - **cwekaelyot** _n._ (cwe+kae+lyot)  
-  
+- <a name="selyolum">**selyolum**</a> _n._ ([selyo](#selyo)+[lum](#lum))  
 
-  - **cwekaeki** _v._ (cwe+kaeki)  
-  duchar; ducharse; ʟєꜱ ducha ʟᴏᴧ con ʟᴜᴍ
 
-  - **cwekaekilum** _n._ (cwekaeki+lum)  
-  ducha
+- <a name="selyoki">**selyoki**</a> _v._ ([selyo](#selyo)+[ki](#ki))  
 
-  - **cweki** _v._ (cwe+ki)  
-  
 
-  - **cwekiles** _n._ (cweki+les)  
+  - <a name="'selnakola">**'selnakola**</a> _n._ (Cnr. &langle;Црна Гора>)  
   
 
-  - **cwekilon** _n._ (cweki+lon)  
-  
+- <a name="'selnakolaak">**'selnakolaak**</a> _n._ (['selnakola](#'selnakola)+[ak](#ak))  
 
-  - **cwekuhoki** _v._ (cwe+kuhoki)  
-  
 
-  - **cwekuhokiicilwel** _n._ (cwekuhoki+icilwel)  
-  
+- <a name="'selnakolawon">**'selnakolawon**</a> _n._ (['selnakola](#'selnakola)+[won](#won))  
 
-  - **cwekuhokilon** _n._ (cwekuhoki+lon)  
-  
 
-  - **cwekuhokilial** _n._ (cwekuhoki+lial)  
-  
+- <a name="'selnakolatilip">**'selnakolatilip**</a> _n._ (['selnakola](#'selnakola)+[tilip](#tilip))  
 
-  - **cwetayl** _n._ (cwe+tayl)  
-  
 
-  - **cwetaka** _v._ (cwe+taka)  
-  
+- <a name="'selsyus">**'selsyus**</a> _n._ (Swe. &langle;celcius&rangle; [ˈsɛːlsjʊs])  
 
-  - **cwetakalon** _n._ (cwetaka+lon)  
-  
 
-  - **cwetakalyan** _n._ (cwetaka+lyan)  
-  
+- <a name="selti">**selti**</a> _v._ (Epo. &langle;certi&rangle; [ˈt͡serti])  
 
-  - **cwetakaki** _v._ (cwetaka+ki)  
-  
 
-  - **cwetatu** _v._ (cwe+tatu)  
-  
+- <a name="seltilon">**seltilon**</a> _n._ ([selti](#selti)+[lon](#lon))  
 
-  - **cwetatulon** _n._ (cwetatu+lon)  
-  
 
-  - **cwetyen** _num._ (cwe+tyen)  
-  
+- <a name="seltilum">**seltilum**</a> _n._ ([selti](#selti)+[lum](#lum))  
 
-  - **cwepucolon** _n._ (cwe+pucolon)  
-  
 
-- **cwal** _n._ (Hin. &langle;ज्वार&rangle; [d͡ʒvaːr])  
+- <a name="seltilyan">**seltilyan**</a> _n._ ([selti](#selti)+[lyan](#lyan))  
 
 
-## s
+- <a name="seltiki">**seltiki**</a> _v._ ([selti](#selti)+[ki](#ki))  
 
-- **seyoh** _n._ (Spa. &langle;sello&rangle; [ˈseʝo])  
 
+- <a name="'senekal">**'senekal**</a> _n._ (Wol. &langle;Senegaal&rangle; [sɛnɛgaːl])  
 
-  - **'seynfinsen** _n._ (Svc. &langle;Saint Vincent>)  
-  
 
-  - **'seynfinsenak** _n._ ('seynfinsen+ak)  
-  
+- <a name="'senekalak">**'senekalak**</a> _n._ (['senekal](#'senekal)+[ak](#ak))  
 
-  - **'seynfinsen'kwenatin** _n._ ('seynfinsen+'kwenatin)  
-  
 
-  - **'seynfinsen'kwenatinwon** _n._ ('seynfinsen'kwenatin+won)  
-  
+- <a name="'senekalwon">**'senekalwon**</a> _n._ (['senekal](#'senekal)+[won](#won))  
 
-  - **'seynfinsentilip** _n._ ('seynfinsen+tilip)  
-  
 
-- **seleal** _n._ (Spa. &langle;cereal&rangle; [seɾeˈal])  
+- <a name="'senliwsi">**'senliwsi**</a> _n._ (Acf. &langle;Sainte-Lucie&rangle; [sɛ̃t)  
 
 
-  - **selealcwelon** _n._ (seleal+cwelon)  
-  
+- <a name="'senliwsiak">**'senliwsiak**</a> _n._ (['senliwsi](#'senliwsi)+[ak](#ak))  
 
-  - **selealpul** _n._ (seleal+pul)  
-  
 
-- **'selenium** _n._ (Lat. &langle;selenium&rangle; [selenɪʊ̃])  
+- <a name="'senliwsiwon">**'senliwsiwon**</a> _n._ (['senliwsi](#'senliwsi)+[won](#won))  
 
 
-- **selyo** _v._ (Spa. &langle;serio&rangle; [ˈseɾjo])  
+- <a name="'senliwsitec">**'senliwsitec**</a> _n._ (['senliwsi](#'senliwsi)+[tec](#tec))  
 
 
-  - **selyolon** _n._ (selyo+lon)  
-  
+- <a name="'senliwsitilip">**'senliwsitilip**</a> _n._ (['senliwsi](#'senliwsi)+[tilip](#tilip))  
 
-  - **selyolum** _n._ (selyo+lum)  
-  
 
-  - **selyoki** _v._ (selyo+ki)  
+  - <a name="'senkitsi">**'senkitsi**</a> _n._ (Aig. &langle;Saint Kitts>)  
   
 
-  - **'selnakola** _n._ (Cnr. &langle;Црна Гора>)  
-  
+- <a name="'senkitsiak">**'senkitsiak**</a> _n._ (['senkitsi](#'senkitsi)+[ak](#ak))  
 
-  - **'selnakolaak** _n._ ('selnakola+ak)  
-  
 
-  - **'selnakolawon** _n._ ('selnakola+won)  
-  
+- <a name="'senkitsi'nifis">**'senkitsi'nifis**</a> _n._ (['senkitsi](#'senkitsi)+['nifis](#'nifis))  
 
-  - **'selnakolatilip** _n._ ('selnakola+tilip)  
-  
 
-- **'selsyus** _n._ (Swe. &langle;celcius&rangle; [ˈsɛːlsjʊs])  
+- <a name="'senkitsi'nifiswon">**'senkitsi'nifiswon**</a> _n._ (['senkitsi'nifis](#'senkitsi'nifis)+[won](#won))  
 
 
-- **selti** _v._ (Epo. &langle;certi&rangle; [ˈt͡serti])  
+- <a name="'senkitsitilip">**'senkitsitilip**</a> _n._ (['senkitsi](#'senkitsi)+[tilip](#tilip))  
 
 
-  - **seltilon** _n._ (selti+lon)  
-  
+- <a name="ses">**ses**</a> _n._ (Sot. &langle;setso&rangle; [set͡sʼo])  
 
-  - **seltilum** _n._ (selti+lum)  
-  
 
-  - **seltilyan** _n._ (selti+lyan)  
-  
+- <a name="'sesel">**'sesel**</a> _n._ (Crs. &langle;Sesel&rangle; [sesɛl])  
 
-  - **seltiki** _v._ (selti+ki)  
-  
 
-- **'senekal** _n._ (Wol. &langle;Senegaal&rangle; [sɛnɛgaːl])  
+- <a name="'seselak">**'seselak**</a> _n._ (['sesel](#'sesel)+[ak](#ak))  
 
 
-  - **'senekalak** _n._ ('senekal+ak)  
-  
+- <a name="'seselwon">**'seselwon**</a> _n._ (['sesel](#'sesel)+[won](#won))  
 
-  - **'senekalwon** _n._ ('senekal+won)  
-  
 
-- **'senliwsi** _n._ (Acf. &langle;Sainte-Lucie&rangle; [sɛ̃t)  
+- <a name="'seseltec">**'seseltec**</a> _n._ (['sesel](#'sesel)+[tec](#tec))  
 
 
-  - **'senliwsiak** _n._ ('senliwsi+ak)  
-  
+- <a name="'seseltilip">**'seseltilip**</a> _n._ (['sesel](#'sesel)+[tilip](#tilip))  
 
-  - **'senliwsiwon** _n._ ('senliwsi+won)  
-  
 
-  - **'senliwsitec** _n._ ('senliwsi+tec)  
-  
+- <a name="sesak">**sesak**</a> _n._ ([ses](#ses)+[ak](#ak))  
 
-  - **'senliwsitilip** _n._ ('senliwsi+tilip)  
-  
 
-  - **'senkitsi** _n._ (Aig. &langle;Saint Kitts>)  
-  
+- <a name="sesyohau">**sesyohau**</a> _v._ ([ses](#ses)+[yohau](#yohau))  
 
-  - **'senkitsiak** _n._ ('senkitsi+ak)  
-  
 
-  - **'senkitsi'nifis** _n._ ('senkitsi+'nifis)  
-  
+- <a name="sesyohaulon">**sesyohaulon**</a> _n._ ([sesyohau](#sesyohau)+[lon](#lon))  
 
-  - **'senkitsi'nifiswon** _n._ ('senkitsi'nifis+won)  
-  
 
-  - **'senkitsitilip** _n._ ('senkitsi+tilip)  
-  
+- <a name="seswecai">**seswecai**</a> _v._ ([ses](#ses)+[wecai](#wecai))  
 
-- **ses** _n._ (Sot. &langle;setso&rangle; [set͡sʼo])  
 
+- <a name="seswecailon">**seswecailon**</a> _n._ ([seswecai](#seswecai)+[lon](#lon))  
 
-- **'sesel** _n._ (Crs. &langle;Sesel&rangle; [sesɛl])  
 
+- <a name="sekal">**sekal**</a> _n._ (Epo. &langle;sekalo&rangle; [seˈkalo])  
 
-  - **'seselak** _n._ ('sesel+ak)  
-  
 
-  - **'seselwon** _n._ ('sesel+won)  
-  
+- <a name="sekso">**sekso**</a> _v._ (Spa. &langle;sexo&rangle; [ˈsekso])  
 
-  - **'seseltec** _n._ ('sesel+tec)  
-  
 
-  - **'seseltilip** _n._ ('sesel+tilip)  
-  
+- <a name="seksoec">**seksoec**</a> _n._ ([sekso](#sekso)+[ec](#ec))  
 
-  - **sesak** _n._ (ses+ak)  
-  
 
-  - **sesyohau** _v._ (ses+yohau)  
-  
+- <a name="seksonyol">**seksonyol**</a> _pn._ ([sekso](#sekso)+[nyo](#nyo)+[l](#l))  
 
-  - **sesyohaulon** _n._ (sesyohau+lon)  
-  
 
-  - **seswecai** _v._ (ses+wecai)  
-  
+- <a name="seksomai">**seksomai**</a> _v._ ([sekso](#sekso)+[mai](#mai))  
 
-  - **seswecailon** _n._ (seswecai+lon)  
-  
 
-- **sekal** _n._ (Epo. &langle;sekalo&rangle; [seˈkalo])  
+- <a name="seksomailes">**seksomailes**</a> _n._ ([seksomai](#seksomai)+[les](#les))  
 
 
-- **sekso** _v._ (Spa. &langle;sexo&rangle; [ˈsekso])  
+- <a name="seksocai">**seksocai**</a> _v._ ([sekso](#sekso)+[cai](#cai))  
 
 
-  - **seksoec** _n._ (sekso+ec)  
-  
+- <a name="seksocailum">**seksocailum**</a> _n._ ([seksocai](#seksocai)+[lum](#lum))  
 
-  - **seksonyol** _pn._ (sekso+nyo+l)  
-  
 
-  - **seksomai** _v._ (sekso+mai)  
-  
+- <a name="seksocwelon">**seksocwelon**</a> _n._ ([sekso](#sekso)+[cwelon](#cwelon))  
 
-  - **seksomailes** _n._ (seksomai+les)  
-  
 
-  - **seksocai** _v._ (sekso+cai)  
-  
+- <a name="seksocwelonkoki">**seksocwelonkoki**</a> _v._ ([seksocwelon](#seksocwelon)+[koki](#koki))  
 
-  - **seksocailum** _n._ (seksocai+lum)  
-  
 
-  - **seksocwelon** _n._ (sekso+cwelon)  
-  
+- <a name="seksokokilyot">**seksokokilyot**</a> _n._ ([sekso](#sekso)+[kokilyot](#kokilyot))  
 
-  - **seksocwelonkoki** _v._ (seksocwelon+koki)  
-  
 
-  - **seksokokilyot** _n._ (sekso+kokilyot)  
-  
+- <a name="seksopal">**seksopal**</a> _n._ ([sekso](#sekso)+[pal](#pal))  
 
-  - **seksopal** _n._ (sekso+pal)  
-  
 
-- **set** _num._ (~~fol~~)  
+- <a name="set">**set**</a> _num._ ([~~fol~~](#fol))  
 12; doce
 
-  - **setak** _n._ (set+ak)  
+- <a name="setak">**setak**</a> _n._ ([set](#set)+[ak](#ak))  
+
+
+- <a name="setlu">**setlu**</a> _v._ ([~~folti~~](#folti))  
+
+
+- <a name="setlulon">**setlulon**</a> _n._ ([setlu](#setlu)+[lon](#lon))  
+
+
+- <a name="setluki">**setluki**</a> _v._ ([setlu](#setlu)+[ki](#ki))  
+
+
+- <a name="setlukiles">**setlukiles**</a> _n._ ([setluki](#setluki)+[les](#les))  
+
+
+- <a name="sep">**sep**</a> _n._ (Hin. &langle;सेब&rangle; [seb])  
+
+
+- <a name="sepu">**sepu**</a> _v._ ([~~fomi~~](#fomi))  
+
+
+- <a name="sepulon">**sepulon**</a> _n._ ([sepu](#sepu)+[lon](#lon))  
+
+
+- <a name="sepusiklalon">**sepusiklalon**</a> _n._ ([sepu](#sepu)+[siklalon](#siklalon))  
+
+
+- <a name="sepuki">**sepuki**</a> _v._ ([sepu](#sepu)+[ki](#ki))  
+
+
+- <a name="sepukiles">**sepukiles**</a> _n._ ([sepuki](#sepuki)+[les](#les))  
+
+
+- <a name="sa">**sa**</a> _ptcl._ (Eng. &langle;that&rangle; [ðæt])  
+
+
+- <a name="'sa">**'sa**</a> _n._ (ono. [s])  
+
+
+- <a name="sayhu">**sayhu**</a> _v._ (Cmn. &langle;在乎&rangle; [t͡saɪ̯˥˩xu])  
+
+
+- <a name="sayhulon">**sayhulon**</a> _n._ ([sayhu](#sayhu)+[lon](#lon))  
+
+
+- <a name="sayhulum">**sayhulum**</a> _n._ ([sayhu](#sayhu)+[lum](#lum))  
+
+
+- <a name="sayhuki">**sayhuki**</a> _v._ ([sayhu](#sayhu)+[ki](#ki))  
+
+
+- <a name="'salon">**'salon**</a> _n._ (Kri. &langle;Salone&rangle; [salon])  
+
+
+- <a name="'salonak">**'salonak**</a> _n._ (['salon](#'salon)+[ak](#ak))  
+
+
+- <a name="'salonwon">**'salonwon**</a> _n._ (['salon](#'salon)+[won](#won))  
+
+
+- <a name="'salontilip">**'salontilip**</a> _n._ (['salon](#'salon)+[tilip](#tilip))  
+
+
+- <a name="salmon">**salmon**</a> _n._ (Spa. &langle;salmón&rangle; [salˈmon])  
+
+
+- <a name="'saltenya">**'saltenya**</a> _n._ (Spa. &langle;salteña&rangle; [salˈteɲa])  
+
+
+- <a name="'salpatol">**'salpatol**</a> _n._ (Spa. &langle;Salvador&rangle; [salβaˈðor])  
+
+
+- <a name="'salpatolak">**'salpatolak**</a> _n._ (['salpatol](#'salpatol)+[ak](#ak))  
+
+
+- <a name="'salpatolwon">**'salpatolwon**</a> _n._ (['salpatol](#'salpatol)+[won](#won))  
+
+
+- <a name="'salpi">**'salpi**</a> _n._ (Srp. &langle;Срби&rangle; [sr̩̂biː])  
+
+
+- <a name="'salpiak">**'salpiak**</a> _n._ (['salpi](#'salpi)+[ak](#ak))  
+
+
+- <a name="'salpitec">**'salpitec**</a> _n._ (['salpi](#'salpi)+[tec](#tec))  
+
+
+- <a name="'salpitilip">**'salpitilip**</a> _n._ (['salpi](#'salpi)+[tilip](#tilip))  
+
+
+  - <a name="'sawntume">**'sawntume**</a> _n._ (Por. &langle;São Tomé>)  
   
 
-- **setlu** _v._ (~~folti~~)  
+- <a name="'sawntumetayl">**'sawntumetayl**</a> _n._ (['sawntume](#'sawntume)+[tayl](#tayl))  
 
 
-  - **setlulon** _n._ (setlu+lon)  
+- <a name="'sawntumetaylak">**'sawntumetaylak**</a> _n._ (['sawntumetayl](#'sawntumetayl)+[ak](#ak))  
+
+
+- <a name="'sawntume'pilinsipi">**'sawntume'pilinsipi**</a> _n._ (['sawntume](#'sawntume)+['pilinsipi](#'pilinsipi))  
+
+
+- <a name="'sawntume'pilinsipiwon">**'sawntume'pilinsipiwon**</a> _n._ (['sawntume'pilinsipi](#'sawntume'pilinsipi)+[won](#won))  
+
+
+  - <a name="'sawmpawlu">**'sawmpawlu**</a> _n._ (Por. &langle;São Paulo>)  
   
 
-  - **setluki** _v._ (setlu+ki)  
-  
-
-  - **setlukiles** _n._ (setluki+les)  
-  
-
-- **sep** _n._ (Hin. &langle;सेब&rangle; [seb])  
-
-
-- **sepu** _v._ (~~fomi~~)  
-
-
-  - **sepulon** _n._ (sepu+lon)  
-  
-
-  - **sepusiklalon** _n._ (sepu+siklalon)  
-  
-
-  - **sepuki** _v._ (sepu+ki)  
-  
-
-  - **sepukiles** _n._ (sepuki+les)  
-  
-
-- **sa** _ptcl._ (Eng. &langle;that&rangle; [ðæt])  
-
-
-- **'sa** _n._ (ono. [s])  
-
-
-- **sayhu** _v._ (Cmn. &langle;在乎&rangle; [t͡saɪ̯˥˩xu])  
-
-
-  - **sayhulon** _n._ (sayhu+lon)  
-  
-
-  - **sayhulum** _n._ (sayhu+lum)  
-  
-
-  - **sayhuki** _v._ (sayhu+ki)  
-  
-
-- **'salon** _n._ (Kri. &langle;Salone&rangle; [salon])  
-
-
-  - **'salonak** _n._ ('salon+ak)  
-  
-
-  - **'salonwon** _n._ ('salon+won)  
-  
-
-  - **'salontilip** _n._ ('salon+tilip)  
-  
-
-- **salmon** _n._ (Spa. &langle;salmón&rangle; [salˈmon])  
-
-
-- **'saltenya** _n._ (Spa. &langle;salteña&rangle; [salˈteɲa])  
-
-
-- **'salpatol** _n._ (Spa. &langle;Salvador&rangle; [salβaˈðor])  
-
-
-  - **'salpatolak** _n._ ('salpatol+ak)  
-  
-
-  - **'salpatolwon** _n._ ('salpatol+won)  
-  
-
-- **'salpi** _n._ (Srp. &langle;Срби&rangle; [sr̩̂biː])  
-
-
-  - **'salpiak** _n._ ('salpi+ak)  
-  
-
-  - **'salpitec** _n._ ('salpi+tec)  
-  
-
-  - **'salpitilip** _n._ ('salpi+tilip)  
-  
-
-  - **'sawntume** _n._ (Por. &langle;São Tomé>)  
-  
-
-  - **'sawntumetayl** _n._ ('sawntume+tayl)  
-  
-
-  - **'sawntumetaylak** _n._ ('sawntumetayl+ak)  
-  
-
-  - **'sawntume'pilinsipi** _n._ ('sawntume+'pilinsipi)  
-  
-
-  - **'sawntume'pilinsipiwon** _n._ ('sawntume'pilinsipi+won)  
-  
-
-  - **'sawmpawlu** _n._ (Por. &langle;São Paulo>)  
-  
-
-- **san** _num._ (Cmn. &langle;三&rangle; [san])  
+- <a name="san">**san**</a> _num._ (Cmn. &langle;三&rangle; [san])  
 3; tres; triple
 
-  - **sanak** _n._ (san+ak)  
-  tercero
+- <a name="sanak">**sanak**</a> _n._ ([san](#san)+[ak](#ak))  
+tercero
 
-- **sano** _v._ (Spa. &langle;sano&rangle; [ˈsano])  
+- <a name="sano">**sano**</a> _v._ (Spa. &langle;sano&rangle; [ˈsano])  
 
 
-  - **sanolon** _n._ (sano+lon)  
-  
+- <a name="sanolon">**sanolon**</a> _n._ ([sano](#sano)+[lon](#lon))  
 
-  - **sanolyan** _n._ (sano+lyan)  
-  
 
-  - **sanoki** _v._ (sano+ki)  
-  
+- <a name="sanolyan">**sanolyan**</a> _n._ ([sano](#sano)+[lyan](#lyan))  
 
-  - **sanokiles** _n._ (sanoki+les)  
-  
 
-  - **sanokilon** _n._ (sanoki+lon)  
-  
+- <a name="sanoki">**sanoki**</a> _v._ ([sano](#sano)+[ki](#ki))  
 
-  - **sanokiluat** _n._ (sanoki+luat)  
-  
 
-  - **'sanmalino** _n._ (Ita. &langle;San Marino>)  
-  
+- <a name="sanokiles">**sanokiles**</a> _n._ ([sanoki](#sanoki)+[les](#les))  
 
-  - **'sanmalinoak** _n._ ('sanmalino+ak)  
-  
 
-  - **'sanmalinowon** _n._ ('sanmalino+won)  
-  
+- <a name="sanokilon">**sanokilon**</a> _n._ ([sanoki](#sanoki)+[lon](#lon))  
 
-- **'sanhe** _n._ (Wuu. &langle;上海&rangle; [zɑ̃hɛ])  
 
+- <a name="sanokiluat">**sanokiluat**</a> _n._ ([sanoki](#sanoki)+[luat](#luat))  
 
-  - **'sanhetilip** _n._ ('sanhe+tilip)  
-  
 
-  - **sansunkwelwel** _n._ (san+sunkwelwel)  
+  - <a name="'sanmalino">**'sanmalino**</a> _n._ (Ita. &langle;San Marino>)  
   
 
-- **'sanskaltam** _n._ (San. &langle;संस्कृतम्&rangle; [ˈsɐ̃skr̩tɐm])  
+- <a name="'sanmalinoak">**'sanmalinoak**</a> _n._ (['sanmalino](#'sanmalino)+[ak](#ak))  
 
 
-  - **'sanskaltamak** _n._ ('sanskaltam+ak)  
-  
+- <a name="'sanmalinowon">**'sanmalinowon**</a> _n._ (['sanmalino](#'sanmalino)+[won](#won))  
 
-  - **'sanskaltamwon** _n._ ('sanskaltam+won)  
-  
 
-- **sama** _v._ (Msa. &langle;sama&rangle; [sama])  
+- <a name="'sanhe">**'sanhe**</a> _n._ (Wuu. &langle;上海&rangle; [zɑ̃hɛ])  
 
 
-  - **samalon** _n._ (sama+lon)  
-  
+- <a name="'sanhetilip">**'sanhetilip**</a> _n._ (['sanhe](#'sanhe)+[tilip](#tilip))  
 
-- **saman** _n._ (Swa. &langle;samani&rangle; [samani])  
 
+- <a name="sansunkwelwel">**sansunkwelwel**</a> _n._ ([san](#san)+[sunkwelwel](#sunkwelwel))  
 
-- **'samoa** _n._ (Smo. &langle;Sāmoa&rangle; [ˈsaːmoa])  
 
+- <a name="'sanskaltam">**'sanskaltam**</a> _n._ (San. &langle;संस्कृतम्&rangle; [ˈsɐ̃skr̩tɐm])  
 
-  - **'samoaak** _n._ ('samoa+ak)  
-  
 
-  - **'samoawon** _n._ ('samoa+won)  
-  
+- <a name="'sanskaltamak">**'sanskaltamak**</a> _n._ (['sanskaltam](#'sanskaltam)+[ak](#ak))  
 
-  - **'samoatec** _n._ ('samoa+tec)  
-  
 
-  - **'samoatilip** _n._ ('samoa+tilip)  
-  
+- <a name="'sanskaltamwon">**'sanskaltamwon**</a> _n._ (['sanskaltam](#'sanskaltam)+[won](#won))  
 
-- **'samliti** _n._ (San. &langle;स्मृति&rangle; [smr̩ti])  
 
+- <a name="sama">**sama**</a> _v._ (Msa. &langle;sama&rangle; [sama])  
 
-  - **'samlitifitilip** _n._ ('samliti+fitilip)  
-  
 
-  - **'samlitifitilipwon** _n._ ('samlitifitilip+won)  
-  
+- <a name="samalon">**samalon**</a> _n._ ([sama](#sama)+[lon](#lon))  
 
-  - **'samlitifitilipak** _n._ ('samlitifitilip+ak)  
-  
 
-- **'sampesi** _n._ (Eng. &langle;Zambezi&rangle; [zæmˈbɛzi])  
+- <a name="saman">**saman**</a> _n._ (Swa. &langle;samani&rangle; [samani])  
 
 
-  - **'sampesiak** _n._ ('sampesi+ak)  
-  
+- <a name="'samoa">**'samoa**</a> _n._ (Smo. &langle;Sāmoa&rangle; [ˈsaːmoa])  
 
-  - **'sampesiwon** _n._ ('sampesi+won)  
-  
 
-  - **'sampesitec** _n._ ('sampesi+tec)  
-  
+- <a name="'samoaak">**'samoaak**</a> _n._ (['samoa](#'samoa)+[ak](#ak))  
 
-- **'sahlawi** _n._ (Ara. &langle;صحراوي&rangle; [sˤaħraːwiː])  
 
+- <a name="'samoawon">**'samoawon**</a> _n._ (['samoa](#'samoa)+[won](#won))  
 
-  - **'sahlawiak** _n._ ('sahlawi+ak)  
-  
 
-  - **'sahlawitec** _n._ ('sahlawi+tec)  
-  
+- <a name="'samoatec">**'samoatec**</a> _n._ (['samoa](#'samoa)+[tec](#tec))  
 
-- **sas** _n._ (ono. [sː])  
 
+- <a name="'samoatilip">**'samoatilip**</a> _n._ (['samoa](#'samoa)+[tilip](#tilip))  
 
-  - **saskwakwak** _n._ (sas+kwakwak)  
-  
 
-  - **saspes** _n._ (sas+pes)  
-  
+- <a name="'samliti">**'samliti**</a> _n._ (San. &langle;स्मृति&rangle; [smr̩ti])  
 
-- **'sakantium** _n._ (Lat. &langle;scandium&rangle; [skandɪʊ̃])  
 
+- <a name="'samlitifitilip">**'samlitifitilip**</a> _n._ (['samliti](#'samliti)+[fitilip](#fitilip))  
 
-  - **sati** _v._ (sa+ti)  
-  
 
-  - **satiles** _n._ (sati+les)  
-  
+- <a name="'samlitifitilipwon">**'samlitifitilipwon**</a> _n._ (['samlitifitilip](#'samlitifitilip)+[won](#won))  
 
-  - **satilon** _n._ (sati+lon)  
-  
 
-  - **satilum** _n._ (sati+lum)  
-  
+- <a name="'samlitifitilipak">**'samlitifitilipak**</a> _n._ (['samlitifitilip](#'samlitifitilip)+[ak](#ak))  
 
-- **sapu** _v._ (Msa. &langle;sapu&rangle; [sapu])  
 
+- <a name="'sampesi">**'sampesi**</a> _n._ (Eng. &langle;Zambezi&rangle; [zæmˈbɛzi])  
 
-  - **sapuluat** _n._ (sapu+luat)  
-  
 
-  - **sapupowi** _v._ (sapu+powi)  
-  
+- <a name="'sampesiak">**'sampesiak**</a> _n._ (['sampesi](#'sampesi)+[ak](#ak))  
 
-  - **sapupowilon** _n._ (sapupowi+lon)  
-  
 
-  - **sapupowinyo** _v._ (sapupowi+nyo)  
-  
+- <a name="'sampesiwon">**'sampesiwon**</a> _n._ (['sampesi](#'sampesi)+[won](#won))  
 
-  - **sapupowinyolon** _n._ (sapupowinyo+lon)  
-  
 
-  - **sapupowinyolyan** _n._ (sapupowinyo+lyan)  
-  
+- <a name="'sampesitec">**'sampesitec**</a> _n._ (['sampesi](#'sampesi)+[tec](#tec))  
 
-- **sol** _spec._ (Spa. &langle;solo&rangle; [ˈsolo])  
 
+- <a name="'sahlawi">**'sahlawi**</a> _n._ (Ara. &langle;صحراوي&rangle; [sˤaħraːwiː])  
 
-- **'solowen** _n._ (Slv. &langle;slovén-&rangle; [slɔˈʋeːn])  
 
+- <a name="'sahlawiak">**'sahlawiak**</a> _n._ (['sahlawi](#'sahlawi)+[ak](#ak))  
 
-  - **'solowenak** _n._ ('solowen+ak)  
-  
 
-  - **'solowentec** _n._ ('solowen+tec)  
-  
+- <a name="'sahlawitec">**'sahlawitec**</a> _n._ (['sahlawi](#'sahlawi)+[tec](#tec))  
 
-  - **'solowentilip** _n._ ('solowen+tilip)  
-  
 
-- **'solowak** _n._ (Slk. &langle;Slovák&rangle; [sɫɔʋaːk])  
+- <a name="sas">**sas**</a> _n._ (ono. [sː])  
 
 
-  - **'solowakak** _n._ ('solowak+ak)  
-  
+- <a name="saskwakwak">**saskwakwak**</a> _n._ ([sas](#sas)+[kwakwak](#kwakwak))  
 
-  - **'solowaktec** _n._ ('solowak+tec)  
-  
 
-  - **'solowaktilip** _n._ ('solowak+tilip)  
-  
+- <a name="saspes">**saspes**</a> _n._ ([sas](#sas)+[pes](#pes))  
 
-- **'solomon** _n._ (Pis. &langle;Solomon&rangle; [solomon])  
 
+- <a name="'sakantium">**'sakantium**</a> _n._ (Lat. &langle;scandium&rangle; [skandɪʊ̃])  
 
-  - **'solomonak** _n._ ('solomon+ak)  
-  
 
-  - **'solomonwon** _n._ ('solomon+won)  
-  
+- <a name="sati">**sati**</a> _v._ ([sa](#sa)+[ti](#ti))  
 
-  - **'solomontec** _n._ ('solomon+tec)  
-  
 
-  - **'solomontilip** _n._ ('solomon+tilip)  
-  
+- <a name="satiles">**satiles**</a> _n._ ([sati](#sati)+[les](#les))  
 
-- **soma** _v._ (Swa. &langle;soma&rangle; [soma])  
 
+- <a name="satilon">**satilon**</a> _n._ ([sati](#sati)+[lon](#lon))  
 
-  - **somales** _n._ (soma+les)  
-  
 
-  - **somalon** _n._ (soma+lon)  
-  
+- <a name="satilum">**satilum**</a> _n._ ([sati](#sati)+[lum](#lum))  
 
-- **'somali** _n._ (Som. &langle;Soomaali&rangle; [sɔ̀ːmɑ́ːlì])  
 
+- <a name="sapu">**sapu**</a> _v._ (Msa. &langle;sapu&rangle; [sapu])  
 
-  - **'somaliak** _n._ ('somali+ak)  
-  
 
-  - **'somalitec** _n._ ('somali+tec)  
-  
+- <a name="sapuluat">**sapuluat**</a> _n._ ([sapu](#sapu)+[luat](#luat))  
 
-  - **'somalitilip** _n._ ('somali+tilip)  
-  
 
-  - **somaluat** _n._ (soma+luat)  
-  
+- <a name="sapupowi">**sapupowi**</a> _v._ ([sapu](#sapu)+[powi](#powi))  
 
-  - **somalyot** _n._ (soma+lyot)  
-  
 
-  - **somasoma** _v._ (soma+soma)  
-  
+- <a name="sapupowilon">**sapupowilon**</a> _n._ ([sapupowi](#sapupowi)+[lon](#lon))  
 
-  - **somasomales** _n._ (somasoma+les)  
-  
 
-  - **somasomalon** _n._ (somasoma+lon)  
-  
+- <a name="sapupowinyo">**sapupowinyo**</a> _v._ ([sapupowi](#sapupowi)+[nyo](#nyo))  
 
-- **soh** _n._ (Spa. &langle;soja&rangle; [ˈsoxa])  
 
+- <a name="sapupowinyolon">**sapupowinyolon**</a> _n._ ([sapupowinyo](#sapupowinyo)+[lon](#lon))  
 
-- **sosia** _v._ (Epo. &langle;socia&rangle; [soˈt͡sia])  
 
+- <a name="sapupowinyolyan">**sapupowinyolyan**</a> _n._ ([sapupowinyo](#sapupowinyo)+[lyan](#lyan))  
 
-  - **sosialet** _n._ (sosia+let)  
-  
 
-  - **sosialon** _n._ (sosia+lon)  
-  
+- <a name="sol">**sol**</a> _spec._ (Spa. &langle;solo&rangle; [ˈsolo])  
 
-  - **sosialum** _n._ (sosia+lum)  
-  
 
-  - **sosialumsoma** _v._ (sosialum+soma)  
-  
+- <a name="'solowen">**'solowen**</a> _n._ (Slv. &langle;slovén-&rangle; [slɔˈʋeːn])  
 
-  - **sosialumsomalon** _n._ (sosialumsoma+lon)  
-  
 
-  - **sosialumsomales** _n._ (sosialumsoma+les)  
-  
+- <a name="'solowenak">**'solowenak**</a> _n._ (['solowen](#'solowen)+[ak](#ak))  
 
-  - **sosialuso** _v._ (sosia+luso)  
-  
 
-  - **sosialusolon** _n._ (sosialuso+lon)  
-  
+- <a name="'solowentec">**'solowentec**</a> _n._ (['solowen](#'solowen)+[tec](#tec))  
 
-  - **sosialyan** _n._ (sosia+lyan)  
-  
 
-  - **sosiamoca** _v._ (sosia+moca)  
-  
+- <a name="'solowentilip">**'solowentilip**</a> _n._ (['solowen](#'solowen)+[tilip](#tilip))  
 
-  - **sosiamocales** _n._ (sosiamoca+les)  
-  
 
-  - **sosiamocalon** _n._ (sosiamoca+lon)  
-  
+- <a name="'solowak">**'solowak**</a> _n._ (Slk. &langle;Slovák&rangle; [sɫɔʋaːk])  
 
-  - **sosiamocalwel** _n._ (sosiamoca+lwel)  
-  
 
-  - **sosiaki** _v._ (sosia+ki)  
-  
+- <a name="'solowakak">**'solowakak**</a> _n._ (['solowak](#'solowak)+[ak](#ak))  
 
-  - **sosiatafu** _v._ (sosia+tafu)  
-  
 
-  - **sosiatafulon** _n._ (sosiatafu+lon)  
-  
+- <a name="'solowaktec">**'solowaktec**</a> _n._ (['solowak](#'solowak)+[tec](#tec))  
 
-  - **sosiatafulum** _n._ (sosiatafu+lum)  
-  
 
-  - **sosiatife** _v._ (sosia+tife)  
-  
+- <a name="'solowaktilip">**'solowaktilip**</a> _n._ (['solowak](#'solowak)+[tilip](#tilip))  
 
-  - **sosiatifelon** _n._ (sosiatife+lon)  
-  
 
-- **'sokot** _n._ (Sco. &langle;Scot&rangle; [skɔt])  
+- <a name="'solomon">**'solomon**</a> _n._ (Pis. &langle;Solomon&rangle; [solomon])  
 
 
-  - **'sokotak** _n._ ('sokot+ak)  
-  
+- <a name="'solomonak">**'solomonak**</a> _n._ (['solomon](#'solomon)+[ak](#ak))  
 
-  - **'sokot'kealtilip** _n._ ('sokot+'kealtilip)  
-  
 
-  - **'sokottec** _n._ ('sokot+tec)  
-  
+- <a name="'solomonwon">**'solomonwon**</a> _n._ (['solomon](#'solomon)+[won](#won))  
 
-  - **'sokottilip** _n._ ('sokot+tilip)  
-  
+
+- <a name="'solomontec">**'solomontec**</a> _n._ (['solomon](#'solomon)+[tec](#tec))  
+
+
+- <a name="'solomontilip">**'solomontilip**</a> _n._ (['solomon](#'solomon)+[tilip](#tilip))  
+
+
+- <a name="soma">**soma**</a> _v._ (Swa. &langle;soma&rangle; [soma])  
+
+
+- <a name="somales">**somales**</a> _n._ ([soma](#soma)+[les](#les))  
+
+
+- <a name="somalon">**somalon**</a> _n._ ([soma](#soma)+[lon](#lon))  
+
+
+- <a name="'somali">**'somali**</a> _n._ (Som. &langle;Soomaali&rangle; [sɔ̀ːmɑ́ːlì])  
+
+
+- <a name="'somaliak">**'somaliak**</a> _n._ (['somali](#'somali)+[ak](#ak))  
+
+
+- <a name="'somalitec">**'somalitec**</a> _n._ (['somali](#'somali)+[tec](#tec))  
+
+
+- <a name="'somalitilip">**'somalitilip**</a> _n._ (['somali](#'somali)+[tilip](#tilip))  
+
+
+- <a name="somaluat">**somaluat**</a> _n._ ([soma](#soma)+[luat](#luat))  
+
+
+- <a name="somalyot">**somalyot**</a> _n._ ([soma](#soma)+[lyot](#lyot))  
+
+
+- <a name="somasoma">**somasoma**</a> _v._ ([soma](#soma)+[soma](#soma))  
+
+
+- <a name="somasomales">**somasomales**</a> _n._ ([somasoma](#somasoma)+[les](#les))  
+
+
+- <a name="somasomalon">**somasomalon**</a> _n._ ([somasoma](#somasoma)+[lon](#lon))  
+
+
+- <a name="soh">**soh**</a> _n._ (Spa. &langle;soja&rangle; [ˈsoxa])  
+
+
+- <a name="sosia">**sosia**</a> _v._ (Epo. &langle;socia&rangle; [soˈt͡sia])  
+
+
+- <a name="sosialet">**sosialet**</a> _n._ ([sosia](#sosia)+[let](#let))  
+
+
+- <a name="sosialon">**sosialon**</a> _n._ ([sosia](#sosia)+[lon](#lon))  
+
+
+- <a name="sosialum">**sosialum**</a> _n._ ([sosia](#sosia)+[lum](#lum))  
+
+
+- <a name="sosialumsoma">**sosialumsoma**</a> _v._ ([sosialum](#sosialum)+[soma](#soma))  
+
+
+- <a name="sosialumsomalon">**sosialumsomalon**</a> _n._ ([sosialumsoma](#sosialumsoma)+[lon](#lon))  
+
+
+- <a name="sosialumsomales">**sosialumsomales**</a> _n._ ([sosialumsoma](#sosialumsoma)+[les](#les))  
+
+
+- <a name="sosialuso">**sosialuso**</a> _v._ ([sosia](#sosia)+[luso](#luso))  
+
+
+- <a name="sosialusolon">**sosialusolon**</a> _n._ ([sosialuso](#sosialuso)+[lon](#lon))  
+
+
+- <a name="sosialyan">**sosialyan**</a> _n._ ([sosia](#sosia)+[lyan](#lyan))  
+
+
+- <a name="sosiamoca">**sosiamoca**</a> _v._ ([sosia](#sosia)+[moca](#moca))  
+
+
+- <a name="sosiamocales">**sosiamocales**</a> _n._ ([sosiamoca](#sosiamoca)+[les](#les))  
+
+
+- <a name="sosiamocalon">**sosiamocalon**</a> _n._ ([sosiamoca](#sosiamoca)+[lon](#lon))  
+
+
+- <a name="sosiamocalwel">**sosiamocalwel**</a> _n._ ([sosiamoca](#sosiamoca)+[lwel](#lwel))  
+
+
+- <a name="sosiaki">**sosiaki**</a> _v._ ([sosia](#sosia)+[ki](#ki))  
+
+
+- <a name="sosiatafu">**sosiatafu**</a> _v._ ([sosia](#sosia)+[tafu](#tafu))  
+
+
+- <a name="sosiatafulon">**sosiatafulon**</a> _n._ ([sosiatafu](#sosiatafu)+[lon](#lon))  
+
+
+- <a name="sosiatafulum">**sosiatafulum**</a> _n._ ([sosiatafu](#sosiatafu)+[lum](#lum))  
+
+
+- <a name="sosiatife">**sosiatife**</a> _v._ ([sosia](#sosia)+[tife](#tife))  
+
+
+- <a name="sosiatifelon">**sosiatifelon**</a> _n._ ([sosiatife](#sosiatife)+[lon](#lon))  
+
+
+- <a name="'sokot">**'sokot**</a> _n._ (Sco. &langle;Scot&rangle; [skɔt])  
+
+
+- <a name="'sokotak">**'sokotak**</a> _n._ (['sokot](#'sokot)+[ak](#ak))  
+
+
+- <a name="'sokot'kealtilip">**'sokot'kealtilip**</a> _n._ (['sokot](#'sokot)+['kealtilip](#'kealtilip))  
+
+
+- <a name="'sokottec">**'sokottec**</a> _n._ (['sokot](#'sokot)+[tec](#tec))  
+
+
+- <a name="'sokottilip">**'sokottilip**</a> _n._ (['sokot](#'sokot)+[tilip](#tilip))  
+
 
-- **sota** _v._ (Hin. &langle;सौदा&rangle; [sɔːdaː])  
+- <a name="sota">**sota**</a> _v._ (Hin. &langle;सौदा&rangle; [sɔːdaː])  
 negociar; ʟᴏᴧ negocia con ʟᴜᴍ
 
-  - **sotalon** _n._ (sota+lon)  
-  
+- <a name="sotalon">**sotalon**</a> _n._ ([sota](#sota)+[lon](#lon))  
 
-  - **sotalip** _n._ (sota+lip)  
-  
 
-  - **sotalum** _n._ (sota+lum)  
-  negocio
+- <a name="sotalip">**sotalip**</a> _n._ ([sota](#sota)+[lip](#lip))  
 
-  - **sotanu** _v._ (sota+nu)  
-  
 
-  - **sotanules** _n._ (sotanu+les)  
-  
+- <a name="sotalum">**sotalum**</a> _n._ ([sota](#sota)+[lum](#lum))  
+negocio
 
-  - **sotanulum** _n._ (sotanu+lum)  
-  
+- <a name="sotanu">**sotanu**</a> _v._ ([sota](#sota)+[nu](#nu))  
 
-  - **sotaki** _v._ (sota+ki)  
-  
 
-  - **sotakiles** _n._ (sotaki+les)  
-  
+- <a name="sotanules">**sotanules**</a> _n._ ([sotanu](#sotanu)+[les](#les))  
 
-- **'sotlonsium** _n._ (Lat. &langle;strontium&rangle; [stront͡sɪʊ̃])  
 
+- <a name="sotanulum">**sotanulum**</a> _n._ ([sotanu](#sotanu)+[lum](#lum))  
 
-- **sope** _v._ (Mar. &langle;सोपे&rangle; [sope])  
 
+- <a name="sotaki">**sotaki**</a> _v._ ([sota](#sota)+[ki](#ki))  
 
-  - **sopelon** _n._ (sope+lon)  
-  
 
-  - **sopeki** _v._ (sope+ki)  
-  
+- <a name="sotakiles">**sotakiles**</a> _n._ ([sotaki](#sotaki)+[les](#les))  
 
-  - **sopekiles** _n._ (sopeki+les)  
-  
 
-- **sil** _n._ (Hin. &langle;सिर&rangle; [sir])  
+- <a name="'sotlonsium">**'sotlonsium**</a> _n._ (Lat. &langle;strontium&rangle; [stront͡sɪʊ̃])  
 
 
-- **sila** _v._ (Fil. &langle;sira&rangle; [siɾa])  
+- <a name="sope">**sope**</a> _v._ (Mar. &langle;सोपे&rangle; [sope])  
 
 
-  - **silalon** _n._ (sila+lon)  
-  
+- <a name="sopelon">**sopelon**</a> _n._ ([sope](#sope)+[lon](#lon))  
 
-  - **silanu** _v._ (sila+nu)  
-  
 
-  - **silanules** _n._ (silanu+les)  
-  
+- <a name="sopeki">**sopeki**</a> _v._ ([sope](#sope)+[ki](#ki))  
 
-  - **silak** _n._ (sil+ak)  
-  
 
-  - **silaki** _v._ (sila+ki)  
-  
+- <a name="sopekiles">**sopekiles**</a> _n._ ([sopeki](#sopeki)+[les](#les))  
 
-  - **silakiles** _n._ (silaki+les)  
-  
 
-  - **silakipowi** _v._ (silaki+powi)  
-  
+- <a name="sil">**sil**</a> _n._ (Hin. &langle;सिर&rangle; [sir])  
 
-  - **silakipowilon** _n._ (silakipowi+lon)  
-  
 
-  - **silakipowinu** _v._ (silakipowi+nu)  
-  
+- <a name="sila">**sila**</a> _v._ (Fil. &langle;sira&rangle; [siɾa])  
 
-  - **silakipowinuec** _n._ (silakipowinu+ec)  
-  
 
-  - **silakipowinules** _n._ (silakipowinu+les)  
-  
+- <a name="silalon">**silalon**</a> _n._ ([sila](#sila)+[lon](#lon))  
 
-  - **silakipowinuswa** _v._ (silakipowinu+swa)  
-  
 
-  - **silakipowinupolti** _v._ (silakipowinu+polti)  
-  
+- <a name="silanu">**silanu**</a> _v._ ([sila](#sila)+[nu](#nu))  
 
-  - **silakipowinupoltilon** _n._ (silakipowinupolti+lon)  
-  
 
-  - **silakipowinupoltilum** _n._ (silakipowinupolti+lum)  
-  
+- <a name="silanules">**silanules**</a> _n._ ([silanu](#silanu)+[les](#les))  
 
-  - **silakipowinupoltiki** _v._ (silakipowinu+poltiki)  
-  
 
-  - **silakipowinupoltikiles** _n._ (silakipowinupoltiki+les)  
-  
+- <a name="silak">**silak**</a> _n._ ([sil](#sil)+[ak](#ak))  
 
-  - **silakipowinyo** _v._ (silakipowi+nyo)  
-  
 
-  - **silakipowinyolon** _n._ (silakipowinyo+lon)  
-  
+- <a name="silaki">**silaki**</a> _v._ ([sila](#sila)+[ki](#ki))  
 
-  - **silakipowiki** _v._ (silakipowi+ki)  
-  
 
-- **'silius** _n._ (Lat. &langle;Sīrius&rangle; [sirɪʊs])  
+- <a name="silakiles">**silakiles**</a> _n._ ([silaki](#silaki)+[les](#les))  
 
 
-- **'silicium** _n._ (Lat. &langle;silicium&rangle; [sɪlit͡ʃɪʊ̃])  
+- <a name="silakipowi">**silakipowi**</a> _v._ ([silaki](#silaki)+[powi](#powi))  
 
 
-  - **silkol** _n._ (sil+kol)  
-  
+- <a name="silakipowilon">**silakipowilon**</a> _n._ ([silakipowi](#silakipowi)+[lon](#lon))  
 
-  - **silkiah** _n._ (sil+kiah)  
-  
 
-  - **siltokalyot** _n._ (sil+tokalyot)  
-  
+- <a name="silakipowinu">**silakipowinu**</a> _v._ ([silakipowi](#silakipowi)+[nu](#nu))  
 
-  - **siltokalyotpoltilum** _n._ (siltokalyot+poltilum)  
-  
 
-- **'sinapula** _n._ (Msa. &langle;Singapura&rangle; [siŋəpurə])  
+- <a name="silakipowinuec">**silakipowinuec**</a> _n._ ([silakipowinu](#silakipowinu)+[ec](#ec))  
 
 
-  - **'sinapulaak** _n._ ('sinapula+ak)  
-  
+- <a name="silakipowinules">**silakipowinules**</a> _n._ ([silakipowinu](#silakipowinu)+[les](#les))  
 
-  - **'sinapulawon** _n._ ('sinapula+won)  
-  
 
-- **'sinkum** _n._ (Lat. &langle;zincum&rangle; [zincʊ̃])  
+- <a name="silakipowinuswa">**silakipowinuswa**</a> _v._ ([silakipowinu](#silakipowinu)+[swa](#swa))  
 
 
-- **'simpapwe** _n._ (Sna. &langle;Zimbabwe&rangle; [zimbabwe])  
+- <a name="silakipowinupolti">**silakipowinupolti**</a> _v._ ([silakipowinu](#silakipowinu)+[polti](#polti))  
 
 
-  - **'simpapweak** _n._ ('simpapwe+ak)  
-  
+- <a name="silakipowinupoltilon">**silakipowinupoltilon**</a> _n._ ([silakipowinupolti](#silakipowinupolti)+[lon](#lon))  
 
-  - **'simpapwewon** _n._ ('simpapwe+won)  
-  
 
-- **sica** _v._ (ono. [ʃː])  
+- <a name="silakipowinupoltilum">**silakipowinupoltilum**</a> _n._ ([silakipowinupolti](#silakipowinupolti)+[lum](#lum))  
 
 
-  - **sicalon** _n._ (sica+lon)  
-  
+- <a name="silakipowinupoltiki">**silakipowinupoltiki**</a> _v._ ([silakipowinu](#silakipowinu)+[poltiki](#poltiki))  
 
-  - **sicalwel** _n._ (sica+lwel)  
-  
 
-  - **sicalwelkiah** _n._ (sicalwel+kiah)  
-  
+- <a name="silakipowinupoltikiles">**silakipowinupoltikiles**</a> _n._ ([silakipowinupoltiki](#silakipowinupoltiki)+[les](#les))  
 
-  - **sicaki** _v._ (sica+ki)  
-  
 
-  - **sicakiles** _n._ (sicaki+les)  
-  
+- <a name="silakipowinyo">**silakipowinyo**</a> _v._ ([silakipowi](#silakipowi)+[nyo](#nyo))  
 
-  - **sicakilwel** _n._ (sicaki+lwel)  
-  
 
-  - **sicapola** _v._ (sica+pola)  
-  
+- <a name="silakipowinyolon">**silakipowinyolon**</a> _n._ ([silakipowinyo](#silakipowinyo)+[lon](#lon))  
 
-  - **sicapolalum** _n._ (sicapola+lum)  
-  
 
-- **sison** _n._ (Eng. &langle;season&rangle; [ˈsiːzən])  
+- <a name="silakipowiki">**silakipowiki**</a> _v._ ([silakipowi](#silakipowi)+[ki](#ki))  
 
 
-  - **sisonak** _n._ (sison+ak)  
-  
+- <a name="'silius">**'silius**</a> _n._ (Lat. &langle;Sīrius&rangle; [sirɪʊs])  
 
-- **sif** _pn._ (Zul. &langle;zí-&rangle; [z̤i˦])  
 
+- <a name="'silicium">**'silicium**</a> _n._ (Lat. &langle;silicium&rangle; [sɪlit͡ʃɪʊ̃])  
 
-  - **sifak** _n._ (sif+ak)  
-  
 
-- **'sik** _n._ (Pan. &langle;ਸਿੱਖ&rangle; [ˈsɪkkʰ])  
+- <a name="silkol">**silkol**</a> _n._ ([sil](#sil)+[kol](#kol))  
 
 
-  - **'sikak** _n._ ('sik+ak)  
-  
+- <a name="silkiah">**silkiah**</a> _n._ ([sil](#sil)+[kiah](#kiah))  
 
-- **sikla** _v._ (Epo. &langle;cirkla&rangle; [ˈt͡sirkla])  
 
+- <a name="siltokalyot">**siltokalyot**</a> _n._ ([sil](#sil)+[tokalyot](#tokalyot))  
 
-  - **siklalon** _n._ (sikla+lon)  
-  
 
-  - **siklalonpum** _n._ (siklalon+pum)  
-  
+- <a name="siltokalyotpoltilum">**siltokalyotpoltilum**</a> _n._ ([siltokalyot](#siltokalyot)+[poltilum](#poltilum))  
 
-  - **siklalonpumak** _n._ (siklalonpum+ak)  
-  
 
-  - **siklaki** _v._ (sikla+ki)  
-  
+- <a name="'sinapula">**'sinapula**</a> _n._ (Msa. &langle;Singapura&rangle; [siŋəpurə])  
 
-  - **siklakio** _v._ (sikla+kio)  
-  
 
-  - **'sikfitilip** _n._ ('sik+fitilip)  
-  
+- <a name="'sinapulaak">**'sinapulaak**</a> _n._ (['sinapula](#'sinapula)+[ak](#ak))  
 
-- **site** _v._ (Hin. &langle;सीधे&rangle; [siːd̤e])  
+
+- <a name="'sinapulawon">**'sinapulawon**</a> _n._ (['sinapula](#'sinapula)+[won](#won))  
+
+
+- <a name="'sinkum">**'sinkum**</a> _n._ (Lat. &langle;zincum&rangle; [zincʊ̃])  
+
+
+- <a name="'simpapwe">**'simpapwe**</a> _n._ (Sna. &langle;Zimbabwe&rangle; [zimbabwe])  
+
+
+- <a name="'simpapweak">**'simpapweak**</a> _n._ (['simpapwe](#'simpapwe)+[ak](#ak))  
+
+
+- <a name="'simpapwewon">**'simpapwewon**</a> _n._ (['simpapwe](#'simpapwe)+[won](#won))  
+
+
+- <a name="sica">**sica**</a> _v._ (ono. [ʃː])  
+
+
+- <a name="sicalon">**sicalon**</a> _n._ ([sica](#sica)+[lon](#lon))  
+
+
+- <a name="sicalwel">**sicalwel**</a> _n._ ([sica](#sica)+[lwel](#lwel))  
+
+
+- <a name="sicalwelkiah">**sicalwelkiah**</a> _n._ ([sicalwel](#sicalwel)+[kiah](#kiah))  
+
+
+- <a name="sicaki">**sicaki**</a> _v._ ([sica](#sica)+[ki](#ki))  
+
+
+- <a name="sicakiles">**sicakiles**</a> _n._ ([sicaki](#sicaki)+[les](#les))  
+
+
+- <a name="sicakilwel">**sicakilwel**</a> _n._ ([sicaki](#sicaki)+[lwel](#lwel))  
+
+
+- <a name="sicapola">**sicapola**</a> _v._ ([sica](#sica)+[pola](#pola))  
+
+
+- <a name="sicapolalum">**sicapolalum**</a> _n._ ([sicapola](#sicapola)+[lum](#lum))  
+
+
+- <a name="sison">**sison**</a> _n._ (Eng. &langle;season&rangle; [ˈsiːzən])  
+
+
+- <a name="sisonak">**sisonak**</a> _n._ ([sison](#sison)+[ak](#ak))  
+
+
+- <a name="sif">**sif**</a> _pn._ (Zul. &langle;zí-&rangle; [z̤i˦])  
+
+
+- <a name="sifak">**sifak**</a> _n._ ([sif](#sif)+[ak](#ak))  
+
+
+- <a name="'sik">**'sik**</a> _n._ (Pan. &langle;ਸਿੱਖ&rangle; [ˈsɪkkʰ])  
+
+
+- <a name="'sikak">**'sikak**</a> _n._ (['sik](#'sik)+[ak](#ak))  
+
+
+- <a name="sikla">**sikla**</a> _v._ (Epo. &langle;cirkla&rangle; [ˈt͡sirkla])  
+
+
+- <a name="siklalon">**siklalon**</a> _n._ ([sikla](#sikla)+[lon](#lon))  
+
+
+- <a name="siklalonpum">**siklalonpum**</a> _n._ ([siklalon](#siklalon)+[pum](#pum))  
+
+
+- <a name="siklalonpumak">**siklalonpumak**</a> _n._ ([siklalonpum](#siklalonpum)+[ak](#ak))  
+
+
+- <a name="siklaki">**siklaki**</a> _v._ ([sikla](#sikla)+[ki](#ki))  
+
+
+- <a name="siklakio">**siklakio**</a> _v._ ([sikla](#sikla)+[kio](#kio))  
+
+
+- <a name="'sikfitilip">**'sikfitilip**</a> _n._ (['sik](#'sik)+[fitilip](#fitilip))  
+
+
+- <a name="site">**site**</a> _v._ (Hin. &langle;सीधे&rangle; [siːd̤e])  
 ser recto; ser derecho; ser lineal; ʟᴏᴧ es recto
 
-  - **sitelon** _n._ (site+lon)  
-  línea; plano
+- <a name="sitelon">**sitelon**</a> _n._ ([site](#site)+[lon](#lon))  
+línea; plano
 
-  - **siteki** _v._ (site+ki)  
-  
+- <a name="siteki">**siteki**</a> _v._ ([site](#site)+[ki](#ki))  
 
-  - **sitekiles** _n._ (siteki+les)  
-  
 
-  - **sitetayl** _n._ (site+tayl)  
-  
+- <a name="sitekiles">**sitekiles**</a> _n._ ([siteki](#siteki)+[les](#les))  
 
-  - **siteponto** _v._ (site+ponto)  
-  
 
-  - **sitepontolon** _n._ (siteponto+lon)  
-  
+- <a name="sitetayl">**sitetayl**</a> _n._ ([site](#site)+[tayl](#tayl))  
 
-  - **sitepontoki** _v._ (siteponto+ki)  
-  
 
-- **'sital** _n._ (Pan. &langle;ਸਿਤਾਰ&rangle; [sɪˈtaːr])  
+- <a name="siteponto">**siteponto**</a> _v._ ([site](#site)+[ponto](#ponto))  
 
 
-- **'sipili** _n._ (Rus. &langle;Сиби́рь&rangle; [sʲɪˈbʲirʲ])  
+- <a name="sitepontolon">**sitepontolon**</a> _n._ ([siteponto](#siteponto)+[lon](#lon))  
 
 
-  - **'sipiliak** _n._ ('sipili+ak)  
-  
+- <a name="sitepontoki">**sitepontoki**</a> _v._ ([siteponto](#siteponto)+[ki](#ki))  
 
-- **'sipiwit** _n._ (Eng. &langle;spirit&rangle; [ˈspɪɹʷɪt])  
 
+- <a name="'sital">**'sital**</a> _n._ (Pan. &langle;ਸਿਤਾਰ&rangle; [sɪˈtaːr])  
 
-  - **'sipiwitfitilip** _n._ ('sipiwit+fitilip)  
-  
 
-  - **'sipiwitfitilipwon** _n._ ('sipiwitfitilip+won)  
-  
+- <a name="'sipili">**'sipili**</a> _n._ (Rus. &langle;Сиби́рь&rangle; [sʲɪˈbʲirʲ])  
 
-  - **'sipiwitfitilipak** _n._ ('sipiwitfitilip+ak)  
-  
 
-- **'suomi** _n._ (Fin. &langle;Suomi&rangle; [ˈsuo̯mi])  
+- <a name="'sipiliak">**'sipiliak**</a> _n._ (['sipili](#'sipili)+[ak](#ak))  
 
 
-  - **'suomiak** _n._ ('suomi+ak)  
-  
+- <a name="'sipiwit">**'sipiwit**</a> _n._ (Eng. &langle;spirit&rangle; [ˈspɪɹʷɪt])  
 
-  - **'suomiwon** _n._ ('suomi+won)  
-  
 
-  - **'suomitilip** _n._ ('suomi+tilip)  
-  
+- <a name="'sipiwitfitilip">**'sipiwitfitilip**</a> _n._ (['sipiwit](#'sipiwit)+[fitilip](#fitilip))  
 
-- **suotu** _v._ (~~fieli~~)  
 
+- <a name="'sipiwitfitilipwon">**'sipiwitfitilipwon**</a> _n._ (['sipiwitfitilip](#'sipiwitfitilip)+[won](#won))  
 
-  - **suotulon** _n._ (suotu+lon)  
-  
 
-  - **suotulum** _n._ (suotu+lum)  
-  
+- <a name="'sipiwitfitilipak">**'sipiwitfitilipak**</a> _n._ (['sipiwitfitilip](#'sipiwitfitilip)+[ak](#ak))  
 
-  - **suotuki** _v._ (suotu+ki)  
-  
 
-- **sul** _n._ (Pan. &langle;ਸੂਰ&rangle; [suɾ])  
+- <a name="'suomi">**'suomi**</a> _n._ (Fin. &langle;Suomi&rangle; [ˈsuo̯mi])  
 
 
-  - **sulak** _n._ (sul+ak)  
-  
+- <a name="'suomiak">**'suomiak**</a> _n._ (['suomi](#'suomi)+[ak](#ak))  
 
-- **'suli** _n._ (Ara. &langle;سوري‎&rangle; [suːriː])  
 
+- <a name="'suomiwon">**'suomiwon**</a> _n._ (['suomi](#'suomi)+[won](#won))  
 
-  - **'suliak** _n._ ('suli+ak)  
-  
 
-  - **'suliwon** _n._ ('suli+won)  
-  
+- <a name="'suomitilip">**'suomitilip**</a> _n._ (['suomi](#'suomi)+[tilip](#tilip))  
 
-- **'sulinama** _n._ (Nld. &langle;Suriname&rangle; [ˌsyːriˈnaːmə])  
 
+- <a name="suotu">**suotu**</a> _v._ ([~~fieli~~](#fieli))  
 
-  - **'sulinamaak** _n._ ('sulinama+ak)  
-  
 
-  - **'sulinamawon** _n._ ('sulinama+won)  
-  
+- <a name="suotulon">**suotulon**</a> _n._ ([suotu](#suotu)+[lon](#lon))  
 
-- **'sulu** _n._ (Zul. &langle;Zulu&rangle; [zuːlu])  
 
+- <a name="suotulum">**suotulum**</a> _n._ ([suotu](#suotu)+[lum](#lum))  
 
-  - **'suluak** _n._ ('sulu+ak)  
-  
 
-  - **'sulutilip** _n._ ('sulu+tilip)  
-  
+- <a name="suotuki">**suotuki**</a> _v._ ([suotu](#suotu)+[ki](#ki))  
 
-- **'sulman** _n._ (Ara. &langle;ظلمان&rangle; [zulman])  
 
+- <a name="sul">**sul**</a> _n._ (Pan. &langle;ਸੂਰ&rangle; [suɾ])  
 
-- **'sulfulium** _n._ (Lat. &langle;sulphurium&rangle; [sʊlfurɪʊ̃])  
 
+- <a name="sulak">**sulak**</a> _n._ ([sul](#sul)+[ak](#ak))  
 
-- **sun** _n._ (Epo. &langle;suno&rangle; [ˈsuno])  
 
+- <a name="'suli">**'suli**</a> _n._ (Ara. &langle;سوري‎&rangle; [suːriː])  
 
-- **'sunah** _n._ (Ara. &langle;سنة&rangle; [ˈsunnah])  
 
+- <a name="'suliak">**'suliak**</a> _n._ (['suli](#'suli)+[ak](#ak))  
 
-  - **'sunahak** _n._ ('sunah+ak)  
-  
 
-  - **'sunahwon** _n._ ('sunah+won)  
-  
+- <a name="'suliwon">**'suliwon**</a> _n._ (['suli](#'suli)+[won](#won))  
 
-  - **sunak** _n._ (sun+ak)  
-  
 
-  - **sunnunyama** _v._ (sun+nu+nyama)  
-  
+- <a name="'sulinama">**'sulinama**</a> _n._ (Nld. &langle;Suriname&rangle; [ˌsyːriˈnaːmə])  
 
-  - **sunnunyamales** _n._ (sunnunyama+les)  
-  
 
-  - **sunnunyamalon** _n._ (sunnunyama+lon)  
-  
+- <a name="'sulinamaak">**'sulinamaak**</a> _n._ (['sulinama](#'sulinama)+[ak](#ak))  
 
-  - **sunnyama** _v._ (sun+nyama)  
-  
 
-  - **sunnyamales** _n._ (sunnyama+les)  
-  
+- <a name="'sulinamawon">**'sulinamawon**</a> _n._ (['sulinama](#'sulinama)+[won](#won))  
 
-  - **sunnyamalon** _n._ (sunnyama+lon)  
-  
 
-  - **sunnyamalwel** _n._ (sunnyama+lwel)  
-  
+- <a name="'sulu">**'sulu**</a> _n._ (Zul. &langle;Zulu&rangle; [zuːlu])  
 
-  - **sunfolmo** _v._ (sun+folmo)  
-  
 
-  - **sunfolmolon** _n._ (sunfolmo+lon)  
-  
+- <a name="'suluak">**'suluak**</a> _n._ (['sulu](#'sulu)+[ak](#ak))  
 
-  - **sunkinyama** _v._ (sun+ki+nyama)  
-  
 
-  - **sunkinyamales** _n._ (sunkinyama+les)  
-  
+- <a name="'sulutilip">**'sulutilip**</a> _n._ (['sulu](#'sulu)+[tilip](#tilip))  
 
-  - **sunkinyamalon** _n._ (sunkinyama+lon)  
-  
 
-  - **sunkinyamalwel** _n._ (sunkinyama+lwel)  
-  
+- <a name="'sulman">**'sulman**</a> _n._ (Ara. &langle;ظلمان&rangle; [zulman])  
 
-  - **sunkwelwel** _n._ (sun+kwelwel)  
-  
 
-  - **sunkwelweltolmicua** _v._ (sunkwelwel+tolmicua)  
-  
+- <a name="'sulfulium">**'sulfulium**</a> _n._ (Lat. &langle;sulphurium&rangle; [sʊlfurɪʊ̃])  
 
-  - **sunkwelweltolmicualum** _n._ (sunkwelweltolmicua+lum)  
-  
 
-  - **sunkwelweltolmicualon** _n._ (sunkwelweltolmicua+lon)  
-  
+- <a name="sun">**sun**</a> _n._ (Epo. &langle;suno&rangle; [ˈsuno])  
 
-  - **suntaykunpatolon** _n._ (sun+taykun+patolon)  
-  
 
-  - **suntun** _n._ (sun+tun)  
-  
+- <a name="'sunah">**'sunah**</a> _n._ (Ara. &langle;سنة&rangle; [ˈsunnah])  
 
-  - **sunpul** _n._ (sun+pul)  
-  
 
-- **sumsum** _n._ (ono. [zum)  
+- <a name="'sunahak">**'sunahak**</a> _n._ (['sunah](#'sunah)+[ak](#ak))  
+
+
+- <a name="'sunahwon">**'sunahwon**</a> _n._ (['sunah](#'sunah)+[won](#won))  
+
+
+- <a name="sunak">**sunak**</a> _n._ ([sun](#sun)+[ak](#ak))  
+
+
+- <a name="sunnunyama">**sunnunyama**</a> _v._ ([sun](#sun)+[nu](#nu)+[nyama](#nyama))  
+
+
+- <a name="sunnunyamales">**sunnunyamales**</a> _n._ ([sunnunyama](#sunnunyama)+[les](#les))  
+
+
+- <a name="sunnunyamalon">**sunnunyamalon**</a> _n._ ([sunnunyama](#sunnunyama)+[lon](#lon))  
+
+
+- <a name="sunnyama">**sunnyama**</a> _v._ ([sun](#sun)+[nyama](#nyama))  
+
+
+- <a name="sunnyamales">**sunnyamales**</a> _n._ ([sunnyama](#sunnyama)+[les](#les))  
+
+
+- <a name="sunnyamalon">**sunnyamalon**</a> _n._ ([sunnyama](#sunnyama)+[lon](#lon))  
+
+
+- <a name="sunnyamalwel">**sunnyamalwel**</a> _n._ ([sunnyama](#sunnyama)+[lwel](#lwel))  
+
+
+- <a name="sunfolmo">**sunfolmo**</a> _v._ ([sun](#sun)+[folmo](#folmo))  
+
+
+- <a name="sunfolmolon">**sunfolmolon**</a> _n._ ([sunfolmo](#sunfolmo)+[lon](#lon))  
+
+
+- <a name="sunkinyama">**sunkinyama**</a> _v._ ([sun](#sun)+[ki](#ki)+[nyama](#nyama))  
+
+
+- <a name="sunkinyamales">**sunkinyamales**</a> _n._ ([sunkinyama](#sunkinyama)+[les](#les))  
+
+
+- <a name="sunkinyamalon">**sunkinyamalon**</a> _n._ ([sunkinyama](#sunkinyama)+[lon](#lon))  
+
+
+- <a name="sunkinyamalwel">**sunkinyamalwel**</a> _n._ ([sunkinyama](#sunkinyama)+[lwel](#lwel))  
+
+
+- <a name="sunkwelwel">**sunkwelwel**</a> _n._ ([sun](#sun)+[kwelwel](#kwelwel))  
+
+
+- <a name="sunkwelweltolmicua">**sunkwelweltolmicua**</a> _v._ ([sunkwelwel](#sunkwelwel)+[tolmicua](#tolmicua))  
+
+
+- <a name="sunkwelweltolmicualum">**sunkwelweltolmicualum**</a> _n._ ([sunkwelweltolmicua](#sunkwelweltolmicua)+[lum](#lum))  
+
+
+- <a name="sunkwelweltolmicualon">**sunkwelweltolmicualon**</a> _n._ ([sunkwelweltolmicua](#sunkwelweltolmicua)+[lon](#lon))  
+
+
+- <a name="suntaykunpatolon">**suntaykunpatolon**</a> _n._ ([sun](#sun)+[taykun](#taykun)+[patolon](#patolon))  
+
+
+- <a name="suntun">**suntun**</a> _n._ ([sun](#sun)+[tun](#tun))  
+
+
+- <a name="sunpul">**sunpul**</a> _n._ ([sun](#sun)+[pul](#pul))  
+
+
+- <a name="sumsum">**sumsum**</a> _n._ (ono. [zum)  
 abeja; Anthophilia
 
-- **suta** _v._ (Epo. &langle;suda&rangle; [ˈsuda])  
+- <a name="suta">**suta**</a> _v._ (Epo. &langle;suda&rangle; [ˈsuda])  
 
 
-- **'suta** _n._ (Pan. &langle;ਸੁੰਢ&rangle; [suɖə])  
+- <a name="'suta">**'suta**</a> _n._ (Pan. &langle;ਸੁੰਢ&rangle; [suɖə])  
 
 
-  - **suta'alon** _n._ (suta+'alon)  
-  
+- <a name="suta'alon">**suta'alon**</a> _n._ ([suta](#suta)+['alon](#'alon))  
 
-  - **suta'alonak** _n._ (suta'alon+ak)  
-  
 
-  - **suta'alontec** _n._ (suta'alon+tec)  
-  
+- <a name="suta'alonak">**suta'alonak**</a> _n._ ([suta'alon](#suta'alon)+[ak](#ak))  
 
-  - **suta'amelika** _n._ (suta+'amelika)  
-  
 
-  - **suta'asutan** _n._ (suta+'asutan)  
-  
+- <a name="suta'alontec">**suta'alontec**</a> _n._ ([suta'alon](#suta'alon)+[tec](#tec))  
 
-  - **suta'asutanak** _n._ (suta'asutan+ak)  
-  
 
-  - **suta'asutanwon** _n._ (suta'asutan+won)  
-  
+- <a name="suta'amelika">**suta'amelika**</a> _n._ ([suta](#suta)+['amelika](#'amelika))  
 
-  - **suta'aflika** _n._ (suta+'aflika)  
-  
 
-  - **suta'aflikatec** _n._ (suta'aflika+tec)  
-  
+- <a name="suta'asutan">**suta'asutan**</a> _n._ ([suta](#suta)+['asutan](#'asutan))  
 
-  - **suta'aflikatecwon** _n._ (suta'aflikatec+won)  
-  
 
-  - **sutalawt** _n._ (suta+lawt)  
-  
+- <a name="suta'asutanak">**suta'asutanak**</a> _n._ ([suta'asutan](#suta'asutan)+[ak](#ak))  
 
-  - **sutalon** _n._ (suta+lon)  
-  
 
-  - **suta'hokyentilip** _n._ (suta+'hokyentilip)  
-  
+- <a name="suta'asutanwon">**suta'asutanwon**</a> _n._ ([suta'asutan](#suta'asutan)+[won](#won))  
 
-  - **suta'cosawntilip** _n._ (suta+'cosawntilip)  
-  
 
-  - **suta'cosawntiliptec** _n._ (suta'cosawntilip+tec)  
-  
+- <a name="suta'aflika">**suta'aflika**</a> _n._ ([suta](#suta)+['aflika](#'aflika))  
 
-  - **suta'cosawntilipak** _n._ (suta'cosawntilip+ak)  
-  
 
-  - **sutaki** _v._ (suta+ki)  
-  
+- <a name="suta'aflikatec">**suta'aflikatec**</a> _n._ ([suta'aflika](#suta'aflika)+[tec](#tec))  
 
-  - **sutatayl** _n._ (suta+tayl)  
-  
 
-  - **sutatyen** _num._ (suta+tyen)  
-  
+- <a name="suta'aflikatecwon">**suta'aflikatecwon**</a> _n._ ([suta'aflikatec](#suta'aflikatec)+[won](#won))  
 
-- **'sutu** _n._ (Sot. &langle;Sotho&rangle; [sʊ́tʰʊ̀])  
 
+- <a name="sutalawt">**sutalawt**</a> _n._ ([suta](#suta)+[lawt](#lawt))  
 
-  - **'sutuak** _n._ ('sutu+ak)  
-  
 
-  - **'sututec** _n._ ('sutu+tec)  
-  
+- <a name="sutalon">**sutalon**</a> _n._ ([suta](#suta)+[lon](#lon))  
 
-  - **'sututilip** _n._ ('sutu+tilip)  
-  
 
-- **supot** _n._ (~~fimel~~)  
+- <a name="suta'hokyentilip">**suta'hokyentilip**</a> _n._ ([suta](#suta)+['hokyentilip](#'hokyentilip))  
 
 
-  - **supotak** _n._ (supot+ak)  
-  
+- <a name="suta'cosawntilip">**suta'cosawntilip**</a> _n._ ([suta](#suta)+['cosawntilip](#'cosawntilip))  
 
-  - **supotaktua** _v._ (supot+aktua)  
-  
 
-  - **supotaktualon** _n._ (supotaktua+lon)  
-  
+- <a name="suta'cosawntiliptec">**suta'cosawntiliptec**</a> _n._ ([suta'cosawntilip](#suta'cosawntilip)+[tec](#tec))  
 
-- **'swensek** _n._ (Swe. &langle;svensk&rangle; [svɛnːsk])  
 
+- <a name="suta'cosawntilipak">**suta'cosawntilipak**</a> _n._ ([suta'cosawntilip](#suta'cosawntilip)+[ak](#ak))  
 
-  - **'swensekak** _n._ ('swensek+ak)  
-  
 
-  - **'swensektec** _n._ ('swensek+tec)  
-  
+- <a name="sutaki">**sutaki**</a> _v._ ([suta](#suta)+[ki](#ki))  
 
-  - **'swensektilip** _n._ ('swensek+tilip)  
-  
 
-- **swa** _v._ (Zul. &langle;-zwa&rangle; [zwa])  
+- <a name="sutatayl">**sutatayl**</a> _n._ ([suta](#suta)+[tayl](#tayl))  
 
 
-  - **swaec** _n._ (swa+ec)  
-  
+- <a name="sutatyen">**sutatyen**</a> _num._ ([suta](#suta)+[tyen](#tyen))  
 
-  - **swalon** _n._ (swa+lon)  
-  
 
-  - **swalum** _n._ (swa+lum)  
-  
+- <a name="'sutu">**'sutu**</a> _n._ (Sot. &langle;Sotho&rangle; [sʊ́tʰʊ̀])  
 
-- **'swana** _n._ (Tsn. &langle;tswana&rangle; [t͡swana])  
 
+- <a name="'sutuak">**'sutuak**</a> _n._ (['sutu](#'sutu)+[ak](#ak))  
 
-  - **'swanaak** _n._ ('swana+ak)  
-  
 
-  - **'swanatec** _n._ ('swana+tec)  
-  
+- <a name="'sututec">**'sututec**</a> _n._ (['sutu](#'sutu)+[tec](#tec))  
 
-  - **'swanatilip** _n._ ('swana+tilip)  
-  
 
-- **'swahili** _n._ (Swa. &langle;swahili&rangle; [swahili])  
+- <a name="'sututilip">**'sututilip**</a> _n._ (['sutu](#'sutu)+[tilip](#tilip))  
 
 
-  - **'swahiliak** _n._ ('swahili+ak)  
-  
+- <a name="supot">**supot**</a> _n._ ([~~fimel~~](#fimel))  
 
-  - **'swahilitilip** _n._ ('swahili+tilip)  
-  
 
-  - **swahulum** _n._ (swa+hulum)  
-  
+- <a name="supotak">**supotak**</a> _n._ ([supot](#supot)+[ak](#ak))  
 
-  - **swakolwa** _v._ (swa+kolwa)  
-  
 
-  - **swakolwalum** _n._ (swakolwa+lum)  
-  
+- <a name="supotaktua">**supotaktua**</a> _v._ ([supot](#supot)+[aktua](#aktua))  
 
-- **'swati** _n._ (Ssw. &langle;Swati&rangle; [swatˈi])  
 
+- <a name="supotaktualon">**supotaktualon**</a> _n._ ([supotaktua](#supotaktua)+[lon](#lon))  
 
-  - **'swatiak** _n._ ('swati+ak)  
-  
 
-  - **'swatitec** _n._ ('swati+tec)  
-  
+- <a name="'swensek">**'swensek**</a> _n._ (Swe. &langle;svensk&rangle; [svɛnːsk])  
 
-  - **'swatitilip** _n._ ('swati+tilip)  
-  
 
-- **swape** _v._ (Spa. &langle;suave&rangle; [ˈswaβe])  
+- <a name="'swensekak">**'swensekak**</a> _n._ (['swensek](#'swensek)+[ak](#ak))  
 
 
-  - **swapelon** _n._ (swape+lon)  
-  
+- <a name="'swensektec">**'swensektec**</a> _n._ (['swensek](#'swensek)+[tec](#tec))  
 
-  - **swapeki** _v._ (swape+ki)  
-  
 
-- **swo** _v._ (Cmn. &langle;坐&rangle; [t͡swɔ˥˩])  
+- <a name="'swensektilip">**'swensektilip**</a> _n._ (['swensek](#'swensek)+[tilip](#tilip))  
 
 
-  - **swolon** _n._ (swo+lon)  
-  
+- <a name="swa">**swa**</a> _v._ (Zul. &langle;-zwa&rangle; [zwa])  
 
-  - **swoki** _v._ (swo+ki)  
-  
 
-  - **swokiles** _n._ (swoki+les)  
-  
+- <a name="swaec">**swaec**</a> _n._ ([swa](#swa)+[ec](#ec))  
 
-- **'swis** _n._ (Roh. &langle;sviz-&rangle; [svit͡s])  
 
+- <a name="swalon">**swalon**</a> _n._ ([swa](#swa)+[lon](#lon))  
 
-  - **'swisak** _n._ ('swis+ak)  
-  
 
-  - **'swistec** _n._ ('swis+tec)  
-  
+- <a name="swalum">**swalum**</a> _n._ ([swa](#swa)+[lum](#lum))  
 
-## f
 
-- **fe** _v._ (Cmn. &langle;飞&rangle; [feɪ̯˥])  
+- <a name="'swana">**'swana**</a> _n._ (Tsn. &langle;tswana&rangle; [t͡swana])  
 
 
-- **'fe** _n._ (ono. [f])  
+- <a name="'swanaak">**'swanaak**</a> _n._ (['swana](#'swana)+[ak](#ak))  
 
 
-  - **feam** _n._ (fe+am)  
-  
+- <a name="'swanatec">**'swanatec**</a> _n._ (['swana](#'swana)+[tec](#tec))  
 
-  - **feammontalon** _n._ (feam+montalon)  
-  
 
-- **'feycuata** _n._ (Por. &langle;feijoada&rangle; [fejʒuˈadɐ])  
+- <a name="'swanatilip">**'swanatilip**</a> _n._ (['swana](#'swana)+[tilip](#tilip))  
 
 
-  - **felon** _n._ (fe+lon)  
-  
+- <a name="'swahili">**'swahili**</a> _n._ (Swa. &langle;swahili&rangle; [swahili])  
 
-  - **felonak** _n._ (felon+ak)  
-  
 
-  - **fenu** _v._ (fe+nu)  
-  
+- <a name="'swahiliak">**'swahiliak**</a> _n._ (['swahili](#'swahili)+[ak](#ak))  
 
-  - **femamul** _n._ (fe+mamul)  
-  
 
-- **femo** _v._ (~~sope~~)  
+- <a name="'swahilitilip">**'swahilitilip**</a> _n._ (['swahili](#'swahili)+[tilip](#tilip))  
 
 
-  - **femolon** _n._ (femo+lon)  
-  
+- <a name="swahulum">**swahulum**</a> _n._ ([swa](#swa)+[hulum](#hulum))  
 
-  - **femoki** _v._ (femo+ki)  
-  
 
-  - **femokiles** _n._ (femoki+les)  
-  
+- <a name="swakolwa">**swakolwa**</a> _v._ ([swa](#swa)+[kolwa](#kolwa))  
 
-- **fefua** _v._ (~~sosia~~)  
 
+- <a name="swakolwalum">**swakolwalum**</a> _n._ ([swakolwa](#swakolwa)+[lum](#lum))  
 
-  - **fefualon** _n._ (fefua+lon)  
-  
 
-  - **fefuaki** _v._ (fefua+ki)  
-  
+- <a name="'swati">**'swati**</a> _n._ (Ssw. &langle;Swati&rangle; [swatˈi])  
 
-  - **feki** _v._ (fe+ki)  
-  
 
-  - **fekiles** _n._ (feki+les)  
-  
+- <a name="'swatiak">**'swatiak**</a> _n._ (['swati](#'swati)+[ak](#ak))  
 
-  - **fekiluat** _n._ (feki+luat)  
-  
 
-  - **fepucocalu** _v._ (fe+pucocalu)  
-  
+- <a name="'swatitec">**'swatitec**</a> _n._ (['swati](#'swati)+[tec](#tec))  
 
-  - **fepucocalulum** _n._ (fepucocalu+lum)  
-  
 
-- **fawci** _v._ (~~sayhu~~)  
+- <a name="'swatitilip">**'swatitilip**</a> _n._ (['swati](#'swati)+[tilip](#tilip))  
 
 
-  - **fawcilon** _n._ (fawci+lon)  
-  
+- <a name="swape">**swape**</a> _v._ (Spa. &langle;suave&rangle; [ˈswaβe])  
 
-  - **fawcilum** _n._ (fawci+lum)  
-  
 
-  - **fawciki** _v._ (fawci+ki)  
-  
+- <a name="swapelon">**swapelon**</a> _n._ ([swape](#swape)+[lon](#lon))  
 
-- **fan** _n._ (Cmn. &langle;饭&rangle; [fan˥˩])  
 
+- <a name="swapeki">**swapeki**</a> _v._ ([swape](#swape)+[ki](#ki))  
 
-- **'fanuatu** _n._ (Bis. &langle;Vanuatu&rangle; [vɑnuɑtu])  
 
+- <a name="swo">**swo**</a> _v._ (Cmn. &langle;坐&rangle; [t͡swɔ˥˩])  
 
-  - **'fanuatuak** _n._ ('fanuatu+ak)  
-  
 
-  - **'fanuatuwon** _n._ ('fanuatu+won)  
-  
+- <a name="swolon">**swolon**</a> _n._ ([swo](#swo)+[lon](#lon))  
 
-  - **'fanuatutec** _n._ ('fanuatu+tec)  
-  
 
-  - **'fanuatutilip** _n._ ('fanuatu+tilip)  
-  
+- <a name="swoki">**swoki**</a> _v._ ([swo](#swo)+[ki](#ki))  
 
-- **'fancwey** _n._ (Cmn. &langle;风水&rangle; [fəŋ˥ʂweɪ̯˧˩˥])  
 
+- <a name="swokiles">**swokiles**</a> _n._ ([swoki](#swoki)+[les](#les))  
 
-- **'fansi** _n._ (Eng. &langle;fancy&rangle; [ˈfænsi])  
 
+- <a name="'swis">**'swis**</a> _n._ (Roh. &langle;sviz-&rangle; [svit͡s])  
 
-- **'fahan** _n._ (Fra. &langle;franc&rangle; [fʁɑ̃])  
 
+- <a name="'swisak">**'swisak**</a> _n._ (['swis](#'swis)+[ak](#ak))  
 
-- **'fahanse** _n._ (Fra. &langle;France&rangle; [ˈfʁɑ̃s])  
 
+- <a name="'swistec">**'swistec**</a> _n._ (['swis](#'swis)+[tec](#tec))  
 
-  - **'fahanseak** _n._ ('fahanse+ak)  
-  
 
-  - **'fahansewon** _n._ ('fahanse+won)  
-  
+### f
 
-  - **'fahansetilip** _n._ ('fahanse+tilip)  
-  
+- <a name="fe">**fe**</a> _v._ (Cmn. &langle;飞&rangle; [feɪ̯˥])  
 
-- **fak** _num._ (~~san~~)  
+
+- <a name="'fe">**'fe**</a> _n._ (ono. [f])  
+
+
+- <a name="feam">**feam**</a> _n._ ([fe](#fe)+[am](#am))  
+
+
+- <a name="feammontalon">**feammontalon**</a> _n._ ([feam](#feam)+[montalon](#montalon))  
+
+
+- <a name="'feycuata">**'feycuata**</a> _n._ (Por. &langle;feijoada&rangle; [fejʒuˈadɐ])  
+
+
+- <a name="felon">**felon**</a> _n._ ([fe](#fe)+[lon](#lon))  
+
+
+- <a name="felonak">**felonak**</a> _n._ ([felon](#felon)+[ak](#ak))  
+
+
+- <a name="fenu">**fenu**</a> _v._ ([fe](#fe)+[nu](#nu))  
+
+
+- <a name="femamul">**femamul**</a> _n._ ([fe](#fe)+[mamul](#mamul))  
+
+
+- <a name="femo">**femo**</a> _v._ ([~~sope~~](#sope))  
+
+
+- <a name="femolon">**femolon**</a> _n._ ([femo](#femo)+[lon](#lon))  
+
+
+- <a name="femoki">**femoki**</a> _v._ ([femo](#femo)+[ki](#ki))  
+
+
+- <a name="femokiles">**femokiles**</a> _n._ ([femoki](#femoki)+[les](#les))  
+
+
+- <a name="fefua">**fefua**</a> _v._ ([~~sosia~~](#sosia))  
+
+
+- <a name="fefualon">**fefualon**</a> _n._ ([fefua](#fefua)+[lon](#lon))  
+
+
+- <a name="fefuaki">**fefuaki**</a> _v._ ([fefua](#fefua)+[ki](#ki))  
+
+
+- <a name="feki">**feki**</a> _v._ ([fe](#fe)+[ki](#ki))  
+
+
+- <a name="fekiles">**fekiles**</a> _n._ ([feki](#feki)+[les](#les))  
+
+
+- <a name="fekiluat">**fekiluat**</a> _n._ ([feki](#feki)+[luat](#luat))  
+
+
+- <a name="fepucocalu">**fepucocalu**</a> _v._ ([fe](#fe)+[pucocalu](#pucocalu))  
+
+
+- <a name="fepucocalulum">**fepucocalulum**</a> _n._ ([fepucocalu](#fepucocalu)+[lum](#lum))  
+
+
+- <a name="fawci">**fawci**</a> _v._ ([~~sayhu~~](#sayhu))  
+
+
+- <a name="fawcilon">**fawcilon**</a> _n._ ([fawci](#fawci)+[lon](#lon))  
+
+
+- <a name="fawcilum">**fawcilum**</a> _n._ ([fawci](#fawci)+[lum](#lum))  
+
+
+- <a name="fawciki">**fawciki**</a> _v._ ([fawci](#fawci)+[ki](#ki))  
+
+
+- <a name="fan">**fan**</a> _n._ (Cmn. &langle;饭&rangle; [fan˥˩])  
+
+
+- <a name="'fanuatu">**'fanuatu**</a> _n._ (Bis. &langle;Vanuatu&rangle; [vɑnuɑtu])  
+
+
+- <a name="'fanuatuak">**'fanuatuak**</a> _n._ (['fanuatu](#'fanuatu)+[ak](#ak))  
+
+
+- <a name="'fanuatuwon">**'fanuatuwon**</a> _n._ (['fanuatu](#'fanuatu)+[won](#won))  
+
+
+- <a name="'fanuatutec">**'fanuatutec**</a> _n._ (['fanuatu](#'fanuatu)+[tec](#tec))  
+
+
+- <a name="'fanuatutilip">**'fanuatutilip**</a> _n._ (['fanuatu](#'fanuatu)+[tilip](#tilip))  
+
+
+- <a name="'fancwey">**'fancwey**</a> _n._ (Cmn. &langle;风水&rangle; [fəŋ˥ʂweɪ̯˧˩˥])  
+
+
+- <a name="'fansi">**'fansi**</a> _n._ (Eng. &langle;fancy&rangle; [ˈfænsi])  
+
+
+- <a name="'fahan">**'fahan**</a> _n._ (Fra. &langle;franc&rangle; [fʁɑ̃])  
+
+
+- <a name="'fahanse">**'fahanse**</a> _n._ (Fra. &langle;France&rangle; [ˈfʁɑ̃s])  
+
+
+- <a name="'fahanseak">**'fahanseak**</a> _n._ (['fahanse](#'fahanse)+[ak](#ak))  
+
+
+- <a name="'fahansewon">**'fahansewon**</a> _n._ (['fahanse](#'fahanse)+[won](#won))  
+
+
+- <a name="'fahansetilip">**'fahansetilip**</a> _n._ (['fahanse](#'fahanse)+[tilip](#tilip))  
+
+
+- <a name="fak">**fak**</a> _num._ ([~~san~~](#san))  
 13; trece
 
-- **fake** _v._ (~~sano~~)  
+- <a name="fake">**fake**</a> _v._ ([~~sano~~](#sano))  
 
 
-  - **fakelon** _n._ (fake+lon)  
-  
+- <a name="fakelon">**fakelon**</a> _n._ ([fake](#fake)+[lon](#lon))  
 
-  - **fakelip** _n._ (fake+lip)  
-  
 
-  - **fakeki** _v._ (fake+ki)  
-  
+- <a name="fakelip">**fakelip**</a> _n._ ([fake](#fake)+[lip](#lip))  
 
-  - **fakekiles** _n._ (fakeki+les)  
-  
 
-  - **fakekilon** _n._ (fakeki+lon)  
-  
+- <a name="fakeki">**fakeki**</a> _v._ ([fake](#fake)+[ki](#ki))  
 
-  - **fakekiluat** _n._ (fakeki+luat)  
-  
 
-  - **fakekiluatlekcuc** _n._ (fakekiluat+lekcuc)  
-  
+- <a name="fakekiles">**fakekiles**</a> _n._ ([fakeki](#fakeki)+[les](#les))  
 
-  - **fakak** _n._ (fak+ak)  
-  
 
-- **fol** _num._ (Eng. &langle;four&rangle; [fɔɹ])  
+- <a name="fakekilon">**fakekilon**</a> _n._ ([fakeki](#fakeki)+[lon](#lon))  
+
+
+- <a name="fakekiluat">**fakekiluat**</a> _n._ ([fakeki](#fakeki)+[luat](#luat))  
+
+
+- <a name="fakekiluatlekcuc">**fakekiluatlekcuc**</a> _n._ ([fakekiluat](#fakekiluat)+[lekcuc](#lekcuc))  
+
+
+- <a name="fakak">**fakak**</a> _n._ ([fak](#fak)+[ak](#ak))  
+
+
+- <a name="fol">**fol**</a> _num._ (Eng. &langle;four&rangle; [fɔɹ])  
 4; quatro
 
-  - **folak** _n._ (fol+ak)  
-  cuarto
+- <a name="folak">**folak**</a> _n._ ([fol](#fol)+[ak](#ak))  
+cuarto
 
-- **folmo** _v._ (Epo. &langle;formo&rangle; [ˈformo])  
+- <a name="folmo">**folmo**</a> _v._ (Epo. &langle;formo&rangle; [ˈformo])  
 
 
-  - **folmolon** _n._ (folmo+lon)  
-  
+- <a name="folmolon">**folmolon**</a> _n._ ([folmo](#folmo)+[lon](#lon))  
 
-  - **folmolum** _n._ (folmo+lum)  
-  
 
-  - **folmonu** _v._ (folmo+nu)  
-  
+- <a name="folmolum">**folmolum**</a> _n._ ([folmo](#folmo)+[lum](#lum))  
 
-  - **folmonulon** _n._ (folmonu+lon)  
-  
 
-  - **folmoki** _v._ (folmo+ki)  
-  
+- <a name="folmonu">**folmonu**</a> _v._ ([folmo](#folmo)+[nu](#nu))  
 
-  - **folmokiles** _n._ (folmoki+les)  
-  
 
-  - **folsunkwelwel** _n._ (fol+sunkwelwel)  
-  
+- <a name="folmonulon">**folmonulon**</a> _n._ ([folmonu](#folmonu)+[lon](#lon))  
 
-- **folti** _v._ (Epo. &langle;forti&rangle; [ˈforti])  
 
+- <a name="folmoki">**folmoki**</a> _v._ ([folmo](#folmo)+[ki](#ki))  
 
-  - **foltilon** _n._ (folti+lon)  
-  
 
-  - **foltilyan** _n._ (folti+lyan)  
-  
+- <a name="folmokiles">**folmokiles**</a> _n._ ([folmoki](#folmoki)+[les](#les))  
 
-  - **foltimuf** _n._ (folti+muf)  
-  
 
-  - **foltiki** _v._ (folti+ki)  
-  
+- <a name="folsunkwelwel">**folsunkwelwel**</a> _n._ ([fol](#fol)+[sunkwelwel](#sunkwelwel))  
 
-  - **foltikiles** _n._ (foltiki+les)  
-  
 
-  - **foltikwap** _n._ (folti+kwap)  
-  
+- <a name="folti">**folti**</a> _v._ (Epo. &langle;forti&rangle; [ˈforti])  
 
-- **fomi** _v._ (Eng. &langle;foamy&rangle; [ˈfoʊ̯mi])  
 
+- <a name="foltilon">**foltilon**</a> _n._ ([folti](#folti)+[lon](#lon))  
 
-  - **fomiicilon** _n._ (fomi+icilon)  
-  
 
-  - **fomilon** _n._ (fomi+lon)  
-  
+- <a name="foltilyan">**foltilyan**</a> _n._ ([folti](#folti)+[lyan](#lyan))  
 
-  - **fomilono** _v._ (fomi+lono)  
-  
 
-  - **fomilonolon** _n._ (fomilono+lon)  
-  
+- <a name="foltimuf">**foltimuf**</a> _n._ ([folti](#folti)+[muf](#muf))  
 
-  - **fomiciuh** _n._ (fomi+ciuh)  
-  
 
-  - **fomiseleal** _n._ (fomi+seleal)  
-  
+- <a name="foltiki">**foltiki**</a> _v._ ([folti](#folti)+[ki](#ki))  
 
-  - **fomifut** _n._ (fomi+fut)  
-  
 
-  - **fomiki** _v._ (fomi+ki)  
-  
+- <a name="foltikiles">**foltikiles**</a> _n._ ([foltiki](#foltiki)+[les](#les))  
 
-  - **fomikiles** _n._ (fomiki+les)  
-  
 
-- **'fosfolus** _n._ (Lat. &langle;phosphorus&rangle; [fosfɔrus])  
+- <a name="foltikwap">**foltikwap**</a> _n._ ([folti](#folti)+[kwap](#kwap))  
 
 
-- **fotlu** _v._ (~~selti~~)  
+- <a name="fomi">**fomi**</a> _v._ (Eng. &langle;foamy&rangle; [ˈfoʊ̯mi])  
 
 
-  - **fotlulon** _n._ (fotlu+lon)  
-  
+- <a name="fomiicilon">**fomiicilon**</a> _n._ ([fomi](#fomi)+[icilon](#icilon))  
 
-  - **fotlulum** _n._ (fotlu+lum)  
-  
 
-  - **fotluki** _v._ (fotlu+ki)  
-  
+- <a name="fomilon">**fomilon**</a> _n._ ([fomi](#fomi)+[lon](#lon))  
 
-- **fotwe** _v._ (~~selyo~~)  
 
+- <a name="fomilono">**fomilono**</a> _v._ ([fomi](#fomi)+[lono](#lono))  
 
-  - **fotwelon** _n._ (fotwe+lon)  
-  
 
-  - **fotwelum** _n._ (fotwe+lum)  
-  
+- <a name="fomilonolon">**fomilonolon**</a> _n._ ([fomilono](#fomilono)+[lon](#lon))  
 
-  - **fotweki** _v._ (fotwe+ki)  
-  
 
-- **'fi** _n._ (Grc. &langle;φ&rangle; [pʰi])  
+- <a name="fomiciuh">**fomiciuh**</a> _n._ ([fomi](#fomi)+[ciuh](#ciuh))  
 
 
-- **fieli** _v._ (Epo. &langle;fieri&rangle; [fiˈeri])  
+- <a name="fomiseleal">**fomiseleal**</a> _n._ ([fomi](#fomi)+[seleal](#seleal))  
 
 
-  - **fielilon** _n._ (fieli+lon)  
-  
+- <a name="fomifut">**fomifut**</a> _n._ ([fomi](#fomi)+[fut](#fut))  
 
-  - **fielilum** _n._ (fieli+lum)  
-  
 
-  - **fieliki** _v._ (fieli+ki)  
-  
+- <a name="fomiki">**fomiki**</a> _v._ ([fomi](#fomi)+[ki](#ki))  
 
-- **'fiat** _n._ (Vie. &langle;Việt&rangle; [viə̯t˦˨])  
 
+- <a name="fomikiles">**fomikiles**</a> _n._ ([fomiki](#fomiki)+[les](#les))  
 
-  - **'fiatak** _n._ ('fiat+ak)  
-  
 
-  - **'fiattec** _n._ ('fiat+tec)  
-  
+- <a name="'fosfolus">**'fosfolus**</a> _n._ (Lat. &langle;phosphorus&rangle; [fosfɔrus])  
 
-  - **'fiattilip** _n._ ('fiat+tilip)  
-  
 
-- **'fiola** _n._ (Ita. &langle;viola&rangle; [viˈɔːla])  
+- <a name="fotlu">**fotlu**</a> _v._ ([~~selti~~](#selti))  
 
 
-- **'fiolino** _n._ (Ita. &langle;violino&rangle; [vioˈlino])  
+- <a name="fotlulon">**fotlulon**</a> _n._ ([fotlu](#fotlu)+[lon](#lon))  
 
 
-- **fila** _v._ (~~suta~~)  
+- <a name="fotlulum">**fotlulum**</a> _n._ ([fotlu](#fotlu)+[lum](#lum))  
 
 
-  - **fila'elyatec** _n._ (fila+'elyatec)  
-  
+- <a name="fotluki">**fotluki**</a> _v._ ([fotlu](#fotlu)+[ki](#ki))  
 
-  - **fila'elyatecak** _n._ (fila'elyatec+ak)  
-  
 
-  - **fila'elyatectec** _n._ (fila'elyatec+tec)  
-  
+- <a name="fotwe">**fotwe**</a> _v._ ([~~selyo~~](#selyo))  
 
-  - **fila'amelika** _n._ (fila+'amelika)  
-  
 
-  - **filalawt** _n._ (fila+lawt)  
-  
+- <a name="fotwelon">**fotwelon**</a> _n._ ([fotwe](#fotwe)+[lon](#lon))  
 
-  - **filalon** _n._ (fila+lon)  
-  
 
-  - **filalum** _n._ (fila+lum)  
-  
+- <a name="fotwelum">**fotwelum**</a> _n._ ([fotwe](#fotwe)+[lum](#lum))  
 
-  - **filalyan** _n._ (fila+lyan)  
-  
 
-  - **filalyanpucolon** _n._ (filalyan+pucolon)  
-  
+- <a name="fotweki">**fotweki**</a> _v._ ([fotwe](#fotwe)+[ki](#ki))  
 
-  - **fila'maketon** _n._ (fila+'maketon)  
-  
 
-  - **fila'maketonak** _n._ (fila'maketon+ak)  
-  
+- <a name="'fi">**'fi**</a> _n._ (Grc. &langle;φ&rangle; [pʰi])  
 
-  - **fila'cosawntilip** _n._ (fila+'cosawntilip)  
-  
 
-  - **fila'cosawntiliptec** _n._ (fila'cosawntilip+tec)  
-  
+- <a name="fieli">**fieli**</a> _v._ (Epo. &langle;fieri&rangle; [fiˈeri])  
 
-  - **fila'cosawntilipak** _n._ (fila'cosawntilip+ak)  
-  
 
-  - **fila'cuntilip** _n._ (fila+'cuntilip)  
-  
+- <a name="fielilon">**fielilon**</a> _n._ ([fieli](#fieli)+[lon](#lon))  
 
-- **'filastin** _n._ (Ara. &langle;فلسطين&rangle; [filastˁiːn])  
 
+- <a name="fielilum">**fielilum**</a> _n._ ([fieli](#fieli)+[lum](#lum))  
 
-  - **'filastinak** _n._ ('filastin+ak)  
-  
 
-  - **'filastinwon** _n._ ('filastin+won)  
-  
+- <a name="fieliki">**fieliki**</a> _v._ ([fieli](#fieli)+[ki](#ki))  
 
-  - **'filastinkwelyot** _n._ ('filastin+kwelyot)  
-  
 
-  - **filaki** _v._ (fila+ki)  
-  
+- <a name="'fiat">**'fiat**</a> _n._ (Vie. &langle;Việt&rangle; [viə̯t˦˨])  
 
-  - **fila'kiplostec** _n._ (fila+'kiplostec)  
-  
 
-  - **fila'kiplostecwon** _n._ (fila'kiplostec+won)  
-  
+- <a name="'fiatak">**'fiatak**</a> _n._ (['fiat](#'fiat)+[ak](#ak))  
 
-  - **fila'kiplostecak** _n._ (fila'kiplostec+ak)  
-  
 
-  - **filatyen** _num._ (fila+tyen)  
-  
+- <a name="'fiattec">**'fiattec**</a> _n._ (['fiat](#'fiat)+[tec](#tec))  
 
-- **fimel** _n._ (Eng. &langle;female&rangle; [ˈfiːmeɪ̯ɫ])  
 
+- <a name="'fiattilip">**'fiattilip**</a> _n._ (['fiat](#'fiat)+[tilip](#tilip))  
 
-  - **fimelak** _n._ (fimel+ak)  
-  
 
-  - **fimelaktua** _v._ (fimel+aktua)  
-  
+- <a name="'fiola">**'fiola**</a> _n._ (Ita. &langle;viola&rangle; [viˈɔːla])  
 
-  - **fimelaktualon** _n._ (fimelaktua+lon)  
-  
 
-- **'fici** _n._ (Fij. &langle;Viti&rangle; [ˈβit͡ʃi])  
+- <a name="'fiolino">**'fiolino**</a> _n._ (Ita. &langle;violino&rangle; [vioˈlino])  
 
 
-  - **'ficiak** _n._ ('fici+ak)  
-  
+- <a name="fila">**fila**</a> _v._ ([~~suta~~](#suta))  
 
-  - **'ficiwon** _n._ ('fici+won)  
-  
 
-  - **'ficitec** _n._ ('fici+tec)  
-  
+- <a name="fila'elyatec">**fila'elyatec**</a> _n._ ([fila](#fila)+['elyatec](#'elyatec))  
 
-  - **'ficitilip** _n._ ('fici+tilip)  
-  
 
-- **fik** _n._ (~~sun~~)  
+- <a name="fila'elyatecak">**fila'elyatecak**</a> _n._ ([fila'elyatec](#fila'elyatec)+[ak](#ak))  
 
 
-  - **fikak** _n._ (fik+ak)  
-  
+- <a name="fila'elyatectec">**fila'elyatectec**</a> _n._ ([fila'elyatec](#fila'elyatec)+[tec](#tec))  
 
-  - **fiknyama** _v._ (fik+nyama)  
-  
 
-  - **fiknyamales** _n._ (fiknyama+les)  
-  
+- <a name="fila'amelika">**fila'amelika**</a> _n._ ([fila](#fila)+['amelika](#'amelika))  
 
-  - **fiknyamalon** _n._ (fiknyama+lon)  
-  
 
-  - **fikfolmo** _v._ (fik+folmo)  
-  
+- <a name="filalawt">**filalawt**</a> _n._ ([fila](#fila)+[lawt](#lawt))  
 
-  - **fikfolmolon** _n._ (fikfolmo+lon)  
-  
 
-  - **fikkwelwel** _n._ (fik+kwelwel)  
-  
+- <a name="filalon">**filalon**</a> _n._ ([fila](#fila)+[lon](#lon))  
 
-- **fiti** _v._ (Epo. &langle;fidi&rangle; [ˈfidi])  
 
+- <a name="filalum">**filalum**</a> _n._ ([fila](#fila)+[lum](#lum))  
 
-  - **fitiici** _v._ (fiti+ici)  
-  
 
-  - **fitiicilon** _n._ (fitiici+lon)  
-  
+- <a name="filalyan">**filalyan**</a> _n._ ([fila](#fila)+[lyan](#lyan))  
 
-  - **fitiicilyot** _n._ (fitiici+lyot)  
-  
 
-  - **fitilon** _n._ (fiti+lon)  
-  
+- <a name="filalyanpucolon">**filalyanpucolon**</a> _n._ ([filalyan](#filalyan)+[pucolon](#pucolon))  
 
-  - **fitilip** _n._ (fiti+lip)  
-  
 
-  - **fitilippaltolon** _n._ (fitilip+paltolon)  
-  
+- <a name="fila'maketon">**fila'maketon**</a> _n._ ([fila](#fila)+['maketon](#'maketon))  
 
-  - **fitilippaltolum** _n._ (fitilip+paltolum)  
-  
 
-  - **fitilum** _n._ (fiti+lum)  
-  
+- <a name="fila'maketonak">**fila'maketonak**</a> _n._ ([fila'maketon](#fila'maketon)+[ak](#ak))  
 
-  - **fitilyan** _n._ (fiti+lyan)  
-  
 
-  - **fitinu** _v._ (fiti+nu)  
-  
+- <a name="fila'cosawntilip">**fila'cosawntilip**</a> _n._ ([fila](#fila)+['cosawntilip](#'cosawntilip))  
 
-  - **fiticai** _v._ (fiti+cai)  
-  
 
-  - **fiticailon** _n._ (fiticai+lon)  
-  
+- <a name="fila'cosawntiliptec">**fila'cosawntiliptec**</a> _n._ ([fila'cosawntilip](#fila'cosawntilip)+[tec](#tec))  
 
-  - **fiticapalum** _n._ (fiti+capalum)  
-  
 
-  - **fitiki** _v._ (fiti+ki)  
-  
+- <a name="fila'cosawntilipak">**fila'cosawntilipak**</a> _n._ ([fila'cosawntilip](#fila'cosawntilip)+[ak](#ak))  
 
-- **fulo** _v._ (~~site~~)  
 
+- <a name="fila'cuntilip">**fila'cuntilip**</a> _n._ ([fila](#fila)+['cuntilip](#'cuntilip))  
 
-  - **fulolon** _n._ (fulo+lon)  
-  
 
-  - **fuloki** _v._ (fulo+ki)  
-  
+- <a name="'filastin">**'filastin**</a> _n._ (Ara. &langle;فلسطين&rangle; [filastˁiːn])  
 
-  - **fulokiles** _n._ (fuloki+les)  
-  
 
-  - **fulokipowi** _v._ (fuloki+powi)  
-  
+- <a name="'filastinak">**'filastinak**</a> _n._ (['filastin](#'filastin)+[ak](#ak))  
 
-  - **fulokipowilon** _n._ (fulokipowi+lon)  
-  
 
-  - **fulokipowinu** _v._ (fulokipowi+nu)  
-  
+- <a name="'filastinwon">**'filastinwon**</a> _n._ (['filastin](#'filastin)+[won](#won))  
 
-  - **fulokipowinules** _n._ (fulokipowinu+les)  
-  
 
-  - **fulokipowinyo** _v._ (fulokipowi+nyo)  
-  
+- <a name="'filastinkwelyot">**'filastinkwelyot**</a> _n._ (['filastin](#'filastin)+[kwelyot](#kwelyot))  
 
-  - **fulokipowinyolon** _n._ (fulokipowinyo+lon)  
-  
 
-  - **fulokipowiki** _v._ (fulokipowi+ki)  
-  
+- <a name="filaki">**filaki**</a> _v._ ([fila](#fila)+[ki](#ki))  
 
-- **'fuluolum** _n._ (Lat. &langle;fluorum&rangle; [flʊorʊ̃])  
 
+- <a name="fila'kiplostec">**fila'kiplostec**</a> _n._ ([fila](#fila)+['kiplostec](#'kiplostec))  
 
-- **funta** _v._ (~~sikla~~)  
 
+- <a name="fila'kiplostecwon">**fila'kiplostecwon**</a> _n._ ([fila'kiplostec](#fila'kiplostec)+[won](#won))  
 
-  - **funtalet** _n._ (funta+let)  
-  
 
-  - **funtalon** _n._ (funta+lon)  
-  
+- <a name="fila'kiplostecak">**fila'kiplostecak**</a> _n._ ([fila'kiplostec](#fila'kiplostec)+[ak](#ak))  
 
-  - **funtanu** _v._ (funta+nu)  
-  
 
-  - **funtanyositelon** _n._ (funta+nyo+sitelon)  
-  
+- <a name="filatyen">**filatyen**</a> _num._ ([fila](#fila)+[tyen](#tyen))  
 
-  - **funtaki** _v._ (funta+ki)  
-  
 
-- **fuha** _v._ (~~sica~~)  
+- <a name="fimel">**fimel**</a> _n._ (Eng. &langle;female&rangle; [ˈfiːmeɪ̯ɫ])  
 
 
-  - **fuhalon** _n._ (fuha+lon)  
-  
+- <a name="fimelak">**fimelak**</a> _n._ ([fimel](#fimel)+[ak](#ak))  
 
-  - **fuhalyan** _n._ (fuha+lyan)  
-  
 
-  - **fuhalwel** _n._ (fuha+lwel)  
-  
+- <a name="fimelaktua">**fimelaktua**</a> _v._ ([fimel](#fimel)+[aktua](#aktua))  
 
-  - **fuhaki** _v._ (fuha+ki)  
-  
 
-  - **fuhakiles** _n._ (fuhaki+les)  
-  
+- <a name="fimelaktualon">**fimelaktualon**</a> _n._ ([fimelaktua](#fimelaktua)+[lon](#lon))  
 
-  - **fuhakilwel** _n._ (fuhaki+lwel)  
-  
 
-  - **fuhapola** _v._ (fuha+pola)  
-  
+- <a name="'fici">**'fici**</a> _n._ (Fij. &langle;Viti&rangle; [ˈβit͡ʃi])  
 
-  - **fuhapum** _n._ (fuha+pum)  
-  
 
-  - **fuhapumak** _n._ (fuhapum+ak)  
-  
+- <a name="'ficiak">**'ficiak**</a> _n._ (['fici](#'fici)+[ak](#ak))  
 
-- **fut** _n._ (Eng. &langle;fruit&rangle; [fɹʷuːt])  
 
+- <a name="'ficiwon">**'ficiwon**</a> _n._ (['fici](#'fici)+[won](#won))  
 
-  - **futak** _n._ (fut+ak)  
-  
 
-  - **futlep** _n._ (fut+lep)  
-  
+- <a name="'ficitec">**'ficitec**</a> _n._ (['fici](#'fici)+[tec](#tec))  
 
-- **'futpal** _n._ (Eng. &langle;football&rangle; [fʊtbɑl])  
 
+- <a name="'ficitilip">**'ficitilip**</a> _n._ (['fici](#'fici)+[tilip](#tilip))  
 
-- **'futpol** _n._ (Eng. &langle;football&rangle; [ˈfʊʔbɔːl])  
 
+- <a name="fik">**fik**</a> _n._ ([~~sun~~](#sun))  
 
-- **fyamo** _v._ (~~swape~~)  
 
+- <a name="fikak">**fikak**</a> _n._ ([fik](#fik)+[ak](#ak))  
 
-  - **fyamolon** _n._ (fyamo+lon)  
-  
 
-  - **fyamohwok** _n._ (fyamo+hwok)  
-  
+- <a name="fiknyama">**fiknyama**</a> _v._ ([fik](#fik)+[nyama](#nyama))  
 
-  - **fyamoki** _v._ (fyamo+ki)  
-  
 
-- **'fyoloncelo** _n._ (Ita. &langle;violoncello&rangle; [vjolonˈt͡ʃɛllo])  
+- <a name="fiknyamales">**fiknyamales**</a> _n._ ([fiknyama](#fiknyama)+[les](#les))  
 
 
-- **fwes** _n._ (Eng. &langle;phrase&rangle; [fɹʷeɪ̯z])  
+- <a name="fiknyamalon">**fiknyamalon**</a> _n._ ([fiknyama](#fiknyama)+[lon](#lon))  
 
 
-  - **fwesak** _n._ (fwes+ak)  
-  
+- <a name="fikfolmo">**fikfolmo**</a> _v._ ([fik](#fik)+[folmo](#folmo))  
 
-- **fwi** _v._ (ono. [fwiː])  
 
+- <a name="fikfolmolon">**fikfolmolon**</a> _n._ ([fikfolmo](#fikfolmo)+[lon](#lon))  
 
-  - **fwilon** _n._ (fwi+lon)  
-  
 
-## k
+- <a name="fikkwelwel">**fikkwelwel**</a> _n._ ([fik](#fik)+[kwelwel](#kwelwel))  
 
-- **ke** _ptcl._ (Spa. &langle;que&rangle; [ke])  
 
+- <a name="fiti">**fiti**</a> _v._ (Epo. &langle;fidi&rangle; [ˈfidi])  
 
-- **'keal** _n._ (Gla. &langle;Gàidheal&rangle; [ˈkɛːəɫ])  
 
+- <a name="fitiici">**fitiici**</a> _v._ ([fiti](#fiti)+[ici](#ici))  
 
-  - **'kealak** _n._ ('keal+ak)  
-  
 
-  - **'kealtilip** _n._ ('keal+tilip)  
-  
+- <a name="fitiicilon">**fitiicilon**</a> _n._ ([fitiici](#fitiici)+[lon](#lon))  
 
-- **kela** _v._ (~~nota~~)  
 
+- <a name="fitiicilyot">**fitiicilyot**</a> _n._ ([fitiici](#fitiici)+[lyot](#lyot))  
 
-  - **kelalon** _n._ (kela+lon)  
-  
 
-  - **kelalum** _n._ (kela+lum)  
-  
+- <a name="fitilon">**fitilon**</a> _n._ ([fiti](#fiti)+[lon](#lon))  
 
-  - **kelaki** _v._ (kela+ki)  
-  
 
-  - **kelakiles** _n._ (kelaki+les)  
-  
+- <a name="fitilip">**fitilip**</a> _n._ ([fiti](#fiti)+[lip](#lip))  
 
-- **'kenya** _n._ (Swa. &langle;Kenya&rangle; [kɛɲɑ])  
 
+- <a name="fitilippaltolon">**fitilippaltolon**</a> _n._ ([fitilip](#fitilip)+[paltolon](#paltolon))  
 
-  - **'kenyaak** _n._ ('kenya+ak)  
-  
 
-  - **'kenyawon** _n._ ('kenya+won)  
-  
+- <a name="fitilippaltolum">**fitilippaltolum**</a> _n._ ([fitilip](#fitilip)+[paltolum](#paltolum))  
 
-  - **'kenyatec** _n._ ('kenya+tec)  
-  
 
-- **'kento** _n._ (Jpn. &langle;剣道&rangle; [kɛndoː])  
+- <a name="fitilum">**fitilum**</a> _n._ ([fiti](#fiti)+[lum](#lum))  
 
 
-- **kehe** _v._ (ono. [kʰ])  
+- <a name="fitilyan">**fitilyan**</a> _n._ ([fiti](#fiti)+[lyan](#lyan))  
 
 
-  - **kehelon** _n._ (kehe+lon)  
-  
+- <a name="fitinu">**fitinu**</a> _v._ ([fiti](#fiti)+[nu](#nu))  
 
-  - **kehemais** _n._ (kehe+mais)  
-  
 
-- **kes** _n._ (Mar. &langle;केस&rangle; [kes])  
+- <a name="fiticai">**fiticai**</a> _v._ ([fiti](#fiti)+[cai](#cai))  
 
 
-  - **kesak** _n._ (kes+ak)  
-  
+- <a name="fiticailon">**fiticailon**</a> _n._ ([fiticai](#fiticai)+[lon](#lon))  
 
-  - **kesmyawf** _n._ (kes+myawf)  
-  
 
-  - **kescuc** _n._ (kes+cuc)  
-  
+- <a name="fiticapalum">**fiticapalum**</a> _n._ ([fiti](#fiti)+[capalum](#capalum))  
 
-  - **keskap** _n._ (kes+kap)  
-  
 
-  - **kespoltilum** _n._ (kes+poltilum)  
-  
+- <a name="fitiki">**fitiki**</a> _v._ ([fiti](#fiti)+[ki](#ki))  
 
-- **'ketal** _n._ (Ara. &langle;قطر‎&rangle; [ˈɡɪtˤɑr])  
 
+- <a name="fulo">**fulo**</a> _v._ ([~~site~~](#site))  
 
-  - **'ketalak** _n._ ('ketal+ak)  
-  
 
-  - **'ketalwon** _n._ ('ketal+won)  
-  
+- <a name="fulolon">**fulolon**</a> _n._ ([fulo](#fulo)+[lon](#lon))  
 
-- **kae** _v._ (Spa. &langle;cae&rangle; [ˈkae])  
 
+- <a name="fuloki">**fuloki**</a> _v._ ([fulo](#fulo)+[ki](#ki))  
 
-  - **kaelon** _n._ (kae+lon)  
-  
 
-  - **kaelial** _n._ (kae+lial)  
-  
+- <a name="fulokiles">**fulokiles**</a> _n._ ([fuloki](#fuloki)+[les](#les))  
 
-  - **kaenu** _v._ (kae+nu)  
-  
 
-  - **kaenules** _n._ (kaenu+les)  
-  
+- <a name="fulokipowi">**fulokipowi**</a> _v._ ([fuloki](#fuloki)+[powi](#powi))  
 
-  - **kaenulon** _n._ (kaenu+lon)  
-  
 
-  - **kaeki** _v._ (kae+ki)  
-  
+- <a name="fulokipowilon">**fulokipowilon**</a> _n._ ([fulokipowi](#fulokipowi)+[lon](#lon))  
 
-  - **kaekiles** _n._ (kaeki+les)  
-  
 
-  - **kaekilon** _n._ (kaeki+lon)  
-  
+- <a name="fulokipowinu">**fulokipowinu**</a> _v._ ([fulokipowi](#fulokipowi)+[nu](#nu))  
 
-  - **kaepowi** _v._ (kae+powi)  
-  
 
-  - **kaepowilon** _n._ (kaepowi+lon)  
-  
+- <a name="fulokipowinules">**fulokipowinules**</a> _n._ ([fulokipowinu](#fulokipowinu)+[les](#les))  
 
-- **'kao** _n._ (Cmn. &langle;刻&rangle; [kʰɤ˨˩])  
 
+- <a name="fulokipowinyo">**fulokipowinyo**</a> _v._ ([fulokipowi](#fulokipowi)+[nyo](#nyo))  
 
-- **'kayana** _n._ (Eng. &langle;Guyana&rangle; [ɡaɪ̯ˈɑːnə])  
 
+- <a name="fulokipowinyolon">**fulokipowinyolon**</a> _n._ ([fulokipowinyo](#fulokipowinyo)+[lon](#lon))  
 
-  - **'kayanaak** _n._ ('kayana+ak)  
-  
 
-  - **'kayanawon** _n._ ('kayana+won)  
-  
+- <a name="fulokipowiki">**fulokipowiki**</a> _v._ ([fulokipowi](#fulokipowi)+[ki](#ki))  
 
-- **'kalaci** _n._ (Urd. &langle;کراچی‎&rangle; [kəˈɾaːt͡ʃi])  
 
+- <a name="'fuluolum">**'fuluolum**</a> _n._ (Lat. &langle;fluorum&rangle; [flʊorʊ̃])  
 
-- **'kalaclit** _n._ (Kal. &langle;Kalaallit&rangle; [kalaːɬit])  
 
+- <a name="funta">**funta**</a> _v._ ([~~sikla~~](#sikla))  
 
-  - **'kalaclitak** _n._ ('kalaclit+ak)  
-  
 
-  - **'kalaclittec** _n._ ('kalaclit+tec)  
-  
+- <a name="funtalet">**funtalet**</a> _n._ ([funta](#funta)+[let](#let))  
 
-  - **'kalaclittilip** _n._ ('kalaclit+tilip)  
-  
 
-- **'kalasias** _n._ (Gre. &langle;γαλαξίας&rangle; [ɡalaksíaːs])  
+- <a name="funtalon">**funtalon**</a> _n._ ([funta](#funta)+[lon](#lon))  
 
 
-- **'kalate** _n._ (Jpn. &langle;空手&rangle; [kaɾate])  
+- <a name="funtanu">**funtanu**</a> _v._ ([funta](#funta)+[nu](#nu))  
 
 
-- **'kalium** _n._ (Lat. &langle;gallium&rangle; [ɡallɪʊ̃])  
+- <a name="funtanyositelon">**funtanyositelon**</a> _n._ ([funta](#funta)+[nyo](#nyo)+[sitelon](#sitelon))  
 
 
-- **'kalinako** _n._ (Crb. &langle;Kalinago&rangle; [kalinaɡo])  
+- <a name="funtaki">**funtaki**</a> _v._ ([funta](#funta)+[ki](#ki))  
 
 
-  - **'kalinakoak** _n._ ('kalinako+ak)  
-  
+- <a name="fuha">**fuha**</a> _v._ ([~~sica~~](#sica))  
 
-  - **'kalinakolawt** _n._ ('kalinako+lawt)  
-  
 
-  - **'kalinakotilip** _n._ ('kalinako+tilip)  
-  
+- <a name="fuhalon">**fuhalon**</a> _n._ ([fuha](#fuha)+[lon](#lon))  
 
-- **kalita** _v._ (~~natula~~)  
 
+- <a name="fuhalyan">**fuhalyan**</a> _n._ ([fuha](#fuha)+[lyan](#lyan))  
 
-  - **kalitalon** _n._ (kalita+lon)  
-  
 
-  - **kalitaki** _v._ (kalita+ki)  
-  
+- <a name="fuhalwel">**fuhalwel**</a> _n._ ([fuha](#fuha)+[lwel](#lwel))  
 
-- **'kalcium** _n._ (Lat. &langle;calcium&rangle; [kalt͡ʃɪʊ̃])  
 
+- <a name="fuhaki">**fuhaki**</a> _v._ ([fuha](#fuha)+[ki](#ki))  
 
-- **'kalsone** _n._ (Ita. &langle;calzone&rangle; [kalˈt͡soːne])  
 
+- <a name="fuhakiles">**fuhakiles**</a> _n._ ([fuhaki](#fuhaki)+[les](#les))  
 
-- **'kaltwel** _n._ (Kat. &langle;ქართველ-&rangle; [kʰɑrtʰvɛl])  
 
+- <a name="fuhakilwel">**fuhakilwel**</a> _n._ ([fuhaki](#fuhaki)+[lwel](#lwel))  
 
-  - **'kaltwelak** _n._ ('kaltwel+ak)  
-  
 
-  - **'kaltwelkwelyot** _n._ ('kaltwel+kwelyot)  
-  
+- <a name="fuhapola">**fuhapola**</a> _v._ ([fuha](#fuha)+[pola](#pola))  
 
-  - **'kaltweltec** _n._ ('kaltwel+tec)  
-  
 
-  - **'kaltweltilip** _n._ ('kaltwel+tilip)  
-  
+- <a name="fuhapum">**fuhapum**</a> _n._ ([fuha](#fuha)+[pum](#pum))  
 
-- **'kawai** _n._ (Jpn. &langle;かわいい&rangle; [kaɰaiː])  
 
+- <a name="fuhapumak">**fuhapumak**</a> _n._ ([fuhapum](#fuhapum)+[ak](#ak))  
 
-  - **'kawtay** _n._ (Vie. &langle;Cao Đài>)  
-  
 
-  - **'kawtayfitilip** _n._ ('kawtay+fitilip)  
-  
+- <a name="fut">**fut**</a> _n._ (Eng. &langle;fruit&rangle; [fɹʷuːt])  
 
-  - **'kawtayfitilipwon** _n._ ('kawtayfitilip+won)  
-  
 
-  - **'kawtayfitilipak** _n._ ('kawtayfitilip+ak)  
+- <a name="futak">**futak**</a> _n._ ([fut](#fut)+[ak](#ak))  
+
+
+- <a name="futlep">**futlep**</a> _n._ ([fut](#fut)+[lep](#lep))  
+
+
+- <a name="'futpal">**'futpal**</a> _n._ (Eng. &langle;football&rangle; [fʊtbɑl])  
+
+
+- <a name="'futpol">**'futpol**</a> _n._ (Eng. &langle;football&rangle; [ˈfʊʔbɔːl])  
+
+
+- <a name="fyamo">**fyamo**</a> _v._ ([~~swape~~](#swape))  
+
+
+- <a name="fyamolon">**fyamolon**</a> _n._ ([fyamo](#fyamo)+[lon](#lon))  
+
+
+- <a name="fyamohwok">**fyamohwok**</a> _n._ ([fyamo](#fyamo)+[hwok](#hwok))  
+
+
+- <a name="fyamoki">**fyamoki**</a> _v._ ([fyamo](#fyamo)+[ki](#ki))  
+
+
+- <a name="'fyoloncelo">**'fyoloncelo**</a> _n._ (Ita. &langle;violoncello&rangle; [vjolonˈt͡ʃɛllo])  
+
+
+- <a name="fwes">**fwes**</a> _n._ (Eng. &langle;phrase&rangle; [fɹʷeɪ̯z])  
+
+
+- <a name="fwesak">**fwesak**</a> _n._ ([fwes](#fwes)+[ak](#ak))  
+
+
+- <a name="fwi">**fwi**</a> _v._ (ono. [fwiː])  
+
+
+- <a name="fwilon">**fwilon**</a> _n._ ([fwi](#fwi)+[lon](#lon))  
+
+
+### k
+
+- <a name="ke">**ke**</a> _ptcl._ (Spa. &langle;que&rangle; [ke])  
+
+
+- <a name="'keal">**'keal**</a> _n._ (Gla. &langle;Gàidheal&rangle; [ˈkɛːəɫ])  
+
+
+- <a name="'kealak">**'kealak**</a> _n._ (['keal](#'keal)+[ak](#ak))  
+
+
+- <a name="'kealtilip">**'kealtilip**</a> _n._ (['keal](#'keal)+[tilip](#tilip))  
+
+
+- <a name="kela">**kela**</a> _v._ ([~~nota~~](#nota))  
+
+
+- <a name="kelalon">**kelalon**</a> _n._ ([kela](#kela)+[lon](#lon))  
+
+
+- <a name="kelalum">**kelalum**</a> _n._ ([kela](#kela)+[lum](#lum))  
+
+
+- <a name="kelaki">**kelaki**</a> _v._ ([kela](#kela)+[ki](#ki))  
+
+
+- <a name="kelakiles">**kelakiles**</a> _n._ ([kelaki](#kelaki)+[les](#les))  
+
+
+- <a name="'kenya">**'kenya**</a> _n._ (Swa. &langle;Kenya&rangle; [kɛɲɑ])  
+
+
+- <a name="'kenyaak">**'kenyaak**</a> _n._ (['kenya](#'kenya)+[ak](#ak))  
+
+
+- <a name="'kenyawon">**'kenyawon**</a> _n._ (['kenya](#'kenya)+[won](#won))  
+
+
+- <a name="'kenyatec">**'kenyatec**</a> _n._ (['kenya](#'kenya)+[tec](#tec))  
+
+
+- <a name="'kento">**'kento**</a> _n._ (Jpn. &langle;剣道&rangle; [kɛndoː])  
+
+
+- <a name="kehe">**kehe**</a> _v._ (ono. [kʰ])  
+
+
+- <a name="kehelon">**kehelon**</a> _n._ ([kehe](#kehe)+[lon](#lon))  
+
+
+- <a name="kehemais">**kehemais**</a> _n._ ([kehe](#kehe)+[mais](#mais))  
+
+
+- <a name="kes">**kes**</a> _n._ (Mar. &langle;केस&rangle; [kes])  
+
+
+- <a name="kesak">**kesak**</a> _n._ ([kes](#kes)+[ak](#ak))  
+
+
+- <a name="kesmyawf">**kesmyawf**</a> _n._ ([kes](#kes)+[myawf](#myawf))  
+
+
+- <a name="kescuc">**kescuc**</a> _n._ ([kes](#kes)+[cuc](#cuc))  
+
+
+- <a name="keskap">**keskap**</a> _n._ ([kes](#kes)+[kap](#kap))  
+
+
+- <a name="kespoltilum">**kespoltilum**</a> _n._ ([kes](#kes)+[poltilum](#poltilum))  
+
+
+- <a name="'ketal">**'ketal**</a> _n._ (Ara. &langle;قطر‎&rangle; [ˈɡɪtˤɑr])  
+
+
+- <a name="'ketalak">**'ketalak**</a> _n._ (['ketal](#'ketal)+[ak](#ak))  
+
+
+- <a name="'ketalwon">**'ketalwon**</a> _n._ (['ketal](#'ketal)+[won](#won))  
+
+
+- <a name="kae">**kae**</a> _v._ (Spa. &langle;cae&rangle; [ˈkae])  
+
+
+- <a name="kaelon">**kaelon**</a> _n._ ([kae](#kae)+[lon](#lon))  
+
+
+- <a name="kaelial">**kaelial**</a> _n._ ([kae](#kae)+[lial](#lial))  
+
+
+- <a name="kaenu">**kaenu**</a> _v._ ([kae](#kae)+[nu](#nu))  
+
+
+- <a name="kaenules">**kaenules**</a> _n._ ([kaenu](#kaenu)+[les](#les))  
+
+
+- <a name="kaenulon">**kaenulon**</a> _n._ ([kaenu](#kaenu)+[lon](#lon))  
+
+
+- <a name="kaeki">**kaeki**</a> _v._ ([kae](#kae)+[ki](#ki))  
+
+
+- <a name="kaekiles">**kaekiles**</a> _n._ ([kaeki](#kaeki)+[les](#les))  
+
+
+- <a name="kaekilon">**kaekilon**</a> _n._ ([kaeki](#kaeki)+[lon](#lon))  
+
+
+- <a name="kaepowi">**kaepowi**</a> _v._ ([kae](#kae)+[powi](#powi))  
+
+
+- <a name="kaepowilon">**kaepowilon**</a> _n._ ([kaepowi](#kaepowi)+[lon](#lon))  
+
+
+- <a name="'kao">**'kao**</a> _n._ (Cmn. &langle;刻&rangle; [kʰɤ˨˩])  
+
+
+- <a name="'kayana">**'kayana**</a> _n._ (Eng. &langle;Guyana&rangle; [ɡaɪ̯ˈɑːnə])  
+
+
+- <a name="'kayanaak">**'kayanaak**</a> _n._ (['kayana](#'kayana)+[ak](#ak))  
+
+
+- <a name="'kayanawon">**'kayanawon**</a> _n._ (['kayana](#'kayana)+[won](#won))  
+
+
+- <a name="'kalaci">**'kalaci**</a> _n._ (Urd. &langle;کراچی‎&rangle; [kəˈɾaːt͡ʃi])  
+
+
+- <a name="'kalaclit">**'kalaclit**</a> _n._ (Kal. &langle;Kalaallit&rangle; [kalaːɬit])  
+
+
+- <a name="'kalaclitak">**'kalaclitak**</a> _n._ (['kalaclit](#'kalaclit)+[ak](#ak))  
+
+
+- <a name="'kalaclittec">**'kalaclittec**</a> _n._ (['kalaclit](#'kalaclit)+[tec](#tec))  
+
+
+- <a name="'kalaclittilip">**'kalaclittilip**</a> _n._ (['kalaclit](#'kalaclit)+[tilip](#tilip))  
+
+
+- <a name="'kalasias">**'kalasias**</a> _n._ (Gre. &langle;γαλαξίας&rangle; [ɡalaksíaːs])  
+
+
+- <a name="'kalate">**'kalate**</a> _n._ (Jpn. &langle;空手&rangle; [kaɾate])  
+
+
+- <a name="'kalium">**'kalium**</a> _n._ (Lat. &langle;gallium&rangle; [ɡallɪʊ̃])  
+
+
+- <a name="'kalinako">**'kalinako**</a> _n._ (Crb. &langle;Kalinago&rangle; [kalinaɡo])  
+
+
+- <a name="'kalinakoak">**'kalinakoak**</a> _n._ (['kalinako](#'kalinako)+[ak](#ak))  
+
+
+- <a name="'kalinakolawt">**'kalinakolawt**</a> _n._ (['kalinako](#'kalinako)+[lawt](#lawt))  
+
+
+- <a name="'kalinakotilip">**'kalinakotilip**</a> _n._ (['kalinako](#'kalinako)+[tilip](#tilip))  
+
+
+- <a name="kalita">**kalita**</a> _v._ ([~~natula~~](#natula))  
+
+
+- <a name="kalitalon">**kalitalon**</a> _n._ ([kalita](#kalita)+[lon](#lon))  
+
+
+- <a name="kalitaki">**kalitaki**</a> _v._ ([kalita](#kalita)+[ki](#ki))  
+
+
+- <a name="'kalcium">**'kalcium**</a> _n._ (Lat. &langle;calcium&rangle; [kalt͡ʃɪʊ̃])  
+
+
+- <a name="'kalsone">**'kalsone**</a> _n._ (Ita. &langle;calzone&rangle; [kalˈt͡soːne])  
+
+
+- <a name="'kaltwel">**'kaltwel**</a> _n._ (Kat. &langle;ქართველ-&rangle; [kʰɑrtʰvɛl])  
+
+
+- <a name="'kaltwelak">**'kaltwelak**</a> _n._ (['kaltwel](#'kaltwel)+[ak](#ak))  
+
+
+- <a name="'kaltwelkwelyot">**'kaltwelkwelyot**</a> _n._ (['kaltwel](#'kaltwel)+[kwelyot](#kwelyot))  
+
+
+- <a name="'kaltweltec">**'kaltweltec**</a> _n._ (['kaltwel](#'kaltwel)+[tec](#tec))  
+
+
+- <a name="'kaltweltilip">**'kaltweltilip**</a> _n._ (['kaltwel](#'kaltwel)+[tilip](#tilip))  
+
+
+- <a name="'kawai">**'kawai**</a> _n._ (Jpn. &langle;かわいい&rangle; [kaɰaiː])  
+
+
+  - <a name="'kawtay">**'kawtay**</a> _n._ (Vie. &langle;Cao Đài>)  
   
+
+- <a name="'kawtayfitilip">**'kawtayfitilip**</a> _n._ (['kawtay](#'kawtay)+[fitilip](#fitilip))  
+
+
+- <a name="'kawtayfitilipwon">**'kawtayfitilipwon**</a> _n._ (['kawtayfitilip](#'kawtayfitilip)+[won](#won))  
+
+
+- <a name="'kawtayfitilipak">**'kawtayfitilipak**</a> _n._ (['kawtayfitilip](#'kawtayfitilip)+[ak](#ak))  
+
 
-- **kan** _num._ (Yor. &langle;okan&rangle; [okan])  
+- <a name="kan">**kan**</a> _num._ (Yor. &langle;okan&rangle; [okan])  
 1; uno; solo
 
-- **kana** _v._ (Spa. &langle;gana&rangle; [ˈɡana])  
+- <a name="kana">**kana**</a> _v._ (Spa. &langle;gana&rangle; [ˈɡana])  
 
 
-- **'kana** _n._ (Eng. &langle;Ghana&rangle; [ˈɡɑːnə])  
+- <a name="'kana">**'kana**</a> _n._ (Eng. &langle;Ghana&rangle; [ˈɡɑːnə])  
 
 
-  - **'kanaak** _n._ ('kana+ak)  
-  
+- <a name="'kanaak">**'kanaak**</a> _n._ (['kana](#'kana)+[ak](#ak))  
 
-  - **kanales** _n._ (kana+les)  
-  
 
-  - **kanalon** _n._ (kana+lon)  
-  
+- <a name="kanales">**kanales**</a> _n._ ([kana](#kana)+[les](#les))  
 
-  - **kanalum** _n._ (kana+lum)  
-  
 
-  - **'kanawon** _n._ ('kana+won)  
-  
+- <a name="kanalon">**kanalon**</a> _n._ ([kana](#kana)+[lon](#lon))  
 
-  - **kanak** _n._ (kan+ak)  
-  primero
 
-- **'kanata** _n._ (Eng. &langle;Canada&rangle; [ˈkænədə])  
+- <a name="kanalum">**kanalum**</a> _n._ ([kana](#kana)+[lum](#lum))  
 
 
-  - **'kanataak** _n._ ('kanata+ak)  
-  
+- <a name="'kanawon">**'kanawon**</a> _n._ (['kana](#'kana)+[won](#won))  
 
-  - **'kanatawon** _n._ ('kanata+won)  
-  
 
-- **kanol** _n._ (Hin. &langle;कैनोला&rangle; [kæːnolaː])  
+- <a name="kanak">**kanak**</a> _n._ ([kan](#kan)+[ak](#ak))  
+primero
 
+- <a name="'kanata">**'kanata**</a> _n._ (Eng. &langle;Canada&rangle; [ˈkænədə])  
 
-  - **kanosolon** _n._ (kan+osolon)  
-  
 
-  - **kanlimnokipumkwelwel** _n._ (kan+lim+noki+pumkwelwel)  
-  
+- <a name="'kanataak">**'kanataak**</a> _n._ (['kanata](#'kanata)+[ak](#ak))  
 
-  - **kanwale** _v._ (kan+wale)  
-  
 
-  - **kanwalelon** _n._ (kanwale+lon)  
-  
+- <a name="'kanatawon">**'kanatawon**</a> _n._ (['kanata](#'kanata)+[won](#won))  
 
-  - **kannokipumkwelwel** _n._ (kan+noki+pumkwelwel)  
-  
 
-  - **kannu** _num._ (kan+nu)  
-  separar; divisir; ʟєꜱ separa ʟᴏᴧ a muchas partes
+- <a name="kanol">**kanol**</a> _n._ (Hin. &langle;कैनोला&rangle; [kæːnolaː])  
 
-  - **kannulnokipumkwelwel** _n._ (kan+nul+noki+pumkwelwel)  
-  
 
-  - **kannulcyenlektun** _n._ (kan+nul+cyenlektun)  
-  
+- <a name="kanosolon">**kanosolon**</a> _n._ ([kan](#kan)+[osolon](#osolon))  
 
-  - **kancahnokipumkwelwel** _n._ (kan+cah+noki+pumkwelwel)  
-  
 
-- **kanci** _v._ (Cmn. &langle;感激&rangle; [kan˧˩˧t͡ɕi˥])  
+- <a name="kanlimnokipumkwelwel">**kanlimnokipumkwelwel**</a> _n._ ([kan](#kan)+[lim](#lim)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
-  - **kancilon** _n._ (kanci+lon)  
-  
+- <a name="kanwale">**kanwale**</a> _v._ ([kan](#kan)+[wale](#wale))  
 
-  - **kansannokipumkwelwel** _n._ (kan+san+noki+pumkwelwel)  
-  
 
-  - **kansunkwelwel** _n._ (kan+sunkwelwel)  
-  
+- <a name="kanwalelon">**kanwalelon**</a> _n._ ([kanwale](#kanwale)+[lon](#lon))  
 
-  - **kanswa** _v._ (kan+swa)  
-  
 
-  - **kanfolnokipumkwelwel** _n._ (kan+fol+noki+pumkwelwel)  
-  
+- <a name="kannokipumkwelwel">**kannokipumkwelwel**</a> _n._ ([kan](#kan)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
-  - **kankannokipumkwelwel** _n._ (kan+kan+noki+pumkwelwel)  
-  
 
-  - **kankatalum** _n._ (kan+katalum)  
-  
+- <a name="kannu">**kannu**</a> _num._ ([kan](#kan)+[nu](#nu))  
+separar; divisir; ʟєꜱ separa ʟᴏᴧ a muchas partes
 
-  - **kankot** _n._ (kan+kot)  
-  
+- <a name="kannulnokipumkwelwel">**kannulnokipumkwelwel**</a> _n._ ([kan](#kan)+[nul](#nul)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
-  - **kanki** _num._ (kan+ki)  
-  unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 
-  - **kankwelwel** _n._ (kan+kwelwel)  
-  
+- <a name="kannulcyenlektun">**kannulcyenlektun**</a> _n._ ([kan](#kan)+[nul](#nul)+[cyenlektun](#cyenlektun))  
 
-- **'kankwes** _n._ (Eng. &langle;congress&rangle; [ˈkʰɑŋɡɹʷɨs])  
 
+- <a name="kancahnokipumkwelwel">**kancahnokipumkwelwel**</a> _n._ ([kan](#kan)+[cah](#cah)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
-- **'kanta** _n._ (Lug. &langle;-ganda&rangle; [ɡâːndá])  
 
+- <a name="kanci">**kanci**</a> _v._ (Cmn. &langle;感激&rangle; [kan˧˩˧t͡ɕi˥])  
 
-  - **'kantaak** _n._ ('kanta+ak)  
-  
 
-  - **'kantatec** _n._ ('kanta+tec)  
-  
+- <a name="kancilon">**kancilon**</a> _n._ ([kanci](#kanci)+[lon](#lon))  
 
-  - **'kantatilip** _n._ ('kanta+tilip)  
-  
 
-  - **kantosnokipumkwelwel** _n._ (kan+tos+noki+pumkwelwel)  
-  
+- <a name="kansannokipumkwelwel">**kansannokipumkwelwel**</a> _n._ ([kan](#kan)+[san](#san)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
-  - **kantunci** _v._ (kan+tunci)  
-  
 
-  - **kantuncilon** _n._ (kantunci+lon)  
-  
+- <a name="kansunkwelwel">**kansunkwelwel**</a> _n._ ([kan](#kan)+[sunkwelwel](#sunkwelwel))  
 
-  - **kantuncilum** _n._ (kantunci+lum)  
-  
 
-  - **kantuncilyot** _n._ (kantunci+lyot)  
-  
+- <a name="kanswa">**kanswa**</a> _v._ ([kan](#kan)+[swa](#swa))  
 
-  - **kanpoltilum** _n._ (kan+poltilum)  
-  
 
-- **'kamae** _n._ (Khm. &langle;ខ្មែរ&rangle; [kʰmae])  
+- <a name="kanfolnokipumkwelwel">**kanfolnokipumkwelwel**</a> _n._ ([kan](#kan)+[fol](#fol)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
-  - **'kamaeak** _n._ ('kamae+ak)  
-  
+- <a name="kankannokipumkwelwel">**kankannokipumkwelwel**</a> _n._ ([kan](#kan)+[kan](#kan)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
-  - **'kamaetec** _n._ ('kamae+tec)  
-  
 
-  - **'kamaetilip** _n._ ('kamae+tilip)  
-  
+- <a name="kankatalum">**kankatalum**</a> _n._ ([kan](#kan)+[katalum](#katalum))  
 
-- **'kamli** _n._ (Cym. &langle;Cymry&rangle; [ˈkəmrɨ])  
 
+- <a name="kankot">**kankot**</a> _n._ ([kan](#kan)+[kot](#kot))  
 
-  - **'kamliak** _n._ ('kamli+ak)  
-  
 
-  - **'kamlitec** _n._ ('kamli+tec)  
-  
+- <a name="kanki">**kanki**</a> _num._ ([kan](#kan)+[ki](#ki))  
+unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 
-  - **'kamlitilip** _n._ ('kamli+tilip)  
-  
+- <a name="kankwelwel">**kankwelwel**</a> _n._ ([kan](#kan)+[kwelwel](#kwelwel))  
 
-- **'kamhun** _n._ (Fra. &langle;Cameroun&rangle; [kamʁun])  
 
+- <a name="'kankwes">**'kankwes**</a> _n._ (Eng. &langle;congress&rangle; [ˈkʰɑŋɡɹʷɨs])  
 
-  - **'kamhunak** _n._ ('kamhun+ak)  
-  
 
-  - **'kamhunwon** _n._ ('kamhun+won)  
-  
+- <a name="'kanta">**'kanta**</a> _n._ (Lug. &langle;-ganda&rangle; [ɡâːndá])  
 
-- **'kampia** _n._ (Eng. &langle;Gambia&rangle; [ˈɡæmbiə])  
 
+- <a name="'kantaak">**'kantaak**</a> _n._ (['kanta](#'kanta)+[ak](#ak))  
 
-  - **'kampiaak** _n._ ('kampia+ak)  
-  
 
-  - **'kampiawon** _n._ ('kampia+won)  
-  
+- <a name="'kantatec">**'kantatec**</a> _n._ (['kanta](#'kanta)+[tec](#tec))  
 
-  - **'kampiatec** _n._ ('kampia+tec)  
-  
 
-- **kaha** _v._ (ono. [ʡah])  
+- <a name="'kantatilip">**'kantatilip**</a> _n._ (['kanta](#'kanta)+[tilip](#tilip))  
 
 
-  - **kahales** _n._ (kaha+les)  
-  
+- <a name="kantosnokipumkwelwel">**kantosnokipumkwelwel**</a> _n._ ([kan](#kan)+[tos](#tos)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
-  - **kahalon** _n._ (kaha+lon)  
-  
 
-- **'kahilah** _n._ (Ara. &langle;قاهرة&rangle; [ˈqaːhiɾah])  
+- <a name="kantunci">**kantunci**</a> _v._ ([kan](#kan)+[tunci](#tunci))  
 
 
-- **kac** _n._ (Ben. &langle;গাছ&rangle; [ɡat͡ɕʰ])  
+- <a name="kantuncilon">**kantuncilon**</a> _n._ ([kantunci](#kantunci)+[lon](#lon))  
 
 
-  - **kacyeh** _n._ (kac+yeh)  
-  
+- <a name="kantuncilum">**kantuncilum**</a> _n._ ([kantunci](#kantunci)+[lum](#lum))  
 
-  - **kaccaka** _v._ (kac+caka)  
-  
 
-  - **kaccakalon** _n._ (kaccaka+lon)  
-  
+- <a name="kantuncilyot">**kantuncilyot**</a> _n._ ([kantunci](#kantunci)+[lyot](#lyot))  
 
-  - **kaccakalonipis** _n._ (kaccakalon+ipis)  
-  
 
-  - **kackas** _n._ (kac+kas)  
-  
+- <a name="kanpoltilum">**kanpoltilum**</a> _n._ ([kan](#kan)+[poltilum](#poltilum))  
 
-  - **kackol** _n._ (kac+kol)  
-  
 
-- **kas** _n._ (Hin. &langle;घास&rangle; [ɡ̤aːs])  
+- <a name="'kamae">**'kamae**</a> _n._ (Khm. &langle;ខ្មែរ&rangle; [kʰmae])  
 
 
-- **'kasak** _n._ (Kaz. &langle;Kazak&rangle; [qɑzɑq])  
+- <a name="'kamaeak">**'kamaeak**</a> _n._ (['kamae](#'kamae)+[ak](#ak))  
 
 
-  - **'kasakak** _n._ ('kasak+ak)  
-  
+- <a name="'kamaetec">**'kamaetec**</a> _n._ (['kamae](#'kamae)+[tec](#tec))  
 
-  - **'kasaktec** _n._ ('kasak+tec)  
-  
 
-  - **'kasaktilip** _n._ ('kasak+tilip)  
-  
+- <a name="'kamaetilip">**'kamaetilip**</a> _n._ (['kamae](#'kamae)+[tilip](#tilip))  
 
-  - **kascihwicon** _n._ (kas+cihwicon)  
-  
 
-- **'kastilya** _n._ (Spa. &langle;Castellano&rangle; [kasˈtiʎa])  
+- <a name="'kamli">**'kamli**</a> _n._ (Cym. &langle;Cymry&rangle; [ˈkəmrɨ])  
 
 
-  - **'kastilyaak** _n._ ('kastilya+ak)  
-  
+- <a name="'kamliak">**'kamliak**</a> _n._ (['kamli](#'kamli)+[ak](#ak))  
 
-  - **'kastilyawon** _n._ ('kastilya+won)  
-  
 
-  - **'kastilyatec** _n._ ('kastilya+tec)  
-  
+- <a name="'kamlitec">**'kamlitec**</a> _n._ (['kamli](#'kamli)+[tec](#tec))  
 
-  - **'kastilyatilip** _n._ ('kastilya+tilip)  
-  
 
-- **'kaka** _n._ (Non. &langle;kaka&rangle; [kaka])  
+- <a name="'kamlitilip">**'kamlitilip**</a> _n._ (['kamli](#'kamli)+[tilip](#tilip))  
 
 
-- **'kaki** _n._ (Jap. &langle;柿&rangle; [kakʲi])  
+- <a name="'kamhun">**'kamhun**</a> _n._ (Fra. &langle;Cameroun&rangle; [kamʁun])  
 
 
-- **kaktus** _n._ (Spa. &langle;cactus&rangle; [ˈkaktus])  
+- <a name="'kamhunak">**'kamhunak**</a> _n._ (['kamhun](#'kamhun)+[ak](#ak))  
 
 
-- **kata** _v._ (Mar. &langle;कथा&rangle; [kətʰaː])  
+- <a name="'kamhunwon">**'kamhunwon**</a> _n._ (['kamhun](#'kamhun)+[won](#won))  
 
 
-  - **katales** _n._ (kata+les)  
-  
+- <a name="'kampia">**'kampia**</a> _n._ (Eng. &langle;Gambia&rangle; [ˈɡæmbiə])  
 
-  - **katalum** _n._ (kata+lum)  
-  
 
-- **'katolicismo** _n._ (Lat. &langle;Catholicismo&rangle; [kaˈtɔlɪt͡ʃismɔ])  
+- <a name="'kampiaak">**'kampiaak**</a> _n._ (['kampia](#'kampia)+[ak](#ak))  
 
 
-  - **'katolicismoak** _n._ ('katolicismo+ak)  
-  
+- <a name="'kampiawon">**'kampiawon**</a> _n._ (['kampia](#'kampia)+[won](#won))  
 
-  - **'katolicismowon** _n._ ('katolicismo+won)  
-  
 
-- **kati** _v._ (Swa. &langle;kati&rangle; [kati])  
+- <a name="'kampiatec">**'kampiatec**</a> _n._ (['kampia](#'kampia)+[tec](#tec))  
 
 
-  - **katilon** _n._ (kati+lon)  
-  
+- <a name="kaha">**kaha**</a> _v._ (ono. [ʡah])  
 
-  - **katilum** _n._ (kati+lum)  
-  
 
-  - **katinu** _v._ (kati+nu)  
-  
+- <a name="kahales">**kahales**</a> _n._ ([kaha](#kaha)+[les](#les))  
 
-  - **katiki** _v._ (kati+ki)  
-  
 
-- **kape** _v._ (Jav. &langle;gapé&rangle; [kɑ̤pe])  
+- <a name="kahalon">**kahalon**</a> _n._ ([kaha](#kaha)+[lon](#lon))  
 
 
-- **kap** _n._ (Eng. &langle;carp&rangle; [kʰɑɹp])  
+- <a name="'kahilah">**'kahilah**</a> _n._ (Ara. &langle;قاهرة&rangle; [ˈqaːhiɾah])  
 
 
-  - **kapelum** _n._ (kape+lum)  
-  
+- <a name="kac">**kac**</a> _n._ (Ben. &langle;গাছ&rangle; [ɡat͡ɕʰ])  
 
-  - **kapelyan** _n._ (kape+lyan)  
-  
 
-  - **kapeki** _v._ (kape+ki)  
-  
+- <a name="kacyeh">**kacyeh**</a> _n._ ([kac](#kac)+[yeh](#yeh))  
 
-- **'kapon** _n._ (Fra. &langle;Gabon&rangle; [ɡabɔ̃])  
 
+- <a name="kaccaka">**kaccaka**</a> _v._ ([kac](#kac)+[caka](#caka))  
 
-  - **'kaponak** _n._ ('kapon+ak)  
-  
 
-  - **'kaponwon** _n._ ('kapon+won)  
-  
+- <a name="kaccakalon">**kaccakalon**</a> _n._ ([kaccaka](#kaccaka)+[lon](#lon))  
 
-  - **'kapufelti** _n._ (Por. &langle;Cabo Verde>)  
-  
 
-  - **'kapufeltiak** _n._ ('kapufelti+ak)  
-  
+- <a name="kaccakalonipis">**kaccakalonipis**</a> _n._ ([kaccakalon](#kaccakalon)+[ipis](#ipis))  
 
-  - **'kapufeltiwon** _n._ ('kapufelti+won)  
-  
 
-  - **'kapufeltitec** _n._ ('kapufelti+tec)  
-  
+- <a name="kackas">**kackas**</a> _n._ ([kac](#kac)+[kas](#kas))  
 
-  - **'kapufeltitilip** _n._ ('kapufelti+tilip)  
-  
 
-- **ko** _v._ (~~ne~~)  
+- <a name="kackol">**kackol**</a> _n._ ([kac](#kac)+[kol](#kol))  
 
 
-- **'ko** _n._ (ono. [k])  
+- <a name="kas">**kas**</a> _n._ (Hin. &langle;घास&rangle; [ɡ̤aːs])  
 
 
-  - **koec** _n._ (ko+ec)  
-  
+- <a name="'kasak">**'kasak**</a> _n._ (Kaz. &langle;Kazak&rangle; [qɑzɑq])  
 
-- **koal** _n._ (Epo. &langle;koalo&rangle; [koˈalo])  
 
+- <a name="'kasakak">**'kasakak**</a> _n._ (['kasak](#'kasak)+[ak](#ak))  
 
-- **kol** _n._ (Spa. &langle;col&rangle; [kol])  
 
+- <a name="'kasaktec">**'kasaktec**</a> _n._ (['kasak](#'kasak)+[tec](#tec))  
 
-- **kola** _v._ (~~neta~~)  
 
+- <a name="'kasaktilip">**'kasaktilip**</a> _n._ (['kasak](#'kasak)+[tilip](#tilip))  
 
-  - **kolalon** _n._ (kola+lon)  
-  
 
-  - **kolalyan** _n._ (kola+lyan)  
-  
+- <a name="kascihwicon">**kascihwicon**</a> _n._ ([kas](#kas)+[cihwicon](#cihwicon))  
 
-  - **kolaki** _v._ (kola+ki)  
-  
 
-  - **kolakiles** _n._ (kolaki+les)  
-  
+- <a name="'kastilya">**'kastilya**</a> _n._ (Spa. &langle;Castellano&rangle; [kasˈtiʎa])  
 
-- **'kololium** _n._ (Lat. &langle;chlorium&rangle; [klorɪʊ̃])  
 
+- <a name="'kastilyaak">**'kastilyaak**</a> _n._ (['kastilya](#'kastilya)+[ak](#ak))  
 
-  - **kolon** _n._ (ko+lon)  
-  
 
-- **'kolona** _n._ (Nor. &langle;krone&rangle; [ˈkruːnə])  
+- <a name="'kastilyawon">**'kastilyawon**</a> _n._ (['kastilya](#'kastilya)+[won](#won))  
 
 
-- **'kolomium** _n._ (Lat. &langle;chromium&rangle; [kromɪʊ̃])  
+- <a name="'kastilyatec">**'kastilyatec**</a> _n._ (['kastilya](#'kastilya)+[tec](#tec))  
 
 
-- **'kolompya** _n._ (Spa. &langle;Colombia&rangle; [koˈlombja])  
+- <a name="'kastilyatilip">**'kastilyatilip**</a> _n._ (['kastilya](#'kastilya)+[tilip](#tilip))  
 
 
-  - **'kolompyaak** _n._ ('kolompya+ak)  
-  
+- <a name="'kaka">**'kaka**</a> _n._ (Non. &langle;kaka&rangle; [kaka])  
 
-  - **'kolompyawon** _n._ ('kolompya+won)  
-  
 
-- **kolopo** _v._ (ono. [korop])  
+- <a name="'kaki">**'kaki**</a> _n._ (Jap. &langle;柿&rangle; [kakʲi])  
 
 
-  - **kolopoles** _n._ (kolopo+les)  
-  
+- <a name="kaktus">**kaktus**</a> _n._ (Spa. &langle;cactus&rangle; [ˈkaktus])  
 
-  - **kolopolon** _n._ (kolopo+lon)  
-  
 
-- **kolwa** _v._ (Zul. &langle;kholwa&rangle; [ˈkʰɔːlwa])  
+- <a name="kata">**kata**</a> _v._ (Mar. &langle;कथा&rangle; [kətʰaː])  
 
 
-  - **kolwalon** _n._ (kolwa+lon)  
-  
+- <a name="katales">**katales**</a> _n._ ([kata](#kata)+[les](#les))  
 
-  - **kolwalum** _n._ (kolwa+lum)  
-  
 
-  - **kolwaki** _v._ (kolwa+ki)  
-  
+- <a name="katalum">**katalum**</a> _n._ ([kata](#kata)+[lum](#lum))  
 
-- **kon** _pn._ (Pan. &langle;ਕੌਣ&rangle; [kɔːɳə])  
 
+- <a name="'katolicismo">**'katolicismo**</a> _n._ (Lat. &langle;Catholicismo&rangle; [kaˈtɔlɪt͡ʃismɔ])  
 
-  - **kon ayf** _n._ (kon +ayf)  
-  
 
-  - **kon ak** _n._ (kon +ak)  
-  
+- <a name="'katolicismoak">**'katolicismoak**</a> _n._ (['katolicismo](#'katolicismo)+[ak](#ak))  
 
-- **'konakhi** _n._ (Fra. &langle;Conakry&rangle; [konakʁi])  
 
+- <a name="'katolicismowon">**'katolicismowon**</a> _n._ (['katolicismo](#'katolicismo)+[won](#won))  
 
-  - **'konakhi'kine** _n._ ('konakhi+'kine)  
-  
 
-  - **'konakhi'kinewon** _n._ ('konakhi'kine+won)  
-  
+- <a name="kati">**kati**</a> _v._ (Swa. &langle;kati&rangle; [kati])  
 
-- **'kono** _n._ (Kon. &langle;Kongo&rangle; [koŋo])  
 
+- <a name="katilon">**katilon**</a> _n._ ([kati](#kati)+[lon](#lon))  
 
-  - **'konoak** _n._ ('kono+ak)  
-  
 
-  - **'konotec** _n._ ('kono+tec)  
-  
+- <a name="katilum">**katilum**</a> _n._ ([kati](#kati)+[lum](#lum))  
 
-  - **'konotilip** _n._ ('kono+tilip)  
-  
 
-  - **kon ial** _n._ (kon +ial)  
-  
+- <a name="katinu">**katinu**</a> _v._ ([kati](#kati)+[nu](#nu))  
 
-  - **konitatun** _n._ (ko+nita+tun)  
-  
 
-  - **konitatunak** _n._ (konitatun+ak)  
-  
+- <a name="katiki">**katiki**</a> _v._ ([kati](#kati)+[ki](#ki))  
 
-  - **kon ip** _n._ (kon +ip)  
-  
 
-  - **kon uat** _n._ (kon +uat)  
-  
+- <a name="kape">**kape**</a> _v._ (Jav. &langle;gapé&rangle; [kɑ̤pe])  
 
-  - **kon yan** _n._ (kon +yan)  
-  
 
-  - **kon yot** _n._ (kon +yot)  
-  
+- <a name="kap">**kap**</a> _n._ (Eng. &langle;carp&rangle; [kʰɑɹp])  
 
-  - **kon wel** _n._ (kon +wel)  
-  
 
-- **kontal** _n._ (Ben. &langle;গণ্ডার&rangle; [ɡɔndar])  
+- <a name="kapelum">**kapelum**</a> _n._ ([kape](#kape)+[lum](#lum))  
 
 
-- **'kontapaso** _n._ (Ita. &langle;contrabbasso&rangle; [kontrabˈbasso])  
+- <a name="kapelyan">**kapelyan**</a> _n._ ([kape](#kape)+[lyan](#lyan))  
 
 
-- **'komoli** _n._ (Zdj. &langle;Komori&rangle; [komori])  
+- <a name="kapeki">**kapeki**</a> _v._ ([kape](#kape)+[ki](#ki))  
 
 
-  - **'komoliak** _n._ ('komoli+ak)  
-  
+- <a name="'kapon">**'kapon**</a> _n._ (Fra. &langle;Gabon&rangle; [ɡabɔ̃])  
 
-  - **'komoliwon** _n._ ('komoli+won)  
-  
 
-  - **'komolitec** _n._ ('komoli+tec)  
-  
+- <a name="'kaponak">**'kaponak**</a> _n._ (['kapon](#'kapon)+[ak](#ak))  
 
-  - **'komolitilip** _n._ ('komoli+tilip)  
-  
 
-- **komput** _n._ (Xho. &langle;khomputha&rangle; [kʰɔmputʰa])  
+- <a name="'kaponwon">**'kaponwon**</a> _n._ (['kapon](#'kapon)+[won](#won))  
 
 
-  - **komputak** _n._ (komput+ak)  
+  - <a name="'kapufelti">**'kapufelti**</a> _n._ (Por. &langle;Cabo Verde>)  
   
 
-  - **komputnati** _v._ (komput+nati)  
-  
+- <a name="'kapufeltiak">**'kapufeltiak**</a> _n._ (['kapufelti](#'kapufelti)+[ak](#ak))  
 
-  - **komputnatiles** _n._ (komputnati+les)  
-  
 
-  - **komputnatilum** _n._ (komputnati+lum)  
-  
+- <a name="'kapufeltiwon">**'kapufeltiwon**</a> _n._ (['kapufelti](#'kapufelti)+[won](#won))  
 
-  - **komputsoma** _v._ (komput+soma)  
-  
 
-  - **komputsomales** _n._ (komputsoma+les)  
-  
+- <a name="'kapufeltitec">**'kapufeltitec**</a> _n._ (['kapufelti](#'kapufelti)+[tec](#tec))  
 
-  - **komputsomalon** _n._ (komputsoma+lon)  
-  
 
-  - **komputti** _v._ (komput+ti)  
-  
+- <a name="'kapufeltitilip">**'kapufeltitilip**</a> _n._ (['kapufelti](#'kapufelti)+[tilip](#tilip))  
 
-  - **komputtiles** _n._ (komputti+les)  
-  
 
-  - **komputtilon** _n._ (komputti+lon)  
-  
+- <a name="ko">**ko**</a> _v._ ([~~ne~~](#ne))  
 
-  - **komputtilip** _n._ (komputti+lip)  
-  
 
-  - **komputtiluat** _n._ (komputti+luat)  
-  
+- <a name="'ko">**'ko**</a> _n._ (ono. [k])  
 
-  - **komputtilum** _n._ (komputti+lum)  
-  
 
-  - **kohu** _v._ (ko+hu)  
-  
+- <a name="koec">**koec**</a> _n._ ([ko](#ko)+[ec](#ec))  
 
-  - **kohulon** _n._ (kohu+lon)  
-  
 
-- **'kosa** _n._ (Xho. &langle;Xhosa&rangle; [kǁʰɔ́ːsa])  
+- <a name="koal">**koal**</a> _n._ (Epo. &langle;koalo&rangle; [koˈalo])  
 
 
-  - **'kosaak** _n._ ('kosa+ak)  
-  
+- <a name="kol">**kol**</a> _n._ (Spa. &langle;col&rangle; [kol])  
 
-  - **'kosatilip** _n._ ('kosa+tilip)  
-  
 
-- **'kosowa** _n._ (Sqi. &langle;Kosovë&rangle; [kɔˈsɔvə])  
+- <a name="kola">**kola**</a> _v._ ([~~neta~~](#neta))  
 
 
-  - **'kosowaak** _n._ ('kosowa+ak)  
-  
+- <a name="kolalon">**kolalon**</a> _n._ ([kola](#kola)+[lon](#lon))  
 
-  - **'kosowawon** _n._ ('kosowa+won)  
-  
 
-  - **'kostalika** _n._ (Spa. &langle;Costa Rica>)  
-  
+- <a name="kolalyan">**kolalyan**</a> _n._ ([kola](#kola)+[lyan](#lyan))  
 
-  - **'kostalikaak** _n._ ('kostalika+ak)  
-  
 
-  - **'kostalikawon** _n._ ('kostalika+won)  
-  
+- <a name="kolaki">**kolaki**</a> _v._ ([kola](#kola)+[ki](#ki))  
 
-- **kosti** _v._ (Epo. &langle;kosti&rangle; [ˈkosti])  
 
+- <a name="kolakiles">**kolakiles**</a> _n._ ([kolaki](#kolaki)+[les](#les))  
 
-  - **kostilon** _n._ (kosti+lon)  
-  
 
-  - **kostilyan** _n._ (kosti+lyan)  
-  
+- <a name="'kololium">**'kololium**</a> _n._ (Lat. &langle;chlorium&rangle; [klorɪʊ̃])  
 
-  - **kostiki** _v._ (kosti+ki)  
-  
 
-- **'kof** _n._ (Eng. &langle;golf&rangle; [ɡɒf])  
+- <a name="kolon">**kolon**</a> _n._ ([ko](#ko)+[lon](#lon))  
 
 
-  - **koki** _v._ (ko+ki)  
-  
+- <a name="'kolona">**'kolona**</a> _n._ (Nor. &langle;krone&rangle; [ˈkruːnə])  
 
-  - **kokilyot** _n._ (koki+lyot)  
-  
 
-- **kot** _n._ (Eng. &langle;god&rangle; [ɡɒd])  
+- <a name="'kolomium">**'kolomium**</a> _n._ (Lat. &langle;chromium&rangle; [kromɪʊ̃])  
 
 
-  - **kotak** _n._ (kot+ak)  
-  
+- <a name="'kolompya">**'kolompya**</a> _n._ (Spa. &langle;Colombia&rangle; [koˈlombja])  
 
-  - **kotokanu** _v._ (ko+tokanu)  
-  
 
-  - **koti** _v._ (ko+ti)  
-  
+- <a name="'kolompyaak">**'kolompyaak**</a> _n._ (['kolompya](#'kolompya)+[ak](#ak))  
 
-  - **kotiles** _n._ (koti+les)  
-  
 
-  - **kotilon** _n._ (koti+lon)  
-  
+- <a name="'kolompyawon">**'kolompyawon**</a> _n._ (['kolompya](#'kolompya)+[won](#won))  
 
-  - **'kotifwah** _n._ (Fra. &langle;Côte d'Ivoire>)  
-  
 
-  - **'kotifwahak** _n._ ('kotifwah+ak)  
-  
+- <a name="kolopo">**kolopo**</a> _v._ (ono. [korop])  
 
-  - **'kotifwahwon** _n._ ('kotifwah+won)  
-  
 
-  - **kotsoma** _v._ (kot+soma)  
-  
+- <a name="kolopoles">**kolopoles**</a> _n._ ([kolopo](#kolopo)+[les](#les))  
 
-  - **kotsomales** _n._ (kotsoma+les)  
-  
 
-  - **kotsomalon** _n._ (kotsoma+lon)  
-  
+- <a name="kolopolon">**kolopolon**</a> _n._ ([kolopo](#kolopo)+[lon](#lon))  
 
-  - **kotkwelip** _n._ (kot+kwelip)  
-  
 
-  - **kopic** _n._ (ko+pic)  
-  
+- <a name="kolwa">**kolwa**</a> _v._ (Zul. &langle;kholwa&rangle; [ˈkʰɔːlwa])  
 
-  - **kopuci** _v._ (ko+puci)  
-  
 
-- **ki** _v._ (Cmn. &langle;开始&rangle; [kʰaɪ̯˥ʂɨ˧˩˧])  
+- <a name="kolwalon">**kolwalon**</a> _n._ ([kolwa](#kolwa)+[lon](#lon))  
 
 
-- **kiah** _n._ (ono. [kijɑː])  
+- <a name="kolwalum">**kolwalum**</a> _n._ ([kolwa](#kolwa)+[lum](#lum))  
 
 
-- **kio** _v._ (Swa. &langle;kioo&rangle; [kioo])  
+- <a name="kolwaki">**kolwaki**</a> _v._ ([kolwa](#kolwa)+[ki](#ki))  
 
 
-  - **kiolon** _n._ (kio+lon)  
-  
+- <a name="kon">**kon**</a> _pn._ (Pan. &langle;ਕੌਣ&rangle; [kɔːɳə])  
 
-  - **kioki** _v._ (kio+ki)  
-  
 
-- **kil** _n._ (Hin. &langle;कीड़ा&rangle; [kiːɽaː])  
+- <a name="kon ayf">**kon ayf**</a> _n._ ([kon ](#kon )+[ayf](ayf))  
 
 
-  - **kiles** _n._ (ki+les)  
-  
+- <a name="kon ak">**kon ak**</a> _n._ ([kon ](#kon )+[ak](ak))  
 
-  - **kilon** _n._ (ki+lon)  
-  
 
-- **'kilokham** _n._ (Fra. &langle;kilogramme&rangle; [ˈkilɔɡʁam])  
+- <a name="'konakhi">**'konakhi**</a> _n._ (Fra. &langle;Conakry&rangle; [konakʁi])  
 
 
-- **'kilistos** _n._ (Grc. &langle;Χριστός&rangle; [kʰriːstós])  
+- <a name="'konakhi'kine">**'konakhi'kine**</a> _n._ (['konakhi](#'konakhi)+['kine](#'kine))  
 
 
-  - **'kilistosfitilip** _n._ ('kilistos+fitilip)  
-  
+- <a name="'konakhi'kinewon">**'konakhi'kinewon**</a> _n._ (['konakhi'kine](#'konakhi'kine)+[won](#won))  
 
-  - **'kilistosfitilipwon** _n._ ('kilistosfitilip+won)  
-  
 
-  - **'kilistosfitilipak** _n._ ('kilistosfitilip+ak)  
-  
+- <a name="'kono">**'kono**</a> _n._ (Kon. &langle;Kongo&rangle; [koŋo])  
 
-- **'kilipas** _n._ (Gil. &langle;Kiribati&rangle; [kiɾipas])  
 
+- <a name="'konoak">**'konoak**</a> _n._ (['kono](#'kono)+[ak](#ak))  
 
-  - **'kilipasak** _n._ ('kilipas+ak)  
-  
 
-  - **'kilipaswon** _n._ ('kilipas+won)  
-  
+- <a name="'konotec">**'konotec**</a> _n._ (['kono](#'kono)+[tec](#tec))  
 
-  - **'kilipastec** _n._ ('kilipas+tec)  
-  
 
-  - **'kilipastilip** _n._ ('kilipas+tilip)  
-  
+- <a name="'konotilip">**'konotilip**</a> _n._ (['kono](#'kono)+[tilip](#tilip))  
 
-- **'kilipton** _n._ (Lat. &langle;krypton&rangle; [kriptɔn])  
 
+- <a name="kon ial">**kon ial**</a> _n._ ([kon ](#kon )+[ial](ial))  
 
-  - **kilyot** _n._ (ki+lyot)  
-  
 
-  - **kilwel** _n._ (ki+lwel)  
-  
+- <a name="konitatun">**konitatun**</a> _n._ ([ko](#ko)+[nita](#nita)+[tun](#tun))  
 
-- **'kine** _n._ (Por. &langle;Guiné&rangle; [ɡiˈne])  
 
+- <a name="konitatunak">**konitatunak**</a> _n._ ([konitatun](#konitatun)+[ak](#ak))  
 
-- **'kincasa** _n._ (Fra. &langle;Kinshasa&rangle; [kinʃasa])  
 
+- <a name="kon ip">**kon ip**</a> _n._ ([kon ](#kon )+[ip](ip))  
 
-  - **'kincasa'konotec** _n._ ('kincasa+'konotec)  
-  
 
-  - **'kincasa'konotecwon** _n._ ('kincasa'konotec+won)  
-  
+- <a name="kon uat">**kon uat**</a> _n._ ([kon ](#kon )+[uat](uat))  
 
-  - **'kincasa'konotecak** _n._ ('kincasa'konotec+ak)  
-  
 
-- **'kimono** _n._ (Jpn. &langle;着物&rangle; [kʲimono])  
+- <a name="kon yan">**kon yan**</a> _n._ ([kon ](#kon )+[yan](yan))  
 
 
-  - **kicolon** _n._ (ki+colon)  
-  
+- <a name="kon yot">**kon yot**</a> _n._ ([kon ](#kon )+[yot](yot))  
 
-  - **kisison** _n._ (ki+sison)  
-  
 
-- **'kiskeya** _n._ (Spa. &langle;Quisqueya&rangle; [kisˈkeʝa])  
+- <a name="kon wel">**kon wel**</a> _n._ ([kon ](#kon )+[wel](wel))  
 
 
-  - **'kiskeyaak** _n._ ('kiskeya+ak)  
+- <a name="kontal">**kontal**</a> _n._ (Ben. &langle;গণ্ডার&rangle; [ɡɔndar])  
+
+
+- <a name="'kontapaso">**'kontapaso**</a> _n._ (Ita. &langle;contrabbasso&rangle; [kontrabˈbasso])  
+
+
+- <a name="'komoli">**'komoli**</a> _n._ (Zdj. &langle;Komori&rangle; [komori])  
+
+
+- <a name="'komoliak">**'komoliak**</a> _n._ (['komoli](#'komoli)+[ak](#ak))  
+
+
+- <a name="'komoliwon">**'komoliwon**</a> _n._ (['komoli](#'komoli)+[won](#won))  
+
+
+- <a name="'komolitec">**'komolitec**</a> _n._ (['komoli](#'komoli)+[tec](#tec))  
+
+
+- <a name="'komolitilip">**'komolitilip**</a> _n._ (['komoli](#'komoli)+[tilip](#tilip))  
+
+
+- <a name="komput">**komput**</a> _n._ (Xho. &langle;khomputha&rangle; [kʰɔmputʰa])  
+
+
+- <a name="komputak">**komputak**</a> _n._ ([komput](#komput)+[ak](#ak))  
+
+
+- <a name="komputnati">**komputnati**</a> _v._ ([komput](#komput)+[nati](#nati))  
+
+
+- <a name="komputnatiles">**komputnatiles**</a> _n._ ([komputnati](#komputnati)+[les](#les))  
+
+
+- <a name="komputnatilum">**komputnatilum**</a> _n._ ([komputnati](#komputnati)+[lum](#lum))  
+
+
+- <a name="komputsoma">**komputsoma**</a> _v._ ([komput](#komput)+[soma](#soma))  
+
+
+- <a name="komputsomales">**komputsomales**</a> _n._ ([komputsoma](#komputsoma)+[les](#les))  
+
+
+- <a name="komputsomalon">**komputsomalon**</a> _n._ ([komputsoma](#komputsoma)+[lon](#lon))  
+
+
+- <a name="komputti">**komputti**</a> _v._ ([komput](#komput)+[ti](#ti))  
+
+
+- <a name="komputtiles">**komputtiles**</a> _n._ ([komputti](#komputti)+[les](#les))  
+
+
+- <a name="komputtilon">**komputtilon**</a> _n._ ([komputti](#komputti)+[lon](#lon))  
+
+
+- <a name="komputtilip">**komputtilip**</a> _n._ ([komputti](#komputti)+[lip](#lip))  
+
+
+- <a name="komputtiluat">**komputtiluat**</a> _n._ ([komputti](#komputti)+[luat](#luat))  
+
+
+- <a name="komputtilum">**komputtilum**</a> _n._ ([komputti](#komputti)+[lum](#lum))  
+
+
+- <a name="kohu">**kohu**</a> _v._ ([ko](#ko)+[hu](#hu))  
+
+
+- <a name="kohulon">**kohulon**</a> _n._ ([kohu](#kohu)+[lon](#lon))  
+
+
+- <a name="'kosa">**'kosa**</a> _n._ (Xho. &langle;Xhosa&rangle; [kǁʰɔ́ːsa])  
+
+
+- <a name="'kosaak">**'kosaak**</a> _n._ (['kosa](#'kosa)+[ak](#ak))  
+
+
+- <a name="'kosatilip">**'kosatilip**</a> _n._ (['kosa](#'kosa)+[tilip](#tilip))  
+
+
+- <a name="'kosowa">**'kosowa**</a> _n._ (Sqi. &langle;Kosovë&rangle; [kɔˈsɔvə])  
+
+
+- <a name="'kosowaak">**'kosowaak**</a> _n._ (['kosowa](#'kosowa)+[ak](#ak))  
+
+
+- <a name="'kosowawon">**'kosowawon**</a> _n._ (['kosowa](#'kosowa)+[won](#won))  
+
+
+  - <a name="'kostalika">**'kostalika**</a> _n._ (Spa. &langle;Costa Rica>)  
   
+
+- <a name="'kostalikaak">**'kostalikaak**</a> _n._ (['kostalika](#'kostalika)+[ak](#ak))  
+
+
+- <a name="'kostalikawon">**'kostalikawon**</a> _n._ (['kostalika](#'kostalika)+[won](#won))  
+
+
+- <a name="kosti">**kosti**</a> _v._ (Epo. &langle;kosti&rangle; [ˈkosti])  
+
+
+- <a name="kostilon">**kostilon**</a> _n._ ([kosti](#kosti)+[lon](#lon))  
+
+
+- <a name="kostilyan">**kostilyan**</a> _n._ ([kosti](#kosti)+[lyan](#lyan))  
+
+
+- <a name="kostiki">**kostiki**</a> _v._ ([kosti](#kosti)+[ki](#ki))  
+
+
+- <a name="'kof">**'kof**</a> _n._ (Eng. &langle;golf&rangle; [ɡɒf])  
+
+
+- <a name="koki">**koki**</a> _v._ ([ko](#ko)+[ki](#ki))  
+
+
+- <a name="kokilyot">**kokilyot**</a> _n._ ([koki](#koki)+[lyot](#lyot))  
+
+
+- <a name="kot">**kot**</a> _n._ (Eng. &langle;god&rangle; [ɡɒd])  
+
+
+- <a name="kotak">**kotak**</a> _n._ ([kot](#kot)+[ak](#ak))  
+
+
+- <a name="kotokanu">**kotokanu**</a> _v._ ([ko](#ko)+[tokanu](#tokanu))  
+
+
+- <a name="koti">**koti**</a> _v._ ([ko](#ko)+[ti](#ti))  
+
 
-  - **'kiskeyawon** _n._ ('kiskeya+won)  
+- <a name="kotiles">**kotiles**</a> _n._ ([koti](#koti)+[les](#les))  
+
+
+- <a name="kotilon">**kotilon**</a> _n._ ([koti](#koti)+[lon](#lon))  
+
+
+  - <a name="'kotifwah">**'kotifwah**</a> _n._ (Fra. &langle;Côte d'Ivoire>)  
   
+
+- <a name="'kotifwahak">**'kotifwahak**</a> _n._ (['kotifwah](#'kotifwah)+[ak](#ak))  
+
+
+- <a name="'kotifwahwon">**'kotifwahwon**</a> _n._ (['kotifwah](#'kotifwah)+[won](#won))  
+
+
+- <a name="kotsoma">**kotsoma**</a> _v._ ([kot](#kot)+[soma](#soma))  
+
+
+- <a name="kotsomales">**kotsomales**</a> _n._ ([kotsoma](#kotsoma)+[les](#les))  
+
+
+- <a name="kotsomalon">**kotsomalon**</a> _n._ ([kotsoma](#kotsoma)+[lon](#lon))  
+
+
+- <a name="kotkwelip">**kotkwelip**</a> _n._ ([kot](#kot)+[kwelip](#kwelip))  
+
+
+- <a name="kopic">**kopic**</a> _n._ ([ko](#ko)+[pic](#pic))  
+
+
+- <a name="kopuci">**kopuci**</a> _v._ ([ko](#ko)+[puci](#puci))  
+
+
+- <a name="ki">**ki**</a> _v._ (Cmn. &langle;开始&rangle; [kʰaɪ̯˥ʂɨ˧˩˧])  
+
+
+- <a name="kiah">**kiah**</a> _n._ (ono. [kijɑː])  
+
+
+- <a name="kio">**kio**</a> _v._ (Swa. &langle;kioo&rangle; [kioo])  
+
+
+- <a name="kiolon">**kiolon**</a> _n._ ([kio](#kio)+[lon](#lon))  
+
+
+- <a name="kioki">**kioki**</a> _v._ ([kio](#kio)+[ki](#ki))  
+
+
+- <a name="kil">**kil**</a> _n._ (Hin. &langle;कीड़ा&rangle; [kiːɽaː])  
+
+
+- <a name="kiles">**kiles**</a> _n._ ([ki](#ki)+[les](#les))  
+
+
+- <a name="kilon">**kilon**</a> _n._ ([ki](#ki)+[lon](#lon))  
+
+
+- <a name="'kilokham">**'kilokham**</a> _n._ (Fra. &langle;kilogramme&rangle; [ˈkilɔɡʁam])  
+
+
+- <a name="'kilistos">**'kilistos**</a> _n._ (Grc. &langle;Χριστός&rangle; [kʰriːstós])  
+
+
+- <a name="'kilistosfitilip">**'kilistosfitilip**</a> _n._ (['kilistos](#'kilistos)+[fitilip](#fitilip))  
+
+
+- <a name="'kilistosfitilipwon">**'kilistosfitilipwon**</a> _n._ (['kilistosfitilip](#'kilistosfitilip)+[won](#won))  
+
+
+- <a name="'kilistosfitilipak">**'kilistosfitilipak**</a> _n._ (['kilistosfitilip](#'kilistosfitilip)+[ak](#ak))  
+
+
+- <a name="'kilipas">**'kilipas**</a> _n._ (Gil. &langle;Kiribati&rangle; [kiɾipas])  
+
+
+- <a name="'kilipasak">**'kilipasak**</a> _n._ (['kilipas](#'kilipas)+[ak](#ak))  
+
+
+- <a name="'kilipaswon">**'kilipaswon**</a> _n._ (['kilipas](#'kilipas)+[won](#won))  
+
+
+- <a name="'kilipastec">**'kilipastec**</a> _n._ (['kilipas](#'kilipas)+[tec](#tec))  
+
+
+- <a name="'kilipastilip">**'kilipastilip**</a> _n._ (['kilipas](#'kilipas)+[tilip](#tilip))  
+
+
+- <a name="'kilipton">**'kilipton**</a> _n._ (Lat. &langle;krypton&rangle; [kriptɔn])  
+
+
+- <a name="kilyot">**kilyot**</a> _n._ ([ki](#ki)+[lyot](#lyot))  
+
+
+- <a name="kilwel">**kilwel**</a> _n._ ([ki](#ki)+[lwel](#lwel))  
+
+
+- <a name="'kine">**'kine**</a> _n._ (Por. &langle;Guiné&rangle; [ɡiˈne])  
+
+
+- <a name="'kincasa">**'kincasa**</a> _n._ (Fra. &langle;Kinshasa&rangle; [kinʃasa])  
+
+
+- <a name="'kincasa'konotec">**'kincasa'konotec**</a> _n._ (['kincasa](#'kincasa)+['konotec](#'konotec))  
+
+
+- <a name="'kincasa'konotecwon">**'kincasa'konotecwon**</a> _n._ (['kincasa'konotec](#'kincasa'konotec)+[won](#won))  
+
+
+- <a name="'kincasa'konotecak">**'kincasa'konotecak**</a> _n._ (['kincasa'konotec](#'kincasa'konotec)+[ak](#ak))  
+
+
+- <a name="'kimono">**'kimono**</a> _n._ (Jpn. &langle;着物&rangle; [kʲimono])  
+
+
+- <a name="kicolon">**kicolon**</a> _n._ ([ki](#ki)+[colon](#colon))  
+
+
+- <a name="kisison">**kisison**</a> _n._ ([ki](#ki)+[sison](#sison))  
+
+
+- <a name="'kiskeya">**'kiskeya**</a> _n._ (Spa. &langle;Quisqueya&rangle; [kisˈkeʝa])  
+
+
+- <a name="'kiskeyaak">**'kiskeyaak**</a> _n._ (['kiskeya](#'kiskeya)+[ak](#ak))  
+
+
+- <a name="'kiskeyawon">**'kiskeyawon**</a> _n._ (['kiskeya](#'kiskeya)+[won](#won))  
+
 
-- **kit** _num._ (~~nul~~)  
+- <a name="kit">**kit**</a> _num._ ([~~nul~~](#nul))  
 todo; todos; absoluto; máximo
 
-  - **kitak** _n._ (kit+ak)  
-  
+- <a name="kitak">**kitak**</a> _n._ ([kit](#kit)+[ak](#ak))  
 
-  - **kitakeki** _v._ (kit+akeki)  
-  
 
-  - **kitakekilon** _n._ (kitakeki+lon)  
-  
+- <a name="kitakeki">**kitakeki**</a> _v._ ([kit](#kit)+[akeki](#akeki))  
 
-  - **kitakekilum** _n._ (kitakeki+lum)  
-  
 
-  - **kititi** _v._ (kit+iti)  
-  
+- <a name="kitakekilon">**kitakekilon**</a> _n._ ([kitakeki](#kitakeki)+[lon](#lon))  
 
-  - **kititiles** _n._ (kititi+les)  
-  
 
-  - **kititilon** _n._ (kititi+lon)  
-  
+- <a name="kitakekilum">**kitakekilum**</a> _n._ ([kitakeki](#kitakeki)+[lum](#lum))  
 
-  - **kititilum** _n._ (kititi+lum)  
-  
 
-  - **kititilyan** _n._ (kititi+lyan)  
-  
+- <a name="kititi">**kititi**</a> _v._ ([kit](#kit)+[iti](#iti))  
 
-  - **kititilyot** _n._ (kititi+lyot)  
-  
 
-  - **kitwale** _v._ (kit+wale)  
-  
+- <a name="kititiles">**kititiles**</a> _n._ ([kititi](#kititi)+[les](#les))  
 
-  - **kitwalelon** _n._ (kitwale+lon)  
-  
 
-  - **kitcitu** _v._ (kit+citu)  
-  
+- <a name="kititilon">**kititilon**</a> _n._ ([kititi](#kititi)+[lon](#lon))  
 
-  - **kitcitulon** _n._ (kitcitu+lon)  
-  
 
-  - **kitcitulum** _n._ (kitcitu+lum)  
-  
+- <a name="kititilum">**kititilum**</a> _n._ ([kititi](#kititi)+[lum](#lum))  
 
-  - **kitcitulwel** _n._ (kitcitu+lwel)  
-  
 
-- **kitki** _num._ (∅)  
+- <a name="kititilyan">**kititilyan**</a> _n._ ([kititi](#kititi)+[lyan](#lyan))  
+
+
+- <a name="kititilyot">**kititilyot**</a> _n._ ([kititi](#kititi)+[lyot](#lyot))  
+
+
+- <a name="kitwale">**kitwale**</a> _v._ ([kit](#kit)+[wale](#wale))  
+
+
+- <a name="kitwalelon">**kitwalelon**</a> _n._ ([kitwale](#kitwale)+[lon](#lon))  
+
+
+- <a name="kitcitu">**kitcitu**</a> _v._ ([kit](#kit)+[citu](#citu))  
+
+
+- <a name="kitcitulon">**kitcitulon**</a> _n._ ([kitcitu](#kitcitu)+[lon](#lon))  
+
+
+- <a name="kitcitulum">**kitcitulum**</a> _n._ ([kitcitu](#kitcitu)+[lum](#lum))  
+
+
+- <a name="kitcitulwel">**kitcitulwel**</a> _n._ ([kitcitu](#kitcitu)+[lwel](#lwel))  
+
+
+- <a name="kitki">**kitki**</a> _num._ (∅)  
 popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
 
-  - **kittecak** _n._ (kit+tecak)  
-  
+- <a name="kittecak">**kittecak**</a> _n._ ([kit](#kit)+[tecak](#tecak))  
 
-  - **kittunci** _v._ (kit+tunci)  
-  
 
-  - **kittuncilum** _n._ (kittunci+lum)  
-  
+- <a name="kittunci">**kittunci**</a> _v._ ([kit](#kit)+[tunci](#tunci))  
 
-  - **kittuncilyot** _n._ (kittunci+lyot)  
-  
 
-  - **kipowi** _v._ (ki+powi)  
-  
+- <a name="kittuncilum">**kittuncilum**</a> _n._ ([kittunci](#kittunci)+[lum](#lum))  
 
-  - **kipowilon** _n._ (kipowi+lon)  
-  
 
-  - **kipowiki** _v._ (kipowi+ki)  
-  
+- <a name="kittuncilyot">**kittuncilyot**</a> _n._ ([kittunci](#kittunci)+[lyot](#lyot))  
 
-- **'kiplos** _n._ (Ell. &langle;Κύπρος&rangle; [ˈcipros])  
 
+- <a name="kipowi">**kipowi**</a> _v._ ([ki](#ki)+[powi](#powi))  
 
-  - **'kiplosak** _n._ ('kiplos+ak)  
-  
 
-  - **'kiplostec** _n._ ('kiplos+tec)  
-  
+- <a name="kipowilon">**kipowilon**</a> _n._ ([kipowi](#kipowi)+[lon](#lon))  
 
-  - **'kiplostecwon** _n._ ('kiplostec+won)  
-  
 
-- **ku** _v._ (Cmn. &langle;苦&rangle; [kʰu˧˩˧])  
+- <a name="kipowiki">**kipowiki**</a> _v._ ([kipowi](#kipowi)+[ki](#ki))  
 
 
-- **kule** _v._ (Sho. &langle;kure&rangle; [kure])  
+- <a name="'kiplos">**'kiplos**</a> _n._ (Ell. &langle;Κύπρος&rangle; [ˈcipros])  
 
 
-  - **kuleam** _n._ (kule+am)  
-  
+- <a name="'kiplosak">**'kiplosak**</a> _n._ (['kiplos](#'kiplos)+[ak](#ak))  
 
-  - **kulelek** _n._ (kule+lek)  
-  
 
-  - **kulelon** _n._ (kule+lon)  
-  
+- <a name="'kiplostec">**'kiplostec**</a> _n._ (['kiplos](#'kiplos)+[tec](#tec))  
 
-  - **kulelum** _n._ (kule+lum)  
-  
 
-  - **kulelyan** _n._ (kule+lyan)  
-  
+- <a name="'kiplostecwon">**'kiplostecwon**</a> _n._ (['kiplostec](#'kiplostec)+[won](#won))  
 
-  - **kulehila** _v._ (kule+hila)  
-  
 
-  - **kulehilalon** _n._ (kulehila+lon)  
-  
+- <a name="ku">**ku**</a> _v._ (Cmn. &langle;苦&rangle; [kʰu˧˩˧])  
 
-  - **kulecalu** _v._ (kule+calu)  
-  
 
-  - **kulecalules** _n._ (kulecalu+les)  
-  
+- <a name="kule">**kule**</a> _v._ (Sho. &langle;kure&rangle; [kure])  
 
-  - **kulecalulon** _n._ (kulecalu+lon)  
-  
 
-  - **kulecincilum** _n._ (kule+cincilum)  
-  
+- <a name="kuleam">**kuleam**</a> _n._ ([kule](#kule)+[am](#am))  
 
-  - **kuleki** _v._ (kule+ki)  
-  
 
-  - **kulekiles** _n._ (kuleki+les)  
-  
+- <a name="kulelek">**kulelek**</a> _n._ ([kule](#kule)+[lek](#lek))  
 
-  - **kuletiluat** _n._ (kule+tiluat)  
-  
 
-- **kula** _v._ (Hin. &langle;खुला&rangle; [kʰulaː])  
+- <a name="kulelon">**kulelon**</a> _n._ ([kule](#kule)+[lon](#lon))  
 
 
-  - **kulaec** _n._ (kula+ec)  
-  
+- <a name="kulelum">**kulelum**</a> _n._ ([kule](#kule)+[lum](#lum))  
 
-  - **kulalon** _n._ (kula+lon)  
-  
 
-- **kulan** _pn._ (Xho. &langle;okulandelayo&rangle; [ɔkʼulandɛlajɔ])  
+- <a name="kulelyan">**kulelyan**</a> _n._ ([kule](#kule)+[lyan](#lyan))  
 
 
-  - **kulansunkwelwel** _n._ (kulan+sunkwelwel)  
-  
+- <a name="kulehila">**kulehila**</a> _v._ ([kule](#kule)+[hila](#hila))  
 
-  - **kulanpumkwelwel** _n._ (kulan+pumkwelwel)  
-  
 
-  - **kulaki** _v._ (kula+ki)  
-  
+- <a name="kulehilalon">**kulehilalon**</a> _n._ ([kulehila](#kulehila)+[lon](#lon))  
 
-  - **kulatatu** _v._ (kula+tatu)  
-  
 
-  - **kulatatulon** _n._ (kulatatu+lon)  
-  
+- <a name="kulecalu">**kulecalu**</a> _v._ ([kule](#kule)+[calu](#calu))  
 
-  - **kulatun** _n._ (kula+tun)  
-  
 
-  - **kulapic** _n._ (kula+pic)  
-  
+- <a name="kulecalules">**kulecalules**</a> _n._ ([kulecalu](#kulecalu)+[les](#les))  
 
-  - **kulon** _n._ (ku+lon)  
-  
 
-- **kuli** _v._ (Msa. &langle;gurih&rangle; [ɡurih])  
+- <a name="kulecalulon">**kulecalulon**</a> _n._ ([kulecalu](#kulecalu)+[lon](#lon))  
 
 
-  - **kulilon** _n._ (kuli+lon)  
-  
+- <a name="kulecincilum">**kulecincilum**</a> _n._ ([kule](#kule)+[cincilum](#cincilum))  
 
-  - **kulilyan** _n._ (kuli+lyan)  
-  
 
-  - **kuliki** _v._ (kuli+ki)  
-  
+- <a name="kuleki">**kuleki**</a> _v._ ([kule](#kule)+[ki](#ki))  
 
-- **kululun** _n._ (ono. [gululu])  
 
+- <a name="kulekiles">**kulekiles**</a> _n._ ([kuleki](#kuleki)+[les](#les))  
 
-  - **kulyan** _n._ (ku+lyan)  
-  
 
-- **'kulkus** _n._ (Kir. &langle;кыргыз&rangle; [qɯrʁɯs])  
+- <a name="kuletiluat">**kuletiluat**</a> _n._ ([kule](#kule)+[tiluat](#tiluat))  
 
 
-  - **'kulkusak** _n._ ('kulkus+ak)  
-  
+- <a name="kula">**kula**</a> _v._ (Hin. &langle;खुला&rangle; [kʰulaː])  
 
-  - **'kulkustec** _n._ ('kulkus+tec)  
-  
 
-  - **'kulkustilip** _n._ ('kulkus+tilip)  
-  
+- <a name="kulaec">**kulaec**</a> _n._ ([kula](#kula)+[ec](#ec))  
 
-- **'kulti** _n._ (Kur. &langle;کورد‎&rangle; [kuɾd])  
 
+- <a name="kulalon">**kulalon**</a> _n._ ([kula](#kula)+[lon](#lon))  
 
-  - **'kultiak** _n._ ('kulti+ak)  
-  
 
-  - **'kultitec** _n._ ('kulti+tec)  
-  
+- <a name="kulan">**kulan**</a> _pn._ (Xho. &langle;okulandelayo&rangle; [ɔkʼulandɛlajɔ])  
 
-  - **'kultitilip** _n._ ('kulti+tilip)  
-  
 
-- **kulpa** _v._ (ono. [glup)  
+- <a name="kulansunkwelwel">**kulansunkwelwel**</a> _n._ ([kulan](#kulan)+[sunkwelwel](#sunkwelwel))  
 
 
-  - **kulpales** _n._ (kulpa+les)  
-  
+- <a name="kulanpumkwelwel">**kulanpumkwelwel**</a> _n._ ([kulan](#kulan)+[pumkwelwel](#pumkwelwel))  
 
-  - **kulpalon** _n._ (kulpa+lon)  
-  
 
-- **kunci** _v._ (Cmn. &langle;控制&rangle; [kʰʊŋ˥˩ʈ͡ʂɨ˥˩])  
+- <a name="kulaki">**kulaki**</a> _v._ ([kula](#kula)+[ki](#ki))  
 
 
-  - **kuncilon** _n._ (kunci+lon)  
-  
+- <a name="kulatatu">**kulatatu**</a> _v._ ([kula](#kula)+[tatu](#tatu))  
 
-  - **kunciluat** _n._ (kunci+luat)  
-  
 
-  - **kuncilum** _n._ (kunci+lum)  
-  
+- <a name="kulatatulon">**kulatatulon**</a> _n._ ([kulatatu](#kulatatu)+[lon](#lon))  
 
-  - **kunciki** _v._ (kunci+ki)  
-  
 
-  - **kuncikiles** _n._ (kunciki+les)  
-  
+- <a name="kulatun">**kulatun**</a> _n._ ([kula](#kula)+[tun](#tun))  
 
-  - **kuncikilon** _n._ (kunciki+lon)  
-  
 
-- **kumna** _v._ (Hin. &langle;घुमना&rangle; [ɡ̤umnaː])  
+- <a name="kulapic">**kulapic**</a> _n._ ([kula](#kula)+[pic](#pic))  
 
 
-  - **kumnalon** _n._ (kumna+lon)  
-  
+- <a name="kulon">**kulon**</a> _n._ ([ku](#ku)+[lon](#lon))  
 
-  - **kumnalum** _n._ (kumna+lum)  
-  
 
-  - **kumnanitoki** _v._ (kumna+nitoki)  
-  
+- <a name="kuli">**kuli**</a> _v._ (Msa. &langle;gurih&rangle; [ɡurih])  
 
-  - **kumnanitokilip** _n._ (kumnanitoki+lip)  
-  
 
-  - **kumnamipmontalon** _n._ (kumna+mipmontalon)  
-  
+- <a name="kulilon">**kulilon**</a> _n._ ([kuli](#kuli)+[lon](#lon))  
 
-  - **kumnakulelyan** _n._ (kumna+kulelyan)  
-  
 
-  - **kumnatupan** _n._ (kumna+tupan)  
-  
+- <a name="kulilyan">**kulilyan**</a> _n._ ([kuli](#kuli)+[lyan](#lyan))  
 
-- **kuho** _v._ (~~nice~~)  
 
+- <a name="kuliki">**kuliki**</a> _v._ ([kuli](#kuli)+[ki](#ki))  
 
-- **kuhol** _n._ (Fil. &langle;kuhol&rangle; [kuhol])  
 
+- <a name="kululun">**kululun**</a> _n._ (ono. [gululu])  
 
-  - **kuholes** _n._ (kuho+les)  
-  
 
-  - **kuholon** _n._ (kuho+lon)  
-  
+- <a name="kulyan">**kulyan**</a> _n._ ([ku](#ku)+[lyan](#lyan))  
 
-  - **kuhoki** _v._ (kuho+ki)  
-  
 
-  - **kuhokiles** _n._ (kuhoki+les)  
-  
+- <a name="'kulkus">**'kulkus**</a> _n._ (Kir. &langle;кыргыз&rangle; [qɯrʁɯs])  
 
-  - **kuhokiluat** _n._ (kuhoki+luat)  
-  
 
-- **kuci** _v._ (Ben. &langle;খুশি&rangle; [kʰuɕi])  
+- <a name="'kulkusak">**'kulkusak**</a> _n._ (['kulkus](#'kulkus)+[ak](#ak))  
 
 
-  - **kucilon** _n._ (kuci+lon)  
-  
+- <a name="'kulkustec">**'kulkustec**</a> _n._ (['kulkus](#'kulkus)+[tec](#tec))  
 
-  - **kucinihu** _v._ (kuci+nihu)  
-  
 
-  - **kucinihulum** _n._ (kucinihu+lum)  
-  
+- <a name="'kulkustilip">**'kulkustilip**</a> _n._ (['kulkus](#'kulkus)+[tilip](#tilip))  
 
-  - **kuciki** _v._ (kuci+ki)  
-  
 
-- **'kuskus** _n._ (Ara. &langle;كسكس&rangle; [kuskus])  
+- <a name="'kulti">**'kulti**</a> _n._ (Kur. &langle;کورد‎&rangle; [kuɾd])  
 
 
-  - **'kukaylan** _n._ (Eng. &langle;Cook Islands>)  
-  
+- <a name="'kultiak">**'kultiak**</a> _n._ (['kulti](#'kulti)+[ak](#ak))  
 
-  - **'kukaylanak** _n._ ('kukaylan+ak)  
-  
 
-  - **'kukaylanwon** _n._ ('kukaylan+won)  
-  
+- <a name="'kultitec">**'kultitec**</a> _n._ (['kulti](#'kulti)+[tec](#tec))  
 
-  - **'kukaylantec** _n._ ('kukaylan+tec)  
-  
 
-  - **'kukaylantilip** _n._ ('kukaylan+tilip)  
-  
+- <a name="'kultitilip">**'kultitilip**</a> _n._ (['kulti](#'kulti)+[tilip](#tilip))  
 
-- **kukam** _n._ (ono. [ɡuː)  
 
+- <a name="kulpa">**kulpa**</a> _v._ (ono. [glup)  
 
-  - **kukamak** _n._ (kukam+ak)  
-  
 
-  - **kuki** _v._ (ku+ki)  
-  
+- <a name="kulpales">**kulpales**</a> _n._ ([kulpa](#kulpa)+[les](#les))  
 
-- **kukulik** _n._ (ono. [kuk)  
 
+- <a name="kulpalon">**kulpalon**</a> _n._ ([kulpa](#kulpa)+[lon](#lon))  
 
-- **kuta** _v._ (~~nila~~)  
 
+- <a name="kunci">**kunci**</a> _v._ (Cmn. &langle;控制&rangle; [kʰʊŋ˥˩ʈ͡ʂɨ˥˩])  
 
-  - **kutalais** _n._ (kuta+lais)  
-  
 
-  - **kutalon** _n._ (kuta+lon)  
-  
+- <a name="kuncilon">**kuncilon**</a> _n._ ([kunci](#kunci)+[lon](#lon))  
 
-  - **kutaceluk** _n._ (kuta+celuk)  
-  
 
-  - **kutaki** _v._ (kuta+ki)  
-  
+- <a name="kunciluat">**kunciluat**</a> _n._ ([kunci](#kunci)+[luat](#luat))  
 
-  - **kutakwah** _n._ (kuta+kwah)  
-  
 
-  - **kutatawh** _n._ (kuta+tawh)  
-  
+- <a name="kuncilum">**kuncilum**</a> _n._ ([kunci](#kunci)+[lum](#lum))  
 
-- **kuti** _v._ (Cmn. &langle;固体&rangle; [ku˥˩tʰi˧˩˧])  
 
+- <a name="kunciki">**kunciki**</a> _v._ ([kunci](#kunci)+[ki](#ki))  
 
-  - **kutilon** _n._ (kuti+lon)  
-  
 
-  - **kutilyan** _n._ (kuti+lyan)  
-  
+- <a name="kuncikiles">**kuncikiles**</a> _n._ ([kunciki](#kunciki)+[les](#les))  
 
-  - **kutimwoni** _v._ (kuti+mwoni)  
-  
 
-  - **kutimwoniles** _n._ (kutimwoni+les)  
-  
+- <a name="kuncikilon">**kuncikilon**</a> _n._ ([kunciki](#kunciki)+[lon](#lon))  
 
-  - **kutimwonilon** _n._ (kutimwoni+lon)  
-  
 
-  - **kutimwonilum** _n._ (kutimwoni+lum)  
-  
+- <a name="kumna">**kumna**</a> _v._ (Hin. &langle;घुमना&rangle; [ɡ̤umnaː])  
 
-  - **kutihila** _v._ (kuti+hila)  
-  
 
-  - **kutihilalon** _n._ (kutihila+lon)  
-  
+- <a name="kumnalon">**kumnalon**</a> _n._ ([kumna](#kumna)+[lon](#lon))  
 
-  - **kutiki** _v._ (kuti+ki)  
-  
 
-  - **kutikiles** _n._ (kutiki+les)  
-  
+- <a name="kumnalum">**kumnalum**</a> _n._ ([kumna](#kumna)+[lum](#lum))  
 
-  - **kutikilon** _n._ (kutiki+lon)  
-  
 
-- **'kupa** _n._ (Spa. &langle;Cuba&rangle; [kuβa])  
+- <a name="kumnanitoki">**kumnanitoki**</a> _v._ ([kumna](#kumna)+[nitoki](#nitoki))  
 
 
-  - **'kupaak** _n._ ('kupa+ak)  
-  
+- <a name="kumnanitokilip">**kumnanitokilip**</a> _n._ ([kumnanitoki](#kumnanitoki)+[lip](#lip))  
 
-  - **'kupawon** _n._ ('kupa+won)  
-  
 
-- **kwe** _v._ (~~nyo~~)  
+- <a name="kumnamipmontalon">**kumnamipmontalon**</a> _n._ ([kumna](#kumna)+[mipmontalon](#mipmontalon))  
 
 
-  - **kwelayf** _n._ (kwe+layf)  
-  
+- <a name="kumnakulelyan">**kumnakulelyan**</a> _n._ ([kumna](#kumna)+[kulelyan](#kulelyan))  
 
-  - **kwelayfak** _n._ (kwelayf+ak)  
-  
 
-  - **kwelon** _n._ (kwe+lon)  
-  
+- <a name="kumnatupan">**kumnatupan**</a> _n._ ([kumna](#kumna)+[tupan](#tupan))  
 
-  - **kwelial** _n._ (kwe+lial)  
-  
 
-  - **kwelialak** _n._ (kwelial+ak)  
-  
+- <a name="kuho">**kuho**</a> _v._ ([~~nice~~](#nice))  
 
-  - **kwelip** _n._ (kwe+lip)  
-  
 
-  - **kwelipak** _n._ (kwelip+ak)  
-  
+- <a name="kuhol">**kuhol**</a> _n._ (Fil. &langle;kuhol&rangle; [kuhol])  
 
-  - **kweluat** _n._ (kwe+luat)  
-  
 
-  - **kweluatak** _n._ (kweluat+ak)  
-  
+- <a name="kuholes">**kuholes**</a> _n._ ([kuho](#kuho)+[les](#les))  
 
-  - **kwelyan** _n._ (kwe+lyan)  
-  
 
-  - **kwelyanak** _n._ (kwelyan+ak)  
-  
+- <a name="kuholon">**kuholon**</a> _n._ ([kuho](#kuho)+[lon](#lon))  
 
-  - **kwelyansoma** _v._ (kwelyan+soma)  
-  
 
-  - **kwelyansomales** _n._ (kwelyansoma+les)  
-  
+- <a name="kuhoki">**kuhoki**</a> _v._ ([kuho](#kuho)+[ki](#ki))  
 
-  - **kwelyansomalon** _n._ (kwelyansoma+lon)  
-  
 
-  - **kwelyot** _n._ (kwe+lyot)  
-  
+- <a name="kuhokiles">**kuhokiles**</a> _n._ ([kuhoki](#kuhoki)+[les](#les))  
 
-  - **kwelyotestalyan** _n._ (kwelyot+estalyan)  
-  
 
-  - **kwelyotak** _n._ (kwelyot+ak)  
-  
+- <a name="kuhokiluat">**kuhokiluat**</a> _n._ ([kuhoki](#kuhoki)+[luat](#luat))  
 
-  - **kwelwel** _n._ (kwe+lwel)  
-  
 
-  - **kwelwelesta** _v._ (kwelwel+esta)  
-  
+- <a name="kuci">**kuci**</a> _v._ (Ben. &langle;খুশি&rangle; [kʰuɕi])  
 
-  - **kwelwelestalon** _n._ (kwelwelesta+lon)  
-  
 
-  - **kwelwelestanyo** _v._ (kwelwelesta+nyo)  
-  
+- <a name="kucilon">**kucilon**</a> _n._ ([kuci](#kuci)+[lon](#lon))  
 
-  - **kwelwelestanyolon** _n._ (kwelwelestanyo+lon)  
-  
 
-  - **kwelwelak** _n._ (kwelwel+ak)  
-  
+- <a name="kucinihu">**kucinihu**</a> _v._ ([kuci](#kuci)+[nihu](#nihu))  
 
-  - **kwelwelmontalon** _n._ (kwelwel+montalon)  
-  
 
-  - **kwelwelhila** _v._ (kwelwel+hila)  
-  
+- <a name="kucinihulum">**kucinihulum**</a> _n._ ([kucinihu](#kucinihu)+[lum](#lum))  
 
-  - **kwelwelsomaluat** _n._ (kwelwel+somaluat)  
-  
 
-- **'kwenatin** _n._ (Svc. &langle;Grenadines&rangle; [ɡɹɛnədiːnz])  
+- <a name="kuciki">**kuciki**</a> _v._ ([kuci](#kuci)+[ki](#ki))  
 
 
-  - **'kwenatinak** _n._ ('kwenatin+ak)  
-  
+- <a name="'kuskus">**'kuskus**</a> _n._ (Ara. &langle;كسكس&rangle; [kuskus])  
 
-  - **kwenoki** _v._ (kwe+noki)  
-  
 
-  - **kwenu** _v._ (kwe+nu)  
+  - <a name="'kukaylan">**'kukaylan**</a> _n._ (Eng. &langle;Cook Islands>)  
   
 
-  - **kwenyokwenyo** _v._ (kwe+nyo+kwe+nyo)  
-  
+- <a name="'kukaylanak">**'kukaylanak**</a> _n._ (['kukaylan](#'kukaylan)+[ak](#ak))  
 
-  - **kwenyokwenyolon** _n._ (kwenyokwenyo+lon)  
-  
 
-- **kweh** _n._ (Cmn. &langle;龟&rangle; [kweɪ̯˥])  
+- <a name="'kukaylanwon">**'kukaylanwon**</a> _n._ (['kukaylan](#'kukaylan)+[won](#won))  
 
 
-  - **kweki** _v._ (kwe+ki)  
-  
+- <a name="'kukaylantec">**'kukaylantec**</a> _n._ (['kukaylan](#'kukaylan)+[tec](#tec))  
 
-  - **kwekiles** _n._ (kweki+les)  
-  
 
-  - **kwekilesak** _n._ (kwekiles+ak)  
-  
+- <a name="'kukaylantilip">**'kukaylantilip**</a> _n._ (['kukaylan](#'kukaylan)+[tilip](#tilip))  
 
-  - **kwekilon** _n._ (kweki+lon)  
-  
 
-  - **kwekilonak** _n._ (kwekilon+ak)  
-  
+- <a name="kukam">**kukam**</a> _n._ (ono. [ɡuː)  
 
-  - **kwekilum** _n._ (kweki+lum)  
-  
 
-  - **kwekilumak** _n._ (kwekilum+ak)  
-  
+- <a name="kukamak">**kukamak**</a> _n._ ([kukam](#kukam)+[ak](#ak))  
 
-  - **kwekimai** _v._ (kweki+mai)  
-  
 
-  - **kwekimailes** _n._ (kwekimai+les)  
-  
+- <a name="kuki">**kuki**</a> _v._ ([ku](#ku)+[ki](#ki))  
 
-  - **kwekimailon** _n._ (kwekimai+lon)  
-  
 
-  - **kwekimailum** _n._ (kwekimai+lum)  
-  
+- <a name="kukulik">**kukulik**</a> _n._ (ono. [kuk)  
 
-  - **kwekimailwel** _n._ (kwekimai+lwel)  
-  
 
-- **'kwet** _n._ (Ara. &langle;كويت&rangle; [kweːt])  
+- <a name="kuta">**kuta**</a> _v._ ([~~nila~~](#nila))  
 
 
-  - **'kwetak** _n._ ('kwet+ak)  
-  
+- <a name="kutalais">**kutalais**</a> _n._ ([kuta](#kuta)+[lais](#lais))  
 
-  - **kweti** _v._ (kwe+ti)  
-  
 
-  - **kwetilon** _n._ (kweti+lon)  
-  
+- <a name="kutalon">**kutalon**</a> _n._ ([kuta](#kuta)+[lon](#lon))  
 
-  - **kwetilyan** _n._ (kweti+lyan)  
-  
 
-  - **kwetikolwa** _v._ (kweti+kolwa)  
-  
+- <a name="kutaceluk">**kutaceluk**</a> _n._ ([kuta](#kuta)+[celuk](#celuk))  
 
-  - **'kwetwon** _n._ ('kwet+won)  
-  
 
-  - **kwepensi** _v._ (kwe+pensi)  
-  
+- <a name="kutaki">**kutaki**</a> _v._ ([kuta](#kuta)+[ki](#ki))  
 
-  - **kwepensilon** _n._ (kwepensi+lon)  
-  
 
-  - **kwepensiki** _v._ (kwepensi+ki)  
-  
+- <a name="kutakwah">**kutakwah**</a> _n._ ([kuta](#kuta)+[kwah](#kwah))  
 
-  - **kwepensikilum** _n._ (kwepensiki+lum)  
-  
+
+- <a name="kutatawh">**kutatawh**</a> _n._ ([kuta](#kuta)+[tawh](#tawh))  
+
+
+- <a name="kuti">**kuti**</a> _v._ (Cmn. &langle;固体&rangle; [ku˥˩tʰi˧˩˧])  
+
+
+- <a name="kutilon">**kutilon**</a> _n._ ([kuti](#kuti)+[lon](#lon))  
+
+
+- <a name="kutilyan">**kutilyan**</a> _n._ ([kuti](#kuti)+[lyan](#lyan))  
+
+
+- <a name="kutimwoni">**kutimwoni**</a> _v._ ([kuti](#kuti)+[mwoni](#mwoni))  
+
+
+- <a name="kutimwoniles">**kutimwoniles**</a> _n._ ([kutimwoni](#kutimwoni)+[les](#les))  
+
+
+- <a name="kutimwonilon">**kutimwonilon**</a> _n._ ([kutimwoni](#kutimwoni)+[lon](#lon))  
+
+
+- <a name="kutimwonilum">**kutimwonilum**</a> _n._ ([kutimwoni](#kutimwoni)+[lum](#lum))  
+
+
+- <a name="kutihila">**kutihila**</a> _v._ ([kuti](#kuti)+[hila](#hila))  
+
+
+- <a name="kutihilalon">**kutihilalon**</a> _n._ ([kutihila](#kutihila)+[lon](#lon))  
+
+
+- <a name="kutiki">**kutiki**</a> _v._ ([kuti](#kuti)+[ki](#ki))  
+
+
+- <a name="kutikiles">**kutikiles**</a> _n._ ([kutiki](#kutiki)+[les](#les))  
+
+
+- <a name="kutikilon">**kutikilon**</a> _n._ ([kutiki](#kutiki)+[lon](#lon))  
+
+
+- <a name="'kupa">**'kupa**</a> _n._ (Spa. &langle;Cuba&rangle; [kuβa])  
+
+
+- <a name="'kupaak">**'kupaak**</a> _n._ (['kupa](#'kupa)+[ak](#ak))  
+
+
+- <a name="'kupawon">**'kupawon**</a> _n._ (['kupa](#'kupa)+[won](#won))  
+
+
+- <a name="kwe">**kwe**</a> _v._ ([~~nyo~~](#nyo))  
+
+
+- <a name="kwelayf">**kwelayf**</a> _n._ ([kwe](#kwe)+[layf](#layf))  
+
+
+- <a name="kwelayfak">**kwelayfak**</a> _n._ ([kwelayf](#kwelayf)+[ak](#ak))  
+
+
+- <a name="kwelon">**kwelon**</a> _n._ ([kwe](#kwe)+[lon](#lon))  
+
+
+- <a name="kwelial">**kwelial**</a> _n._ ([kwe](#kwe)+[lial](#lial))  
+
+
+- <a name="kwelialak">**kwelialak**</a> _n._ ([kwelial](#kwelial)+[ak](#ak))  
+
+
+- <a name="kwelip">**kwelip**</a> _n._ ([kwe](#kwe)+[lip](#lip))  
+
+
+- <a name="kwelipak">**kwelipak**</a> _n._ ([kwelip](#kwelip)+[ak](#ak))  
+
+
+- <a name="kweluat">**kweluat**</a> _n._ ([kwe](#kwe)+[luat](#luat))  
+
+
+- <a name="kweluatak">**kweluatak**</a> _n._ ([kweluat](#kweluat)+[ak](#ak))  
+
+
+- <a name="kwelyan">**kwelyan**</a> _n._ ([kwe](#kwe)+[lyan](#lyan))  
+
+
+- <a name="kwelyanak">**kwelyanak**</a> _n._ ([kwelyan](#kwelyan)+[ak](#ak))  
+
+
+- <a name="kwelyansoma">**kwelyansoma**</a> _v._ ([kwelyan](#kwelyan)+[soma](#soma))  
+
+
+- <a name="kwelyansomales">**kwelyansomales**</a> _n._ ([kwelyansoma](#kwelyansoma)+[les](#les))  
+
+
+- <a name="kwelyansomalon">**kwelyansomalon**</a> _n._ ([kwelyansoma](#kwelyansoma)+[lon](#lon))  
+
+
+- <a name="kwelyot">**kwelyot**</a> _n._ ([kwe](#kwe)+[lyot](#lyot))  
+
+
+- <a name="kwelyotestalyan">**kwelyotestalyan**</a> _n._ ([kwelyot](#kwelyot)+[estalyan](#estalyan))  
+
+
+- <a name="kwelyotak">**kwelyotak**</a> _n._ ([kwelyot](#kwelyot)+[ak](#ak))  
+
+
+- <a name="kwelwel">**kwelwel**</a> _n._ ([kwe](#kwe)+[lwel](#lwel))  
+
+
+- <a name="kwelwelesta">**kwelwelesta**</a> _v._ ([kwelwel](#kwelwel)+[esta](#esta))  
+
+
+- <a name="kwelwelestalon">**kwelwelestalon**</a> _n._ ([kwelwelesta](#kwelwelesta)+[lon](#lon))  
+
+
+- <a name="kwelwelestanyo">**kwelwelestanyo**</a> _v._ ([kwelwelesta](#kwelwelesta)+[nyo](#nyo))  
+
+
+- <a name="kwelwelestanyolon">**kwelwelestanyolon**</a> _n._ ([kwelwelestanyo](#kwelwelestanyo)+[lon](#lon))  
+
+
+- <a name="kwelwelak">**kwelwelak**</a> _n._ ([kwelwel](#kwelwel)+[ak](#ak))  
+
+
+- <a name="kwelwelmontalon">**kwelwelmontalon**</a> _n._ ([kwelwel](#kwelwel)+[montalon](#montalon))  
+
+
+- <a name="kwelwelhila">**kwelwelhila**</a> _v._ ([kwelwel](#kwelwel)+[hila](#hila))  
+
+
+- <a name="kwelwelsomaluat">**kwelwelsomaluat**</a> _n._ ([kwelwel](#kwelwel)+[somaluat](#somaluat))  
+
+
+- <a name="'kwenatin">**'kwenatin**</a> _n._ (Svc. &langle;Grenadines&rangle; [ɡɹɛnədiːnz])  
+
+
+- <a name="'kwenatinak">**'kwenatinak**</a> _n._ (['kwenatin](#'kwenatin)+[ak](#ak))  
+
+
+- <a name="kwenoki">**kwenoki**</a> _v._ ([kwe](#kwe)+[noki](#noki))  
+
+
+- <a name="kwenu">**kwenu**</a> _v._ ([kwe](#kwe)+[nu](#nu))  
+
+
+- <a name="kwenyokwenyo">**kwenyokwenyo**</a> _v._ ([kwe](#kwe)+[nyo](#nyo)+[kwe](#kwe)+[nyo](#nyo))  
+
+
+- <a name="kwenyokwenyolon">**kwenyokwenyolon**</a> _n._ ([kwenyokwenyo](#kwenyokwenyo)+[lon](#lon))  
+
+
+- <a name="kweh">**kweh**</a> _n._ (Cmn. &langle;龟&rangle; [kweɪ̯˥])  
+
+
+- <a name="kweki">**kweki**</a> _v._ ([kwe](#kwe)+[ki](#ki))  
+
+
+- <a name="kwekiles">**kwekiles**</a> _n._ ([kweki](#kweki)+[les](#les))  
+
+
+- <a name="kwekilesak">**kwekilesak**</a> _n._ ([kwekiles](#kwekiles)+[ak](#ak))  
+
+
+- <a name="kwekilon">**kwekilon**</a> _n._ ([kweki](#kweki)+[lon](#lon))  
+
+
+- <a name="kwekilonak">**kwekilonak**</a> _n._ ([kwekilon](#kwekilon)+[ak](#ak))  
+
+
+- <a name="kwekilum">**kwekilum**</a> _n._ ([kweki](#kweki)+[lum](#lum))  
+
+
+- <a name="kwekilumak">**kwekilumak**</a> _n._ ([kwekilum](#kwekilum)+[ak](#ak))  
+
+
+- <a name="kwekimai">**kwekimai**</a> _v._ ([kweki](#kweki)+[mai](#mai))  
+
+
+- <a name="kwekimailes">**kwekimailes**</a> _n._ ([kwekimai](#kwekimai)+[les](#les))  
+
+
+- <a name="kwekimailon">**kwekimailon**</a> _n._ ([kwekimai](#kwekimai)+[lon](#lon))  
+
+
+- <a name="kwekimailum">**kwekimailum**</a> _n._ ([kwekimai](#kwekimai)+[lum](#lum))  
+
+
+- <a name="kwekimailwel">**kwekimailwel**</a> _n._ ([kwekimai](#kwekimai)+[lwel](#lwel))  
+
+
+- <a name="'kwet">**'kwet**</a> _n._ (Ara. &langle;كويت&rangle; [kweːt])  
+
+
+- <a name="'kwetak">**'kwetak**</a> _n._ (['kwet](#'kwet)+[ak](#ak))  
+
+
+- <a name="kweti">**kweti**</a> _v._ ([kwe](#kwe)+[ti](#ti))  
+
+
+- <a name="kwetilon">**kwetilon**</a> _n._ ([kweti](#kweti)+[lon](#lon))  
+
+
+- <a name="kwetilyan">**kwetilyan**</a> _n._ ([kweti](#kweti)+[lyan](#lyan))  
+
+
+- <a name="kwetikolwa">**kwetikolwa**</a> _v._ ([kweti](#kweti)+[kolwa](#kolwa))  
+
+
+- <a name="'kwetwon">**'kwetwon**</a> _n._ (['kwet](#'kwet)+[won](#won))  
+
+
+- <a name="kwepensi">**kwepensi**</a> _v._ ([kwe](#kwe)+[pensi](#pensi))  
+
+
+- <a name="kwepensilon">**kwepensilon**</a> _n._ ([kwepensi](#kwepensi)+[lon](#lon))  
+
+
+- <a name="kwepensiki">**kwepensiki**</a> _v._ ([kwepensi](#kwepensi)+[ki](#ki))  
+
+
+- <a name="kwepensikilum">**kwepensikilum**</a> _n._ ([kwepensiki](#kwepensiki)+[lum](#lum))  
+
 
-- **kwan** _n._ (Cmn. &langle;光&rangle; [kwɑŋ˥])  
+- <a name="kwan">**kwan**</a> _n._ (Cmn. &langle;光&rangle; [kwɑŋ˥])  
 luz
 
-- **'kwaneyta** _n._ (Eng. &langle;Grenada&rangle; [ɡɹʷəˈneɪ̯də])  
+- <a name="'kwaneyta">**'kwaneyta**</a> _n._ (Eng. &langle;Grenada&rangle; [ɡɹʷəˈneɪ̯də])  
 
 
-  - **'kwaneytaak** _n._ ('kwaneyta+ak)  
-  
+- <a name="'kwaneytaak">**'kwaneytaak**</a> _n._ (['kwaneyta](#'kwaneyta)+[ak](#ak))  
 
-  - **'kwaneytawon** _n._ ('kwaneyta+won)  
-  
 
-  - **'kwaneytatec** _n._ ('kwaneyta+tec)  
-  
+- <a name="'kwaneytawon">**'kwaneytawon**</a> _n._ (['kwaneyta](#'kwaneyta)+[won](#won))  
 
-  - **kwanak** _n._ (kwan+ak)  
-  
 
-  - **kwanilukiles** _n._ (kwan+ilukiles)  
-  
+- <a name="'kwaneytatec">**'kwaneytatec**</a> _n._ (['kwaneyta](#'kwaneyta)+[tec](#tec))  
 
-  - **kwanlamalyansomaluat** _n._ (kwan+lamalyan+somaluat)  
-  
 
-  - **kwansica** _v._ (kwan+sica)  
-  
+- <a name="kwanak">**kwanak**</a> _n._ ([kwan](#kwan)+[ak](#ak))  
 
-  - **kwansicalon** _n._ (kwansica+lon)  
-  
 
-  - **kwansicaki** _v._ (kwan+sicaki)  
-  
+- <a name="kwanilukiles">**kwanilukiles**</a> _n._ ([kwan](#kwan)+[ilukiles](#ilukiles))  
 
-  - **kwanfuha** _v._ (kwan+fuha)  
-  
 
-  - **kwanfuhalon** _n._ (kwanfuha+lon)  
-  
+- <a name="kwanlamalyansomaluat">**kwanlamalyansomaluat**</a> _n._ ([kwan](#kwan)+[lamalyan](#lamalyan)+[somaluat](#somaluat))  
 
-  - **kwanfuhaki** _v._ (kwan+fuhaki)  
-  
 
-  - **kwantulum** _n._ (kwan+tulum)  
-  
+- <a name="kwansica">**kwansica**</a> _v._ ([kwan](#kwan)+[sica](#sica))  
 
-  - **kwanpes** _n._ (kwan+pes)  
-  
 
-  - **kwanpic** _n._ (kwan+pic)  
-  
+- <a name="kwansicalon">**kwansicalon**</a> _n._ ([kwansica](#kwansica)+[lon](#lon))  
 
-- **kwah** _n._ (Cmn. &langle;瓜&rangle; [kwa˥])  
 
+- <a name="kwansicaki">**kwansicaki**</a> _v._ ([kwan](#kwan)+[sicaki](#sicaki))  
 
-- **kwakwak** _n._ (ono. [kwak)  
 
+- <a name="kwanfuha">**kwanfuha**</a> _v._ ([kwan](#kwan)+[fuha](#fuha))  
 
-  - **kwakwaklisat** _n._ (kwakwak+lisat)  
-  
 
-- **'kwatemala** _n._ (Spa. &langle;Guatemala&rangle; [gwateˈmala])  
+- <a name="kwanfuhalon">**kwanfuhalon**</a> _n._ ([kwanfuha](#kwanfuha)+[lon](#lon))  
 
 
-  - **'kwatemalaak** _n._ ('kwatemala+ak)  
-  
+- <a name="kwanfuhaki">**kwanfuhaki**</a> _v._ ([kwan](#kwan)+[fuhaki](#fuhaki))  
 
-  - **'kwatemalawon** _n._ ('kwatemala+won)  
-  
 
-- **kwap** _n._ (Eng. &langle;crab&rangle; [kʰɹʷæb])  
+- <a name="kwantulum">**kwantulum**</a> _n._ ([kwan](#kwan)+[tulum](#tulum))  
 
 
-- **'kwonsaw** _n._ (Yue. &langle;广州&rangle; [kʷɔ˧˥ːŋt͡sɐw˥])  
+- <a name="kwanpes">**kwanpes**</a> _n._ ([kwan](#kwan)+[pes](#pes))  
 
 
-- **'kwontun** _n._ (Yue. &langle;廣東&rangle; [kʷɔ̌ːŋ)  
+- <a name="kwanpic">**kwanpic**</a> _n._ ([kwan](#kwan)+[pic](#pic))  
 
 
-  - **'kwontunak** _n._ ('kwontun+ak)  
-  
+- <a name="kwah">**kwah**</a> _n._ (Cmn. &langle;瓜&rangle; [kwa˥])  
 
-  - **'kwontuntilip** _n._ ('kwontun+tilip)  
-  
 
-## t
+- <a name="kwakwak">**kwakwak**</a> _n._ (ono. [kwak)  
 
-- **te** _v._ (Ibo. &langle;de&rangle; [de])  
 
+- <a name="kwakwaklisat">**kwakwaklisat**</a> _n._ ([kwakwak](#kwakwak)+[lisat](#lisat))  
 
-  - **teak** _n._ (te+ak)  
-  
 
-  - **teles** _n._ (te+les)  
-  
+- <a name="'kwatemala">**'kwatemala**</a> _n._ (Spa. &langle;Guatemala&rangle; [gwateˈmala])  
 
-  - **telon** _n._ (te+lon)  
-  
 
-  - **telip** _n._ (te+lip)  
-  
+- <a name="'kwatemalaak">**'kwatemalaak**</a> _n._ (['kwatemala](#'kwatemala)+[ak](#ak))  
 
-  - **teluat** _n._ (te+luat)  
-  
 
-  - **telum** _n._ (te+lum)  
-  
+- <a name="'kwatemalawon">**'kwatemalawon**</a> _n._ (['kwatemala](#'kwatemala)+[won](#won))  
 
-- **teluca** _v._ (Msa. &langle;teruja&rangle; [terud͡ʒa])  
 
+- <a name="kwap">**kwap**</a> _n._ (Eng. &langle;crab&rangle; [kʰɹʷæb])  
 
-  - **telucalon** _n._ (teluca+lon)  
-  
 
-  - **telucalum** _n._ (teluca+lum)  
-  
+- <a name="'kwonsaw">**'kwonsaw**</a> _n._ (Yue. &langle;广州&rangle; [kʷɔ˧˥ːŋt͡sɐw˥])  
 
-  - **telucaki** _v._ (teluca+ki)  
-  
 
-- **'teluku** _n._ (Tel. &langle;తెలుగు&rangle; [t̪el̪uɡu])  
+- <a name="'kwontun">**'kwontun**</a> _n._ (Yue. &langle;廣東&rangle; [kʷɔ̌ːŋ)  
 
 
-  - **'telukuak** _n._ ('teluku+ak)  
-  
+- <a name="'kwontunak">**'kwontunak**</a> _n._ (['kwontun](#'kwontun)+[ak](#ak))  
 
-  - **'telukutilip** _n._ ('teluku+tilip)  
-  
 
-  - **telyot** _n._ (te+lyot)  
-  
+- <a name="'kwontuntilip">**'kwontuntilip**</a> _n._ (['kwontun](#'kwontun)+[tilip](#tilip))  
 
-- **tewi** _v._ (Epo. &langle;devi&rangle; [ˈdevi])  
 
+### t
 
-  - **tewilon** _n._ (tewi+lon)  
-  
+- <a name="te">**te**</a> _v._ (Ibo. &langle;de&rangle; [de])  
 
-  - **tewilum** _n._ (tewi+lum)  
-  
 
-  - **tewinu** _v._ (tewi+nu)  
-  
+- <a name="teak">**teak**</a> _n._ ([te](#te)+[ak](#ak))  
 
-  - **tewinyo** _v._ (tewi+nyo)  
-  
 
-  - **tewicitu** _v._ (tewi+citu)  
-  
+- <a name="teles">**teles**</a> _n._ ([te](#te)+[les](#les))  
 
-  - **tewicitulon** _n._ (tewicitu+lon)  
-  
 
-  - **tewiki** _v._ (tewi+ki)  
-  
+- <a name="telon">**telon**</a> _n._ ([te](#te)+[lon](#lon))  
 
-  - **tewikiles** _n._ (tewiki+les)  
-  
 
-  - **tewikunci** _v._ (tewi+kunci)  
-  
+- <a name="telip">**telip**</a> _n._ ([te](#te)+[lip](#lip))  
 
-  - **tewikuncilon** _n._ (tewikunci+lon)  
-  
 
-  - **tewikuncilum** _n._ (tewikunci+lum)  
-  
+- <a name="teluat">**teluat**</a> _n._ ([te](#te)+[luat](#luat))  
 
-  - **tewikuncilyot** _n._ (tewikunci+lyot)  
-  
 
-  - **tewikuncinu** _v._ (tewikunci+nu)  
-  
+- <a name="telum">**telum**</a> _n._ ([te](#te)+[lum](#lum))  
 
-  - **tewikuncinyo** _v._ (tewikunci+nyo)  
-  
 
-  - **tewikuncinyolon** _n._ (tewikuncinyo+lon)  
-  
+- <a name="teluca">**teluca**</a> _v._ (Msa. &langle;teruja&rangle; [terud͡ʒa])  
 
-  - **tewikunciki** _v._ (tewikunci+ki)  
-  
 
-- **'tenim** _n._ (Eng. &langle;denim&rangle; [ˈdɛnəm])  
+- <a name="telucalon">**telucalon**</a> _n._ ([teluca](#teluca)+[lon](#lon))  
 
 
-- **tenso** _v._ (Spa. &langle;tenso&rangle; [ˈtenso])  
+- <a name="telucalum">**telucalum**</a> _n._ ([teluca](#teluca)+[lum](#lum))  
+
+
+- <a name="telucaki">**telucaki**</a> _v._ ([teluca](#teluca)+[ki](#ki))  
+
+
+- <a name="'teluku">**'teluku**</a> _n._ (Tel. &langle;తెలుగు&rangle; [t̪el̪uɡu])  
+
+
+- <a name="'telukuak">**'telukuak**</a> _n._ (['teluku](#'teluku)+[ak](#ak))  
+
+
+- <a name="'telukutilip">**'telukutilip**</a> _n._ (['teluku](#'teluku)+[tilip](#tilip))  
+
+
+- <a name="telyot">**telyot**</a> _n._ ([te](#te)+[lyot](#lyot))  
+
+
+- <a name="tewi">**tewi**</a> _v._ (Epo. &langle;devi&rangle; [ˈdevi])  
+
+
+- <a name="tewilon">**tewilon**</a> _n._ ([tewi](#tewi)+[lon](#lon))  
+
+
+- <a name="tewilum">**tewilum**</a> _n._ ([tewi](#tewi)+[lum](#lum))  
+
+
+- <a name="tewinu">**tewinu**</a> _v._ ([tewi](#tewi)+[nu](#nu))  
+
+
+- <a name="tewinyo">**tewinyo**</a> _v._ ([tewi](#tewi)+[nyo](#nyo))  
+
+
+- <a name="tewicitu">**tewicitu**</a> _v._ ([tewi](#tewi)+[citu](#citu))  
+
+
+- <a name="tewicitulon">**tewicitulon**</a> _n._ ([tewicitu](#tewicitu)+[lon](#lon))  
+
+
+- <a name="tewiki">**tewiki**</a> _v._ ([tewi](#tewi)+[ki](#ki))  
+
+
+- <a name="tewikiles">**tewikiles**</a> _n._ ([tewiki](#tewiki)+[les](#les))  
+
+
+- <a name="tewikunci">**tewikunci**</a> _v._ ([tewi](#tewi)+[kunci](#kunci))  
+
+
+- <a name="tewikuncilon">**tewikuncilon**</a> _n._ ([tewikunci](#tewikunci)+[lon](#lon))  
+
+
+- <a name="tewikuncilum">**tewikuncilum**</a> _n._ ([tewikunci](#tewikunci)+[lum](#lum))  
+
+
+- <a name="tewikuncilyot">**tewikuncilyot**</a> _n._ ([tewikunci](#tewikunci)+[lyot](#lyot))  
+
+
+- <a name="tewikuncinu">**tewikuncinu**</a> _v._ ([tewikunci](#tewikunci)+[nu](#nu))  
+
+
+- <a name="tewikuncinyo">**tewikuncinyo**</a> _v._ ([tewikunci](#tewikunci)+[nyo](#nyo))  
+
+
+- <a name="tewikuncinyolon">**tewikuncinyolon**</a> _n._ ([tewikuncinyo](#tewikuncinyo)+[lon](#lon))  
+
+
+- <a name="tewikunciki">**tewikunciki**</a> _v._ ([tewikunci](#tewikunci)+[ki](#ki))  
+
+
+- <a name="'tenim">**'tenim**</a> _n._ (Eng. &langle;denim&rangle; [ˈdɛnəm])  
+
+
+- <a name="tenso">**tenso**</a> _v._ (Spa. &langle;tenso&rangle; [ˈtenso])  
 ser tenso; ser intenso; estar bajo presión; ʟᴏᴧ es tenso
 
-  - **tensolon** _n._ (tenso+lon)  
-  
-
-  - **tensolyan** _n._ (tenso+lyan)  
-  
-
-  - **tensolyansomaluat** _n._ (tensolyan+somaluat)  
-  
-
-  - **tensoki** _v._ (tenso+ki)  
-  
-
-- **'temoklat** _n._ (Eng. &langle;democrat&rangle; [ˈdɛməkɹʷæt])  
+- <a name="tensolon">**tensolon**</a> _n._ ([tenso](#tenso)+[lon](#lon))  
 
 
-  - **tehwok** _n._ (te+hwok)  
-  
-
-  - **tehwokti** _v._ (tehwok+ti)  
-  
-
-  - **tehwoktiles** _n._ (tehwokti+les)  
-  
-
-  - **tehwoktilon** _n._ (tehwokti+lon)  
-  
-
-  - **tehwoktilum** _n._ (tehwokti+lum)  
-  
-
-- **tec** _n._ (Hin. &langle;देश&rangle; [deʃ])  
+- <a name="tensolyan">**tensolyan**</a> _n._ ([tenso](#tenso)+[lyan](#lyan))  
 
 
-  - **tecak** _n._ (tec+ak)  
-  
+- <a name="tensolyansomaluat">**tensolyansomaluat**</a> _n._ ([tensolyan](#tensolyan)+[somaluat](#somaluat))  
 
-  - **teclwa** _v._ (tec+lwa)  
-  
 
-  - **teclwalon** _n._ (teclwa+lon)  
-  
+- <a name="tensoki">**tensoki**</a> _v._ ([tenso](#tenso)+[ki](#ki))  
 
-  - **teclwalum** _n._ (teclwa+lum)  
-  
 
-  - **teclwanu** _v._ (teclwa+nu)  
-  
+- <a name="'temoklat">**'temoklat**</a> _n._ (Eng. &langle;democrat&rangle; [ˈdɛməkɹʷæt])  
 
-  - **teclwanyo** _v._ (tec+lwa+nyo)  
-  
 
-  - **teclwanyolon** _n._ (teclwanyo+lon)  
-  
+- <a name="tehwok">**tehwok**</a> _n._ ([te](#te)+[hwok](#hwok))  
 
-  - **teclwanyolum** _n._ (teclwanyo+lum)  
-  
 
-  - **teclwaki** _v._ (teclwa+ki)  
-  
+- <a name="tehwokti">**tehwokti**</a> _v._ ([tehwok](#tehwok)+[ti](#ti))  
 
-  - **teclwakiles** _n._ (teclwaki+les)  
-  
 
-  - **teclwakilum** _n._ (teclwaki+lum)  
-  
+- <a name="tehwoktiles">**tehwoktiles**</a> _n._ ([tehwokti](#tehwokti)+[les](#les))  
 
-  - **tecwelon** _n._ (te+cwelon)  
-  
 
-  - **tecsota** _v._ (tec+sota)  
-  
+- <a name="tehwoktilon">**tehwoktilon**</a> _n._ ([tehwokti](#tehwokti)+[lon](#lon))  
 
-  - **tecsotalon** _n._ (tecsota+lon)  
-  
 
-  - **tecsotalip** _n._ (tecsota+lip)  
-  
+- <a name="tehwoktilum">**tehwoktilum**</a> _n._ ([tehwokti](#tehwokti)+[lum](#lum))  
 
-  - **tecsotalum** _n._ (tecsota+lum)  
-  
 
-  - **tecsotalwel** _n._ (tecsota+lwel)  
-  
+- <a name="tec">**tec**</a> _n._ (Hin. &langle;देश&rangle; [deʃ])  
 
-  - **tecsotanu** _v._ (tecsota+nu)  
-  
 
-  - **tecsotaki** _v._ (tecsota+ki)  
-  
+- <a name="tecak">**tecak**</a> _n._ ([tec](#tec)+[ak](#ak))  
 
-  - **tecsotakiles** _n._ (tecsotaki+les)  
-  
 
-- **tes** _num._ (Spa. &langle;diez&rangle; [djes])  
+- <a name="teclwa">**teclwa**</a> _v._ ([tec](#tec)+[lwa](#lwa))  
+
+
+- <a name="teclwalon">**teclwalon**</a> _n._ ([teclwa](#teclwa)+[lon](#lon))  
+
+
+- <a name="teclwalum">**teclwalum**</a> _n._ ([teclwa](#teclwa)+[lum](#lum))  
+
+
+- <a name="teclwanu">**teclwanu**</a> _v._ ([teclwa](#teclwa)+[nu](#nu))  
+
+
+- <a name="teclwanyo">**teclwanyo**</a> _v._ ([tec](#tec)+[lwa](#lwa)+[nyo](#nyo))  
+
+
+- <a name="teclwanyolon">**teclwanyolon**</a> _n._ ([teclwanyo](#teclwanyo)+[lon](#lon))  
+
+
+- <a name="teclwanyolum">**teclwanyolum**</a> _n._ ([teclwanyo](#teclwanyo)+[lum](#lum))  
+
+
+- <a name="teclwaki">**teclwaki**</a> _v._ ([teclwa](#teclwa)+[ki](#ki))  
+
+
+- <a name="teclwakiles">**teclwakiles**</a> _n._ ([teclwaki](#teclwaki)+[les](#les))  
+
+
+- <a name="teclwakilum">**teclwakilum**</a> _n._ ([teclwaki](#teclwaki)+[lum](#lum))  
+
+
+- <a name="tecwelon">**tecwelon**</a> _n._ ([te](#te)+[cwelon](#cwelon))  
+
+
+- <a name="tecsota">**tecsota**</a> _v._ ([tec](#tec)+[sota](#sota))  
+
+
+- <a name="tecsotalon">**tecsotalon**</a> _n._ ([tecsota](#tecsota)+[lon](#lon))  
+
+
+- <a name="tecsotalip">**tecsotalip**</a> _n._ ([tecsota](#tecsota)+[lip](#lip))  
+
+
+- <a name="tecsotalum">**tecsotalum**</a> _n._ ([tecsota](#tecsota)+[lum](#lum))  
+
+
+- <a name="tecsotalwel">**tecsotalwel**</a> _n._ ([tecsota](#tecsota)+[lwel](#lwel))  
+
+
+- <a name="tecsotanu">**tecsotanu**</a> _v._ ([tecsota](#tecsota)+[nu](#nu))  
+
+
+- <a name="tecsotaki">**tecsotaki**</a> _v._ ([tecsota](#tecsota)+[ki](#ki))  
+
+
+- <a name="tecsotakiles">**tecsotakiles**</a> _n._ ([tecsotaki](#tecsotaki)+[les](#les))  
+
+
+- <a name="tes">**tes**</a> _num._ (Spa. &langle;diez&rangle; [djes])  
 10; diez
 
-  - **tesak** _n._ (tes+ak)  
-  noveno
+- <a name="tesak">**tesak**</a> _n._ ([tes](#tes)+[ak](#ak))  
+noveno
 
-- **'tekila** _n._ (Spa. &langle;tequila&rangle; [teˈkila])  
+- <a name="'tekila">**'tekila**</a> _n._ (Spa. &langle;tequila&rangle; [teˈkila])  
 
 
-- **'tekwanto** _n._ (Kor. &langle;태권도&rangle; [tʰɛ.k͈wʌn.do])  
+- <a name="'tekwanto">**'tekwanto**</a> _n._ (Kor. &langle;태권도&rangle; [tʰɛ.k͈wʌn.do])  
 
 
-  - **tepaltolon** _n._ (te+paltolon)  
-  
+- <a name="tepaltolon">**tepaltolon**</a> _n._ ([te](#te)+[paltolon](#paltolon))  
 
-  - **tepaltolonoltolum** _n._ (tepaltolon+oltolum)  
-  
 
-  - **tepaltolonoltolumak** _n._ (tepaltolonoltolum+ak)  
-  
+- <a name="tepaltolonoltolum">**tepaltolonoltolum**</a> _n._ ([tepaltolon](#tepaltolon)+[oltolum](#oltolum))  
 
-  - **tepato** _v._ (te+pato)  
-  
 
-  - **tepatolon** _n._ (tepato+lon)  
-  
+- <a name="tepaltolonoltolumak">**tepaltolonoltolumak**</a> _n._ ([tepaltolonoltolum](#tepaltolonoltolum)+[ak](#ak))  
 
-- **ta** _v._ (Cmn. &langle;打&rangle; [ta˧˩˧])  
 
+- <a name="tepato">**tepato**</a> _v._ ([te](#te)+[pato](#pato))  
 
-- **'ta** _n._ (ono. [t])  
 
+- <a name="tepatolon">**tepatolon**</a> _n._ ([tepato](#tepato)+[lon](#lon))  
 
-- **'tay** _n._ (Tha. &langle;ไทย&rangle; [tʰaj˧])  
 
+- <a name="ta">**ta**</a> _v._ (Cmn. &langle;打&rangle; [ta˧˩˧])  
 
-  - **'tayak** _n._ ('tay+ak)  
-  
 
-- **tayl** _n._ (~~lawt~~)  
+- <a name="'ta">**'ta**</a> _n._ (ono. [t])  
 
 
-  - **taylalkas** _n._ (tayl+alkas)  
-  
+- <a name="'tay">**'tay**</a> _n._ (Tha. &langle;ไทย&rangle; [tʰaj˧])  
 
-  - **taylak** _n._ (tayl+ak)  
-  
 
-  - **taylnelawt** _n._ (tayl+ne+lawt)  
-  
+- <a name="'tayak">**'tayak**</a> _n._ (['tay](#'tay)+[ak](#ak))  
 
-  - **taylnito** _v._ (tayl+nito)  
-  
 
-  - **taylnitolon** _n._ (taylnito+lon)  
-  
+- <a name="tayl">**tayl**</a> _n._ ([~~lawt~~](#lawt))  
 
-  - **taylkatilum** _n._ (tayl+katilum)  
-  
 
-  - **taylkatilumcipcip** _n._ (taylkatilum+cipcip)  
-  
+- <a name="taylalkas">**taylalkas**</a> _n._ ([tayl](#tayl)+[alkas](#alkas))  
 
-  - **taylkule** _v._ (tayl+kule)  
-  
 
-  - **taylkulelon** _n._ (taylkule+lon)  
-  
+- <a name="taylak">**taylak**</a> _n._ ([tayl](#tayl)+[ak](#ak))  
 
-- **'taywan** _n._ (Cmn. &langle;台湾&rangle; [tʰaɪ̯˧˥wan˥])  
 
+- <a name="taylnelawt">**taylnelawt**</a> _n._ ([tayl](#tayl)+[ne](#ne)+[lawt](#lawt))  
 
-  - **'taywanak** _n._ ('taywan+ak)  
-  
 
-  - **'taywanwon** _n._ ('taywan+won)  
-  
+- <a name="taylnito">**taylnito**</a> _v._ ([tayl](#tayl)+[nito](#nito))  
 
-  - **'taywantec** _n._ ('taywan+tec)  
-  
 
-- **tayc** _n._ (Cmn. &langle;袋鼠&rangle; [taɪ̯˥˩ʂu˧˩˧])  
+- <a name="taylnitolon">**taylnitolon**</a> _n._ ([taylnito](#taylnito)+[lon](#lon))  
 
 
-- **'taycicwen** _n._ (Cmn. &langle;太极拳&rangle; [tʰaj˥˩.t͡ɕi˧˥)  
+- <a name="taylkatilum">**taylkatilum**</a> _n._ ([tayl](#tayl)+[katilum](#katilum))  
 
 
-- **taykun** _n._ (Cmn. &langle;太空&rangle; [tʰaɪ̯˥˩kʰʊŋ˥])  
+- <a name="taylkatilumcipcip">**taylkatilumcipcip**</a> _n._ ([taylkatilum](#taylkatilum)+[cipcip](#cipcip))  
 
 
-  - **taykunak** _n._ (taykun+ak)  
-  
+- <a name="taylkule">**taylkule**</a> _v._ ([tayl](#tayl)+[kule](#kule))  
 
-  - **taykunmontalon** _n._ (taykun+montalon)  
-  
 
-  - **taykunpatolon** _n._ (taykun+patolon)  
-  
+- <a name="taylkulelon">**taylkulelon**</a> _n._ ([taylkule](#taylkule)+[lon](#lon))  
 
-  - **'taytec** _n._ ('tay+tec)  
-  
 
-  - **'taytilip** _n._ ('tay+tilip)  
-  
+- <a name="'taywan">**'taywan**</a> _n._ (Cmn. &langle;台湾&rangle; [tʰaɪ̯˧˥wan˥])  
 
-- **tal** _n._ (Hin. &langle;धड़&rangle; [d̤əɽ])  
 
+- <a name="'taywanak">**'taywanak**</a> _n._ (['taywan](#'taywan)+[ak](#ak))  
 
-- **'tala** _n._ (Eng. &langle;dollar&rangle; [ˈdɑlɚ])  
 
+- <a name="'taywanwon">**'taywanwon**</a> _n._ (['taywan](#'taywan)+[won](#won))  
 
-  - **talak** _n._ (tal+ak)  
-  
 
-  - **taluat** _n._ (ta+luat)  
-  
+- <a name="'taywantec">**'taywantec**</a> _n._ (['taywan](#'taywan)+[tec](#tec))  
 
-  - **talpaholon** _n._ (tal+paholon)  
-  
 
-  - **talpoltilum** _n._ (tal+poltilum)  
-  
+- <a name="tayc">**tayc**</a> _n._ (Cmn. &langle;袋鼠&rangle; [taɪ̯˥˩ʂu˧˩˧])  
 
-- **'taw** _n._ (Cmn. &langle;道&rangle; [taw˥˩])  
 
+- <a name="'taycicwen">**'taycicwen**</a> _n._ (Cmn. &langle;太极拳&rangle; [tʰaj˥˩.t͡ɕi˧˥)  
 
-- **'taw** _n._ (Grc. &langle;τ&rangle; [taw])  
 
+- <a name="taykun">**taykun**</a> _n._ (Cmn. &langle;太空&rangle; [tʰaɪ̯˥˩kʰʊŋ˥])  
 
-- **tawh** _n._ (Cmn. &langle;桃&rangle; [tʰɑʊ̯˧˥])  
 
+- <a name="taykunak">**taykunak**</a> _n._ ([taykun](#taykun)+[ak](#ak))  
 
-  - **'tawfitilip** _n._ ('taw+fitilip)  
-  
 
-  - **'tawfitilipak** _n._ ('tawfitilip+ak)  
-  
+- <a name="taykunmontalon">**taykunmontalon**</a> _n._ ([taykun](#taykun)+[montalon](#montalon))  
 
-  - **'tawfitilipwon** _n._ ('tawfitilip+won)  
-  
 
-- **tan** _n._ (Cmn. &langle;蛋&rangle; [tan˥˩])  
+- <a name="taykunpatolon">**taykunpatolon**</a> _n._ ([taykun](#taykun)+[patolon](#patolon))  
 
 
-- **'tan ** _n._ (Dan. &langle;Dan-&rangle; [dan])  
+- <a name="'taytec">**'taytec**</a> _n._ (['tay](#'tay)+[tec](#tec))  
 
 
-  - **tanec** _n._ (tan+ec)  
-  
+- <a name="'taytilip">**'taytilip**</a> _n._ (['tay](#'tay)+[tilip](#tilip))  
 
-  - **tanak** _n._ (tan+ak)  
-  
 
-  - **'tan ak** _n._ ('tan +ak)  
-  
+- <a name="tal">**tal**</a> _n._ (Hin. &langle;धड़&rangle; [d̤əɽ])  
 
-- **tanul** _n._ (Jav. &langle;dangur&rangle; [tɑ̤ŋʊɽ])  
 
+- <a name="'tala">**'tala**</a> _n._ (Eng. &langle;dollar&rangle; [ˈdɑlɚ])  
 
-  - **tanmamul** _n._ (tan+mamul)  
-  
 
-- **'tansania** _n._ (Swa. &langle;Tanzania&rangle; [tanzania])  
+- <a name="talak">**talak**</a> _n._ ([tal](#tal)+[ak](#ak))  
 
 
-  - **'tansaniaak** _n._ ('tansania+ak)  
-  
+- <a name="taluat">**taluat**</a> _n._ ([ta](#ta)+[luat](#luat))  
 
-  - **'tansaniawon** _n._ ('tansania+won)  
-  
 
-  - **'tan tec** _n._ ('tan +tec)  
-  
+- <a name="talpaholon">**talpaholon**</a> _n._ ([tal](#tal)+[paholon](#paholon))  
 
-  - **'tan tilip** _n._ ('tan +tilip)  
-  
 
-- **'tamil** _n._ (Tam. &langle;தமிழ்&rangle; [t̪ɐmɨɻ])  
+- <a name="talpoltilum">**talpoltilum**</a> _n._ ([tal](#tal)+[poltilum](#poltilum))  
 
 
-  - **'tamilak** _n._ ('tamil+ak)  
-  
+- <a name="'taw">**'taw**</a> _n._ (Cmn. &langle;道&rangle; [taw˥˩])  
 
-  - **'tamiltilip** _n._ ('tamil+tilip)  
-  
 
-- **tafu** _v._ (~~lasi~~)  
+- <a name="'taw">**'taw**</a> _n._ (Grc. &langle;τ&rangle; [taw])  
 
 
-  - **tafulon** _n._ (tafu+lon)  
-  
+- <a name="tawh">**tawh**</a> _n._ (Cmn. &langle;桃&rangle; [tʰɑʊ̯˧˥])  
 
-  - **tafulum** _n._ (tafu+lum)  
-  
 
-  - **tafunihu** _v._ (tafu+nihu)  
-  
+- <a name="'tawfitilip">**'tawfitilip**</a> _n._ (['taw](#'taw)+[fitilip](#fitilip))  
 
-  - **tafunihuti** _v._ (tafunihu+ti)  
-  
 
-  - **tafuki** _v._ (tafu+ki)  
-  
+- <a name="'tawfitilipak">**'tawfitilipak**</a> _n._ (['tawfitilip](#'tawfitilip)+[ak](#ak))  
 
-  - **tafukiles** _n._ (tafuki+les)  
-  
 
-  - **tafukuci** _v._ (tafu+kuci)  
-  
+- <a name="'tawfitilipwon">**'tawfitilipwon**</a> _n._ (['tawfitilip](#'tawfitilip)+[won](#won))  
 
-- **taka** _v._ (Ben. &langle;থাকা&rangle; [t̪ʰaka])  
+
+- <a name="tan">**tan**</a> _n._ (Cmn. &langle;蛋&rangle; [tan˥˩])  
+
+
+- <a name="'tan ">**'tan **</a> _n._ (Dan. &langle;Dan-&rangle; [dan])  
+
+
+- <a name="tanec">**tanec**</a> _n._ ([tan](#tan)+[ec](#ec))  
+
+
+- <a name="tanak">**tanak**</a> _n._ ([tan](#tan)+[ak](#ak))  
+
+
+- <a name="'tan ak">**'tan ak**</a> _n._ (['tan ](#'tan )+[ak](#ak))  
+
+
+- <a name="tanul">**tanul**</a> _n._ (Jav. &langle;dangur&rangle; [tɑ̤ŋʊɽ])  
+
+
+- <a name="tanmamul">**tanmamul**</a> _n._ ([tan](#tan)+[mamul](#mamul))  
+
+
+- <a name="'tansania">**'tansania**</a> _n._ (Swa. &langle;Tanzania&rangle; [tanzania])  
+
+
+- <a name="'tansaniaak">**'tansaniaak**</a> _n._ (['tansania](#'tansania)+[ak](#ak))  
+
+
+- <a name="'tansaniawon">**'tansaniawon**</a> _n._ (['tansania](#'tansania)+[won](#won))  
+
+
+- <a name="'tan tec">**'tan tec**</a> _n._ (['tan ](#'tan )+[tec](#tec))  
+
+
+- <a name="'tan tilip">**'tan tilip**</a> _n._ (['tan ](#'tan )+[tilip](#tilip))  
+
+
+- <a name="'tamil">**'tamil**</a> _n._ (Tam. &langle;தமிழ்&rangle; [t̪ɐmɨɻ])  
+
+
+- <a name="'tamilak">**'tamilak**</a> _n._ (['tamil](#'tamil)+[ak](#ak))  
+
+
+- <a name="'tamiltilip">**'tamiltilip**</a> _n._ (['tamil](#'tamil)+[tilip](#tilip))  
+
+
+- <a name="tafu">**tafu**</a> _v._ ([~~lasi~~](#lasi))  
+
+
+- <a name="tafulon">**tafulon**</a> _n._ ([tafu](#tafu)+[lon](#lon))  
+
+
+- <a name="tafulum">**tafulum**</a> _n._ ([tafu](#tafu)+[lum](#lum))  
+
+
+- <a name="tafunihu">**tafunihu**</a> _v._ ([tafu](#tafu)+[nihu](#nihu))  
+
+
+- <a name="tafunihuti">**tafunihuti**</a> _v._ ([tafunihu](#tafunihu)+[ti](#ti))  
+
+
+- <a name="tafuki">**tafuki**</a> _v._ ([tafu](#tafu)+[ki](#ki))  
+
+
+- <a name="tafukiles">**tafukiles**</a> _n._ ([tafuki](#tafuki)+[les](#les))  
+
+
+- <a name="tafukuci">**tafukuci**</a> _v._ ([tafu](#tafu)+[kuci](#kuci))  
+
+
+- <a name="taka">**taka**</a> _v._ (Ben. &langle;থাকা&rangle; [t̪ʰaka])  
 estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
 
-- **'taka** _n._ (Ben. &langle;ঢাকা&rangle; [ɖʱaka])  
+- <a name="'taka">**'taka**</a> _n._ (Ben. &langle;ঢাকা&rangle; [ɖʱaka])  
 
 
-- **takai** _v._ (Cmn. &langle;打开&rangle; [ta˧˩˧kʰaɪ̯˥])  
+- <a name="takai">**takai**</a> _v._ (Cmn. &langle;打开&rangle; [ta˧˩˧kʰaɪ̯˥])  
 
 
-  - **takailon** _n._ (takai+lon)  
-  
+- <a name="takailon">**takailon**</a> _n._ ([takai](#takai)+[lon](#lon))  
 
-  - **takaiki** _v._ (takai+ki)  
-  
 
-  - **takaikiles** _n._ (takaiki+les)  
-  
+- <a name="takaiki">**takaiki**</a> _v._ ([takai](#takai)+[ki](#ki))  
 
-  - **takalon** _n._ (taka+lon)  
-  descansando; arriba
 
-- **'takalok** _n._ (Tgl. &langle;ᜆᜄᜎᜓᜄ᜔&rangle; [tɐˈɡaːloɡ])  
+- <a name="takaikiles">**takaikiles**</a> _n._ ([takaiki](#takaiki)+[les](#les))  
 
 
-  - **'takalokak** _n._ ('takalok+ak)  
-  
+- <a name="takalon">**takalon**</a> _n._ ([taka](#taka)+[lon](#lon))  
+descansando; arriba
 
-  - **'takaloktilip** _n._ ('takalok+tilip)  
-  
+- <a name="'takalok">**'takalok**</a> _n._ (Tgl. &langle;ᜆᜄᜎᜓᜄ᜔&rangle; [tɐˈɡaːloɡ])  
 
-  - **takalum** _n._ (taka+lum)  
-  mesa; piso; suelo; base
 
-  - **takanu** _v._ (taka+nu)  
-  
+- <a name="'takalokak">**'takalokak**</a> _n._ (['takalok](#'takalok)+[ak](#ak))  
 
-  - **takaki** _v._ (taka+ki)  
-  
 
-- **tatu** _v._ (Ben. &langle;ধাতু&rangle; [d̪̤at̪u])  
+- <a name="'takaloktilip">**'takaloktilip**</a> _n._ (['takalok](#'takalok)+[tilip](#tilip))  
 
 
-  - **tatulon** _n._ (tatu+lon)  
-  
+- <a name="takalum">**takalum**</a> _n._ ([taka](#taka)+[lum](#lum))  
+mesa; piso; suelo; base
 
-  - **tatulonfik** _n._ (tatulon+fik)  
-  
+- <a name="takanu">**takanu**</a> _v._ ([taka](#taka)+[nu](#nu))  
 
-  - **tatuki** _v._ (tatu+ki)  
-  
 
-- **tapa** _v._ (~~lama~~)  
+- <a name="takaki">**takaki**</a> _v._ ([taka](#taka)+[ki](#ki))  
 
 
-- **'tapa** _n._ (Tah. &langle;tapa&rangle; [tapa])  
+- <a name="tatu">**tatu**</a> _v._ (Ben. &langle;ধাতু&rangle; [d̪̤at̪u])  
 
 
-  - **tapalon** _n._ (tapa+lon)  
-  
+- <a name="tatulon">**tatulon**</a> _n._ ([tatu](#tatu)+[lon](#lon))  
 
-  - **tapafuloki** _v._ (tapa+fuloki)  
-  
 
-  - **tapaki** _v._ (tapa+ki)  
-  
+- <a name="tatulonfik">**tatulonfik**</a> _n._ ([tatulon](#tatulon)+[fik](#fik))  
 
-  - **tapakiles** _n._ (tapaki+les)  
-  
 
-  - **tapakwelwel** _n._ (tapa+kwelwel)  
-  
+- <a name="tatuki">**tatuki**</a> _v._ ([tatu](#tatu)+[ki](#ki))  
 
-- **tapil** _n._ (Spa. &langle;tapir&rangle; [taˈpir])  
 
+- <a name="tapa">**tapa**</a> _v._ ([~~lama~~](#lama))  
 
-- **to** _v._ (~~le~~)  
 
+- <a name="'tapa">**'tapa**</a> _n._ (Tah. &langle;tapa&rangle; [tapa])  
 
-- **'toyc** _n._ (Deu. &langle;Deutsch&rangle; [ˈdɔʏ̯t͡ʃ])  
 
+- <a name="tapalon">**tapalon**</a> _n._ ([tapa](#tapa)+[lon](#lon))  
 
-  - **'toycak** _n._ ('toyc+ak)  
-  
 
-  - **'toyctec** _n._ ('toyc+tec)  
-  
+- <a name="tapafuloki">**tapafuloki**</a> _v._ ([tapa](#tapa)+[fuloki](#fuloki))  
 
-  - **'toyctilip** _n._ ('toyc+tilip)  
-  
 
-  - **tolon** _n._ (to+lon)  
-  
+- <a name="tapaki">**tapaki**</a> _v._ ([tapa](#tapa)+[ki](#ki))  
 
-- **tolmi** _v._ (Epo. &langle;dormi&rangle; [ˈdormi])  
 
+- <a name="tapakiles">**tapakiles**</a> _n._ ([tapaki](#tapaki)+[les](#les))  
 
-  - **tolmioyelum** _n._ (tolmi+oyelum)  
-  
 
-  - **tolmilon** _n._ (tolmi+lon)  
-  
+- <a name="tapakwelwel">**tapakwelwel**</a> _n._ ([tapa](#tapa)+[kwelwel](#kwelwel))  
 
-  - **tolmicua** _v._ (tolmi+cua)  
-  
 
-  - **tolmicualon** _n._ (tolmicua+lon)  
-  
+- <a name="tapil">**tapil**</a> _n._ (Spa. &langle;tapir&rangle; [taˈpir])  
 
-  - **tolmicualum** _n._ (tolmicua+lum)  
-  
 
-  - **tolmiki** _v._ (tolmi+ki)  
-  
+- <a name="to">**to**</a> _v._ ([~~le~~](#le))  
 
-- **ton** _n._ (Ben. &langle;ধনে&rangle; [d̪̤ɔn̪e])  
 
+- <a name="'toyc">**'toyc**</a> _n._ (Deu. &langle;Deutsch&rangle; [ˈdɔʏ̯t͡ʃ])  
 
-- **'tona** _n._ (Ton. &langle;Tonga&rangle; [ˈtoŋa])  
 
+- <a name="'toycak">**'toycak**</a> _n._ (['toyc](#'toyc)+[ak](#ak))  
 
-  - **'tonaak** _n._ ('tona+ak)  
-  
 
-  - **'tonawon** _n._ ('tona+won)  
-  
+- <a name="'toyctec">**'toyctec**</a> _n._ (['toyc](#'toyc)+[tec](#tec))  
 
-  - **'tonatec** _n._ ('tona+tec)  
-  
 
-  - **'tonatilip** _n._ ('tona+tilip)  
-  
+- <a name="'toyctilip">**'toyctilip**</a> _n._ (['toyc](#'toyc)+[tilip](#tilip))  
 
-- **tomat** _n._ (Msa. &langle;tomat&rangle; [tomat])  
 
+- <a name="tolon">**tolon**</a> _n._ ([to](#to)+[lon](#lon))  
 
-- **'tominika** _n._ (Eng. &langle;Dominica&rangle; [dɒmɪˈniːkə])  
 
+- <a name="tolmi">**tolmi**</a> _v._ (Epo. &langle;dormi&rangle; [ˈdormi])  
 
-  - **'tominikaak** _n._ ('tominika+ak)  
-  
 
-  - **'tominikawon** _n._ ('tominika+won)  
-  
+- <a name="tolmioyelum">**tolmioyelum**</a> _n._ ([tolmi](#tolmi)+[oyelum](#oyelum))  
 
-- **'tocik** _n._ (Tgk. &langle;Тоҷик&rangle; [tɔd͡ʒik])  
 
+- <a name="tolmilon">**tolmilon**</a> _n._ ([tolmi](#tolmi)+[lon](#lon))  
 
-  - **'tocikak** _n._ ('tocik+ak)  
-  
 
-  - **'tociktec** _n._ ('tocik+tec)  
-  
+- <a name="tolmicua">**tolmicua**</a> _v._ ([tolmi](#tolmi)+[cua](#cua))  
 
-  - **'tociktilip** _n._ ('tocik+tilip)  
-  
 
-- **tos** _num._ (Spa. &langle;dos&rangle; [dos])  
+- <a name="tolmicualon">**tolmicualon**</a> _n._ ([tolmicua](#tolmicua)+[lon](#lon))  
+
+
+- <a name="tolmicualum">**tolmicualum**</a> _n._ ([tolmicua](#tolmicua)+[lum](#lum))  
+
+
+- <a name="tolmiki">**tolmiki**</a> _v._ ([tolmi](#tolmi)+[ki](#ki))  
+
+
+- <a name="ton">**ton**</a> _n._ (Ben. &langle;ধনে&rangle; [d̪̤ɔn̪e])  
+
+
+- <a name="'tona">**'tona**</a> _n._ (Ton. &langle;Tonga&rangle; [ˈtoŋa])  
+
+
+- <a name="'tonaak">**'tonaak**</a> _n._ (['tona](#'tona)+[ak](#ak))  
+
+
+- <a name="'tonawon">**'tonawon**</a> _n._ (['tona](#'tona)+[won](#won))  
+
+
+- <a name="'tonatec">**'tonatec**</a> _n._ (['tona](#'tona)+[tec](#tec))  
+
+
+- <a name="'tonatilip">**'tonatilip**</a> _n._ (['tona](#'tona)+[tilip](#tilip))  
+
+
+- <a name="tomat">**tomat**</a> _n._ (Msa. &langle;tomat&rangle; [tomat])  
+
+
+- <a name="'tominika">**'tominika**</a> _n._ (Eng. &langle;Dominica&rangle; [dɒmɪˈniːkə])  
+
+
+- <a name="'tominikaak">**'tominikaak**</a> _n._ (['tominika](#'tominika)+[ak](#ak))  
+
+
+- <a name="'tominikawon">**'tominikawon**</a> _n._ (['tominika](#'tominika)+[won](#won))  
+
+
+- <a name="'tocik">**'tocik**</a> _n._ (Tgk. &langle;Тоҷик&rangle; [tɔd͡ʒik])  
+
+
+- <a name="'tocikak">**'tocikak**</a> _n._ (['tocik](#'tocik)+[ak](#ak))  
+
+
+- <a name="'tociktec">**'tociktec**</a> _n._ (['tocik](#'tocik)+[tec](#tec))  
+
+
+- <a name="'tociktilip">**'tociktilip**</a> _n._ (['tocik](#'tocik)+[tilip](#tilip))  
+
+
+- <a name="tos">**tos**</a> _num._ (Spa. &langle;dos&rangle; [dos])  
 2; dos; doble
 
-  - **tosak** _n._ (tos+ak)  
-  segundo
+- <a name="tosak">**tosak**</a> _n._ ([tos](#tos)+[ak](#ak))  
+segundo
 
-  - **toslekpoltilum** _n._ (tos+lekpoltilum)  
-  
+- <a name="toslekpoltilum">**toslekpoltilum**</a> _n._ ([tos](#tos)+[lekpoltilum](#lekpoltilum))  
 
-  - **tosnokipumkwelwel** _n._ (tos+noki+pumkwelwel)  
-  
 
-  - **toscohluso** _v._ (tos+coh+luso)  
-  
+- <a name="tosnokipumkwelwel">**tosnokipumkwelwel**</a> _n._ ([tos](#tos)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
-  - **toscohlusolon** _n._ (toscohluso+lon)  
-  
 
-  - **tossunkwelwel** _n._ (tos+sunkwelwel)  
-  
+- <a name="toscohluso">**toscohluso**</a> _v._ ([tos](#tos)+[coh](#coh)+[luso](#luso))  
 
-  - **toskwelwel** _n._ (tos+kwelwel)  
-  
 
-- **tofta** _v._ (~~lesla~~)  
+- <a name="toscohlusolon">**toscohlusolon**</a> _n._ ([toscohluso](#toscohluso)+[lon](#lon))  
 
 
-  - **toftalon** _n._ (tofta+lon)  
-  
+- <a name="tossunkwelwel">**tossunkwelwel**</a> _n._ ([tos](#tos)+[sunkwelwel](#sunkwelwel))  
 
-  - **toftaki** _v._ (tofta+ki)  
-  
 
-  - **toftakiles** _n._ (toftaki+les)  
-  
+- <a name="toskwelwel">**toskwelwel**</a> _n._ ([tos](#tos)+[kwelwel](#kwelwel))  
 
-- **toka** _v._ (Spa. &langle;toca&rangle; [ˈtoka])  
 
+- <a name="tofta">**tofta**</a> _v._ ([~~lesla~~](#lesla))  
 
-  - **tokalon** _n._ (toka+lon)  
-  
 
-  - **tokalyot** _n._ (toka+lyot)  
-  
+- <a name="toftalon">**toftalon**</a> _n._ ([tofta](#tofta)+[lon](#lon))  
 
-  - **tokanu** _v._ (toka+nu)  
-  
 
-  - **tokanuluat** _n._ (tokanu+luat)  
-  
+- <a name="toftaki">**toftaki**</a> _v._ ([tofta](#tofta)+[ki](#ki))  
 
-  - **tokanulyot** _n._ (tokanu+lyot)  
-  
 
-- **'tokamak** _n._ (Rus. &langle;токамáк&rangle; [tɔkɐmɐk])  
+- <a name="toftakiles">**toftakiles**</a> _n._ ([toftaki](#toftaki)+[les](#les))  
 
 
-  - **tokaci** _v._ (toka+ci)  
-  
+- <a name="toka">**toka**</a> _v._ (Spa. &langle;toca&rangle; [ˈtoka])  
 
-  - **tokaki** _v._ (toka+ki)  
-  
 
-- **toko** _v._ (Ben. &langle;টক&rangle; [tɔkɔ])  
+- <a name="tokalon">**tokalon**</a> _n._ ([toka](#toka)+[lon](#lon))  
 
 
-- **'toko** _n._ (Fra. &langle;Togo&rangle; [togo])  
+- <a name="tokalyot">**tokalyot**</a> _n._ ([toka](#toka)+[lyot](#lyot))  
 
 
-  - **'tokoak** _n._ ('toko+ak)  
-  
+- <a name="tokanu">**tokanu**</a> _v._ ([toka](#toka)+[nu](#nu))  
 
-  - **tokolon** _n._ (toko+lon)  
-  
 
-  - **tokolyan** _n._ (toko+lyan)  
-  
+- <a name="tokanuluat">**tokanuluat**</a> _n._ ([tokanu](#tokanu)+[luat](#luat))  
 
-  - **'tokowon** _n._ ('toko+won)  
-  
 
-  - **tokoki** _v._ (toko+ki)  
-  
+- <a name="tokanulyot">**tokanulyot**</a> _n._ ([tokanu](#tokanu)+[lyot](#lyot))  
 
-  - **toki** _v._ (to+ki)  
-  
 
-  - **'tokipona** _n._ (Tok. &langle;toki pona>)  
-  
+- <a name="'tokamak">**'tokamak**</a> _n._ (Rus. &langle;токамáк&rangle; [tɔkɐmɐk])  
 
-  - **'tokiponaak** _n._ ('tokipona+ak)  
-  
 
-  - **'tokiponawon** _n._ ('tokipona+won)  
-  
+- <a name="tokaci">**tokaci**</a> _v._ ([toka](#toka)+[ci](#ci))  
 
-- **'tokyo** _n._ (Jpn. &langle;東京&rangle; [toːkʲoː])  
 
+- <a name="tokaki">**tokaki**</a> _v._ ([toka](#toka)+[ki](#ki))  
 
-- **toto** _v._ (~~lele~~)  
 
+- <a name="toko">**toko**</a> _v._ (Ben. &langle;টক&rangle; [tɔkɔ])  
 
-- **'topeykow** _n._ (Eng. &langle;Tobago&rangle; [təbeɪɡəʊ])  
 
+- <a name="'toko">**'toko**</a> _n._ (Fra. &langle;Togo&rangle; [togo])  
 
-  - **'topeykowak** _n._ ('topeykow+ak)  
-  
 
-- **ti** _v._ (Xho. &langle;thi&rangle; [tʰi])  
+- <a name="'tokoak">**'tokoak**</a> _n._ (['toko](#'toko)+[ak](#ak))  
 
 
-- **tie** _v._ (Ben. &langle;দিয়ে&rangle; [d̪ie̯e])  
+- <a name="tokolon">**tokolon**</a> _n._ ([toko](#toko)+[lon](#lon))  
 
 
-  - **tielon** _n._ (tie+lon)  
-  
+- <a name="tokolyan">**tokolyan**</a> _n._ ([toko](#toko)+[lyan](#lyan))  
 
-  - **tielonfolmo** _v._ (tielon+folmo)  
-  
 
-  - **tielonfolmolon** _n._ (tielonfolmo+lon)  
-  
+- <a name="'tokowon">**'tokowon**</a> _n._ (['toko](#'toko)+[won](#won))  
 
-  - **tielum** _n._ (tie+lum)  
-  
 
-  - **tielyan** _n._ (tie+lyan)  
-  
+- <a name="tokoki">**tokoki**</a> _v._ ([toko](#toko)+[ki](#ki))  
 
-  - **tieki** _v._ (tie+ki)  
-  
 
-  - **tiekilyot** _n._ (tieki+lyot)  
-  
+- <a name="toki">**toki**</a> _v._ ([to](#to)+[ki](#ki))  
 
-  - **tiles** _n._ (ti+les)  
-  
 
-  - **tilon** _n._ (ti+lon)  
+  - <a name="'tokipona">**'tokipona**</a> _n._ (Tok. &langle;toki pona>)  
   
 
-  - **'tili** _n._ (Hin. &langle;दिल्ली >)  
-  
+- <a name="'tokiponaak">**'tokiponaak**</a> _n._ (['tokipona](#'tokipona)+[ak](#ak))  
 
-  - **tilip** _n._ (ti+lip)  
-  
 
-  - **tilipak** _n._ (tilip+ak)  
-  
+- <a name="'tokiponawon">**'tokiponawon**</a> _n._ (['tokipona](#'tokipona)+[won](#won))  
 
-  - **tilipsoma** _v._ (tilip+soma)  
-  
 
-  - **tilipsomales** _n._ (tilipsoma+les)  
-  
+- <a name="'tokyo">**'tokyo**</a> _n._ (Jpn. &langle;東京&rangle; [toːkʲoː])  
 
-  - **tilipsomalon** _n._ (tilipsoma+lon)  
-  
 
-  - **tiluat** _n._ (ti+luat)  
-  
+- <a name="toto">**toto**</a> _v._ ([~~lele~~](#lele))  
 
-  - **tilum** _n._ (ti+lum)  
-  
 
-- **'tiwehi** _n._ (Div. &langle;ދިވެހި&rangle; [diˈʋehi])  
+- <a name="'topeykow">**'topeykow**</a> _n._ (Eng. &langle;Tobago&rangle; [təbeɪɡəʊ])  
 
 
-  - **'tiwehiak** _n._ ('tiwehi+ak)  
-  
+- <a name="'topeykowak">**'topeykowak**</a> _n._ (['topeykow](#'topeykow)+[ak](#ak))  
 
-  - **'tiwehikwelyot** _n._ ('tiwehi+kwelyot)  
-  
 
-  - **'tiwehitec** _n._ ('tiwehi+tec)  
-  
+- <a name="ti">**ti**</a> _v._ (Xho. &langle;thi&rangle; [tʰi])  
 
-  - **'tiwehitilip** _n._ ('tiwehi+tilip)  
-  
 
-- **'tiwlki** _n._ (Tur. &langle;Türk&rangle; [tyɾk])  
+- <a name="tie">**tie**</a> _v._ (Ben. &langle;দিয়ে&rangle; [d̪ie̯e])  
 
 
-  - **'tiwlkiak** _n._ ('tiwlki+ak)  
-  
+- <a name="tielon">**tielon**</a> _n._ ([tie](#tie)+[lon](#lon))  
 
-- **'tiwlkimen** _n._ (Tuk. &langle;türkmen&rangle; [tʏɾkmɛn])  
 
+- <a name="tielonfolmo">**tielonfolmo**</a> _v._ ([tielon](#tielon)+[folmo](#folmo))  
 
-  - **'tiwlkimenak** _n._ ('tiwlkimen+ak)  
-  
 
-  - **'tiwlkimentec** _n._ ('tiwlkimen+tec)  
-  
+- <a name="tielonfolmolon">**tielonfolmolon**</a> _n._ ([tielonfolmo](#tielonfolmo)+[lon](#lon))  
 
-  - **'tiwlkimentilip** _n._ ('tiwlkimen+tilip)  
-  
 
-  - **'tiwlkitec** _n._ ('tiwlki+tec)  
-  
+- <a name="tielum">**tielum**</a> _n._ ([tie](#tie)+[lum](#lum))  
 
-  - **'tiwlkitilip** _n._ ('tiwlki+tilip)  
-  
 
-- **tinus** _n._ (Epo. &langle;tinuso&rangle; [tiˈnuso])  
+- <a name="tielyan">**tielyan**</a> _n._ ([tie](#tie)+[lyan](#lyan))  
 
 
-- **tinti** _v._ (ono. [tiŋ)  
+- <a name="tieki">**tieki**</a> _v._ ([tie](#tie)+[ki](#ki))  
 
 
-  - **tintiles** _n._ (tinti+les)  
-  
+- <a name="tiekilyot">**tiekilyot**</a> _n._ ([tieki](#tieki)+[lyot](#lyot))  
 
-  - **tintilesfolmo** _v._ (tintiles+folmo)  
-  
 
-  - **tintilesfolmolon** _n._ (tintilesfolmo+lon)  
-  
+- <a name="tiles">**tiles**</a> _n._ ([ti](#ti)+[les](#les))  
 
-  - **tintilon** _n._ (tinti+lon)  
-  
 
-- **'timensio** _n._ (Lat. &langle;dīmensiō&rangle; [diːˈmẽːsioː])  
+- <a name="tilon">**tilon**</a> _n._ ([ti](#ti)+[lon](#lon))  
 
 
-  - **'timensioak** _n._ ('timensio+ak)  
+  - <a name="'tili">**'tili**</a> _n._ (Hin. &langle;दिल्ली >)  
   
 
-- **'timol** _n._ (Tet. &langle;Timór&rangle; [timor])  
+- <a name="tilip">**tilip**</a> _n._ ([ti](#ti)+[lip](#lip))  
 
 
-  - **'timolak** _n._ ('timol+ak)  
-  
+- <a name="tilipak">**tilipak**</a> _n._ ([tilip](#tilip)+[ak](#ak))  
 
-- **tihu** _v._ (~~luci~~)  
 
+- <a name="tilipsoma">**tilipsoma**</a> _v._ ([tilip](#tilip)+[soma](#soma))  
 
-  - **tihulon** _n._ (tihu+lon)  
-  
 
-  - **tihuceluk** _n._ (tihu+celuk)  
-  
+- <a name="tilipsomales">**tilipsomales**</a> _n._ ([tilipsoma](#tilipsoma)+[les](#les))  
 
-  - **tihuki** _v._ (tihu+ki)  
-  
 
-  - **tihukio** _v._ (tihu+kio)  
-  
+- <a name="tilipsomalon">**tilipsomalon**</a> _n._ ([tilipsoma](#tilipsoma)+[lon](#lon))  
 
-  - **tihukiolon** _n._ (tihukio+lon)  
-  
 
-  - **tihukwah** _n._ (tihu+kwah)  
-  
+- <a name="tiluat">**tiluat**</a> _n._ ([ti](#ti)+[luat](#luat))  
 
-  - **tihutatu** _v._ (tihu+tatu)  
-  
 
-  - **tihutatulon** _n._ (tihutatu+lon)  
-  
+- <a name="tilum">**tilum**</a> _n._ ([ti](#ti)+[lum](#lum))  
 
-- **'ticat** _n._ (Eng. &langle;T-shirt&rangle; [tʰiː)  
 
+- <a name="'tiwehi">**'tiwehi**</a> _n._ (Div. &langle;ދިވެހި&rangle; [diˈʋehi])  
 
-- **tife** _v._ (~~luso~~)  
 
+- <a name="'tiwehiak">**'tiwehiak**</a> _n._ (['tiwehi](#'tiwehi)+[ak](#ak))  
 
-  - **tifelon** _n._ (tife+lon)  
-  
 
-  - **tifecoh** _n._ (tife+coh)  
-  
+- <a name="'tiwehikwelyot">**'tiwehikwelyot**</a> _n._ (['tiwehi](#'tiwehi)+[kwelyot](#kwelyot))  
 
-  - **tifeki** _v._ (tife+ki)  
-  
 
-  - **tifekiles** _n._ (tifeki+les)  
-  
+- <a name="'tiwehitec">**'tiwehitec**</a> _n._ (['tiwehi](#'tiwehi)+[tec](#tec))  
 
-  - **tifekilon** _n._ (tifeki+lon)  
-  
 
-- **tifaoh** _n._ (Epo. &langle;tifao&rangle; [tiˈfao])  
+- <a name="'tiwehitilip">**'tiwehitilip**</a> _n._ (['tiwehi](#'tiwehi)+[tilip](#tilip))  
 
 
-- **tik** _n._ (Mar. &langle;टिक&rangle; [ʈik])  
+- <a name="'tiwlki">**'tiwlki**</a> _n._ (Tur. &langle;Türk&rangle; [tyɾk])  
 
 
-- **tika** _v._ (~~luna~~)  
+- <a name="'tiwlkiak">**'tiwlkiak**</a> _n._ (['tiwlki](#'tiwlki)+[ak](#ak))  
 
 
-  - **tikalon** _n._ (tika+lon)  
-  
+- <a name="'tiwlkimen">**'tiwlkimen**</a> _n._ (Tuk. &langle;türkmen&rangle; [tʏɾkmɛn])  
 
-  - **tikaki** _v._ (tika+ki)  
-  
 
-- **tiku** _v._ (~~luni~~)  
+- <a name="'tiwlkimenak">**'tiwlkimenak**</a> _n._ (['tiwlkimen](#'tiwlkimen)+[ak](#ak))  
 
 
-  - **tikulon** _n._ (tiku+lon)  
-  
+- <a name="'tiwlkimentec">**'tiwlkimentec**</a> _n._ (['tiwlkimen](#'tiwlkimen)+[tec](#tec))  
 
-  - **tikulyan** _n._ (tiku+lyan)  
-  
 
-  - **tikuki** _v._ (tiku+ki)  
-  
+- <a name="'tiwlkimentilip">**'tiwlkimentilip**</a> _n._ (['tiwlkimen](#'tiwlkimen)+[tilip](#tilip))  
 
-  - **tikpic** _n._ (tik+pic)  
-  
 
-- **'titanium** _n._ (Lat. &langle;titanium&rangle; [tɪtanɪʊ̃])  
+- <a name="'tiwlkitec">**'tiwlkitec**</a> _n._ (['tiwlki](#'tiwlki)+[tec](#tec))  
 
 
-  - **titi** _v._ (ti+ti)  
-  
+- <a name="'tiwlkitilip">**'tiwlkitilip**</a> _n._ (['tiwlki](#'tiwlki)+[tilip](#tilip))  
 
-  - **titilon** _n._ (titi+lon)  
-  
 
-  - **titilum** _n._ (titi+lum)  
-  
+- <a name="tinus">**tinus**</a> _n._ (Epo. &langle;tinuso&rangle; [tiˈnuso])  
 
-  - **titilwel** _n._ (titi+lwel)  
-  
 
-- **tipa** _v._ (Epo. &langle;tipa&rangle; [ˈtipa])  
+- <a name="tinti">**tinti**</a> _v._ (ono. [tiŋ)  
 
 
-  - **tipalon** _n._ (tipa+lon)  
-  
+- <a name="tintiles">**tintiles**</a> _n._ ([tinti](#tinti)+[les](#les))  
 
-  - **tipalum** _n._ (tipa+lum)  
-  
 
-  - **tipanu** _v._ (tipa+nu)  
-  
+- <a name="tintilesfolmo">**tintilesfolmo**</a> _v._ ([tintiles](#tintiles)+[folmo](#folmo))  
 
-  - **tipaki** _v._ (tipa+ki)  
-  
 
-- **tu** _v._ (Cmn. &langle;读&rangle; [tu˧˥])  
+- <a name="tintilesfolmolon">**tintilesfolmolon**</a> _n._ ([tintilesfolmo](#tintilesfolmo)+[lon](#lon))  
 
 
-- **tue** _v._ (Jav. &langle;duwé&rangle; [tṳwe])  
+- <a name="tintilon">**tintilon**</a> _n._ ([tinti](#tinti)+[lon](#lon))  
 
 
-  - **tuelon** _n._ (tue+lon)  
-  
+- <a name="'timensio">**'timensio**</a> _n._ (Lat. &langle;dīmensiō&rangle; [diːˈmẽːsioː])  
 
-  - **tuelum** _n._ (tue+lum)  
-  
 
-  - **tuenu** _v._ (tue+nu)  
-  
+- <a name="'timensioak">**'timensioak**</a> _n._ (['timensio](#'timensio)+[ak](#ak))  
 
-  - **tuenules** _n._ (tuenu+les)  
-  
 
-  - **tuenulon** _n._ (tuenu+lon)  
-  
+- <a name="'timol">**'timol**</a> _n._ (Tet. &langle;Timór&rangle; [timor])  
 
-  - **tuenulum** _n._ (tuenu+lum)  
-  
 
-  - **tuecalu** _v._ (tue+calu)  
-  
+- <a name="'timolak">**'timolak**</a> _n._ (['timol](#'timol)+[ak](#ak))  
 
-  - **tuecalulon** _n._ (tuecalu+lon)  
-  
 
-  - **tuecalulum** _n._ (tuecalu+lum)  
-  
+- <a name="tihu">**tihu**</a> _v._ ([~~luci~~](#luci))  
 
-  - **tueki** _v._ (tue+ki)  
-  
 
-  - **tuekiles** _n._ (tueki+les)  
-  
+- <a name="tihulon">**tihulon**</a> _n._ ([tihu](#tihu)+[lon](#lon))  
 
-  - **tuekilon** _n._ (tueki+lon)  
-  
 
-  - **tuekilum** _n._ (tueki+lum)  
-  
+- <a name="tihuceluk">**tihuceluk**</a> _n._ ([tihu](#tihu)+[celuk](#celuk))  
 
-  - **tuepowi** _v._ (tue+powi)  
-  
 
-  - **tuepowilum** _n._ (tuepowi+lum)  
-  
+- <a name="tihuki">**tihuki**</a> _v._ ([tihu](#tihu)+[ki](#ki))  
 
-  - **tuepowinyo** _v._ (tuepowi+nyo)  
-  
 
-  - **tuepowinyolum** _n._ (tuepowinyo+lum)  
-  
+- <a name="tihukio">**tihukio**</a> _v._ ([tihu](#tihu)+[kio](#kio))  
 
-- **tul** _n._ (Mar. &langle;तूर&rangle; [tuːr])  
 
+- <a name="tihukiolon">**tihukiolon**</a> _n._ ([tihukio](#tihukio)+[lon](#lon))  
 
-  - **tules** _n._ (tu+les)  
-  
 
-  - **tulon** _n._ (tu+lon)  
-  
+- <a name="tihukwah">**tihukwah**</a> _n._ ([tihu](#tihu)+[kwah](#kwah))  
 
-  - **tulum** _n._ (tu+lum)  
-  
 
-- **tulse** _v._ (Spa. &langle;dulce&rangle; [ˈdulse])  
+- <a name="tihutatu">**tihutatu**</a> _v._ ([tihu](#tihu)+[tatu](#tatu))  
 
 
-  - **tulseufalon** _n._ (tulse+ufalon)  
-  
+- <a name="tihutatulon">**tihutatulon**</a> _n._ ([tihutatu](#tihutatu)+[lon](#lon))  
 
-  - **tulselon** _n._ (tulse+lon)  
-  
 
-  - **tulselyan** _n._ (tulse+lyan)  
-  
+- <a name="'ticat">**'ticat**</a> _n._ (Eng. &langle;T-shirt&rangle; [tʰiː)  
 
-  - **tulsekas** _n._ (tulse+kas)  
-  
 
-  - **tulseki** _v._ (tulse+ki)  
-  
+- <a name="tife">**tife**</a> _v._ ([~~luso~~](#luso))  
 
-  - **tulsetupel** _n._ (tulse+tupel)  
-  
 
-  - **tulsepet** _n._ (tulse+pet)  
-  
+- <a name="tifelon">**tifelon**</a> _n._ ([tife](#tife)+[lon](#lon))  
 
-  - **tulsepic** _n._ (tulse+pic)  
-  
 
-- **'tuwalu** _n._ (Tvl. &langle;Tuuvalu&rangle; [tuːvalu])  
+- <a name="tifecoh">**tifecoh**</a> _n._ ([tife](#tife)+[coh](#coh))  
 
 
-  - **'tuwaluak** _n._ ('tuwalu+ak)  
-  
+- <a name="tifeki">**tifeki**</a> _v._ ([tife](#tife)+[ki](#ki))  
 
-  - **'tuwaluwon** _n._ ('tuwalu+won)  
-  
 
-  - **'tuwalutec** _n._ ('tuwalu+tec)  
-  
+- <a name="tifekiles">**tifekiles**</a> _n._ ([tifeki](#tifeki)+[les](#les))  
 
-  - **'tuwalutilip** _n._ ('tuwalu+tilip)  
-  
 
-- **tun** _n._ (Cmn. &langle;动物&rangle; [tʊŋ˥˩u˥˩])  
+- <a name="tifekilon">**tifekilon**</a> _n._ ([tifeki](#tifeki)+[lon](#lon))  
 
 
-  - **tunak** _n._ (tun+ak)  
-  
+- <a name="tifaoh">**tifaoh**</a> _n._ (Epo. &langle;tifao&rangle; [tiˈfao])  
 
-- **'tunis** _n._ (Ara. &langle;تونس&rangle; [tuːnis])  
 
+- <a name="tik">**tik**</a> _n._ (Mar. &langle;टिक&rangle; [ʈik])  
 
-  - **'tunisak** _n._ ('tunis+ak)  
-  
 
-  - **'tunistec** _n._ ('tunis+tec)  
-  
+- <a name="tika">**tika**</a> _v._ ([~~luna~~](#luna))  
 
-  - **'tunistecwon** _n._ ('tunistec+won)  
-  
 
-  - **tunnyamales** _n._ (tun+nyamales)  
-  
+- <a name="tikalon">**tikalon**</a> _n._ ([tika](#tika)+[lon](#lon))  
 
-- **tunci** _v._ (Cmn. &langle;统治&rangle; [tʰʊŋ˧˩˧ʈ͡ʂɨ˥˩])  
 
+- <a name="tikaki">**tikaki**</a> _v._ ([tika](#tika)+[ki](#ki))  
 
-  - **tuncilon** _n._ (tunci+lon)  
-  
 
-  - **tuncilum** _n._ (tunci+lum)  
-  
+- <a name="tiku">**tiku**</a> _v._ ([~~luni~~](#luni))  
 
-  - **tuncilumak** _n._ (tuncilum+ak)  
-  
 
-  - **tuncilumlwa** _v._ (tuncilum+lwa)  
-  
+- <a name="tikulon">**tikulon**</a> _n._ ([tiku](#tiku)+[lon](#lon))  
 
-  - **tuncilumwahauti** _v._ (tuncilum+wahauti)  
-  
 
-  - **tuncinu** _v._ (tunci+nu)  
-  
+- <a name="tikulyan">**tikulyan**</a> _n._ ([tiku](#tiku)+[lyan](#lyan))  
 
-  - **tuncinyotewi** _v._ (tunci+nyotewi)  
-  
 
-  - **tuncinyotewilon** _n._ (tuncinyotewi+lon)  
-  
+- <a name="tikuki">**tikuki**</a> _v._ ([tiku](#tiku)+[ki](#ki))  
 
-  - **tuncinyotewilum** _n._ (tuncinyotewi+lum)  
-  
 
-  - **tuncinyotewiki** _v._ (tunci+nyotewiki)  
-  
+- <a name="tikpic">**tikpic**</a> _n._ ([tik](#tik)+[pic](#pic))  
 
-  - **tunciki** _v._ (tunci+ki)  
-  
 
-  - **tuncitewi** _v._ (tunci+tewi)  
-  
+- <a name="'titanium">**'titanium**</a> _n._ (Lat. &langle;titanium&rangle; [tɪtanɪʊ̃])  
 
-  - **tuncitewilon** _n._ (tuncitewi+lon)  
-  
 
-  - **tuncitewilum** _n._ (tuncitewi+lum)  
-  
+- <a name="titi">**titi**</a> _v._ ([ti](#ti)+[ti](#ti))  
 
-  - **tuncitewiki** _v._ (tunci+tewiki)  
-  
 
-  - **tuncitewikiles** _n._ (tuncitewiki+les)  
-  
+- <a name="titilon">**titilon**</a> _n._ ([titi](#titi)+[lon](#lon))  
 
-  - **tuncitewikilum** _n._ (tuncitewiki+lum)  
-  
 
-  - **tumocalum** _n._ (tu+mocalum)  
-  
+- <a name="titilum">**titilum**</a> _n._ ([titi](#titi)+[lum](#lum))  
 
-- **'tukiw** _n._ (Dzo. &langle;འབྲུག་ཡུལ་&rangle; [ʈuk̚˩.yː˩])  
 
+- <a name="titilwel">**titilwel**</a> _n._ ([titi](#titi)+[lwel](#lwel))  
 
-  - **'tukiwak** _n._ ('tukiw+ak)  
-  
 
-  - **'tukiwwon** _n._ ('tukiw+won)  
-  
+- <a name="tipa">**tipa**</a> _v._ (Epo. &langle;tipa&rangle; [ˈtipa])  
 
-  - **'tukiwtilip** _n._ ('tukiw+tilip)  
-  
 
-- **tutumu** _v._ (ono. [dudum)  
+- <a name="tipalon">**tipalon**</a> _n._ ([tipa](#tipa)+[lon](#lon))  
 
 
-  - **tutumuec** _n._ (tutumu+ec)  
-  
+- <a name="tipalum">**tipalum**</a> _n._ ([tipa](#tipa)+[lum](#lum))  
 
-  - **tutumulon** _n._ (tutumu+lon)  
-  
 
-  - **tutumulyan** _n._ (tutumu+lyan)  
-  
+- <a name="tipanu">**tipanu**</a> _v._ ([tipa](#tipa)+[nu](#nu))  
 
-  - **tutumuhila** _v._ (tutumu+hila)  
-  
 
-  - **tutumuhilaki** _v._ (tutumuhila+ki)  
-  
+- <a name="tipaki">**tipaki**</a> _v._ ([tipa](#tipa)+[ki](#ki))  
 
-  - **tutumucwelon** _n._ (tutumu+cwelon)  
-  
 
-  - **tutumucwelonkoki** _v._ (tutumucwelon+koki)  
-  
+- <a name="tu">**tu**</a> _v._ (Cmn. &langle;读&rangle; [tu˧˥])  
 
-  - **tutumucwelonkil** _n._ (tutumucwelon+kil)  
-  
 
-  - **tutumutilum** _n._ (tutumu+tilum)  
-  
+- <a name="tue">**tue**</a> _v._ (Jav. &langle;duwé&rangle; [tṳwe])  
+
+
+- <a name="tuelon">**tuelon**</a> _n._ ([tue](#tue)+[lon](#lon))  
+
+
+- <a name="tuelum">**tuelum**</a> _n._ ([tue](#tue)+[lum](#lum))  
+
+
+- <a name="tuenu">**tuenu**</a> _v._ ([tue](#tue)+[nu](#nu))  
+
+
+- <a name="tuenules">**tuenules**</a> _n._ ([tuenu](#tuenu)+[les](#les))  
+
+
+- <a name="tuenulon">**tuenulon**</a> _n._ ([tuenu](#tuenu)+[lon](#lon))  
+
+
+- <a name="tuenulum">**tuenulum**</a> _n._ ([tuenu](#tuenu)+[lum](#lum))  
+
+
+- <a name="tuecalu">**tuecalu**</a> _v._ ([tue](#tue)+[calu](#calu))  
+
+
+- <a name="tuecalulon">**tuecalulon**</a> _n._ ([tuecalu](#tuecalu)+[lon](#lon))  
+
+
+- <a name="tuecalulum">**tuecalulum**</a> _n._ ([tuecalu](#tuecalu)+[lum](#lum))  
+
+
+- <a name="tueki">**tueki**</a> _v._ ([tue](#tue)+[ki](#ki))  
+
+
+- <a name="tuekiles">**tuekiles**</a> _n._ ([tueki](#tueki)+[les](#les))  
+
+
+- <a name="tuekilon">**tuekilon**</a> _n._ ([tueki](#tueki)+[lon](#lon))  
+
+
+- <a name="tuekilum">**tuekilum**</a> _n._ ([tueki](#tueki)+[lum](#lum))  
+
+
+- <a name="tuepowi">**tuepowi**</a> _v._ ([tue](#tue)+[powi](#powi))  
+
+
+- <a name="tuepowilum">**tuepowilum**</a> _n._ ([tuepowi](#tuepowi)+[lum](#lum))  
+
+
+- <a name="tuepowinyo">**tuepowinyo**</a> _v._ ([tuepowi](#tuepowi)+[nyo](#nyo))  
+
+
+- <a name="tuepowinyolum">**tuepowinyolum**</a> _n._ ([tuepowinyo](#tuepowinyo)+[lum](#lum))  
+
+
+- <a name="tul">**tul**</a> _n._ (Mar. &langle;तूर&rangle; [tuːr])  
+
+
+- <a name="tules">**tules**</a> _n._ ([tu](#tu)+[les](#les))  
+
+
+- <a name="tulon">**tulon**</a> _n._ ([tu](#tu)+[lon](#lon))  
+
+
+- <a name="tulum">**tulum**</a> _n._ ([tu](#tu)+[lum](#lum))  
+
+
+- <a name="tulse">**tulse**</a> _v._ (Spa. &langle;dulce&rangle; [ˈdulse])  
+
+
+- <a name="tulseufalon">**tulseufalon**</a> _n._ ([tulse](#tulse)+[ufalon](#ufalon))  
+
+
+- <a name="tulselon">**tulselon**</a> _n._ ([tulse](#tulse)+[lon](#lon))  
+
+
+- <a name="tulselyan">**tulselyan**</a> _n._ ([tulse](#tulse)+[lyan](#lyan))  
+
+
+- <a name="tulsekas">**tulsekas**</a> _n._ ([tulse](#tulse)+[kas](#kas))  
+
+
+- <a name="tulseki">**tulseki**</a> _v._ ([tulse](#tulse)+[ki](#ki))  
+
+
+- <a name="tulsetupel">**tulsetupel**</a> _n._ ([tulse](#tulse)+[tupel](#tupel))  
+
+
+- <a name="tulsepet">**tulsepet**</a> _n._ ([tulse](#tulse)+[pet](#pet))  
+
+
+- <a name="tulsepic">**tulsepic**</a> _n._ ([tulse](#tulse)+[pic](#pic))  
+
+
+- <a name="'tuwalu">**'tuwalu**</a> _n._ (Tvl. &langle;Tuuvalu&rangle; [tuːvalu])  
+
+
+- <a name="'tuwaluak">**'tuwaluak**</a> _n._ (['tuwalu](#'tuwalu)+[ak](#ak))  
+
+
+- <a name="'tuwaluwon">**'tuwaluwon**</a> _n._ (['tuwalu](#'tuwalu)+[won](#won))  
+
+
+- <a name="'tuwalutec">**'tuwalutec**</a> _n._ (['tuwalu](#'tuwalu)+[tec](#tec))  
+
+
+- <a name="'tuwalutilip">**'tuwalutilip**</a> _n._ (['tuwalu](#'tuwalu)+[tilip](#tilip))  
+
+
+- <a name="tun">**tun**</a> _n._ (Cmn. &langle;动物&rangle; [tʊŋ˥˩u˥˩])  
+
+
+- <a name="tunak">**tunak**</a> _n._ ([tun](#tun)+[ak](#ak))  
+
+
+- <a name="'tunis">**'tunis**</a> _n._ (Ara. &langle;تونس&rangle; [tuːnis])  
+
+
+- <a name="'tunisak">**'tunisak**</a> _n._ (['tunis](#'tunis)+[ak](#ak))  
+
+
+- <a name="'tunistec">**'tunistec**</a> _n._ (['tunis](#'tunis)+[tec](#tec))  
+
+
+- <a name="'tunistecwon">**'tunistecwon**</a> _n._ (['tunistec](#'tunistec)+[won](#won))  
+
+
+- <a name="tunnyamales">**tunnyamales**</a> _n._ ([tun](#tun)+[nyamales](#nyamales))  
+
+
+- <a name="tunci">**tunci**</a> _v._ (Cmn. &langle;统治&rangle; [tʰʊŋ˧˩˧ʈ͡ʂɨ˥˩])  
+
+
+- <a name="tuncilon">**tuncilon**</a> _n._ ([tunci](#tunci)+[lon](#lon))  
+
+
+- <a name="tuncilum">**tuncilum**</a> _n._ ([tunci](#tunci)+[lum](#lum))  
+
+
+- <a name="tuncilumak">**tuncilumak**</a> _n._ ([tuncilum](#tuncilum)+[ak](#ak))  
+
+
+- <a name="tuncilumlwa">**tuncilumlwa**</a> _v._ ([tuncilum](#tuncilum)+[lwa](#lwa))  
+
+
+- <a name="tuncilumwahauti">**tuncilumwahauti**</a> _v._ ([tuncilum](#tuncilum)+[wahauti](#wahauti))  
+
+
+- <a name="tuncinu">**tuncinu**</a> _v._ ([tunci](#tunci)+[nu](#nu))  
+
+
+- <a name="tuncinyotewi">**tuncinyotewi**</a> _v._ ([tunci](#tunci)+[nyotewi](#nyotewi))  
+
+
+- <a name="tuncinyotewilon">**tuncinyotewilon**</a> _n._ ([tuncinyotewi](#tuncinyotewi)+[lon](#lon))  
+
+
+- <a name="tuncinyotewilum">**tuncinyotewilum**</a> _n._ ([tuncinyotewi](#tuncinyotewi)+[lum](#lum))  
+
+
+- <a name="tuncinyotewiki">**tuncinyotewiki**</a> _v._ ([tunci](#tunci)+[nyotewiki](#nyotewiki))  
+
+
+- <a name="tunciki">**tunciki**</a> _v._ ([tunci](#tunci)+[ki](#ki))  
+
+
+- <a name="tuncitewi">**tuncitewi**</a> _v._ ([tunci](#tunci)+[tewi](#tewi))  
+
+
+- <a name="tuncitewilon">**tuncitewilon**</a> _n._ ([tuncitewi](#tuncitewi)+[lon](#lon))  
+
+
+- <a name="tuncitewilum">**tuncitewilum**</a> _n._ ([tuncitewi](#tuncitewi)+[lum](#lum))  
+
+
+- <a name="tuncitewiki">**tuncitewiki**</a> _v._ ([tunci](#tunci)+[tewiki](#tewiki))  
+
+
+- <a name="tuncitewikiles">**tuncitewikiles**</a> _n._ ([tuncitewiki](#tuncitewiki)+[les](#les))  
+
+
+- <a name="tuncitewikilum">**tuncitewikilum**</a> _n._ ([tuncitewiki](#tuncitewiki)+[lum](#lum))  
+
+
+- <a name="tumocalum">**tumocalum**</a> _n._ ([tu](#tu)+[mocalum](#mocalum))  
+
+
+- <a name="'tukiw">**'tukiw**</a> _n._ (Dzo. &langle;འབྲུག་ཡུལ་&rangle; [ʈuk̚˩.yː˩])  
+
+
+- <a name="'tukiwak">**'tukiwak**</a> _n._ (['tukiw](#'tukiw)+[ak](#ak))  
+
+
+- <a name="'tukiwwon">**'tukiwwon**</a> _n._ (['tukiw](#'tukiw)+[won](#won))  
+
+
+- <a name="'tukiwtilip">**'tukiwtilip**</a> _n._ (['tukiw](#'tukiw)+[tilip](#tilip))  
+
+
+- <a name="tutumu">**tutumu**</a> _v._ (ono. [dudum)  
+
+
+- <a name="tutumuec">**tutumuec**</a> _n._ ([tutumu](#tutumu)+[ec](#ec))  
+
+
+- <a name="tutumulon">**tutumulon**</a> _n._ ([tutumu](#tutumu)+[lon](#lon))  
+
+
+- <a name="tutumulyan">**tutumulyan**</a> _n._ ([tutumu](#tutumu)+[lyan](#lyan))  
+
+
+- <a name="tutumuhila">**tutumuhila**</a> _v._ ([tutumu](#tutumu)+[hila](#hila))  
+
+
+- <a name="tutumuhilaki">**tutumuhilaki**</a> _v._ ([tutumuhila](#tutumuhila)+[ki](#ki))  
+
+
+- <a name="tutumucwelon">**tutumucwelon**</a> _n._ ([tutumu](#tutumu)+[cwelon](#cwelon))  
+
+
+- <a name="tutumucwelonkoki">**tutumucwelonkoki**</a> _v._ ([tutumucwelon](#tutumucwelon)+[koki](#koki))  
+
+
+- <a name="tutumucwelonkil">**tutumucwelonkil**</a> _n._ ([tutumucwelon](#tutumucwelon)+[kil](#kil))  
+
+
+- <a name="tutumutilum">**tutumutilum**</a> _n._ ([tutumu](#tutumu)+[tilum](#tilum))  
+
 
-- **tup** _num._ (~~lim~~)  
+- <a name="tup">**tup**</a> _num._ ([~~lim~~](#lim))  
 11; once
 
-- **tupel** _n._ (Epo. &langle;tubero&rangle; [tuˈbero])  
+- <a name="tupel">**tupel**</a> _n._ (Epo. &langle;tubero&rangle; [tuˈbero])  
 
 
-- **tupan** _n._ (Pan. &langle;ਤੂਫਾਨ&rangle; [t̪upʰɑn])  
+- <a name="tupan">**tupan**</a> _n._ (Pan. &langle;ਤੂਫਾਨ&rangle; [t̪upʰɑn])  
 
 
-  - **tupanak** _n._ (tupan+ak)  
-  
+- <a name="tupanak">**tupanak**</a> _n._ ([tupan](#tupan)+[ak](#ak))  
 
-  - **tupak** _n._ (tup+ak)  
-  
 
-- **tyen** _num._ (Cmn. &langle;點&rangle; [tjɛn˧˩˥])  
+- <a name="tupak">**tupak**</a> _n._ ([tup](#tup)+[ak](#ak))  
+
+
+- <a name="tyen">**tyen**</a> _num._ (Cmn. &langle;點&rangle; [tjɛn˧˩˥])  
 punto; punto de base
 
-- **'tyencin** _n._ (Cmn. &langle;天津&rangle; [tʰjɛn˥t͡ɕin˥])  
+- <a name="'tyencin">**'tyencin**</a> _n._ (Cmn. &langle;天津&rangle; [tʰjɛn˥t͡ɕin˥])  
 
 
-- **'twinitat** _n._ (Eng. &langle;Trinidad&rangle; [tɹɪnɪdæd])  
+- <a name="'twinitat">**'twinitat**</a> _n._ (Eng. &langle;Trinidad&rangle; [tɹɪnɪdæd])  
 
 
-  - **'twinitatak** _n._ ('twinitat+ak)  
-  
-
-  - **'twinitat'topeykow** _n._ ('twinitat+'topeykow)  
-  
-
-  - **'twinitat'topeykowwon** _n._ ('twinitat'topeykow+won)  
-  
-
-## p
-
-- **pe** _v._ (Cmn. &langle;陪&rangle; [pʰeɪ̯˧˥])  
+- <a name="'twinitatak">**'twinitatak**</a> _n._ (['twinitat](#'twinitat)+[ak](#ak))  
 
 
-- **'pe** _n._ (ono. [p])  
+- <a name="'twinitat'topeykow">**'twinitat'topeykow**</a> _n._ (['twinitat](#'twinitat)+['topeykow](#'topeykow))  
 
 
-- **peal** _n._ (Msa. &langle;pear&rangle; [pear])  
+- <a name="'twinitat'topeykowwon">**'twinitat'topeykowwon**</a> _n._ (['twinitat'topeykow](#'twinitat'topeykow)+[won](#won))  
 
 
-  - **pealfolmo** _v._ (peal+folmo)  
-  
+### p
 
-  - **pealfolmolon** _n._ (pealfolmo+lon)  
-  
-
-- **'peycin** _n._ (Cmn. &langle;北京&rangle; [pej˨˩˦t͡ɕiŋ˥])  
+- <a name="pe">**pe**</a> _v._ (Cmn. &langle;陪&rangle; [pʰeɪ̯˧˥])  
 
 
-- **pel** _num._ (Msa. &langle;per&rangle; [per])  
+- <a name="'pe">**'pe**</a> _n._ (ono. [p])  
+
+
+- <a name="peal">**peal**</a> _n._ (Msa. &langle;pear&rangle; [pear])  
+
+
+- <a name="pealfolmo">**pealfolmo**</a> _v._ ([peal](#peal)+[folmo](#folmo))  
+
+
+- <a name="pealfolmolon">**pealfolmolon**</a> _n._ ([pealfolmo](#pealfolmo)+[lon](#lon))  
+
+
+- <a name="'peycin">**'peycin**</a> _n._ (Cmn. &langle;北京&rangle; [pej˨˩˦t͡ɕiŋ˥])  
+
+
+- <a name="pel">**pel**</a> _num._ (Msa. &langle;per&rangle; [per])  
 sobre; dividido por
 
-  - **peles** _n._ (pe+les)  
-  
+- <a name="peles">**peles**</a> _n._ ([pe](#pe)+[les](#les))  
 
-- **pela** _v._ (~~mota~~)  
 
+- <a name="pela">**pela**</a> _v._ ([~~mota~~](#mota))  
 
-  - **pelaicilon** _n._ (pela+icilon)  
-  
 
-  - **pelalon** _n._ (pela+lon)  
-  
+- <a name="pelaicilon">**pelaicilon**</a> _n._ ([pela](#pela)+[icilon](#icilon))  
 
-  - **pelalic** _n._ (pela+lic)  
-  
 
-- **'pelaw** _n._ (Pau. &langle;Belau&rangle; [bɛlaw])  
+- <a name="pelalon">**pelalon**</a> _n._ ([pela](#pela)+[lon](#lon))  
 
 
-  - **pelawaluh** _n._ (pela+waluh)  
-  
+- <a name="pelalic">**pelalic**</a> _n._ ([pela](#pela)+[lic](#lic))  
 
-  - **'pelawak** _n._ ('pelaw+ak)  
-  
 
-  - **'pelawwon** _n._ ('pelaw+won)  
-  
+- <a name="'pelaw">**'pelaw**</a> _n._ (Pau. &langle;Belau&rangle; [bɛlaw])  
 
-  - **'pelawtec** _n._ ('pelaw+tec)  
-  
 
-  - **'pelawtilip** _n._ ('pelaw+tilip)  
-  
+- <a name="pelawaluh">**pelawaluh**</a> _n._ ([pela](#pela)+[waluh](#waluh))  
 
-  - **pelamontalon** _n._ (pela+montalon)  
-  
 
-  - **pelacai** _v._ (pela+cai)  
-  
+- <a name="'pelawak">**'pelawak**</a> _n._ (['pelaw](#'pelaw)+[ak](#ak))  
 
-  - **pelacailum** _n._ (pelacai+lum)  
-  
 
-  - **pelasitelon** _n._ (pela+sitelon)  
-  
+- <a name="'pelawwon">**'pelawwon**</a> _n._ (['pelaw](#'pelaw)+[won](#won))  
 
-  - **pelafut** _n._ (pela+fut)  
-  
 
-  - **pelakap** _n._ (pela+kap)  
-  
+- <a name="'pelawtec">**'pelawtec**</a> _n._ (['pelaw](#'pelaw)+[tec](#tec))  
 
-  - **pelakol** _n._ (pela+kol)  
-  
 
-  - **pelaki** _v._ (pela+ki)  
-  
+- <a name="'pelawtilip">**'pelawtilip**</a> _n._ (['pelaw](#'pelaw)+[tilip](#tilip))  
 
-  - **pelakiles** _n._ (pelaki+les)  
-  
 
-  - **pelakwap** _n._ (pela+kwap)  
-  
+- <a name="pelamontalon">**pelamontalon**</a> _n._ ([pela](#pela)+[montalon](#montalon))  
 
-  - **pelatawh** _n._ (pela+tawh)  
-  
 
-  - **pelon** _n._ (pe+lon)  
-  
+- <a name="pelacai">**pelacai**</a> _v._ ([pela](#pela)+[cai](#cai))  
 
-- **'pelilium** _n._ (Lat. &langle;beryllium&rangle; [bɛrillɪʊ̃])  
 
+- <a name="pelacailum">**pelacailum**</a> _n._ ([pelacai](#pelacai)+[lum](#lum))  
 
-- **'pelis** _n._ (Eng. &langle;Belize&rangle; [bəˈliːz])  
 
+- <a name="pelasitelon">**pelasitelon**</a> _n._ ([pela](#pela)+[sitelon](#sitelon))  
 
-  - **'pelisak** _n._ ('pelis+ak)  
-  
 
-  - **'peliswon** _n._ ('pelis+won)  
-  
+- <a name="pelafut">**pelafut**</a> _n._ ([pela](#pela)+[fut](#fut))  
 
-- **'pelu** _n._ (Spa. &langle;Perú&rangle; [peˈɾu])  
 
+- <a name="pelakap">**pelakap**</a> _n._ ([pela](#pela)+[kap](#kap))  
 
-  - **'peluak** _n._ ('pelu+ak)  
-  
 
-  - **'peluwon** _n._ ('pelu+won)  
-  
+- <a name="pelakol">**pelakol**</a> _n._ ([pela](#pela)+[kol](#kol))  
 
-- **'pelkia** _n._ (Nld. &langle;België&rangle; [bɛlɣiə])  
 
+- <a name="pelaki">**pelaki**</a> _v._ ([pela](#pela)+[ki](#ki))  
 
-  - **'pelkiaak** _n._ ('pelkia+ak)  
-  
 
-  - **'pelkiawon** _n._ ('pelkia+won)  
-  
+- <a name="pelakiles">**pelakiles**</a> _n._ ([pelaki](#pelaki)+[les](#les))  
 
-  - **peltosefe** _v._ (pel+tos+efe)  
-  
 
-  - **peltosefelon** _n._ (peltosefe+lon)  
-  
+- <a name="pelakwap">**pelakwap**</a> _n._ ([pela](#pela)+[kwap](#kwap))  
 
-  - **peltososo** _v._ (pel+tos+oso)  
-  
 
-  - **peltososolon** _n._ (peltososo+lon)  
-  
+- <a name="pelatawh">**pelatawh**</a> _n._ ([pela](#pela)+[tawh](#tawh))  
 
-- **pewo** _v._ (~~moye~~)  
 
+- <a name="pelon">**pelon**</a> _n._ ([pe](#pe)+[lon](#lon))  
 
-  - **pewolon** _n._ (pewo+lon)  
-  
 
-  - **pewolum** _n._ (pewo+lum)  
-  
+- <a name="'pelilium">**'pelilium**</a> _n._ (Lat. &langle;beryllium&rangle; [bɛrillɪʊ̃])  
 
-  - **pewoki** _v._ (pewo+ki)  
-  
 
-  - **pewokiles** _n._ (pewoki+les)  
-  
+- <a name="'pelis">**'pelis**</a> _n._ (Eng. &langle;Belize&rangle; [bəˈliːz])  
 
-  - **pewopatili** _v._ (pewo+patili)  
-  
 
-  - **pewopatililip** _n._ (pewopatili+lip)  
-  
+- <a name="'pelisak">**'pelisak**</a> _n._ (['pelis](#'pelis)+[ak](#ak))  
 
-- **'penen** _n._ (Fra. &langle;Bénin&rangle; [benɛ̃])  
 
+- <a name="'peliswon">**'peliswon**</a> _n._ (['pelis](#'pelis)+[won](#won))  
 
-  - **'penenak** _n._ ('penen+ak)  
-  
 
-  - **'penenwon** _n._ ('penen+won)  
-  
+- <a name="'pelu">**'pelu**</a> _n._ (Spa. &langle;Perú&rangle; [peˈɾu])  
 
-- **'peneswela** _n._ (Spa. &langle;Venezuela&rangle; [beneˈswela])  
 
+- <a name="'peluak">**'peluak**</a> _n._ (['pelu](#'pelu)+[ak](#ak))  
 
-  - **'peneswelaak** _n._ ('peneswela+ak)  
-  
 
-  - **'peneswelatec** _n._ ('peneswela+tec)  
-  
+- <a name="'peluwon">**'peluwon**</a> _n._ (['pelu](#'pelu)+[won](#won))  
 
-- **pensi** _v._ (Epo. &langle;pensi&rangle; [ˈpensi])  
 
+- <a name="'pelkia">**'pelkia**</a> _n._ (Nld. &langle;België&rangle; [bɛlɣiə])  
 
-  - **pensilon** _n._ (pensi+lon)  
-  
 
-  - **pensilial** _n._ (pensi+lial)  
-  
+- <a name="'pelkiaak">**'pelkiaak**</a> _n._ (['pelkia](#'pelkia)+[ak](#ak))  
 
-  - **pensilum** _n._ (pensi+lum)  
-  
 
-  - **pensisoma** _v._ (pensi+soma)  
-  
+- <a name="'pelkiawon">**'pelkiawon**</a> _n._ (['pelkia](#'pelkia)+[won](#won))  
 
-  - **pensisomales** _n._ (pensisoma+les)  
-  
 
-  - **pensisomalon** _n._ (pensisoma+lon)  
-  
+- <a name="peltosefe">**peltosefe**</a> _v._ ([pel](#pel)+[tos](#tos)+[efe](#efe))  
 
-  - **pensiki** _v._ (pensi+ki)  
-  
 
-  - **pemamalon** _n._ (pe+mamalon)  
-  
+- <a name="peltosefelon">**peltosefelon**</a> _n._ ([peltosefe](#peltosefe)+[lon](#lon))  
 
-- **'pehen** _n._ (Dan. &langle;Bering&rangle; [beʁɛŋɡ])  
 
+- <a name="peltososo">**peltososo**</a> _v._ ([pel](#pel)+[tos](#tos)+[oso](#oso))  
 
-  - **'pehenlawt** _n._ ('pehen+lawt)  
-  
 
-- **peha** _v._ (~~moca~~)  
+- <a name="peltososolon">**peltososolon**</a> _n._ ([peltososo](#peltososo)+[lon](#lon))  
 
 
-  - **pehalon** _n._ (peha+lon)  
-  
+- <a name="pewo">**pewo**</a> _v._ ([~~moye~~](#moye))  
 
-  - **pehalum** _n._ (peha+lum)  
-  
 
-  - **pehafake** _v._ (peha+fake)  
-  
+- <a name="pewolon">**pewolon**</a> _n._ ([pewo](#pewo)+[lon](#lon))  
 
-  - **pehafakelon** _n._ (pehafake+lon)  
-  
 
-  - **pehaki** _v._ (peha+ki)  
-  
+- <a name="pewolum">**pewolum**</a> _n._ ([pewo](#pewo)+[lum](#lum))  
 
-  - **pehakifake** _v._ (peha+ki+fake)  
-  
 
-- **pes** _n._ (Spa. &langle;pez&rangle; [pes])  
+- <a name="pewoki">**pewoki**</a> _v._ ([pewo](#pewo)+[ki](#ki))  
 
 
-  - **pesak** _n._ (pes+ak)  
-  
+- <a name="pewokiles">**pewokiles**</a> _n._ ([pewoki](#pewoki)+[les](#les))  
 
-- **'peso** _n._ (Spa. &langle;peso&rangle; [ˈpeso])  
 
+- <a name="pewopatili">**pewopatili**</a> _v._ ([pewo](#pewo)+[patili](#patili))  
 
-  - **peslisat** _n._ (pes+lisat)  
-  
 
-  - **peslisatak** _n._ (peslisat+ak)  
-  
+- <a name="pewopatililip">**pewopatililip**</a> _n._ ([pewopatili](#pewopatili)+[lip](#lip))  
 
-  - **pesfolmo** _v._ (pes+folmo)  
-  
 
-  - **pesfolmolon** _n._ (pesfolmo+lon)  
-  
+- <a name="'penen">**'penen**</a> _n._ (Fra. &langle;Bénin&rangle; [benɛ̃])  
 
-- **peka** _v._ (Xho. &langle;-pheka&rangle; [pʰɛka])  
 
+- <a name="'penenak">**'penenak**</a> _n._ (['penen](#'penen)+[ak](#ak))  
 
-  - **pekales** _n._ (peka+les)  
-  
 
-  - **pekalon** _n._ (peka+lon)  
-  
+- <a name="'penenwon">**'penenwon**</a> _n._ (['penen](#'penen)+[won](#won))  
 
-  - **pekaluat** _n._ (peka+luat)  
-  
 
-  - **pekweki** _v._ (pe+kweki)  
-  
+- <a name="'peneswela">**'peneswela**</a> _n._ (Spa. &langle;Venezuela&rangle; [beneˈswela])  
 
-  - **pekwekiluat** _n._ (pekweki+luat)  
-  
 
-- **pet** _n._ (Epo. &langle;beto&rangle; [ˈbeto])  
+- <a name="'peneswelaak">**'peneswelaak**</a> _n._ (['peneswela](#'peneswela)+[ak](#ak))  
 
 
-- **peta** _v._ (Sot. &langle;pheta&rangle; [pʰetʼɑ])  
+- <a name="'peneswelatec">**'peneswelatec**</a> _n._ (['peneswela](#'peneswela)+[tec](#tec))  
 
 
-  - **petalwelkwekilon** _n._ (peta+lwelkwekilon)  
-  
+- <a name="pensi">**pensi**</a> _v._ (Epo. &langle;pensi&rangle; [ˈpensi])  
 
-  - **petasoma** _v._ (peta+soma)  
-  
 
-  - **petasomales** _n._ (petasoma+les)  
-  
+- <a name="pensilon">**pensilon**</a> _n._ ([pensi](#pensi)+[lon](#lon))  
 
-  - **petasomalon** _n._ (petasoma+lon)  
-  
 
-  - **petasomalum** _n._ (petasoma+lum)  
-  
+- <a name="pensilial">**pensilial**</a> _n._ ([pensi](#pensi)+[lial](#lial))  
 
-  - **petue** _v._ (pe+tue)  
-  
 
-  - **petuelon** _n._ (petue+lon)  
-  
+- <a name="pensilum">**pensilum**</a> _n._ ([pensi](#pensi)+[lum](#lum))  
 
-  - **petuelum** _n._ (petue+lum)  
-  
 
-- **pale** _v._ (Pan. &langle;ਬਾਰੇ&rangle; [bɑɾe])  
+- <a name="pensisoma">**pensisoma**</a> _v._ ([pensi](#pensi)+[soma](#soma))  
 
 
-- **pal** _n._ (Spa. &langle;palo&rangle; [ˈpalo])  
+- <a name="pensisomales">**pensisomales**</a> _n._ ([pensisoma](#pensisoma)+[les](#les))  
 
 
-  - **palelon** _n._ (pale+lon)  
-  
+- <a name="pensisomalon">**pensisomalon**</a> _n._ ([pensisoma](#pensisoma)+[lon](#lon))  
 
-  - **palelum** _n._ (pale+lum)  
-  
 
-- **'pala** _n._ (Ind. &langle;pala&rangle; [pala])  
+- <a name="pensiki">**pensiki**</a> _v._ ([pensi](#pensi)+[ki](#ki))  
 
 
-- **'palah** _n._ (Ara. &langle;بلح&rangle; [balɑħ])  
+- <a name="pemamalon">**pemamalon**</a> _n._ ([pe](#pe)+[mamalon](#mamalon))  
 
 
-  - **'palahnu** _v._ ('palah+nu)  
-  
+- <a name="'pehen">**'pehen**</a> _n._ (Dan. &langle;Bering&rangle; [beʁɛŋɡ])  
 
-  - **'palahki** _v._ ('palah+ki)  
-  
 
-  - **'palahkiles** _n._ ('palahki+les)  
-  
+- <a name="'pehenlawt">**'pehenlawt**</a> _n._ (['pehen](#'pehen)+[lawt](#lawt))  
 
-- **'palasiw** _n._ (Por. &langle;Brasil&rangle; [bɾaˈziw])  
 
+- <a name="peha">**peha**</a> _v._ ([~~moca~~](#moca))  
 
-  - **'palasiwak** _n._ ('palasiw+ak)  
-  
 
-  - **'palasiwwon** _n._ ('palasiw+won)  
-  
+- <a name="pehalon">**pehalon**</a> _n._ ([peha](#peha)+[lon](#lon))  
 
-  - **'palasiwtec** _n._ ('palasiw+tec)  
-  
 
-- **'palakway** _n._ (Gug. &langle;Paraguái&rangle; [paɾaˈɰwaj])  
+- <a name="pehalum">**pehalum**</a> _n._ ([peha](#peha)+[lum](#lum))  
 
 
-  - **'palakwayak** _n._ ('palakway+ak)  
-  
+- <a name="pehafake">**pehafake**</a> _v._ ([peha](#peha)+[fake](#fake))  
 
-  - **'palakwaywon** _n._ ('palakway+won)  
-  
 
-- **pali** _v._ (Hin. &langle;भारी&rangle; [b̤aːriː])  
+- <a name="pehafakelon">**pehafakelon**</a> _n._ ([pehafake](#pehafake)+[lon](#lon))  
 
 
-  - **palilon** _n._ (pali+lon)  
-  
+- <a name="pehaki">**pehaki**</a> _v._ ([peha](#peha)+[ki](#ki))  
 
-  - **palilyan** _n._ (pali+lyan)  
-  
 
-  - **palilyansomaluat** _n._ (palilyan+somaluat)  
-  
+- <a name="pehakifake">**pehakifake**</a> _v._ ([peha](#peha)+[ki](#ki)+[fake](#fake))  
 
-  - **paliki** _v._ (pali+ki)  
-  
 
-  - **palitatu** _v._ (pali+tatu)  
-  
+- <a name="pes">**pes**</a> _n._ (Spa. &langle;pez&rangle; [pes])  
 
-  - **palitatulon** _n._ (palitatu+lon)  
-  
 
-- **'palunay** _n._ (Kxd. &langle;بروني&rangle; [brunaj])  
+- <a name="pesak">**pesak**</a> _n._ ([pes](#pes)+[ak](#ak))  
 
 
-  - **'palunayak** _n._ ('palunay+ak)  
-  
+- <a name="'peso">**'peso**</a> _n._ (Spa. &langle;peso&rangle; [ˈpeso])  
 
-  - **'palunaywon** _n._ ('palunay+won)  
-  
 
-  - **'palunaytilip** _n._ ('palunay+tilip)  
-  
+- <a name="peslisat">**peslisat**</a> _n._ ([pes](#pes)+[lisat](#lisat))  
 
-  - **palnyamaluat** _n._ (pal+nyamaluat)  
-  
 
-  - **palcuc** _n._ (pal+cuc)  
-  
+- <a name="peslisatak">**peslisatak**</a> _n._ ([peslisat](#peslisat)+[ak](#ak))  
 
-- **'palkali** _n._ (Bul. &langle;българи&rangle; [ˈbɤɫɡɐri])  
 
+- <a name="pesfolmo">**pesfolmo**</a> _v._ ([pes](#pes)+[folmo](#folmo))  
 
-  - **'palkaliak** _n._ ('palkali+ak)  
-  
 
-  - **'palkalitec** _n._ ('palkali+tec)  
-  
+- <a name="pesfolmolon">**pesfolmolon**</a> _n._ ([pesfolmo](#pesfolmo)+[lon](#lon))  
 
-  - **'palkalitilip** _n._ ('palkali+tilip)  
-  
 
-- **palto** _v._ (Epo. &langle;parto&rangle; [ˈparto])  
+- <a name="peka">**peka**</a> _v._ (Xho. &langle;-pheka&rangle; [pʰɛka])  
 
 
-  - **paltolon** _n._ (palto+lon)  
-  
+- <a name="pekales">**pekales**</a> _n._ ([peka](#peka)+[les](#les))  
 
-  - **paltoloniti** _v._ (paltolon+iti)  
-  
 
-  - **paltolonitilon** _n._ (paltoloniti+lon)  
-  
+- <a name="pekalon">**pekalon**</a> _n._ ([peka](#peka)+[lon](#lon))  
 
-  - **paltolum** _n._ (palto+lum)  
-  
 
-  - **paltolumiti** _v._ (paltolum+iti)  
-  
+- <a name="pekaluat">**pekaluat**</a> _n._ ([peka](#peka)+[luat](#luat))  
 
-  - **paltolyan** _n._ (palto+lyan)  
-  
 
-  - **paltonu** _v._ (palto+nu)  
-  
+- <a name="pekweki">**pekweki**</a> _v._ ([pe](#pe)+[kweki](#kweki))  
 
-  - **paltonules** _n._ (paltonu+les)  
-  
 
-  - **paltokanu** _v._ (pal+tokanu)  
-  
+- <a name="pekwekiluat">**pekwekiluat**</a> _n._ ([pekweki](#pekweki)+[luat](#luat))  
 
-  - **paltokanulon** _n._ (paltokanu+lon)  
-  
 
-  - **paltokanuluat** _n._ (paltokanu+luat)  
-  
+- <a name="pet">**pet**</a> _n._ (Epo. &langle;beto&rangle; [ˈbeto])  
 
-  - **paltoki** _v._ (palto+ki)  
-  
 
-  - **paltokiles** _n._ (paltoki+les)  
-  
+- <a name="peta">**peta**</a> _v._ (Sot. &langle;pheta&rangle; [pʰetʼɑ])  
 
-  - **paltopowi** _v._ (palto+powi)  
-  
 
-  - **paltopowilon** _n._ (paltopowi+lon)  
-  
+- <a name="petalwelkwekilon">**petalwelkwekilon**</a> _n._ ([peta](#peta)+[lwelkwekilon](#lwelkwekilon))  
 
-  - **paltopowilum** _n._ (paltopowi+lum)  
-  
 
-  - **paltopowinyo** _v._ (paltopowi+nyo)  
-  
+- <a name="petasoma">**petasoma**</a> _v._ ([peta](#peta)+[soma](#soma))  
 
-  - **paltopowinyolon** _n._ (paltopowinyo+lon)  
-  
 
-  - **paltopowinyolum** _n._ (paltopowinyo+lum)  
-  
+- <a name="petasomales">**petasomales**</a> _n._ ([petasoma](#petasoma)+[les](#les))  
 
-- **pawe** _v._ (Cmn. &langle;包围&rangle; [pɑʊ̯˥weɪ̯˧˥])  
 
+- <a name="petasomalon">**petasomalon**</a> _n._ ([petasoma](#petasoma)+[lon](#lon))  
 
-  - **pawelon** _n._ (pawe+lon)  
-  
 
-  - **pawelum** _n._ (pawe+lum)  
-  
+- <a name="petasomalum">**petasomalum**</a> _n._ ([petasoma](#petasoma)+[lum](#lum))  
 
-  - **pawelyan** _n._ (pawe+lyan)  
-  
 
-  - **paweki** _v._ (pawe+ki)  
-  
+- <a name="petue">**petue**</a> _v._ ([pe](#pe)+[tue](#tue))  
 
-  - **pawekiles** _n._ (paweki+les)  
-  
 
-- **pawaf** _n._ (ono. [baw)  
+- <a name="petuelon">**petuelon**</a> _n._ ([petue](#petue)+[lon](#lon))  
 
 
-  - **pawafak** _n._ (pawaf+ak)  
-  
+- <a name="petuelum">**petuelum**</a> _n._ ([petue](#petue)+[lum](#lum))  
 
-- **pana** _ptcl._ (Cmn. &langle;吧&rangle; [pa])  
 
+- <a name="pale">**pale**</a> _v._ (Pan. &langle;ਬਾਰੇ&rangle; [bɑɾe])  
 
-  - **pananeki** _v._ (pana+neki)  
-  
 
-- **'panama** _n._ (Spa. &langle;Panamá&rangle; [panaˈma])  
+- <a name="pal">**pal**</a> _n._ (Spa. &langle;palo&rangle; [ˈpalo])  
 
 
-  - **'panamaak** _n._ ('panama+ak)  
-  
+- <a name="palelon">**palelon**</a> _n._ ([pale](#pale)+[lon](#lon))  
 
-  - **'panamawon** _n._ ('panama+won)  
-  
 
-  - **panati** _v._ (pana+ti)  
-  
+- <a name="palelum">**palelum**</a> _n._ ([pale](#pale)+[lum](#lum))  
 
-  - **panatiles** _n._ (panati+les)  
-  
 
-  - **panatilon** _n._ (panati+lon)  
-  
+- <a name="'pala">**'pala**</a> _n._ (Ind. &langle;pala&rangle; [pala])  
 
-  - **panatilum** _n._ (panati+lum)  
-  
 
-- **'panla** _n._ (Ben. &langle;বাংলা&rangle; [ˈbaŋla])  
+- <a name="'palah">**'palah**</a> _n._ (Ara. &langle;بلح&rangle; [balɑħ])  
 
 
-  - **'panlaak** _n._ ('panla+ak)  
-  
+- <a name="'palahnu">**'palahnu**</a> _v._ (['palah](#'palah)+[nu](#nu))  
 
-  - **'panlawon** _n._ ('panla+won)  
-  
 
-  - **'panlatec** _n._ ('panla+tec)  
-  
+- <a name="'palahki">**'palahki**</a> _v._ (['palah](#'palah)+[ki](#ki))  
 
-  - **'panlatecwon** _n._ ('panlatec+won)  
-  
 
-  - **'panlatilip** _n._ ('panla+tilip)  
-  
+- <a name="'palahkiles">**'palahkiles**</a> _n._ (['palahki](#'palahki)+[les](#les))  
 
-- **'pancap** _n._ (Pan. &langle;ਪੰਜਾਬ&rangle; [pə̃d͡ʒɑːb])  
 
+- <a name="'palasiw">**'palasiw**</a> _n._ (Por. &langle;Brasil&rangle; [bɾaˈziw])  
 
-  - **'pancapak** _n._ ('pancap+ak)  
-  
 
-  - **'pancapwon** _n._ ('pancap+won)  
-  
+- <a name="'palasiwak">**'palasiwak**</a> _n._ (['palasiw](#'palasiw)+[ak](#ak))  
 
-  - **'pancaptilip** _n._ ('pancap+tilip)  
-  
 
-- **'pama** _n._ (Mya. &langle;ဗမာ&rangle; [bəmà])  
+- <a name="'palasiwwon">**'palasiwwon**</a> _n._ (['palasiw](#'palasiw)+[won](#won))  
 
 
-  - **'pamaak** _n._ ('pama+ak)  
-  
+- <a name="'palasiwtec">**'palasiwtec**</a> _n._ (['palasiw](#'palasiw)+[tec](#tec))  
 
-  - **'pamatec** _n._ ('pama+tec)  
-  
 
-  - **'pamatilip** _n._ ('pama+tilip)  
-  
+- <a name="'palakway">**'palakway**</a> _n._ (Gug. &langle;Paraguái&rangle; [paɾaˈɰwaj])  
 
-- **pamapolte** _v._ (Ben. &langle;বামাবর্তে&rangle; [bamabɔrt̪e])  
 
+- <a name="'palakwayak">**'palakwayak**</a> _n._ (['palakway](#'palakway)+[ak](#ak))  
 
-  - **pamapoltelon** _n._ (pamapolte+lon)  
-  
 
-  - **pamapoltelum** _n._ (pamapolte+lum)  
-  
+- <a name="'palakwaywon">**'palakwaywon**</a> _n._ (['palakway](#'palakway)+[won](#won))  
 
-  - **pamapoltelyan** _n._ (pamapolte+lyan)  
-  
 
-  - **pamapolteki** _v._ (pamapolte+ki)  
-  
+- <a name="pali">**pali**</a> _v._ (Hin. &langle;भारी&rangle; [b̤aːriː])  
 
-  - **pamapoltekiles** _n._ (pamapolteki+les)  
-  
 
-- **'pahai** _n._ (Far. &langle;بهائی‎&rangle; [ba˨ˈha˦ʔi˦])  
+- <a name="palilon">**palilon**</a> _n._ ([pali](#pali)+[lon](#lon))  
 
 
-  - **'pahaiak** _n._ ('pahai+ak)  
-  
+- <a name="palilyan">**palilyan**</a> _n._ ([pali](#pali)+[lyan](#lyan))  
 
-  - **'pahaiwon** _n._ ('pahai+won)  
-  
 
-  - **'pahama** _n._ (Eng. &langle;The Bahamas>)  
-  
+- <a name="palilyansomaluat">**palilyansomaluat**</a> _n._ ([palilyan](#palilyan)+[somaluat](#somaluat))  
 
-  - **'pahamaak** _n._ ('pahama+ak)  
-  
 
-  - **'pahamatec** _n._ ('pahama+tec)  
-  
+- <a name="paliki">**paliki**</a> _v._ ([pali](#pali)+[ki](#ki))  
 
-  - **'pahamatilip** _n._ ('pahama+tilip)  
-  
 
-- **'pahasafil** _n._ (Fra. &langle;Brazzaville&rangle; [bʁazavil])  
+- <a name="palitatu">**palitatu**</a> _v._ ([pali](#pali)+[tatu](#tatu))  
 
 
-  - **'pahasafil'konotec** _n._ ('pahasafil+'konotec)  
-  
+- <a name="palitatulon">**palitatulon**</a> _n._ ([palitatu](#palitatu)+[lon](#lon))  
 
-  - **'pahasafil'konotecwon** _n._ ('pahasafil'konotec+won)  
-  
 
-  - **'pahasafil'konotecak** _n._ ('pahasafil'konotec+ak)  
-  
+- <a name="'palunay">**'palunay**</a> _n._ (Kxd. &langle;بروني&rangle; [brunaj])  
 
-- **paho** _v._ (Spa. &langle;bajo&rangle; [ˈbaxo])  
 
+- <a name="'palunayak">**'palunayak**</a> _n._ (['palunay](#'palunay)+[ak](#ak))  
 
-- **'pahoehoe** _n._ (Haw. &langle;pāhoehoe&rangle; [paːˈhoweˈhowe])  
 
+- <a name="'palunaywon">**'palunaywon**</a> _n._ (['palunay](#'palunay)+[won](#won))  
 
-  - **paholekcohpoltilum** _n._ (paho+lekcohpoltilum)  
-  
 
-  - **paholon** _n._ (paho+lon)  
-  
+- <a name="'palunaytilip">**'palunaytilip**</a> _n._ (['palunay](#'palunay)+[tilip](#tilip))  
 
-  - **paholum** _n._ (paho+lum)  
-  
 
-  - **paholyan** _n._ (paho+lyan)  
-  
+- <a name="palnyamaluat">**palnyamaluat**</a> _n._ ([pal](#pal)+[nyamaluat](#nyamaluat))  
 
-  - **pahonyec** _n._ (paho+nyec)  
-  
 
-  - **pahocwemontalon** _n._ (paho+cwemontalon)  
-  
+- <a name="palcuc">**palcuc**</a> _n._ ([pal](#pal)+[cuc](#cuc))  
 
-  - **pahoki** _v._ (paho+ki)  
-  
 
-  - **pahokiles** _n._ (pahoki+les)  
-  
+- <a name="'palkali">**'palkali**</a> _n._ (Bul. &langle;българи&rangle; [ˈbɤɫɡɐri])  
 
-  - **pahotayl** _n._ (paho+tayl)  
-  
 
-  - **pahotielon** _n._ (paho+tielon)  
-  
+- <a name="'palkaliak">**'palkaliak**</a> _n._ (['palkali](#'palkali)+[ak](#ak))  
 
-  - **pahopoltilum** _n._ (paho+poltilum)  
-  
 
-- **'pahi** _n._ (Fra. &langle;Paris&rangle; [paˈʁi])  
+- <a name="'palkalitec">**'palkalitec**</a> _n._ (['palkali](#'palkali)+[tec](#tec))  
 
 
-- **'pahlayn** _n._ (Ara. &langle;بحرين‎&rangle; [baħrajn])  
+- <a name="'palkalitilip">**'palkalitilip**</a> _n._ (['palkali](#'palkali)+[tilip](#tilip))  
 
 
-  - **'pahlaynak** _n._ ('pahlayn+ak)  
-  
+- <a name="palto">**palto**</a> _v._ (Epo. &langle;parto&rangle; [ˈparto])  
 
-  - **'pahlaynwon** _n._ ('pahlayn+won)  
-  
 
-- **'pactan** _n._ (Prs. &langle;پښتانه‎‎&rangle; [pəʂt̪aːnə])  
+- <a name="paltolon">**paltolon**</a> _n._ ([palto](#palto)+[lon](#lon))  
 
 
-  - **'pactanak** _n._ ('pactan+ak)  
-  
+- <a name="paltoloniti">**paltoloniti**</a> _v._ ([paltolon](#paltolon)+[iti](#iti))  
 
-  - **'pactantilip** _n._ ('pactan+tilip)  
-  
 
-- **pas** _n._ (Eng. &langle;path&rangle; [pʰæθ])  
+- <a name="paltolonitilon">**paltolonitilon**</a> _n._ ([paltoloniti](#paltoloniti)+[lon](#lon))  
 
 
-  - **pasak** _n._ (pas+ak)  
-  
+- <a name="paltolum">**paltolum**</a> _n._ ([palto](#palto)+[lum](#lum))  
 
-- **'pakistan** _n._ (Pan. &langle;پاکِستان‎&rangle; [pɑːkɪstɑːn])  
 
+- <a name="paltolumiti">**paltolumiti**</a> _v._ ([paltolum](#paltolum)+[iti](#iti))  
 
-  - **'pakistanak** _n._ ('pakistan+ak)  
-  
 
-  - **'pakistanwon** _n._ ('pakistan+won)  
-  
+- <a name="paltolyan">**paltolyan**</a> _n._ ([palto](#palto)+[lyan](#lyan))  
 
-  - **'pakistantilip** _n._ ('pakistan+tilip)  
-  
 
-- **pakha** _v._ (~~manca~~)  
+- <a name="paltonu">**paltonu**</a> _v._ ([palto](#palto)+[nu](#nu))  
 
 
-  - **pakhalon** _n._ (pakha+lon)  
-  
+- <a name="paltonules">**paltonules**</a> _n._ ([paltonu](#paltonu)+[les](#les))  
 
-  - **pakhaki** _v._ (pakha+ki)  
-  
 
-- **paktel** _n._ (Jav. &langle;baktèri&rangle; [pɑ̤ktɛɽi])  
+- <a name="paltokanu">**paltokanu**</a> _v._ ([pal](#pal)+[tokanu](#tokanu))  
 
 
-  - **paktelcwelon** _n._ (paktel+cwelon)  
-  
+- <a name="paltokanulon">**paltokanulon**</a> _n._ ([paltokanu](#paltokanu)+[lon](#lon))  
 
-  - **paktelcwelonnelum** _n._ (paktelcwelon+nelum)  
-  
 
-- **patam** _n._ (Hin. &langle;बादाम&rangle; [baːdaːm])  
+- <a name="paltokanuluat">**paltokanuluat**</a> _n._ ([paltokanu](#paltokanu)+[luat](#luat))  
 
 
-- **pato** _v._ (Fil. &langle;bato&rangle; [bato])  
+- <a name="paltoki">**paltoki**</a> _v._ ([palto](#palto)+[ki](#ki))  
 
 
-  - **patoisa** _v._ (pato+isa)  
-  
+- <a name="paltokiles">**paltokiles**</a> _n._ ([paltoki](#paltoki)+[les](#les))  
 
-  - **patoisalon** _n._ (patoisa+lon)  
-  
 
-  - **patoufa** _v._ (pato+ufa)  
-  
+- <a name="paltopowi">**paltopowi**</a> _v._ ([palto](#palto)+[powi](#powi))  
 
-  - **patoufaut** _n._ (patoufa+ut)  
-  
 
-  - **patoufalon** _n._ (patoufa+lon)  
-  
+- <a name="paltopowilon">**paltopowilon**</a> _n._ ([paltopowi](#paltopowi)+[lon](#lon))  
 
-  - **patoufatayl** _n._ (patoufa+tayl)  
-  
 
-  - **patolon** _n._ (pato+lon)  
-  
+- <a name="paltopowilum">**paltopowilum**</a> _n._ ([paltopowi](#paltopowi)+[lum](#lum))  
 
-  - **patolontulum** _n._ (patolon+tulum)  
-  
 
-  - **patocwelon** _n._ (pato+cwelon)  
-  
+- <a name="paltopowinyo">**paltopowinyo**</a> _v._ ([paltopowi](#paltopowi)+[nyo](#nyo))  
 
-  - **patoki** _v._ (pato+ki)  
-  
 
-  - **patoteluat** _n._ (pato+teluat)  
-  
+- <a name="paltopowinyolon">**paltopowinyolon**</a> _n._ ([paltopowinyo](#paltopowinyo)+[lon](#lon))  
 
-- **patili** _v._ (Swa. &langle;-badili&rangle; [ɓaɗili])  
 
+- <a name="paltopowinyolum">**paltopowinyolum**</a> _n._ ([paltopowinyo](#paltopowinyo)+[lum](#lum))  
 
-  - **patililes** _n._ (patili+les)  
-  
 
-  - **patililip** _n._ (patili+lip)  
-  
+- <a name="pawe">**pawe**</a> _v._ (Cmn. &langle;包围&rangle; [pɑʊ̯˥weɪ̯˧˥])  
 
-  - **patililum** _n._ (patili+lum)  
-  
 
-  - **patilihwok** _n._ (patili+hwok)  
-  
+- <a name="pawelon">**pawelon**</a> _n._ ([pawe](#pawe)+[lon](#lon))  
 
-- **'papeytos** _n._ (Bjs. &langle;Barbados&rangle; [bɑːɹˈbeɪ̯dɒs])  
 
+- <a name="pawelum">**pawelum**</a> _n._ ([pawe](#pawe)+[lum](#lum))  
 
-  - **'papeytosak** _n._ ('papeytos+ak)  
-  
 
-  - **'papeytoswon** _n._ ('papeytos+won)  
-  
+- <a name="pawelyan">**pawelyan**</a> _n._ ([pawe](#pawe)+[lyan](#lyan))  
 
-  - **'papeytostec** _n._ ('papeytos+tec)  
-  
 
-  - **'papeytostilip** _n._ ('papeytos+tilip)  
-  
+- <a name="paweki">**paweki**</a> _v._ ([pawe](#pawe)+[ki](#ki))  
 
-- **'papilim** _n._ (Akk. &langle;𒆍𒀭𒊏𒆠&rangle; [baːbili])  
 
+- <a name="pawekiles">**pawekiles**</a> _n._ ([paweki](#paweki)+[les](#les))  
 
-  - **'papua** _n._ (Tpi. &langle;Papua Niugini>)  
-  
 
-  - **'papuaak** _n._ ('papua+ak)  
-  
+- <a name="pawaf">**pawaf**</a> _n._ (ono. [baw)  
 
-  - **'papuawon** _n._ ('papua+won)  
-  
 
-  - **'papuatilip** _n._ ('papua+tilip)  
-  
+- <a name="pawafak">**pawafak**</a> _n._ ([pawaf](#pawaf)+[ak](#ak))  
 
-- **'papyuta** _n._ (Aig. &langle;Barbuda&rangle; [bɑːˈbjuːdə])  
 
+- <a name="pana">**pana**</a> _ptcl._ (Cmn. &langle;吧&rangle; [pa])  
 
-  - **'papyutaak** _n._ ('papyuta+ak)  
-  
 
-- **poyn** _n._ (Eng. &langle;point&rangle; [pʰɔɪ̯nt])  
+- <a name="pananeki">**pananeki**</a> _v._ ([pana](#pana)+[neki](#neki))  
 
 
-  - **poynak** _n._ (poyn+ak)  
-  
+- <a name="'panama">**'panama**</a> _n._ (Spa. &langle;Panamá&rangle; [panaˈma])  
 
-- **'pol** _n._ (Pol. &langle;pol-&rangle; [pɔl])  
 
+- <a name="'panamaak">**'panamaak**</a> _n._ (['panama](#'panama)+[ak](#ak))  
 
-- **pola** _v._ (Ben. &langle;বলা&rangle; [bɔl̪a])  
 
+- <a name="'panamawon">**'panamawon**</a> _n._ (['panama](#'panama)+[won](#won))  
 
-  - **polaec** _n._ (pola+ec)  
-  
 
-  - **polaak** _n._ (pola+ak)  
-  
+- <a name="panati">**panati**</a> _v._ ([pana](#pana)+[ti](#ti))  
 
-- **polai** _v._ (Ben. &langle;বড়াই&rangle; [bɔɽai])  
 
+- <a name="panatiles">**panatiles**</a> _n._ ([panati](#panati)+[les](#les))  
 
-  - **polailes** _n._ (polai+les)  
-  
 
-  - **polailon** _n._ (polai+lon)  
-  
+- <a name="panatilon">**panatilon**</a> _n._ ([panati](#panati)+[lon](#lon))  
 
-  - **polaikio** _v._ (polai+kio)  
-  
 
-  - **polaikiolon** _n._ (polaikio+lon)  
-  
+- <a name="panatilum">**panatilum**</a> _n._ ([panati](#panati)+[lum](#lum))  
 
-  - **polaipowi** _v._ (polai+powi)  
-  
 
-  - **polaipowilon** _n._ (polaipowi+lon)  
-  
+- <a name="'panla">**'panla**</a> _n._ (Ben. &langle;বাংলা&rangle; [ˈbaŋla])  
 
-  - **polaipowilyan** _n._ (polaipowi+lyan)  
-  
 
-  - **polaipowinu** _v._ (polaipowi+nu)  
-  
+- <a name="'panlaak">**'panlaak**</a> _n._ (['panla](#'panla)+[ak](#ak))  
 
-  - **polaipowinyo** _v._ (polaipowi+nyo)  
-  
 
-  - **polaipowinyolon** _n._ (polaipowinyo+lon)  
-  
+- <a name="'panlawon">**'panlawon**</a> _n._ (['panla](#'panla)+[won](#won))  
 
-  - **polaipowikac** _n._ (polaipowi+kac)  
-  
 
-  - **polaipowiki** _v._ (polaipowi+ki)  
-  
+- <a name="'panlatec">**'panlatec**</a> _n._ (['panla](#'panla)+[tec](#tec))  
 
-  - **polales** _n._ (pola+les)  
-  
 
-- **'polalis** _n._ (Lat. &langle;Polaris&rangle; [polaris])  
+- <a name="'panlatecwon">**'panlatecwon**</a> _n._ (['panlatec](#'panlatec)+[won](#won))  
 
 
-  - **'polalisawstalis** _n._ (Lat. &langle;Polaris Australis>)  
-  
+- <a name="'panlatilip">**'panlatilip**</a> _n._ (['panla](#'panla)+[tilip](#tilip))  
 
-  - **polalip** _n._ (pola+lip)  
-  
 
-  - **polaluat** _n._ (pola+luat)  
-  
+- <a name="'pancap">**'pancap**</a> _n._ (Pan. &langle;ਪੰਜਾਬ&rangle; [pə̃d͡ʒɑːb])  
 
-  - **polalum** _n._ (pola+lum)  
-  
 
-  - **polamocaki** _v._ (pola+mocaki)  
-  
+- <a name="'pancapak">**'pancapak**</a> _n._ (['pancap](#'pancap)+[ak](#ak))  
 
-  - **polamocakiles** _n._ (polamocaki+les)  
-  
 
-  - **polamocakilum** _n._ (polamocaki+lum)  
-  
+- <a name="'pancapwon">**'pancapwon**</a> _n._ (['pancap](#'pancap)+[won](#won))  
 
-  - **polacipcip** _n._ (pola+cipcip)  
-  
 
-  - **'polak** _n._ ('pol+ak)  
-  
+- <a name="'pancaptilip">**'pancaptilip**</a> _n._ (['pancap](#'pancap)+[tilip](#tilip))  
 
-  - **polapaltolon** _n._ (pola+paltolon)  
-  
 
-- **'polium** _n._ (Lat. &langle;borium&rangle; [borɪʊ̃])  
+- <a name="'pama">**'pama**</a> _n._ (Mya. &langle;ဗမာ&rangle; [bəmà])  
 
 
-- **'polinesi** _n._ (Fra. &langle;Polynésie&rangle; ['polinezi])  
+- <a name="'pamaak">**'pamaak**</a> _n._ (['pama](#'pama)+[ak](#ak))  
 
 
-  - **'polinesiak** _n._ ('polinesi+ak)  
-  
+- <a name="'pamatec">**'pamatec**</a> _n._ (['pama](#'pama)+[tec](#tec))  
 
-  - **'polinesiwon** _n._ ('polinesi+won)  
-  
 
-- **'polipya** _n._ (Spa. &langle;Bolivia&rangle; [boˈliβja])  
+- <a name="'pamatilip">**'pamatilip**</a> _n._ (['pama](#'pama)+[tilip](#tilip))  
 
 
-  - **'polipyaak** _n._ ('polipya+ak)  
-  
+- <a name="pamapolte">**pamapolte**</a> _v._ (Ben. &langle;বামাবর্তে&rangle; [bamabɔrt̪e])  
 
-  - **'polipyawon** _n._ ('polipya+won)  
-  
 
-- **'polum** _n._ (Lat. &langle;Porrum&rangle; [pɔrʊ̃])  
+- <a name="pamapoltelon">**pamapoltelon**</a> _n._ ([pamapolte](#pamapolte)+[lon](#lon))  
 
 
-  - **'poltec** _n._ ('pol+tec)  
-  
+- <a name="pamapoltelum">**pamapoltelum**</a> _n._ ([pamapolte](#pamapolte)+[lum](#lum))  
 
-- **polti** _v._ (Epo. &langle;porti&rangle; [ˈporti])  
 
+- <a name="pamapoltelyan">**pamapoltelyan**</a> _n._ ([pamapolte](#pamapolte)+[lyan](#lyan))  
 
-  - **poltilon** _n._ (polti+lon)  
-  
 
-  - **'poltilip** _n._ ('pol+tilip)  
-  
+- <a name="pamapolteki">**pamapolteki**</a> _v._ ([pamapolte](#pamapolte)+[ki](#ki))  
 
-  - **poltilum** _n._ (polti+lum)  
-  
 
-  - **poltinu** _v._ (polti+nu)  
-  
+- <a name="pamapoltekiles">**pamapoltekiles**</a> _n._ ([pamapolteki](#pamapolteki)+[les](#les))  
 
-  - **poltinules** _n._ (poltinu+les)  
-  
 
-  - **poltinulon** _n._ (poltinu+lon)  
-  
+- <a name="'pahai">**'pahai**</a> _n._ (Far. &langle;بهائی‎&rangle; [ba˨ˈha˦ʔi˦])  
 
-  - **poltinyokiah** _n._ (polti+nyo+kiah)  
-  
 
-  - **poltiki** _v._ (polti+ki)  
-  
+- <a name="'pahaiak">**'pahaiak**</a> _n._ (['pahai](#'pahai)+[ak](#ak))  
 
-  - **poltikiles** _n._ (poltiki+les)  
-  
+
+- <a name="'pahaiwon">**'pahaiwon**</a> _n._ (['pahai](#'pahai)+[won](#won))  
+
 
-  - **poltikilon** _n._ (poltiki+lon)  
+  - <a name="'pahama">**'pahama**</a> _n._ (Eng. &langle;The Bahamas>)  
   
 
-- **powi** _v._ (Epo. &langle;povi&rangle; [ˈpovi])  
+- <a name="'pahamaak">**'pahamaak**</a> _n._ (['pahama](#'pahama)+[ak](#ak))  
 
 
-  - **powilon** _n._ (powi+lon)  
-  
+- <a name="'pahamatec">**'pahamatec**</a> _n._ (['pahama](#'pahama)+[tec](#tec))  
 
-  - **powinu** _v._ (powi+nu)  
-  
 
-  - **powiki** _v._ (powi+ki)  
-  
+- <a name="'pahamatilip">**'pahamatilip**</a> _n._ (['pahama](#'pahama)+[tilip](#tilip))  
 
-- **ponto** _v._ (Ben. &langle;বন্ধ&rangle; [bɔn̪d̪̤ɔ])  
 
+- <a name="'pahasafil">**'pahasafil**</a> _n._ (Fra. &langle;Brazzaville&rangle; [bʁazavil])  
 
-  - **pontolon** _n._ (ponto+lon)  
-  
 
-  - **pontosiklalon** _n._ (ponto+siklalon)  
-  
+- <a name="'pahasafil'konotec">**'pahasafil'konotec**</a> _n._ (['pahasafil](#'pahasafil)+['konotec](#'konotec))  
 
-  - **pontoki** _v._ (ponto+ki)  
-  
 
-  - **pontokiles** _n._ (pontoki+les)  
-  
+- <a name="'pahasafil'konotecwon">**'pahasafil'konotecwon**</a> _n._ (['pahasafil'konotec](#'pahasafil'konotec)+[won](#won))  
 
-- **'pohotestantismus** _n._ (Deu. &langle;Protestantismus&rangle; [ˌpʀ̥otɛstanˈtɪsmʊs])  
 
+- <a name="'pahasafil'konotecak">**'pahasafil'konotecak**</a> _n._ (['pahasafil'konotec](#'pahasafil'konotec)+[ak](#ak))  
 
-  - **'pohotestantismuswon** _n._ ('pohotestantismus+won)  
-  
 
-  - **'pohotestantismusak** _n._ ('pohotestantismus+ak)  
-  
+- <a name="paho">**paho**</a> _v._ (Spa. &langle;bajo&rangle; [ˈbaxo])  
 
-- **poca** _v._ (Ben. &langle;পচা&rangle; [pɔt͡ɕa])  
 
+- <a name="'pahoehoe">**'pahoehoe**</a> _n._ (Haw. &langle;pāhoehoe&rangle; [paːˈhoweˈhowe])  
 
-  - **pocalon** _n._ (poca+lon)  
-  
 
-  - **pocaki** _v._ (poca+ki)  
-  
+- <a name="paholekcohpoltilum">**paholekcohpoltilum**</a> _n._ ([paho](#paho)+[lekcohpoltilum](#lekcohpoltilum))  
 
-- **'posna** _n._ (Bos. &langle;Bosna&rangle; [bɔ̂sna])  
 
+- <a name="paholon">**paholon**</a> _n._ ([paho](#paho)+[lon](#lon))  
 
-  - **'posnaak** _n._ ('posna+ak)  
-  
 
-  - **'posnawon** _n._ ('posna+won)  
-  
+- <a name="paholum">**paholum**</a> _n._ ([paho](#paho)+[lum](#lum))  
 
-  - **'posnakwelyot** _n._ ('posna+kwelyot)  
-  
+
+- <a name="paholyan">**paholyan**</a> _n._ ([paho](#paho)+[lyan](#lyan))  
+
+
+- <a name="pahonyec">**pahonyec**</a> _n._ ([paho](#paho)+[nyec](#nyec))  
+
+
+- <a name="pahocwemontalon">**pahocwemontalon**</a> _n._ ([paho](#paho)+[cwemontalon](#cwemontalon))  
+
+
+- <a name="pahoki">**pahoki**</a> _v._ ([paho](#paho)+[ki](#ki))  
+
+
+- <a name="pahokiles">**pahokiles**</a> _n._ ([pahoki](#pahoki)+[les](#les))  
+
+
+- <a name="pahotayl">**pahotayl**</a> _n._ ([paho](#paho)+[tayl](#tayl))  
+
+
+- <a name="pahotielon">**pahotielon**</a> _n._ ([paho](#paho)+[tielon](#tielon))  
+
+
+- <a name="pahopoltilum">**pahopoltilum**</a> _n._ ([paho](#paho)+[poltilum](#poltilum))  
+
+
+- <a name="'pahi">**'pahi**</a> _n._ (Fra. &langle;Paris&rangle; [paˈʁi])  
+
+
+- <a name="'pahlayn">**'pahlayn**</a> _n._ (Ara. &langle;بحرين‎&rangle; [baħrajn])  
+
+
+- <a name="'pahlaynak">**'pahlaynak**</a> _n._ (['pahlayn](#'pahlayn)+[ak](#ak))  
+
+
+- <a name="'pahlaynwon">**'pahlaynwon**</a> _n._ (['pahlayn](#'pahlayn)+[won](#won))  
+
+
+- <a name="'pactan">**'pactan**</a> _n._ (Prs. &langle;پښتانه‎‎&rangle; [pəʂt̪aːnə])  
+
+
+- <a name="'pactanak">**'pactanak**</a> _n._ (['pactan](#'pactan)+[ak](#ak))  
+
+
+- <a name="'pactantilip">**'pactantilip**</a> _n._ (['pactan](#'pactan)+[tilip](#tilip))  
+
+
+- <a name="pas">**pas**</a> _n._ (Eng. &langle;path&rangle; [pʰæθ])  
+
+
+- <a name="pasak">**pasak**</a> _n._ ([pas](#pas)+[ak](#ak))  
+
+
+- <a name="'pakistan">**'pakistan**</a> _n._ (Pan. &langle;پاکِستان‎&rangle; [pɑːkɪstɑːn])  
+
+
+- <a name="'pakistanak">**'pakistanak**</a> _n._ (['pakistan](#'pakistan)+[ak](#ak))  
+
+
+- <a name="'pakistanwon">**'pakistanwon**</a> _n._ (['pakistan](#'pakistan)+[won](#won))  
+
+
+- <a name="'pakistantilip">**'pakistantilip**</a> _n._ (['pakistan](#'pakistan)+[tilip](#tilip))  
+
+
+- <a name="pakha">**pakha**</a> _v._ ([~~manca~~](#manca))  
+
+
+- <a name="pakhalon">**pakhalon**</a> _n._ ([pakha](#pakha)+[lon](#lon))  
+
+
+- <a name="pakhaki">**pakhaki**</a> _v._ ([pakha](#pakha)+[ki](#ki))  
+
+
+- <a name="paktel">**paktel**</a> _n._ (Jav. &langle;baktèri&rangle; [pɑ̤ktɛɽi])  
+
+
+- <a name="paktelcwelon">**paktelcwelon**</a> _n._ ([paktel](#paktel)+[cwelon](#cwelon))  
+
+
+- <a name="paktelcwelonnelum">**paktelcwelonnelum**</a> _n._ ([paktelcwelon](#paktelcwelon)+[nelum](#nelum))  
+
+
+- <a name="patam">**patam**</a> _n._ (Hin. &langle;बादाम&rangle; [baːdaːm])  
+
+
+- <a name="pato">**pato**</a> _v._ (Fil. &langle;bato&rangle; [bato])  
+
+
+- <a name="patoisa">**patoisa**</a> _v._ ([pato](#pato)+[isa](#isa))  
+
+
+- <a name="patoisalon">**patoisalon**</a> _n._ ([patoisa](#patoisa)+[lon](#lon))  
+
 
-  - **'posnatec** _n._ ('posna+tec)  
+- <a name="patoufa">**patoufa**</a> _v._ ([pato](#pato)+[ufa](#ufa))  
+
+
+- <a name="patoufaut">**patoufaut**</a> _n._ ([patoufa](#patoufa)+[ut](#ut))  
+
+
+- <a name="patoufalon">**patoufalon**</a> _n._ ([patoufa](#patoufa)+[lon](#lon))  
+
+
+- <a name="patoufatayl">**patoufatayl**</a> _n._ ([patoufa](#patoufa)+[tayl](#tayl))  
+
+
+- <a name="patolon">**patolon**</a> _n._ ([pato](#pato)+[lon](#lon))  
+
+
+- <a name="patolontulum">**patolontulum**</a> _n._ ([patolon](#patolon)+[tulum](#tulum))  
+
+
+- <a name="patocwelon">**patocwelon**</a> _n._ ([pato](#pato)+[cwelon](#cwelon))  
+
+
+- <a name="patoki">**patoki**</a> _v._ ([pato](#pato)+[ki](#ki))  
+
+
+- <a name="patoteluat">**patoteluat**</a> _n._ ([pato](#pato)+[teluat](#teluat))  
+
+
+- <a name="patili">**patili**</a> _v._ (Swa. &langle;-badili&rangle; [ɓaɗili])  
+
+
+- <a name="patililes">**patililes**</a> _n._ ([patili](#patili)+[les](#les))  
+
+
+- <a name="patililip">**patililip**</a> _n._ ([patili](#patili)+[lip](#lip))  
+
+
+- <a name="patililum">**patililum**</a> _n._ ([patili](#patili)+[lum](#lum))  
+
+
+- <a name="patilihwok">**patilihwok**</a> _n._ ([patili](#patili)+[hwok](#hwok))  
+
+
+- <a name="'papeytos">**'papeytos**</a> _n._ (Bjs. &langle;Barbados&rangle; [bɑːɹˈbeɪ̯dɒs])  
+
+
+- <a name="'papeytosak">**'papeytosak**</a> _n._ (['papeytos](#'papeytos)+[ak](#ak))  
+
+
+- <a name="'papeytoswon">**'papeytoswon**</a> _n._ (['papeytos](#'papeytos)+[won](#won))  
+
+
+- <a name="'papeytostec">**'papeytostec**</a> _n._ (['papeytos](#'papeytos)+[tec](#tec))  
+
+
+- <a name="'papeytostilip">**'papeytostilip**</a> _n._ (['papeytos](#'papeytos)+[tilip](#tilip))  
+
+
+- <a name="'papilim">**'papilim**</a> _n._ (Akk. &langle;𒆍𒀭𒊏𒆠&rangle; [baːbili])  
+
+
+  - <a name="'papua">**'papua**</a> _n._ (Tpi. &langle;Papua Niugini>)  
   
+
+- <a name="'papuaak">**'papuaak**</a> _n._ (['papua](#'papua)+[ak](#ak))  
+
+
+- <a name="'papuawon">**'papuawon**</a> _n._ (['papua](#'papua)+[won](#won))  
+
+
+- <a name="'papuatilip">**'papuatilip**</a> _n._ (['papua](#'papua)+[tilip](#tilip))  
+
+
+- <a name="'papyuta">**'papyuta**</a> _n._ (Aig. &langle;Barbuda&rangle; [bɑːˈbjuːdə])  
+
+
+- <a name="'papyutaak">**'papyutaak**</a> _n._ (['papyuta](#'papyuta)+[ak](#ak))  
+
+
+- <a name="poyn">**poyn**</a> _n._ (Eng. &langle;point&rangle; [pʰɔɪ̯nt])  
+
+
+- <a name="poynak">**poynak**</a> _n._ ([poyn](#poyn)+[ak](#ak))  
+
+
+- <a name="'pol">**'pol**</a> _n._ (Pol. &langle;pol-&rangle; [pɔl])  
+
+
+- <a name="pola">**pola**</a> _v._ (Ben. &langle;বলা&rangle; [bɔl̪a])  
+
+
+- <a name="polaec">**polaec**</a> _n._ ([pola](#pola)+[ec](#ec))  
+
+
+- <a name="polaak">**polaak**</a> _n._ ([pola](#pola)+[ak](#ak))  
+
+
+- <a name="polai">**polai**</a> _v._ (Ben. &langle;বড়াই&rangle; [bɔɽai])  
+
 
-  - **'posnatilip** _n._ ('posna+tilip)  
+- <a name="polailes">**polailes**</a> _n._ ([polai](#polai)+[les](#les))  
+
+
+- <a name="polailon">**polailon**</a> _n._ ([polai](#polai)+[lon](#lon))  
+
+
+- <a name="polaikio">**polaikio**</a> _v._ ([polai](#polai)+[kio](#kio))  
+
+
+- <a name="polaikiolon">**polaikiolon**</a> _n._ ([polaikio](#polaikio)+[lon](#lon))  
+
+
+- <a name="polaipowi">**polaipowi**</a> _v._ ([polai](#polai)+[powi](#powi))  
+
+
+- <a name="polaipowilon">**polaipowilon**</a> _n._ ([polaipowi](#polaipowi)+[lon](#lon))  
+
+
+- <a name="polaipowilyan">**polaipowilyan**</a> _n._ ([polaipowi](#polaipowi)+[lyan](#lyan))  
+
+
+- <a name="polaipowinu">**polaipowinu**</a> _v._ ([polaipowi](#polaipowi)+[nu](#nu))  
+
+
+- <a name="polaipowinyo">**polaipowinyo**</a> _v._ ([polaipowi](#polaipowi)+[nyo](#nyo))  
+
+
+- <a name="polaipowinyolon">**polaipowinyolon**</a> _n._ ([polaipowinyo](#polaipowinyo)+[lon](#lon))  
+
+
+- <a name="polaipowikac">**polaipowikac**</a> _n._ ([polaipowi](#polaipowi)+[kac](#kac))  
+
+
+- <a name="polaipowiki">**polaipowiki**</a> _v._ ([polaipowi](#polaipowi)+[ki](#ki))  
+
+
+- <a name="polales">**polales**</a> _n._ ([pola](#pola)+[les](#les))  
+
+
+- <a name="'polalis">**'polalis**</a> _n._ (Lat. &langle;Polaris&rangle; [polaris])  
+
+
+  - <a name="'polalisawstalis">**'polalisawstalis**</a> _n._ (Lat. &langle;Polaris Australis>)  
   
+
+- <a name="polalip">**polalip**</a> _n._ ([pola](#pola)+[lip](#lip))  
+
+
+- <a name="polaluat">**polaluat**</a> _n._ ([pola](#pola)+[luat](#luat))  
+
+
+- <a name="polalum">**polalum**</a> _n._ ([pola](#pola)+[lum](#lum))  
+
+
+- <a name="polamocaki">**polamocaki**</a> _v._ ([pola](#pola)+[mocaki](#mocaki))  
+
+
+- <a name="polamocakiles">**polamocakiles**</a> _n._ ([polamocaki](#polamocaki)+[les](#les))  
+
+
+- <a name="polamocakilum">**polamocakilum**</a> _n._ ([polamocaki](#polamocaki)+[lum](#lum))  
+
+
+- <a name="polacipcip">**polacipcip**</a> _n._ ([pola](#pola)+[cipcip](#cipcip))  
+
+
+- <a name="'polak">**'polak**</a> _n._ (['pol](#'pol)+[ak](#ak))  
+
+
+- <a name="polapaltolon">**polapaltolon**</a> _n._ ([pola](#pola)+[paltolon](#paltolon))  
+
+
+- <a name="'polium">**'polium**</a> _n._ (Lat. &langle;borium&rangle; [borɪʊ̃])  
+
+
+- <a name="'polinesi">**'polinesi**</a> _n._ (Fra. &langle;Polynésie&rangle; ['polinezi])  
+
+
+- <a name="'polinesiak">**'polinesiak**</a> _n._ (['polinesi](#'polinesi)+[ak](#ak))  
+
+
+- <a name="'polinesiwon">**'polinesiwon**</a> _n._ (['polinesi](#'polinesi)+[won](#won))  
+
+
+- <a name="'polipya">**'polipya**</a> _n._ (Spa. &langle;Bolivia&rangle; [boˈliβja])  
+
+
+- <a name="'polipyaak">**'polipyaak**</a> _n._ (['polipya](#'polipya)+[ak](#ak))  
+
+
+- <a name="'polipyawon">**'polipyawon**</a> _n._ (['polipya](#'polipya)+[won](#won))  
+
+
+- <a name="'polum">**'polum**</a> _n._ (Lat. &langle;Porrum&rangle; [pɔrʊ̃])  
+
+
+- <a name="'poltec">**'poltec**</a> _n._ (['pol](#'pol)+[tec](#tec))  
+
+
+- <a name="polti">**polti**</a> _v._ (Epo. &langle;porti&rangle; [ˈporti])  
+
+
+- <a name="poltilon">**poltilon**</a> _n._ ([polti](#polti)+[lon](#lon))  
+
+
+- <a name="'poltilip">**'poltilip**</a> _n._ (['pol](#'pol)+[tilip](#tilip))  
+
+
+- <a name="poltilum">**poltilum**</a> _n._ ([polti](#polti)+[lum](#lum))  
+
+
+- <a name="poltinu">**poltinu**</a> _v._ ([polti](#polti)+[nu](#nu))  
+
+
+- <a name="poltinules">**poltinules**</a> _n._ ([poltinu](#poltinu)+[les](#les))  
+
+
+- <a name="poltinulon">**poltinulon**</a> _n._ ([poltinu](#poltinu)+[lon](#lon))  
+
+
+- <a name="poltinyokiah">**poltinyokiah**</a> _n._ ([polti](#polti)+[nyo](#nyo)+[kiah](#kiah))  
+
+
+- <a name="poltiki">**poltiki**</a> _v._ ([polti](#polti)+[ki](#ki))  
+
+
+- <a name="poltikiles">**poltikiles**</a> _n._ ([poltiki](#poltiki)+[les](#les))  
+
+
+- <a name="poltikilon">**poltikilon**</a> _n._ ([poltiki](#poltiki)+[lon](#lon))  
+
+
+- <a name="powi">**powi**</a> _v._ (Epo. &langle;povi&rangle; [ˈpovi])  
+
+
+- <a name="powilon">**powilon**</a> _n._ ([powi](#powi)+[lon](#lon))  
+
+
+- <a name="powinu">**powinu**</a> _v._ ([powi](#powi)+[nu](#nu))  
+
+
+- <a name="powiki">**powiki**</a> _v._ ([powi](#powi)+[ki](#ki))  
+
+
+- <a name="ponto">**ponto**</a> _v._ (Ben. &langle;বন্ধ&rangle; [bɔn̪d̪̤ɔ])  
+
+
+- <a name="pontolon">**pontolon**</a> _n._ ([ponto](#ponto)+[lon](#lon))  
+
+
+- <a name="pontosiklalon">**pontosiklalon**</a> _n._ ([ponto](#ponto)+[siklalon](#siklalon))  
+
+
+- <a name="pontoki">**pontoki**</a> _v._ ([ponto](#ponto)+[ki](#ki))  
+
+
+- <a name="pontokiles">**pontokiles**</a> _n._ ([pontoki](#pontoki)+[les](#les))  
+
+
+- <a name="'pohotestantismus">**'pohotestantismus**</a> _n._ (Deu. &langle;Protestantismus&rangle; [ˌpʀ̥otɛstanˈtɪsmʊs])  
+
+
+- <a name="'pohotestantismuswon">**'pohotestantismuswon**</a> _n._ (['pohotestantismus](#'pohotestantismus)+[won](#won))  
+
+
+- <a name="'pohotestantismusak">**'pohotestantismusak**</a> _n._ (['pohotestantismus](#'pohotestantismus)+[ak](#ak))  
+
+
+- <a name="poca">**poca**</a> _v._ (Ben. &langle;পচা&rangle; [pɔt͡ɕa])  
+
+
+- <a name="pocalon">**pocalon**</a> _n._ ([poca](#poca)+[lon](#lon))  
+
+
+- <a name="pocaki">**pocaki**</a> _v._ ([poca](#poca)+[ki](#ki))  
+
+
+- <a name="'posna">**'posna**</a> _n._ (Bos. &langle;Bosna&rangle; [bɔ̂sna])  
+
+
+- <a name="'posnaak">**'posnaak**</a> _n._ (['posna](#'posna)+[ak](#ak))  
+
+
+- <a name="'posnawon">**'posnawon**</a> _n._ (['posna](#'posna)+[won](#won))  
+
+
+- <a name="'posnakwelyot">**'posnakwelyot**</a> _n._ (['posna](#'posna)+[kwelyot](#kwelyot))  
+
+
+- <a name="'posnatec">**'posnatec**</a> _n._ (['posna](#'posna)+[tec](#tec))  
+
+
+- <a name="'posnatilip">**'posnatilip**</a> _n._ (['posna](#'posna)+[tilip](#tilip))  
+
 
-- **pok** _num._ (~~men~~)  
+- <a name="pok">**pok**</a> _num._ ([~~men~~](#men))  
 positivo; plus
 
-  - **'poksimacentawli** _n._ (Lat. &langle;Proxima Centauri>)  
+  - <a name="'poksimacentawli">**'poksimacentawli**</a> _n._ (Lat. &langle;Proxima Centauri>)  
   
 
-- **'potasium** _n._ (Lat. &langle;potassium&rangle; [pɔtassɪʊ̃])  
+- <a name="'potasium">**'potasium**</a> _n._ (Lat. &langle;potassium&rangle; [pɔtassɪʊ̃])  
 
 
-- **'pi** _n._ (Grc. &langle;π&rangle; [pi])  
+- <a name="'pi">**'pi**</a> _n._ (Grc. &langle;π&rangle; [pi])  
 
 
-- **piac** _n._ (Pan. &langle;ਪਿਆਜ&rangle; [pɪɑd͡ʒ])  
+- <a name="piac">**piac**</a> _n._ (Pan. &langle;ਪਿਆਜ&rangle; [pɪɑd͡ʒ])  
 
 
-- **piasa** _v._ (Msa. &langle;biasa&rangle; [biasa])  
+- <a name="piasa">**piasa**</a> _v._ (Msa. &langle;biasa&rangle; [biasa])  
 
 
-  - **piasalon** _n._ (piasa+lon)  
-  
-
-  - **piasalum** _n._ (piasa+lum)  
-  
-
-  - **piasaki** _v._ (piasa+ki)  
-  
-
-  - **piasakiles** _n._ (piasaki+les)  
-  
-
-- **pil** _n._ (Nya. &langle;phiri&rangle; [pʰiɽi])  
+- <a name="piasalon">**piasalon**</a> _n._ ([piasa](#piasa)+[lon](#lon))  
 
 
-- **pila** _v._ (Hin. &langle;पीला&rangle; [piːlaː])  
+- <a name="piasalum">**piasalum**</a> _n._ ([piasa](#piasa)+[lum](#lum))  
 
 
-  - **pilalon** _n._ (pila+lon)  
-  
-
-  - **pilalyan** _n._ (pila+lyan)  
-  
-
-  - **pilaceluk** _n._ (pila+celuk)  
-  
-
-  - **pilacwelon** _n._ (pila+cwelon)  
-  
-
-  - **pilacwelonec** _n._ (pilacwelon+ec)  
-  
-
-  - **pilacwelonkoki** _v._ (pilacwelon+koki)  
-  
-
-  - **pilak** _n._ (pil+ak)  
-  
-
-  - **pilaki** _v._ (pila+ki)  
-  
-
-  - **pilatatu** _v._ (pila+tatu)  
-  
-
-  - **pilatatulon** _n._ (pilatatu+lon)  
-  
-
-- **'pilinsipi** _n._ (Por. &langle;Príncipe&rangle; [ˈpɾĩsɨpɨ])  
+- <a name="piasaki">**piasaki**</a> _v._ ([piasa](#piasa)+[ki](#ki))  
 
 
-  - **'pilinsipiak** _n._ ('pilinsipi+ak)  
-  
-
-- **'pilipinas** _n._ (Fil. &langle;Pilipinas&rangle; [pɪlɪpinas])  
+- <a name="piasakiles">**piasakiles**</a> _n._ ([piasaki](#piasaki)+[les](#les))  
 
 
-  - **'pilipinasak** _n._ ('pilipinas+ak)  
-  
-
-  - **'pilipinaswon** _n._ ('pilipinas+won)  
-  
-
-  - **'pilipinastec** _n._ ('pilipinas+tec)  
-  
-
-  - **'pilipinastilip** _n._ ('pilipinas+tilip)  
-  
-
-- **pilus** _n._ (Spa. &langle;virus&rangle; [ˈbiɾus])  
+- <a name="pil">**pil**</a> _n._ (Nya. &langle;phiri&rangle; [pʰiɽi])  
 
 
-  - **pilut** _n._ (pil+ut)  
-  
+- <a name="pila">**pila**</a> _v._ (Hin. &langle;पीला&rangle; [piːlaː])  
 
-  - **pilmuf** _n._ (pil+muf)  
-  
 
-- **pih** _num._ (~~muc~~)  
+- <a name="pilalon">**pilalon**</a> _n._ ([pila](#pila)+[lon](#lon))  
+
+
+- <a name="pilalyan">**pilalyan**</a> _n._ ([pila](#pila)+[lyan](#lyan))  
+
+
+- <a name="pilaceluk">**pilaceluk**</a> _n._ ([pila](#pila)+[celuk](#celuk))  
+
+
+- <a name="pilacwelon">**pilacwelon**</a> _n._ ([pila](#pila)+[cwelon](#cwelon))  
+
+
+- <a name="pilacwelonec">**pilacwelonec**</a> _n._ ([pilacwelon](#pilacwelon)+[ec](#ec))  
+
+
+- <a name="pilacwelonkoki">**pilacwelonkoki**</a> _v._ ([pilacwelon](#pilacwelon)+[koki](#koki))  
+
+
+- <a name="pilak">**pilak**</a> _n._ ([pil](#pil)+[ak](#ak))  
+
+
+- <a name="pilaki">**pilaki**</a> _v._ ([pila](#pila)+[ki](#ki))  
+
+
+- <a name="pilatatu">**pilatatu**</a> _v._ ([pila](#pila)+[tatu](#tatu))  
+
+
+- <a name="pilatatulon">**pilatatulon**</a> _n._ ([pilatatu](#pilatatu)+[lon](#lon))  
+
+
+- <a name="'pilinsipi">**'pilinsipi**</a> _n._ (Por. &langle;Príncipe&rangle; [ˈpɾĩsɨpɨ])  
+
+
+- <a name="'pilinsipiak">**'pilinsipiak**</a> _n._ (['pilinsipi](#'pilinsipi)+[ak](#ak))  
+
+
+- <a name="'pilipinas">**'pilipinas**</a> _n._ (Fil. &langle;Pilipinas&rangle; [pɪlɪpinas])  
+
+
+- <a name="'pilipinasak">**'pilipinasak**</a> _n._ (['pilipinas](#'pilipinas)+[ak](#ak))  
+
+
+- <a name="'pilipinaswon">**'pilipinaswon**</a> _n._ (['pilipinas](#'pilipinas)+[won](#won))  
+
+
+- <a name="'pilipinastec">**'pilipinastec**</a> _n._ (['pilipinas](#'pilipinas)+[tec](#tec))  
+
+
+- <a name="'pilipinastilip">**'pilipinastilip**</a> _n._ (['pilipinas](#'pilipinas)+[tilip](#tilip))  
+
+
+- <a name="pilus">**pilus**</a> _n._ (Spa. &langle;virus&rangle; [ˈbiɾus])  
+
+
+- <a name="pilut">**pilut**</a> _n._ ([pil](#pil)+[ut](#ut))  
+
+
+- <a name="pilmuf">**pilmuf**</a> _n._ ([pil](#pil)+[muf](#muf))  
+
+
+- <a name="pih">**pih**</a> _num._ ([~~muc~~](#muc))  
 poco; pocos
 
-  - **pihonalon** _n._ (pih+onalon)  
-  
-
-  - **pihlono** _v._ (pih+lono)  
-  
-
-  - **pihlonolon** _n._ (pihlono+lon)  
-  
-
-  - **pihcih** _n._ (pih+cih)  
-  
-
-  - **pihcwelon** _n._ (pih+cwelon)  
-  
-
-  - **pihcwepucolon** _n._ (pih+cwepucolon)  
-  
-
-  - **pihtec** _n._ (pih+tec)  
-  
-
-  - **pihtayl** _n._ (pih+tayl)  
-  
-
-  - **pihtafu** _v._ (pih+tafu)  
-  
-
-  - **pihtafulum** _n._ (pihtafu+lum)  
-  
-
-  - **pihtue** _v._ (pih+tue)  
-  
-
-  - **pihtuelon** _n._ (pihtue+lon)  
-  
-
-  - **pihtunci** _v._ (pih+tunci)  
-  
-
-  - **pihtuncilum** _n._ (pihtunci+lum)  
-  
-
-  - **pihtuncilyot** _n._ (pihtunci+lyot)  
-  
-
-  - **pihpatolon** _n._ (pih+patolon)  
-  
-
-  - **pihpil** _n._ (pih+pil)  
-  
-
-  - **pihpyo** _v._ (pih+pyo)  
-  
-
-  - **pihpyolon** _n._ (pihpyo+lon)  
-  
-
-  - **pihpyolum** _n._ (pihpyo+lum)  
-  
-
-- **pic** _n._ (Hin. &langle;बीज&rangle; [biːd͡ʒ])  
+- <a name="pihonalon">**pihonalon**</a> _n._ ([pih](#pih)+[onalon](#onalon))  
 
 
-  - **picec** _n._ (pic+ec)  
-  
-
-  - **picak** _n._ (pic+ak)  
-  
-
-- **picin** _n._ (Eng. &langle;pigeon&rangle; [ˈpʰɪd͡ʒɪn])  
+- <a name="pihlono">**pihlono**</a> _v._ ([pih](#pih)+[lono](#lono))  
 
 
-- **pis** _n._ (Epo. &langle;pizo&rangle; [ˈpizo])  
+- <a name="pihlonolon">**pihlonolon**</a> _n._ ([pihlono](#pihlono)+[lon](#lon))  
 
 
-- **'pisaw** _n._ (Por. &langle;Bissau&rangle; [biˈsaw])  
+- <a name="pihcih">**pihcih**</a> _n._ ([pih](#pih)+[cih](#cih))  
 
 
-  - **'pisaw'kine** _n._ ('pisaw+'kine)  
-  
-
-  - **'pisaw'kineak** _n._ ('pisaw'kine+ak)  
-  
-
-  - **'pisaw'kinewon** _n._ ('pisaw'kine+won)  
-  
-
-- **pikante** _v._ (Spa. &langle;picante&rangle; [piˈkante])  
+- <a name="pihcwelon">**pihcwelon**</a> _n._ ([pih](#pih)+[cwelon](#cwelon))  
 
 
-  - **pikantelon** _n._ (pikante+lon)  
-  
+- <a name="pihcwepucolon">**pihcwepucolon**</a> _n._ ([pih](#pih)+[cwepucolon](#cwepucolon))  
 
-  - **pikantelyan** _n._ (pikante+lyan)  
-  
 
-  - **pikantefut** _n._ (pikante+fut)  
-  
+- <a name="pihtec">**pihtec**</a> _n._ ([pih](#pih)+[tec](#tec))  
 
-  - **pikanteki** _v._ (pikante+ki)  
-  
 
-- **pit** _num._ (Jav. &langle;pitu&rangle; [pitu])  
+- <a name="pihtayl">**pihtayl**</a> _n._ ([pih](#pih)+[tayl](#tayl))  
+
+
+- <a name="pihtafu">**pihtafu**</a> _v._ ([pih](#pih)+[tafu](#tafu))  
+
+
+- <a name="pihtafulum">**pihtafulum**</a> _n._ ([pihtafu](#pihtafu)+[lum](#lum))  
+
+
+- <a name="pihtue">**pihtue**</a> _v._ ([pih](#pih)+[tue](#tue))  
+
+
+- <a name="pihtuelon">**pihtuelon**</a> _n._ ([pihtue](#pihtue)+[lon](#lon))  
+
+
+- <a name="pihtunci">**pihtunci**</a> _v._ ([pih](#pih)+[tunci](#tunci))  
+
+
+- <a name="pihtuncilum">**pihtuncilum**</a> _n._ ([pihtunci](#pihtunci)+[lum](#lum))  
+
+
+- <a name="pihtuncilyot">**pihtuncilyot**</a> _n._ ([pihtunci](#pihtunci)+[lyot](#lyot))  
+
+
+- <a name="pihpatolon">**pihpatolon**</a> _n._ ([pih](#pih)+[patolon](#patolon))  
+
+
+- <a name="pihpil">**pihpil**</a> _n._ ([pih](#pih)+[pil](#pil))  
+
+
+- <a name="pihpyo">**pihpyo**</a> _v._ ([pih](#pih)+[pyo](#pyo))  
+
+
+- <a name="pihpyolon">**pihpyolon**</a> _n._ ([pihpyo](#pihpyo)+[lon](#lon))  
+
+
+- <a name="pihpyolum">**pihpyolum**</a> _n._ ([pihpyo](#pihpyo)+[lum](#lum))  
+
+
+- <a name="pic">**pic**</a> _n._ (Hin. &langle;बीज&rangle; [biːd͡ʒ])  
+
+
+- <a name="picec">**picec**</a> _n._ ([pic](#pic)+[ec](#ec))  
+
+
+- <a name="picak">**picak**</a> _n._ ([pic](#pic)+[ak](#ak))  
+
+
+- <a name="picin">**picin**</a> _n._ (Eng. &langle;pigeon&rangle; [ˈpʰɪd͡ʒɪn])  
+
+
+- <a name="pis">**pis**</a> _n._ (Epo. &langle;pizo&rangle; [ˈpizo])  
+
+
+- <a name="'pisaw">**'pisaw**</a> _n._ (Por. &langle;Bissau&rangle; [biˈsaw])  
+
+
+- <a name="'pisaw'kine">**'pisaw'kine**</a> _n._ (['pisaw](#'pisaw)+['kine](#'kine))  
+
+
+- <a name="'pisaw'kineak">**'pisaw'kineak**</a> _n._ (['pisaw'kine](#'pisaw'kine)+[ak](#ak))  
+
+
+- <a name="'pisaw'kinewon">**'pisaw'kinewon**</a> _n._ (['pisaw'kine](#'pisaw'kine)+[won](#won))  
+
+
+- <a name="pikante">**pikante**</a> _v._ (Spa. &langle;picante&rangle; [piˈkante])  
+
+
+- <a name="pikantelon">**pikantelon**</a> _n._ ([pikante](#pikante)+[lon](#lon))  
+
+
+- <a name="pikantelyan">**pikantelyan**</a> _n._ ([pikante](#pikante)+[lyan](#lyan))  
+
+
+- <a name="pikantefut">**pikantefut**</a> _n._ ([pikante](#pikante)+[fut](#fut))  
+
+
+- <a name="pikanteki">**pikanteki**</a> _v._ ([pikante](#pikante)+[ki](#ki))  
+
+
+- <a name="pit">**pit**</a> _num._ (Jav. &langle;pitu&rangle; [pitu])  
 7; siete
 
-  - **pitak** _n._ (pit+ak)  
-  séptimo
+- <a name="pitak">**pitak**</a> _n._ ([pit](#pit)+[ak](#ak))  
+séptimo
 
-- **'pitsa** _n._ (Ita. &langle;pizza&rangle; [ˈpit͡sːa])  
+- <a name="'pitsa">**'pitsa**</a> _n._ (Ita. &langle;pizza&rangle; [ˈpit͡sːa])  
 
 
-  - **pitsunkwelwel** _n._ (pit+sunkwelwel)  
-  
+- <a name="pitsunkwelwel">**pitsunkwelwel**</a> _n._ ([pit](#pit)+[sunkwelwel](#sunkwelwel))  
 
-- **'pitkoyn** _n._ (Eng. &langle;bitcoin&rangle; [ˈbɪtkɔɪ̯n])  
 
+- <a name="'pitkoyn">**'pitkoyn**</a> _n._ (Eng. &langle;bitcoin&rangle; [ˈbɪtkɔɪ̯n])  
 
-  - **pitkwelwel** _n._ (pit+kwelwel)  
-  
 
-- **pul** _n._ (Hin. &langle;फूल&rangle; [pʰuːl])  
+- <a name="pitkwelwel">**pitkwelwel**</a> _n._ ([pit](#pit)+[kwelwel](#kwelwel))  
 
 
-- **pula** _v._ (Epo. &langle;pura&rangle; [ˈpura])  
+- <a name="pul">**pul**</a> _n._ (Hin. &langle;फूल&rangle; [pʰuːl])  
 
 
-  - **pulalon** _n._ (pula+lon)  
-  
+- <a name="pula">**pula**</a> _v._ (Epo. &langle;pura&rangle; [ˈpura])  
 
-  - **pulanelon** _n._ (pula+nelon)  
-  
 
-  - **pulasapu** _v._ (pula+sapu)  
-  
+- <a name="pulalon">**pulalon**</a> _n._ ([pula](#pula)+[lon](#lon))  
 
-  - **pulasapuluat** _n._ (pulasapu+luat)  
-  
 
-  - **pulak** _n._ (pul+ak)  
-  
+- <a name="pulanelon">**pulanelon**</a> _n._ ([pula](#pula)+[nelon](#nelon))  
 
-  - **pulaki** _v._ (pula+ki)  
-  
 
-  - **pulakiles** _n._ (pulaki+les)  
-  
+- <a name="pulasapu">**pulasapu**</a> _v._ ([pula](#pula)+[sapu](#sapu))  
 
-  - **pulakiluat** _n._ (pulaki+luat)  
-  
 
-- **'pulomium** _n._ (Lat. &langle;bromium&rangle; [bromɪʊ̃])  
+- <a name="pulasapuluat">**pulasapuluat**</a> _n._ ([pulasapu](#pulasapu)+[luat](#luat))  
 
 
-- **puli** _v._ (Pan. &langle;ਪੂਰੀ&rangle; [puɾi])  
+- <a name="pulak">**pulak**</a> _n._ ([pul](#pul)+[ak](#ak))  
 
 
-  - **pulilon** _n._ (puli+lon)  
-  
+- <a name="pulaki">**pulaki**</a> _v._ ([pula](#pula)+[ki](#ki))  
 
-  - **pulilum** _n._ (puli+lum)  
-  
 
-  - **puliki** _v._ (puli+ki)  
-  
+- <a name="pulakiles">**pulakiles**</a> _n._ ([pulaki](#pulaki)+[les](#les))  
 
-- **'pulusel** _n._ (Nld. &langle;Brussel&rangle; [ˈbrʏsəl])  
 
+- <a name="pulakiluat">**pulakiluat**</a> _n._ ([pulaki](#pulaki)+[luat](#luat))  
 
-  - **pulciuh** _n._ (pul+ciuh)  
-  
 
-  - **pultun** _n._ (pul+tun)  
-  
+- <a name="'pulomium">**'pulomium**</a> _n._ (Lat. &langle;bromium&rangle; [bromɪʊ̃])  
 
-- **'pultukal** _n._ (Por. &langle;Portugal&rangle; [puɾtuˈɣal])  
 
+- <a name="puli">**puli**</a> _v._ (Pan. &langle;ਪੂਰੀ&rangle; [puɾi])  
 
-  - **'pultukalak** _n._ ('pultukal+ak)  
-  
 
-  - **'pultukaltec** _n._ ('pultukal+tec)  
-  
+- <a name="pulilon">**pulilon**</a> _n._ ([puli](#puli)+[lon](#lon))  
 
-  - **'pultukaltilip** _n._ ('pultukal+tilip)  
-  
 
-  - **pulpiac** _n._ (pul+piac)  
-  
+- <a name="pulilum">**pulilum**</a> _n._ ([puli](#puli)+[lum](#lum))  
 
-- **pum** _n._ (Hin. &langle;भूमि&rangle; [b̤uːmi])  
 
+- <a name="puliki">**puliki**</a> _v._ ([puli](#puli)+[ki](#ki))  
 
-- **puma** _v._ (ono. [bum])  
 
+- <a name="'pulusel">**'pulusel**</a> _n._ (Nld. &langle;Brussel&rangle; [ˈbrʏsəl])  
 
-  - **pumalon** _n._ (puma+lon)  
-  
 
-  - **pumak** _n._ (pum+ak)  
-  
+- <a name="pulciuh">**pulciuh**</a> _n._ ([pul](#pul)+[ciuh](#ciuh))  
 
-  - **pumap** _n._ (pum+ap)  
-  
 
-  - **pummontalon** _n._ (pum+montalon)  
-  
+- <a name="pultun">**pultun**</a> _n._ ([pul](#pul)+[tun](#tun))  
 
-  - **pumhila** _v._ (pum+hila)  
-  
 
-  - **pumhilales** _n._ (pumhila+les)  
-  
+- <a name="'pultukal">**'pultukal**</a> _n._ (Por. &langle;Portugal&rangle; [puɾtuˈɣal])  
 
-  - **pumkwelwel** _n._ (pum+kwelwel)  
-  
 
-  - **pumtupel** _n._ (pum+tupel)  
-  
+- <a name="'pultukalak">**'pultukalak**</a> _n._ (['pultukal](#'pultukal)+[ak](#ak))  
 
-- **'puhkinafaso** _n._ (Fra. &langle;Burkina&rangle; [buʁkina])  
 
+- <a name="'pultukaltec">**'pultukaltec**</a> _n._ (['pultukal](#'pultukal)+[tec](#tec))  
 
-  - **'puhkinafasoak** _n._ ('puhkinafaso+ak)  
-  
 
-  - **'puhkinafasowon** _n._ ('puhkinafaso+won)  
-  
+- <a name="'pultukaltilip">**'pultukaltilip**</a> _n._ (['pultukal](#'pultukal)+[tilip](#tilip))  
 
-- **puhte** _v._ (~~miclo~~)  
 
+- <a name="pulpiac">**pulpiac**</a> _n._ ([pul](#pul)+[piac](#piac))  
 
-  - **puhtelon** _n._ (puhte+lon)  
-  
 
-  - **puhtecwelon** _n._ (puhte+cwelon)  
-  
+- <a name="pum">**pum**</a> _n._ (Hin. &langle;भूमि&rangle; [b̤uːmi])  
 
-  - **puhteki** _v._ (puhte+ki)  
-  
 
-  - **puhtekilum** _n._ (puhteki+lum)  
-  
+- <a name="puma">**puma**</a> _v._ (ono. [bum])  
 
-- **puco** _v._ (Cmn. &langle;步骤&rangle; [pu˥˩ʈ͡ʂoʊ̯˥˩])  
 
+- <a name="pumalon">**pumalon**</a> _n._ ([puma](#puma)+[lon](#lon))  
 
-  - **pucolon** _n._ (puco+lon)  
-  
 
-  - **pucolonmontalon** _n._ (pucolon+montalon)  
-  
+- <a name="pumak">**pumak**</a> _n._ ([pum](#pum)+[ak](#ak))  
 
-  - **pucolonpatolon** _n._ (pucolon+patolon)  
-  
 
-  - **pucocalu** _v._ (puco+calu)  
-  
+- <a name="pumap">**pumap**</a> _n._ ([pum](#pum)+[ap](#ap))  
 
-  - **pucopal** _n._ (puco+pal)  
-  
 
-- **puci** _v._ (Epo. &langle;puŝi&rangle; [ˈpuʃi])  
+- <a name="pummontalon">**pummontalon**</a> _n._ ([pum](#pum)+[montalon](#montalon))  
 
 
-  - **puciles** _n._ (puci+les)  
-  
+- <a name="pumhila">**pumhila**</a> _v._ ([pum](#pum)+[hila](#hila))  
 
-  - **pucilon** _n._ (puci+lon)  
-  
 
-- **puk** _pn._ (~~min~~)  
+- <a name="pumhilales">**pumhilales**</a> _n._ ([pumhila](#pumhila)+[les](#les))  
 
 
-  - **puket** _pn._ (puk+et)  
-  
+- <a name="pumkwelwel">**pumkwelwel**</a> _n._ ([pum](#pum)+[kwelwel](#kwelwel))  
 
-  - **puketak** _n._ (puket+ak)  
-  
 
-  - **pukak** _n._ (puk+ak)  
-  
+- <a name="pumtupel">**pumtupel**</a> _n._ ([pum](#pum)+[tupel](#tupel))  
 
-- **'puta** _n._ (San. &langle;बुद्ध&rangle; [bud̚˨dʱɐ˦])  
 
+- <a name="'puhkinafaso">**'puhkinafaso**</a> _n._ (Fra. &langle;Burkina&rangle; [buʁkina])  
 
-  - **'putafitilip** _n._ ('puta+fitilip)  
-  
 
-  - **'putafitilipak** _n._ ('putafitilip+ak)  
-  
+- <a name="'puhkinafasoak">**'puhkinafasoak**</a> _n._ (['puhkinafaso](#'puhkinafaso)+[ak](#ak))  
 
-  - **'putafitilipwon** _n._ ('putafitilip+won)  
-  
 
-- **puti** _v._ (Fil. &langle;puti&rangle; [puti])  
+- <a name="'puhkinafasowon">**'puhkinafasowon**</a> _n._ (['puhkinafaso](#'puhkinafaso)+[won](#won))  
 
 
-  - **putilais** _n._ (puti+lais)  
-  
+- <a name="puhte">**puhte**</a> _v._ ([~~miclo~~](#miclo))  
 
-  - **putilon** _n._ (puti+lon)  
-  
 
-  - **putilonkio** _v._ (putilon+kio)  
-  
+- <a name="puhtelon">**puhtelon**</a> _n._ ([puhte](#puhte)+[lon](#lon))  
 
-  - **putilonkiolon** _n._ (putilonkio+lon)  
-  
 
-  - **putiluci** _v._ (puti+luci)  
-  
+- <a name="puhtecwelon">**puhtecwelon**</a> _n._ ([puhte](#puhte)+[cwelon](#cwelon))  
 
-  - **putilucilon** _n._ (putiluci+lon)  
-  
 
-  - **putiluciki** _v._ (putiluci+ki)  
-  
+- <a name="puhteki">**puhteki**</a> _v._ ([puhte](#puhte)+[ki](#ki))  
 
-  - **putilyan** _n._ (puti+lyan)  
-  
 
-  - **putinila** _v._ (puti+nila)  
-  
+- <a name="puhtekilum">**puhtekilum**</a> _n._ ([puhteki](#puhteki)+[lum](#lum))  
 
-  - **putinilalon** _n._ (putinila+lon)  
-  
 
-  - **putinilaki** _v._ (putinila+ki)  
-  
+- <a name="puco">**puco**</a> _v._ (Cmn. &langle;步骤&rangle; [pu˥˩ʈ͡ʂoʊ̯˥˩])  
 
-  - **putimilu** _v._ (puti+milu)  
-  
 
-  - **putimilulon** _n._ (putimilu+lon)  
-  
+- <a name="pucolon">**pucolon**</a> _n._ ([puco](#puco)+[lon](#lon))  
 
-  - **putimiluhihin** _n._ (putimilu+hihin)  
-  
 
-  - **putimiluki** _v._ (putimilu+ki)  
-  
+- <a name="pucolonmontalon">**pucolonmontalon**</a> _n._ ([pucolon](#pucolon)+[montalon](#montalon))  
 
-  - **putikol** _n._ (puti+kol)  
-  
 
-  - **putiki** _v._ (puti+ki)  
-  
+- <a name="pucolonpatolon">**pucolonpatolon**</a> _n._ ([pucolon](#pucolon)+[patolon](#patolon))  
 
-  - **putipicin** _n._ (puti+picin)  
-  
 
-- **puthu** _v._ (ono. [pʰut])  
+- <a name="pucocalu">**pucocalu**</a> _v._ ([puco](#puco)+[calu](#calu))  
 
 
-  - **puthules** _n._ (puthu+les)  
-  
+- <a name="pucopal">**pucopal**</a> _n._ ([puco](#puco)+[pal](#pal))  
 
-  - **puthulon** _n._ (puthu+lon)  
-  
 
-- **pupu** _v._ (ono. [buːp)  
+- <a name="puci">**puci**</a> _v._ (Epo. &langle;puŝi&rangle; [ˈpuʃi])  
 
 
-  - **pupulon** _n._ (pupu+lon)  
-  
+- <a name="puciles">**puciles**</a> _n._ ([puci](#puci)+[les](#les))  
 
-- **'pyelalus** _n._ (Bel. &langle;Biełaruś&rangle; [bʲɛlarusʲ])  
 
+- <a name="pucilon">**pucilon**</a> _n._ ([puci](#puci)+[lon](#lon))  
 
-  - **'pyelalusak** _n._ ('pyelalus+ak)  
-  
 
-  - **'pyelaluswon** _n._ ('pyelalus+won)  
-  
+- <a name="puk">**puk**</a> _pn._ ([~~min~~](#min))  
 
-  - **'pyelalustilip** _n._ ('pyelalus+tilip)  
-  
 
-- **'pyawistok** _n._ (Pol. &langle;Białystok&rangle; [bʲaˈwɨstɔk])  
+- <a name="puket">**puket**</a> _pn._ ([puk](#puk)+[et](#et))  
 
 
-- **pyah** _n._ (ono. [bjãː])  
+- <a name="puketak">**puketak**</a> _n._ ([puket](#puket)+[ak](#ak))  
+
+
+- <a name="pukak">**pukak**</a> _n._ ([puk](#puk)+[ak](#ak))  
+
+
+- <a name="'puta">**'puta**</a> _n._ (San. &langle;बुद्ध&rangle; [bud̚˨dʱɐ˦])  
+
+
+- <a name="'putafitilip">**'putafitilip**</a> _n._ (['puta](#'puta)+[fitilip](#fitilip))  
+
+
+- <a name="'putafitilipak">**'putafitilipak**</a> _n._ (['putafitilip](#'putafitilip)+[ak](#ak))  
+
+
+- <a name="'putafitilipwon">**'putafitilipwon**</a> _n._ (['putafitilip](#'putafitilip)+[won](#won))  
+
+
+- <a name="puti">**puti**</a> _v._ (Fil. &langle;puti&rangle; [puti])  
+
+
+- <a name="putilais">**putilais**</a> _n._ ([puti](#puti)+[lais](#lais))  
+
+
+- <a name="putilon">**putilon**</a> _n._ ([puti](#puti)+[lon](#lon))  
+
+
+- <a name="putilonkio">**putilonkio**</a> _v._ ([putilon](#putilon)+[kio](#kio))  
+
+
+- <a name="putilonkiolon">**putilonkiolon**</a> _n._ ([putilonkio](#putilonkio)+[lon](#lon))  
+
+
+- <a name="putiluci">**putiluci**</a> _v._ ([puti](#puti)+[luci](#luci))  
+
+
+- <a name="putilucilon">**putilucilon**</a> _n._ ([putiluci](#putiluci)+[lon](#lon))  
+
+
+- <a name="putiluciki">**putiluciki**</a> _v._ ([putiluci](#putiluci)+[ki](#ki))  
+
+
+- <a name="putilyan">**putilyan**</a> _n._ ([puti](#puti)+[lyan](#lyan))  
+
+
+- <a name="putinila">**putinila**</a> _v._ ([puti](#puti)+[nila](#nila))  
+
+
+- <a name="putinilalon">**putinilalon**</a> _n._ ([putinila](#putinila)+[lon](#lon))  
+
+
+- <a name="putinilaki">**putinilaki**</a> _v._ ([putinila](#putinila)+[ki](#ki))  
+
+
+- <a name="putimilu">**putimilu**</a> _v._ ([puti](#puti)+[milu](#milu))  
+
+
+- <a name="putimilulon">**putimilulon**</a> _n._ ([putimilu](#putimilu)+[lon](#lon))  
+
+
+- <a name="putimiluhihin">**putimiluhihin**</a> _n._ ([putimilu](#putimilu)+[hihin](#hihin))  
+
+
+- <a name="putimiluki">**putimiluki**</a> _v._ ([putimilu](#putimilu)+[ki](#ki))  
+
+
+- <a name="putikol">**putikol**</a> _n._ ([puti](#puti)+[kol](#kol))  
+
+
+- <a name="putiki">**putiki**</a> _v._ ([puti](#puti)+[ki](#ki))  
+
+
+- <a name="putipicin">**putipicin**</a> _n._ ([puti](#puti)+[picin](#picin))  
+
+
+- <a name="puthu">**puthu**</a> _v._ (ono. [pʰut])  
+
+
+- <a name="puthules">**puthules**</a> _n._ ([puthu](#puthu)+[les](#les))  
+
+
+- <a name="puthulon">**puthulon**</a> _n._ ([puthu](#puthu)+[lon](#lon))  
+
+
+- <a name="pupu">**pupu**</a> _v._ (ono. [buːp)  
+
+
+- <a name="pupulon">**pupulon**</a> _n._ ([pupu](#pupu)+[lon](#lon))  
+
+
+- <a name="'pyelalus">**'pyelalus**</a> _n._ (Bel. &langle;Biełaruś&rangle; [bʲɛlarusʲ])  
+
+
+- <a name="'pyelalusak">**'pyelalusak**</a> _n._ (['pyelalus](#'pyelalus)+[ak](#ak))  
+
+
+- <a name="'pyelaluswon">**'pyelaluswon**</a> _n._ (['pyelalus](#'pyelalus)+[won](#won))  
+
+
+- <a name="'pyelalustilip">**'pyelalustilip**</a> _n._ (['pyelalus](#'pyelalus)+[tilip](#tilip))  
+
+
+- <a name="'pyawistok">**'pyawistok**</a> _n._ (Pol. &langle;Białystok&rangle; [bʲaˈwɨstɔk])  
+
+
+- <a name="pyah">**pyah**</a> _n._ (ono. [bjãː])  
 elefante
 
-- **pyo** _v._ (Ben. &langle;ভয়&rangle; [b̤e̯ɔ])  
+- <a name="pyo">**pyo**</a> _v._ (Ben. &langle;ভয়&rangle; [b̤e̯ɔ])  
 
 
-  - **pyolon** _n._ (pyo+lon)  
+- <a name="pyolon">**pyolon**</a> _n._ ([pyo](#pyo)+[lon](#lon))  
+
+
+- <a name="pyolum">**pyolum**</a> _n._ ([pyo](#pyo)+[lum](#lum))  
+
+
+- <a name="pyocinya">**pyocinya**</a> _v._ ([pyo](#pyo)+[cinya](#cinya))  
+
+
+- <a name="pyoki">**pyoki**</a> _v._ ([pyo](#pyo)+[ki](#ki))  
+
+
+- <a name="pyotafu">**pyotafu**</a> _v._ ([pyo](#pyo)+[tafu](#tafu))  
+
+
+- <a name="pyotafulon">**pyotafulon**</a> _n._ ([pyotafu](#pyotafu)+[lon](#lon))  
+
+
+- <a name="pyopowi">**pyopowi**</a> _v._ ([pyo](#pyo)+[powi](#powi))  
+
+
+- <a name="pyopowilon">**pyopowilon**</a> _n._ ([pyopowi](#pyopowi)+[lon](#lon))  
+
+
+  - <a name="'pwenosayles">**'pwenosayles**</a> _n._ (Spa. &langle;Buenos Aires>)  
   
 
-  - **pyolum** _n._ (pyo+lum)  
-  
-
-  - **pyocinya** _v._ (pyo+cinya)  
-  
-
-  - **pyoki** _v._ (pyo+ki)  
-  
-
-  - **pyotafu** _v._ (pyo+tafu)  
-  
-
-  - **pyotafulon** _n._ (pyotafu+lon)  
-  
-
-  - **pyopowi** _v._ (pyo+powi)  
-  
-
-  - **pyopowilon** _n._ (pyopowi+lon)  
-  
-
-  - **'pwenosayles** _n._ (Spa. &langle;Buenos Aires>)  
-  
-
-- **'pwitan** _n._ (Eng. &langle;Britain&rangle; [ˈbɹʷɪʔən])  
+- <a name="'pwitan">**'pwitan**</a> _n._ (Eng. &langle;Britain&rangle; [ˈbɹʷɪʔən])  
 
 
-  - **'pwitanak** _n._ ('pwitan+ak)  
-  
+- <a name="'pwitanak">**'pwitanak**</a> _n._ (['pwitan](#'pwitan)+[ak](#ak))  
 
-  - **'pwitantec** _n._ ('pwitan+tec)  
-  
 
-  - **'pwitantecwon** _n._ ('pwitantec+won)  
-  
+- <a name="'pwitantec">**'pwitantec**</a> _n._ (['pwitan](#'pwitan)+[tec](#tec))  
+
+
+- <a name="'pwitantecwon">**'pwitantecwon**</a> _n._ (['pwitantec](#'pwitantec)+[won](#won))  
+
 

@@ -107,7 +107,7 @@ NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INS
 MISC_DERIVATIONS = ['OPPOSITE']
 
 MARKDOWN_ENTRY = """\
-{indent}- **{otp}** _{pos}._ ({source_str})  
+{indent}- <a name="{otp}">**{otp}**</a> _{pos}._ ({source_str})  
 {indent}{definitions}
 
 """
@@ -713,7 +713,7 @@ def format_dictionary(dictionary, directory):
 		for entry in sorted(dictionary.values(), key=lambda e: otp_ord(e['otp'])):
 			initial = entry['otp'].replace("'",'')[0]
 			if initial != previous_initial:
-				markdown += "## {}\n\n".format(initial)
+				markdown += "### {}\n\n".format(initial)
 				previous_initial = initial
 
 			while 'compound ' in entry['partos']:
@@ -726,30 +726,30 @@ def format_dictionary(dictionary, directory):
 					entry['source_str'] = "{}. {}".format(*parts)
 				else:
 					parts[0] = parts[0].capitalize()
-					parts[1] = parts[1].replace('<','&langle;').replace('>','&rangle;')
+					parts[1] = parts[1].replace('<','⟨').replace('>','⟩')
 					entry['source_str'] = "{}. {} {}".format(*parts)
 			elif ' OF ' in entry['source']:
 				base_word = dictionary[entry['source'].split(' OF ')[1]]['otp']
 				base_invs = get_antonym(base_word)
 				if entry['otp'] == base_invs:
-					entry['source_str'] = "~~{}~~".format(base_word)
+					entry['source_str'] = "[~~{0}~~](#{0})".format(base_word)
 				elif entry['otp'].startswith(base_word) or entry['otp'].startswith(base_invs):
 					i = len(base_word)
-					entry['source_str'] = "{}+{}".format(entry['otp'][:i], entry['otp'][i:])
+					entry['source_str'] = "[{0}](#{0})+[{1}](#{1})".format(entry['otp'][:i], entry['otp'][i:])
 				elif entry['otp'].endswith(base_word) or entry['otp'].endswith(base_invs):
 					i = -len(base_word)
-					entry['source_str'] = "{}+{}".format(entry['otp'][:i], entry['otp'][i:])
+					entry['source_str'] = "[{0}](#{0})+[{1}]({1})".format(entry['otp'][:i], entry['otp'][i:])
 				elif base_word in entry['otp']:
 					i = entry['otp'].index(base_word)
 					j = i + len(base_word)
-					entry['source_str'] = "{}+{}+{}".format(entry['otp'][:i], entry['otp'][i:j], entry['otp'][j:])
+					entry['source_str'] = "[{0}](#{0})+[{1}](#{1})+[{2}](#{2})".format(entry['otp'][:i], entry['otp'][i:j], entry['otp'][j:])
 				else:
 					raise Exception("How is {} related to {}?".format(entry['otp'], base_word))
 			elif entry['source']:
 				otp_parts = []
 				for part in entry['source'].split(' '):
 					otp_parts.append(dictionary[dehyphenated(part)]['otp'])
-				entry['source_str'] = "+".join(otp_parts)
+				entry['source_str'] = "+".join("[{0}](#{0})".format(part) for part in otp_parts)
 			else:
 				entry['source_str'] = "∅"
 
