@@ -107,8 +107,8 @@ NOUN_DERIVATIONS = ['GENITIVE','SBJ','OBJ','IND','AMOUNT','LOCATION','TIME','INS
 MISC_DERIVATIONS = ['OPPOSITE']
 
 MARKDOWN_ENTRY = """\
-{indent}- <a name="{otp}">**{otp}**</a> _{pos}._ ({source_str})  
-{indent}{definitions}
+- <a name="{otp}">**{otp}**</a> _{pos}._ ({source_str})  
+{definitions}
 
 """
 
@@ -751,11 +751,6 @@ def format_dictionary(dictionary, directory):
 				entry['source_str'] = "+".join("[{0}](#{0})".format(part) for part in otp_parts)
 			else:
 				entry['source_str'] = "∅"
-
-			if '∅' in entry['source_str'] or '\\[' in entry['source_str'] or '~' in entry['source_str']:
-				entry['indent'] = ''
-			else:
-				entry['indent'] = '  '
 
 			entry['definitions'] = '; '.join(entry[lang3]).replace('SBJ',"ʟєꜱ").replace('OBJ',"ʟᴏᴧ").replace('IND',"ʟᴜᴍ")
 
