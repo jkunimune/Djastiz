@@ -721,13 +721,12 @@ def format_dictionary(dictionary, directory):
 			entry['pos'] = partos_abbrv[entry['partos']]
 
 			if '[' in entry['source']:
-				parts = entry['source'].split()
-				if parts[0] == 'ono':
-					entry['source_str'] = "{}. {}".format(*parts)
+				lang = entry['source'][:3]
+				rest = entry['source'][3:].replace('<','⟨').replace('>','⟩').replace('[','\\[').replace(']','\\]')
+				if lang == 'ono':
+					entry['source_str'] = "{}. {}".format(lang, rest)
 				else:
-					parts[0] = parts[0].capitalize()
-					parts[1] = parts[1].replace('<','⟨').replace('>','⟩')
-					entry['source_str'] = "{}. {} {}".format(*parts)
+					entry['source_str'] = "{}. {}".format(lang.capitalize(), rest)
 			elif ' OF ' in entry['source']:
 				base_word = dictionary[entry['source'].split(' OF ')[1]]['otp']
 				base_invs = get_antonym(base_word)
@@ -753,7 +752,7 @@ def format_dictionary(dictionary, directory):
 			else:
 				entry['source_str'] = "∅"
 
-			if '∅' in entry['source_str'] or '[' in entry['source_str'] or '~' in entry['source_str']:
+			if '∅' in entry['source_str'] or '\\[' in entry['source_str'] or '~' in entry['source_str']:
 				entry['indent'] = ''
 			else:
 				entry['indent'] = '  '

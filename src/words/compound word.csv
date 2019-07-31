@@ -400,7 +400,7 @@ eat dessert; eat midnight snack; SBJ {dessert} eats OBJ {dessert; midnight snack
 dine out; OBJ {diner} buys IND {restaurant meal} from SBJ {restaurant; server} {LOCATION:restaurant; food court; dining area},,eat sell,nyamamai
 grocery store,,no if dislike store,nyoayfhaumailyot
 bookstore,,book store,capalummailyot
-locutorio,,notion store,nosyonmailyot
+call shop,locutorio,notion store,nosyonmailyot
 butchery,,be-dead animal store,uhutunmailyot
 ticket booth,,ticket store,maihwokmailyot
 satelite; artificial satelite,,metal moon,tatulonfik
