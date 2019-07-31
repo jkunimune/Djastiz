@@ -846,7 +846,6 @@ Coral Sea,,coral ocean,nitaicilonlawt
 Gulf of Mexico,,Mexico ocean,'mehikolawt
 Mediterranean Sea,,landmass be-inside ocean,taylnelawt
 South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
-Antigua and Barbuda {PEOPLE:Antiguans and Barbudans; the people of Antigua and Barbuda},,Antigua Barbuda,'antika'papyuta
 Great Brittan,,be-big British-Isles,mota'pwitan
 Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
 Democratic Republic of the Congo {GENITIVE:Congolese; from Democratic Republic of the Congo|PEOPLE:Congolese; the people of the Democratic Republic of the Congo},,Kinshasa the-Kingdom-of-Kongo,'kincasa'konotec
@@ -856,21 +855,18 @@ Scots Gaelic; the Scots Gaelic language,,Scot Goidelic,'sokot'kealtilip
 Equatorial Guinea; the Republic of Equatorial Guinea {GENITIVE:Equatorial Guinean; from Equatorial Guinea|PEOPLE:Equatorial Guinean; Equatoguinean; the Equatorial Guinean people},,equator Guinea-(region),nefilalum'kine
 Guinea-Bissau; the Republic of Guinea-Bissau {GENITIVE:Bissau-Guinean; from Guinea-Bissau|PEOPLE:Bissau-Guinean; the Bissau-Guinean people},,Bissau Guinea-(region),'pisaw'kine
 Guinea; Guinea-Conakry; the Republic of Guinea {PEOPLE:Guinean; the Guinean people},,Conakry Guinea-(region),'konakhi'kine
-Hindustani; the Hindustani language {PEOPLE:Hindustani speakers},,Hindi Urdu,'hintutilip'pakistantilip
+Hindustani; the Hindustani language {PEOPLE:Hindustani speakers},,India Pakistan language,'hintu'pakistantilip
 Northern Irish; the Northern Irish people {GENITIVE:Northern Irish; from Northern Ireland|COUNTRY:Northern Ireland},,be-north Ireland,fila'elyatec
-North Korean; the North Korean people {GENITIVE:North Korean; from North Korea|COUNTRY:North Korea},,be-north Korean,fila'cosawntilip
-South Korean; the South Korean people {GENITIVE:South Korean; from South Korea|COUNTRY:South Korea},,be-south Korean,suta'cosawntilip
+North Korea; the People's Democratic Republic of Korea {GENITIVE:North Korean; from North Korea|PEOPLE:North Korean; the North Korean people},,be-north Korea,fila'cosawn
+South Korea; the Democratic Republic of Korea {GENITIVE:South Korean; from South Korea|PEOPLE:South Korean; the South Korean people},,be-south Korea,suta'cosawn
 North Macedonia; the Former Yugoslav Republic of Macedonia {GENITIVE:North Macedonian; from North Macedonia},,be-north Macedon,fila'maketon
 Southern Min; Minnan; Hokkien-Taiwanese; the Southern Min languages,,be-south Min-Chinese,suta'hokyentilip
 South Ossetian; Alanian; the South Ossetian people {GENITIVE:South Ossetian; of South Ossetia|COUNTRY:South Ossetia; Alania},,be-south Ossetian,suta'alon
-Saint Kitts and Nevis {PEOPLE:Kittitians and Nevisians; the people of Saint Kitts and Nevis},,Saint-Kitts Nevis,'senkitsi'nifis
-Saint Vincent and the Grenadines {PEOPLE:Saint Vincentian; Vincy; the people of Saint Vincent and the Grenadines},,Saint-Vincent Grenadines,'seynfinsen'kwenatin
 São Tomé Island {GENITIVE:São Toméan; Santomean},,São-Tomé landmass,'sawntumetayl
-São Tomé and Príncipe; the Democratic Republic of São Tomé and Príncipe {PEOPLE:São Toméans and Principeans; the people of São Tomé and Príncipe},,São-Tomé Príncipe,'sawntume'pilinsipi
 South Sudan {GENITIVE:South Sudanese; from South Sudan|PEOPLE:South Sudanese; the South Sudanese people},,be-south Sudan,suta'asutan
 East Timor; Timor-Leste; Democratic Republic of Timor-Leste {PEOPLE:Timorese; East Timorese; Maubere; the East Timorese people},,be-east Timor-(landmass),este'timol
-Trinidad and Tobago; the Republic of Trinidad and Tobago {PEOPLE:Trinbagonian; the people of Trinidad and Tobago},,Trinidad Tobago,'twinitat'topeykow
-Ugandan; the Ugandan people {GENITIVE:Ugandan; from Uganda|COUNTRY:Uganda},,be-big Buganda,mota'kantatec
+Ugandan; the Ugandan people {GENITIVE:Ugandan; from Uganda|COUNTRY:Uganda},,be-big Ganda,mota'kanta
+New York City; New York,,be-young York,hwe'yok
 Sol; The Sun,,person sun,wonsun
 Luna; The Moon,,person moon,wonfik
 Earth {GENITIVE:global; earthling; terran},,person ground,wonpum

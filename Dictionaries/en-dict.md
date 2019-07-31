@@ -641,12 +641,6 @@ Antigua; Waladli; Wadadli
   - <a name="'antikatilip">**'antikatilip**</a> _n._ (['antika](#'antika)+[tilip](#tilip))  
   Antiguan Creole; Leeward Caribbean Creole English
 
-  - <a name="'antika'papyuta">**'antika'papyuta**</a> _n._ (['antika](#'antika)+['papyuta](#'papyuta))  
-  Antigua and Barbuda
-
-  - <a name="'antika'papyutawon">**'antika'papyutawon**</a> _n._ (['antika'papyuta](#'antika'papyuta)+[won](#won))  
-  Antiguans and Barbudans; the people of Antigua and Barbuda
-
 - <a name="am">**am**</a> _n._ (Eng.  ⟨arm⟩ \[ɑɹm\])  
 arm; long appendage used for manipulation
 
@@ -1147,6 +1141,9 @@ be number; be in order; be -th; index; ʟᴏᴧ has a late position in ʟᴜᴍ
 - <a name="owon">**owon**</a> _n._ (Yor.  ⟨ọwọn⟩ \[ɔwɔ̃\])  
 barnacle; copepod; Cirripedia
 
+- <a name="'owmun">**'owmun**</a> _n._ (Yue.  ⟨澳門⟩ \[ōu˧muːn˧˥\])  
+Macau; Macao
+
 - <a name="on">**on**</a> _post._ (Epo.  ⟨-on⟩ \[on\])  
 on; to; _marks patient or experiencer_
 
@@ -1582,13 +1579,16 @@ The World Wide Web; The Internet; The Cloud
   Internet; cloud; cyber
 
 - <a name="'intonesia">**'intonesia**</a> _n._ (Ind.  ⟨Indonesia⟩ \[ɪndonesia\])  
-Indonesia
+Indonesia (archipelago)
 
   - <a name="'intonesiaak">**'intonesiaak**</a> _n._ (['intonesia](#'intonesia)+[ak](#ak))  
   Indonesian; from Indonesia
 
   - <a name="'intonesiawon">**'intonesiawon**</a> _n._ (['intonesia](#'intonesia)+[won](#won))  
   Indonesian; the Indonesian people
+
+  - <a name="'intonesiatec">**'intonesiatec**</a> _n._ (['intonesia](#'intonesia)+[tec](#tec))  
+  Indonesia; the Republic of Indonesia
 
   - <a name="'intonesiatilip">**'intonesiatilip**</a> _n._ (['intonesia](#'intonesia)+[tilip](#tilip))  
   Indonesian; the Indonesian language
@@ -2397,6 +2397,9 @@ be friendly; be nice; be kind; ʟᴏᴧ considers ʟᴜᴍ a friend
 
   - <a name="yohaukiles">**yohaukiles**</a> _n._ ([yohauki](#yohauki)+[les](#les))  
   friend-arranger
+
+- <a name="'yok">**'yok**</a> _n._ (Eng.  ⟨York⟩ \[jɔːk\])  
+York
 
 - <a name="yot">**yot**</a> _post._ ([~~wel~~](#wel))  
 on; at; in; _marks location_
@@ -4132,6 +4135,21 @@ notice; be aware; ʟᴏᴧ is conciously aware of the presence of ʟᴜᴍ
 - <a name="ni">**ni**</a> _v._ ([~~ku~~](#ku))  
 be unbitter; ʟᴏᴧ is not very bitter
 
+- <a name="'niukini">**'niukini**</a> _n._ (Tpi.  ⟨Niugini⟩ \[niuɡini\])  
+Papua; New Guinea; Irian
+
+  - <a name="'niukiniak">**'niukiniak**</a> _n._ (['niukini](#'niukini)+[ak](#ak))  
+  Papua New Guinean; Papuan; from Papua New Guinea
+
+  - <a name="'niukiniwon">**'niukiniwon**</a> _n._ (['niukini](#'niukini)+[won](#won))  
+  Papuan; the Papuan people
+
+  - <a name="'niukinitec">**'niukinitec**</a> _n._ (['niukini](#'niukini)+[tec](#tec))  
+  Papua New Guinea; Independent State of Papua New Guinea
+
+  - <a name="'niukinitilip">**'niukinitilip**</a> _n._ (['niukini](#'niukini)+[tilip](#tilip))  
+  Tok Pisin
+
 - <a name="nila">**nila**</a> _v._ (Hin.  ⟨नीला⟩ \[niːlaː\])  
 be blue; be cool; ʟᴏᴧ reflects short wavelength light
 
@@ -4422,9 +4440,6 @@ Japan
 
 - <a name="nu">**nu**</a> _v._ ([~~ki~~](#ki))  
 end; stop; cease; cancel; unbecome; come from; go from; change from; send; leave; depart; from; de- -ify; _cessative_; ʟєꜱ makes ʟᴏᴧ transitions from truth to falsehood
-
-- <a name="'nuyoksiti">**'nuyoksiti**</a> _n._ (Eng.  ⟨New York City⟩ \[nuː jɔɹk ˈsɪɾiː\])  
-New York City
 
 - <a name="nul">**nul**</a> _num._ (Epo.  ⟨nulo⟩ \[nulo\])  
 0; zero; none; no
@@ -5280,13 +5295,13 @@ be big; be large; be spacious; ʟᴏᴧ has a high volume
   - <a name="motaswalum">**motaswalum**</a> _n._ ([motaswa](#motaswa)+[lum](#lum))  
   awesome; awful
 
-  - <a name="mota'kantatec">**mota'kantatec**</a> _n._ ([mota](#mota)+['kantatec](#'kantatec))  
+  - <a name="mota'kanta">**mota'kanta**</a> _n._ ([mota](#mota)+['kanta](#'kanta))  
   Ugandan; the Ugandan people
 
-  - <a name="mota'kantatecak">**mota'kantatecak**</a> _n._ ([mota'kantatec](#mota'kantatec)+[ak](#ak))  
+  - <a name="mota'kantaak">**mota'kantaak**</a> _n._ ([mota'kanta](#mota'kanta)+[ak](#ak))  
   Ugandan; from Uganda
 
-  - <a name="mota'kantatectec">**mota'kantatectec**</a> _n._ ([mota'kantatec](#mota'kantatec)+[tec](#tec))  
+  - <a name="mota'kantatec">**mota'kantatec**</a> _n._ ([mota'kanta](#mota'kanta)+[tec](#tec))  
   Uganda
 
   - <a name="motaki">**motaki**</a> _v._ ([mota](#mota)+[ki](#ki))  
@@ -5858,6 +5873,9 @@ Hawaii (landmass)
   - <a name="hawalon">**hawalon**</a> _n._ ([hawa](#hawa)+[lon](#lon))  
   yawn
 
+- <a name="'hawnkon">**'hawnkon**</a> _n._ (Yue.  ⟨香港⟩ \[hœːŋ˥kɔːŋ˧˥\])  
+Hong Kong
+
 - <a name="'hawsa">**'hawsa**</a> _n._ (Hau.  ⟨Hausa⟩ \[hawsa\])  
 Hausa; Ausa; the Hausa people
 
@@ -6074,10 +6092,10 @@ India; South Asia; the Hind; the Indian sub-continent
   - <a name="'hintutilip">**'hintutilip**</a> _n._ (['hintu](#'hintu)+[tilip](#tilip))  
   Hindi; the Hindi language
 
-  - <a name="'hintutilip'pakistantilip">**'hintutilip'pakistantilip**</a> _n._ (['hintutilip](#'hintutilip)+['pakistantilip](#'pakistantilip))  
+  - <a name="'hintu'pakistantilip">**'hintu'pakistantilip**</a> _n._ (['hintu](#'hintu)+['pakistan](#'pakistan)+[tilip](#tilip))  
   Hindustani; the Hindustani language
 
-  - <a name="'hintutilip'pakistantilipwon">**'hintutilip'pakistantilipwon**</a> _n._ (['hintutilip'pakistantilip](#'hintutilip'pakistantilip)+[won](#won))  
+  - <a name="'hintu'pakistantilipwon">**'hintu'pakistantilipwon**</a> _n._ (['hintu'pakistantilip](#'hintu'pakistantilip)+[won](#won))  
   Hindustani speakers
 
 - <a name="hiha">**hiha**</a> _v._ (ono.  \[hi̤ːha̤ː\])  
@@ -6292,6 +6310,9 @@ be gaseous; be air; ʟᴏᴧ is gaseous
 
 - <a name="hwe">**hwe**</a> _v._ ([~~cyo~~](#cyo))  
 be young; be new; ʟᴏᴧ is young
+
+  - <a name="hwe'yok">**hwe'yok**</a> _n._ ([hwe](#hwe)+['yok](#'yok))  
+  New York City; New York
 
   - <a name="hwelon">**hwelon**</a> _n._ ([hwe](#hwe)+[lon](#lon))  
   kid; girl; boy; young; new
@@ -7551,12 +7572,6 @@ Saint Vincent; Yurumei; Hairouna
   - <a name="'seynfinsenak">**'seynfinsenak**</a> _n._ (['seynfinsen](#'seynfinsen)+[ak](#ak))  
   Saint Vincentian; Vincentian; from Saint Vincent
 
-  - <a name="'seynfinsen'kwenatin">**'seynfinsen'kwenatin**</a> _n._ (['seynfinsen](#'seynfinsen)+['kwenatin](#'kwenatin))  
-  Saint Vincent and the Grenadines
-
-  - <a name="'seynfinsen'kwenatinwon">**'seynfinsen'kwenatinwon**</a> _n._ (['seynfinsen'kwenatin](#'seynfinsen'kwenatin)+[won](#won))  
-  Saint Vincentian; Vincy; the people of Saint Vincent and the Grenadines
-
   - <a name="'seynfinsentilip">**'seynfinsentilip**</a> _n._ (['seynfinsen](#'seynfinsen)+[tilip](#tilip))  
   Vincentian Creole
 
@@ -7643,12 +7658,6 @@ Saint Kitts; Saint Christopher Island; Liamuiga
 
   - <a name="'senkitsiak">**'senkitsiak**</a> _n._ (['senkitsi](#'senkitsi)+[ak](#ak))  
   Kittitian; from Saint Kitts
-
-  - <a name="'senkitsi'nifis">**'senkitsi'nifis**</a> _n._ (['senkitsi](#'senkitsi)+['nifis](#'nifis))  
-  Saint Kitts and Nevis
-
-  - <a name="'senkitsi'nifiswon">**'senkitsi'nifiswon**</a> _n._ (['senkitsi'nifis](#'senkitsi'nifis)+[won](#won))  
-  Kittitians and Nevisians; the people of Saint Kitts and Nevis
 
   - <a name="'senkitsitilip">**'senkitsitilip**</a> _n._ (['senkitsi](#'senkitsi)+[tilip](#tilip))  
   Saint Kitts Creole; Leeward Caribbean Creole English
@@ -7823,12 +7832,6 @@ São Tomé; São Tomé city
 
   - <a name="'sawntumetaylak">**'sawntumetaylak**</a> _n._ (['sawntumetayl](#'sawntumetayl)+[ak](#ak))  
   São Toméan; Santomean
-
-  - <a name="'sawntume'pilinsipi">**'sawntume'pilinsipi**</a> _n._ (['sawntume](#'sawntume)+['pilinsipi](#'pilinsipi))  
-  São Tomé and Príncipe; the Democratic Republic of São Tomé and Príncipe
-
-  - <a name="'sawntume'pilinsipiwon">**'sawntume'pilinsipiwon**</a> _n._ (['sawntume'pilinsipi](#'sawntume'pilinsipi)+[won](#won))  
-  São Toméans and Principeans; the people of São Tomé and Príncipe
 
 - <a name="'sawmpawlu">**'sawmpawlu**</a> _n._ (Por.  ⟨São Paulo⟩ \[sɐ̃w̃ ˈpawlu\])  
 São Paulo
@@ -8589,14 +8592,14 @@ ginger; Zingiber
   - <a name="suta'hokyentilip">**suta'hokyentilip**</a> _n._ ([suta](#suta)+['hokyentilip](#'hokyentilip))  
   Southern Min; Minnan; Hokkien-Taiwanese; the Southern Min languages
 
-  - <a name="suta'cosawntilip">**suta'cosawntilip**</a> _n._ ([suta](#suta)+['cosawntilip](#'cosawntilip))  
-  South Korean; the South Korean people
+  - <a name="suta'cosawn">**suta'cosawn**</a> _n._ ([suta](#suta)+['cosawn](#'cosawn))  
+  South Korea; the Democratic Republic of Korea
 
-  - <a name="suta'cosawntiliptec">**suta'cosawntiliptec**</a> _n._ ([suta'cosawntilip](#suta'cosawntilip)+[tec](#tec))  
-  South Korea
-
-  - <a name="suta'cosawntilipak">**suta'cosawntilipak**</a> _n._ ([suta'cosawntilip](#suta'cosawntilip)+[ak](#ak))  
+  - <a name="suta'cosawnak">**suta'cosawnak**</a> _n._ ([suta'cosawn](#suta'cosawn)+[ak](#ak))  
   South Korean; from South Korea
+
+  - <a name="suta'cosawnwon">**suta'cosawnwon**</a> _n._ ([suta'cosawn](#suta'cosawn)+[won](#won))  
+  South Korean; the South Korean people
 
   - <a name="sutaki">**sutaki**</a> _v._ ([suta](#suta)+[ki](#ki))  
   go south; ʟєꜱ decreases the latitude of ʟᴏᴧ relative to ʟᴜᴍ
@@ -9050,14 +9053,14 @@ be north; ʟᴏᴧ has a higher latitude than ʟᴜᴍ
   - <a name="fila'maketonak">**fila'maketonak**</a> _n._ ([fila'maketon](#fila'maketon)+[ak](#ak))  
   North Macedonian; from North Macedonia
 
-  - <a name="fila'cosawntilip">**fila'cosawntilip**</a> _n._ ([fila](#fila)+['cosawntilip](#'cosawntilip))  
-  North Korean; the North Korean people
+  - <a name="fila'cosawn">**fila'cosawn**</a> _n._ ([fila](#fila)+['cosawn](#'cosawn))  
+  North Korea; the People's Democratic Republic of Korea
 
-  - <a name="fila'cosawntiliptec">**fila'cosawntiliptec**</a> _n._ ([fila'cosawntilip](#fila'cosawntilip)+[tec](#tec))  
-  North Korea
-
-  - <a name="fila'cosawntilipak">**fila'cosawntilipak**</a> _n._ ([fila'cosawntilip](#fila'cosawntilip)+[ak](#ak))  
+  - <a name="fila'cosawnak">**fila'cosawnak**</a> _n._ ([fila'cosawn](#fila'cosawn)+[ak](#ak))  
   North Korean; from North Korea
+
+  - <a name="fila'cosawnwon">**fila'cosawnwon**</a> _n._ ([fila'cosawn](#fila'cosawn)+[won](#won))  
+  North Korean; the North Korean people
 
   - <a name="fila'cuntilip">**fila'cuntilip**</a> _n._ ([fila](#fila)+['cuntilip](#'cuntilip))  
   Mandarin; the Mandarin language
@@ -10616,13 +10619,16 @@ be solid; be coherent; be coagulated; ʟᴏᴧ is solid
   frozen; ice
 
 - <a name="'kupa">**'kupa**</a> _n._ (Spa.  ⟨Cuba⟩ \[kuβa\])  
-Cuba
+Cuba (island)
 
   - <a name="'kupaak">**'kupaak**</a> _n._ (['kupa](#'kupa)+[ak](#ak))  
   Cuban; from Cuba
 
   - <a name="'kupawon">**'kupawon**</a> _n._ (['kupa](#'kupa)+[won](#won))  
   Cuban; the Cuban people
+
+  - <a name="'kupatec">**'kupatec**</a> _n._ (['kupa](#'kupa)+[tec](#tec))  
+  Cuba; the Republic of Cuba
 
 - <a name="kwe">**kwe**</a> _v._ ([~~nyo~~](#nyo))  
 yes; be true; be right; be correct; be real; be happening; _positive_; ʟᴏᴧ is happening
@@ -11220,7 +11226,7 @@ plum; peach; cherry; apricot; Prunus minus Prunus dulcis
 - <a name="tan">**tan**</a> _n._ (Cmn.  ⟨蛋⟩ \[tan˥˩\])  
 egg; first cell of a new organism
 
-- <a name="'tan ">**'tan **</a> _n._ (Dan.  ⟨Dan-⟩ \[dan\])  
+- <a name="'tan">**'tan**</a> _n._ (Dan.  ⟨Dan-⟩ \[dan\])  
 Dane; the Danish people
 
   - <a name="tanec">**tanec**</a> _n._ ([tan](#tan)+[ec](#ec))  
@@ -11229,7 +11235,7 @@ Dane; the Danish people
   - <a name="tanak">**tanak**</a> _n._ ([tan](#tan)+[ak](#ak))  
   ovary; eggy
 
-  - <a name="'tan ak">**'tan ak**</a> _n._ (['tan ](#'tan )+[ak](#ak))  
+  - <a name="'tanak">**'tanak**</a> _n._ (['tan](#'tan)+[ak](#ak))  
   Danish; from Denmark
 
 - <a name="tanul">**tanul**</a> _n._ (Jav.  ⟨dangur⟩ \[tɑ̤ŋʊɽ\])  
@@ -11247,10 +11253,10 @@ Tanzania
   - <a name="'tansaniawon">**'tansaniawon**</a> _n._ (['tansania](#'tansania)+[won](#won))  
   Tanzanian; the Tanzanian people
 
-  - <a name="'tan tec">**'tan tec**</a> _n._ (['tan ](#'tan )+[tec](#tec))  
+  - <a name="'tantec">**'tantec**</a> _n._ (['tan](#'tan)+[tec](#tec))  
   Denmark
 
-  - <a name="'tan tilip">**'tan tilip**</a> _n._ (['tan ](#'tan )+[tilip](#tilip))  
+  - <a name="'tantilip">**'tantilip**</a> _n._ (['tan](#'tan)+[tilip](#tilip))  
   Danish; the Danish language
 
 - <a name="'tamil">**'tamil**</a> _n._ (Tam.  ⟨தமிழ்⟩ \[t̪ɐmɨɻ\])  
@@ -12042,12 +12048,6 @@ Trinidad; Cairi; Tukusi
   - <a name="'twinitatak">**'twinitatak**</a> _n._ (['twinitat](#'twinitat)+[ak](#ak))  
   Trididadian
 
-  - <a name="'twinitat'topeykow">**'twinitat'topeykow**</a> _n._ (['twinitat](#'twinitat)+['topeykow](#'topeykow))  
-  Trinidad and Tobago; the Republic of Trinidad and Tobago
-
-  - <a name="'twinitat'topeykowwon">**'twinitat'topeykowwon**</a> _n._ (['twinitat'topeykow](#'twinitat'topeykow)+[won](#won))  
-  Trinbagonian; the people of Trinidad and Tobago
-
 ### p
 
 - <a name="pe">**pe**</a> _v._ (Cmn.  ⟨陪⟩ \[pʰeɪ̯˧˥\])  
@@ -12815,18 +12815,6 @@ Barbados (landmass)
 - <a name="'papilim">**'papilim**</a> _n._ (Akk.  ⟨𒆍𒀭𒊏𒆠⟩ \[baːbili\])  
 Babylon
 
-- <a name="'papua">**'papua**</a> _n._ (Tpi.  ⟨Papua Niugini⟩ \[papua\])  
-Papua New Guinea
-
-  - <a name="'papuaak">**'papuaak**</a> _n._ (['papua](#'papua)+[ak](#ak))  
-  Papua New Guinean; Papuan; from Papua New Guinea
-
-  - <a name="'papuawon">**'papuawon**</a> _n._ (['papua](#'papua)+[won](#won))  
-  Papuan; the Papuan people
-
-  - <a name="'papuatilip">**'papuatilip**</a> _n._ (['papua](#'papua)+[tilip](#tilip))  
-  Tok Pisin
-
 - <a name="'papyuta">**'papyuta**</a> _n._ (Aig.  ⟨Barbuda⟩ \[bɑːˈbjuːdə\])  
 Barbuda
 
@@ -13323,13 +13311,13 @@ Brussels
   sea anemone; sea fan; seawhip
 
 - <a name="'pultukal">**'pultukal**</a> _n._ (Por.  ⟨Portugal⟩ \[puɾtuˈɣal\])  
-Portuguese; the Portuguese people
+Portugal
 
   - <a name="'pultukalak">**'pultukalak**</a> _n._ (['pultukal](#'pultukal)+[ak](#ak))  
   Portuguese; in Portuguese
 
-  - <a name="'pultukaltec">**'pultukaltec**</a> _n._ (['pultukal](#'pultukal)+[tec](#tec))  
-  Portugal
+  - <a name="'pultukalwon">**'pultukalwon**</a> _n._ (['pultukal](#'pultukal)+[won](#won))  
+  Portuguese; the Portuguese people
 
   - <a name="'pultukaltilip">**'pultukaltilip**</a> _n._ (['pultukal](#'pultukal)+[tilip](#tilip))  
   Portuguese; the Portuguese language

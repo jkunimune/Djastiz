@@ -68,10 +68,10 @@ Kongo; the Kongo people {GENITIVE:Kongo; Congolese; from the Congo|COUNTRY:Kongo
 Cook Islands (archipelago) {GENITIVE:Cook Island; Cook Islander; from the Cook Islands|PEOPLE:Cook Islander; the Cook Islander people|COUNTRY:Cook Islands (country)|LANGUAGE:Cook Islands Maori},,eng <Cook Islands> [ˈkʊk ˈaɪləndz],'kukaylan
 Costa Rica {GENITIVE:Costa Rican; from Costa Rica|PEOPLE:Costa Rican; the Costa Rican people},,spa <Costa Rica> [kosta rika],'kostalika
 Croat; the Croat people {GENITIVE:Croatian; from Croatia|COUNTRY:Croatia|LANGUAGE:Croatian; the Croatian language},,hrv <Hrvati> [xr̩ʋăːti],'halwati
-Cuba {GENITIVE:Cuban; from Cuba|PEOPLE:Cuban; the Cuban people},,spa <Cuba> [kuβa],'kupa
+Cuba (island) {GENITIVE:Cuban; from Cuba|PEOPLE:Cuban; the Cuban people|COUNTRY:Cuba; the Republic of Cuba},,spa <Cuba> [kuβa],'kupa
 Cyprus (landmass) {GENITIVE:Cypriot; from Cyprus|COUNTRY:Cyprus; the Republic of Cyprus {PEOPLE:Cypriot; the Cypriot people}},,ell <Κύπρος> [ˈcipros],'kiplos
 Czech; the Czech people {GENITIVE:Czech; from the Czech Republic|COUNTRY:Czechia; Czech Republic|LANGUAGE:Czech; the Czech language},,ces <čech> [ˈt͡ʃɛx],'ceh
-Dane; the Danish people {GENITIVE:Danish; from Denmark|COUNTRY:Denmark|LANGUAGE:Danish; the Danish language},,dan <Dan-> [dan],'tan 
+Dane; the Danish people {GENITIVE:Danish; from Denmark|COUNTRY:Denmark|LANGUAGE:Danish; the Danish language},,dan <Dan-> [dan],'tan
 Djibouti City; Djibouti {GENITIVE:Djiboutian; from Djibouti|PEOPLE:Djiboutian; the Djiboutian people|COUNTRY:Djibouti; the Republic of Djibouti},,som <Jabuuti> [d͡ʒæbuːt],'caputi
 Dominica; the Commonwealth of Dominica {GENITIVE:Dominican; from Dominica|PEOPLE:Dominican; the Dominican people},,eng <Dominica> [dɒmɪˈniːkə],'tominika
 Dominican Republic {GENITIVE:Dominican; Quisqueyan; from Dominican Republic|PEOPLE:Quisqueyan; the people of the Dominican Republic},,spa <Quisqueya> [kisˈkeʝa],'kiskeya
@@ -111,7 +111,7 @@ Iceland (landmass) {GENITIVE:Icelandic; from Iceland|PEOPLE:Icelander; the Icela
 Ido {GENITIVE:Ido; Idist; Ida|PEOPLE:Idist; Ido speakers},,ido <Ido> [ˈido],'ito
 Igbo; the Igbo people {GENITIVE:Igbo; in Igbo|LANGUAGE:Igbo; the Igbo language},,ibo <Ị̀gbò> [ìɡ͡bò],'ikpo
 India; South Asia; the Hind; the Indian sub-continent {GENITIVE:Indian; from India|COUNTRY:India; Hindustan; the Republic of India {PEOPLE:Indian; the Indian people}|LANGUAGE:Hindi; the Hindi language},,hin <हिन्दू> [ɦɪnduː],'hintu
-Indonesia {GENITIVE:Indonesian; from Indonesia|PEOPLE:Indonesian; the Indonesian people|LANGUAGE:Indonesian; the Indonesian language},,ind <Indonesia> [ɪndonesia],'intonesia
+Indonesia (archipelago) {GENITIVE:Indonesian; from Indonesia|PEOPLE:Indonesian; the Indonesian people|COUNTRY:Indonesia; the Republic of Indonesia|LANGUAGE:Indonesian; the Indonesian language},,ind <Indonesia> [ɪndonesia],'intonesia
 Interlingua {GENITIVE:Interlingua; in Interlingua|PEOPLE:Interlinguist; Interlingua speakers},,ina <Interlingua> [inteɾˈliŋɡwa],'intelinkwa
 Interlingue; Occidental {GENITIVE:Interlingue; in Interlingue|PEOPLE:Occidentallist; Interlingue speakers},,ile <Interlingue> [interlingwe],'intelinkwe
 Iran {GENITIVE:Iranian; from Iran|PEOPLE:Iranian; Persian; the Iranian people|LANGUAGE:Persian; Farsi; the Persian language},,fas <ایران‎ > [ʔiːɾɒːn],'ilan
@@ -186,7 +186,7 @@ Pakistan {GENITIVE:Pakistani; from Pakistan|PEOPLE:Pakistani; the Pakistani peop
 Palau; Belau; Palaos; Pelew (landmass) {GENITIVE:Palauan; from Palau|PEOPLE:Palauan; the Palauan people|COUNTRY:Palau; the Republic of Palau|LANGUAGE:Palauan; the Palauan language},,pau <Belau> [bɛlaw],'pelaw
 Palestine {GENITIVE:Palestinian; Palestine; from Palestine|PEOPLE:Palestinian; the Palestinian people|REGION:Palestine (region)},,ara <فلسطين> [filastˁiːn],'filastin
 Panama {GENITIVE:Panamanian; from Panama|PEOPLE:Panamanian; the Panamanian people},,spa <Panamá> [panaˈma],'panama
-Papua New Guinea {GENITIVE:Papua New Guinean; Papuan; from Papua New Guinea|PEOPLE:Papuan; the Papuan people|LANGUAGE:Tok Pisin},,tpi <Papua Niugini> [papua],'papua
+Papua; New Guinea; Irian {GENITIVE:Papua New Guinean; Papuan; from Papua New Guinea|PEOPLE:Papuan; the Papuan people|COUNTRY:Papua New Guinea; Independent State of Papua New Guinea|LANGUAGE:Tok Pisin},,tpi <Niugini> [niuɡini],'niukini
 Paraguay {GENITIVE:Paraguayan; from Paraguay|PEOPLE:Paraguayan; the Paraguayan people},,gug <Paraguái> [paɾaˈɰwaj],'palakway
 Pashtun; Pakhtun; Afghan; Pathan; the Pashtun people {GENITIVE:Pashtun; of Pashtuns|LANGUAGE:Pashto; the Pashto language},,prs <پښتانه‎‎> [pəʂt̪aːnə],'pactan
 Peru {GENITIVE:Peruvian; from Peru|PEOPLE:Peruvian; the Peruvian people},,spa <Perú> [peˈɾu],'pelu
@@ -194,7 +194,7 @@ Polynesia {GENITIVE:Polynesian; from Polynesia|PEOPLE:Polynesian; the Polynesian
 Pubjab; Panjab {GENITIVE:Punjabi; in Punjabi|PEOPLE:Punjabi; the Punjabi people|LANGUAGE:Punjabi; the Punjabi language},,pan <ਪੰਜਾਬ> [pə̃d͡ʒɑːb],'pancap
 Philippines (archipelago) {GENITIVE:Filipino; Philippine; from the Philippines|PEOPLE:Filipino; Filipina; Pinoy; Pinay; the Filipino people|COUNTRY:Philippines; the Republic of the Philippines|LANGUAGE:Filipino},,fil <Pilipinas> [pɪlɪpinas],'pilipinas
 Pole; the Polish people {GENITIVE:Polish; from Poland|COUNTRY:Poland|LANGUAGE:Polish; the Polish language},,pol <pol-> [pɔl],'pol
-Portuguese; the Portuguese people {GENITIVE:Portuguese; in Portuguese|COUNTRY:Portugal|LANGUAGE:Portuguese; the Portuguese language},,por <Portugal> [puɾtuˈɣal],'pultukal
+Portugal {GENITIVE:Portuguese; in Portuguese|PEOPLE:Portuguese; the Portuguese people|LANGUAGE:Portuguese; the Portuguese language},,por <Portugal> [puɾtuˈɣal],'pultukal
 Príncipe {GENITIVE:Príncipean; from Príncipe},,por <Príncipe> [ˈpɾĩsɨpɨ],'pilinsipi
 Qatar {GENITIVE:Qatari; from Qatar|PEOPLE:Qatari; the Qatari people},,ara <قطر‎> [ˈɡɪtˤɑr],'ketal
 Romanian; the Romanian people {GENITIVE:Romanian; from Romania|COUNTRY:Romania|LANGUAGE:Romanian; the Romanian language},,ron <român> [romɨn],'lomin
@@ -278,6 +278,7 @@ Chongqing; Chungking,,cmn <重庆> [ʈ͡ʂʰʊŋ˧˥t͡ɕʰi˥˩ŋ],'cuncin
 Delhi,,hin <दिल्ली > [dɪlliː],'tili
 Dhaka,,ben <ঢাকা> [ɖʱaka],'taka
 Guangzhou;Canton; Kwangchow,,yue <广州> [kʷɔ˧˥ːŋt͡sɐw˥],'kwonsaw
+Hong Kong,,yue <香港> [hœːŋ˥kɔːŋ˧˥],'hawnkon
 Honolulu,,haw <Honolulu> [honoˈlulu],'honolulu
 Istanbul,,tur <İstanbul> [isˈtanbuɫ],'istanpul
 Jerusalem,,heb <יְרוּשָׁלַיִם> [jeʁuʃaˈlajim],'yelucalayim
@@ -286,9 +287,10 @@ Kinshasa,,fra <Kinshasa> [kinʃasa],'kincasa
 Lagos,,eng <Lagos> [ˈleɪ̯ɡɒs],'leykos
 Lahore,,pan <لہور> [ləˈhɔːɾ],'lahol
 London,,eng <London> [ˈlʌndən],'lontan
+Macau; Macao,,yue <澳門> [ōu˧muːn˧˥],'owmun
 Moscow,,rus <Москва́> [mɐˈskva],'maskwa
 Mumbai,,mar <मुंबई> [mumbaiː],'mumpai
-New York City,,eng <New York City> [nuː jɔɹk ˈsɪɾiː],'nuyoksiti
+York,,eng <York> [jɔːk],'yok
 Paris,,fra <Paris> [paˈʁi],'pahi
 Rome {COUNTRY:Rome; the Roman Empire},,ita <Roma> [ˈroːma],'loma
 São Paulo,,por <São Paulo> [sɐ̃w̃ ˈpawlu],'sawmpawlu

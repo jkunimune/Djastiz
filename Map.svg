@@ -36,10 +36,10 @@
 			color:#000000;
 		}
 		.label-sm {
-			font-size:1.2px;
+			font-size:1.5pt;
 		}
 		.label-md, .label-lg {
-			font-size:1.6px;
+			font-size:2pt;
 		}
 		#ALB, #AUT, #BHS, #BLR, #BLZ, #BRA, #CAF, #CAN, #CHL, #COM, #CYN, #CYP,
 		#DMA, #ECU, #ERI, #ESP, #EST, #GAB, #GEO, #GRD, #HRV, #IND, #IRN, #ISL,
@@ -881,143 +881,143 @@
 			<path d="M295.731,185.75 L295.626,185.598 L295.434,185.547 L295.306,185.427 L295.21,185.421 L295.141,185.387 L295.123,185.314 L295.132,185.145 L295.029,185.097 L294.98,185.133 L294.924,185.219 L294.842,185.251 L294.776,185.228 L294.749,185.106 L294.786,184.904 L294.876,184.803 L294.937,184.707 L295.091,184.339 L295.139,184.314 L295.233,184.294 L295.328,184.187 L295.399,184.009 L295.414,183.843 L295.419,183.775 L295.367,183.719 L295.336,183.663 L295.397,183.593 L295.548,183.552 L295.756,183.539 L296.002,183.84 L296.052,184.061 L296.158,184.154 L296.277,184.208 L296.292,184.255 L296.254,184.335 L296.198,184.463 L296.202,184.59 L296.121,184.63 L295.973,184.836 L295.915,184.858 L295.841,184.978 L295.803,185.312 L295.818,185.577 L295.887,185.723 L295.848,185.779 Z "></path>
 		</g>
 	</g>
-	<text x="230.178" y="96.511"  class="label-pol label-md">Afghanistan</text>
-	<text x="175.252" y="164.857"  class="label-pol label-md">Angola</text>
-	<text x="218.396" y="113.229"  class="label-pol label-sm">United Arab Emirates</text>
-	<text x="96.555" y="188.632"  class="label-pol label-lg">Argentina</text>
-	<text x="353.73" y="176.494"  class="label-pol label-sm">American Samoa (U.S.A.)</text>
-	<text x="194.24" y="242.101"  class="label-pol label-sm">Antarctica</text>
-	<text x="294.33" y="178.968"  class="label-pol label-lg">Australia</text>
-	<text x="174.391" y="78.055"  class="label-pol label-sm">Austria</text>
-	<text x="166.98" y="73.013"  class="label-pol label-lg">Belgium</text>
-	<text x="152.062" y="128.633"  class="label-pol label-md">Burkina Faso</text>
-	<text x="258.039" y="106.638"  class="label-pol label-md">Bangladesh</text>
-	<text x="185.616" y="86.204"  class="label-pol label-sm">Bulgaria</text>
-	<text x="214.156" y="111.02"  class="label-pol label-sm">Bahrain</text>
-	<text x="91.165" y="101.887"  class="label-pol label-sm">Bahamas</text>
-	<text x="188.425" y="69.546"  class="label-pol label-sm">Belarus</text>
-	<text x="91.275" y="161.933"  class="label-pol label-md">Bolivia</text>
-	<text x="105.048" y="154.064"  class="label-pol label-lg">Brazil</text>
-	<text x="185.052" y="180.111"  class="label-pol label-sm">Botswana</text>
-	<text x="180.209" y="139.892"  class="label-pol label-sm">Central African Rep.</text>
-	<text x="104.952" y="45.153"  class="label-pol label-lg">Canada</text>
-	<text x="169.251" y="78.897"  class="label-pol label-sm">Switzerland</text>
-	<text x="89.537" y="192.1"  class="label-pol label-lg">Chile</text>
-	<text x="266.118" y="83.035"  class="label-pol label-lg">China</text>
-	<text x="146.751" y="135.04"  class="label-pol label-md">C&#244;te d&#39;Ivoire</text>
-	<text x="168.896" y="138.194"  class="label-pol label-md">Cameroon</text>
-	<text x="183.748" y="153.344"  class="label-pol label-lg">Dem. Rep. Congo</text>
-	<text x="171.481" y="150.067"  class="label-pol label-sm">Congo</text>
-	<text x="13.947" y="162.367"  class="label-pol label-sm">Cook Is. (Assoc. with N.Z.)</text>
-	<text x="80.744" y="129.273"  class="label-pol label-lg">Colombia</text>
-	<text x="126.995" y="118.424"  class="label-pol label-sm">Cabo Verde</text>
-	<text x="85.149" y="103.274"  class="label-pol label-md">Cuba</text>
-	<text x="172.604" y="72.624"  class="label-pol label-lg">Germany</text>
-	<text x="175.046" y="65.18"  class="label-pol label-sm">Denmark</text>
-	<text x="158.963" y="105.594"  class="label-pol label-md">Algeria</text>
-	<text x="71.742" y="137.089"  class="label-pol label-md">Ecuador</text>
-	<text x="191.71" y="110.497"  class="label-pol label-lg">Egypt</text>
-	<text x="204.282" y="128.046"  class="label-pol label-sm">Eritrea</text>
-	<text x="155.544" y="87.186"  class="label-pol label-lg">Spain</text>
-	<text x="206.554" y="136.841"  class="label-pol label-lg">Ethiopia</text>
-	<text x="187.477" y="52.212"  class="label-pol label-md">Finland</text>
-	<text x="162.886" y="78.157"  class="label-pol label-lg">France</text>
-	<text x="166.85" y="150.157"  class="label-pol label-sm">Gabon</text>
-	<text x="162.845" y="64.924"  class="label-pol label-lg">United Kingdom</text>
-	<text x="152.206" y="135.354"  class="label-pol label-md">Ghana</text>
-	<text x="139.877" y="130.026"  class="label-pol label-md">Guinea</text>
-	<text x="165.02" y="145.428"  class="label-pol label-sm">Eq. Guinea</text>
-	<text x="183.872" y="92.82"  class="label-pol label-md">Greece</text>
-	<text x="150.96" y="39.308"  class="label-pol label-md">Greenland</text>
-	<text x="68.606" y="105.363"  class="label-pol label-md">Guatemala</text>
-	<text x="99.713" y="130.507"  class="label-pol label-sm">Guyana</text>
-	<text x="287.616" y="101.65"  class="label-pol label-sm">Hong Kong</text>
-	<text x="268.912" y="137.557"  class="label-pol label-lg">Indonesia</text>
-	<text x="245.921" y="111.216"  class="label-pol label-lg">India</text>
-	<text x="157.662" y="67.089"  class="label-pol label-md">Ireland</text>
-	<text x="216.515" y="100.367"  class="label-pol label-lg">Iran</text>
-	<text x="205.148" y="100.523"  class="label-pol label-md">Iraq</text>
-	<text x="158.848" y="52.065"  class="label-pol label-md">Iceland</text>
-	<text x="196.109" y="103.504"  class="label-pol label-sm">Israel</text>
-	<text x="172.407" y="86.645"  class="label-pol label-lg">Italy</text>
-	<text x="84.484" y="108.336"  class="label-pol label-sm">Jamaica</text>
-	<text x="198.38" y="103.739"  class="label-pol label-sm">Jordan</text>
-	<text x="296.452" y="66.643"  class="label-pol label-lg">Japan</text>
-	<text x="224.653" y="74.71"  class="label-pol label-md">Kazakhstan</text>
-	<text x="204.272" y="149.198"  class="label-pol label-lg">Kenya</text>
-	<text x="234.636" y="84.308"  class="label-pol label-sm">Kyrgyzstan</text>
-	<text x="278.012" y="119.148"  class="label-pol label-md">Cambodia</text>
-	<text x="291.811" y="73.743"  class="label-pol label-lg">South Korea</text>
-	<text x="276.046" y="110.883"  class="label-pol label-sm">Laos</text>
-	<text x="142.004" y="135.853"  class="label-pol label-sm">Liberia</text>
-	<text x="176.93" y="109.42"  class="label-pol label-md">Libya</text>
-	<text x="250.258" y="133.159"  class="label-pol label-md">Sri Lanka</text>
-	<text x="286.981" y="102.075"  class="label-pol label-sm">Macao</text>
-	<text x="146.053" y="100.596"  class="label-pol label-md">Morocco</text>
-	<text x="216.042" y="175.189"  class="label-pol label-md">Madagascar</text>
-	<text x="63.377" y="86.371"  class="label-pol label-lg">Mexico</text>
-	<text x="149.946" y="120.704"  class="label-pol label-md">Mali</text>
-	<text x="266.676" y="111.341"  class="label-pol label-md">Myanmar</text>
-	<text x="257.98" y="69.018"  class="label-pol label-md">Mongolia</text>
-	<text x="200.694" y="175.499"  class="label-pol label-md">Mozambique</text>
-	<text x="141.518" y="113.356"  class="label-pol label-md">Mauritania</text>
-	<text x="288.07" y="130.273"  class="label-pol label-md">Malaysia</text>
-	<text x="176.253" y="180.837"  class="label-pol label-md">Namibia</text>
-	<text x="329.058" y="185.153"  class="label-pol label-md">New Caledonia (Fr.)</text>
-	<text x="165.967" y="122.838"  class="label-pol label-md">Niger</text>
-	<text x="164.337" y="135.241"  class="label-pol label-lg">Nigeria</text>
-	<text x="350.476" y="187.594"  class="label-pol label-sm">Niue (Assoc. with N.Z.)</text>
-	<text x="177.506" y="53.687"  class="label-pol label-md">Norway</text>
-	<text x="249.549" y="101.417"  class="label-pol label-md">Nepal</text>
-	<text x="303.333" y="220.127"  class="label-pol label-lg">New Zealand</text>
-	<text x="221.444" y="117.365"  class="label-pol label-sm">Oman</text>
-	<text x="233.144" y="102.01"  class="label-pol label-lg">Pakistan</text>
-	<text x="73.754" y="120.565"  class="label-pol label-sm">Panama</text>
-	<text x="38.849" y="165.899"  class="label-pol label-sm">Pitcairn Is. (U.K.)</text>
-	<text x="74.892" y="150.055"  class="label-pol label-lg">Peru</text>
-	<text x="298.65" y="115.492"  class="label-pol label-lg">Philippines</text>
-	<text x="320.67" y="154.453"  class="label-pol label-lg">Papua New Guinea</text>
-	<text x="180.522" y="72.039"  class="label-pol label-md">Poland</text>
-	<text x="286.174" y="67.868"  class="label-pol label-md">North Korea</text>
-	<text x="150.175" y="86.625"  class="label-pol label-lg">Portugal</text>
-	<text x="99.867" y="172.183"  class="label-pol label-sm">Paraguay</text>
-	<text x="19.903" y="153.085"  class="label-pol label-sm">Fr. Polynesia (Fr.)</text>
-	<text x="185.29" y="81.299"  class="label-pol label-md">Romania</text>
-	<text x="234.994" y="44.598"  class="label-pol label-lg">Russia</text>
-	<text x="192.768" y="152.333"  class="label-pol label-md">Rwanda</text>
-	<text x="208.058" y="114.359"  class="label-pol label-lg">Saudi Arabia</text>
-	<text x="191.672" y="126.861"  class="label-pol label-md">Sudan</text>
-	<text x="192.076" y="138.53"  class="label-pol label-md">S. Sudan</text>
-	<text x="136.372" y="122.411"  class="label-pol label-md">Senegal</text>
-	<text x="139.264" y="209.808"  class="label-pol label-sm">S. Geo. and the Is. (U.K.)</text>
-	<text x="334.343" y="162.822"  class="label-pol label-md">Solomon Is.</text>
-	<text x="139.301" y="132.219"  class="label-pol label-sm">Sierra Leone</text>
-	<text x="125.863" y="76.866"  class="label-pol label-sm">St. Pierre and Miquelon (Fr.)</text>
-	<text x="103.206" y="132.217"  class="label-pol label-sm">Suriname</text>
-	<text x="181.134" y="56.331"  class="label-pol label-md">Sweden</text>
-	<text x="194.451" y="186.17"  class="label-pol label-sm">Swaziland</text>
-	<text x="200.028" y="98.311"  class="label-pol label-md">Syria</text>
-	<text x="177.502" y="126.765"  class="label-pol label-md">Chad</text>
-	<text x="273.432" y="119.189"  class="label-pol label-md">Thailand</text>
-	<text x="232.104" y="88.477"  class="label-pol label-sm">Tajikistan</text>
-	<text x="220.293" y="90.137"  class="label-pol label-sm">Turkmenistan</text>
-	<text x="345.789" y="188.241"  class="label-pol label-sm">Tonga</text>
-	<text x="167.776" y="98.29"  class="label-pol label-md">Tunisia</text>
-	<text x="195.553" y="91.885"  class="label-pol label-lg">Turkey</text>
-	<text x="294.154" y="97.432"  class="label-pol label-md">Taiwan</text>
-	<text x="200.192" y="158.486"  class="label-pol label-md">Tanzania</text>
-	<text x="196.079" y="147.776"  class="label-pol label-md">Uganda</text>
-	<text x="191.417" y="76.559"  class="label-pol label-md">Ukraine</text>
-	<text x="106.645" y="184.658"  class="label-pol label-sm">Uruguay</text>
-	<text x="83.02" y="67.973"  class="label-pol label-lg">United States of America</text>
-	<text x="223.179" y="85.322"  class="label-pol label-md">Uzbekistan</text>
-	<text x="90.158" y="127.113"  class="label-pol label-md">Venezuela</text>
-	<text x="278.925" y="113.804"  class="label-pol label-lg">Vietnam</text>
-	<text x="335.115" y="178.871"  class="label-pol label-sm">Vanuatu</text>
-	<text x="348.474" y="174.432"  class="label-pol label-sm">Wallis and Futuna Is. (Fr.)</text>
-	<text x="352.759" y="175.063"  class="label-pol label-sm">Samoa</text>
-	<text x="215.137" y="126.982"  class="label-pol label-md">Yemen</text>
-	<text x="185.615" y="189.261"  class="label-pol label-lg">South Africa</text>
-	<text x="189.743" y="167.67"  class="label-pol label-md">Zambia</text>
-	<text x="191.486" y="175.784"  class="label-pol label-md">Zimbabwe</text>
+	<text x="230.178" y="96.511"  class="label-pol label-md">'afhantec</text>
+	<text x="175.252" y="164.857"  class="label-pol label-md">'ankola</text>
+	<text x="218.396" y="113.229"  class="label-pol label-sm">'emalatitec</text>
+	<text x="96.555" y="188.632"  class="label-pol label-lg">'alhentina</text>
+	<text x="353.73" y="176.494"  class="label-pol label-sm">'amelikaak samoa ('amelikatec)</text>
+	<text x="194.24" y="242.101"  class="label-pol label-sm">sutatayl</text>
+	<text x="294.33" y="178.968"  class="label-pol label-lg">'ostwaylyatec</text>
+	<text x="174.391" y="78.055"  class="label-pol label-sm">'ostalayc</text>
+	<text x="166.98" y="73.013"  class="label-pol label-lg">'pelkia</text>
+	<text x="152.062" y="128.633"  class="label-pol label-md">'puhkinafaso</text>
+	<text x="258.039" y="106.638"  class="label-pol label-md">'panlatec</text>
+	<text x="185.616" y="86.204"  class="label-pol label-sm">'palkalitec</text>
+	<text x="214.156" y="111.02"  class="label-pol label-sm">'pahlayn</text>
+	<text x="91.165" y="101.887"  class="label-pol label-sm">'pahama</text>
+	<text x="188.425" y="69.546"  class="label-pol label-sm">'pyelalus</text>
+	<text x="91.275" y="161.933"  class="label-pol label-md">'polypya</text>
+	<text x="105.048" y="154.064"  class="label-pol label-lg">'palasiw</text>
+	<text x="185.052" y="180.111"  class="label-pol label-sm">'swanatec</text>
+	<text x="180.209" y="139.892"  class="label-pol label-sm">ne'aflikatec</text>
+	<text x="104.952" y="45.153"  class="label-pol label-lg">'kanata</text>
+	<text x="169.251" y="78.897"  class="label-pol label-sm">'swistec</text>
+	<text x="89.537" y="192.1"  class="label-pol label-lg">'cile</text>
+	<text x="266.118" y="83.035"  class="label-pol label-lg">'cuntec</text>
+	<text x="146.751" y="135.04"  class="label-pol label-md">'kotifwah</text>
+	<text x="168.896" y="138.194"  class="label-pol label-md">'kamhun</text>
+	<text x="183.748" y="153.344"  class="label-pol label-lg">'kincasa'konotec</text>
+	<text x="171.481" y="150.067"  class="label-pol label-sm">'pahasafil'konotec</text>
+	<text x="13.947" y="162.367"  class="label-pol label-sm">'kukaylantec</text>
+	<text x="80.744" y="129.273"  class="label-pol label-lg">'kolompya</text>
+	<text x="126.995" y="118.424"  class="label-pol label-sm">'kapufeltitec</text>
+	<text x="85.149" y="103.274"  class="label-pol label-md">'kupatec</text>
+	<text x="172.604" y="72.624"  class="label-pol label-lg">'toyctec</text>
+	<text x="175.046" y="65.18"  class="label-pol label-sm">'tantec</text>
+	<text x="158.963" y="105.594"  class="label-pol label-md">'alsayiltec</text>
+	<text x="71.742" y="137.089"  class="label-pol label-md">'ekwatol</text>
+	<text x="191.71" y="110.497"  class="label-pol label-lg">'masli</text>
+	<text x="204.282" y="128.046"  class="label-pol label-sm">'elitla</text>
+	<text x="155.544" y="87.186"  class="label-pol label-lg">'espanya</text>
+	<text x="206.554" y="136.841"  class="label-pol label-lg">'ityoypa</text>
+	<text x="187.477" y="52.212"  class="label-pol label-md">'suomi</text>
+	<text x="162.886" y="78.157"  class="label-pol label-lg">'fahanse</text>
+	<text x="166.85" y="150.157"  class="label-pol label-sm">'kapon</text>
+	<text x="162.845" y="64.924"  class="label-pol label-lg">'pwitanak</text>
+	<text x="152.206" y="135.354"  class="label-pol label-md">'kana</text>
+	<text x="139.877" y="130.026"  class="label-pol label-md">'konakhi'kine</text>
+	<text x="165.02" y="145.428"  class="label-pol label-sm">nefilalum'kine</text>
+	<text x="183.872" y="92.82"  class="label-pol label-md">'elintec</text>
+	<text x="150.96" y="39.308"  class="label-pol label-md">'kalaclittec</text>
+	<text x="68.606" y="105.363"  class="label-pol label-md">'kwatemala</text>
+	<text x="99.713" y="130.507"  class="label-pol label-sm">'kayana</text>
+	<text x="287.616" y="101.65"  class="label-pol label-sm">'hawnkon</text>
+	<text x="268.912" y="137.557"  class="label-pol label-lg">'intonesiatec</text>
+	<text x="245.921" y="111.216"  class="label-pol label-lg">'hintutec</text>
+	<text x="157.662" y="67.089"  class="label-pol label-md">'elyatec</text>
+	<text x="216.515" y="100.367"  class="label-pol label-lg">'ilan</text>
+	<text x="205.148" y="100.523"  class="label-pol label-md">'ilak</text>
+	<text x="158.848" y="52.065"  class="label-pol label-md">'islantec</text>
+	<text x="196.109" y="103.504"  class="label-pol label-sm">'yishael</text>
+	<text x="172.407" y="86.645"  class="label-pol label-lg">'italya</text>
+	<text x="84.484" y="108.336"  class="label-pol label-sm">'cumiekatec</text>
+	<text x="198.38" y="103.739"  class="label-pol label-sm">'ultuntec</text>
+	<text x="296.452" y="66.643"  class="label-pol label-lg">'nipontec</text>
+	<text x="224.653" y="74.71"  class="label-pol label-md">'kasaktec</text>
+	<text x="204.272" y="149.198"  class="label-pol label-lg">'kenyatec</text>
+	<text x="234.636" y="84.308"  class="label-pol label-sm">'kulkustec</text>
+	<text x="278.012" y="119.148"  class="label-pol label-md">'kamaetec</text>
+	<text x="291.811" y="73.743"  class="label-pol label-lg">suta'cosawn</text>
+	<text x="276.046" y="110.883"  class="label-pol label-sm">'lawtec</text>
+	<text x="142.004" y="135.853"  class="label-pol label-sm">'laypiwia</text>
+	<text x="176.93" y="109.42"  class="label-pol label-md">'lipiya</text>
+	<text x="250.258" y="133.159"  class="label-pol label-md">'lankatec</text>
+	<text x="286.981" y="102.075"  class="label-pol label-sm">'owmun</text>
+	<text x="146.053" y="100.596"  class="label-pol label-md">'mahleptec</text>
+	<text x="216.042" y="175.189"  class="label-pol label-md">'malakasitec</text>
+	<text x="63.377" y="86.371"  class="label-pol label-lg">'mehiko</text>
+	<text x="149.946" y="120.704"  class="label-pol label-md">'mali</text>
+	<text x="266.676" y="111.341"  class="label-pol label-md">'pamatec</text>
+	<text x="257.98" y="69.018"  class="label-pol label-md">'monkoltec</text>
+	<text x="200.694" y="175.499"  class="label-pol label-md">'musampiki</text>
+	<text x="141.518" y="113.356"  class="label-pol label-md">'mulitanya</text>
+	<text x="288.07" y="130.273"  class="label-pol label-md">'malayutec</text>
+	<text x="176.253" y="180.837"  class="label-pol label-md">'namipiatec</text>
+	<text x="329.058" y="185.153"  class="label-pol label-md">hwe'kaletonia (fahansetec)</text>
+	<text x="165.967" y="122.838"  class="label-pol label-md">'nicehtec</text>
+	<text x="164.337" y="135.241"  class="label-pol label-lg">'nayciwia</text>
+	<text x="350.476" y="187.594"  class="label-pol label-sm">'niwe</text>
+	<text x="177.506" y="53.687"  class="label-pol label-md">'nolka</text>
+	<text x="249.549" y="101.417"  class="label-pol label-md">'nepal</text>
+	<text x="303.333" y="220.127"  class="label-pol label-lg">'maolitec</text>
+	<text x="221.444" y="117.365"  class="label-pol label-sm">'uman</text>
+	<text x="233.144" y="102.01"  class="label-pol label-lg">'pakistan</text>
+	<text x="73.754" y="120.565"  class="label-pol label-sm">'panama</text>
+	<text x="38.849" y="165.899"  class="label-pol label-sm">'pitkentec ('pwitantec)</text>
+	<text x="74.892" y="150.055"  class="label-pol label-lg">'pelu</text>
+	<text x="298.65" y="115.492"  class="label-pol label-lg">'pilipinastec</text>
+	<text x="320.67" y="154.453"  class="label-pol label-lg">'niukinitec</text>
+	<text x="180.522" y="72.039"  class="label-pol label-md">'poltec</text>
+	<text x="286.174" y="67.868"  class="label-pol label-md">'filacosawn</text>
+	<text x="150.175" y="86.625"  class="label-pol label-lg">'pultukal</text>
+	<text x="99.867" y="172.183"  class="label-pol label-sm">'palakway</text>
+	<text x="19.903" y="153.085"  class="label-pol label-sm">'fahanseak 'polinesi ('fahanse)</text>
+	<text x="185.29" y="81.299"  class="label-pol label-md">'lomintec</text>
+	<text x="234.994" y="44.598"  class="label-pol label-lg">'lusitec</text>
+	<text x="192.768" y="152.333"  class="label-pol label-md">'ulkwanta</text>
+	<text x="208.058" y="114.359"  class="label-pol label-lg">'alaptec</text>
+	<text x="191.672" y="126.861"  class="label-pol label-md">'asutan</text>
+	<text x="192.076" y="138.53"  class="label-pol label-md">suta'asutan</text>
+	<text x="136.372" y="122.411"  class="label-pol label-md">'senekal</text>
+	<text x="139.264" y="209.808"  class="label-pol label-sm">suta'coca aw suta'santwictayl (pwitantec)</text>
+	<text x="334.343" y="162.822"  class="label-pol label-md">'solomontec</text>
+	<text x="139.301" y="132.219"  class="label-pol label-sm">'salon</text>
+	<text x="125.863" y="76.866"  class="label-pol label-sm">'senpyeh aw miklon (Fr.)</text>
+	<text x="103.206" y="132.217"  class="label-pol label-sm">'sulinama</text>
+	<text x="181.134" y="56.331"  class="label-pol label-md">'swensektec</text>
+	<text x="194.451" y="186.17"  class="label-pol label-sm">'swatitec</text>
+	<text x="200.028" y="98.311"  class="label-pol label-md">'suli</text>
+	<text x="177.502" y="126.765"  class="label-pol label-md">'cat</text>
+	<text x="273.432" y="119.189"  class="label-pol label-md">'taytec</text>
+	<text x="232.104" y="88.477"  class="label-pol label-sm">'tociktec</text>
+	<text x="220.293" y="90.137"  class="label-pol label-sm">'tiwlkimentec</text>
+	<text x="345.789" y="188.241"  class="label-pol label-sm">'tonatec</text>
+	<text x="167.776" y="98.29"  class="label-pol label-md">'tunistec</text>
+	<text x="195.553" y="91.885"  class="label-pol label-lg">'tiwlkitec</text>
+	<text x="294.154" y="97.432"  class="label-pol label-md">'taywantec</text>
+	<text x="200.192" y="158.486"  class="label-pol label-md">'tansania</text>
+	<text x="196.079" y="147.776"  class="label-pol label-md">mota'kantatec</text>
+	<text x="191.417" y="76.559"  class="label-pol label-md">'uklayina</text>
+	<text x="106.645" y="184.658"  class="label-pol label-sm">'ulukway</text>
+	<text x="83.02" y="67.973"  class="label-pol label-lg">'amelikatec</text>
+	<text x="223.179" y="85.322"  class="label-pol label-md">'ospektec</text>
+	<text x="90.158" y="127.113"  class="label-pol label-md">'peneswela</text>
+	<text x="278.925" y="113.804"  class="label-pol label-lg">'fiattec</text>
+	<text x="335.115" y="178.871"  class="label-pol label-sm">'fanuatutec</text>
+	<text x="348.474" y="174.432"  class="label-pol label-sm">'walis aw 'futuna ('fahanse)</text>
+	<text x="352.759" y="175.063"  class="label-pol label-sm">'samoatec</text>
+	<text x="215.137" y="126.982"  class="label-pol label-md">'yaman</text>
+	<text x="185.615" y="189.261"  class="label-pol label-lg">suta'aflikatec</text>
+	<text x="189.743" y="167.67"  class="label-pol label-md">'sampesitec</text>
+	<text x="191.486" y="175.784"  class="label-pol label-md">'simpapwe</text>
 </svg>

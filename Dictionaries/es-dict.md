@@ -641,12 +641,6 @@ alga
   - <a name="'antikatilip">**'antikatilip**</a> _n._ (['antika](#'antika)+[tilip](#tilip))  
   
 
-  - <a name="'antika'papyuta">**'antika'papyuta**</a> _n._ (['antika](#'antika)+['papyuta](#'papyuta))  
-  
-
-  - <a name="'antika'papyutawon">**'antika'papyutawon**</a> _n._ (['antika'papyuta](#'antika'papyuta)+[won](#won))  
-  
-
 - <a name="am">**am**</a> _n._ (Eng.  ⟨arm⟩ \[ɑɹm\])  
 
 
@@ -1147,6 +1141,9 @@ ordenar; estar en orden; ʟᴏᴧ tiene una posición tarde en ʟᴜᴍ
 - <a name="owon">**owon**</a> _n._ (Yor.  ⟨ọwọn⟩ \[ɔwɔ̃\])  
 
 
+- <a name="'owmun">**'owmun**</a> _n._ (Yue.  ⟨澳門⟩ \[ōu˧muːn˧˥\])  
+
+
 - <a name="on">**on**</a> _post._ (Epo.  ⟨-on⟩ \[on\])  
 
 
@@ -1588,6 +1585,9 @@ ordenar; estar en orden; ʟᴏᴧ tiene una posición tarde en ʟᴜᴍ
   
 
   - <a name="'intonesiawon">**'intonesiawon**</a> _n._ (['intonesia](#'intonesia)+[won](#won))  
+  
+
+  - <a name="'intonesiatec">**'intonesiatec**</a> _n._ (['intonesia](#'intonesia)+[tec](#tec))  
   
 
   - <a name="'intonesiatilip">**'intonesiatilip**</a> _n._ (['intonesia](#'intonesia)+[tilip](#tilip))  
@@ -2397,6 +2397,9 @@ idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
 
   - <a name="yohaukiles">**yohaukiles**</a> _n._ ([yohauki](#yohauki)+[les](#les))  
   
+
+- <a name="'yok">**'yok**</a> _n._ (Eng.  ⟨York⟩ \[jɔːk\])  
+
 
 - <a name="yot">**yot**</a> _post._ ([~~wel~~](#wel))  
 
@@ -4132,6 +4135,21 @@ escama
 - <a name="ni">**ni**</a> _v._ ([~~ku~~](#ku))  
 
 
+- <a name="'niukini">**'niukini**</a> _n._ (Tpi.  ⟨Niugini⟩ \[niuɡini\])  
+
+
+  - <a name="'niukiniak">**'niukiniak**</a> _n._ (['niukini](#'niukini)+[ak](#ak))  
+  
+
+  - <a name="'niukiniwon">**'niukiniwon**</a> _n._ (['niukini](#'niukini)+[won](#won))  
+  
+
+  - <a name="'niukinitec">**'niukinitec**</a> _n._ (['niukini](#'niukini)+[tec](#tec))  
+  
+
+  - <a name="'niukinitilip">**'niukinitilip**</a> _n._ (['niukini](#'niukini)+[tilip](#tilip))  
+  
+
 - <a name="nila">**nila**</a> _v._ (Hin.  ⟨नीला⟩ \[niːlaː\])  
 
 
@@ -4421,9 +4439,6 @@ escama
   
 
 - <a name="nu">**nu**</a> _v._ ([~~ki~~](#ki))  
-
-
-- <a name="'nuyoksiti">**'nuyoksiti**</a> _n._ (Eng.  ⟨New York City⟩ \[nuː jɔɹk ˈsɪɾiː\])  
 
 
 - <a name="nul">**nul**</a> _num._ (Epo.  ⟨nulo⟩ \[nulo\])  
@@ -5280,13 +5295,13 @@ ser ligero; ʟᴏᴧ es ligero
   - <a name="motaswalum">**motaswalum**</a> _n._ ([motaswa](#motaswa)+[lum](#lum))  
   
 
-  - <a name="mota'kantatec">**mota'kantatec**</a> _n._ ([mota](#mota)+['kantatec](#'kantatec))  
+  - <a name="mota'kanta">**mota'kanta**</a> _n._ ([mota](#mota)+['kanta](#'kanta))  
   
 
-  - <a name="mota'kantatecak">**mota'kantatecak**</a> _n._ ([mota'kantatec](#mota'kantatec)+[ak](#ak))  
+  - <a name="mota'kantaak">**mota'kantaak**</a> _n._ ([mota'kanta](#mota'kanta)+[ak](#ak))  
   
 
-  - <a name="mota'kantatectec">**mota'kantatectec**</a> _n._ ([mota'kantatec](#mota'kantatec)+[tec](#tec))  
+  - <a name="mota'kantatec">**mota'kantatec**</a> _n._ ([mota'kanta](#mota'kanta)+[tec](#tec))  
   
 
   - <a name="motaki">**motaki**</a> _v._ ([mota](#mota)+[ki](#ki))  
@@ -5858,6 +5873,9 @@ ser agudo; ʟᴏᴧ es agudo
   - <a name="hawalon">**hawalon**</a> _n._ ([hawa](#hawa)+[lon](#lon))  
   
 
+- <a name="'hawnkon">**'hawnkon**</a> _n._ (Yue.  ⟨香港⟩ \[hœːŋ˥kɔːŋ˧˥\])  
+
+
 - <a name="'hawsa">**'hawsa**</a> _n._ (Hau.  ⟨Hausa⟩ \[hawsa\])  
 
 
@@ -6074,10 +6092,10 @@ ser agudo; ʟᴏᴧ es agudo
   - <a name="'hintutilip">**'hintutilip**</a> _n._ (['hintu](#'hintu)+[tilip](#tilip))  
   
 
-  - <a name="'hintutilip'pakistantilip">**'hintutilip'pakistantilip**</a> _n._ (['hintutilip](#'hintutilip)+['pakistantilip](#'pakistantilip))  
+  - <a name="'hintu'pakistantilip">**'hintu'pakistantilip**</a> _n._ (['hintu](#'hintu)+['pakistan](#'pakistan)+[tilip](#tilip))  
   
 
-  - <a name="'hintutilip'pakistantilipwon">**'hintutilip'pakistantilipwon**</a> _n._ (['hintutilip'pakistantilip](#'hintutilip'pakistantilip)+[won](#won))  
+  - <a name="'hintu'pakistantilipwon">**'hintu'pakistantilipwon**</a> _n._ (['hintu'pakistantilip](#'hintu'pakistantilip)+[won](#won))  
   
 
 - <a name="hiha">**hiha**</a> _v._ (ono.  \[hi̤ːha̤ː\])  
@@ -6292,6 +6310,9 @@ ser agudo; ʟᴏᴧ es agudo
 
 - <a name="hwe">**hwe**</a> _v._ ([~~cyo~~](#cyo))  
 
+
+  - <a name="hwe'yok">**hwe'yok**</a> _n._ ([hwe](#hwe)+['yok](#'yok))  
+  
 
   - <a name="hwelon">**hwelon**</a> _n._ ([hwe](#hwe)+[lon](#lon))  
   
@@ -7551,12 +7572,6 @@ ser agudo; ʟᴏᴧ es agudo
   - <a name="'seynfinsenak">**'seynfinsenak**</a> _n._ (['seynfinsen](#'seynfinsen)+[ak](#ak))  
   
 
-  - <a name="'seynfinsen'kwenatin">**'seynfinsen'kwenatin**</a> _n._ (['seynfinsen](#'seynfinsen)+['kwenatin](#'kwenatin))  
-  
-
-  - <a name="'seynfinsen'kwenatinwon">**'seynfinsen'kwenatinwon**</a> _n._ (['seynfinsen'kwenatin](#'seynfinsen'kwenatin)+[won](#won))  
-  
-
   - <a name="'seynfinsentilip">**'seynfinsentilip**</a> _n._ (['seynfinsen](#'seynfinsen)+[tilip](#tilip))  
   
 
@@ -7642,12 +7657,6 @@ ser agudo; ʟᴏᴧ es agudo
 
 
   - <a name="'senkitsiak">**'senkitsiak**</a> _n._ (['senkitsi](#'senkitsi)+[ak](#ak))  
-  
-
-  - <a name="'senkitsi'nifis">**'senkitsi'nifis**</a> _n._ (['senkitsi](#'senkitsi)+['nifis](#'nifis))  
-  
-
-  - <a name="'senkitsi'nifiswon">**'senkitsi'nifiswon**</a> _n._ (['senkitsi'nifis](#'senkitsi'nifis)+[won](#won))  
   
 
   - <a name="'senkitsitilip">**'senkitsitilip**</a> _n._ (['senkitsi](#'senkitsi)+[tilip](#tilip))  
@@ -7822,12 +7831,6 @@ ser agudo; ʟᴏᴧ es agudo
   
 
   - <a name="'sawntumetaylak">**'sawntumetaylak**</a> _n._ (['sawntumetayl](#'sawntumetayl)+[ak](#ak))  
-  
-
-  - <a name="'sawntume'pilinsipi">**'sawntume'pilinsipi**</a> _n._ (['sawntume](#'sawntume)+['pilinsipi](#'pilinsipi))  
-  
-
-  - <a name="'sawntume'pilinsipiwon">**'sawntume'pilinsipiwon**</a> _n._ (['sawntume'pilinsipi](#'sawntume'pilinsipi)+[won](#won))  
   
 
 - <a name="'sawmpawlu">**'sawmpawlu**</a> _n._ (Por.  ⟨São Paulo⟩ \[sɐ̃w̃ ˈpawlu\])  
@@ -8589,13 +8592,13 @@ abeja; Anthophilia
   - <a name="suta'hokyentilip">**suta'hokyentilip**</a> _n._ ([suta](#suta)+['hokyentilip](#'hokyentilip))  
   
 
-  - <a name="suta'cosawntilip">**suta'cosawntilip**</a> _n._ ([suta](#suta)+['cosawntilip](#'cosawntilip))  
+  - <a name="suta'cosawn">**suta'cosawn**</a> _n._ ([suta](#suta)+['cosawn](#'cosawn))  
   
 
-  - <a name="suta'cosawntiliptec">**suta'cosawntiliptec**</a> _n._ ([suta'cosawntilip](#suta'cosawntilip)+[tec](#tec))  
+  - <a name="suta'cosawnak">**suta'cosawnak**</a> _n._ ([suta'cosawn](#suta'cosawn)+[ak](#ak))  
   
 
-  - <a name="suta'cosawntilipak">**suta'cosawntilipak**</a> _n._ ([suta'cosawntilip](#suta'cosawntilip)+[ak](#ak))  
+  - <a name="suta'cosawnwon">**suta'cosawnwon**</a> _n._ ([suta'cosawn](#suta'cosawn)+[won](#won))  
   
 
   - <a name="sutaki">**sutaki**</a> _v._ ([suta](#suta)+[ki](#ki))  
@@ -9050,13 +9053,13 @@ abeja; Anthophilia
   - <a name="fila'maketonak">**fila'maketonak**</a> _n._ ([fila'maketon](#fila'maketon)+[ak](#ak))  
   
 
-  - <a name="fila'cosawntilip">**fila'cosawntilip**</a> _n._ ([fila](#fila)+['cosawntilip](#'cosawntilip))  
+  - <a name="fila'cosawn">**fila'cosawn**</a> _n._ ([fila](#fila)+['cosawn](#'cosawn))  
   
 
-  - <a name="fila'cosawntiliptec">**fila'cosawntiliptec**</a> _n._ ([fila'cosawntilip](#fila'cosawntilip)+[tec](#tec))  
+  - <a name="fila'cosawnak">**fila'cosawnak**</a> _n._ ([fila'cosawn](#fila'cosawn)+[ak](#ak))  
   
 
-  - <a name="fila'cosawntilipak">**fila'cosawntilipak**</a> _n._ ([fila'cosawntilip](#fila'cosawntilip)+[ak](#ak))  
+  - <a name="fila'cosawnwon">**fila'cosawnwon**</a> _n._ ([fila'cosawn](#fila'cosawn)+[won](#won))  
   
 
   - <a name="fila'cuntilip">**fila'cuntilip**</a> _n._ ([fila](#fila)+['cuntilip](#'cuntilip))  
@@ -10624,6 +10627,9 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
   - <a name="'kupawon">**'kupawon**</a> _n._ (['kupa](#'kupa)+[won](#won))  
   
 
+  - <a name="'kupatec">**'kupatec**</a> _n._ (['kupa](#'kupa)+[tec](#tec))  
+  
+
 - <a name="kwe">**kwe**</a> _v._ ([~~nyo~~](#nyo))  
 
 
@@ -11220,7 +11226,7 @@ ser tenso; ser intenso; estar bajo presión; ʟᴏᴧ es tenso
 - <a name="tan">**tan**</a> _n._ (Cmn.  ⟨蛋⟩ \[tan˥˩\])  
 
 
-- <a name="'tan ">**'tan **</a> _n._ (Dan.  ⟨Dan-⟩ \[dan\])  
+- <a name="'tan">**'tan**</a> _n._ (Dan.  ⟨Dan-⟩ \[dan\])  
 
 
   - <a name="tanec">**tanec**</a> _n._ ([tan](#tan)+[ec](#ec))  
@@ -11229,7 +11235,7 @@ ser tenso; ser intenso; estar bajo presión; ʟᴏᴧ es tenso
   - <a name="tanak">**tanak**</a> _n._ ([tan](#tan)+[ak](#ak))  
   
 
-  - <a name="'tan ak">**'tan ak**</a> _n._ (['tan ](#'tan )+[ak](#ak))  
+  - <a name="'tanak">**'tanak**</a> _n._ (['tan](#'tan)+[ak](#ak))  
   
 
 - <a name="tanul">**tanul**</a> _n._ (Jav.  ⟨dangur⟩ \[tɑ̤ŋʊɽ\])  
@@ -11247,10 +11253,10 @@ ser tenso; ser intenso; estar bajo presión; ʟᴏᴧ es tenso
   - <a name="'tansaniawon">**'tansaniawon**</a> _n._ (['tansania](#'tansania)+[won](#won))  
   
 
-  - <a name="'tan tec">**'tan tec**</a> _n._ (['tan ](#'tan )+[tec](#tec))  
+  - <a name="'tantec">**'tantec**</a> _n._ (['tan](#'tan)+[tec](#tec))  
   
 
-  - <a name="'tan tilip">**'tan tilip**</a> _n._ (['tan ](#'tan )+[tilip](#tilip))  
+  - <a name="'tantilip">**'tantilip**</a> _n._ (['tan](#'tan)+[tilip](#tilip))  
   
 
 - <a name="'tamil">**'tamil**</a> _n._ (Tam.  ⟨தமிழ்⟩ \[t̪ɐmɨɻ\])  
@@ -12042,12 +12048,6 @@ punto; punto de base
   - <a name="'twinitatak">**'twinitatak**</a> _n._ (['twinitat](#'twinitat)+[ak](#ak))  
   
 
-  - <a name="'twinitat'topeykow">**'twinitat'topeykow**</a> _n._ (['twinitat](#'twinitat)+['topeykow](#'topeykow))  
-  
-
-  - <a name="'twinitat'topeykowwon">**'twinitat'topeykowwon**</a> _n._ (['twinitat'topeykow](#'twinitat'topeykow)+[won](#won))  
-  
-
 ### p
 
 - <a name="pe">**pe**</a> _v._ (Cmn.  ⟨陪⟩ \[pʰeɪ̯˧˥\])  
@@ -12815,18 +12815,6 @@ sobre; dividido por
 - <a name="'papilim">**'papilim**</a> _n._ (Akk.  ⟨𒆍𒀭𒊏𒆠⟩ \[baːbili\])  
 
 
-- <a name="'papua">**'papua**</a> _n._ (Tpi.  ⟨Papua Niugini⟩ \[papua\])  
-
-
-  - <a name="'papuaak">**'papuaak**</a> _n._ (['papua](#'papua)+[ak](#ak))  
-  
-
-  - <a name="'papuawon">**'papuawon**</a> _n._ (['papua](#'papua)+[won](#won))  
-  
-
-  - <a name="'papuatilip">**'papuatilip**</a> _n._ (['papua](#'papua)+[tilip](#tilip))  
-  
-
 - <a name="'papyuta">**'papyuta**</a> _n._ (Aig.  ⟨Barbuda⟩ \[bɑːˈbjuːdə\])  
 
 
@@ -13328,7 +13316,7 @@ poco; pocos
   - <a name="'pultukalak">**'pultukalak**</a> _n._ (['pultukal](#'pultukal)+[ak](#ak))  
   
 
-  - <a name="'pultukaltec">**'pultukaltec**</a> _n._ (['pultukal](#'pultukal)+[tec](#tec))  
+  - <a name="'pultukalwon">**'pultukalwon**</a> _n._ (['pultukal](#'pultukal)+[won](#won))  
   
 
   - <a name="'pultukaltilip">**'pultukaltilip**</a> _n._ (['pultukal](#'pultukal)+[tilip](#tilip))  
