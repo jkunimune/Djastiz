@@ -752,7 +752,12 @@ def format_dictionary(dictionary, directory):
 			else:
 				entry['source_str'] = "∅"
 
-			entry['definitions'] = '; '.join(entry[lang3]).replace('SBJ',"ʟєꜱ").replace('OBJ',"ʟᴏᴧ").replace('IND',"ʟᴜᴍ")
+			entry['definitions'] = '; '.join(entry[lang3])
+			for arg, code, suffix in [('SBJ',"ʟєꜱ","les"), ('OBJ',"ʟᴏᴧ","lon"), ('IND',"ʟᴜᴍ","lum")]: # for these arguments
+				if arg in entry['derivatives']: # try linking to the derivative
+					entry['definitions'] = entry['definitions'].replace(arg, "[{}](#{})".format(code, entry['otp']+suffix))
+				else:
+					entry['definitions'] = entry['definitions'].replace(arg, code)
 
 			markdown += MARKDOWN_ENTRY.format(**entry)
 	

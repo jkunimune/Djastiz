@@ -10,10 +10,10 @@ e; Euler's number; 2.718…
 earwig; Dermaptera
 
 - <a name="elehe">**elehe**</a> _v._ (Spa.  ⟨elige⟩ \[eˈlixe\])  
-choose; decide; ʟєꜱ chooses ʟᴏᴧ
+choose; decide; [ʟєꜱ](#eleheles) chooses [ʟᴏᴧ](#elehelon)
 
 - <a name="eleheestaki">**eleheestaki**</a> _v._ ([elehe](#elehe)+[estaki](#estaki))  
-design; ʟєꜱ designs ʟᴏᴧ
+design; [ʟєꜱ](#eleheestakiles) designs [ʟᴏᴧ](#eleheestakilon)
 
 - <a name="eleheestakiles">**eleheestakiles**</a> _n._ ([eleheestaki](#eleheestaki)+[les](#les))  
 designer
@@ -28,7 +28,7 @@ arbitrator
 choice; decision
 
 - <a name="elehehau">**elehehau**</a> _v._ ([elehe](#elehe)+[hau](#hau))  
-be apprehensive; hesitate; ʟᴏᴧ is apprehensive to do ʟᴜᴍ
+be apprehensive; hesitate; [ʟᴏᴧ](#elehehaulon) is apprehensive to do ʟᴜᴍ
 
 - <a name="elehehaulon">**elehehaulon**</a> _n._ ([elehehau](#elehehau)+[lon](#lon))  
 apprehensive
@@ -73,7 +73,7 @@ Eritrean; from Eritrea
 Eritrean; the Eritrean people
 
 - <a name="elu">**elu**</a> _v._ (Ibo.  ⟨elu⟩ \[elu\])  
-be steep; ʟᴏᴧ is steep
+be steep; [ʟᴏᴧ](#elulon) is steep
 
 - <a name="elulon">**elulon**</a> _n._ ([elu](#elu)+[lon](#lon))  
 steep
@@ -115,10 +115,10 @@ European; the European people
 any; one of; _describes a single arbitrary instance of the following noun phrase_
 
 - <a name="eni">**eni**</a> _v._ ([~~oku~~](#oku))  
-be cold; be cool; ʟᴏᴧ is colder than ʟᴜᴍ
+be cold; be cool; [ʟᴏᴧ](#enilon) is colder than ʟᴜᴍ
 
 - <a name="eniufa">**eniufa**</a> _v._ ([eni](#eni)+[ufa](#ufa))  
-be snow; be shaved ice; be slush; ʟᴏᴧ is made of snow
+be snow; be shaved ice; be slush; [ʟᴏᴧ](#eniufalon) is made of snow
 
 - <a name="eniufalon">**eniufalon**</a> _n._ ([eniufa](#eniufa)+[lon](#lon))  
 snow; shaved ice; slush
@@ -127,7 +127,7 @@ snow; shaved ice; slush
 cold; cool
 
 - <a name="enilono">**enilono**</a> _v._ ([eni](#eni)+[lono](#lono))  
-be cool-coloured; ʟᴏᴧ is green, blue, purple, or black
+be cool-coloured; [ʟᴏᴧ](#enilonolon) is green, blue, purple, or black
 
 - <a name="enilonolon">**enilonolon**</a> _n._ ([enilono](#enilono)+[lon](#lon))  
 cool-coloured
@@ -142,7 +142,7 @@ penguin
 winter
 
 - <a name="eniki">**eniki**</a> _v._ ([eni](#eni)+[ki](#ki))  
-cool; ʟєꜱ makes ʟᴏᴧ cool down relative to ʟᴜᴍ
+cool; [ʟєꜱ](#enikiles) makes ʟᴏᴧ cool down relative to ʟᴜᴍ
 
 - <a name="enikiles">**enikiles**</a> _n._ ([eniki](#eniki)+[les](#les))  
 cooler; air conditioner
@@ -160,7 +160,7 @@ Emirati; Emirian; Emiri; from the United Arab Emirates
 United Arab Emirates
 
 - <a name="emana">**emana**</a> _v._ ([~~opaka~~](#opaka))  
-be transparent; be see-through; ʟᴏᴧ lets unreflected light pass through it
+be transparent; be see-through; [ʟᴏᴧ](#emanalon) lets unreflected light pass through it
 
 - <a name="emanalon">**emanalon**</a> _n._ ([emana](#emana)+[lon](#lon))  
 window; transparent; see-through
@@ -169,7 +169,7 @@ window; transparent; see-through
 transparify; ʟєꜱ makes ʟᴏᴧ become transparent
 
 - <a name="emanapato">**emanapato**</a> _v._ ([emana](#emana)+[pato](#pato))  
-be glass; ʟᴏᴧ is made of glass
+be glass; [ʟᴏᴧ](#emanapatolon) is made of glass
 
 - <a name="emanapatolon">**emanapatolon**</a> _n._ ([emanapato](#emanapato)+[lon](#lon))  
 glass
@@ -193,7 +193,7 @@ by; _marks agent_
 escudella
 
 - <a name="este">**este**</a> _v._ (Spa.  ⟨este⟩ \[ˈeste\])  
-be east; ʟᴏᴧ has a higher longitude than ʟᴜᴍ
+be east; [ʟᴏᴧ](#estelon) has a higher longitude than [ʟᴜᴍ](#estelum)
 
 - <a name="estelon">**estelon**</a> _n._ ([este](#este)+[lon](#lon))  
 the East; east
@@ -220,7 +220,7 @@ East Timor; Timor-Leste; Democratic Republic of Timor-Leste
 Timorese; East Timorese; Maubere; the East Timorese people
 
 - <a name="esta">**esta**</a> _v._ (Spa.  ⟨estar⟩ \[estar\])  
-be; exist; have; equal; be the same; _copula_; ʟᴏᴧ exists and is the same thing as ʟᴜᴍ
+be; exist; have; equal; be the same; _copula_; [ʟᴏᴧ](#estalon) exists and is the same thing as ʟᴜᴍ
 
 - <a name="estaak">**estaak**</a> _n._ ([esta](#esta)+[ak](#ak))  
 fair; uniform; equal
@@ -241,7 +241,7 @@ graph; plot
 graphical
 
 - <a name="estanu">**estanu**</a> _v._ ([esta](#esta)+[nu](#nu))  
-delete; destroy; take; disappear; ruin; end; ʟєꜱ deletes ʟᴏᴧ
+delete; destroy; take; disappear; ruin; end; [ʟєꜱ](#estanules) deletes [ʟᴏᴧ](#estanulon)
 
 - <a name="estanules">**estanules**</a> _n._ ([estanu](#estanu)+[les](#les))  
 deleter; destroyer
@@ -253,7 +253,7 @@ deleted; disappeared
 other; not; anything but
 
 - <a name="estaki">**estaki**</a> _v._ ([esta](#esta)+[ki](#ki))  
-create; make; give; get; appear; produce; originate; ʟєꜱ makes ʟᴏᴧ into ʟᴜᴍ
+create; make; give; get; appear; produce; originate; [ʟєꜱ](#estakiles) makes [ʟᴏᴧ](#estakilon) into ʟᴜᴍ
 
 - <a name="estakiles">**estakiles**</a> _n._ ([estaki](#estaki)+[les](#les))  
 creator
@@ -304,13 +304,13 @@ the Spanish language
 spaghetti
 
 - <a name="efe">**efe**</a> _v._ ([~~oso~~](#oso))  
-be less; be negative; be not enough; be too little; ʟᴏᴧ is numerically less than ʟᴜᴍ
+be less; be negative; be not enough; be too little; [ʟᴏᴧ](#efelon) is numerically less than ʟᴜᴍ
 
 - <a name="efelon">**efelon**</a> _n._ ([efe](#efe)+[lon](#lon))  
 less; negative; not enough; too little
 
 - <a name="efeki">**efeki**</a> _v._ ([efe](#efe)+[ki](#ki))  
-decrease; diminish; dwindle; consolidate; ʟєꜱ makes ʟᴏᴧ decrease relative to ʟᴜᴍ
+decrease; diminish; dwindle; consolidate; [ʟєꜱ](#efekiles) makes ʟᴏᴧ decrease relative to ʟᴜᴍ
 
 - <a name="efekiles">**efekiles**</a> _n._ ([efeki](#efeki)+[les](#les))  
 decreaser
@@ -346,7 +346,7 @@ with that; thus
 there
 
 - <a name="etle">**etle**</a> _v._ ([~~olto~~](#olto))  
-be number from the end; be in order from the end; negatively index; ʟᴏᴧ has an early position in ʟᴜᴍ
+be number from the end; be in order from the end; negatively index; [ʟᴏᴧ](#etlelon) has an early position in ʟᴜᴍ
 
 - <a name="etlelon">**etlelon**</a> _n._ ([etle](#etle)+[lon](#lon))  
 number from the end; in order from the end
@@ -381,10 +381,10 @@ Haitian; the Haitian people
 Haitian creole
 
 - <a name="ayuta">**ayuta**</a> _v._ (Spa.  ⟨ayuda⟩ \[aˈʝuða\])  
-help; be for; ally; support; benefit; work with; assist; be auxiliary; ʟᴏᴧ is working toward the same goal as ʟᴜᴍ
+help; be for; ally; support; benefit; work with; assist; be auxiliary; [ʟᴏᴧ](#ayutalon) is working toward the same goal as [ʟᴜᴍ](#ayutalum)
 
 - <a name="ayutaici">**ayutaici**</a> _v._ ([ayuta](#ayuta)+[ici](#ici))  
-synergise; have mutualistic relation; ʟᴏᴧ benefits from helping ʟᴜᴍ
+synergise; have mutualistic relation; [ʟᴏᴧ](#ayutaicilon) benefits from helping [ʟᴜᴍ](#ayutaicilum)
 
 - <a name="ayutaicilon">**ayutaicilon**</a> _n._ ([ayutaici](#ayutaici)+[lon](#lon))  
 symbiote
@@ -399,7 +399,7 @@ helper; assistant; for; auxiliary
 ally; friend
 
 - <a name="ayutaki">**ayutaki**</a> _v._ ([ayuta](#ayuta)+[ki](#ki))  
-align with; join; team up; ʟєꜱ makes ʟᴏᴧ ally with ʟᴜᴍ
+align with; join; team up; [ʟєꜱ](#ayutakiles) makes ʟᴏᴧ ally with ʟᴜᴍ
 
 - <a name="ayutakiles">**ayutakiles**</a> _n._ ([ayutaki](#ayutaki)+[les](#les))  
 alliance forger
@@ -486,10 +486,10 @@ some; _describes an unspecified subset of the following noun phrase_
 and; and/or; /; _delineates a conjugate phrase_
 
 - <a name="awila">**awila**</a> _v._ ([~~ayuta~~](#ayuta))  
-hinder; be against; oppose; harm; compete; fight; counter; ʟᴏᴧ is working toward a goal contrary to that of ʟᴜᴍ
+hinder; be against; oppose; harm; compete; fight; counter; [ʟᴏᴧ](#awilalon) is working toward a goal contrary to that of [ʟᴜᴍ](#awilalum)
 
 - <a name="awilaici">**awilaici**</a> _v._ ([awila](#awila)+[ici](#ici))  
-mooch; leech; have parasitic relation; ʟᴏᴧ benefits from hindering ʟᴜᴍ
+mooch; leech; have parasitic relation; [ʟᴏᴧ](#awilaicilon) benefits from hindering [ʟᴜᴍ](#awilaicilum)
 
 - <a name="awilaicilon">**awilaicilon**</a> _n._ ([awilaici](#awilaici)+[lon](#lon))  
 parasite; leech; freeloader
@@ -504,7 +504,7 @@ opposer; against
 opponent; competitor; enemy
 
 - <a name="awilaki">**awilaki**</a> _v._ ([awila](#awila)+[ki](#ki))  
-turn against; betray; split up; ʟєꜱ turns ʟᴏᴧ against ʟᴜᴍ
+turn against; betray; split up; [ʟєꜱ](#awilakiles) turns [ʟᴏᴧ](#awilakilon) against ʟᴜᴍ
 
 - <a name="awilakiles">**awilakiles**</a> _n._ ([awilaki](#awilaki)+[les](#les))  
 instigator
@@ -516,7 +516,7 @@ traitor
 sea anemone; Actiniaria
 
 - <a name="ano">**ano**</a> _v._ ([~~ake~~](#ake))  
-be behind; be backward; lag; ʟᴏᴧ has a negative _y_ coordinate from ʟᴜᴍ's point of view
+be behind; be backward; lag; [ʟᴏᴧ](#anolon) has a negative _y_ coordinate from ʟᴜᴍ's point of view
 
 - <a name="'anol">**'anol**</a> _n._ (Far.  ⟨انار⟩ \[æˈnɒːɾ\])  
 pomegranate; Punica
@@ -525,7 +525,7 @@ pomegranate; Punica
 back; behind; backward
 
 - <a name="anonoki">**anonoki**</a> _v._ ([ano](#ano)+[noki](#noki))  
-primarily educate; elementary school; middle school; ʟєꜱ teaches ʟᴏᴧ
+primarily educate; elementary school; middle school; [ʟєꜱ](#anonokiles) teaches [ʟᴏᴧ](#anonokilon)
 
 - <a name="anonokiles">**anonokiles**</a> _n._ ([anonoki](#anonoki)+[les](#les))  
 elementary school teacher
@@ -540,7 +540,7 @@ elementary school; middle school
 primary education
 
 - <a name="anocalu">**anocalu**</a> _v._ ([ano](#ano)+[calu](#calu))  
-follow; trail; ʟєꜱ makes ʟᴏᴧ follow ʟᴜᴍ
+follow; trail; ʟєꜱ makes [ʟᴏᴧ](#anocalulon) follow [ʟᴜᴍ](#anocalulum)
 
 - <a name="anocalulon">**anocalulon**</a> _n._ ([anocalu](#anocalu)+[lon](#lon))  
 follower; tail
@@ -549,13 +549,13 @@ follower; tail
 followed
 
 - <a name="anoki">**anoki**</a> _v._ ([ano](#ano)+[ki](#ki))  
-retreat; fall behind; go backward; lose; ʟєꜱ makes ʟᴏᴧ move backward from ʟᴜᴍ's point of view
+retreat; fall behind; go backward; lose; [ʟєꜱ](#anokiles) makes ʟᴏᴧ move backward from ʟᴜᴍ's point of view
 
 - <a name="anokiles">**anokiles**</a> _n._ ([anoki](#anoki)+[les](#les))  
 retreater
 
 - <a name="ani">**ani**</a> _v._ (Ibo.  ⟨anị⟩ \[anɪ\])  
-be soil; be dirt; be earth; ʟᴏᴧ is made out of dirt
+be soil; be dirt; be earth; [ʟᴏᴧ](#anilon) is made out of dirt
 
 - <a name="anilon">**anilon**</a> _n._ ([ani](#ani)+[lon](#lon))  
 soil; dirt; earth
@@ -576,7 +576,7 @@ disintigrate; decompose; turn to dirt; ʟєꜱ turns ʟᴏᴧ to dirt
 bury; ʟєꜱ buries ʟᴏᴧ
 
 - <a name="anco">**anco**</a> _v._ (Spa.  ⟨ancho⟩ \[ˈant͡ʃo\])  
-be broad; be wide; ʟᴏᴧ is broad in the dimension that is not length or thickness
+be broad; be wide; [ʟᴏᴧ](#ancolon) is broad in the dimension that is not length or thickness
 
 - <a name="ancolon">**ancolon**</a> _n._ ([anco](#anco)+[lon](#lon))  
 ribbon; blade; broad; wide
@@ -591,7 +591,7 @@ sweep; ʟєꜱ sweeps ʟᴏᴧ off of ʟᴜᴍ
 broom
 
 - <a name="ancoki">**ancoki**</a> _v._ ([anco](#anco)+[ki](#ki))  
-broaden; ʟєꜱ broadens ʟᴏᴧ
+broaden; [ʟєꜱ](#ancokiles) broadens ʟᴏᴧ
 
 - <a name="ancokiles">**ancokiles**</a> _n._ ([ancoki](#ancoki)+[les](#les))  
 broadener
@@ -606,7 +606,7 @@ Angolan; from Angola
 Angolan; the Angolan people
 
 - <a name="anta">**anta**</a> _v._ ([~~akla~~](#akla))  
-be dull; be blunt; be blurry; be nebulous; be wide; be gradual; ʟᴏᴧ has a long radius of curvature
+be dull; be blunt; be blurry; be nebulous; be wide; be gradual; [ʟᴏᴧ](#antalon) has a long radius of curvature
 
 - <a name="antalon">**antalon**</a> _n._ ([anta](#anta)+[lon](#lon))  
 dull; blunt; blurry; nebulous; wide; gradual
@@ -678,7 +678,7 @@ brachial; appendicular
 show tactually; ʟєꜱ shows ʟᴜᴍ to ʟᴏᴧ tactually
 
 - <a name="amapowi">**amapowi**</a> _v._ ([ama](#ama)+[powi](#powi))  
-be tangible; be physical; be objective; ʟᴜᴍ is tangible to ʟᴏᴧ
+be tangible; be physical; be objective; [ʟᴜᴍ](#amapowilum) is tangible to [ʟᴏᴧ](#amapowilon)
 
 - <a name="amapowilon">**amapowilon**</a> _n._ ([amapowi](#amapowi)+[lon](#lon))  
 tangible; physical; objective
@@ -687,7 +687,7 @@ tangible; physical; objective
 object; thing
 
 - <a name="amapowilummai">**amapowilummai**</a> _v._ ([amapowilum](#amapowilum)+[mai](#mai))  
-buy good; produce; ʟᴏᴧ gives ʟᴜᴍ to ʟєꜱ in exchange for money
+buy good; produce; [ʟᴏᴧ](#amapowilummailon) gives [ʟᴜᴍ](#amapowilummailum) to [ʟєꜱ](#amapowilummailes) in exchange for money
 
 - <a name="amapowilummailwel">**amapowilummailwel**</a> _n._ ([amapowilummai](#amapowilummai)+[lwel](#lwel))  
 sale
@@ -702,13 +702,13 @@ good
 producer; vendor
 
 - <a name="amapowinu">**amapowinu**</a> _v._ ([amapowi](#amapowi)+[nu](#nu))  
-scan; abstract; intangiblise; ʟєꜱ takes ʟᴏᴧ out of the physical realm
+scan; abstract; intangiblise; [ʟєꜱ](#amapowinules) takes ʟᴏᴧ out of the physical realm
 
 - <a name="amapowinules">**amapowinules**</a> _n._ ([amapowinu](#amapowinu)+[les](#les))  
 scanner abstracter
 
 - <a name="amapowinyo">**amapowinyo**</a> _v._ ([amapowi](#amapowi)+[nyo](#nyo))  
-be digital; be intangible; be abstract; be nonphysical; ʟᴜᴍ is abstract from ʟᴏᴧ's point of view
+be digital; be intangible; be abstract; be nonphysical; [ʟᴜᴍ](#amapowinyolum) is abstract from [ʟᴏᴧ](#amapowinyolon)'s point of view
 
 - <a name="amapowinyolon">**amapowinyolon**</a> _n._ ([amapowinyo](#amapowinyo)+[lon](#lon))  
 digital; intangible; abstract; nonphysical
@@ -717,13 +717,13 @@ digital; intangible; abstract; nonphysical
 concept
 
 - <a name="amapowiki">**amapowiki**</a> _v._ ([amapowi](#amapowi)+[ki](#ki))  
-print; tangiblise; soidify; ʟєꜱ brings ʟᴏᴧ into the physical realm
+print; tangiblise; soidify; [ʟєꜱ](#amapowikiles) brings ʟᴏᴧ into the physical realm
 
 - <a name="amapowikiles">**amapowikiles**</a> _n._ ([amapowiki](#amapowiki)+[les](#les))  
 printer
 
 - <a name="ami">**ami**</a> _v._ (Epo.  ⟨ami⟩ \[ˈami\])  
-love; be infatuated; ʟᴏᴧ is romantically in love with ʟᴜᴍ
+love; be infatuated; [ʟᴏᴧ](#amilon) is romantically in love with [ʟᴜᴍ](#amilum)
 
 - <a name="amiyohau">**amiyohau**</a> _v._ ([ami](#ami)+[yohau](#yohau))  
 date; court; ʟᴏᴧ is dating ʟᴜᴍ
@@ -735,13 +735,13 @@ lover; infatuated
 love; object of affection
 
 - <a name="amiki">**amiki**</a> _v._ ([ami](#ami)+[ki](#ki))  
-set up; fall in love; introduce; infatuate; ʟєꜱ makes ʟᴏᴧ fall in love with ʟᴜᴍ
+set up; fall in love; introduce; infatuate; [ʟєꜱ](#amikiles) makes ʟᴏᴧ fall in love with ʟᴜᴍ
 
 - <a name="amikiles">**amikiles**</a> _n._ ([amiki](#amiki)+[les](#les))  
 matchmaker; cupid
 
 - <a name="amla">**amla**</a> _v._ (Jav.  ⟨ambra⟩ \[ɑmpɽɔ\])  
-be widespread; be prevalent; be expansive; ʟᴏᴧ exists in many places
+be widespread; be prevalent; be expansive; [ʟᴏᴧ](#amlalon) exists in many places
 
 - <a name="amlalon">**amlalon**</a> _n._ ([amla](#amla)+[lon](#lon))  
 widespread; prevalent; expansive
@@ -750,7 +750,7 @@ widespread; prevalent; expansive
 prevalence
 
 - <a name="amlaki">**amlaki**</a> _v._ ([amla](#amla)+[ki](#ki))  
-spread; expand; copy; advertise; ʟєꜱ spreads ʟᴏᴧ
+spread; expand; copy; advertise; [ʟєꜱ](#amlakiles) spreads [ʟᴏᴧ](#amlakilon)
 
 - <a name="amlakiles">**amlakiles**</a> _n._ ([amlaki](#amlaki)+[les](#les))  
 spreader
@@ -759,7 +759,7 @@ spreader
 spread
 
 - <a name="amlakipowi">**amlakipowi**</a> _v._ ([amlaki](#amlaki)+[powi](#powi))  
-be contagious; ʟᴏᴧ is contagious
+be contagious; [ʟᴏᴧ](#amlakipowilon) is contagious
 
 - <a name="amlakipowilon">**amlakipowilon**</a> _n._ ([amlakipowi](#amlakipowi)+[lon](#lon))  
 contagious
@@ -768,7 +768,7 @@ contagious
 guava; Psidium
 
 - <a name="amhila">**amhila**</a> _v._ ([am](#am)+[hila](#hila))  
-flail; ʟєꜱ flails ʟᴏᴧ
+flail; ʟєꜱ flails [ʟᴏᴧ](#amhilalon)
 
 - <a name="amhilalon">**amhilalon**</a> _n._ ([amhila](#amhila)+[lon](#lon))  
 flail; flailing limb
@@ -786,13 +786,13 @@ sleeve; armband
 aa
 
 - <a name="ahami">**ahami**</a> _v._ ([~~acapu~~](#acapu))  
-be average; be meh; be moderate; ʟᴏᴧ is to a low degree
+be average; be meh; be moderate; [ʟᴏᴧ](#ahamilon) is to a low degree
 
 - <a name="ahamilon">**ahamilon**</a> _n._ ([ahami](#ahami)+[lon](#lon))  
 average; meh; moderate
 
 - <a name="acapu">**acapu**</a> _v._ (Swa.  ⟨ajabu⟩ \[aʄaɓu\])  
-be amazing; be extreme; be incredible; be absurd; ʟᴏᴧ is to a very high degree
+be amazing; be extreme; be incredible; be absurd; [ʟᴏᴧ](#acapulon) is to a very high degree
 
 - <a name="acapulon">**acapulon**</a> _n._ ([acapu](#acapu)+[lon](#lon))  
 amazing; extreme; incredible; absurd
@@ -843,7 +843,7 @@ Afghanistan
 of; -'s; _marks modifier or associate_
 
 - <a name="ake">**ake**</a> _v._ (Hin.  ⟨आगे⟩ \[aːɡe\])  
-be in front; be ahead; be forward; ʟᴏᴧ has a positive _y_ coordinate from ʟᴜᴍ's point of view
+be in front; be ahead; be forward; [ʟᴏᴧ](#akelon) has a positive _y_ coordinate from ʟᴜᴍ's point of view
 
 - <a name="akelon">**akelon**</a> _n._ ([ake](#ake)+[lon](#lon))  
 field of view; in front; ahead; forward
@@ -852,7 +852,7 @@ field of view; in front; ahead; forward
 _y_ coordinate; progress
 
 - <a name="akenoki">**akenoki**</a> _v._ ([ake](#ake)+[noki](#noki))  
-secondarily educate; high school; middle school; ʟєꜱ teaches ʟᴏᴧ
+secondarily educate; high school; middle school; [ʟєꜱ](#akenokiles) teaches [ʟᴏᴧ](#akenokilon)
 
 - <a name="akenokiles">**akenokiles**</a> _n._ ([akenoki](#akenoki)+[les](#les))  
 high school teacher
@@ -867,13 +867,13 @@ high school; middle school
 secondary education
 
 - <a name="akeki">**akeki**</a> _v._ ([ake](#ake)+[ki](#ki))  
-advance; go ahead; go forward; progress; gain; ʟєꜱ makes ʟᴏᴧ move forward from ʟᴜᴍ's point of view
+advance; go ahead; go forward; progress; gain; [ʟєꜱ](#akekiles) makes ʟᴏᴧ move forward from ʟᴜᴍ's point of view
 
 - <a name="akekiles">**akekiles**</a> _n._ ([akeki](#akeki)+[les](#les))  
 advancer
 
 - <a name="akla">**akla**</a> _v._ (Epo.  ⟨akra⟩ \[ˈakra\])  
-be sharp; be clear; be tight; ʟᴏᴧ has a short radius of curvature
+be sharp; be clear; be tight; [ʟᴏᴧ](#aklalon) has a short radius of curvature
 
 - <a name="aklalon">**aklalon**</a> _n._ ([akla](#akla)+[lon](#lon))  
 blade; edge; point; sharp; clear; tight
@@ -906,7 +906,7 @@ seaurchin
 needle
 
 - <a name="akhe">**akhe**</a> _v._ ([~~anco~~](#anco))  
-be narrow; be thin; ʟᴏᴧ is narrow in the dimension that is not length or thickness
+be narrow; be thin; [ʟᴏᴧ](#akhelon) is narrow in the dimension that is not length or thickness
 
 - <a name="akheyehkac">**akheyehkac**</a> _n._ ([akhe](#akhe)+[yeh](#yeh)+[kac](#kac))  
 pine tree
@@ -915,7 +915,7 @@ pine tree
 narrow; thin
 
 - <a name="akheki">**akheki**</a> _v._ ([akhe](#akhe)+[ki](#ki))  
-narrow; ʟєꜱ narrows ʟᴏᴧ
+narrow; [ʟєꜱ](#akhekiles) narrows ʟᴏᴧ
 
 - <a name="akhekiles">**akhekiles**</a> _n._ ([akheki](#akheki)+[les](#les))  
 narrower
@@ -924,7 +924,7 @@ narrower
 Arcturus
 
 - <a name="aktua">**aktua**</a> _v._ (Spa.  ⟨actúa⟩ \[akˈtua\])  
-act; say; voice; fill; ʟєꜱ acts as though ʟᴏᴧ is true
+act; say; voice; fill; [ʟєꜱ](#aktuales) acts as though [ʟᴏᴧ](#aktualon) is true
 
 - <a name="aktuales">**aktuales**</a> _n._ ([aktua](#aktua)+[les](#les))  
 actor
@@ -975,13 +975,13 @@ Abkhazia
 Abkhaz; Abkhazian; Abxaz; the Abkhaz language
 
 - <a name="apta">**apta**</a> _v._ ([~~amla~~](#amla))  
-be confined; be rare; ʟᴏᴧ exists in few places
+be confined; be rare; [ʟᴏᴧ](#aptalon) exists in few places
 
 - <a name="aptalon">**aptalon**</a> _n._ ([apta](#apta)+[lon](#lon))  
 confined; rare
 
 - <a name="aptaki">**aptaki**</a> _v._ ([apta](#apta)+[ki](#ki))  
-extinguish; erase; confine; recede; ʟєꜱ makes ʟᴏᴧ less prevalent
+extinguish; erase; confine; recede; [ʟєꜱ](#aptakiles) makes ʟᴏᴧ less prevalent
 
 - <a name="aptakiles">**aptakiles**</a> _n._ ([aptaki](#aptaki)+[les](#les))  
 extinguisher
@@ -992,7 +992,7 @@ extinguisher
 o; /o/; mid back rounded vowel
 
 - <a name="oye">**oye**</a> _v._ (Spa.  ⟨oye⟩ \[ˈoʝe\])  
-can hear; hear; ʟᴏᴧ hears ʟᴜᴍ
+can hear; hear; ʟᴏᴧ hears [ʟᴜᴍ](#oyelum)
 
 - <a name="oyeec">**oyeec**</a> _n._ ([oye](#oye)+[ec](#ec))  
 ear
@@ -1007,7 +1007,7 @@ sound; audio
 mute; ʟєꜱ makes ʟᴏᴧ stop hearing ʟᴜᴍ
 
 - <a name="oyemocaki">**oyemocaki**</a> _v._ ([oye](#oye)+[mocaki](#mocaki))  
-sing; play music; stream; ʟєꜱ sings or plays ʟᴜᴍ to ʟᴏᴧ
+sing; play music; stream; [ʟєꜱ](#oyemocakiles) sings or plays [ʟᴜᴍ](#oyemocakilum) to ʟᴏᴧ
 
 - <a name="oyemocakiles">**oyemocakiles**</a> _n._ ([oyemocaki](#oyemocaki)+[les](#les))  
 musician
@@ -1031,13 +1031,13 @@ have hearing; ʟᴏᴧ has hearing
 hearing aid
 
 - <a name="oyepowinu">**oyepowinu**</a> _v._ ([oyepowi](#oyepowi)+[nu](#nu))  
-deafen; ʟєꜱ causes ʟᴏᴧ to become deaf
+deafen; [ʟєꜱ](#oyepowinules) causes ʟᴏᴧ to become deaf
 
 - <a name="oyepowinules">**oyepowinules**</a> _n._ ([oyepowinu](#oyepowinu)+[les](#les))  
 deafening
 
 - <a name="oyepowinyo">**oyepowinyo**</a> _v._ ([oyepowi](#oyepowi)+[nyo](#nyo))  
-be deaf; ʟᴏᴧ is deaf
+be deaf; [ʟᴏᴧ](#oyepowinyolon) is deaf
 
 - <a name="oyepowinyolon">**oyepowinyolon**</a> _n._ ([oyepowinyo](#oyepowinyo)+[lon](#lon))  
 deaf
@@ -1049,7 +1049,7 @@ hearify; restore hearing; ʟєꜱ makes ʟᴏᴧ able to hear
 this; _proximal_; associated with the time and place of the utterance
 
 - <a name="ole">**ole**</a> _v._ (Spa.  ⟨huele⟩ \[ˈwele\])  
-can smell; smell; ʟᴏᴧ smells ʟᴜᴍ
+can smell; smell; ʟᴏᴧ smells [ʟᴜᴍ](#olelum)
 
 - <a name="oleec">**oleec**</a> _n._ ([ole](#ole)+[ec](#ec))  
 olfactory gland
@@ -1106,7 +1106,7 @@ Eastern Orthodox
 today
 
 - <a name="olto">**olto**</a> _v._ (Epo.  ⟨ordo⟩ \[ˈordo\])  
-be number; be in order; be -th; index; ʟᴏᴧ has a late position in ʟᴜᴍ
+be number; be in order; be -th; index; [ʟᴏᴧ](#oltolon) has a late position in [ʟᴜᴍ](#oltolum)
 
 - <a name="oltolon">**oltolon**</a> _n._ ([olto](#olto)+[lon](#lon))  
 item; element; number; in order; -th
@@ -1121,7 +1121,7 @@ position; index; number
 ordinal
 
 - <a name="oltoki">**oltoki**</a> _v._ ([olto](#olto)+[ki](#ki))  
-move down; position; sort; arrange; order; ʟєꜱ moves ʟᴏᴧ down the sequence ʟᴜᴍ
+move down; position; sort; arrange; order; [ʟєꜱ](#oltokiles) moves ʟᴏᴧ down the sequence [ʟᴜᴍ](#oltokilum)
 
 - <a name="oltokiles">**oltokiles**</a> _n._ ([oltoki](#oltoki)+[les](#les))  
 sorter
@@ -1148,7 +1148,7 @@ Macau; Macao
 on; to; _marks patient or experiencer_
 
 - <a name="ona">**ona**</a> _v._ (Yor.  ⟨ọ̀na⟩ \[ɔ̀na\])  
-stand structurally; ʟᴏᴧ stands structurally on ʟᴜᴍ
+stand structurally; [ʟᴏᴧ](#onalon) stands structurally on [ʟᴜᴍ](#onalum)
 
 - <a name="onalon">**onalon**</a> _n._ ([ona](#ona)+[lon](#lon))  
 structure; building
@@ -1157,13 +1157,13 @@ structure; building
 foundation; site
 
 - <a name="onanu">**onanu**</a> _v._ ([ona](#ona)+[nu](#nu))  
-deconstruct; disassemble; demolish; take apart; ʟєꜱ deconstructs ʟᴏᴧ
+deconstruct; disassemble; demolish; take apart; [ʟєꜱ](#onanules) deconstructs ʟᴏᴧ
 
 - <a name="onanules">**onanules**</a> _n._ ([onanu](#onanu)+[les](#les))  
 deconstructor
 
 - <a name="onaki">**onaki**</a> _v._ ([ona](#ona)+[ki](#ki))  
-construct; build; assemble; erect; ʟєꜱ constructs ʟᴏᴧ
+construct; build; assemble; erect; [ʟєꜱ](#onakiles) constructs ʟᴏᴧ
 
 - <a name="onakiles">**onakiles**</a> _n._ ([onaki](#onaki)+[les](#les))  
 constructor; builder
@@ -1184,7 +1184,7 @@ Honduran; Catracho; the Honduran people
 amen
 
 - <a name="oso">**oso**</a> _v._ (Ibo.  ⟨ọzọ⟩ \[ɒzɒ\])  
-be more; exceed; be positive; be greater; be enough; be too much; ʟᴏᴧ is numerically greater than ʟᴜᴍ
+be more; exceed; be positive; be greater; be enough; be too much; [ʟᴏᴧ](#osolon) is numerically greater than [ʟᴜᴍ](#osolum)
 
 - <a name="osolon">**osolon**</a> _n._ ([oso](#oso)+[lon](#lon))  
 more; positive; greater; enough; too much
@@ -1199,22 +1199,22 @@ numerical value; positiveness
 numerical; cardinal
 
 - <a name="osoki">**osoki**</a> _v._ ([oso](#oso)+[ki](#ki))  
-increase; multiply; spread; ʟєꜱ makes ʟᴏᴧ increase relative to ʟᴜᴍ
+increase; multiply; spread; [ʟєꜱ](#osokiles) makes ʟᴏᴧ increase relative to ʟᴜᴍ
 
 - <a name="osokiles">**osokiles**</a> _n._ ([osoki](#osoki)+[les](#les))  
 increaser
 
 - <a name="osimi">**osimi**</a> _v._ (Ben.  ⟨অসীম⟩ \[os̪im\])  
-be infinite; ʟᴏᴧ is infinitely so
+be infinite; [ʟᴏᴧ](#osimilon) is infinitely so
 
 - <a name="osimilon">**osimilon**</a> _n._ ([osimi](#osimi)+[lon](#lon))  
 infinity; infinite
 
 - <a name="osiminyo">**osiminyo**</a> _v._ ([osimi](#osimi)+[nyo](#nyo))  
-be finite; ʟᴏᴧ is not infinitely so
+be finite; [ʟᴏᴧ](#osiminyolon) is not infinitely so
 
 - <a name="osiminyouhu">**osiminyouhu**</a> _v._ ([osiminyo](#osiminyo)+[uhu](#uhu))  
-be comatose; ʟᴏᴧ is in a coma
+be comatose; [ʟᴏᴧ](#osiminyouhulon) is in a coma
 
 - <a name="osiminyouhulon">**osiminyouhulon**</a> _n._ ([osiminyouhu](#osiminyouhu)+[lon](#lon))  
 comatose
@@ -1223,13 +1223,13 @@ comatose
 finite
 
 - <a name="osimimota">**osimimota**</a> _v._ ([osimi](#osimi)+[mota](#mota))  
-be infinitely large; ʟᴏᴧ is infinitely large
+be infinitely large; [ʟᴏᴧ](#osimimotalon) is infinitely large
 
 - <a name="osimimotalon">**osimimotalon**</a> _n._ ([osimimota](#osimimota)+[lon](#lon))  
 infinitely large
 
 - <a name="osimipela">**osimipela**</a> _v._ ([osimi](#osimi)+[pela](#pela))  
-be infinitessimal; ʟᴏᴧ is infinitessimally small
+be infinitessimal; [ʟᴏᴧ](#osimipelalon) is infinitessimally small
 
 - <a name="osimipelalon">**osimipelalon**</a> _n._ ([osimipela](#osimipela)+[lon](#lon))  
 infinitessimal
@@ -1271,19 +1271,19 @@ Uzbekistan
 Uzbek; the Uzbek language
 
 - <a name="ofla">**ofla**</a> _v._ ([~~esta~~](#esta))  
-be opposite; be contrary; ʟᴏᴧ is the opposite of ʟᴜᴍ
+be opposite; be contrary; [ʟᴏᴧ](#oflalon) is the opposite of ʟᴜᴍ
 
 - <a name="oflalon">**oflalon**</a> _n._ ([ofla](#ofla)+[lon](#lon))  
 opposite; contrary
 
 - <a name="oflati">**oflati**</a> _v._ ([ofla](#ofla)+[ti](#ti))  
-be sarcastic; ʟєꜱ conveys ʟᴜᴍ sarcastically to ʟᴏᴧ
+be sarcastic; ʟєꜱ conveys ʟᴜᴍ sarcastically to [ʟᴏᴧ](#oflatilon)
 
 - <a name="oflatilon">**oflatilon**</a> _n._ ([oflati](#oflati)+[lon](#lon))  
 sarcastic
 
 - <a name="oflo">**oflo**</a> _v._ ([~~este~~](#este))  
-be west; ʟᴏᴧ has a lower longitude than ʟᴜᴍ
+be west; [ʟᴏᴧ](#oflolon) has a lower longitude than ʟᴜᴍ
 
 - <a name="oflolon">**oflolon**</a> _n._ ([oflo](#oflo)+[lon](#lon))  
 the West; west
@@ -1295,7 +1295,7 @@ go west; ʟєꜱ decreases the longitude of ʟᴏᴧ relative to ʟᴜᴍ
 each; every; _describes every instance of the following noun phrase individually_
 
 - <a name="oke">**oke**</a> _v._ (Eng.  ⟨okay⟩ \[ˌoʊ̯ˈkʰeɪ̯\])  
-be okay; be fine; be all right; be acceptable; ʟᴏᴧ is okay
+be okay; be fine; be all right; be acceptable; [ʟᴏᴧ](#okelon) is okay
 
 - <a name="okelon">**okelon**</a> _n._ ([oke](#oke)+[lon](#lon))  
 okay; fine; all right; acceptable
@@ -1310,7 +1310,7 @@ make okay; make acceptable; ʟєꜱ makes ʟᴏᴧ okay
 excuse; pardon; accept; tolerate; ʟєꜱ excuses ʟᴏᴧ
 
 - <a name="oku">**oku**</a> _v._ (Ibo.  ⟨ọkụ⟩ \[ɒkʊ\])  
-be hot; be warm; ʟᴏᴧ is hotter than ʟᴜᴍ
+be hot; be warm; [ʟᴏᴧ](#okulon) is hotter than [ʟᴜᴍ](#okulum)
 
 - <a name="okul">**okul**</a> _n._ (Ibo.  ⟨ọ́kụ̀rụ̀⟩ \[ɒ́kʊ̀ɹʊ̀\])  
 okra; ochro; ladies' fingers; Abelmoschus esculentus
@@ -1319,7 +1319,7 @@ okra; ochro; ladies' fingers; Abelmoschus esculentus
 hot; warm
 
 - <a name="okulono">**okulono**</a> _v._ ([oku](#oku)+[lono](#lono))  
-be warm-coloured; ʟᴏᴧ is red, orange, yellow, or white
+be warm-coloured; [ʟᴏᴧ](#okulonolon) is red, orange, yellow, or white
 
 - <a name="okulonolon">**okulonolon**</a> _n._ ([okulono](#okulono)+[lon](#lon))  
 warm-coloured
@@ -1334,7 +1334,7 @@ temperature
 thermometer
 
 - <a name="okumihutatuniluhilasoma">**okumihutatuniluhilasoma**</a> _v._ ([oku](#oku)+[mihutatu](#mihutatu)+[nilu](#nilu)+[hila](#hila)+[soma](#soma))  
-do thermomagnetohydrodynamics; ʟєꜱ studies the heat transfer of conductive fluids in magnetic fields to learn about ʟᴏᴧ
+do thermomagnetohydrodynamics; [ʟєꜱ](#okumihutatuniluhilasomales) studies the heat transfer of conductive fluids in magnetic fields to learn about [ʟᴏᴧ](#okumihutatuniluhilasomalon)
 
 - <a name="okumihutatuniluhilasomalon">**okumihutatuniluhilasomalon**</a> _n._ ([okumihutatuniluhilasoma](#okumihutatuniluhilasoma)+[lon](#lon))  
 thermomagnetohydrodynamics
@@ -1352,7 +1352,7 @@ sweat; perspire; ʟєꜱ sweats out ʟᴏᴧ
 summer
 
 - <a name="okuki">**okuki**</a> _v._ ([oku](#oku)+[ki](#ki))  
-heat; warm; ʟєꜱ makes ʟᴏᴧ heat up relative to ʟᴜᴍ
+heat; warm; [ʟєꜱ](#okukiles) makes ʟᴏᴧ heat up relative to ʟᴜᴍ
 
 - <a name="okukiles">**okukiles**</a> _n._ ([okuki](#okuki)+[les](#les))  
 heater
@@ -1364,7 +1364,7 @@ volcano
 oat; Avena
 
 - <a name="oti">**oti**</a> _v._ ([~~elu~~](#elu))  
-be gentle; be flat; be shallow; be gradual; ʟᴏᴧ is not very steep
+be gentle; be flat; be shallow; be gradual; [ʟᴏᴧ](#otilon) is not very steep
 
 - <a name="otilon">**otilon**</a> _n._ ([oti](#oti)+[lon](#lon))  
 gentle; flat; shallow; gradual
@@ -1373,7 +1373,7 @@ gentle; flat; shallow; gradual
 flatten; right; ʟєꜱ makes ʟᴏᴧ less steep
 
 - <a name="ope">**ope**</a> _v._ (Eng.  ⟨obey⟩ \[oʊ̯ˈbeɪ̯\])  
-obey; command; follow; lead; ʟєꜱ does ʟᴏᴧ because ʟᴜᴍ said to do it
+obey; command; follow; lead; [ʟєꜱ](#opeles) does [ʟᴏᴧ](#opelon) because [ʟᴜᴍ](#opelum) said to do it
 
 - <a name="opeles">**opeles**</a> _n._ ([ope](#ope)+[les](#les))  
 obedient; follower
@@ -1385,7 +1385,7 @@ order; command
 leader; commander; manager; authority
 
 - <a name="opaka">**opaka**</a> _v._ (Epo.  ⟨opaka⟩ \[oˈpaka\])  
-be opaque; ʟᴏᴧ absorbs light that it does not reflect
+be opaque; [ʟᴏᴧ](#opakalon) absorbs light that it does not reflect
 
 - <a name="opakalon">**opakalon**</a> _n._ ([opaka](#opaka)+[lon](#lon))  
 opaque
@@ -1408,7 +1408,7 @@ i; /i/; close front unrounded vowel
 because; since; _marks cause_
 
 - <a name="iawo">**iawo**</a> _v._ (Yor.  ⟨ìyàwó⟩ \[ìjáwó\])  
-be married; ʟᴏᴧ is married to ʟᴜᴍ
+be married; [ʟᴏᴧ](#iawolon) is married to [ʟᴜᴍ](#iawolum)
 
 - <a name="iawolon">**iawolon**</a> _n._ ([iawo](#iawo)+[lon](#lon))  
 married
@@ -1450,7 +1450,7 @@ Iraqi; from Iraq
 Iraqi; the Iraqi people
 
 - <a name="ilu">**ilu**</a> _v._ (Ibo.  ⟨iru⟩ \[iɾu\])  
-face; point; confront; ʟᴏᴧ is oriented in the direction toward ʟᴜᴍ
+face; point; confront; [ʟᴏᴧ](#ilulon) is oriented in the direction toward [ʟᴜᴍ](#ilulum)
 
 - <a name="ilulon">**ilulon**</a> _n._ ([ilu](#ilu)+[lon](#lon))  
 direction
@@ -1462,7 +1462,7 @@ target; front
 turn away; avert; ʟєꜱ makes ʟᴏᴧ turn away from ʟᴜᴍ
 
 - <a name="iluki">**iluki**</a> _v._ ([ilu](#ilu)+[ki](#ki))  
-turn; face; rotate; point; ʟєꜱ makes ʟᴏᴧ turn toward ʟᴜᴍ
+turn; face; rotate; point; [ʟєꜱ](#ilukiles) makes ʟᴏᴧ turn toward ʟᴜᴍ
 
 - <a name="ilukiles">**ilukiles**</a> _n._ ([iluki](#iluki)+[les](#les))  
 pointer; guide
@@ -1471,10 +1471,10 @@ pointer; guide
 mask; glasses
 
 - <a name="ina">**ina**</a> _v._ (Yor.  ⟨iná⟩ \[ĩ̄á\])  
-be charged; be electrified; ʟᴏᴧ has electric energy stored
+be charged; be electrified; [ʟᴏᴧ](#inalon) has electric energy stored
 
 - <a name="inaisi">**inaisi**</a> _v._ ([ina](#ina)+[isi](#isi))  
-conduct; be conductive; ʟᴏᴧ conducts electricity
+conduct; be conductive; [ʟᴏᴧ](#inaisilon) conducts electricity
 
 - <a name="inaisilon">**inaisilon**</a> _n._ ([inaisi](#inaisi)+[lon](#lon))  
 conductor; conductive
@@ -1483,7 +1483,7 @@ conductor; conductive
 conductivity
 
 - <a name="inaufu">**inaufu**</a> _v._ ([ina](#ina)+[ufu](#ufu))  
-insulate; resist; be resistive; ʟᴏᴧ resists electrical current
+insulate; resist; be resistive; [ʟᴏᴧ](#inaufulon) resists electrical current
 
 - <a name="inaufulon">**inaufulon**</a> _n._ ([inaufu](#inaufu)+[lon](#lon))  
 insulator; resistor; resistive
@@ -1498,7 +1498,7 @@ battery; charged; electrified
 electric potential; voltage; electricity
 
 - <a name="inanu">**inanu**</a> _v._ ([ina](#ina)+[nu](#nu))  
-discharge; shock; electrify; power; ʟєꜱ releases the electric energy of ʟᴏᴧ onto ʟᴜᴍ
+discharge; shock; electrify; power; ʟєꜱ releases the electric energy of ʟᴏᴧ onto [ʟᴜᴍ](#inanulum)
 
 - <a name="inanulip">**inanulip**</a> _n._ ([inanu](#inanu)+[lip](#lip))  
 conduit; wire; circuit; component
@@ -1510,7 +1510,7 @@ machine; electric circuit
 vape; e-smoke; ʟєꜱ vapes ʟᴏᴧ
 
 - <a name="inaki">**inaki**</a> _v._ ([ina](#ina)+[ki](#ki))  
-charge; electrify; ʟєꜱ imbues ʟᴏᴧ with electric energy
+charge; electrify; [ʟєꜱ](#inakiles) imbues ʟᴏᴧ with electric energy
 
 - <a name="inakiles">**inakiles**</a> _n._ ([inaki](#inaki)+[les](#les))  
 charger
@@ -1519,7 +1519,7 @@ charger
 thunderstorm
 
 - <a name="inapowi">**inapowi**</a> _v._ ([ina](#ina)+[powi](#powi))  
-be capacitive; ʟᴏᴧ is a capacitor
+be capacitive; [ʟᴏᴧ](#inapowilon) is a capacitor
 
 - <a name="inapowilon">**inapowilon**</a> _n._ ([inapowi](#inapowi)+[lon](#lon))  
 capacitor; capacitive
@@ -1528,7 +1528,7 @@ capacitor; capacitive
 capacitance
 
 - <a name="inco">**inco**</a> _v._ (Cmn.  ⟨应受⟩ \[iŋ˥ʂoʊ̯˥˩\])  
-deserve; be entitled; ʟᴏᴧ deserves ʟᴜᴍ
+deserve; be entitled; [ʟᴏᴧ](#incolon) deserves [ʟᴜᴍ](#incolum)
 
 - <a name="incolon">**incolon**</a> _n._ ([inco](#inco)+[lon](#lon))  
 worthy; deserving; entitled
@@ -1594,7 +1594,7 @@ Indonesia; the Republic of Indonesia
 Indonesian; the Indonesian language
 
 - <a name="ime">**ime**</a> _v._ (Ibo.  ⟨ime⟩ \[ime\])  
-be pregnant; be pregant; be gregnant; be pegnate; be pregegnant; be prregnant; be pergert; be pergenat; be peegnant; be pgrenant; be pregananant; ʟᴏᴧ is pregnant
+be pregnant; be pregant; be gregnant; be pegnate; be pregegnant; be prregnant; be pergert; be pergenat; be peegnant; be pgrenant; be pregananant; [ʟᴏᴧ](#imelon) is pregnant
 
 - <a name="imeec">**imeec**</a> _n._ ([ime](#ime)+[ec](#ec))  
 uterus
@@ -1606,13 +1606,13 @@ email
 pregnant; pregant; gregnant; pegnate; pregegnant; prregnant; pergert; pergenat; peegnant; pgrenant; pregananant
 
 - <a name="imenu">**imenu**</a> _v._ ([ime](#ime)+[nu](#nu))  
-abort; get abortion; ʟєꜱ gives ʟᴏᴧ an abortion
+abort; get abortion; [ʟєꜱ](#imenules) gives ʟᴏᴧ an abortion
 
 - <a name="imenules">**imenules**</a> _n._ ([imenu](#imenu)+[les](#les))  
 aborter
 
 - <a name="imeki">**imeki**</a> _v._ ([ime](#ime)+[ki](#ki))  
-impregnate; inseminate; get pregnant; ʟєꜱ impregnates ʟᴏᴧ
+impregnate; inseminate; get pregnant; [ʟєꜱ](#imekiles) impregnates ʟᴏᴧ
 
 - <a name="imekiles">**imekiles**</a> _n._ ([imeki](#imeki)+[les](#les))  
 impregnator
@@ -1621,7 +1621,7 @@ impregnator
 radix
 
 - <a name="imo">**imo**</a> _v._ ([~~upe~~](#upe))  
-lie; be prone; ʟᴏᴧ is prone
+lie; be prone; [ʟᴏᴧ](#imolon) is prone
 
 - <a name="imolon">**imolon**</a> _n._ ([imo](#imo)+[lon](#lon))  
 lying down; prone
@@ -1630,7 +1630,7 @@ lying down; prone
 lie down; knock over; ʟєꜱ lays down ʟᴏᴧ
 
 - <a name="ihoha">**ihoha**</a> _v._ ([~~uceca~~](#uceca))  
-be normal; be ordinary; be usual; be commonplace; blend in; be average; ʟᴏᴧ is expectable from its surroundings
+be normal; be ordinary; be usual; be commonplace; blend in; be average; [ʟᴏᴧ](#ihohalon) is expectable from its surroundings
 
 - <a name="ihohalon">**ihohalon**</a> _n._ ([ihoha](#ihoha)+[lon](#lon))  
 layperson; civilian; normal; ordinary; usual; commonplace; average
@@ -1642,7 +1642,7 @@ conform; normalise; ʟєꜱ makes ʟᴏᴧ become normal
 fly; housefly; gnat; midge; Muscidae
 
 - <a name="ice">**ice**</a> _v._ (Yor.  ⟨iṣẹ́⟩ \[īʃɛ́\])  
-work; work hard; be productive; be driven; ʟᴏᴧ is working hard on ʟᴜᴍ
+work; work hard; be productive; be driven; [ʟᴏᴧ](#icelon) is working hard on [ʟᴜᴍ](#icelum)
 
 - <a name="icelon">**icelon**</a> _n._ ([ice](#ice)+[lon](#lon))  
 worker; productive; driven
@@ -1657,7 +1657,7 @@ productivity; efficiency; work
 workplace; workstation; office
 
 - <a name="icemai">**icemai**</a> _v._ ([ice](#ice)+[mai](#mai))  
-employ; contract; work for; ʟᴏᴧ works on ʟᴜᴍ for ʟєꜱ in exchange for money
+employ; contract; work for; [ʟᴏᴧ](#icemailon) works on [ʟᴜᴍ](#icemailum) for [ʟєꜱ](#icemailes) in exchange for money
 
 - <a name="icemailes">**icemailes**</a> _n._ ([icemai](#icemai)+[les](#les))  
 employer; boss
@@ -1675,7 +1675,7 @@ employment; career
 put to work; make productive; employ; ʟєꜱ makes ʟᴏᴧ start working on ʟᴜᴍ
 
 - <a name="ici">**ici**</a> _v._ (Swa.  ⟨-ishi⟩ \[iʃi\])  
-live; be alive; be lively; survive; reside; ʟᴏᴧ is alive
+live; be alive; be lively; survive; reside; [ʟᴏᴧ](#icilon) is alive
 
 - <a name="icilet">**icilet**</a> _n._ ([ici](#ici)+[let](#let))  
 ecosystem; environment
@@ -1690,7 +1690,7 @@ residence
 life
 
 - <a name="icicalu">**icicalu**</a> _v._ ([ici](#ici)+[calu](#calu))  
-save; rescue; sustain; ʟєꜱ keeps ʟᴏᴧ from dying
+save; rescue; sustain; [ʟєꜱ](#icicalules) keeps ʟᴏᴧ from dying
 
 - <a name="icicalules">**icicalules**</a> _n._ ([icicalu](#icicalu)+[les](#les))  
 saver; life support
@@ -1705,7 +1705,7 @@ water; dihydrogen monoxide
 well
 
 - <a name="icisoma">**icisoma**</a> _v._ ([ici](#ici)+[soma](#soma))  
-do biology; ʟєꜱ studies lifeforms to learn about ʟᴏᴧ
+do biology; [ʟєꜱ](#icisomales) studies lifeforms to learn about [ʟᴏᴧ](#icisomalon)
 
 - <a name="icisomales">**icisomales**</a> _n._ ([icisoma](#icisoma)+[les](#les))  
 biologist
@@ -1723,7 +1723,7 @@ heartbeat; have pulse; ʟᴏᴧ has a heartbeat
 heartrate
 
 - <a name="icipeta">**icipeta**</a> _v._ ([ici](#ici)+[peta](#peta))  
-be undead; ʟᴏᴧ is undead
+be undead; [ʟᴏᴧ](#icipetalon) is undead
 
 - <a name="icipetalon">**icipetalon**</a> _n._ ([icipeta](#icipeta)+[lon](#lon))  
 undead
@@ -1747,19 +1747,19 @@ Albanian; the Albanian language
 function; work; go; ʟᴏᴧ does what it is supposed to do
 
 - <a name="isepowi">**isepowi**</a> _v._ ([ise](#ise)+[powi](#powi))  
-be functional; be effective; work; ʟᴏᴧ works
+be functional; be effective; work; [ʟᴏᴧ](#isepowilon) works
 
 - <a name="isepowilon">**isepowilon**</a> _n._ ([isepowi](#isepowi)+[lon](#lon))  
 functional; effective
 
 - <a name="isepowinyo">**isepowinyo**</a> _v._ ([isepowi](#isepowi)+[nyo](#nyo))  
-be nonfunctional; be broken; be incapacitated; ʟᴏᴧ does not work
+be nonfunctional; be broken; be incapacitated; [ʟᴏᴧ](#isepowinyolon) does not work
 
 - <a name="isepowinyolon">**isepowinyolon**</a> _n._ ([isepowinyo](#isepowinyo)+[lon](#lon))  
 nonfunctional; broken; incapacitated
 
 - <a name="isa">**isa**</a> _v._ ([~~ufa~~](#ufa))  
-be chunky; be coarse; be granulated; be piled; be in bits; ʟᴏᴧ is a loose aggregation of fragments of ʟᴜᴍ
+be chunky; be coarse; be granulated; be piled; be in bits; [ʟᴏᴧ](#isalon) is a loose aggregation of fragments of ʟᴜᴍ
 
 - <a name="isalon">**isalon**</a> _n._ ([isa](#isa)+[lon](#lon))  
 chunky; coarse; granulated; piled; in bits
@@ -1768,13 +1768,13 @@ chunky; coarse; granulated; piled; in bits
 cereal; breakfast cereal
 
 - <a name="isaki">**isaki**</a> _v._ ([isa](#isa)+[ki](#ki))  
-chunk; grind; pile; ʟєꜱ turns ʟᴏᴧ into a pile of chunky bits
+chunk; grind; pile; [ʟєꜱ](#isakiles) turns ʟᴏᴧ into a pile of chunky bits
 
 - <a name="isakiles">**isakiles**</a> _n._ ([isaki](#isaki)+[les](#les))  
 chunker
 
 - <a name="isi">**isi**</a> _v._ (Eng.  ⟨easy⟩ \[ˈiːzi\])  
-be easy; be convenient; ʟᴜᴍ is easy to ʟᴏᴧ
+be easy; be convenient; [ʟᴜᴍ](#isilum) is easy to ʟᴏᴧ
 
 - <a name="isilum">**isilum**</a> _n._ ([isi](#isi)+[lum](#lum))  
 easy; convenient
@@ -1819,13 +1819,13 @@ but; and even
 despite; though
 
 - <a name="ikci">**ikci**</a> _v._ ([~~unhu~~](#unhu))  
-be evil; be immoral; be wrong; be bad; if ʟᴏᴧ happens, it will be morally bad
+be evil; be immoral; be wrong; be bad; if [ʟᴏᴧ](#ikcilon) happens, it will be morally bad
 
 - <a name="ikcilon">**ikcilon**</a> _n._ ([ikci](#ikci)+[lon](#lon))  
 evil; sin; immoral; wrong; bad
 
 - <a name="ikcinati">**ikcinati**</a> _v._ ([ikci](#ikci)+[nati](#nati))  
-tempt; entice to something appealing but immoral; ʟєꜱ encourages ʟᴜᴍ to do ʟᴏᴧ
+tempt; entice to something appealing but immoral; [ʟєꜱ](#ikcinatiles) encourages [ʟᴜᴍ](#ikcinatilum) to do [ʟᴏᴧ](#ikcinatilon)
 
 - <a name="ikcinatiles">**ikcinatiles**</a> _n._ ([ikcinati](#ikcinati)+[les](#les))  
 tempter; temptress
@@ -1849,7 +1849,7 @@ Igbo; in Igbo
 Igbo; the Igbo language
 
 - <a name="itea">**itea**</a> _v._ (Spa.  ⟨idea⟩ \[iˈðea\])  
-think of; come up with; invent; have an idea; ʟєꜱ thinks of ʟᴏᴧ
+think of; come up with; invent; have an idea; [ʟєꜱ](#iteales) thinks of [ʟᴏᴧ](#itealon)
 
 - <a name="iteales">**iteales**</a> _n._ ([itea](#itea)+[les](#les))  
 creative; clever; idea person
@@ -1882,7 +1882,7 @@ Ido; Idist; Ida
 Idist; Ido speakers
 
 - <a name="iti">**iti**</a> _v._ (Yor.  ⟨ìdí⟩ \[ìdí\])  
-deduce; compute; reason; be reasonable; be logical; figure; figure out; think through; ʟєꜱ logically deduces ʟᴏᴧ
+deduce; compute; reason; be reasonable; be logical; figure; figure out; think through; [ʟєꜱ](#itiles) logically deduces [ʟᴏᴧ](#itilon)
 
 - <a name="itiles">**itiles**</a> _n._ ([iti](#iti)+[les](#les))  
 reasonable
@@ -1903,7 +1903,7 @@ Ethiopian; the Ethiopian people
 by; as; via; _marks method or manner_
 
 - <a name="ipa">**ipa**</a> _v._ (Yor.  ⟨ìbá⟩ \[ìbá\])  
-should; be fit; be good; be proper; be correct; ʟᴏᴧ should happen to make ʟᴜᴍ happen
+should; be fit; be good; be proper; be correct; [ʟᴏᴧ](#ipalon) should happen to make [ʟᴜᴍ](#ipalum) happen
 
 - <a name="ipalon">**ipalon**</a> _n._ ([ipa](#ipa)+[lon](#lon))  
 fit; good; proper; correct
@@ -1912,7 +1912,7 @@ fit; good; proper; correct
 value function; goal
 
 - <a name="ipati">**ipati**</a> _v._ ([ipa](#ipa)+[ti](#ti))  
-suggest; advise; recommend; ʟєꜱ suggests that ʟᴜᴍ do ʟᴏᴧ
+suggest; advise; recommend; [ʟєꜱ](#ipatiles) suggests that [ʟᴜᴍ](#ipatilum) do [ʟᴏᴧ](#ipatilon)
 
 - <a name="ipatiles">**ipatiles**</a> _n._ ([ipati](#ipati)+[les](#les))  
 advisor; recommender
@@ -1941,7 +1941,7 @@ feather; plumage; rigid organic extension of a bird or dinosaur lined with hairs
 plumal; feathery; feathered
 
 - <a name="ulu">**ulu**</a> _v._ ([~~iti~~](#iti))  
-act crazy; be unreasonable; be illogical; jump to conclusion; guess; ʟєꜱ comes to the conclusion ʟᴏᴧ without any logic
+act crazy; be unreasonable; be illogical; jump to conclusion; guess; [ʟєꜱ](#ulules) comes to the conclusion [ʟᴏᴧ](#ululon) without any logic
 
 - <a name="ulules">**ulules**</a> _n._ ([ulu](#ulu)+[les](#les))  
 unreasonable; crazy
@@ -1983,7 +1983,7 @@ Jordanian; the Jordanian people
 Jordan; the Hashemite Kingdom of Jordan
 
 - <a name="unhu">**unhu**</a> _v._ (Sho.  ⟨unhu⟩ \[unhu\])  
-be moral; be right; be virtuous; be good; if ʟᴏᴧ happens, it will be morally good
+be moral; be right; be virtuous; be good; if [ʟᴏᴧ](#unhulon) happens, it will be morally good
 
 - <a name="unhulon">**unhulon**</a> _n._ ([unhu](#unhu)+[lon](#lon))  
 good deed; moral; right; virtuous; good
@@ -1998,7 +1998,7 @@ rectify; turn good; ʟєꜱ makes ʟᴏᴧ become moral
 to; by; _marks theme, stimulus, or recipient_
 
 - <a name="uma">**uma**</a> _v._ ([~~ipa~~](#ipa))  
-should not; be bad; be unwise; be incorrect; ʟᴏᴧ should not happen to make ʟᴜᴍ happen
+should not; be bad; be unwise; be incorrect; [ʟᴏᴧ](#umalon) should not happen to make ʟᴜᴍ happen
 
 - <a name="umalon">**umalon**</a> _n._ ([uma](#uma)+[lon](#lon))  
 problem; bad; unwise; incorrect
@@ -2013,7 +2013,7 @@ Omani; from Oman
 Omani; the Omani people
 
 - <a name="uho">**uho**</a> _v._ ([~~ice~~](#ice))  
-be unproductive; be lazy; ʟᴏᴧ is working little on ʟᴜᴍ
+be unproductive; be lazy; [ʟᴏᴧ](#uholon) is working little on [ʟᴜᴍ](#uholum)
 
 - <a name="uholon">**uholon**</a> _n._ ([uho](#uho)+[lon](#lon))  
 unproductive; lazy
@@ -2025,7 +2025,7 @@ neglected
 retire; give up; make unproductive; fire; ʟєꜱ makes ʟᴏᴧ become unproductive at ʟᴜᴍ
 
 - <a name="uhu">**uhu**</a> _v._ ([~~ici~~](#ici))  
-be dead; ʟᴏᴧ is dead
+be dead; [ʟᴏᴧ](#uhulon) is dead
 
 - <a name="uhulon">**uhulon**</a> _n._ ([uhu](#uhu)+[lon](#lon))  
 corpse; dead thing; dead
@@ -2034,7 +2034,7 @@ corpse; dead thing; dead
 death
 
 - <a name="uhuki">**uhuki**</a> _v._ ([uhu](#uhu)+[ki](#ki))  
-kill; murder; die; pass away; ʟєꜱ kills ʟᴏᴧ
+kill; murder; die; pass away; [ʟєꜱ](#uhukiles) kills ʟᴏᴧ
 
 - <a name="uhukiles">**uhukiles**</a> _n._ ([uhuki](#uhuki)+[les](#les))  
 killer; murderer
@@ -2043,7 +2043,7 @@ killer; murderer
 butchery
 
 - <a name="uceca">**uceca**</a> _v._ (Pan.  ⟨ਉਚੇਚਾ⟩ \[ʊt͡ʃet͡ʃɑ\])  
-be special; be unique; be weird; be rare; stand out; be especial; ʟᴏᴧ is distinguished from those around it
+be special; be unique; be weird; be rare; stand out; be especial; [ʟᴏᴧ](#ucecalon) is distinguished from those around it
 
 - <a name="ucecalon">**ucecalon**</a> _n._ ([uceca](#uceca)+[lon](#lon))  
 specialist; personnel; outlier; special; unique; weird; rare; especial
@@ -2052,13 +2052,13 @@ specialist; personnel; outlier; special; unique; weird; rare; especial
 specialise; customise; ʟєꜱ makes ʟᴏᴧ specially
 
 - <a name="ufa">**ufa**</a> _v._ (Nya.  ⟨ufa⟩ \[ufa\])  
-be powder; be fine; be dust; ʟᴏᴧ is a powder
+be powder; be fine; be dust; [ʟᴏᴧ](#ufalon) is a powder
 
 - <a name="ufalon">**ufalon**</a> _n._ ([ufa](#ufa)+[lon](#lon))  
 powder; fine; dust
 
 - <a name="ufalonsapu">**ufalonsapu**</a> _v._ ([ufalon](#ufalon)+[sapu](#sapu))  
-sand; ʟєꜱ sands ʟᴏᴧ
+sand; [ʟєꜱ](#ufalonsapules) sands [ʟᴏᴧ](#ufalonsapulon)
 
 - <a name="ufalonsapules">**ufalonsapules**</a> _n._ ([ufalonsapu](#ufalonsapu)+[les](#les))  
 sander
@@ -2070,13 +2070,13 @@ sanded
 flour
 
 - <a name="ufaki">**ufaki**</a> _v._ ([ufa](#ufa)+[ki](#ki))  
-pulverise; powder; ʟєꜱ turns ʟᴏᴧ into a powder
+pulverise; powder; [ʟєꜱ](#ufakiles) turns ʟᴏᴧ into a powder
 
 - <a name="ufakiles">**ufakiles**</a> _n._ ([ufaki](#ufaki)+[les](#les))  
 pulveriser
 
 - <a name="ufataka">**ufataka**</a> _v._ ([ufa](#ufa)+[taka](#taka))  
-be dusty; ʟᴜᴍ is covered in ʟᴏᴧ dust
+be dusty; ʟᴜᴍ is covered in [ʟᴏᴧ](#ufatakalon) dust
 
 - <a name="ufatakalon">**ufatakalon**</a> _n._ ([ufataka](#ufataka)+[lon](#lon))  
 dusty
@@ -2094,7 +2094,7 @@ dust; ʟєꜱ covers ʟᴜᴍ in ʟᴏᴧ dust
 garlic; Allium sativum
 
 - <a name="ufu">**ufu**</a> _v._ ([~~isi~~](#isi))  
-be difficult; be hard; be inconvenient; ʟᴜᴍ is hard for ʟᴏᴧ
+be difficult; be hard; be inconvenient; [ʟᴜᴍ](#ufulum) is hard for ʟᴏᴧ
 
 - <a name="ufulum">**ufulum**</a> _n._ ([ufu](#ufu)+[lum](#lum))  
 difficult; hard; inconvenient
@@ -2130,13 +2130,13 @@ Ukrainian; the Ukrainian language
 camelid; camel; llama; alpaca; guanaco; Camelidae
 
 - <a name="uto">**uto**</a> _v._ (Ibo.  ⟨uto⟩ \[uto\])  
-can taste; taste; ʟᴏᴧ tastes ʟᴜᴍ
+can taste; taste; ʟᴏᴧ tastes [ʟᴜᴍ](#utolum)
 
 - <a name="utoec">**utoec**</a> _n._ ([uto](#uto)+[ec](#ec))  
 tongue
 
 - <a name="utoecsapu">**utoecsapu**</a> _v._ ([utoec](#utoec)+[sapu](#sapu))  
-lick; ʟєꜱ licks ʟᴏᴧ
+lick; [ʟєꜱ](#utoecsapules) licks [ʟᴏᴧ](#utoecsapulon)
 
 - <a name="utoecsapules">**utoecsapules**</a> _n._ ([utoecsapu](#utoecsapu)+[les](#les))  
 licker
@@ -2157,7 +2157,7 @@ obscure taste; ʟєꜱ makes ʟᴏᴧ stop tasting ʟᴜᴍ
 sample; show taste; ʟєꜱ makes ʟᴏᴧ start tasting ʟᴜᴍ
 
 - <a name="upe">**upe**</a> _v._ (Mar.  ⟨उभे⟩ \[ub̤e\])  
-stand; be erect; ʟᴏᴧ is standing
+stand; be erect; [ʟᴏᴧ](#upelon) is standing
 
 - <a name="up">**up**</a> _n._ (Ibo.  ⟨uba⟩ \[uba\])  
 flea; Siphonaptera
@@ -2169,7 +2169,7 @@ standing; erect
 posture
 
 - <a name="upeki">**upeki**</a> _v._ ([upe](#upe)+[ki](#ki))  
-stand up; erect; ʟєꜱ stands up ʟᴏᴧ
+stand up; erect; [ʟєꜱ](#upekiles) stands up ʟᴏᴧ
 
 - <a name="upekiles">**upekiles**</a> _n._ ([upeki](#upeki)+[les](#les))  
 stand
@@ -2228,7 +2228,7 @@ beast; wild animal; non-human animal
 wild; beastial; animalistic; visceral
 
 - <a name="yayu">**yayu**</a> _v._ ([~~wawi~~](#wawi))  
-relieve; calm; reassure; ʟᴜᴍ gives ʟᴏᴧ relieved feelings
+relieve; calm; reassure; [ʟᴜᴍ](#yayulum) gives [ʟᴏᴧ](#yayulon) relieved feelings
 
 - <a name="yayulon">**yayulon**</a> _n._ ([yayu](#yayu)+[lon](#lon))  
 soothed
@@ -2237,16 +2237,16 @@ soothed
 relief
 
 - <a name="yayuki">**yayuki**</a> _v._ ([yayu](#yayu)+[ki](#ki))  
-assuage; sooth; relieve; calm; ʟєꜱ causes ʟᴏᴧ to feel relieved by ʟᴜᴍ
+assuage; sooth; relieve; calm; [ʟєꜱ](#yayukiles) causes ʟᴏᴧ to feel relieved by ʟᴜᴍ
 
 - <a name="yayukiles">**yayukiles**</a> _n._ ([yayuki](#yayuki)+[les](#les))  
 reliever
 
 - <a name="yala">**yala**</a> _v._ (Yor.  ⟨yára⟩ \[járā\])  
-be fast; be quick; be frequent; hurry; ʟᴏᴧ progresses, oscillates, or decays quickly
+be fast; be quick; be frequent; hurry; [ʟᴏᴧ](#yalalon) progresses, oscillates, or decays quickly
 
 - <a name="yalaiti">**yalaiti**</a> _v._ ([yala](#yala)+[iti](#iti))  
-differentiate; take derivative; ʟєꜱ takes the nth derivative of ʟᴏᴧ with respect to ʟᴜᴍ
+differentiate; take derivative; [ʟєꜱ](#yalaitiles) takes the nth derivative of [ʟᴏᴧ](#yalaitilon) with respect to [ʟᴜᴍ](#yalaitilum)
 
 - <a name="yalaitiles">**yalaitiles**</a> _n._ ([yalaiti](#yalaiti)+[les](#les))  
 differentiater
@@ -2285,7 +2285,7 @@ launch coup d'etat; seize power; ʟєꜱ suddenly seizes control of ʟᴏᴧ
 coup d'etat; coup; putsch; golpe
 
 - <a name="yalati">**yalati**</a> _v._ ([yala](#yala)+[ti](#ti))  
-text; message; instant-message ʟєꜱ sends ʟᴜᴍ to ʟᴏᴧ
+text; message; instant-message [ʟєꜱ](#yalatiles) sends [ʟᴜᴍ](#yalatilum) to [ʟᴏᴧ](#yalatilon)
 
 - <a name="yalatiles">**yalatiles**</a> _n._ ([yalati](#yalati)+[les](#les))  
 sender of a text
@@ -2324,7 +2324,7 @@ Yemeni; Yemenite; the Yemeni people
 YHWH; Yahweh; Jehovah; God; Allah; Abrahamic God
 
 - <a name="yata">**yata**</a> _v._ (Hin.  ⟨याद⟩ \[jaːd\])  
-recall; remind; remember; remember to; jog memory; ʟєꜱ helps ʟᴏᴧ recall ʟᴜᴍ from memory
+recall; remind; remember; remember to; jog memory; [ʟєꜱ](#yatales) helps [ʟᴏᴧ](#yatalon) recall [ʟᴜᴍ](#yatalum) from memory
 
 - <a name="yatales">**yatales**</a> _n._ ([yata](#yata)+[les](#les))  
 mnemonic
@@ -2336,25 +2336,25 @@ recaller
 factoid; datum
 
 - <a name="yatapowi">**yatapowi**</a> _v._ ([yata](#yata)+[powi](#powi))  
-can remember; remember; know; ʟᴏᴧ has ʟᴜᴍ stored in memory
+can remember; remember; know; [ʟᴏᴧ](#yatapowilon) has ʟᴜᴍ stored in memory
 
 - <a name="yatapowilon">**yatapowilon**</a> _n._ ([yatapowi](#yatapowi)+[lon](#lon))  
 knowledgeable; smart
 
 - <a name="yatapowinu">**yatapowinu**</a> _v._ ([yatapowi](#yatapowi)+[nu](#nu))  
-forget; erase memory; ʟєꜱ makes ʟᴏᴧ forget ʟᴜᴍ
+forget; erase memory; [ʟєꜱ](#yatapowinules) makes ʟᴏᴧ forget ʟᴜᴍ
 
 - <a name="yatapowinules">**yatapowinules**</a> _n._ ([yatapowinu](#yatapowinu)+[les](#les))  
 mind-eraser
 
 - <a name="yatapowiki">**yatapowiki**</a> _v._ ([yatapowi](#yatapowi)+[ki](#ki))  
-memorize; drill; remind; ʟєꜱ makes ʟᴏᴧ memorize ʟᴜᴍ
+memorize; drill; remind; [ʟєꜱ](#yatapowikiles) makes ʟᴏᴧ memorize ʟᴜᴍ
 
 - <a name="yatapowikiles">**yatapowikiles**</a> _n._ ([yatapowiki](#yatapowiki)+[les](#les))  
 driller; crammer; memorizer
 
 - <a name="yato">**yato**</a> _v._ (Yor.  ⟨yàtọ̀⟩ \[jàtɔ̀\])  
-differ; be different; be distinct; ʟᴏᴧ is different from ʟᴜᴍ
+differ; be different; be distinct; [ʟᴏᴧ](#yatolon) is different from ʟᴜᴍ
 
 - <a name="yatolon">**yatolon**</a> _n._ ([yato](#yato)+[lon](#lon))  
 different; distinct
@@ -2381,7 +2381,7 @@ Yoruba; of the Yoruba
 Yoruba; the Yoruba language
 
 - <a name="yohau">**yohau**</a> _v._ (Cmn.  ⟨友好⟩ \[joʊ̯˧˩˧xɑʊ̯˧˩˧\])  
-be friendly; be nice; be kind; ʟᴏᴧ considers ʟᴜᴍ a friend
+be friendly; be nice; be kind; [ʟᴏᴧ](#yohaulon) considers [ʟᴜᴍ](#yohaulum) a friend
 
 - <a name="yohaulon">**yohaulon**</a> _n._ ([yohau](#yohau)+[lon](#lon))  
 friendly; nice; kind
@@ -2393,7 +2393,7 @@ friend
 friendliness; amity
 
 - <a name="yohauki">**yohauki**</a> _v._ ([yohau](#yohau)+[ki](#ki))  
-befriend; introduce; soften; ʟєꜱ makes ʟᴏᴧ become friends with ʟᴜᴍ
+befriend; introduce; soften; [ʟєꜱ](#yohaukiles) makes ʟᴏᴧ become friends with ʟᴜᴍ
 
 - <a name="yohaukiles">**yohaukiles**</a> _n._ ([yohauki](#yohauki)+[les](#les))  
 friend-arranger
@@ -2428,7 +2428,7 @@ Unicode
 which; that; _relative_
 
 - <a name="le">**le**</a> _v._ (Cmn.  ⟨累⟩ \[leɪ̯˥˩\])  
-be fatigued; be tired; ʟᴏᴧ is fatigued
+be fatigued; be tired; [ʟᴏᴧ](#lelon) is fatigued
 
 - <a name="lealac">**lealac**</a> _n._ (Epo.  ⟨realaĵo⟩ \[reaˈlaʒo\])  
 reality; universe; dimension; collection of all canonical existing things
@@ -2437,7 +2437,7 @@ reality; universe; dimension; collection of all canonical existing things
 real; realistic; possible
 
 - <a name="lealacsoma">**lealacsoma**</a> _v._ ([lealac](#lealac)+[soma](#soma))  
-do philosophy; ʟєꜱ uses reasoning and deduction to ponder ʟᴏᴧ
+do philosophy; [ʟєꜱ](#lealacsomales) uses reasoning and deduction to ponder [ʟᴏᴧ](#lealacsomalon)
 
 - <a name="lealacsomales">**lealacsomales**</a> _n._ ([lealacsoma](#lealacsoma)+[les](#les))  
 philosopher
@@ -2467,7 +2467,7 @@ prosper; fare; be-well; be-good; ʟᴏᴧ is doing well
 fatigued; tired
 
 - <a name="lene">**lene**</a> _v._ ([~~toko~~](#toko))  
-be unsour; ʟᴏᴧ is not very sour
+be unsour; [ʟᴏᴧ](#lenelon) is not very sour
 
 - <a name="lenelon">**lenelon**</a> _n._ ([lene](#lene)+[lon](#lon))  
 unsour
@@ -2476,7 +2476,7 @@ unsour
 desour; ʟєꜱ makes ʟᴏᴧ become less sour
 
 - <a name="lena">**lena**</a> _v._ (Hin.  ⟨लेना⟩ \[lenaː\])  
-take up; consume; hold; occupy; ʟᴏᴧ is taken up by ʟᴜᴍ
+take up; consume; hold; occupy; [ʟᴏᴧ](#lenalon) is taken up by [ʟᴜᴍ](#lenalum)
 
 - <a name="lenalon">**lenalon**</a> _n._ ([lena](#lena)+[lon](#lon))  
 slot; space; resource
@@ -2500,7 +2500,7 @@ who (relative)
 to oneself
 
 - <a name="lesla">**lesla**</a> _v._ (Pan.  ⟨ਲੇਸਲਾ⟩ \[leslɑ\])  
-be viscous; be thick; ʟᴏᴧ is viscous
+be viscous; be thick; [ʟᴏᴧ](#leslalon) is viscous
 
 - <a name="leslalon">**leslalon**</a> _n._ ([lesla](#lesla)+[lon](#lon))  
 paste; gel; goop; viscous; thick
@@ -2509,7 +2509,7 @@ paste; gel; goop; viscous; thick
 viscosity
 
 - <a name="leslaki">**leslaki**</a> _v._ ([lesla](#lesla)+[ki](#ki))  
-thicken; increase viscosity; ʟєꜱ makes ʟᴏᴧ more viscous
+thicken; increase viscosity; [ʟєꜱ](#leslakiles) makes ʟᴏᴧ more viscous
 
 - <a name="leslakiles">**leslakiles**</a> _n._ ([leslaki](#leslaki)+[les](#les))  
 thickener; viscosity increaser
@@ -2527,7 +2527,7 @@ leg; appendage; long appendage used for transportation
 crural; appendicular
 
 - <a name="leki">**leki**</a> _v._ ([le](#le)+[ki](#ki))  
-fatigue; tire; burn out; ʟєꜱ makes ʟᴏᴧ tired
+fatigue; tire; burn out; [ʟєꜱ](#lekiles) makes ʟᴏᴧ tired
 
 - <a name="lekiles">**lekiles**</a> _n._ ([leki](#leki)+[les](#les))  
 tiring
@@ -2566,7 +2566,7 @@ web
 lettuce; chicory; Lactuca
 
 - <a name="letpu">**letpu**</a> _v._ ([~~tolmi~~](#tolmi))  
-be awake; be concious; ʟᴏᴧ is awake
+be awake; be concious; [ʟᴏᴧ](#letpulon) is awake
 
 - <a name="letpulon">**letpulon**</a> _n._ ([letpu](#letpu)+[lon](#lon))  
 awake; concious
@@ -2656,13 +2656,13 @@ Neptunian
 manatee; sea-cow
 
 - <a name="lanau">**lanau**</a> _v._ ([~~takai~~](#takai))  
-be turned off; be inanimate; be passive; be closed; ʟᴏᴧ is turned off
+be turned off; be inanimate; be passive; be closed; [ʟᴏᴧ](#lanaulon) is turned off
 
 - <a name="lanaulon">**lanaulon**</a> _n._ ([lanau](#lanau)+[lon](#lon))  
 turned off; inanimate; passive; closed
 
 - <a name="lanauki">**lanauki**</a> _v._ ([lanau](#lanau)+[ki](#ki))  
-turn off; deactivate; kill; ʟєꜱ turns off ʟᴏᴧ
+turn off; deactivate; kill; [ʟєꜱ](#lanaukiles) turns off ʟᴏᴧ
 
 - <a name="lanaukiles">**lanaukiles**</a> _n._ ([lanauki](#lanauki)+[les](#les))  
 deactivator
@@ -2680,7 +2680,7 @@ Sri Lankan; the Sri Lankan people
 Sri Lanka; the Democratic Socialist Republic of Sri Lanka
 
 - <a name="lama">**lama**</a> _v._ (Msa.  ⟨lama⟩ \[lama\])  
-be long; be tall; ʟᴏᴧ is long in time or space
+be long; be tall; [ʟᴏᴧ](#lamalon) is long in time or space
 
 - <a name="lamaaklalon">**lamaaklalon**</a> _n._ ([lama](#lama)+[aklalon](#aklalon))  
 sword
@@ -2704,7 +2704,7 @@ tube
 stretch; ʟєꜱ stretches ʟᴏᴧ
 
 - <a name="lamaki">**lamaki**</a> _v._ ([lama](#lama)+[ki](#ki))  
-lengthen; grow; ʟєꜱ lengthens ʟᴏᴧ
+lengthen; grow; [ʟєꜱ](#lamakiles) lengthens ʟᴏᴧ
 
 - <a name="lamakiles">**lamakiles**</a> _n._ ([lamaki](#lamaki)+[les](#les))  
 lengthener
@@ -2725,7 +2725,7 @@ Luxembourger; the Luxembourgish people
 Luxembourgish; the Luxembourgish language
 
 - <a name="lasi">**lasi**</a> _v._ (Swa.  ⟨radhi⟩ \[ɾaði\])  
-feel pleasure; feel good; feel satisfied; feel euphoria; ʟᴏᴧ feels pleased about ʟᴜᴍ
+feel pleasure; feel good; feel satisfied; feel euphoria; [ʟᴏᴧ](#lasilon) feels pleased about [ʟᴜᴍ](#lasilum)
 
 - <a name="lasilon">**lasilon**</a> _n._ ([lasi](#lasi)+[lon](#lon))  
 satisfied
@@ -2770,7 +2770,7 @@ Latvian; the Latvian people
 Latvian; the Latvian language
 
 - <a name="lo">**lo**</a> _v._ ([~~te~~](#te))  
-erase; overwrite; obscure; ʟєꜱ removes traces of ʟᴏᴧ from ʟᴜᴍ
+erase; overwrite; obscure; [ʟєꜱ](#loles) removes traces of [ʟᴏᴧ](#lolon) from [ʟᴜᴍ](#lolum)
 
 - <a name="loles">**loles**</a> _n._ ([lo](#lo)+[les](#les))  
 one who erases; eraser
@@ -2791,13 +2791,13 @@ which (relative)
 by oneself
 
 - <a name="lonestueki">**lonestueki**</a> _v._ ([lones](#lones)+[tueki](#tueki))  
-be resourceful; enterprise; ʟᴏᴧ resourcefully acquires ʟᴜᴍ
+be resourceful; enterprise; [ʟᴏᴧ](#lonestuekilon) resourcefully acquires ʟᴜᴍ
 
 - <a name="lonestuekilon">**lonestuekilon**</a> _n._ ([lonestueki](#lonestueki)+[lon](#lon))  
 resourceful
 
 - <a name="lono">**lono**</a> _v._ (Ben.  ⟨রঙ⟩ \[rɔŋɔ\])  
-be coloured; have colour; ʟᴜᴍ is the colour of ʟᴏᴧ
+be coloured; have colour; [ʟᴜᴍ](#lonolum) is the colour of [ʟᴏᴧ](#lonolon)
 
 - <a name="lonolon">**lonolon**</a> _n._ ([lono](#lono)+[lon](#lon))  
 coloured
@@ -2833,7 +2833,7 @@ tiger
 koi; koi fish
 
 - <a name="lonoki">**lonoki**</a> _v._ ([lono](#lono)+[ki](#ki))  
-colour; shade; ʟєꜱ colours ʟᴏᴧ ʟᴜᴍ
+colour; shade; [ʟєꜱ](#lonokiles) colours ʟᴏᴧ ʟᴜᴍ
 
 - <a name="lonokiles">**lonokiles**</a> _n._ ([lonoki](#lonoki)+[les](#les))  
 colourer
@@ -2875,7 +2875,7 @@ Lojban; in Lojban
 Lojbanist; Lojban speakers
 
 - <a name="lokfe">**lokfe**</a> _v._ ([~~tenso~~](#tenso))  
-be relaxed; be lax; be chill; ʟᴏᴧ is not under pressure
+be relaxed; be lax; be chill; [ʟᴏᴧ](#lokfelon) is not under pressure
 
 - <a name="lokfelon">**lokfelon**</a> _n._ ([lokfe](#lokfe)+[lon](#lon))  
 relaxed; lax; chill
@@ -2884,7 +2884,7 @@ relaxed; lax; chill
 relax; take off pressure; ʟєꜱ takes pressure off of ʟᴏᴧ
 
 - <a name="lota">**lota**</a> _v._ (Spa.  ⟨rueda⟩ \[ˈrweða\])  
-roll; tumble; be rolling; ʟᴏᴧ is rolling
+roll; tumble; be rolling; [ʟᴏᴧ](#lotalon) is rolling
 
 - <a name="lotalon">**lotalon**</a> _n._ ([lota](#lota)+[lon](#lon))  
 wheel; roller; rolling
@@ -2893,19 +2893,19 @@ wheel; roller; rolling
 stop rolling; roll into; ʟєꜱ makes ʟᴏᴧ stop rolling
 
 - <a name="lotaki">**lotaki**</a> _v._ ([lota](#lota)+[ki](#ki))  
-start rolling; roll from; ʟєꜱ makes ʟᴏᴧ start rolling
+start rolling; roll from; [ʟєꜱ](#lotakiles) makes ʟᴏᴧ start rolling
 
 - <a name="lotakiles">**lotakiles**</a> _n._ ([lotaki](#lotaki)+[les](#les))  
 roller
 
 - <a name="loto">**loto**</a> _v._ (Spa.  ⟨roto⟩ \[ˈroto\])  
-be in pieces; be broken; be piecemeal; ʟᴏᴧ is in multiple pieces
+be in pieces; be broken; be piecemeal; [ʟᴏᴧ](#lotolon) is in multiple pieces
 
 - <a name="lotolon">**lotolon**</a> _n._ ([loto](#loto)+[lon](#lon))  
 in pieces; broken; piecemeal
 
 - <a name="lotonu">**lotonu**</a> _v._ ([loto](#loto)+[nu](#nu))  
-mend; fix; put back together; ʟєꜱ puts ʟᴏᴧ back together
+mend; fix; put back together; [ʟєꜱ](#lotonules) puts ʟᴏᴧ back together
 
 - <a name="lotonules">**lotonules**</a> _n._ ([lotonu](#lotonu)+[les](#les))  
 fixer
@@ -2917,13 +2917,13 @@ whole; entirety; entire
 suit; costume; uniform
 
 - <a name="lotoki">**lotoki**</a> _v._ ([loto](#loto)+[ki](#ki))  
-break; shatter; destroy; ʟєꜱ breaks ʟᴏᴧ into multiple pieces
+break; shatter; destroy; [ʟєꜱ](#lotokiles) breaks ʟᴏᴧ into multiple pieces
 
 - <a name="lotokiles">**lotokiles**</a> _n._ ([lotoki](#lotoki)+[les](#les))  
 breaker
 
 - <a name="lotokihepuki">**lotokihepuki**</a> _v._ ([lotoki](#lotoki)+[hepuki](#hepuki))  
-explode; blow up; detonate; ʟєꜱ makes ʟᴏᴧ explode
+explode; blow up; detonate; [ʟєꜱ](#lotokihepukiles) makes [ʟᴏᴧ](#lotokihepukilon) explode
 
 - <a name="lotokihepukilon">**lotokihepukilon**</a> _n._ ([lotokihepuki](#lotokihepuki)+[lon](#lon))  
 exploded
@@ -2932,7 +2932,7 @@ exploded
 exploder
 
 - <a name="lotokicomiki">**lotokicomiki**</a> _v._ ([lotoki](#lotoki)+[comiki](#comiki))  
-implode; ʟєꜱ makes ʟᴏᴧ implode
+implode; [ʟєꜱ](#lotokicomikiles) makes [ʟᴏᴧ](#lotokicomikilon) implode
 
 - <a name="lotokicomikilon">**lotokicomikilon**</a> _n._ ([lotokicomiki](#lotokicomiki)+[lon](#lon))  
 imploded
@@ -2941,19 +2941,19 @@ imploded
 imploder
 
 - <a name="lotokipowi">**lotokipowi**</a> _v._ ([lotoki](#lotoki)+[powi](#powi))  
-be fragile; be structurally weak; be crumbly; be brittle; ʟᴏᴧ is easy to break
+be fragile; be structurally weak; be crumbly; be brittle; [ʟᴏᴧ](#lotokipowilon) is easy to break
 
 - <a name="lotokipowilon">**lotokipowilon**</a> _n._ ([lotokipowi](#lotokipowi)+[lon](#lon))  
 fragile; structurally weak; crumbly; brittle
 
 - <a name="lotokipowinu">**lotokipowinu**</a> _v._ ([lotokipowi](#lotokipowi)+[nu](#nu))  
-strengthen; brace; glue; ʟєꜱ makes ʟᴏᴧ structurally stronger
+strengthen; brace; glue; [ʟєꜱ](#lotokipowinules) makes ʟᴏᴧ structurally stronger
 
 - <a name="lotokipowinules">**lotokipowinules**</a> _n._ ([lotokipowinu](#lotokipowinu)+[les](#les))  
 strengthener; glue
 
 - <a name="lotokipowinyo">**lotokipowinyo**</a> _v._ ([lotokipowi](#lotokipowi)+[nyo](#nyo))  
-be unbreaking; be structurally strong; be durable; ʟᴏᴧ is difficult to break
+be unbreaking; be structurally strong; be durable; [ʟᴏᴧ](#lotokipowinyolon) is difficult to break
 
 - <a name="lotokipowinyolon">**lotokipowinyolon**</a> _n._ ([lotokipowinyo](#lotokipowinyo)+[lon](#lon))  
 unbreaking; structurally strong; durable
@@ -2962,13 +2962,13 @@ unbreaking; structurally strong; durable
 structural integrity; strength; durability
 
 - <a name="lotokipowiki">**lotokipowiki**</a> _v._ ([lotokipowi](#lotokipowi)+[ki](#ki))  
-weaken; compromise; sabotage; ʟєꜱ makes ʟᴏᴧ structurally weaker
+weaken; compromise; sabotage; [ʟєꜱ](#lotokipowikiles) makes ʟᴏᴧ structurally weaker
 
 - <a name="lotokipowikiles">**lotokipowikiles**</a> _n._ ([lotokipowiki](#lotokipowiki)+[les](#les))  
 weakener; saboteur
 
 - <a name="lotiha">**lotiha**</a> _v._ ([~~teluca~~](#teluca))  
-be disgusted; ʟᴏᴧ is disgusted by ʟᴜᴍ
+be disgusted; [ʟᴏᴧ](#lotihalon) is disgusted by ʟᴜᴍ
 
 - <a name="lotihalon">**lotihalon**</a> _n._ ([lotiha](#lotiha)+[lon](#lon))  
 disgusted
@@ -2992,7 +2992,7 @@ Lithuanian; the Lithuanian language
 why (relative); because of which
 
 - <a name="lialkweki">**lialkweki**</a> _v._ ([l](#l)+[ial](#ial)+[kweki](#kweki))  
-result; follow; bear responsibility; bear fault; ʟᴏᴧ results from ʟᴜᴍ
+result; follow; bear responsibility; bear fault; [ʟᴏᴧ](#lialkwekilon) results from ʟᴜᴍ
 
 - <a name="lialkwekilon">**lialkwekilon**</a> _n._ ([lialkweki](#lialkweki)+[lon](#lon))  
 effect
@@ -3010,7 +3010,7 @@ scale; squame; flake; rigid, external, organic plate used in array with others
 squamous; scaly
 
 - <a name="linli">**linli**</a> _v._ (ono.  \[riŋ riŋ\])  
-ring; trill; coo; chime; SBU makes ʟᴏᴧ
+ring; trill; coo; chime; SBU makes [ʟᴏᴧ](#linlilon)
 
 - <a name="linlilon">**linlilon**</a> _n._ ([linli](#linli)+[lon](#lon))  
 ring; trill; coo; chime; noisy, concordant sound or action
@@ -3061,7 +3061,7 @@ lithium
 litre; liter; L
 
 - <a name="litfo">**litfo**</a> _v._ ([~~tulse~~](#tulse))  
-be unsweet; be unsweetened; ʟᴏᴧ is unsweet
+be unsweet; be unsweetened; [ʟᴏᴧ](#litfolon) is unsweet
 
 - <a name="litfolon">**litfolon**</a> _n._ ([litfo](#litfo)+[lon](#lon))  
 unsweet; unsweetened
@@ -3091,31 +3091,31 @@ Lebanese; from Lebanon
 Lebanese; the Lebanese people
 
 - <a name="lu">**lu**</a> _v._ ([~~ti~~](#ti))  
-consult; look up; reference; refer; read; ʟєꜱ retrieves ʟᴜᴍ from ʟᴏᴧ
+consult; look up; reference; refer; read; ʟєꜱ retrieves [ʟᴜᴍ](#lulum) from [ʟᴏᴧ](#lulon)
 
 - <a name="luat">**luat**</a> _n._ ([l](#l)+[uat](uat))  
 with which (relative)
 
 - <a name="luatkweki">**luatkweki**</a> _v._ ([l](#l)+[uat](#uat)+[kweki](#kweki))  
-use; work through; ʟᴏᴧ is using ʟᴜᴍ
+use; work through; [ʟᴏᴧ](#luatkwekilon) is using ʟᴜᴍ
 
 - <a name="luatkwekilon">**luatkwekilon**</a> _n._ ([luatkweki](#luatkweki)+[lon](#lon))  
 user
 
 - <a name="luatkwekipowi">**luatkwekipowi**</a> _v._ ([luatkweki](#luatkweki)+[powi](#powi))  
-be usable; be practical; ʟᴏᴧ is usable
+be usable; be practical; [ʟᴏᴧ](#luatkwekipowilon) is usable
 
 - <a name="luatkwekipowilon">**luatkwekipowilon**</a> _n._ ([luatkwekipowi](#luatkwekipowi)+[lon](#lon))  
 usable; practical
 
 - <a name="luatkwekipowinyo">**luatkwekipowinyo**</a> _v._ ([luatkwekipowi](#luatkwekipowi)+[nyo](#nyo))  
-be impractical; be unusable; ʟᴏᴧ is not usable
+be impractical; be unusable; [ʟᴏᴧ](#luatkwekipowinyolon) is not usable
 
 - <a name="luatkwekipowinyolon">**luatkwekipowinyolon**</a> _n._ ([luatkwekipowinyo](#luatkwekipowinyo)+[lon](#lon))  
 impractical; unusable
 
 - <a name="luo">**luo**</a> _v._ ([~~tie~~](#tie))  
-be along; be longitudinal; be with; be parallel; ʟᴏᴧ is along ʟᴜᴍ
+be along; be longitudinal; be with; be parallel; [ʟᴏᴧ](#luolon) is along ʟᴜᴍ
 
 - <a name="luolon">**luolon**</a> _n._ ([luo](#luo)+[lon](#lon))  
 along; longitudinal; with; parallel
@@ -3130,7 +3130,7 @@ reference; table; consultation
 desired information
 
 - <a name="luna">**luna**</a> _v._ (Pan.  ⟨ਲੂਣਾ⟩ \[luɳɑ\])  
-be salty; ʟᴏᴧ is salty
+be salty; [ʟᴏᴧ](#lunalon) is salty
 
 - <a name="lunaufalon">**lunaufalon**</a> _n._ ([luna](#luna)+[ufalon](#ufalon))  
 salt
@@ -3145,7 +3145,7 @@ saltiness; salt
 sodium
 
 - <a name="lunacyolyan">**lunacyolyan**</a> _n._ ([luna](#luna)+[cyolyan](#cyolyan))  
-pickle; ʟєꜱ pickles ʟᴏᴧ
+pickle; ʟєꜱ pickles [ʟᴏᴧ](#lunacyolyanlon)
 
 - <a name="lunacyolyanlon">**lunacyolyanlon**</a> _n._ ([lunacyolyan](#lunacyolyan)+[lon](#lon))  
 pickled; pickle
@@ -3154,7 +3154,7 @@ pickled; pickle
 salt; ʟєꜱ makes ʟᴏᴧ become salty
 
 - <a name="luni">**luni**</a> _v._ (Cmn.  ⟨容易⟩ \[ɻʊŋ˧˥i˥˩\])  
-be likely; be normal; be unremarkable; be expectable; be common; ʟᴏᴧ is likely true
+be likely; be normal; be unremarkable; be expectable; be common; [ʟᴏᴧ](#lunilon) is likely true
 
 - <a name="lunilon">**lunilon**</a> _n._ ([luni](#luni)+[lon](#lon))  
 likely; normal; unremarkable; expectable; common
@@ -3163,7 +3163,7 @@ likely; normal; unremarkable; expectable; common
 P-value
 
 - <a name="lunisoma">**lunisoma**</a> _v._ ([luni](#luni)+[soma](#soma))  
-do statistics; ʟєꜱ studies data to learn about ʟᴏᴧ
+do statistics; [ʟєꜱ](#lunisomales) studies data to learn about [ʟᴏᴧ](#lunisomalon)
 
 - <a name="lunisomales">**lunisomales**</a> _n._ ([lunisoma](#lunisoma)+[les](#les))  
 statistician
@@ -3196,7 +3196,7 @@ surface; plane; layer; two-dimensional locus
 planar; superficial; facial
 
 - <a name="lumahmwoni">**lumahmwoni**</a> _v._ ([lumah](#lumah)+[mwoni](#mwoni))  
-draw; ʟєꜱ paints ʟᴜᴍ as ʟᴏᴧ
+draw; [ʟєꜱ](#lumahmwoniles) paints [ʟᴜᴍ](#lumahmwonilum) as [ʟᴏᴧ](#lumahmwonilon)
 
 - <a name="lumahmwoniles">**lumahmwoniles**</a> _n._ ([lumahmwoni](#lumahmwoni)+[les](#les))  
 drawer
@@ -3208,7 +3208,7 @@ drawing
 drawn; drawing subject
 
 - <a name="lumahhila">**lumahhila**</a> _v._ ([lumah](#lumah)+[hila](#hila))  
-climb; ʟᴏᴧ climbs
+climb; [ʟᴏᴧ](#lumahhilalon) climbs
 
 - <a name="lumahhilalon">**lumahhilalon**</a> _n._ ([lumahhila](#lumahhila)+[lon](#lon))  
 climber
@@ -3217,31 +3217,31 @@ climber
 ladder; handholds
 
 - <a name="lumahsikla">**lumahsikla**</a> _v._ ([lumah](#lumah)+[sikla](#sikla))  
-be spherical; be round; ʟᴏᴧ is spherical
+be spherical; be round; [ʟᴏᴧ](#lumahsiklalon) is spherical
 
 - <a name="lumahsiklalon">**lumahsiklalon**</a> _n._ ([lumahsikla](#lumahsikla)+[lon](#lon))  
 sphere; ball; spherical; round
 
 - <a name="lumahsiteponto">**lumahsiteponto**</a> _v._ ([lumah](#lumah)+[siteponto](#siteponto))  
-be polyhedral; ʟᴏᴧ is polyhedral
+be polyhedral; [ʟᴏᴧ](#lumahsitepontolon) is polyhedral
 
 - <a name="lumahsitepontolon">**lumahsitepontolon**</a> _n._ ([lumahsiteponto](#lumahsiteponto)+[lon](#lon))  
 polyhedron; gem; polyhedral
 
 - <a name="lumahfunta">**lumahfunta**</a> _v._ ([lumah](#lumah)+[funta](#funta))  
-be box-shaped; ʟᴏᴧ is box-shaped
+be box-shaped; [ʟᴏᴧ](#lumahfuntalon) is box-shaped
 
 - <a name="lumahfuntalon">**lumahfuntalon**</a> _n._ ([lumahfunta](#lumahfunta)+[lon](#lon))  
 box; rectangular prism; box-shaped
 
 - <a name="lumahtokanu">**lumahtokanu**</a> _v._ ([lumah](#lumah)+[tokanu](#tokanu))  
-slice; ʟєꜱ slices ʟᴏᴧ into ʟᴜᴍ
+slice; ʟєꜱ slices ʟᴏᴧ into [ʟᴜᴍ](#lumahtokanulum)
 
 - <a name="lumahtokanulum">**lumahtokanulum**</a> _n._ ([lumahtokanu](#lumahtokanu)+[lum](#lum))  
 slice
 
 - <a name="luci">**luci**</a> _v._ (Epo.  ⟨ruĝi⟩ \[ˈrud͡ʒi\])  
-be red; ʟᴏᴧ reflects short wavelength light
+be red; [ʟᴏᴧ](#lucilon) reflects short wavelength light
 
 - <a name="lucilon">**lucilon**</a> _n._ ([luci](#luci)+[lon](#lon))  
 red
@@ -3250,7 +3250,7 @@ red
 redness
 
 - <a name="lucimuta">**lucimuta**</a> _v._ ([luci](#luci)+[muta](#muta))  
-be magenta; be fuchsia; ʟᴏᴧ looks magenta
+be magenta; be fuchsia; [ʟᴏᴧ](#lucimutalon) looks magenta
 
 - <a name="lucimutalon">**lucimutalon**</a> _n._ ([lucimuta](#lucimuta)+[lon](#lon))  
 magenta; fuchsia
@@ -3271,7 +3271,7 @@ watermelon
 peach; nectarine
 
 - <a name="lucipilanila">**lucipilanila**</a> _v._ ([luci](#luci)+[pila](#pila)+[nila](#nila))  
-be brightly coloured; be saturated; be colourful; be vibrant; ʟᴏᴧ reflects some wavelengths of light much more than others
+be brightly coloured; be saturated; be colourful; be vibrant; [ʟᴏᴧ](#lucipilanilalon) reflects some wavelengths of light much more than others
 
 - <a name="lucipilanilalon">**lucipilanilalon**</a> _n._ ([lucipilanila](#lucipilanila)+[lon](#lon))  
 brightly coloured; saturated; colourful; vibrant
@@ -3289,7 +3289,7 @@ Mars
 Martian
 
 - <a name="luso">**luso**</a> _v._ (Nya.  ⟨-luso⟩ \[ɽuso\])  
-be skillful; be apt; be effective; be good; ʟᴏᴧ is good at causing ʟᴜᴍ
+be skillful; be apt; be effective; be good; [ʟᴏᴧ](#lusolon) is good at causing ʟᴜᴍ
 
 - <a name="lusolon">**lusolon**</a> _n._ ([luso](#luso)+[lon](#lon))  
 skillful; apt; effective; good
@@ -3298,7 +3298,7 @@ skillful; apt; effective; good
 skill level
 
 - <a name="lusonitatatu">**lusonitatatu**</a> _v._ ([luso](#luso)+[nitatatu](#nitatatu))  
-be steel; ʟᴏᴧ is made of steel
+be steel; [ʟᴏᴧ](#lusonitatatulon) is made of steel
 
 - <a name="lusonitatatulon">**lusonitatatulon**</a> _n._ ([lusonitatatu](#lusonitatatu)+[lon](#lon))  
 steel
@@ -3307,7 +3307,7 @@ steel
 dominant hand
 
 - <a name="lusoki">**lusoki**</a> _v._ ([luso](#luso)+[ki](#ki))  
-train; teach; ʟєꜱ makes ʟᴏᴧ become skillful at ʟᴜᴍ
+train; teach; [ʟєꜱ](#lusokiles) makes [ʟᴏᴧ](#lusokilon) become skillful at ʟᴜᴍ
 
 - <a name="lusokiles">**lusokiles**</a> _n._ ([lusoki](#lusoki)+[les](#les))  
 trainer
@@ -3316,7 +3316,7 @@ trainer
 trainee
 
 - <a name="lusotihutatu">**lusotihutatu**</a> _v._ ([luso](#luso)+[tihutatu](#tihutatu))  
-be bronze; ʟᴏᴧ is made of bronze
+be bronze; [ʟᴏᴧ](#lusotihutatulon) is made of bronze
 
 - <a name="lusotihutatulon">**lusotihutatulon**</a> _n._ ([lusotihutatu](#lusotihutatu)+[lon](#lon))  
 bronze
@@ -3337,7 +3337,7 @@ Russian; the Russian people
 Russian; the Russian language
 
 - <a name="luti">**luti**</a> _v._ (Epo.  ⟨ludi⟩ \[ˈludi\])  
-play; ʟᴏᴧ is playing ʟᴜᴍ
+play; [ʟᴏᴧ](#lutilon) is playing [ʟᴜᴍ](#lutilum)
 
 - <a name="lutilon">**lutilon**</a> _n._ ([luti](#luti)+[lon](#lon))  
 player
@@ -3394,19 +3394,19 @@ grandparent
 where (relative)
 
 - <a name="lyotkweki">**lyotkweki**</a> _v._ ([l](#l)+[yot](#yot)+[kweki](#kweki))  
-be present; attend; be around; be strong; be; ʟᴏᴧ is present at ʟᴜᴍ
+be present; attend; be around; be strong; be; [ʟᴏᴧ](#lyotkwekilon) is present at ʟᴜᴍ
 
 - <a name="lyotkwekilon">**lyotkwekilon**</a> _n._ ([lyotkweki](#lyotkweki)+[lon](#lon))  
 presence; present; around; strong
 
 - <a name="lyotkwekinu">**lyotkwekinu**</a> _v._ ([lyotkweki](#lyotkweki)+[nu](#nu))  
-dispose; throw away; get rid; get away; remove; leave; ʟєꜱ disposes of ʟᴏᴧ
+dispose; throw away; get rid; get away; remove; leave; ʟєꜱ disposes of [ʟᴏᴧ](#lyotkwekinulon)
 
 - <a name="lyotkwekinulon">**lyotkwekinulon**</a> _n._ ([lyotkwekinu](#lyotkwekinu)+[lon](#lon))  
 trash; garbage
 
 - <a name="lyotkwekinyo">**lyotkwekinyo**</a> _v._ ([lyotkweki](#lyotkweki)+[nyo](#nyo))  
-be absent; be gone; be away; be weak; ʟᴏᴧ is absent
+be absent; be gone; be away; be weak; [ʟᴏᴧ](#lyotkwekinyolon) is absent
 
 - <a name="lyotkwekinyolon">**lyotkwekinyolon**</a> _n._ ([lyotkwekinyo](#lyotkwekinyo)+[lon](#lon))  
 absent; gone; away; weak
@@ -3418,7 +3418,7 @@ summon; bring forth; pull up; place; ʟєꜱ summons ʟᴏᴧ
 replace; substitute; swap; ʟєꜱ removes ʟᴜᴍ and replaces it with ʟᴏᴧ
 
 - <a name="lyotpensi">**lyotpensi**</a> _v._ ([lyot](#lyot)+[pensi](#pensi))  
-be found; ʟᴏᴧ knows where ʟєꜱ is
+be found; [ʟᴏᴧ](#lyotpensilon) knows where ʟєꜱ is
 
 - <a name="lyotpensilon">**lyotpensilon**</a> _n._ ([lyotpensi](#lyotpensi)+[lon](#lon))  
 found
@@ -3427,7 +3427,7 @@ found
 when (relative)
 
 - <a name="lwelkweki">**lwelkweki**</a> _v._ ([l](#l)+[wel](#wel)+[kweki](#kweki))  
-be at; coincide; ʟᴏᴧ happens at the same time as ʟᴜᴍ
+be at; coincide; [ʟᴏᴧ](#lwelkwekilon) happens at the same time as [ʟᴜᴍ](#lwelkwekilum)
 
 - <a name="lwelkwekilon">**lwelkwekilon**</a> _n._ ([lwelkweki](#lwelkweki)+[lon](#lon))  
 event; at
@@ -3436,7 +3436,7 @@ event; at
 time of occurence
 
 - <a name="lwa">**lwa**</a> _v._ (Xho.  ⟨-lwa⟩ \[lwa\])  
-fight; battle; ʟᴏᴧ is in a violent engagement with ʟᴜᴍ
+fight; battle; [ʟᴏᴧ](#lwalon) is in a violent engagement with [ʟᴜᴍ](#lwalum)
 
 - <a name="lwalon">**lwalon**</a> _n._ ([lwa](#lwa)+[lon](#lon))  
 fighter; warrior
@@ -3451,13 +3451,13 @@ adversary; opponent
 battle
 
 - <a name="lwanu">**lwanu**</a> _v._ ([lwa](#lwa)+[nu](#nu))  
-make peace; call off; deescalate; ʟєꜱ causes ʟᴏᴧ to stop fighting ʟᴜᴍ
+make peace; call off; deescalate; [ʟєꜱ](#lwanules) causes ʟᴏᴧ to stop fighting ʟᴜᴍ
 
 - <a name="lwanules">**lwanules**</a> _n._ ([lwanu](#lwanu)+[les](#les))  
 peace maker
 
 - <a name="lwaki">**lwaki**</a> _v._ ([lwa](#lwa)+[ki](#ki))  
-attack; sick; aggravate; ʟєꜱ causes ʟᴏᴧ to fight ʟᴜᴍ
+attack; sick; aggravate; [ʟєꜱ](#lwakiles) causes ʟᴏᴧ to fight ʟᴜᴍ
 
 - <a name="lwakiles">**lwakiles**</a> _n._ ([lwaki](#lwaki)+[les](#les))  
 attacker
@@ -3471,7 +3471,7 @@ w; /w/; labial-velar approximant
 at; on; in; _marks time_
 
 - <a name="wecai">**wecai**</a> _v._ ([~~yohau~~](#yohau))  
-be hostile; be mean; be harsh; ʟᴏᴧ is hostile toward ʟᴜᴍ
+be hostile; be mean; be harsh; [ʟᴏᴧ](#wecailon) is hostile toward [ʟᴜᴍ](#wecailum)
 
 - <a name="wecailon">**wecailon**</a> _n._ ([wecai](#wecai)+[lon](#lon))  
 hostile; mean; harsh
@@ -3480,7 +3480,7 @@ hostile; mean; harsh
 enemy; infamous
 
 - <a name="wecaiki">**wecaiki**</a> _v._ ([wecai](#wecai)+[ki](#ki))  
-drive apart; aggravate; ʟєꜱ makes ʟᴏᴧ become hostile toward ʟᴜᴍ
+drive apart; aggravate; [ʟєꜱ](#wecaikiles) makes ʟᴏᴧ become hostile toward ʟᴜᴍ
 
 - <a name="wecaikiles">**wecaikiles**</a> _n._ ([wecaiki](#wecaiki)+[les](#les))  
 enemy-maker
@@ -3492,7 +3492,7 @@ wasp; Apocrita minus Anthophilia and Formicidae
 wow; how; _neutral exclamative mood_
 
 - <a name="wale">**wale**</a> _v._ ([~~yato~~](#yato))  
-be similar; be the same; be like; be alike; ʟᴏᴧ is similar to ʟᴜᴍ
+be similar; be the same; be like; be alike; [ʟᴏᴧ](#walelon) is similar to ʟᴜᴍ
 
 - <a name="walelon">**walelon**</a> _n._ ([wale](#wale)+[lon](#lon))  
 similar; the same; like; alike
@@ -3513,7 +3513,7 @@ twin; triplet; quadruplet
 squash; gourd; pumpkin; zucchini; Cucurbita
 
 - <a name="wawi">**wawi**</a> _v._ (Eng.  ⟨worry⟩ \[ˈwɚɹʷi\])  
-worry; bother; trouble; concern; ʟᴜᴍ troubles ʟᴏᴧ
+worry; bother; trouble; concern; [ʟᴜᴍ](#wawilum) troubles [ʟᴏᴧ](#wawilon)
 
 - <a name="wawilon">**wawilon**</a> _n._ ([wawi](#wawi)+[lon](#lon))  
 worried; bothered
@@ -3522,7 +3522,7 @@ worried; bothered
 problem; trouble; issue
 
 - <a name="wawiki">**wawiki**</a> _v._ ([wawi](#wawi)+[ki](#ki))  
-make worried; make bothered; ʟєꜱ causes ʟᴏᴧ to be bothered by ʟᴜᴍ
+make worried; make bothered; [ʟєꜱ](#wawikiles) causes ʟᴏᴧ to be bothered by ʟᴜᴍ
 
 - <a name="wawikiles">**wawikiles**</a> _n._ ([wawiki](#wawiki)+[les](#les))  
 [https://xkcd.com/1015/]
@@ -3558,7 +3558,7 @@ one day; sometime; at some point
 boo; fuck; not; _negative exclamative mood_
 
 - <a name="wahauti">**wahauti**</a> _v._ ([wahau](#wahau)+[ti](#ti))  
-complain; denounce; condemn; ʟєꜱ makes a negative utterance of ʟᴏᴧ to ʟᴜᴍ
+complain; denounce; condemn; [ʟєꜱ](#wahautiles) makes a negative utterance of [ʟᴏᴧ](#wahautilon) to ʟᴜᴍ
 
 - <a name="wahautiles">**wahautiles**</a> _n._ ([wahauti](#wahauti)+[les](#les))  
 complainer
@@ -3570,7 +3570,7 @@ complaint; denouncee
 hello; goodbye; yay; bless; okay; _positive exclamative mood_
 
 - <a name="wacaiti">**wacaiti**</a> _v._ ([wacai](#wacai)+[ti](#ti))  
-greet; praise; celebrate; ʟєꜱ makes a positive utterance of ʟᴏᴧ to ʟᴜᴍ
+greet; praise; celebrate; [ʟєꜱ](#wacaitiles) makes a positive utterance of [ʟᴏᴧ](#wacaitilon) to [ʟᴜᴍ](#wacaitilum)
 
 - <a name="wacaitiles">**wacaitiles**</a> _n._ ([wacaiti](#wacaiti)+[les](#les))  
 greeter; praiser
@@ -3588,7 +3588,7 @@ Washington D.C.; Washington
 Vega
 
 - <a name="wata">**wata**</a> _v._ ([~~yala~~](#yala))  
-be slow; be gradual; be periodic; ʟᴏᴧ progresses, oscillates, or decays slowly
+be slow; be gradual; be periodic; [ʟᴏᴧ](#watalon) progresses, oscillates, or decays slowly
 
 - <a name="'wataiko">**'wataiko**</a> _n._ (Jpn.  ⟨和太鼓⟩ \[ɰadaikɔː\])  
 taiko; taiko drum
@@ -3606,7 +3606,7 @@ sloth
 jog; ʟᴏᴧ jogs on ʟᴜᴍ
 
 - <a name="wati">**wati**</a> _v._ ([wa](#wa)+[ti](#ti))  
-exclaim; ʟєꜱ makes an exclamatory utterance of ʟᴏᴧ to ʟᴜᴍ
+exclaim; [ʟєꜱ](#watiles) makes an exclamatory utterance of [ʟᴏᴧ](#watilon) to ʟᴜᴍ
 
 - <a name="'watian">**'watian**</a> _n._ (Eng.  ⟨radian⟩ \[ˈɹʷeɪdiɪn\])  
 radian; rad
@@ -3633,7 +3633,7 @@ tungsten; wolfram
 person; woman; man; human; Homo sapiens
 
 - <a name="wonestaki">**wonestaki**</a> _v._ ([won](#won)+[estaki](#estaki))  
-give birth; get born; ʟєꜱ gives birth to ʟᴏᴧ by ʟᴜᴍ's seed
+give birth; get born; [ʟєꜱ](#wonestakiles) gives birth to [ʟᴏᴧ](#wonestakilon) by [ʟᴜᴍ](#wonestakilum)'s seed
 
 - <a name="wonestakiles">**wonestakiles**</a> _n._ ([wonestaki](#wonestaki)+[les](#les))  
 biological mother
@@ -3654,7 +3654,7 @@ birthday
 personal; humanistic; domesticated
 
 - <a name="wonmocaki">**wonmocaki**</a> _v._ ([won](#won)+[mocaki](#mocaki))  
-perform; play; ʟєꜱ performs ʟᴜᴍ for ʟᴏᴧ
+perform; play; [ʟєꜱ](#wonmocakiles) performs [ʟᴜᴍ](#wonmocakilum) for ʟᴏᴧ
 
 - <a name="wonmocakiles">**wonmocakiles**</a> _n._ ([wonmocaki](#wonmocaki)+[les](#les))  
 player; performer; actor
@@ -3693,7 +3693,7 @@ Milky
 personify; humanise; anthropomorphise
 
 - <a name="wonkio">**wonkio**</a> _v._ ([won](#won)+[kio](#kio))  
-be plastic; ʟᴏᴧ is made of plastic
+be plastic; [ʟᴏᴧ](#wonkiolon) is made of plastic
 
 - <a name="wonkiolon">**wonkiolon**</a> _n._ ([wonkio](#wonkio)+[lon](#lon))  
 plastic
@@ -3711,7 +3711,7 @@ Earth
 global; earthling; terran
 
 - <a name="wompa">**wompa**</a> _v._ (ono.  \[wumba\])  
-rumble; flicker; ʟєꜱ makes ʟᴏᴧ
+rumble; flicker; ʟєꜱ makes [ʟᴏᴧ](#wompalon)
 
 - <a name="wompalon">**wompalon**</a> _n._ ([wompa](#wompa)+[lon](#lon))  
 rumble; flicker; noisy, low-pitched sound or action
@@ -3755,7 +3755,7 @@ fox; dog; vixen; Vulpes
 ### n
 
 - <a name="ne">**ne**</a> _v._ (Cmn.  ⟨内⟩ \[neɪ̯˥˩\])  
-be inside; be in; contain; be inner; be central; be in the middle; ʟᴏᴧ is inside ʟᴜᴍ
+be inside; be in; contain; be inner; be central; be in the middle; [ʟᴏᴧ](#nelon) is inside [ʟᴜᴍ](#nelum)
 
 - <a name="ne'aflika">**ne'aflika**</a> _n._ ([ne](#ne)+['aflika](#'aflika))  
 Central Africa
@@ -3791,7 +3791,7 @@ innerness
 subcontinent; subsection of a continent bounded by divisors of geographical and cultural significance, e.g. Europe, South Asia
 
 - <a name="nehu">**nehu**</a> _v._ ([ne](#ne)+[hu](#hu))  
-be private; ʟᴜᴍ is privately concealed from ʟᴏᴧ
+be private; ʟᴜᴍ is privately concealed from [ʟᴏᴧ](#nehulon)
 
 - <a name="nehulon">**nehulon**</a> _n._ ([nehu](#nehu)+[lon](#lon))  
 private
@@ -3809,7 +3809,7 @@ Equatorial Guinean; Equatoguinean; the Equatorial Guinean people
 Equatorial Guinean; from Equatorial Guinea
 
 - <a name="neflu">**neflu**</a> _v._ ([~~kosti~~](#kosti))  
-be cheap; ʟᴏᴧ does not cost a lot
+be cheap; [ʟᴏᴧ](#neflulon) does not cost a lot
 
 - <a name="neflulon">**neflulon**</a> _n._ ([neflu](#neflu)+[lon](#lon))  
 cheap
@@ -3821,7 +3821,7 @@ discount; mark down; ʟєꜱ decreases the cost of ʟᴏᴧ
 enter; insert; put in; ʟєꜱ moves ʟᴏᴧ into ʟᴜᴍ
 
 - <a name="nekikoki">**nekikoki**</a> _v._ ([neki](#neki)+[koki](#koki))  
-go through; ʟᴏᴧ moves into and then out of ʟᴜᴍ
+go through; ʟᴏᴧ moves into and then out of [ʟᴜᴍ](#nekikokilum)
 
 - <a name="nekikokilum">**nekikokilum**</a> _n._ ([nekikoki](#nekikoki)+[lum](#lum))  
 tube; hallway; corridor
@@ -3833,7 +3833,7 @@ province; state; territory; constituent country; sub-polity
 provincial; state; territorial
 
 - <a name="neta">**neta**</a> _v._ (Epo.  ⟨neta⟩ \[ˈneta\])  
-be neat; be orderly; be organised; be clean; be tidy; ʟᴏᴧ is neat
+be neat; be orderly; be organised; be clean; be tidy; [ʟᴏᴧ](#netalon) is neat
 
 - <a name="'netalan">**'netalan**</a> _n._ (Nld.  ⟨Nederland⟩ \[neːdərlɑnt\])  
 Netherlands; Holland; the Low Countries
@@ -3857,7 +3857,7 @@ neat; orderly; organised; clean; tidy
 order; neatness; organisation; cleanliness
 
 - <a name="netacoto">**netacoto**</a> _v._ ([neta](#neta)+[coto](#coto))  
-be woven; ʟᴏᴧ is woven
+be woven; [ʟᴏᴧ](#netacotolon) is woven
 
 - <a name="netacotolon">**netacotolon**</a> _n._ ([netacoto](#netacoto)+[lon](#lon))  
 woven
@@ -3866,13 +3866,13 @@ woven
 unweave; ʟєꜱ unweaves ʟᴏᴧ
 
 - <a name="netacotoki">**netacotoki**</a> _v._ ([netacoto](#netacoto)+[ki](#ki))  
-weave; ʟєꜱ weaves ʟᴏᴧ
+weave; [ʟєꜱ](#netacotokiles) weaves ʟᴏᴧ
 
 - <a name="netacotokiles">**netacotokiles**</a> _n._ ([netacotoki](#netacotoki)+[les](#les))  
 weaver
 
 - <a name="netaki">**netaki**</a> _v._ ([neta](#neta)+[ki](#ki))  
-order; organise; clean; tidy; sort; put in order; structure; finalise; ʟєꜱ puts ʟᴏᴧ in order
+order; organise; clean; tidy; sort; put in order; structure; finalise; [ʟєꜱ](#netakiles) puts ʟᴏᴧ in order
 
 - <a name="netakiles">**netakiles**</a> _n._ ([netaki](#netaki)+[les](#les))  
 organiser; cleaner; tidier
@@ -3986,7 +3986,7 @@ F; fifteen; only used for hexadecimal
 fifteenth
 
 - <a name="nati">**nati**</a> _v._ ([na](#na)+[ti](#ti))  
-tell; implore; command; instruct; lead; ʟєꜱ tells ʟᴜᴍ to make ʟᴏᴧ happen
+tell; implore; command; instruct; lead; [ʟєꜱ](#natiles) tells [ʟᴜᴍ](#natilum) to make [ʟᴏᴧ](#natilon) happen
 
 - <a name="natiles">**natiles**</a> _n._ ([nati](#nati)+[les](#les))  
 boss; commander
@@ -4001,7 +4001,7 @@ instructee
 Christmas
 
 - <a name="natula">**natula**</a> _v._ (Epo.  ⟨natura⟩ \[naˈtura\])  
-be natural; ʟᴏᴧ is natural
+be natural; [ʟᴏᴧ](#natulalon) is natural
 
 - <a name="natulalon">**natulalon**</a> _n._ ([natula](#natula)+[lon](#lon))  
 nature; natural
@@ -4013,7 +4013,7 @@ naturalise; ʟєꜱ makes ʟᴏᴧ become natural
 sea beet; wild spinach
 
 - <a name="no">**no**</a> _v._ (Eng.  ⟨know⟩ \[noʊ̯\])  
-know; be informed; be educated; ʟᴏᴧ remembers ʟᴜᴍ, believes and thinks it to be true, and correctly understands why it is true
+know; be informed; be educated; [ʟᴏᴧ](#nolon) remembers [ʟᴜᴍ](#nolum), believes and thinks it to be true, and correctly understands why it is true
 
 - <a name="nolon">**nolon**</a> _n._ ([no](#no)+[lon](#lon))  
 knower; smart; informed; educated
@@ -4046,7 +4046,7 @@ Novialist; Novial speakers
 crocodilian; crocodile; alligator; Crocodilia
 
 - <a name="nonu">**nonu**</a> _v._ ([no](#no)+[nu](#nu))  
-unteach; unlearn; confound; ʟєꜱ makes ʟᴜᴍ unlearn what they thought they knew about ʟᴏᴧ
+unteach; unlearn; confound; [ʟєꜱ](#nonules) makes [ʟᴜᴍ](#nonulum) unlearn what they thought they knew about ʟᴏᴧ
 
 - <a name="nonules">**nonules**</a> _n._ ([nonu](#nonu)+[les](#les))  
 unteacher
@@ -4055,7 +4055,7 @@ unteacher
 unlearner
 
 - <a name="nonyo">**nonyo**</a> _v._ ([no](#no)+[nyo](#nyo))  
-be unknown; ʟᴏᴧ does not know ʟᴜᴍ
+be unknown; ʟᴏᴧ does not know [ʟᴜᴍ](#nonyolum)
 
 - <a name="nonyolum">**nonyolum**</a> _n._ ([nonyo](#nonyo)+[lum](#lum))  
 unknown
@@ -4073,7 +4073,7 @@ conceptual; ideal; theoretical; informational
 call shop
 
 - <a name="noki">**noki**</a> _v._ ([no](#no)+[ki](#ki))  
-teach; learn; study; inform; ʟєꜱ teaches ʟᴜᴍ to ʟᴏᴧ
+teach; learn; study; inform; [ʟєꜱ](#nokiles) teaches ʟᴜᴍ to [ʟᴏᴧ](#nokilon)
 
 - <a name="nokiles">**nokiles**</a> _n._ ([noki](#noki)+[les](#les))  
 teacher; professor; master
@@ -4088,7 +4088,7 @@ school; college; university
 lesson; education
 
 - <a name="nokisoma">**nokisoma**</a> _v._ ([noki](#noki)+[soma](#soma))  
-do pedagogy; ʟєꜱ studies pedagogy to learn about ʟᴏᴧ
+do pedagogy; [ʟєꜱ](#nokisomales) studies pedagogy to learn about [ʟᴏᴧ](#nokisomalon)
 
 - <a name="nokisomales">**nokisomales**</a> _n._ ([nokisoma](#nokisoma)+[les](#les))  
 pedagologist
@@ -4097,7 +4097,7 @@ pedagologist
 pedagogy
 
 - <a name="nota">**nota**</a> _v._ (Spa.  ⟨nota⟩ \[ˈnota\])  
-notice; be aware; ʟᴏᴧ is conciously aware of the presence of ʟᴜᴍ
+notice; be aware; [ʟᴏᴧ](#notalon) is conciously aware of the presence of [ʟᴜᴍ](#notalum)
 
 - <a name="notalon">**notalon**</a> _n._ ([nota](#nota)+[lon](#lon))  
 noticer; aware
@@ -4112,7 +4112,7 @@ awareness
 point out; notify; call attention; wave; ʟєꜱ calls ʟᴏᴧ's attention to ʟᴜᴍ
 
 - <a name="nopowi">**nopowi**</a> _v._ ([no](#no)+[powi](#powi))  
-be apparent; be obvious; be knowable; be deducable; be notorious; be famous; be smart; ʟᴜᴍ is apparent to ʟᴏᴧ
+be apparent; be obvious; be knowable; be deducable; be notorious; be famous; be smart; [ʟᴜᴍ](#nopowilum) is apparent to [ʟᴏᴧ](#nopowilon)
 
 - <a name="nopowilon">**nopowilon**</a> _n._ ([nopowi](#nopowi)+[lon](#lon))  
 fast learner; smart
@@ -4121,7 +4121,7 @@ fast learner; smart
 apparent; obvious; knowable; deducable; notorious; famous
 
 - <a name="nopowinyo">**nopowinyo**</a> _v._ ([nopowi](#nopowi)+[nyo](#nyo))  
-be unapparent; be secret; be unknowable; be concealed; be obscure; be anonymous; be be stupid; ʟᴜᴍ is not easily apparent to ʟᴏᴧ
+be unapparent; be secret; be unknowable; be concealed; be obscure; be anonymous; be be stupid; [ʟᴜᴍ](#nopowinyolum) is not easily apparent to [ʟᴏᴧ](#nopowinyolon)
 
 - <a name="nopowinyolon">**nopowinyolon**</a> _n._ ([nopowinyo](#nopowinyo)+[lon](#lon))  
 [https://forum.tfes.org/index.php?topic=6098.msg132382#msg132382]
@@ -4133,7 +4133,7 @@ unapparent; secret; unknowable; concealed; obscure; anonymous; be stupid
 stupid
 
 - <a name="ni">**ni**</a> _v._ ([~~ku~~](#ku))  
-be unbitter; ʟᴏᴧ is not very bitter
+be unbitter; [ʟᴏᴧ](#nilon) is not very bitter
 
 - <a name="'niukini">**'niukini**</a> _n._ (Tpi.  ⟨Niugini⟩ \[niuɡini\])  
 Papua; New Guinea; Irian
@@ -4151,7 +4151,7 @@ Papua New Guinea; Independent State of Papua New Guinea
 Tok Pisin
 
 - <a name="nila">**nila**</a> _v._ (Hin.  ⟨नीला⟩ \[niːlaː\])  
-be blue; be cool; ʟᴏᴧ reflects short wavelength light
+be blue; be cool; [ʟᴏᴧ](#nilalon) reflects short wavelength light
 
 - <a name="nilalon">**nilalon**</a> _n._ ([nila](#nila)+[lon](#lon))  
 blue; cool
@@ -4166,7 +4166,7 @@ cobalt (substance)
 colour blue; ʟєꜱ colours ʟᴏᴧ blue
 
 - <a name="nilatihu">**nilatihu**</a> _v._ ([nila](#nila)+[tihu](#tihu))  
-be cyan; be teal; be blue-green; ʟᴏᴧ looks cyan
+be cyan; be teal; be blue-green; [ʟᴏᴧ](#nilatihulon) looks cyan
 
 - <a name="nilatihulon">**nilatihulon**</a> _n._ ([nilatihu](#nilatihu)+[lon](#lon))  
 cyan; teal; blue-green
@@ -4178,13 +4178,13 @@ colour cyan; colour teal; colour blue-green; ʟєꜱ colours ʟᴏᴧ cyan
 unbitter
 
 - <a name="nilu">**nilu**</a> _v._ ([~~kuti~~](#kuti))  
-be fluid; be amorphous; ʟᴏᴧ is fluid
+be fluid; be amorphous; [ʟᴏᴧ](#nilulon) is fluid
 
 - <a name="nilulon">**nilulon**</a> _n._ ([nilu](#nilu)+[lon](#lon))  
 fluid; amorphous
 
 - <a name="niluhila">**niluhila**</a> _v._ ([nilu](#nilu)+[hila](#hila))  
-flow; ʟєꜱ makes ʟᴏᴧ ʟᴏᴧ
+flow; ʟєꜱ makes [ʟᴏᴧ](#niluhilalon) [ʟᴏᴧ](#niluhilalon)
 
 - <a name="niluhilalon">**niluhilalon**</a> _n._ ([niluhila](#niluhila)+[lon](#lon))  
 current; stream
@@ -4193,13 +4193,13 @@ current; stream
 streamline
 
 - <a name="niluhilamace">**niluhilamace**</a> _v._ ([niluhila](#niluhila)+[mace](#mace))  
-be upstream; be upwind; ʟᴏᴧ is upstream of ʟᴜᴍ
+be upstream; be upwind; [ʟᴏᴧ](#niluhilamacelon) is upstream of ʟᴜᴍ
 
 - <a name="niluhilamacelon">**niluhilamacelon**</a> _n._ ([niluhilamace](#niluhilamace)+[lon](#lon))  
 upstream; upwind
 
 - <a name="niluhilasoma">**niluhilasoma**</a> _v._ ([nilu](#nilu)+[hila](#hila)+[soma](#soma))  
-do hydrodynamics; ʟєꜱ studies the motion of fluids to learn about ʟᴏᴧ
+do hydrodynamics; [ʟєꜱ](#niluhilasomales) studies the motion of fluids to learn about [ʟᴏᴧ](#niluhilasomalon)
 
 - <a name="niluhilasomalon">**niluhilasomalon**</a> _n._ ([niluhilasoma](#niluhilasoma)+[lon](#lon))  
 hydrodynamics
@@ -4208,13 +4208,13 @@ hydrodynamics
 hydrodynamicist
 
 - <a name="niluhilapaho">**niluhilapaho**</a> _v._ ([niluhila](#niluhila)+[paho](#paho))  
-be downstream; be downwind; ʟᴏᴧ is downstream of ʟᴜᴍ
+be downstream; be downwind; [ʟᴏᴧ](#niluhilapaholon) is downstream of ʟᴜᴍ
 
 - <a name="niluhilapaholon">**niluhilapaholon**</a> _n._ ([niluhilapaho](#niluhilapaho)+[lon](#lon))  
 downstream; downwind
 
 - <a name="niluki">**niluki**</a> _v._ ([nilu](#nilu)+[ki](#ki))  
-melt; sublimate; ʟєꜱ melts ʟᴏᴧ
+melt; sublimate; [ʟєꜱ](#nilukiles) melts [ʟᴏᴧ](#nilukilon)
 
 - <a name="nilukiles">**nilukiles**</a> _n._ ([niluki](#niluki)+[les](#les))  
 melter
@@ -4250,13 +4250,13 @@ senior citizen; elder; very old and decrepit animal
 elder
 
 - <a name="nihu">**nihu**</a> _v._ ([~~kuci~~](#kuci))  
-be sad; be sorrowful; be anguished; be distressed; ʟᴏᴧ feels sad
+be sad; be sorrowful; be anguished; be distressed; [ʟᴏᴧ](#nihulon) feels sad
 
 - <a name="nihulon">**nihulon**</a> _n._ ([nihu](#nihu)+[lon](#lon))  
 sad; sorrowful; anguished; distressed
 
 - <a name="nihucalu">**nihucalu**</a> _v._ ([nihu](#nihu)+[calu](#calu))  
-be depressed; ʟᴏᴧ is chronically sad
+be depressed; [ʟᴏᴧ](#nihucalulon) is chronically sad
 
 - <a name="nihucalulon">**nihucalulon**</a> _n._ ([nihucalu](#nihucalu)+[lon](#lon))  
 depressed
@@ -4271,7 +4271,7 @@ cry; weep; sob; tear; ʟєꜱ cries out ʟᴏᴧ
 sadden; anguish; distress; ʟєꜱ makes ʟᴏᴧ sadder
 
 - <a name="nice">**nice**</a> _v._ (Ben.  ⟨নিচে⟩ \[n̪it͡ɕe\])  
-be below; be down; be low; ʟєꜱ appears below ʟᴏᴧ from the point of view of ʟᴜᴍ
+be below; be down; be low; [ʟєꜱ](#niceles) appears below [ʟᴏᴧ](#nicelon) from the point of view of ʟᴜᴍ
 
 - <a name="niceles">**niceles**</a> _n._ ([nice](#nice)+[les](#les))  
 header; top
@@ -4295,7 +4295,7 @@ Niger;
 Nigerien; the Nigerien people
 
 - <a name="niceki">**niceki**</a> _v._ ([nice](#nice)+[ki](#ki))  
-go down; lower; sink; ʟєꜱ makes ʟᴏᴧ appear to move down from the point of view of ʟᴜᴍ
+go down; lower; sink; [ʟєꜱ](#nicekiles) makes ʟᴏᴧ appear to move down from the point of view of ʟᴜᴍ
 
 - <a name="nicekiles">**nicekiles**</a> _n._ ([niceki](#niceki)+[les](#les))  
 one who moves down
@@ -4322,7 +4322,7 @@ Nicaraguan; the Nicaraguan people
 debitter; ʟєꜱ makes ʟᴏᴧ become less bitter
 
 - <a name="nikhu">**nikhu**</a> _v._ ([~~kunci~~](#kunci))  
-be free; be independent; be weak; ʟᴜᴍ cannot tell ʟᴏᴧ what to do
+be free; be independent; be weak; [ʟᴜᴍ](#nikhulum) cannot tell [ʟᴏᴧ](#nikhulon) what to do
 
 - <a name="nikhulon">**nikhulon**</a> _n._ ([nikhu](#nikhu)+[lon](#lon))  
 free; independent
@@ -4331,7 +4331,7 @@ free; independent
 weak
 
 - <a name="nikhuki">**nikhuki**</a> _v._ ([nikhu](#nikhu)+[ki](#ki))  
-lose control; release; free; ʟєꜱ releases ʟᴏᴧ from ʟᴜᴍ's control
+lose control; release; free; [ʟєꜱ](#nikhukiles) releases [ʟᴏᴧ](#nikhukilon) from ʟᴜᴍ's control
 
 - <a name="nikhukiles">**nikhukiles**</a> _n._ ([nikhuki](#nikhuki)+[les](#les))  
 releaser
@@ -4340,7 +4340,7 @@ releaser
 freed
 
 - <a name="nita">**nita**</a> _v._ ([~~kula~~](#kula))  
-be hard; be rigid; be firm; be strong; be unforgiving; the surface of ʟᴏᴧ feels hard
+be hard; be rigid; be firm; be strong; be unforgiving; the surface of [ʟᴏᴧ](#nitalon) feels hard
 
 - <a name="nitaec">**nitaec**</a> _n._ ([nita](#nita)+[ec](#ec))  
 bone
@@ -4367,7 +4367,7 @@ previous; last
 harden; firm; ʟєꜱ makes ʟᴏᴧ become hard
 
 - <a name="nitakio">**nitakio**</a> _v._ ([nita](#nita)+[kio](#kio))  
-be diamond; ʟᴏᴧ is made of diamond
+be diamond; [ʟᴏᴧ](#nitakiolon) is made of diamond
 
 - <a name="nitakiolon">**nitakiolon**</a> _n._ ([nitakio](#nitakio)+[lon](#lon))  
 diamond
@@ -4382,7 +4382,7 @@ yesterday
 last year
 
 - <a name="nitatatu">**nitatatu**</a> _v._ ([nita](#nita)+[tatu](#tatu))  
-be iron; ʟᴏᴧ is made of iron
+be iron; [ʟᴏᴧ](#nitatatulon) is made of iron
 
 - <a name="nitatatulon">**nitatatulon**</a> _n._ ([nitatatu](#nitatatu)+[lon](#lon))  
 iron
@@ -4394,7 +4394,7 @@ vertebrate
 nut
 
 - <a name="nito">**nito**</a> _v._ ([~~kule~~](#kule))  
-be near; be close; be before; be approximately; be almost; be like; ʟᴏᴧ is physically or numerically close to ʟᴜᴍ
+be near; be close; be before; be approximately; be almost; be like; [ʟᴏᴧ](#nitolon) is physically or numerically close to ʟᴜᴍ
 
 - <a name="nitoesta">**nitoesta**</a> _v._ ([nito](#nito)+[esta](#esta))  
 coexist; tolerate; ʟᴏᴧ coexists with ʟᴜᴍ
@@ -4412,13 +4412,13 @@ near; close; before; approximately; almost; like
 meeting
 
 - <a name="nitoki">**nitoki**</a> _v._ ([nito](#nito)+[ki](#ki))  
-approach; go toward; meet; draw close; bring together; gather; go to; go in; ʟєꜱ moves ʟᴏᴧ toward ʟᴜᴍ
+approach; go toward; meet; draw close; bring together; gather; go to; go in; [ʟєꜱ](#nitokiles) moves ʟᴏᴧ toward ʟᴜᴍ
 
 - <a name="nitokiles">**nitokiles**</a> _n._ ([nitoki](#nitoki)+[les](#les))  
 gatherer; joiner
 
 - <a name="nitu">**nitu**</a> _v._ ([~~kuli~~](#kuli))  
-be unsavoury; ʟᴏᴧ is not very savoury
+be unsavoury; [ʟᴏᴧ](#nitulon) is not very savoury
 
 - <a name="nitulon">**nitulon**</a> _n._ ([nitu](#nitu)+[lon](#lon))  
 unsavoury
@@ -4439,7 +4439,7 @@ Japanese person; the Japanese people
 Japanese; the Japanese language
 
 - <a name="nu">**nu**</a> _v._ ([~~ki~~](#ki))  
-end; stop; cease; cancel; unbecome; come from; go from; change from; send; leave; depart; from; de- -ify; _cessative_; ʟєꜱ makes ʟᴏᴧ transitions from truth to falsehood
+end; stop; cease; cancel; unbecome; come from; go from; change from; send; leave; depart; from; de- -ify; _cessative_; [ʟєꜱ](#nules) makes [ʟᴏᴧ](#nulon) transitions from truth to falsehood
 
 - <a name="nul">**nul**</a> _num._ (Epo.  ⟨nulo⟩ \[nulo\])  
 0; zero; none; no
@@ -4490,13 +4490,13 @@ rodent; treeshrew; rabbit; hare; pika; hedgehog; mole; shrew; Glires
 murine
 
 - <a name="nyama">**nyama**</a> _v._ (ono.  \[njam njam\])  
-eat; drink; take; ʟєꜱ eats ʟᴏᴧ
+eat; drink; take; [ʟєꜱ](#nyamales) eats [ʟᴏᴧ](#nyamalon)
 
 - <a name="nyamaec">**nyamaec**</a> _n._ ([nyama](#nyama)+[ec](#ec))  
 mouth
 
 - <a name="nyamaecnepuci">**nyamaecnepuci**</a> _v._ ([nyamaec](#nyamaec)+[nepuci](#nepuci))  
-bite; ʟєꜱ bites ʟᴏᴧ
+bite; [ʟєꜱ](#nyamaecnepuciles) bites [ʟᴏᴧ](#nyamaecnepucilon)
 
 - <a name="nyamaecnepucilon">**nyamaecnepucilon**</a> _n._ ([nyamaecnepuci](#nyamaecnepuci)+[lon](#lon))  
 bitten
@@ -4511,7 +4511,7 @@ hard palate
 soft palate; velum
 
 - <a name="nyamaecsapu">**nyamaecsapu**</a> _v._ ([nyamaec](#nyamaec)+[sapu](#sapu))  
-suck; ʟєꜱ sucks on ʟᴏᴧ
+suck; [ʟєꜱ](#nyamaecsapules) sucks on [ʟᴏᴧ](#nyamaecsapulon)
 
 - <a name="nyamaecsapules">**nyamaecsapules**</a> _n._ ([nyamaecsapu](#nyamaecsapu)+[les](#les))  
 sucker
@@ -4529,7 +4529,7 @@ food; drink; meal
 kitchen
 
 - <a name="nyamaloncyauki">**nyamaloncyauki**</a> _v._ ([nyamalon](#nyamalon)+[cyauki](#cyauki))  
-cook; fry; bake; boil; simmer; grill; ʟєꜱ cooks ʟᴏᴧ
+cook; fry; bake; boil; simmer; grill; [ʟєꜱ](#nyamaloncyaukiles) cooks [ʟᴏᴧ](#nyamaloncyaukilon)
 
 - <a name="nyamaloncyaukilon">**nyamaloncyaukilon**</a> _n._ ([nyamaloncyauki](#nyamaloncyauki)+[lon](#lon))  
 cooking
@@ -4553,7 +4553,7 @@ tooth
 alveolar ridge; alveolar margin
 
 - <a name="nyamamai">**nyamamai**</a> _v._ ([nyama](#nyama)+[mai](#mai))  
-dine out; ʟᴏᴧ buys ʟᴜᴍ from ʟєꜱ
+dine out; [ʟᴏᴧ](#nyamamailon) buys [ʟᴜᴍ](#nyamamailum) from [ʟєꜱ](#nyamamailes)
 
 - <a name="nyamamailes">**nyamamailes**</a> _n._ ([nyamamai](#nyamamai)+[les](#les))  
 restaurant; server
@@ -4595,13 +4595,13 @@ expectorate; spit; salivate; ʟєꜱ spits ʟᴏᴧ out
 gums
 
 - <a name="nyamapowi">**nyamapowi**</a> _v._ ([nyama](#nyama)+[powi](#powi))  
-be edible; be potable; ʟᴏᴧ is edible to ʟєꜱ
+be edible; be potable; [ʟᴏᴧ](#nyamapowilon) is edible to ʟєꜱ
 
 - <a name="nyamapowilon">**nyamapowilon**</a> _n._ ([nyamapowi](#nyamapowi)+[lon](#lon))  
 edible; potable
 
 - <a name="nyo">**nyo**</a> _v._ (Ben.  ⟨না⟩ \[naː\])  
-no; not; be false; be wrong; be incorrect; be not happening; be fake; _negative_; ʟᴏᴧ is not happening
+no; not; be false; be wrong; be incorrect; be not happening; be fake; _negative_; [ʟᴏᴧ](#nyolon) is not happening
 
 - <a name="nyoayfhaumailyot">**nyoayfhaumailyot**</a> _n._ ([nyo](#nyo)+[ayf](#ayf)+[hau](#hau)+[mailyot](#mailyot))  
 grocery store
@@ -4616,7 +4616,7 @@ falsehood; fiction; false; wrong; incorrect; not happening; fake
 disprove; falsify; compromise; log out; ʟєꜱ proves ʟᴏᴧ false
 
 - <a name="nyotewi">**nyotewi**</a> _v._ ([nyo](#nyo)+[tewi](#tewi))  
-be forbidden; be against the rules; be illegal; be prohibited; ʟᴏᴧ is not allowed to make ʟᴜᴍ happen
+be forbidden; be against the rules; be illegal; be prohibited; ʟᴏᴧ is not allowed to make [ʟᴜᴍ](#nyotewilum) happen
 
 - <a name="nyotewilum">**nyotewilum**</a> _n._ ([nyotewi](#nyotewi)+[lum](#lum))  
 banned; forbidden; against the rules; illegal; prohibited
@@ -4625,19 +4625,19 @@ banned; forbidden; against the rules; illegal; prohibited
 allow; permit; ʟєꜱ permits ʟᴏᴧ to make ʟᴜᴍ happen
 
 - <a name="nyotewinyo">**nyotewinyo**</a> _v._ ([nyo](#nyo)+[tewinyo](#tewinyo))  
-may; be allowed; be legal; be permitted; ʟᴏᴧ is allowed to make ʟᴜᴍ happen
+may; be allowed; be legal; be permitted; ʟᴏᴧ is allowed to make [ʟᴜᴍ](#nyotewinyolum) happen
 
 - <a name="nyotewinyolum">**nyotewinyolum**</a> _n._ ([nyotewinyo](#nyotewinyo)+[lum](#lum))  
 allowed; legal; permitted
 
 - <a name="nyotewiki">**nyotewiki**</a> _v._ ([nyotewi](#nyotewi)+[ki](#ki))  
-forbid; pass rules against; prohibit; ban; ʟєꜱ forbids ʟᴏᴧ from making ʟᴜᴍ happen
+forbid; pass rules against; prohibit; ban; [ʟєꜱ](#nyotewikiles) forbids ʟᴏᴧ from making ʟᴜᴍ happen
 
 - <a name="nyotewikiles">**nyotewikiles**</a> _n._ ([nyotewiki](#nyotewiki)+[les](#les))  
 authority
 
 - <a name="nyoti">**nyoti**</a> _v._ ([nyo](#nyo)+[ti](#ti))  
-lie; be dishonest; ʟєꜱ expresses ʟᴏᴧ, which they think to be false
+lie; be dishonest; ʟєꜱ expresses [ʟᴏᴧ](#nyotilon), which they think to be false
 
 - <a name="nyotilon">**nyotilon**</a> _n._ ([nyoti](#nyoti)+[lon](#lon))  
 lie; feint; falsehood; dishonest
@@ -4646,7 +4646,7 @@ lie; feint; falsehood; dishonest
 mistrust; find untrustworthy; ʟᴏᴧ does not trust ʟᴜᴍ
 
 - <a name="nyopensi">**nyopensi**</a> _v._ ([nyo](#nyo)+[pensi](#pensi))  
-be wrong; be incorrect; ʟᴏᴧ thinks ʟᴜᴍ to be true even though it is not
+be wrong; be incorrect; [ʟᴏᴧ](#nyopensilon) thinks [ʟᴜᴍ](#nyopensilum) to be true even though it is not
 
 - <a name="nyopensilon">**nyopensilon**</a> _n._ ([nyopensi](#nyopensi)+[lon](#lon))  
 wrong; incorrect
@@ -4678,7 +4678,7 @@ Melanesia
 minus; negative
 
 - <a name="meha">**meha**</a> _v._ ([~~poca~~](#poca))  
-be fresh; ʟᴏᴧ is fresh
+be fresh; [ʟᴏᴧ](#mehalon) is fresh
 
 - <a name="mehalon">**mehalon**</a> _n._ ([meha](#meha)+[lon](#lon))  
 fresh
@@ -4708,7 +4708,7 @@ ninth
 freshman year of high school
 
 - <a name="mekle">**mekle**</a> _v._ ([~~ponto~~](#ponto))  
-be open; be cupped; be U-shaped; be confined; ʟᴏᴧ is open on one side
+be open; be cupped; be U-shaped; be confined; [ʟᴏᴧ](#meklelon) is open on one side
 
 - <a name="meklelekpoltilum">**meklelekpoltilum**</a> _n._ ([mekle](#mekle)+[lekpoltilum](#lekpoltilum))  
 skirt
@@ -4720,13 +4720,13 @@ cup; bowl; corner; hole; bay; dip; U; open; cupped; U-shaped; confined
 door
 
 - <a name="mekleki">**mekleki**</a> _v._ ([mekle](#mekle)+[ki](#ki))  
-open; dig; cup; divot; carve out; ʟєꜱ makes ʟᴏᴧ open
+open; dig; cup; divot; carve out; [ʟєꜱ](#meklekiles) makes ʟᴏᴧ open
 
 - <a name="meklekiles">**meklekiles**</a> _n._ ([mekleki](#mekleki)+[les](#les))  
 opener
 
 - <a name="meklepowi">**meklepowi**</a> _v._ ([mekle](#mekle)+[powi](#powi))  
-be unlocked; ʟᴏᴧ is unlocked
+be unlocked; [ʟᴏᴧ](#meklepowilon) is unlocked
 
 - <a name="meklepowilon">**meklepowilon**</a> _n._ ([meklepowi](#meklepowi)+[lon](#lon))  
 unlocked
@@ -4735,7 +4735,7 @@ unlocked
 lock; close; ʟєꜱ locks ʟᴏᴧ
 
 - <a name="meklepowinyo">**meklepowinyo**</a> _v._ ([meklepowi](#meklepowi)+[nyo](#nyo))  
-be locked; ʟᴏᴧ is locked
+be locked; [ʟᴏᴧ](#meklepowinyolon) is locked
 
 - <a name="meklepowinyolon">**meklepowinyolon**</a> _n._ ([meklepowinyo](#meklepowinyo)+[lon](#lon))  
 locked
@@ -4762,7 +4762,7 @@ New Zealand; Aotearoa
 Maori; Te Reo; the Maori language
 
 - <a name="mai">**mai**</a> _v._ (Cmn.  ⟨卖⟩ \[maɪ̯˥˩\])  
-sell; buy; vend; purchase; ʟᴏᴧ legally obtains ʟᴜᴍ from ʟєꜱ
+sell; buy; vend; purchase; [ʟᴏᴧ](#mailon) legally obtains [ʟᴜᴍ](#mailum) from [ʟєꜱ](#mailes)
 
 - <a name="mailes">**mailes**</a> _n._ ([mai](#mai)+[les](#les))  
 vendor; salesperson
@@ -4774,7 +4774,7 @@ private
 economy
 
 - <a name="mailetsoma">**mailetsoma**</a> _v._ ([mailet](#mailet)+[soma](#soma))  
-do economics; ʟєꜱ studies economies to learn about ʟᴏᴧ
+do economics; [ʟєꜱ](#mailetsomales) studies economies to learn about [ʟᴏᴧ](#mailetsomalon)
 
 - <a name="mailetsomales">**mailetsomales**</a> _n._ ([mailetsoma](#mailetsoma)+[les](#les))  
 economist
@@ -4810,7 +4810,7 @@ ticket booth
 anteater
 
 - <a name="maicuaki">**maicuaki**</a> _v._ ([mai](#mai)+[cuaki](#cuaki))  
-advertise; ʟєꜱ advertises ʟᴜᴍ to ʟᴏᴧ
+advertise; [ʟєꜱ](#maicuakiles) advertises [ʟᴜᴍ](#maicuakilum) to [ʟᴏᴧ](#maicuakilon)
 
 - <a name="maicuakiles">**maicuakiles**</a> _n._ ([maicuaki](#maicuaki)+[les](#les))  
 advertiser
@@ -4828,13 +4828,13 @@ corn; maize; Zea mays
 corporation; company; business
 
 - <a name="mayo">**mayo**</a> _v._ ([~~pawe~~](#pawe))  
-leave bare; expose; leave open; ʟᴏᴧ covers little of ʟᴜᴍ
+leave bare; expose; leave open; ʟᴏᴧ covers little of [ʟᴜᴍ](#mayolum)
 
 - <a name="mayolum">**mayolum**</a> _n._ ([mayo](#mayo)+[lum](#lum))  
 bare; open; exposed
 
 - <a name="mayoki">**mayoki**</a> _v._ ([mayo](#mayo)+[ki](#ki))  
-uncover; bare; expose; open; ʟєꜱ makes ʟᴏᴧ stop surrounding ʟᴜᴍ
+uncover; bare; expose; open; [ʟєꜱ](#mayokiles) makes ʟᴏᴧ stop surrounding ʟᴜᴍ
 
 - <a name="mayokiles">**mayokiles**</a> _n._ ([mayoki](#mayoki)+[les](#les))  
 uncoverer
@@ -4900,7 +4900,7 @@ Maltese; the Maltese people
 Maltese; the Maltese language
 
 - <a name="manca">**manca**</a> _v._ (Nya.  ⟨-manja⟩ \[mand͡ʒa\])  
-be to the right; ʟᴏᴧ has a positive _x_ coordinate from ʟᴜᴍ's point of view
+be to the right; [ʟᴏᴧ](#mancalon) has a positive _x_ coordinate from ʟᴜᴍ's point of view
 
 - <a name="mancalon">**mancalon**</a> _n._ ([manca](#manca)+[lon](#lon))  
 right side; to the right
@@ -4921,7 +4921,7 @@ manganese
 mantis; Mantodea
 
 - <a name="mama">**mama**</a> _v._ (ono.  \[mama\])  
-raise; parent; ʟєꜱ raises ʟᴏᴧ
+raise; parent; [ʟєꜱ](#mamales) raises [ʟᴏᴧ](#mamalon)
 
 - <a name="mamaec">**mamaec**</a> _n._ ([mama](#mama)+[ec](#ec))  
 mamary gland
@@ -4969,7 +4969,7 @@ Moroccan; the Moroccan people
 Berber; Amazigh; Tamazight; the Berber languages
 
 - <a name="mace">**mace**</a> _v._ ([~~paho~~](#paho))  
-be high; be over; ʟᴏᴧ has a higher altitude than ʟᴜᴍ
+be high; be over; [ʟᴏᴧ](#macelon) has a higher altitude than ʟᴜᴍ
 
 - <a name="macelek">**macelek**</a> _n._ ([mace](#mace)+[lek](#lek))  
 stilt
@@ -4978,7 +4978,7 @@ stilt
 top; heights; high; over
 
 - <a name="maceki">**maceki**</a> _v._ ([mace](#mace)+[ki](#ki))  
-lift; heighten; ascend; elevate; ʟєꜱ increases ʟᴏᴧ's altitude relative to ʟᴜᴍ
+lift; heighten; ascend; elevate; [ʟєꜱ](#macekiles) increases ʟᴏᴧ's altitude relative to ʟᴜᴍ
 
 - <a name="macekiles">**macekiles**</a> _n._ ([maceki](#maceki)+[les](#les))  
 one who heightens
@@ -5077,7 +5077,7 @@ magnesium
 plate; board; wall; rigid two-dimensional object
 
 - <a name="matu">**matu**</a> _v._ ([~~pali~~](#pali))  
-be light; ʟᴏᴧ is light
+be light; [ʟᴏᴧ](#matulon) is light
 
 - <a name="matulon">**matulon**</a> _n._ ([matu](#matu)+[lon](#lon))  
 lightweight; light
@@ -5086,22 +5086,22 @@ lightweight; light
 lighten; ʟєꜱ lightens ʟᴏᴧ
 
 - <a name="mapametlo">**mapametlo**</a> _v._ ([~~pamapolte~~](#pamapolte))  
-be turned clockwise; ʟᴏᴧ appears rotated clockwise from the orientation ʟᴏᴧ from the point of view of ʟᴜᴍ
+be turned clockwise; [ʟᴏᴧ](#mapametlolon) appears rotated clockwise from the orientation [ʟᴏᴧ](#mapametlolon) from the point of view of ʟᴜᴍ
 
 - <a name="mapametlolon">**mapametlolon**</a> _n._ ([mapametlo](#mapametlo)+[lon](#lon))  
 turned clockwise
 
 - <a name="mapametloki">**mapametloki**</a> _v._ ([mapametlo](#mapametlo)+[ki](#ki))  
-rotate clockwise; ʟєꜱ turns ʟᴏᴧ clockwise from ʟᴜᴍ's point of view
+rotate clockwise; [ʟєꜱ](#mapametlokiles) turns ʟᴏᴧ clockwise from ʟᴜᴍ's point of view
 
 - <a name="mapametlokiles">**mapametlokiles**</a> _n._ ([mapametloki](#mapametloki)+[les](#les))  
 clockwise turner
 
 - <a name="mo">**mo**</a> _v._ ([~~pe~~](#pe))  
-be without; be apart; be away; ʟᴏᴧ does not accompany ʟєꜱ
+be without; be apart; be away; [ʟᴏᴧ](#molon) does not accompany ʟєꜱ
 
 - <a name="moye">**moye**</a> _v._ (Yor.  ⟨mòye⟩ \[mòjē\])  
-understand; comprehend; be sensical; know; be smart; ʟᴏᴧ understands ʟᴜᴍ well
+understand; comprehend; be sensical; know; be smart; [ʟᴏᴧ](#moyelon) understands [ʟᴜᴍ](#moyelum) well
 
 - <a name="moyelon">**moyelon**</a> _n._ ([moye](#moye)+[lon](#lon))  
 understander; smart
@@ -5116,7 +5116,7 @@ level of understanding
 feel curious; wonder; ʟᴏᴧ is curious about ʟᴜᴍ
 
 - <a name="moyeki">**moyeki**</a> _v._ ([moye](#moye)+[ki](#ki))  
-explain; describe; ʟєꜱ teaches ʟᴏᴧ to understand ʟᴜᴍ
+explain; describe; [ʟєꜱ](#moyekiles) teaches [ʟᴏᴧ](#moyekilon) to understand ʟᴜᴍ
 
 - <a name="moyekiles">**moyekiles**</a> _n._ ([moyeki](#moyeki)+[les](#les))  
 tutor; teacher
@@ -5173,7 +5173,7 @@ Mongolia
 Mongolian; the Mongolian language
 
 - <a name="monta">**monta**</a> _v._ (Spa.  ⟨monta⟩ \[ˈmonta\])  
-ride; transport; ʟєꜱ rides on ʟᴏᴧ
+ride; transport; [ʟєꜱ](#montales) rides on [ʟᴏᴧ](#montalon)
 
 - <a name="montales">**montales**</a> _n._ ([monta](#monta)+[les](#les))  
 passenger
@@ -5197,10 +5197,10 @@ Mauritian creole; Morisien
 mosquito; Culicidae
 
 - <a name="moca">**moca**</a> _v._ (Ben.  ⟨মজা⟩ \[mɔd͡ʑa\])  
-have fun; be amused; play; entertain; ʟᴏᴧ is entertained by ʟᴜᴍ
+have fun; be amused; play; entertain; [ʟᴏᴧ](#mocalon) is entertained by [ʟᴜᴍ](#mocalum)
 
 - <a name="mocaufu">**mocaufu**</a> _v._ ([moca](#moca)+[ufu](#ufu))  
-challenge; be challenging; ʟєꜱ challenges ʟᴏᴧ with ʟᴜᴍ
+challenge; be challenging; [ʟєꜱ](#mocaufules) challenges [ʟᴏᴧ](#mocaufulon) with [ʟᴜᴍ](#mocaufulum)
 
 - <a name="mocaufules">**mocaufules**</a> _n._ ([mocaufu](#mocaufu)+[les](#les))  
 challenger
@@ -5227,7 +5227,7 @@ alcohol
 alcoholic
 
 - <a name="mocafake">**mocafake**</a> _v._ ([moca](#moca)+[fake](#fake))  
-be drunk; be intoxicated; ʟᴏᴧ is drunk
+be drunk; be intoxicated; [ʟᴏᴧ](#mocafakelon) is drunk
 
 - <a name="mocafakelon">**mocafakelon**</a> _n._ ([mocafake](#mocafake)+[lon](#lon))  
 drunk; intoxicated
@@ -5239,13 +5239,13 @@ sober; ʟєꜱ makes ʟᴏᴧ become sober
 drink; get drunk; intoxicate; ʟєꜱ makes ʟᴏᴧ drunk
 
 - <a name="mocaki">**mocaki**</a> _v._ ([moca](#moca)+[ki](#ki))  
-entertain; make fun; ʟєꜱ makes ʟᴏᴧ be entertained by ʟᴜᴍ
+entertain; make fun; [ʟєꜱ](#mocakiles) makes ʟᴏᴧ be entertained by ʟᴜᴍ
 
 - <a name="mocakiles">**mocakiles**</a> _n._ ([mocaki](#mocaki)+[les](#les))  
 entertainer
 
 - <a name="mota">**mota**</a> _v._ (Mar.  ⟨मोठा⟩ \[moʈʰaː\])  
-be big; be large; be spacious; ʟᴏᴧ has a high volume
+be big; be large; be spacious; [ʟᴏᴧ](#motalon) has a high volume
 
 - <a name="motaipis">**motaipis**</a> _n._ ([mota](#mota)+[ipis](#ipis))  
 cockroach
@@ -5269,7 +5269,7 @@ size; volume
 pumpkin
 
 - <a name="motanilututumulwel">**motanilututumulwel**</a> _n._ ([mota](#mota)+[nilututumulwel](#nilututumulwel))  
-tsunami; tidal wave; ʟᴏᴧ is struck by a tsunami from ʟєꜱ
+tsunami; tidal wave; ʟᴏᴧ is struck by a tsunami from [ʟєꜱ](#motanilututumulwelles)
 
 - <a name="motanilututumulwelles">**motanilututumulwelles**</a> _n._ ([motanilututumulwel](#motanilututumulwel)+[les](#les))  
 oceanic earthquake
@@ -5287,7 +5287,7 @@ Pacific Ocean
 Pacific
 
 - <a name="motaswa">**motaswa**</a> _v._ ([mota](#mota)+[swa](#swa))  
-feel awe; ʟᴏᴧ feels awe at ʟᴜᴍ
+feel awe; [ʟᴏᴧ](#motaswalon) feels awe at [ʟᴜᴍ](#motaswalum)
 
 - <a name="motaswalon">**motaswalon**</a> _n._ ([motaswa](#motaswa)+[lon](#lon))  
 awed
@@ -5305,7 +5305,7 @@ Ugandan; from Uganda
 Uganda
 
 - <a name="motaki">**motaki**</a> _v._ ([mota](#mota)+[ki](#ki))  
-grow; expand; dilate; swell; ʟєꜱ grows ʟᴏᴧ
+grow; expand; dilate; swell; [ʟєꜱ](#motakiles) grows [ʟᴏᴧ](#motakilon)
 
 - <a name="motakiah">**motakiah**</a> _n._ ([mota](#mota)+[kiah](#kiah))  
 condor
@@ -5329,13 +5329,13 @@ Jovian
 Great Brittan
 
 - <a name="mila">**mila**</a> _v._ (Sho.  ⟨mira⟩ \[mira\])  
-wait; ʟᴏᴧ is waiting for ʟᴜᴍ
+wait; [ʟᴏᴧ](#milalon) is waiting for ʟᴜᴍ
 
 - <a name="milalon">**milalon**</a> _n._ ([mila](#mila)+[lon](#lon))  
 in wait
 
 - <a name="milu">**milu**</a> _v._ ([~~puti~~](#puti))  
-be black; be dark; be tan; ʟᴏᴧ reflects little light
+be black; be dark; be tan; [ʟᴏᴧ](#milulon) reflects little light
 
 - <a name="miluilulih">**miluilulih**</a> _n._ ([milu](#milu)+[ilu](#ilu)+[lih](#lih))  
 raccoon
@@ -5347,7 +5347,7 @@ black; dark; tan
 blacken; darken; shade; burn; tan; ʟєꜱ darkens ʟᴏᴧ
 
 - <a name="milukuta">**milukuta**</a> _v._ ([milu](#milu)+[kuta](#kuta))  
-be brown; be murky; ʟᴏᴧ looks brown
+be brown; be murky; [ʟᴏᴧ](#milukutalon) looks brown
 
 - <a name="milukutalon">**milukutalon**</a> _n._ ([milukuta](#milukuta)+[lon](#lon))  
 brown; murky
@@ -5383,7 +5383,7 @@ millet; resilient, productive cereal crop
 kiwifruit; kiwi; Chinese gooseberry; Actinidia
 
 - <a name="mihu">**mihu**</a> _v._ ([~~puci~~](#puci))  
-pull; attract; ʟєꜱ pulls on ʟᴏᴧ
+pull; attract; [ʟєꜱ](#mihules) pulls on [ʟᴏᴧ](#mihulon)
 
 - <a name="mihules">**mihules**</a> _n._ ([mihu](#mihu)+[les](#les))  
 attraction
@@ -5392,13 +5392,13 @@ attraction
 pulled
 
 - <a name="mihutatu">**mihutatu**</a> _v._ ([mihu](#mihu)+[tatu](#tatu))  
-be magnetic; ʟᴏᴧ is magnetic
+be magnetic; [ʟᴏᴧ](#mihutatulon) is magnetic
 
 - <a name="mihutatulon">**mihutatulon**</a> _n._ ([mihutatu](#mihutatu)+[lon](#lon))  
 magnet; magnetic
 
 - <a name="mihutatuniluhilasoma">**mihutatuniluhilasoma**</a> _v._ ([mihutatu](#mihutatu)+[nilu](#nilu)+[hila](#hila)+[soma](#soma))  
-do magnetohydrodynamics; ʟєꜱ studies the motion of conductive fluids in magnetic fields to learn about ʟᴏᴧ
+do magnetohydrodynamics; [ʟєꜱ](#mihutatuniluhilasomales) studies the motion of conductive fluids in magnetic fields to learn about [ʟᴏᴧ](#mihutatuniluhilasomalon)
 
 - <a name="mihutatuniluhilasomalon">**mihutatuniluhilasomalon**</a> _n._ ([mihutatuniluhilasoma](#mihutatuniluhilasoma)+[lon](#lon))  
 magnetohydrodynamics
@@ -5407,7 +5407,7 @@ magnetohydrodynamics
 magnetohydrodynamicist
 
 - <a name="miclo">**miclo**</a> _v._ (Ben.  ⟨মিশ্র⟩ \[miɕrɔ\])  
-be mixed; be impure; be tainted; permeate; ʟᴜᴍ is mixed into ʟᴏᴧ
+be mixed; be impure; be tainted; permeate; [ʟᴜᴍ](#miclolum) is mixed into [ʟᴏᴧ](#miclolon)
 
 - <a name="miclolon">**miclolon**</a> _n._ ([miclo](#miclo)+[lon](#lon))  
 solvent; mixed; impure; tainted
@@ -5437,19 +5437,19 @@ Micronesia; Federated States of Micronesia
 Micronesian; the Micronesian citizenry
 
 - <a name="mita">**mita**</a> _v._ ([~~pula~~](#pula))  
-be unclean; be dirty; be filthy; be grimy; be gross; be unsanitary; ʟᴏᴧ is unclean
+be unclean; be dirty; be filthy; be grimy; be gross; be unsanitary; [ʟᴏᴧ](#mitalon) is unclean
 
 - <a name="mitalon">**mitalon**</a> _n._ ([mita](#mita)+[lon](#lon))  
 filth; unclean; dirty; filthy; grimy; gross; unsanitary
 
 - <a name="mitaki">**mitaki**</a> _v._ ([mita](#mita)+[ki](#ki))  
-dirty; grimify; desanitise; ʟєꜱ makes ʟᴏᴧ unclean
+dirty; grimify; desanitise; [ʟєꜱ](#mitakiles) makes ʟᴏᴧ unclean
 
 - <a name="mitakiles">**mitakiles**</a> _n._ ([mitaki](#mitaki)+[les](#les))  
 dirtier
 
 - <a name="mitu">**mitu**</a> _v._ ([~~puli~~](#puli))  
-be empty; be blank; ʟᴏᴧ is empty of ʟᴜᴍ
+be empty; be blank; [ʟᴏᴧ](#mitulon) is empty of ʟᴜᴍ
 
 - <a name="mitulon">**mitulon**</a> _n._ ([mitu](#mitu)+[lon](#lon))  
 void; vacuum; empty; blank
@@ -5467,7 +5467,7 @@ scorpionfly
 celestial; atmospheric; meteorological; aerial; heavenly
 
 - <a name="mipinanu">**mipinanu**</a> _v._ ([mip](#mip)+[inanu](#inanu))  
-strike; ʟᴏᴧ is struck by lightning from ʟєꜱ
+strike; ʟᴏᴧ is struck by lightning from [ʟєꜱ](#mipinanules)
 
 - <a name="mipinanules">**mipinanules**</a> _n._ ([mipinanu](#mipinanu)+[les](#les))  
 thundercloud; thunderstorm
@@ -5476,7 +5476,7 @@ thundercloud; thunderstorm
 flying machine; airplane; helicopter; balloon
 
 - <a name="miphila">**miphila**</a> _v._ ([mip](#mip)+[hila](#hila))  
-blow; gust; wind blows on ʟᴏᴧ from ʟєꜱ
+blow; gust; wind blows on ʟᴏᴧ from [ʟєꜱ](#miphilales)
 
 - <a name="miphilales">**miphilales**</a> _n._ ([miphila](#miphila)+[les](#les))  
 wind system
@@ -5491,7 +5491,7 @@ comet
 nitrogen
 
 - <a name="mipkae">**mipkae**</a> _v._ ([mip](#mip)+[kae](#kae))  
-rain; precipitate; ʟᴏᴧ falls from the sky
+rain; precipitate; [ʟᴏᴧ](#mipkaelon) falls from the sky
 
 - <a name="mipkaelon">**mipkaelon**</a> _n._ ([mipkae](#mipkae)+[lon](#lon))  
 rain; precipitation
@@ -5509,7 +5509,7 @@ Uranus
 Uranic
 
 - <a name="muafa">**muafa**</a> _v._ ([~~piasa~~](#piasa))  
-be unfamiliar with; be unaccustomed; be strange; be foreign; ʟᴜᴍ is unfamiliar to ʟᴏᴧ
+be unfamiliar with; be unaccustomed; be strange; be foreign; [ʟᴜᴍ](#muafalum) is unfamiliar to [ʟᴏᴧ](#muafalon)
 
 - <a name="muafalon">**muafalon**</a> _n._ ([muafa](#muafa)+[lon](#lon))  
 unfamiliar with; unaccustomed; strange; foreign
@@ -5518,7 +5518,7 @@ unfamiliar with; unaccustomed; strange; foreign
 unfamiliar to; stranger
 
 - <a name="muafaki">**muafaki**</a> _v._ ([muafa](#muafa)+[ki](#ki))  
-unfamiliarise; get unaccustomed; forget; lose; ʟєꜱ makes ʟᴏᴧ become unfamiliar with ʟᴜᴍ
+unfamiliarise; get unaccustomed; forget; lose; [ʟєꜱ](#muafakiles) makes ʟᴏᴧ become unfamiliar with ʟᴜᴍ
 
 - <a name="muafakiles">**muafakiles**</a> _n._ ([muafaki](#muafaki)+[les](#les))  
 unfamiliariser
@@ -5533,7 +5533,7 @@ Mauritanian; from Mauritania
 Mauritanian; the Mauritanian people
 
 - <a name="munaklo">**munaklo**</a> _v._ ([~~pikante~~](#pikante))  
-be mild; be cool; ʟᴏᴧ is not spicy
+be mild; be cool; [ʟᴏᴧ](#munaklolon) is not spicy
 
 - <a name="munaklolon">**munaklolon**</a> _n._ ([munaklo](#munaklo)+[lon](#lon))  
 mild; cool
@@ -5542,7 +5542,7 @@ mild; cool
 mild; cool; despice; ʟєꜱ makes ʟᴏᴧ become less spicy
 
 - <a name="mumu">**mumu**</a> _v._ (ono.  \[mː\])  
-hum; buzz; ʟєꜱ makes ʟᴏᴧ
+hum; buzz; ʟєꜱ makes [ʟᴏᴧ](#mumulon)
 
 - <a name="mumulon">**mumulon**</a> _n._ ([mumu](#mumu)+[lon](#lon))  
 hum; buzz; drawn-out, low-pitched sound or action
@@ -5560,7 +5560,7 @@ much; many; very
 skyscraper; mansion
 
 - <a name="muclono">**muclono**</a> _v._ ([muc](#muc)+[lono](#lono))  
-be vibrant; be colourful; ʟᴏᴧ has many hues and colours
+be vibrant; be colourful; [ʟᴏᴧ](#muclonolon) has many hues and colours
 
 - <a name="muclonolon">**muclonolon**</a> _n._ ([muclono](#muclono)+[lon](#lon))  
 vibrant; colourful
@@ -5578,7 +5578,7 @@ lake; sea
 vast river
 
 - <a name="mucsite">**mucsite**</a> _v._ ([muc](#muc)+[site](#site))  
-be jagged; be zig-zag; be pointy; ʟᴏᴧ is jagged
+be jagged; be zig-zag; be pointy; [ʟᴏᴧ](#mucsitelon) is jagged
 
 - <a name="mucsitelon">**mucsitelon**</a> _n._ ([mucsite](#mucsite)+[lon](#lon))  
 zig-zag; jagged; pointy
@@ -5599,13 +5599,13 @@ auxlang; international auxiliary language
 continent; large landmass bounded by ocean on most sides, e.g. Eurasia, North America
 
 - <a name="muctue">**muctue**</a> _v._ ([muc](#muc)+[tue](#tue))  
-be rich; be wealthy; ʟᴏᴧ is financially rich
+be rich; be wealthy; [ʟᴏᴧ](#muctuelon) is financially rich
 
 - <a name="muctuelon">**muctuelon**</a> _n._ ([muctue](#muctue)+[lon](#lon))  
 rich; wealthy
 
 - <a name="muctunci">**muctunci**</a> _v._ ([muc](#muc)+[tunci](#tunci))  
-govern as a republic; ʟᴜᴍ rules ʟᴏᴧ
+govern as a republic; [ʟᴜᴍ](#muctuncilum) rules ʟᴏᴧ
 
 - <a name="muctuncilum">**muctuncilum**</a> _n._ ([muctunci](#muctunci)+[lum](#lum))  
 representative; house; legislature
@@ -5647,7 +5647,7 @@ facial
 valley; large locally depressed region of a planet's crust
 
 - <a name="muta">**muta**</a> _v._ ([~~pila~~](#pila))  
-be purple; be violet; ʟᴏᴧ reflects short and long wavelength light
+be purple; be violet; [ʟᴏᴧ](#mutalon) reflects short and long wavelength light
 
 - <a name="mutalon">**mutalon**</a> _n._ ([muta](#muta)+[lon](#lon))  
 purple; violet
@@ -5668,7 +5668,7 @@ feline; cat; kitten; Felidae
 feline
 
 - <a name="mwe">**mwe**</a> _v._ ([~~pyo~~](#pyo))  
-be angry; be mad; ʟᴏᴧ is angry about ʟᴜᴍ
+be angry; be mad; [ʟᴏᴧ](#mwelon) is angry about [ʟᴜᴍ](#mwelum)
 
 - <a name="mwelon">**mwelon**</a> _n._ ([mwe](#mwe)+[lon](#lon))  
 angry; mad
@@ -5680,7 +5680,7 @@ maddening
 anger; embolden; ʟєꜱ makes ʟᴏᴧ angry about ʟᴜᴍ
 
 - <a name="mwepowi">**mwepowi**</a> _v._ ([mwe](#mwe)+[powi](#powi))  
-be bold; be courageous; be brave; be brash; be hot-headed; ʟᴏᴧ is quick to anger
+be bold; be courageous; be brave; be brash; be hot-headed; [ʟᴏᴧ](#mwepowilon) is quick to anger
 
 - <a name="mwepowilon">**mwepowilon**</a> _n._ ([mwepowi](#mwepowi)+[lon](#lon))  
 bold; courageous; brave; brash; hot-headed
@@ -5689,7 +5689,7 @@ bold; courageous; brave; brash; hot-headed
 embolden; encourage; embraven; ʟєꜱ makes ʟᴏᴧ bolder
 
 - <a name="mwa">**mwa**</a> _v._ (ono.  \[mwa\])  
-kiss; snog; make out; ʟєꜱ kisses ʟᴏᴧ
+kiss; snog; make out; [ʟєꜱ](#mwales) kisses [ʟᴏᴧ](#mwalon)
 
 - <a name="mwales">**mwales**</a> _n._ ([mwa](#mwa)+[les](#les))  
 kisser
@@ -5698,7 +5698,7 @@ kisser
 kissee
 
 - <a name="mwoni">**mwoni**</a> _v._ (Cmn.  ⟨模拟⟩ \[mwɔ˧˥ni˧˩˧\])  
-model; replicate; image; ʟєꜱ makes ʟᴏᴧ after ʟᴜᴍ
+model; replicate; image; [ʟєꜱ](#mwoniles) makes [ʟᴏᴧ](#mwonilon) after [ʟᴜᴍ](#mwonilum)
 
 - <a name="mwoniles">**mwoniles**</a> _n._ ([mwoni](#mwoni)+[les](#les))  
 modeler
@@ -5733,7 +5733,7 @@ G; sixteen; only used to describe hexadecimal
 sixteenth
 
 - <a name="heta">**heta**</a> _v._ ([~~cola~~](#cola))  
-be narrow; be acute; be small; be little; ʟᴏᴧ spans a narrow angle from the point of view of ʟᴜᴍ
+be narrow; be acute; be small; be little; [ʟᴏᴧ](#hetalon) spans a narrow angle from the point of view of [ʟᴜᴍ](#hetalum)
 
 - <a name="hetalon">**hetalon**</a> _n._ ([heta](#heta)+[lon](#lon))  
 dot; point; narrow; acute; small; little
@@ -5748,7 +5748,7 @@ narrow; shrink; contract; ʟєꜱ makes ʟᴏᴧ span a smaller angle from the p
 soul; spirit; metaphysical essence
 
 - <a name="hepu">**hepu**</a> _v._ ([~~comi~~](#comi))  
-be sparse; be spacious; be infrequent; be loosely distributed; be coarse; ʟᴏᴧ is few and far between in ʟᴜᴍ
+be sparse; be spacious; be infrequent; be loosely distributed; be coarse; [ʟᴏᴧ](#hepulon) is few and far between in [ʟᴜᴍ](#hepulum)
 
 - <a name="hepulon">**hepulon**</a> _n._ ([hepu](#hepu)+[lon](#lon))  
 sparse; infrequent; loosely distributed; coarse
@@ -5760,7 +5760,7 @@ space; room; open space; spacious
 spread out; separate; distribute; ʟєꜱ decreases the spacial frequency of ʟᴏᴧ
 
 - <a name="hai">**hai**</a> _v._ (Eng.  ⟨high⟩ \[hɑɪ̯\])  
-be high-pitched; be shrill; ʟᴏᴧ is highly pitched
+be high-pitched; be shrill; [ʟᴏᴧ](#hailon) is highly pitched
 
 - <a name="hailon">**hailon**</a> _n._ ([hai](#hai)+[lon](#lon))  
 high note; high-pitched; shrill
@@ -5772,7 +5772,7 @@ pitch; frequency
 raise; pitch up; modulate; ʟєꜱ raises the pitch of ʟᴏᴧ
 
 - <a name="hau">**hau**</a> _v._ ([~~cai~~](#cai))  
-dislike; be averse; be bad; disfavour; be unappealing; be displeasing; want not; be ugly; be gross; be negative; ʟᴏᴧ has negative inclinations toward ʟᴜᴍ
+dislike; be averse; be bad; disfavour; be unappealing; be displeasing; want not; be ugly; be gross; be negative; [ʟᴏᴧ](#haulon) has negative inclinations toward [ʟᴜᴍ](#haulum)
 
 - <a name="haulon">**haulon**</a> _n._ ([hau](#hau)+[lon](#lon))  
 pessimist; -phobe; averse; unappealing; displeasing; negative
@@ -5787,7 +5787,7 @@ cost
 hell
 
 - <a name="hauki">**hauki**</a> _v._ ([hau](#hau)+[ki](#ki))  
-discourage; worsen; insult; argue against; negatively impact; ʟєꜱ lowers ʟᴏᴧ's opinion of ʟᴜᴍ
+discourage; worsen; insult; argue against; negatively impact; [ʟєꜱ](#haukiles) lowers [ʟᴏᴧ](#haukilon)'s opinion of ʟᴜᴍ
 
 - <a name="haukiles">**haukiles**</a> _n._ ([hauki](#hauki)+[les](#les))  
 discourager; worsener
@@ -5799,19 +5799,19 @@ discouraged
 dissent; disapprove; ʟєꜱ dissents from ʟᴏᴧ
 
 - <a name="hautiku">**hautiku**</a> _v._ ([hau](#hau)+[tiku](#tiku))  
-be unlucky; be unfortunate; that ʟᴏᴧ happens is unlucky
+be unlucky; be unfortunate; that [ʟᴏᴧ](#hautikulon) happens is unlucky
 
 - <a name="hautikulon">**hautikulon**</a> _n._ ([hautiku](#hautiku)+[lon](#lon))  
 unlucky; unfortunate
 
 - <a name="haupowi">**haupowi**</a> _v._ ([hau](#hau)+[powi](#powi))  
-be dangerous; ʟᴜᴍ is dangerous to ʟᴏᴧ
+be dangerous; [ʟᴜᴍ](#haupowilum) is dangerous to ʟᴏᴧ
 
 - <a name="haupowilum">**haupowilum**</a> _n._ ([haupowi](#haupowi)+[lum](#lum))  
 danger; dangerous
 
 - <a name="haupowinyo">**haupowinyo**</a> _v._ ([haupowi](#haupowi)+[nyo](#nyo))  
-be safe; be secure; ʟᴜᴍ is safe for ʟᴏᴧ
+be safe; be secure; [ʟᴜᴍ](#haupowinyolum) is safe for [ʟᴏᴧ](#haupowinyolon)
 
 - <a name="haupowinyolon">**haupowinyolon**</a> _n._ ([haupowinyo](#haupowinyo)+[lon](#lon))  
 secure
@@ -5847,7 +5847,7 @@ Croatia
 Croatian; the Croatian language
 
 - <a name="hawa">**hawa**</a> _v._ (ono.  \[ˈha̤ːa̤ː\])  
-yawn; ʟєꜱ yawns ʟᴏᴧ
+yawn; [ʟєꜱ](#hawales) yawns [ʟᴏᴧ](#hawalon)
 
 - <a name="'hawayi">**'hawayi**</a> _n._ (Haw.  ⟨Hawaiʻi⟩ \[həˈvɐjʔi\])  
 Hawaii (landmass)
@@ -5886,7 +5886,7 @@ Hausa; of the Hausa
 Hausa; the Hausa language
 
 - <a name="hawku">**hawku**</a> _v._ ([~~cayni~~](#cayni))  
-be matte; be dull; be rough; ʟᴏᴧ reflects light diffusely
+be matte; be dull; be rough; [ʟᴏᴧ](#hawkulon) reflects light diffusely
 
 - <a name="hawkulon">**hawkulon**</a> _n._ ([hawku](#hawku)+[lon](#lon))  
 matte; dull; rough
@@ -5904,7 +5904,7 @@ Han; of the Han
 Han folk religion; Chinese folk religion
 
 - <a name="haha">**haha**</a> _v._ (ono.  \[ha ha\])  
-laugh; ʟєꜱ laughs out ʟᴏᴧ
+laugh; [ʟєꜱ](#hahales) laughs out [ʟᴏᴧ](#hahalon)
 
 - <a name="hahales">**hahales**</a> _n._ ([haha](#haha)+[les](#les))  
 laugher
@@ -5913,7 +5913,7 @@ laugher
 laughter
 
 - <a name="hacu">**hacu**</a> _v._ (ono.  \[haˈt͡ʃuh\])  
-sneeze; ʟєꜱ sneezes out ʟᴏᴧ
+sneeze; [ʟєꜱ](#hacules) sneezes out [ʟᴏᴧ](#haculon)
 
 - <a name="hacules">**hacules**</a> _n._ ([hacu](#hacu)+[les](#les))  
 sneezer
@@ -5931,7 +5931,7 @@ eighth
 octopus
 
 - <a name="ho">**ho**</a> _v._ (Cmn.  ⟨厚⟩ \[xoʊ̯˥˩\])  
-be thick; ʟᴏᴧ is thick in its smallest dimension
+be thick; [ʟᴏᴧ](#holon) is thick in its smallest dimension
 
 - <a name="'ho">**'ho**</a> _n._ (ono.  \[h\])  
 h; /h/; glottal fricative
@@ -5958,7 +5958,7 @@ homeopathy
 domestic
 
 - <a name="hoki">**hoki**</a> _v._ ([ho](#ho)+[ki](#ki))  
-thicken; ʟєꜱ thickens ʟᴏᴧ
+thicken; [ʟєꜱ](#hokiles) thickens ʟᴏᴧ
 
 - <a name="hokiles">**hokiles**</a> _n._ ([hoki](#hoki)+[les](#les))  
 thickener
@@ -5979,7 +5979,7 @@ Min Chinese; the Min languages
 real; R$
 
 - <a name="hila">**hila**</a> _v._ (Hin.  ⟨हिला⟩ \[ɦilaː\])  
-move; jostle; be energetic; be restless; go; ʟᴏᴧ is deforming and moving relative to ʟᴜᴍ
+move; jostle; be energetic; be restless; go; [ʟᴏᴧ](#hilalon) is deforming and moving relative to [ʟᴜᴍ](#hilalum)
 
 - <a name="hilaec">**hilaec**</a> _n._ ([hila](#hila)+[ec](#ec))  
 muscle
@@ -5994,13 +5994,13 @@ reference; frame of reference
 motion; energy
 
 - <a name="hilanoki">**hilanoki**</a> _v._ ([hila](#hila)+[noki](#noki))  
-explore; probe; ʟєꜱ sends ʟᴏᴧ to ʟᴜᴍ to learn about it
+explore; probe; ʟєꜱ sends [ʟᴏᴧ](#hilanokilon) to ʟᴜᴍ to learn about it
 
 - <a name="hilanokilon">**hilanokilon**</a> _n._ ([hilanoki](#hilanoki)+[lon](#lon))  
 probe
 
 - <a name="hilamocaki">**hilamocaki**</a> _v._ ([hila](#hila)+[mocaki](#mocaki))  
-dance; ʟєꜱ dances the ʟᴜᴍ for ʟᴏᴧ
+dance; [ʟєꜱ](#hilamocakiles) dances the [ʟᴜᴍ](#hilamocakilum) for ʟᴏᴧ
 
 - <a name="hilamocakiles">**hilamocakiles**</a> _n._ ([hilamocaki](#hilamocaki)+[les](#les))  
 dancer
@@ -6012,7 +6012,7 @@ dance; dance move
 dance floor
 
 - <a name="hilasoma">**hilasoma**</a> _v._ ([hila](#hila)+[soma](#soma))  
-do physics; ʟєꜱ studies motion to learn about ʟᴏᴧ
+do physics; [ʟєꜱ](#hilasomales) studies motion to learn about [ʟᴏᴧ](#hilasomalon)
 
 - <a name="hilasomales">**hilasomales**</a> _n._ ([hilasoma](#hilasoma)+[les](#les))  
 physicist
@@ -6021,7 +6021,7 @@ physicist
 physics
 
 - <a name="hilaki">**hilaki**</a> _v._ ([hila](#hila)+[ki](#ki))  
-set off; set in motion; move; energise; ʟєꜱ makes ʟᴏᴧ start moving relative to ʟᴜᴍ
+set off; set in motion; move; energise; [ʟєꜱ](#hilakiles) makes ʟᴏᴧ start moving relative to ʟᴜᴍ
 
 - <a name="hilakiles">**hilakiles**</a> _n._ ([hilaki](#hilaki)+[les](#les))  
 motor; actuator
@@ -6030,13 +6030,13 @@ motor; actuator
 mobile phone; cellural phone; cell phone
 
 - <a name="hilapowi">**hilapowi**</a> _v._ ([hila](#hila)+[powi](#powi))  
-be mobile; be movable; be loose; be portable; ʟᴏᴧ moves freely and easily relative to ʟᴜᴍ
+be mobile; be movable; be loose; be portable; [ʟᴏᴧ](#hilapowilon) moves freely and easily relative to ʟᴜᴍ
 
 - <a name="hilapowilon">**hilapowilon**</a> _n._ ([hilapowi](#hilapowi)+[lon](#lon))  
 mobile; movable; loose; portable
 
 - <a name="hilapowinu">**hilapowinu**</a> _v._ ([hilapowi](#hilapowi)+[nu](#nu))  
-stick; bind; tighten; fasten; trap; ʟєꜱ sticks ʟᴏᴧ to ʟᴜᴍ
+stick; bind; tighten; fasten; trap; [ʟєꜱ](#hilapowinules) sticks ʟᴏᴧ to ʟᴜᴍ
 
 - <a name="hilapowinules">**hilapowinules**</a> _n._ ([hilapowinu](#hilapowinu)+[les](#les))  
 tightener
@@ -6048,7 +6048,7 @@ glue; bond; fastener
 banana; plantain
 
 - <a name="hilapowinyo">**hilapowinyo**</a> _v._ ([hilapowi](#hilapowi)+[nyo](#nyo))  
-be stuck; stick; be bound; be immobile; be immovable; be tight; be fixed; be fast; ʟᴏᴧ is bound to ʟᴜᴍ
+be stuck; stick; be bound; be immobile; be immovable; be tight; be fixed; be fast; [ʟᴏᴧ](#hilapowinyolon) is bound to [ʟᴜᴍ](#hilapowinyolum)
 
 - <a name="hilapowinyolon">**hilapowinyolon**</a> _n._ ([hilapowinyo](#hilapowinyo)+[lon](#lon))  
 sticker; stuck; bound; immobile; immovable; tight; fixed; fast
@@ -6057,7 +6057,7 @@ sticker; stuck; bound; immobile; immovable; tight; fixed; fast
 binding; binder
 
 - <a name="hilapowiki">**hilapowiki**</a> _v._ ([hilapowi](#hilapowi)+[ki](#ki))  
-unstick; unbind; mobilise; loosen; extricate; unfasten; ʟєꜱ frees ʟᴏᴧ to move relative to ʟᴜᴍ
+unstick; unbind; mobilise; loosen; extricate; unfasten; [ʟєꜱ](#hilapowikiles) frees ʟᴏᴧ to move relative to ʟᴜᴍ
 
 - <a name="hilapowikiles">**hilapowikiles**</a> _n._ ([hilapowiki](#hilapowiki)+[les](#les))  
 loosener
@@ -6117,7 +6117,7 @@ equid; horse; zebra; pony; wild butt; Equidae
 equine
 
 - <a name="hiki">**hiki**</a> _v._ (ono.  \[hik\])  
-hiccup; ʟєꜱ hiccups ʟᴏᴧ
+hiccup; [ʟєꜱ](#hikiles) hiccups [ʟᴏᴧ](#hikilon)
 
 - <a name="hikiles">**hikiles**</a> _n._ ([hiki](#hiki)+[les](#les))  
 one who hiccups
@@ -6129,7 +6129,7 @@ hiccup
 hydrogen
 
 - <a name="hu">**hu**</a> _v._ (Ibo.  ⟨hụ⟩ \[ɦʊ\])  
-can see; see; view; ʟᴏᴧ sees ʟᴜᴍ
+can see; see; view; [ʟᴏᴧ](#hulon) sees [ʟᴜᴍ](#hulum)
 
 - <a name="huec">**huec**</a> _n._ ([hu](#hu)+[ec](#ec))  
 eye; eyeball
@@ -6141,7 +6141,7 @@ make eye contact; ʟᴏᴧ has eye contact with ʟᴜᴍ
 visual; optic
 
 - <a name="huylu">**huylu**</a> _v._ ([~~ciwti~~](#ciwti))  
-be general; be vague; ʟᴏᴧ is general
+be general; be vague; [ʟᴏᴧ](#huylulon) is general
 
 - <a name="huylulon">**huylulon**</a> _n._ ([huylu](#huylu)+[lon](#lon))  
 general; vague
@@ -6153,7 +6153,7 @@ generalise; ʟєꜱ generalises ʟᴏᴧ
 seer
 
 - <a name="huli">**huli**</a> _v._ (Fil.  ⟨huli⟩ \[huli\])  
-be late; be recent; be after; be tardy; positive time; ʟᴏᴧ happens after ʟᴜᴍ
+be late; be recent; be after; be tardy; positive time; [ʟᴏᴧ](#hulilon) happens after ʟᴜᴍ
 
 - <a name="hulioleciuh">**hulioleciuh**</a> _n._ ([huli](#huli)+[ole](#ole)+[ciuh](#ciuh))  
 asparagus; sparrow grass
@@ -6168,7 +6168,7 @@ lateness
 stopwatch
 
 - <a name="hulinoki">**hulinoki**</a> _v._ ([huli](#huli)+[noki](#noki))  
-tertiarily educate; college; university; higher educate; ʟєꜱ teaches ʟᴏᴧ
+tertiarily educate; college; university; higher educate; [ʟєꜱ](#hulinokiles) teaches [ʟᴏᴧ](#hulinokilon)
 
 - <a name="hulinokiles">**hulinokiles**</a> _n._ ([hulinoki](#hulinoki)+[les](#les))  
 professor
@@ -6183,7 +6183,7 @@ college; university
 tertiary education
 
 - <a name="hulisunnyama">**hulisunnyama**</a> _v._ ([huli](#huli)+[sun](#sun)+[nyama](#nyama))  
-eat merienda; lunch late; eat linner; ʟєꜱ eats ʟᴏᴧ
+eat merienda; lunch late; eat linner; [ʟєꜱ](#hulisunnyamales) eats [ʟᴏᴧ](#hulisunnyamalon)
 
 - <a name="hulisunnyamalwel">**hulisunnyamalwel**</a> _n._ ([hulisunnyama](#hulisunnyama)+[lwel](#lwel))  
 linnertime
@@ -6195,7 +6195,7 @@ late lunch; linner
 late luncher
 
 - <a name="huliki">**huliki**</a> _v._ ([huli](#huli)+[ki](#ki))  
-delay; postpone; put off; push back; procrastinate; travel forward through time; ʟєꜱ pushes ʟᴏᴧ forward through time
+delay; postpone; put off; push back; procrastinate; travel forward through time; [ʟєꜱ](#hulikiles) pushes ʟᴏᴧ forward through time
 
 - <a name="hulikiles">**hulikiles**</a> _n._ ([huliki](#huliki)+[les](#les))  
 postponer
@@ -6210,7 +6210,7 @@ screen
 hide; obscure; remove from view; ʟєꜱ makes ʟᴏᴧ stop seeing ʟᴜᴍ
 
 - <a name="humocaki">**humocaki**</a> _v._ ([hu](#hu)+[mocaki](#mocaki))  
-screen; stream; show; ʟєꜱ entertains ʟᴏᴧ visually with ʟᴜᴍ
+screen; stream; show; [ʟєꜱ](#humocakiles) entertains ʟᴏᴧ visually with [ʟᴜᴍ](#humocakilum)
 
 - <a name="humocakiles">**humocakiles**</a> _n._ ([humocaki](#humocaki)+[les](#les))  
 screener; streamer; television network
@@ -6240,7 +6240,7 @@ rural
 window
 
 - <a name="huki">**huki**</a> _v._ ([hu](#hu)+[ki](#ki))  
-look; reveal; ʟєꜱ shows ʟᴜᴍ to ʟᴏᴧ visually
+look; reveal; ʟєꜱ shows [ʟᴜᴍ](#hukilum) to ʟᴏᴧ visually
 
 - <a name="hukilum">**hukilum**</a> _n._ ([huki](#huki)+[lum](#lum))  
 show; visualisation
@@ -6249,19 +6249,19 @@ show; visualisation
 butterfly; moths; Lepidoptera
 
 - <a name="hupowi">**hupowi**</a> _v._ ([hu](#hu)+[powi](#powi))  
-be sighted; ʟᴏᴧ is sighted
+be sighted; [ʟᴏᴧ](#hupowilon) is sighted
 
 - <a name="hupowilon">**hupowilon**</a> _n._ ([hupowi](#hupowi)+[lon](#lon))  
 sighted
 
 - <a name="hupowinu">**hupowinu**</a> _v._ ([hupowi](#hupowi)+[nu](#nu))  
-blind; ʟєꜱ causes ʟᴏᴧ to become blind
+blind; [ʟєꜱ](#hupowinules) causes ʟᴏᴧ to become blind
 
 - <a name="hupowinules">**hupowinules**</a> _n._ ([hupowinu](#hupowinu)+[les](#les))  
 blinding
 
 - <a name="hupowinyo">**hupowinyo**</a> _v._ ([hupowi](#hupowi)+[nyo](#nyo))  
-be blind; ʟᴏᴧ is blind
+be blind; [ʟᴏᴧ](#hupowinyolon) is blind
 
 - <a name="hupowinyolon">**hupowinyolon**</a> _n._ ([hupowinyo](#hupowinyo)+[lon](#lon))  
 blind
@@ -6270,7 +6270,7 @@ blind
 sighten; restore sight; ʟєꜱ causes ʟᴏᴧ to become sighted
 
 - <a name="hyo">**hyo**</a> _v._ ([~~cwe~~](#cwe))  
-be gaseous; be air; ʟᴏᴧ is gaseous
+be gaseous; be air; [ʟᴏᴧ](#hyolon) is gaseous
 
 - <a name="hyoyeh">**hyoyeh**</a> _n._ ([hyo](#hyo)+[yeh](#yeh))  
 tobacco; Nicotiana
@@ -6279,19 +6279,19 @@ tobacco; Nicotiana
 gas; cloud; gaseous; air
 
 - <a name="hyomiclo">**hyomiclo**</a> _v._ ([hyo](#hyo)+[miclo](#miclo))  
-be arid; be dry; ʟᴏᴧ is not humid
+be arid; be dry; [ʟᴏᴧ](#hyomiclolon) is not humid
 
 - <a name="hyomiclolon">**hyomiclolon**</a> _n._ ([hyomiclo](#hyomiclo)+[lon](#lon))  
 arid; dry
 
 - <a name="hyoki">**hyoki**</a> _v._ ([hyo](#hyo)+[ki](#ki))  
-boil; evaporate; ʟєꜱ boils ʟᴏᴧ
+boil; evaporate; [ʟєꜱ](#hyokiles) boils ʟᴏᴧ
 
 - <a name="hyokiles">**hyokiles**</a> _n._ ([hyoki](#hyoki)+[les](#les))  
 boiler
 
 - <a name="hyotaka">**hyotaka**</a> _v._ ([hyo](#hyo)+[taka](#taka))  
-be dry; ʟᴜᴍ is dry of ʟᴏᴧ
+be dry; ʟᴜᴍ is dry of [ʟᴏᴧ](#hyotakalon)
 
 - <a name="hyotakalon">**hyotakalon**</a> _n._ ([hyotaka](#hyotaka)+[lon](#lon))  
 dry
@@ -6300,7 +6300,7 @@ dry
 dry; ʟєꜱ dries ʟᴏᴧ off of ʟᴜᴍ
 
 - <a name="hyopeka">**hyopeka**</a> _v._ ([hyo](#hyo)+[peka](#peka))  
-bake; ʟєꜱ bakes ʟᴏᴧ
+bake; [ʟєꜱ](#hyopekales) bakes [ʟᴏᴧ](#hyopekalon)
 
 - <a name="hyopekales">**hyopekales**</a> _n._ ([hyopeka](#hyopeka)+[les](#les))  
 baker
@@ -6309,7 +6309,7 @@ baker
 pastry; baked good
 
 - <a name="hwe">**hwe**</a> _v._ ([~~cyo~~](#cyo))  
-be young; be new; ʟᴏᴧ is young
+be young; be new; [ʟᴏᴧ](#hwelon) is young
 
 - <a name="hwe'yok">**hwe'yok**</a> _n._ ([hwe](#hwe)+['yok](#'yok))  
 New York City; New York
@@ -6318,7 +6318,7 @@ New York City; New York
 kid; girl; boy; young; new
 
 - <a name="hweki">**hweki**</a> _v._ ([hwe](#hwe)+[ki](#ki))  
-renew; update; ʟєꜱ makes ʟᴏᴧ become new
+renew; update; [ʟєꜱ](#hwekiles) makes ʟᴏᴧ become new
 
 - <a name="hwekiles">**hwekiles**</a> _n._ ([hweki](#hweki)+[les](#les))  
 updater
@@ -6327,13 +6327,13 @@ updater
 news; current events; media
 
 - <a name="hwo">**hwo**</a> _v._ (Cmn.  ⟨火⟩ \[xwɔ˧˩˧\])  
-be on fire; be flaming; ʟᴏᴧ is on fire
+be on fire; be flaming; [ʟᴏᴧ](#hwolon) is on fire
 
 - <a name="hwolon">**hwolon**</a> _n._ ([hwo](#hwo)+[lon](#lon))  
 fire; flame; on fire; flaming
 
 - <a name="hwonu">**hwonu**</a> _v._ ([hwo](#hwo)+[nu](#nu))  
-douse; put out; extinguish; quench; ʟєꜱ puts out the fire on ʟᴏᴧ
+douse; put out; extinguish; quench; [ʟєꜱ](#hwonules) puts out the fire on [ʟᴏᴧ](#hwonulon)
 
 - <a name="hwonules">**hwonules**</a> _n._ ([hwonu](#hwonu)+[les](#les))  
 fire extinguisher
@@ -6345,7 +6345,7 @@ doused
 sheet; page; flexible two-dimensional object
 
 - <a name="hwoki">**hwoki**</a> _v._ ([hwo](#hwo)+[ki](#ki))  
-ignite; light on fire; ʟєꜱ lights ʟᴏᴧ on fire
+ignite; light on fire; [ʟєꜱ](#hwokiles) lights [ʟᴏᴧ](#hwokilon) on fire
 
 - <a name="hwokiles">**hwokiles**</a> _n._ ([hwoki](#hwoki)+[les](#les))  
 fire starter
@@ -6362,7 +6362,7 @@ scarf
 ### c
 
 - <a name="ce">**ce**</a> _v._ ([~~ho~~](#ho))  
-be thin; ʟᴏᴧ is thin in its smallest dimension
+be thin; [ʟᴏᴧ](#celon) is thin in its smallest dimension
 
 - <a name="celon">**celon**</a> _n._ ([ce](#ce)+[lon](#lon))  
 film; thin
@@ -6410,7 +6410,7 @@ Czechia; Czech Republic
 Czech; the Czech language
 
 - <a name="cece">**cece**</a> _v._ (ono.  \[t͡ʃət͡ʃə\])  
-chatter; wobble; rustle; rattle; ʟєꜱ makes ʟᴏᴧ
+chatter; wobble; rustle; rattle; ʟєꜱ makes [ʟᴏᴧ](#cecelon)
 
 - <a name="cecelon">**cecelon**</a> _n._ ([cece](#cece)+[lon](#lon))  
 chatter; wobble; rustle; rattle; noisy, high-pitched sound or action
@@ -6419,7 +6419,7 @@ chatter; wobble; rustle; rattle; noisy, high-pitched sound or action
 lentil
 
 - <a name="ceki">**ceki**</a> _v._ ([ce](#ce)+[ki](#ki))  
-thin; ʟєꜱ thins ʟᴏᴧ
+thin; [ʟєꜱ](#cekiles) thins ʟᴏᴧ
 
 - <a name="cekiles">**cekiles**</a> _n._ ([ceki](#ceki)+[les](#les))  
 thinner
@@ -6428,7 +6428,7 @@ thinner
 c; /t͡ʃ/; post-alveolar affricate
 
 - <a name="cai">**cai**</a> _v._ (Ben.  ⟨চাই⟩ \[t͡ɕai\])  
-want; like; be good; desire; favour; be appealing; be pleasing; hunger; have an appetite; hope; be beautiful; be positive; ʟᴏᴧ has positive inclinations toward ʟᴜᴍ
+want; like; be good; desire; favour; be appealing; be pleasing; hunger; have an appetite; hope; be beautiful; be positive; [ʟᴏᴧ](#cailon) has positive inclinations toward [ʟᴜᴍ](#cailum)
 
 - <a name="cailon">**cailon**</a> _n._ ([cai](#cai)+[lon](#lon))  
 liker; optimist; hoper; wanter; desirous; hungry; -phile; positive
@@ -6446,7 +6446,7 @@ value; goodness; preference level
 heaven; paradise
 
 - <a name="caiki">**caiki**</a> _v._ ([cai](#cai)+[ki](#ki))  
-encourage; improve; defend; argue for; positively impact; ʟєꜱ raises ʟᴏᴧ's opinion of ʟᴜᴍ
+encourage; improve; defend; argue for; positively impact; [ʟєꜱ](#caikiles) raises [ʟᴏᴧ](#caikilon)'s opinion of ʟᴜᴍ
 
 - <a name="caikiles">**caikiles**</a> _n._ ([caiki](#caiki)+[les](#les))  
 encourager; improver
@@ -6458,13 +6458,13 @@ encouraged
 consent; approve; ʟєꜱ consents to ʟᴏᴧ
 
 - <a name="caitiku">**caitiku**</a> _v._ ([cai](#cai)+[tiku](#tiku))  
-be lucky; be fortunate; that ʟᴏᴧ happens is lucky
+be lucky; be fortunate; that [ʟᴏᴧ](#caitikulon) happens is lucky
 
 - <a name="caitikulon">**caitikulon**</a> _n._ ([caitiku](#caitiku)+[lon](#lon))  
 lucky; fortunate
 
 - <a name="cau">**cau**</a> _v._ ([~~hai~~](#hai))  
-be low-pitched; be deep; be sonorous; ʟᴏᴧ is lowly pitched
+be low-pitched; be deep; be sonorous; [ʟᴏᴧ](#caulon) is lowly pitched
 
 - <a name="caulon">**caulon**</a> _n._ ([cau](#cau)+[lon](#lon))  
 low note; low-pitched; deep; sonorous
@@ -6473,7 +6473,7 @@ low note; low-pitched; deep; sonorous
 lower; deepen; ʟєꜱ lowers the pitch of ʟᴏᴧ
 
 - <a name="cayni">**cayni**</a> _v._ (Eng.  ⟨shiny⟩ \[ˈʃɑɪ̯ni\])  
-be shiny; shine; be reflective; be smooth; be metallic; ʟᴏᴧ reflects light specularly
+be shiny; shine; be reflective; be smooth; be metallic; [ʟᴏᴧ](#caynilon) reflects light specularly
 
 - <a name="caynilon">**caynilon**</a> _n._ ([cayni](#cayni)+[lon](#lon))  
 mirror; shiny; reflective; smooth; metallic
@@ -6485,7 +6485,7 @@ shininess
 shine; polish; ʟєꜱ makes ʟᴏᴧ become shiny
 
 - <a name="calu">**calu**</a> _v._ (Pan.  ⟨ਚਾਲੂ⟩ \[t͡ʃɑˈlu\])  
-continue; be happening; keep; stay; be in progress; undergo; maintain; preserve; _progressive_; ʟєꜱ makes ʟᴏᴧ hold true for some time
+continue; be happening; keep; stay; be in progress; undergo; maintain; preserve; _progressive_; [ʟєꜱ](#calules) makes [ʟᴏᴧ](#calulon) hold true for some time
 
 - <a name="calules">**calules**</a> _n._ ([calu](#calu)+[les](#les))  
 maintainer
@@ -6497,7 +6497,7 @@ happening; in progress
 equilibrium
 
 - <a name="calunyo">**calunyo**</a> _v._ ([calu](#calu)+[nyo](#nyo))  
-change; be in flux; switch; ʟєꜱ changes ʟᴏᴧ somehow
+change; be in flux; switch; [ʟєꜱ](#calunyoles) changes [ʟᴏᴧ](#calunyolon) somehow
 
 - <a name="calunyoles">**calunyoles**</a> _n._ ([calunyo](#calunyo)+[les](#les))  
 bringer of change
@@ -6509,13 +6509,13 @@ in flux
 switch
 
 - <a name="calunyohau">**calunyohau**</a> _v._ ([calunyo](#calunyo)+[hau](#hau))  
-be conservative; resist change; ʟᴏᴧ is conservative
+be conservative; resist change; [ʟᴏᴧ](#calunyohaulon) is conservative
 
 - <a name="calunyohaulon">**calunyohaulon**</a> _n._ ([calunyohau](#calunyohau)+[lon](#lon))  
 conservative
 
 - <a name="calunyocai">**calunyocai**</a> _v._ ([calunyo](#calunyo)+[cai](#cai))  
-be liberal; encourage change; ʟᴏᴧ is liberal
+be liberal; encourage change; [ʟᴏᴧ](#calunyocailon) is liberal
 
 - <a name="calunyocailon">**calunyocailon**</a> _n._ ([calunyocai](#calunyocai)+[lon](#lon))  
 liberal
@@ -6524,13 +6524,13 @@ liberal
 verb
 
 - <a name="calupowi">**calupowi**</a> _v._ ([calu](#calu)+[powi](#powi))  
-be stable; be sustainable; ʟᴏᴧ can continue without changing
+be stable; be sustainable; [ʟᴏᴧ](#calupowilon) can continue without changing
 
 - <a name="calupowilon">**calupowilon**</a> _n._ ([calupowi](#calupowi)+[lon](#lon))  
 stable; sustainable
 
 - <a name="calupowinyo">**calupowinyo**</a> _v._ ([calupowi](#calupowi)+[nyo](#nyo))  
-be unstable; be unsustainable; ʟᴏᴧ cannot continue forever
+be unstable; be unsustainable; [ʟᴏᴧ](#calupowinyolon) cannot continue forever
 
 - <a name="calupowinyolon">**calupowinyolon**</a> _n._ ([calupowinyo](#calupowinyo)+[lon](#lon))  
 unstable; unsustainable
@@ -6560,7 +6560,7 @@ cowpea; black-eye pea; yardlong bean; Vigna unguiculata
 pineapple
 
 - <a name="cawku">**cawku**</a> _v._ (Cmn.  ⟨照顾⟩ \[ʈ͡ʂɑʊ̯˥˩ku\])  
-take care; support; ʟᴏᴧ takes care of ʟᴜᴍ
+take care; support; [ʟᴏᴧ](#cawkulon) takes care of [ʟᴜᴍ](#cawkulum)
 
 - <a name="cawkulon">**cawkulon**</a> _n._ ([cawku](#cawku)+[lon](#lon))  
 caretaker; staff
@@ -6569,13 +6569,13 @@ caretaker; staff
 dependent; cared for
 
 - <a name="cawkunu">**cawkunu**</a> _v._ ([cawku](#cawku)+[nu](#nu))  
-abandon; take away; ʟєꜱ makes ʟᴏᴧ stop taking care of ʟᴜᴍ
+abandon; take away; ʟєꜱ makes [ʟᴏᴧ](#cawkunulon) stop taking care of ʟᴜᴍ
 
 - <a name="cawkunulon">**cawkunulon**</a> _n._ ([cawkunu](#cawkunu)+[lon](#lon))  
 abandoner
 
 - <a name="cawkuki">**cawkuki**</a> _v._ ([cawku](#cawku)+[ki](#ki))  
-entrust; take charge; ʟєꜱ makes ʟᴏᴧ start taking care of ʟᴜᴍ
+entrust; take charge; [ʟєꜱ](#cawkukiles) makes ʟᴏᴧ start taking care of ʟᴜᴍ
 
 - <a name="cawkukiles">**cawkukiles**</a> _n._ ([cawkuki](#cawkuki)+[les](#les))  
 entruster
@@ -6599,7 +6599,7 @@ sixth
 Saturday
 
 - <a name="casi">**casi**</a> _v._ (Epo.  ⟨ĉasi⟩ \[ˈt͡ʃasi\])  
-hunt; chase; pursue; ʟєꜱ hunts for ʟᴏᴧ
+hunt; chase; pursue; [ʟєꜱ](#casiles) hunts for [ʟᴏᴧ](#casilon)
 
 - <a name="casiles">**casiles**</a> _n._ ([casi](#casi)+[les](#les))  
 hunter
@@ -6608,7 +6608,7 @@ hunter
 hunted
 
 - <a name="caka">**caka**</a> _v._ (Jav.  ⟨saka⟩ \[ʂɔkɔ\])  
-be made of; comprise; ʟᴏᴧ is made out of ʟᴜᴍ
+be made of; comprise; [ʟᴏᴧ](#cakalon) is made out of [ʟᴜᴍ](#cakalum)
 
 - <a name="cakalon">**cakalon**</a> _n._ ([caka](#caka)+[lon](#lon))  
 construction; object; product; made of
@@ -6617,7 +6617,7 @@ construction; object; product; made of
 material; substance; chemical; element
 
 - <a name="cakasoma">**cakasoma**</a> _v._ ([caka](#caka)+[soma](#soma))  
-do chemistry; do material science; ʟєꜱ studies chemicals to learn about ʟᴏᴧ
+do chemistry; do material science; [ʟєꜱ](#cakasomales) studies chemicals to learn about [ʟᴏᴧ](#cakasomalon)
 
 - <a name="cakasomales">**cakasomales**</a> _n._ ([cakasoma](#cakasoma)+[les](#les))  
 chemist
@@ -6626,7 +6626,7 @@ chemist
 chemistry; material science
 
 - <a name="cakaki">**cakaki**</a> _v._ ([caka](#caka)+[ki](#ki))  
-make out of; turn to; ʟєꜱ changes ʟᴏᴧ to be made out of ʟᴜᴍ
+make out of; turn to; [ʟєꜱ](#cakakiles) changes ʟᴏᴧ to be made out of ʟᴜᴍ
 
 - <a name="cakakiles">**cakakiles**</a> _n._ ([cakaki](#cakaki)+[les](#les))  
 alchemist
@@ -6656,7 +6656,7 @@ chestal; mamillary
 Chadian; from Chad
 
 - <a name="catui">**catui**</a> _v._ (Hin.  ⟨जादुई⟩ \[d͡ʒaːduiː\])  
-be magical; do magic; ʟєꜱ makes ʟᴏᴧ happen magically
+be magical; do magic; [ʟєꜱ](#catuiles) makes [ʟᴏᴧ](#catuilon) happen magically
 
 - <a name="catuiles">**catuiles**</a> _n._ ([catui](#catui)+[les](#les))  
 magician; sorcerer; wizard
@@ -6674,7 +6674,7 @@ magikarp
 Chadian; the Chadian people
 
 - <a name="capa">**capa**</a> _v._ (Jav.  ⟨sap⟩ \[ʂɑp\])  
-be stacked; be layered; ʟᴏᴧ is stacked on ʟᴜᴍ
+be stacked; be layered; [ʟᴏᴧ](#capalon) is stacked on [ʟᴜᴍ](#capalum)
 
 - <a name="capalon">**capalon**</a> _n._ ([capa](#capa)+[lon](#lon))  
 layer; stacked; layered
@@ -6686,13 +6686,13 @@ book; stack
 bookstore
 
 - <a name="capanu">**capanu**</a> _v._ ([capa](#capa)+[nu](#nu))  
-unstack; unlayer; ʟєꜱ unstacks ʟᴏᴧ from ʟᴜᴍ
+unstack; unlayer; [ʟєꜱ](#capanules) unstacks ʟᴏᴧ from ʟᴜᴍ
 
 - <a name="capanules">**capanules**</a> _n._ ([capanu](#capanu)+[les](#les))  
 unstacker
 
 - <a name="capaki">**capaki**</a> _v._ ([capa](#capa)+[ki](#ki))  
-stack; layer; ʟєꜱ stacks ʟᴏᴧ onto ʟᴜᴍ
+stack; layer; [ʟєꜱ](#capakiles) stacks ʟᴏᴧ onto ʟᴜᴍ
 
 - <a name="capakiles">**capakiles**</a> _n._ ([capaki](#capaki)+[les](#les))  
 stacker
@@ -6713,10 +6713,10 @@ Djiboutian; the Djiboutian people
 Djibouti; the Republic of Djibouti
 
 - <a name="co">**co**</a> _v._ (Zul.  ⟨-sho⟩ \[ʃo\])  
-mean; call; name; be significant; ʟᴏᴧ means ʟᴜᴍ to ʟєꜱ
+mean; call; name; be significant; [ʟᴏᴧ](#colon) means [ʟᴜᴍ](#colum) to ʟєꜱ
 
 - <a name="cola">**cola**</a> _v._ (Hin.  ⟨चौड़ा⟩ \[t͡ʃɔːɽaː\])  
-be wide; be obtuse; be big; be large; ʟᴏᴧ spans a wide angle from the point of view of ʟᴜᴍ
+be wide; be obtuse; be big; be large; [ʟᴏᴧ](#colalon) spans a wide angle from the point of view of ʟᴜᴍ
 
 - <a name="colalon">**colalon**</a> _n._ ([cola](#cola)+[lon](#lon))  
 splotch; blotch; wide; obtuse; big; large
@@ -6761,7 +6761,7 @@ Shona; of the Shona
 Shona; chiShona; the Shona language
 
 - <a name="comi">**comi**</a> _v._ (Cmn.  ⟨稠密⟩ \[ʈ͡ʂʰoʊ̯˧˥mi˥˩\])  
-be dense; be cramped; be frequent; be tightly packed; be fine; be urban; ʟᴏᴧ occurs frequently and close together in ʟᴜᴍ
+be dense; be cramped; be frequent; be tightly packed; be fine; be urban; [ʟᴏᴧ](#comilon) occurs frequently and close together in [ʟᴜᴍ](#comilum)
 
 - <a name="comilon">**comilon**</a> _n._ ([comi](#comi)+[lon](#lon))  
 dense; frequent; tightly packed; fine; urban
@@ -6785,7 +6785,7 @@ hand; multi-appendaged manipulator
 manual
 
 - <a name="cohluso">**cohluso**</a> _v._ ([coh](#coh)+[luso](#luso))  
-be dexterous; ʟᴏᴧ is dexterous
+be dexterous; [ʟᴏᴧ](#cohlusolon) is dexterous
 
 - <a name="cohlusolon">**cohlusolon**</a> _n._ ([cohluso](#cohluso)+[lon](#lon))  
 dexterous
@@ -6803,13 +6803,13 @@ gesture; sign; ʟєꜱ gestures ʟᴜᴍ to ʟᴏᴧ
 gesture
 
 - <a name="cohtife">**cohtife**</a> _v._ ([coh](#coh)+[tife](#tife))  
-be clumsy; ʟᴏᴧ is clumsy
+be clumsy; [ʟᴏᴧ](#cohtifelon) is clumsy
 
 - <a name="cohtifelon">**cohtifelon**</a> _n._ ([cohtife](#cohtife)+[lon](#lon))  
 clumsy
 
 - <a name="cohtue">**cohtue**</a> _v._ ([coh](#coh)+[tue](#tue))  
-hold; carry; have with one; have on one's person; ʟᴏᴧ holds ʟᴜᴍ
+hold; carry; have with one; have on one's person; [ʟᴏᴧ](#cohtuelon) holds [ʟᴜᴍ](#cohtuelum)
 
 - <a name="cohtuelon">**cohtuelon**</a> _n._ ([cohtue](#cohtue)+[lon](#lon))  
 holder
@@ -6818,13 +6818,13 @@ holder
 held; accessory
 
 - <a name="cohtuenu">**cohtuenu**</a> _v._ ([cohtue](#cohtue)+[nu](#nu))  
-put down; release; ʟєꜱ takes ʟᴜᴍ out of ʟᴏᴧ's hand
+put down; release; [ʟєꜱ](#cohtuenules) takes ʟᴜᴍ out of ʟᴏᴧ's hand
 
 - <a name="cohtuenules">**cohtuenules**</a> _n._ ([cohtuenu](#cohtuenu)+[les](#les))  
 putter downer; taker
 
 - <a name="cohtueki">**cohtueki**</a> _v._ ([cohtue](#cohtue)+[ki](#ki))  
-pick up; hand; grab; ʟєꜱ puts ʟᴜᴍ in ʟᴏᴧ's hand
+pick up; hand; grab; [ʟєꜱ](#cohtuekiles) puts ʟᴜᴍ in ʟᴏᴧ's hand
 
 - <a name="cohtuekiles">**cohtuekiles**</a> _n._ ([cohtueki](#cohtueki)+[les](#les))  
 hander; picker upper
@@ -6854,7 +6854,7 @@ Korean; the Korean people
 Korean; the Korean language
 
 - <a name="cosfolmo">**cosfolmo**</a> _v._ ([cos](#cos)+[folmo](#folmo))  
-be cucumiform; be cucumber-shaped; ʟᴏᴧ is cylindrical, with rounded tapers on the ends
+be cucumiform; be cucumber-shaped; [ʟᴏᴧ](#cosfolmolon) is cylindrical, with rounded tapers on the ends
 
 - <a name="cosfolmolon">**cosfolmolon**</a> _n._ ([cosfolmo](#cosfolmo)+[lon](#lon))  
 cucumiform; cucumber-shaped
@@ -6863,7 +6863,7 @@ cucumiform; cucumber-shaped
 seacucumber
 
 - <a name="coto">**coto**</a> _v._ (Ben.  ⟨জট⟩ \[d͡ʑɔtɔ\])  
-be tangled; be knotted; ʟᴏᴧ is tangled together with ʟᴜᴍ
+be tangled; be knotted; [ʟᴏᴧ](#cotolon) is tangled together with ʟᴜᴍ
 
 - <a name="cotolon">**cotolon**</a> _n._ ([coto](#coto)+[lon](#lon))  
 knot; tangled; knotted
@@ -6878,10 +6878,10 @@ basket
 tie; knot; tangle; ʟєꜱ ties ʟᴏᴧ to ʟᴜᴍ
 
 - <a name="ci">**ci**</a> _v._ (Cmn.  ⟨试⟩ \[ʂɨ˥˩\])  
-try; attempt; will; intend; do for; do so; do in order to; ʟєꜱ makes ʟᴏᴧ happen in order to make ʟᴜᴍ happen
+try; attempt; will; intend; do for; do so; do in order to; [ʟєꜱ](#ciles) makes [ʟᴏᴧ](#cilon) happen in order to make [ʟᴜᴍ](#cilum) happen
 
 - <a name="ciestaki">**ciestaki**</a> _v._ ([ci](#ci)+[estaki](#estaki))  
-design; ʟєꜱ makes ʟᴏᴧ with the goal of ʟᴜᴍ
+design; [ʟєꜱ](#ciestakiles) makes [ʟᴏᴧ](#ciestakilon) with the goal of [ʟᴜᴍ](#ciestakilum)
 
 - <a name="ciestakiles">**ciestakiles**</a> _n._ ([ciestaki](#ciestaki)+[les](#les))  
 designer
@@ -6914,7 +6914,7 @@ botanical; vegetal
 herbivore; something that eats plants
 
 - <a name="ciuhcomiki">**ciuhcomiki**</a> _v._ ([ciuh](#ciuh)+[comiki](#comiki))  
-harvest; ʟєꜱ harvests ʟᴏᴧ from ʟᴜᴍ
+harvest; ʟєꜱ harvests [ʟᴏᴧ](#ciuhcomikilon) from ʟᴜᴍ
 
 - <a name="ciuhcomikilon">**ciuhcomikilon**</a> _n._ ([ciuhcomiki](#ciuhcomiki)+[lon](#lon))  
 crop
@@ -6965,7 +6965,7 @@ fungus; Fungi
 fungal; fungic; fungous
 
 - <a name="ciwti">**ciwti**</a> _v._ (Cmn.  ⟨具体⟩ \[t͡ɕy˥˩tʰi˧˩˧\])  
-be specific; be particular; ʟᴏᴧ is specific
+be specific; be particular; [ʟᴏᴧ](#ciwtilon) is specific
 
 - <a name="ciwtilon">**ciwtilon**</a> _n._ ([ciwti](#ciwti)+[lon](#lon))  
 specific; particular
@@ -6983,13 +6983,13 @@ jeans
 schnitzel
 
 - <a name="cinu">**cinu**</a> _v._ ([ci](#ci)+[nu](#nu))  
-give up; quit; stop trying; ʟєꜱ stops trying to make ʟᴜᴍ happen by doing ʟᴏᴧ
+give up; quit; stop trying; [ʟєꜱ](#cinules) stops trying to make ʟᴜᴍ happen by doing ʟᴏᴧ
 
 - <a name="cinules">**cinules**</a> _n._ ([cinu](#cinu)+[les](#les))  
 quitter
 
 - <a name="cinya">**cinya**</a> _v._ (Cmn.  ⟨惊讶⟩ \[t͡ɕiŋ˥ja˥˩\])  
-surprise; astonish; shock; ʟєꜱ surprises ʟᴏᴧ with ʟᴜᴍ
+surprise; astonish; shock; [ʟєꜱ](#cinyales) surprises [ʟᴏᴧ](#cinyalon) with ʟᴜᴍ
 
 - <a name="cinyales">**cinyales**</a> _n._ ([cinya](#cinya)+[les](#les))  
 surprising
@@ -6998,13 +6998,13 @@ surprising
 surprised
 
 - <a name="cinyokweki">**cinyokweki**</a> _v._ ([ci](#ci)+[nyo](#nyo)+[kweki](#kweki))  
-mistake; have an accident; ʟєꜱ accidentally makes ʟᴏᴧ happen
+mistake; have an accident; ʟєꜱ accidentally makes [ʟᴏᴧ](#cinyokwekilon) happen
 
 - <a name="cinyokwekilon">**cinyokwekilon**</a> _n._ ([cinyokweki](#cinyokweki)+[lon](#lon))  
 mistake; accident
 
 - <a name="cinci">**cinci**</a> _v._ (Cmn.  ⟨亲戚⟩ \[t͡ɕʰin˥t͡ɕʰi\])  
-be related; share blood; ʟᴏᴧ is genetically related to ʟᴜᴍ
+be related; share blood; [ʟᴏᴧ](#cincilon) is genetically related to [ʟᴜᴍ](#cincilum)
 
 - <a name="cincilon">**cincilon**</a> _n._ ([cinci](#cinci)+[lon](#lon))  
 relatee; related
@@ -7022,7 +7022,7 @@ focus; ʟєꜱ makes ʟᴏᴧ about ʟᴜᴍ
 cricket; grasshopper; locust; tatydid; Orthoptera
 
 - <a name="cinta">**cinta**</a> _v._ (Ben.  ⟨চিন্তা⟩ \[t͡ɕin̪t̪a\])  
-ponder; think about; imagine; consider; ʟєꜱ is thinks about ʟᴏᴧ
+ponder; think about; imagine; consider; [ʟєꜱ](#cintales) is thinks about [ʟᴏᴧ](#cintalon)
 
 - <a name="cintaec">**cintaec**</a> _n._ ([cinta](#cinta)+[ec](#ec))  
 brain
@@ -7055,7 +7055,7 @@ settlement; city; town; village; dense collection of human residences
 urban; villestial
 
 - <a name="cihwa">**cihwa**</a> _v._ (Cmn.  ⟨计划⟩ \[t͡ɕi˥˩xwa˥˩\])  
-plan; expect; ʟᴏᴧ expects ʟᴜᴍ to happen
+plan; expect; [ʟᴏᴧ](#cihwalon) expects [ʟᴜᴍ](#cihwalum) to happen
 
 - <a name="cihwalon">**cihwalon**</a> _n._ ([cihwa](#cihwa)+[lon](#lon))  
 expecting
@@ -7073,13 +7073,13 @@ square; lot; park
 spider; Araneae
 
 - <a name="cicu">**cicu**</a> _v._ (Cmn.  ⟨技术⟩ \[t͡ɕi˥˩ʂu˥˩\])  
-employ technology; engineer; ʟєꜱ uses technical skills and fine problem-solving to solve ʟᴏᴧ
+employ technology; engineer; [ʟєꜱ](#cicules) uses technical skills and fine problem-solving to solve [ʟᴏᴧ](#ciculon)
 
 - <a name="cicules">**cicules**</a> _n._ ([cicu](#cicu)+[les](#les))  
 engineer
 
 - <a name="ciculesitea">**ciculesitea**</a> _v._ ([cicules](#cicules)+[itea](#itea))  
-invent; innovate; ʟєꜱ invents ʟᴏᴧ
+invent; innovate; [ʟєꜱ](#ciculesiteales) invents [ʟᴏᴧ](#ciculesitealon)
 
 - <a name="ciculesiteales">**ciculesiteales**</a> _n._ ([ciculesitea](#ciculesitea)+[les](#les))  
 inventor
@@ -7100,7 +7100,7 @@ chickpea; gram; garbanzo; Cicer arietinum
 succeed; ʟєꜱ succeeds at making ʟᴏᴧ happen
 
 - <a name="citai">**citai**</a> _v._ (Cmn.  ⟨期待⟩ \[t͡ɕʰi˥taɪ̯˥˩\])  
-anticipate; be prepared; be careful; be cautious; beware; ʟᴏᴧ anticipates ʟᴜᴍ
+anticipate; be prepared; be careful; be cautious; beware; [ʟᴏᴧ](#citailon) anticipates [ʟᴜᴍ](#citailum)
 
 - <a name="citailon">**citailon**</a> _n._ ([citai](#citai)+[lon](#lon))  
 anticipative; prepared; careful; cautious
@@ -7115,13 +7115,13 @@ lower anticipation; ʟєꜱ makes ʟᴏᴧ stop anticipating ʟᴜᴍ
 build anticipation; prepare; caution; ʟєꜱ makes ʟᴏᴧ anticipative about ʟᴜᴍ
 
 - <a name="citu">**citu**</a> _v._ ([~~huli~~](#huli))  
-be early; be soon; be before; be timely; negative time; ʟᴏᴧ happens before ʟᴜᴍ
+be early; be soon; be before; be timely; negative time; [ʟᴏᴧ](#citulon) happens before ʟᴜᴍ
 
 - <a name="citulon">**citulon**</a> _n._ ([citu](#citu)+[lon](#lon))  
 past; early; soon; before; timely
 
 - <a name="citulonsoma">**citulonsoma**</a> _v._ ([citulon](#citulon)+[soma](#soma))  
-do history; ʟєꜱ studies the past to test and update ʟᴏᴧ
+do history; [ʟєꜱ](#citulonsomales) studies the past to test and update [ʟᴏᴧ](#citulonsomalon)
 
 - <a name="citulonsomales">**citulonsomales**</a> _n._ ([citulonsoma](#citulonsoma)+[les](#les))  
 historian
@@ -7136,7 +7136,7 @@ earliness
 timer
 
 - <a name="citunoki">**citunoki**</a> _v._ ([citu](#citu)+[noki](#noki))  
-pre-educate; ʟєꜱ teaches ʟᴏᴧ
+pre-educate; [ʟєꜱ](#citunokiles) teaches [ʟᴏᴧ](#citunokilon)
 
 - <a name="citunokiles">**citunokiles**</a> _n._ ([citunoki](#citunoki)+[les](#les))  
 pre-school teacher
@@ -7151,7 +7151,7 @@ pre-school
 pre-kindergarden education
 
 - <a name="citusunnyama">**citusunnyama**</a> _v._ ([citu](#citu)+[sun](#sun)+[nyama](#nyama))  
-eat brunch; brunch; ʟєꜱ eats ʟᴏᴧ
+eat brunch; brunch; [ʟєꜱ](#citusunnyamales) eats [ʟᴏᴧ](#citusunnyamalon)
 
 - <a name="citusunnyamalwel">**citusunnyamalwel**</a> _n._ ([citusunnyama](#citusunnyama)+[lwel](#lwel))  
 brunchtime
@@ -7163,7 +7163,7 @@ brunch
 bruncher
 
 - <a name="cituki">**cituki**</a> _v._ ([citu](#citu)+[ki](#ki))  
-pass; advance; move up; travel back in time; ʟєꜱ causes ʟᴏᴧ to become before ʟᴜᴍ
+pass; advance; move up; travel back in time; [ʟєꜱ](#citukiles) causes [ʟᴏᴧ](#citukilon) to become before ʟᴜᴍ
 
 - <a name="citukiles">**citukiles**</a> _n._ ([cituki](#cituki)+[les](#les))  
 time machine
@@ -7172,13 +7172,13 @@ time machine
 passing; present
 
 - <a name="citukucinihu">**citukucinihu**</a> _v._ ([citu](#citu)+[kucinihu](#kucinihu))  
-be nostalgic; ʟᴏᴧ feels nostalgia about ʟᴜᴍ
+be nostalgic; [ʟᴏᴧ](#citukucinihulon) feels nostalgia about ʟᴜᴍ
 
 - <a name="citukucinihulon">**citukucinihulon**</a> _n._ ([citukucinihu](#citukucinihu)+[lon](#lon))  
 nostalgic
 
 - <a name="citupensi">**citupensi**</a> _v._ ([citu](#citu)+[pensi](#pensi))  
-predict; ʟᴏᴧ predicts ʟᴜᴍ
+predict; [ʟᴏᴧ](#citupensilon) predicts [ʟᴜᴍ](#citupensilum)
 
 - <a name="citupensilon">**citupensilon**</a> _n._ ([citupensi](#citupensi)+[lon](#lon))  
 pundit
@@ -7187,13 +7187,13 @@ pundit
 prediction
 
 - <a name="citupensipowi">**citupensipowi**</a> _v._ ([citupensi](#citupensi)+[powi](#powi))  
-be predetermined; be predictable; be deterministic; ʟᴏᴧ can be easily predicted
+be predetermined; be predictable; be deterministic; [ʟᴏᴧ](#citupensipowilon) can be easily predicted
 
 - <a name="citupensipowilon">**citupensipowilon**</a> _n._ ([citupensipowi](#citupensipowi)+[lon](#lon))  
 predetermined; predictable; deterministic
 
 - <a name="citupensipowinyo">**citupensipowinyo**</a> _v._ ([citupensipowi](#citupensipowi)+[nyo](#nyo))  
-be random; be unpredictable; ʟᴏᴧ cannot possibly be predicted
+be random; be unpredictable; [ʟᴏᴧ](#citupensipowinyolon) cannot possibly be predicted
 
 - <a name="citupensipowinyolon">**citupensipowinyolon**</a> _n._ ([citupensipowinyo](#citupensipowinyo)+[lon](#lon))  
 random; unpredictable
@@ -7202,7 +7202,7 @@ random; unpredictable
 randomise; scramble; make unpredictable; ʟєꜱ makes ʟᴏᴧ more random
 
 - <a name="citupensipowinyonyo">**citupensipowinyonyo**</a> _v._ ([citupensipowinyo](#citupensipowinyo)+[nyo](#nyo))  
-be pseudorandom; ʟᴏᴧ is pseudorandomly determined
+be pseudorandom; [ʟᴏᴧ](#citupensipowinyonyolon) is pseudorandomly determined
 
 - <a name="citupensipowinyonyolon">**citupensipowinyonyolon**</a> _n._ ([citupensipowinyonyo](#citupensipowinyonyo)+[lon](#lon))  
 pseudorandom
@@ -7223,7 +7223,7 @@ bird of paradise
 ?; huh?; _interrogative mood_
 
 - <a name="cua">**cua**</a> _v._ (Swa.  ⟨jua⟩ \[ʄua\])  
-perceive; sense; observe; be perceptible; see; hear; feel; smell; taste; ʟᴏᴧ perceives ʟᴜᴍ
+perceive; sense; observe; be perceptible; see; hear; feel; smell; taste; [ʟᴏᴧ](#cualon) perceives [ʟᴜᴍ](#cualum)
 
 - <a name="cuaec">**cuaec**</a> _n._ ([cua](#cua)+[ec](#ec))  
 sensor; sense
@@ -7244,7 +7244,7 @@ perception; experience; perceptible
 subjective
 
 - <a name="cuanu">**cuanu**</a> _v._ ([cua](#cua)+[nu](#nu))  
-obscure; hide; remove; cloud; ʟєꜱ makes ʟᴏᴧ stop perceiving ʟᴜᴍ
+obscure; hide; remove; cloud; [ʟєꜱ](#cuanules) makes ʟᴏᴧ stop perceiving [ʟᴜᴍ](#cuanulum)
 
 - <a name="cuanules">**cuanules**</a> _n._ ([cuanu](#cuanu)+[les](#les))  
 cloud
@@ -7253,7 +7253,7 @@ cloud
 cloudy
 
 - <a name="cuaki">**cuaki**</a> _v._ ([cua](#cua)+[ki](#ki))  
-show; look; listen; sniff; taste; read; ʟєꜱ shows ʟᴜᴍ to ʟᴏᴧ
+show; look; listen; sniff; taste; read; [ʟєꜱ](#cuakiles) shows [ʟᴜᴍ](#cuakilum) to ʟᴏᴧ
 
 - <a name="cuakiles">**cuakiles**</a> _n._ ([cuaki](#cuaki)+[les](#les))  
 shower; looker; listener
@@ -7295,13 +7295,13 @@ Jamaican Patois; Patwa; Jamaican Creole
 bug; insect; arachnid; myriapod; entognath; small terrestrial invertebrate
 
 - <a name="cuta">**cuta**</a> _v._ ([~~hila~~](#hila))  
-be still; be unenergetic; move with; ʟᴏᴧ is motionless relative to ʟᴜᴍ
+be still; be unenergetic; move with; [ʟᴏᴧ](#cutalon) is motionless relative to ʟᴜᴍ
 
 - <a name="cutalon">**cutalon**</a> _n._ ([cuta](#cuta)+[lon](#lon))  
 still; unenergetic
 
 - <a name="cutaki">**cutaki**</a> _v._ ([cuta](#cuta)+[ki](#ki))  
-stop; still; settle; deenergise; ʟєꜱ makes ʟᴏᴧ stop moving relative to ʟᴜᴍ
+stop; still; settle; deenergise; [ʟєꜱ](#cutakiles) makes ʟᴏᴧ stop moving relative to ʟᴜᴍ
 
 - <a name="cutakiles">**cutakiles**</a> _n._ ([cutaki](#cutaki)+[les](#les))  
 brake
@@ -7310,7 +7310,7 @@ brake
 stop; station
 
 - <a name="cuti">**cuti**</a> _v._ ([cu](#cu)+[ti](#ti))  
-ask; interrogate; ʟєꜱ asks ʟᴜᴍ ʟᴏᴧ
+ask; interrogate; [ʟєꜱ](#cutiles) asks [ʟᴜᴍ](#cutilum) [ʟᴏᴧ](#cutilon)
 
 - <a name="cutiles">**cutiles**</a> _n._ ([cuti](#cuti)+[les](#les))  
 curious; interrogator
@@ -7355,7 +7355,7 @@ noodle; linguini
 coconut
 
 - <a name="cyau">**cyau**</a> _v._ (Cmn.  ⟨焦⟩ \[t͡ɕjɑʊ̯˥\])  
-be burnt; be burned; ʟᴏᴧ is burnt
+be burnt; be burned; [ʟᴏᴧ](#cyaulon) is burnt
 
 - <a name="cyaulon">**cyaulon**</a> _n._ ([cyau](#cyau)+[lon](#lon))  
 ash; char; charcoal; burnt; burned
@@ -7370,7 +7370,7 @@ smoke
 firearm; gun
 
 - <a name="cyauki">**cyauki**</a> _v._ ([cyau](#cyau)+[ki](#ki))  
-burn; ʟєꜱ burns ʟᴏᴧ
+burn; [ʟєꜱ](#cyaukiles) burns [ʟᴏᴧ](#cyaukilon)
 
 - <a name="cyaukiufalon">**cyaukiufalon**</a> _n._ ([cyauki](#cyauki)+[ufalon](#ufalon))  
 gunpowder
@@ -7391,7 +7391,7 @@ oil palm
 sesame
 
 - <a name="cyaukipowi">**cyaukipowi**</a> _v._ ([cyauki](#cyauki)+[powi](#powi))  
-be flammable; ʟᴏᴧ can burn
+be flammable; [ʟᴏᴧ](#cyaukipowilon) can burn
 
 - <a name="cyaukipowilon">**cyaukipowilon**</a> _n._ ([cyaukipowi](#cyaukipowi)+[lon](#lon))  
 flammable
@@ -7400,7 +7400,7 @@ flammable
 deflammibify; ʟєꜱ makes ʟᴏᴧ less flammable
 
 - <a name="cyaukipowinyo">**cyaukipowinyo**</a> _v._ ([cyaukipowi](#cyaukipowi)+[nyo](#nyo))  
-be unflammable; be fire-resistant; be flame-retardant; ʟᴏᴧ does not burn easily
+be unflammable; be fire-resistant; be flame-retardant; [ʟᴏᴧ](#cyaukipowinyolon) does not burn easily
 
 - <a name="cyaukipowinyolon">**cyaukipowinyolon**</a> _n._ ([cyaukipowinyo](#cyaukipowinyo)+[lon](#lon))  
 unflammable; fire-resistant; flame-retardant
@@ -7418,7 +7418,7 @@ family; intimate group of people
 familial
 
 - <a name="cyo">**cyo**</a> _v._ (Cmn.  ⟨旧⟩ \[t͡ɕjoʊ̯˥˩\])  
-be old; ʟᴏᴧ is old
+be old; [ʟᴏᴧ](#cyolon) is old
 
 - <a name="cyolon">**cyolon**</a> _n._ ([cyo](#cyo)+[lon](#lon))  
 elder; senior; adult; grown-up; relic; old
@@ -7427,13 +7427,13 @@ elder; senior; adult; grown-up; relic; old
 age
 
 - <a name="cyoki">**cyoki**</a> _v._ ([cyo](#cyo)+[ki](#ki))  
-age; wear; ʟєꜱ makes ʟᴏᴧ get older
+age; wear; [ʟєꜱ](#cyokiles) makes ʟᴏᴧ get older
 
 - <a name="cyokiles">**cyokiles**</a> _n._ ([cyoki](#cyoki)+[les](#les))  
 ager; Father Time
 
 - <a name="cwe">**cwe**</a> _v._ (Cmn.  ⟨水⟩ \[ʂweɪ̯˧˩˧\])  
-be liquid; be water; ʟᴏᴧ is a liquid
+be liquid; be water; [ʟᴏᴧ](#cwelon) is a liquid
 
 - <a name="cweancosapuluat">**cweancosapuluat**</a> _n._ ([cwe](#cwe)+[ancosapuluat](#ancosapuluat))  
 mop
@@ -7463,7 +7463,7 @@ sink; submerge; ʟєꜱ makes ʟᴏᴧ sink in ʟᴜᴍ
 spoon
 
 - <a name="cwemaceki">**cwemaceki**</a> _v._ ([cwe](#cwe)+[maceki](#maceki))  
-flood; ʟᴏᴧ is struck by a flood from ʟєꜱ
+flood; ʟᴏᴧ is struck by a flood from [ʟєꜱ](#cwemacekiles)
 
 - <a name="cwemacekiles">**cwemacekiles**</a> _n._ ([cwemaceki](#cwemaceki)+[les](#les))  
 floodwaters
@@ -7472,13 +7472,13 @@ floodwaters
 boat
 
 - <a name="cwemiclo">**cwemiclo**</a> _v._ ([cwe](#cwe)+[miclo](#miclo))  
-be humid; be dank; ʟᴏᴧ is humid
+be humid; be dank; [ʟᴏᴧ](#cwemiclolon) is humid
 
 - <a name="cwemiclolon">**cwemiclolon**</a> _n._ ([cwemiclo](#cwemiclo)+[lon](#lon))  
 humid; dank
 
 - <a name="cwemwoni">**cwemwoni**</a> _v._ ([cwe](#cwe)+[mwoni](#mwoni))  
-paint; ʟєꜱ paints ʟᴜᴍ as ʟᴏᴧ
+paint; [ʟєꜱ](#cwemwoniles) paints [ʟᴜᴍ](#cwemwonilum) as [ʟᴏᴧ](#cwemwonilon)
 
 - <a name="cwemwoniles">**cwemwoniles**</a> _n._ ([cwemwoni](#cwemwoni)+[les](#les))  
 painter
@@ -7490,7 +7490,7 @@ painting
 painting subject
 
 - <a name="cwehila">**cwehila**</a> _v._ ([cwe](#cwe)+[hila](#hila))  
-swim; ʟᴏᴧ swims
+swim; [ʟᴏᴧ](#cwehilalon) swims
 
 - <a name="cwehilalon">**cwehilalon**</a> _n._ ([cwehila](#cwehila)+[lon](#lon))  
 swimmer
@@ -7505,13 +7505,13 @@ bucket
 waterfall
 
 - <a name="cwekaeki">**cwekaeki**</a> _v._ ([cwe](#cwe)+[kaeki](#kaeki))  
-take shower; shower; ʟєꜱ showers ʟᴏᴧ with ʟᴜᴍ
+take shower; shower; ʟєꜱ showers ʟᴏᴧ with [ʟᴜᴍ](#cwekaekilum)
 
 - <a name="cwekaekilum">**cwekaekilum**</a> _n._ ([cwekaeki](#cwekaeki)+[lum](#lum))  
 shower
 
 - <a name="cweki">**cweki**</a> _v._ ([cwe](#cwe)+[ki](#ki))  
-condense; liquidify; ʟєꜱ condenses ʟᴏᴧ into a liquid
+condense; liquidify; [ʟєꜱ](#cwekiles) condenses [ʟᴏᴧ](#cwekilon) into a liquid
 
 - <a name="cwekiles">**cwekiles**</a> _n._ ([cweki](#cweki)+[les](#les))  
 condenser
@@ -7520,7 +7520,7 @@ condenser
 condensed; cloud
 
 - <a name="cwekuhoki">**cwekuhoki**</a> _v._ ([cwe](#cwe)+[kuhoki](#kuhoki))  
-float; be buoyant; ʟєꜱ makes ʟᴏᴧ float in ʟᴜᴍ
+float; be buoyant; ʟєꜱ makes [ʟᴏᴧ](#cwekuhokilon) float in ʟᴜᴍ
 
 - <a name="cwekuhokiicilwel">**cwekuhokiicilwel**</a> _n._ ([cwekuhoki](#cwekuhoki)+[icilwel](#icilwel))  
 plankton
@@ -7535,7 +7535,7 @@ buoyant force; buoyancy
 swamp; marsh; bog; wetlands
 
 - <a name="cwetaka">**cwetaka**</a> _v._ ([cwe](#cwe)+[taka](#taka))  
-be wet; ʟᴜᴍ is wet with ʟᴏᴧ
+be wet; ʟᴜᴍ is wet with [ʟᴏᴧ](#cwetakalon)
 
 - <a name="cwetakalon">**cwetakalon**</a> _n._ ([cwetaka](#cwetaka)+[lon](#lon))  
 wet
@@ -7547,7 +7547,7 @@ wetness
 wet; wetten; ʟєꜱ wets ʟᴜᴍ with ʟᴏᴧ
 
 - <a name="cwetatu">**cwetatu**</a> _v._ ([cwe](#cwe)+[tatu](#tatu))  
-be mercury; be quicksilver; ʟᴏᴧ is made of mercury
+be mercury; be quicksilver; [ʟᴏᴧ](#cwetatulon) is made of mercury
 
 - <a name="cwetatulon">**cwetatulon**</a> _n._ ([cwetatu](#cwetatu)+[lon](#lon))  
 mercury; quicksilver
@@ -7588,7 +7588,7 @@ buckwheat
 selenium
 
 - <a name="selyo">**selyo**</a> _v._ (Spa.  ⟨serio⟩ \[ˈseɾjo\])  
-be serious; admire; respect; awe; ʟᴏᴧ takes ʟᴜᴍ seriously
+be serious; admire; respect; awe; [ʟᴏᴧ](#selyolon) takes [ʟᴜᴍ](#selyolum) seriously
 
 - <a name="selyolon">**selyolon**</a> _n._ ([selyo](#selyo)+[lon](#lon))  
 in awe; respectful
@@ -7615,7 +7615,7 @@ Montenegrin; the Montenegrin language
 degree Celsius; degree centigrade; °C
 
 - <a name="selti">**selti**</a> _v._ (Epo.  ⟨certi⟩ \[ˈt͡serti\])  
-be sure; be certain; be probable; be likely; be easy; ʟᴏᴧ is likely to happen according to ʟᴜᴍ; see "believe" and "think"
+be sure; be certain; be probable; be likely; be easy; [ʟᴏᴧ](#seltilon) is likely to happen according to [ʟᴜᴍ](#seltilum); see "believe" and "think"
 
 - <a name="seltilon">**seltilon**</a> _n._ ([selti](#selti)+[lon](#lon))  
 sure; certain
@@ -7684,13 +7684,13 @@ Sechellois Creole
 cultural; national; tribal; social
 
 - <a name="sesyohau">**sesyohau**</a> _v._ ([ses](#ses)+[yohau](#yohau))  
-be polite; act appropriately; ʟєꜱ is polite to ʟᴏᴧ
+be polite; act appropriately; ʟєꜱ is polite to [ʟᴏᴧ](#sesyohaulon)
 
 - <a name="sesyohaulon">**sesyohaulon**</a> _n._ ([sesyohau](#sesyohau)+[lon](#lon))  
 polite
 
 - <a name="seswecai">**seswecai**</a> _v._ ([ses](#ses)+[wecai](#wecai))  
-be rude; act inappropriately; ʟєꜱ is rude to ʟᴏᴧ
+be rude; act inappropriately; ʟєꜱ is rude to [ʟᴏᴧ](#seswecailon)
 
 - <a name="seswecailon">**seswecailon**</a> _n._ ([seswecai](#seswecai)+[lon](#lon))  
 rude
@@ -7708,13 +7708,13 @@ genital
 virgin
 
 - <a name="seksomai">**seksomai**</a> _v._ ([sekso](#sekso)+[mai](#mai))  
-prostitute; sell one's body; ʟєꜱ has sex with ʟᴏᴧ for pay
+prostitute; sell one's body; [ʟєꜱ](#seksomailes) has sex with ʟᴏᴧ for pay
 
 - <a name="seksomailes">**seksomailes**</a> _n._ ([seksomai](#seksomai)+[les](#les))  
 prostitute; whore; harlot
 
 - <a name="seksocai">**seksocai**</a> _v._ ([sekso](#sekso)+[cai](#cai))  
-feel horny; sexually attract; be sexy; ʟᴏᴧ is sexually attracted to ʟᴜᴍ
+feel horny; sexually attract; be sexy; ʟᴏᴧ is sexually attracted to [ʟᴜᴍ](#seksocailum)
 
 - <a name="seksocailum">**seksocailum**</a> _n._ ([seksocai](#seksocai)+[lum](#lum))  
 sexy
@@ -7738,13 +7738,13 @@ C; twelve; dozen; only used for hexadecimal
 twelfth
 
 - <a name="setlu">**setlu**</a> _v._ ([~~folti~~](#folti))  
-be weak; be wimpy; ʟᴏᴧ is not capable of exerting very much force
+be weak; be wimpy; [ʟᴏᴧ](#setlulon) is not capable of exerting very much force
 
 - <a name="setlulon">**setlulon**</a> _n._ ([setlu](#setlu)+[lon](#lon))  
 weak; wimpy
 
 - <a name="setluki">**setluki**</a> _v._ ([setlu](#setlu)+[ki](#ki))  
-weaken; ʟєꜱ weakens ʟᴏᴧ
+weaken; [ʟєꜱ](#setlukiles) weakens ʟᴏᴧ
 
 - <a name="setlukiles">**setlukiles**</a> _n._ ([setluki](#setluki)+[les](#les))  
 weakener; junk food
@@ -7753,7 +7753,7 @@ weakener; junk food
 apple; Malus
 
 - <a name="sepu">**sepu**</a> _v._ ([~~fomi~~](#fomi))  
-be consistent; be solid; be smooth; be filled; ʟᴏᴧ is solid all the way through
+be consistent; be solid; be smooth; be filled; [ʟᴏᴧ](#sepulon) is solid all the way through
 
 - <a name="sepulon">**sepulon**</a> _n._ ([sepu](#sepu)+[lon](#lon))  
 consistent; solid; smooth; filled
@@ -7762,7 +7762,7 @@ consistent; solid; smooth; filled
 disc
 
 - <a name="sepuki">**sepuki**</a> _v._ ([sepu](#sepu)+[ki](#ki))  
-compress; solidify; smooth; coalesce; ʟєꜱ removes the small pockets from ʟᴏᴧ
+compress; solidify; smooth; coalesce; [ʟєꜱ](#sepukiles) removes the small pockets from ʟᴏᴧ
 
 - <a name="sepukiles">**sepukiles**</a> _n._ ([sepuki](#sepuki)+[les](#les))  
 defoamer
@@ -7774,7 +7774,7 @@ defoamer
 s; /s/; alveolar fricative
 
 - <a name="sayhu">**sayhu**</a> _v._ (Cmn.  ⟨在乎⟩ \[t͡saɪ̯˥˩xu\])  
-care; matter; value; be important; hold dear; ʟᴏᴧ cares about ʟᴜᴍ
+care; matter; value; be important; hold dear; [ʟᴏᴧ](#sayhulon) cares about [ʟᴜᴍ](#sayhulum)
 
 - <a name="sayhulon">**sayhulon**</a> _n._ ([sayhu](#sayhu)+[lon](#lon))  
 caring; passionate
@@ -7843,7 +7843,7 @@ São Paulo
 third
 
 - <a name="sano">**sano**</a> _v._ (Spa.  ⟨sano⟩ \[ˈsano\])  
-be healthy; ʟᴏᴧ is healthy
+be healthy; [ʟᴏᴧ](#sanolon) is healthy
 
 - <a name="sanolon">**sanolon**</a> _n._ ([sano](#sano)+[lon](#lon))  
 healthy
@@ -7852,7 +7852,7 @@ healthy
 health
 
 - <a name="sanoki">**sanoki**</a> _v._ ([sano](#sano)+[ki](#ki))  
-heal; treat; ʟєꜱ heals ʟᴏᴧ
+heal; treat; [ʟєꜱ](#sanokiles) heals [ʟᴏᴧ](#sanokilon)
 
 - <a name="sanokiles">**sanokiles**</a> _n._ ([sanoki](#sanoki)+[les](#les))  
 doctor; healer
@@ -7891,7 +7891,7 @@ Sanskrit; in Sanskrit
 Sanskrit speakers
 
 - <a name="sama">**sama**</a> _v._ (Msa.  ⟨sama⟩ \[sama\])  
-correspond; match; be respective; ʟᴏᴧ corresponds to ʟᴜᴍ
+correspond; match; be respective; [ʟᴏᴧ](#samalon) corresponds to ʟᴜᴍ
 
 - <a name="samalon">**samalon**</a> _n._ ([sama](#sama)+[lon](#lon))  
 respective
@@ -7960,7 +7960,7 @@ eel
 scandium
 
 - <a name="sati">**sati**</a> _v._ ([sa](#sa)+[ti](#ti))  
-declare; say; tell; answer; give information; ʟєꜱ tells ʟᴜᴍ that ʟᴏᴧ is true
+declare; say; tell; answer; give information; [ʟєꜱ](#satiles) tells [ʟᴜᴍ](#satilum) that [ʟᴏᴧ](#satilon) is true
 
 - <a name="satiles">**satiles**</a> _n._ ([sati](#sati)+[les](#les))  
 lecturer; professor
@@ -7978,13 +7978,13 @@ rub; slide; slip; scrub; wipe; ʟєꜱ rubs ʟᴏᴧ
 wipe; scrubber
 
 - <a name="sapupowi">**sapupowi**</a> _v._ ([sapu](#sapu)+[powi](#powi))  
-be slippery; be smooth; ʟᴏᴧ is slippery on ʟᴜᴍ
+be slippery; be smooth; [ʟᴏᴧ](#sapupowilon) is slippery on ʟᴜᴍ
 
 - <a name="sapupowilon">**sapupowilon**</a> _n._ ([sapupowi](#sapupowi)+[lon](#lon))  
 slippery; smooth
 
 - <a name="sapupowinyo">**sapupowinyo**</a> _v._ ([sapupowi](#sapupowi)+[nyo](#nyo))  
-grip; drag; be grippy; ʟᴏᴧ exerts a frictional force on ʟᴜᴍ
+grip; drag; be grippy; [ʟᴏᴧ](#sapupowinyolon) exerts a frictional force on ʟᴜᴍ
 
 - <a name="sapupowinyolon">**sapupowinyolon**</a> _n._ ([sapupowinyo](#sapupowinyo)+[lon](#lon))  
 grippy
@@ -8035,7 +8035,7 @@ Solomon Islands (country)
 Pijin; Solomons Pidgin
 
 - <a name="soma">**soma**</a> _v._ (Swa.  ⟨soma⟩ \[soma\])  
-study; measure; conduct science; investigate; observe; experiment; test; research; ʟєꜱ uses empirical observation to learn the answer to or more about ʟᴏᴧ
+study; measure; conduct science; investigate; observe; experiment; test; research; [ʟєꜱ](#somales) uses empirical observation to learn the answer to or more about [ʟᴏᴧ](#somalon)
 
 - <a name="somales">**somales**</a> _n._ ([soma](#soma)+[les](#les))  
 scientist
@@ -8062,7 +8062,7 @@ measuring device; instrument; meter
 laboratory; lab
 
 - <a name="somasoma">**somasoma**</a> _v._ ([soma](#soma)+[soma](#soma))  
-do metrology; ʟєꜱ studies instruments and measurement to learn about ʟᴏᴧ
+do metrology; [ʟєꜱ](#somasomales) studies instruments and measurement to learn about [ʟᴏᴧ](#somasomalon)
 
 - <a name="somasomales">**somasomales**</a> _n._ ([somasoma](#somasoma)+[les](#les))  
 metrologist
@@ -8074,7 +8074,7 @@ qualities of measurement and the scientific method
 soy; soybean; soya bean; Glycine max
 
 - <a name="sosia">**sosia**</a> _v._ (Epo.  ⟨socia⟩ \[soˈt͡sia\])  
-be social; socialise; ʟᴏᴧ socialises with ʟᴜᴍ
+be social; socialise; [ʟᴏᴧ](#sosialon) socialises with [ʟᴜᴍ](#sosialum)
 
 - <a name="sosialet">**sosialet**</a> _n._ ([sosia](#sosia)+[let](#let))  
 society
@@ -8086,7 +8086,7 @@ extravert; social
 society; community
 
 - <a name="sosialumsoma">**sosialumsoma**</a> _v._ ([sosialum](#sosialum)+[soma](#soma))  
-do sociology; ʟєꜱ studies societies to learn about ʟᴏᴧ
+do sociology; [ʟєꜱ](#sosialumsomales) studies societies to learn about [ʟᴏᴧ](#sosialumsomalon)
 
 - <a name="sosialumsomalon">**sosialumsomalon**</a> _n._ ([sosialumsoma](#sosialumsoma)+[lon](#lon))  
 sociology
@@ -8095,7 +8095,7 @@ sociology
 sociologist
 
 - <a name="sosialuso">**sosialuso**</a> _v._ ([sosia](#sosia)+[luso](#luso))  
-be charismatic; ʟᴏᴧ is charismatic
+be charismatic; [ʟᴏᴧ](#sosialusolon) is charismatic
 
 - <a name="sosialusolon">**sosialusolon**</a> _n._ ([sosialuso](#sosialuso)+[lon](#lon))  
 charismatic
@@ -8104,7 +8104,7 @@ charismatic
 extraversion
 
 - <a name="sosiamoca">**sosiamoca**</a> _v._ ([sosia](#sosia)+[moca](#moca))  
-party; throw party; play; hang out; celebrate; ʟєꜱ initiates a social gathering with ʟᴏᴧ
+party; throw party; play; hang out; celebrate; [ʟєꜱ](#sosiamocales) initiates a social gathering with [ʟᴏᴧ](#sosiamocalon)
 
 - <a name="sosiamocales">**sosiamocales**</a> _n._ ([sosiamoca](#sosiamoca)+[les](#les))  
 partier; host
@@ -8119,7 +8119,7 @@ party; play-date
 integrate; ʟєꜱ socially integrates ʟᴏᴧ with ʟᴜᴍ
 
 - <a name="sosiatafu">**sosiatafu**</a> _v._ ([sosia](#sosia)+[tafu](#tafu))  
-be awkward; be uncomfortable; ʟᴏᴧ finds ʟᴜᴍ awkward
+be awkward; be uncomfortable; [ʟᴏᴧ](#sosiatafulon) finds [ʟᴜᴍ](#sosiatafulum) awkward
 
 - <a name="sosiatafulon">**sosiatafulon**</a> _n._ ([sosiatafu](#sosiatafu)+[lon](#lon))  
 uncomfortable
@@ -8128,7 +8128,7 @@ uncomfortable
 herp; awkward
 
 - <a name="sosiatife">**sosiatife**</a> _v._ ([sosia](#sosia)+[tife](#tife))  
-be awkward; ʟᴏᴧ is habitually awkward with people
+be awkward; [ʟᴏᴧ](#sosiatifelon) is habitually awkward with people
 
 - <a name="sosiatifelon">**sosiatifelon**</a> _n._ ([sosiatife](#sosiatife)+[lon](#lon))  
 awkward
@@ -8149,7 +8149,7 @@ Scotland
 Scots; Lowland Scots; the Scots language
 
 - <a name="sota">**sota**</a> _v._ (Hin.  ⟨सौदा⟩ \[sɔːdaː\])  
-deal; have deal; do business; ʟᴏᴧ has a deal with ʟᴜᴍ
+deal; have deal; do business; [ʟᴏᴧ](#sotalon) has a deal with [ʟᴜᴍ](#sotalum)
 
 - <a name="sotalon">**sotalon**</a> _n._ ([sota](#sota)+[lon](#lon))  
 dealer; entrepreneur
@@ -8161,7 +8161,7 @@ agreement; deal
 business; beauracracy; business partner
 
 - <a name="sotanu">**sotanu**</a> _v._ ([sota](#sota)+[nu](#nu))  
-break deal; violate agreement; cut ties; ʟєꜱ causes business to cease between ʟᴏᴧ and ʟᴜᴍ
+break deal; violate agreement; cut ties; [ʟєꜱ](#sotanules) causes business to cease between ʟᴏᴧ and [ʟᴜᴍ](#sotanulum)
 
 - <a name="sotanules">**sotanules**</a> _n._ ([sotanu](#sotanu)+[les](#les))  
 deal breaker
@@ -8170,7 +8170,7 @@ deal breaker
 ex-business partner
 
 - <a name="sotaki">**sotaki**</a> _v._ ([sota](#sota)+[ki](#ki))  
-strike deal; make deal; do business; negotiate; ʟєꜱ causes ʟᴏᴧ to come to a business agreement with ʟᴜᴍ
+strike deal; make deal; do business; negotiate; [ʟєꜱ](#sotakiles) causes ʟᴏᴧ to come to a business agreement with ʟᴜᴍ
 
 - <a name="sotakiles">**sotakiles**</a> _n._ ([sotaki](#sotaki)+[les](#les))  
 negotiator
@@ -8179,13 +8179,13 @@ negotiator
 strontium
 
 - <a name="sope">**sope**</a> _v._ (Mar.  ⟨सोपे⟩ \[sope\])  
-be simple; be basic; be elementary; ʟᴏᴧ is simple
+be simple; be basic; be elementary; [ʟᴏᴧ](#sopelon) is simple
 
 - <a name="sopelon">**sopelon**</a> _n._ ([sope](#sope)+[lon](#lon))  
 simple; basic; elementary
 
 - <a name="sopeki">**sopeki**</a> _v._ ([sope](#sope)+[ki](#ki))  
-simplify; ʟєꜱ simplifies ʟᴏᴧ
+simplify; [ʟєꜱ](#sopekiles) simplifies ʟᴏᴧ
 
 - <a name="sopekiles">**sopekiles**</a> _n._ ([sopeki](#sopeki)+[les](#les))  
 simplifier
@@ -8194,13 +8194,13 @@ simplifier
 head; bulge on top of an animal containing many of its sensual and cognitive capabilities
 
 - <a name="sila">**sila**</a> _v._ (Fil.  ⟨sira⟩ \[siɾa\])  
-be damaged; be hurt; be wounded; be in tatters; ʟᴏᴧ is damaged
+be damaged; be hurt; be wounded; be in tatters; [ʟᴏᴧ](#silalon) is damaged
 
 - <a name="silalon">**silalon**</a> _n._ ([sila](#sila)+[lon](#lon))  
 damaged; hurt; wounded; in tatters
 
 - <a name="silanu">**silanu**</a> _v._ ([sila](#sila)+[nu](#nu))  
-repair; mend; fix; clean; ʟєꜱ repairs ʟᴏᴧ
+repair; mend; fix; clean; [ʟєꜱ](#silanules) repairs ʟᴏᴧ
 
 - <a name="silanules">**silanules**</a> _n._ ([silanu](#silanu)+[les](#les))  
 repairperson
@@ -8209,19 +8209,19 @@ repairperson
 cranial; cephalic
 
 - <a name="silaki">**silaki**</a> _v._ ([sila](#sila)+[ki](#ki))  
-damage; hurt; harm; wear; ʟєꜱ damages ʟᴏᴧ
+damage; hurt; harm; wear; [ʟєꜱ](#silakiles) damages ʟᴏᴧ
 
 - <a name="silakiles">**silakiles**</a> _n._ ([silaki](#silaki)+[les](#les))  
 harmer
 
 - <a name="silakipowi">**silakipowi**</a> _v._ ([silaki](#silaki)+[powi](#powi))  
-be susceptible; be vulnerable; be exposed; ʟєꜱ can harm ʟᴏᴧ
+be susceptible; be vulnerable; be exposed; ʟєꜱ can harm [ʟᴏᴧ](#silakipowilon)
 
 - <a name="silakipowilon">**silakipowilon**</a> _n._ ([silakipowi](#silakipowi)+[lon](#lon))  
 susceptible; vulnerable; exposed
 
 - <a name="silakipowinu">**silakipowinu**</a> _v._ ([silakipowi](#silakipowi)+[nu](#nu))  
-protect; defend; guard; ʟєꜱ prevents ʟᴜᴍ from harming ʟᴏᴧ
+protect; defend; guard; [ʟєꜱ](#silakipowinules) prevents ʟᴜᴍ from harming ʟᴏᴧ
 
 - <a name="silakipowinuec">**silakipowinuec**</a> _n._ ([silakipowinu](#silakipowinu)+[ec](#ec))  
 shell
@@ -8233,7 +8233,7 @@ shield; protection; defense; guard
 feel defensive; ʟᴏᴧ is defensive about ʟᴜᴍ
 
 - <a name="silakipowinupolti">**silakipowinupolti**</a> _v._ ([silakipowinu](#silakipowinu)+[polti](#polti))  
-be armoured; ʟᴜᴍ armours ʟᴏᴧ
+be armoured; [ʟᴜᴍ](#silakipowinupoltilum) armours [ʟᴏᴧ](#silakipowinupoltilon)
 
 - <a name="silakipowinupoltilon">**silakipowinupoltilon**</a> _n._ ([silakipowinupolti](#silakipowinupolti)+[lon](#lon))  
 armoured
@@ -8242,13 +8242,13 @@ armoured
 armour
 
 - <a name="silakipowinupoltiki">**silakipowinupoltiki**</a> _v._ ([silakipowinu](#silakipowinu)+[poltiki](#poltiki))  
-armour; ʟєꜱ armours ʟᴏᴧ in ʟᴜᴍ
+armour; [ʟєꜱ](#silakipowinupoltikiles) armours ʟᴏᴧ in ʟᴜᴍ
 
 - <a name="silakipowinupoltikiles">**silakipowinupoltikiles**</a> _n._ ([silakipowinupoltiki](#silakipowinupoltiki)+[les](#les))  
 armourer
 
 - <a name="silakipowinyo">**silakipowinyo**</a> _v._ ([silakipowi](#silakipowi)+[nyo](#nyo))  
-be invulnerable; be invincible; be durable; ʟєꜱ cannot harm ʟᴏᴧ
+be invulnerable; be invincible; be durable; ʟєꜱ cannot harm [ʟᴏᴧ](#silakipowinyolon)
 
 - <a name="silakipowinyolon">**silakipowinyolon**</a> _n._ ([silakipowinyo](#silakipowinyo)+[lon](#lon))  
 invulnerable; invincible; durable
@@ -8296,7 +8296,7 @@ Zimbabwean; from Zimbabwe
 Zimbabwean; Zimbo; the Zimbabwean people
 
 - <a name="sica">**sica**</a> _v._ (ono.  \[ʃː\])  
-be quiet; dim; soft; faint; weak; ʟᴏᴧ is quiet
+be quiet; dim; soft; faint; weak; [ʟᴏᴧ](#sicalon) is quiet
 
 - <a name="sicalon">**sicalon**</a> _n._ ([sica](#sica)+[lon](#lon))  
 quiet
@@ -8308,7 +8308,7 @@ nighttime; night
 owl
 
 - <a name="sicaki">**sicaki**</a> _v._ ([sica](#sica)+[ki](#ki))  
-dampen; quiet; dim; soften; weaken; decrescendo; ʟєꜱ dampens ʟᴏᴧ
+dampen; quiet; dim; soften; weaken; decrescendo; [ʟєꜱ](#sicakiles) dampens ʟᴏᴧ
 
 - <a name="sicakiles">**sicakiles**</a> _n._ ([sicaki](#sicaki)+[les](#les))  
 damper
@@ -8317,7 +8317,7 @@ damper
 evening; dusk
 
 - <a name="sicapola">**sicapola**</a> _v._ ([sica](#sica)+[pola](#pola))  
-whisper; ʟєꜱ says ʟᴜᴍ to ʟᴏᴧ without voicing
+whisper; ʟєꜱ says [ʟᴜᴍ](#sicapolalum) to ʟᴏᴧ without voicing
 
 - <a name="sicapolalum">**sicapolalum**</a> _n._ ([sicapola](#sicapola)+[lum](#lum))  
 whisper
@@ -8341,7 +8341,7 @@ Sikh; followers of Sikhism
 Sikh; of Sikhism
 
 - <a name="sikla">**sikla**</a> _v._ (Epo.  ⟨cirkla⟩ \[ˈt͡sirkla\])  
-be circular; be round; ʟᴏᴧ is circular
+be circular; be round; [ʟᴏᴧ](#siklalon) is circular
 
 - <a name="siklalon">**siklalon**</a> _n._ ([sikla](#sikla)+[lon](#lon))  
 circle; ring; circular; round
@@ -8362,13 +8362,13 @@ be-pearl; ʟᴏᴧ is made of pearl
 Sikhism; Sikhi
 
 - <a name="site">**site**</a> _v._ (Hin.  ⟨सीधे⟩ \[siːd̤e\])  
-be straight; be linear; be flat; ʟᴏᴧ is straight
+be straight; be linear; be flat; [ʟᴏᴧ](#sitelon) is straight
 
 - <a name="sitelon">**sitelon**</a> _n._ ([site](#site)+[lon](#lon))  
 line; plane; straightedge; straight; linear; flat
 
 - <a name="siteki">**siteki**</a> _v._ ([site](#site)+[ki](#ki))  
-straighten; flatten; splay; open; ʟєꜱ straightens ʟᴏᴧ
+straighten; flatten; splay; open; [ʟєꜱ](#sitekiles) straightens ʟᴏᴧ
 
 - <a name="sitekiles">**sitekiles**</a> _n._ ([siteki](#siteki)+[les](#les))  
 straightener; flattener
@@ -8377,7 +8377,7 @@ straightener; flattener
 plains; flatlands
 
 - <a name="siteponto">**siteponto**</a> _v._ ([site](#site)+[ponto](#ponto))  
-be polygonal; ʟᴏᴧ is polygonal
+be polygonal; [ʟᴏᴧ](#sitepontolon) is polygonal
 
 - <a name="sitepontolon">**sitepontolon**</a> _n._ ([siteponto](#siteponto)+[lon](#lon))  
 polygon; polygonal
@@ -8419,7 +8419,7 @@ Finn; the Finnish people
 Finnish; the Finnish people
 
 - <a name="suotu">**suotu**</a> _v._ ([~~fieli~~](#fieli))  
-be ashamed; be sorry; be remorseful; regret; ʟᴏᴧ feels ashamed about ʟᴜᴍ
+be ashamed; be sorry; be remorseful; regret; [ʟᴏᴧ](#suotulon) feels ashamed about [ʟᴜᴍ](#suotulum)
 
 - <a name="suotulon">**suotulon**</a> _n._ ([suotu](#suotu)+[lon](#lon))  
 ashamed; sorry; remorseful
@@ -8485,7 +8485,7 @@ Sunni; followers of Sunni Islam
 solar; stellar
 
 - <a name="sunnunyama">**sunnunyama**</a> _v._ ([sun](#sun)+[nu](#nu)+[nyama](#nyama))  
-eat supper; eat dinner; sup; dine; ʟєꜱ eats ʟᴏᴧ
+eat supper; eat dinner; sup; dine; [ʟєꜱ](#sunnunyamales) eats [ʟᴏᴧ](#sunnunyamalon)
 
 - <a name="sunnunyamales">**sunnunyamales**</a> _n._ ([sunnunyama](#sunnunyama)+[les](#les))  
 diner; supper
@@ -8494,7 +8494,7 @@ diner; supper
 dinner; supper
 
 - <a name="sunnyama">**sunnyama**</a> _v._ ([sun](#sun)+[nyama](#nyama))  
-eat lunch; lunch; ʟєꜱ eats ʟᴏᴧ
+eat lunch; lunch; [ʟєꜱ](#sunnyamales) eats [ʟᴏᴧ](#sunnyamalon)
 
 - <a name="sunnyamales">**sunnyamales**</a> _n._ ([sunnyama](#sunnyama)+[les](#les))  
 luncher
@@ -8506,13 +8506,13 @@ lunch
 lunchtime
 
 - <a name="sunfolmo">**sunfolmo**</a> _v._ ([sun](#sun)+[folmo](#folmo))  
-be stelliform; be star-shaped; ʟᴏᴧ is covered in sharp radial points
+be stelliform; be star-shaped; [ʟᴏᴧ](#sunfolmolon) is covered in sharp radial points
 
 - <a name="sunfolmolon">**sunfolmolon**</a> _n._ ([sunfolmo](#sunfolmo)+[lon](#lon))  
 star; stelliform; star-shaped
 
 - <a name="sunkinyama">**sunkinyama**</a> _v._ ([sun](#sun)+[ki](#ki)+[nyama](#nyama))  
-eat breakfast; breakfast; ʟєꜱ eats ʟᴏᴧ
+eat breakfast; breakfast; [ʟєꜱ](#sunkinyamales) eats [ʟᴏᴧ](#sunkinyamalon)
 
 - <a name="sunkinyamales">**sunkinyamales**</a> _n._ ([sunkinyama](#sunkinyama)+[les](#les))  
 fast-breaker
@@ -8527,7 +8527,7 @@ breakfast time
 day; date
 
 - <a name="sunkwelweltolmicua">**sunkwelweltolmicua**</a> _v._ ([sunkwelwel](#sunkwelwel)+[tolmicua](#tolmicua))  
-daydream; hallucinate; ʟᴏᴧ hallucinates ʟᴜᴍ
+daydream; hallucinate; [ʟᴏᴧ](#sunkwelweltolmicualon) hallucinates [ʟᴜᴍ](#sunkwelweltolmicualum)
 
 - <a name="sunkwelweltolmicualum">**sunkwelweltolmicualum**</a> _n._ ([sunkwelweltolmicua](#sunkwelweltolmicua)+[lum](#lum))  
 daydream
@@ -8548,7 +8548,7 @@ sunflower; Helianthus
 bee; Anthophilia
 
 - <a name="suta">**suta**</a> _v._ (Epo.  ⟨suda⟩ \[ˈsuda\])  
-be south; ʟᴏᴧ has a lower latitude than ʟᴜᴍ
+be south; [ʟᴏᴧ](#sutalon) has a lower latitude than ʟᴜᴍ
 
 - <a name="'suta">**'suta**</a> _n._ (Pan.  ⟨ਸੁੰਢ⟩ \[suɖə\])  
 ginger; Zingiber
@@ -8629,7 +8629,7 @@ male; man; animal biologically characterised by testicles, penises, and testoste
 male
 
 - <a name="supotaktua">**supotaktua**</a> _v._ ([supot](#supot)+[aktua](#aktua))  
-be masculine; ʟᴏᴧ is masculine
+be masculine; [ʟᴏᴧ](#supotaktualon) is masculine
 
 - <a name="supotaktualon">**supotaktualon**</a> _n._ ([supotaktua](#supotaktua)+[lon](#lon))  
 man; boy; masculine
@@ -8647,7 +8647,7 @@ Sweden
 Swedish; the Swedish language
 
 - <a name="swa">**swa**</a> _v._ (Zul.  ⟨-zwa⟩ \[zwa\])  
-feel; emote; be emotional; be excited; ʟᴏᴧ emotionally feels ʟᴜᴍ
+feel; emote; be emotional; be excited; [ʟᴏᴧ](#swalon) emotionally feels [ʟᴜᴍ](#swalum)
 
 - <a name="swaec">**swaec**</a> _n._ ([swa](#swa)+[ec](#ec))  
 heart (metaphorical); soul; spirit
@@ -8683,7 +8683,7 @@ Swahili; the Swahili language
 emoticon; emoji
 
 - <a name="swakolwa">**swakolwa**</a> _v._ ([swa](#swa)+[kolwa](#kolwa))  
-intuit; be intuitive; ʟᴏᴧ intuitively believes ʟᴜᴍ to be so
+intuit; be intuitive; ʟᴏᴧ intuitively believes [ʟᴜᴍ](#swakolwalum) to be so
 
 - <a name="swakolwalum">**swakolwalum**</a> _n._ ([swakolwa](#swakolwa)+[lum](#lum))  
 intuitive
@@ -8701,7 +8701,7 @@ eSwatini; Swaziland
 Swazi; Swati; siSwati; the Swazi language
 
 - <a name="swape">**swape**</a> _v._ (Spa.  ⟨suave⟩ \[ˈswaβe\])  
-be smooth; be polished; be flat; ʟᴏᴧ is smooth
+be smooth; be polished; be flat; [ʟᴏᴧ](#swapelon) is smooth
 
 - <a name="swapelon">**swapelon**</a> _n._ ([swape](#swape)+[lon](#lon))  
 smooth; polished; flat
@@ -8710,13 +8710,13 @@ smooth; polished; flat
 smoothen; polish; ʟєꜱ smoothens ʟᴏᴧ
 
 - <a name="swo">**swo**</a> _v._ (Cmn.  ⟨坐⟩ \[t͡swɔ˥˩\])  
-sit; be sitting; ʟᴏᴧ is sitting
+sit; be sitting; [ʟᴏᴧ](#swolon) is sitting
 
 - <a name="swolon">**swolon**</a> _n._ ([swo](#swo)+[lon](#lon))  
 sitting
 
 - <a name="swoki">**swoki**</a> _v._ ([swo](#swo)+[ki](#ki))  
-sit down; sit up; sit; ʟєꜱ sits down ʟᴏᴧ
+sit down; sit up; sit; [ʟєꜱ](#swokiles) sits down ʟᴏᴧ
 
 - <a name="swokiles">**swokiles**</a> _n._ ([swoki](#swoki)+[les](#les))  
 sitter
@@ -8733,7 +8733,7 @@ Switzerland
 ### f
 
 - <a name="fe">**fe**</a> _v._ (Cmn.  ⟨飞⟩ \[feɪ̯˥\])  
-fly; soar; ʟᴏᴧ moves through the air, not necessarily of its own accord
+fly; soar; [ʟᴏᴧ](#felon) moves through the air, not necessarily of its own accord
 
 - <a name="'fe">**'fe**</a> _n._ (ono.  \[f\])  
 f; /f/; labial fricative
@@ -8760,19 +8760,19 @@ land; down; ground; take down; alight; ʟєꜱ brings ʟᴏᴧ down from the air
 bat; flying fox
 
 - <a name="femo">**femo**</a> _v._ ([~~sope~~](#sope))  
-be complex; be complicated; be wicked; ʟᴏᴧ is complex
+be complex; be complicated; be wicked; [ʟᴏᴧ](#femolon) is complex
 
 - <a name="femolon">**femolon**</a> _n._ ([femo](#femo)+[lon](#lon))  
 complex; complicated; wicked
 
 - <a name="femoki">**femoki**</a> _v._ ([femo](#femo)+[ki](#ki))  
-complicate; ʟєꜱ complicates ʟᴏᴧ
+complicate; [ʟєꜱ](#femokiles) complicates ʟᴏᴧ
 
 - <a name="femokiles">**femokiles**</a> _n._ ([femoki](#femoki)+[les](#les))  
 complicator
 
 - <a name="fefua">**fefua**</a> _v._ ([~~sosia~~](#sosia))  
-be introverted; be isolated; ʟᴏᴧ is socially isolated from ʟᴜᴍ
+be introverted; be isolated; [ʟᴏᴧ](#fefualon) is socially isolated from ʟᴜᴍ
 
 - <a name="fefualon">**fefualon**</a> _n._ ([fefua](#fefua)+[lon](#lon))  
 introvert; introverted; isolated
@@ -8781,7 +8781,7 @@ introvert; introverted; isolated
 isolate; ʟєꜱ socially isolates ʟᴏᴧ from ʟᴜᴍ
 
 - <a name="feki">**feki**</a> _v._ ([fe](#fe)+[ki](#ki))  
-throw; shoot; take off; jump; launch; ʟєꜱ sends ʟᴏᴧ into the air
+throw; shoot; take off; jump; launch; [ʟєꜱ](#fekiles) sends ʟᴏᴧ into the air
 
 - <a name="fekiles">**fekiles**</a> _n._ ([feki](#feki)+[les](#les))  
 shooter; launcher
@@ -8790,13 +8790,13 @@ shooter; launcher
 gun; cannon; launcher
 
 - <a name="fepucocalu">**fepucocalu**</a> _v._ ([fe](#fe)+[pucocalu](#pucocalu))  
-run; ʟᴏᴧ is running on ʟᴜᴍ
+run; ʟᴏᴧ is running on [ʟᴜᴍ](#fepucocalulum)
 
 - <a name="fepucocalulum">**fepucocalulum**</a> _n._ ([fepucocalu](#fepucocalu)+[lum](#lum))  
 treadmill
 
 - <a name="fawci">**fawci**</a> _v._ ([~~sayhu~~](#sayhu))  
-be unimportant; be indifferent; ignore; ʟᴏᴧ does not care about ʟᴜᴍ
+be unimportant; be indifferent; ignore; [ʟᴏᴧ](#fawcilon) does not care about [ʟᴜᴍ](#fawcilum)
 
 - <a name="fawcilon">**fawcilon**</a> _n._ ([fawci](#fawci)+[lon](#lon))  
 indifferent
@@ -8850,7 +8850,7 @@ French; the French language
 D; thirteen; baker's dozen; only used for hexadecimal
 
 - <a name="fake">**fake**</a> _v._ ([~~sano~~](#sano))  
-be sick; be ill; ʟᴏᴧ is sick
+be sick; be ill; [ʟᴏᴧ](#fakelon) is sick
 
 - <a name="fakelon">**fakelon**</a> _n._ ([fake](#fake)+[lon](#lon))  
 sick; ill
@@ -8859,7 +8859,7 @@ sick; ill
 sickness; disease; illness
 
 - <a name="fakeki">**fakeki**</a> _v._ ([fake](#fake)+[ki](#ki))  
-sicken; poison; ʟєꜱ sickens ʟᴏᴧ
+sicken; poison; [ʟєꜱ](#fakekiles) sickens [ʟᴏᴧ](#fakekilon)
 
 - <a name="fakekiles">**fakekiles**</a> _n._ ([fakeki](#fakeki)+[les](#les))  
 poisoner
@@ -8883,7 +8883,7 @@ thirteenth
 fourth
 
 - <a name="folmo">**folmo**</a> _v._ (Epo.  ⟨formo⟩ \[ˈformo\])  
-be shaped; be shaped like; ʟᴏᴧ is shaped like ʟᴜᴍ
+be shaped; be shaped like; [ʟᴏᴧ](#folmolon) is shaped like [ʟᴜᴍ](#folmolum)
 
 - <a name="folmolon">**folmolon**</a> _n._ ([folmo](#folmo)+[lon](#lon))  
 sculpture; shaped; shaped like
@@ -8892,13 +8892,13 @@ sculpture; shaped; shaped like
 shape
 
 - <a name="folmonu">**folmonu**</a> _v._ ([folmo](#folmo)+[nu](#nu))  
-deform; ʟєꜱ makes ʟᴏᴧ lose its shape
+deform; ʟєꜱ makes [ʟᴏᴧ](#folmonulon) lose its shape
 
 - <a name="folmonulon">**folmonulon**</a> _n._ ([folmonu](#folmonu)+[lon](#lon))  
 deformed
 
 - <a name="folmoki">**folmoki**</a> _v._ ([folmo](#folmo)+[ki](#ki))  
-shape; form; sculpt; ʟєꜱ shapes ʟᴏᴧ into ʟᴜᴍ
+shape; form; sculpt; [ʟєꜱ](#folmokiles) shapes ʟᴏᴧ into ʟᴜᴍ
 
 - <a name="folmokiles">**folmokiles**</a> _n._ ([folmoki](#folmoki)+[les](#les))  
 shaper; sculptor
@@ -8907,7 +8907,7 @@ shaper; sculptor
 Thursday
 
 - <a name="folti">**folti**</a> _v._ (Epo.  ⟨forti⟩ \[ˈforti\])  
-be strong; be forceful; ʟᴏᴧ is capable of exerting a lot of force
+be strong; be forceful; [ʟᴏᴧ](#foltilon) is capable of exerting a lot of force
 
 - <a name="foltilon">**foltilon**</a> _n._ ([folti](#folti)+[lon](#lon))  
 strong; forceful
@@ -8919,7 +8919,7 @@ strength; force
 ox
 
 - <a name="foltiki">**foltiki**</a> _v._ ([folti](#folti)+[ki](#ki))  
-strengthen; exercise; ʟєꜱ strengthens ʟᴏᴧ
+strengthen; exercise; [ʟєꜱ](#foltikiles) strengthens ʟᴏᴧ
 
 - <a name="foltikiles">**foltikiles**</a> _n._ ([foltiki](#foltiki)+[les](#les))  
 strengthener; trainer
@@ -8928,7 +8928,7 @@ strengthener; trainer
 mantisshrimp
 
 - <a name="fomi">**fomi**</a> _v._ (Eng.  ⟨foamy⟩ \[ˈfoʊ̯mi\])  
-be foamy; be spongy; be fluffy; ʟᴏᴧ is foamy
+be foamy; be spongy; be fluffy; [ʟᴏᴧ](#fomilon) is foamy
 
 - <a name="fomiicilon">**fomiicilon**</a> _n._ ([fomi](#fomi)+[icilon](#icilon))  
 sea sponge
@@ -8937,7 +8937,7 @@ sea sponge
 foam; sponge; foamy; spongy; fluffy
 
 - <a name="fomilono">**fomilono**</a> _v._ ([fomi](#fomi)+[lono](#lono))  
-be mottled; be speckled; ʟᴏᴧ is mottled in colour
+be mottled; be speckled; [ʟᴏᴧ](#fomilonolon) is mottled in colour
 
 - <a name="fomilonolon">**fomilonolon**</a> _n._ ([fomilono](#fomilono)+[lon](#lon))  
 mottled; speckled
@@ -8952,7 +8952,7 @@ bread
 eggplant; aubergine; brinjal; Solanum melongena
 
 - <a name="fomiki">**fomiki**</a> _v._ ([fomi](#fomi)+[ki](#ki))  
-foam; froth; rise; air; ʟєꜱ fills ʟᴏᴧ with small pockets
+foam; froth; rise; air; [ʟєꜱ](#fomikiles) fills ʟᴏᴧ with small pockets
 
 - <a name="fomikiles">**fomikiles**</a> _n._ ([fomiki](#fomiki)+[les](#les))  
 foamer; frother
@@ -8961,7 +8961,7 @@ foamer; frother
 phosphorus
 
 - <a name="fotlu">**fotlu**</a> _v._ ([~~selti~~](#selti))  
-be skeptical; be improbable; be unlikely; ʟᴜᴍ is unlikely to happen according to ʟᴏᴧ
+be skeptical; be improbable; be unlikely; [ʟᴜᴍ](#fotlulum) is unlikely to happen according to [ʟᴏᴧ](#fotlulon)
 
 - <a name="fotlulon">**fotlulon**</a> _n._ ([fotlu](#fotlu)+[lon](#lon))  
 skeptic; skeptical
@@ -8973,7 +8973,7 @@ improbable; unlikely
 unconvince; become skeptical; ʟєꜱ provides new information that leads ʟᴜᴍ comes to beI ʟᴏᴧ improbable
 
 - <a name="fotwe">**fotwe**</a> _v._ ([~~selyo~~](#selyo))  
-be funny; amuse; be silly; be ironic; goof off; ʟᴜᴍ is funny to ʟᴏᴧ
+be funny; amuse; be silly; be ironic; goof off; [ʟᴜᴍ](#fotwelum) is funny to [ʟᴏᴧ](#fotwelon)
 
 - <a name="fotwelon">**fotwelon**</a> _n._ ([fotwe](#fotwe)+[lon](#lon))  
 goof; ironic
@@ -8988,7 +8988,7 @@ mock; make fun; ʟєꜱ makes ʟᴏᴧ stop taking ʟᴜᴍ seriously
 phi; the golden ratio; 1.618…
 
 - <a name="fieli">**fieli**</a> _v._ (Epo.  ⟨fieri⟩ \[fiˈeri\])  
-be proud; ʟᴏᴧ feels proud of ʟᴜᴍ
+be proud; [ʟᴏᴧ](#fielilon) feels proud of [ʟᴜᴍ](#fielilum)
 
 - <a name="fielilon">**fielilon**</a> _n._ ([fieli](#fieli)+[lon](#lon))  
 proud
@@ -9018,7 +9018,7 @@ viola
 violin
 
 - <a name="fila">**fila**</a> _v._ ([~~suta~~](#suta))  
-be north; ʟᴏᴧ has a higher latitude than ʟᴜᴍ
+be north; [ʟᴏᴧ](#filalon) has a higher latitude than [ʟᴜᴍ](#filalum)
 
 - <a name="fila'elyatec">**fila'elyatec**</a> _n._ ([fila](#fila)+['elyatec](#'elyatec))  
 Northern Irish; the Northern Irish people
@@ -9099,7 +9099,7 @@ female; woman; animal biologically characterised by ovaries, vaginas and estroge
 female
 
 - <a name="fimelaktua">**fimelaktua**</a> _v._ ([fimel](#fimel)+[aktua](#aktua))  
-be feminine; ʟᴏᴧ is feminine
+be feminine; [ʟᴏᴧ](#fimelaktualon) is feminine
 
 - <a name="fimelaktualon">**fimelaktualon**</a> _n._ ([fimelaktua](#fimelaktua)+[lon](#lon))  
 woman; girl; feminine
@@ -9126,7 +9126,7 @@ moon; satellite; solid object gravitationally orbiting another
 lunar
 
 - <a name="fiknyama">**fiknyama**</a> _v._ ([fik](#fik)+[nyama](#nyama))  
-eat dessert; eat midnight snack; ʟєꜱ eats ʟᴏᴧ
+eat dessert; eat midnight snack; [ʟєꜱ](#fiknyamales) eats [ʟᴏᴧ](#fiknyamalon)
 
 - <a name="fiknyamales">**fiknyamales**</a> _n._ ([fiknyama](#fiknyama)+[les](#les))  
 dessert
@@ -9135,7 +9135,7 @@ dessert
 dessert; midnight snack
 
 - <a name="fikfolmo">**fikfolmo**</a> _v._ ([fik](#fik)+[folmo](#folmo))  
-be luniform; be moon-shaped; ʟᴏᴧ is long, bent, and pointy on the ends
+be luniform; be moon-shaped; [ʟᴏᴧ](#fikfolmolon) is long, bent, and pointy on the ends
 
 - <a name="fikfolmolon">**fikfolmolon**</a> _n._ ([fikfolmo](#fikfolmo)+[lon](#lon))  
 crescent; luniform; moon-shaped
@@ -9144,10 +9144,10 @@ crescent; luniform; moon-shaped
 month
 
 - <a name="fiti">**fiti**</a> _v._ (Epo.  ⟨fidi⟩ \[ˈfidi\])  
-have faith; be faithful; hope; ʟᴏᴧ faithfully believes in ʟᴜᴍ
+have faith; be faithful; hope; [ʟᴏᴧ](#fitilon) faithfully believes in [ʟᴜᴍ](#fitilum)
 
 - <a name="fitiici">**fitiici**</a> _v._ ([fiti](#fiti)+[ici](#ici))  
-live monastically; ʟᴏᴧ lives as a monk
+live monastically; [ʟᴏᴧ](#fitiicilon) lives as a monk
 
 - <a name="fitiicilon">**fitiicilon**</a> _n._ ([fitiici](#fitiici)+[lon](#lon))  
 monk; nun; cenobite; hermit; anchorite; hesychast; solitary
@@ -9177,7 +9177,7 @@ faith; faithfulness
 lose faith; destroy faith; lose hope; ʟєꜱ causes ʟᴏᴧ to lose faith in ʟᴜᴍ
 
 - <a name="fiticai">**fiticai**</a> _v._ ([fiti](#fiti)+[cai](#cai))  
-be hallowed; worship; ʟᴏᴧ worships ʟᴜᴍ
+be hallowed; worship; [ʟᴏᴧ](#fiticailon) worships ʟᴜᴍ
 
 - <a name="fiticailon">**fiticailon**</a> _n._ ([fiticai](#fiticai)+[lon](#lon))  
 worshiper; hallowed
@@ -9189,31 +9189,31 @@ holy book
 give faith; take faith; build up hope; ʟєꜱ causes ʟᴏᴧ to gain faith in ʟᴜᴍ
 
 - <a name="fulo">**fulo**</a> _v._ ([~~site~~](#site))  
-be wavy; be curly; be bent; be bumpy; ʟᴏᴧ is wavy
+be wavy; be curly; be bent; be bumpy; [ʟᴏᴧ](#fulolon) is wavy
 
 - <a name="fulolon">**fulolon**</a> _n._ ([fulo](#fulo)+[lon](#lon))  
 squiggle; wave; curl; wavy; curly; bent; bumpy
 
 - <a name="fuloki">**fuloki**</a> _v._ ([fulo](#fulo)+[ki](#ki))  
-bend; flex; curl; kink; ʟєꜱ bends ʟᴏᴧ
+bend; flex; curl; kink; [ʟєꜱ](#fulokiles) bends ʟᴏᴧ
 
 - <a name="fulokiles">**fulokiles**</a> _n._ ([fuloki](#fuloki)+[les](#les))  
 bender; curler
 
 - <a name="fulokipowi">**fulokipowi**</a> _v._ ([fuloki](#fuloki)+[powi](#powi))  
-be flexible; be flimsy; be malleable; be soft; ʟᴏᴧ bends easily
+be flexible; be flimsy; be malleable; be soft; [ʟᴏᴧ](#fulokipowilon) bends easily
 
 - <a name="fulokipowilon">**fulokipowilon**</a> _n._ ([fulokipowi](#fulokipowi)+[lon](#lon))  
 flexible; flimsy; malleable; soft
 
 - <a name="fulokipowinu">**fulokipowinu**</a> _v._ ([fulokipowi](#fulokipowi)+[nu](#nu))  
-rigidify; brace; harden; ʟєꜱ makes ʟᴏᴧ more rigid
+rigidify; brace; harden; [ʟєꜱ](#fulokipowinules) makes ʟᴏᴧ more rigid
 
 - <a name="fulokipowinules">**fulokipowinules**</a> _n._ ([fulokipowinu](#fulokipowinu)+[les](#les))  
 brace; hardener
 
 - <a name="fulokipowinyo">**fulokipowinyo**</a> _v._ ([fulokipowi](#fulokipowi)+[nyo](#nyo))  
-be unbending; be rigid; be brittle; be firm; ʟᴏᴧ does not bend
+be unbending; be rigid; be brittle; be firm; [ʟᴏᴧ](#fulokipowinyolon) does not bend
 
 - <a name="fulokipowinyolon">**fulokipowinyolon**</a> _n._ ([fulokipowinyo](#fulokipowinyo)+[lon](#lon))  
 rigid body; unbending; rigid; brittle; firm
@@ -9225,7 +9225,7 @@ flimsen; weaken; ʟєꜱ makes ʟᴏᴧ more flimsy
 fluorine
 
 - <a name="funta">**funta**</a> _v._ ([~~sikla~~](#sikla))  
-be square; be rectangular; be right; ʟᴏᴧ is rectangular
+be square; be rectangular; be right; [ʟᴏᴧ](#funtalon) is rectangular
 
 - <a name="funtalet">**funtalet**</a> _n._ ([funta](#funta)+[let](#let))  
 grid; hatch
@@ -9243,7 +9243,7 @@ slash
 square; rectify; right; ʟєꜱ makes ʟᴏᴧ rectangular
 
 - <a name="fuha">**fuha**</a> _v._ ([~~sica~~](#sica))  
-be loud; be bright; be strong; ʟᴏᴧ is bright
+be loud; be bright; be strong; [ʟᴏᴧ](#fuhalon) is bright
 
 - <a name="fuhalon">**fuhalon**</a> _n._ ([fuha](#fuha)+[lon](#lon))  
 loud; bright; strong
@@ -9255,7 +9255,7 @@ volume; amplitude; brightness
 daytime; day
 
 - <a name="fuhaki">**fuhaki**</a> _v._ ([fuha](#fuha)+[ki](#ki))  
-amplify; louden; brighten; strengthen; crescendo; ʟєꜱ amplifies ʟᴏᴧ
+amplify; louden; brighten; strengthen; crescendo; [ʟєꜱ](#fuhakiles) amplifies ʟᴏᴧ
 
 - <a name="fuhakiles">**fuhakiles**</a> _n._ ([fuhaki](#fuhaki)+[les](#les))  
 amplifier
@@ -9288,7 +9288,7 @@ American football
 football; soccer
 
 - <a name="fyamo">**fyamo**</a> _v._ ([~~swape~~](#swape))  
-be rough; be abrasive; be sharp; ʟᴏᴧ is rough
+be rough; be abrasive; be sharp; [ʟᴏᴧ](#fyamolon) is rough
 
 - <a name="fyamolon">**fyamolon**</a> _n._ ([fyamo](#fyamo)+[lon](#lon))  
 rough; abrasive; sharp
@@ -9309,7 +9309,7 @@ phrase; sentence; meaningful string of words
 phrasal; sentential
 
 - <a name="fwi">**fwi**</a> _v._ (ono.  \[fwiː\])  
-screech; wail; whistle; ʟєꜱ makes ʟᴏᴧ
+screech; wail; whistle; ʟєꜱ makes [ʟᴏᴧ](#fwilon)
 
 - <a name="fwilon">**fwilon**</a> _n._ ([fwi](#fwi)+[lon](#lon))  
 screech; wail; whistle; drawn-out, high-pitched sound or action
@@ -9329,7 +9329,7 @@ Gaelic; of the Gaels
 Goidelic; Gaelic; a Goidelic language
 
 - <a name="kela">**kela**</a> _v._ ([~~nota~~](#nota))  
-be oblivious; be unaware; ʟᴏᴧ fails to notice the presence of ʟᴜᴍ
+be oblivious; be unaware; [ʟᴏᴧ](#kelalon) fails to notice the presence of [ʟᴜᴍ](#kelalum)
 
 - <a name="kelalon">**kelalon**</a> _n._ ([kela](#kela)+[lon](#lon))  
 oblivious; unaware
@@ -9338,7 +9338,7 @@ oblivious; unaware
 inconspicuous; stealthy
 
 - <a name="kelaki">**kelaki**</a> _v._ ([kela](#kela)+[ki](#ki))  
-hide; obscure; ʟєꜱ hides ʟᴜᴍ from ʟᴏᴧ
+hide; obscure; [ʟєꜱ](#kelakiles) hides ʟᴜᴍ from ʟᴏᴧ
 
 - <a name="kelakiles">**kelakiles**</a> _n._ ([kelaki](#kelaki)+[les](#les))  
 hider; obscurer
@@ -9359,7 +9359,7 @@ Kenya; the Republic of Kenya
 Kendo
 
 - <a name="kehe">**kehe**</a> _v._ (ono.  \[kʰ\])  
-pop; clap; slap; tick; spark; ʟєꜱ makes ʟᴏᴧ
+pop; clap; slap; tick; spark; ʟєꜱ makes [ʟᴏᴧ](#kehelon)
 
 - <a name="kehelon">**kehelon**</a> _n._ ([kehe](#kehe)+[lon](#lon))  
 clap; slap; tick; spark; flash; sudden, high-pitched sound or action
@@ -9395,7 +9395,7 @@ Qatari; from Qatar
 Qatari; the Qatari people
 
 - <a name="kae">**kae**</a> _v._ (Spa.  ⟨cae⟩ \[ˈkae\])  
-fall; be falling; ʟᴏᴧ moves uncontrollably under gravitational forces
+fall; be falling; [ʟᴏᴧ](#kaelon) moves uncontrollably under gravitational forces
 
 - <a name="kaelon">**kaelon**</a> _n._ ([kae](#kae)+[lon](#lon))  
 falling
@@ -9404,7 +9404,7 @@ falling
 gravity
 
 - <a name="kaenu">**kaenu**</a> _v._ ([kae](#kae)+[nu](#nu))  
-catch; fall on; land; collapse; stop; ʟєꜱ makes ʟᴏᴧ stop falling
+catch; fall on; land; collapse; stop; [ʟєꜱ](#kaenules) makes [ʟᴏᴧ](#kaenulon) stop falling
 
 - <a name="kaenules">**kaenules**</a> _n._ ([kaenu](#kaenu)+[les](#les))  
 catcher; landing
@@ -9413,7 +9413,7 @@ catcher; landing
 caught
 
 - <a name="kaeki">**kaeki**</a> _v._ ([kae](#kae)+[ki](#ki))  
-drop; fall; ʟєꜱ makes ʟᴏᴧ start falling
+drop; fall; [ʟєꜱ](#kaekiles) makes [ʟᴏᴧ](#kaekilon) start falling
 
 - <a name="kaekiles">**kaekiles**</a> _n._ ([kaeki](#kaeki)+[les](#les))  
 dropper
@@ -9422,7 +9422,7 @@ dropper
 dropped; fallen
 
 - <a name="kaepowi">**kaepowi**</a> _v._ ([kae](#kae)+[powi](#powi))  
-be precarious; ʟᴏᴧ is precariously placed
+be precarious; [ʟᴏᴧ](#kaepowilon) is precariously placed
 
 - <a name="kaepowilon">**kaepowilon**</a> _n._ ([kaepowi](#kaepowi)+[lon](#lon))  
 precarious
@@ -9476,7 +9476,7 @@ Caribbean Sea
 Island Carib; Igneri
 
 - <a name="kalita">**kalita**</a> _v._ ([~~natula~~](#natula))  
-be artificial; be unnatural; ʟᴏᴧ is artificial
+be artificial; be unnatural; [ʟᴏᴧ](#kalitalon) is artificial
 
 - <a name="kalitalon">**kalitalon**</a> _n._ ([kalita](#kalita)+[lon](#lon))  
 artificial; unnatural
@@ -9524,7 +9524,7 @@ Caodaist; of Caodaism
 1; one; single; individual
 
 - <a name="kana">**kana**</a> _v._ (Spa.  ⟨gana⟩ \[ˈɡana\])  
-win; beat; lose; ʟєꜱ wins ʟᴏᴧ against ʟᴜᴍ
+win; beat; lose; [ʟєꜱ](#kanales) wins [ʟᴏᴧ](#kanalon) against [ʟᴜᴍ](#kanalum)
 
 - <a name="'kana">**'kana**</a> _n._ (Eng.  ⟨Ghana⟩ \[ˈɡɑːnə\])  
 Ghana
@@ -9566,7 +9566,7 @@ multiple; plural
 junior year of college
 
 - <a name="kanwale">**kanwale**</a> _v._ ([kan](#kan)+[wale](#wale))  
-be unique; be special; ʟᴏᴧ is unique among ʟᴜᴍ
+be unique; be special; [ʟᴏᴧ](#kanwalelon) is unique among ʟᴜᴍ
 
 - <a name="kanwalelon">**kanwalelon**</a> _n._ ([kanwale](#kanwale)+[lon](#lon))  
 unique; special
@@ -9587,7 +9587,7 @@ decapus; squid; cuttlefish
 senior year of college
 
 - <a name="kanci">**kanci**</a> _v._ (Cmn.  ⟨感激⟩ \[kan˧˩˧t͡ɕi˥\])  
-be grateful; be thankful; ʟᴏᴧ feels grateful to ʟєꜱ
+be grateful; be thankful; [ʟᴏᴧ](#kancilon) feels grateful to ʟєꜱ
 
 - <a name="kancilon">**kancilon**</a> _n._ ([kanci](#kanci)+[lon](#lon))  
 grateful; thankful
@@ -9638,7 +9638,7 @@ Ganda; Luganda; the Ganda language
 senior year of high school
 
 - <a name="kantunci">**kantunci**</a> _v._ ([kan](#kan)+[tunci](#tunci))  
-rule as a monarch; ʟᴜᴍ rules ʟᴏᴧ
+rule as a monarch; [ʟᴜᴍ](#kantuncilum) rules [ʟᴏᴧ](#kantuncilon)
 
 - <a name="kantuncilon">**kantuncilon**</a> _n._ ([kantunci](#kantunci)+[lon](#lon))  
 peasant; kingdom
@@ -9698,7 +9698,7 @@ Gambian; the Gambian people
 The Gambia; Republic of The Gambia
 
 - <a name="kaha">**kaha**</a> _v._ (ono.  \[ʡah\])  
-cough; ʟєꜱ coughs up ʟᴏᴧ
+cough; [ʟєꜱ](#kahales) coughs up [ʟᴏᴧ](#kahalon)
 
 - <a name="kahales">**kahales**</a> _n._ ([kaha](#kaha)+[les](#les))  
 cougher
@@ -9716,7 +9716,7 @@ tree; tall woody plant structure
 palm; palm tree
 
 - <a name="kaccaka">**kaccaka**</a> _v._ ([kac](#kac)+[caka](#caka))  
-be wood; be wooden; ʟᴏᴧ is made out of wood
+be wood; be wooden; [ʟᴏᴧ](#kaccakalon) is made out of wood
 
 - <a name="kaccakalon">**kaccakalon**</a> _n._ ([kaccaka](#kaccaka)+[lon](#lon))  
 wood; wooden
@@ -9773,7 +9773,7 @@ persimmon; persimon; Diospyros
 cactus; Cactaceae
 
 - <a name="kata">**kata**</a> _v._ (Mar.  ⟨कथा⟩ \[kətʰaː\])  
-storytell; ʟєꜱ tells ʟᴏᴧ the story of ʟᴜᴍ
+storytell; [ʟєꜱ](#katales) tells ʟᴏᴧ the story of [ʟᴜᴍ](#katalum)
 
 - <a name="katales">**katales**</a> _n._ ([kata](#kata)+[les](#les))  
 storyteller
@@ -9791,7 +9791,7 @@ Catholic; Roman Catholic; of the Catholic Church
 Catholic; followers of the Catholic Church
 
 - <a name="kati">**kati**</a> _v._ (Swa.  ⟨kati⟩ \[kati\])  
-be between; be among; ʟᴏᴧ exists in the space encompassed by the elements of ʟᴜᴍ
+be between; be among; [ʟᴏᴧ](#katilon) exists in the space encompassed by the elements of [ʟᴜᴍ](#katilum)
 
 - <a name="katilon">**katilon**</a> _n._ ([kati](#kati)+[lon](#lon))  
 between; among
@@ -9806,7 +9806,7 @@ remove from between; pull from; take out of; ʟєꜱ removes ʟᴏᴧ from among
 put between; place among; ʟєꜱ puts ʟᴏᴧ among ʟᴜᴍ
 
 - <a name="kape">**kape**</a> _v._ (Jav.  ⟨gapé⟩ \[kɑ̤pe\])  
-pay attention; focus; watch; occupy; ʟᴏᴧ pays attention to ʟᴜᴍ
+pay attention; focus; watch; occupy; ʟᴏᴧ pays attention to [ʟᴜᴍ](#kapelum)
 
 - <a name="kap">**kap**</a> _n._ (Eng.  ⟨carp⟩ \[kʰɑɹp\])  
 carp; koi; catfish; loach; minnow; herring; tetra; Cypriniformes
@@ -9845,7 +9845,7 @@ Cabo Verde; Cape Verde; the Republic of Cabo Verde
 Cape Verdean Creole
 
 - <a name="ko">**ko**</a> _v._ ([~~ne~~](#ne))  
-be outside; be outer; be out; be peripheral; ʟᴏᴧ is outside of ʟᴜᴍ
+be outside; be outer; be out; be peripheral; [ʟᴏᴧ](#kolon) is outside of ʟᴜᴍ
 
 - <a name="'ko">**'ko**</a> _n._ (ono.  \[k\])  
 k; /k/; velar plosive
@@ -9860,7 +9860,7 @@ koala; wombat; Vombatiformes
 cabbage; cauliflower; broccoli; kale; Brussels sprouts; collard greens; savoy; kohlrabi; gai lan; Brassica oleracea
 
 - <a name="kola">**kola**</a> _v._ ([~~neta~~](#neta))  
-be chaotic; be disorganised; be messy; be in disarray; be askance; ʟᴏᴧ is chaotic
+be chaotic; be disorganised; be messy; be in disarray; be askance; [ʟᴏᴧ](#kolalon) is chaotic
 
 - <a name="kolalon">**kolalon**</a> _n._ ([kola](#kola)+[lon](#lon))  
 chaotic; disorganised; messy; in disarray; askance
@@ -9869,7 +9869,7 @@ chaotic; disorganised; messy; in disarray; askance
 entropy; chaos
 
 - <a name="kolaki">**kolaki**</a> _v._ ([kola](#kola)+[ki](#ki))  
-disorganise; mess up; disrupt; trash; throw into chaos; ʟєꜱ puts ʟᴏᴧ into chaos
+disorganise; mess up; disrupt; trash; throw into chaos; [ʟєꜱ](#kolakiles) puts ʟᴏᴧ into chaos
 
 - <a name="kolakiles">**kolakiles**</a> _n._ ([kolaki](#kolaki)+[les](#les))  
 disorganiser; trasher
@@ -9896,7 +9896,7 @@ Columbian; from Colombia
 Colombian; the Columbian people
 
 - <a name="kolopo">**kolopo**</a> _v._ (ono.  \[korop\])  
-burp; belch; ʟєꜱ burps out ʟᴏᴧ
+burp; belch; [ʟєꜱ](#kolopoles) burps out [ʟᴏᴧ](#kolopolon)
 
 - <a name="kolopoles">**kolopoles**</a> _n._ ([kolopo](#kolopo)+[les](#les))  
 one who burps
@@ -9905,7 +9905,7 @@ one who burps
 burp
 
 - <a name="kolwa">**kolwa**</a> _v._ (Zul.  ⟨kholwa⟩ \[ˈkʰɔːlwa\])  
-believe; seem; ʟᴏᴧ accepts that ʟᴜᴍ is true on a subconscious level; see "be sure" and "think"
+believe; seem; [ʟᴏᴧ](#kolwalon) accepts that [ʟᴜᴍ](#kolwalum) is true on a subconscious level; see "be sure" and "think"
 
 - <a name="kolwalon">**kolwalon**</a> _n._ ([kolwa](#kolwa)+[lon](#lon))  
 believer
@@ -9998,7 +9998,7 @@ computer; artificial device capable of arithmetic or logical operations
 digital; electronic; computerised
 
 - <a name="komputnati">**komputnati**</a> _v._ ([komput](#komput)+[nati](#nati))  
-code; program; ʟєꜱ codes ʟᴏᴧ with ʟᴜᴍ
+code; program; [ʟєꜱ](#komputnatiles) codes ʟᴏᴧ with [ʟᴜᴍ](#komputnatilum)
 
 - <a name="komputnatiles">**komputnatiles**</a> _n._ ([komputnati](#komputnati)+[les](#les))  
 programmer
@@ -10007,7 +10007,7 @@ programmer
 code; program
 
 - <a name="komputsoma">**komputsoma**</a> _v._ ([komput](#komput)+[soma](#soma))  
-do computer science; ʟєꜱ studies computers to learn about ʟᴏᴧ
+do computer science; [ʟєꜱ](#komputsomales) studies computers to learn about [ʟᴏᴧ](#komputsomalon)
 
 - <a name="komputsomales">**komputsomales**</a> _n._ ([komputsoma](#komputsoma)+[les](#les))  
 computer scientist
@@ -10016,7 +10016,7 @@ computer scientist
 computer science
 
 - <a name="komputti">**komputti**</a> _v._ ([komput](#komput)+[ti](#ti))  
-use internet; go online; signal; ʟєꜱ digitally sends ʟᴜᴍ to ʟᴏᴧ
+use internet; go online; signal; [ʟєꜱ](#komputtiles) digitally sends [ʟᴜᴍ](#komputtilum) to [ʟᴏᴧ](#komputtilon)
 
 - <a name="komputtiles">**komputtiles**</a> _n._ ([komputti](#komputti)+[les](#les))  
 sender (engineering)
@@ -10034,7 +10034,7 @@ socket (engineering)
 packet (engineering)
 
 - <a name="kohu">**kohu**</a> _v._ ([ko](#ko)+[hu](#hu))  
-be public; ʟᴜᴍ is openly exposed to ʟᴏᴧ
+be public; ʟᴜᴍ is openly exposed to [ʟᴏᴧ](#kohulon)
 
 - <a name="kohulon">**kohulon**</a> _n._ ([kohu](#kohu)+[lon](#lon))  
 the public; public
@@ -10067,7 +10067,7 @@ Costa Rican; from Costa Rica
 Costa Rican; the Costa Rican people
 
 - <a name="kosti">**kosti**</a> _v._ (Epo.  ⟨kosti⟩ \[ˈkosti\])  
-cost; be expensive; ʟᴏᴧ costs a lot
+cost; be expensive; [ʟᴏᴧ](#kostilon) costs a lot
 
 - <a name="kostilon">**kostilon**</a> _n._ ([kosti](#kosti)+[lon](#lon))  
 valuable; expensive
@@ -10097,7 +10097,7 @@ divine; godly; deific
 peel; ʟєꜱ peels ʟᴏᴧ
 
 - <a name="koti">**koti**</a> _v._ ([ko](#ko)+[ti](#ti))  
-comment; commentary; ʟєꜱ comments ʟᴏᴧ on ʟᴜᴍ
+comment; commentary; [ʟєꜱ](#kotiles) comments [ʟᴏᴧ](#kotilon) on ʟᴜᴍ
 
 - <a name="kotiles">**kotiles**</a> _n._ ([koti](#koti)+[les](#les))  
 commenter
@@ -10115,7 +10115,7 @@ Ivorian; from Ivory Coast
 Ivorian; the Ivorian people
 
 - <a name="kotsoma">**kotsoma**</a> _v._ ([kot](#kot)+[soma](#soma))  
-do theology; ʟєꜱ studies religion to learn about ʟᴏᴧ
+do theology; [ʟєꜱ](#kotsomales) studies religion to learn about [ʟᴏᴧ](#kotsomalon)
 
 - <a name="kotsomales">**kotsomales**</a> _n._ ([kotsoma](#kotsoma)+[les](#les))  
 theologist
@@ -10133,13 +10133,13 @@ cashew
 stretch; expand; ʟєꜱ pulls outward on ʟᴏᴧ
 
 - <a name="ki">**ki**</a> _v._ (Cmn.  ⟨开始⟩ \[kʰaɪ̯˥ʂɨ˧˩˧\])  
-begin; start; commence; initiate; become; go to; come to; change to; summon; arrive; to; -ify; _incohative_; ʟєꜱ makes ʟᴏᴧ transition from falsehood to truth
+begin; start; commence; initiate; become; go to; come to; change to; summon; arrive; to; -ify; _incohative_; [ʟєꜱ](#kiles) makes [ʟᴏᴧ](#kilon) transition from falsehood to truth
 
 - <a name="kiah">**kiah**</a> _n._ (ono.  \[kijɑː\])  
 raptor; hawk; eagle; kite; vulture; condor; osprey; owl; falcon; bird of prey
 
 - <a name="kio">**kio**</a> _v._ (Swa.  ⟨kioo⟩ \[kioo\])  
-be crystal; ʟᴏᴧ is made out of crystal
+be crystal; [ʟᴏᴧ](#kiolon) is made out of crystal
 
 - <a name="kiolon">**kiolon**</a> _n._ ([kio](#kio)+[lon](#lon))  
 jewel; gem; crystal
@@ -10235,7 +10235,7 @@ all; absolute; maximum; exact
 last; universal
 
 - <a name="kitakeki">**kitakeki**</a> _v._ ([kit](#kit)+[akeki](#akeki))  
-achieve; accomplish; complete; ʟєꜱ makes ʟᴏᴧ achieve ʟᴜᴍ
+achieve; accomplish; complete; ʟєꜱ makes [ʟᴏᴧ](#kitakekilon) achieve [ʟᴜᴍ](#kitakekilum)
 
 - <a name="kitakekilon">**kitakekilon**</a> _n._ ([kitakeki](#kitakeki)+[lon](#lon))  
 achiever
@@ -10244,7 +10244,7 @@ achiever
 accomplished; achieved; completed
 
 - <a name="kititi">**kititi**</a> _v._ ([kit](#kit)+[iti](#iti))  
-integrate; take integral; ʟєꜱ takes the n-dimensional integral of ʟᴏᴧ over ʟᴜᴍ
+integrate; take integral; [ʟєꜱ](#kititiles) takes the n-dimensional integral of [ʟᴏᴧ](#kititilon) over [ʟᴜᴍ](#kititilum)
 
 - <a name="kititiles">**kititiles**</a> _n._ ([kititi](#kititi)+[les](#les))  
 integrator
@@ -10262,13 +10262,13 @@ integral dimensionality
 integration bounds
 
 - <a name="kitwale">**kitwale**</a> _v._ ([kit](#kit)+[wale](#wale))  
-be common; be normal; be standard; ʟᴏᴧ is common among ʟᴜᴍ
+be common; be normal; be standard; [ʟᴏᴧ](#kitwalelon) is common among ʟᴜᴍ
 
 - <a name="kitwalelon">**kitwalelon**</a> _n._ ([kitwale](#kitwale)+[lon](#lon))  
 common; normal; standard
 
 - <a name="kitcitu">**kitcitu**</a> _v._ ([kit](#kit)+[citu](#citu))  
-be until; be since; happen from; happen to; ʟᴏᴧ is happening from the present until ʟᴜᴍ
+be until; be since; happen from; happen to; [ʟᴏᴧ](#kitcitulon) is happening from the present until [ʟᴜᴍ](#kitcitulum)
 
 - <a name="kitcitulon">**kitcitulon**</a> _n._ ([kitcitu](#kitcitu)+[lon](#lon))  
 until; since
@@ -10286,7 +10286,7 @@ universalise; popularise; permeate; pervade; ʟєꜱ causes ʟᴏᴧ to become e
 global; international
 
 - <a name="kittunci">**kittunci**</a> _v._ ([kit](#kit)+[tunci](#tunci))  
-govern as a direct democracy; ʟᴜᴍ rules ʟᴏᴧ
+govern as a direct democracy; [ʟᴜᴍ](#kittuncilum) rules ʟᴏᴧ
 
 - <a name="kittuncilum">**kittuncilum**</a> _n._ ([kittunci](#kittunci)+[lum](#lum))  
 voter; electoral base
@@ -10295,7 +10295,7 @@ voter; electoral base
 democracy; direct democracy
 
 - <a name="kipowi">**kipowi**</a> _v._ ([ki](#ki)+[powi](#powi))  
-be ready; ʟᴏᴧ is ready to make ʟᴜᴍ happen
+be ready; [ʟᴏᴧ](#kipowilon) is ready to make ʟᴜᴍ happen
 
 - <a name="kipowilon">**kipowilon**</a> _n._ ([kipowi](#kipowi)+[lon](#lon))  
 ready
@@ -10316,10 +10316,10 @@ Cyprus; the Republic of Cyprus
 Cypriot; the Cypriot people
 
 - <a name="ku">**ku**</a> _v._ (Cmn.  ⟨苦⟩ \[kʰu˧˩˧\])  
-be bitter; ʟᴏᴧ is bitter
+be bitter; [ʟᴏᴧ](#kulon) is bitter
 
 - <a name="kule">**kule**</a> _v._ (Sho.  ⟨kure⟩ \[kure\])  
-be far; be distant; be beyond; be not at all; be remote; tele; ʟᴏᴧ is physically or numerically far from ʟᴜᴍ
+be far; be distant; be beyond; be not at all; be remote; tele; [ʟᴏᴧ](#kulelon) is physically or numerically far from [ʟᴜᴍ](#kulelum)
 
 - <a name="kuleam">**kuleam**</a> _n._ ([kule](#kule)+[am](#am))  
 forearm; lower arm
@@ -10337,13 +10337,13 @@ space
 distance
 
 - <a name="kulehila">**kulehila**</a> _v._ ([kule](#kule)+[hila](#hila))  
-travel; ʟєꜱ travels from ʟᴜᴍ to ʟᴏᴧ
+travel; ʟєꜱ travels from ʟᴜᴍ to [ʟᴏᴧ](#kulehilalon)
 
 - <a name="kulehilalon">**kulehilalon**</a> _n._ ([kulehila](#kulehila)+[lon](#lon))  
 destination; getaway
 
 - <a name="kulecalu">**kulecalu**</a> _v._ ([kule](#kule)+[calu](#calu))  
-keep apart; separate; divide; avoid; ʟєꜱ keeps ʟᴏᴧ away from ʟᴜᴍ
+keep apart; separate; divide; avoid; [ʟєꜱ](#kulecalules) keeps [ʟᴏᴧ](#kulecalulon) away from ʟᴜᴍ
 
 - <a name="kulecalules">**kulecalules**</a> _n._ ([kulecalu](#kulecalu)+[les](#les))  
 wall; barrier
@@ -10355,7 +10355,7 @@ other side
 first cousin
 
 - <a name="kuleki">**kuleki**</a> _v._ ([kule](#kule)+[ki](#ki))  
-distance; go away; separate; come from; go out; ʟєꜱ distances ʟᴏᴧ from ʟᴜᴍ
+distance; go away; separate; come from; go out; [ʟєꜱ](#kulekiles) distances ʟᴏᴧ from ʟᴜᴍ
 
 - <a name="kulekiles">**kulekiles**</a> _n._ ([kuleki](#kuleki)+[les](#les))  
 separator
@@ -10364,7 +10364,7 @@ separator
 telephone; telegraph
 
 - <a name="kula">**kula**</a> _v._ (Hin.  ⟨खुला⟩ \[kʰulaː\])  
-be soft; be flimsy; be squishy; be weak; give; the surface of ʟᴏᴧ feels soft
+be soft; be flimsy; be squishy; be weak; give; the surface of [ʟᴏᴧ](#kulalon) feels soft
 
 - <a name="kulaec">**kulaec**</a> _n._ ([kula](#kula)+[ec](#ec))  
 flesh; meat
@@ -10385,7 +10385,7 @@ next year
 soften; melt; ʟєꜱ makes ʟᴏᴧ become soft
 
 - <a name="kulatatu">**kulatatu**</a> _v._ ([kula](#kula)+[tatu](#tatu))  
-be tin; ʟᴏᴧ is made of tin
+be tin; [ʟᴏᴧ](#kulatatulon) is made of tin
 
 - <a name="kulatatulon">**kulatatulon**</a> _n._ ([kulatatu](#kulatatu)+[lon](#lon))  
 tin
@@ -10400,7 +10400,7 @@ bean
 bitter
 
 - <a name="kuli">**kuli**</a> _v._ (Msa.  ⟨gurih⟩ \[ɡurih\])  
-be savoury; have umami; ʟᴏᴧ is savoury
+be savoury; have umami; [ʟᴏᴧ](#kulilon) is savoury
 
 - <a name="kulilon">**kulilon**</a> _n._ ([kuli](#kuli)+[lon](#lon))  
 savoury
@@ -10442,7 +10442,7 @@ Kurdistan
 Kurdish; the Kurdish language
 
 - <a name="kulpa">**kulpa**</a> _v._ (ono.  \[glup a̤ː\])  
-swallow; suck; consume whole; ʟєꜱ swallows ʟᴏᴧ
+swallow; suck; consume whole; [ʟєꜱ](#kulpales) swallows [ʟᴏᴧ](#kulpalon)
 
 - <a name="kulpales">**kulpales**</a> _n._ ([kulpa](#kulpa)+[les](#les))  
 swallower
@@ -10451,7 +10451,7 @@ swallower
 swallowed
 
 - <a name="kunci">**kunci**</a> _v._ (Cmn.  ⟨控制⟩ \[kʰʊŋ˥˩ʈ͡ʂɨ˥˩\])  
-be in control; be in charge; be powerful; depend; ʟᴜᴍ controls ʟᴏᴧ
+be in control; be in charge; be powerful; depend; [ʟᴜᴍ](#kuncilum) controls [ʟᴏᴧ](#kuncilon)
 
 - <a name="kuncilon">**kuncilon**</a> _n._ ([kunci](#kunci)+[lon](#lon))  
 oppressed; dependent
@@ -10463,7 +10463,7 @@ controls; controller; harness
 oppressor; controller; leader; official; in control; in charge; powerful
 
 - <a name="kunciki">**kunciki**</a> _v._ ([kunci](#kunci)+[ki](#ki))  
-take control; capture; give control; put in charge; ʟєꜱ puts ʟᴜᴍ in control of ʟᴏᴧ
+take control; capture; give control; put in charge; [ʟєꜱ](#kuncikiles) puts ʟᴜᴍ in control of [ʟᴏᴧ](#kuncikilon)
 
 - <a name="kuncikiles">**kuncikiles**</a> _n._ ([kunciki](#kunciki)+[les](#les))  
 capturer
@@ -10472,7 +10472,7 @@ capturer
 captured
 
 - <a name="kumna">**kumna**</a> _v._ (Hin.  ⟨घुमना⟩ \[ɡ̤umnaː\])  
-spin; rotate; revolve; ʟᴏᴧ is spinning about ʟᴜᴍ
+spin; rotate; revolve; [ʟᴏᴧ](#kumnalon) is spinning about [ʟᴜᴍ](#kumnalum)
 
 - <a name="kumnalon">**kumnalon**</a> _n._ ([kumna](#kumna)+[lon](#lon))  
 spinning
@@ -10496,7 +10496,7 @@ spiral out; ʟᴏᴧ spirals outward from ʟᴜᴍ
 hurricane; typhoon
 
 - <a name="kuho">**kuho**</a> _v._ ([~~nice~~](#nice))  
-be above; be up; be high; ʟєꜱ appears below ʟᴏᴧ from the point of view of ʟᴜᴍ
+be above; be up; be high; [ʟєꜱ](#kuholes) appears below [ʟᴏᴧ](#kuholon) from the point of view of ʟᴜᴍ
 
 - <a name="kuhol">**kuhol**</a> _n._ (Fil.  ⟨kuhol⟩ \[kuhol\])  
 slug; land slug; shell-less terrestrial gastropod mollusc
@@ -10508,7 +10508,7 @@ footer; bottom
 above; up; high
 
 - <a name="kuhoki">**kuhoki**</a> _v._ ([kuho](#kuho)+[ki](#ki))  
-go up; raise; rise; ʟєꜱ makes ʟᴏᴧ appear to move up from the point of view of ʟᴜᴍ
+go up; raise; rise; [ʟєꜱ](#kuhokiles) makes ʟᴏᴧ appear to move up from the point of view of ʟᴜᴍ
 
 - <a name="kuhokiles">**kuhokiles**</a> _n._ ([kuhoki](#kuhoki)+[les](#les))  
 one who moves up
@@ -10517,13 +10517,13 @@ one who moves up
 stool
 
 - <a name="kuci">**kuci**</a> _v._ (Ben.  ⟨খুশি⟩ \[kʰuɕi\])  
-be happy; be joyful; ʟᴏᴧ feels happy
+be happy; be joyful; [ʟᴏᴧ](#kucilon) feels happy
 
 - <a name="kucilon">**kucilon**</a> _n._ ([kuci](#kuci)+[lon](#lon))  
 happy; joyful
 
 - <a name="kucinihu">**kucinihu**</a> _v._ ([kuci](#kuci)+[nihu](#nihu))  
-feel bittersweet; ʟᴏᴧ feels bittersweetly about ʟᴜᴍ
+feel bittersweet; ʟᴏᴧ feels bittersweetly about [ʟᴜᴍ](#kucinihulum)
 
 - <a name="kucinihulum">**kucinihulum**</a> _n._ ([kucinihu](#kucinihu)+[lum](#lum))  
 bittersweet
@@ -10562,7 +10562,7 @@ bitter; ʟєꜱ makes ʟᴏᴧ become bitter
 chicken; chick; junglefowl; Gallus
 
 - <a name="kuta">**kuta**</a> _v._ ([~~nila~~](#nila))  
-be orange; be warm; ʟᴏᴧ reflects long and medium wavelength light
+be orange; be warm; [ʟᴏᴧ](#kutalon) reflects long and medium wavelength light
 
 - <a name="kutalais">**kutalais**</a> _n._ ([kuta](#kuta)+[lais](#lais))  
 carrot
@@ -10583,7 +10583,7 @@ cantelope
 apricot
 
 - <a name="kuti">**kuti**</a> _v._ (Cmn.  ⟨固体⟩ \[ku˥˩tʰi˧˩˧\])  
-be solid; be coherent; be coagulated; ʟᴏᴧ is solid
+be solid; be coherent; be coagulated; [ʟᴏᴧ](#kutilon) is solid
 
 - <a name="kutilon">**kutilon**</a> _n._ ([kuti](#kuti)+[lon](#lon))  
 solid; coherent; coagulated
@@ -10592,7 +10592,7 @@ solid; coherent; coagulated
 solidity; rigidity
 
 - <a name="kutimwoni">**kutimwoni**</a> _v._ ([kuti](#kuti)+[mwoni](#mwoni))  
-sculpt; etch; carve; ʟєꜱ carves ʟᴜᴍ as ʟᴏᴧ
+sculpt; etch; carve; [ʟєꜱ](#kutimwoniles) carves [ʟᴜᴍ](#kutimwonilum) as [ʟᴏᴧ](#kutimwonilon)
 
 - <a name="kutimwoniles">**kutimwoniles**</a> _n._ ([kutimwoni](#kutimwoni)+[les](#les))  
 carver
@@ -10604,13 +10604,13 @@ sculpture
 sculpture subject
 
 - <a name="kutihila">**kutihila**</a> _v._ ([kuti](#kuti)+[hila](#hila))  
-dig; ʟᴏᴧ digs
+dig; [ʟᴏᴧ](#kutihilalon) digs
 
 - <a name="kutihilalon">**kutihilalon**</a> _n._ ([kutihila](#kutihila)+[lon](#lon))  
 digger
 
 - <a name="kutiki">**kutiki**</a> _v._ ([kuti](#kuti)+[ki](#ki))  
-freeze; solidify; deposit; ʟєꜱ freezes ʟᴏᴧ
+freeze; solidify; deposit; [ʟєꜱ](#kutikiles) freezes [ʟᴏᴧ](#kutikilon)
 
 - <a name="kutikiles">**kutikiles**</a> _n._ ([kutiki](#kutiki)+[les](#les))  
 freezer
@@ -10631,7 +10631,7 @@ Cuban; the Cuban people
 Cuba; the Republic of Cuba
 
 - <a name="kwe">**kwe**</a> _v._ ([~~nyo~~](#nyo))  
-yes; be true; be right; be correct; be real; be happening; _positive_; ʟᴏᴧ is happening
+yes; be true; be right; be correct; be real; be happening; _positive_; [ʟᴏᴧ](#kwelon) is happening
 
 - <a name="kwelayf">**kwelayf**</a> _n._ ([kwe](#kwe)+[layf](#layf))  
 condition; world
@@ -10667,7 +10667,7 @@ amount; number; quantity; extent; magnitude
 numerical; quantitative; equative
 
 - <a name="kwelyansoma">**kwelyansoma**</a> _v._ ([kwelyan](#kwelyan)+[soma](#soma))  
-do math; do maths; ʟєꜱ studies numbers to learn about ʟᴏᴧ
+do math; do maths; [ʟєꜱ](#kwelyansomales) studies numbers to learn about [ʟᴏᴧ](#kwelyansomalon)
 
 - <a name="kwelyansomales">**kwelyansomales**</a> _n._ ([kwelyansoma](#kwelyansoma)+[les](#les))  
 mathematician
@@ -10688,13 +10688,13 @@ spacial; locative (linguistics)
 time; date; instance
 
 - <a name="kwelwelesta">**kwelwelesta**</a> _v._ ([kwelwel](#kwelwel)+[esta](#esta))  
-be available; be free; ʟᴏᴧ has nothing scheduled
+be available; be free; [ʟᴏᴧ](#kwelwelestalon) has nothing scheduled
 
 - <a name="kwelwelestalon">**kwelwelestalon**</a> _n._ ([kwelwelesta](#kwelwelesta)+[lon](#lon))  
 available; free
 
 - <a name="kwelwelestanyo">**kwelwelestanyo**</a> _v._ ([kwelwelesta](#kwelwelesta)+[nyo](#nyo))  
-be busy; be unavailable; ʟᴏᴧ has things scheduled
+be busy; be unavailable; [ʟᴏᴧ](#kwelwelestanyolon) has things scheduled
 
 - <a name="kwelwelestanyolon">**kwelwelestanyolon**</a> _n._ ([kwelwelestanyo](#kwelwelestanyo)+[lon](#lon))  
 busy; unavailable
@@ -10724,7 +10724,7 @@ prove; verify; log in; ʟєꜱ verifies ʟᴏᴧ's veracity
 undo; ʟᴏᴧ happens in reverse
 
 - <a name="kwenyokwenyo">**kwenyokwenyo**</a> _v._ ([kwe](#kwe)+[nyo](#nyo)+[kwe](#kwe)+[nyo](#nyo))  
-alternate; be every-other; ʟᴏᴧ exists in an alternating pattern
+alternate; be every-other; [ʟᴏᴧ](#kwenyokwenyolon) exists in an alternating pattern
 
 - <a name="kwenyokwenyolon">**kwenyokwenyolon**</a> _n._ ([kwenyokwenyo](#kwenyokwenyo)+[lon](#lon))  
 checkerboard; every-other
@@ -10733,7 +10733,7 @@ checkerboard; every-other
 turtle; tortoise; terrapin; Testudine
 
 - <a name="kweki">**kweki**</a> _v._ ([kwe](#kwe)+[ki](#ki))  
-do; happen; cause; pro-verb; ʟєꜱ makes ʟᴏᴧ come true to ʟᴜᴍ
+do; happen; cause; pro-verb; [ʟєꜱ](#kwekiles) makes [ʟᴏᴧ](#kwekilon) come true to [ʟᴜᴍ](#kwekilum)
 
 - <a name="kwekiles">**kwekiles**</a> _n._ ([kweki](#kweki)+[les](#les))  
 agent; participant
@@ -10754,7 +10754,7 @@ theme (linguistics); stimulus (linguistics); recipient (linguistics)
 thematic (linguistics)
 
 - <a name="kwekimai">**kwekimai**</a> _v._ ([kweki](#kweki)+[mai](#mai))  
-buy service; serve; ʟᴏᴧ performs ʟᴜᴍ for ʟєꜱ in exchange for money
+buy service; serve; [ʟᴏᴧ](#kwekimailon) performs [ʟᴜᴍ](#kwekimailum) for [ʟєꜱ](#kwekimailes) in exchange for money
 
 - <a name="kwekimailes">**kwekimailes**</a> _n._ ([kwekimai](#kwekimai)+[les](#les))  
 customer
@@ -10775,7 +10775,7 @@ Kuwait
 Kuwaiti; from Kuwait
 
 - <a name="kweti">**kweti**</a> _v._ ([kwe](#kwe)+[ti](#ti))  
-tell the truth; be honest; ʟєꜱ expresses ʟᴏᴧ, which they think to be true
+tell the truth; be honest; ʟєꜱ expresses [ʟᴏᴧ](#kwetilon), which they think to be true
 
 - <a name="kwetilon">**kwetilon**</a> _n._ ([kweti](#kweti)+[lon](#lon))  
 the truth; truth; honest
@@ -10790,13 +10790,13 @@ trust; find trustworthy; ʟᴏᴧ trusts ʟᴜᴍ
 Kuwaiti; the Kuwaiti people
 
 - <a name="kwepensi">**kwepensi**</a> _v._ ([kwe](#kwe)+[pensi](#pensi))  
-be correct; be right; ʟᴏᴧ thinks ʟᴜᴍ to be true, and it is
+be correct; be right; [ʟᴏᴧ](#kwepensilon) thinks ʟᴜᴍ to be true, and it is
 
 - <a name="kwepensilon">**kwepensilon**</a> _n._ ([kwepensi](#kwepensi)+[lon](#lon))  
 correct; right
 
 - <a name="kwepensiki">**kwepensiki**</a> _v._ ([kwepensi](#kwepensi)+[ki](#ki))  
-correct; right; rectify; ʟєꜱ corrects ʟᴏᴧ's view of ʟᴜᴍ
+correct; right; rectify; ʟєꜱ corrects ʟᴏᴧ's view of [ʟᴜᴍ](#kwepensikilum)
 
 - <a name="kwepensikilum">**kwepensikilum**</a> _n._ ([kwepensiki](#kwepensiki)+[lum](#lum))  
 correction
@@ -10826,7 +10826,7 @@ lens
 spectrometer
 
 - <a name="kwansica">**kwansica**</a> _v._ ([kwan](#kwan)+[sica](#sica))  
-be dim; be dark; ʟᴏᴧ is dimly lit
+be dim; be dark; [ʟᴏᴧ](#kwansicalon) is dimly lit
 
 - <a name="kwansicalon">**kwansicalon**</a> _n._ ([kwansica](#kwansica)+[lon](#lon))  
 shadow; dim; dark
@@ -10835,7 +10835,7 @@ shadow; dim; dark
 darken; dim; ʟєꜱ darkens ʟᴏᴧ
 
 - <a name="kwanfuha">**kwanfuha**</a> _v._ ([kwan](#kwan)+[fuha](#fuha))  
-be lit; be illuminated; be bright; ʟᴏᴧ is brightly lit
+be lit; be illuminated; be bright; [ʟᴏᴧ](#kwanfuhalon) is brightly lit
 
 - <a name="kwanfuhalon">**kwanfuhalon**</a> _n._ ([kwanfuha](#kwanfuha)+[lon](#lon))  
 lit; illuminated; bright
@@ -10888,7 +10888,7 @@ Yue Chinese; Cantonese
 ### t
 
 - <a name="te">**te**</a> _v._ (Ibo.  ⟨de⟩ \[de\])  
-write; record; type; mark; save; transcribe; ʟєꜱ encodes ʟᴏᴧ physically on ʟᴜᴍ
+write; record; type; mark; save; transcribe; [ʟєꜱ](#teles) encodes [ʟᴏᴧ](#telon) physically on [ʟᴜᴍ](#telum)
 
 - <a name="teak">**teak**</a> _n._ ([te](#te)+[ak](#ak))  
 literary; scriptural
@@ -10909,7 +10909,7 @@ writing utensil
 record; book; paper
 
 - <a name="teluca">**teluca**</a> _v._ (Msa.  ⟨teruja⟩ \[terud͡ʒa\])  
-be excited; be interested; be hype; ʟᴏᴧ is excited about ʟᴜᴍ
+be excited; be interested; be hype; [ʟᴏᴧ](#telucalon) is excited about [ʟᴜᴍ](#telucalum)
 
 - <a name="telucalon">**telucalon**</a> _n._ ([teluca](#teluca)+[lon](#lon))  
 excited; interested; hype
@@ -10933,7 +10933,7 @@ Telugu; the Telugu language
 desk; writing surface
 
 - <a name="tewi">**tewi**</a> _v._ (Epo.  ⟨devi⟩ \[ˈdevi\])  
-must; have to; be responsible; be obligated; ʟᴏᴧ is obligated to make ʟᴜᴍ happen
+must; have to; be responsible; be obligated; [ʟᴏᴧ](#tewilon) is obligated to make [ʟᴜᴍ](#tewilum) happen
 
 - <a name="tewilon">**tewilon**</a> _n._ ([tewi](#tewi)+[lon](#lon))  
 responsible; obligated
@@ -10948,19 +10948,19 @@ alleviate responsibility; unassign; deobligate; ʟєꜱ makes ʟᴏᴧ no longer
 not have to; may not; ʟᴏᴧ does not have to make ʟᴜᴍ happen
 
 - <a name="tewicitu">**tewicitu**</a> _v._ ([tewi](#tewi)+[citu](#citu))  
-be timely; be on time; ʟᴏᴧ is at the correct time
+be timely; be on time; [ʟᴏᴧ](#tewicitulon) is at the correct time
 
 - <a name="tewicitulon">**tewicitulon**</a> _n._ ([tewicitu](#tewicitu)+[lon](#lon))  
 timely; on time
 
 - <a name="tewiki">**tewiki**</a> _v._ ([tewi](#tewi)+[ki](#ki))  
-assign; obligate; require; ʟєꜱ makes ʟᴏᴧ responsible for ʟᴜᴍ happening
+assign; obligate; require; [ʟєꜱ](#tewikiles) makes ʟᴏᴧ responsible for ʟᴜᴍ happening
 
 - <a name="tewikiles">**tewikiles**</a> _n._ ([tewiki](#tewiki)+[les](#les))  
 assigner
 
 - <a name="tewikunci">**tewikunci**</a> _v._ ([tewi](#tewi)+[kunci](#kunci))  
-be in prison; be incarcerated; ʟᴏᴧ is imprisoned by ʟᴜᴍ
+be in prison; be incarcerated; [ʟᴏᴧ](#tewikuncilon) is imprisoned by [ʟᴜᴍ](#tewikuncilum)
 
 - <a name="tewikuncilon">**tewikuncilon**</a> _n._ ([tewikunci](#tewikunci)+[lon](#lon))  
 prisoner; in prison; incarcerated
@@ -10975,7 +10975,7 @@ prison; jail
 release from prison; set free; ʟєꜱ releases ʟᴏᴧ from prison
 
 - <a name="tewikuncinyo">**tewikuncinyo**</a> _v._ ([tewikunci](#tewikunci)+[nyo](#nyo))  
-be at large; be free; be out of prison; ʟᴏᴧ is not imprisoned by ʟᴜᴍ
+be at large; be free; be out of prison; [ʟᴏᴧ](#tewikuncinyolon) is not imprisoned by ʟᴜᴍ
 
 - <a name="tewikuncinyolon">**tewikuncinyolon**</a> _n._ ([tewikuncinyo](#tewikuncinyo)+[lon](#lon))  
 at large; free; out of prison
@@ -10987,7 +10987,7 @@ imprison; throw in jail; ʟєꜱ imprisons ʟᴏᴧ
 denim
 
 - <a name="tenso">**tenso**</a> _v._ (Spa.  ⟨tenso⟩ \[ˈtenso\])  
-be tense; be intense; be under pressure; ʟᴏᴧ is under pressure
+be tense; be intense; be under pressure; [ʟᴏᴧ](#tensolon) is under pressure
 
 - <a name="tensolon">**tensolon**</a> _n._ ([tenso](#tenso)+[lon](#lon))  
 tense; intense; under pressure
@@ -11008,7 +11008,7 @@ Democratic Party (United States)
 paper; piece of paper; sheet of paper
 
 - <a name="tehwokti">**tehwokti**</a> _v._ ([tehwok](#tehwok)+[ti](#ti))  
-mail; send letter; ʟєꜱ sends ʟᴜᴍ to ʟᴏᴧ as a letter
+mail; send letter; [ʟєꜱ](#tehwoktiles) sends [ʟᴜᴍ](#tehwoktilum) to [ʟᴏᴧ](#tehwoktilon) as a letter
 
 - <a name="tehwoktiles">**tehwoktiles**</a> _n._ ([tehwokti](#tehwokti)+[les](#les))  
 sender of a letter
@@ -11026,7 +11026,7 @@ state; country; polity; politically independent group of people
 political; national; federal
 
 - <a name="teclwa">**teclwa**</a> _v._ ([tec](#tec)+[lwa](#lwa))  
-be at war; ʟᴏᴧ is at war with ʟᴜᴍ
+be at war; [ʟᴏᴧ](#teclwalon) is at war with [ʟᴜᴍ](#teclwalum)
 
 - <a name="teclwalon">**teclwalon**</a> _n._ ([teclwa](#teclwa)+[lon](#lon))  
 at war
@@ -11038,7 +11038,7 @@ belligerent
 make peace; make truce; ceasefire; end war; ʟєꜱ causes ʟᴏᴧ to stop being at war with ʟᴜᴍ
 
 - <a name="teclwanyo">**teclwanyo**</a> _v._ ([tec](#tec)+[lwa](#lwa)+[nyo](#nyo))  
-be at peace; ʟᴏᴧ is at peace with ʟᴜᴍ
+be at peace; [ʟᴏᴧ](#teclwanyolon) is at peace with [ʟᴜᴍ](#teclwanyolum)
 
 - <a name="teclwanyolon">**teclwanyolon**</a> _n._ ([teclwanyo](#teclwanyo)+[lon](#lon))  
 at peace
@@ -11047,7 +11047,7 @@ at peace
 non-belligerent
 
 - <a name="teclwaki">**teclwaki**</a> _v._ ([teclwa](#teclwa)+[ki](#ki))  
-wage war; declare war; invade; ʟєꜱ causes ʟᴏᴧ to go to war with ʟᴜᴍ
+wage war; declare war; invade; [ʟєꜱ](#teclwakiles) causes ʟᴏᴧ to go to war with [ʟᴜᴍ](#teclwakilum)
 
 - <a name="teclwakiles">**teclwakiles**</a> _n._ ([teclwaki](#teclwaki)+[les](#les))  
 aggressor; warmonger
@@ -11059,7 +11059,7 @@ defender
 ink
 
 - <a name="tecsota">**tecsota**</a> _v._ ([tec](#tec)+[sota](#sota))  
-have treaty; ʟᴏᴧ has a treaty with ʟᴜᴍ
+have treaty; [ʟᴏᴧ](#tecsotalon) has a treaty with [ʟᴜᴍ](#tecsotalum)
 
 - <a name="tecsotalon">**tecsotalon**</a> _n._ ([tecsota](#tecsota)+[lon](#lon))  
 contracting party
@@ -11077,7 +11077,7 @@ diplomacy
 break treaty; expire; violate agreement; ʟєꜱ terminates a treaty between ʟᴏᴧ and ʟᴜᴍ
 
 - <a name="tecsotaki">**tecsotaki**</a> _v._ ([tecsota](#tecsota)+[ki](#ki))  
-strike treaty; ʟєꜱ sets up a treaty between ʟᴏᴧ and ʟᴜᴍ
+strike treaty; [ʟєꜱ](#tecsotakiles) sets up a treaty between ʟᴏᴧ and ʟᴜᴍ
 
 - <a name="tecsotakiles">**tecsotakiles**</a> _n._ ([tecsotaki](#tecsotaki)+[les](#les))  
 diplomat; ambassador
@@ -11104,7 +11104,7 @@ alphabet; syllabary
 alphabetical
 
 - <a name="tepato">**tepato**</a> _v._ ([te](#te)+[pato](#pato))  
-be graphite ʟᴏᴧ is made of graphite
+be graphite [ʟᴏᴧ](#tepatolon) is made of graphite
 
 - <a name="tepatolon">**tepatolon**</a> _n._ ([tepato](#tepato)+[lon](#lon))  
 graphite ʟᴏᴧ is made of graphite
@@ -11134,7 +11134,7 @@ terrestrial
 Mediterranean Sea
 
 - <a name="taylnito">**taylnito**</a> _v._ ([tayl](#tayl)+[nito](#nito))  
-be local; ʟᴏᴧ is local relative to ʟᴜᴍ
+be local; [ʟᴏᴧ](#taylnitolon) is local relative to ʟᴜᴍ
 
 - <a name="taylnitolon">**taylnitolon**</a> _n._ ([taylnito](#taylnito)+[lon](#lon))  
 local
@@ -11146,7 +11146,7 @@ beach
 seagull
 
 - <a name="taylkule">**taylkule**</a> _v._ ([tayl](#tayl)+[kule](#kule))  
-be foreign; ʟᴏᴧ is foreign relative to ʟᴜᴍ
+be foreign; [ʟᴏᴧ](#taylkulelon) is foreign relative to ʟᴜᴍ
 
 - <a name="taylkulelon">**taylkulelon**</a> _n._ ([taylkule](#taylkule)+[lon](#lon))  
 foreign
@@ -11269,7 +11269,7 @@ Tamil; of the Tamil
 Tamil; the Tamil language
 
 - <a name="tafu">**tafu**</a> _v._ ([~~lasi~~](#lasi))  
-hurt; be in pain; ʟᴜᴍ hurts ʟᴏᴧ
+hurt; be in pain; [ʟᴜᴍ](#tafulum) hurts [ʟᴏᴧ](#tafulon)
 
 - <a name="tafulon">**tafulon**</a> _n._ ([tafu](#tafu)+[lon](#lon))  
 in pain
@@ -11284,7 +11284,7 @@ sympathise; take pity; ʟᴏᴧ sympathises with ʟᴜᴍ
 congratulate; apologise; ʟєꜱ expresses sympathy to ʟᴏᴧ
 
 - <a name="tafuki">**tafuki**</a> _v._ ([tafu](#tafu)+[ki](#ki))  
-torture; inflict pain; ʟєꜱ causes ʟᴏᴧ to be pained by ʟᴜᴍ
+torture; inflict pain; [ʟєꜱ](#tafukiles) causes ʟᴏᴧ to be pained by ʟᴜᴍ
 
 - <a name="tafukiles">**tafukiles**</a> _n._ ([tafuki](#tafuki)+[les](#les))  
 torturer
@@ -11293,19 +11293,19 @@ torturer
 feel schadenfreude; ʟᴏᴧ feels schodenfreude at ʟᴜᴍ
 
 - <a name="taka">**taka**</a> _v._ (Ben.  ⟨থাকা⟩ \[t̪ʰaka\])  
-be on; rest on; lean; support; hold; carry; ʟᴏᴧ rests on ʟᴜᴍ
+be on; rest on; lean; support; hold; carry; [ʟᴏᴧ](#takalon) rests on [ʟᴜᴍ](#takalum)
 
 - <a name="'taka">**'taka**</a> _n._ (Ben.  ⟨ঢাকা⟩ \[ɖʱaka\])  
 Dhaka
 
 - <a name="takai">**takai**</a> _v._ (Cmn.  ⟨打开⟩ \[ta˧˩˧kʰaɪ̯˥\])  
-be turned on; be animate; be active; be open; ʟᴏᴧ is turned on
+be turned on; be animate; be active; be open; [ʟᴏᴧ](#takailon) is turned on
 
 - <a name="takailon">**takailon**</a> _n._ ([takai](#takai)+[lon](#lon))  
 turned on; animate; active; open
 
 - <a name="takaiki">**takaiki**</a> _v._ ([takai](#takai)+[ki](#ki))  
-turn on; go off; animate; activate; trigger; ʟєꜱ turns on ʟᴏᴧ
+turn on; go off; animate; activate; trigger; [ʟєꜱ](#takaikiles) turns on ʟᴏᴧ
 
 - <a name="takaikiles">**takaikiles**</a> _n._ ([takaiki](#takaiki)+[les](#les))  
 activator; trigger
@@ -11313,7 +11313,7 @@ activator; trigger
 - <a name="takalon">**takalon**</a> _n._ ([taka](#taka)+[lon](#lon))  
 at rest; on top; on
 
-- <a name="'takalok">**'takalok**</a> _n._ (Tgl.  ⟨ᜆᜄᜎᜓᜄ᜔⟩ \[tɐˈɡaːloɡ\])  
+- <a name="'takalok">**'takalok**</a> _n._ (Tgl.  ⟨Tagalog⟩ \[tɐˈɡaːloɡ\])  
 Tagalog; the Tagalog people
 
 - <a name="'takalokak">**'takalokak**</a> _n._ (['takalok](#'takalok)+[ak](#ak))  
@@ -11332,7 +11332,7 @@ take off; get off; put down; ʟєꜱ takes ʟᴏᴧ off of ʟᴜᴍ
 put on; get on; pick up; ʟєꜱ rests ʟᴏᴧ on ʟᴜᴍ
 
 - <a name="tatu">**tatu**</a> _v._ (Ben.  ⟨ধাতু⟩ \[d̪̤at̪u\])  
-be metal; be metallic; ʟᴏᴧ is made out of metal
+be metal; be metallic; [ʟᴏᴧ](#tatulon) is made out of metal
 
 - <a name="tatulon">**tatulon**</a> _n._ ([tatu](#tatu)+[lon](#lon))  
 metal; metallic
@@ -11344,7 +11344,7 @@ satelite; artificial satelite
 metallicise; ʟєꜱ turns ʟᴏᴧ into metal
 
 - <a name="tapa">**tapa**</a> _v._ ([~~lama~~](#lama))  
-be short; ʟᴏᴧ is short in time or space
+be short; [ʟᴏᴧ](#tapalon) is short in time or space
 
 - <a name="'tapa">**'tapa**</a> _n._ (Tah.  ⟨tapa⟩ \[tapa\])  
 tapa; tapa cloth
@@ -11356,7 +11356,7 @@ nub; knob; bump; short
 compress; squeeze; ʟєꜱ compresses ʟᴏᴧ
 
 - <a name="tapaki">**tapaki**</a> _v._ ([tapa](#tapa)+[ki](#ki))  
-shorten; shrink; ʟєꜱ shortens ʟᴏᴧ
+shorten; shrink; [ʟєꜱ](#tapakiles) shortens ʟᴏᴧ
 
 - <a name="tapakiles">**tapakiles**</a> _n._ ([tapaki](#tapaki)+[les](#les))  
 shortener
@@ -11368,7 +11368,7 @@ hour
 tapir; Tapiridae
 
 - <a name="to">**to**</a> _v._ ([~~le~~](#le))  
-be rested; be energetic; be bright; have a bushy tail; ʟᴏᴧ is well-rested
+be rested; be energetic; be bright; have a bushy tail; [ʟᴏᴧ](#tolon) is well-rested
 
 - <a name="'toyc">**'toyc**</a> _n._ (Deu.  ⟨Deutsch⟩ \[ˈdɔʏ̯t͡ʃ\])  
 German; the German people
@@ -11386,7 +11386,7 @@ German; the German language
 rested; energetic; bright
 
 - <a name="tolmi">**tolmi**</a> _v._ (Epo.  ⟨dormi⟩ \[ˈdormi\])  
-sleep; nap; be asleep; be unconscious; ʟᴏᴧ is sleeping
+sleep; nap; be asleep; be unconscious; [ʟᴏᴧ](#tolmilon) is sleeping
 
 - <a name="tolmioyelum">**tolmioyelum**</a> _n._ ([tolmi](#tolmi)+[oyelum](#oyelum))  
 snoring; snores
@@ -11395,7 +11395,7 @@ snoring; snores
 asleep; unconscious
 
 - <a name="tolmicua">**tolmicua**</a> _v._ ([tolmi](#tolmi)+[cua](#cua))  
-dream; ʟᴏᴧ dreams ʟᴜᴍ
+dream; [ʟᴏᴧ](#tolmicualon) dreams [ʟᴜᴍ](#tolmicualum)
 
 - <a name="tolmicualon">**tolmicualon**</a> _n._ ([tolmicua](#tolmicua)+[lon](#lon))  
 dreamer
@@ -11461,7 +11461,7 @@ pants; shorts
 second grade
 
 - <a name="toscohluso">**toscohluso**</a> _v._ ([tos](#tos)+[coh](#coh)+[luso](#luso))  
-be ambidextrous; ʟᴏᴧ is ambidextrous
+be ambidextrous; [ʟᴏᴧ](#toscohlusolon) is ambidextrous
 
 - <a name="toscohlusolon">**toscohlusolon**</a> _n._ ([toscohluso](#toscohluso)+[lon](#lon))  
 ambidextrous
@@ -11473,19 +11473,19 @@ Tuesday
 second
 
 - <a name="tofta">**tofta**</a> _v._ ([~~lesla~~](#lesla))  
-be inviscous; be thin; ʟᴏᴧ is inviscous
+be inviscous; be thin; [ʟᴏᴧ](#toftalon) is inviscous
 
 - <a name="toftalon">**toftalon**</a> _n._ ([tofta](#tofta)+[lon](#lon))  
 lubricant; oil; liquid; inviscous; thin
 
 - <a name="toftaki">**toftaki**</a> _v._ ([tofta](#tofta)+[ki](#ki))  
-thin; decrease viscosity; ʟєꜱ makes ʟᴏᴧ less viscous
+thin; decrease viscosity; [ʟєꜱ](#toftakiles) makes ʟᴏᴧ less viscous
 
 - <a name="toftakiles">**toftakiles**</a> _n._ ([toftaki](#toftaki)+[les](#les))  
 thinner; viscosity reducer
 
 - <a name="toka">**toka**</a> _v._ (Spa.  ⟨toca⟩ \[ˈtoka\])  
-touch; meet; ʟᴏᴧ and ʟᴜᴍ are so close to each other that they cannot physically get any closer (please don't get tecnical with my definition of this)
+touch; meet; [ʟᴏᴧ](#tokalon) and ʟᴜᴍ are so close to each other that they cannot physically get any closer (please don't get tecnical with my definition of this)
 
 - <a name="tokalon">**tokalon**</a> _n._ ([toka](#toka)+[lon](#lon))  
 touching
@@ -11512,7 +11512,7 @@ reach; extend; ʟєꜱ reaches ʟᴏᴧ toward ʟᴜᴍ
 touch; join; ʟєꜱ touches ʟᴏᴧ to ʟᴜᴍ
 
 - <a name="toko">**toko**</a> _v._ (Ben.  ⟨টক⟩ \[tɔkɔ\])  
-be sour; ʟᴏᴧ is sour
+be sour; [ʟᴏᴧ](#tokolon) is sour
 
 - <a name="'toko">**'toko**</a> _n._ (Fra.  ⟨Togo⟩ \[togo\])  
 Togo
@@ -11557,16 +11557,16 @@ Tobago
 Tobagonian
 
 - <a name="ti">**ti**</a> _v._ (Xho.  ⟨thi⟩ \[tʰi\])  
-say; convey; communicate; ʟєꜱ conveys ʟᴜᴍ to ʟᴏᴧ
+say; convey; communicate; [ʟєꜱ](#tiles) conveys [ʟᴜᴍ](#tilum) to [ʟᴏᴧ](#tilon)
 
 - <a name="tie">**tie**</a> _v._ (Ben.  ⟨দিয়ে⟩ \[d̪ie̯e\])  
-be across; be transverse; straddle; be perpendicular; ʟᴏᴧ is across ʟᴜᴍ
+be across; be transverse; straddle; be perpendicular; [ʟᴏᴧ](#tielon) is across [ʟᴜᴍ](#tielum)
 
 - <a name="tielon">**tielon**</a> _n._ ([tie](#tie)+[lon](#lon))  
 cross; cross member; across; transverse; perpendicular
 
 - <a name="tielonfolmo">**tielonfolmo**</a> _v._ ([tielon](#tielon)+[folmo](#folmo))  
-be cruciform; be cross-shaped; ʟᴏᴧ comprises two crossed segments
+be cruciform; be cross-shaped; [ʟᴏᴧ](#tielonfolmolon) comprises two crossed segments
 
 - <a name="tielonfolmolon">**tielonfolmolon**</a> _n._ ([tielonfolmo](#tielonfolmo)+[lon](#lon))  
 cruciform; cross-shaped
@@ -11599,7 +11599,7 @@ language; protocol
 linguistic; lingual
 
 - <a name="tilipsoma">**tilipsoma**</a> _v._ ([tilip](#tilip)+[soma](#soma))  
-do linguistics; ʟєꜱ studies languages to learn about ʟᴏᴧ
+do linguistics; [ʟєꜱ](#tilipsomales) studies languages to learn about [ʟᴏᴧ](#tilipsomalon)
 
 - <a name="tilipsomales">**tilipsomales**</a> _n._ ([tilipsoma](#tilipsoma)+[les](#les))  
 linguist
@@ -11656,13 +11656,13 @@ Turkish; the Turkish language
 mackerel; tuna; tunny; Scombridae
 
 - <a name="tinti">**tinti**</a> _v._ (ono.  \[tiŋ tiŋ\])  
-ding; ping; chime; ʟєꜱ makes ʟᴏᴧ
+ding; ping; chime; [ʟєꜱ](#tintiles) makes [ʟᴏᴧ](#tintilon)
 
 - <a name="tintiles">**tintiles**</a> _n._ ([tinti](#tinti)+[les](#les))  
 bell
 
 - <a name="tintilesfolmo">**tintilesfolmo**</a> _v._ ([tintiles](#tintiles)+[folmo](#folmo))  
-be campanula; be bell-shaped; ʟᴏᴧ is rotationally symmetric, closed on one end, and flared on the other
+be campanula; be bell-shaped; [ʟᴏᴧ](#tintilesfolmolon) is rotationally symmetric, closed on one end, and flared on the other
 
 - <a name="tintilesfolmolon">**tintilesfolmolon**</a> _n._ ([tintilesfolmo](#tintilesfolmo)+[lon](#lon))  
 campanula; bell-shaped
@@ -11683,7 +11683,7 @@ Timor (landmass)
 Timorese; from Timor
 
 - <a name="tihu">**tihu**</a> _v._ ([~~luci~~](#luci))  
-be green; ʟᴏᴧ reflects medium and long wavelength light
+be green; [ʟᴏᴧ](#tihulon) reflects medium and long wavelength light
 
 - <a name="tihulon">**tihulon**</a> _n._ ([tihu](#tihu)+[lon](#lon))  
 green
@@ -11695,7 +11695,7 @@ lime
 green; colour green; ʟєꜱ colours ʟᴏᴧ green
 
 - <a name="tihukio">**tihukio**</a> _v._ ([tihu](#tihu)+[kio](#kio))  
-be emerald; ʟᴏᴧ is made of emerald
+be emerald; [ʟᴏᴧ](#tihukiolon) is made of emerald
 
 - <a name="tihukiolon">**tihukiolon**</a> _n._ ([tihukio](#tihukio)+[lon](#lon))  
 emerald
@@ -11704,7 +11704,7 @@ emerald
 honeydew
 
 - <a name="tihutatu">**tihutatu**</a> _v._ ([tihu](#tihu)+[tatu](#tatu))  
-be copper; ʟᴏᴧ is made of copper
+be copper; [ʟᴏᴧ](#tihutatulon) is made of copper
 
 - <a name="tihutatulon">**tihutatulon**</a> _n._ ([tihutatu](#tihutatu)+[lon](#lon))  
 copper
@@ -11713,7 +11713,7 @@ copper
 T-shirt
 
 - <a name="tife">**tife**</a> _v._ ([~~luso~~](#luso))  
-be inept; be unskillful; be ineffective; be bad; ʟᴏᴧ is bad at causing ʟᴜᴍ
+be inept; be unskillful; be ineffective; be bad; [ʟᴏᴧ](#tifelon) is bad at causing ʟᴜᴍ
 
 - <a name="tifelon">**tifelon**</a> _n._ ([tife](#tife)+[lon](#lon))  
 inept; unskillful; ineffective; bad
@@ -11722,7 +11722,7 @@ inept; unskillful; ineffective; bad
 nondominant hand
 
 - <a name="tifeki">**tifeki**</a> _v._ ([tife](#tife)+[ki](#ki))  
-untrain; forget; become rusty; ʟєꜱ makes ʟᴏᴧ become unskillful at ʟᴜᴍ
+untrain; forget; become rusty; [ʟєꜱ](#tifekiles) makes [ʟᴏᴧ](#tifekilon) become unskillful at ʟᴜᴍ
 
 - <a name="tifekiles">**tifekiles**</a> _n._ ([tifeki](#tifeki)+[les](#les))  
 untrainer
@@ -11737,7 +11737,7 @@ bulrush; reed; cattail; water sausage; Typha
 tick; mite; Acari
 
 - <a name="tika">**tika**</a> _v._ ([~~luna~~](#luna))  
-be unsalty; ʟᴏᴧ is not salty
+be unsalty; [ʟᴏᴧ](#tikalon) is not salty
 
 - <a name="tikalon">**tikalon**</a> _n._ ([tika](#tika)+[lon](#lon))  
 unsalty
@@ -11746,7 +11746,7 @@ unsalty
 desalt; purify; ʟєꜱ makes ʟᴏᴧ less salty
 
 - <a name="tiku">**tiku**</a> _v._ ([~~luni~~](#luni))  
-be unlikely; be weird; be remarkable; be rare; be unexpected; be strange; ʟᴏᴧ is unlikely
+be unlikely; be weird; be remarkable; be rare; be unexpected; be strange; [ʟᴏᴧ](#tikulon) is unlikely
 
 - <a name="tikulon">**tikulon**</a> _n._ ([tiku](#tiku)+[lon](#lon))  
 coincidence; unlikely; weird; remarkable; rare; unexpected; strange
@@ -11764,7 +11764,7 @@ castor bean; castor oil plant; palm of Christ
 titanium
 
 - <a name="titi">**titi**</a> _v._ ([ti](#ti)+[ti](#ti))  
-communicate; talk; speak; correspond; ʟєꜱ has a two-way interaction with ʟᴏᴧ about ʟᴜᴍ
+communicate; talk; speak; correspond; ʟєꜱ has a two-way interaction with [ʟᴏᴧ](#titilon) about [ʟᴜᴍ](#titilum)
 
 - <a name="titilon">**titilon**</a> _n._ ([titi](#titi)+[lon](#lon))  
 interlocutor
@@ -11776,7 +11776,7 @@ topic; passage
 conversation; discourse
 
 - <a name="tipa">**tipa**</a> _v._ (Epo.  ⟨tipa⟩ \[ˈtipa\])  
-be typical; exemplify; qualify; represent; the type of ʟᴏᴧ is ʟᴜᴍ
+be typical; exemplify; qualify; represent; the type of [ʟᴏᴧ](#tipalon) is [ʟᴜᴍ](#tipalum)
 
 - <a name="tipalon">**tipalon**</a> _n._ ([tipa](#tipa)+[lon](#lon))  
 instance; example; typical
@@ -11791,10 +11791,10 @@ disqualify; declassify; ʟєꜱ makes ʟᴏᴧ not be an instance of ʟᴜᴍ
 categorise; classify; ʟєꜱ places ʟᴏᴧ as an instance of ʟᴜᴍ
 
 - <a name="tu">**tu**</a> _v._ (Cmn.  ⟨读⟩ \[tu˧˥\])  
-read; load; interpret; ʟєꜱ reads ʟᴏᴧ from the physical state of ʟᴜᴍ
+read; load; interpret; [ʟєꜱ](#tules) reads [ʟᴏᴧ](#tulon) from the physical state of [ʟᴜᴍ](#tulum)
 
 - <a name="tue">**tue**</a> _v._ (Jav.  ⟨duwé⟩ \[tṳwe\])  
-own; have; possess; belong; ʟᴏᴧ owns ʟᴜᴍ
+own; have; possess; belong; [ʟᴏᴧ](#tuelon) owns [ʟᴜᴍ](#tuelum)
 
 - <a name="tuelon">**tuelon**</a> _n._ ([tue](#tue)+[lon](#lon))  
 owner
@@ -11803,7 +11803,7 @@ owner
 property
 
 - <a name="tuenu">**tuenu**</a> _v._ ([tue](#tue)+[nu](#nu))  
-take; lose; give away; renounce ownership; ʟєꜱ takes ʟᴜᴍ from ʟᴏᴧ
+take; lose; give away; renounce ownership; [ʟєꜱ](#tuenules) takes [ʟᴜᴍ](#tuenulum) from [ʟᴏᴧ](#tuenulon)
 
 - <a name="tuenules">**tuenules**</a> _n._ ([tuenu](#tuenu)+[les](#les))  
 taker
@@ -11815,7 +11815,7 @@ loser
 theft; prize; taken
 
 - <a name="tuecalu">**tuecalu**</a> _v._ ([tue](#tue)+[calu](#calu))  
-keep; retain ownership; ʟєꜱ lets ʟᴏᴧ keep ʟᴜᴍ
+keep; retain ownership; ʟєꜱ lets [ʟᴏᴧ](#tuecalulon) keep [ʟᴜᴍ](#tuecalulum)
 
 - <a name="tuecalulon">**tuecalulon**</a> _n._ ([tuecalu](#tuecalu)+[lon](#lon))  
 keeper; hoarder
@@ -11824,7 +11824,7 @@ keeper; hoarder
 kept
 
 - <a name="tueki">**tueki**</a> _v._ ([tue](#tue)+[ki](#ki))  
-give; receive; obtain; get; transfer ownership; ʟєꜱ gives ʟᴜᴍ to ʟᴏᴧ
+give; receive; obtain; get; transfer ownership; [ʟєꜱ](#tuekiles) gives [ʟᴜᴍ](#tuekilum) to [ʟᴏᴧ](#tuekilon)
 
 - <a name="tuekiles">**tuekiles**</a> _n._ ([tueki](#tueki)+[les](#les))  
 giver
@@ -11836,13 +11836,13 @@ receiver; obtainer
 gift; given
 
 - <a name="tuepowi">**tuepowi**</a> _v._ ([tue](#tue)+[powi](#powi))  
-be obtainable; be common; ʟᴜᴍ is obtainable to ʟᴏᴧ
+be obtainable; be common; [ʟᴜᴍ](#tuepowilum) is obtainable to ʟᴏᴧ
 
 - <a name="tuepowilum">**tuepowilum**</a> _n._ ([tuepowi](#tuepowi)+[lum](#lum))  
 obtainable; common
 
 - <a name="tuepowinyo">**tuepowinyo**</a> _v._ ([tuepowi](#tuepowi)+[nyo](#nyo))  
-be rare; be unobtainable; ʟᴜᴍ is difficult for ʟᴏᴧ to obtain
+be rare; be unobtainable; [ʟᴜᴍ](#tuepowinyolum) is difficult for ʟᴏᴧ to obtain
 
 - <a name="tuepowinyolum">**tuepowinyolum**</a> _n._ ([tuepowinyo](#tuepowinyo)+[lum](#lum))  
 rare; unobtainable
@@ -11860,7 +11860,7 @@ file; text; reading; passage; data; note
 source; text
 
 - <a name="tulse">**tulse**</a> _v._ (Spa.  ⟨dulce⟩ \[ˈdulse\])  
-be sweet; be sweetened; ʟᴏᴧ is sweet
+be sweet; be sweetened; [ʟᴏᴧ](#tulselon) is sweet
 
 - <a name="tulseufalon">**tulseufalon**</a> _n._ ([tulse](#tulse)+[ufalon](#ufalon))  
 sugar
@@ -11923,7 +11923,7 @@ Tunisian; the Tunisian people
 carnivore; something that eats meat
 
 - <a name="tunci">**tunci**</a> _v._ (Cmn.  ⟨统治⟩ \[tʰʊŋ˧˩˧ʈ͡ʂɨ˥˩\])  
-govern; administer; have citizenship; ʟᴜᴍ serves as the governing body to ʟᴏᴧ
+govern; administer; have citizenship; [ʟᴜᴍ](#tuncilum) serves as the governing body to [ʟᴏᴧ](#tuncilon)
 
 - <a name="tuncilon">**tuncilon**</a> _n._ ([tunci](#tunci)+[lon](#lon))  
 citizen; governed; people
@@ -11944,7 +11944,7 @@ protest; ʟєꜱ protests ʟᴜᴍ to ʟᴏᴧ
 secede; collapse; impeach; ʟєꜱ makes ʟᴜᴍ stop governing ʟᴏᴧ
 
 - <a name="tuncinyotewi">**tuncinyotewi**</a> _v._ ([tunci](#tunci)+[nyotewi](#nyotewi))  
-be illegal; be against the law; ʟᴏᴧ is prohibited by law from making ʟᴜᴍ happen
+be illegal; be against the law; [ʟᴏᴧ](#tuncinyotewilon) is prohibited by law from making [ʟᴜᴍ](#tuncinyotewilum) happen
 
 - <a name="tuncinyotewilon">**tuncinyotewilon**</a> _n._ ([tuncinyotewi](#tuncinyotewi)+[lon](#lon))  
 illegal; against the law
@@ -11959,7 +11959,7 @@ prohibit; ban; pass law against; ʟєꜱ legally declares that ʟᴏᴧ may not 
 take over; elect; come to power; conquer; annex; ʟєꜱ makes ʟᴜᴍ become the government of ʟᴏᴧ
 
 - <a name="tuncitewi">**tuncitewi**</a> _v._ ([tunci](#tunci)+[tewi](#tewi))  
-be legally required; be mandated by law; ʟᴏᴧ is required by law to make ʟᴜᴍ happen
+be legally required; be mandated by law; [ʟᴏᴧ](#tuncitewilon) is required by law to make [ʟᴜᴍ](#tuncitewilum) happen
 
 - <a name="tuncitewilon">**tuncitewilon**</a> _n._ ([tuncitewi](#tuncitewi)+[lon](#lon))  
 legally required; mandated by law
@@ -11968,7 +11968,7 @@ legally required; mandated by law
 law
 
 - <a name="tuncitewiki">**tuncitewiki**</a> _v._ ([tunci](#tunci)+[tewiki](#tewiki))  
-legislate; mandate; pass law; ʟєꜱ legally declares that ʟᴏᴧ must make ʟᴜᴍ happen
+legislate; mandate; pass law; [ʟєꜱ](#tuncitewikiles) legally declares that ʟᴏᴧ must make [ʟᴜᴍ](#tuncitewikilum) happen
 
 - <a name="tuncitewikiles">**tuncitewikiles**</a> _n._ ([tuncitewiki](#tuncitewiki)+[les](#les))  
 legislator; legislature; parliament; congress
@@ -11992,7 +11992,7 @@ Bhutanese; the Bhutanese people
 Dzongkha
 
 - <a name="tutumu">**tutumu**</a> _v._ (ono.  \[dudum dudum\])  
-be rhythmic; pulse; cycle; oscillate; flash; beat; ʟᴏᴧ happens rhythmically
+be rhythmic; pulse; cycle; oscillate; flash; beat; [ʟᴏᴧ](#tutumulon) happens rhythmically
 
 - <a name="tutumuec">**tutumuec**</a> _n._ ([tutumu](#tutumu)+[ec](#ec))  
 heart
@@ -12051,7 +12051,7 @@ Trididadian
 ### p
 
 - <a name="pe">**pe**</a> _v._ (Cmn.  ⟨陪⟩ \[pʰeɪ̯˧˥\])  
-accompany; come with; be together; be beside; _accompanitive_; ʟᴏᴧ accompanies ʟєꜱ
+accompany; come with; be together; be beside; _accompanitive_; [ʟᴏᴧ](#pelon) accompanies [ʟєꜱ](#peles)
 
 - <a name="'pe">**'pe**</a> _n._ (ono.  \[p\])  
 p; /p/; bilabial plosive
@@ -12060,7 +12060,7 @@ p; /p/; bilabial plosive
 pear; Pyrus
 
 - <a name="pealfolmo">**pealfolmo**</a> _v._ ([peal](#peal)+[folmo](#folmo))  
-be pyriform; be pear-shaped; ʟᴏᴧ is fatter on one side than the other
+be pyriform; be pear-shaped; [ʟᴏᴧ](#pealfolmolon) is fatter on one side than the other
 
 - <a name="pealfolmolon">**pealfolmolon**</a> _n._ ([pealfolmo](#pealfolmo)+[lon](#lon))  
 pyriform; pear-shaped
@@ -12075,7 +12075,7 @@ over; division; fraction
 accompanied
 
 - <a name="pela">**pela**</a> _v._ ([~~mota~~](#mota))  
-be small; be little; ʟᴏᴧ has a low volume
+be small; be little; [ʟᴏᴧ](#pelalon) has a low volume
 
 - <a name="pelaicilon">**pelaicilon**</a> _n._ ([pela](#pela)+[icilon](#icilon))  
 plankton
@@ -12108,7 +12108,7 @@ Palauan; the Palauan language
 sedan; saloon; car
 
 - <a name="pelacai">**pelacai**</a> _v._ ([pela](#pela)+[cai](#cai))  
-adore; be cute; ʟᴏᴧ finds ʟᴜᴍ cute
+adore; be cute; ʟᴏᴧ finds [ʟᴜᴍ](#pelacailum) cute
 
 - <a name="pelacailum">**pelacailum**</a> _n._ ([pelacai](#pelacai)+[lum](#lum))  
 cute
@@ -12126,7 +12126,7 @@ minnow
 Brussels sprouts
 
 - <a name="pelaki">**pelaki**</a> _v._ ([pela](#pela)+[ki](#ki))  
-shrink; contract; constrict; ʟєꜱ shrinks ʟᴏᴧ
+shrink; contract; constrict; [ʟєꜱ](#pelakiles) shrinks ʟᴏᴧ
 
 - <a name="pelakiles">**pelakiles**</a> _n._ ([pelaki](#pelaki)+[les](#les))  
 shrinker
@@ -12171,19 +12171,19 @@ Belgian; from Belgium
 Belgian; the Belgian people
 
 - <a name="peltosefe">**peltosefe**</a> _v._ ([pel](#pel)+[tos](#tos)+[efe](#efe))  
-be minority; ʟᴏᴧ is less than half of ʟᴜᴍ
+be minority; [ʟᴏᴧ](#peltosefelon) is less than half of ʟᴜᴍ
 
 - <a name="peltosefelon">**peltosefelon**</a> _n._ ([peltosefe](#peltosefe)+[lon](#lon))  
 minority
 
 - <a name="peltososo">**peltososo**</a> _v._ ([pel](#pel)+[tos](#tos)+[oso](#oso))  
-be majority; be most; ʟᴏᴧ is most of ʟᴜᴍ
+be majority; be most; [ʟᴏᴧ](#peltososolon) is most of ʟᴜᴍ
 
 - <a name="peltososolon">**peltososolon**</a> _n._ ([peltososo](#peltososo)+[lon](#lon))  
 majority; most
 
 - <a name="pewo">**pewo**</a> _v._ ([~~moye~~](#moye))  
-misunderstand; be confused; be cryptic; ʟᴏᴧ does not understand ʟᴜᴍ well
+misunderstand; be confused; be cryptic; [ʟᴏᴧ](#pewolon) does not understand [ʟᴜᴍ](#pewolum) well
 
 - <a name="pewolon">**pewolon**</a> _n._ ([pewo](#pewo)+[lon](#lon))  
 confused
@@ -12192,7 +12192,7 @@ confused
 misunderstood; cryptic
 
 - <a name="pewoki">**pewoki**</a> _v._ ([pewo](#pewo)+[ki](#ki))  
-confuse; unlearn; ʟєꜱ makes ʟᴏᴧ stop understanding ʟᴜᴍ
+confuse; unlearn; [ʟєꜱ](#pewokiles) makes ʟᴏᴧ stop understanding ʟᴜᴍ
 
 - <a name="pewokiles">**pewokiles**</a> _n._ ([pewoki](#pewoki)+[les](#les))  
 confuser
@@ -12222,7 +12222,7 @@ Venezuelan; from Venezuela
 Venezuela
 
 - <a name="pensi">**pensi**</a> _v._ (Epo.  ⟨pensi⟩ \[ˈpensi\])  
-think; appear; be apparent; ʟᴏᴧ consciously decides that ʟᴜᴍ is true; see "be sure" and "believe"
+think; appear; be apparent; [ʟᴏᴧ](#pensilon) consciously decides that [ʟᴜᴍ](#pensilum) is true; see "be sure" and "believe"
 
 - <a name="pensilon">**pensilon**</a> _n._ ([pensi](#pensi)+[lon](#lon))  
 thinker; accepter
@@ -12234,7 +12234,7 @@ evidence
 opinion; apparent
 
 - <a name="pensisoma">**pensisoma**</a> _v._ ([pensi](#pensi)+[soma](#soma))  
-do psychology; ʟєꜱ studies the human mind to learn about ʟᴏᴧ
+do psychology; [ʟєꜱ](#pensisomales) studies the human mind to learn about [ʟᴏᴧ](#pensisomalon)
 
 - <a name="pensisomales">**pensisomales**</a> _n._ ([pensisoma](#pensisoma)+[les](#les))  
 psychologist
@@ -12255,7 +12255,7 @@ Bering; Vitus Jonassen Bering; Ivan Ivanovich Bering
 Bering Sea
 
 - <a name="peha">**peha**</a> _v._ ([~~moca~~](#moca))  
-be bored; ʟᴏᴧ is bored by ʟᴜᴍ
+be bored; [ʟᴏᴧ](#pehalon) is bored by [ʟᴜᴍ](#pehalum)
 
 - <a name="pehalon">**pehalon**</a> _n._ ([peha](#peha)+[lon](#lon))  
 bored
@@ -12264,7 +12264,7 @@ bored
 boring
 
 - <a name="pehafake">**pehafake**</a> _v._ ([peha](#peha)+[fake](#fake))  
-be sober; be dry; ʟᴏᴧ is sober
+be sober; be dry; [ʟᴏᴧ](#pehafakelon) is sober
 
 - <a name="pehafakelon">**pehafakelon**</a> _n._ ([pehafake](#pehafake)+[lon](#lon))  
 sober; dry
@@ -12291,13 +12291,13 @@ amphibian
 amphibious
 
 - <a name="pesfolmo">**pesfolmo**</a> _v._ ([pes](#pes)+[folmo](#folmo))  
-be pisciform; be fish-shaped; ʟᴏᴧ has a larger round bit connected to a triangular bit
+be pisciform; be fish-shaped; [ʟᴏᴧ](#pesfolmolon) has a larger round bit connected to a triangular bit
 
 - <a name="pesfolmolon">**pesfolmolon**</a> _n._ ([pesfolmo](#pesfolmo)+[lon](#lon))  
 pisciform; fish-shaped
 
 - <a name="peka">**peka**</a> _v._ (Xho.  ⟨-pheka⟩ \[pʰɛka\])  
-cook; prepare; make; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave; ʟєꜱ cooks ʟᴏᴧ
+cook; prepare; make; boil; steam; broil; marinate; grill; smoke; bake; toast; microwave; [ʟєꜱ](#pekales) cooks [ʟᴏᴧ](#pekalon)
 
 - <a name="pekales">**pekales**</a> _n._ ([peka](#peka)+[les](#les))  
 cook; chef; baker
@@ -12324,7 +12324,7 @@ repeat; do again; return to; ʟєꜱ makes ʟᴏᴧ happen multiple times
 tradition; ritual; ceremony
 
 - <a name="petasoma">**petasoma**</a> _v._ ([peta](#peta)+[soma](#soma))  
-research; ʟєꜱ finds information about ʟᴜᴍ and uses it to update ʟᴏᴧ
+research; [ʟєꜱ](#petasomales) finds information about [ʟᴜᴍ](#petasomalum) and uses it to update [ʟᴏᴧ](#petasomalon)
 
 - <a name="petasomales">**petasomales**</a> _n._ ([petasoma](#petasoma)+[les](#les))  
 researcher
@@ -12336,7 +12336,7 @@ research; notes; archive
 reasearch topic
 
 - <a name="petue">**petue**</a> _v._ ([pe](#pe)+[tue](#tue))  
-share; be communal; the members of ʟᴏᴧ share ʟᴜᴍ
+share; be communal; the members of [ʟᴏᴧ](#petuelon) share [ʟᴜᴍ](#petuelum)
 
 - <a name="petuelon">**petuelon**</a> _n._ ([petue](#petue)+[lon](#lon))  
 sharers
@@ -12345,7 +12345,7 @@ sharers
 commons; communal
 
 - <a name="pale">**pale**</a> _v._ (Pan.  ⟨ਬਾਰੇ⟩ \[bɑɾe\])  
-be related; be about; focus; ʟᴏᴧ is about ʟᴜᴍ
+be related; be about; focus; [ʟᴏᴧ](#palelon) is about [ʟᴜᴍ](#palelum)
 
 - <a name="pal">**pal**</a> _n._ (Spa.  ⟨palo⟩ \[ˈpalo\])  
 stick; rod; limb; beam; rigid roughly straight one-dimensional object
@@ -12366,7 +12366,7 @@ date; date palm; Phoenix dactylifera
 break up; stop going out; ʟєꜱ makes ʟᴏᴧ stop dating ʟᴜᴍ
 
 - <a name="'palahki">**'palahki**</a> _v._ (['palah](#'palah)+[ki](#ki))  
-ask out; set up; start going out; ʟєꜱ makes ʟᴏᴧ start dating ʟᴜᴍ
+ask out; set up; start going out; [ʟєꜱ](#'palahkiles) makes ʟᴏᴧ start dating ʟᴜᴍ
 
 - <a name="'palahkiles">**'palahkiles**</a> _n._ (['palahki](#'palahki)+[les](#les))  
 matchmaker
@@ -12393,7 +12393,7 @@ Paraguayan; from Paraguay
 Paraguayan; the Paraguayan people
 
 - <a name="pali">**pali**</a> _v._ (Hin.  ⟨भारी⟩ \[b̤aːriː\])  
-be heavy; weigh; be massive; ʟᴏᴧ is heavy
+be heavy; weigh; be massive; [ʟᴏᴧ](#palilon) is heavy
 
 - <a name="palilon">**palilon**</a> _n._ ([pali](#pali)+[lon](#lon))  
 weight; heavyweight; heavy; massive
@@ -12408,7 +12408,7 @@ scale; balance
 weight; weigh; burden; ʟєꜱ weighs down ʟᴏᴧ
 
 - <a name="palitatu">**palitatu**</a> _v._ ([pali](#pali)+[tatu](#tatu))  
-be lead; ʟᴏᴧ is made of lead
+be lead; [ʟᴏᴧ](#palitatulon) is made of lead
 
 - <a name="palitatulon">**palitatulon**</a> _n._ ([palitatu](#palitatu)+[lon](#lon))  
 lead
@@ -12444,13 +12444,13 @@ Bulgaria
 Bulgarian; the Bulgarian language
 
 - <a name="palto">**palto**</a> _v._ (Epo.  ⟨parto⟩ \[ˈparto\])  
-be part; be in; compose; contain; comprise; include; ʟᴏᴧ is part of ʟᴜᴍ
+be part; be in; compose; contain; comprise; include; [ʟᴏᴧ](#paltolon) is part of [ʟᴜᴍ](#paltolum)
 
 - <a name="paltolon">**paltolon**</a> _n._ ([palto](#palto)+[lon](#lon))  
 piece; component; element; detail; part; in
 
 - <a name="paltoloniti">**paltoloniti**</a> _v._ ([paltolon](#paltolon)+[iti](#iti))  
-be detail-oriented; ʟᴏᴧ tends to focus on small details
+be detail-oriented; [ʟᴏᴧ](#paltolonitilon) tends to focus on small details
 
 - <a name="paltolonitilon">**paltolonitilon**</a> _n._ ([paltoloniti](#paltoloniti)+[lon](#lon))  
 detail-oriented
@@ -12465,13 +12465,13 @@ think big picture; think grandly; ʟᴏᴧ tends to think of the big picture
 portion; fraction
 
 - <a name="paltonu">**paltonu**</a> _v._ ([palto](#palto)+[nu](#nu))  
-leave; separate; remove; ʟєꜱ makes ʟᴏᴧ leave ʟᴜᴍ
+leave; separate; remove; [ʟєꜱ](#paltonules) makes ʟᴏᴧ leave ʟᴜᴍ
 
 - <a name="paltonules">**paltonules**</a> _n._ ([paltonu](#paltonu)+[les](#les))  
 remover
 
 - <a name="paltokanu">**paltokanu**</a> _v._ ([pal](#pal)+[tokanu](#tokanu))  
-stab; ʟєꜱ stabs ʟᴏᴧ
+stab; ʟєꜱ stabs [ʟᴏᴧ](#paltokanulon)
 
 - <a name="paltokanulon">**paltokanulon**</a> _n._ ([paltokanu](#paltokanu)+[lon](#lon))  
 pincushion
@@ -12480,13 +12480,13 @@ pincushion
 dagger; stake
 
 - <a name="paltoki">**paltoki**</a> _v._ ([palto](#palto)+[ki](#ki))  
-join; incorporate; add; append; ʟєꜱ makes ʟᴏᴧ join ʟᴜᴍ
+join; incorporate; add; append; [ʟєꜱ](#paltokiles) makes ʟᴏᴧ join ʟᴜᴍ
 
 - <a name="paltokiles">**paltokiles**</a> _n._ ([paltoki](#paltoki)+[les](#les))  
 joiner
 
 - <a name="paltopowi">**paltopowi**</a> _v._ ([palto](#palto)+[powi](#powi))  
-be inclusive; be open; be eligible; ʟᴜᴍ is open to ʟᴏᴧ joining
+be inclusive; be open; be eligible; [ʟᴜᴍ](#paltopowilum) is open to [ʟᴏᴧ](#paltopowilon) joining
 
 - <a name="paltopowilon">**paltopowilon**</a> _n._ ([paltopowi](#paltopowi)+[lon](#lon))  
 eligible
@@ -12495,7 +12495,7 @@ eligible
 inclusive; open
 
 - <a name="paltopowinyo">**paltopowinyo**</a> _v._ ([paltopowi](#paltopowi)+[nyo](#nyo))  
-be exclusive; be closed; be ineligible; ʟᴜᴍ excludes ʟᴏᴧ from joining
+be exclusive; be closed; be ineligible; [ʟᴜᴍ](#paltopowinyolum) excludes [ʟᴏᴧ](#paltopowinyolon) from joining
 
 - <a name="paltopowinyolon">**paltopowinyolon**</a> _n._ ([paltopowinyo](#paltopowinyo)+[lon](#lon))  
 ineligible
@@ -12504,7 +12504,7 @@ ineligible
 exclusive; closed
 
 - <a name="pawe">**pawe**</a> _v._ (Cmn.  ⟨包围⟩ \[pɑʊ̯˥weɪ̯˧˥\])  
-surround; cover; ʟᴏᴧ covers most of ʟᴜᴍ
+surround; cover; [ʟᴏᴧ](#pawelon) covers most of [ʟᴜᴍ](#pawelum)
 
 - <a name="pawelon">**pawelon**</a> _n._ ([pawe](#pawe)+[lon](#lon))  
 surroundings; cover; environment; context
@@ -12516,7 +12516,7 @@ surrounded; covered
 coverage
 
 - <a name="paweki">**paweki**</a> _v._ ([pawe](#pawe)+[ki](#ki))  
-surround; cover; ʟєꜱ surrounds ʟᴏᴧ with ʟᴜᴍ
+surround; cover; [ʟєꜱ](#pawekiles) surrounds ʟᴏᴧ with ʟᴜᴍ
 
 - <a name="pawekiles">**pawekiles**</a> _n._ ([paweki](#paweki)+[les](#les))  
 coverer
@@ -12543,7 +12543,7 @@ Panamanian; from Panama
 Panamanian; the Panamanian people
 
 - <a name="panati">**panati**</a> _v._ ([pana](#pana)+[ti](#ti))  
-request; ʟєꜱ politely asks ʟᴜᴍ to make ʟᴏᴧ happen
+request; [ʟєꜱ](#panatiles) politely asks [ʟᴜᴍ](#panatilum) to make [ʟᴏᴧ](#panatilon) happen
 
 - <a name="panatiles">**panatiles**</a> _n._ ([panati](#panati)+[les](#les))  
 requester
@@ -12597,7 +12597,7 @@ Myanmar; Burma
 Burmese; Myanmar; the Burmese language
 
 - <a name="pamapolte">**pamapolte**</a> _v._ (Ben.  ⟨বামাবর্তে⟩ \[bamabɔrt̪e\])  
-be turned counterclockwise; be widdershins; ʟᴏᴧ appears rotated counterclockwise from the orientation ʟᴜᴍ from the point of view of ʟᴜᴍ
+be turned counterclockwise; be widdershins; [ʟᴏᴧ](#pamapoltelon) appears rotated counterclockwise from the orientation [ʟᴜᴍ](#pamapoltelum) from the point of view of [ʟᴜᴍ](#pamapoltelum)
 
 - <a name="pamapoltelon">**pamapoltelon**</a> _n._ ([pamapolte](#pamapolte)+[lon](#lon))  
 turned counterclockwise; widdershins
@@ -12609,7 +12609,7 @@ original orientation; right-side up
 orientation; rotation
 
 - <a name="pamapolteki">**pamapolteki**</a> _v._ ([pamapolte](#pamapolte)+[ki](#ki))  
-rotate counterclockwise; ʟєꜱ turns ʟᴏᴧ counterclockwise from ʟᴜᴍ's point of view
+rotate counterclockwise; [ʟєꜱ](#pamapoltekiles) turns ʟᴏᴧ counterclockwise from ʟᴜᴍ's point of view
 
 - <a name="pamapoltekiles">**pamapoltekiles**</a> _n._ ([pamapolteki](#pamapolteki)+[les](#les))  
 counterclockwise turner
@@ -12648,7 +12648,7 @@ Congolese; the people of the Republic of the Congo
 Congolese; from Republic of the Congo
 
 - <a name="paho">**paho**</a> _v._ (Spa.  ⟨bajo⟩ \[ˈbaxo\])  
-be low; be under; be deep; ʟᴏᴧ has a lower altitude than ʟᴜᴍ
+be low; be under; be deep; [ʟᴏᴧ](#paholon) has a lower altitude than [ʟᴜᴍ](#paholum)
 
 - <a name="'pahoehoe">**'pahoehoe**</a> _n._ (Haw.  ⟨pāhoehoe⟩ \[paːˈhoweˈhowe\])  
 pahoehoe
@@ -12672,7 +12672,7 @@ mole
 submarine
 
 - <a name="pahoki">**pahoki**</a> _v._ ([paho](#paho)+[ki](#ki))  
-lower; descend; depress; ʟєꜱ decreases ʟᴏᴧ's altitude relative to ʟᴜᴍ
+lower; descend; depress; [ʟєꜱ](#pahokiles) decreases ʟᴏᴧ's altitude relative to ʟᴜᴍ
 
 - <a name="pahokiles">**pahokiles**</a> _n._ ([pahoki](#pahoki)+[les](#les))  
 one who lowers
@@ -12726,7 +12726,7 @@ Pakistani; the Pakistani people
 Urdu; the Urdu language
 
 - <a name="pakha">**pakha**</a> _v._ ([~~manca~~](#manca))  
-be to the left; ʟᴏᴧ has a negative _x_ coordinate from ʟᴜᴍ's point of view
+be to the left; [ʟᴏᴧ](#pakhalon) has a negative _x_ coordinate from ʟᴜᴍ's point of view
 
 - <a name="pakhalon">**pakhalon**</a> _n._ ([pakha](#pakha)+[lon](#lon))  
 left side; to the left
@@ -12747,16 +12747,16 @@ pimple; abscess
 almond; Prunus dulcis
 
 - <a name="pato">**pato**</a> _v._ (Fil.  ⟨bato⟩ \[bato\])  
-be stone; be rock; be earthen; ʟᴏᴧ is made out of earth
+be stone; be rock; be earthen; [ʟᴏᴧ](#patolon) is made out of earth
 
 - <a name="patoisa">**patoisa**</a> _v._ ([pato](#pato)+[isa](#isa))  
-be gravel; course sand; ʟᴏᴧ is made of gravel
+be gravel; course sand; [ʟᴏᴧ](#patoisalon) is made of gravel
 
 - <a name="patoisalon">**patoisalon**</a> _n._ ([patoisa](#patoisa)+[lon](#lon))  
 gravel
 
 - <a name="patoufa">**patoufa**</a> _v._ ([pato](#pato)+[ufa](#ufa))  
-be sand; be dust; ʟᴏᴧ is made of sand
+be sand; be dust; [ʟᴏᴧ](#patoufalon) is made of sand
 
 - <a name="patoufaut">**patoufaut**</a> _n._ ([patoufa](#patoufa)+[ut](#ut))  
 camel
@@ -12783,7 +12783,7 @@ turn to stone; earthify; ʟєꜱ turns ʟᴏᴧ to stone
 pencil
 
 - <a name="patili">**patili**</a> _v._ (Swa.  ⟨-badili⟩ \[ɓaɗili\])  
-convert; translate; transform; represent; encode; ʟєꜱ conveys ʟᴏᴧ in the form ʟᴜᴍ
+convert; translate; transform; represent; encode; [ʟєꜱ](#patililes) conveys ʟᴏᴧ in the form [ʟᴜᴍ](#patililum)
 
 - <a name="patililes">**patililes**</a> _n._ ([patili](#patili)+[les](#les))  
 converter; translator
@@ -12831,7 +12831,7 @@ particular; local
 Pole; the Polish people
 
 - <a name="pola">**pola**</a> _v._ (Ben.  ⟨বলা⟩ \[bɔl̪a\])  
-speak; voice; say out loud; ʟєꜱ says ʟᴜᴍ to ʟᴏᴧ out loud
+speak; voice; say out loud; [ʟєꜱ](#polales) says [ʟᴜᴍ](#polalum) to ʟᴏᴧ out loud
 
 - <a name="polaec">**polaec**</a> _n._ ([pola](#pola)+[ec](#ec))  
 larynx; vocal chords; voice box
@@ -12840,7 +12840,7 @@ larynx; vocal chords; voice box
 phonetic
 
 - <a name="polai">**polai**</a> _v._ (Ben.  ⟨বড়াই⟩ \[bɔɽai\])  
-bounce; spring; ʟєꜱ bounces ʟᴏᴧ off of ʟᴜᴍ
+bounce; spring; [ʟєꜱ](#polailes) bounces [ʟᴏᴧ](#polailon) off of ʟᴜᴍ
 
 - <a name="polailes">**polailes**</a> _n._ ([polai](#polai)+[les](#les))  
 bouncer
@@ -12849,13 +12849,13 @@ bouncer
 spring
 
 - <a name="polaikio">**polaikio**</a> _v._ ([polai](#polai)+[kio](#kio))  
-be rubber; ʟᴏᴧ is made of rubber
+be rubber; [ʟᴏᴧ](#polaikiolon) is made of rubber
 
 - <a name="polaikiolon">**polaikiolon**</a> _n._ ([polaikio](#polaikio)+[lon](#lon))  
 rubber
 
 - <a name="polaipowi">**polaipowi**</a> _v._ ([polai](#polai)+[powi](#powi))  
-be elastic; be bouncy; be springy; ʟᴏᴧ bounces well
+be elastic; be bouncy; be springy; [ʟᴏᴧ](#polaipowilon) bounces well
 
 - <a name="polaipowilon">**polaipowilon**</a> _n._ ([polaipowi](#polaipowi)+[lon](#lon))  
 elastic; bouncy; springy
@@ -12867,7 +12867,7 @@ elasticicity
 deelastify; make inelastic; ʟєꜱ makes ʟᴏᴧ less elastic
 
 - <a name="polaipowinyo">**polaipowinyo**</a> _v._ ([polaipowi](#polaipowi)+[nyo](#nyo))  
-be inelastic; be unbouncy; be flat; be hard; ʟᴏᴧ does not bounce well
+be inelastic; be unbouncy; be flat; be hard; [ʟᴏᴧ](#polaipowinyolon) does not bounce well
 
 - <a name="polaipowinyolon">**polaipowinyolon**</a> _n._ ([polaipowinyo](#polaipowinyo)+[lon](#lon))  
 inelastic; unbouncy; flat; hard
@@ -12897,7 +12897,7 @@ voice
 quote; words; phrase; utterance; speech
 
 - <a name="polamocaki">**polamocaki**</a> _v._ ([pola](#pola)+[mocaki](#mocaki))  
-storytell; ʟєꜱ tells ʟᴜᴍ to ʟᴏᴧ
+storytell; [ʟєꜱ](#polamocakiles) tells [ʟᴜᴍ](#polamocakilum) to ʟᴏᴧ
 
 - <a name="polamocakiles">**polamocakiles**</a> _n._ ([polamocaki](#polamocaki)+[les](#les))  
 storyteller; host
@@ -12942,7 +12942,7 @@ leek
 Poland
 
 - <a name="polti">**polti**</a> _v._ (Epo.  ⟨porti⟩ \[ˈporti\])  
-wear; be clothed; ʟᴏᴧ wears ʟᴜᴍ
+wear; be clothed; [ʟᴏᴧ](#poltilon) wears [ʟᴜᴍ](#poltilum)
 
 - <a name="poltilon">**poltilon**</a> _n._ ([polti](#polti)+[lon](#lon))  
 clothed
@@ -12954,7 +12954,7 @@ Polish; the Polish language
 clothing; clothes; article
 
 - <a name="poltinu">**poltinu**</a> _v._ ([polti](#polti)+[nu](#nu))  
-take off; undress; disrobje; ʟєꜱ takes ʟᴜᴍ off of ʟᴏᴧ
+take off; undress; disrobje; [ʟєꜱ](#poltinules) takes ʟᴜᴍ off of [ʟᴏᴧ](#poltinulon)
 
 - <a name="poltinules">**poltinules**</a> _n._ ([poltinu](#poltinu)+[les](#les))  
 undresser
@@ -12966,7 +12966,7 @@ undressee
 vulture
 
 - <a name="poltiki">**poltiki**</a> _v._ ([polti](#polti)+[ki](#ki))  
-put on; dress; robe; ʟєꜱ puts ʟᴜᴍ on ʟᴏᴧ
+put on; dress; robe; [ʟєꜱ](#poltikiles) puts ʟᴜᴍ on [ʟᴏᴧ](#poltikilon)
 
 - <a name="poltikiles">**poltikiles**</a> _n._ ([poltiki](#poltiki)+[les](#les))  
 dresser
@@ -12975,7 +12975,7 @@ dresser
 dressee
 
 - <a name="powi">**powi**</a> _v._ (Epo.  ⟨povi⟩ \[ˈpovi\])  
-be possible; can; might; may; _possibility_; ʟᴏᴧ can happen
+be possible; can; might; may; _possibility_; [ʟᴏᴧ](#powilon) can happen
 
 - <a name="powilon">**powilon**</a> _n._ ([powi](#powi)+[lon](#lon))  
 possibility; possible
@@ -12987,7 +12987,7 @@ prevent; ʟєꜱ makes ʟᴏᴧ stop being possible
 enable; ʟєꜱ makes ʟᴏᴧ become possible
 
 - <a name="ponto">**ponto**</a> _v._ (Ben.  ⟨বন্ধ⟩ \[bɔn̪d̪̤ɔ\])  
-be closed; be hollow; be looped; be complete; ʟᴏᴧ is closed on all sides
+be closed; be hollow; be looped; be complete; [ʟᴏᴧ](#pontolon) is closed on all sides
 
 - <a name="pontolon">**pontolon**</a> _n._ ([ponto](#ponto)+[lon](#lon))  
 shell; loop; circuit; circle; ring; closed path; closed surface; closed; hollow; looped; complete
@@ -12996,7 +12996,7 @@ shell; loop; circuit; circle; ring; closed path; closed surface; closed; hollow;
 ring; hoop; band; circlet
 
 - <a name="pontoki">**pontoki**</a> _v._ ([ponto](#ponto)+[ki](#ki))  
-close; shut; loop; ʟєꜱ makes ʟᴏᴧ closed
+close; shut; loop; [ʟєꜱ](#pontokiles) makes ʟᴏᴧ closed
 
 - <a name="pontokiles">**pontokiles**</a> _n._ ([pontoki](#pontoki)+[les](#les))  
 closer
@@ -13011,7 +13011,7 @@ Protestant; follower of Protestantism
 Protestant; of Protestantism
 
 - <a name="poca">**poca**</a> _v._ (Ben.  ⟨পচা⟩ \[pɔt͡ɕa\])  
-be rotten; ʟᴏᴧ is rotten
+be rotten; [ʟᴏᴧ](#pocalon) is rotten
 
 - <a name="pocalon">**pocalon**</a> _n._ ([poca](#poca)+[lon](#lon))  
 rotten
@@ -13053,7 +13053,7 @@ pi; 3.142…
 onion; garlic; leek; scallion; Allium
 
 - <a name="piasa">**piasa**</a> _v._ (Msa.  ⟨biasa⟩ \[biasa\])  
-be familiar with; know; be accustomed; be used to; ʟᴜᴍ is familiar to ʟᴏᴧ
+be familiar with; know; be accustomed; be used to; [ʟᴜᴍ](#piasalum) is familiar to [ʟᴏᴧ](#piasalon)
 
 - <a name="piasalon">**piasalon**</a> _n._ ([piasa](#piasa)+[lon](#lon))  
 familiar with; accustomed; used to
@@ -13062,7 +13062,7 @@ familiar with; accustomed; used to
 familiar to; acquaintance
 
 - <a name="piasaki">**piasaki**</a> _v._ ([piasa](#piasa)+[ki](#ki))  
-familiarise; get to know; get accustomed; practise; introduce; ʟєꜱ makes ʟᴏᴧ become familiar with ʟᴜᴍ
+familiarise; get to know; get accustomed; practise; introduce; [ʟєꜱ](#piasakiles) makes ʟᴏᴧ become familiar with ʟᴜᴍ
 
 - <a name="piasakiles">**piasakiles**</a> _n._ ([piasaki](#piasaki)+[les](#les))  
 familiariser
@@ -13071,7 +13071,7 @@ familiariser
 mountain; large elevated region of a planet's crust
 
 - <a name="pila">**pila**</a> _v._ (Hin.  ⟨पीला⟩ \[piːlaː\])  
-be yellow; ʟᴏᴧ reflects medium wavelength light
+be yellow; [ʟᴏᴧ](#pilalon) reflects medium wavelength light
 
 - <a name="pilalon">**pilalon**</a> _n._ ([pila](#pila)+[lon](#lon))  
 yellow
@@ -13098,7 +13098,7 @@ mountainous; montanical
 yellow; colour yellow; ʟєꜱ colours ʟᴏᴧ yellow
 
 - <a name="pilatatu">**pilatatu**</a> _v._ ([pila](#pila)+[tatu](#tatu))  
-be gold; ʟᴏᴧ is made of gold
+be gold; [ʟᴏᴧ](#pilatatulon) is made of gold
 
 - <a name="pilatatulon">**pilatatulon**</a> _n._ ([pilatatu](#pilatatu)+[lon](#lon))  
 gold
@@ -13140,7 +13140,7 @@ little; few; slight
 hut; cottage
 
 - <a name="pihlono">**pihlono**</a> _v._ ([pih](#pih)+[lono](#lono))  
-be monochromatic; ʟᴏᴧ has few colours
+be monochromatic; [ʟᴏᴧ](#pihlonolon) has few colours
 
 - <a name="pihlonolon">**pihlonolon**</a> _n._ ([pihlono](#pihlono)+[lon](#lon))  
 monochromatic
@@ -13161,19 +13161,19 @@ tribe
 island; landmass that is smaller than a continent and bounded by ocean
 
 - <a name="pihtafu">**pihtafu**</a> _v._ ([pih](#pih)+[tafu](#tafu))  
-itch; ʟᴏᴧ's ʟᴜᴍ itches
+itch; ʟᴏᴧ's [ʟᴜᴍ](#pihtafulum) itches
 
 - <a name="pihtafulum">**pihtafulum**</a> _n._ ([pihtafu](#pihtafu)+[lum](#lum))  
 itch
 
 - <a name="pihtue">**pihtue**</a> _v._ ([pih](#pih)+[tue](#tue))  
-be poor; be destitute; ʟᴏᴧ is financially poor
+be poor; be destitute; [ʟᴏᴧ](#pihtuelon) is financially poor
 
 - <a name="pihtuelon">**pihtuelon**</a> _n._ ([pihtue](#pihtue)+[lon](#lon))  
 poor; destitute
 
 - <a name="pihtunci">**pihtunci**</a> _v._ ([pih](#pih)+[tunci](#tunci))  
-rule as an oligarchy; ʟᴜᴍ rules ʟᴏᴧ
+rule as an oligarchy; [ʟᴜᴍ](#pihtuncilum) rules ʟᴏᴧ
 
 - <a name="pihtuncilum">**pihtuncilum**</a> _n._ ([pihtunci](#pihtunci)+[lum](#lum))  
 oligarchy
@@ -13188,7 +13188,7 @@ pebble
 hill
 
 - <a name="pihpyo">**pihpyo**</a> _v._ ([pih](#pih)+[pyo](#pyo))  
-creep out; ʟᴏᴧ finds ʟᴜᴍ creepy
+creep out; [ʟᴏᴧ](#pihpyolon) finds [ʟᴜᴍ](#pihpyolum) creepy
 
 - <a name="pihpyolon">**pihpyolon**</a> _n._ ([pihpyo](#pihpyo)+[lon](#lon))  
 creeped out
@@ -13224,7 +13224,7 @@ Bissau-Guinean; from Guinea-Bissau
 Bissau-Guinean; the Bissau-Guinean people
 
 - <a name="pikante">**pikante**</a> _v._ (Spa.  ⟨picante⟩ \[piˈkante\])  
-be spicy; be hot; ʟᴏᴧ is spicy
+be spicy; be hot; [ʟᴏᴧ](#pikantelon) is spicy
 
 - <a name="pikantelon">**pikantelon**</a> _n._ ([pikante](#pikante)+[lon](#lon))  
 spicy; hot
@@ -13260,7 +13260,7 @@ week
 flower; pollen-bearing structure of a flowering plant
 
 - <a name="pula">**pula**</a> _v._ (Epo.  ⟨pura⟩ \[ˈpura\])  
-be clean; be sanitary; ʟᴏᴧ is clean
+be clean; be sanitary; [ʟᴏᴧ](#pulalon) is clean
 
 - <a name="pulalon">**pulalon**</a> _n._ ([pula](#pula)+[lon](#lon))  
 clean; sanitary
@@ -13278,7 +13278,7 @@ scrubber; brush
 floral
 
 - <a name="pulaki">**pulaki**</a> _v._ ([pula](#pula)+[ki](#ki))  
-clean; sanitise; ʟєꜱ cleans ʟᴏᴧ
+clean; sanitise; [ʟєꜱ](#pulakiles) cleans ʟᴏᴧ
 
 - <a name="pulakiles">**pulakiles**</a> _n._ ([pulaki](#pulaki)+[les](#les))  
 cleaner
@@ -13290,7 +13290,7 @@ cleaning utensil
 bromine
 
 - <a name="puli">**puli**</a> _v._ (Pan.  ⟨ਪੂਰੀ⟩ \[puɾi\])  
-be full; ʟᴏᴧ is full of ʟᴜᴍ
+be full; [ʟᴏᴧ](#pulilon) is full of [ʟᴜᴍ](#pulilum)
 
 - <a name="pulilon">**pulilon**</a> _n._ ([puli](#puli)+[lon](#lon))  
 full
@@ -13329,7 +13329,7 @@ chives; Allium schoenoprasum
 ground; planet; gravitationally-bound solid mass
 
 - <a name="puma">**puma**</a> _v._ (ono.  \[bum\])  
-boom; crash; ʟєꜱ makes ʟᴏᴧ
+boom; crash; ʟєꜱ makes [ʟᴏᴧ](#pumalon)
 
 - <a name="pumalon">**pumalon**</a> _n._ ([puma](#puma)+[lon](#lon))  
 boom; crash; sudden, low-pitched sound or action
@@ -13344,7 +13344,7 @@ landfowl; chicken; turkey; pheasant
 car; truck
 
 - <a name="pumhila">**pumhila**</a> _v._ ([pum](#pum)+[hila](#hila))  
-earthquake; ʟᴏᴧ is struck by an earthquake from ʟєꜱ
+earthquake; ʟᴏᴧ is struck by an earthquake from [ʟєꜱ](#pumhilales)
 
 - <a name="pumhilales">**pumhilales**</a> _n._ ([pumhila](#pumhila)+[les](#les))  
 faultline
@@ -13365,7 +13365,7 @@ Burkinabé; Burkinabè; from Burkina Faso
 Burkinabé; the Burkinabé people
 
 - <a name="puhte">**puhte**</a> _v._ ([~~miclo~~](#miclo))  
-be pure; ʟᴏᴧ is pure of ʟᴜᴍ
+be pure; [ʟᴏᴧ](#puhtelon) is pure of ʟᴜᴍ
 
 - <a name="puhtelon">**puhtelon**</a> _n._ ([puhte](#puhte)+[lon](#lon))  
 pure
@@ -13374,13 +13374,13 @@ pure
 freshwater
 
 - <a name="puhteki">**puhteki**</a> _v._ ([puhte](#puhte)+[ki](#ki))  
-purify; precipitate; extract; ʟєꜱ purifies ʟᴏᴧ of ʟᴜᴍ
+purify; precipitate; extract; ʟєꜱ purifies ʟᴏᴧ of [ʟᴜᴍ](#puhtekilum)
 
 - <a name="puhtekilum">**puhtekilum**</a> _n._ ([puhteki](#puhteki)+[lum](#lum))  
 precipitate; extract
 
 - <a name="puco">**puco**</a> _v._ (Cmn.  ⟨步骤⟩ \[pu˥˩ʈ͡ʂoʊ̯˥˩\])  
-step; ʟєꜱ steps on ʟᴏᴧ
+step; ʟєꜱ steps on [ʟᴏᴧ](#pucolon)
 
 - <a name="pucolon">**pucolon**</a> _n._ ([puco](#puco)+[lon](#lon))  
 path; walkway; walk
@@ -13398,7 +13398,7 @@ walk; tread; ʟᴏᴧ is walking on ʟᴜᴍ
 cane; staff; walking stick
 
 - <a name="puci">**puci**</a> _v._ (Epo.  ⟨puŝi⟩ \[ˈpuʃi\])  
-push; repell; ʟєꜱ pushes on ʟᴏᴧ
+push; repell; [ʟєꜱ](#puciles) pushes on [ʟᴏᴧ](#pucilon)
 
 - <a name="puciles">**puciles**</a> _n._ ([puci](#puci)+[les](#les))  
 force
@@ -13431,7 +13431,7 @@ Buddhist; of Buddhism
 Buddhist; followers of Buddha
 
 - <a name="puti">**puti**</a> _v._ (Fil.  ⟨puti⟩ \[puti\])  
-be white; be light; be fair; ʟᴏᴧ reflects a lot of light
+be white; be light; be fair; [ʟᴏᴧ](#putilon) reflects a lot of light
 
 - <a name="putilais">**putilais**</a> _n._ ([puti](#puti)+[lais](#lais))  
 turnip
@@ -13440,13 +13440,13 @@ turnip
 white; light; fair
 
 - <a name="putilonkio">**putilonkio**</a> _v._ ([putilon](#putilon)+[kio](#kio))  
-be quartz; ʟᴏᴧ is made of quartz
+be quartz; [ʟᴏᴧ](#putilonkiolon) is made of quartz
 
 - <a name="putilonkiolon">**putilonkiolon**</a> _n._ ([putilonkio](#putilonkio)+[lon](#lon))  
 quartz
 
 - <a name="putiluci">**putiluci**</a> _v._ ([puti](#puti)+[luci](#luci))  
-be pink; be rose; ʟᴏᴧ looks pink
+be pink; be rose; [ʟᴏᴧ](#putilucilon) looks pink
 
 - <a name="putilucilon">**putilucilon**</a> _n._ ([putiluci](#putiluci)+[lon](#lon))  
 pink; rose
@@ -13458,7 +13458,7 @@ pinken; rose-tint; colour pink; ʟєꜱ colours ʟᴏᴧ pink
 whiteness; value
 
 - <a name="putinila">**putinila**</a> _v._ ([puti](#puti)+[nila](#nila))  
-be azure; be sky blue; ʟᴏᴧ looks azure
+be azure; be sky blue; [ʟᴏᴧ](#putinilalon) looks azure
 
 - <a name="putinilalon">**putinilalon**</a> _n._ ([putinila](#putinila)+[lon](#lon))  
 azure; sky blue
@@ -13467,7 +13467,7 @@ azure; sky blue
 colour azure; colour sky blue; ʟєꜱ colours ʟᴏᴧ azure
 
 - <a name="putimilu">**putimilu**</a> _v._ ([puti](#puti)+[milu](#milu))  
-be gray; be grey; be dull; be bland; be desaturated; ʟᴏᴧ reflects all wavelengths of light about the same
+be gray; be grey; be dull; be bland; be desaturated; [ʟᴏᴧ](#putimilulon) reflects all wavelengths of light about the same
 
 - <a name="putimilulon">**putimilulon**</a> _n._ ([putimilu](#putimilu)+[lon](#lon))  
 gray; grey; dull; bland; desaturated
@@ -13488,7 +13488,7 @@ whiten; lighten; wash out; dodge; ʟєꜱ lightens ʟᴏᴧ
 dove
 
 - <a name="puthu">**puthu**</a> _v._ (ono.  \[pʰut\])  
-fart; ʟєꜱ farts out ʟᴏᴧ
+fart; [ʟєꜱ](#puthules) farts out [ʟᴏᴧ](#puthulon)
 
 - <a name="puthules">**puthules**</a> _n._ ([puthu](#puthu)+[les](#les))  
 one who farts
@@ -13497,7 +13497,7 @@ one who farts
 fart; flatulence
 
 - <a name="pupu">**pupu**</a> _v._ (ono.  \[buːp buːp\])  
-beep; hum; doot; ʟєꜱ makes ʟᴏᴧ
+beep; hum; doot; ʟєꜱ makes [ʟᴏᴧ](#pupulon)
 
 - <a name="pupulon">**pupulon**</a> _n._ ([pupu](#pupu)+[lon](#lon))  
 beep; hum; doot; drawn-out, concordant sound or action
@@ -13521,7 +13521,7 @@ Białystok
 elephant; Elephantidae
 
 - <a name="pyo">**pyo**</a> _v._ (Ben.  ⟨ভয়⟩ \[b̤e̯ɔ\])  
-fear; be scared; be afraid; ʟᴏᴧ is afraid of ʟᴜᴍ
+fear; be scared; be afraid; [ʟᴏᴧ](#pyolon) is afraid of [ʟᴜᴍ](#pyolum)
 
 - <a name="pyolon">**pyolon**</a> _n._ ([pyo](#pyo)+[lon](#lon))  
 fearful; scared; afraid
@@ -13536,13 +13536,13 @@ jump scare; ʟєꜱ jump-scares ʟᴏᴧ with ʟᴜᴍ
 scare; frighten; make afraid; ʟєꜱ makes ʟᴏᴧ afraid of ʟᴜᴍ
 
 - <a name="pyotafu">**pyotafu**</a> _v._ ([pyo](#pyo)+[tafu](#tafu))  
-be anxious; ʟᴏᴧ feels anxious about ʟᴜᴍ
+be anxious; [ʟᴏᴧ](#pyotafulon) feels anxious about ʟᴜᴍ
 
 - <a name="pyotafulon">**pyotafulon**</a> _n._ ([pyotafu](#pyotafu)+[lon](#lon))  
 anxious
 
 - <a name="pyopowi">**pyopowi**</a> _v._ ([pyo](#pyo)+[powi](#powi))  
-be timid; be skittish; ʟᴏᴧ is easily scared
+be timid; be skittish; [ʟᴏᴧ](#pyopowilon) is easily scared
 
 - <a name="pyopowilon">**pyopowilon**</a> _n._ ([pyopowi](#pyopowi)+[lon](#lon))  
 timid; skittish

@@ -1106,7 +1106,7 @@ alga
 
 
 - <a name="olto">**olto**</a> _v._ (Epo.  ⟨ordo⟩ \[ˈordo\])  
-ordenar; estar en orden; ʟᴏᴧ tiene una posición tarde en ʟᴜᴍ
+ordenar; estar en orden; [ʟᴏᴧ](#oltolon) tiene una posición tarde en [ʟᴜᴍ](#oltolum)
 
 - <a name="oltolon">**oltolon**</a> _n._ ([olto](#olto)+[lon](#lon))  
 
@@ -1849,7 +1849,7 @@ mosca; Muscidae
 
 
 - <a name="itea">**itea**</a> _v._ (Spa.  ⟨idea⟩ \[iˈðea\])  
-idear; sugerir; proponer; ʟєꜱ idea ʟᴏᴧ
+idear; sugerir; proponer; [ʟєꜱ](#iteales) idea [ʟᴏᴧ](#itealon)
 
 - <a name="iteales">**iteales**</a> _n._ ([itea](#itea)+[les](#les))  
 creativo
@@ -4490,7 +4490,7 @@ locutorio
 
 
 - <a name="nyama">**nyama**</a> _v._ (ono.  \[njam njam\])  
-comer; bebir; tomar; ʟєꜱ come ʟᴏᴧ
+comer; bebir; tomar; [ʟєꜱ](#nyamales) come [ʟᴏᴧ](#nyamalon)
 
 - <a name="nyamaec">**nyamaec**</a> _n._ ([nyama](#nyama)+[ec](#ec))  
 
@@ -4900,7 +4900,7 @@ noveno
 
 
 - <a name="manca">**manca**</a> _v._ (Nya.  ⟨-manja⟩ \[mand͡ʒa\])  
-estar derecha; ʟᴏᴧ tiene una coordenada _x_ positiva del punto de vista de ʟᴜᴍ
+estar derecha; [ʟᴏᴧ](#mancalon) tiene una coordenada _x_ positiva del punto de vista de ʟᴜᴍ
 
 - <a name="mancalon">**mancalon**</a> _n._ ([manca](#manca)+[lon](#lon))  
 el lado derecho
@@ -5077,7 +5077,7 @@ coordenada _x_
 
 
 - <a name="matu">**matu**</a> _v._ ([~~pali~~](#pali))  
-ser ligero; ʟᴏᴧ es ligero
+ser ligero; [ʟᴏᴧ](#matulon) es ligero
 
 - <a name="matulon">**matulon**</a> _n._ ([matu](#matu)+[lon](#lon))  
 
@@ -5760,7 +5760,7 @@ mucho; muchos
 
 
 - <a name="hai">**hai**</a> _v._ (Eng.  ⟨high⟩ \[hɑɪ̯\])  
-ser agudo; ʟᴏᴧ es agudo
+ser agudo; [ʟᴏᴧ](#hailon) es agudo
 
 - <a name="hailon">**hailon**</a> _n._ ([hai](#hai)+[lon](#lon))  
 
@@ -7505,7 +7505,7 @@ sexto
 
 
 - <a name="cwekaeki">**cwekaeki**</a> _v._ ([cwe](#cwe)+[kaeki](#kaeki))  
-duchar; ducharse; ʟєꜱ ducha ʟᴏᴧ con ʟᴜᴍ
+duchar; ducharse; ʟєꜱ ducha ʟᴏᴧ con [ʟᴜᴍ](#cwekaekilum)
 
 - <a name="cwekaekilum">**cwekaekilum**</a> _n._ ([cwekaeki](#cwekaeki)+[lum](#lum))  
 ducha
@@ -8149,7 +8149,7 @@ tercero
 
 
 - <a name="sota">**sota**</a> _v._ (Hin.  ⟨सौदा⟩ \[sɔːdaː\])  
-negociar; ʟᴏᴧ negocia con ʟᴜᴍ
+negociar; [ʟᴏᴧ](#sotalon) negocia con [ʟᴜᴍ](#sotalum)
 
 - <a name="sotalon">**sotalon**</a> _n._ ([sota](#sota)+[lon](#lon))  
 
@@ -8362,7 +8362,7 @@ negocio
 
 
 - <a name="site">**site**</a> _v._ (Hin.  ⟨सीधे⟩ \[siːd̤e\])  
-ser recto; ser derecho; ser lineal; ʟᴏᴧ es recto
+ser recto; ser derecho; ser lineal; [ʟᴏᴧ](#sitelon) es recto
 
 - <a name="sitelon">**sitelon**</a> _n._ ([site](#site)+[lon](#lon))  
 línea; plano
@@ -10987,7 +10987,7 @@ luz
 
 
 - <a name="tenso">**tenso**</a> _v._ (Spa.  ⟨tenso⟩ \[ˈtenso\])  
-ser tenso; ser intenso; estar bajo presión; ʟᴏᴧ es tenso
+ser tenso; ser intenso; estar bajo presión; [ʟᴏᴧ](#tensolon) es tenso
 
 - <a name="tensolon">**tensolon**</a> _n._ ([tenso](#tenso)+[lon](#lon))  
 
@@ -11293,7 +11293,7 @@ noveno
 
 
 - <a name="taka">**taka**</a> _v._ (Ben.  ⟨থাকা⟩ \[t̪ʰaka\])  
-estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
+estar en; descansar; sostener; [ʟᴏᴧ](#takalon) esta en [ʟᴜᴍ](#takalum)
 
 - <a name="'taka">**'taka**</a> _n._ (Ben.  ⟨ঢাকা⟩ \[ɖʱaka\])  
 
@@ -11313,7 +11313,7 @@ estar en; descansar; sostener; ʟᴏᴧ esta en ʟᴜᴍ
 - <a name="takalon">**takalon**</a> _n._ ([taka](#taka)+[lon](#lon))  
 descansando; arriba
 
-- <a name="'takalok">**'takalok**</a> _n._ (Tgl.  ⟨ᜆᜄᜎᜓᜄ᜔⟩ \[tɐˈɡaːloɡ\])  
+- <a name="'takalok">**'takalok**</a> _n._ (Tgl.  ⟨Tagalog⟩ \[tɐˈɡaːloɡ\])  
 
 
 - <a name="'takalokak">**'takalokak**</a> _n._ (['takalok](#'takalok)+[ak](#ak))  
