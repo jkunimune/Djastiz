@@ -125,19 +125,50 @@ def difference(a, b):
 	return abs(len(a) - len(b)) + sum([ai != bi for ai, bi in zip(a, b)])
 
 
-def latexify(s):
+def latexify(md):
 	""" convert some Markdown to LaTeX """
-	s = re.sub(r'~~([^~]+)~~', r'\\sout{\1}', s)
-	s = re.sub(r'_([^_;]+)_', r'\\textit{\1}', s)
-	s = re.sub(r'\[([^\[\]]+)\]\(#([^\(\)]+)\)', r'\\hyperref[\2]{\1}', s)
-	s = re.sub(r'\[([^\[\]]+)\]', r'\\hyperref{\1}', s)
-	s = s.replace('\\[','[').replace('\\]',']')
-	for c in "#$%&{}":
-		s = s.replace(c, '\\'+c)
-	s = s.replace('^','\\textasciicircum{}')
-	s = s.replace('~','\\textasciitilde{}')
-	s = s.replace('\\','\\textbackslash{}')
-	return s
+	tex = ""
+	enclosing = None
+	enclosed = None
+	i = 0
+	while i < len(md):
+		token = md[i]
+		if token == '\\': # a backslash
+			i += 1 # groups with the following character
+			token += md[i]
+		elif token == '~' and i+1 < len(md) and md[i+1] == '~': # as does a tilde
+			i += 1 # if the next character is also a tilde
+			token += md[i]
+		elif token == ']' and i+1 < len(md) and md[i+1] == '(': # '](' is also kind of a special token
+			i += 1
+			token += md[i]
+
+		if token[0] == '\\': # a backslash
+			tex += token[1:] # ask no questions and add the next character literally
+		elif enclosing is None and token in ['[','~~']: # if it's an opening enclosure
+			enclosing = token # note it
+			enclosed = ''
+		elif enclosing == '[' and token == ']': # if it's closing an earlier bracket
+			enclosing = None
+			tex += '\\hyperref{{{}}}'.format(enclosed) # add a hyperref
+		elif enclosing == '[' and token == '](': # if it's closing an earlier bracket and opening a parenthesis
+			enclosing = token
+			tex += '\\hyperref[{{:}}]{{{}}}'.format(enclosed) # add a hyperref with a space for the ref
+			enclosed = ''
+		elif enclosing == '](' and token == ')': # if it's closing an earlier parenthesis
+			enclosing = None
+			tex = tex.replace('{:}', enclosed[1:]) # fill out the hyperref
+		elif enclosing == '~~' and token == '~~': # if it's closing an earlier strikethrough
+			enclosing = None
+			tex += '\\sout{{{}}}'.format(enclosed) # add the strikethrough
+		elif enclosing is not None: # if it's continuing to be enclosed
+			enclosed += token # add to the enclosed text
+		else: # otherwise
+			tex += token # just add the token
+		i += 1
+
+	assert enclosing is None, "{!r} was never closed in {!r}".format(enclosing, md)
+	return tex
 
 
 def get_curly_brace_pair(string):
@@ -736,7 +767,7 @@ def format_dictionary(dictionary, directory):
 			initial = entry['otp'].replace("'",'')[0]
 			if initial != previous_initial:
 				markdown += "### {}\n\n".format(initial)
-				latex += "\\subsection{{{}}}".format(initial)
+				latex += "\\subsection{{{}}}\n\n".format(initial)
 				previous_initial = initial
 
 			while 'compound ' in entry['partos']:
@@ -747,9 +778,9 @@ def format_dictionary(dictionary, directory):
 				lang = entry['source'][:3]
 				rest = entry['source'][3:].replace('<','⟨').replace('>','⟩').replace('[','\\[').replace(']','\\]')
 				if lang == 'ono':
-					entry['source_str'] = "{}. {}".format(lang, rest)
+					entry['source_str'] = "{}.{}".format(lang, rest)
 				else:
-					entry['source_str'] = "{}. {}".format(lang.capitalize(), rest)
+					entry['source_str'] = "{}.{}".format(lang.capitalize(), rest)
 			elif ' OF ' in entry['source']:
 				base_word = dictionary[entry['source'].split(' OF ')[1]]['otp']
 				base_invs = get_antonym(base_word)
