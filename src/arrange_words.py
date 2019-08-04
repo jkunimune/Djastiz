@@ -784,20 +784,21 @@ def format_dictionary(dictionary, directory):
 			elif ' OF ' in entry['source']:
 				base_word = dictionary[entry['source'].split(' OF ')[1]]['otp']
 				base_invs = get_antonym(base_word)
-				if entry['otp'] == base_invs:
+				full_word = entry['otp'].replace(' ','')
+				if full_word == base_invs:
 					entry['source_str'] = "[~~{0}~~](#{0})".format(base_word)
-				elif entry['otp'].startswith(base_word) or entry['otp'].startswith(base_invs):
+				elif full_word.startswith(base_word) or full_word.startswith(base_invs):
 					i = len(base_word)
-					entry['source_str'] = "[{0}](#{0})+[{1}](#{1})".format(entry['otp'][:i], entry['otp'][i:])
-				elif entry['otp'].endswith(base_word) or entry['otp'].endswith(base_invs):
+					entry['source_str'] = "[{0}](#{0})+[{1}](#{1})".format(full_word[:i], full_word[i:])
+				elif full_word.endswith(base_word) or full_word.endswith(base_invs):
 					i = -len(base_word)
-					entry['source_str'] = "[{0}](#{0})+[{1}]({1})".format(entry['otp'][:i], entry['otp'][i:])
-				elif base_word in entry['otp']:
-					i = entry['otp'].index(base_word)
+					entry['source_str'] = "[{0}](#{0})+[{1}]({1})".format(full_word[:i], full_word[i:])
+				elif base_word in full_word:
+					i = full_word.index(base_word)
 					j = i + len(base_word)
-					entry['source_str'] = "[{0}](#{0})+[{1}](#{1})+[{2}](#{2})".format(entry['otp'][:i], entry['otp'][i:j], entry['otp'][j:])
+					entry['source_str'] = "[{0}](#{0})+[{1}](#{1})+[{2}](#{2})".format(full_word[:i], full_word[i:j], full_word[j:])
 				else:
-					raise Exception("How is {} related to {}?".format(entry['otp'], base_word))
+					raise Exception("How is {} related to {}?".format(full_word, base_word))
 			elif entry['source']:
 				otp_parts = []
 				for part in entry['source'].split(' '):
