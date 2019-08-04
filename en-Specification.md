@@ -1,10 +1,18 @@
-# How to Speak Chatisun
+# How to Speak Oltilip
+
+This is the language specification for Oltilip, an international auxiliary language. Here you will find all of the information needed to learn and speak Oltilip, as well as some information about how Oltilip came to be. This document assumes that you speak English. If you're reading this, that seems like a pretty safe assumption.
+
+## Disclaimer
+
+Please do not actually learn this language. I created Oltilip to satisfy my personal desire for a language that _I_ thought was optimal. I publish it such that those who are interested can see my ideas and potentially gain something from them. However, were I to actually push it as a contender for the second language of humanity, it would be a waste of my time at best and another divisive factor in the already splintered auxlang community at worst. Therefore, I beseech you that if you want to support the idea of an international auxiliary language by learning one and communicating with it, I encourage you to look into [Elefen](elefen.org) or [Neo Patwa](http://patwa.pbworks.com/w/page/14800479/FrontPage) instead, as those are the two auxlangs other than my own that I currently favor most.
+
+With that out of the way, let's get onto the language!
 
 ## Phonology and orthography
 
 ### Alphabet
 
-Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Chatisun uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pen", "pane", and "bane" sound different to most English speakers, all are acceptable pronunciations for Oltilip "pen". The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days. In particular, if you already speak English, the only things that need be learned are the vowels, which are as in Spanish, Japanese, or Hawaiian:
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Oltilip uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pace", "pays", "bays", and "Pez" sound different to most English speakers, all are acceptable pronunciations for Oltilip "pes", which means "fish". The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days.
 
 | Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)| Inverse | Class
 |------|--------|--------------|------------|------------|-------------|---------|-------
@@ -13,9 +21,9 @@ Before you read any further, you'll need to know how to read, say, and write the
 |   o  |   o    |    O, σ      | OAt, Organ |     ɔ      |  o\~ɔ, ow   |    e    | Vowel
 |   i  |   i    |    I, ι      |EAt, scrEEch|     i      |    i\~ɪ     |    u    | Vowel
 |   u  |   u    |    U, v      | frUIt, OOze|     u      |    u\~ʊ     |    i    | Vowel
-|  jo  |   y    |    Y         |Yogurt, Yell|     j      |   j, ʲ, i   |    we   | Glide
+|  yo  |   y    |    Y         |Yogurt, Yell|     j      |   j, ʲ, i   |    we   | Glide
 |  lo  |   l    |    L         | Lime, faLL |     l      |    l\~r     |    te   | Sonorant
-|  we  |   w    |    W, ɯ      | Wine, qUiet|     w      |   w, ʷ, u   |    jo   | Glide
+|  we  |   w    |    W, ɯ      | Wine, qUiet|     w      |   w, ʷ, u   |    yo   | Glide
 |  no  |   n    |    Λ         |Nectar, paiN|     n      |   n, ŋ\~ɴ   |    ko   | Sonorant
 |  me  |   m    |    M         |Melon, screaM|    m      |      m      |    pe   | Sonorant
 |  ho  |   h    |    Һ         | Honey, Hide|     h      |   x\~h, ɦ   |    co   | Sonorant
@@ -43,66 +51,61 @@ If you're a linguist, the following [IPA](1) table may prove easier to read:
 
 The "Inverse" and "Class" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
 
-
-
 You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
-Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Chatisun alphabet. The Chatisun alphabet does not include <b>, <d>, <g>, <q>, <r>, <v>, <x>, <y>, <z>, or any capital letters. _Some_ capital Latin letters are acceptable substitutes for their lowercase forms, as indicated by the alternate symbols column, but these are merely to allow stylistic variation, and carry no meaning different from their lowercase counterparts. Furthermore, note that many are too different to be easily readable by Lawntoklian-speakers who are unfamiliar with the entire Latin alphabet, and thus should use different symbols when a capital style is desired.
+Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Oltilip alphabet. The Oltilip alphabet does not include ⟨b⟩, ⟨d⟩, ⟨g⟩, ⟨q⟩, ⟨r⟩, ⟨v⟩, ⟨x⟩, ⟨y⟩, ⟨z⟩, or any capital letters. _Some_ capital Latin letters are acceptable substitutes for their lowercase forms, as indicated by the alternate symbols column, but these are merely to allow stylistic variation, and carry no meaning different from their lowercase counterparts. Furthermore, note that unlisted capital letters are too different to be easily readable by Oltilip-speakers who are unfamiliar with the entire Latin alphabet, and thus should not ever be used.
 
 [1]: http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/ "International Phonetic Alphabet"
 
 ### Punctuation
 
-In addition to this subset of Latin letters, a subset of other Latin symbols may be used with Chatisun to aid parsing. None of these are required, but it is important to understand what they mean in case you come across them in Launtoklian texts.
+In addition to this subset of Latin letters, a subset of other Latin symbols may be used with Oltilip to aid parsing. None of these are strictly required, but it is important to understand what they mean in case you come across them in Oltilip texts.
 
 | Name | Symbol | Usage | Example |
 |------|--------|-------|---------|
-|      |        | Separates words or clusters of digits in long numbers
-|      | '      | Precedes a _loanword_
-|      | .      | Follows the last word of a sentence or the ones digit of floating point numbers
-|      | ,      | Follows the last word before a brief pause
-|      | (      | Precedes the first word of an ambiguously bounded phrase
-|      | )      | Follows the last word of an ambiguously bounded phrase
-|      | ~      | Denotes a range between two values
-|      | -      | Precedes the digits of a negative number or denotes the subtraction of two values
-|      | +      | Denotes addition of two values or stands in for the word `and`
-|      | /      | Precedes the denominator of a fraction
-|      | 0      | Zero
-|      | 1      | One
-|      | 2      | Two
-|      | 3      | Three
-|      | 4      | Four
-|      | 5      | Five
-|      | 6      | Six
-|      | 7      | Seven
-|      | 8      | Eight
-|      | 9      | Nine
-|      | A      | Ten (only in base twelve or sixteen)
-|      | B      | Eleven (only in base twelve or sixteen)
-|      | C      | Twelve (only in base sixteen)
-|      | D      | Thirteen (only in base sixteen)
-|      | E      | Fourteen (only in base sixteen)
-|      | F      | Fifteen (only in base sixteen)
+| katilon         |        | Separates words or clusters of digits in long numbers
+| pelapas         | '      | Precedes a _loanword_
+| tyen            | .      | Follows the last word of a sentence or the ones digit of floating point numbers
+| tapamila        | ,      | Follows the last word before a brief pause
+| enefwesak kiles | (      | Precedes the first word of an inset sidenote
+| enefwesak nules | )      | Follows the last word of an inset sidenote
+| fulopas         | \~     | Denotes a range between two values
+| men             | -      | Denotes the subtraction of two values or stands for the word "men" ("negative")
+| aw              | +      | Denotes addition of two values or stands for the word "aw" ("and")
+| funtanyopas     | /      | Stands for the word "pel" ("divided by")
+| nul             | 0      | Stands for the word "nul" ("zero")
+| kan             | 1      | Stands for the word "kan" ("one")
+| tos             | 2      | Stands for the word "tos" ("two")
+| san             | 3      | Stands for the word "san" ("three")
+| fol             | 4      | Stands for the word "fol" ("four")
+| lim             | 5      | Stands for the word "lim" ("five")
+| cah             | 6      | Stands for the word "cah" ("six")
+| pit             | 7      | Stands for the word "pit" ("seven")
+| hat             | 8      | Stands for the word "hat" ("eight")
+| mes             | 9      | Stands for the word "mes" ("nine")
+| tes             | A      | Stands for the word "tes" ("ten")
+| tup             | B      | Stands for the word "tup" ("eleven")
+| set             | C      | Stands for the word "set" ("twelve")
+| fak             | D      | Stands for the word "fak" ("thirteen")
+| lef             | E      | Stands for the word "lef" ("fourteen")
+| nak             | F      | Stands for the word "nak" ("fifteen")
 
 ### Extensions
 
-There are several more letters that may be used for transcribing foreign names in Ulcwoliel. Guidelines on when to do this can be found in section ?. 
+Finally, there are twenty-seven more letters that may be used for transcribing foreign names in Oltilip. Guidelines on when to do this can be found in section ?. They fill out the simplified IPA tables below.
 
-Approved extensions to the Chatisun alphabet for more accurate transcription of loanwords:
-ɒ ø ɥ ɤ ɯ ŋ ʔ b d g θ ʃ x v ð z ʒ ʀ ʙ r | ˩ ˧ ˥
-
-|                          | Labial | Dental | Alveolar | Postalveolar&tilde;Retroflex | Palatal | Velar&tilde;Uvular | Pharangeal&tilde;Glottal |
-|--------------------------|--------|--------|----------|--------------|---------|-------|---------|
-|**Nasal**                 | m      | n      | n        | n            | ŋy      | ŋ     |         |
-|**Plosive**               | p b    | t d    | t d      | t d          | ky gy   | k g   | ʔ       |
-|**Affricate**             | pf bv  | tθ dð  | ts dz    | tʃ dʒ        | kxy gʀy | kx gʀ | ʔh      |
-|**Fricative**             | f v    | θ ð    | s z      | ʃ ʒ          | xy ʀy   | x ʀ   | h       |
-|**Lateral fricative**     | lf lv  | lh lʒ  | lh lʒ    | lh lʒ        | lx lʀ   | lx lʀ |         |
-|**Approximant**           | w      | ɹ      | ɹ        | ɹ            | y       | ɯ     |         |
-|**Lateral approximant**   | lw     | l      | l        | l            | ly      | lɯ    |         |
-|**Tap/Trill**             | ʙ      | r      | r        | r            |         | ʀ     |         |
-|**Click/Implosive**       | \|     | \|     | \|       | \|           | \|      | \|    |         |
-|**Secondary articulation**| ◌w     | ◌ɹ     | ◌ɹ       | ◌ɹ           | ◌y      | ◌ʀ    | ◌ʔ      |
+|                          | Labial | Alveolar | Postalveolar\~Retroflex | Palatal | Velar&tilde;Uvular | Pharangeal&tilde;Glottal |
+|--------------------------|--------|----------|--------------|---------|-------|---------|
+|**Nasal**                 | m      | n        | n     | ŋy      | ŋ     |        |
+|**Plosive**               | p b    | t d      | t d   | ky gy   | k g   | ʔ      |
+|**Affricate**             | pf bv  | ts dz    | tʃ dʒ | kxy gʀy | kx gʀ | ʔh     |
+|**Fricative**             | f v    | s z      | ʃ ʒ   | xy ʀy   | x ʀ   | h ʕ    |
+|**Lateral fricative**     | lf lv  | lh lʒ    | lh lʒ | lx lʀ   | lx lʀ |        |
+|**Approximant**           | w      | ɹ        | ɹ     | y       | ɯ     | ʕ      |
+|**Lateral approximant**   | lw     | l        | l     | ly      | lɯ    |        |
+|**Tap/Trill**             | ʙ      | r        | r     |         | ʀ     |        |
+|**Click/Implosive**       | \|     | \|       | \|    | \|      | \|    |        |
+|**Secondary articulation**| ◌w     | ◌ɹ       | ◌ɹ    | ◌y      | ◌ʀ    | ◌ʔ     |
 
 |             | Front | Central | Back |
 |-------------|-------|---------|------|
@@ -113,82 +116,45 @@ Approved extensions to the Chatisun alphabet for more accurate transcription of 
 
 |                   |    |          |   |
 |-------------------|----|----------|---|
-|**Voiceless**      | nh |**Stress**| ' |
-|**Aspirated**      | th |**Long**  | ee|
-|**Rhoticity**      | aɹ |**High**  | ˥ |
-|**Nasalised**      | en |**Mid**   | ˧ |
+|**Voiceless**      | nh |**Stress**| ˈ |
+|**Aspirated**      | th |**Long**  | əə|
+|**Rhoticity**      | əɹ |**High**  | ˥ |
+|**Nasalised**      | eŋ |**Mid**   | ˧ |
 |**Nasal release**  | dn |**Low**   | ˩ |
 |**Lateral release**| dl |
 
-### Other formats
-
-When graphical communication is not available, Lawntoklian can take advantage of the many existing complementary systems based around the Latin alphabet, including morse code, Braille, and ASCII.
-
 ## Vocabulary
 
-There are three broad classes of word in Chastisun: nouns, verbs, and particles. These words are drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomotopoetic lexicons. The source languages were carefully selected and weighted in order to give the most mnemonic value to the greatest number of people. The following section will discuss verbs and nouns, as well as their properties and various subdivisions.
-
-### Verbs
-
-As previously stated, verbs are used to create predicates. The list of all verbs is present in this repository at [verb.csv](dictionary/verb.csv). There are two main classes of verb: _dynamic_ and _stative_.
-
-Dynamic verbs are more like the verbs an English-speaker might encounter in its own language. Each describes an action that changes with respect to time. The universe after the action occurs is typically different from the universe before.
-
-Stative verbs tend to share more in common with English adjectives than English verbs. They indicate that the subject has some state, which may or may not change as time passes. When the state has a numeric parameter, such as the latitude in `bav`, that number can be specified by the complement of `ia`, and the reference, or zero, can be specified by the direct object. Thus, `reidien ir ho ang ia filidelfia u bav`. When the state takes a non-numeric parameter, such as `thru`, the verb is a special kind of stative verb called a _copula_, and that parameter should be the object. When the state cannot be logically parametrised, it is called an _absolute_.
-
-### Nouns
-
-If it is a binary state with no arguments, it should be a noun, not a verb.
-I actually have nothing more to say about nouns. They are completely intuitive and uninteresting words that seed noun phrases, though I suppose I should mention that you can find the full list in the file [noun.csv](dictionary/noun.csv), if you haven't guessed that yet.
-
-### Pseudowords
-
-_Pseudowords_ are common phrases that do not merit mention in a dictionary but do render as single words when written. These are the afforementioned relative verb noun definitions, the pronoun `f` modified by a relative clause with only a predicate. To save space, these may be written without whitespace between the characters. Thus, `f l u jeuth` may be written as a single word, `flujeuth`. They function just as nouns, as they would were the whitespace included. Pseudowords are very similar to _compound words_, but, as stated, are far too predictable and plentiful to be listed in a dictionary.
+Oltilip has 426 basic roots, drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomotopoetic lexicons. The source languages were selected and weighted in order to give the most mnemonic value to the greatest number of people. These roots fall into five parts of speech—nouns, verbs, numerals, specifiers, and sentence particles—which will be explained in the next section. While these root words cover many concepts, with only 426, there are inevitably many lexical gaps and ambiguities. These are filled with Oltilip's powerful, multifaceted morphological derivation system. New words are derived in three main ways: _compounds_, _affixen_, and _loans_.
 
 ### Compound words
 
-In addition to the basic, independent words, there are compound words. Compound words are formed by simply combining two or more preexisting words. A compound word may combine several common grammar tokens into a single word that has the same meaning as the combination of its parts, or it may combine two or more verbs, nouns, or pseudowords to create something new. In the latter case, the meaning and part of speech is closest to the second word, with the first word providing additional detail. There are thousands of them, supplying the many nuanced and specific concepts a complete langauge needs. The vast majority, however, are not documented here. That's because there are thousands of them, and I have a life. I recorded the ones I needed for various things in [compound_word.csv](dictionary/compound_word.csv), but I guess if you want to sing Djastiz, you can just come up with your own, provided they are logical. Submit a pull request if you think some compound word ought to be included in the main list. If it is a technical or regional term, though, beware, as a _loanword_ may be more appropriate.
+The most intuitive way to form a new word in Oltilip is with a simple compound. This involves combining two or more existing words to form a new one. It takes the part of speech of the second, and represents something between the meanings of both. For example, "pahopoltilum", meaning "underwear", is derived from "paho", meaning "to be under", and "poltilum", meaning "clothing".
+
+### Affixen
 
 ### Loanwords
 
-For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, the preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, while the United States of America could be described with the words `ngidh` and `flupshr`, the proper term in Djastiz is `iunaitedsteits`. Loanwords use the phonology of Modern Djastiz, and contain no tones save the `moja`.
+For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, a class of word that is neither root nor  preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, "'doyc" means "German"
 
 Like the compound words, the set of documented loanwords is not complete. They are meant to encompass the highly specific concepts that Djastiz cannot describe on its own, and thus to attempt to recond all of them in a Djastiz dictionary would be impossible. Instead, I have included some useful examples of loanwords in [loanword.csv](dictionary/loanword.csv).
-
-### Causation and transitivity
-
-It must be noted that, while in English, verbs often have multiple meanings for varying levels of transitivity (for example, the word "break" can mean either "to fall apart" or "to cause something else to fall apart"), in Djastiz, only the least transitive forms receive words. To describe a person causing something else to break, one must explicitly say, `sr e ingyeu u`, or the compound `sringyeu`. The purpose of this is to reduce ambiguity and redundancy. Two meanings are not necessary for this phenomenon, nor are two words. Furthermore, it prevents the occurrence of tritransitive and even potentially tetratransitive sentences (what if I were to mind-control your dog into forcing a child into making a vase break the plant inside it?), which would cause us to run out of argumentative prepositions. Therefore, if the transitivity of a Djastiz verb is unclear, always assume it to be as low as would make sense.
-
-### Conventions, measurements, and coordinate systems
-
-Djastiz indexes from zero. Obviously. `f o uf` can therefore translate to either "the first one" or "the second one" depending on how one does the translation. It literally means "the one that is number one", which would seem to imply "1°", or "first". However, in English, "first" refers to the instance that has no instances before it, whereas in Djastiz, `f o yu` refers to _that_ instance while `f o uf` refers to the one after it. A native Djastiz singer typically counts finite objects by first pointing outside of the set and saying `yu`, and then pointing sequentially to the spaces between objects and saying a new number each time. The number of objects in the set is the number one says when pointing past the last one, on the opposite side of the set at which one started. If you're really good at counting, you can skip the `yu`, but it's important to always point between the objects and not at them, as normal people would, so as not to confuse your indices. Why would we do something so unintuitive and unusual? You tell me: what's the seventh year of the fifth decade of the eleventh century?
-
-Djastiz also uses the metric system for all measurements of length, area, volume, mass, current, magnetic flux density, etc., with appropriate loanwords for each respective unit from French. Other units may, of course, be used, but metric is default.
-
-Dates in Lawntoklian are expressed YYYY-MM-DD hh:mm:ss.sss Z. Thus, the first humans landed on the lunar surface at 1969-07-20 20:17 UTC. There are no names for months or days of the week for the same reason that there aren't names for years, days of the month, or hours. "Tuesday" is the second day, `mefsaslinan im halim sunsaslinan` or whatever.
-
-One other way that Djastiz differs from measurements in English is its greater number of coordinate words. While in English, the words "up", "down", "left", and "right" can mean different things in different contexts, in Djastiz, the corresponding words are precise. For example, "up" with respect to an elevator in English means a linear axis perpendicular to the local gravitational equipotential. "Up" with respect to a page, though, in fact means an angular direction that can be linearly up if the page is on a wall or forward if the page is on a table. Djastiz has separate words for these concepts: `rd` for the linear dimension, and `ssri` for the angular dimension. Always take care when singing Djastiz to know whether to use Cartesian or spherical coordinates.
-
-One more difference between location description in English and Djastiz is the typical positive directions. These do not usually affect speech, since words exist for both directions on every axis, but these conventions are important for mathematicians and computer scientists. The positive directions for all of Djastiz's coordinate systems are as follows: forward in time, linear down, linear right, forward, outward, angular down, linear right, counterclockwise, south, and east. Note that while the positive direction for altitude is down, positive numbers are often used to describe height above sea level, and building floors still count upward.
 
 ## Grammar
 
 The grammar of Chastisun is designed to be as simple as possible while enabling speakers to be either simple and vague or exact and precise at will. It can be summed up in the following Backus-Nur form.
          sentence ::= \[sentence-particle\] postposit-phrase\* \[verb-phrase postposit-phrase\*\]
  postposit-phrase ::= (noun-phrase | sentence) postposition
-      noun-phrase ::= \[qualifier | number\] (noun | pronoun | relative-phrase | noun-phrase)\*
+      noun-phrase ::= \[specifier\] (noun | pronoun | number | relative-phrase | noun-phrase)\*
       verb-phrase ::= verb+
   relative-phrase ::= postposit-phrase\* \[verb-phrase postpos-phrase\*\] \["l" postposition\]
            number ::= \[number "imal"\] \[\[neg\] digit+\] \["ljo" number\]
          X-phrase ::= \[qualifier | number\] \["bo"\] X-phrase ("ha" X-phrase)\+
-   Substance-rule : No phrase may be empty.
-   Trail-off-rule : Any number of words can be removed from the start and end of a sentence as long as the meaning remains clear.
 
 If you don't know what any of that means, don't worry. Each type of phrase is described more explicitly in the following sections.
 
 This may seem confusing to those more familiar with word-order-based systems, but the reliance on postpositions alone decreases the number of patterns and greatly simplifies the grammar overall. It can also be considered equivalent to many case systems.
 
-### Mood markers
+### Sentence particles
 
 A tense marker gives the general purpose of a sentence. It is the first thing in the sentence. There are ten tense markers, and each creates a fundamentally different kind of communication.
 - `ȅ` is the _declarative_ tense marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the singer.
@@ -264,46 +230,13 @@ The final method is _pronouns_, which function exactly as nouns do, but with mea
 
 Noun phrases can also technically be created with _conjunctions_, but then, so can prepositional phrases and modifiers and predicates. I'll explain those in a different paragraph.
 
-### Modifiers
-
-Modifiers are great ways to expand and enhance the meanings of nouns. There two types of modifiers. The simpler one is the _noun modifier_.
-
-A noun modifier has two parts: a _fastener_ and a noun phrase. The fastener uses the following noun phrase to modify the preceding noun phrase in a specific manner, depending on the fastener. There are five fasteners that each represent a different method of modifying a noun.
-- `am` denotes the specific variety or attributes of the preceding noun phrase.
-- `ù` specifies the amount, degree, or number of the preceding noun phrase.
-- `al` indicates the specific instance of the preceding noun phrase.
-- `ú` draws equality between the preceding and following noun phrases without really changing the meaning of the sentence. It is especially useful for sharing names (e.g. `ōpèmólārȅm ú Esteban`).
-- `è` indicates and extracts a specific element of a set.
-
-The more versatile modifier is the _relative clause_. Relative clauses are simply lists of prepositional phrases that contain `pèm` in them somewhere followed by a verb. The `pèm` should be placed as close to the beginning of the relative clause as possible. It usually goes at the very front, adjacent to the modified noun phrase, but this is not always possible. Again, while these resemble full sentences, they are not. A modifier clause modifies a noun phrase by placing it inside another sentence. The result is two clauses that are true together. The first is the original sentence with the modifier clause simply removed. The second is the entire modifier with `ȅ` prepended and the modified noun phrase inserted for `pèm`. This type of modifier draws an equality between the noun phrase and itself across the two clauses. While relative clauses seems at first glance to be far more complex than noun modifiers, they are, in fact, capable of creating some of the simplest and most useful noun modifications: _simple ergative relative clauses_, the analog to adjectives in other languages, for example, `dhap l r at`; and _relative verb noun definitions_, the analog to English's "-er" and "-ee", for example, `f l u jeuth`.
-
-### Conjunctions
-
-The last major grammatical structure to be discussed is the conjunction. Conjunctions are a small class of diverse words that transform phrases or sets of phrases. While they share some similarities, the two pairs of conjunctions are different enough that I might as well explain each separately.
-
-The first and most recognizably conjugative conjunctions are `ā` and `pe`. When `ā` precedes a series of phrases separated by `pe`, they combine said series into a single set representing all of the phrases combined. The input phrases are usually noun phrases, but practically anything can be fed in here so long as each phrase is of the same type. They translate very cleanly to "both" and "and" in English, respectively. That set can then have its meaning easily tweaked using qualifiers. For example, `dhe ni mus a thengga`.
-
-The other pair of conjunctions may be more difficult to understand for English singers. This is the `é` and `ò` construction, which functions much like the quotation mark in English. Unlike the quotation mark, however, `é`-`ò` constructions must be sung aloud. Any phrase in any language between the `é` and the `ò` should not be interpreted as actual Djastiz grammar, but rather as a sequence of letters or sounds. The entire phrase acts as a noun and references the phrase contained within. This is most commonly used for quoting dialogue and discussing language. To indicate that a single word inside a `é`-`ò` construct should be interpreted literally and not as part of the quote, precede it with the word `rèl`, for example, `dhi ij yr tshef je l u ssu u`. To describe the word or sound `rèl`, precede it with `rèl`. For example, `raun yr dhi ij yr tshef je je l u ssu u ssu u`.
-
 ### Numbers
 
 number := (number <rad>)? <neg>? (digit)* (<paw> number)?
 
-### Special words
-
-Most of the words discussed thus far have fallen into categories and followed simple rules. We now discuss a few of the more unique words and groups of words that do not accept labels so easily.
-
-`oth`, `thu`, `ja`, and `oj` are the simple tense markers. Simple tense markers are used when a sentence is too common or basic to warrant a full list of prepositional phrases. Instead, one may follow the marker with a single noun phrase. When using `oth`, the noun phrase represents the current occasion, and the full sentence forms a greeting or congratulation. `thu`, similary, precedes the current occasion but forms a parting statement. Thus, `oth vorng` greets people during the day, `oth krismes` celebrates Christmas, and `thu ursh` sends people to bed. `ja` and `oj`, on the other hand, express happiness or respect, or unhappiness or disgust, respectively, toward a noun phrase. For example, `ja flrsrjarzyuo` praises air conditioning, `ja hitlr` hails Hitler, and `oj k` fucks you. Simple punctuation markers can also be used with nothing following them at all. In that case, `oth` expresses a general greeting and `oj` an exclamation of general anger.
-
-`l` is the question word, very similar to "what" in English. Rather than carrying information, like most words, `l` denotes a lack of information. `l` is used in two cases, both previously mentioned: standing in for desired information in sentences starting with `ung`, and beginning a relative clause as well as indicating the modified noun phrase's place within the clause.
-
-Numbers can also be considered special words in that they concatenate with each other in a unique way. Quantities in Djastiz are described by a string of number words. The final quantity is obtained by summing all of the digits after applying a multiplier to each one greater than that of the next by a factor of the radix, which is ten by default. In other words, say a number in Djastiz by writing it in decimal notation and then reading off each digit in Djastiz in sequence. Extremely large and imprecise numbers can be described efficiently by dividing out a logical number of factors of the radix, and then appending the word `uo` and the number of powers divided. The decimal point is read `ho` and is placed among the digits as with standard numeral notation. Negative numbers should have `me` inserted at the beginning. Fractions can be expressed by describing the denominator as a unit. Finally, to use radices other than ten, precede the number with the base in Djastiz plus the word `adh`. There exist enough words to easily use any radix from two to sixteen. For larger radices, the radix is typically said in base ten, though if you want, I guess you can nest them, if you need to represent 3,723 in base 0x3C for some reason. Does that sound complicated? It isn't. Some examples will probably help. `ang od`, `uf po tho od`, `flushifpo ir rh rh`, `rh adh re ngu adh uf od re`  and `ev ho od rh re uf rh zha re yu po`.
-
-`skelf` is a bit of a meta-word. It tells the listener to ignore the previous few words sung. This is used exclusively for error correction, so it rarely comes up in writing.
-
 ### Tips and tricks
 
-That's all of the official grammar. You may find it rather short. "Where are the tenses, the passives, the participles?" you ask. While these do not exist explicitly in Launtoklian, they can be expressed using preexisting structures. Therefore, while their inclusion here is not strictly necessary, I will explain them so that everyone understands best practices for such situations without needing derive them themselves.
+That's all of the official grammar. You may find it rather short. "Where are the tenses, the passives, the participles?" you ask. While these do not exist explicitly in Oltilip, they can be expressed using preexisting structures. Therefore, while their inclusion here is not strictly necessary, I will explain them so that everyone understands best practices for such situations without needing derive them themselves.
 
 Tenses are simple. If it is important to a sentence whether it happened in the past, present, or future, the dative postposition `eh` can be used with the appropriate word.
 
@@ -313,17 +246,21 @@ Participles in Launtoklian are represented with relative clauses.
 
 Adverbs come in two flavours: things like "quickly" and things like "hopefully".
 
-## Gestures
+Directionals
 
-Gestures are inherently cultural, regardless of the language of communication. Thus, I won't try to control all of your body language when you speak Lawntoklian. However, keep in mind that this language is designed for international communication, and that your interlocuter may not understand or even misinterpret your gestures, even if you think of them as universal. When you want to convey something manually to an audience that knows Lawntoklian, use words from International Sign when possible. A few of the most useful ones are itemised below:
-* To greet someone,
-* To say goodbye,
-* To answer in the affirmative,
-* To answer in the negative,
-* To express confusion or ignorance,
-* To express joy or approval of something,
-* To express sadness, anger, or disapproval of something,
+Conjunctions
 
-## Sun never sets clause
+Other postpositions
 
-The final and most important rule is this: Lawntoklian is defined, not by its users, but by this document. In order for an international auxiliary language to be effective, everyone must speak the same variety. That means that the final arbiter for what does and doesn't constitute correct Launtoklian is this. Anyone is, of course, free to interpret and use the language in any way they see fit. However, if their variation on Launtoklian contradicts this document, they cannot rightly assert their variation to be correct.
+Adjective derivations
+
+The verb "to have"
+
+The verb "to need"
+
+## Flag
+
+# Appendices
+
+## Dictionary
+

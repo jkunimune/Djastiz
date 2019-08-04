@@ -6,9 +6,9 @@ Oltilip (/oʊ̯lˈtɪlɪp/; Oltilip: ⟨oltilip⟩ \[olˈtilip\]) is the ultimat
 
 As an auxlang, Oltilip is designed to be as easy as possible for everyone to learn and use. Thus, in creating it, I followed three basic priorities:
 
-* Simplicity -- there should be as little to learn as possible, without sacrificing usability.
-* Flexibility -- speakers should be able to include as much or as little information as necessary.
+* Learnability -- the learning curve should be as colloquially shallow as possible, without sacrificing learnability.
 * Elegance -- unknown structures should be inferrable from known ones, when possible.
+* Neutrality -- no one culture should have a significant learning advantage over any other.
 
 With these goals in mind, I developed a language with the following key features:
 
