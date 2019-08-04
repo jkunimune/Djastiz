@@ -163,6 +163,12 @@ def latexify(md):
 			tex += '\\sout{{{}}}'.format(enclosed) # add the strikethrough
 		elif enclosing is not None: # if it's continuing to be enclosed
 			enclosed += token # add to the enclosed text
+		elif token in ['#','$','%','&','{','}']: # if it's a special ascii character
+			tex += '\\'+token # add a backslash
+		elif token == "'": # if it's a quote or caret
+			tex += '\\textquotesingle{}'
+		elif token == "^": # use the escape sequence
+			tex += '\\textasciicircum{}'
 		else: # otherwise
 			tex += token # just add the token
 		i += 1
@@ -818,14 +824,8 @@ def format_dictionary(dictionary, directory):
 
 			entry['source_str_tex'] = latexify(entry['source_str'])
 			entry['definitions_tex'] = latexify(entry['definitions'])
-			latex += LATEX_ENTRY.format(**entry)
+			latex += LATEX_ENTRY.format(**entry)		
 
-		latex = re.sub(r"_([^_]+)_", r"\textit{\1}", latex)
-		latex = latex\
-			.replace('$',r'\$').replace('%',r'\%').replace('<',r'\textless').replace('>',r'\textgreater')\
-			.replace('#',r'\#').replace('^',r'\^').replace('&',r'\&').replace('£',r'\pounds')\
-			.replace('—','---').replace('~',r'\~{}')
-	
 		with open(path.join(directory, '{}-dict.md'.format(lang2)), 'w', encoding='utf-8') as f:
 			f.write(markdown)
 		with open(path.join(directory, '{}-dict.tex'.format(lang2)), 'w', encoding='utf-8') as f:

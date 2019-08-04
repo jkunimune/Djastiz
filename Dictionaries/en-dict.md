@@ -4,7 +4,7 @@
 e; /e/; mid front unrounded vowel
 
 - <a name="'e">**'e**</a> _n._ (Lat. ⟨e⟩ \[eː\])  
-e; Euler's number; 2.718…
+e; Euler’s number; 2.718…
 
 - <a name="ealwik">**ealwik**</a> _n._ (Fil. ⟨earwig⟩ \[eaɾwiɡ\])  
 earwig; Dermaptera
@@ -331,7 +331,7 @@ it; she; her; he; him; they; them; the; that; _third person_; _determinate_; _di
 in that event
 
 - <a name="etak">**etak**</a> _n._ ([et](#et)+[ak](#ak))  
-its; her; hers; his; their; that's
+its; her; hers; his; their; that’s
 
 - <a name="et ial">**et ial**</a> _n._ ([et](#et)+[ial](ial))  
 therefore; for that reason
@@ -516,7 +516,7 @@ traitor
 sea anemone; Actiniaria
 
 - <a name="ano">**ano**</a> _v._ ([~~ake~~](#ake))  
-be behind; be backward; lag; [ʟᴏᴧ](#anolon) has a negative _y_ coordinate from ʟᴜᴍ's point of view
+be behind; be backward; lag; [ʟᴏᴧ](#anolon) has a negative _y_ coordinate from ʟᴜᴍ’s point of view
 
 - <a name="'anol">**'anol**</a> _n._ (Far. ⟨انار⟩ \[æˈnɒːɾ\])  
 pomegranate; Punica
@@ -549,7 +549,7 @@ follower; tail
 followed
 
 - <a name="anoki">**anoki**</a> _v._ ([ano](#ano)+[ki](#ki))  
-retreat; fall behind; go backward; lose; [ʟєꜱ](#anokiles) makes ʟᴏᴧ move backward from ʟᴜᴍ's point of view
+retreat; fall behind; go backward; lose; [ʟєꜱ](#anokiles) makes ʟᴏᴧ move backward from ʟᴜᴍ’s point of view
 
 - <a name="anokiles">**anokiles**</a> _n._ ([anoki](#anoki)+[les](#les))  
 retreater
@@ -708,7 +708,7 @@ scan; abstract; intangiblise; [ʟєꜱ](#amapowinules) takes ʟᴏᴧ out of the
 scanner abstracter
 
 - <a name="amapowinyo">**amapowinyo**</a> _v._ ([amapowi](#amapowi)+[nyo](#nyo))  
-be digital; be intangible; be abstract; be nonphysical; [ʟᴜᴍ](#amapowinyolum) is abstract from [ʟᴏᴧ](#amapowinyolon)'s point of view
+be digital; be intangible; be abstract; be nonphysical; [ʟᴜᴍ](#amapowinyolum) is abstract from [ʟᴏᴧ](#amapowinyolon)’s point of view
 
 - <a name="amapowinyolon">**amapowinyolon**</a> _n._ ([amapowinyo](#amapowinyo)+[lon](#lon))  
 digital; intangible; abstract; nonphysical
@@ -840,10 +840,10 @@ Afghan; from Afghanistan
 Afghanistan
 
 - <a name="ak">**ak**</a> _post._ (Hin. ⟨का⟩ \[kaː\])  
-of; -'s; _marks modifier or associate_
+of; -’s; _marks modifier or associate_
 
 - <a name="ake">**ake**</a> _v._ (Hin. ⟨आगे⟩ \[aːɡe\])  
-be in front; be ahead; be forward; [ʟᴏᴧ](#akelon) has a positive _y_ coordinate from ʟᴜᴍ's point of view
+be in front; be ahead; be forward; [ʟᴏᴧ](#akelon) has a positive _y_ coordinate from ʟᴜᴍ’s point of view
 
 - <a name="akelon">**akelon**</a> _n._ ([ake](#ake)+[lon](#lon))  
 field of view; in front; ahead; forward
@@ -867,7 +867,7 @@ high school; middle school
 secondary education
 
 - <a name="akeki">**akeki**</a> _v._ ([ake](#ake)+[ki](#ki))  
-advance; go ahead; go forward; progress; gain; [ʟєꜱ](#akekiles) makes ʟᴏᴧ move forward from ʟᴜᴍ's point of view
+advance; go ahead; go forward; progress; gain; [ʟєꜱ](#akekiles) makes ʟᴏᴧ move forward from ʟᴜᴍ’s point of view
 
 - <a name="akekiles">**akekiles**</a> _n._ ([akeki](#akeki)+[les](#les))  
 advancer
@@ -1076,7 +1076,7 @@ nose
 given this
 
 - <a name="olak">**olak**</a> _n._ ([ol](#ol)+[ak](#ak))  
-this's
+this’s
 
 - <a name="ol ial">**ol ial**</a> _n._ ([ol](#ol)+[ial](ial))  
 herefore; because of this
@@ -1313,7 +1313,7 @@ excuse; pardon; accept; tolerate; ʟєꜱ excuses ʟᴏᴧ
 be hot; be warm; [ʟᴏᴧ](#okulon) is hotter than [ʟᴜᴍ](#okulum)
 
 - <a name="okul">**okul**</a> _n._ (Ibo. ⟨ọ́kụ̀rụ̀⟩ \[ɒ́kʊ̀ɹʊ̀\])  
-okra; ochro; ladies' fingers; Abelmoschus esculentus
+okra; ochro; ladies’ fingers; Abelmoschus esculentus
 
 - <a name="okulon">**okulon**</a> _n._ ([oku](#oku)+[lon](#lon))  
 hot; warm
@@ -2279,10 +2279,10 @@ undergo revolution; ʟᴏᴧ goes through a revolution
 revolution
 
 - <a name="yalakunciki">**yalakunciki**</a> _v._ ([yala](#yala)+[kunciki](#kunciki))  
-launch coup d'etat; seize power; ʟєꜱ suddenly seizes control of ʟᴏᴧ
+launch coup d’etat; seize power; ʟєꜱ suddenly seizes control of ʟᴏᴧ
 
 - <a name="yalakuncikilwel">**yalakuncikilwel**</a> _n._ ([yalakunciki](#yalakunciki)+[lwel](#lwel))  
-coup d'etat; coup; putsch; golpe
+coup d’etat; coup; putsch; golpe
 
 - <a name="yalati">**yalati**</a> _v._ ([yala](#yala)+[ti](#ti))  
 text; message; instant-message [ʟєꜱ](#yalatiles) sends [ʟᴜᴍ](#yalatilum) to [ʟᴏᴧ](#yalatilon)
@@ -3322,7 +3322,7 @@ be bronze; [ʟᴏᴧ](#lusotihutatulon) is made of bronze
 bronze
 
 - <a name="'lusi">**'lusi**</a> _n._ (Rus. ⟨рось⟩ \[rusʲ\])  
-Kievan Rus'
+Kievan Rus’
 
 - <a name="'lusiak">**'lusiak**</a> _n._ (['lusi](#'lusi)+[ak](#ak))  
 Russian; from Russia
@@ -3633,7 +3633,7 @@ tungsten; wolfram
 person; woman; man; human; Homo sapiens
 
 - <a name="wonestaki">**wonestaki**</a> _v._ ([won](#won)+[estaki](#estaki))  
-give birth; get born; [ʟєꜱ](#wonestakiles) gives birth to [ʟᴏᴧ](#wonestakilon) by [ʟᴜᴍ](#wonestakilum)'s seed
+give birth; get born; [ʟєꜱ](#wonestakiles) gives birth to [ʟᴏᴧ](#wonestakilon) by [ʟᴜᴍ](#wonestakilum)’s seed
 
 - <a name="wonestakiles">**wonestakiles**</a> _n._ ([wonestaki](#wonestaki)+[les](#les))  
 biological mother
@@ -3926,7 +3926,7 @@ Nigerian; from Nigeria
 Nigerian; the Nigerian people
 
 - <a name="nalkas">**nalkas**</a> _n._ (Spa. ⟨nalgas⟩ \[ˈnalɣas\])  
-buttocks; butt; bum; soft region between the back of an animal's legs and torso
+buttocks; butt; bum; soft region between the back of an animal’s legs and torso
 
 - <a name="nalkasak">**nalkasak**</a> _n._ ([nalkas](#nalkas)+[ak](#ak))  
 gluteal; posterial
@@ -4109,7 +4109,7 @@ noticed
 awareness
 
 - <a name="notaki">**notaki**</a> _v._ ([nota](#nota)+[ki](#ki))  
-point out; notify; call attention; wave; ʟєꜱ calls ʟᴏᴧ's attention to ʟᴜᴍ
+point out; notify; call attention; wave; ʟєꜱ calls ʟᴏᴧ’s attention to ʟᴜᴍ
 
 - <a name="nopowi">**nopowi**</a> _v._ ([no](#no)+[powi](#powi))  
 be apparent; be obvious; be knowable; be deducable; be notorious; be famous; be smart; [ʟᴜᴍ](#nopowilum) is apparent to [ʟᴏᴧ](#nopowilon)
@@ -4328,7 +4328,7 @@ free; independent
 weak
 
 - <a name="nikhuki">**nikhuki**</a> _v._ ([nikhu](#nikhu)+[ki](#ki))  
-lose control; release; free; [ʟєꜱ](#nikhukiles) releases [ʟᴏᴧ](#nikhukilon) from ʟᴜᴍ's control
+lose control; release; free; [ʟєꜱ](#nikhukiles) releases [ʟᴏᴧ](#nikhukilon) from ʟᴜᴍ’s control
 
 - <a name="nikhukiles">**nikhukiles**</a> _n._ ([nikhuki](#nikhuki)+[les](#les))  
 releaser
@@ -4897,7 +4897,7 @@ Maltese; the Maltese people
 Maltese; the Maltese language
 
 - <a name="manca">**manca**</a> _v._ (Nya. ⟨-manja⟩ \[mand͡ʒa\])  
-be to the right; [ʟᴏᴧ](#mancalon) has a positive _x_ coordinate from ʟᴜᴍ's point of view
+be to the right; [ʟᴏᴧ](#mancalon) has a positive _x_ coordinate from ʟᴜᴍ’s point of view
 
 - <a name="mancalon">**mancalon**</a> _n._ ([manca](#manca)+[lon](#lon))  
 right side; to the right
@@ -4906,7 +4906,7 @@ right side; to the right
 _x_ coordinate
 
 - <a name="mancaki">**mancaki**</a> _v._ ([manca](#manca)+[ki](#ki))  
-go right; ʟєꜱ makes ʟᴏᴧ move right from ʟᴜᴍ's point of view
+go right; ʟєꜱ makes ʟᴏᴧ move right from ʟᴜᴍ’s point of view
 
 - <a name="'manka">**'manka**</a> _n._ (Jpn. ⟨漫画⟩ \[maŋɡa\])  
 manga
@@ -4975,7 +4975,7 @@ stilt
 top; heights; high; over
 
 - <a name="maceki">**maceki**</a> _v._ ([mace](#mace)+[ki](#ki))  
-lift; heighten; ascend; elevate; [ʟєꜱ](#macekiles) increases ʟᴏᴧ's altitude relative to ʟᴜᴍ
+lift; heighten; ascend; elevate; [ʟєꜱ](#macekiles) increases ʟᴏᴧ’s altitude relative to ʟᴜᴍ
 
 - <a name="macekiles">**macekiles**</a> _n._ ([maceki](#maceki)+[les](#les))  
 one who heightens
@@ -5089,7 +5089,7 @@ be turned clockwise; [ʟᴏᴧ](#mapametlolon) appears rotated clockwise from th
 turned clockwise
 
 - <a name="mapametloki">**mapametloki**</a> _v._ ([mapametlo](#mapametlo)+[ki](#ki))  
-rotate clockwise; [ʟєꜱ](#mapametlokiles) turns ʟᴏᴧ clockwise from ʟᴜᴍ's point of view
+rotate clockwise; [ʟєꜱ](#mapametlokiles) turns ʟᴏᴧ clockwise from ʟᴜᴍ’s point of view
 
 - <a name="mapametlokiles">**mapametlokiles**</a> _n._ ([mapametloki](#mapametloki)+[les](#les))  
 clockwise turner
@@ -5641,7 +5641,7 @@ face; front part of a head
 facial
 
 - <a name="mut">**mut**</a> _n._ ([~~pil~~](#pil))  
-valley; large locally depressed region of a planet's crust
+valley; large locally depressed region of a planet’s crust
 
 - <a name="muta">**muta**</a> _v._ ([~~pila~~](#pila))  
 be purple; be violet; [ʟᴏᴧ](#mutalon) reflects short and long wavelength light
@@ -5784,7 +5784,7 @@ cost
 hell
 
 - <a name="hauki">**hauki**</a> _v._ ([hau](#hau)+[ki](#ki))  
-discourage; worsen; insult; argue against; negatively impact; [ʟєꜱ](#haukiles) lowers [ʟᴏᴧ](#haukilon)'s opinion of ʟᴜᴍ
+discourage; worsen; insult; argue against; negatively impact; [ʟєꜱ](#haukiles) lowers [ʟᴏᴧ](#haukilon)’s opinion of ʟᴜᴍ
 
 - <a name="haukiles">**haukiles**</a> _n._ ([hauki](#hauki)+[les](#les))  
 discourager; worsener
@@ -6105,7 +6105,7 @@ oxygen
 mucus; snot
 
 - <a name="hihacwelonkoki">**hihacwelonkoki**</a> _v._ ([hihacwelon](#hihacwelon)+[koki](#koki))  
-have runny nose; drip mucus; ʟєꜱ's nose runs ʟᴏᴧ
+have runny nose; drip mucus; ʟєꜱ’s nose runs ʟᴏᴧ
 
 - <a name="hihin">**hihin**</a> _n._ (ono. \[hi hin\])  
 equid; horse; zebra; pony; wild butt; Equidae
@@ -6443,7 +6443,7 @@ value; goodness; preference level
 heaven; paradise
 
 - <a name="caiki">**caiki**</a> _v._ ([cai](#cai)+[ki](#ki))  
-encourage; improve; defend; argue for; positively impact; [ʟєꜱ](#caikiles) raises [ʟᴏᴧ](#caikilon)'s opinion of ʟᴜᴍ
+encourage; improve; defend; argue for; positively impact; [ʟєꜱ](#caikiles) raises [ʟᴏᴧ](#caikilon)’s opinion of ʟᴜᴍ
 
 - <a name="caikiles">**caikiles**</a> _n._ ([caiki](#caiki)+[les](#les))  
 encourager; improver
@@ -6806,7 +6806,7 @@ be clumsy; [ʟᴏᴧ](#cohtifelon) is clumsy
 clumsy
 
 - <a name="cohtue">**cohtue**</a> _v._ ([coh](#coh)+[tue](#tue))  
-hold; carry; have with one; have on one's person; [ʟᴏᴧ](#cohtuelon) holds [ʟᴜᴍ](#cohtuelum)
+hold; carry; have with one; have on one’s person; [ʟᴏᴧ](#cohtuelon) holds [ʟᴜᴍ](#cohtuelum)
 
 - <a name="cohtuelon">**cohtuelon**</a> _n._ ([cohtue](#cohtue)+[lon](#lon))  
 holder
@@ -6815,13 +6815,13 @@ holder
 held; accessory
 
 - <a name="cohtuenu">**cohtuenu**</a> _v._ ([cohtue](#cohtue)+[nu](#nu))  
-put down; release; [ʟєꜱ](#cohtuenules) takes ʟᴜᴍ out of ʟᴏᴧ's hand
+put down; release; [ʟєꜱ](#cohtuenules) takes ʟᴜᴍ out of ʟᴏᴧ’s hand
 
 - <a name="cohtuenules">**cohtuenules**</a> _n._ ([cohtuenu](#cohtuenu)+[les](#les))  
 putter downer; taker
 
 - <a name="cohtueki">**cohtueki**</a> _v._ ([cohtue](#cohtue)+[ki](#ki))  
-pick up; hand; grab; [ʟєꜱ](#cohtuekiles) puts ʟᴜᴍ in ʟᴏᴧ's hand
+pick up; hand; grab; [ʟєꜱ](#cohtuekiles) puts ʟᴜᴍ in ʟᴏᴧ’s hand
 
 - <a name="cohtuekiles">**cohtuekiles**</a> _n._ ([cohtueki](#cohtueki)+[les](#les))  
 hander; picker upper
@@ -7705,7 +7705,7 @@ genital
 virgin
 
 - <a name="seksomai">**seksomai**</a> _v._ ([sekso](#sekso)+[mai](#mai))  
-prostitute; sell one's body; [ʟєꜱ](#seksomailes) has sex with ʟᴏᴧ for pay
+prostitute; sell one’s body; [ʟєꜱ](#seksomailes) has sex with ʟᴏᴧ for pay
 
 - <a name="seksomailes">**seksomailes**</a> _n._ ([seksomai](#seksomai)+[les](#les))  
 prostitute; whore; harlot
@@ -8844,7 +8844,7 @@ Frenchman; the French people
 French; the French language
 
 - <a name="fak">**fak**</a> _num._ ([~~san~~](#san))  
-D; thirteen; baker's dozen; only used for hexadecimal
+D; thirteen; baker’s dozen; only used for hexadecimal
 
 - <a name="fake">**fake**</a> _v._ ([~~sano~~](#sano))  
 be sick; be ill; [ʟᴏᴧ](#fakelon) is sick
@@ -9051,7 +9051,7 @@ North Macedonia; the Former Yugoslav Republic of Macedonia
 North Macedonian; from North Macedonia
 
 - <a name="fila'cosawn">**fila'cosawn**</a> _n._ ([fila](#fila)+['cosawn](#'cosawn))  
-North Korea; the People's Democratic Republic of Korea
+North Korea; the People’s Democratic Republic of Korea
 
 - <a name="fila'cosawnak">**fila'cosawnak**</a> _n._ ([fila'cosawn](#fila'cosawn)+[ak](#ak))  
 North Korean; from North Korea
@@ -10102,8 +10102,8 @@ commenter
 - <a name="kotilon">**kotilon**</a> _n._ ([koti](#koti)+[lon](#lon))  
 metadata; comment; commentary
 
-- <a name="'kotifwah">**'kotifwah**</a> _n._ (Fra. ⟨Côte d'Ivoire⟩ \[kot divwaʁ\])  
-Ivory Coast; Côte d'Ivoire
+- <a name="'kotifwah">**'kotifwah**</a> _n._ (Fra. ⟨Côte d’Ivoire⟩ \[kot divwaʁ\])  
+Ivory Coast; Côte d’Ivoire
 
 - <a name="'kotifwahak">**'kotifwahak**</a> _n._ (['kotifwah](#'kotifwah)+[ak](#ak))  
 Ivorian; from Ivory Coast
@@ -10715,7 +10715,7 @@ Grenadines; Grenadine Islands
 Grenadinese; from the Grenadines
 
 - <a name="kwenoki">**kwenoki**</a> _v._ ([kwe](#kwe)+[noki](#noki))  
-prove; verify; log in; ʟєꜱ verifies ʟᴏᴧ's veracity
+prove; verify; log in; ʟєꜱ verifies ʟᴏᴧ’s veracity
 
 - <a name="kwenu">**kwenu**</a> _v._ ([kwe](#kwe)+[nu](#nu))  
 undo; ʟᴏᴧ happens in reverse
@@ -10793,7 +10793,7 @@ be correct; be right; [ʟᴏᴧ](#kwepensilon) thinks ʟᴜᴍ to be true, and i
 correct; right
 
 - <a name="kwepensiki">**kwepensiki**</a> _v._ ([kwepensi](#kwepensi)+[ki](#ki))  
-correct; right; rectify; ʟєꜱ corrects ʟᴏᴧ's view of [ʟᴜᴍ](#kwepensikilum)
+correct; right; rectify; ʟєꜱ corrects ʟᴏᴧ’s view of [ʟᴜᴍ](#kwepensikilum)
 
 - <a name="kwepensikilum">**kwepensikilum**</a> _n._ ([kwepensiki](#kwepensiki)+[lum](#lum))  
 correction
@@ -11482,7 +11482,7 @@ thin; decrease viscosity; [ʟєꜱ](#toftakiles) makes ʟᴏᴧ less viscous
 thinner; viscosity reducer
 
 - <a name="toka">**toka**</a> _v._ (Spa. ⟨toca⟩ \[ˈtoka\])  
-touch; meet; [ʟᴏᴧ](#tokalon) and ʟᴜᴍ are so close to each other that they cannot physically get any closer (please don't get tecnical with my definition of this)
+touch; meet; [ʟᴏᴧ](#tokalon) and ʟᴜᴍ are so close to each other that they cannot physically get any closer (please don’t get tecnical with my definition of this)
 
 - <a name="tokalon">**tokalon**</a> _n._ ([toka](#toka)+[lon](#lon))  
 touching
@@ -12606,19 +12606,19 @@ original orientation; right-side up
 orientation; rotation
 
 - <a name="pamapolteki">**pamapolteki**</a> _v._ ([pamapolte](#pamapolte)+[ki](#ki))  
-rotate counterclockwise; [ʟєꜱ](#pamapoltekiles) turns ʟᴏᴧ counterclockwise from ʟᴜᴍ's point of view
+rotate counterclockwise; [ʟєꜱ](#pamapoltekiles) turns ʟᴏᴧ counterclockwise from ʟᴜᴍ’s point of view
 
 - <a name="pamapoltekiles">**pamapoltekiles**</a> _n._ ([pamapolteki](#pamapolteki)+[les](#les))  
 counterclockwise turner
 
 - <a name="'pahai">**'pahai**</a> _n._ (Far. ⟨بهائی‎⟩ \[ba˨ˈha˦ʔi˦\])  
-Bahá'í; the Bahá'í Faith; Bahaism
+Bahá’í; the Bahá’í Faith; Bahaism
 
 - <a name="'pahaiak">**'pahaiak**</a> _n._ (['pahai](#'pahai)+[ak](#ak))  
-Bahá'í; of the Bahá'í Faith
+Bahá’í; of the Bahá’í Faith
 
 - <a name="'pahaiwon">**'pahaiwon**</a> _n._ (['pahai](#'pahai)+[won](#won))  
-Bahá'í; followers of Bahá'u'lláh
+Bahá’í; followers of Bahá’u’lláh
 
 - <a name="'pahama">**'pahama**</a> _n._ (Eng. ⟨The Bahamas⟩ \[bəˈhɑːmə\])  
 The Bahamas
@@ -12669,7 +12669,7 @@ mole
 submarine
 
 - <a name="pahoki">**pahoki**</a> _v._ ([paho](#paho)+[ki](#ki))  
-lower; descend; depress; [ʟєꜱ](#pahokiles) decreases ʟᴏᴧ's altitude relative to ʟᴜᴍ
+lower; descend; depress; [ʟєꜱ](#pahokiles) decreases ʟᴏᴧ’s altitude relative to ʟᴜᴍ
 
 - <a name="pahokiles">**pahokiles**</a> _n._ ([pahoki](#pahoki)+[les](#les))  
 one who lowers
@@ -12723,13 +12723,13 @@ Pakistani; the Pakistani people
 Urdu; the Urdu language
 
 - <a name="pakha">**pakha**</a> _v._ ([~~manca~~](#manca))  
-be to the left; [ʟᴏᴧ](#pakhalon) has a negative _x_ coordinate from ʟᴜᴍ's point of view
+be to the left; [ʟᴏᴧ](#pakhalon) has a negative _x_ coordinate from ʟᴜᴍ’s point of view
 
 - <a name="pakhalon">**pakhalon**</a> _n._ ([pakha](#pakha)+[lon](#lon))  
 left side; to the left
 
 - <a name="pakhaki">**pakhaki**</a> _v._ ([pakha](#pakha)+[ki](#ki))  
-go left; ʟєꜱ makes ʟᴏᴧ move left from ʟᴜᴍ's point of view
+go left; ʟєꜱ makes ʟᴏᴧ move left from ʟᴜᴍ’s point of view
 
 - <a name="paktel">**paktel**</a> _n._ (Jav. ⟨baktèri⟩ \[pɑ̤ktɛɽi\])  
 prokaryote; bacterium; archaeon; cellular organism with no nucleus
@@ -12914,7 +12914,7 @@ sound; phoneme
 - <a name="'polium">**'polium**</a> _n._ (Lat. ⟨borium⟩ \[borɪʊ̃\])  
 boron
 
-- <a name="'polinesi">**'polinesi**</a> _n._ (Fra. ⟨Polynésie⟩ \['polinezi\])  
+- <a name="'polinesi">**'polinesi**</a> _n._ (Fra. ⟨Polynésie⟩ \[ˈpolinezi\])  
 Polynesia
 
 - <a name="'polinesiak">**'polinesiak**</a> _n._ (['polinesi](#'polinesi)+[ak](#ak))  
@@ -13065,7 +13065,7 @@ familiarise; get to know; get accustomed; practise; introduce; [ʟєꜱ](#piasak
 familiariser
 
 - <a name="pil">**pil**</a> _n._ (Nya. ⟨phiri⟩ \[pʰiɽi\])  
-mountain; large elevated region of a planet's crust
+mountain; large elevated region of a planet’s crust
 
 - <a name="pila">**pila**</a> _v._ (Hin. ⟨पीला⟩ \[piːlaː\])  
 be yellow; [ʟᴏᴧ](#pilalon) reflects medium wavelength light
@@ -13158,7 +13158,7 @@ tribe
 island; landmass that is smaller than a continent and bounded by ocean
 
 - <a name="pihtafu">**pihtafu**</a> _v._ ([pih](#pih)+[tafu](#tafu))  
-itch; ʟᴏᴧ's [ʟᴜᴍ](#pihtafulum) itches
+itch; ʟᴏᴧ’s [ʟᴜᴍ](#pihtafulum) itches
 
 - <a name="pihtafulum">**pihtafulum**</a> _n._ ([pihtafu](#pihtafu)+[lum](#lum))  
 itch
@@ -13407,10 +13407,10 @@ pushed
 you; _second person_; the listener
 
 - <a name="puket">**puket**</a> _pn._ ([puk](#puk)+[et](#et))  
-y'all; _second person plural_; the listener and others
+y’all; ye; _second person plural_; the listener and others
 
 - <a name="puketak">**puketak**</a> _n._ ([puket](#puket)+[ak](#ak))  
-y'all's
+y’all’s; yer
 
 - <a name="pukak">**pukak**</a> _n._ ([puk](#puk)+[ak](#ak))  
 your; yours

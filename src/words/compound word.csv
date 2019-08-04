@@ -10,7 +10,7 @@ but; and even,,even and,ifenaw
 instead; rather,,no and,nyoaw
 "us all; _first person plural inclusive_; the speaker, the listener, and possibly others {GENITIVE:all our}",,I you,minpuk
 us; _first person plural exclusive_; the speaker and others {GENITIVE:our},,I it,minet
-y'all; _second person plural_; the listener and others {GENITIVE:y'all's},,you it,puket
+y’all; ye; _second person plural_; the listener and others {GENITIVE:y’all’s; yer},,you it,puket
 other; not; anything but,,be no which-(relative),estanyolon
 be until; be since; happen from; happen to; OBJ is happening from the present until IND {end date; deadline} {TIME:start date; kickoff},,all be-early,kitcitu
 communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ {interlocutor} about IND {topic; passage} {TIME:conversation; discourse},,say say,titi
@@ -52,7 +52,7 @@ succeed; SBJ succeeds at making OBJ happen,,try do,cikweki
 mistake; have an accident; SBJ accidentally makes OBJ {mistake; accident} happen,,try no do,cinyokweki
 "be correct; be right; OBJ thinks IND to be true, and it is",,yes think,kwepensi
 be wrong; be incorrect; OBJ thinks IND {myth} to be true even though it is not,,no think,nyopensi
-correct; right; rectify; SBJ corrects OBJ's view of IND {correction},,INCOHATIVE OF be correct,kwepensiki
+correct; right; rectify; SBJ corrects OBJ’s view of IND {correction},,INCOHATIVE OF be correct,kwepensiki
 decorrect; wrong; SBJ feeds OBJ false information about IND,,INCOHATIVE OF be wrong,nyopensiki
 "tell the truth; be honest; SBJ expresses OBJ {the truth; truth}, which they think to be true {AMOUNT:honesty; integrity}",,yes say,kweti
 "lie; be dishonest; SBJ expresses OBJ {lie; feint; falsehood}, which they think to be false",,no say,nyoti
@@ -193,9 +193,9 @@ empire,,much country,muctec
 island; landmass that is smaller than a continent and bounded by ocean,,little landmass,pihtayl
 "subcontinent; subsection of a continent bounded by divisors of geographical and cultural significance, e.g. Europe, South Asia",,be-inside continent,nemuctayl
 archipelago,,much little landmass,mucpihtayl
-hold; carry; have with one; have on one's person; OBJ {holder} holds IND {held; accessory},,hand own,cohtue
-pick up; hand; grab; SBJ {hander; picker upper} puts IND in OBJ's hand,,INCOHATIVE OF hold,cohtueki
-put down; release; SBJ {putter downer; taker} takes IND out of OBJ's hand,,CESSATIVE OF hold,cohtuenu
+hold; carry; have with one; have on one’s person; OBJ {holder} holds IND {held; accessory},,hand own,cohtue
+pick up; hand; grab; SBJ {hander; picker upper} puts IND in OBJ’s hand,,INCOHATIVE OF hold,cohtueki
+put down; release; SBJ {putter downer; taker} takes IND out of OBJ’s hand,,CESSATIVE OF hold,cohtuenu
 be humid; be dank; OBJ is humid,,be-liquid be-mixed,cwemiclo
 be arid; be dry; OBJ is not humid,,be-gaseous be-mixed,hyomiclo
 be wet; IND is wet with OBJ {AMOUNT:wetness},,be-liquid be-on,cwetaka
@@ -237,7 +237,7 @@ sweat; perspire; SBJ sweats out OBJ,,sweat exit,okucwelonkoki
 tears,,be-sad body-of-water,nihucwelon
 cry; weep; sob; tear; SBJ cries out OBJ,,tears exit,nihucwelonkoki
 mucus; snot,,breathe body-of-water,hihacwelon
-have runny nose; drip mucus; SBJ's nose runs OBJ,,mucus exit,hihacwelonkoki
+have runny nose; drip mucus; SBJ’s nose runs OBJ,,mucus exit,hihacwelonkoki
 semen,,have-sex body-of-water,seksocwelon
 ejaculate; SBJ ejaculates out OBJ,,semen exit,seksocwelonkoki
 pus,,prokaryote body-of-water,paktelcwelon
@@ -411,7 +411,7 @@ millilitre,,×10^ minus 3 litre,lyonmensan'lithe
 milligram,,×10^ minus 6 kilogram,lyonmencah'kilokham
 gram,,×10^ minus 3 kilogram,lyonmensan'kilokham
 tonne,,×10^ 3 kilogram,lyonsan'kilokham
-give birth; get born; SBJ {biological mother} gives birth to OBJ {offspring; biological child; newborn} by IND {biological father}'s seed {TIME:birth},,person create,wonestaki
+give birth; get born; SBJ {biological mother} gives birth to OBJ {offspring; biological child; newborn} by IND {biological father}’s seed {TIME:birth},,person create,wonestaki
 sibling,,accompany child,pemamalon
 anticle; aunt; uncle,,parent sibling,mamapemamalon
 first cousin,,be-far relative,kulecincilum
@@ -561,7 +561,7 @@ feel lonely; feel alone; OBJ feels alone,,1 feel,kanswa
 be infinitely large; OBJ is infinitely large,,be-infinite be-big,osimimota
 be infinitessimal; OBJ is infinitessimally small,,be-infinite be-small,osimipela
 canon,,1 story,kankatalum
-prove; verify; log in; SBJ verifies OBJ's veracity,,yes teach,kwenoki
+prove; verify; log in; SBJ verifies OBJ’s veracity,,yes teach,kwenoki
 disprove; falsify; compromise; log out; SBJ proves OBJ false,,no teach,nyonoki
 design; SBJ {designer} designs OBJ {design},,choose create,eleheestaki
 be unique; be special; OBJ is unique among IND,,1 be-similar,kanwale
@@ -627,7 +627,7 @@ welcome!,,please enter,pananeki
 emoticon; emoji,,feel image,swahulum
 spiral out; OBJ spirals outward from IND,,spin distance,kumnakulelyan
 spiral in; OBJ spirals into IND {METHOD:spiral},,spin approach,kumnanitoki
-itch; OBJ's IND {itch} itches,,little hurt,pihtafu
+itch; OBJ’s IND {itch} itches,,little hurt,pihtafu
 holy book,,have-faith book,fiticapalum
 church,,religion group,fitilippaltolum
 car; truck,,ground vehicle,pummontalon
@@ -646,9 +646,9 @@ climb; OBJ {climber} climbs {INSTRUMENT:ladder; handholds},,surface move,lumahhi
 dig; OBJ {digger} digs,,be-solid move,kutihila
 time travel; OBJ travels through time,,time move,kwelwelhila
 live monastically; OBJ {monk; nun; cenobite; hermit; anchorite; hesychast; solitary} lives as a monk {LOCATION:monastery},,have-faith live,fitiici
-prostitute; sell one's body; SBJ {prostitute; whore; harlot} has sex with OBJ for pay,,have-sex sell,seksomai
+prostitute; sell one’s body; SBJ {prostitute; whore; harlot} has sex with OBJ for pay,,have-sex sell,seksomai
 take shower; shower; SBJ showers OBJ with IND {shower},duchar; ducharse; SBJ ducha OBJ con IND {ducha},be-liquid drop,cwekaeki
-launch coup d'etat; seize power; SBJ suddenly seizes control of OBJ {TIME:coup d'etat; coup; putsch; golpe},,be-fast take-control,yalakunciki
+launch coup d’etat; seize power; SBJ suddenly seizes control of OBJ {TIME:coup d’etat; coup; putsch; golpe},,be-fast take-control,yalakunciki
 make eye contact; OBJ has eye contact with IND,,eye can-see,huechu
 heartbeat; have pulse; OBJ has a heartbeat {AMOUNT:heartrate},,live be-rhythmic,icitutumu
 corporation; company; business,,sell group,maipaltolum
@@ -857,7 +857,7 @@ Guinea-Bissau; the Republic of Guinea-Bissau {GENITIVE:Bissau-Guinean; from Guin
 Guinea; Guinea-Conakry; the Republic of Guinea {PEOPLE:Guinean; the Guinean people},,Conakry Guinea-(region),'konakhi'kine
 Hindustani; the Hindustani language {PEOPLE:Hindustani speakers},,India Pakistan language,'hintu'pakistantilip
 Northern Irish; the Northern Irish people {GENITIVE:Northern Irish; from Northern Ireland|COUNTRY:Northern Ireland},,be-north Ireland,fila'elyatec
-North Korea; the People's Democratic Republic of Korea {GENITIVE:North Korean; from North Korea|PEOPLE:North Korean; the North Korean people},,be-north Korea,fila'cosawn
+North Korea; the People’s Democratic Republic of Korea {GENITIVE:North Korean; from North Korea|PEOPLE:North Korean; the North Korean people},,be-north Korea,fila'cosawn
 South Korea; the Democratic Republic of Korea {GENITIVE:South Korean; from South Korea|PEOPLE:South Korean; the South Korean people},,be-south Korea,suta'cosawn
 North Macedonia; the Former Yugoslav Republic of Macedonia {GENITIVE:North Macedonian; from North Macedonia},,be-north Macedon,fila'maketon
 Southern Min; Minnan; Hokkien-Taiwanese; the Southern Min languages,,be-south Min-Chinese,suta'hokyentilip

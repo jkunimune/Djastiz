@@ -19,8 +19,8 @@ try; attempt; will; intend; attempt; do for; do so; do in order to; SBJ {purpose
 give up; quit; stop trying; SBJ {quitter} stops trying to make IND happen by doing OBJ,,CESSATIVE OF try,cinu
 want; like; beI good; desire; favour; beI appealing; beI pleasing; hunger; have an appetite; hope; beI beautiful; be positive; OBJ {liker; optimist; hoper; wanter; desirous; hungry; -phile} has positive inclinations toward IND {desire; wish; hope; preference; favourite} {AMOUNT:value; goodness; preference level|LOCATION:heaven; paradise|METHOD:style; stylisation},,ben <চাই> [t͡ɕai],cai
 dislike; be averse; beI bad; disfavour; be unappealing; be displeasing; want not; beI ugly; beI gross; be negative; OBJ {pessimist; -phobe} has negative inclinations toward IND {unfavourable; anathema; least favourite} {LOCATION:hell|AMOUNT:cost},,ANTONYM OF want,hau
-encourage; improve; defend; argue for; positively impact; SBJ {encourager; improver} raises OBJ {encouraged}'s opinion of IND,,INCOHATIVE OF want,caiki
-discourage; worsen; insult; argue against; negatively impact; SBJ {discourager; worsener} lowers OBJ {discouraged}'s opinion of IND,,CESSATIVE OF want,hauki
+encourage; improve; defend; argue for; positively impact; SBJ {encourager; improver} raises OBJ {encouraged}’s opinion of IND,,INCOHATIVE OF want,caiki
+discourage; worsen; insult; argue against; negatively impact; SBJ {discourager; worsener} lowers OBJ {discouraged}’s opinion of IND,,CESSATIVE OF want,hauki
 beI dangerous; IND {danger} is dangerous to OBJ,,POSSIBILITY OF dislike,haupowi
 beI safe; be secure; IND is safe for OBJ {AMOUNT:safety},,NEGATIVE OF be dangerous,haupowinyo
 *should; be fit; be good; be proper; be correct; OBJ should happen to make IND {value function; goal} happen,,yor <ìbá> [ìbá],ipa
@@ -67,7 +67,7 @@ can feel; feel; *touch; OBJ can physically feel IND {GENITIVE:tactile; tactual},
 show tactually; SBJ shows IND to OBJ tactually,,INCOHATIVE OF can feel,amaki
 hide tactually; SBJ makes OBJ stop feeling IND,,CESSATIVE OF can feel,amanu
 be tangible; be physical; be objective; IND {object; thing} is tangible to OBJ,,POSSIBILITY OF can feel,amapowi
-be digital; be intangible; be abstract; be nonphysical; IND {concept} is abstract from OBJ's point of view,,NEGATIVE OF be tangible,amapowinyo
+be digital; be intangible; be abstract; be nonphysical; IND {concept} is abstract from OBJ’s point of view,,NEGATIVE OF be tangible,amapowinyo
 print; tangiblise; soidify; SBJ {printer} brings OBJ into the physical realm,,INCOHATIVE OF be tangible,amapowiki
 scan; abstract; intangiblise; SBJ {scanner abstracter} takes OBJ out of the physical realm,,CESSATIVE OF be tangible,amapowinu
 read; load; interpret; SBJ {reader} reads OBJ {file; text; reading; passage; data; note} from the physical state of IND {source; text},,cmn <读> [tu˧˥],tu
@@ -153,15 +153,15 @@ be near; be close; be before; be approximately; be almost; be like; OBJ is physi
 distance; go away; separate; come from; go out; SBJ {separator} distances OBJ from IND,,INCOHATIVE OF be far,kuleki
 approach; go toward; meet; draw close; bring together; gather; go to; go in; SBJ {gatherer; joiner} moves OBJ toward IND,,CESSATIVE OF be far,nitoki
 keep apart; separate; divide; avoid; SBJ {wall; barrier} keeps OBJ {other side} away from IND,,PROGRESSIVE OF be far,kulecalu
-be in front; be *ahead; be forward; OBJ {field of view} has a positive _y_ coordinate from IND's point of view {AMOUNT:_y_ coordinate; progress},,hin <आगे> [aːɡe],ake
-be behind; be backward; lag; OBJ {back} has a negative _y_ coordinate from IND's point of view,,ANTONYM OF be in front,ano
-advance; go ahead; go forward; progress; gain; SBJ {advancer} makes OBJ move forward from IND's point of view,,INCOHATIVE OF be in front,akeki
-retreat; fall behind; go backward; lose; SBJ {retreater} makes OBJ move backward from IND's point of view,,CESSATIVE OF be in front,anoki
+be in front; be *ahead; be forward; OBJ {field of view} has a positive _y_ coordinate from IND’s point of view {AMOUNT:_y_ coordinate; progress},,hin <आगे> [aːɡe],ake
+be behind; be backward; lag; OBJ {back} has a negative _y_ coordinate from IND’s point of view,,ANTONYM OF be in front,ano
+advance; go ahead; go forward; progress; gain; SBJ {advancer} makes OBJ move forward from IND’s point of view,,INCOHATIVE OF be in front,akeki
+retreat; fall behind; go backward; lose; SBJ {retreater} makes OBJ move backward from IND’s point of view,,CESSATIVE OF be in front,anoki
 follow; trail; SBJ makes OBJ {follower; tail} follow IND {followed},,PROGRESSIVE OF be behind,anocalu
-be to the right; OBJ {right side} has a positive _x_ coordinate from IND's point of view {AMOUNT:_x_ coordinate},estar *derecha; OBJ {el lado derecho} tiene una coordenada _x_ positiva del punto de vista de IND {AMOUNT:coordenada _x_},nya <-manja> [mand͡ʒa],manca
-be to the left; OBJ {left side} has a negative _x_ coordinate from IND's point of view,,ANTONYM OF be to the right,pakha
-go right; SBJ makes OBJ move right from IND's point of view,,INCOHATIVE OF be to the right,mancaki
-go left; SBJ makes OBJ move left from IND's point of view,,CESSATIVE OF be to the right,pakhaki
+be to the right; OBJ {right side} has a positive _x_ coordinate from IND’s point of view {AMOUNT:_x_ coordinate},estar *derecha; OBJ {el lado derecho} tiene una coordenada _x_ positiva del punto de vista de IND {AMOUNT:coordenada _x_},nya <-manja> [mand͡ʒa],manca
+be to the left; OBJ {left side} has a negative _x_ coordinate from IND’s point of view,,ANTONYM OF be to the right,pakha
+go right; SBJ makes OBJ move right from IND’s point of view,,INCOHATIVE OF be to the right,mancaki
+go left; SBJ makes OBJ move left from IND’s point of view,,CESSATIVE OF be to the right,pakhaki
 be wide; be obtuse; be big; be large; OBJ {splotch; blotch} spans a wide angle from the point of view of IND {AMOUNT:angle;angular size},,hin <चौड़ा> [t͡ʃɔːɽaː],cola
 be narrow; be acute; be small; be little; OBJ {dot; point} spans a narrow angle from the point of view of IND {corner},,ANTONYM OF be wide,heta
 widen; grow; spread out; dilate; SBJ makes OBJ span a wider angle from the point of view of IND,,INCOHATIVE OF be wide,colaki
@@ -172,12 +172,12 @@ go down; lower; sink; SBJ {one who moves down} makes OBJ appear to move down fro
 go up; raise; rise; SBJ {one who moves up} makes OBJ appear to move up from the point of view of IND {INSTRUMENT:stool},,CESSATIVE OF be below,kuhoki
 be turned *counterclockwise; be widdershins; OBJ appears rotated counterclockwise from the orientation IND {original orientation; right-side up} from the point of view of IND {AMOUNT:orientation; rotation},,ben <বামাবর্তে> [bamabɔrt̪e],pamapolte
 be turned clockwise; OBJ appears rotated clockwise from the orientation OBJ from the point of view of IND,,ANTONYM OF be turned counterclockwise,mapametlo
-rotate counterclockwise; SBJ {counterclockwise turner} turns OBJ counterclockwise from IND's point of view,,INCOHATIVE OF be turned counterclockwise,pamapolteki
-rotate clockwise; SBJ {clockwise turner} turns OBJ clockwise from IND's point of view,,CESSATIVE OF be turned counterclockwise,mapametloki
+rotate counterclockwise; SBJ {counterclockwise turner} turns OBJ counterclockwise from IND’s point of view,,INCOHATIVE OF be turned counterclockwise,pamapolteki
+rotate clockwise; SBJ {clockwise turner} turns OBJ clockwise from IND’s point of view,,CESSATIVE OF be turned counterclockwise,mapametloki
 be low; be under; be deep; OBJ {bottom; depths; ground; earth; hell; underlayer} has a lower altitude than IND {standard altitude; usually sea level} {AMOUNT:lowness; deelevation; altitude; layer},,spa <bajo> [ˈbaxo],paho
 be high; be over; OBJ {top; heights} has a higher altitude than IND,,ANTONYM OF be low,mace
-lower; descend; depress; SBJ {one who lowers} decreases OBJ's altitude relative to IND,,INCOHATIVE OF be low,pahoki
-lift; heighten; ascend; elevate; SBJ {one who heightens} increases OBJ's altitude relative to IND,,CESSATIVE OF be low,maceki
+lower; descend; depress; SBJ {one who lowers} decreases OBJ’s altitude relative to IND,,INCOHATIVE OF be low,pahoki
+lift; heighten; ascend; elevate; SBJ {one who heightens} increases OBJ’s altitude relative to IND,,CESSATIVE OF be low,maceki
 be south; OBJ {the South} has a lower latitude than IND,,epo <suda> [ˈsuda],suta
 be north; OBJ {the North} has a higher latitude than IND {standard parallel; usually the equator} {AMOUNT:latitude},,ANTONYM OF be south,fila
 go south; SBJ decreases the latitude of OBJ relative to IND,,INCOHATIVE OF be south,sutaki
@@ -207,7 +207,7 @@ put to work; make productive; employ; SBJ makes OBJ start working on IND,,INCOHA
 retire; give up; make unproductive; fire; SBJ makes OBJ become unproductive at IND,,CESSATIVE OF work,uhoki
 notice; be aware; OBJ {noticer} is conciously aware of the presence of IND {noticed} {AMOUNT:awareness},,spa <nota> [ˈnota],nota
 be oblivious; be unaware; OBJ fails to notice the presence of IND {inconspicuous; stealthy},,ANTONYM OF notice,kela
-point out; notify; call attention; wave; SBJ calls OBJ's attention to IND,,INCOHATIVE OF notice,notaki
+point out; notify; call attention; wave; SBJ calls OBJ’s attention to IND,,INCOHATIVE OF notice,notaki
 hide; obscure; SBJ {hider; obscurer} hides IND from OBJ,,CESSATIVE OF notice,kelaki
 pay attention; focus; watch; occupy; OBJ pays attention to IND {attention; focus} {AMOUNT:attention; focus},,jav <gapé> [kɑ̤pe],kape
 ignore; disregard; OBJ pays little attention to IND,,ANTONYM OF pay attention,namo
@@ -276,7 +276,7 @@ disqualify; declassify; SBJ makes OBJ not be an instance of IND,,CESSATIVE OF be
 beI in *control; beI in charge; beI powerful; depend; IND {oppressor; controller; leader; official} controls OBJ {oppressed; dependent} {INSTRUMENT:controls; controller; harness},,cmn <控制> [kʰʊŋ˥˩ʈ͡ʂɨ˥˩],kunci
 be free; be independent; beI weak; IND cannot tell OBJ what to do,,ANTONYM OF be in control,nikhu
 take control; capture; give control; put in charge; SBJ {capturer} puts IND in control of OBJ {captured},,INCOHATIVE OF be in control,kunciki
-lose control; release; free; SBJ {releaser} releases OBJ {freed} from IND's control,,CESSATIVE OF be in control,nikhuki
+lose control; release; free; SBJ {releaser} releases OBJ {freed} from IND’s control,,CESSATIVE OF be in control,nikhuki
 obey; command; follow; lead; SBJ {obedient; follower} does OBJ {order; command} because IND {leader; commander; manager; authority} said to do it,,eng <obey> [oʊ̯ˈbeɪ̯],ope
 care; matter; value; beI important; hold dear; OBJ {caring; passionate} cares about IND {value; main; primary},,cmn <在乎> [t͡saɪ̯˥˩xu],sayhu
 beI unimportant; be indifferent; ignore; OBJ does not care about IND {fringe; secondary},,ANTONYM OF care,fawci
@@ -634,7 +634,7 @@ lose faith; destroy faith; lose hope; SBJ causes OBJ to lose faith in IND,,CESSA
 be tangled; be knotted; OBJ {knot} is tangled together with IND,,ben <জট> [d͡ʑɔtɔ],coto
 tie; knot; tangle; SBJ ties OBJ to IND,,INCOHATIVE OF be tangled,cotoki
 untie; unknot; untangle; SBJ unties OBJ from IND,,CESSATIVE OF be tangled,cotonu
-touch; meet; OBJ {touching} and IND are so close to each other that they cannot physically get any closer (please don't get tecnical with my definition of this) {LOCATION:joint; corner; intersection; edge},,spa <toca> [ˈtoka],toka
+touch; meet; OBJ {touching} and IND are so close to each other that they cannot physically get any closer (please don’t get tecnical with my definition of this) {LOCATION:joint; corner; intersection; edge},,spa <toca> [ˈtoka],toka
 touch; join; SBJ touches OBJ to IND,,INCOHATIVE OF touch,tokaki
 cut; separate; divide; split; SBJ makes OBJ stop touching IND {INSTRUMENT:knife; wedge|LOCATION:gap; separation; cut; split},,CESSATIVE OF touch,tokanu
 be across; be transverse; straddle; be perpendicular; OBJ {cross; cross member} is across IND {crossed} {AMOUNT:transverseness; obliqueness},,ben <দিয়ে> [d̪ie̯e],tie

@@ -10102,7 +10102,7 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 - <a name="kotilon">**kotilon**</a> _n._ ([koti](#koti)+[lon](#lon))  
 
 
-- <a name="'kotifwah">**'kotifwah**</a> _n._ (Fra. ⟨Côte d'Ivoire⟩ \[kot divwaʁ\])  
+- <a name="'kotifwah">**'kotifwah**</a> _n._ (Fra. ⟨Côte d’Ivoire⟩ \[kot divwaʁ\])  
 
 
 - <a name="'kotifwahak">**'kotifwahak**</a> _n._ (['kotifwah](#'kotifwah)+[ak](#ak))  
@@ -12914,7 +12914,7 @@ sobre; dividido por
 - <a name="'polium">**'polium**</a> _n._ (Lat. ⟨borium⟩ \[borɪʊ̃\])  
 
 
-- <a name="'polinesi">**'polinesi**</a> _n._ (Fra. ⟨Polynésie⟩ \['polinezi\])  
+- <a name="'polinesi">**'polinesi**</a> _n._ (Fra. ⟨Polynésie⟩ \[ˈpolinezi\])  
 
 
 - <a name="'polinesiak">**'polinesiak**</a> _n._ (['polinesi](#'polinesi)+[ak](#ak))  
