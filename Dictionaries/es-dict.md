@@ -327,22 +327,22 @@
 - <a name="et">**et**</a> _pn._ (Ben. ⟨টা⟩ \[eʈa\])  
 
 
-- <a name="et ayf">**et ayf**</a> _n._ ([et](#et)+[ayf](ayf))  
+- <a name="et ayf">**et ayf**</a> _n._ ([et](#et)+[ayf](#ayf))  
 
 
 - <a name="etak">**etak**</a> _n._ ([et](#et)+[ak](#ak))  
 
 
-- <a name="et ial">**et ial**</a> _n._ ([et](#et)+[ial](ial))  
+- <a name="et ial">**et ial**</a> _n._ ([et](#et)+[ial](#ial))  
 
 
-- <a name="et ip">**et ip**</a> _n._ ([et](#et)+[ip](ip))  
+- <a name="et ip">**et ip**</a> _n._ ([et](#et)+[ip](#ip))  
 
 
-- <a name="et uat">**et uat**</a> _n._ ([et](#et)+[uat](uat))  
+- <a name="et uat">**et uat**</a> _n._ ([et](#et)+[uat](#uat))  
 
 
-- <a name="et yot">**et yot**</a> _n._ ([et](#et)+[yot](yot))  
+- <a name="et yot">**et yot**</a> _n._ ([et](#et)+[yot](#yot))  
 
 
 - <a name="etle">**etle**</a> _v._ ([~~olto~~](#olto))  
@@ -357,7 +357,7 @@
 - <a name="etleki">**etleki**</a> _v._ ([etle](#etle)+[ki](#ki))  
 
 
-- <a name="et wel">**et wel**</a> _n._ ([et](#et)+[wel](wel))  
+- <a name="et wel">**et wel**</a> _n._ ([et](#et)+[wel](#wel))  
 
 
 ### a
@@ -1072,28 +1072,28 @@ alga
 - <a name="oletapalon">**oletapalon**</a> _n._ ([ole](#ole)+[tapalon](#tapalon))  
 
 
-- <a name="ol ayf">**ol ayf**</a> _n._ ([ol](#ol)+[ayf](ayf))  
+- <a name="ol ayf">**ol ayf**</a> _n._ ([ol](#ol)+[ayf](#ayf))  
 
 
 - <a name="olak">**olak**</a> _n._ ([ol](#ol)+[ak](#ak))  
 
 
-- <a name="ol ial">**ol ial**</a> _n._ ([ol](#ol)+[ial](ial))  
+- <a name="ol ial">**ol ial**</a> _n._ ([ol](#ol)+[ial](#ial))  
 
 
 - <a name="'oliwa">**'oliwa**</a> _n._ (Lat. ⟨oliva⟩ \[ɔˈliwa\])  
 
 
-- <a name="ol ip">**ol ip**</a> _n._ ([ol](#ol)+[ip](ip))  
+- <a name="ol ip">**ol ip**</a> _n._ ([ol](#ol)+[ip](#ip))  
 
 
-- <a name="ol uat">**ol uat**</a> _n._ ([ol](#ol)+[uat](uat))  
+- <a name="ol uat">**ol uat**</a> _n._ ([ol](#ol)+[uat](#uat))  
 
 
-- <a name="ol yot">**ol yot**</a> _n._ ([ol](#ol)+[yot](yot))  
+- <a name="ol yot">**ol yot**</a> _n._ ([ol](#ol)+[yot](#yot))  
 
 
-- <a name="ol wel">**ol wel**</a> _n._ ([ol](#ol)+[wel](wel))  
+- <a name="ol wel">**ol wel**</a> _n._ ([ol](#ol)+[wel](#wel))  
 
 
 - <a name="'olsotoksia">**'olsotoksia**</a> _n._ (Ell. ⟨Ορθοδοξία⟩ \[orθoðoˈksia\])  
@@ -2493,7 +2493,7 @@ inspiración
 - <a name="lem">**lem**</a> _n._ (Sot. ⟨lema⟩ \[lemɑ\])  
 
 
-- <a name="les">**les**</a> _n._ ([l](#l)+[es](es))  
+- <a name="les">**les**</a> _n._ ([l](#l)+[es](#es))  
 
 
 - <a name="leson">**leson**</a> _post._ ([les](#les)+[on](#on))  
@@ -2598,7 +2598,7 @@ inspiración
 - <a name="layoh">**layoh**</a> _n._ (Epo. ⟨rajo⟩ \[ˈrajo\])  
 
 
-- <a name="layf">**layf**</a> _n._ ([l](#l)+[ayf](ayf))  
+- <a name="layf">**layf**</a> _n._ ([l](#l)+[ayf](#ayf))  
 
 
 - <a name="'laypiwia">**'laypiwia**</a> _n._ (Eng. ⟨Liberia⟩ \[laɪ̯ˈbɪɹʷiə\])  
@@ -2736,7 +2736,7 @@ inspiración
 - <a name="lasiki">**lasiki**</a> _v._ ([lasi](#lasi)+[ki](#ki))  
 
 
-- <a name="lak">**lak**</a> _n._ ([l](#l)+[ak](ak))  
+- <a name="lak">**lak**</a> _n._ ([l](#l)+[ak](#ak))  
 
 
 - <a name="'latium">**'latium**</a> _n._ (Lat. ⟨Latium⟩ \[ˈɫatiũː\])  
@@ -2784,7 +2784,7 @@ inspiración
 - <a name="lolum">**lolum**</a> _n._ ([lo](#lo)+[lum](#lum))  
 
 
-- <a name="lon">**lon**</a> _n._ ([l](#l)+[on](on))  
+- <a name="lon">**lon**</a> _n._ ([l](#l)+[on](#on))  
 
 
 - <a name="lones">**lones**</a> _post._ ([lon](#lon)+[es](#es))  
@@ -2988,7 +2988,7 @@ inspiración
 - <a name="'lietuwatilip">**'lietuwatilip**</a> _n._ (['lietuwa](#'lietuwa)+[tilip](#tilip))  
 
 
-- <a name="lial">**lial**</a> _n._ ([l](#l)+[ial](ial))  
+- <a name="lial">**lial**</a> _n._ ([l](#l)+[ial](#ial))  
 
 
 - <a name="lialkweki">**lialkweki**</a> _v._ ([l](#l)+[ial](#ial)+[kweki](#kweki))  
@@ -3069,7 +3069,7 @@ quinto
 - <a name="litfoki">**litfoki**</a> _v._ ([litfo](#litfo)+[ki](#ki))  
 
 
-- <a name="lip">**lip**</a> _n._ ([l](#l)+[ip](ip))  
+- <a name="lip">**lip**</a> _n._ ([l](#l)+[ip](#ip))  
 
 
 - <a name="'lipiya">**'lipiya**</a> _n._ (Ara. ⟨ليبيا‎⟩ \[liːbija\])  
@@ -3093,7 +3093,7 @@ quinto
 - <a name="lu">**lu**</a> _v._ ([~~ti~~](#ti))  
 
 
-- <a name="luat">**luat**</a> _n._ ([l](#l)+[uat](uat))  
+- <a name="luat">**luat**</a> _n._ ([l](#l)+[uat](#uat))  
 
 
 - <a name="luatkweki">**luatkweki**</a> _v._ ([l](#l)+[uat](#uat)+[kweki](#kweki))  
@@ -3186,7 +3186,7 @@ quinto
 - <a name="'luntitilip">**'luntitilip**</a> _n._ (['lunti](#'lunti)+[tilip](#tilip))  
 
 
-- <a name="lum">**lum**</a> _n._ ([l](#l)+[um](um))  
+- <a name="lum">**lum**</a> _n._ ([l](#l)+[um](#um))  
 
 
 - <a name="lumah">**lumah**</a> _n._ (Jav. ⟨lumah⟩ \[ɭumɑh\])  
@@ -3354,7 +3354,7 @@ quinto
 - <a name="'lupli">**'lupli**</a> _n._ (Rus. ⟨рубль⟩ \[rublʲ\])  
 
 
-- <a name="lyan">**lyan**</a> _n._ ([l](#l)+[yan](yan))  
+- <a name="lyan">**lyan**</a> _n._ ([l](#l)+[yan](#yan))  
 
 
 - <a name="lyon">**lyon**</a> _num._ (Spa. ⟨-illón⟩ \[iˈʝon\])  
@@ -3390,7 +3390,7 @@ quinto
 - <a name="lyontosmamales">**lyontosmamales**</a> _n._ ([lyon](#lyon)+[tos](#tos)+[mamales](#mamales))  
 
 
-- <a name="lyot">**lyot**</a> _n._ ([l](#l)+[yot](yot))  
+- <a name="lyot">**lyot**</a> _n._ ([l](#l)+[yot](#yot))  
 
 
 - <a name="lyotkweki">**lyotkweki**</a> _v._ ([l](#l)+[yot](#yot)+[kweki](#kweki))  
@@ -3423,7 +3423,7 @@ quinto
 - <a name="lyotpensilon">**lyotpensilon**</a> _n._ ([lyotpensi](#lyotpensi)+[lon](#lon))  
 
 
-- <a name="lwel">**lwel**</a> _n._ ([l](#l)+[wel](wel))  
+- <a name="lwel">**lwel**</a> _n._ ([l](#l)+[wel](#wel))  
 
 
 - <a name="lwelkweki">**lwelkweki**</a> _v._ ([l](#l)+[wel](#wel)+[kweki](#kweki))  
@@ -3533,25 +3533,25 @@ quinto
 - <a name="'wan">**'wan**</a> _n._ (Eng. ⟨rand⟩ \[ɹʷɑnd\])  
 
 
-- <a name="wan ayf">**wan ayf**</a> _n._ ([wan](#wan)+[ayf](ayf))  
+- <a name="wan ayf">**wan ayf**</a> _n._ ([wan](#wan)+[ayf](#ayf))  
 
 
 - <a name="'wanatium">**'wanatium**</a> _n._ (Lat. ⟨vanadium⟩ \[vanadɪʊ̃\])  
 
 
-- <a name="wan ial">**wan ial**</a> _n._ ([wan](#wan)+[ial](ial))  
+- <a name="wan ial">**wan ial**</a> _n._ ([wan](#wan)+[ial](#ial))  
 
 
-- <a name="wan ip">**wan ip**</a> _n._ ([wan](#wan)+[ip](ip))  
+- <a name="wan ip">**wan ip**</a> _n._ ([wan](#wan)+[ip](#ip))  
 
 
-- <a name="wan uat">**wan uat**</a> _n._ ([wan](#wan)+[uat](uat))  
+- <a name="wan uat">**wan uat**</a> _n._ ([wan](#wan)+[uat](#uat))  
 
 
-- <a name="wan yot">**wan yot**</a> _n._ ([wan](#wan)+[yot](yot))  
+- <a name="wan yot">**wan yot**</a> _n._ ([wan](#wan)+[yot](#yot))  
 
 
-- <a name="wan wel">**wan wel**</a> _n._ ([wan](#wan)+[wel](wel))  
+- <a name="wan wel">**wan wel**</a> _n._ ([wan](#wan)+[wel](#wel))  
 
 
 - <a name="wahau">**wahau**</a> _v._ ([wa](#wa)+[hau](#hau))  
@@ -9916,10 +9916,10 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 - <a name="kon">**kon**</a> _pn._ (Pan. ⟨ਕੌਣ⟩ \[kɔːɳə\])  
 
 
-- <a name="kon ayf">**kon ayf**</a> _n._ ([kon](#kon)+[ayf](ayf))  
+- <a name="kon ayf">**kon ayf**</a> _n._ ([kon](#kon)+[ayf](#ayf))  
 
 
-- <a name="kon ak">**kon ak**</a> _n._ ([kon](#kon)+[ak](ak))  
+- <a name="kon ak">**kon ak**</a> _n._ ([kon](#kon)+[ak](#ak))  
 
 
 - <a name="'konakhi">**'konakhi**</a> _n._ (Fra. ⟨Conakry⟩ \[konakʁi\])  
@@ -9943,7 +9943,7 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 - <a name="'konotilip">**'konotilip**</a> _n._ (['kono](#'kono)+[tilip](#tilip))  
 
 
-- <a name="kon ial">**kon ial**</a> _n._ ([kon](#kon)+[ial](ial))  
+- <a name="kon ial">**kon ial**</a> _n._ ([kon](#kon)+[ial](#ial))  
 
 
 - <a name="konitatun">**konitatun**</a> _n._ ([ko](#ko)+[nita](#nita)+[tun](#tun))  
@@ -9952,19 +9952,19 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 - <a name="konitatunak">**konitatunak**</a> _n._ ([konitatun](#konitatun)+[ak](#ak))  
 
 
-- <a name="kon ip">**kon ip**</a> _n._ ([kon](#kon)+[ip](ip))  
+- <a name="kon ip">**kon ip**</a> _n._ ([kon](#kon)+[ip](#ip))  
 
 
-- <a name="kon uat">**kon uat**</a> _n._ ([kon](#kon)+[uat](uat))  
+- <a name="kon uat">**kon uat**</a> _n._ ([kon](#kon)+[uat](#uat))  
 
 
-- <a name="kon yan">**kon yan**</a> _n._ ([kon](#kon)+[yan](yan))  
+- <a name="kon yan">**kon yan**</a> _n._ ([kon](#kon)+[yan](#yan))  
 
 
-- <a name="kon yot">**kon yot**</a> _n._ ([kon](#kon)+[yot](yot))  
+- <a name="kon yot">**kon yot**</a> _n._ ([kon](#kon)+[yot](#yot))  
 
 
-- <a name="kon wel">**kon wel**</a> _n._ ([kon](#kon)+[wel](wel))  
+- <a name="kon wel">**kon wel**</a> _n._ ([kon](#kon)+[wel](#wel))  
 
 
 - <a name="kontal">**kontal**</a> _n._ (Ben. ⟨গণ্ডার⟩ \[ɡɔndar\])  

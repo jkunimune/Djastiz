@@ -327,22 +327,22 @@ Ecuadorian; the Equadorian people
 - <a name="et">**et**</a> _pn._ (Ben. ⟨টা⟩ \[eʈa\])  
 it; she; her; he; him; they; them; the; that; _third person_; _determinate_; _distal_; a previously mentioned noun phrase that is neither the speaker nor listener
 
-- <a name="et ayf">**et ayf**</a> _n._ ([et](#et)+[ayf](ayf))  
+- <a name="et ayf">**et ayf**</a> _n._ ([et](#et)+[ayf](#ayf))  
 in that event
 
 - <a name="etak">**etak**</a> _n._ ([et](#et)+[ak](#ak))  
 its; her; hers; his; their; that’s
 
-- <a name="et ial">**et ial**</a> _n._ ([et](#et)+[ial](ial))  
+- <a name="et ial">**et ial**</a> _n._ ([et](#et)+[ial](#ial))  
 therefore; for that reason
 
-- <a name="et ip">**et ip**</a> _n._ ([et](#et)+[ip](ip))  
+- <a name="et ip">**et ip**</a> _n._ ([et](#et)+[ip](#ip))  
 thus; thereby
 
-- <a name="et uat">**et uat**</a> _n._ ([et](#et)+[uat](uat))  
+- <a name="et uat">**et uat**</a> _n._ ([et](#et)+[uat](#uat))  
 with that; thus
 
-- <a name="et yot">**et yot**</a> _n._ ([et](#et)+[yot](yot))  
+- <a name="et yot">**et yot**</a> _n._ ([et](#et)+[yot](#yot))  
 there
 
 - <a name="etle">**etle**</a> _v._ ([~~olto~~](#olto))  
@@ -357,7 +357,7 @@ position from end; negative index; number from end
 - <a name="etleki">**etleki**</a> _v._ ([etle](#etle)+[ki](#ki))  
 move up; position; ʟєꜱ moves ʟᴏᴧ up the sequence ʟᴜᴍ
 
-- <a name="et wel">**et wel**</a> _n._ ([et](#et)+[wel](wel))  
+- <a name="et wel">**et wel**</a> _n._ ([et](#et)+[wel](#wel))  
 then
 
 ### a
@@ -1072,28 +1072,28 @@ waft; sniff; smell; show aromatically; ʟєꜱ makes ʟᴏᴧ start smelling ʟ�
 - <a name="oletapalon">**oletapalon**</a> _n._ ([ole](#ole)+[tapalon](#tapalon))  
 nose
 
-- <a name="ol ayf">**ol ayf**</a> _n._ ([ol](#ol)+[ayf](ayf))  
+- <a name="ol ayf">**ol ayf**</a> _n._ ([ol](#ol)+[ayf](#ayf))  
 given this
 
 - <a name="olak">**olak**</a> _n._ ([ol](#ol)+[ak](#ak))  
 this’s
 
-- <a name="ol ial">**ol ial**</a> _n._ ([ol](#ol)+[ial](ial))  
+- <a name="ol ial">**ol ial**</a> _n._ ([ol](#ol)+[ial](#ial))  
 herefore; because of this
 
 - <a name="'oliwa">**'oliwa**</a> _n._ (Lat. ⟨oliva⟩ \[ɔˈliwa\])  
 olive; Olea europaea
 
-- <a name="ol ip">**ol ip**</a> _n._ ([ol](#ol)+[ip](ip))  
+- <a name="ol ip">**ol ip**</a> _n._ ([ol](#ol)+[ip](#ip))  
 like so; hereby
 
-- <a name="ol uat">**ol uat**</a> _n._ ([ol](#ol)+[uat](uat))  
+- <a name="ol uat">**ol uat**</a> _n._ ([ol](#ol)+[uat](#uat))  
 with this; like so
 
-- <a name="ol yot">**ol yot**</a> _n._ ([ol](#ol)+[yot](yot))  
+- <a name="ol yot">**ol yot**</a> _n._ ([ol](#ol)+[yot](#yot))  
 here
 
-- <a name="ol wel">**ol wel**</a> _n._ ([ol](#ol)+[wel](wel))  
+- <a name="ol wel">**ol wel**</a> _n._ ([ol](#ol)+[wel](#wel))  
 now
 
 - <a name="'olsotoksia">**'olsotoksia**</a> _n._ (Ell. ⟨Ορθοδοξία⟩ \[orθoðoˈksia\])  
@@ -2493,7 +2493,7 @@ allocate; allot; spend; ʟєꜱ allocates ʟᴏᴧ to ʟᴜᴍ
 - <a name="lem">**lem**</a> _n._ (Sot. ⟨lema⟩ \[lemɑ\])  
 paleognath; ostrich; emu; rhea; tinamou; kiwi; cassowary; Palaeognathae
 
-- <a name="les">**les**</a> _n._ ([l](#l)+[es](es))  
+- <a name="les">**les**</a> _n._ ([l](#l)+[es](#es))  
 who (relative)
 
 - <a name="leson">**leson**</a> _post._ ([les](#les)+[on](#on))  
@@ -2598,7 +2598,7 @@ garden beet; beetroot
 - <a name="layoh">**layoh**</a> _n._ (Epo. ⟨rajo⟩ \[ˈrajo\])  
 ray; manta ray; stingray; skate; sawfish; Batoidea
 
-- <a name="layf">**layf**</a> _n._ ([l](#l)+[ayf](ayf))  
+- <a name="layf">**layf**</a> _n._ ([l](#l)+[ayf](#ayf))  
 for which
 
 - <a name="'laypiwia">**'laypiwia**</a> _n._ (Eng. ⟨Liberia⟩ \[laɪ̯ˈbɪɹʷiə\])  
@@ -2736,7 +2736,7 @@ satisfying
 - <a name="lasiki">**lasiki**</a> _v._ ([lasi](#lasi)+[ki](#ki))  
 please; satisfy; soothe; ʟєꜱ makes ʟᴏᴧ feel pleased by ʟᴜᴍ
 
-- <a name="lak">**lak**</a> _n._ ([l](#l)+[ak](ak))  
+- <a name="lak">**lak**</a> _n._ ([l](#l)+[ak](#ak))  
 whose (relative)
 
 - <a name="'latium">**'latium**</a> _n._ (Lat. ⟨Latium⟩ \[ˈɫatiũː\])  
@@ -2784,7 +2784,7 @@ eraser
 - <a name="lolum">**lolum**</a> _n._ ([lo](#lo)+[lum](#lum))  
 blank slate
 
-- <a name="lon">**lon**</a> _n._ ([l](#l)+[on](on))  
+- <a name="lon">**lon**</a> _n._ ([l](#l)+[on](#on))  
 which (relative)
 
 - <a name="lones">**lones**</a> _post._ ([lon](#lon)+[es](#es))  
@@ -2988,7 +2988,7 @@ Lithuanian; the Lithuanian people
 - <a name="'lietuwatilip">**'lietuwatilip**</a> _n._ (['lietuwa](#'lietuwa)+[tilip](#tilip))  
 Lithuanian; the Lithuanian language
 
-- <a name="lial">**lial**</a> _n._ ([l](#l)+[ial](ial))  
+- <a name="lial">**lial**</a> _n._ ([l](#l)+[ial](#ial))  
 why (relative); because of which
 
 - <a name="lialkweki">**lialkweki**</a> _v._ ([l](#l)+[ial](#ial)+[kweki](#kweki))  
@@ -3069,7 +3069,7 @@ unsweet; unsweetened
 - <a name="litfoki">**litfoki**</a> _v._ ([litfo](#litfo)+[ki](#ki))  
 unsweeten; ʟєꜱ makes ʟᴏᴧ become less sweet
 
-- <a name="lip">**lip**</a> _n._ ([l](#l)+[ip](ip))  
+- <a name="lip">**lip**</a> _n._ ([l](#l)+[ip](#ip))  
 how (relative); by which
 
 - <a name="'lipiya">**'lipiya**</a> _n._ (Ara. ⟨ليبيا‎⟩ \[liːbija\])  
@@ -3093,7 +3093,7 @@ Lebanese; the Lebanese people
 - <a name="lu">**lu**</a> _v._ ([~~ti~~](#ti))  
 consult; look up; reference; refer; read; ʟєꜱ retrieves [ʟᴜᴍ](#lulum) from [ʟᴏᴧ](#lulon)
 
-- <a name="luat">**luat**</a> _n._ ([l](#l)+[uat](uat))  
+- <a name="luat">**luat**</a> _n._ ([l](#l)+[uat](#uat))  
 with which (relative)
 
 - <a name="luatkweki">**luatkweki**</a> _v._ ([l](#l)+[uat](#uat)+[kweki](#kweki))  
@@ -3186,7 +3186,7 @@ Burundi
 - <a name="'luntitilip">**'luntitilip**</a> _n._ (['lunti](#'lunti)+[tilip](#tilip))  
 Kirundi; Rundi; the Rundi language
 
-- <a name="lum">**lum**</a> _n._ ([l](#l)+[um](um))  
+- <a name="lum">**lum**</a> _n._ ([l](#l)+[um](#um))  
 whom (relative)
 
 - <a name="lumah">**lumah**</a> _n._ (Jav. ⟨lumah⟩ \[ɭumɑh\])  
@@ -3354,7 +3354,7 @@ rupee; ₹; Rs
 - <a name="'lupli">**'lupli**</a> _n._ (Rus. ⟨рубль⟩ \[rublʲ\])  
 ruble; rouble; ₽
 
-- <a name="lyan">**lyan**</a> _n._ ([l](#l)+[yan](yan))  
+- <a name="lyan">**lyan**</a> _n._ ([l](#l)+[yan](#yan))  
 the amount that
 
 - <a name="lyon">**lyon**</a> _num._ (Spa. ⟨-illón⟩ \[iˈʝon\])  
@@ -3390,7 +3390,7 @@ great great grandparent
 - <a name="lyontosmamales">**lyontosmamales**</a> _n._ ([lyon](#lyon)+[tos](#tos)+[mamales](#mamales))  
 grandparent
 
-- <a name="lyot">**lyot**</a> _n._ ([l](#l)+[yot](yot))  
+- <a name="lyot">**lyot**</a> _n._ ([l](#l)+[yot](#yot))  
 where (relative)
 
 - <a name="lyotkweki">**lyotkweki**</a> _v._ ([l](#l)+[yot](#yot)+[kweki](#kweki))  
@@ -3423,7 +3423,7 @@ be found; [ʟᴏᴧ](#lyotpensilon) knows where ʟєꜱ is
 - <a name="lyotpensilon">**lyotpensilon**</a> _n._ ([lyotpensi](#lyotpensi)+[lon](#lon))  
 found
 
-- <a name="lwel">**lwel**</a> _n._ ([l](#l)+[wel](wel))  
+- <a name="lwel">**lwel**</a> _n._ ([l](#l)+[wel](#wel))  
 when (relative)
 
 - <a name="lwelkweki">**lwelkweki**</a> _v._ ([l](#l)+[wel](#wel)+[kweki](#kweki))  
@@ -3533,25 +3533,25 @@ something; someone; one; _indeterminate_; a noun not afformentioned
 - <a name="'wan">**'wan**</a> _n._ (Eng. ⟨rand⟩ \[ɹʷɑnd\])  
 rand; R
 
-- <a name="wan ayf">**wan ayf**</a> _n._ ([wan](#wan)+[ayf](ayf))  
+- <a name="wan ayf">**wan ayf**</a> _n._ ([wan](#wan)+[ayf](#ayf))  
 in some event
 
 - <a name="'wanatium">**'wanatium**</a> _n._ (Lat. ⟨vanadium⟩ \[vanadɪʊ̃\])  
 vanadium
 
-- <a name="wan ial">**wan ial**</a> _n._ ([wan](#wan)+[ial](ial))  
+- <a name="wan ial">**wan ial**</a> _n._ ([wan](#wan)+[ial](#ial))  
 for some reason
 
-- <a name="wan ip">**wan ip**</a> _n._ ([wan](#wan)+[ip](ip))  
+- <a name="wan ip">**wan ip**</a> _n._ ([wan](#wan)+[ip](#ip))  
 somehow
 
-- <a name="wan uat">**wan uat**</a> _n._ ([wan](#wan)+[uat](uat))  
+- <a name="wan uat">**wan uat**</a> _n._ ([wan](#wan)+[uat](#uat))  
 with something; somehow
 
-- <a name="wan yot">**wan yot**</a> _n._ ([wan](#wan)+[yot](yot))  
+- <a name="wan yot">**wan yot**</a> _n._ ([wan](#wan)+[yot](#yot))  
 somewhere
 
-- <a name="wan wel">**wan wel**</a> _n._ ([wan](#wan)+[wel](wel))  
+- <a name="wan wel">**wan wel**</a> _n._ ([wan](#wan)+[wel](#wel))  
 one day; sometime; at some point
 
 - <a name="wahau">**wahau**</a> _v._ ([wa](#wa)+[hau](#hau))  
@@ -9916,10 +9916,10 @@ convince; sway; ʟєꜱ leads ʟᴏᴧ to believe that ʟᴜᴍ is true
 - <a name="kon">**kon**</a> _pn._ (Pan. ⟨ਕੌਣ⟩ \[kɔːɳə\])  
 what; what kind; _interrogative_
 
-- <a name="kon ayf">**kon ayf**</a> _n._ ([kon](#kon)+[ayf](ayf))  
+- <a name="kon ayf">**kon ayf**</a> _n._ ([kon](#kon)+[ayf](#ayf))  
 under what condition; when (interrogative)
 
-- <a name="kon ak">**kon ak**</a> _n._ ([kon](#kon)+[ak](ak))  
+- <a name="kon ak">**kon ak**</a> _n._ ([kon](#kon)+[ak](#ak))  
 whose (interrogative)
 
 - <a name="'konakhi">**'konakhi**</a> _n._ (Fra. ⟨Conakry⟩ \[konakʁi\])  
@@ -9943,7 +9943,7 @@ Kongo; the Kingdom of Kongo
 - <a name="'konotilip">**'konotilip**</a> _n._ (['kono](#'kono)+[tilip](#tilip))  
 Kongo; Kikongo
 
-- <a name="kon ial">**kon ial**</a> _n._ ([kon](#kon)+[ial](ial))  
+- <a name="kon ial">**kon ial**</a> _n._ ([kon](#kon)+[ial](#ial))  
 why (interrogative)
 
 - <a name="konitatun">**konitatun**</a> _n._ ([ko](#ko)+[nita](#nita)+[tun](#tun))  
@@ -9952,19 +9952,19 @@ arthropod
 - <a name="konitatunak">**konitatunak**</a> _n._ ([konitatun](#konitatun)+[ak](#ak))  
 arthropodic
 
-- <a name="kon ip">**kon ip**</a> _n._ ([kon](#kon)+[ip](ip))  
+- <a name="kon ip">**kon ip**</a> _n._ ([kon](#kon)+[ip](#ip))  
 how (interrogative)
 
-- <a name="kon uat">**kon uat**</a> _n._ ([kon](#kon)+[uat](uat))  
+- <a name="kon uat">**kon uat**</a> _n._ ([kon](#kon)+[uat](#uat))  
 with what (interrogative)
 
-- <a name="kon yan">**kon yan**</a> _n._ ([kon](#kon)+[yan](yan))  
+- <a name="kon yan">**kon yan**</a> _n._ ([kon](#kon)+[yan](#yan))  
 how much
 
-- <a name="kon yot">**kon yot**</a> _n._ ([kon](#kon)+[yot](yot))  
+- <a name="kon yot">**kon yot**</a> _n._ ([kon](#kon)+[yot](#yot))  
 where (interrogative)
 
-- <a name="kon wel">**kon wel**</a> _n._ ([kon](#kon)+[wel](wel))  
+- <a name="kon wel">**kon wel**</a> _n._ ([kon](#kon)+[wel](#wel))  
 when (interrogative)
 
 - <a name="kontal">**kontal**</a> _n._ (Ben. ⟨গণ্ডার⟩ \[ɡɔndar\])  

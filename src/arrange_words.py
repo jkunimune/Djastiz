@@ -127,9 +127,8 @@ def difference(a, b):
 
 def latexify(md):
 	""" convert some Markdown to LaTeX """
-	tex = ""
-	enclosing = None
-	enclosed = None
+	tex = [""] # list of layers, from outer to inner
+	enclosing = [""] # list of enclosing characters
 	i = 0
 	while i < len(md):
 		token = md[i]
@@ -143,38 +142,41 @@ def latexify(md):
 			i += 1
 			token += md[i]
 
-		if token[0] == '\\': # a backslash
-			tex += token[1:] # ask no questions and add the next character literally
-		elif enclosing is None and token in ['[','~~']: # if it's an opening enclosure
-			enclosing = token # note it
-			enclosed = ''
-		elif enclosing == '[' and token == ']': # if it's closing an earlier bracket
-			enclosing = None
-			tex += '\\hyperref{{{}}}'.format(enclosed) # add a hyperref
-		elif enclosing == '[' and token == '](': # if it's closing an earlier bracket and opening a parenthesis
-			enclosing = token
-			tex += '\\hyperref[{{:}}]{{{}}}'.format(enclosed) # add a hyperref with a space for the ref
-			enclosed = ''
-		elif enclosing == '](' and token == ')': # if it's closing an earlier parenthesis
-			enclosing = None
-			tex = tex.replace('{:}', enclosed[1:]) # fill out the hyperref
-		elif enclosing == '~~' and token == '~~': # if it's closing an earlier strikethrough
-			enclosing = None
-			tex += '\\sout{{{}}}'.format(enclosed) # add the strikethrough
-		elif enclosing is not None: # if it's continuing to be enclosed
-			enclosed += token # add to the enclosed text
+		if enclosing[-1] == '~~' and token == '~~': # if it's closing an earlier strikethrough
+			tex[-2] += '\\sout{{{}}}'.format(tex[-1]) # add the strikethrough
+			tex.pop()
+			enclosing.pop()
+		elif enclosing[-1] == '_' and token == '_': # if it's closing an earlier emphasis
+			tex[-2] += '\\textit{{{}}}'.format(tex[-1]) # add the emphasis
+			tex.pop()
+			enclosing.pop()
+		elif enclosing[-1] == '[' and token == ']': # if it's closing an earlier bracket
+			tex[-2] += '\\hyperref{{{}}}'.format(tex[-1]) # add a hyperref
+			tex.pop()
+			enclosing.pop()
+		elif enclosing[-1] == '[' and token == '](': # if it's closing an earlier bracket and opening a parenthesis
+			tex[-2] += '\\hyperref[{{:}}]{{{}}}'.format(tex[-1]) # add a hyperref with a space for the ref
+			tex[-1] = ""
+			enclosing[-1] = '('
+		elif enclosing[-1] == '(' and token == ')': # if it's closing an earlier parenthesis
+			tex[-2] = tex[-2].replace('{:}', tex[-1].replace(r'\#','')) # fill out the hyperref
+			tex.pop()
+			enclosing.pop()
+		elif token[0] == '\\': # if a backslash
+			tex[-1] += token[1:] # ask no questions and add the next character literally
 		elif token in ['#','$','%','&','{','}']: # if it's a special ascii character
-			tex += '\\'+token # add a backslash
-		elif token == "'": # if it's a quote or caret
-			tex += '\\textquotesingle{}'
+			tex[-1] += '\\'+token # add a backslash
 		elif token == "^": # use the escape sequence
-			tex += '\\textasciicircum{}'
+			tex[-1] += '\\textasciicircum{}'
+		elif token in ['[','~~','_']: # if it's an opening enclosure
+			enclosing.append(token) # note it
+			tex.append("")
 		else: # otherwise
-			tex += token # just add the token
+			tex[-1] += token # just add the token
 		i += 1
 
-	assert enclosing is None, "{!r} was never closed in {!r}".format(enclosing, md)
-	return tex
+	assert len(enclosing) == 1, "{!r} was never closed in {!r}".format(enclosing, md)
+	return tex[0]
 
 
 def get_curly_brace_pair(string):
@@ -798,7 +800,7 @@ def format_dictionary(dictionary, directory):
 					entry['source_str'] = "[{0}](#{0})+[{1}](#{1})".format(full_word[:i], full_word[i:])
 				elif full_word.endswith(base_word) or full_word.endswith(base_invs):
 					i = -len(base_word)
-					entry['source_str'] = "[{0}](#{0})+[{1}]({1})".format(full_word[:i], full_word[i:])
+					entry['source_str'] = "[{0}](#{0})+[{1}](#{1})".format(full_word[:i], full_word[i:])
 				elif base_word in full_word:
 					i = full_word.index(base_word)
 					j = i + len(base_word)
