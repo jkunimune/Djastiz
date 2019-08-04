@@ -3817,6 +3817,9 @@ cheap
 - <a name="nefluki">**nefluki**</a> _v._ ([neflu](#neflu)+[ki](#ki))  
 discount; mark down; ʟєꜱ decreases the cost of ʟᴏᴧ
 
+- <a name="nefwes">**nefwes**</a> _n._ ([ne](#ne)+[fwes](#fwes))  
+parenthetical; side note
+
 - <a name="neki">**neki**</a> _v._ ([ne](#ne)+[ki](#ki))  
 enter; insert; put in; ʟєꜱ moves ʟᴏᴧ into ʟᴜᴍ
 
@@ -5330,6 +5333,9 @@ wait; [ʟᴏᴧ](#milalon) is waiting for ʟᴜᴍ
 
 - <a name="milalon">**milalon**</a> _n._ ([mila](#mila)+[lon](#lon))  
 in wait
+
+- <a name="milalwel">**milalwel**</a> _n._ ([mila](#mila)+[lwel](#lwel))  
+wait; wait period
 
 - <a name="milu">**milu**</a> _v._ ([~~puti~~](#puti))  
 be black; be dark; be tan; [ʟᴏᴧ](#milulon) reflects little light
@@ -9218,6 +9224,9 @@ rigid body; unbending; rigid; brittle; firm
 - <a name="fulokipowiki">**fulokipowiki**</a> _v._ ([fulokipowi](#fulokipowi)+[ki](#ki))  
 flimsen; weaken; ʟєꜱ makes ʟᴏᴧ more flimsy
 
+- <a name="fulopucolon">**fulopucolon**</a> _n._ ([fulo](#fulo)+[pucolon](#pucolon))  
+tilde
+
 - <a name="'fuluolum">**'fuluolum**</a> _n._ (Lat. ⟨fluorum⟩ \[flʊorʊ̃\])  
 fluorine
 
@@ -9233,7 +9242,7 @@ rectangle; square; rectangular; right
 - <a name="funtanu">**funtanu**</a> _v._ ([funta](#funta)+[nu](#nu))  
 skew; make diagonal; ʟєꜱ makes ʟᴏᴧ stop being rectangular
 
-- <a name="funtanyositelon">**funtanyositelon**</a> _n._ ([funta](#funta)+[nyo](#nyo)+[sitelon](#sitelon))  
+- <a name="funtanyopucolon">**funtanyopucolon**</a> _n._ ([funta](#funta)+[nyo](#nyo)+[pucolon](#pucolon))  
 slash
 
 - <a name="funtaki">**funtaki**</a> _v._ ([funta](#funta)+[ki](#ki))  
@@ -9791,7 +9800,7 @@ Catholic; followers of the Catholic Church
 be between; be among; [ʟᴏᴧ](#katilon) exists in the space encompassed by the elements of [ʟᴜᴍ](#katilum)
 
 - <a name="katilon">**katilon**</a> _n._ ([kati](#kati)+[lon](#lon))  
-between; among
+spacing; separation; whitespace; between; among
 
 - <a name="katilum">**katilum**</a> _n._ ([kati](#kati)+[lum](#lum))  
 bounds; boundary; edge
@@ -11349,6 +11358,9 @@ tapa; tapa cloth
 - <a name="tapalon">**tapalon**</a> _n._ ([tapa](#tapa)+[lon](#lon))  
 nub; knob; bump; short
 
+- <a name="tapamilalwel">**tapamilalwel**</a> _n._ ([tapa](#tapa)+[milalwel](#milalwel))  
+comma; pause
+
 - <a name="tapafuloki">**tapafuloki**</a> _v._ ([tapa](#tapa)+[fuloki](#fuloki))  
 compress; squeeze; ʟєꜱ compresses ʟᴏᴧ
 
@@ -12034,7 +12046,7 @@ stormy; cyclonical
 eleventh
 
 - <a name="tyen">**tyen**</a> _num._ (Cmn. ⟨點⟩ \[tjɛn˧˩˥\])  
-point; radix point
+point; radix point; period
 
 - <a name="'tyencin">**'tyencin**</a> _n._ (Cmn. ⟨天津⟩ \[tʰjɛn˥t͡ɕin˥\])  
 Tianjin; Tientsin
@@ -12110,9 +12122,6 @@ adore; be cute; ʟᴏᴧ finds [ʟᴜᴍ](#pelacailum) cute
 - <a name="pelacailum">**pelacailum**</a> _n._ ([pelacai](#pelacai)+[lum](#lum))  
 cute
 
-- <a name="pelasitelon">**pelasitelon**</a> _n._ ([pela](#pela)+[sitelon](#sitelon))  
-apostrophe
-
 - <a name="pelafut">**pelafut**</a> _n._ ([pela](#pela)+[fut](#fut))  
 berry
 
@@ -12133,6 +12142,9 @@ shrimp
 
 - <a name="pelatawh">**pelatawh**</a> _n._ ([pela](#pela)+[tawh](#tawh))  
 cherry
+
+- <a name="pelapucolon">**pelapucolon**</a> _n._ ([pela](#pela)+[pucolon](#pucolon))  
+apostrophe
 
 - <a name="pelon">**pelon**</a> _n._ ([pe](#pe)+[lon](#lon))  
 companion; accompaniment; mate; partner; company; comrade; together; beside

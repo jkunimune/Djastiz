@@ -3817,6 +3817,9 @@ quinto
 - <a name="nefluki">**nefluki**</a> _v._ ([neflu](#neflu)+[ki](#ki))  
 
 
+- <a name="nefwes">**nefwes**</a> _n._ ([ne](#ne)+[fwes](#fwes))  
+
+
 - <a name="neki">**neki**</a> _v._ ([ne](#ne)+[ki](#ki))  
 
 
@@ -5329,6 +5332,9 @@ ser ligero; [ʟᴏᴧ](#matulon) es ligero
 
 
 - <a name="milalon">**milalon**</a> _n._ ([mila](#mila)+[lon](#lon))  
+
+
+- <a name="milalwel">**milalwel**</a> _n._ ([mila](#mila)+[lwel](#lwel))  
 
 
 - <a name="milu">**milu**</a> _v._ ([~~puti~~](#puti))  
@@ -9218,6 +9224,9 @@ cuarto
 - <a name="fulokipowiki">**fulokipowiki**</a> _v._ ([fulokipowi](#fulokipowi)+[ki](#ki))  
 
 
+- <a name="fulopucolon">**fulopucolon**</a> _n._ ([fulo](#fulo)+[pucolon](#pucolon))  
+
+
 - <a name="'fuluolum">**'fuluolum**</a> _n._ (Lat. ⟨fluorum⟩ \[flʊorʊ̃\])  
 
 
@@ -9233,7 +9242,7 @@ cuarto
 - <a name="funtanu">**funtanu**</a> _v._ ([funta](#funta)+[nu](#nu))  
 
 
-- <a name="funtanyositelon">**funtanyositelon**</a> _n._ ([funta](#funta)+[nyo](#nyo)+[sitelon](#sitelon))  
+- <a name="funtanyopucolon">**funtanyopucolon**</a> _n._ ([funta](#funta)+[nyo](#nyo)+[pucolon](#pucolon))  
 
 
 - <a name="funtaki">**funtaki**</a> _v._ ([funta](#funta)+[ki](#ki))  
@@ -11349,6 +11358,9 @@ mesa; piso; suelo; base
 - <a name="tapalon">**tapalon**</a> _n._ ([tapa](#tapa)+[lon](#lon))  
 
 
+- <a name="tapamilalwel">**tapamilalwel**</a> _n._ ([tapa](#tapa)+[milalwel](#milalwel))  
+
+
 - <a name="tapafuloki">**tapafuloki**</a> _v._ ([tapa](#tapa)+[fuloki](#fuloki))  
 
 
@@ -12110,9 +12122,6 @@ sobre; dividido por
 - <a name="pelacailum">**pelacailum**</a> _n._ ([pelacai](#pelacai)+[lum](#lum))  
 
 
-- <a name="pelasitelon">**pelasitelon**</a> _n._ ([pela](#pela)+[sitelon](#sitelon))  
-
-
 - <a name="pelafut">**pelafut**</a> _n._ ([pela](#pela)+[fut](#fut))  
 
 
@@ -12132,6 +12141,9 @@ sobre; dividido por
 
 
 - <a name="pelatawh">**pelatawh**</a> _n._ ([pela](#pela)+[tawh](#tawh))  
+
+
+- <a name="pelapucolon">**pelapucolon**</a> _n._ ([pela](#pela)+[pucolon](#pucolon))  
 
 
 - <a name="pelon">**pelon**</a> _n._ ([pe](#pe)+[lon](#lon))  
