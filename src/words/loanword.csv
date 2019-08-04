@@ -28,7 +28,7 @@ Algiers {COUNTRY:Algeria {PEOPLE:Algerian; the Algerian people}},,ara <الدز�
 Andorran; the Andorran people {GENITIVE:Andorran; from Andorra|COUNTRY:Andorra},,cat <Andorra> [ənˈdorə],'antola
 Angola {GENITIVE:Angolan; from Angola|PEOPLE:Angolan; the Angolan people},,por <Angola> [ɐ̃ˈɡɔlɐ],'ankola
 Antigua; Waladli; Wadadli {GENITIVE:Antiguan|LANGUAGE:Antiguan Creole; Leeward Caribbean Creole English},,aig <Antigua> [ænˈtiːɡə],'antika
-Arab; the Arabian people {GENITIVE:Saudi; Saudi Arabian; Arabia; from Saudi Arabia|COUNTRY:Saudi Arabia|LANGUAGE:Arabic; the Arabic language|REGION:Arabia; the Arabian peninsula},,ara <عَرَب> [ˈʕarab],'alap
+Arab; the Arabian people {GENITIVE:Saudi; Saudi Arabian; Arabia; from Saudi Arabia|COUNTRY:Saudi Arabia|LANGUAGE:Arabic; the Arabic language|REGION:Arabia; the Arabian peninsula},,ara <عرب> [ˈʕarab],'alap
 Argentina; the Argentine Republic {GENITIVE:Argentinean; Argentine; from Argentina|PEOPLE:Argentinean; Argentine; the Argentinean people},,spa <Argentina> [aɾxenˈtina],'alhentina
 Armenian; the Armenian people {GENITIVE:Armenian; from Armenia|COUNTRY:Armenia|LANGUAGE:Armenian; the Armenian language},,hye <Հայք> [hɑjkʰ],'hayk
 Austria {GENITIVE:Austrian; from Austria|PEOPLE:Austrian; the Austrian people},,deu <Österreich> [ˈøːstɐraɪç],'ostalayc
@@ -76,7 +76,7 @@ Djibouti City; Djibouti {GENITIVE:Djiboutian; from Djibouti|PEOPLE:Djiboutian; t
 Dominica; the Commonwealth of Dominica {GENITIVE:Dominican; from Dominica|PEOPLE:Dominican; the Dominican people},,eng <Dominica> [dɒmɪˈniːkə],'tominika
 Dominican Republic {GENITIVE:Dominican; Quisqueyan; from Dominican Republic|PEOPLE:Quisqueyan; the people of the Dominican Republic},,spa <Quisqueya> [kisˈkeʝa],'kiskeya
 Ecuador {GENITIVE:Ecuadorian; from Ecuador|PEOPLE:Ecuadorian; the Equadorian people},,spa <Écuador> [ˈekwaðoɾ],'ekwatol
-Egypt; the Arab Republic of Egypt {GENITIVE:Egyptian; from Egypt|PEOPLE:Egyptian; the Egyptian people},,ara <مَصر> [mɑsˁɾ],'masli
+Egypt; the Arab Republic of Egypt {GENITIVE:Egyptian; from Egypt|PEOPLE:Egyptian; the Egyptian people},,ara <مصر> [mɑsˁɾ],'masli
 Englishman; the English people {GENITIVE:English; Anglic; from England|COUNTRY:England|LANGUAGE:English; the English language},,eng <Engl-> [ˈɪŋɡl],'inkil
 Eritrea {GENITIVE:Eritrean; from Eritrea|PEOPLE:Eritrean; the Eritrean people},,tir <ኤርትራ> [ertra],'elitla
 Esperanto {GENITIVE:Esperanto; Esperantist; Esperanta|PEOPLE:Esperantist; Esperanto speakers},,epo <Esperanto> [espeˈranto],'espelanto
@@ -124,7 +124,7 @@ Japan {GENITIVE:Japanese; from Japan|PEOPLE:Japanese person; the Japanese people
 Jamaica (landmass) {GENITIVE:Jamaican; from Jamaica|PEOPLE:Jamaican; the Jamaican people|COUNTRY:Jamaica (country)|LANGUAGE:Jamaican Patois; Patwa; Jamaican Creole},,jam <Jamaica> [d͡ʒʊmiɛka],'cumieka
 Java (island) {GENITIVE:Javanese; from Java|PEOPLE:Javanese; the Javanese people|LANGUAGE:Javanese; the Javanese language},,jav <ꦗꦮ> [d͡ʒɔwɔ],'cawa
 Jew; the Jewish people {GENITIVE:Jewish; of the Jews|COUNTRY:Judah; the Kingdom of Judah},,heb <יְהוּדִים> [jehuˈdim],'yehutim
-Jordan river {GENITIVE:Jordanian; from Jordan|PEOPLE:Jordanian; the Jordanian people|COUNTRY:Jordan; the Hashemite Kingdom of Jordan},,ara <ْأُردن> [ʔurdunn],'ultun
+Jordan river {GENITIVE:Jordanian; from Jordan|PEOPLE:Jordanian; the Jordanian people|COUNTRY:Jordan; the Hashemite Kingdom of Jordan},,ara <ْأردن> [ʔurdunn],'ultun
 Kazakh; Kazakhstani; the Kazakhstani people {GENITIVE:Kazakhstani; from Kazakhstan|COUNTRY:Kazakhstan|LANGUAGE:Kazakh; Kazak; the Kazakh language},,kaz <Kazak> [qɑzɑq],'kasak
 Mount Kenya {GENITIVE:Kenyan; from Kenya|PEOPLE:Kenyan; the Kenyan people|COUNTRY:Kenya; the Republic of Kenya},,swa <Kenya> [kɛɲɑ],'kenya
 Kiribati; the Gilbert Islands {GENITIVE:I-Kiribati; from Kiribati|PEOPLE:I-Kiribati; Gilbertese; the I-Kiribati people|COUNTRY:Kiribati; the Republic of Kiribati|LANGUAGE:Gilbertese; Kiribati; Kiribatese; the Kiribati language},,gil <Kiribati> [kiɾipas],'kilipas
@@ -389,7 +389,7 @@ sitar,,pan <ਸਿਤਾਰ> [sɪˈtaːr],'sital
 Taekwondo,,kor <태권도> [tʰɛ.k͈wʌn.do],'tekwanto
 Tai chi,,cmn <太极拳> [tʰaj˥˩.t͡ɕi˧˥ t͡ɕʰɥɛn˧˥],'taycicwen
 Karate,,jpn <空手> [kaɾate],'kalate
-Aikido,,jpn <合気道> [aikiꜜdoː],'aikito
+Aikido,,jpn <合気道> [aikidoː],'aikito
 Kendo,,jpn <剣道> [kɛndoː],'kento
 hydrogen,,lat <hydrogenium> [hidrɔd͡ʒɛnɪʊ̃],'hitlocenium
 helium,,lat <helium> [hɛlɪʊ̃],'helium

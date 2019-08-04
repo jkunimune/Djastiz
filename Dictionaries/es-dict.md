@@ -365,7 +365,7 @@
 - <a name="'a">**'a**</a> _n._ (ono. \[a\])  
 
 
-- <a name="'aikito">**'aikito**</a> _n._ (Jpn. ⟨合気道⟩ \[aikiꜜdoː\])  
+- <a name="'aikito">**'aikito**</a> _n._ (Jpn. ⟨合気道⟩ \[aikidoː\])  
 
 
 - <a name="'ayiti">**'ayiti**</a> _n._ (Hat. ⟨Ayiti⟩ \[ajiti\])  
@@ -413,7 +413,7 @@
 - <a name="alaktan">**alaktan**</a> _n._ (Fil. ⟨alakdan⟩ \[alakdan\])  
 
 
-- <a name="'alap">**'alap**</a> _n._ (Ara. ⟨عَرَب⟩ \[ˈʕarab\])  
+- <a name="'alap">**'alap**</a> _n._ (Ara. ⟨عرب⟩ \[ˈʕarab\])  
 
 
 - <a name="'alapak">**'alapak**</a> _n._ (['alap](#'alap)+[ak](#ak))  
@@ -1970,7 +1970,7 @@ inspiración
 - <a name="'ulkwantatilip">**'ulkwantatilip**</a> _n._ (['ulkwanta](#'ulkwanta)+[tilip](#tilip))  
 
 
-- <a name="'ultun">**'ultun**</a> _n._ (Ara. ⟨ْأُردن⟩ \[ʔurdunn\])  
+- <a name="'ultun">**'ultun**</a> _n._ (Ara. ⟨ْأردن⟩ \[ʔurdunn\])  
 
 
 - <a name="'ultunak">**'ultunak**</a> _n._ (['ultun](#'ultun)+[ak](#ak))  
@@ -5016,7 +5016,7 @@ coordenada _x_
 - <a name="'masyeltilip">**'masyeltilip**</a> _n._ (['masyel](#'masyel)+[tilip](#tilip))  
 
 
-- <a name="'masli">**'masli**</a> _n._ (Ara. ⟨مَصر⟩ \[mɑsˁɾ\])  
+- <a name="'masli">**'masli**</a> _n._ (Ara. ⟨مصر⟩ \[mɑsˁɾ\])  
 
 
 - <a name="'masliak">**'masliak**</a> _n._ (['masli](#'masli)+[ak](#ak))  

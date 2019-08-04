@@ -365,7 +365,7 @@ then
 - <a name="'a">**'a**</a> _n._ (ono. \[a\])  
 a; /a/; open central unrounded vowel
 
-- <a name="'aikito">**'aikito**</a> _n._ (Jpn. ⟨合気道⟩ \[aikiꜜdoː\])  
+- <a name="'aikito">**'aikito**</a> _n._ (Jpn. ⟨合気道⟩ \[aikidoː\])  
 Aikido
 
 - <a name="'ayiti">**'ayiti**</a> _n._ (Hat. ⟨Ayiti⟩ \[ajiti\])  
@@ -413,7 +413,7 @@ if; for; _marks hypothetical world_
 - <a name="alaktan">**alaktan**</a> _n._ (Fil. ⟨alakdan⟩ \[alakdan\])  
 scorpion; Scorpiones
 
-- <a name="'alap">**'alap**</a> _n._ (Ara. ⟨عَرَب⟩ \[ˈʕarab\])  
+- <a name="'alap">**'alap**</a> _n._ (Ara. ⟨عرب⟩ \[ˈʕarab\])  
 Arab; the Arabian people
 
 - <a name="'alapak">**'alapak**</a> _n._ (['alap](#'alap)+[ak](#ak))  
@@ -1970,7 +1970,7 @@ Rwandan; the Rwandan people
 - <a name="'ulkwantatilip">**'ulkwantatilip**</a> _n._ (['ulkwanta](#'ulkwanta)+[tilip](#tilip))  
 Kinyarwanda; Urufumbira; the Kinyarwanda language
 
-- <a name="'ultun">**'ultun**</a> _n._ (Ara. ⟨ْأُردن⟩ \[ʔurdunn\])  
+- <a name="'ultun">**'ultun**</a> _n._ (Ara. ⟨ْأردن⟩ \[ʔurdunn\])  
 Jordan river
 
 - <a name="'ultunak">**'ultunak**</a> _n._ (['ultun](#'ultun)+[ak](#ak))  
@@ -5016,7 +5016,7 @@ Marshall Islands
 - <a name="'masyeltilip">**'masyeltilip**</a> _n._ (['masyel](#'masyel)+[tilip](#tilip))  
 Marshallese; Ebon; the Marshallese language
 
-- <a name="'masli">**'masli**</a> _n._ (Ara. ⟨مَصر⟩ \[mɑsˁɾ\])  
+- <a name="'masli">**'masli**</a> _n._ (Ara. ⟨مصر⟩ \[mɑsˁɾ\])  
 Egypt; the Arab Republic of Egypt
 
 - <a name="'masliak">**'masliak**</a> _n._ (['masli](#'masli)+[ak](#ak))  

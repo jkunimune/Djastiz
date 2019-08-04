@@ -151,7 +151,7 @@ def latexify(md):
 			tex.pop()
 			enclosing.pop()
 		elif enclosing[-1] == '[' and token == ']': # if it's closing an earlier bracket
-			tex[-2] += '\\hyperref{{{}}}'.format(tex[-1]) # add a hyperref
+			tex[-2] += '\\url{{{}}}'.format(tex[-1]) # add a hyperref
 			tex.pop()
 			enclosing.pop()
 		elif enclosing[-1] == '[' and token == '](': # if it's closing an earlier bracket and opening a parenthesis
@@ -775,7 +775,7 @@ def format_dictionary(dictionary, directory):
 			initial = entry['otp'].replace("'",'')[0]
 			if initial != previous_initial:
 				markdown += "### {}\n\n".format(initial)
-				latex += "\\subsection{{{}}}\n\n".format(initial)
+				latex = latex[:-3] + "\n\n\\subsection{{{}}}\n\n".format(initial)
 				previous_initial = initial
 
 			while 'compound ' in entry['partos']:
