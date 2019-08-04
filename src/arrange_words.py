@@ -111,11 +111,33 @@ MARKDOWN_ENTRY = """\
 {definitions}
 
 """
+LATEX_ENTRY = """\
+\\textbf{{{otp}}} \\textit{{{pos}.}} ({source_str_tex})
+{definitions_tex} \\label{{{otp}}} \\\\
+"""
+LATEX_REVERSE = """\
+\\textbf{{{gloss}}} {translations} \\\\
+"""
 
 
 def difference(a, b):
 	""" count the characters different between a and b """
 	return abs(len(a) - len(b)) + sum([ai != bi for ai, bi in zip(a, b)])
+
+
+def latexify(s):
+	""" convert some Markdown to LaTeX """
+	s = re.sub(r'~~([^~]+)~~', r'\\sout{\1}', s)
+	s = re.sub(r'_([^_;]+)_', r'\\textit{\1}', s)
+	s = re.sub(r'\[([^\[\]]+)\]\(#([^\(\)]+)\)', r'\\hyperref[\2]{\1}', s)
+	s = re.sub(r'\[([^\[\]]+)\]', r'\\hyperref{\1}', s)
+	s = s.replace('\\[','[').replace('\\]',']')
+	for c in "#$%&{}":
+		s = s.replace(c, '\\'+c)
+	s = s.replace('^','\\textasciicircum{}')
+	s = s.replace('~','\\textasciitilde{}')
+	s = s.replace('\\','\\textbackslash{}')
+	return s
 
 
 def get_curly_brace_pair(string):
@@ -714,6 +736,7 @@ def format_dictionary(dictionary, directory):
 			initial = entry['otp'].replace("'",'')[0]
 			if initial != previous_initial:
 				markdown += "### {}\n\n".format(initial)
+				latex += "\\subsection{{{}}}".format(initial)
 				previous_initial = initial
 
 			while 'compound ' in entry['partos']:
@@ -760,9 +783,21 @@ def format_dictionary(dictionary, directory):
 					entry['definitions'] = entry['definitions'].replace(arg, code)
 
 			markdown += MARKDOWN_ENTRY.format(**entry)
+
+			entry['source_str_tex'] = latexify(entry['source_str'])
+			entry['definitions_tex'] = latexify(entry['definitions'])
+			latex += LATEX_ENTRY.format(**entry)
+
+		latex = re.sub(r"_([^_]+)_", r"\textit{\1}", latex)
+		latex = latex\
+			.replace('$',r'\$').replace('%',r'\%').replace('<',r'\textless').replace('>',r'\textgreater')\
+			.replace('#',r'\#').replace('^',r'\^').replace('&',r'\&').replace('£',r'\pounds')\
+			.replace('—','---').replace('~',r'\~{}')
 	
 		with open(path.join(directory, '{}-dict.md'.format(lang2)), 'w', encoding='utf-8') as f:
 			f.write(markdown)
+		with open(path.join(directory, '{}-dict.tex'.format(lang2)), 'w', encoding='utf-8') as f:
+			f.write(latex)
 
 
 def measure_corpus(directory):
