@@ -12,27 +12,27 @@ With that out of the way, let's get onto the language!
 
 ### Alphabet
 
-Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Oltilip uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pace", "pays", "bays", and "Pez" sound different to most English speakers, all are acceptable pronunciations for Oltilip "pes", which means "fish". The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days.
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Oltilip uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pace", "base", and "Bess" sound different to most English speakers, all are acceptable pronunciations for Oltilip "pes", which means "fish". The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days.
 
-| Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)| Inverse | Class
-|------|--------|--------------|------------|------------|-------------|---------|-------
-|   e  |   e    |    Є         |  Egg, frAY |     ɛ      |  e\~ɛ, ej   |    o    | Vowel
-|   a  |   a    |    Ƌ, ɑ, α   | tAco, hAck |     a      |    a\~ɑ     |    a    | Vowel
-|   o  |   o    |    O, σ      | OAt, Organ |     ɔ      |  o\~ɔ, ow   |    e    | Vowel
-|   i  |   i    |    I, ι      |EAt, scrEEch|     i      |    i\~ɪ     |    u    | Vowel
-|   u  |   u    |    U, v      | frUIt, OOze|     u      |    u\~ʊ     |    i    | Vowel
-|  yo  |   y    |    Y         |Yogurt, Yell|     j      |   j, ʲ, i   |    we   | Glide
-|  lo  |   l    |    L         | Lime, faLL |     l      |    l\~r     |    te   | Sonorant
-|  we  |   w    |    W, ɯ      | Wine, qUiet|     w      |   w, ʷ, u   |    yo   | Glide
-|  no  |   n    |    Λ         |Nectar, paiN|     n      |   n, ŋ\~ɴ   |    ko   | Sonorant
-|  me  |   m    |    M         |Melon, screaM|    m      |      m      |    pe   | Sonorant
-|  ho  |   h    |    Һ         | Honey, Hide|     h      |   x\~h, ɦ   |    co   | Sonorant
-|  co  |   c    |    C         |CHeese, SHear|   t͡ʃ      |t͡ʃ\~t͡ʂ, ʃ\~ʂ |    ho   | Obstruent
-|  se  |   s    |    S         | Salt, hiSS |     s      |      s      |    fe   | Obstruent
-|  fe  |   f    |    F         | Fish, couGH|     f      |    ɸ\~f     |    se   | Sonorant
-|  ko  |   k    |    K, κ      | Cake, Grab |     k      |   k kʰ ɡ    |    no   | Obstruent
-|  te  |   t    |    T, τ      |  Tea, Deep |     t      |   t tʰ d    |    lo   | Obstruent
-|  pe  |   p    |    P, ρ      | Pear, Burst|     p      |   p pʰ b    |    me   | Obstruent
+| Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)| Inverse |
+|------|--------|--------------|-----------------|------------|-------------|---------|
+|   e  |   e    |    Є         |  *e*gg, fr*ay*  |     ɛ      |  e\~ɛ, ej   |    o    |
+|   a  |   a    |    Ƌ, ɑ, α   | t*a*co, h*a*ck  |     a      |    a\~ɑ     |    a    |
+|   o  |   o    |    O, σ      | *oa*t, *o*rgan  |     ɔ      |  o\~ɔ, ow   |    e    |
+|   i  |   i    |    I, ι      |*ea*t, scr*ee*ch |     i      |    i\~ɪ     |    u    |
+|   u  |   u    |    U, v      | fr*ui*t, *oo*ze |     u      |    u\~ʊ     |    i    |
+|  yo  |   y    |    Y         |*y*ogurt, *y*ell |     j      |   j, ʲ, i   |    we   |
+|  la  |   l    |    L         | *l*ime, fa*ll*  |     l      |    l\~r     |    ta   |
+|  we  |   w    |    W, ɯ      | *w*ine, q*u*iet |     w      |   w, ʷ, u   |    yo   |
+|  na  |   n    |    Λ         |*n*ectar, pai*n* |     n      |   n, ŋ\~ɴ   |    ko   |
+|  me  |   m    |    M         |*m*elon, screa*m*|     m      |      m      |    pe   |
+|  ho  |   h    |    Һ         | *h*oney, *h*ide |     h      |   x\~h, ɦ   |    co   |
+|  co  |   c    |    C         |*ch*eese, *sh*riek|   t͡ʃ      |t͡ʃ\~t͡ʂ, ʃ\~ʂ |    ho   |
+|  sa  |   s    |    S         | *s*alt, hi*ss*  |     s      |      s      |    fe   |
+|  fe  |   f    |    F         | *f*ish, cou*gh* |     f      |    ɸ\~f     |    sa   |
+|  ko  |   k    |    K, κ      | *c*ake, *g*rab  |     k      |   k kʰ ɡ    |    na   |
+|  ta  |   t    |    T, τ      |  *t*ea, *d*eep  |     t      |   t tʰ d    |    la   |
+|  pe  |   p    |    P, ρ      | *p*ear, *b*urst |     p      |   p pʰ b    |    me   |
 
 If you're a linguist, the following [IPA](1) table may prove easier to read:
 
@@ -49,7 +49,7 @@ If you're a linguist, the following [IPA](1) table may prove easier to read:
 |**Mid**  |   e   |  o   |
 |**Open** |   a   |      |
 
-The "Inverse" and "Class" columns are not that important; they just come up later in the derivational morphology section. You don't have to learn that part if you don't want to.
+The "Inverse" column is not that important; it just comes up later in the derivational morphology section. You don't have to learn that part if you don't want to.
 
 You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
