@@ -26,7 +26,11 @@ With these goals in mind, I developed a language with the following key features
 
 ## This repository
 
+This repository contains all of the source code used to make the data-driven decisions in Oltilip's construction, and all of the information that exists on it. In particular, one will find an SVG of the official Oltilip flag, a Lilypond transcription of the Oltilip alphabet song, a world map with the names of all major countries in Oltilip, some Oltilip dictionaries formatted in Markdown and TeX, and some example texts in Oltilip (all of which are empty because I'm bad).
+
 ## Other resources
+
+Ha! I wish!
 
 ______
 
