@@ -826,7 +826,14 @@ def format_dictionary(dictionary, directory):
 
 			entry['source_str_tex'] = latexify(entry['source_str'])
 			entry['definitions_tex'] = latexify(entry['definitions'])
-			latex += LATEX_ENTRY.format(**entry)		
+			latex += LATEX_ENTRY.format(**entry)	
+
+		for script, langs in [
+				('arabic',['ara','far','prs']), ('armenian',['hye']), ('avestan',['ave']), ('bengali',['ben']),
+				('chinese',['cmn','nan','yue']), ('cuneiform',['akk']), ('devanagari',['hin','mar','nep','san']),
+				('ethiopic',['tir']), ('gurmukhi',['pan']), ('hebrew',['heb']), ('japanese',['jap']), ('korean',['kor'])]:
+			for lang in langs:
+				latex = re.sub(r"{}\. ⟨([^⟩]+)⟩".format(lang.capitalize()), r"\\{}{{\1}}".format(script), latex)
 
 		with open(path.join(directory, '{}-dict.md'.format(lang2)), 'w', encoding='utf-8') as f:
 			f.write(markdown)
