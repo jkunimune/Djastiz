@@ -1,7 +1,5 @@
 eng,spa,source,otp
 Ulcwoliel,,this language,oltilip
-hello; goodbye; yay; bless; okay; _positive exclamative mood_,,wow want,wacai
-boo; fuck; not; _negative exclamative mood_,,wow dislike,wahau
 despite; though,,even both,ifenyo
 but; and even,,even and,ifenaw
 instead; rather,,no and,nyoaw
@@ -96,6 +94,8 @@ rule as an oligarchy; IND {oligarchy} rules OBJ {LOCATION:oligarchic kingdom},,l
 govern as a republic; IND {representative; house; legislature} rules OBJ {LOCATION:republic; representative democracy},,much govern,muctunci
 govern as a direct democracy; IND {voter; electoral base} rules OBJ {LOCATION:democracy; direct democracy},,all govern,kittunci
 tempt; entice to something appealing but immoral; SBJ {tempter; temptress} encourages IND {temptee} to do OBJ {temptation},,be-evil tell,ikcinati
+noon; midday,,be-inside daytime,nefuhalwel
+midnight,,be-inside nighttime,nesicalwel
 needle,,be-sharp rod,aklapal
 be jagged; be zig-zag; be pointy; OBJ {zig-zag} is jagged,,much be-straight,mucsite
 be polygonal; OBJ {polygon} is polygonal,,be-straight be-closed,siteponto
@@ -632,7 +632,7 @@ be sarcastic; SBJ conveys IND sarcastically to OBJ,,be-opposite say,oflati
 congratulate; apologise; SBJ expresses sympathy to OBJ,,sympathise say,tafunihuti
 door,,be-open furniture,meklesaman
 window,,can-see furniture,husaman
-excuse; pardon; accept; tolerate; SBJ excuses OBJ,,be-okay say,oketi
+excuse; pardon; forgive; accept; tolerate; SBJ excuses OBJ,,be-okay say,oketi
 be resourceful; enterprise; OBJ resourcefully acquires IND,,self give,siftueki
 go shopping; OBJ is going shopping,,much sell,mucmai
 welcome!,,please enter,pananeki
@@ -675,6 +675,10 @@ lens,,light pointer,kwanilukiles
 alternate; be every-other; OBJ {checkerboard} exists in an alternating pattern,,yes no yes no,kwenyokwenyo
 background music; soundtrack,,ignore music,namooyemocakilum
 shiver; shudder; tremble; quiver; OBJ is shivering,,be-cold move,enihila
+be southeast; OBJ is southeast of IND,,be-south be-east,sutaeste
+be southwest; OBJ is southwest of IND,,be-south be-west,sutaoflo
+be northeast; OBJ is northeast of IND,,be-north be-east,filaeste
+be northwest; OBJ is northwest of IND,,be-north be-west,filaoflo
 berry,,be-small fruit,pelafut
 bat; flying fox,,fly mammal,femamul
 pangolin,,scale mammal,linmamul
@@ -857,7 +861,7 @@ Caribbean Sea,,Island-Carib ocean,'kalinakolawt
 Coral Sea,,coral ocean,nitaicilonlawt
 Gulf of Mexico,,Mexico ocean,'mehikolawt
 Mediterranean Sea,,landmass be-inside ocean,taylnelawt
-South China Sea,,Eurasia be-south be-east ocean,'yewlasiasutaestelawt
+South China Sea,,Eurasia be-southeast ocean,'yewlasiasutaestelawt
 Great Brittan,,be-big British-Isles,mota'pwitan
 Mandarin; the Mandarin language,,be-north the-Chinese-macrolanguage,fila'cuntilip
 Democratic Republic of the Congo {GENITIVE:Congolese; from Democratic Republic of the Congo|PEOPLE:Congolese; the people of the Democratic Republic of the Congo},,Kinshasa the-Kingdom-of-Kongo,'kincasa'konotec

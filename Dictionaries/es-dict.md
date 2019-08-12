@@ -2182,7 +2182,7 @@ inspiración
 - <a name="'yewlasiaak">**'yewlasiaak**</a> _n._ (['yewlasia](#'yewlasia)+[ak](#ak))  
 
 
-- <a name="'yewlasiasutaestelawt">**'yewlasiasutaestelawt**</a> _n._ (['yewlasia](#'yewlasia)+[suta](#suta)+[este](#este)+[lawt](#lawt))  
+- <a name="'yewlasiasutaestelawt">**'yewlasiasutaestelawt**</a> _n._ (['yewlasia](#'yewlasia)+[sutaeste](#sutaeste)+[lawt](#lawt))  
 
 
 - <a name="yeh">**yeh**</a> _n._ (Cmn. ⟨叶⟩ \[jɛ˥˩\])  
@@ -3793,6 +3793,9 @@ quinto
 - <a name="nehulon">**nehulon**</a> _n._ ([nehu](#nehu)+[lon](#lon))  
 
 
+- <a name="nesicalwel">**nesicalwel**</a> _n._ ([ne](#ne)+[sicalwel](#sicalwel))  
+
+
 - <a name="nefilalum">**nefilalum**</a> _n._ ([ne](#ne)+[filalum](#filalum))  
 
 
@@ -3803,6 +3806,9 @@ quinto
 
 
 - <a name="nefilalum'kineak">**nefilalum'kineak**</a> _n._ ([nefilalum'kine](#nefilalum'kine)+[ak](#ak))  
+
+
+- <a name="nefuhalwel">**nefuhalwel**</a> _n._ ([ne](#ne)+[fuhalwel](#fuhalwel))  
 
 
 - <a name="neflu">**neflu**</a> _v._ ([~~kosti~~](#kosti))  
@@ -8562,6 +8568,12 @@ abeja; Anthophilia
 - <a name="'suta">**'suta**</a> _n._ (Pan. ⟨ਸੁੰਢ⟩ \[suɖə\])  
 
 
+- <a name="sutaeste">**sutaeste**</a> _v._ ([suta](#suta)+[este](#este))  
+
+
+- <a name="sutaestelon">**sutaestelon**</a> _n._ ([sutaeste](#sutaeste)+[lon](#lon))  
+
+
 - <a name="suta'alon">**suta'alon**</a> _n._ ([suta](#suta)+['alon](#'alon))  
 
 
@@ -8590,6 +8602,12 @@ abeja; Anthophilia
 
 
 - <a name="suta'aflikatecwon">**suta'aflikatecwon**</a> _n._ ([suta'aflikatec](#suta'aflikatec)+[won](#won))  
+
+
+- <a name="sutaoflo">**sutaoflo**</a> _v._ ([suta](#suta)+[oflo](#oflo))  
+
+
+- <a name="sutaoflolon">**sutaoflolon**</a> _n._ ([sutaoflo](#sutaoflo)+[lon](#lon))  
 
 
 - <a name="sutalawt">**sutalawt**</a> _n._ ([suta](#suta)+[lawt](#lawt))  
@@ -9038,7 +9056,19 @@ cuarto
 - <a name="fila'elyatectec">**fila'elyatectec**</a> _n._ ([fila'elyatec](#fila'elyatec)+[tec](#tec))  
 
 
+- <a name="filaeste">**filaeste**</a> _v._ ([fila](#fila)+[este](#este))  
+
+
+- <a name="filaestelon">**filaestelon**</a> _n._ ([filaeste](#filaeste)+[lon](#lon))  
+
+
 - <a name="fila'amelika">**fila'amelika**</a> _n._ ([fila](#fila)+['amelika](#'amelika))  
+
+
+- <a name="filaoflo">**filaoflo**</a> _v._ ([fila](#fila)+[oflo](#oflo))  
+
+
+- <a name="filaoflolon">**filaoflolon**</a> _n._ ([filaoflo](#filaoflo)+[lon](#lon))  
 
 
 - <a name="filalawt">**filalawt**</a> _n._ ([fila](#fila)+[lawt](#lawt))  

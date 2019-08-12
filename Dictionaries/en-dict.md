@@ -2182,7 +2182,7 @@ Eurasia
 - <a name="'yewlasiaak">**'yewlasiaak**</a> _n._ (['yewlasia](#'yewlasia)+[ak](#ak))  
 Eurasian; from Eurasia
 
-- <a name="'yewlasiasutaestelawt">**'yewlasiasutaestelawt**</a> _n._ (['yewlasia](#'yewlasia)+[suta](#suta)+[este](#este)+[lawt](#lawt))  
+- <a name="'yewlasiasutaestelawt">**'yewlasiasutaestelawt**</a> _n._ (['yewlasia](#'yewlasia)+[sutaeste](#sutaeste)+[lawt](#lawt))  
 South China Sea
 
 - <a name="yeh">**yeh**</a> _n._ (Cmn. ⟨叶⟩ \[jɛ˥˩\])  
@@ -3793,6 +3793,9 @@ be private; ʟᴜᴍ is privately concealed from [ʟᴏᴧ](#nehulon)
 - <a name="nehulon">**nehulon**</a> _n._ ([nehu](#nehu)+[lon](#lon))  
 private
 
+- <a name="nesicalwel">**nesicalwel**</a> _n._ ([ne](#ne)+[sicalwel](#sicalwel))  
+midnight
+
 - <a name="nefilalum">**nefilalum**</a> _n._ ([ne](#ne)+[filalum](#filalum))  
 equator
 
@@ -3804,6 +3807,9 @@ Equatorial Guinean; Equatoguinean; the Equatorial Guinean people
 
 - <a name="nefilalum'kineak">**nefilalum'kineak**</a> _n._ ([nefilalum'kine](#nefilalum'kine)+[ak](#ak))  
 Equatorial Guinean; from Equatorial Guinea
+
+- <a name="nefuhalwel">**nefuhalwel**</a> _n._ ([ne](#ne)+[fuhalwel](#fuhalwel))  
+noon; midday
 
 - <a name="neflu">**neflu**</a> _v._ ([~~kosti~~](#kosti))  
 be cheap; [ʟᴏᴧ](#neflulon) does not cost a lot
@@ -3818,7 +3824,7 @@ discount; mark down; ʟєꜱ decreases the cost of ʟᴏᴧ
 parenthetical; side note
 
 - <a name="neki">**neki**</a> _v._ ([ne](#ne)+[ki](#ki))  
-enter; insert; put in; ʟєꜱ moves ʟᴏᴧ into ʟᴜᴍ
+enter; insert; put in; go in; ʟєꜱ moves ʟᴏᴧ into ʟᴜᴍ
 
 - <a name="nekikoki">**nekikoki**</a> _v._ ([neki](#neki)+[koki](#koki))  
 go through; ʟᴏᴧ moves into and then out of [ʟᴜᴍ](#nekikokilum)
@@ -8029,7 +8035,7 @@ Solomon Islands (archipelago)
 Solomon Island; Solomon Islander; from the Solomon Islands
 
 - <a name="'solomonwon">**'solomonwon**</a> _n._ (['solomon](#'solomon)+[won](#won))  
-olomon Islander; the people of the Solomon Islands
+Solomon Islander; the people of the Solomon Islands
 
 - <a name="'solomontec">**'solomontec**</a> _n._ (['solomon](#'solomon)+[tec](#tec))  
 Solomon Islands (country)
@@ -8562,6 +8568,12 @@ be south; [ʟᴏᴧ](#sutalon) has a lower latitude than ʟᴜᴍ
 - <a name="'suta">**'suta**</a> _n._ (Pan. ⟨ਸੁੰਢ⟩ \[suɖə\])  
 ginger; Zingiber
 
+- <a name="sutaeste">**sutaeste**</a> _v._ ([suta](#suta)+[este](#este))  
+be southeast
+
+- <a name="sutaestelon">**sutaestelon**</a> _n._ ([sutaeste](#sutaeste)+[lon](#lon))  
+southeast
+
 - <a name="suta'alon">**suta'alon**</a> _n._ ([suta](#suta)+['alon](#'alon))  
 South Ossetian; Alanian; the South Ossetian people
 
@@ -8591,6 +8603,12 @@ South Africa; the Republic of South Africa
 
 - <a name="suta'aflikatecwon">**suta'aflikatecwon**</a> _n._ ([suta'aflikatec](#suta'aflikatec)+[won](#won))  
 South African; the South African people
+
+- <a name="sutaoflo">**sutaoflo**</a> _v._ ([suta](#suta)+[oflo](#oflo))  
+be southwest
+
+- <a name="sutaoflolon">**sutaoflolon**</a> _n._ ([sutaoflo](#sutaoflo)+[lon](#lon))  
+southwest
 
 - <a name="sutalawt">**sutalawt**</a> _n._ ([suta](#suta)+[lawt](#lawt))  
 Antarctic Ocean
@@ -9038,8 +9056,20 @@ Northern Irish; from Northern Ireland
 - <a name="fila'elyatectec">**fila'elyatectec**</a> _n._ ([fila'elyatec](#fila'elyatec)+[tec](#tec))  
 Northern Ireland
 
+- <a name="filaeste">**filaeste**</a> _v._ ([fila](#fila)+[este](#este))  
+be northeast
+
+- <a name="filaestelon">**filaestelon**</a> _n._ ([filaeste](#filaeste)+[lon](#lon))  
+northeast
+
 - <a name="fila'amelika">**fila'amelika**</a> _n._ ([fila](#fila)+['amelika](#'amelika))  
 North America
+
+- <a name="filaoflo">**filaoflo**</a> _v._ ([fila](#fila)+[oflo](#oflo))  
+be northwest
+
+- <a name="filaoflolon">**filaoflolon**</a> _n._ ([filaoflo](#filaoflo)+[lon](#lon))  
+northwest
 
 - <a name="filalawt">**filalawt**</a> _n._ ([fila](#fila)+[lawt](#lawt))  
 Arctic Ocean
@@ -10109,7 +10139,7 @@ mark up; ʟєꜱ increases the cost of ʟᴏᴧ
 golf
 
 - <a name="koki">**koki**</a> _v._ ([ko](#ko)+[ki](#ki))  
-exit; remove; release; escape; take out; extract; emerge; ʟєꜱ moves ʟᴏᴧ out of ʟᴜᴍ
+exit; remove; release; escape; take out; go out; extract; emerge; ʟєꜱ moves ʟᴏᴧ out of ʟᴜᴍ
 
 - <a name="kokilyot">**kokilyot**</a> _n._ ([koki](#koki)+[lyot](#lyot))  
 hole
@@ -10253,7 +10283,7 @@ Dominican; Quisqueyan; from Dominican Republic
 Quisqueyan; the people of the Dominican Republic
 
 - <a name="kit">**kit**</a> _num._ ([~~nul~~](#nul))  
-all; absolute; maximum; exact
+all; absolute; maximum; exact; both
 
 - <a name="kitak">**kitak**</a> _n._ ([kit](#kit)+[ak](#ak))  
 last; universal
