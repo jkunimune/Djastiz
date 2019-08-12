@@ -354,6 +354,7 @@ Here are some useful expressions in Oltilip.
 | Good night. | cai ip tolmi. |
 | Yay! | wa cai. |
 | Fuck! | wa hau. |
+| Welcome. | pana neki. |
 | Please. | pana. |
 | Thank you. | kanci. |
 | You're welcome. | wawilum on esta nyo. |
@@ -365,10 +366,10 @@ Here are some useful expressions in Oltilip.
 | My name is Chka-chka Slim Shady | min um co 'cikacikaslimceyti on. |
 | Whence are you? | iciestaki kon yot. |
 | I am from Nunya. | iciestaki 'nanya yot. |
-| Where is the bathroom? | pulanelon on kon yot. |
 | I know a little Oltilip. | min on pih yan oltilip on no. |
 | Please speak slower. | pana wata ip pola. |
 | Your mother is a whore. | pukak mamalon on seksomailes um. |
+| Where is the bathroom? | pulanelon on kon yot. |
 
 
 ## Flag

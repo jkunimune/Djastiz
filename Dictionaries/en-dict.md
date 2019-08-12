@@ -1295,7 +1295,7 @@ make not okay; cross the line; make unacceptable; ʟєꜱ makes ʟᴏᴧ not oka
 make okay; make acceptable; ʟєꜱ makes ʟᴏᴧ okay
 
 - <a name="oketi">**oketi**</a> _v._ ([oke](#oke)+[ti](#ti))  
-excuse; pardon; accept; tolerate; ʟєꜱ excuses ʟᴏᴧ
+excuse; pardon; forgive; accept; tolerate; ʟєꜱ excuses ʟᴏᴧ
 
 - <a name="oku">**oku**</a> _v._ (Ibo. ⟨ọkụ⟩ \[ɒkʊ\])  
 be hot; be warm; [ʟᴏᴧ](#okulon) is hotter than [ʟᴜᴍ](#okulum)
@@ -1909,16 +1909,16 @@ fit; good; proper; correct
 value function; goal
 
 - <a name="ipati">**ipati**</a> _v._ ([ipa](#ipa)+[ti](#ti))  
-suggest; advise; recommend; [ʟєꜱ](#ipatiles) suggests that [ʟᴜᴍ](#ipatilum) do [ʟᴏᴧ](#ipatilon)
+suggest; advise; recommend; [ʟєꜱ](#ipatiles) suggests that [ʟᴏᴧ](#ipatilon) do [ʟᴜᴍ](#ipatilum)
 
 - <a name="ipatiles">**ipatiles**</a> _n._ ([ipati](#ipati)+[les](#les))  
 advisor; recommender
 
 - <a name="ipatilon">**ipatilon**</a> _n._ ([ipati](#ipati)+[lon](#lon))  
-suggestion; advice; recommendation
+advisee
 
 - <a name="ipatilum">**ipatilum**</a> _n._ ([ipati](#ipati)+[lum](#lum))  
-advisee
+suggestion; advice; recommendation
 
 - <a name="ipis">**ipis**</a> _n._ (Fil. ⟨ipis⟩ \[ipis\])  
 cockroach; roach; termite; Blattodea
@@ -2358,9 +2358,6 @@ different; distinct
 
 - <a name="yatoki">**yatoki**</a> _v._ ([yato](#yato)+[ki](#ki))  
 diverge; make different; ʟєꜱ makes ʟᴏᴧ become different from ʟᴜᴍ
-
-- <a name="yatopensi">**yatopensi**</a> _v._ ([yato](#yato)+[pensi](#pensi))  
-disagree; ʟᴏᴧ disagrees with ʟᴜᴍ
 
 - <a name="yo">**yo**</a> _spec._ (Cmn. ⟨又⟩ \[jow˥˩\])  
 both; _begins a conjugate phrase_
@@ -3515,9 +3512,6 @@ empathise; share feelings; ʟᴏᴧ empathises with ʟᴜᴍ
 - <a name="waleki">**waleki**</a> _v._ ([wale](#wale)+[ki](#ki))  
 converge; make similar; resolve; ʟєꜱ makes ʟᴏᴧ become smilar to ʟᴜᴍ
 
-- <a name="walepensi">**walepensi**</a> _v._ ([wale](#wale)+[pensi](#pensi))  
-agree; ʟᴏᴧ agrees with ʟᴜᴍ
-
 - <a name="walepemamalon">**walepemamalon**</a> _n._ ([wale](#wale)+[pemamalon](#pemamalon))  
 twin; triplet; quadruplet
 
@@ -3563,32 +3557,23 @@ somewhere
 - <a name="wan wel">**wan wel**</a> _n._ ([wan](#wan)+[wel](#wel))  
 one day; sometime; at some point
 
-- <a name="wahau">**wahau**</a> _v._ ([wa](#wa)+[hau](#hau))  
-boo; fuck; not; _negative exclamative mood_
-
-- <a name="wahauti">**wahauti**</a> _v._ ([wahau](#wahau)+[ti](#ti))  
-complain; denounce; condemn; [ʟєꜱ](#wahautiles) makes a negative utterance of [ʟᴏᴧ](#wahautilon) to ʟᴜᴍ
+- <a name="wahauti">**wahauti**</a> _v._ ([wa](#wa)+[hau](#hau)+[ti](#ti))  
+complain; denounce; condemn; [ʟєꜱ](#wahautiles) makes a negative utterance of [ʟᴜᴍ](#wahautilum) to ʟᴏᴧ
 
 - <a name="wahautiles">**wahautiles**</a> _n._ ([wahauti](#wahauti)+[les](#les))  
 complainer
 
-- <a name="wahautilon">**wahautilon**</a> _n._ ([wahauti](#wahauti)+[lon](#lon))  
+- <a name="wahautilum">**wahautilum**</a> _n._ ([wahauti](#wahauti)+[lum](#lum))  
 complaint; denouncee
 
-- <a name="wacai">**wacai**</a> _v._ ([wa](#wa)+[cai](#cai))  
-hello; goodbye; yay; bless; okay; _positive exclamative mood_
-
-- <a name="wacaiti">**wacaiti**</a> _v._ ([wacai](#wacai)+[ti](#ti))  
-greet; praise; celebrate; [ʟєꜱ](#wacaitiles) makes a positive utterance of [ʟᴏᴧ](#wacaitilon) to [ʟᴜᴍ](#wacaitilum)
+- <a name="wacaiti">**wacaiti**</a> _v._ ([wa](#wa)+[cai](#cai)+[ti](#ti))  
+praise; celebrate; [ʟєꜱ](#wacaitiles) makes a positive utterance of [ʟᴜᴍ](#wacaitilum) to ʟᴏᴧ
 
 - <a name="wacaitiles">**wacaitiles**</a> _n._ ([wacaiti](#wacaiti)+[les](#les))  
-greeter; praiser
-
-- <a name="wacaitilon">**wacaitilon**</a> _n._ ([wacaiti](#wacaiti)+[lon](#lon))  
-praised; occasion
+praiser
 
 - <a name="wacaitilum">**wacaitilum**</a> _n._ ([wacaiti](#wacaiti)+[lum](#lum))  
-greeted
+praised; occasion
 
 - <a name="'wacintontisi">**'wacintontisi**</a> _n._ (Eng. ⟨Washington D.C.⟩ \[ˈwɑʃiŋtɪn diː siː\])  
 Washington D.C.; Washington
@@ -3615,7 +3600,7 @@ sloth
 jog; ʟᴏᴧ jogs on ʟᴜᴍ
 
 - <a name="wati">**wati**</a> _v._ ([wa](#wa)+[ti](#ti))  
-exclaim; [ʟєꜱ](#watiles) makes an exclamatory utterance of [ʟᴏᴧ](#watilon) to ʟᴜᴍ
+exclaim; [ʟєꜱ](#watiles) makes an exclamatory utterance of [ʟᴜᴍ](#watilum) to ʟᴏᴧ
 
 - <a name="'watian">**'watian**</a> _n._ (Eng. ⟨radian⟩ \[ˈɹʷeɪdiɪn\])  
 radian; rad
@@ -3623,7 +3608,7 @@ radian; rad
 - <a name="watiles">**watiles**</a> _n._ ([wati](#wati)+[les](#les))  
 exclaimer
 
-- <a name="watilon">**watilon**</a> _n._ ([wati](#wati)+[lon](#lon))  
+- <a name="watilum">**watilum**</a> _n._ ([wati](#wati)+[lum](#lum))  
 exclamation
 
 - <a name="'watikana">**'watikana**</a> _n._ (Lat. ⟨Vāticāna⟩ \[vatiˈkaːna\])  
@@ -4001,16 +3986,16 @@ gentle; flat; shallow; gradual
 flatten; right; ʟєꜱ makes ʟᴏᴧ less steep
 
 - <a name="nati">**nati**</a> _v._ ([na](#na)+[ti](#ti))  
-tell; implore; command; instruct; lead; [ʟєꜱ](#natiles) tells [ʟᴜᴍ](#natilum) to make [ʟᴏᴧ](#natilon) happen
+tell; implore; command; instruct; lead; [ʟєꜱ](#natiles) tells [ʟᴏᴧ](#natilon) to make [ʟᴜᴍ](#natilum) happen
 
 - <a name="natiles">**natiles**</a> _n._ ([nati](#nati)+[les](#les))  
 boss; commander
 
 - <a name="natilon">**natilon**</a> _n._ ([nati](#nati)+[lon](#lon))  
-command; instruction
+instructee
 
 - <a name="natilum">**natilum**</a> _n._ ([nati](#nati)+[lum](#lum))  
-instructee
+command; instruction
 
 - <a name="'natiwitas">**'natiwitas**</a> _n._ (Lat. ⟨nātīvitās⟩ \[naːˈtiːwɪtaːs\])  
 Christmas
@@ -4404,6 +4389,12 @@ approach; go toward; meet; draw close; bring together; gather; go to; go in; [ʟ
 
 - <a name="nitokiles">**nitokiles**</a> _n._ ([nitoki](#nitoki)+[les](#les))  
 gatherer; joiner
+
+- <a name="nitokiti">**nitokiti**</a> _v._ ([nitoki](#nitoki)+[ti](#ti))  
+greet; bid hello; salute; [ʟєꜱ](#nitokitiles) says hello to ʟᴏᴧ
+
+- <a name="nitokitiles">**nitokitiles**</a> _n._ ([nitokiti](#nitokiti)+[les](#les))  
+greeter
 
 - <a name="nitu">**nitu**</a> _v._ ([~~kuli~~](#kuli))  
 be unsavoury; [ʟᴏᴧ](#nitulon) is not very savoury
@@ -5808,7 +5799,7 @@ discourager; worsener
 discouraged
 
 - <a name="hauti">**hauti**</a> _v._ ([hau](#hau)+[ti](#ti))  
-dissent; disapprove; ʟєꜱ dissents from ʟᴏᴧ
+dissent; disapprove; ʟєꜱ disapproves of ʟᴜᴍ to ʟᴏᴧ
 
 - <a name="hautiku">**hautiku**</a> _v._ ([hau](#hau)+[tiku](#tiku))  
 be unlucky; be unfortunate; that [ʟᴏᴧ](#hautikulon) happens is unlucky
@@ -6467,7 +6458,7 @@ encourager; improver
 encouraged
 
 - <a name="caiti">**caiti**</a> _v._ ([cai](#cai)+[ti](#ti))  
-consent; approve; ʟєꜱ consents to ʟᴏᴧ
+consent; approve; ʟєꜱ approves of ʟᴜᴍ to ʟᴏᴧ
 
 - <a name="caitiku">**caitiku**</a> _v._ ([cai](#cai)+[tiku](#tiku))  
 be lucky; be fortunate; that [ʟᴏᴧ](#caitikulon) happens is lucky
@@ -7319,16 +7310,16 @@ brake
 stop; station
 
 - <a name="cuti">**cuti**</a> _v._ ([cu](#cu)+[ti](#ti))  
-ask; interrogate; [ʟєꜱ](#cutiles) asks [ʟᴜᴍ](#cutilum) [ʟᴏᴧ](#cutilon)
+ask; interrogate; [ʟєꜱ](#cutiles) asks [ʟᴏᴧ](#cutilon) about [ʟᴜᴍ](#cutilum)
 
 - <a name="cutiles">**cutiles**</a> _n._ ([cuti](#cuti)+[les](#les))  
 curious; interrogator
 
 - <a name="cutilon">**cutilon**</a> _n._ ([cuti](#cuti)+[lon](#lon))  
-question
+interrogatee
 
 - <a name="cutilum">**cutilum**</a> _n._ ([cuti](#cuti)+[lum](#lum))  
-questionee
+question
 
 - <a name="cyen">**cyen**</a> _n._ (Cmn. ⟨线⟩ \[ɕjɛn˥˩\])  
 string; thread; wire; hair; flexible one-dimensional object
@@ -7969,16 +7960,16 @@ eel
 scandium
 
 - <a name="sati">**sati**</a> _v._ ([sa](#sa)+[ti](#ti))  
-declare; say; tell; answer; give information; [ʟєꜱ](#satiles) tells [ʟᴜᴍ](#satilum) that [ʟᴏᴧ](#satilon) is true
+declare; say; tell; answer; give information; [ʟєꜱ](#satiles) tells [ʟᴏᴧ](#satilon) that [ʟᴜᴍ](#satilum) is true
 
 - <a name="satiles">**satiles**</a> _n._ ([sati](#sati)+[les](#les))  
 lecturer; professor
 
 - <a name="satilon">**satilon**</a> _n._ ([sati](#sati)+[lon](#lon))  
-fact; opinion; notion; sentence
+tellee
 
 - <a name="satilum">**satilum**</a> _n._ ([sati](#sati)+[lum](#lum))  
-tellee
+fact; opinion; notion; sentence
 
 - <a name="sapu">**sapu**</a> _v._ (Msa. ⟨sapu⟩ \[sapu\])  
 rub; slide; slip; scrub; wipe; ʟєꜱ rubs ʟᴏᴧ
@@ -8569,7 +8560,7 @@ be south; [ʟᴏᴧ](#sutalon) has a lower latitude than ʟᴜᴍ
 ginger; Zingiber
 
 - <a name="sutaeste">**sutaeste**</a> _v._ ([suta](#suta)+[este](#este))  
-be southeast
+be southeast; [ʟᴏᴧ](#sutaestelon) is southeast of ʟᴜᴍ
 
 - <a name="sutaestelon">**sutaestelon**</a> _n._ ([sutaeste](#sutaeste)+[lon](#lon))  
 southeast
@@ -8605,7 +8596,7 @@ South Africa; the Republic of South Africa
 South African; the South African people
 
 - <a name="sutaoflo">**sutaoflo**</a> _v._ ([suta](#suta)+[oflo](#oflo))  
-be southwest
+be southwest; [ʟᴏᴧ](#sutaoflolon) is southwest of ʟᴜᴍ
 
 - <a name="sutaoflolon">**sutaoflolon**</a> _n._ ([sutaoflo](#sutaoflo)+[lon](#lon))  
 southwest
@@ -9057,7 +9048,7 @@ Northern Irish; from Northern Ireland
 Northern Ireland
 
 - <a name="filaeste">**filaeste**</a> _v._ ([fila](#fila)+[este](#este))  
-be northeast
+be northeast; [ʟᴏᴧ](#filaestelon) is northeast of ʟᴜᴍ
 
 - <a name="filaestelon">**filaestelon**</a> _n._ ([filaeste](#filaeste)+[lon](#lon))  
 northeast
@@ -9066,7 +9057,7 @@ northeast
 North America
 
 - <a name="filaoflo">**filaoflo**</a> _v._ ([fila](#fila)+[oflo](#oflo))  
-be northwest
+be northwest; [ʟᴏᴧ](#filaoflolon) is northwest of ʟᴜᴍ
 
 - <a name="filaoflolon">**filaoflolon**</a> _n._ ([filaoflo](#filaoflo)+[lon](#lon))  
 northwest
@@ -10389,6 +10380,9 @@ space
 
 - <a name="kulelyan">**kulelyan**</a> _n._ ([kule](#kule)+[lyan](#lyan))  
 distance
+
+- <a name="kulelyanti">**kulelyanti**</a> _v._ ([kulelyan](#kulelyan)+[ti](#ti))  
+bid farewell; say goodbye; ʟєꜱ bids goodbye to ʟᴏᴧ
 
 - <a name="kulehila">**kulehila**</a> _v._ ([kule](#kule)+[hila](#hila))  
 travel; ʟєꜱ travels from ʟᴜᴍ to [ʟᴏᴧ](#kulehilalon)
@@ -12260,6 +12254,9 @@ Venezuela
 - <a name="pensi">**pensi**</a> _v._ (Epo. ⟨pensi⟩ \[ˈpensi\])  
 think; appear; be apparent; [ʟᴏᴧ](#pensilon) consciously decides that [ʟᴜᴍ](#pensilum) is true; see "be sure" and "believe"
 
+- <a name="pensiyato">**pensiyato**</a> _v._ ([pensi](#pensi)+[yato](#yato))  
+disagree; ʟᴏᴧ disagrees with ʟᴜᴍ
+
 - <a name="pensilon">**pensilon**</a> _n._ ([pensi](#pensi)+[lon](#lon))  
 thinker; accepter
 
@@ -12268,6 +12265,9 @@ evidence
 
 - <a name="pensilum">**pensilum**</a> _n._ ([pensi](#pensi)+[lum](#lum))  
 opinion; apparent
+
+- <a name="pensiwale">**pensiwale**</a> _v._ ([pensi](#pensi)+[wale](#wale))  
+agree; ʟᴏᴧ agrees with ʟᴜᴍ
 
 - <a name="pensisoma">**pensisoma**</a> _v._ ([pensi](#pensi)+[soma](#soma))  
 do psychology; [ʟєꜱ](#pensisomales) studies the human mind to learn about [ʟᴏᴧ](#pensisomalon)
@@ -12579,16 +12579,16 @@ Panamanian; from Panama
 Panamanian; the Panamanian people
 
 - <a name="panati">**panati**</a> _v._ ([pana](#pana)+[ti](#ti))  
-request; [ʟєꜱ](#panatiles) politely asks [ʟᴜᴍ](#panatilum) to make [ʟᴏᴧ](#panatilon) happen
+request; [ʟєꜱ](#panatiles) politely asks [ʟᴏᴧ](#panatilon) to make [ʟᴜᴍ](#panatilum) happen
 
 - <a name="panatiles">**panatiles**</a> _n._ ([panati](#panati)+[les](#les))  
 requester
 
 - <a name="panatilon">**panatilon**</a> _n._ ([panati](#panati)+[lon](#lon))  
-request
+requestee
 
 - <a name="panatilum">**panatilum**</a> _n._ ([panati](#panati)+[lum](#lum))  
-requestee
+request
 
 - <a name="'panla">**'panla**</a> _n._ (Ben. ⟨বাংলা⟩ \[ˈbaŋla\])  
 Bangla

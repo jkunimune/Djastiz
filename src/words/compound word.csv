@@ -9,14 +9,20 @@ y’all; ye; _second person plural_; the listener and others {GENITIVE:y’all�
 other; not; anything but,,be no which-(relative),estanyolon
 be until; be since; happen from; happen to; OBJ is happening from the present until IND {end date; deadline} {TIME:start date; kickoff},,all be-early,kitcitu
 communicate; talk; speak; correspond; SBJ has a two-way interaction with OBJ {interlocutor} about IND {topic; passage} {TIME:conversation; discourse},,say say,titi
-declare; say; tell; answer; give information; SBJ {lecturer; professor} tells IND {tellee} that OBJ {fact; opinion; notion; sentence} is true; give information,,. say,sati
-ask; interrogate; SBJ {curious; interrogator} asks IND {questionee} OBJ {question},,? say,cuti
-tell; implore; command; instruct; lead; SBJ {boss; commander} tells IND {instructee} to make OBJ {command; instruction} happen,,>> say,nati
-request; SBJ {requester} politely asks IND {requestee} to make OBJ {request} happen,,please say,panati
-exclaim; SBJ {exclaimer} makes an exclamatory utterance of OBJ {exclamation} to IND,,wow say,wati
-greet; praise; celebrate; SBJ {greeter; praiser} makes a positive utterance of OBJ {praised; occasion} to IND {greeted},,hello say,wacaiti
-complain; denounce; condemn; SBJ {complainer} makes a negative utterance of OBJ {complaint; denouncee} to IND ,,boo say,wahauti
-suggest; advise; recommend; SBJ {advisor; recommender} suggests that IND {advisee} do OBJ {suggestion; advice; recommendation},,should say,ipati
+declare; say; tell; answer; give information; SBJ {lecturer; professor} tells OBJ {tellee} that IND {fact; opinion; notion; sentence} is true; give information,,. say,sati
+ask; interrogate; SBJ {curious; interrogator} asks OBJ {interrogatee} about IND {question},,? say,cuti
+tell; implore; command; instruct; lead; SBJ {boss; commander} tells OBJ {instructee} to make IND {command; instruction} happen,,>> say,nati
+request; SBJ {requester} politely asks OBJ {requestee} to make IND {request} happen,,please say,panati
+exclaim; SBJ {exclaimer} makes an exclamatory utterance of IND {exclamation} to OBJ,,wow say,wati
+suggest; advise; recommend; SBJ {advisor; recommender} suggests that OBJ {advisee} do IND {suggestion; advice; recommendation},,should say,ipati
+greet; bid hello; salute; SBJ {greeter} says hello to OBJ,,approach say,nitokiti
+bid farewell; say goodbye; SBJ bids goodbye to OBJ,,distance say,kulelyanti
+praise; celebrate; SBJ {praiser} makes a positive utterance of IND {praised; occasion} to OBJ,,wow want say,wacaiti
+complain; denounce; condemn; SBJ {complainer} makes a negative utterance of IND {complaint; denouncee} to OBJ,,wow dislike say,wahauti
+consent; approve; SBJ approves of IND to OBJ,,want say,caiti
+dissent; disapprove; SBJ disapproves of IND to OBJ,,dislike say,hauti
+agree; OBJ agrees with IND,,think be-similar,pensiwale
+disagree; OBJ disagrees with IND,,think differ,pensiyato
 multiple; plural,,1 more,kanosolon
 at all; nonzero,,0 falsehood,nulnyolon
 interact; interfere; involve; SBJ makes OBJ interact with IND {INSTRUMENT:interface},,accompany do,pekweki
@@ -499,10 +505,6 @@ be ambidextrous; OBJ is ambidextrous,,2 hand be-skillful,toscohluso
 employ; contract; work for; OBJ {employee} works on IND {job; work} for SBJ {employer; boss} in exchange for money {TIME:employment; career},,work sell,icemai
 buy service; serve; OBJ {server} performs IND {service} for SBJ {customer} in exchange for money {TIME:service},,do sell,kwekimai
 buy good; produce; OBJ {producer; vendor} gives IND {good} to SBJ {consumer} in exchange for money {TIME:sale},,object sell,amapowilummai
-agree; OBJ agrees with IND,,be-similar think,walepensi
-disagree; OBJ disagrees with IND,,differ think,yatopensi
-consent; approve; SBJ consents to OBJ,,want say,caiti
-dissent; disapprove; SBJ dissents from OBJ,,dislike say,hauti
 team,,help group,ayutapaltolum
 conduct; be conductive; OBJ {conductor} conducts electricity {AMOUNT:conductivity},,be-charged be-easy,inaisi
 insulate; resist; be resistive; OBJ {insulator; resistor} resists electrical current {AMOUNT:resistance},,be-charged be-difficult,inaufu
@@ -635,7 +637,6 @@ window,,can-see furniture,husaman
 excuse; pardon; forgive; accept; tolerate; SBJ excuses OBJ,,be-okay say,oketi
 be resourceful; enterprise; OBJ resourcefully acquires IND,,self give,siftueki
 go shopping; OBJ is going shopping,,much sell,mucmai
-welcome!,,please enter,pananeki
 emoticon; emoji,,feel image,swahulum
 spiral out; OBJ spirals outward from IND,,spin distance,kumnakulelyan
 spiral in; OBJ spirals into IND {METHOD:spiral},,spin approach,kumnanitoki

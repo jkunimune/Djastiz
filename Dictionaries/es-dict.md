@@ -2359,9 +2359,6 @@ inspiración
 - <a name="yatoki">**yatoki**</a> _v._ ([yato](#yato)+[ki](#ki))  
 
 
-- <a name="yatopensi">**yatopensi**</a> _v._ ([yato](#yato)+[pensi](#pensi))  
-
-
 - <a name="yo">**yo**</a> _spec._ (Cmn. ⟨又⟩ \[jow˥˩\])  
 
 
@@ -3515,9 +3512,6 @@ quinto
 - <a name="waleki">**waleki**</a> _v._ ([wale](#wale)+[ki](#ki))  
 
 
-- <a name="walepensi">**walepensi**</a> _v._ ([wale](#wale)+[pensi](#pensi))  
-
-
 - <a name="walepemamalon">**walepemamalon**</a> _n._ ([wale](#wale)+[pemamalon](#pemamalon))  
 
 
@@ -3563,28 +3557,19 @@ quinto
 - <a name="wan wel">**wan wel**</a> _n._ ([wan](#wan)+[wel](#wel))  
 
 
-- <a name="wahau">**wahau**</a> _v._ ([wa](#wa)+[hau](#hau))  
-
-
-- <a name="wahauti">**wahauti**</a> _v._ ([wahau](#wahau)+[ti](#ti))  
+- <a name="wahauti">**wahauti**</a> _v._ ([wa](#wa)+[hau](#hau)+[ti](#ti))  
 
 
 - <a name="wahautiles">**wahautiles**</a> _n._ ([wahauti](#wahauti)+[les](#les))  
 
 
-- <a name="wahautilon">**wahautilon**</a> _n._ ([wahauti](#wahauti)+[lon](#lon))  
+- <a name="wahautilum">**wahautilum**</a> _n._ ([wahauti](#wahauti)+[lum](#lum))  
 
 
-- <a name="wacai">**wacai**</a> _v._ ([wa](#wa)+[cai](#cai))  
-
-
-- <a name="wacaiti">**wacaiti**</a> _v._ ([wacai](#wacai)+[ti](#ti))  
+- <a name="wacaiti">**wacaiti**</a> _v._ ([wa](#wa)+[cai](#cai)+[ti](#ti))  
 
 
 - <a name="wacaitiles">**wacaitiles**</a> _n._ ([wacaiti](#wacaiti)+[les](#les))  
-
-
-- <a name="wacaitilon">**wacaitilon**</a> _n._ ([wacaiti](#wacaiti)+[lon](#lon))  
 
 
 - <a name="wacaitilum">**wacaitilum**</a> _n._ ([wacaiti](#wacaiti)+[lum](#lum))  
@@ -3623,7 +3608,7 @@ quinto
 - <a name="watiles">**watiles**</a> _n._ ([wati](#wati)+[les](#les))  
 
 
-- <a name="watilon">**watilon**</a> _n._ ([wati](#wati)+[lon](#lon))  
+- <a name="watilum">**watilum**</a> _n._ ([wati](#wati)+[lum](#lum))  
 
 
 - <a name="'watikana">**'watikana**</a> _n._ (Lat. ⟨Vāticāna⟩ \[vatiˈkaːna\])  
@@ -4403,6 +4388,12 @@ locutorio
 
 
 - <a name="nitokiles">**nitokiles**</a> _n._ ([nitoki](#nitoki)+[les](#les))  
+
+
+- <a name="nitokiti">**nitokiti**</a> _v._ ([nitoki](#nitoki)+[ti](#ti))  
+
+
+- <a name="nitokitiles">**nitokitiles**</a> _n._ ([nitokiti](#nitokiti)+[les](#les))  
 
 
 - <a name="nitu">**nitu**</a> _v._ ([~~kuli~~](#kuli))  
@@ -10390,6 +10381,9 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
 - <a name="kulelyan">**kulelyan**</a> _n._ ([kule](#kule)+[lyan](#lyan))  
 
 
+- <a name="kulelyanti">**kulelyanti**</a> _v._ ([kulelyan](#kulelyan)+[ti](#ti))  
+
+
 - <a name="kulehila">**kulehila**</a> _v._ ([kule](#kule)+[hila](#hila))  
 
 
@@ -12260,6 +12254,9 @@ sobre; dividido por
 - <a name="pensi">**pensi**</a> _v._ (Epo. ⟨pensi⟩ \[ˈpensi\])  
 
 
+- <a name="pensiyato">**pensiyato**</a> _v._ ([pensi](#pensi)+[yato](#yato))  
+
+
 - <a name="pensilon">**pensilon**</a> _n._ ([pensi](#pensi)+[lon](#lon))  
 
 
@@ -12267,6 +12264,9 @@ sobre; dividido por
 
 
 - <a name="pensilum">**pensilum**</a> _n._ ([pensi](#pensi)+[lum](#lum))  
+
+
+- <a name="pensiwale">**pensiwale**</a> _v._ ([pensi](#pensi)+[wale](#wale))  
 
 
 - <a name="pensisoma">**pensisoma**</a> _v._ ([pensi](#pensi)+[soma](#soma))  
