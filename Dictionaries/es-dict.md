@@ -12566,9 +12566,6 @@ sobre; dividido por
 - <a name="pana">**pana**</a> _ptcl._ (Cmn. ⟨吧⟩ \[pa\])  
 
 
-- <a name="pananeki">**pananeki**</a> _v._ ([pana](#pana)+[neki](#neki))  
-
-
 - <a name="'panama">**'panama**</a> _n._ (Spa. ⟨Panamá⟩ \[panaˈma\])  
 
 

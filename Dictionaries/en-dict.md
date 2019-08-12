@@ -12566,9 +12566,6 @@ canine
 - <a name="pana">**pana**</a> _ptcl._ (Cmn. ⟨吧⟩ \[pa\])  
 please; _polite imperative mood_
 
-- <a name="pananeki">**pananeki**</a> _v._ ([pana](#pana)+[neki](#neki))  
-welcome!
-
 - <a name="'panama">**'panama**</a> _n._ (Spa. ⟨Panamá⟩ \[panaˈma\])  
 Panama
 
