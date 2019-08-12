@@ -33,7 +33,7 @@ be more; exceed; be positive; be greater; be enough; be too much; OBJ is numeric
 be less; be negative; be not enough; be too little; OBJ is numerically less than IND,,ANTONYM OF be more,efe
 increase; multiply; spread; SBJ {increaser} makes OBJ increase relative to IND,,INCOHATIVE OF be more,osoki
 decrease; diminish; dwindle; consolidate; SBJ {decreaser} makes OBJ decrease relative to IND,,CESSATIVE OF be more,efeki
-be number; be in *order; be -th; index; OBJ {item; element} has a late position in IND {list; order; sequence; queue; line} {AMOUNT:position; index; number {GENITIVE:ordinal}},ordenar; estar en orden; OBJ tiene una posición tarde en IND {lista; orden; secuencia; cola; fila} {AMOUNT:posición; índice; numero},epo <ordo> [ˈordo],olto
+be number; be in *order; be -th; index; OBJ {item; element} has a late position in IND {list; order; sequence; queue; line; series} {AMOUNT:position; index; number {GENITIVE:ordinal}},ordenar; estar en orden; OBJ tiene una posición tarde en IND {lista; orden; secuencia; cola; fila} {AMOUNT:posición; índice; numero},epo <ordo> [ˈordo],olto
 be number from the end; be in order from the end; negatively index; OBJ has an early position in IND {AMOUNT:position from end; negative index; number from end},,ANTONYM OF be number,etle
 move down; position; sort; arrange; order; SBJ {sorter} moves OBJ down the sequence IND {sorted} {METHOD:order},,INCOHATIVE OF be number,oltoki
 move up; position; SBJ moves OBJ up the sequence IND,,CESSATIVE OF be number,etleki
@@ -104,7 +104,7 @@ understand; comprehend; beI sensical; know; be smart; OBJ {understander} underst
 misunderstand; be confused; beI cryptic; OBJ does not understand IND {misunderstood} well,,ANTONYM OF understand,pewo
 explain; describe; SBJ {tutor; teacher} teaches OBJ {tutee; student} to understand IND,,INCOHATIVE OF understand,moyeki
 confuse; unlearn; SBJ {confuser} makes OBJ stop understanding IND,,CESSATIVE OF understand,pewoki
-"know; be informed; be educated; OBJ {knower; smart} remembers IND {knowledge}, believes and thinks it to be true, and correctly understands why it is true",,eng <know> [noʊ̯],no
+"know; be informed; be educated; OBJ {knower; smart} remembers IND {knowledge}, believes and thinks it to be true, and correctly understands why it is true {INSTRUMENT:meter; measure; readout; measuring device}",,eng <know> [noʊ̯],no
 beI unknown; OBJ does not know IND,,NEGATIVE OF know,nonyo
 teach; learn; study; inform; SBJ {teacher; professor; master} teaches IND to OBJ {student; learner} {LOCATION:school; college; university|TIME:lesson; education},,INCOHATIVE OF know,noki
 unteach; unlearn; confound; SBJ {unteacher} makes IND {unlearner} unlearn what they thought they knew about OBJ,,CESSATIVE OF know,nonu
@@ -118,7 +118,7 @@ be friendly; be nice; be kind; OBJ considers IND {friend} a friend {AMOUNT:frien
 be hostile; be mean; be harsh; OBJ is hostile toward IND {enemy; infamous},,ANTONYM OF be friendly,wecai
 befriend; introduce; soften; SBJ {friend-arranger} makes OBJ become friends with IND,,INCOHATIVE OF be friendly,yohauki
 drive apart; aggravate; SBJ {enemy-maker} makes OBJ become hostile toward IND,,CESSATIVE OF be friendly,wecaiki
-love; be infatuated; OBJ {lover} is romantically in love with IND {love; object of affection},,epo <ami> [ˈami],ami
+love; be in love; be infatuated; OBJ {lover} is romantically in love with IND {love; object of affection},,epo <ami> [ˈami],ami
 set up; fall in love; introduce; infatuate; SBJ {matchmaker; cupid} makes OBJ fall in love with IND,,INCOHATIVE OF love,amiki
 be related; share blood; OBJ {relatee} is genetically related to IND {relative; *kin; family; blood; ethnic; ethnicity},,cmn <亲戚> [t͡ɕʰin˥t͡ɕʰi],cinci
 be okay; be fine; be all right; be acceptable; OBJ is okay,,eng <okay> [ˌoʊ̯ˈkʰeɪ̯],oke

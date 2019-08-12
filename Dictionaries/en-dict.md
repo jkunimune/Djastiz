@@ -714,13 +714,13 @@ print; tangiblise; soidify; [ʟєꜱ](#amapowikiles) brings ʟᴏᴧ into the ph
 printer
 
 - <a name="ami">**ami**</a> _v._ (Epo. ⟨ami⟩ \[ˈami\])  
-love; be infatuated; [ʟᴏᴧ](#amilon) is romantically in love with [ʟᴜᴍ](#amilum)
+love; be in love; be infatuated; [ʟᴏᴧ](#amilon) is romantically in love with [ʟᴜᴍ](#amilum)
 
 - <a name="amiyohau">**amiyohau**</a> _v._ ([ami](#ami)+[yohau](#yohau))  
 date; court; ʟᴏᴧ is dating ʟᴜᴍ
 
 - <a name="amilon">**amilon**</a> _n._ ([ami](#ami)+[lon](#lon))  
-lover; infatuated
+lover; in love; infatuated
 
 - <a name="amilum">**amilum**</a> _n._ ([ami](#ami)+[lum](#lum))  
 love; object of affection
@@ -764,7 +764,7 @@ flail; ʟєꜱ flails [ʟᴏᴧ](#amhilalon)
 - <a name="amhilalon">**amhilalon**</a> _n._ ([amhila](#amhila)+[lon](#lon))  
 flail; flailing limb
 
-- <a name="amkwelwelsomaluat">**amkwelwelsomaluat**</a> _n._ ([am](#am)+[kwelwelsomaluat](#kwelwelsomaluat))  
+- <a name="amhulinoluat">**amhulinoluat**</a> _n._ ([am](#am)+[hulinoluat](#hulinoluat))  
 watch; wristwatch
 
 - <a name="amtokalyot">**amtokalyot**</a> _n._ ([am](#am)+[tokalyot](#tokalyot))  
@@ -1100,7 +1100,7 @@ be number; be in order; be -th; index; [ʟᴏᴧ](#oltolon) has a late position 
 item; element; number; in order; -th
 
 - <a name="oltolum">**oltolum**</a> _n._ ([olto](#olto)+[lum](#lum))  
-list; order; sequence; queue; line
+list; order; sequence; queue; line; series
 
 - <a name="oltolyan">**oltolyan**</a> _n._ ([olto](#olto)+[lyan](#lyan))  
 position; index; number
@@ -1318,7 +1318,7 @@ reference temperature; lukewarm
 - <a name="okulyan">**okulyan**</a> _n._ ([oku](#oku)+[lyan](#lyan))  
 temperature
 
-- <a name="okulyansomaluat">**okulyansomaluat**</a> _n._ ([okulyan](#okulyan)+[somaluat](#somaluat))  
+- <a name="okunoluat">**okunoluat**</a> _n._ ([oku](#oku)+[noluat](#noluat))  
 thermometer
 
 - <a name="okumihutatuniluhilasoma">**okumihutatuniluhilasoma**</a> _v._ ([oku](#oku)+[mihutatu](#mihutatu)+[nilu](#nilu)+[hila](#hila)+[soma](#soma))  
@@ -2682,8 +2682,8 @@ protrusion; length; long; tall
 - <a name="lamalyan">**lamalyan**</a> _n._ ([lama](#lama)+[lyan](#lyan))  
 length; maximum physical dimension; length of time
 
-- <a name="lamalyansomaluat">**lamalyansomaluat**</a> _n._ ([lamalyan](#lamalyan)+[somaluat](#somaluat))  
-meterstick; ruler; measuring tape; stick
+- <a name="lamanoluat">**lamanoluat**</a> _n._ ([lama](#lama)+[noluat](#noluat))  
+stopwatch
 
 - <a name="lamacuc">**lamacuc**</a> _n._ ([lama](#lama)+[cuc](#cuc))  
 dragonfly; damselfly
@@ -3923,7 +3923,7 @@ buttocks; butt; bum; soft region between the back of an animal’s legs and tors
 gluteal; posterial
 
 - <a name="nalkaskutilon">**nalkaskutilon**</a> _n._ ([nalkas](#nalkas)+[kutilon](#kutilon))  
-feces; excrement; poop
+feces; excrement; poop; manure; guano
 
 - <a name="nalkaskutilonec">**nalkaskutilonec**</a> _n._ ([nalkaskutilon](#nalkaskutilon)+[ec](#ec))  
 rectum
@@ -4017,6 +4017,9 @@ know; be informed; be educated; [ʟᴏᴧ](#nolon) remembers [ʟᴜᴍ](#nolum),
 
 - <a name="nolon">**nolon**</a> _n._ ([no](#no)+[lon](#lon))  
 knower; smart; informed; educated
+
+- <a name="noluat">**noluat**</a> _n._ ([no](#no)+[luat](#luat))  
+meter; measure; readout; measuring device
 
 - <a name="nolum">**nolum**</a> _n._ ([no](#no)+[lum](#lum))  
 knowledge
@@ -5550,6 +5553,12 @@ vibrant; colourful
 - <a name="mucmai">**mucmai**</a> _v._ ([muc](#muc)+[mai](#mai))  
 go shopping; ʟᴏᴧ is going shopping
 
+- <a name="muccai">**muccai**</a> _v._ ([muc](#muc)+[cai](#cai))  
+love; adore; be attached; [ʟᴏᴧ](#muccailon) platonically loves ʟᴜᴍ
+
+- <a name="muccailon">**muccailon**</a> _n._ ([muccai](#muccai)+[lon](#lon))  
+attached
+
 - <a name="muccih">**muccih**</a> _n._ ([muc](#muc)+[cih](#cih))  
 megacity; metropole
 
@@ -5770,6 +5779,9 @@ high note; high-pitched; shrill
 
 - <a name="hailyan">**hailyan**</a> _n._ ([hai](#hai)+[lyan](#lyan))  
 pitch; frequency
+
+- <a name="hailyanoltolum">**hailyanoltolum**</a> _n._ ([hailyan](#hailyan)+[oltolum](#oltolum))  
+melody; tune
 
 - <a name="haiki">**haiki**</a> _v._ ([hai](#hai)+[ki](#ki))  
 raise; pitch up; modulate; ʟєꜱ raises the pitch of ʟᴏᴧ
@@ -6167,8 +6179,8 @@ future; late; recent; after; tardy
 - <a name="hulilyan">**hulilyan**</a> _n._ ([huli](#huli)+[lyan](#lyan))  
 lateness
 
-- <a name="hulilyansomaluat">**hulilyansomaluat**</a> _n._ ([hulilyan](#hulilyan)+[somaluat](#somaluat))  
-stopwatch
+- <a name="hulinoluat">**hulinoluat**</a> _n._ ([huli](#huli)+[noluat](#noluat))  
+clock; watch
 
 - <a name="hulinoki">**hulinoki**</a> _v._ ([huli](#huli)+[noki](#noki))  
 tertiarily educate; college; university; higher educate; [ʟєꜱ](#hulinokiles) teaches [ʟᴏᴧ](#hulinokilon)
@@ -7132,7 +7144,7 @@ history
 - <a name="citulyan">**citulyan**</a> _n._ ([citu](#citu)+[lyan](#lyan))  
 earliness
 
-- <a name="citulyankwelyansomaluat">**citulyankwelyansomaluat**</a> _n._ ([citulyan](#citulyan)+[kwelyan](#kwelyan)+[somaluat](#somaluat))  
+- <a name="citunoluat">**citunoluat**</a> _n._ ([citu](#citu)+[noluat](#noluat))  
 timer
 
 - <a name="citunoki">**citunoki**</a> _v._ ([citu](#citu)+[noki](#noki))  
@@ -7704,7 +7716,7 @@ have sex; make love; ʟєꜱ initiates and has sex with ʟᴏᴧ
 - <a name="seksoec">**seksoec**</a> _n._ ([sekso](#sekso)+[ec](#ec))  
 genital
 
-- <a name="seksonyol">**seksonyol**</a> _pn._ ([sekso](#sekso)+[nyo](#nyo)+[l](#l))  
+- <a name="seksonyolon">**seksonyolon**</a> _n._ ([sekso](#sekso)+[nyo](#nyo)+[lon](#lon))  
 virgin
 
 - <a name="seksomai">**seksomai**</a> _v._ ([sekso](#sekso)+[mai](#mai))  
@@ -10384,6 +10396,9 @@ distance
 - <a name="kulelyanti">**kulelyanti**</a> _v._ ([kulelyan](#kulelyan)+[ti](#ti))  
 bid farewell; say goodbye; ʟєꜱ bids goodbye to ʟᴏᴧ
 
+- <a name="kulenoluat">**kulenoluat**</a> _n._ ([kule](#kule)+[noluat](#noluat))  
+meterstick; ruler; measuring tape; stick
+
 - <a name="kulehila">**kulehila**</a> _v._ ([kule](#kule)+[hila](#hila))  
 travel; ʟєꜱ travels from ʟᴜᴍ to [ʟᴏᴧ](#kulehilalon)
 
@@ -10735,9 +10750,6 @@ time machine
 - <a name="kwelwelhila">**kwelwelhila**</a> _v._ ([kwelwel](#kwelwel)+[hila](#hila))  
 time travel; ʟᴏᴧ travels through time
 
-- <a name="kwelwelsomaluat">**kwelwelsomaluat**</a> _n._ ([kwelwel](#kwelwel)+[somaluat](#somaluat))  
-clock; watch
-
 - <a name="'kwenatin">**'kwenatin**</a> _n._ (Svc. ⟨Grenadines⟩ \[ɡɹɛnədiːnz\])  
 Grenadines; Grenadine Islands
 
@@ -10849,7 +10861,7 @@ photic; optic; luminescient
 - <a name="kwanilukiles">**kwanilukiles**</a> _n._ ([kwan](#kwan)+[ilukiles](#ilukiles))  
 lens
 
-- <a name="kwanlamalyansomaluat">**kwanlamalyansomaluat**</a> _n._ ([kwan](#kwan)+[lamalyan](#lamalyan)+[somaluat](#somaluat))  
+- <a name="kwanlamanoluat">**kwanlamanoluat**</a> _n._ ([kwan](#kwan)+[lama](#lama)+[noluat](#noluat))  
 spectrometer
 
 - <a name="kwanmwonilum">**kwanmwonilum**</a> _n._ ([kwan](#kwan)+[mwonilum](#mwonilum))  
@@ -11025,7 +11037,7 @@ tense; intense; under pressure
 - <a name="tensolyan">**tensolyan**</a> _n._ ([tenso](#tenso)+[lyan](#lyan))  
 pressure
 
-- <a name="tensolyansomaluat">**tensolyansomaluat**</a> _n._ ([tensolyan](#tensolyan)+[somaluat](#somaluat))  
+- <a name="tensonoluat">**tensonoluat**</a> _n._ ([tenso](#tenso)+[noluat](#noluat))  
 barometer
 
 - <a name="tensoki">**tensoki**</a> _v._ ([tenso](#tenso)+[ki](#ki))  
@@ -11543,6 +11555,18 @@ reach; extend; ʟєꜱ reaches ʟᴏᴧ toward ʟᴜᴍ
 
 - <a name="tokaki">**tokaki**</a> _v._ ([toka](#toka)+[ki](#ki))  
 touch; join; ʟєꜱ touches ʟᴏᴧ to ʟᴜᴍ
+
+- <a name="tokatoka">**tokatoka**</a> _v._ ([toka](#toka)+[toka](#toka))  
+chain; be chained; [ʟᴏᴧ](#tokatokalon) is chained together in [ʟᴜᴍ](#tokatokalum)
+
+- <a name="tokatokalon">**tokatokalon**</a> _n._ ([tokatoka](#tokatoka)+[lon](#lon))  
+link; chained
+
+- <a name="tokatokalum">**tokatokalum**</a> _n._ ([tokatoka](#tokatoka)+[lum](#lum))  
+chain
+
+- <a name="tokatokaki">**tokatokaki**</a> _v._ ([tokatoka](#tokatoka)+[ki](#ki))  
+chain; link; incorporate; chain together; ʟєꜱ chains ʟᴏᴧ together into ʟᴜᴍ
 
 - <a name="toko">**toko**</a> _v._ (Ben. ⟨টক⟩ \[tɔkɔ\])  
 be sour; [ʟᴏᴧ](#tokolon) is sour
@@ -12437,7 +12461,7 @@ weight; heavyweight; heavy; massive
 - <a name="palilyan">**palilyan**</a> _n._ ([pali](#pali)+[lyan](#lyan))  
 weight; mass
 
-- <a name="palilyansomaluat">**palilyansomaluat**</a> _n._ ([palilyan](#palilyan)+[somaluat](#somaluat))  
+- <a name="palinoluat">**palinoluat**</a> _n._ ([pali](#pali)+[noluat](#noluat))  
 scale; balance
 
 - <a name="paliki">**paliki**</a> _v._ ([pali](#pali)+[ki](#ki))  
@@ -13201,6 +13225,12 @@ be monochromatic; [ʟᴏᴧ](#pihlonolon) has few colours
 
 - <a name="pihlonolon">**pihlonolon**</a> _n._ ([pihlono](#pihlono)+[lon](#lon))  
 monochromatic
+
+- <a name="pihcai">**pihcai**</a> _v._ ([pih](#pih)+[cai](#cai))  
+have affinity; be fond; not mind; [ʟᴏᴧ](#pihcailon) has an affinity for ʟᴜᴍ
+
+- <a name="pihcailon">**pihcailon**</a> _n._ ([pihcai](#pihcai)+[lon](#lon))  
+fond
 
 - <a name="pihcih">**pihcih**</a> _n._ ([pih](#pih)+[cih](#cih))  
 village; town

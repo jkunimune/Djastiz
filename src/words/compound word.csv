@@ -195,6 +195,8 @@ village; town,,little settlement,pihcih
 megacity; metropole,,much settlement,muccih
 tribe,,little country,pihtec
 empire,,much country,muctec
+have affinity; be fond; not mind; OBJ has an affinity for IND,,little want,pihcai
+love; adore; be attached; OBJ platonically loves IND,,much want,muccai
 "continent; large landmass bounded by ocean on most sides, e.g. Eurasia, North America",,much landmass,muctayl
 island; landmass that is smaller than a continent and bounded by ocean,,little landmass,pihtayl
 "subcontinent; subsection of a continent bounded by divisors of geographical and cultural significance, e.g. Europe, South Asia",,be-inside continent,nemuctayl
@@ -232,7 +234,7 @@ blood,,be-rhythmic body-of-water,tutumucwelon
 bleed; SBJ bleeds out OBJ,,blood exit,tutumucwelonkoki
 urine; pee,,be-yellow body-of-water,pilacwelon
 urinate; pee; SBJ urinates out OBJ,,urine exit,pilacwelonkoki
-feces; excrement; poop,,buttocks solid,nalkaskutilon
+feces; excrement; poop; manure; guano,,buttocks solid,nalkaskutilon
 diarrhea,,be-liquid feces,cwenalkaskutilon
 defecate; poop; SBJ defecates out OBJ,,feces exit,nalkaskutilonkoki
 saliva,,eat body-of-water,nyamacwelon
@@ -344,14 +346,14 @@ be stelliform; be star-shaped; OBJ {star} is covered in sharp radial points,,sun
 be cruciform; be cross-shaped; OBJ comprises two crossed segments,,cross be-shaped,tielonfolmo
 "be campanula; be bell-shaped; OBJ is rotationally symmetric, closed on one end, and flared on the other",,bell be-shaped,tintilesfolmo
 "be humanoid; be human-shaped; OBJ is a bipedal entity with two legs, two arms, and a head",,person be-shaped,wonfolmo
-clock; watch,,time measuring-device,kwelwelsomaluat
-stopwatch,,lateness measuring-device,hulilyansomaluat
-timer,,earliness amount measuring-device,citulyankwelyansomaluat
-meterstick; ruler; measuring tape; stick,,length measuring-device,lamalyansomaluat
-scale; balance,,weight measuring-device,palilyansomaluat
-thermometer,,temperature measuring-device,okulyansomaluat
-barometer,,pressure measuring-device,tensolyansomaluat
-spectrometer,,light length measuring-device,kwanlamalyansomaluat
+clock; watch,,be-late meter,hulinoluat
+stopwatch,,be-long meter,lamanoluat
+timer,,be-early meter,citunoluat
+meterstick; ruler; measuring tape; stick,,be-far meter,kulenoluat
+scale; balance,,be-heavy meter,palinoluat
+thermometer,,be-hot meter,okunoluat
+barometer,,be-tense meter,tensonoluat
+spectrometer,,light be-long meter,kwanlamanoluat
 whole; entirety; entire,,be-in-pieces no which-(relative),lotonyolon
 top; shirt,,torso clothing,talpoltilum
 sleeve; armband,,arm clothing,ampoltilum
@@ -369,7 +371,7 @@ bracelet,,wrist clothing,cohtokalyotpoltilum
 necklace,,neck clothing,siltokalyotpoltilum
 dress,,1 clothing,kanpoltilum
 suit; costume; uniform,,whole clothing,lotonyolonpoltilum
-watch; wristwatch,,arm clock,amkwelwelsomaluat
+watch; wristwatch,,arm clock,amhulinoluat
 scarf,,sheet necklace,hwoksiltokalyotpoltilum
 be found; OBJ knows where SBJ is,,where-(relative) think,lyotpensi
 go through; OBJ moves into and then out of IND {tube; hallway; corridor},,enter exit,nekikoki
@@ -585,7 +587,7 @@ be busy; be unavailable; OBJ has things scheduled,,NEGATIVE OF be available,kwel
 run; OBJ is running on IND {treadmill},,fly walk,fepucocalu
 fast-walk; OBJ is doing a fast walk on IND,,be-fast walk,yalapucocalu
 jog; OBJ jogs on IND,,be-slow run,watafepucocalu
-virgin,,have-sex no which,seksonyol
+virgin,,have-sex no which-(relative),seksonyolon
 creep out; OBJ {creeped out} finds IND {creepy; creeper} creepy,,little fear,pihpyo
 be apprehensive; hesitate; OBJ is apprehensive to do IND,,choose dislike,elehehau
 adore; beI cute; OBJ finds IND cute,,be-small want,pelacai
@@ -680,6 +682,9 @@ be southeast; OBJ is southeast of IND,,be-south be-east,sutaeste
 be southwest; OBJ is southwest of IND,,be-south be-west,sutaoflo
 be northeast; OBJ is northeast of IND,,be-north be-east,filaeste
 be northwest; OBJ is northwest of IND,,be-north be-west,filaoflo
+chain; be chained; OBJ {link} is chained together in IND {chain},,touch touch,tokatoka
+melody; tune,,pitch list,hailyanoltolum
+chain; link; incorporate; chain together; SBJ chains OBJ together into IND,,INCOHATIVE OF chain,tokatokaki
 berry,,be-small fruit,pelafut
 bat; flying fox,,fly mammal,femamul
 pangolin,,scale mammal,linmamul

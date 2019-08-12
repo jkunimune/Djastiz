@@ -764,7 +764,7 @@ alga
 - <a name="amhilalon">**amhilalon**</a> _n._ ([amhila](#amhila)+[lon](#lon))  
 
 
-- <a name="amkwelwelsomaluat">**amkwelwelsomaluat**</a> _n._ ([am](#am)+[kwelwelsomaluat](#kwelwelsomaluat))  
+- <a name="amhulinoluat">**amhulinoluat**</a> _n._ ([am](#am)+[hulinoluat](#hulinoluat))  
 
 
 - <a name="amtokalyot">**amtokalyot**</a> _n._ ([am](#am)+[tokalyot](#tokalyot))  
@@ -1318,7 +1318,7 @@ posición; índice; numero
 - <a name="okulyan">**okulyan**</a> _n._ ([oku](#oku)+[lyan](#lyan))  
 
 
-- <a name="okulyansomaluat">**okulyansomaluat**</a> _n._ ([okulyan](#okulyan)+[somaluat](#somaluat))  
+- <a name="okunoluat">**okunoluat**</a> _n._ ([oku](#oku)+[noluat](#noluat))  
 
 
 - <a name="okumihutatuniluhilasoma">**okumihutatuniluhilasoma**</a> _v._ ([oku](#oku)+[mihutatu](#mihutatu)+[nilu](#nilu)+[hila](#hila)+[soma](#soma))  
@@ -2682,7 +2682,7 @@ inspiración
 - <a name="lamalyan">**lamalyan**</a> _n._ ([lama](#lama)+[lyan](#lyan))  
 
 
-- <a name="lamalyansomaluat">**lamalyansomaluat**</a> _n._ ([lamalyan](#lamalyan)+[somaluat](#somaluat))  
+- <a name="lamanoluat">**lamanoluat**</a> _n._ ([lama](#lama)+[noluat](#noluat))  
 
 
 - <a name="lamacuc">**lamacuc**</a> _n._ ([lama](#lama)+[cuc](#cuc))  
@@ -4016,6 +4016,9 @@ quinto
 
 
 - <a name="nolon">**nolon**</a> _n._ ([no](#no)+[lon](#lon))  
+
+
+- <a name="noluat">**noluat**</a> _n._ ([no](#no)+[luat](#luat))  
 
 
 - <a name="nolum">**nolum**</a> _n._ ([no](#no)+[lum](#lum))  
@@ -5550,6 +5553,12 @@ mucho; muchos
 - <a name="mucmai">**mucmai**</a> _v._ ([muc](#muc)+[mai](#mai))  
 
 
+- <a name="muccai">**muccai**</a> _v._ ([muc](#muc)+[cai](#cai))  
+
+
+- <a name="muccailon">**muccailon**</a> _n._ ([muccai](#muccai)+[lon](#lon))  
+
+
 - <a name="muccih">**muccih**</a> _n._ ([muc](#muc)+[cih](#cih))  
 
 
@@ -5769,6 +5778,9 @@ ser agudo; [ʟᴏᴧ](#hailon) es agudo
 
 
 - <a name="hailyan">**hailyan**</a> _n._ ([hai](#hai)+[lyan](#lyan))  
+
+
+- <a name="hailyanoltolum">**hailyanoltolum**</a> _n._ ([hailyan](#hailyan)+[oltolum](#oltolum))  
 
 
 - <a name="haiki">**haiki**</a> _v._ ([hai](#hai)+[ki](#ki))  
@@ -6167,7 +6179,7 @@ ocho
 - <a name="hulilyan">**hulilyan**</a> _n._ ([huli](#huli)+[lyan](#lyan))  
 
 
-- <a name="hulilyansomaluat">**hulilyansomaluat**</a> _n._ ([hulilyan](#hulilyan)+[somaluat](#somaluat))  
+- <a name="hulinoluat">**hulinoluat**</a> _n._ ([huli](#huli)+[noluat](#noluat))  
 
 
 - <a name="hulinoki">**hulinoki**</a> _v._ ([huli](#huli)+[noki](#noki))  
@@ -7132,7 +7144,7 @@ sexto
 - <a name="citulyan">**citulyan**</a> _n._ ([citu](#citu)+[lyan](#lyan))  
 
 
-- <a name="citulyankwelyansomaluat">**citulyankwelyansomaluat**</a> _n._ ([citulyan](#citulyan)+[kwelyan](#kwelyan)+[somaluat](#somaluat))  
+- <a name="citunoluat">**citunoluat**</a> _n._ ([citu](#citu)+[noluat](#noluat))  
 
 
 - <a name="citunoki">**citunoki**</a> _v._ ([citu](#citu)+[noki](#noki))  
@@ -7704,7 +7716,7 @@ ducha
 - <a name="seksoec">**seksoec**</a> _n._ ([sekso](#sekso)+[ec](#ec))  
 
 
-- <a name="seksonyol">**seksonyol**</a> _pn._ ([sekso](#sekso)+[nyo](#nyo)+[l](#l))  
+- <a name="seksonyolon">**seksonyolon**</a> _n._ ([sekso](#sekso)+[nyo](#nyo)+[lon](#lon))  
 
 
 - <a name="seksomai">**seksomai**</a> _v._ ([sekso](#sekso)+[mai](#mai))  
@@ -10384,6 +10396,9 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
 - <a name="kulelyanti">**kulelyanti**</a> _v._ ([kulelyan](#kulelyan)+[ti](#ti))  
 
 
+- <a name="kulenoluat">**kulenoluat**</a> _n._ ([kule](#kule)+[noluat](#noluat))  
+
+
 - <a name="kulehila">**kulehila**</a> _v._ ([kule](#kule)+[hila](#hila))  
 
 
@@ -10735,9 +10750,6 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
 - <a name="kwelwelhila">**kwelwelhila**</a> _v._ ([kwelwel](#kwelwel)+[hila](#hila))  
 
 
-- <a name="kwelwelsomaluat">**kwelwelsomaluat**</a> _n._ ([kwelwel](#kwelwel)+[somaluat](#somaluat))  
-
-
 - <a name="'kwenatin">**'kwenatin**</a> _n._ (Svc. ⟨Grenadines⟩ \[ɡɹɛnədiːnz\])  
 
 
@@ -10849,7 +10861,7 @@ luz
 - <a name="kwanilukiles">**kwanilukiles**</a> _n._ ([kwan](#kwan)+[ilukiles](#ilukiles))  
 
 
-- <a name="kwanlamalyansomaluat">**kwanlamalyansomaluat**</a> _n._ ([kwan](#kwan)+[lamalyan](#lamalyan)+[somaluat](#somaluat))  
+- <a name="kwanlamanoluat">**kwanlamanoluat**</a> _n._ ([kwan](#kwan)+[lama](#lama)+[noluat](#noluat))  
 
 
 - <a name="kwanmwonilum">**kwanmwonilum**</a> _n._ ([kwan](#kwan)+[mwonilum](#mwonilum))  
@@ -11025,7 +11037,7 @@ ser tenso; ser intenso; estar bajo presión; [ʟᴏᴧ](#tensolon) es tenso
 - <a name="tensolyan">**tensolyan**</a> _n._ ([tenso](#tenso)+[lyan](#lyan))  
 
 
-- <a name="tensolyansomaluat">**tensolyansomaluat**</a> _n._ ([tensolyan](#tensolyan)+[somaluat](#somaluat))  
+- <a name="tensonoluat">**tensonoluat**</a> _n._ ([tenso](#tenso)+[noluat](#noluat))  
 
 
 - <a name="tensoki">**tensoki**</a> _v._ ([tenso](#tenso)+[ki](#ki))  
@@ -11542,6 +11554,18 @@ segundo
 
 
 - <a name="tokaki">**tokaki**</a> _v._ ([toka](#toka)+[ki](#ki))  
+
+
+- <a name="tokatoka">**tokatoka**</a> _v._ ([toka](#toka)+[toka](#toka))  
+
+
+- <a name="tokatokalon">**tokatokalon**</a> _n._ ([tokatoka](#tokatoka)+[lon](#lon))  
+
+
+- <a name="tokatokalum">**tokatokalum**</a> _n._ ([tokatoka](#tokatoka)+[lum](#lum))  
+
+
+- <a name="tokatokaki">**tokatokaki**</a> _v._ ([tokatoka](#tokatoka)+[ki](#ki))  
 
 
 - <a name="toko">**toko**</a> _v._ (Ben. ⟨টক⟩ \[tɔkɔ\])  
@@ -12437,7 +12461,7 @@ sobre; dividido por
 - <a name="palilyan">**palilyan**</a> _n._ ([pali](#pali)+[lyan](#lyan))  
 
 
-- <a name="palilyansomaluat">**palilyansomaluat**</a> _n._ ([palilyan](#palilyan)+[somaluat](#somaluat))  
+- <a name="palinoluat">**palinoluat**</a> _n._ ([pali](#pali)+[noluat](#noluat))  
 
 
 - <a name="paliki">**paliki**</a> _v._ ([pali](#pali)+[ki](#ki))  
@@ -13200,6 +13224,12 @@ poco; pocos
 
 
 - <a name="pihlonolon">**pihlonolon**</a> _n._ ([pihlono](#pihlono)+[lon](#lon))  
+
+
+- <a name="pihcai">**pihcai**</a> _v._ ([pih](#pih)+[cai](#cai))  
+
+
+- <a name="pihcailon">**pihcailon**</a> _n._ ([pihcai](#pihcai)+[lon](#lon))  
 
 
 - <a name="pihcih">**pihcih**</a> _n._ ([pih](#pih)+[cih](#cih))  

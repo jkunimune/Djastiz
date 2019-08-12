@@ -368,6 +368,7 @@ Here are some useful expressions in Oltilip.
 | I am from Nunya. | iciestaki 'nanya yot. |
 | I know a little Oltilip. | min on pih yan oltilip on no. |
 | Please speak slower. | pana wata ip pola. |
+| I love you. | min on puk um muccai. |
 | Your mother is a whore. | pukak mamalon on seksomailes um. |
 | Where is the bathroom? | pulanelon on kon yot. |
 
