@@ -775,7 +775,7 @@ def format_dictionary(dictionary, directory):
 			initial = entry['otp'].replace("'",'')[0]
 			if initial != previous_initial:
 				markdown += "### {}\n\n".format(initial)
-				latex = latex[:-3] + "\n\n\\subsection{{{}}}\n\n".format(initial)
+				latex = latex[:-3] + "\n\n\\section{{{}}}\n\n".format(initial)
 				previous_initial = initial
 
 			while 'compound ' in entry['partos']:
@@ -831,7 +831,8 @@ def format_dictionary(dictionary, directory):
 		for script, langs in [
 				('arabic',['ara','far','prs']), ('armenian',['hye']), ('avestan',['ave']), ('bengali',['ben']),
 				('chinese',['cmn','nan','yue']), ('cuneiform',['akk']), ('devanagari',['hin','mar','nep','san']),
-				('ethiopic',['tir']), ('gurmukhi',['pan']), ('hebrew',['heb']), ('japanese',['jap']), ('korean',['kor'])]:
+				('ethiopic',['tir']), ('gurmukhi',['pan']), ('hebrew',['heb']), ('japanese',['jap']),
+				('javanese',['jav']), ('georgian',['kat']), ('korean',['kor']), ('myanmar',['mya'])]:
 			for lang in langs:
 				latex = re.sub(r"{}\. ⟨([^⟩]+)⟩".format(lang.capitalize()), r"\\{}{{\1}}".format(script), latex)
 
