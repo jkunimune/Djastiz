@@ -51,7 +51,7 @@ If you're a linguist, the following [IPA](1) table may prove easier to read:
 
 The "Inverse" column is not that important; it just comes up later in the derivational morphology section. You don't have to learn that part if you don't want to.
 
-You'll notice that most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which you need to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
+Most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
 Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Oltilip alphabet. The Oltilip alphabet does not include ⟨b⟩, ⟨d⟩, ⟨g⟩, ⟨q⟩, ⟨r⟩, ⟨v⟩, ⟨x⟩, ⟨y⟩, ⟨z⟩, or any capital letters. _Some_ capital Latin letters are acceptable substitutes for their lowercase forms, as indicated by the alternate symbols column, but these are merely to allow stylistic variation, and carry no meaning different from their lowercase counterparts. Furthermore, note that unlisted capital letters are too different to be easily readable by Oltilip-speakers who are unfamiliar with the entire Latin alphabet, and thus should not ever be used.
 
@@ -125,7 +125,11 @@ Finally, there are twenty-seven more letters that may be used for transcribing f
 
 ### Phonotactics
 
-Oltilip generally follows a (C)(G)V(G)(C) syllable structure, where any letter can appear in any position according to its class. The only restrictions are the disallowance of double letters and the clusters "ey", "ow", "iy", "uw", "yi", and "wu" within roots. These restrictions are dropped for loanwords. The exception to this syllable structure is the pronoun "l", which can be analysed as a syllabic consonant. However, because it is syntactically always adjacent to a consonant, it need never be pronounced as such.
+Oltilip generally follows a simple yet permissive (C)(G)V(G)(C) syllable structure, where any letter can appear in any position according to its class. The only restrictions are the disallowance of double letters and the clusters "ey", "ow", "iy", "uw", "yi", and "wu" within roots. These restrictions are dropped for compound words, where such combinations may be ineviteable, and loanwords, where root recognition is more highly valued. The exception to this syllable structure is the pronoun "l", which can be analysed as a syllabic consonant. However, because it is syntactically always adjacent to a consonant, it need never be pronounced as such. All nouns, pronouns, numerals, and postpositions end with consonants, while verbs and sentence particles end with vowels.
+
+Note that while "w" and "y" are morphologically distinct from "u" and "i", they never contrast, so speakers of languages without glides in medial positions can use vowels instead.
+
+Stress always falls on the penultimate vowel of a word, unless the IPA extensions are used and a stress marker indicates otherwise.
 
 ## Grammar
 
@@ -175,7 +179,7 @@ _Argumentative postpositions_ have complements with meanings specific to their p
 
 The predicate of a clause describes the action or state being described in the most general sense. It usually comprises a single _verb_. In Oltilip, verbs do not conjugate for tense, aspect, or anything else, so "et es nyama" can mean "they had eaten", "they ate", "they are eating", "they eat", or "they will eat". Therefore, if the time of a predicate is important, make sure to manually and specifically include it with "wel".
 
-More complex predicates can be formed by appending other verbs, which serve as auxiliary verbs. This is only valid for verbs that take clauses as arguments, such as "nyo", "calu", "powi", and "tewi". For example, while the sentence "et es pola min on" means "they speak to me", appending "nyo" to the predicate turns it into "et es pola nyo min on", which means "they do not speak to me". This is shorthand for subordinating the entire sentence to "nyo": "et es pola min on on nyo" translates to "it is false that they speak to me".
+More complex predicates can be formed by appending other verbs, which serve as auxiliary verbs. This is only valid for verbs that take clauses as arguments, such as "nyo", "ki", "nu", "calu", "powi", and "tewi". For example, while the sentence "et es pola min on" means "they speak to me", appending "nyo" to the predicate turns it into "et es pola nyo min on", which means "they do not speak to me". This is shorthand for subordinating the entire sentence to "nyo": "et es pola min on on nyo" translates to "it is false that they speak to me".
 
 ### Noun phrases
 
@@ -271,33 +275,31 @@ These can be used in tandem with other numbers, as in "muc nul nul" for "many hu
 
 ### "Do no wrong" principle
 
+The most important rule in Oltilip is that there are no rules. While the grammar here was designed to be as flexible as possible specifically to reduce the number of ways speakers can be wrong, it is still trivial and tempting to bend the rules. If you say something that does not precisely fit into the grammar outlined here, but it is still understandable within that framework, then you are correct. Oltilip is a means of communication, and as long as you are communicating to anyone else who has read this document, then you are speaking Oltilip.
+
 ### Tips and tricks
 
 That's all of the official grammar. You may find it rather short. "Where are the tenses, the passives, the participles?" you ask. While these do not exist explicitly in Oltilip, they can be expressed using preexisting structures. Therefore, while their inclusion here is not strictly necessary, I will explain them so that everyone understands best practices for such situations without needing derive them themselves.
 
-Tenses are simple. If it is important to a sentence whether it happened in the past, present, or future, the dative postposition `eh` can be used with the appropriate word.
+Tenses are simple. If it is important to a sentence whether it happened in the past, present, or future, the dative postposition "wel" can be used with the appropriate word. For generic past and future tense, "citu wel" and "huli wel" are the recommended forms.
 
-Passives are somewhat nonexistent in Launtoklian, since you can just switch the order anyway.
+Passives are also simple, and also somewhat nonexistent. If one has the sentence "min es feki lumahsiklalon on", "I throw the ball", and one wants to say "the ball is thrown by me", all there is to do is switch the order of the arguments: "lumahsiklalon on feki min es". While this does not really change the meaning of the sentence, it does change the emphasis, which is generally the purpose of a passive.
 
-Participles in Launtoklian are represented with relative clauses.
+Participles in Oltilip are usually unnecessary, as verbs resulting in state changes are usually derived from the state, and not the other way around. While the verb for "burn" is "cyauki", the English participle "burnt" simply translates to "cyau", "be burnt". In cases that cannot be handled with the removal of a suffix, relative clauses can serve the purpose of participles. Say one really needs to describe something that has recently been burned, and not just something burnt. The phrase "cyauki l on", "one that is burned", or more specifically "citu wel cyauki l on", "one that was burned", will serve that purpose well.
 
-Adverbs come in two flavours: things like "quickly" and things like "hopefully".
+Adverbs come in two flavours: things like "quickly" and things like "hopefully". Adjectives-turned-adverbs are derived by simply using stative verbs along with the postpositino "ip": "yala ip" means "in the manner of being quick". The second type, which really modifies an English sentence more than its verb specifically, typically mandates rephrasing: "I will hopefully get paid" becomes "I hope that I receive money", which is "min on cai ke min on tueki mailuat um um".
 
-Directionals
+Directionals, usually realised in English with prepositions or adverbs as in "run out" or "sit down", are also translated using "ip", along with directional Oltilip verbs. The word for "run" is "fepucocalu", and the word for "go out" is "koki", so "run out" is simply "koki ip fepucocalu". Similarly, "sit down" is "pahoki ip swo".
 
-Conjunctions
+Adpositions and cases describing location and motion, which are so common in English and other languages, are achieved through subordinate clauses passed to the postposition "yot". The sentence "they stand atop the mountain" translates to "et on upe pil um mace yot", literally "they stand in the place that is being above the mountain". The sentence "you swim to the island" translates to "puk on cwehila pihtayl yot ki yot", literally "you swim in the place that is going to the island". Temporal equivalents can also be achieved with "wel": "I will sleep until noon" translates to "min on tolmi nefuhalwel um kitcitu wel", literally "I sleep at the time that is being until noon".
 
-Other postpositions
+The verb "to have", as you may notice, is missing from Oltilip's dictionary. The verb "tue" can be translated as "have", but that only applies to physical or legal possession, and not to "have" as in "I have a sibling". Instead the verb "esta" should be used with the postposition "ak": "min ak pemamalon on esta" literally means "my sister exists".
 
-Adjective derivations
-
-The verb "to have"
-
-The verb "to need"
+The verb "to need" is similarly absent from the vocabulary. The verb "cai", which literally means "want", can be used in many contexts where "need" would be used in English. However, true necessity as in "humans need to eat to survive" should be rephrased as conditionals: "won es nyama nyo ayf, uhuki" literally means "if humans don't eat, they die".
 
 ## Vocabulary
 
-Oltilip has 426 basic roots, drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomotopoetic lexicons. The source languages were selected and weighted in order to give the most mnemonic value to the greatest number of people. These roots fall into five parts of speech—nouns, verbs, numerals, specifiers, and sentence particles—which will be explained in the next section. While these root words cover many concepts, with only 426, there are inevitably many lexical gaps and ambiguities. These are filled with Oltilip's morphological derivation system. New words are derived in three main ways: _inversion_, _compounds_, _affixes_, and _loans_.
+Oltilip has 426 basic roots, drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomotopoetic lexicons. The source languages were selected and weighted in order to give the most mnemonic value to the greatest number of people. While these root words cover many concepts, with only 426, there are inevitably many lexical gaps and ambiguities. These are filled with Oltilip's morphological derivation system. New words are derived in three main ways: _inversion_, _compounds_, _affixes_, and _loans_.
 
 ### Inversion
 
@@ -307,11 +309,9 @@ Inversion is by far the least intuitive and most unique of the four. It is used 
 
 A more standard way to form a new word is with a simple compound. This involves combining two or more existing words to form a new one. It takes the part of speech of the second, and represents something between the meanings of both. For example, "pahopoltilum", meaning "underwear", is derived from "paho", meaning "to be under", and "poltilum", meaning "clothing".
 
-One of the most common uses of this system is the creation of demonyms and language names. In Oltilip, a loanword may represent a country or people group, depending on which is named after the other. If a loanword is used for the country, then the demonym is derived by combining it with "won", "person". If the people, then the toponym is derived by combining it with "tec", "country". Either way, the loanword can be combined with the word "tilip", "language", to describe the language of that country, or with the word "kwelyot", "place", to describe a geographic area. For example, "'alap" is the Oltilip word for "Arab" or "the Arabian people". Saudi Arabia is then "'alaptec", the Arabic language is "'alaptilip", and the Arabian peninsula is "'alapkwelyot".
-
 ### Affixes
 
-A more precise way to derive new terms is through the addition af affixes. In Oltilip, all affixes are themselves words, and the result of adding one means the same thing as the base word and affix placed together in a sentence, albeit lexicalised. For example, if the relative pronoun "les" is placed next to the verb "noki", which means "to know", one gets "noki les", which means "one who teaches". When "les" is used as a suffix, that phrase is lexicalised into "nokiles", which means "teacher". This form carries two concrete advantages over the phrase "noki les"; specifically, "nokiles" cannot be interpreted as two words in adjacent phrases should the surrounding grammar be complicated, and further can refer to the concept of a teacher even when there is no one in the discussion who is currently teaching. Learning a word like "nokiles" is also inherently easier than repeatedly parsing a phrase like "noki les".
+A more precise way to derive new terms is through the addition af affixes. In Oltilip, all affixes are themselves words, and the result of adding one means the same thing as the base word and affix placed together in a sentence, albeit lexicalised. For example, if the relative "l es" is placed next to the verb "noki", which means "to know", one gets "noki l es", which means "one who teaches". When "les" is used as a suffix, that phrase is lexicalised into "nokiles", which means "teacher". This form carries two concrete advantages over the phrase "noki les"; specifically, "nokiles" cannot be interpreted as two words in adjacent phrases should the surrounding grammar be complicated, and further can refer to the concept of a teacher even when there is no one in the discussion who is actively teaching. Learning a word like "nokiles" is also inherently easier than repeatedly parsing a phrase like "noki l es".
 
 There are ten suffixes that can turn verbs into nouns:
 - "-les" references the agent of a verb, similar to "-er" in English,
@@ -336,11 +336,40 @@ Finally, there is one suffix that turns nouns into other nouns:
 
 ### Loanwords
 
-For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, a class of word that is neither root nor  preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, "'doyc" means "German"
+For words that describe deeply technical concepts like "deoxyribonucleic acid", cultural concepts like "ahupua&#8216;a", or a combination of the two like "oriental ladyfern", a class of word that is neither root nor compound is needed. This is the _loanword_, a word taken directly from other languages. Because these words have fewer phonotactic restrictions than base words, they may be marked with an apostrophe to distinguish them, much as italics are commonly used in English. The word should be taken from a language that has regional or historical ties to the concept. For example, the word for "persimmon", "'kaki" comes from the Japanese "柿", due to the persimmon's historical and economic ties to Eastern Asia.
 
-Like the compound words, the set of documented loanwords is not complete. They are meant to encompass the highly specific concepts that Djastiz cannot describe on its own, and thus to attempt to recond all of them in a Djastiz dictionary would be impossible. Instead, I have included some useful examples of loanwords in [loanword.csv](dictionary/loanword.csv).
+Loanwords are especially common as toponyms. The word for "Japan", "'nipon", comes directly from the Japnese word "日本". These are commonly compounded to form related words, such as "'niponwon" for "Japanese (person)", "'nipontilip" for "Japanese (language)", and "'niponkwelyot" for "the Japanese archipelago". While slightly less common, an ethnonym can also serve as the root off of which the toponym is derived depending on the etymology of the endonym. For example, from "'alap" for "Arab", we get "'alaptec" for "Saudi Arabia", "'alaptilip" for "Arabic", and "'alapkwelyot" for "the Arabian peninsula".
 
 ## Common phrases
+
+Here are some useful expressions in Oltilip.
+
+| English | Oltilip |
+|:--------|:--------|
+| Hello. | wa cai. |
+| Good morning. | wa fuhakilwel. |
+| Good day. | wa fuhalwel. |
+| Good evening. | wa sicakilwel. |
+| Goodbye. | wa cai. |
+| Good night. | cai ip tolmi. |
+| Yay! | wa cai. |
+| Fuck! | wa hau. |
+| Please. | pana. |
+| Thank you. | kanci. |
+| You're welcome. | wawilum on esta nyo. |
+| I'm sorry. | suotu. |
+| Excuse me. | pana oketi. |
+| You're excused. | sa oketi. |
+| It's okay. | oke. |
+| What is your name? | puk um co kon on. |
+| My name is Chka-chka Slim Shady | min um co 'cikacikaslimceyti on. |
+| Whence are you? | iciestaki kon yot. |
+| I am from Nunya. | iciestaki 'nanya yot. |
+| Where is the bathroom? | pulanelon on kon yot. |
+| I know a little Oltilip. | min on pih yan oltilip on no. |
+| Please speak slower. | pana wata ip pola. |
+| Your mother is a whore. | pukak mamalon on seksomailes um. |
+
 
 ## Flag
 
