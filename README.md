@@ -14,13 +14,11 @@ With these goals in mind, I developed a language with the following key features
 
 * Seventeen common phonemes; five vowels and twelve consonants
 * Phonetic one-grapheme-per-phoneme Latin-based alphabet
-* Polysynthetic morphology
-* 700 morphemes with thousands of derivatives and compounds
+* 700 root words with thousands of derivatives and compounds
+* Completely analytic grammar
 * Stative verbs in lieu of adjectives
-* Partially self-segregating morphology
 * Symmetric derivation system for opposites
 * Positional notation of numbers
-* Completely analytic grammar (no inflections)
 * Active-stative alignment
 * Postposition-facilitated free word order
 

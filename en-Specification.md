@@ -1,6 +1,6 @@
 # How to Speak Oltilip
 
-This is the language specification for Oltilip, an international auxiliary language. Here you will find all of the information needed to learn and speak Oltilip, as well as some information about how Oltilip came to be. This document assumes that you speak English. If you're reading this, that seems like a pretty safe assumption.
+This is the language specification for Oltilip, an international auxiliary language. Oltilip was designed to facilitate international communication across all humankind, and as such, is designed to be as neutral, elegant, and easy-to-learn as possible. Here you will find all of the information needed to learn and speak Oltilip, as well as some information about how Oltilip came to be. This document assumes that you speak English. If you're reading this, that seems like a pretty safe assumption.
 
 ## Disclaimer
 
@@ -12,27 +12,27 @@ With that out of the way, let's get onto the language!
 
 ### Alphabet
 
-Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Oltilip uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pace", "base", and "Bess" sound different to most English speakers, all are acceptable pronunciations for Oltilip "pes", which means "fish". The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days.
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Oltilip uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pace", "base", and "Bess" sound different to most English speakers, all are acceptable pronunciations for Oltilip "pes", which means "fish". Approximately half of all humans can distinguish between all of these sounds in their native phonology, and only 5% need to learn three or more new sounds. The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days.
 
-| Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)| Inverse |
-|------|--------|--------------|-----------------|------------|-------------|---------|
-|   e  |   e    |    Є         |  *e*gg, fr*ay*  |     ɛ      |  e\~ɛ, ej   |    o    |
-|   a  |   a    |    Ƌ, ɑ, α   | t*a*co, h*a*ck  |     a      |    a\~ɑ     |    a    |
-|   o  |   o    |    O, σ      | *oa*t, *o*rgan  |     ɔ      |  o\~ɔ, ow   |    e    |
-|   i  |   i    |    I, ι      |*ea*t, scr*ee*ch |     i      |    i\~ɪ     |    u    |
-|   u  |   u    |    U, v      | fr*ui*t, *oo*ze |     u      |    u\~ʊ     |    i    |
-|  yo  |   y    |    Y         |*y*ogurt, *y*ell |     j      |   j, ʲ, i   |    we   |
-|  la  |   l    |    L         | *l*ime, fa*ll*  |     l      |    l\~r     |    ta   |
-|  we  |   w    |    W, ɯ      | *w*ine, q*u*iet |     w      |   w, ʷ, u   |    yo   |
-|  na  |   n    |    Λ         |*n*ectar, pai*n* |     n      |   n, ŋ\~ɴ   |    ko   |
-|  me  |   m    |    M         |*m*elon, screa*m*|     m      |      m      |    pe   |
-|  ho  |   h    |    Һ         | *h*oney, *h*ide |     h      |   x\~h, ɦ   |    co   |
-|  co  |   c    |    C         |*ch*eese, *sh*riek|   t͡ʃ      |t͡ʃ\~t͡ʂ, ʃ\~ʂ |    ho   |
-|  sa  |   s    |    S         | *s*alt, hi*ss*  |     s      |      s      |    fe   |
-|  fe  |   f    |    F         | *f*ish, cou*gh* |     f      |    ɸ\~f     |    sa   |
-|  ko  |   k    |    K, κ      | *c*ake, *g*rab  |     k      |   k kʰ ɡ    |    na   |
-|  ta  |   t    |    T, τ      |  *t*ea, *d*eep  |     t      |   t tʰ d    |    la   |
-|  pe  |   p    |    P, ρ      | *p*ear, *b*urst |     p      |   p pʰ b    |    me   |
+| Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)| Inverse | Class |
+|------|--------|--------------|-----------------|------------|-------------|---------|----------
+|   e  |   e    |    Є         |  *e*gg, fr*ay*  |     ɛ     |  e\~ɛ, ej   |    o    | V |
+|   a  |   a    |    Ƌ, ɑ, α   | t*a*co, h*a*ck  |     a     |    a\~ɑ     |    a    | V |
+|   o  |   o    |    O, σ      | *oa*t, *o*rgan  |     ɔ     |  o\~ɔ, ow   |    e    | V |
+|   i  |   i    |    I, ι      |*ea*t, scr*ee*ch |     i     |    i\~ɪ     |    u    | V |
+|   u  |   u    |    U, v      | fr*ui*t, *oo*ze |     u     |    u\~ʊ     |    i    | V |
+|  yo  |   y    |    Y         |*y*ogurt, *y*ell |     j     |   j, ʲ, i   |    we   | C |
+|  la  |   l    |    L         | *l*ime, fa*ll*  |     l     |    l\~r     |    ta   | C |
+|  we  |   w    |    W, ɯ      | *w*ine, q*u*iet |     w     |   w, ʷ, u   |    yo   | C |
+|  na  |   n    |    Λ         |*n*ectar, pai*n* |     n     |   n, ŋ\~ɴ   |    ko   | C |
+|  me  |   m    |    M         |*m*elon, screa*m*|     m     |      m      |    pe   | C |
+|  ho  |   h    |    Һ         | *h*oney, *h*ide |     h     |   x\~h, ɦ   |    co   | C |
+|  co  |   c    |    C         |*ch*eese, *sh*riek|   t͡ʃ     |t͡ʃ\~t͡ʂ, ʃ\~ʂ |    ho   | C |
+|  sa  |   s    |    S         | *s*alt, hi*ss*  |     s     |      s      |    fe   | C |
+|  fe  |   f    |    F         | *f*ish, cou*gh* |     f     |    ɸ\~f     |    sa   | C |
+|  ko  |   k    |    K, κ      | *c*ake, *g*rab  |     k     |   k kʰ ɡ    |    na   | C |
+|  ta  |   t    |    T, τ      |  *t*ea, *d*eep  |     t     |   t tʰ d    |    la   | C |
+|  pe  |   p    |    P, ρ      | *p*ear, *b*urst |     p     |   p pʰ b    |    me   | C |
 
 If you're a linguist, the following [IPA](1) table may prove easier to read:
 
@@ -92,7 +92,7 @@ In addition to this subset of Latin letters, a subset of other Latin symbols may
 
 ### Extensions
 
-Finally, there are twenty-seven more letters that may be used for transcribing foreign names in Oltilip. Guidelines on when to do this can be found in section ?. They fill out the simplified IPA tables below.
+Finally, there are twenty-seven more letters that may be used for transcribing foreign names in Oltilip, though it is recommended that foreign names be Oltilipised into the seventeen basic letters when possible. The extensions here are only for cases where two foreign words would be indistinguishable or where the person named prefers that their name be pronounced with a particular phone. They fill out the simplified IPA tables below.
 
 |                          | Labial | Alveolar | Postalveolar\~Retroflex | Palatal | Velar&tilde;Uvular | Pharangeal&tilde;Glottal |
 |--------------------------|--------|----------|--------------|---------|-------|---------|
@@ -123,116 +123,153 @@ Finally, there are twenty-seven more letters that may be used for transcribing f
 |**Nasal release**  | dn |**Low**   | ˩ |
 |**Lateral release**| dl |
 
-## Vocabulary
+### Phonotactics
 
-Oltilip has 426 basic roots, drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomotopoetic lexicons. The source languages were selected and weighted in order to give the most mnemonic value to the greatest number of people. These roots fall into five parts of speech—nouns, verbs, numerals, specifiers, and sentence particles—which will be explained in the next section. While these root words cover many concepts, with only 426, there are inevitably many lexical gaps and ambiguities. These are filled with Oltilip's powerful, multifaceted morphological derivation system. New words are derived in three main ways: _compounds_, _affixen_, and _loans_.
-
-### Compound words
-
-The most intuitive way to form a new word in Oltilip is with a simple compound. This involves combining two or more existing words to form a new one. It takes the part of speech of the second, and represents something between the meanings of both. For example, "pahopoltilum", meaning "underwear", is derived from "paho", meaning "to be under", and "poltilum", meaning "clothing".
-
-### Affixen
-
-### Loanwords
-
-For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, a class of word that is neither root nor  preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, "'doyc" means "German"
-
-Like the compound words, the set of documented loanwords is not complete. They are meant to encompass the highly specific concepts that Djastiz cannot describe on its own, and thus to attempt to recond all of them in a Djastiz dictionary would be impossible. Instead, I have included some useful examples of loanwords in [loanword.csv](dictionary/loanword.csv).
+Oltilip generally follows a (C)(G)V(G)(C) syllable structure, where any letter can appear in any position according to its class. The only restrictions are the disallowance of double letters and the clusters "ey", "ow", "iy", "uw", "yi", and "wu" within roots. These restrictions are dropped for loanwords. The exception to this syllable structure is the pronoun "l", which can be analysed as a syllabic consonant. However, because it is syntactically always adjacent to a consonant, it need never be pronounced as such.
 
 ## Grammar
 
-The grammar of Chastisun is designed to be as simple as possible while enabling speakers to be either simple and vague or exact and precise at will. It can be summed up in the following Backus-Nur form.
-         sentence ::= \[sentence-particle\] postposit-phrase\* \[verb-phrase postposit-phrase\*\]
- postposit-phrase ::= (noun-phrase | sentence) postposition
-      noun-phrase ::= \[specifier\] (noun | pronoun | number | relative-phrase | noun-phrase)\*
-      verb-phrase ::= verb+
-  relative-phrase ::= postposit-phrase\* \[verb-phrase postpos-phrase\*\] \["l" postposition\]
-           number ::= \[number "imal"\] \[\[neg\] digit+\] \["ljo" number\]
-         X-phrase ::= \[qualifier | number\] \["bo"\] X-phrase ("ha" X-phrase)\+
+The grammar of Oltilip is characterised as an analytic, active-stative, head-final system with free word order. In a nutshell, it can be described as:  
+         sentence ::= \[sentence-particle\] postposit-phrase\* \[verb-phrase postposit-phrase\*\]  
+ postposit-phrase ::= (noun-phrase \| sentence) postposition  
+      noun-phrase ::= \[specifier\] (noun \| pronoun \| numeral \| relative-clause \| noun-phrase)\*  
+      verb-phrase ::= verb+  
+  relative-clause ::= postposit-phrase\* \[verb-phrase postpos-phrase\*\] \["l" postposition\]  
+          numeral ::= \[numeral "imal"\] \[\[neg\] digit+\] \["ljo" numeral\]  
+         X-phrase ::= \[qualifier \| numeral\] \["bo"\] X-phrase ("ha" X-phrase)\+
 
-If you don't know what any of that means, don't worry. Each type of phrase is described more explicitly in the following sections.
-
-This may seem confusing to those more familiar with word-order-based systems, but the reliance on postpositions alone decreases the number of patterns and greatly simplifies the grammar overall. It can also be considered equivalent to many case systems.
+Don't know what any of that means? Don't worry. Let's jump into it now.
 
 ### Sentence particles
 
-A tense marker gives the general purpose of a sentence. It is the first thing in the sentence. There are ten tense markers, and each creates a fundamentally different kind of communication.
-- `ȅ` is the _declarative_ tense marker. It precedes a sentence that conveys information. The event or fact described in a declarative sentence is true, according to the singer.
-- `ȁ` is the _interrogative_ tense marker. It precedes a sentence that requests information. An interrogative sentence usually contains the word `pèm` at least once, though the position of `pèm` can also be implied. In either case, `pèm` represents a piece of information missing from the sentence that the singer would like to know.
-- `jȕ` is the _imperative_ tense marker. It precedes a sentence that requests action. An imperative sentence describes an event or action that the singer wants to happen.
-- `pā` is a bit more complicated. It does not create sentences at all, but rather _noun clauses_. These will be discussed in [&#167;2.3](#noun-phrases).
-- `lȕ` is the _bureaucratic_ tense marker. It behaves similarly to `ȅ`, specifically in contexts where saying a sentence causes it to be true. Bureaucratic sentences are especially useful for proclamations, definitions, and assumptions in mathematical proofs.
-- `mùről` behaves exactly like `jȕ`, but frames the request as less mandatory and more polite. The frequency with which one uses `mùről` versus `jȕ` completely depends on the society, and since no society actually sings Djastiz, I have no idea how useful this word is.
-- `jȍ` is the _salutary_ tense marker. It is used to construct basic greetings. `jȍ` is a _simple tense marker_, which means that it can be used with simpler sentence patters. These will be discussed further in [&#167;2.7](#special-words).
-- `lȍ` is the _antisalutory_ tense marker. It is used to construct basic parting statements and, like `lȍ`, is simple.
-- `lȅ` is the _neutral exclamatory_ tense marker and is used to express general awe or surprise at something. It is also a simple tense marker.
-- `lȁ` is the _positive exclamatory_ tense marker and is used to express general happiness or approval. It is also a simple tense marker.
-- `pȕ` is the _negative exclamatory_ tense marker, which expresses general unhappiness or disapproval. It is also a simple tense marker.
+A sentence particle, when included, is the first thing in a sentence or clause. It specifies the mood of that clause: whether it's a statement, a question, etc. There are six.
+- "sa" marks a declarative sentence, or indicates acknowledgement when used alone;
+- "cu" marks an interrogative sentence, or indicates confusion when used alone;
+- "na" marks an imperative sentence, or indicates an implied command when used alone;
+- "pana" marks a polite imperative sentence, or indicates an implied request when used alone;
+- "wa" marks an exclamatory sentence, or indicates surprise when used alone; and
+- "ke" marks a subordinate clause.
 
-In addition to labelling the type of sentence, the tense marker indicates the start of the sentence. The sentence ends with the predicate, which we will discuss briefly. Between these tokens lies the meat of the sentence: postpositional phrases.
+When these are used to mark sentences and clauses, the rest of the phrase comprises a series of postpositional phrases, optionally with a predicate included.
 
 ### Postpositional phrases
 
-Every postpositional phrase describes one aspect of the event described by the sentence, and comprises two parts: the _complement_, which is a noun phrase, and the _postposition_, which is drawn from the following list of fifteen. The postposition specifies what aspect of the sentence is being described, and the complement describes that aspect. These postpositional phrases may occur in any order. There are three classes of postpositional phrase.
+Every postpositional phrase describes one aspect of the event or state described by the clause, and comprises two parts: the _complement_, which is a noun phrase, and the _postposition_, which is drawn from the following list of fifteen. The postposition specifies what aspect of the clause is being described, and the complement describes that aspect. These postpositional phrases may occur in any order. Postpositions can be categorised into two types
 
-_Argumentative postpositions_ also may only be included once per sentence, if that. Each one may or may not be _applicable_ based on the predicate. If an argumentative preposition is applicable, it may be included in the sentence, but does not need to be if its complement is implied. A proper Djastiz dictionary would list the applicable argumentative prepositions for every verb in the language, as well as their precise meanings in each case. Let's be real, though. There's no way I'm going to do that. Instead, I'll leave it up to the singers' discretion when each preposition is applicable. In general:
-- `ó` denotes the _subject_ of the action, the agent that initializes and/or carries out the action (e.g. the planner of `ojȅl`). `ó` is almost always applicable.
-- `ē` denotes the _direct object_, the object on which the subject acts or to which the action refers (e.g. the food of `molȁm`). `ē` is never applicable when `ó` is not.
-- `à` denotes the _indirect object_ of the action, the concept that the subject indirectly affects or references (e.g. the origin of `le̋l`). It often functions in tandem with `ē` (e.g. the old and new values in `jaȕl`). `à` is never applicable when `ē` is not.
+_Adjunctive postpositions_ have complements with predictable and general meanings, and can be used with any predicate, or multiple times with the same predicate if used in different contexts (e.g. using "yot" once for location in virtual space and again for location in physical space). There are 
+- "yan" marks the extent or quantity of the action, either as a numeral or another noun against which to compare;
+- "yot" marks the location of the action;
+- "wel" marks the date or time of the action;
+- "ial" marks the cause or purpose of the action;
+- "uat" marks the tool or medium of the action;
+- "ayf" marks the hypothetical conditions surrounding the action (as "if" in English);
+- "ip" marks the manner or method of the action, usually as a suborditate clause; and
+- "ak" marks something that is related to the action in some other way.
 
-_Adjunctive prepositions_, by contrast, are always applicable, and can be used multiple times in one sentence if being used in different contexts (e.g. using `shug` once for the location in virtual space and again for the location in real space). They denote, in a sense, the "where, when, why, how" of the sentence.
-- `ù` denotes the extent or quantity of the action. This can be a number or another noun to be compared against.
-- `jé` denotes the location of the action in physical space.
-- `ùm` denotes the date and/or time of the action.
-- `lō` denotes the cause of the action.
-- `jē` denotes the purpose of the action.
-- `rē` denotes the context of the action, very much like "regarding ..." or "in the ... sense" in English.
-- `rol` denotes the tool or medium of the action.
-- `jol` denotes whether the action happened (generally only used in interrogative sentences, since it's universally implied to be `ű`).
-- `pū` denotes the hypothetical conditions surrounding the action (very similar to English's "if").
-- `mó` denotes the method of the action, usually a noun clause that happens with or before and is necessary for the main action.
-- `mom` denotes the manner of the action, often a noun clause that describes the action.
-- `jó` denotes the adressee of the sentence, if it is unclear or requires emphasis.
-- `ōm` denotes the source of the information, inquiry, or command, if it is not the singer or requires emphasis.
+_Argumentative postpositions_ have complements with meanings specific to their predicate, and can only be used once per clause. The definition of each Oltilip verb describes which argumentative postpositions are applicable and what roles they mark, but they can generally be qualified as three classes of semantic role.
+- "es" marks the agent of the action, the entity that initialises and carries out the action;
+- "on" marks the patient or experiencer, the entity whose state is changed or described by the action; and
+- "um" marks the theme or stimulus, an entitty that is not directly involved in the action but is essential to it nonetheless.
 
 ### Predicates
 
-There is not much to say about the predicate. The last thing in the sentence, it comprises a single verb. This verb describes the most fundamental meaning of the sentence beyond the tense: what kind of action or event is being described. Unlike in Modern Djastiz, in Musical Djastiz, the verb is mandatory.
+The predicate of a clause describes the action or state being described in the most general sense. It usually comprises a single _verb_. In Oltilip, verbs do not conjugate for tense, aspect, or anything else, so "et es nyama" can mean "they had eaten", "they ate", "they are eating", "they eat", or "they will eat". Therefore, if the time of a predicate is important, make sure to manually and specifically include it with "wel".
+
+More complex predicates can be formed by appending other verbs, which serve as auxiliary verbs. This is only valid for verbs that take clauses as arguments, such as "nyo", "calu", "powi", and "tewi". For example, while the sentence "et es pola min on" means "they speak to me", appending "nyo" to the predicate turns it into "et es pola nyo min on", which means "they do not speak to me". This is shorthand for subordinating the entire sentence to "nyo": "et es pola min on on nyo" translates to "it is false that they speak to me".
 
 ### Noun phrases
 
-Noun phrases are the primary building blocks with which one describes complex concepts. There are four ways to construct these.
+Noun phrases are the primary building blocks with which one describes complex concepts. There are many ways to construct these.
 
-The first, and by far the simplest, is a _noun_. There are hundreds from which to choose! Each one describes an instance or instances of a concept or class of objects. Often, however, the concept one wants will not be found in the list.
+The first, and by far the simplest, is a _noun_. Each one describes an instance or instances of a concept or class of objects. In Oltilip, nouns do not decline for number, gender, or anything else, so "won" can mean "people", "women", "men", "the person", "a woman", or "every man". Therefore, if the quantity or quality of a noun phrase is important, make sure to manually and specifically include it with the mechanisms described below.
 
-The next method is the prependix of a _qualifier_ to a noun phrase. There are six qualifiers, which primarily manipulate _sets_ (a set is just a noun phrase that describes a group of things) and logical operations.
-- `él` creates a phrase that refers to anything but the meaning of the following noun phrase.
-- `ló` creates a phrase that refers to all possible instances of the following concept together in a set.
-- `mum` creates a phrase that refers to a single unspecified element of the following set or instance of the following concept. The sentence is true for one element of the set.
-- `ré` creates a phrase that refers to an unspecified subset of the following set or unspecified instances of the following concept. The sentence is true for part of the set.
-- `ūl` creates a phrase that refers to every element of the following set or instance of the following concept individually. The sentence is true for each element of the set.
-- `ōl` emphasizes a particularly important or surprising noun phrase.
+Anywhere a noun can be used, one can also opt for a _pronoun_. Like nouns, Oltilip pronouns do not decline at all; most purely indicate person or definiteness. Some of them are fairly common and intuitive, while others are more complicated.
+- "min", "me", is the first person pronoun;
+- "puk", "you", is the second person pronoun;
+- "et", "it" or "that", is the third person, distal, and definite pronoun;
+- "ol", "this", is the proximal pronoun;
+- "wan", "one", is the indefinite pronoun;
+- "sif", "oneself", is the reflexive pronoun;
+- "kulan" refers to the next item in the implied series;
+- "nitak" refers to the previous item in the implied series;
+- "kon" stands in for missing information in interrogative sentences; and
+- "l" stands for the referenced noun in _relative clauses_.
 
-The third method is the appendix of a _modifier_. Modifiers are attached to the ends of noun phrases to create new noun phrases. There are two types of modifier, each of which has its own quirks, so they will be discussed at length in [&#167;2.4](#modifiers).
+Similar to pronouns are _numerals_, which spcifically indicate the number of a noun phrase. They have special derivation rules and are therefore described in the next subsection.
 
-The fourth and perhaps most complicated method is a gerund. A noun clause comprises `pā` followed by a list of postpositional phrases and a verb. Noun clauses appear at first to be sentences with `pā` as their punctuation marker. However, do not be misled. These are nouns that refer to the meaning of the sentence they appear to be. They are commonly used with verbs such as `jaȕl` and `lȕm`.
+Relative clauses are another kind of noun phrase, and the most versatile. A relative clause is simply any clause, optionally using "ke" as its particle, with "l" optionally inserted as a noun as late as possible in it. It describes anything that could go where "l" is in a full sentence. This is commonly used with stative verbs such as "luci", which means "be red". Since "luci et on" means "it is red", "ke luci l on" or "luci l on" means "one that is red", or "red thing". It is also frequently used with the vague postposition "ak". Since "ciuh ak" describes some action generally related to plants, "ke ciuh ak l on" or "ciuh ak" means "of or related to plants" or "botanical".
 
-The final method is _pronouns_, which function exactly as nouns do, but with meanings derived exclusively from context. There are nine of them.
-- `ō` is the simplest pronoun. It carries no information, and acts as more of a placeholder than anything else.
-- `òm` stands in for any noun that has been recently mentioned.
-- `úl` refers to the singer or writer.
-- `pò` refers to the listener or reader.
-- `jul` refers to an agent other than the singer or listener.
-- `jal` refers to the singer and others.
-- `mè` refers to the listener and others.
-- `rè` refers to the singer and the listener.
-- `mā` refers to the singer, listener, and others.
+A similar but distinct kind of noun phrase is the _content clause_. A content clause is syntactically equivalent to a sentence, except that when it takes a patricle, it always take "ke". Semantically, it references the action or state described by that sentence as a noun. This structure is especially useful for verbs like "calu", "continue", which almost always take content clauses as arguments. The sentence "puk es nyama", "you eat", can be converted into a content clause and used as such as in "puk es nyama on calu": "you eating continues" or "you continue to eat".
 
-Noun phrases can also technically be created with _conjunctions_, but then, so can prepositional phrases and modifiers and predicates. I'll explain those in a different paragraph.
+Any noun phrase can also be preceeded by a specifier. Specifiers manipulate the meanings of noun phrases that describe sets, and each works in a pretty distinct way.
+- "en", "any", indicates that the sentence is true for one element of the noun phrase, regardless of which one is picked;
+- "ok", "each", indicates that the sentence is true for every element of the noun phrase individually;
+- "alkun", "some", specifies that the sentence is true for some subset of the noun phrase;
+- "sol", "only", indicates that the sentence is true for the given noun phrase and nothing else;
+- "ifen", "even", emphasises a noun phrase that is surprising or especially important;
+- "yo" optionally starts a conjunctive phrase; and
+- "aw" separates elements of a conjunctive phrase.
 
-### Numbers
+Conjunctive phrases combine noun phrases that reference different things into a single noun phrase, but the exact meaning of the conjunction, like the use of "-slash-" in modern English, is ambiguous. It can be made more specific by adding "ok" or "kit" before the "yo" or first element for an analogue to English's "and", or adding "en", "kan", or "kon" for an analogue to English's "or".
 
-number := (number <rad>)? <neg>? (digit)* (<paw> number)?
+Finally, noun phrases of all kinds can also be concatenated to form more specific ones. When two noun phrases are combined, the resulting meaning is the intersection of both. For example, it is not uncommon for a noun phrase to comprise a pronoun for its definiteness, a numeral for its number, multiple nouns for its class and gender, and a relative clause for added specificity, as in "ifen et tos supot myawf mutilon", "even the two orange tomcats".
+
+### Numerals
+
+The last Oltilip part of speech is the numeral. Oltilip contains many mechanisms for describing numbers in precise mathematical ways, which deserve a Back-Nur all to themselves:
+
+numeral := \[numeral "imal"\] \["men"\] digit\* \["paw" numeral\]
+
+However, for the non-mathemetician, most of this is largely unnecessary. Luckily, basic numbers are also extremely easy to construct. The ten basic numerals are the digits from zero to nine.
+
+|  0  | nul |
+|  1  | kan |
+|  2  | tos |
+|  3  | san |
+|  4  | fol |
+|  5  | lim |
+|  6  | cah |
+|  7  | pit |
+|  8  | hat |
+|  9  | mes |
+
+Numbers larger than nine are described in positional notation, either with or without spaces:
+
+|  10 | kannul |
+|  11 | kankan |
+|  12 | kantos |
+|  20 | tosnul |
+|  21 | toskan |
+| 100 | kannulnul |
+| 1 000 | kan nulnulnul |
+
+This can quickly become unweildly for large orders of magnitude. For that reason, the prefix "lyon" exists. Appending to an existing numeral "lyon" plus another numeral raises its order of magnitude by the second amount. It can be translated as "times ten to the power" or "×10^". So where "kan lim" means "fifteen" and "tos" means "two", "kan lim lyontos" means "fifteen times ten to the power two", "fifteen hundred", or "1 500". "lyontos" can also be used on its own to simply mean "one hundred".
+
+For numbers smaller or more precise than one, the particle "tyen" serves as the radix point. "tyen lim" means "point five", "cah tyen tos hat" means "six point two eight", and "fol tyen nul" means "four point zero".
+
+While it can usually be assumed that this is all in decimal, the system itself is radix-independent. To specify a radix, the base plus the suffix "imal" can be prepended to the number. Digits exist for bases up to 17<sub>10</sub>.
+
+|  A  | tes |
+|  B  | tup |
+|  C  | set |
+|  D  | fak |
+|  E  | lef |
+|  F  | nak |
+|  G  | hes |
+
+Thus, while "kan nul" usually means "tesimal kan nul", the atomic number of neon, it can also be made to mean "cahimal kan nul", the atomic number of carbon, "hesimal kan nul", the atomic number of sulfur, or even "tesimalcahnulimal kan nul", the atomic number of neodymium.
+
+Negative numbers are formed by simply prepending "men" to their opposite, as in "men san". These can also be used with "lyon", as in "hat tyen mes lyon men kan tos". When it is useful to emphasize the sign of a positive number, this can be done with the otherwise meaningless prefix "pok", as in "pok kan aw men kan".
+
+Fractions are formed with the separator "pel", which simply divides the numeral before it by the numeral after it. For example, "tostos pel pit".
+
+Finally, three subjective numerals exist for siutations when a number would not typically be used in English.
+- "pih" means some small quantity;
+- "muc" means some large quantity; and
+- "kit" means the maximum possible quantity given the context.
+These can be used in tandem with other numbers, as in "muc nul nul" for "many hundreds", but are usually used alone, more like pronouns.
+
+### "Do no wrong" principle
 
 ### Tips and tricks
 
@@ -258,7 +295,56 @@ The verb "to have"
 
 The verb "to need"
 
+## Vocabulary
+
+Oltilip has 426 basic roots, drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomotopoetic lexicons. The source languages were selected and weighted in order to give the most mnemonic value to the greatest number of people. These roots fall into five parts of speech—nouns, verbs, numerals, specifiers, and sentence particles—which will be explained in the next section. While these root words cover many concepts, with only 426, there are inevitably many lexical gaps and ambiguities. These are filled with Oltilip's morphological derivation system. New words are derived in three main ways: _inversion_, _compounds_, _affixes_, and _loans_.
+
+### Inversion
+
+Inversion is by far the least intuitive and most unique of the four. It is used to derive antonyms and opposites of verbs and nouns. For example, the word for "to be near", "nito", is derived by inverting the word for "to be far", "kule". This is accomplished by simply replacing every letter in "kule" with its inverse letter, as specified in the phonology table in section ?. The "ke" goes to "na", the "u" goes to "i", the "la" goes to "ta", and the "e" goes to "o".
+
+### Compound words
+
+A more standard way to form a new word is with a simple compound. This involves combining two or more existing words to form a new one. It takes the part of speech of the second, and represents something between the meanings of both. For example, "pahopoltilum", meaning "underwear", is derived from "paho", meaning "to be under", and "poltilum", meaning "clothing".
+
+One of the most common uses of this system is the creation of demonyms and language names. In Oltilip, a loanword may represent a country or people group, depending on which is named after the other. If a loanword is used for the country, then the demonym is derived by combining it with "won", "person". If the people, then the toponym is derived by combining it with "tec", "country". Either way, the loanword can be combined with the word "tilip", "language", to describe the language of that country, or with the word "kwelyot", "place", to describe a geographic area. For example, "'alap" is the Oltilip word for "Arab" or "the Arabian people". Saudi Arabia is then "'alaptec", the Arabic language is "'alaptilip", and the Arabian peninsula is "'alapkwelyot".
+
+### Affixes
+
+A more precise way to derive new terms is through the addition af affixes. In Oltilip, all affixes are themselves words, and the result of adding one means the same thing as the base word and affix placed together in a sentence, albeit lexicalised. For example, if the relative pronoun "les" is placed next to the verb "noki", which means "to know", one gets "noki les", which means "one who teaches". When "les" is used as a suffix, that phrase is lexicalised into "nokiles", which means "teacher". This form carries two concrete advantages over the phrase "noki les"; specifically, "nokiles" cannot be interpreted as two words in adjacent phrases should the surrounding grammar be complicated, and further can refer to the concept of a teacher even when there is no one in the discussion who is currently teaching. Learning a word like "nokiles" is also inherently easier than repeatedly parsing a phrase like "noki les".
+
+There are ten suffixes that can turn verbs into nouns:
+- "-les" references the agent of a verb, similar to "-er" in English,
+- "-lon" references the patient of a verb, similar to "-ee" in English,
+- "-lum" references the theme of a verb,
+- "-lyan" references the extent to which a verb takes place,
+- "-lwel" references the time at which a verb takes place,
+- "-lyot" references the location at which a verb takes place,
+- "-lial" references the cause because of which verb takes place,
+- "-luat" references the instrument by which verb takes place, and
+- "-lip" references the way in which a verb takes place.
+
+There are four suffixes that can turn verbs into other verbs:
+- "-nyo" describes the negative of a verb, similar to "non-" in English,
+- "-ki" describes the inception of a verb, similar to "-ise" or "-en" in English,
+- "-nu" describes the cession of a verb, similar to "de- -ise" or "un- -en" in English,
+- "-powi" describes the potential of a verb, similar to "-able" or "-ible" in English, and
+- "-calu" describes the continuation of a verb.
+
+Finally, there is one suffix that turns nouns into other nouns:
+- "-ak" describes anything of or related to a noun, similar to "-al", "-ic", or "-'s" in English.
+
+### Loanwords
+
+For words that describe deeply technical concepts like deoxyribonucleic acid, cultural concepts like ahupua&#8216;a, or a combination of the two like the oriental ladyfern, a class of word that is neither root nor  preferred method of denotation is the loanword, a word taken directly from other languages. Loanwords in Musical Djastiz use Modern Djastiz's phonology. The word should be taken from a language that has regional or historical ties to the concept. For example, a specific species of fox should have a word loaned from a language sung in a region where that fox is or was found. Gramatically, loanwords are equivalent to nouns. Note that this is also the preferred method for generating toponyms, even when the country in question uses a compound word in the native language. For example, "'doyc" means "German"
+
+Like the compound words, the set of documented loanwords is not complete. They are meant to encompass the highly specific concepts that Djastiz cannot describe on its own, and thus to attempt to recond all of them in a Djastiz dictionary would be impossible. Instead, I have included some useful examples of loanwords in [loanword.csv](dictionary/loanword.csv).
+
+## Common phrases
+
 ## Flag
+
+The flag of Oltilip is a white and blue azure bicolour, divided by a sinusoid. In the center, it bears an orange six-pointed star circumscribed by an azure and white circle. The white field represents peace, which Oltilip could facilitate, while the azure represents knowledge, which Oltilip could perpetuate. The line between them is a sinusoid instead of the traditional straight line to represent the fluidity of Oltilip's grammar, and its free word order in particular. The circle represents the Earth---blue, white, and circular. The star both separates it into six sections, the six continents, and bridges the gap between them. It represents language, and Oltilip specifically---something that can separate us, but also something that can keep us together.
 
 # Appendices
 
