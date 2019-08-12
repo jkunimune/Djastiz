@@ -156,9 +156,9 @@ Marshall Islands (archipelago) {GENITIVE:Marshallese; Marshall Islander; from th
 Mashriq; Mashreq {GENITIVE:Mashriqi; Mashriq; from the Mashriq},,ara <مـشـرِق‎‎> [maʃreq],'maclek
 Mauritania {GENITIVE:Mauritanian; from Mauritania|PEOPLE:Mauritanian; the Mauritanian people},,ara <موريتانيا‎> [muːriːtaːnijaː],'mulitanya
 Mauritius {GENITIVE:Mauritian; from Mauritius|PEOPLE:Mauritian; the Mauritian people|LANGUAGE:Mauritian creole; Morisien},,mfe <Moris> [moʁis],'mohis
-Melanesian; the Melanesian people {GENITIVE:Melanesian; from Melanesia|REGION:Melanesia},,fra <Mélanésie> [ˈmelɐnezi],'melanesi
+Melanesia {GENITIVE:Melanesian; from Melanesia|PEOPLE:Melanesian; the Melanesian people},,fra <Mélanésie> [ˈmelɐnezi],'melanesi
 Mexico {GENITIVE:Mexican; from Mexico|PEOPLE:Mexican; the Mexican people},,spa <México> [ˈmexiko],'mehiko
-Micronesia (archipelago) {GENITIVE:Micronesian; from Micronesia|PEOPLE:Micronesian; the Micronesian people|COUNTRY:Micronesia; Federated States of Micronesia {PEOPLE:Micronesian; the Micronesian citizenry}},,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
+Micronesia (region) {GENITIVE:Micronesian; from Micronesia|PEOPLE:Micronesian; the Micronesian people|COUNTRY:Micronesia; Federated States of Micronesia {PEOPLE:Micronesian; the Micronesian citizenry}},,fra <Micronésie> [ˈmikʁonezi],'mikhonesi
 Fujian; Fujien; Min {GENITIVE:Fujianese; from Fujian|PEOPLE:Fujianese; Fujian; the Fujianese people|LANGUAGE:Min Chinese; the Min languages},,nan <福建> [hok˨kjeŋ˨˩˧],'hokyen
 Moldova river {GENITIVE:Moldovan; from Moldova|PEOPLE:Moldovan; the Moldovan people|COUNTRY:Moldova|LANGUAGE:Moldovan; the Moldovan language},,ron <Moldova> [moldova],'moltofa
 Monaco {GENITIVE:Monacan; Monégasque; from Monaco|PEOPLE:Monégasque; Monacan; the Monacan people},,fra <Monaco> [mɔnako],'monako
@@ -224,7 +224,7 @@ Somali; Somalian; the Somali people {GENITIVE:Somalian; from Somalia|COUNTRY:Som
 Basotho; Sotho; the Sotho people {GENITIVE:Mosotho; from Lesotho|COUNTRY:Lesotho|LANGUAGE:Sesotho; Sotho; the Sotho language},,sot <Sotho> [sʊ́tʰʊ̀],'sutu
 Spain {GENITIVE:Spanish; from Spain|PEOPLE:Spaniard; the Spanish people|LANGUAGE:Spanish|LANGUAGE:the Spanish language},,spa <españa> [espaɲa],'espanya
 Sri Lanka (landmass) {GENITIVE:Sri Lankan; from Sri Lanka|PEOPLE:Sri Lankan; the Sri Lankan people|COUNTRY:Sri Lanka; the Democratic Socialist Republic of Sri Lanka},,sin <ලංකා> [laŋkaː],'lanka
-Sudan {GENITIVE:Sudanese; from Sudan|PEOPLE:Sudanese; the Sudanese people},,ara <السودان‎> [assuːdaːn],'asutan
+Sudan {GENITIVE:Sudanese; from Sudan|PEOPLE:Sudanese; the Sudanese people},,ara <السودان‎> [assuːdaːn],'assutan
 Suriname {GENITIVE:Surinamese; from Suriname|PEOPLE:Surinamese; the Surinamese people},,nld <Suriname> [ˌsyːriˈnaːmə],'sulinama
 Swahili; the Swahili people {GENITIVE:Swahili; of the Swahili|LANGUAGE:Swahili; the Swahili language},,swa <swahili> [swahili],'swahili
 Swede; the Swedish people {GENITIVE:Swedish; from Sweden|COUNTRY:Sweden|LANGUAGE:Swedish; the Swedish language},,swe <svensk> [svɛnːsk],'swensek
@@ -324,7 +324,7 @@ Shintoism {GENITIVE:Shinto; of Shintoism|PEOPLE:Shintoist; followers of Shintois
 Sikh; followers of Sikhism {GENITIVE:Sikh; of Sikhism},,pan <ਸਿੱਖ> [ˈsɪkkʰ],'sik
 Smriti,,san <स्मृति> [smr̩ti],'samliti
 spirit (Spiritualism),,eng <spirit> [ˈspɪɹʷɪt],'sipiwit
-Sunni Islam; Sunniism {GENITIVE:Sunni; of Sunni Islam|PEOPLE:Sunni; followers of Sunni Islam},,ara <سنة> [ˈsunnah],'sunah
+Sunni Islam; Sunniism {GENITIVE:Sunni; of Sunni Islam|PEOPLE:Sunni; followers of Sunni Islam},,ara <سنة> [ˈsunnah],'sunnah
 Dao; Tao,,cmn <道> [taw˥˩],'taw
 Vishnu,,san <विष्णु> [ʋɪʂɳʊ],'wicnu
 Ahura Mazda; Ohrmazd; Ahuramazda; Hourmazd; Hormazd; Hurmuz,,ave <𐬨𐬀𐬰𐬛𐬁> [mazdaː],'masta
@@ -369,7 +369,7 @@ makbūs,,ara <مچبوس> [mɑt͡ʃˈbuːs],'macpus
 pizza,,ita <pizza> [ˈpit͡sːa],'pitsa
 salteña,,spa <salteña> [salˈteɲa],'saltenya
 schnitzel,,deu <schnitzel> [ˈʃnɪtsl̩],'cinitsel
-spaghetti,,ita <spaghetti> [spaˈɡetti],'espaketi
+spaghetti,,ita <spaghetti> [spaˈɡetti],'espaketti
 wine,,kat <ღვინო> [ɣvinɔ],'wino
 vodka,,rus <водка> [ˈvotkə],'wotka
 tequila,,spa <tequila> [teˈkila],'tekila
@@ -429,14 +429,14 @@ galaxy,,gre <γαλαξίας> [ɡalaksíaːs],'kalasias
 radian; rad,,eng <radian> [ˈɹʷeɪdiɪn],'watian
 metre; meter; m,,fra <mètre> [ˈmɛtʁ],'methe
 litre; liter; L,,fra <litre> [ˈlitʁ],'lithe
-kilogram; kg,,fra <kilogramme> [ˈkilɔɡʁam],'kilokham
+gram; g,,fra <gramme> [ɡʁam],'kaham
 degree Celsius; degree centigrade; °C,,swe <celcius> [ˈsɛːlsjʊs],'selsyus
 ke (unit),,cmn <刻> [kʰɤ˨˩],'kao
 football; soccer,,eng <football> [ˈfʊʔbɔːl],'futpol
 American football,,eng <football> [fʊtbɑl],'futpal
 golf,,eng <golf> [ɡɒf],'kof
 pahoehoe,,haw <pāhoehoe> [paːˈhoweˈhowe],'pahoehoe
-aa,,haw <ʻaʻā> [ʔəˈʔaː],'aha
+aa,,haw <ʻaʻā> [ʔəˈʔaː],'aa
 tokamak,,rus <токамáк> [tɔkɐmɐk],'tokamak
 tau; 6.283…,,grc <τ> [taw],'taw
 pi; 3.142…,,grc <π> [pi],'pi

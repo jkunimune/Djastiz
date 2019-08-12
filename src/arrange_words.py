@@ -645,7 +645,7 @@ def load_dictionary(directory):
 				try:
 					entry['partos'] = 'compound '+words[dehyphenated(entry['source'].split()[-1])]['partos'] # the pos of a compound is based on the last word in it
 				except (KeyError, IndexError):
-					raise ValueError("Did not understand part of speech of {}".format(words[entry['source']].split()[-1]))
+					raise ValueError("Did not understand part of speech of {}".format(entry['source'].split()[-1]))
 
 		for deriv_type, deriv_dict in unprocessed_derivatives.items(): # look at each of the unprocessed derivatives (the things in {})
 			deriv_dict['source'] = '{} OF {}'.format(deriv_type, possible_gloss)

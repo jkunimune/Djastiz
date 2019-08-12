@@ -38,7 +38,7 @@ be number from the end; be in order from the end; negatively index; OBJ has an e
 move down; position; sort; arrange; order; SBJ {sorter} moves OBJ down the sequence IND {sorted} {METHOD:order},,INCOHATIVE OF be number,oltoki
 move up; position; SBJ moves OBJ up the sequence IND,,CESSATIVE OF be number,etleki
 say; convey; communicate; SBJ {sayer} conveys IND {message; idea; signal; utterance} to OBJ {addressee} {INSTRUMENT:phone; cell phone; communicator; communication device|METHOD:language; protocol {GENITIVE:linguistic; lingual}},,xho <thi> [tʰi],ti
-consult; look up; reference; refer; read; SBJ retrieves IND {desired information} from OBJ {reference; table; consultation},,REVERSAL OF say,lu
+consult; look up; reference; refer; read; SBJ retrieves IND from OBJ {reference; table; source; consult; dictionary},,REVERSAL OF say,lu
 perceive; sense; observe; beI perceptible; see; hear; feel; smell; taste; OBJ {perceiver; observer} perceives IND {perception; experience {GENITIVE:subjective}} {INSTRUMENT:sense; sensor|GENITIVE:perceptual},,swa <jua> [ʄua],cua
 show; look; listen; sniff; taste; read; SBJ {shower; looker; listener} shows IND {thing that is shown} to OBJ,,INCOHATIVE OF perceive,cuaki
 obscure; hide; remove; cloud; SBJ {cloud} makes OBJ stop perceiving IND {cloudy},,CESSATIVE OF perceive,cuanu
@@ -70,8 +70,8 @@ be tangible; be physical; be objective; IND {object; thing} is tangible to OBJ,,
 be digital; be intangible; be abstract; be nonphysical; IND {concept} is abstract from OBJ’s point of view,,NEGATIVE OF be tangible,amapowinyo
 print; tangiblise; soidify; SBJ {printer} brings OBJ into the physical realm,,INCOHATIVE OF be tangible,amapowiki
 scan; abstract; intangiblise; SBJ {scanner abstracter} takes OBJ out of the physical realm,,CESSATIVE OF be tangible,amapowinu
-read; load; interpret; SBJ {reader} reads OBJ {file; text; reading; passage; data; note} from the physical state of IND {source; text},,cmn <读> [tu˧˥],tu
-write; record; type; mark; save; transcribe; SBJ {writer} encodes OBJ {writing; data} physically on IND {record; book; paper} {INSTRUMENT:writing utensil|LOCATION:desk; writing surface|GENITIVE:literary; scriptural|METHOD:script; writing system; encoding},,ibo <de> [de],te
+read; load; interpret; SBJ {reader} reads IND {reading; sign; interpretation} from the physical state of OBJ,,cmn <读> [tu˧˥],tu
+write; record; type; mark; save; transcribe; SBJ {writer} encodes IND {text; writing; passage; data; article; note} physically on OBJ {record; book; paper; file} {INSTRUMENT:writing utensil|LOCATION:desk; writing surface|GENITIVE:literary; scriptural|METHOD:script; writing system; encoding},,ibo <de> [de],te
 erase; overwrite; obscure; SBJ {one who erases; eraser} removes traces of OBJ {erased} from IND {blank slate} {INSTRUMENT:eraser},,REVERSAL OF write,lo
 speak; voice; say out loud; SBJ {speaker} says IND {quote; words; phrase; utterance; speech} to OBJ out loud {INSTRUMENT:voice|GENITIVE:vocal; locutory|METHOD:accent; manner of speech|GENITIVE:phonetic},,ben <বলা> [bɔl̪a],pola
 own; have; possess; belong; OBJ {owner} owns IND {property},,jav <duwé> [tṳwe],tue
@@ -354,10 +354,10 @@ be yellow; OBJ reflects medium wavelength light {AMOUNT:yellowness},,hin <पी
 be purple; be violet; OBJ reflects short and long wavelength light,,ANTONYM OF be yellow,muta
 yellow; colour yellow; SBJ colours OBJ yellow,,INCOHATIVE OF be yellow,pilaki
 colour purple; colour violet; SBJ colours OBJ purple,,CESSATIVE OF be yellow,mutaki
-be blue; be cool; OBJ reflects short wavelength light {AMOUNT:blueness},,hin <नीला> [niːlaː],nila
-be orange; be warm; OBJ reflects long and medium wavelength light,,ANTONYM OF be blue,kuta
-colour blue; SBJ colours OBJ blue,,INCOHATIVE OF be blue,nilaki
-colour orange; SBJ colours OBJ orange,,CESSATIVE OF be blue,kutaki
+be blue; be cool; OBJ reflects short wavelength light {AMOUNT:blueness},,msa <biru> [biru],pilu
+be orange; be warm; OBJ reflects long and medium wavelength light,,ANTONYM OF be blue,muti
+colour blue; SBJ colours OBJ blue,,INCOHATIVE OF be blue,piluki
+colour orange; SBJ colours OBJ orange,,CESSATIVE OF be blue,mutiki
 be opaque; OBJ absorbs light that it does not reflect {AMOUNT:opacity},,epo <opaka> [oˈpaka],opaka
 be transparent; be see-through; OBJ {window} lets unreflected light pass through it,,ANTONYM OF be opaque,emana
 opaquify; SBJ make OBJ become opaque,,INCOHATIVE OF be opaque,opakaki
@@ -378,7 +378,7 @@ be sour; OBJ is sour {AMOUNT:sourness},,ben <টক> [tɔkɔ],toko
 be unsour; OBJ is not very sour,,ANTONYM OF be sour,lene
 sour; SBJ makes OBJ become sour,,INCOHATIVE OF be sour,tokoki
 desour; SBJ makes OBJ become less sour,,CESSATIVE OF be sour,leneki
-be savoury; have umami; OBJ is savoury {AMOUNT:savouriness; umami},,msa <gurih> [ɡurih],kuli
+be savoury; have umami; OBJ is savoury {AMOUNT:savouriness; umami},,jav <gurih> [kṳɽɪh],kuli
 be unsavoury; OBJ is not very savoury,,ANTONYM OF be savoury,nitu
 make savoury; SBJ makes OBJ become savoury,,INCOHATIVE OF be savoury,kuliki
 desavoury; SBJ makes OBJ become less savoury,,CESSATIVE OF be savoury,nituki
@@ -479,7 +479,7 @@ be stone; be rock; be earthen; OBJ is made out of earth,,fil <bato> [bato],pato
 turn to stone; earthify; SBJ turns OBJ to stone,,INCOHATIVE OF be stone,patoki
 be soil; be dirt; be earth; OBJ is made out of dirt,,ibo <anị> [anɪ],ani
 disintigrate; decompose; turn to dirt; SBJ turns OBJ to dirt,,INCOHATIVE OF be soil,aniki
-be metal; be metallic; OBJ is made out of metal,,ben <ধাতু> [d̪̤at̪u],tatu
+be metal; be metallic; OBJ is made out of metal,,hin <धातु> [d̤aːtu],tatu
 metallicise; SBJ turns OBJ into metal,,INCOHATIVE OF be metal,tatuki
 be crystal; OBJ {jewel; gem} is made out of crystal,,swa <kioo> [kioo],kio
 crystalise; SBJ turns OBJ into crystal,,INCOHATIVE OF be crystal,kioki
@@ -645,10 +645,10 @@ hunt; chase; pursue; SBJ {hunter} hunts for OBJ {hunted},,epo <ĉasi> [ˈt͡ʃas
 deserve; be entitled; OBJ {worthy; deserving; entitled} deserves IND {dessert},,cmn <应受> [iŋ˥ʂoʊ̯˥˩],inco
 earn; SBJ makes OBJ deserve IND,,INCOHATIVE OF deserve,incoki
 lose privelage; SBJ makes OBJ stop deserving IND,,CESSATIVE OF deserve,inconu
-be steep; OBJ is steep {AMOUNT:slope},,ibo <elu> [elu],elu
-be gentle; be flat; be shallow; be gradual; OBJ is not very steep,,ANTONYM OF be steep,oti
-steepen; tilt; rock; SBJ steepens OBJ,,INCOHATIVE OF be steep,eluki
-flatten; right; SBJ makes OBJ less steep,,CESSATIVE OF be steep,otiki
+be steep; OBJ is steep {AMOUNT:slope},,ben <খাড়া> [kʰaɽa],kala
+be gentle; be flat; be shallow; be gradual; OBJ is not very steep,,ANTONYM OF be steep,nata
+steepen; tilt; rock; SBJ steepens OBJ,,INCOHATIVE OF be steep,kalaki
+flatten; right; SBJ makes OBJ less steep,,CESSATIVE OF be steep,nataki
 be tense; be intense; be under pressure; OBJ is under pressure {AMOUNT:pressure},ser *tenso; ser intenso; estar bajo presión; OBJ es tenso,spa <tenso> [ˈtenso],tenso
 be relaxed; be lax; be chill; OBJ is not under pressure,,ANTONYM OF be tense,lokfe
 tense up; intensify; pressurise; SBJ puts OBJ under pressure,,INCOHATIVE OF be tense,tensoki

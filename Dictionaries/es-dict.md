@@ -72,18 +72,6 @@
 - <a name="'elitlawon">**'elitlawon**</a> _n._ (['elitla](#'elitla)+[won](#won))  
 
 
-- <a name="elu">**elu**</a> _v._ (Ibo. ⟨elu⟩ \[elu\])  
-
-
-- <a name="elulon">**elulon**</a> _n._ ([elu](#elu)+[lon](#lon))  
-
-
-- <a name="elulyan">**elulyan**</a> _n._ ([elu](#elu)+[lyan](#lyan))  
-
-
-- <a name="eluki">**eluki**</a> _v._ ([elu](#elu)+[ki](#ki))  
-
-
 - <a name="'elya">**'elya**</a> _n._ (Gle. ⟨Éire⟩ \[ˈeːɾʲə\])  
 
 
@@ -300,7 +288,7 @@
 - <a name="'espanyatilip">**'espanyatilip**</a> _n._ (['espanya](#'espanya)+[tilip](#tilip))  
 
 
-- <a name="'espaketi">**'espaketi**</a> _n._ (Ita. ⟨spaghetti⟩ \[spaˈɡetti\])  
+- <a name="'espaketti">**'espaketti**</a> _n._ (Ita. ⟨spaghetti⟩ \[spaˈɡetti\])  
 
 
 - <a name="efe">**efe**</a> _v._ ([~~oso~~](#oso))  
@@ -363,6 +351,9 @@
 ### a
 
 - <a name="'a">**'a**</a> _n._ (ono. \[a\])  
+
+
+- <a name="'aa">**'aa**</a> _n._ (Haw. ⟨ʻaʻā⟩ \[ʔəˈʔaː\])  
 
 
 - <a name="'aikito">**'aikito**</a> _n._ (Jpn. ⟨合気道⟩ \[aikidoː\])  
@@ -782,9 +773,6 @@ alga
 - <a name="ampoltilum">**ampoltilum**</a> _n._ ([am](#am)+[poltilum](#poltilum))  
 
 
-- <a name="'aha">**'aha**</a> _n._ (Haw. ⟨ʻaʻā⟩ \[ʔəˈʔaː\])  
-
-
 - <a name="ahami">**ahami**</a> _v._ ([~~acapu~~](#acapu))  
 
 
@@ -809,13 +797,13 @@ alga
 - <a name="'asalpaycantilip">**'asalpaycantilip**</a> _n._ (['asalpaycan](#'asalpaycan)+[tilip](#tilip))  
 
 
-- <a name="'asutan">**'asutan**</a> _n._ (Ara. ⟨السودان‎⟩ \[assuːdaːn\])  
+- <a name="'assutan">**'assutan**</a> _n._ (Ara. ⟨السودان‎⟩ \[assuːdaːn\])  
 
 
-- <a name="'asutanak">**'asutanak**</a> _n._ (['asutan](#'asutan)+[ak](#ak))  
+- <a name="'assutanak">**'assutanak**</a> _n._ (['assutan](#'assutan)+[ak](#ak))  
 
 
-- <a name="'asutanwon">**'asutanwon**</a> _n._ (['asutan](#'asutan)+[won](#won))  
+- <a name="'assutanwon">**'assutanwon**</a> _n._ (['assutan](#'assutan)+[won](#won))  
 
 
 - <a name="'aflika">**'aflika**</a> _n._ (Swa. ⟨Afrika⟩ \[afrika\])  
@@ -1363,15 +1351,6 @@ posición; índice; numero
 - <a name="ot">**ot**</a> _n._ (Mar. ⟨ओट⟩ \[oʈ\])  
 
 
-- <a name="oti">**oti**</a> _v._ ([~~elu~~](#elu))  
-
-
-- <a name="otilon">**otilon**</a> _n._ ([oti](#oti)+[lon](#lon))  
-
-
-- <a name="otiki">**otiki**</a> _v._ ([oti](#oti)+[ki](#ki))  
-
-
 - <a name="ope">**ope**</a> _v._ (Eng. ⟨obey⟩ \[oʊ̯ˈbeɪ̯\])  
 
 
@@ -1677,6 +1656,24 @@ mosca; Muscidae
 - <a name="ici">**ici**</a> _v._ (Swa. ⟨-ishi⟩ \[iʃi\])  
 
 
+- <a name="iciestaki">**iciestaki**</a> _v._ ([ici](#ici)+[estaki](#estaki))  
+
+
+- <a name="iciestakiles">**iciestakiles**</a> _n._ ([iciestaki](#iciestaki)+[les](#les))  
+
+
+- <a name="iciestakilon">**iciestakilon**</a> _n._ ([iciestaki](#iciestaki)+[lon](#lon))  
+
+
+- <a name="iciestakilum">**iciestakilum**</a> _n._ ([iciestaki](#iciestaki)+[lum](#lum))  
+
+
+- <a name="iciestakilwel">**iciestakilwel**</a> _n._ ([iciestaki](#iciestaki)+[lwel](#lwel))  
+
+
+- <a name="iciestakisunkwelwel">**iciestakisunkwelwel**</a> _n._ ([iciestaki](#iciestaki)+[sunkwelwel](#sunkwelwel))  
+
+
 - <a name="icilet">**icilet**</a> _n._ ([ici](#ici)+[let](#let))  
 
 
@@ -1701,7 +1698,7 @@ mosca; Muscidae
 - <a name="icicwelon">**icicwelon**</a> _n._ ([ici](#ici)+[cwelon](#cwelon))  
 
 
-- <a name="icicwelontulum">**icicwelontulum**</a> _n._ ([icicwelon](#icicwelon)+[tulum](#tulum))  
+- <a name="icicwelonmwonilum">**icicwelonmwonilum**</a> _n._ ([icicwelon](#icicwelon)+[mwonilum](#mwonilum))  
 
 
 - <a name="icisoma">**icisoma**</a> _v._ ([ici](#ici)+[soma](#soma))  
@@ -2496,9 +2493,6 @@ inspiración
 - <a name="les">**les**</a> _n._ ([l](#l)+[es](#es))  
 
 
-- <a name="leson">**leson**</a> _post._ ([les](#les)+[on](#on))  
-
-
 - <a name="lesla">**lesla**</a> _v._ (Pan. ⟨ਲੇਸਲਾ⟩ \[leslɑ\])  
 
 
@@ -2787,15 +2781,6 @@ inspiración
 - <a name="lon">**lon**</a> _n._ ([l](#l)+[on](#on))  
 
 
-- <a name="lones">**lones**</a> _post._ ([lon](#lon)+[es](#es))  
-
-
-- <a name="lonestueki">**lonestueki**</a> _v._ ([lones](#lones)+[tueki](#tueki))  
-
-
-- <a name="lonestuekilon">**lonestuekilon**</a> _n._ ([lonestueki](#lonestueki)+[lon](#lon))  
-
-
 - <a name="lono">**lono**</a> _v._ (Ben. ⟨রঙ⟩ \[rɔŋɔ\])  
 
 
@@ -2817,7 +2802,7 @@ inspiración
 - <a name="lononyamaeccipcip">**lononyamaeccipcip**</a> _n._ ([lono](#lono)+[nyamaec](#nyamaec)+[cipcip](#cipcip))  
 
 
-- <a name="lonomilukutahutyeh">**lonomilukutahutyeh**</a> _n._ ([lono](#lono)+[milukutahutyeh](#milukutahutyeh))  
+- <a name="lonomilumutihutyeh">**lonomilumutihutyeh**</a> _n._ ([lono](#lono)+[milumutihutyeh](#milumutihutyeh))  
 
 
 - <a name="lonositelon">**lonositelon**</a> _n._ ([lono](#lono)+[sitelon](#sitelon))  
@@ -2836,9 +2821,6 @@ inspiración
 
 
 - <a name="lonokiles">**lonokiles**</a> _n._ ([lonoki](#lonoki)+[les](#les))  
-
-
-- <a name="lonum">**lonum**</a> _post._ ([lon](#lon)+[um](#um))  
 
 
 - <a name="'lontan">**'lontan**</a> _n._ (Eng. ⟨London⟩ \[ˈlʌndən\])  
@@ -3126,9 +3108,6 @@ quinto
 - <a name="lulon">**lulon**</a> _n._ ([lu](#lu)+[lon](#lon))  
 
 
-- <a name="lulum">**lulum**</a> _n._ ([lu](#lu)+[lum](#lum))  
-
-
 - <a name="luna">**luna**</a> _v._ (Pan. ⟨ਲੂਣਾ⟩ \[luɳɑ\])  
 
 
@@ -3270,16 +3249,16 @@ quinto
 - <a name="lucitawh">**lucitawh**</a> _n._ ([luci](#luci)+[tawh](#tawh))  
 
 
-- <a name="lucipilanila">**lucipilanila**</a> _v._ ([luci](#luci)+[pila](#pila)+[nila](#nila))  
+- <a name="lucipilapilu">**lucipilapilu**</a> _v._ ([luci](#luci)+[pila](#pila)+[pilu](#pilu))  
 
 
-- <a name="lucipilanilalon">**lucipilanilalon**</a> _n._ ([lucipilanila](#lucipilanila)+[lon](#lon))  
+- <a name="lucipilapilulon">**lucipilapilulon**</a> _n._ ([lucipilapilu](#lucipilapilu)+[lon](#lon))  
 
 
-- <a name="lucipilanilalyan">**lucipilanilalyan**</a> _n._ ([lucipilanila](#lucipilanila)+[lyan](#lyan))  
+- <a name="lucipilapilulyan">**lucipilapilulyan**</a> _n._ ([lucipilapilu](#lucipilapilu)+[lyan](#lyan))  
 
 
-- <a name="lucipilanilaki">**lucipilanilaki**</a> _v._ ([lucipilanila](#lucipilanila)+[ki](#ki))  
+- <a name="lucipilapiluki">**lucipilapiluki**</a> _v._ ([lucipilapilu](#lucipilapilu)+[ki](#ki))  
 
 
 - <a name="lucipum">**lucipum**</a> _n._ ([luci](#luci)+[pum](#pum))  
@@ -3360,31 +3339,64 @@ quinto
 - <a name="lyon">**lyon**</a> _num._ (Spa. ⟨-illón⟩ \[iˈʝon\])  
 ×10^; -illon
 
-- <a name="lyonmencah'kilokham">**lyonmencah'kilokham**</a> _n._ ([lyon](#lyon)+[men](#men)+[cah](#cah)+['kilokham](#'kilokham))  
+- <a name="lyonmenmes">**lyonmenmes**</a> _num._ ([lyon](#lyon)+[men](#men)+[mes](#mes))  
 
 
-- <a name="lyonmensan'lithe">**lyonmensan'lithe**</a> _n._ ([lyon](#lyon)+[men](#men)+[san](#san)+['lithe](#'lithe))  
+- <a name="lyonmencah">**lyonmencah**</a> _num._ ([lyon](#lyon)+[men](#men)+[cah](#cah))  
 
 
-- <a name="lyonmensan'methe">**lyonmensan'methe**</a> _n._ ([lyon](#lyon)+[men](#men)+[san](#san)+['methe](#'methe))  
+- <a name="lyonmensan">**lyonmensan**</a> _num._ ([lyon](#lyon)+[men](#men)+[san](#san))  
 
 
-- <a name="lyonmensan'kilokham">**lyonmensan'kilokham**</a> _n._ ([lyon](#lyon)+[men](#men)+[san](#san)+['kilokham](#'kilokham))  
+- <a name="lyonmensan'methe">**lyonmensan'methe**</a> _n._ ([lyonmensan](#lyonmensan)+['methe](#'methe))  
 
 
-- <a name="lyonmentos'methe">**lyonmentos'methe**</a> _n._ ([lyon](#lyon)+[men](#men)+[tos](#tos)+['methe](#'methe))  
+- <a name="lyonmensansan'lithe">**lyonmensansan'lithe**</a> _n._ ([lyonmensan](#lyonmensan)+[san](#san)+['lithe](#'lithe))  
 
 
-- <a name="lyonsan'methe">**lyonsan'methe**</a> _n._ ([lyon](#lyon)+[san](#san)+['methe](#'methe))  
+- <a name="lyonmensan'kaham">**lyonmensan'kaham**</a> _n._ ([lyonmensan](#lyonmensan)+['kaham](#'kaham))  
+
+
+- <a name="lyonmenkantos">**lyonmenkantos**</a> _num._ ([lyon](#lyon)+[men](#men)+[kan](#kan)+[tos](#tos))  
+
+
+- <a name="lyonmentos">**lyonmentos**</a> _num._ ([lyon](#lyon)+[men](#men)+[tos](#tos))  
+
+
+- <a name="lyonmentos'methe">**lyonmentos'methe**</a> _n._ ([lyonmentos](#lyonmentos)+['methe](#'methe))  
+
+
+- <a name="lyonmes">**lyonmes**</a> _num._ ([lyon](#lyon)+[mes](#mes))  
+
+
+- <a name="lyoncah">**lyoncah**</a> _num._ ([lyon](#lyon)+[cah](#cah))  
+
+
+- <a name="lyoncah'kaham">**lyoncah'kaham**</a> _n._ ([lyoncah](#lyoncah)+['kaham](#'kaham))  
+
+
+- <a name="lyonsan">**lyonsan**</a> _num._ ([lyon](#lyon)+[san](#san))  
+
+
+- <a name="lyonsan'methe">**lyonsan'methe**</a> _n._ ([lyonsan](#lyonsan)+['methe](#'methe))  
 
 
 - <a name="lyonsanmamales">**lyonsanmamales**</a> _n._ ([lyon](#lyon)+[san](#san)+[mamales](#mamales))  
 
 
-- <a name="lyonsan'kilokham">**lyonsan'kilokham**</a> _n._ ([lyon](#lyon)+[san](#san)+['kilokham](#'kilokham))  
+- <a name="lyonsan'kaham">**lyonsan'kaham**</a> _n._ ([lyonsan](#lyonsan)+['kaham](#'kaham))  
+
+
+- <a name="lyonfol">**lyonfol**</a> _num._ ([lyon](#lyon)+[fol](#fol))  
 
 
 - <a name="lyonfolmamales">**lyonfolmamales**</a> _n._ ([lyon](#lyon)+[fol](#fol)+[mamales](#mamales))  
+
+
+- <a name="lyonkantos">**lyonkantos**</a> _num._ ([lyon](#lyon)+[kan](#kan)+[tos](#tos))  
+
+
+- <a name="lyontos">**lyontos**</a> _num._ ([lyon](#lyon)+[tos](#tos))  
 
 
 - <a name="lyontosmamales">**lyontosmamales**</a> _n._ ([lyon](#lyon)+[tos](#tos)+[mamales](#mamales))  
@@ -3509,9 +3521,6 @@ quinto
 - <a name="walepemamalon">**walepemamalon**</a> _n._ ([wale](#wale)+[pemamalon](#pemamalon))  
 
 
-- <a name="waluh">**waluh**</a> _n._ (Jav. ⟨waluh⟩ \[wɑɭʊh\])  
-
-
 - <a name="wawi">**wawi**</a> _v._ (Eng. ⟨worry⟩ \[ˈwɚɹʷi\])  
 
 
@@ -3632,24 +3641,6 @@ quinto
 - <a name="won">**won**</a> _n._ (Jav. ⟨wong⟩ \[wɔŋ\])  
 
 
-- <a name="wonestaki">**wonestaki**</a> _v._ ([won](#won)+[estaki](#estaki))  
-
-
-- <a name="wonestakiles">**wonestakiles**</a> _n._ ([wonestaki](#wonestaki)+[les](#les))  
-
-
-- <a name="wonestakilon">**wonestakilon**</a> _n._ ([wonestaki](#wonestaki)+[lon](#lon))  
-
-
-- <a name="wonestakilum">**wonestakilum**</a> _n._ ([wonestaki](#wonestaki)+[lum](#lum))  
-
-
-- <a name="wonestakilwel">**wonestakilwel**</a> _n._ ([wonestaki](#wonestaki)+[lwel](#lwel))  
-
-
-- <a name="wonestakisunkwelwel">**wonestakisunkwelwel**</a> _n._ ([wonestaki](#wonestaki)+[sunkwelwel](#sunkwelwel))  
-
-
 - <a name="wonak">**wonak**</a> _n._ ([won](#won)+[ak](#ak))  
 
 
@@ -3678,6 +3669,12 @@ quinto
 
 
 - <a name="wonsun">**wonsun**</a> _n._ ([won](#won)+[sun](#sun))  
+
+
+- <a name="wonfolmo">**wonfolmo**</a> _v._ ([won](#won)+[folmo](#folmo))  
+
+
+- <a name="wonfolmolon">**wonfolmolon**</a> _n._ ([wonfolmo](#wonfolmo)+[lon](#lon))  
 
 
 - <a name="wonfik">**wonfik**</a> _n._ ([won](#won)+[fik](#fik))  
@@ -3988,6 +3985,15 @@ quinto
 - <a name="nakak">**nakak**</a> _n._ ([nak](#nak)+[ak](#ak))  
 
 
+- <a name="nata">**nata**</a> _v._ ([~~kala~~](#kala))  
+
+
+- <a name="natalon">**natalon**</a> _n._ ([nata](#nata)+[lon](#lon))  
+
+
+- <a name="nataki">**nataki**</a> _v._ ([nata](#nata)+[ki](#ki))  
+
+
 - <a name="nati">**nati**</a> _v._ ([na](#na)+[ti](#ti))  
 
 
@@ -4148,30 +4154,6 @@ locutorio
 
 
 - <a name="'niukinitilip">**'niukinitilip**</a> _n._ (['niukini](#'niukini)+[tilip](#tilip))  
-
-
-- <a name="nila">**nila**</a> _v._ (Hin. ⟨नीला⟩ \[niːlaː\])  
-
-
-- <a name="nilalon">**nilalon**</a> _n._ ([nila](#nila)+[lon](#lon))  
-
-
-- <a name="nilalyan">**nilalyan**</a> _n._ ([nila](#nila)+[lyan](#lyan))  
-
-
-- <a name="nilacakalum">**nilacakalum**</a> _n._ ([nila](#nila)+[cakalum](#cakalum))  
-
-
-- <a name="nilaki">**nilaki**</a> _v._ ([nila](#nila)+[ki](#ki))  
-
-
-- <a name="nilatihu">**nilatihu**</a> _v._ ([nila](#nila)+[tihu](#tihu))  
-
-
-- <a name="nilatihulon">**nilatihulon**</a> _n._ ([nilatihu](#nilatihu)+[lon](#lon))  
-
-
-- <a name="nilatihuki">**nilatihuki**</a> _v._ ([nilatihu](#nilatihu)+[ki](#ki))  
 
 
 - <a name="nilon">**nilon**</a> _n._ ([ni](#ni)+[lon](#lon))  
@@ -4671,7 +4653,7 @@ comedor
 - <a name="'melanesiak">**'melanesiak**</a> _n._ (['melanesi](#'melanesi)+[ak](#ak))  
 
 
-- <a name="'melanesikwelyot">**'melanesikwelyot**</a> _n._ (['melanesi](#'melanesi)+[kwelyot](#kwelyot))  
+- <a name="'melanesiwon">**'melanesiwon**</a> _n._ (['melanesi](#'melanesi)+[won](#won))  
 
 
 - <a name="men">**men**</a> _num._ (Spa. ⟨menos⟩ \[ˈmenos\])  
@@ -5265,9 +5247,6 @@ ser ligero; [ʟᴏᴧ](#matulon) es ligero
 - <a name="motalyan">**motalyan**</a> _n._ ([mota](#mota)+[lyan](#lyan))  
 
 
-- <a name="motawaluh">**motawaluh**</a> _n._ ([mota](#mota)+[waluh](#waluh))  
-
-
 - <a name="motanilututumulwel">**motanilututumulwel**</a> _n._ ([mota](#mota)+[nilututumulwel](#nilututumulwel))  
 
 
@@ -5325,6 +5304,9 @@ ser ligero; [ʟᴏᴧ](#matulon) es ligero
 - <a name="motapumak">**motapumak**</a> _n._ ([motapum](#motapum)+[ak](#ak))  
 
 
+- <a name="motapus">**motapus**</a> _n._ ([mota](#mota)+[pus](#pus))  
+
+
 - <a name="mota'pwitan">**mota'pwitan**</a> _n._ ([mota](#mota)+['pwitan](#'pwitan))  
 
 
@@ -5346,19 +5328,19 @@ ser ligero; [ʟᴏᴧ](#matulon) es ligero
 - <a name="milulon">**milulon**</a> _n._ ([milu](#milu)+[lon](#lon))  
 
 
+- <a name="milumuti">**milumuti**</a> _v._ ([milu](#milu)+[muti](#muti))  
+
+
+- <a name="milumutilon">**milumutilon**</a> _n._ ([milumuti](#milumuti)+[lon](#lon))  
+
+
+- <a name="milumutihutyeh">**milumutihutyeh**</a> _n._ ([milumuti](#milumuti)+[hutyeh](#hutyeh))  
+
+
+- <a name="milumutiki">**milumutiki**</a> _v._ ([milumuti](#milumuti)+[ki](#ki))  
+
+
 - <a name="miluki">**miluki**</a> _v._ ([milu](#milu)+[ki](#ki))  
-
-
-- <a name="milukuta">**milukuta**</a> _v._ ([milu](#milu)+[kuta](#kuta))  
-
-
-- <a name="milukutalon">**milukutalon**</a> _n._ ([milukuta](#milukuta)+[lon](#lon))  
-
-
-- <a name="milukutahutyeh">**milukutahutyeh**</a> _n._ ([milukuta](#milukuta)+[hutyeh](#hutyeh))  
-
-
-- <a name="milukutaki">**milukutaki**</a> _v._ ([milukuta](#milukuta)+[ki](#ki))  
 
 
 - <a name="min">**min**</a> _pn._ (Pan. ⟨ਮੈਂ⟩ \[mɛ̃ː\])  
@@ -5662,6 +5644,27 @@ mucho; muchos
 
 
 - <a name="mutatawh">**mutatawh**</a> _n._ ([muta](#muta)+[tawh](#tawh))  
+
+
+- <a name="muti">**muti**</a> _v._ ([~~pilu~~](#pilu))  
+
+
+- <a name="mutilais">**mutilais**</a> _n._ ([muti](#muti)+[lais](#lais))  
+
+
+- <a name="mutilon">**mutilon**</a> _n._ ([muti](#muti)+[lon](#lon))  
+
+
+- <a name="muticeluk">**muticeluk**</a> _n._ ([muti](#muti)+[celuk](#celuk))  
+
+
+- <a name="mutiki">**mutiki**</a> _v._ ([muti](#muti)+[ki](#ki))  
+
+
+- <a name="mutikwah">**mutikwah**</a> _n._ ([muti](#muti)+[kwah](#kwah))  
+
+
+- <a name="mutitawh">**mutitawh**</a> _n._ ([muti](#muti)+[tawh](#tawh))  
 
 
 - <a name="myawf">**myawf**</a> _n._ (ono. \[mjaw\])  
@@ -6683,9 +6686,6 @@ sexto
 
 
 - <a name="capalum">**capalum**</a> _n._ ([capa](#capa)+[lum](#lum))  
-
-
-- <a name="capalummailyot">**capalummailyot**</a> _n._ ([capalum](#capalum)+[mailyot](#mailyot))  
 
 
 - <a name="capanu">**capanu**</a> _v._ ([capa](#capa)+[nu](#nu))  
@@ -8331,10 +8331,16 @@ negocio
 - <a name="sisonak">**sisonak**</a> _n._ ([sison](#sison)+[ak](#ak))  
 
 
-- <a name="sif">**sif**</a> _pn._ (Zul. ⟨zí-⟩ \[z̤i˦\])  
+- <a name="sif">**sif**</a> _pn._ (Zul. ⟨zí-⟩ \[z̤í\])  
 
 
 - <a name="sifak">**sifak**</a> _n._ ([sif](#sif)+[ak](#ak))  
+
+
+- <a name="siftueki">**siftueki**</a> _v._ ([sif](#sif)+[tueki](#tueki))  
+
+
+- <a name="siftuekilon">**siftuekilon**</a> _n._ ([siftueki](#siftueki)+[lon](#lon))  
 
 
 - <a name="'sik">**'sik**</a> _n._ (Pan. ⟨ਸਿੱਖ⟩ \[ˈsɪkkʰ\])  
@@ -8475,16 +8481,16 @@ línea; plano
 - <a name="sun">**sun**</a> _n._ (Epo. ⟨suno⟩ \[ˈsuno\])  
 
 
-- <a name="'sunah">**'sunah**</a> _n._ (Ara. ⟨سنة⟩ \[ˈsunnah\])  
-
-
-- <a name="'sunahak">**'sunahak**</a> _n._ (['sunah](#'sunah)+[ak](#ak))  
-
-
-- <a name="'sunahwon">**'sunahwon**</a> _n._ (['sunah](#'sunah)+[won](#won))  
-
-
 - <a name="sunak">**sunak**</a> _n._ ([sun](#sun)+[ak](#ak))  
+
+
+- <a name="'sunnah">**'sunnah**</a> _n._ (Ara. ⟨سنة⟩ \[ˈsunnah\])  
+
+
+- <a name="'sunnahak">**'sunnahak**</a> _n._ (['sunnah](#'sunnah)+[ak](#ak))  
+
+
+- <a name="'sunnahwon">**'sunnahwon**</a> _n._ (['sunnah](#'sunnah)+[won](#won))  
 
 
 - <a name="sunnunyama">**sunnunyama**</a> _v._ ([sun](#sun)+[nu](#nu)+[nyama](#nyama))  
@@ -8568,13 +8574,13 @@ abeja; Anthophilia
 - <a name="suta'amelika">**suta'amelika**</a> _n._ ([suta](#suta)+['amelika](#'amelika))  
 
 
-- <a name="suta'asutan">**suta'asutan**</a> _n._ ([suta](#suta)+['asutan](#'asutan))  
+- <a name="suta'assutan">**suta'assutan**</a> _n._ ([suta](#suta)+['assutan](#'assutan))  
 
 
-- <a name="suta'asutanak">**suta'asutanak**</a> _n._ ([suta'asutan](#suta'asutan)+[ak](#ak))  
+- <a name="suta'assutanak">**suta'assutanak**</a> _n._ ([suta'assutan](#suta'assutan)+[ak](#ak))  
 
 
-- <a name="suta'asutanwon">**suta'asutanwon**</a> _n._ ([suta'asutan](#suta'asutan)+[won](#won))  
+- <a name="suta'assutanwon">**suta'assutanwon**</a> _n._ ([suta'assutan](#suta'assutan)+[won](#won))  
 
 
 - <a name="suta'aflika">**suta'aflika**</a> _n._ ([suta](#suta)+['aflika](#'aflika))  
@@ -9185,10 +9191,10 @@ cuarto
 - <a name="fiticailon">**fiticailon**</a> _n._ ([fiticai](#fiticai)+[lon](#lon))  
 
 
-- <a name="fiticapalum">**fiticapalum**</a> _n._ ([fiti](#fiti)+[capalum](#capalum))  
-
-
 - <a name="fitiki">**fitiki**</a> _v._ ([fiti](#fiti)+[ki](#ki))  
+
+
+- <a name="fititelum">**fititelum**</a> _n._ ([fiti](#fiti)+[telum](#telum))  
 
 
 - <a name="fulo">**fulo**</a> _v._ ([~~site~~](#site))  
@@ -9445,6 +9451,15 @@ cuarto
 - <a name="'kayanawon">**'kayanawon**</a> _n._ (['kayana](#'kayana)+[won](#won))  
 
 
+- <a name="kala">**kala**</a> _v._ (Ben. ⟨খাড়া⟩ \[kʰaɽa\])  
+
+
+- <a name="kalalon">**kalalon**</a> _n._ ([kala](#kala)+[lon](#lon))  
+
+
+- <a name="kalalyan">**kalalyan**</a> _n._ ([kala](#kala)+[lyan](#lyan))  
+
+
 - <a name="'kalaci">**'kalaci**</a> _n._ (Urd. ⟨کراچی‎⟩ \[kəˈɾaːt͡ʃi\])  
 
 
@@ -9461,6 +9476,9 @@ cuarto
 
 
 - <a name="'kalasias">**'kalasias**</a> _n._ (Gre. ⟨γαλαξίας⟩ \[ɡalaksíaːs\])  
+
+
+- <a name="kalaki">**kalaki**</a> _v._ ([kala](#kala)+[ki](#ki))  
 
 
 - <a name="'kalate">**'kalate**</a> _n._ (Jpn. ⟨空手⟩ \[kaɾate\])  
@@ -9710,6 +9728,9 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 
 
 - <a name="kahalon">**kahalon**</a> _n._ ([kaha](#kaha)+[lon](#lon))  
+
+
+- <a name="'kaham">**'kaham**</a> _n._ (Fra. ⟨gramme⟩ \[ɡʁam\])  
 
 
 - <a name="'kahilah">**'kahilah**</a> _n._ (Ara. ⟨قاهرة⟩ \[ˈqaːhiɾah\])  
@@ -10162,9 +10183,6 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 - <a name="kilon">**kilon**</a> _n._ ([ki](#ki)+[lon](#lon))  
 
 
-- <a name="'kilokham">**'kilokham**</a> _n._ (Fra. ⟨kilogramme⟩ \[ˈkilɔɡʁam\])  
-
-
 - <a name="'kilistos">**'kilistos**</a> _n._ (Grc. ⟨Χριστός⟩ \[kʰriːstós\])  
 
 
@@ -10405,7 +10423,7 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
 - <a name="kulon">**kulon**</a> _n._ ([ku](#ku)+[lon](#lon))  
 
 
-- <a name="kuli">**kuli**</a> _v._ (Msa. ⟨gurih⟩ \[ɡurih\])  
+- <a name="kuli">**kuli**</a> _v._ (Jav. ⟨gurih⟩ \[kṳɽɪh\])  
 
 
 - <a name="kulilon">**kulilon**</a> _n._ ([kuli](#kuli)+[lon](#lon))  
@@ -10565,27 +10583,6 @@ popularizar; permear; ʟєꜱ hace que ʟᴏᴧ se convierta en todo
 
 
 - <a name="kukulik">**kukulik**</a> _n._ (ono. \[kuk kurikoː\])  
-
-
-- <a name="kuta">**kuta**</a> _v._ ([~~nila~~](#nila))  
-
-
-- <a name="kutalais">**kutalais**</a> _n._ ([kuta](#kuta)+[lais](#lais))  
-
-
-- <a name="kutalon">**kutalon**</a> _n._ ([kuta](#kuta)+[lon](#lon))  
-
-
-- <a name="kutaceluk">**kutaceluk**</a> _n._ ([kuta](#kuta)+[celuk](#celuk))  
-
-
-- <a name="kutaki">**kutaki**</a> _v._ ([kuta](#kuta)+[ki](#ki))  
-
-
-- <a name="kutakwah">**kutakwah**</a> _n._ ([kuta](#kuta)+[kwah](#kwah))  
-
-
-- <a name="kutatawh">**kutatawh**</a> _n._ ([kuta](#kuta)+[tawh](#tawh))  
 
 
 - <a name="kuti">**kuti**</a> _v._ (Cmn. ⟨固体⟩ \[ku˥˩tʰi˧˩˧\])  
@@ -10831,6 +10828,9 @@ luz
 - <a name="kwanlamalyansomaluat">**kwanlamalyansomaluat**</a> _n._ ([kwan](#kwan)+[lamalyan](#lamalyan)+[somaluat](#somaluat))  
 
 
+- <a name="kwanmwonilum">**kwanmwonilum**</a> _n._ ([kwan](#kwan)+[mwonilum](#mwonilum))  
+
+
 - <a name="kwansica">**kwansica**</a> _v._ ([kwan](#kwan)+[sica](#sica))  
 
 
@@ -10847,9 +10847,6 @@ luz
 
 
 - <a name="kwanfuhaki">**kwanfuhaki**</a> _v._ ([kwan](#kwan)+[fuhaki](#fuhaki))  
-
-
-- <a name="kwantulum">**kwantulum**</a> _n._ ([kwan](#kwan)+[tulum](#tulum))  
 
 
 - <a name="kwanpes">**kwanpes**</a> _n._ ([kwan](#kwan)+[pes](#pes))  
@@ -10903,6 +10900,9 @@ luz
 
 
 - <a name="telon">**telon**</a> _n._ ([te](#te)+[lon](#lon))  
+
+
+- <a name="telonmailyot">**telonmailyot**</a> _n._ ([telon](#telon)+[mailyot](#mailyot))  
 
 
 - <a name="telip">**telip**</a> _n._ ([te](#te)+[lip](#lip))  
@@ -11337,7 +11337,7 @@ mesa; piso; suelo; base
 - <a name="takaki">**takaki**</a> _v._ ([taka](#taka)+[ki](#ki))  
 
 
-- <a name="tatu">**tatu**</a> _v._ (Ben. ⟨ধাতু⟩ \[d̪̤at̪u\])  
+- <a name="tatu">**tatu**</a> _v._ (Hin. ⟨धातु⟩ \[d̤aːtu\])  
 
 
 - <a name="tatulon">**tatulon**</a> _n._ ([tatu](#tatu)+[lon](#lon))  
@@ -11862,9 +11862,6 @@ segundo
 - <a name="tules">**tules**</a> _n._ ([tu](#tu)+[les](#les))  
 
 
-- <a name="tulon">**tulon**</a> _n._ ([tu](#tu)+[lon](#lon))  
-
-
 - <a name="tulum">**tulum**</a> _n._ ([tu](#tu)+[lum](#lum))  
 
 
@@ -12098,9 +12095,6 @@ sobre; dividido por
 - <a name="'pelaw">**'pelaw**</a> _n._ (Pau. ⟨Belau⟩ \[bɛlaw\])  
 
 
-- <a name="pelawaluh">**pelawaluh**</a> _n._ ([pela](#pela)+[waluh](#waluh))  
-
-
 - <a name="'pelawak">**'pelawak**</a> _n._ (['pelaw](#'pelaw)+[ak](#ak))  
 
 
@@ -12144,6 +12138,9 @@ sobre; dividido por
 
 
 - <a name="pelapucolon">**pelapucolon**</a> _n._ ([pela](#pela)+[pucolon](#pucolon))  
+
+
+- <a name="pelapus">**pelapus**</a> _n._ ([pela](#pela)+[pus](#pus))  
 
 
 - <a name="pelon">**pelon**</a> _n._ ([pe](#pe)+[lon](#lon))  
@@ -12779,7 +12776,7 @@ sobre; dividido por
 - <a name="patolon">**patolon**</a> _n._ ([pato](#pato)+[lon](#lon))  
 
 
-- <a name="patolontulum">**patolontulum**</a> _n._ ([patolon](#patolon)+[tulum](#tulum))  
+- <a name="patolonmwonilum">**patolonmwonilum**</a> _n._ ([patolon](#patolon)+[mwonilum](#mwonilum))  
 
 
 - <a name="patocwelon">**patocwelon**</a> _n._ ([pato](#pato)+[cwelon](#cwelon))  
@@ -13133,10 +13130,34 @@ positivo; plus
 - <a name="'pilipinastilip">**'pilipinastilip**</a> _n._ (['pilipinas](#'pilipinas)+[tilip](#tilip))  
 
 
+- <a name="pilu">**pilu**</a> _v._ (Msa. ⟨biru⟩ \[biru\])  
+
+
+- <a name="pilulon">**pilulon**</a> _n._ ([pilu](#pilu)+[lon](#lon))  
+
+
+- <a name="pilulyan">**pilulyan**</a> _n._ ([pilu](#pilu)+[lyan](#lyan))  
+
+
+- <a name="pilucakalum">**pilucakalum**</a> _n._ ([pilu](#pilu)+[cakalum](#cakalum))  
+
+
 - <a name="pilus">**pilus**</a> _n._ (Spa. ⟨virus⟩ \[ˈbiɾus\])  
 
 
+- <a name="piluki">**piluki**</a> _v._ ([pilu](#pilu)+[ki](#ki))  
+
+
 - <a name="pilut">**pilut**</a> _n._ ([pil](#pil)+[ut](#ut))  
+
+
+- <a name="pilutihu">**pilutihu**</a> _v._ ([pilu](#pilu)+[tihu](#tihu))  
+
+
+- <a name="pilutihulon">**pilutihulon**</a> _n._ ([pilutihu](#pilutihu)+[lon](#lon))  
+
+
+- <a name="pilutihuki">**pilutihuki**</a> _v._ ([pilutihu](#pilutihu)+[ki](#ki))  
 
 
 - <a name="pilmuf">**pilmuf**</a> _n._ ([pil](#pil)+[muf](#muf))  
@@ -13415,6 +13436,9 @@ séptimo
 - <a name="pucilon">**pucilon**</a> _n._ ([puci](#puci)+[lon](#lon))  
 
 
+- <a name="pus">**pus**</a> _n._ (Sho. ⟨budzi⟩ \[bud͡zi\])  
+
+
 - <a name="puk">**puk**</a> _pn._ ([~~min~~](#min))  
 
 
@@ -13466,15 +13490,6 @@ séptimo
 - <a name="putilyan">**putilyan**</a> _n._ ([puti](#puti)+[lyan](#lyan))  
 
 
-- <a name="putinila">**putinila**</a> _v._ ([puti](#puti)+[nila](#nila))  
-
-
-- <a name="putinilalon">**putinilalon**</a> _n._ ([putinila](#putinila)+[lon](#lon))  
-
-
-- <a name="putinilaki">**putinilaki**</a> _v._ ([putinila](#putinila)+[ki](#ki))  
-
-
 - <a name="putimilu">**putimilu**</a> _v._ ([puti](#puti)+[milu](#milu))  
 
 
@@ -13491,6 +13506,15 @@ séptimo
 
 
 - <a name="putiki">**putiki**</a> _v._ ([puti](#puti)+[ki](#ki))  
+
+
+- <a name="putipilu">**putipilu**</a> _v._ ([puti](#puti)+[pilu](#pilu))  
+
+
+- <a name="putipilulon">**putipilulon**</a> _n._ ([putipilu](#putipilu)+[lon](#lon))  
+
+
+- <a name="putipiluki">**putipiluki**</a> _v._ ([putipilu](#putipilu)+[ki](#ki))  
 
 
 - <a name="putipicin">**putipicin**</a> _n._ ([puti](#puti)+[picin](#picin))  

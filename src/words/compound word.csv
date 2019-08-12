@@ -2,9 +2,6 @@ eng,spa,source,otp
 Ulcwoliel,,this language,oltilip
 hello; goodbye; yay; bless; okay; _positive exclamative mood_,,wow want,wacai
 boo; fuck; not; _negative exclamative mood_,,wow dislike,wahau
-to oneself,,who-(relative) on,leson
-by oneself,,which-(relative) by,lones
-about oneself,,which-(relative) to,lonum
 despite; though,,even both,ifenyo
 but; and even,,even and,ifenaw
 instead; rather,,no and,nyoaw
@@ -114,18 +111,18 @@ spot; dot {GENITIVE:spotted; dotted},,be-coloured region,lonowicon
 stripe {GENITIVE:striped},,be-coloured line,lonositelon
 be gray; be grey; be dull; be bland; be desaturated; OBJ reflects all wavelengths of light about the same,,be-white be-black,putimilu
 colour gray; colour grey; dull; desaturate; SBJ desaturates the colours of OBJ,,INCOHATIVE OF be gray,putimiluki
-be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,be-red be-yellow be-blue,lucipilanila
-colour; SBJ brightens the colours of OBJ,,INCOHATIVE OF be brightly coloured,lucipilanilaki
+be brightly coloured; be saturated; be colourful; be vibrant; OBJ reflects some wavelengths of light much more than others {AMOUNT:chroma; saturation; brightness},,be-red be-yellow be-blue,lucipilapilu
+colour; SBJ brightens the colours of OBJ,,INCOHATIVE OF be brightly coloured,lucipilapiluki
 "be warm-coloured; OBJ is red, orange, yellow, or white",,be-hot be-coloured,okulono
 "be cool-coloured; OBJ is green, blue, purple, or black",,be-cold be-coloured,enilono
-be brown; be murky; OBJ looks brown,,be-black be-orange,milukuta
-brown; colour brown; SBJ colours OBJ brown,,INCOHATIVE OF be brown,milukutaki
+be brown; be murky; OBJ looks brown,,be-black be-orange,milumuti
+brown; colour brown; SBJ colours OBJ brown,,INCOHATIVE OF be brown,milumutiki
 be pink; be rose; OBJ looks pink,,be-white be-red,putiluci
 pinken; rose-tint; colour pink; SBJ colours OBJ pink,,INCOHATIVE OF be pink,putiluciki
-be azure; be sky blue; OBJ looks azure,,be-white be-blue,putinila
-colour azure; colour sky blue; SBJ colours OBJ azure,,INCOHATIVE OF be azure,putinilaki
-be cyan; be teal; be blue-green; OBJ looks cyan,,be-blue be-green,nilatihu
-colour cyan; colour teal; colour blue-green; SBJ colours OBJ cyan,,INCOHATIVE OF be cyan,nilatihuki
+be azure; be sky blue; OBJ looks azure,,be-white be-blue,putipilu
+colour azure; colour sky blue; SBJ colours OBJ azure,,INCOHATIVE OF be azure,putipiluki
+be cyan; be teal; be blue-green; OBJ looks cyan,,be-blue be-green,pilutihu
+colour cyan; colour teal; colour blue-green; SBJ colours OBJ cyan,,INCOHATIVE OF be cyan,pilutihuki
 be magenta; be fuchsia; OBJ looks magenta,,be-red be-purple,lucimuta
 colour magenta; colour fuchsia; SBJ colours OBJ magenta,,INCOHATIVE OF be magenta,lucimutaki
 be wood; be wooden; OBJ is made out of wood,,tree be-made-of,kaccaka
@@ -147,7 +144,7 @@ oil; petroleum,,burn body-of-water,cyaukicwelon
 carbon; coal,,live material,icicakalum
 nitrogen,,sky material,mipcakalum
 sodium,,be-salty material,lunacakalum
-cobalt (substance),,be-blue material,nilacakalum
+cobalt (substance),,be-blue material,pilucakalum
 be quartz; OBJ is made of quartz,,white be-crystal,putilonkio
 be emerald; OBJ is made of emerald,,be-green be-crystal,tihukio
 be diamond; OBJ is made of diamond,,be-hard be-crystal,nitakio
@@ -340,6 +337,7 @@ be pyriform; be pear-shaped; OBJ is fatter on one side than the other,,pear be-s
 be stelliform; be star-shaped; OBJ {star} is covered in sharp radial points,,sun be-shaped,sunfolmo
 be cruciform; be cross-shaped; OBJ comprises two crossed segments,,cross be-shaped,tielonfolmo
 "be campanula; be bell-shaped; OBJ is rotationally symmetric, closed on one end, and flared on the other",,bell be-shaped,tintilesfolmo
+"be humanoid; be human-shaped; OBJ is a bipedal entity with two legs, two arms, and a head",,person be-shaped,wonfolmo
 clock; watch,,time measuring-device,kwelwelsomaluat
 stopwatch,,lateness measuring-device,hulilyansomaluat
 timer,,earliness amount measuring-device,citulyankwelyansomaluat
@@ -402,26 +400,37 @@ eat supper; eat dinner; sup; dine; SBJ {diner; supper} eats OBJ {dinner; supper}
 eat dessert; eat midnight snack; SBJ {dessert} eats OBJ {dessert; midnight snack},,moon eat,fiknyama
 dine out; OBJ {diner} buys IND {restaurant meal} from SBJ {restaurant; server} {LOCATION:restaurant; food court; dining area},,eat sell,nyamamai
 grocery store,,no if dislike store,nyoayfhaumailyot
-bookstore,,book store,capalummailyot
+bookstore,,record store,telonmailyot
 call shop,locutorio,notion store,nosyonmailyot
 butchery,,be-dead animal store,uhutunmailyot
 ticket booth,,ticket store,maihwokmailyot
 satelite; artificial satelite,,metal moon,tatulonfik
-millimetre,,×10^ minus 3 metre,lyonmensan'methe
-centimetre,,×10^ minus 2 metre,lyonmentos'methe
-kilometre,,×10^ 3 metre,lyonsan'methe
-millilitre,,×10^ minus 3 litre,lyonmensan'lithe
-milligram,,×10^ minus 6 kilogram,lyonmencah'kilokham
-gram,,×10^ minus 3 kilogram,lyonmensan'kilokham
-tonne,,×10^ 3 kilogram,lyonsan'kilokham
-give birth; get born; SBJ {biological mother} gives birth to OBJ {offspring; biological child; newborn} by IND {biological father}’s seed {TIME:birth},,person create,wonestaki
+trillionth; pico; p,,×10^ minus 1 2,lyonmenkantos
+billionth; nano; n,,×10^ minus 9,lyonmenmes
+millionth; micro; μ,,×10^ minus 6,lyonmencah
+thousandth; milli; m,,×10^ minus 3,lyonmensan
+hundredth; centi; c,,×10^ minus 2,lyonmentos
+hundred; hecto; h,,×10^ 2,lyontos
+thousand; kilo; k,,×10^ 3,lyonsan
+ten thousand,,×10^ 4,lyonfol
+million; meɡa; M,,×10^ 6,lyoncah
+billion; ɡiɡa; G,,×10^ 9,lyonmes
+trillion; terra; T,,×10^ 1 2,lyonkantos
+millimetre,,thousandth metre,lyonmensan'methe
+centimetre,,hundredth metre,lyonmentos'methe
+kilometre,,thousand metre,lyonsan'methe
+millilitre,,thousandth 3 litre,lyonmensansan'lithe
+milligram,,thousandth gram,lyonmensan'kaham
+kilogram,,thousand gram,lyonsan'kaham
+tonne,,million gram,lyoncah'kaham
+birth; give birth; get born; SBJ {biological mother} gives birth to OBJ {offspring; biological child; newborn} by IND {biological father}’s seed {TIME:birth; birthdate},,live create,iciestaki
 sibling,,accompany child,pemamalon
 anticle; aunt; uncle,,parent sibling,mamapemamalon
 first cousin,,be-far relative,kulecincilum
 grandparent,,×10^ 2 mother,lyontosmamales
 great grandparent,,×10^ 3 mother,lyonsanmamales
 great great grandparent,,×10^ 4 mother,lyonfolmamales
-birthday,,give-birth day,wonestakisunkwelwel
+birthday,,birth day,iciestakisunkwelwel
 project,,big job,motalonicelum
 square; lot; park,,settlement region,cihwicon
 park,,grass lot,kascihwicon
@@ -452,8 +461,8 @@ sophomore year of college,,1 4 teach year,kanfolnokipumkwelwel
 junior year of college,,1 5 teach year,kanlimnokipumkwelwel
 senior year of college,,1 6 teach year,kancahnokipumkwelwel
 be undead; OBJ is undead {TIME:afterlife},,live repeat,icipeta
-mine; quarry,,stone source,patolontulum
-well,,water source,icicwelontulum
+mine; quarry,,stone source,patolonmwonilum
+well,,water source,icicwelonmwonilum
 explode; blow up; detonate; SBJ {exploder} makes OBJ {exploded} explode,,break spread-out,lotokihepuki
 implode; SBJ {imploder} makes OBJ {imploded} implode,,break gather,lotokicomiki
 be timely; be on time; OBJ is at the correct time,,must be-early,tewicitu
@@ -539,7 +548,7 @@ weave; SBJ {weaver} weaves OBJ,,INCOHATIVE OF be woven,netacotoki
 unweave; SBJ unweaves OBJ,,CESSATIVE OF be woven,netacotonu
 basket,,be-tangled cup,cotomeklelon
 comment; commentary; SBJ {commenter} comments OBJ {metadata; comment; commentary} on IND,,be-outside say,koti
-light; light source,,light source,kwantulum
+light; light source,,light source,kwanmwonilum
 differentiate; take derivative; SBJ {differentiater} takes the nth derivative of OBJ {antiderivative; differentiation function} with respect to IND {differentiation variable} {AMOUNT:derivative order},,be-fast deduce,yalaiti
 integrate; take integral; SBJ {integrator} takes the n-dimensional integral of OBJ {derivative; integration function} over IND {integration variable} {AMOUNT:integral dimensionality|LOCATION:integration bounds},,all deduce,kititi
 reach; extend; SBJ reaches OBJ toward IND,,touch try,tokaci
@@ -624,14 +633,14 @@ congratulate; apologise; SBJ expresses sympathy to OBJ,,sympathise say,tafunihut
 door,,be-open furniture,meklesaman
 window,,can-see furniture,husaman
 excuse; pardon; accept; tolerate; SBJ excuses OBJ,,be-okay say,oketi
-be resourceful; enterprise; OBJ resourcefully acquires IND,,by-oneself give,lonestueki
+be resourceful; enterprise; OBJ resourcefully acquires IND,,self give,siftueki
 go shopping; OBJ is going shopping,,much sell,mucmai
 welcome!,,please enter,pananeki
 emoticon; emoji,,feel image,swahulum
 spiral out; OBJ spirals outward from IND,,spin distance,kumnakulelyan
 spiral in; OBJ spirals into IND {METHOD:spiral},,spin approach,kumnanitoki
 itch; OBJ’s IND {itch} itches,,little hurt,pihtafu
-holy book,,have-faith book,fiticapalum
+holy book; holy text,,have-faith text,fititelum
 church,,religion group,fitilippaltolum
 car; truck,,ground vehicle,pummontalon
 boat,,be-liquid vehicle,cwemontalon
@@ -736,8 +745,8 @@ centipede,,poison centipede,fakekiluatlekcuc
 dragonfly; damselfly,,be-long bug,lamacuc
 louse,,hair bug,kescuc
 scorpionfly,,sky scorpion,mipalaktan
-moth,,be-brown butterfly,milukutahutyeh
-butterfly,,be-coloured moth,lonomilukutahutyeh
+moth,,be-brown butterfly,milumutihutyeh
+butterfly,,be-coloured moth,lonomilumutihutyeh
 stickbug,,rod bug,palcuc
 cockroach,,be-big cockroach,motaipis
 termite,,wood cockroach,kaccakalonipis
@@ -755,7 +764,7 @@ tardigrade; water bear; moss piglet; Tardigrada,,be-small bear,pelalic
 moss; liverwort; hornwort,,landmass algae,taylalkas
 algae; alga,,ocean algae,lawtalkas
 plankton,,float life,cwekuhokiicilwel
-apricot,,be-orange plum,kutatawh
+apricot,,be-orange plum,mutitawh
 asparagus; sparrow grass,,be-late can-smell plant,hulioleciuh
 avocado,,crocodilian fruit,nonfut
 bamboo,,tree grass,kackas
@@ -768,10 +777,10 @@ Brussels sprouts,,be-small cabbage,pelakol
 cabbage; brassica,,head cabbage,silkol
 cacao; cocoa; chocolate,,be-sweet seed,tulsepic
 candlenut; candleberry; Indian walnut; kukui nut tree; Aleurites moluccanus,,light seed,kwanpic
-cantelope,,be-orange melon,kutakwah
+cantelope,,be-orange melon,mutikwah
 cashew,,be-outside seed,kopic
 cauliflower,,be-white cabbage,putikol
-carrot,,be-orange root,kutalais
+carrot,,be-orange root,mutilais
 castor bean; castor oil plant; palm of Christ,,tick seed,tikpic
 chard; spinach beet,,leaf beet,yehpet
 cherry,,be-small plum,pelatawh
@@ -795,7 +804,7 @@ lentil,,be-thin legume,cecim
 lime,,be-green citrus,tihuceluk
 nut,,be-hard seed,nitapic
 onion; bulb onion; common onion; Allium cepa,,stack plant,capakiciuh
-orange; mandarin; tangerine,,be-orange citrus,kutaceluk
+orange; mandarin; tangerine,,be-orange citrus,muticeluk
 orchid,,flower plant,pulciuh
 palm; palm tree,,tree leaf,kacyeh
 peach; nectarine,,be-red plum,lucitawh
@@ -805,7 +814,7 @@ peanut; groundnut; goober,,primate legume,ukikcim
 pepper,,be-spicy fruit,pikantefut
 plum,,be-purple plum,mutatawh
 potato; tuber; Solanum tuberosum,,ground tuber,pumtupel
-pumpkin,,be-big squash,motawaluh
+pumpkin,,be-big squash,motapus
 rubber tree; latex,,be-elastic tree,polaipowikac
 scallion; green onion; spring onion; salad onion,,leaf onion,yehpiac
 sea beet; wild spinach,,be-natural beet,natulapet
@@ -821,7 +830,7 @@ turnip,,be-white root,putilais
 venus fly-trap,,eat plant,nyamaciuh
 watermelon,,be-red melon,lucikwah
 yam; sweet potato,,be-sweet tuber,tulsetupel
-zucchini; courgette,,be-small squash,pelawaluh
+zucchini; courgette,,be-small squash,pelapus
 oil palm,,oil tree,cyaukicwelonkac
 south pole,,be-south point,sutatyen
 north pole,,be-north point,filatyen
@@ -866,7 +875,7 @@ North Macedonia; the Former Yugoslav Republic of Macedonia {GENITIVE:North Maced
 Southern Min; Minnan; Hokkien-Taiwanese; the Southern Min languages,,be-south Min-Chinese,suta'hokyentilip
 South Ossetian; Alanian; the South Ossetian people {GENITIVE:South Ossetian; of South Ossetia|COUNTRY:South Ossetia; Alania},,be-south Ossetian,suta'alon
 São Tomé Island {GENITIVE:São Toméan; Santomean},,São-Tomé landmass,'sawntumetayl
-South Sudan {GENITIVE:South Sudanese; from South Sudan|PEOPLE:South Sudanese; the South Sudanese people},,be-south Sudan,suta'asutan
+South Sudan {GENITIVE:South Sudanese; from South Sudan|PEOPLE:South Sudanese; the South Sudanese people},,be-south Sudan,suta'assutan
 East Timor; Timor-Leste; Democratic Republic of Timor-Leste {PEOPLE:Timorese; East Timorese; Maubere; the East Timorese people},,be-east Timor-(landmass),este'timol
 Ugandan; the Ugandan people {GENITIVE:Ugandan; from Uganda|COUNTRY:Uganda},,be-big Ganda,mota'kanta
 New York City; New York,,be-young York,hwe'yok
