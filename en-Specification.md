@@ -297,6 +297,8 @@ The verb "to have", as you may notice, is missing from Oltilip's dictionary. The
 
 The verb "to need" is similarly absent from the vocabulary. The verb "cai", which literally means "want", can be used in many contexts where "need" would be used in English. However, true necessity as in "humans need to eat to survive" should be rephrased as conditionals: "won es nyama nyo ayf, uhuki" literally means "if humans don't eat, they die".
 
+Dates and times in Oltilip can be expressed several ways. For maximal precision, one would use the Oltilip equivalent of "on the fifty-sixth minute of the second hour of the twenty-first day of July": "pitak fikkwelwel ak toskanak tapakwelwel ak tosak kankwelwel ak limcahak toskwelwel wel". Note that hours, minutes, and seconds index from zero by convention, and that months in Oltilip do not have names. This can all be shortened substantially by separating the date and time with a comma, and removing the units of the day, hour, minute, and second. This is analogous to the more common "on July twenty-first, two fifty-six": "pitak fikkwelwel ak toskan, tos ak limcah wel".-
+
 ## Vocabulary
 
 Oltilip has 426 basic roots, drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomotopoetic lexicons. The source languages were selected and weighted in order to give the most mnemonic value to the greatest number of people. While these root words cover many concepts, with only 426, there are inevitably many lexical gaps and ambiguities. These are filled with Oltilip's morphological derivation system. New words are derived in three main ways: _inversion_, _compounds_, _affixes_, and _loans_.
@@ -357,7 +359,7 @@ Here are some useful expressions in Oltilip.
 | Welcome. | pana neki. |
 | Please. | pana. |
 | Thank you. | kanci. |
-| You're welcome. | wawilum on esta nyo. |
+| You're welcome. | wawi nyo. |
 | I'm sorry. | suotu. |
 | Excuse me. | pana oketi. |
 | You're excused. | sa oketi. |
