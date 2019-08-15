@@ -21,9 +21,9 @@ Before you read any further, you'll need to know how to read, say, and write the
 |   o  |   o    |    O         |  **oa**t, **o**rgan  |     o     |  ɔ\~o\~ow   |    e    | V |
 |   i  |   i    |    I, ι      | **ea**t, scr**ee**ch |     i     |    ɪ\~i     |    u    | V |
 |   u  |   u    |    U, v      |  fr**ui**t, **oo**ze |     u     |    ʊ\~u     |    i    | V |
-|  yo  |   y    |    Y         | **y**ogurt, **y**ell |     j     | i, ʲ, j\~ʝ  |    we   | G |
+|  yo  |   y    |    Y         |   so**y**, **y**ell  |     j     | i, ʲ, j\~ʝ  |    we   | G |
 |  la  |   l    |    L         |  **l**ime, fa**ll**  |     l     |    l\~r     |    ta   | C |
-|  we  |   w    |    W, ɯ      |  **w**ine, q**u**iet |     w     | u, ʷ, w\~ʋ  |    yo   | G |
+|  we  |   w    |    W, ɯ      |  cho**w**, **w**eep  |     w     | u, ʷ, w\~ʋ  |    yo   | G |
 |  na  |   n    |    Λ         | **n**ectar, pai**n** |     n     |   n, ŋ\~ɴ   |    ko   | C |
 |  me  |   m    |    M         | **m**elon, screa**m**|     m     |      m      |    pe   | C |
 |  ho  |   h    |    Һ         |  **h**oney, **h**ide |     h     |   x\~h, ɦ   |    co   | C |
@@ -67,6 +67,7 @@ In addition to this subset of Latin letters, a subset of other Latin symbols may
 | pelapas        | '      | Precedes a loanword
 | tyen           | .      | Follows the last word of a sentence or the ones digit of floating point numbers
 | tapamila       | ,      | Follows the last word before a brief pause
+| tosak pelapas  | "      | Encloses a quotation
 | nefwesak kiles | (      | Precedes the first word of an inset sidenote
 | nefwesak nules | )      | Follows the last word of an inset sidenote
 | fulopas        | \~     | Denotes a range between two values
@@ -105,7 +106,7 @@ Finally, there are twenty-seven more letters that may be used for transcribing f
 |**Lateral approximant**   | lw     | l        | l     | ly      | lɯ    |        |
 |**Tap/Trill**             | ʙ      | r        | r     |         | ʀ     |        |
 |**Click**                 | !      | !        | !     | !       | !     |        |
-|**Secondary articulation**| ◌w     | ◌ɹ       | ◌ɹ    | ◌y      | ◌ʀ    | ◌ʔ     |
+|**Secondary articulation**| tw     | tɹ       | tɹ    | ty      | tʀ    | tʔ     |
 
 |             | Front | Central | Back |
 |-------------|-------|---------|------|
@@ -146,7 +147,7 @@ Don't know what any of that means? Don't worry. Let's jump into it now.
 
 ### Sentence particles
 
-A sentence particle, when included, is the first thing in a sentence or clause. It specifies the mood of that clause: whether it's a statement, a question, etc. There are six.
+A _sentence particle_, when included, is the first thing in a sentence or clause. It specifies the mood of that clause: whether it's a statement, a question, etc. There are six.
 - **"sa"** marks a declarative sentence, or indicates acknowledgement when used alone;
 - **"cu"** marks an interrogative sentence, or indicates confusion when used alone;
 - **"na"** marks an imperative sentence, or indicates an implied command when used alone;
@@ -226,6 +227,7 @@ Finally, noun phrases of all kinds can also be concatenated to form more specifi
 
 The last Oltilip part of speech is the numeral. Oltilip contains many mechanisms for describing numbers in precise mathematical ways. However, for the non-mathemetician, most of this is unnecessary. Luckily, basic numbers are also extremely easy to construct. The ten basic numerals are the digits from zero to nine.
 
+| Symbol | Word |
 |-----|-----|
 |  0  | nul |
 |  1  | kan |
@@ -321,33 +323,33 @@ A more standard way to form a new word is with a simple compound. This involves 
 A more precise way to derive new terms is through the addition of affixes. In Oltilip, all affixes are themselves words, and the result of adding one means the same thing as the base word and affix placed together in a sentence, albeit lexicalised. For example, if the relative "l es" is placed next to the verb "noki", which means "to teach", one gets "noki l es", which means "one who teaches". When "les" is used as a suffix, that phrase is lexicalised into "nokiles", which means "teacher". This form carries two concrete advantages over the phrase "noki l es"; specifically, "nokiles" cannot be misinterpreted as unconnected words in adjacent phrases should the surrounding grammar be complicated, and further can refer to the concept of a teacher even when there is no one in the discussion who is actively teaching. Learning a word like "nokiles" is also easier than repeatedly parsing a phrase like "noki l es".
 
 There are ten suffixes that can turn verbs into nouns:
-- "-les" references the agent of a verb, similar to "-er" in English;
-- "-lon" references the patient of a verb, similar to "-ee" in English;
-- "-lum" references the theme of a verb;
-- "-lyan" references the extent to which a verb takes place;
-- "-lwel" references the time at which a verb takes place;
-- "-lyot" references the location at which a verb takes place;
-- "-lial" references the cause because of which a verb takes place;
-- "-luat" references the instrument by which a verb takes place; and
-- "-lip" references the way in which a verb takes place.
+- **"-les"** references the agent of a verb, similar to "-er" in English;
+- **"-lon"** references the patient of a verb, similar to "-ee" in English;
+- **"-lum"** references the theme of a verb;
+- **"-lyan"** references the extent to which a verb takes place;
+- **"-lwel"** references the time at which a verb takes place;
+- **"-lyot"** references the location at which a verb takes place;
+- **"-lial"** references the cause because of which a verb takes place;
+- **"-luat"** references the instrument by which a verb takes place; and
+- **"-lip"** references the way in which a verb takes place.
 
 There are four suffixes that can turn verbs into other verbs:
-- "-nyo" describes the negative of a verb, similar to "non-" in English;
-- "-ki" describes the inception of a verb, similar to "-ise" or "-en" in English;
-- "-nu" describes the cession of a verb, similar to "de- -ise" or "un- -en" in English;
-- "-powi" describes the potential of a verb, similar to "-able" or "-ible" in English; and
-- "-calu" describes the continuation of a verb, similar to "-ing" in English.
+- **"-nyo"** describes the negative of a verb, similar to "non-" in English;
+- **"-ki"** describes the inception of a verb, similar to "-ise" or "-en" in English;
+- **"-nu"** describes the cession of a verb, similar to "de- -ise" or "un- -en" in English;
+- **"-powi"** describes the potential of a verb, similar to "-able" or "-ible" in English; and
+- **"-calu"** describes the continuation of a verb, similar to "-ing" in English.
 
 Finally, there is one suffix that turns nouns into other nouns:
-- "-ak" describes anything of or related to a noun, similar to "-al", "-ic", or "-'s" in English.
+- **"-ak"** describes anything of or related to a noun, similar to "-al", "-ic", or "-'s" in English.
 
 ### Loanwords
 
-For words that describe deeply technical concepts like "deoxyribonucleic acid", cultural concepts like "ahupua&#8216;a", or a combination of the two like "oriental ladyfern", a class of word that is neither root nor compound is needed. This is the _loanword_, a word taken directly from a specific language. The word should be taken from a language that has regional or historical ties to the concept. For example, the word for "persimmon", "'kaki", comes from the Japanese "柿", /kaki/, due to the persimmon's historical and economic ties to Eastern Asia.
+For words that describe deeply technical concepts like "deoxyribonucleic acid", cultural concepts like "ahupua&#8216;a", or a combination of the two like "oriental ladyfern", a class of word that is neither root nor compound is needed. This is the _loanword_, a word taken directly from a specific language. The word should be taken from a language that has regional or historical ties to the concept. For example, the word for "persimmon", "'kaki", comes from the Japanese "柿" /kaki/, due to the persimmon's historical and economic ties to Eastern Asia.
 
-Because these words have fewer phonotactic restrictions than base words, they may be marked with an apostrophe to distinguish them, much as italics are commonly used in English. Even with the looser restrictions, Oltilip's small phonology often forces loanwords to differ from their sources substantially, as "'fahanse" does from "France", /fʀɑns/. This is a necessary trade-off when using such a learnable phonology.
+Because these words have fewer phonotactic restrictions than base words, they may be marked with an apostrophe to distinguish them, much as italics are commonly used in English. Even with the looser restrictions, Oltilip's small phonology often forces loanwords to differ from their sources substantially, as "'fahanse" does from "France" /fʀɑns/. This is a worthwhile trade-off for the learnability of the phonology.
 
-Loanwords are especially common as toponyms. The word for "Japan", "'nipon", comes directly from the Japnese word "日本". These are commonly compounded to form related words, such as "'niponwon" for "Japanese person", "'nipontilip" for "the Japanese language", and "'niponkwelyot" for "the Japanese archipelago". While it is less common, an ethnonym can also serve as the root off of which the toponym is derived, depending on the etymology of the endonym. For example, from "'alap" for "Arab", we get "'alaptec" for "Saudi Arabia", "'alaptilip" for "Arabic", and "'alapkwelyot" for "the Arabian peninsula".
+Loanwords are especially common as toponyms. The word for "Japan", "'nipon", comes directly from the Japnese word "日本" /nipːoɴ/. These are commonly compounded to form related words, such as "'niponwon" for "Japanese person", "'nipontilip" for "the Japanese language", and "'niponkwelyot" for "the Japanese archipelago". While it is less common, an ethnonym can also serve as the root off of which the toponym is derived, depending on the etymology of the endonym. For example, from "'alap" for "Arab", we get "'alaptec" for "Saudi Arabia", "'alaptilip" for "Arabic", and "'alapkwelyot" for "the Arabian peninsula".
 
 ## Common phrases
 
@@ -373,15 +375,14 @@ Here are some useful expressions in Oltilip.
 | Is it okay? | cu oke. |
 | It's okay. | sa oke. |
 | What is your name? | puk um co kon on. |
-| My name is Chka-chka Slim Shady | min um co 'cikacikaslimceyti on. |
+| My name is "Chka-chka Slim Shady" | min um co "'cikacikaslimceyti" on. |
 | I know a little Oltilip. | min on pih yan oltilip on no. |
 | Please speak slower. | pana wata ip pola. |
-| I love you. | min on puk um muccai. |
 | Where is the bathroom? | pukak mamalon on seksomailes um. |
 
 ## Flag
 
-[The flag of Oltilip](https://github.com/jkunimune15/Djastiz/blob/international-djastiz/flag.svg) is a white and azure bicolour, divided by a sinusoid. In the center, it bears an orange six-pointed star circumscribed by an azure and white circle. The white field represents peace, which Oltilip could facilitate, while the azure represents knowledge, which Oltilip could proliferate. The boundary between them is a sinusoid instead of the traditional straight line to represent the fluidity of Oltilip's grammar, and its free word order in particular. The circle represents the Earth---blue, white, and circular. The star both separates it into six sections, for the six continents, and bridges the gap between them. It represents both natural languages, which divide us, and Oltilip, which can link us together.
+[The flag of Oltilip](https://github.com/jkunimune15/Djastiz/blob/international-djastiz/Flag.svg) is a white and azure bicolour, divided by a sinusoid. In the center, it bears an orange six-pointed star circumscribed by an azure and white circle. The white field represents peace, which Oltilip could facilitate, while the azure represents knowledge, which Oltilip could proliferate. The boundary between them is a sinusoid instead of the traditional straight line to represent the fluidity of Oltilip's grammar, and its free word order in particular. The circle represents the Earth---blue, white, and circular. The star both separates it into six sections, for the six continents, and bridges the gap between them. It represents both natural languages, which divide us, and Oltilip, which can link us together.
 
 # Appendices
 
