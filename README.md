@@ -1,6 +1,6 @@
 # Oltilip
 
-Oltilip (/oʊ̯lˈtɪlɪp/; Oltilip: ⟨oltilip⟩ \[olˈtilip\]) is the ultimate international language. So easy to learn, so well-supported, and so elegant that the world won't be able to help but speak it. That's the plan, anyway. Here, you'll find eveything you need to learn it (albeit not in the easiest format) and all the source code needed to reproduce my work.
+Oltilip (/oʊ̯lˈtɪlɪp/; Oltilip: ⟨oltilip⟩ \[olˈtilip\]) is the ultimate international language. So easy to learn, so well-supported, and so elegant that the world won't be able to help but speak it. That's the plan, anyway. Here, you'll find eveything you need to learn it and all the source code needed to reproduce my work.
 
 ## Key features
 
