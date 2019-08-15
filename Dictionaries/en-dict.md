@@ -10364,7 +10364,7 @@ Dominican; Quisqueyan; from Dominican Republic
 Quisqueyan; the people of the Dominican Republic
 
 - <a name="kit">**kit**</a> _num._ ([~~nul~~](#nul))  
-all; absolute; maximum; exact; both
+all; absolute; maximum; exact; complete
 
 - <a name="kitak">**kitak**</a> _n._ ([kit](#kit)+[ak](#ak))  
 last; universal
@@ -11602,7 +11602,7 @@ Tuesday
 second
 
 - <a name="tospelsan">**tospelsan**</a> _num._ ([tos](#tos)+[pel](#pel)+[san](#san))  
-two-thirds; 2/3; .66
+two-thirds; 2/3; .̅6
 
 - <a name="tofta">**tofta**</a> _v._ ([~~lesla~~](#lesla))  
 be inviscous; be thin; [ʟᴏᴧ](#toftalon) is inviscous
@@ -12309,7 +12309,7 @@ fifth; one fifth; 1/5; .2
 eighth; one eighth; 1/8; .125
 
 - <a name="pelsan">**pelsan**</a> _num._ ([pel](#pel)+[san](#san))  
-third; one third; 1/3; .33
+third; one third; 1/3; .̅3
 
 - <a name="pelfol">**pelfol**</a> _num._ ([pel](#pel)+[fol](#fol))  
 quarter; fourth; one fourth; 1/4; .25

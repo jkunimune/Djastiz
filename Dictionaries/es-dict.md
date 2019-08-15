@@ -10364,7 +10364,7 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 
 
 - <a name="kit">**kit**</a> _num._ ([~~nul~~](#nul))  
-todo; todos; absoluto; máximo
+todo; todos; absoluto; máximo; completa
 
 - <a name="kitak">**kitak**</a> _n._ ([kit](#kit)+[ak](#ak))  
 
@@ -11602,7 +11602,7 @@ segundo
 
 
 - <a name="tospelsan">**tospelsan**</a> _num._ ([tos](#tos)+[pel](#pel)+[san](#san))  
-dos tercios; 2/3; .66
+dos tercios; 2/3; .̅6
 
 - <a name="tofta">**tofta**</a> _v._ ([~~lesla~~](#lesla))  
 
@@ -12309,7 +12309,7 @@ quinto; 1/5; .2
 octavo; 1/8; .125
 
 - <a name="pelsan">**pelsan**</a> _num._ ([pel](#pel)+[san](#san))  
-tercio; 1/3; .33
+tercio; 1/3; .̅3
 
 - <a name="pelfol">**pelfol**</a> _num._ ([pel](#pel)+[fol](#fol))  
 cuarto; 1/4; .25
