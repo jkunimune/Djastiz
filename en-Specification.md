@@ -21,9 +21,9 @@ Before you read any further, you'll need to know how to read, say, and write the
 |   o  |   o    |    O, σ      | *oa*t, *o*rgan  |     o     |  ɔ\~o\~ow   |    e    | V |
 |   i  |   i    |    I, ι      |*ea*t, scr*ee*ch |     i     |    ɪ\~i     |    u    | V |
 |   u  |   u    |    U, v      | fr*ui*t, *oo*ze |     u     |    ʊ\~u     |    i    | V |
-|  yo  |   y    |    Y         |*y*ogurt, *y*ell |     j     |   j, ʲ, i   |    we   | C |
+|  yo  |   y    |    Y         |*y*ogurt, *y*ell |     j     | i, ʲ, j\~ʝ  |    we   | C |
 |  la  |   l    |    L         | *l*ime, fa*ll*  |     l     |    l\~r     |    ta   | C |
-|  we  |   w    |    W, ɯ      | *w*ine, q*u*iet |     w     |   w, ʷ, u   |    yo   | C |
+|  we  |   w    |    W, ɯ      | *w*ine, q*u*iet |     w     | u, ʷ, w\~ʋ  |    yo   | C |
 |  na  |   n    |    Λ         |*n*ectar, pai*n* |     n     |   n, ŋ\~ɴ   |    ko   | C |
 |  me  |   m    |    M         |*m*elon, screa*m*|     m     |      m      |    pe   | C |
 |  ho  |   h    |    Һ         | *h*oney, *h*ide |     h     |   x\~h, ɦ   |    co   | C |
@@ -172,6 +172,8 @@ _Argumentative postpositions_ have complements with meanings specific to their p
 - "es" marks the agent, the entity that initialises and carries out the action;
 - "on" marks the patient or experiencer, the entity whose state is changed or described by the action; and
 - "um" marks the theme or stimulus, an entitty that is not directly involved in the action but is essential to it nonetheless.
+
+When adjunctive postpositional phrases are included or omitted, it often appears to change the meaning of a sentence's English translation. This is because Oltilip uses the same word for what English treats as transitive and intransitive pairs of verbs. For example, the verbs for "enter" and "insert" are both "neki" in Oltilip; "it enters" is "et on neki", and "I insert it is "min es et on neki".
 
 ### Predicates
 
