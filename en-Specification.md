@@ -4,7 +4,7 @@ This is the language specification for Oltilip, an international auxiliary langu
 
 ## Disclaimer
 
-Please do not actually learn this language. I created Oltilip to satisfy my personal desire for a language that _I_ thought was optimal. I publish it such that those who are interested can see my ideas and potentially gain something from them. However, were I to actually push it as a contender for the second language of humanity, it would be a waste of my time at best and another divisive factor in the already splintered auxlang community at worst. Therefore, I beseech you that if you want to support the idea of an international auxiliary language by learning one and communicating with it, I encourage you to look into [Elefen](elefen.org) or [Neo Patwa](http://patwa.pbworks.com/w/page/14800479/FrontPage) instead, as those are the two auxlangs other than my own that I currently favor most.
+Please do not actually learn this language. I created Oltilip to satisfy my personal desire for a language that _I_ thought was optimal. I publish it such that those who are interested can see my ideas and potentially gain something from them. However, were I to actually push it as a contender for the second language of humanity, it would be a waste of my time at best and another divisive factor in the already splintered auxlang community at worst. Therefore, I beseech that if you want to support the idea of an international auxiliary language by learning one and communicating with it, you look into [Elefen](elefen.org) or [Neo Patwa](http://patwa.pbworks.com/w/page/14800479/FrontPage) instead, as those are the two auxlangs other than my own that I currently favor most.
 
 With that out of the way, let's get onto the language!
 
@@ -16,23 +16,23 @@ Before you read any further, you'll need to know how to read, say, and write the
 
 | Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)| Inverse | Class |
 |------|--------|--------------|-----------------|------------|-------------|---------|----------
-|   e  |   e    |    Є         |  *e*gg, fr*ay*  |     e     |  ɛ\~e\~ej   |    o    | V |
-|   a  |   a    |    Ƌ, ɑ, α   | t*a*co, h*a*ck  |     a     |    a\~ɑ     |    a    | V |
-|   o  |   o    |    O, σ      | *oa*t, *o*rgan  |     o     |  ɔ\~o\~ow   |    e    | V |
-|   i  |   i    |    I, ι      |*ea*t, scr*ee*ch |     i     |    ɪ\~i     |    u    | V |
-|   u  |   u    |    U, v      | fr*ui*t, *oo*ze |     u     |    ʊ\~u     |    i    | V |
-|  yo  |   y    |    Y         |*y*ogurt, *y*ell |     j     | i, ʲ, j\~ʝ  |    we   | C |
-|  la  |   l    |    L         | *l*ime, fa*ll*  |     l     |    l\~r     |    ta   | C |
-|  we  |   w    |    W, ɯ      | *w*ine, q*u*iet |     w     | u, ʷ, w\~ʋ  |    yo   | C |
-|  na  |   n    |    Λ         |*n*ectar, pai*n* |     n     |   n, ŋ\~ɴ   |    ko   | C |
-|  me  |   m    |    M         |*m*elon, screa*m*|     m     |      m      |    pe   | C |
-|  ho  |   h    |    Һ         | *h*oney, *h*ide |     h     |   x\~h, ɦ   |    co   | C |
-|  co  |   c    |    C         |*ch*eese, *sh*riek|   t͡ʃ     |t͡ʃ\~t͡ʂ, ʃ\~ʂ |    ho   | C |
-|  sa  |   s    |    S         | *s*alt, hi*ss*  |     s     |      s      |    fe   | C |
-|  fe  |   f    |    F         | *f*ish, cou*gh* |     f     |    ɸ\~f     |    sa   | C |
-|  ko  |   k    |    K, κ      | *c*ake, *g*rab  |     k     |  k, kʰ, ɡ   |    na   | C |
-|  ta  |   t    |    T, τ      |  *t*ea, *d*eep  |     t     |  t, tʰ, d   |    la   | C |
-|  pe  |   p    |    P, ρ      | *p*ear, *b*urst |     p     |  p, pʰ, b   |    me   | C |
+|   e  |   e    |    Є         |   **e**gg, fr**ay**  |     e     |  ɛ\~e\~ej   |    o    | V |
+|   a  |   a    |    Ƌ, ɑ, α   |  t**a**co, h**a**ck  |     a     |    a\~ɑ     |    a    | V |
+|   o  |   o    |    O         |  **oa**t, **o**rgan  |     o     |  ɔ\~o\~ow   |    e    | V |
+|   i  |   i    |    I, ι      | **ea**t, scr**ee**ch |     i     |    ɪ\~i     |    u    | V |
+|   u  |   u    |    U, v      |  fr**ui**t, **oo**ze |     u     |    ʊ\~u     |    i    | V |
+|  yo  |   y    |    Y         | **y**ogurt, **y**ell |     j     | i, ʲ, j\~ʝ  |    we   | G |
+|  la  |   l    |    L         |  **l**ime, fa**ll**  |     l     |    l\~r     |    ta   | C |
+|  we  |   w    |    W, ɯ      |  **w**ine, q**u**iet |     w     | u, ʷ, w\~ʋ  |    yo   | G |
+|  na  |   n    |    Λ         | **n**ectar, pai**n** |     n     |   n, ŋ\~ɴ   |    ko   | C |
+|  me  |   m    |    M         | **m**elon, screa**m**|     m     |      m      |    pe   | C |
+|  ho  |   h    |    Һ         |  **h**oney, **h**ide |     h     |   x\~h, ɦ   |    co   | C |
+|  co  |   c    |    C         |**ch**eese, **sh**riek|   t͡ʃ     |t͡ʃ\~t͡ʂ, ʃ\~ʂ |    ho   | C |
+|  sa  |   s    |    S         |  **s**alt, hi**ss**  |     s     |      s      |    fe   | C |
+|  fe  |   f    |    F         |  **f**ish, cou**gh** |     f     |    ɸ\~f     |    sa   | C |
+|  ko  |   k    |    K         |  **c**ake, **g**rab  |     k     |  k, kʰ, ɡ   |    na   | C |
+|  ta  |   t    |    T         |   **t**ea, **d**eep  |     t     |  t, tʰ, d   |    la   | C |
+|  pe  |   p    |    P         |  **p**ear, **b**urst |     p     |  p, pʰ, b   |    me   | C |
 
 The "Inverse" column is not that important; it just comes up later in the derivational morphology section. You don't have to learn that part if you don't want to.
 
@@ -61,8 +61,8 @@ Note that while all of these symbols come from the Latin alphabet, the Latin alp
 
 In addition to this subset of Latin letters, a subset of other Latin symbols may be used with Oltilip to aid parsing. None of these are strictly required, but it is important to understand what they mean in case you come across them in Oltilip texts.
 
-| Name | Symbol | Usage | Example |
-|------|--------|-------|---------|
+| Name | Symbol | Usage |
+|------|--------|-------|
 | katilon        |        | Separates words or clusters of digits in long numbers
 | pelapas        | '      | Precedes a loanword
 | tyen           | .      | Follows the last word of a sentence or the ones digit of floating point numbers
@@ -94,17 +94,17 @@ In addition to this subset of Latin letters, a subset of other Latin symbols may
 
 Finally, there are twenty-seven more letters that may be used for transcribing foreign names in Oltilip, though it is recommended that foreign names be Oltilipised into the seventeen basic letters when possible. The extensions here are only for cases where two related foreign words would be normally indistinguishable, or where the person named prefers that their name be pronounced with a particular phone. When these extensions are used, all Oltilip phonotactic restrictions are dropped. They fill out the simplified IPA tables below.
 
-|                          | Labial | Alveolar | Postalveolar\~Retroflex | Palatal | Velar&tilde;Uvular | Pharangeal&tilde;Glottal |
+|                          | Labial | Alveolar | P.-alv.\~Retro. | Palatal | Velar\~Uvular | Phar.\~Glottal |
 |--------------------------|--------|----------|--------------|---------|-------|---------|
 |**Nasal**                 | m      | n        | n     | ŋy      | ŋ     |        |
-|**Plosive**               | p b    | t d      | t d   | ky gy   | k g   | ʔ      |
+|**Plosive/Implosive**     | p b    | t d      | t d   | ky gy   | k g   | ʔ      |
 |**Affricate**             | pf bv  | ts dz    | tʃ dʒ | kxy gʀy | kx gʀ | ʔh     |
 |**Fricative**             | f v    | s z      | ʃ ʒ   | xy ʀy   | x ʀ   | h ʕ    |
 |**Lateral fricative**     | lf lv  | lh lʒ    | lh lʒ | lx lʀ   | lx lʀ |        |
 |**Approximant**           | w      | ɹ        | ɹ     | y       | ɯ     | ʕ      |
 |**Lateral approximant**   | lw     | l        | l     | ly      | lɯ    |        |
 |**Tap/Trill**             | ʙ      | r        | r     |         | ʀ     |        |
-|**Click/Implosive**       | \|     | \|       | \|    | \|      | \|    |        |
+|**Click**                 | !      | !        | !     | !       | !     |        |
 |**Secondary articulation**| ◌w     | ◌ɹ       | ◌ɹ    | ◌y      | ◌ʀ    | ◌ʔ     |
 
 |             | Front | Central | Back |
@@ -114,13 +114,13 @@ Finally, there are twenty-seven more letters that may be used for transcribing f
 |**Mid**      | e ø   | ə ə     | ɤ o  |
 |**Open**     | a ɒ   | a ɒ     | a ɒ  |
 
-|                   |    |          |   |
-|-------------------|----|----------|---|
-|**Voiceless**      | nh |**Stress**| ˈ |
-|**Aspirated**      | th |**Long**  | əə|
-|**Rhoticity**      | əɹ |**High**  | ˥ |
-|**Nasalised**      | eŋ |**Mid**   | ˧ |
-|**Nasal release**  | dn |**Low**   | ˩ |
+| Feature | Symbol | Feature | Symbol |
+|-------------------|----|----------|----|
+|**Voiceless**      | nh |**Stress**| ˈ  |
+|**Aspirated**      | th |**Long**  | əə |
+|**Rhoticity**      | əɹ |**High**  | ˥  |
+|**Nasalised**      | eŋ |**Mid**   | ˧  |
+|**Nasal release**  | dn |**Low**   | ˩  |
 |**Lateral release**| dl |
 
 ### Phonotactics
@@ -134,46 +134,48 @@ Stress always falls on the penultimate vowel of a word, unless the IPA extension
 ## Grammar
 
 The grammar of Oltilip can be characterised as an analytic, active-stative, head-final system with free word order. In a nutshell, it can be described as:  
-         sentence ::= \[sentence-particle\] postposit-phrase\* \[verb-phrase postposit-phrase\*\]  
- postposit-phrase ::= noun-phrase postposition  
-        predicate ::= verb+  
-      noun-phrase ::= \[specifier\] (noun \| pronoun \| numeral \| relative-clause \| sentence \| noun-phrase)\*  
-  relative-clause ::= postposit-phrase\* \[verb-phrase postpos-phrase\*\] \["l" postposition\]  
+
+            sentence ::= \[sentence-particle\] postposit-phrase\* \[verb-phrase postposit-phrase\*\]
+    postposit-phrase ::= noun-phrase postposition
+           predicate ::= verb+
+         noun-phrase ::= \[specifier\] (noun \| pronoun \| numeral \| relative-clause \| sentence \| noun-phrase)\*
+     relative-clause ::= postposit-phrase\* \[verb-phrase postpos-phrase\*\] \["l" postposition\]
+             numeral ::= \[numeral "imal"\] \{\["men"\] digit+\] \["lyon" numeral\]
 
 Don't know what any of that means? Don't worry. Let's jump into it now.
 
 ### Sentence particles
 
 A sentence particle, when included, is the first thing in a sentence or clause. It specifies the mood of that clause: whether it's a statement, a question, etc. There are six.
-- "sa" marks a declarative sentence, or indicates acknowledgement when used alone;
-- "cu" marks an interrogative sentence, or indicates confusion when used alone;
-- "na" marks an imperative sentence, or indicates an implied command when used alone;
-- "pana" marks a polite imperative sentence, or indicates an implied request when used alone;
-- "wa" marks an exclamatory sentence, or indicates surprise when used alone; and
-- "ke" marks a subordinate clause.
+- **"sa"** marks a declarative sentence, or indicates acknowledgement when used alone;
+- **"cu"** marks an interrogative sentence, or indicates confusion when used alone;
+- **"na"** marks an imperative sentence, or indicates an implied command when used alone;
+- **"pana"** marks a polite imperative sentence, or indicates an implied request when used alone;
+- **"wa"** marks an exclamatory sentence, or indicates surprise when used alone; and
+- **"ke"** marks a subordinate clause.
 
-When these are used to mark sentences and clauses, the rest of the phrase comprises a series of postpositional phrases, optionally with a predicate included.
+When these are used to mark sentences and clauses, the rest of the phrase comprises a series of _postpositional phrases_, optionally with a _predicate_ included.
 
 ### Postpositional phrases
 
-Every postpositional phrase describes one aspect of the event or state described by the clause, and comprises two parts: the _complement_, which is a noun phrase, and the _postposition_, which is drawn from the following list of fifteen. The postposition specifies what aspect of the clause is being described, and the complement describes that aspect. These postpositional phrases may occur in any order. Postpositions can be categorised into two types
+Every postpositional phrase describes one aspect of the event or state described by the clause, and comprises two parts: the _complement_, which is a _noun phrase_, and the _postposition_, which is drawn from the following list of fifteen. The postposition specifies what aspect of the clause is being described, and the complement describes that aspect. These postpositional phrases may occur in any order. Postpositions can be categorised into two types
 
 _Adjunctive postpositions_ have complements with predictable and general meanings, and can be used with any predicate, or multiple times with the same predicate if used in different contexts (e.g. using "yot" once for location in virtual space and again for location in physical space). There are eight of these.
-- "yan" marks the extent or quantity of the action, either as a numeral or another noun against which to compare;
-- "yot" marks the location of the action;
-- "wel" marks the date or time of the action;
-- "ial" marks the cause or purpose of the action;
-- "uat" marks the tool or medium of the action;
-- "ayf" marks the hypothetical conditions surrounding the action (like "if" in English);
-- "ip" marks the manner or method of the action, usually as a suborditate clause; and
-- "ak" marks something that is related to the action in some other way.
+- **"yan"** marks the extent or quantity of the action, either as a numeral or another noun against which to compare;
+- **"yot"** marks the location of the action;
+- **"wel"** marks the date or time of the action;
+- **"ial"** marks the cause or purpose of the action;
+- **"uat"** marks the tool or medium of the action;
+- **"ayf"** marks the hypothetical conditions surrounding the action (like "if" in English);
+- **"ip"** marks the manner or method of the action, usually as a suborditate clause; and
+- **"ak"** marks something that is related to the action in some other way.
 
 _Argumentative postpositions_ have complements with meanings specific to their predicate, and can only be used once per clause. The definition of each Oltilip verb describes which argumentative postpositions are applicable and what roles they mark, but they can generally be qualified as three classes of semantic role.
-- "es" marks the agent, the entity that initialises and carries out the action;
-- "on" marks the patient or experiencer, the entity whose state is changed or described by the action; and
-- "um" marks the theme or stimulus, an entitty that is not directly involved in the action but is essential to it nonetheless.
+- **"es"** marks the agent, the entity that initialises and carries out the action;
+- **"on"** marks the patient or experiencer, the entity whose state is changed or described by the action; and
+- **"um"** marks the theme or stimulus, an entitty that is not directly involved in the action but is essential to it nonetheless.
 
-When adjunctive postpositional phrases are included or omitted, it often appears to change the meaning of a sentence's English translation. This is because Oltilip uses the same word for what English treats as transitive and intransitive pairs of verbs. For example, the verbs for "enter" and "insert" are both "neki" in Oltilip; "it enters" is "et on neki", and "I insert it is "min es et on neki".
+When adjunctive postpositional phrases are included or omitted, it often appears to change the meaning of a sentence's English translation. This is because Oltilip uses the same word for what English treats as transitive and intransitive pairs of verbs. For example, the verbs for "enter" and "insert" are both "neki" in Oltilip; "it enters" is "et on neki", and "I insert it" is "min es et on neki".
 
 ### Predicates
 
@@ -185,21 +187,21 @@ Unlike in most languages, the predicate can also be completely omitted in Oltili
 
 ### Noun phrases
 
-_Noun phrases_ are the primary building blocks with which one describes complex concepts. There are many ways to construct these.
+Noun phrases are the primary building blocks with which one describes complex concepts. There are many ways to construct these.
 
 The first, and by far the simplest, is a _noun_. Each one describes an instance or instances of a concept or class of things. In Oltilip, nouns do not decline for number, gender, or anything else, so "won" can mean "people", "women", "men", "the person", "a woman", or "every man". Therefore, if the quantity or quality of a noun phrase is important, make sure to manually and specifically include it with the mechanisms described below.
 
 Anywhere a noun can be used, one can also opt for a _pronoun_. Like nouns, Oltilip pronouns do not decline at all; most solely indicate person or definiteness. Some of them are fairly common and intuitive, while others are more complicated.
-- "min", "me", is the first person pronoun;
-- "puk", "you", is the second person pronoun;
-- "et", "it" or "that", is the third person, distal, and definite pronoun;
-- "ol", "this", is the proximal pronoun;
-- "wan", "one", is the indefinite pronoun;
-- "sif", "oneself", is the reflexive pronoun;
-- "kulan" refers to the next item in the implied series;
-- "nitak" refers to the previous item in the implied series;
-- "kon" stands in for missing information in interrogative sentences; and
-- "l" stands for the referenced noun in relative clauses.
+- **"min"**, "me", is the first person pronoun;
+- **"puk"**, "you", is the second person pronoun;
+- **"et"**, "it" or "that", is the third person, distal, and definite pronoun;
+- **"ol"**, "this", is the proximal pronoun;
+- **"wan"**, "one", is the indefinite pronoun;
+- **"sif"**, "oneself", is the reflexive pronoun;
+- **"kulan"** refers to the next item in the implied series;
+- **"nitak"** refers to the previous item in the implied series;
+- **"kon"** stands in for missing information in interrogative sentences; and
+- **"l"** stands for the referenced noun in relative clauses.
 
 _Relative clauses_ are another kind of noun phrase, and the most versatile. A relative clause is simply any clause, optionally using "ke" as its particle, with "l" optionally inserted as a noun as late as possible in it. It describes anything that could go where "l" is in a full sentence. This is commonly used with stative verbs such as "luci", which means "be red". Since "luci et on" means "it is red", "ke luci l on" or "luci l on" means "one that is red", or "red thing". It is also frequently used with the vague postposition "ak". Since "ciuh ak on et" describes some state of "it" generally related to plants, "ke ciuh ak l on" or "ciuh ak" means "one that is of or related to plants" or "botanical".
 
@@ -208,13 +210,13 @@ A similar but distinct kind of noun phrase is the _content clause_. A content cl
 Similar to pronouns are _numerals_, which specifically indicate the number of a noun phrase. They have special derivation rules and are therefore described in the next subsection.
 
 Any noun phrase can also be preceeded by a specifier. Specifiers manipulate the meanings of noun phrases that describe sets, and each works in a pretty distinct way.
-- "en", "any", indicates that the sentence is true for one element of the noun phrase, regardless of which one is picked;
-- "ok", "each", indicates that the sentence is true for every element of the noun phrase individually;
-- "alkun", "some", specifies that the sentence is true for some subset of the noun phrase;
-- "sol", "only", indicates that the sentence is true for the given noun phrase and nothing else;
-- "ifen", "even", emphasises a noun phrase that is surprising or especially important;
-- "yo" optionally starts a conjunctive phrase; and
-- "aw" separates elements of a conjunctive phrase.
+- **"en"**, "any", indicates that the sentence is true for one element of the noun phrase, regardless of which one is picked;
+- **"ok"**, "each", indicates that the sentence is true for every element of the noun phrase individually;
+- **"alkun"**, "some", specifies that the sentence is true for some subset of the noun phrase;
+- **"sol"**, "only", indicates that the sentence is true for the given noun phrase and nothing else;
+- **"ifen"**, "even", emphasises a noun phrase that is surprising or especially important;
+- **"yo"** optionally starts a conjunctive phrase; and
+- **"aw"** separates elements of a conjunctive phrase.
 
 Conjunctive phrases combine noun phrases that reference different things into a single noun phrase. It takes the form "myawf aw pawaf aw pes" or "yo myawf aw pawaf aw pes". The exact meaning of the conjunction "aw", like that of the modern English "-slash-", is ambiguous. It can be made more specific by prepending "ok" or "kit" before the "yo" for an analogue to English's "and", or prepending "en", "kan", or "kon" for an analogue to English's "or".
 
@@ -222,12 +224,9 @@ Finally, noun phrases of all kinds can also be concatenated to form more specifi
 
 ### Numerals
 
-The last Oltilip part of speech is the numeral. Oltilip contains many mechanisms for describing numbers in precise mathematical ways, which deserve a Back-Nur all to themselves:
+The last Oltilip part of speech is the numeral. Oltilip contains many mechanisms for describing numbers in precise mathematical ways. However, for the non-mathemetician, most of this is unnecessary. Luckily, basic numbers are also extremely easy to construct. The ten basic numerals are the digits from zero to nine.
 
-numeral := \[numeral "imal"\] \{\["men"\] digit+\] \["lyon" numeral\]
-
-However, for the non-mathemetician, most of this is unnecessary. Luckily, basic numbers are also extremely easy to construct. The ten basic numerals are the digits from zero to nine.
-
+|-----|-----|
 |  0  | nul |
 |  1  | kan |
 |  2  | tos |
@@ -241,6 +240,8 @@ However, for the non-mathemetician, most of this is unnecessary. Luckily, basic 
 
 Numbers larger than nine are described in positional notation, either with or without spaces:
 
+| Symbol | Word |
+|-----|--------|
 |  10 | kannul |
 |  11 | kankan |
 |  12 | kantos |
@@ -255,6 +256,8 @@ For numbers smaller or more precise than one, the particle "tyen" serves as the 
 
 While it can usually be assumed that this is all in base ten, the system itself is radix-independent. To specify a radix, the base plus the suffix "imal" can be prepended to the number. Digits exist for bases up to 17<sub>10</sub>.
 
+| Symbol | Word |
+|-----|-----|
 |  A  | tes |
 |  B  | tup |
 |  C  | set |
@@ -270,14 +273,14 @@ Negative numbers are formed by simply prepending "men" to their opposite, as in 
 Fractions are formed with the separator "pel", which simply divides the numeral before it by the numeral after it. For example, "tostos pel pit". If no number precedes the "pel", then the numerator can be assumed to be one.
 
 Finally, three subjective numerals exist for some situations when a number would not typically be used in English.
-- "pih" means some small quantity;
-- "muc" means some large quantity; and
-- "kit" means the maximum possible quantity given the context.
+- **"pih"** means some small quantity;
+- **"muc"** means some large quantity; and
+- **"kit"** means the maximum possible quantity given the context.
 These can be used in tandem with other numbers, as in "muc nul nul" for "many hundreds", but are usually used alone, often followed by the postposition "yan".
 
 All numbers can be converted from cardinals to ordinals by appending "-ak".
 
-### "Do no wrong" principle
+### Do no wrong principle
 
 The most important rule in Oltilip is that there are no rules. While the grammar here was designed to be as flexible as possible specifically to reduce the number of ways speakers can be wrong, it is still trivial and tempting to bend the rules. If you say something that does not precisely fit into the grammar outlined here, but it is still understandable within that framework, then you are correct. Oltilip is a means of communication, and as long as you are communicating to anyone else who has read this document, then you are speaking Oltilip.
 
@@ -378,7 +381,7 @@ Here are some useful expressions in Oltilip.
 
 ## Flag
 
-The flag of Oltilip is a white and azure bicolour, divided by a sinusoid. In the center, it bears an orange six-pointed star circumscribed by an azure and white circle. The white field represents peace, which Oltilip could facilitate, while the azure represents knowledge, which Oltilip could proliferate. The boundary between them is a sinusoid instead of the traditional straight line to represent the fluidity of Oltilip's grammar, and its free word order in particular. The circle represents the Earth---blue, white, and circular. The star both separates it into six sections, for the six continents, and bridges the gap between them. It represents both natural languages, which divide us, and Oltilip, which can link us together.
+[The flag of Oltilip](https://github.com/jkunimune15/Djastiz/blob/international-djastiz/flag.svg) is a white and azure bicolour, divided by a sinusoid. In the center, it bears an orange six-pointed star circumscribed by an azure and white circle. The white field represents peace, which Oltilip could facilitate, while the azure represents knowledge, which Oltilip could proliferate. The boundary between them is a sinusoid instead of the traditional straight line to represent the fluidity of Oltilip's grammar, and its free word order in particular. The circle represents the Earth---blue, white, and circular. The star both separates it into six sections, for the six continents, and bridges the gap between them. It represents both natural languages, which divide us, and Oltilip, which can link us together.
 
 # Appendices
 

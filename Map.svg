@@ -29,17 +29,17 @@
 			stroke:none;
 		}
 		.label-pol {
-			font-family:&#34;Trajan Pro 3&#34;, &#34;Trajan Pro&#34;, Trajan, serif;
+			font-family:"Trajan Pro 3, Trajan Pro, Trajan, serif";
 			text-anchor:middle;
 			alignment-baseline:middle;
 			font-weight:normal;
 			color:#000000;
 		}
 		.label-sm {
-			font-size:1.5pt;
+			font-size:3px;
 		}
 		.label-md, .label-lg {
-			font-size:2pt;
+			font-size:4px;
 		}
 		#ALB, #AUT, #BHS, #BLR, #BLZ, #BRA, #CAF, #CAN, #CHL, #COM, #CYN, #CYP,
 		#DMA, #ECU, #ERI, #ESP, #EST, #GAB, #GEO, #GRD, #HRV, #IND, #IRN, #ISL,
@@ -885,7 +885,6 @@
 	<text x="175.252" y="164.857"  class="label-pol label-md">'ankola</text>
 	<text x="218.396" y="113.229"  class="label-pol label-sm">'emalatitec</text>
 	<text x="96.555" y="188.632"  class="label-pol label-lg">'alhentina</text>
-	<text x="353.73" y="176.494"  class="label-pol label-sm">'amelikaak samoa ('amelikatec)</text>
 	<text x="194.24" y="242.101"  class="label-pol label-sm">sutatayl</text>
 	<text x="294.33" y="178.968"  class="label-pol label-lg">'ostwaylyatec</text>
 	<text x="174.391" y="78.055"  class="label-pol label-sm">'ostalayc</text>
@@ -923,7 +922,7 @@
 	<text x="187.477" y="52.212"  class="label-pol label-md">'suomi</text>
 	<text x="162.886" y="78.157"  class="label-pol label-lg">'fahanse</text>
 	<text x="166.85" y="150.157"  class="label-pol label-sm">'kapon</text>
-	<text x="162.845" y="64.924"  class="label-pol label-lg">'pwitanak</text>
+	<text x="162.845" y="64.924"  class="label-pol label-lg">'pwitantec</text>
 	<text x="152.206" y="135.354"  class="label-pol label-md">'kana</text>
 	<text x="139.877" y="130.026"  class="label-pol label-md">'konakhi'kine</text>
 	<text x="165.02" y="145.428"  class="label-pol label-sm">nefilalum'kine</text>
@@ -963,7 +962,6 @@
 	<text x="141.518" y="113.356"  class="label-pol label-md">'mulitanya</text>
 	<text x="288.07" y="130.273"  class="label-pol label-md">'malayutec</text>
 	<text x="176.253" y="180.837"  class="label-pol label-md">'namipiatec</text>
-	<text x="329.058" y="185.153"  class="label-pol label-md">hwe'kaletonia (fahansetec)</text>
 	<text x="165.967" y="122.838"  class="label-pol label-md">'nicehtec</text>
 	<text x="164.337" y="135.241"  class="label-pol label-lg">'nayciwia</text>
 	<text x="350.476" y="187.594"  class="label-pol label-sm">'niwe</text>
@@ -973,7 +971,6 @@
 	<text x="221.444" y="117.365"  class="label-pol label-sm">'uman</text>
 	<text x="233.144" y="102.01"  class="label-pol label-lg">'pakistan</text>
 	<text x="73.754" y="120.565"  class="label-pol label-sm">'panama</text>
-	<text x="38.849" y="165.899"  class="label-pol label-sm">'pitkentec ('pwitantec)</text>
 	<text x="74.892" y="150.055"  class="label-pol label-lg">'pelu</text>
 	<text x="298.65" y="115.492"  class="label-pol label-lg">'pilipinastec</text>
 	<text x="320.67" y="154.453"  class="label-pol label-lg">'niukinitec</text>
@@ -981,7 +978,6 @@
 	<text x="286.174" y="67.868"  class="label-pol label-md">'filacosawn</text>
 	<text x="150.175" y="86.625"  class="label-pol label-lg">'pultukal</text>
 	<text x="99.867" y="172.183"  class="label-pol label-sm">'palakway</text>
-	<text x="19.903" y="153.085"  class="label-pol label-sm">'fahanseak 'polinesi ('fahanse)</text>
 	<text x="185.29" y="81.299"  class="label-pol label-md">'lomintec</text>
 	<text x="234.994" y="44.598"  class="label-pol label-lg">'lusitec</text>
 	<text x="192.768" y="152.333"  class="label-pol label-md">'ulkwanta</text>
@@ -989,10 +985,8 @@
 	<text x="191.672" y="126.861"  class="label-pol label-md">'asutan</text>
 	<text x="192.076" y="138.53"  class="label-pol label-md">suta'asutan</text>
 	<text x="136.372" y="122.411"  class="label-pol label-md">'senekal</text>
-	<text x="139.264" y="209.808"  class="label-pol label-sm">suta'coca aw suta'santwictayl (pwitantec)</text>
 	<text x="334.343" y="162.822"  class="label-pol label-md">'solomontec</text>
 	<text x="139.301" y="132.219"  class="label-pol label-sm">'salon</text>
-	<text x="125.863" y="76.866"  class="label-pol label-sm">'senpyeh aw miklon (Fr.)</text>
 	<text x="103.206" y="132.217"  class="label-pol label-sm">'sulinama</text>
 	<text x="181.134" y="56.331"  class="label-pol label-md">'swensektec</text>
 	<text x="194.451" y="186.17"  class="label-pol label-sm">'swatitec</text>
@@ -1014,7 +1008,6 @@
 	<text x="90.158" y="127.113"  class="label-pol label-md">'peneswela</text>
 	<text x="278.925" y="113.804"  class="label-pol label-lg">'fiattec</text>
 	<text x="335.115" y="178.871"  class="label-pol label-sm">'fanuatutec</text>
-	<text x="348.474" y="174.432"  class="label-pol label-sm">'walis aw 'futuna ('fahanse)</text>
 	<text x="352.759" y="175.063"  class="label-pol label-sm">'samoatec</text>
 	<text x="215.137" y="126.982"  class="label-pol label-md">'yaman</text>
 	<text x="185.615" y="189.261"  class="label-pol label-lg">suta'aflikatec</text>
