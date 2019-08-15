@@ -3003,6 +3003,12 @@ escama
 - <a name="limak">**limak**</a> _n._ ([lim](#lim)+[ak](#ak))  
 quinto
 
+- <a name="limnul">**limnul**</a> _num._ ([lim](#lim)+[nul](#nul))  
+50; cincuenta
+
+- <a name="limnulnul">**limnulnul**</a> _num._ ([lim](#lim)+[nul](#nul)+[nul](#nul))  
+500; quinientos
+
 - <a name="limsunkwelwel">**limsunkwelwel**</a> _n._ ([lim](#lim)+[sunkwelwel](#sunkwelwel))  
 
 
@@ -3336,44 +3342,53 @@ quinto
 - <a name="lyon">**lyon**</a> _num._ (Spa. ⟨-illón⟩ \[iˈʝon\])  
 ×10^; -illon
 
+- <a name="lyonlim">**lyonlim**</a> _num._ ([lyon](#lyon)+[lim](#lim))  
+100 000; cien mil
+
 - <a name="lyonmenmes">**lyonmenmes**</a> _num._ ([lyon](#lyon)+[men](#men)+[mes](#mes))  
 
 
 - <a name="lyonmencah">**lyonmencah**</a> _num._ ([lyon](#lyon)+[men](#men)+[cah](#cah))  
 
 
+- <a name="lyonmencahnoluat">**lyonmencahnoluat**</a> _n._ ([lyonmencah](#lyonmencah)+[noluat](#noluat))  
+
+
 - <a name="lyonmensan">**lyonmensan**</a> _num._ ([lyon](#lyon)+[men](#men)+[san](#san))  
+.001; milésimo; mili-; m
+
+- <a name="lyonmensan'lithe">**lyonmensan'lithe**</a> _n._ ([lyonmensan](#lyonmensan)+['lithe](#'lithe))  
 
 
 - <a name="lyonmensan'methe">**lyonmensan'methe**</a> _n._ ([lyonmensan](#lyonmensan)+['methe](#'methe))  
 
 
-- <a name="lyonmensansan'lithe">**lyonmensansan'lithe**</a> _n._ ([lyonmensan](#lyonmensan)+[san](#san)+['lithe](#'lithe))  
-
-
 - <a name="lyonmensan'kaham">**lyonmensan'kaham**</a> _n._ ([lyonmensan](#lyonmensan)+['kaham](#'kaham))  
 
 
-- <a name="lyonmenkantos">**lyonmenkantos**</a> _num._ ([lyon](#lyon)+[men](#men)+[kan](#kan)+[tos](#tos))  
+- <a name="lyonmenkan">**lyonmenkan**</a> _num._ ([lyon](#lyon)+[men](#men)+[kan](#kan))  
+.1; décimo; deci-; d
+
+- <a name="lyonmenkantos">**lyonmenkantos**</a> _num._ ([lyon](#lyon)+[men](#men)+[kantos](#kantos))  
 
 
 - <a name="lyonmentos">**lyonmentos**</a> _num._ ([lyon](#lyon)+[men](#men)+[tos](#tos))  
-
+.01; centésimo; centi-; c
 
 - <a name="lyonmentos'methe">**lyonmentos'methe**</a> _n._ ([lyonmentos](#lyonmentos)+['methe](#'methe))  
 
 
 - <a name="lyonmes">**lyonmes**</a> _num._ ([lyon](#lyon)+[mes](#mes))  
-
+1 000 000 000; billón; giga-; G
 
 - <a name="lyoncah">**lyoncah**</a> _num._ ([lyon](#lyon)+[cah](#cah))  
-
+1 000 000; millón; mega-; M
 
 - <a name="lyoncah'kaham">**lyoncah'kaham**</a> _n._ ([lyoncah](#lyoncah)+['kaham](#'kaham))  
 
 
 - <a name="lyonsan">**lyonsan**</a> _num._ ([lyon](#lyon)+[san](#san))  
-
+1 000; mil; kilo-; k
 
 - <a name="lyonsan'methe">**lyonsan'methe**</a> _n._ ([lyonsan](#lyonsan)+['methe](#'methe))  
 
@@ -3385,16 +3400,13 @@ quinto
 
 
 - <a name="lyonfol">**lyonfol**</a> _num._ ([lyon](#lyon)+[fol](#fol))  
-
+10 000; diez mil
 
 - <a name="lyonfolmamales">**lyonfolmamales**</a> _n._ ([lyon](#lyon)+[fol](#fol)+[mamales](#mamales))  
 
 
-- <a name="lyonkantos">**lyonkantos**</a> _num._ ([lyon](#lyon)+[kan](#kan)+[tos](#tos))  
-
-
-- <a name="lyontos">**lyontos**</a> _num._ ([lyon](#lyon)+[tos](#tos))  
-
+- <a name="lyonkantos">**lyonkantos**</a> _num._ ([lyon](#lyon)+[kantos](#kantos))  
+1 000 000 000; trillón; terra-; T
 
 - <a name="lyontosmamales">**lyontosmamales**</a> _n._ ([lyon](#lyon)+[tos](#tos)+[mamales](#mamales))  
 
@@ -4689,6 +4701,12 @@ noveno
 - <a name="mesnokipumkwelwel">**mesnokipumkwelwel**</a> _n._ ([mes](#mes)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
+- <a name="mesnul">**mesnul**</a> _num._ ([mes](#mes)+[nul](#nul))  
+90; noventa
+
+- <a name="mesnulnul">**mesnulnul**</a> _num._ ([mes](#mes)+[nul](#nul)+[nul](#nul))  
+900; novecientos
+
 - <a name="mekle">**mekle**</a> _v._ ([~~ponto~~](#ponto))  
 
 
@@ -5942,6 +5960,12 @@ ser agudo; [ʟᴏᴧ](#hailon) es agudo
 - <a name="hatak">**hatak**</a> _n._ ([hat](#hat)+[ak](#ak))  
 ocho
 
+- <a name="hatnul">**hatnul**</a> _num._ ([hat](#hat)+[nul](#nul))  
+80; ochenta
+
+- <a name="hatnulnul">**hatnulnul**</a> _num._ ([hat](#hat)+[nul](#nul)+[nul](#nul))  
+800; ochocientos
+
 - <a name="hatcyenlektun">**hatcyenlektun**</a> _n._ ([hat](#hat)+[cyenlektun](#cyenlektun))  
 
 
@@ -6609,6 +6633,12 @@ ocho
 
 - <a name="cahak">**cahak**</a> _n._ ([cah](#cah)+[ak](#ak))  
 sexto
+
+- <a name="cahnul">**cahnul**</a> _num._ ([cah](#cah)+[nul](#nul))  
+60; sesenta
+
+- <a name="cahnulnul">**cahnulnul**</a> _num._ ([cah](#cah)+[nul](#nul)+[nul](#nul))  
+600; seiscientos
 
 - <a name="cahsunkwelwel">**cahsunkwelwel**</a> _n._ ([cah](#cah)+[sunkwelwel](#sunkwelwel))  
 
@@ -7875,6 +7905,12 @@ tercero
 - <a name="sanokiluat">**sanokiluat**</a> _n._ ([sanoki](#sanoki)+[luat](#luat))  
 
 
+- <a name="sannul">**sannul**</a> _num._ ([san](#san)+[nul](#nul))  
+30; treinta
+
+- <a name="sannulnul">**sannulnul**</a> _num._ ([san](#san)+[nul](#nul)+[nul](#nul))  
+300; trescientos
+
 - <a name="'sanmalino">**'sanmalino**</a> _n._ (Ita. ⟨San Marino⟩ \[san mariːno\])  
 
 
@@ -7901,6 +7937,9 @@ tercero
 
 - <a name="'sanskaltamwon">**'sanskaltamwon**</a> _n._ (['sanskaltam](#'sanskaltam)+[won](#won))  
 
+
+- <a name="sanpelfol">**sanpelfol**</a> _num._ ([san](#san)+[pel](#pel)+[fol](#fol))  
+tres cuartos; 3/4; .75
 
 - <a name="sama">**sama**</a> _v._ (Msa. ⟨sama⟩ \[sama\])  
 
@@ -8912,6 +8951,12 @@ abeja; Anthophilia
 - <a name="folak">**folak**</a> _n._ ([fol](#fol)+[ak](#ak))  
 cuarto
 
+- <a name="folnul">**folnul**</a> _num._ ([fol](#fol)+[nul](#nul))  
+40; cuarenta
+
+- <a name="folnulnul">**folnulnul**</a> _num._ ([fol](#fol)+[nul](#nul)+[nul](#nul))  
+400; cuatrocientos
+
 - <a name="folmo">**folmo**</a> _v._ (Epo. ⟨formo⟩ \[ˈformo\])  
 
 
@@ -9517,9 +9562,6 @@ cuarto
 - <a name="'kalate">**'kalate**</a> _n._ (Jpn. ⟨空手⟩ \[kaɾate\])  
 
 
-- <a name="'kalium">**'kalium**</a> _n._ (Lat. ⟨gallium⟩ \[ɡallɪʊ̃\])  
-
-
 - <a name="'kalinako">**'kalinako**</a> _n._ (Crb. ⟨Kalinago⟩ \[kalinaɡo\])  
 
 
@@ -9539,6 +9581,9 @@ cuarto
 
 
 - <a name="kalitaki">**kalitaki**</a> _v._ ([kalita](#kalita)+[ki](#ki))  
+
+
+- <a name="'kallium">**'kallium**</a> _n._ (Lat. ⟨gallium⟩ \[ɡallɪʊ̃\])  
 
 
 - <a name="'kalcium">**'kalcium**</a> _n._ (Lat. ⟨calcium⟩ \[kalt͡ʃɪʊ̃\])  
@@ -9619,7 +9664,10 @@ primero
 - <a name="kanosolon">**kanosolon**</a> _n._ ([kan](#kan)+[osolon](#osolon))  
 
 
-- <a name="kanlimnokipumkwelwel">**kanlimnokipumkwelwel**</a> _n._ ([kan](#kan)+[lim](#lim)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kanlim">**kanlim**</a> _num._ ([kan](#kan)+[lim](#lim))  
+15; quince
+
+- <a name="kanlimnokipumkwelwel">**kanlimnokipumkwelwel**</a> _n._ ([kanlim](#kanlim)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
 - <a name="kanwale">**kanwale**</a> _v._ ([kan](#kan)+[wale](#wale))  
@@ -9634,13 +9682,28 @@ primero
 - <a name="kannu">**kannu**</a> _num._ ([kan](#kan)+[nu](#nu))  
 separar; divisir; ʟєꜱ separa ʟᴏᴧ a muchas partes
 
-- <a name="kannulnokipumkwelwel">**kannulnokipumkwelwel**</a> _n._ ([kan](#kan)+[nul](#nul)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kannul">**kannul**</a> _num._ ([kan](#kan)+[nul](#nul))  
+10; diez
+
+- <a name="kannulnokipumkwelwel">**kannulnokipumkwelwel**</a> _n._ ([kannul](#kannul)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
-- <a name="kannulcyenlektun">**kannulcyenlektun**</a> _n._ ([kan](#kan)+[nul](#nul)+[cyenlektun](#cyenlektun))  
+- <a name="kannulnul">**kannulnul**</a> _num._ ([kan](#kan)+[nul](#nul)+[nul](#nul))  
+100; cien; ciento
+
+- <a name="kannulcyenlektun">**kannulcyenlektun**</a> _n._ ([kannul](#kannul)+[cyenlektun](#cyenlektun))  
 
 
-- <a name="kancahnokipumkwelwel">**kancahnokipumkwelwel**</a> _n._ ([kan](#kan)+[cah](#cah)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kanmes">**kanmes**</a> _num._ ([kan](#kan)+[mes](#mes))  
+19; diecinueve
+
+- <a name="kanhat">**kanhat**</a> _num._ ([kan](#kan)+[hat](#hat))  
+18; dieciocho
+
+- <a name="kancah">**kancah**</a> _num._ ([kan](#kan)+[cah](#cah))  
+16; dieciseis
+
+- <a name="kancahnokipumkwelwel">**kancahnokipumkwelwel**</a> _n._ ([kancah](#kancah)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
 - <a name="kanci">**kanci**</a> _v._ (Cmn. ⟨感激⟩ \[kan˧˩˧t͡ɕi˥\])  
@@ -9649,7 +9712,10 @@ separar; divisir; ʟєꜱ separa ʟᴏᴧ a muchas partes
 - <a name="kancilon">**kancilon**</a> _n._ ([kanci](#kanci)+[lon](#lon))  
 
 
-- <a name="kansannokipumkwelwel">**kansannokipumkwelwel**</a> _n._ ([kan](#kan)+[san](#san)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kansan">**kansan**</a> _num._ ([kan](#kan)+[san](#san))  
+13; trece
+
+- <a name="kansannokipumkwelwel">**kansannokipumkwelwel**</a> _n._ ([kansan](#kansan)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
 - <a name="kansunkwelwel">**kansunkwelwel**</a> _n._ ([kan](#kan)+[sunkwelwel](#sunkwelwel))  
@@ -9658,10 +9724,16 @@ separar; divisir; ʟєꜱ separa ʟᴏᴧ a muchas partes
 - <a name="kanswa">**kanswa**</a> _v._ ([kan](#kan)+[swa](#swa))  
 
 
-- <a name="kanfolnokipumkwelwel">**kanfolnokipumkwelwel**</a> _n._ ([kan](#kan)+[fol](#fol)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kanfol">**kanfol**</a> _num._ ([kan](#kan)+[fol](#fol))  
+14; catorce
+
+- <a name="kanfolnokipumkwelwel">**kanfolnokipumkwelwel**</a> _n._ ([kanfol](#kanfol)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
-- <a name="kankannokipumkwelwel">**kankannokipumkwelwel**</a> _n._ ([kan](#kan)+[kan](#kan)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kankan">**kankan**</a> _num._ ([kan](#kan)+[kan](#kan))  
+11; once
+
+- <a name="kankannokipumkwelwel">**kankannokipumkwelwel**</a> _n._ ([kankan](#kankan)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
 - <a name="kankatalum">**kankatalum**</a> _n._ ([kan](#kan)+[katalum](#katalum))  
@@ -9691,7 +9763,10 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 - <a name="'kantatilip">**'kantatilip**</a> _n._ (['kanta](#'kanta)+[tilip](#tilip))  
 
 
-- <a name="kantosnokipumkwelwel">**kantosnokipumkwelwel**</a> _n._ ([kan](#kan)+[tos](#tos)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kantos">**kantos**</a> _num._ ([kan](#kan)+[tos](#tos))  
+12; doce
+
+- <a name="kantosnokipumkwelwel">**kantosnokipumkwelwel**</a> _n._ ([kantos](#kantos)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
 - <a name="kantunci">**kantunci**</a> _v._ ([kan](#kan)+[tunci](#tunci))  
@@ -9708,6 +9783,9 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 
 - <a name="kanpoltilum">**kanpoltilum**</a> _n._ ([kan](#kan)+[poltilum](#poltilum))  
 
+
+- <a name="kanpit">**kanpit**</a> _num._ ([kan](#kan)+[pit](#pit))  
+17; diecisiete
 
 - <a name="'kamae">**'kamae**</a> _n._ (Khm. ⟨ខ្មែរ⟩ \[kʰmae\])  
 
@@ -11505,6 +11583,12 @@ segundo
 - <a name="tosnokipumkwelwel">**tosnokipumkwelwel**</a> _n._ ([tos](#tos)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 
 
+- <a name="tosnul">**tosnul**</a> _num._ ([tos](#tos)+[nul](#nul))  
+20; veinte
+
+- <a name="tosnulnul">**tosnulnul**</a> _num._ ([tos](#tos)+[nul](#nul)+[nul](#nul))  
+200; doscientos
+
 - <a name="toscohluso">**toscohluso**</a> _v._ ([tos](#tos)+[coh](#coh)+[luso](#luso))  
 
 
@@ -11516,6 +11600,9 @@ segundo
 
 - <a name="toskwelwel">**toskwelwel**</a> _n._ ([tos](#tos)+[kwelwel](#kwelwel))  
 
+
+- <a name="tospelsan">**tospelsan**</a> _num._ ([tos](#tos)+[pel](#pel)+[san](#san))  
+dos tercios; 2/3; .66
 
 - <a name="tofta">**tofta**</a> _v._ ([~~lesla~~](#lesla))  
 
@@ -12194,7 +12281,7 @@ sobre; dividido por
 - <a name="pelon">**pelon**</a> _n._ ([pe](#pe)+[lon](#lon))  
 
 
-- <a name="'pelilium">**'pelilium**</a> _n._ (Lat. ⟨beryllium⟩ \[bɛrillɪʊ̃\])  
+- <a name="'pelillium">**'pelillium**</a> _n._ (Lat. ⟨beryllium⟩ \[bɛrillɪʊ̃\])  
 
 
 - <a name="'pelis">**'pelis**</a> _n._ (Eng. ⟨Belize⟩ \[bəˈliːz\])  
@@ -12215,6 +12302,18 @@ sobre; dividido por
 - <a name="'peluwon">**'peluwon**</a> _n._ (['pelu](#'pelu)+[won](#won))  
 
 
+- <a name="pellim">**pellim**</a> _num._ ([pel](#pel)+[lim](#lim))  
+quinto; 1/5; .2
+
+- <a name="pelhat">**pelhat**</a> _num._ ([pel](#pel)+[hat](#hat))  
+octavo; 1/8; .125
+
+- <a name="pelsan">**pelsan**</a> _num._ ([pel](#pel)+[san](#san))  
+tercio; 1/3; .33
+
+- <a name="pelfol">**pelfol**</a> _num._ ([pel](#pel)+[fol](#fol))  
+cuarto; 1/4; .25
+
 - <a name="'pelkia">**'pelkia**</a> _n._ (Nld. ⟨België⟩ \[bɛlɣiə\])  
 
 
@@ -12224,13 +12323,16 @@ sobre; dividido por
 - <a name="'pelkiawon">**'pelkiawon**</a> _n._ (['pelkia](#'pelkia)+[won](#won))  
 
 
-- <a name="peltosefe">**peltosefe**</a> _v._ ([pel](#pel)+[tos](#tos)+[efe](#efe))  
+- <a name="peltos">**peltos**</a> _num._ ([pel](#pel)+[tos](#tos))  
+mitad; medio; 1/2; .5
+
+- <a name="peltosefe">**peltosefe**</a> _v._ ([peltos](#peltos)+[efe](#efe))  
 
 
 - <a name="peltosefelon">**peltosefelon**</a> _n._ ([peltosefe](#peltosefe)+[lon](#lon))  
 
 
-- <a name="peltososo">**peltososo**</a> _v._ ([pel](#pel)+[tos](#tos)+[oso](#oso))  
+- <a name="peltososo">**peltososo**</a> _v._ ([peltos](#peltos)+[oso](#oso))  
 
 
 - <a name="peltososolon">**peltososolon**</a> _n._ ([peltososo](#peltososo)+[lon](#lon))  
@@ -12992,7 +13094,7 @@ sobre; dividido por
 - <a name="'polipyawon">**'polipyawon**</a> _n._ (['polipya](#'polipya)+[won](#won))  
 
 
-- <a name="'polum">**'polum**</a> _n._ (Lat. ⟨Porrum⟩ \[pɔrʊ̃\])  
+- <a name="'polum">**'polum**</a> _n._ (Lat. ⟨Porrum⟩ \[pɔrːʊ̃\])  
 
 
 - <a name="'poltec">**'poltec**</a> _n._ (['pol](#'pol)+[tec](#tec))  
@@ -13330,6 +13432,12 @@ poco; pocos
 
 - <a name="pitak">**pitak**</a> _n._ ([pit](#pit)+[ak](#ak))  
 séptimo
+
+- <a name="pitnul">**pitnul**</a> _num._ ([pit](#pit)+[nul](#nul))  
+70; setenta
+
+- <a name="pitnulnul">**pitnulnul**</a> _num._ ([pit](#pit)+[nul](#nul)+[nul](#nul))  
+700; setecientos
 
 - <a name="'pitsa">**'pitsa**</a> _n._ (Ita. ⟨pizza⟩ \[ˈpit͡sːa\])  
 

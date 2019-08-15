@@ -70,6 +70,52 @@ mobile phone; cellural phone; cell phone,,move phone,hilatiluat
 smart phone; phone,,understand phone,moyetiluat
 be feminine; OBJ {woman; girl} is feminine,,female act,fimelaktua
 be masculine; OBJ {man; boy} is masculine,,male act,supotaktua
+10; ten,10; diez,1 0,kannul
+11; eleven,11; once,1 1,kankan
+12; twelve,12; doce,1 2,kantos
+13; thirteen,13; trece,1 3,kansan
+14; fourteen,14; catorce,1 4,kanfol
+15; fifteen,15; quince,1 5,kanlim
+16; sixteen,16; dieciseis,1 6,kancah
+17; seventeen,17; diecisiete,1 7,kanpit
+18; eighteen,18; dieciocho,1 8,kanhat
+19; nineteen,19; diecinueve,1 9,kanmes
+20; twenty,20; veinte,2 0,tosnul
+30; thirty,30; treinta,3 0,sannul
+40; forty,40; cuarenta,4 0,folnul
+50; fifty,50; cincuenta,5 0,limnul
+60; sixty,60; sesenta,6 0,cahnul
+70; seventy,70; setenta,7 0,pitnul
+80; eighty,80; ochenta,8 0,hatnul
+90; ninety,90; noventa,9 0,mesnul
+100; one hundred; hundred; hecto,100; cien; ciento,1 0 0,kannulnul
+200; two hundred,200; doscientos,2 0 0,tosnulnul
+300; three hundred,300; trescientos,3 0 0,sannulnul
+400; four hundred,400; cuatrocientos,4 0 0,folnulnul
+500; five hundred,500; quinientos,5 0 0,limnulnul
+600; six hundred,600; seiscientos,6 0 0,cahnulnul
+700; seven hundred,700; setecientos,7 0 0,pitnulnul
+800; eight hundred,800; ochocientos,8 0 0,hatnulnul
+900; nine hundred,900; novecientos,9 0 0,mesnulnul
+1 000; one thousand; thousand; kilo-; k,1 000; mil; kilo-; k,×10^ 3,lyonsan
+10 000; ten thousand,10 000; diez mil,×10^ 4,lyonfol
+100 000; one hundred thousand; hundred thousand,100 000; cien mil,×10^ 5,lyonlim
+1 000 000; one million; million; mega-; M,1 000 000; millón; mega-; M,×10^ 6,lyoncah
+1 000 000 000; one billion; billion; giga-; G,1 000 000 000; billón; giga-; G,×10^ 9,lyonmes
+1 000 000 000 000; one trillion; trillion; terra-; T,1 000 000 000; trillón; terra-; T,×10^ 12,lyonkantos
+half; one half; 1/2; .5,mitad; medio; 1/2; .5,over 2,peltos
+third; one third; 1/3; .33,tercio; 1/3; .33,over 3,pelsan
+two-thirds; 2/3; .66,dos tercios; 2/3; .66,2 over 3,tospelsan
+quarter; fourth; one fourth; 1/4; .25,cuarto; 1/4; .25,over 4,pelfol
+three-quarters; three-fourths; 3/4; .75,tres cuartos; 3/4; .75,3 over 4,sanpelfol
+fifth; one fifth; 1/5; .2,quinto; 1/5; .2,over 5,pellim
+eighth; one eighth; 1/8; .125,octavo; 1/8; .125,over 8,pelhat
+.1; one tenth; tenth; deci-; d,.1; décimo; deci-; d,×10^ minus 1,lyonmenkan
+.01; one hundredth; hundredth; centi-; c,.01; centésimo; centi-; c,×10^ minus 2,lyonmentos
+.001; one thousandth; thousandth; milli-; m,.001; milésimo; mili-; m,×10^ minus 3,lyonmensan
+.000001; one millionth; millionth; micro-; μ,,×10^ minus 6,lyonmencah
+.000000001; one billionth; billionth; nano-; n,,×10^ minus 9,lyonmenmes
+.000000000001; one trillionth; trillionth; pico-; p,,×10^ minus 12,lyonmenkantos
 year,,ground time,pumkwelwel
 month,,moon time,fikkwelwel
 week,,7 time,pitkwelwel
@@ -413,24 +459,14 @@ call shop,locutorio,notion store,nosyonmailyot
 butchery,,be-dead animal store,uhutunmailyot
 ticket booth,,ticket store,maihwokmailyot
 satelite; artificial satelite,,metal moon,tatulonfik
-trillionth; pico; p,,×10^ minus 1 2,lyonmenkantos
-billionth; nano; n,,×10^ minus 9,lyonmenmes
-millionth; micro; μ,,×10^ minus 6,lyonmencah
-thousandth; milli; m,,×10^ minus 3,lyonmensan
-hundredth; centi; c,,×10^ minus 2,lyonmentos
-hundred; hecto; h,,×10^ 2,lyontos
-thousand; kilo; k,,×10^ 3,lyonsan
-ten thousand,,×10^ 4,lyonfol
-million; meɡa; M,,×10^ 6,lyoncah
-billion; ɡiɡa; G,,×10^ 9,lyonmes
-trillion; terra; T,,×10^ 1 2,lyonkantos
-millimetre,,thousandth metre,lyonmensan'methe
-centimetre,,hundredth metre,lyonmentos'methe
-kilometre,,thousand metre,lyonsan'methe
-millilitre,,thousandth 3 litre,lyonmensansan'lithe
-milligram,,thousandth gram,lyonmensan'kaham
-kilogram,,thousand gram,lyonsan'kaham
-tonne,,million gram,lyoncah'kaham
+micrometre; micron,,.000001 meter,lyonmencahnoluat
+millimetre,,.001 metre,lyonmensan'methe
+centimetre,,.01 metre,lyonmentos'methe
+kilometre,,1-000 metre,lyonsan'methe
+millilitre,,.001 litre,lyonmensan'lithe
+milligram,,.001 gram,lyonmensan'kaham
+kilogram,,1-000 gram,lyonsan'kaham
+tonne,,1-000-000 gram,lyoncah'kaham
 birth; give birth; get born; SBJ {biological mother} gives birth to OBJ {offspring; biological child; newborn} by IND {biological father}’s seed {TIME:birth; birthdate},,live create,iciestaki
 sibling,,accompany child,pemamalon
 anticle; aunt; uncle,,parent sibling,mamapemamalon
@@ -461,13 +497,13 @@ kindergarden,,0 teach year,nulnokipumkwelwel
 first grade,,1 teach year,kannokipumkwelwel
 second grade,,2 teach year,tosnokipumkwelwel
 freshman year of high school,,9 teach year,mesnokipumkwelwel
-sophomore year of high school,,1 0 teach year,kannulnokipumkwelwel
-junior year of high school,,1 1 teach year,kankannokipumkwelwel
-senior year of high school,,1 2 teach year,kantosnokipumkwelwel
-freshman year of college,,1 3 teach year,kansannokipumkwelwel
-sophomore year of college,,1 4 teach year,kanfolnokipumkwelwel
-junior year of college,,1 5 teach year,kanlimnokipumkwelwel
-senior year of college,,1 6 teach year,kancahnokipumkwelwel
+sophomore year of high school,,10 teach year,kannulnokipumkwelwel
+junior year of high school,,11 teach year,kankannokipumkwelwel
+senior year of high school,,12 teach year,kantosnokipumkwelwel
+freshman year of college,,13 teach year,kansannokipumkwelwel
+sophomore year of college,,14 teach year,kanfolnokipumkwelwel
+junior year of college,,15 teach year,kanlimnokipumkwelwel
+senior year of college,,16 teach year,kancahnokipumkwelwel
 be undead; OBJ is undead {TIME:afterlife},,live repeat,icipeta
 mine; quarry,,stone source,patolonmwonilum
 well,,water source,icicwelonmwonilum
@@ -593,8 +629,8 @@ be apprehensive; hesitate; OBJ is apprehensive to do IND,,choose dislike,eleheha
 adore; beI cute; OBJ finds IND cute,,be-small want,pelacai
 beI awkward; be uncomfortable; OBJ finds IND {herp} awkward,,be-social hurt,sosiatafu
 replace; substitute; swap; SBJ removes IND and replaces it with OBJ,,summon dispose,lyotkwekikilyotkwekinu
-be majority; be most; OBJ is most of IND,,over 2 be-more,peltososo
-be minority; OBJ is less than half of IND,,over 2 be-less,peltosefe
+be majority; be most; OBJ is most of IND,,half be-more,peltososo
+be minority; OBJ is less than half of IND,,half be-less,peltosefe
 cane; staff; walking stick,,step rod,pucopal
 invent; innovate; SBJ {inventor} invents OBJ {invention},,engineer think-of,ciculesitea
 be conservative; resist change; OBJ is conservative,,change dislike,calunyohau
@@ -764,7 +800,7 @@ plankton,,be-small organism,pelaicilon
 snail,,be-hard slug,nitakuhol
 molusk; cephalapod,,tentacle animal,cyenlektun
 octopus,,8 molusk,hatcyenlektun
-decapus; squid; cuttlefish,,1 0 molusk,kannulcyenlektun
+decapus; squid; cuttlefish,,10 molusk,kannulcyenlektun
 beard worm,,be-big tube worm,motalamasiklalonkil
 leech,,blood worm,tutumucwelonkil
 sea anemone; sea fan; seawhip,,flower animal,pultun

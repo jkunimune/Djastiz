@@ -3003,6 +3003,12 @@ pangolin
 - <a name="limak">**limak**</a> _n._ ([lim](#lim)+[ak](#ak))  
 fifth
 
+- <a name="limnul">**limnul**</a> _num._ ([lim](#lim)+[nul](#nul))  
+50; fifty
+
+- <a name="limnulnul">**limnulnul**</a> _num._ ([lim](#lim)+[nul](#nul)+[nul](#nul))  
+500; five hundred
+
 - <a name="limsunkwelwel">**limsunkwelwel**</a> _n._ ([lim](#lim)+[sunkwelwel](#sunkwelwel))  
 Friday
 
@@ -3336,44 +3342,53 @@ the amount that
 - <a name="lyon">**lyon**</a> _num._ (Spa. ⟨-illón⟩ \[iˈʝon\])  
 ×10^; -llion; times the radix to the
 
+- <a name="lyonlim">**lyonlim**</a> _num._ ([lyon](#lyon)+[lim](#lim))  
+100 000; one hundred thousand; hundred thousand
+
 - <a name="lyonmenmes">**lyonmenmes**</a> _num._ ([lyon](#lyon)+[men](#men)+[mes](#mes))  
-billionth; nano; n
+.000000001; one billionth; billionth; nano-; n
 
 - <a name="lyonmencah">**lyonmencah**</a> _num._ ([lyon](#lyon)+[men](#men)+[cah](#cah))  
-millionth; micro; μ
+.000001; one millionth; millionth; micro-; μ
+
+- <a name="lyonmencahnoluat">**lyonmencahnoluat**</a> _n._ ([lyonmencah](#lyonmencah)+[noluat](#noluat))  
+micrometre; micron
 
 - <a name="lyonmensan">**lyonmensan**</a> _num._ ([lyon](#lyon)+[men](#men)+[san](#san))  
-thousandth; milli; m
+.001; one thousandth; thousandth; milli-; m
+
+- <a name="lyonmensan'lithe">**lyonmensan'lithe**</a> _n._ ([lyonmensan](#lyonmensan)+['lithe](#'lithe))  
+millilitre
 
 - <a name="lyonmensan'methe">**lyonmensan'methe**</a> _n._ ([lyonmensan](#lyonmensan)+['methe](#'methe))  
 millimetre
 
-- <a name="lyonmensansan'lithe">**lyonmensansan'lithe**</a> _n._ ([lyonmensan](#lyonmensan)+[san](#san)+['lithe](#'lithe))  
-millilitre
-
 - <a name="lyonmensan'kaham">**lyonmensan'kaham**</a> _n._ ([lyonmensan](#lyonmensan)+['kaham](#'kaham))  
 milligram
 
-- <a name="lyonmenkantos">**lyonmenkantos**</a> _num._ ([lyon](#lyon)+[men](#men)+[kan](#kan)+[tos](#tos))  
-trillionth; pico; p
+- <a name="lyonmenkan">**lyonmenkan**</a> _num._ ([lyon](#lyon)+[men](#men)+[kan](#kan))  
+.1; one tenth; tenth; deci-; d
+
+- <a name="lyonmenkantos">**lyonmenkantos**</a> _num._ ([lyon](#lyon)+[men](#men)+[kantos](#kantos))  
+.000000000001; one trillionth; trillionth; pico-; p
 
 - <a name="lyonmentos">**lyonmentos**</a> _num._ ([lyon](#lyon)+[men](#men)+[tos](#tos))  
-hundredth; centi; c
+.01; one hundredth; hundredth; centi-; c
 
 - <a name="lyonmentos'methe">**lyonmentos'methe**</a> _n._ ([lyonmentos](#lyonmentos)+['methe](#'methe))  
 centimetre
 
 - <a name="lyonmes">**lyonmes**</a> _num._ ([lyon](#lyon)+[mes](#mes))  
-billion; ɡiɡa; G
+1 000 000 000; one billion; billion; giga-; G
 
 - <a name="lyoncah">**lyoncah**</a> _num._ ([lyon](#lyon)+[cah](#cah))  
-million; meɡa; M
+1 000 000; one million; million; mega-; M
 
 - <a name="lyoncah'kaham">**lyoncah'kaham**</a> _n._ ([lyoncah](#lyoncah)+['kaham](#'kaham))  
 tonne
 
 - <a name="lyonsan">**lyonsan**</a> _num._ ([lyon](#lyon)+[san](#san))  
-thousand; kilo; k
+1 000; one thousand; thousand; kilo-; k
 
 - <a name="lyonsan'methe">**lyonsan'methe**</a> _n._ ([lyonsan](#lyonsan)+['methe](#'methe))  
 kilometre
@@ -3385,16 +3400,13 @@ great grandparent
 kilogram
 
 - <a name="lyonfol">**lyonfol**</a> _num._ ([lyon](#lyon)+[fol](#fol))  
-ten thousand
+10 000; ten thousand
 
 - <a name="lyonfolmamales">**lyonfolmamales**</a> _n._ ([lyon](#lyon)+[fol](#fol)+[mamales](#mamales))  
 great great grandparent
 
-- <a name="lyonkantos">**lyonkantos**</a> _num._ ([lyon](#lyon)+[kan](#kan)+[tos](#tos))  
-trillion; terra; T
-
-- <a name="lyontos">**lyontos**</a> _num._ ([lyon](#lyon)+[tos](#tos))  
-hundred; hecto; h
+- <a name="lyonkantos">**lyonkantos**</a> _num._ ([lyon](#lyon)+[kantos](#kantos))  
+1 000 000 000 000; one trillion; trillion; terra-; T
 
 - <a name="lyontosmamales">**lyontosmamales**</a> _n._ ([lyon](#lyon)+[tos](#tos)+[mamales](#mamales))  
 grandparent
@@ -4657,7 +4669,7 @@ Melanesian; from Melanesia
 Melanesian; the Melanesian people
 
 - <a name="men">**men**</a> _num._ (Spa. ⟨menos⟩ \[ˈmenos\])  
-minus; negative
+minus; negative; -
 
 - <a name="meha">**meha**</a> _v._ ([~~poca~~](#poca))  
 be fresh; [ʟᴏᴧ](#mehalon) is fresh
@@ -4688,6 +4700,12 @@ ninth
 
 - <a name="mesnokipumkwelwel">**mesnokipumkwelwel**</a> _n._ ([mes](#mes)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 freshman year of high school
+
+- <a name="mesnul">**mesnul**</a> _num._ ([mes](#mes)+[nul](#nul))  
+90; ninety
+
+- <a name="mesnulnul">**mesnulnul**</a> _num._ ([mes](#mes)+[nul](#nul)+[nul](#nul))  
+900; nine hundred
 
 - <a name="mekle">**mekle**</a> _v._ ([~~ponto~~](#ponto))  
 be open; be cupped; be U-shaped; be confined; [ʟᴏᴧ](#meklelon) is open on one side
@@ -5942,6 +5960,12 @@ sneeze
 - <a name="hatak">**hatak**</a> _n._ ([hat](#hat)+[ak](#ak))  
 eighth
 
+- <a name="hatnul">**hatnul**</a> _num._ ([hat](#hat)+[nul](#nul))  
+80; eighty
+
+- <a name="hatnulnul">**hatnulnul**</a> _num._ ([hat](#hat)+[nul](#nul)+[nul](#nul))  
+800; eight hundred
+
 - <a name="hatcyenlektun">**hatcyenlektun**</a> _n._ ([hat](#hat)+[cyenlektun](#cyenlektun))  
 octopus
 
@@ -6609,6 +6633,12 @@ jasmine; Jasminum
 
 - <a name="cahak">**cahak**</a> _n._ ([cah](#cah)+[ak](#ak))  
 sixth
+
+- <a name="cahnul">**cahnul**</a> _num._ ([cah](#cah)+[nul](#nul))  
+60; sixty
+
+- <a name="cahnulnul">**cahnulnul**</a> _num._ ([cah](#cah)+[nul](#nul)+[nul](#nul))  
+600; six hundred
 
 - <a name="cahsunkwelwel">**cahsunkwelwel**</a> _n._ ([cah](#cah)+[sunkwelwel](#sunkwelwel))  
 Saturday
@@ -7875,6 +7905,12 @@ patient
 - <a name="sanokiluat">**sanokiluat**</a> _n._ ([sanoki](#sanoki)+[luat](#luat))  
 medicine
 
+- <a name="sannul">**sannul**</a> _num._ ([san](#san)+[nul](#nul))  
+30; thirty
+
+- <a name="sannulnul">**sannulnul**</a> _num._ ([san](#san)+[nul](#nul)+[nul](#nul))  
+300; three hundred
+
 - <a name="'sanmalino">**'sanmalino**</a> _n._ (Ita. ⟨San Marino⟩ \[san mariːno\])  
 San Marino
 
@@ -7901,6 +7937,9 @@ Sanskrit; in Sanskrit
 
 - <a name="'sanskaltamwon">**'sanskaltamwon**</a> _n._ (['sanskaltam](#'sanskaltam)+[won](#won))  
 Sanskrit speakers
+
+- <a name="sanpelfol">**sanpelfol**</a> _num._ ([san](#san)+[pel](#pel)+[fol](#fol))  
+three-quarters; three-fourths; 3/4; .75
 
 - <a name="sama">**sama**</a> _v._ (Msa. ⟨sama⟩ \[sama\])  
 correspond; match; be respective; [ʟᴏᴧ](#samalon) corresponds to ʟᴜᴍ
@@ -8912,6 +8951,12 @@ thirteenth
 - <a name="folak">**folak**</a> _n._ ([fol](#fol)+[ak](#ak))  
 fourth
 
+- <a name="folnul">**folnul**</a> _num._ ([fol](#fol)+[nul](#nul))  
+40; forty
+
+- <a name="folnulnul">**folnulnul**</a> _num._ ([fol](#fol)+[nul](#nul)+[nul](#nul))  
+400; four hundred
+
 - <a name="folmo">**folmo**</a> _v._ (Epo. ⟨formo⟩ \[ˈformo\])  
 be shaped; be shaped like; [ʟᴏᴧ](#folmolon) is shaped like [ʟᴜᴍ](#folmolum)
 
@@ -9517,9 +9562,6 @@ steepen; tilt; rock; ʟєꜱ steepens ʟᴏᴧ
 - <a name="'kalate">**'kalate**</a> _n._ (Jpn. ⟨空手⟩ \[kaɾate\])  
 Karate
 
-- <a name="'kalium">**'kalium**</a> _n._ (Lat. ⟨gallium⟩ \[ɡallɪʊ̃\])  
-gallium
-
 - <a name="'kalinako">**'kalinako**</a> _n._ (Crb. ⟨Kalinago⟩ \[kalinaɡo\])  
 Island Carib; the Carib people; the Kalinago people
 
@@ -9540,6 +9582,9 @@ artificial; unnatural
 
 - <a name="kalitaki">**kalitaki**</a> _v._ ([kalita](#kalita)+[ki](#ki))  
 process; artificialise; ʟєꜱ makes ʟᴏᴧ become artificial
+
+- <a name="'kallium">**'kallium**</a> _n._ (Lat. ⟨gallium⟩ \[ɡallɪʊ̃\])  
+gallium
 
 - <a name="'kalcium">**'kalcium**</a> _n._ (Lat. ⟨calcium⟩ \[kalt͡ʃɪʊ̃\])  
 calcium
@@ -9619,7 +9664,10 @@ rapeseed; rape; canola; Brassica
 - <a name="kanosolon">**kanosolon**</a> _n._ ([kan](#kan)+[osolon](#osolon))  
 multiple; plural
 
-- <a name="kanlimnokipumkwelwel">**kanlimnokipumkwelwel**</a> _n._ ([kan](#kan)+[lim](#lim)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kanlim">**kanlim**</a> _num._ ([kan](#kan)+[lim](#lim))  
+15; fifteen
+
+- <a name="kanlimnokipumkwelwel">**kanlimnokipumkwelwel**</a> _n._ ([kanlim](#kanlim)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 junior year of college
 
 - <a name="kanwale">**kanwale**</a> _v._ ([kan](#kan)+[wale](#wale))  
@@ -9634,13 +9682,28 @@ first grade
 - <a name="kannu">**kannu**</a> _num._ ([kan](#kan)+[nu](#nu))  
 divide; split up; separate; dissolve; ʟєꜱ divides ʟᴏᴧ into multiple parts
 
-- <a name="kannulnokipumkwelwel">**kannulnokipumkwelwel**</a> _n._ ([kan](#kan)+[nul](#nul)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kannul">**kannul**</a> _num._ ([kan](#kan)+[nul](#nul))  
+10; ten
+
+- <a name="kannulnokipumkwelwel">**kannulnokipumkwelwel**</a> _n._ ([kannul](#kannul)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 sophomore year of high school
 
-- <a name="kannulcyenlektun">**kannulcyenlektun**</a> _n._ ([kan](#kan)+[nul](#nul)+[cyenlektun](#cyenlektun))  
+- <a name="kannulnul">**kannulnul**</a> _num._ ([kan](#kan)+[nul](#nul)+[nul](#nul))  
+100; one hundred; hundred; hecto
+
+- <a name="kannulcyenlektun">**kannulcyenlektun**</a> _n._ ([kannul](#kannul)+[cyenlektun](#cyenlektun))  
 decapus; squid; cuttlefish
 
-- <a name="kancahnokipumkwelwel">**kancahnokipumkwelwel**</a> _n._ ([kan](#kan)+[cah](#cah)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kanmes">**kanmes**</a> _num._ ([kan](#kan)+[mes](#mes))  
+19; nineteen
+
+- <a name="kanhat">**kanhat**</a> _num._ ([kan](#kan)+[hat](#hat))  
+18; eighteen
+
+- <a name="kancah">**kancah**</a> _num._ ([kan](#kan)+[cah](#cah))  
+16; sixteen
+
+- <a name="kancahnokipumkwelwel">**kancahnokipumkwelwel**</a> _n._ ([kancah](#kancah)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 senior year of college
 
 - <a name="kanci">**kanci**</a> _v._ (Cmn. ⟨感激⟩ \[kan˧˩˧t͡ɕi˥\])  
@@ -9649,7 +9712,10 @@ be grateful; be thankful; [ʟᴏᴧ](#kancilon) feels grateful to ʟєꜱ
 - <a name="kancilon">**kancilon**</a> _n._ ([kanci](#kanci)+[lon](#lon))  
 grateful; thankful
 
-- <a name="kansannokipumkwelwel">**kansannokipumkwelwel**</a> _n._ ([kan](#kan)+[san](#san)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kansan">**kansan**</a> _num._ ([kan](#kan)+[san](#san))  
+13; thirteen
+
+- <a name="kansannokipumkwelwel">**kansannokipumkwelwel**</a> _n._ ([kansan](#kansan)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 freshman year of college
 
 - <a name="kansunkwelwel">**kansunkwelwel**</a> _n._ ([kan](#kan)+[sunkwelwel](#sunkwelwel))  
@@ -9658,10 +9724,16 @@ Monday
 - <a name="kanswa">**kanswa**</a> _v._ ([kan](#kan)+[swa](#swa))  
 feel lonely; feel alone; ʟᴏᴧ feels alone
 
-- <a name="kanfolnokipumkwelwel">**kanfolnokipumkwelwel**</a> _n._ ([kan](#kan)+[fol](#fol)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kanfol">**kanfol**</a> _num._ ([kan](#kan)+[fol](#fol))  
+14; fourteen
+
+- <a name="kanfolnokipumkwelwel">**kanfolnokipumkwelwel**</a> _n._ ([kanfol](#kanfol)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 sophomore year of college
 
-- <a name="kankannokipumkwelwel">**kankannokipumkwelwel**</a> _n._ ([kan](#kan)+[kan](#kan)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kankan">**kankan**</a> _num._ ([kan](#kan)+[kan](#kan))  
+11; eleven
+
+- <a name="kankannokipumkwelwel">**kankannokipumkwelwel**</a> _n._ ([kankan](#kankan)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 junior year of high school
 
 - <a name="kankatalum">**kankatalum**</a> _n._ ([kan](#kan)+[katalum](#katalum))  
@@ -9691,7 +9763,10 @@ Buganda
 - <a name="'kantatilip">**'kantatilip**</a> _n._ (['kanta](#'kanta)+[tilip](#tilip))  
 Ganda; Luganda; the Ganda language
 
-- <a name="kantosnokipumkwelwel">**kantosnokipumkwelwel**</a> _n._ ([kan](#kan)+[tos](#tos)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
+- <a name="kantos">**kantos**</a> _num._ ([kan](#kan)+[tos](#tos))  
+12; twelve
+
+- <a name="kantosnokipumkwelwel">**kantosnokipumkwelwel**</a> _n._ ([kantos](#kantos)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 senior year of high school
 
 - <a name="kantunci">**kantunci**</a> _v._ ([kan](#kan)+[tunci](#tunci))  
@@ -9708,6 +9783,9 @@ kingdom; monarchy
 
 - <a name="kanpoltilum">**kanpoltilum**</a> _n._ ([kan](#kan)+[poltilum](#poltilum))  
 dress
+
+- <a name="kanpit">**kanpit**</a> _num._ ([kan](#kan)+[pit](#pit))  
+17; seventeen
 
 - <a name="'kamae">**'kamae**</a> _n._ (Khm. ⟨ខ្មែរ⟩ \[kʰmae\])  
 Khmer; Cambodian; the Khmer people
@@ -11505,6 +11583,12 @@ pants; shorts
 - <a name="tosnokipumkwelwel">**tosnokipumkwelwel**</a> _n._ ([tos](#tos)+[noki](#noki)+[pumkwelwel](#pumkwelwel))  
 second grade
 
+- <a name="tosnul">**tosnul**</a> _num._ ([tos](#tos)+[nul](#nul))  
+20; twenty
+
+- <a name="tosnulnul">**tosnulnul**</a> _num._ ([tos](#tos)+[nul](#nul)+[nul](#nul))  
+200; two hundred
+
 - <a name="toscohluso">**toscohluso**</a> _v._ ([tos](#tos)+[coh](#coh)+[luso](#luso))  
 be ambidextrous; [ʟᴏᴧ](#toscohlusolon) is ambidextrous
 
@@ -11516,6 +11600,9 @@ Tuesday
 
 - <a name="toskwelwel">**toskwelwel**</a> _n._ ([tos](#tos)+[kwelwel](#kwelwel))  
 second
+
+- <a name="tospelsan">**tospelsan**</a> _num._ ([tos](#tos)+[pel](#pel)+[san](#san))  
+two-thirds; 2/3; .66
 
 - <a name="tofta">**tofta**</a> _v._ ([~~lesla~~](#lesla))  
 be inviscous; be thin; [ʟᴏᴧ](#toftalon) is inviscous
@@ -12123,7 +12210,7 @@ pyriform; pear-shaped
 Beijing; Peking
 
 - <a name="pel">**pel**</a> _num._ (Msa. ⟨per⟩ \[per\])  
-over; division; fraction
+over; division; fraction; /
 
 - <a name="peles">**peles**</a> _n._ ([pe](#pe)+[les](#les))  
 accompanied
@@ -12194,7 +12281,7 @@ zucchini; courgette
 - <a name="pelon">**pelon**</a> _n._ ([pe](#pe)+[lon](#lon))  
 companion; accompaniment; mate; partner; company; comrade; together; beside
 
-- <a name="'pelilium">**'pelilium**</a> _n._ (Lat. ⟨beryllium⟩ \[bɛrillɪʊ̃\])  
+- <a name="'pelillium">**'pelillium**</a> _n._ (Lat. ⟨beryllium⟩ \[bɛrillɪʊ̃\])  
 beryllium
 
 - <a name="'pelis">**'pelis**</a> _n._ (Eng. ⟨Belize⟩ \[bəˈliːz\])  
@@ -12215,6 +12302,18 @@ Peruvian; from Peru
 - <a name="'peluwon">**'peluwon**</a> _n._ (['pelu](#'pelu)+[won](#won))  
 Peruvian; the Peruvian people
 
+- <a name="pellim">**pellim**</a> _num._ ([pel](#pel)+[lim](#lim))  
+fifth; one fifth; 1/5; .2
+
+- <a name="pelhat">**pelhat**</a> _num._ ([pel](#pel)+[hat](#hat))  
+eighth; one eighth; 1/8; .125
+
+- <a name="pelsan">**pelsan**</a> _num._ ([pel](#pel)+[san](#san))  
+third; one third; 1/3; .33
+
+- <a name="pelfol">**pelfol**</a> _num._ ([pel](#pel)+[fol](#fol))  
+quarter; fourth; one fourth; 1/4; .25
+
 - <a name="'pelkia">**'pelkia**</a> _n._ (Nld. ⟨België⟩ \[bɛlɣiə\])  
 Belgium
 
@@ -12224,13 +12323,16 @@ Belgian; from Belgium
 - <a name="'pelkiawon">**'pelkiawon**</a> _n._ (['pelkia](#'pelkia)+[won](#won))  
 Belgian; the Belgian people
 
-- <a name="peltosefe">**peltosefe**</a> _v._ ([pel](#pel)+[tos](#tos)+[efe](#efe))  
+- <a name="peltos">**peltos**</a> _num._ ([pel](#pel)+[tos](#tos))  
+half; one half; 1/2; .5
+
+- <a name="peltosefe">**peltosefe**</a> _v._ ([peltos](#peltos)+[efe](#efe))  
 be minority; [ʟᴏᴧ](#peltosefelon) is less than half of ʟᴜᴍ
 
 - <a name="peltosefelon">**peltosefelon**</a> _n._ ([peltosefe](#peltosefe)+[lon](#lon))  
 minority
 
-- <a name="peltososo">**peltososo**</a> _v._ ([pel](#pel)+[tos](#tos)+[oso](#oso))  
+- <a name="peltososo">**peltososo**</a> _v._ ([peltos](#peltos)+[oso](#oso))  
 be majority; be most; [ʟᴏᴧ](#peltososolon) is most of ʟᴜᴍ
 
 - <a name="peltososolon">**peltososolon**</a> _n._ ([peltososo](#peltososo)+[lon](#lon))  
@@ -12992,7 +13094,7 @@ Bolivian; from Bolivia
 - <a name="'polipyawon">**'polipyawon**</a> _n._ (['polipya](#'polipya)+[won](#won))  
 Bolivian; the Bolivian people
 
-- <a name="'polum">**'polum**</a> _n._ (Lat. ⟨Porrum⟩ \[pɔrʊ̃\])  
+- <a name="'polum">**'polum**</a> _n._ (Lat. ⟨Porrum⟩ \[pɔrːʊ̃\])  
 leek
 
 - <a name="'poltec">**'poltec**</a> _n._ (['pol](#'pol)+[tec](#tec))  
@@ -13095,7 +13197,7 @@ Bosnia and Herzegovina; Bosnia–Herzegovina; Bosnia
 Bosnian; the Bosnian language
 
 - <a name="pok">**pok**</a> _num._ ([~~men~~](#men))  
-positive; plus
+positive; plus; +
 
 - <a name="'poksimacentawli">**'poksimacentawli**</a> _n._ (Lat. ⟨Proxima Centauri⟩ \[prɔksɪma t͡ʃɛntawrɪ\])  
 Proxima Centauri
@@ -13330,6 +13432,12 @@ spice; ʟєꜱ makes ʟᴏᴧ become spicy
 
 - <a name="pitak">**pitak**</a> _n._ ([pit](#pit)+[ak](#ak))  
 seventh
+
+- <a name="pitnul">**pitnul**</a> _num._ ([pit](#pit)+[nul](#nul))  
+70; seventy
+
+- <a name="pitnulnul">**pitnulnul**</a> _num._ ([pit](#pit)+[nul](#nul)+[nul](#nul))  
+700; seven hundred
 
 - <a name="'pitsa">**'pitsa**</a> _n._ (Ita. ⟨pizza⟩ \[ˈpit͡sːa\])  
 pizza
