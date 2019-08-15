@@ -4,7 +4,7 @@ This is the language specification for Oltilip, an international auxiliary langu
 
 ## Disclaimer
 
-Please do not actually learn this language. I created Oltilip to satisfy my personal desire for a language that _I_ thought was optimal. I publish it such that those who are interested can see my ideas and potentially gain something from them. However, were I to actually push it as a contender for the second language of humanity, it would be a waste of my time at best and another divisive factor in the already splintered auxlang community at worst. Therefore, I beseech that if you want to support the idea of an international auxiliary language by learning one and communicating with it, you look into [Elefen](http://elefen.org) or [Neo Patwa](https://patwa.pbworks.com/w/page/14800479/FrontPage) instead, as those are the two auxlangs other than my own that I currently favor most.
+Please do not actually learn this language. I created Oltilip to satisfy my personal desire for a language that _I_ thought was optimal. I publish it such that those who are interested can see my ideas and potentially gain something from them. However, were I to actually push it as a contender for the second language of humanity, it would be a waste of my time at best and another divisive factor in the already splintered auxlang community at worst. Therefore, I beseech that if you want to support the idea of an international auxiliary language by learning one and communicating with it, you look into [Elefen](http://elefen.org) or [Neo Patwa](http://patwa.pbworks.com/w/page/14800479/FrontPage) instead, as those are the two auxlangs other than my own that I currently favor most.
 
 With that out of the way, let's get onto the language!
 
