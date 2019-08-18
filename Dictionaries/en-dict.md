@@ -1807,7 +1807,7 @@ Muslim; followers of Islam
 Istanbul
 
 - <a name="ifen">**ifen**</a> _spec._ (Eng. ⟨even⟩ \[ˈiːvn̩\])  
-even; so; too; neither; _emphasizes something surprising_
+even; so; too; neither; _emphasises something surprising_
 
 - <a name="ifenaw">**ifenaw**</a> _spec._ ([ifen](#ifen)+[aw](#aw))  
 but; and even
@@ -2345,10 +2345,10 @@ forget; erase memory; [ʟєꜱ](#yatapowinules) makes ʟᴏᴧ forget ʟᴜᴍ
 mind-eraser
 
 - <a name="yatapowiki">**yatapowiki**</a> _v._ ([yatapowi](#yatapowi)+[ki](#ki))  
-memorize; drill; remind; [ʟєꜱ](#yatapowikiles) makes ʟᴏᴧ memorize ʟᴜᴍ
+memorise; drill; remind; [ʟєꜱ](#yatapowikiles) makes ʟᴏᴧ memorise ʟᴜᴍ
 
 - <a name="yatapowikiles">**yatapowikiles**</a> _n._ ([yatapowiki](#yatapowiki)+[les](#les))  
-driller; crammer; memorizer
+driller; crammer; memoriser
 
 - <a name="yato">**yato**</a> _v._ (Yor. ⟨yàtọ̀⟩ \[jàtɔ̀\])  
 differ; be different; be distinct; [ʟᴏᴧ](#yatolon) is different from ʟᴜᴍ
@@ -2953,7 +2953,7 @@ be disgusted; [ʟᴏᴧ](#lotihalon) is disgusted by ʟᴜᴍ
 disgusted
 
 - <a name="lotihaki">**lotihaki**</a> _v._ ([lotiha](#lotiha)+[ki](#ki))  
-disgust; make disgusted; ʟєꜱ makes ʟᴏᴧ disgusted by ʟᴜᴍ"
+disgust; make disgusted; ʟєꜱ makes ʟᴏᴧ disgusted by ʟᴜᴍ
 
 - <a name="'lietuwa">**'lietuwa**</a> _n._ (Lit. ⟨Lietuva⟩ \[lʲɪɛtʊˈvɐ\])  
 Lithuania
@@ -4057,7 +4057,7 @@ Novial; in Novial
 - <a name="'nowialwon">**'nowialwon**</a> _n._ (['nowial](#'nowial)+[won](#won))  
 Novialist; Novial speakers
 
-- <a name="non">**non**</a> _n._ (Nya. ⟨ng&#39;ona⟩ \[ŋona\])  
+- <a name="non">**non**</a> _n._ (Nya. ⟨ng’ona⟩ \[ŋona\])  
 crocodilian; crocodile; alligator; Crocodilia
 
 - <a name="nonu">**nonu**</a> _v._ ([no](#no)+[nu](#nu))  
@@ -11038,7 +11038,7 @@ excited; interested; hype
 exciting
 
 - <a name="telucaki">**telucaki**</a> _v._ ([teluca](#teluca)+[ki](#ki))  
-excite; interest; ʟєꜱ gets ʟᴏᴧ excited about ʟᴜᴍ"
+excite; interest; ʟєꜱ gets ʟᴏᴧ excited about ʟᴜᴍ
 
 - <a name="'teluku">**'teluku**</a> _n._ (Tel. ⟨తెలుగు⟩ \[t̪el̪uɡu\])  
 Telugu; Telugu vaaru; the Telugu people

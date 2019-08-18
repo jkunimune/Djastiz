@@ -4057,7 +4057,7 @@ quinto
 - <a name="'nowialwon">**'nowialwon**</a> _n._ (['nowial](#'nowial)+[won](#won))  
 
 
-- <a name="non">**non**</a> _n._ (Nya. ⟨ng&#39;ona⟩ \[ŋona\])  
+- <a name="non">**non**</a> _n._ (Nya. ⟨ng’ona⟩ \[ŋona\])  
 
 
 - <a name="nonu">**nonu**</a> _v._ ([no](#no)+[nu](#nu))  

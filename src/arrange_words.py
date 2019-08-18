@@ -98,6 +98,7 @@ ALPHABET = 'eaoiuylwnmhcsfktp'
 PHONEME_TABLE = ['eaoiu', 'yw', 'h', 'ktp', 'f', 'cs', 'nm', 'l'] # the lawnsosliel phonemes, arranged by strength
 INVERSES = {'a':'a', 'e':'o', 'i':'u', 'y':'w', 'l':'t', 'n':'k', 'm':'p', 'h':'c', 's':'f'}
 for k, v in list(INVERSES.items()):	INVERSES[v] = k # inversion is involutory
+CAPITAL = {'a':'Ƌ', 'e':'Є', 'o':'O', 'i':'I', 'u':'U', 'y':'Y', 'l':'L', 'w':'W', 'n':'Λ', 'm':'M', 'h':'H', 'c':'C', 's':'S', 'f':'F', 'k':'K', 't':'T', 'p':'P'}
 
 SUPPORTED_LANGUAGES = ["eng","spa"] # the languages for which I have the dictiorary translated
 
@@ -775,7 +776,7 @@ def format_dictionary(dictionary, directory):
 			initial = entry['otp'].replace("'",'')[0]
 			if initial != previous_initial:
 				markdown += "### {}\n\n".format(initial)
-				latex = latex[:-3] + "\n\n\\section{{{}}}\n\n".format(initial)
+				latex = latex[:-3] + "\n\n\\section{{{}}}\n\n".format(CAPITAL[initial])
 				previous_initial = initial
 
 			while 'compound ' in entry['partos']:
@@ -829,12 +830,12 @@ def format_dictionary(dictionary, directory):
 			latex += LATEX_ENTRY.format(**entry)	
 
 		for script, langs in [
-				('arabic',['ara','far','prs']), ('armenian',['hye']), ('avestan',['ave']), ('bengali',['ben']),
+				('arabics',['ara','far','prs']), ('armenian',['hye']), ('avestan',['ave']), ('bengali',['ben']),
 				('chinese',['cmn','nan','yue']), ('cuneiform',['akk']), ('devanagari',['hin','mar','nep','san']),
 				('ethiopic',['tir']), ('gurmukhi',['pan']), ('hebrew',['heb']), ('japanese',['jap']),
 				('javanese',['jav']), ('georgian',['kat']), ('korean',['kor']), ('myanmar',['mya'])]:
 			for lang in langs:
-				latex = re.sub(r"{}\. ⟨([^⟩]+)⟩".format(lang.capitalize()), r"\\{}{{\1}}".format(script), latex)
+				latex = re.sub(r"{}\. ⟨([^⟩]+)⟩".format(lang.capitalize()), r"{{\\{}{{}}\1}}".format(script), latex)
 
 		with open(path.join(directory, '{}-dict.md'.format(lang2)), 'w', encoding='utf-8') as f:
 			f.write(markdown)
