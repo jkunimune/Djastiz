@@ -98,7 +98,7 @@ convince; sway; SBJ leads OBJ to believe that IND is true,,INCOHATIVE OF believe
 persuade; convince; SBJ leads OBJ to determine that IND is true,,INCOHATIVE OF think,pensiki
 recall; remind; remember; remember to; jog memory; SBJ {mnemonic} helps OBJ {recaller} recall IND {factoid; datum} from memory,,hin <याद> [jaːd],yata
 can remember; remember; know; OBJ {knowledgeable; smart} has IND stored in memory,,POSSIBILITY OF recall,yatapowi
-memorize; drill; remind; SBJ {driller; crammer; memorizer} makes OBJ memorize IND,,INCOHATIVE OF can remember,yatapowiki
+memorise; drill; remind; SBJ {driller; crammer; memoriser} makes OBJ memorise IND,,INCOHATIVE OF can remember,yatapowiki
 forget; erase memory; SBJ {mind-eraser} makes OBJ forget IND,,CESSATIVE OF can remember,yatapowinu
 understand; comprehend; beI sensical; know; be smart; OBJ {understander} understands IND {understood} well {AMOUNT:level of understanding},,yor <mòye> [mòjē],moye
 misunderstand; be confused; beI cryptic; OBJ does not understand IND {misunderstood} well,,ANTONYM OF understand,pewo
@@ -533,8 +533,8 @@ make proud; SBJ makes OBJ feel proud about IND,,INCOHATIVE OF be proud,fieliki
 shame; SBJ makes OBJ feel ashamed about IND,,CESSATIVE OF be proud,suotuki
 be excited; be interested; be hype; OBJ is excited about IND {exciting},,msa <teruja> [terud͡ʒa],teluca
 be disgusted; OBJ is disgusted by IND,,ANTONYM OF be excited,lotiha
-"excite; interest; SBJ gets OBJ excited about IND""",,INCOHATIVE OF be excited,telucaki
-"disgust; make disgusted; SBJ makes OBJ disgusted by IND""",,CESSATIVE OF be excited,lotihaki
+excite; interest; SBJ gets OBJ excited about IND,,INCOHATIVE OF be excited,telucaki
+disgust; make disgusted; SBJ makes OBJ disgusted by IND,,CESSATIVE OF be excited,lotihaki
 fear; be scared; be afraid; OBJ {fearful} is afraid of IND {scary},,ben <ভয়> [b̤e̯ɔ],pyo
 be angry; be mad; OBJ is angry about IND {maddening},,ANTONYM OF fear,mwe
 scare; frighten; make afraid; SBJ makes OBJ afraid of IND,,INCOHATIVE OF fear,pyoki
