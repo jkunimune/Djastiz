@@ -20,13 +20,13 @@ COMBOS = {('a','ɑ','ɐ'), ('e','ɛ'), ('o','ɔ'),
 		('k','ɡ','ʰ'), ('t','d','ʰ'), ('p','b','ʰ'),
 		('ɡ','ɣ','ʰ'), ('d','ð','ʰ'), ('b','β','ʰ')}
 
-# CHATISUN = {'/pʰ/', '/b/', '/tʰ/', '/d/', '[ts]', '/tʃ/', '/dʒ/', '/kʰ/', '/ɡ/', '/f/', '/v/', '[s]', '[z]', '/ʃ/', '/ʒ/', '[x]', '[h]',
+# OLTILIP = {'/pʰ/', '/b/', '/tʰ/', '/d/', '[ts]', '/tʃ/', '/dʒ/', '/kʰ/', '/ɡ/', '/f/', '/v/', '[s]', '[z]', '/ʃ/', '/ʒ/', '[x]', '[h]',
 # 			'[m]', '[n]', '/r/', '[l]', '[j]', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'} # Esperanto
-# CHATISUN = {'/pʰ/', '/b/', '/tʰ/', '/d/', '/tʃ/', '/dʒ/', '/kʰ/', '/ɡ/', '/f/', '/s/', '/ʃ/', '/h/',
-# 			'[m]', '[n]', '[ŋ]', '/r/', '[l]', '/j/', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'} # all 24 common phonemes
-# CHATISUN = {'/pʰ/', '/b/', '/tʰ/', '/d/', '/kʰ/', '/ɡ/', '/ʈʂ/', '/f/', '/s/', '/ʃ/', '/h/',
-# 			'[m]', '[n]', '/l/', '/j/', '/w/', '/i/', '/u/', '/e/', '/o/', '/a/'} # 20 more common phonemes (sin /r/ y /ŋ/)
-CHATISUN = {'/p/', '/t/', '/k/', '/ʈʂ/', '/f/', '/s/', '/h/', '[m]', '[n]', '/w/', '/l/', '/j/',
+# OLTILIP = {'/pʰ/', '/b/', '/tʰ/', '/d/', '/tʃ/', '/dʒ/', '/kʰ/', '/ɡ/', '/f/', '/s/', '/ʃ/', '/h/',
+# 			'[m]', '[n]', '[ŋ]', '/r/', '[l]', '/j/', '/ʋ/', '/i/', '/u/', '/e/', '/o/', '/a/'} # all 24 common phonemes
+# OLTILIP = {'/pʰ/', '/b/', '/tʰ/', '/d/', '/kʰ/', '/ɡ/', '/ʈʂ/', '/f/', '/s/', '/ʃ/', '/h/',
+# 			'[m]', '[n]', '/l/', '/j/', '/ʋ/', '/i/', '/u/', '/e/', '/o/', '/a/'} # 20 more common phonemes (sin /r/ y /ŋ/)
+OLTILIP = {'/p/', '/t/', '/k/', '/ʈʂ/', '/f/', '/s/', '/h/', '[m]', '[n]', '/w/', '/l/', '/j/',
 			'/u/', '/i/', '/o/', '/a/', '/e/'} # only the 17 that half of people can say
 
 
@@ -104,8 +104,7 @@ for i, num in enumerate(num_who_must_learn):
 	elif i == 0:
 		print('{:.2%} of humans can pronounce Djastiz words natively.'.format(num/total_pop))
 	else:
-		print('{:.2%} of humans must learn {} new phonem{} to pronounce Djastiz words.'.format(num/total_pop, i, 'es' if i>1 else 'e'))
-print('The average human must learn {:.2f}/{} phonemes to pronounce Djastiz words.'.format(avg_num_to_learn, len(CHATISUN)))
+print('The average human must learn {:.2f}/{} phonemes to pronounce Oltilip words.'.format(avg_num_to_learn, len(OLTILIP)))
 
 print()
 
