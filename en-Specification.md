@@ -128,7 +128,9 @@ Finally, there are twenty-nine more letters that may be used for transcribing fo
 
 ### Phonotactics
 
-Oltilip generally follows a simple yet permissive (C)(G)V(G)(C) syllable structure, where any letter can appear in any position according to its class. The only restrictions are the disallowance of double letters and the clusters "ey", "ow", "iy", "uw", "yi", and "wu" within roots. These restrictions are dropped for compound words, where such combinations may arise at morpheme boundaries, and loanwords, where root recognition is more highly valued. The one root that defies this syllable structure is the pronoun "l", which can be analysed as a syllabic consonant. However, because it is syntactically always adjacent to a consonant, it need never be pronounced as such. All nouns, pronouns, numerals, and postpositions end with consonants, while verbs and sentence particles end with vowels.
+Oltilip generally follows a simple yet permissive (C)(G)V(G)(C) syllable structure, where any letter can appear in any position according to its class. The only restrictions are the disallowance of double letters and the clusters "ey", "ow", "iy", "uw", "yi", and "wu" within roots. These restrictions are dropped for compound words, where such combinations may arise at morpheme boundaries, and loanwords, where root recognition is more important.
+
+The one root that defies this syllable structure is the pronoun "l", which can be analysed as a syllabic consonant. However, because it is syntactically always adjacent to a consonant, it need never be pronounced as such. All nouns, pronouns, numerals, and postpositions end with consonants, while verbs and sentence particles end with vowels.
 
 Note that while "w" and "y" are morphologically distinct from "u" and "i", they never contrast, so speakers of languages without glides in medial positions can use vowels instead.
 
@@ -184,7 +186,7 @@ When adjunctive postpositional phrases are included or omitted, it often appears
 
 The predicate of a clause describes the action or state being described in the most general sense. It usually comprises a single _verb_. In Oltilip, verbs do not conjugate for tense, aspect, or anything else, so "et es nyama" can mean "they had eaten", "they ate", "they are eating", "they eat", or "they will eat". Therefore, if the time of a predicate is important, make sure to manually and specifically include it with "wel".
 
-More complex predicates can be formed by appending other verbs, which serve as auxiliary verbs. This is only valid for verbs that take clauses as arguments, such as "nyo", "ki", "nu", "calu", "powi", and "tewi". For example, since the sentence "et es pola min on" means "they speak to me", appending "nyo", "be false", to the predicate turns it into "et es pola nyo min on", which means "they do not speak to me". This is shorthand for subordinating the entire sentence to "nyo": "et es pola min on on nyo" translates to "it is false that they speak to me".
+More complex predicates can be formed by appending auxiliary verbs, which are any verbs that take clauses as arguments, such as "nyo", "ki", "nu", "calu", "powi", and "tewi". For example, since the sentence "et es pola min on" means "they speak to me", appending "nyo", "be false", to the predicate turns it into "et es pola nyo min on", which means "they do not speak to me". This is shorthand for subordinating the entire sentence to "nyo": "et es pola min on on nyo" translates to "it is false that they speak to me".
 
 Unlike in most languages, the predicate can also be completely omitted in Oltilip. When it is, it can usually be inferred to be either the predicate of the last sentence or the copula "esta".
 
@@ -261,7 +263,7 @@ This can quickly become unwieldy for large orders of magnitude. For that reason,
 
 For numbers smaller or more precise than one, the particle "tyen" serves as the radix point. "tyen lim" means "point five", "cah tyen tos hat" means "six point two eight", and "fol tyen nul" means "four point zero".
 
-While it can usually be assumed that this is all in base ten, the system itself is radix-independent. To specify a radix, the base plus the suffix "imal" can be prepended to the number. Digits exist for bases up to 17<sub>10</sub>.
+While it can usually be assumed that this is all in base ten, the system itself is radix-independent. To specify a radix, the base plus the suffix "imal" can be prepended to the number. Digits exist for bases up to 17<sub>dec</sub>.
 
 | Symbol | Word |
 |-----|-----|
@@ -325,7 +327,9 @@ A more standard way to form a new word is with a simple compound. This involves 
 
 ### Affixes
 
-A more precise way to derive new terms is through the addition of affixes. In Oltilip, all affixes are themselves words, and the result of adding one means the same thing as the base word and affix placed together in a sentence, albeit lexicalised. For example, if the relative "l es" is placed next to the verb "noki", which means "to teach", one gets "noki l es", which means "one who teaches". When "les" is used as a suffix, that phrase is lexicalised into "nokiles", which means "teacher". This form carries two concrete advantages over the phrase "noki l es"; specifically, "nokiles" cannot be misinterpreted as unconnected words in adjacent phrases should the surrounding grammar be complicated, and further can refer to the concept of a teacher even when there is no one in the discussion who is actively teaching. Learning a word like "nokiles" is also easier than repeatedly parsing a phrase like "noki l es".
+A more precise way to derive new terms is through the addition of affixes. In Oltilip, all affixes are themselves words, and the result of adding one means the same thing as the base word and affix placed together in a sentence, albeit lexicalised. For example, if the relative "l es" is placed next to the verb "noki", which means "to teach", one gets "noki l es", which means "one who teaches". When "les" is used as a suffix, that phrase is lexicalised into "nokiles", which means "teacher".
+
+This form carries two concrete advantages over the phrase "noki l es"; specifically, "nokiles" cannot be misinterpreted as unconnected words in adjacent phrases should the surrounding grammar be complicated, and further can refer to the concept of a teacher even when there is no one in the discussion who is actively teaching. Learning a word like "nokiles" is also easier than repeatedly parsing a phrase like "noki l es".
 
 There are ten suffixes that can turn verbs into nouns:
 - **"-les"** references the agent of a verb, similar to "-er" in English;
@@ -354,7 +358,7 @@ For words that describe deeply technical concepts like "deoxyribonucleic acid", 
 
 Because these words have fewer phonotactic restrictions than base words, they may be marked with an apostrophe to distinguish them, much as italics are commonly used in English. Even with the looser restrictions, Oltilip's small phonology often forces loanwords to differ from their sources substantially, as "'fahanse" does from "France" /fʀɑns/. This is a worthwhile trade-off for the learnability of the phonology.
 
-Loanwords are especially common as toponyms. The word for "Japan", "'nippon", comes directly from the Japnese word "日本" /nipːoɴ/. These are commonly compounded to form related words, such as "'nipponwon" for "Japanese person", "'nippontilip" for "the Japanese language", and "'nipponkwelyot" for "the Japanese archipelago". While it is less common, an ethnonym can also serve as the root off of which the toponym is derived, depending on the etymology of the endonym. For example, from "'alap" for "Arab", we get "'alaptec" for "Saudi Arabia", "'alaptilip" for "Arabic", and "'alapkwelyot" for "the Arabian peninsula".
+Loanwords are especially common as toponyms. The word for "Japan", "'nippon", comes directly from the Japanese word "日本" /niʔpoɴ/. These are commonly compounded to form related words, such as "'nipponwon" for "Japanese person", "'nippontilip" for "the Japanese language", and "'nipponkwelyot" for "the Japanese archipelago". While it is less common, an ethnonym can also serve as the root off of which the toponym is derived, depending on the etymology of the endonym. For example, from "'alap" for "Arab", we get "'alaptec" for "Saudi Arabia", "'alaptilip" for "Arabic", and "'alapkwelyot" for "the Arabian peninsula".
 
 ## Common phrases
 
@@ -383,11 +387,15 @@ Here are some useful expressions in Oltilip.
 | My name is "Chka-chka Slim Shady" | min um co "'cikacikaslimceyti" on. |
 | I know a little Oltilip. | min on pih yan oltilip on no. |
 | Please speak slower. | pana wata ip pola. |
-| Where is the bathroom? | pukak mamalon on seksomailes um. |
+| Where is the bathroom? | pukak mamales on seksomailes um. |
 
 ## Flag
 
-[The flag of Oltilip](https://github.com/jkunimune15/Djastiz/blob/international-djastiz/Flag.svg) is a white and azure bicolour, divided by a sinusoid. In the center, it bears an orange six-pointed star circumscribed by an azure and white circle. The white field represents peace, which Oltilip could facilitate, while the azure represents knowledge, which Oltilip could proliferate. The boundary between them is a sinusoid instead of the traditional straight line to represent the fluidity of Oltilip's grammar, and its free word order in particular. The circle represents the Earth–blue, white, and circular. The star both separates it into six sections, for the six continents, and bridges the gap between them. It represents both natural languages, which divide us, and Oltilip, which can link us together.
+[The flag of Oltilip](https://github.com/jkunimune15/Djastiz/blob/international-djastiz/Flag.svg) is a white and azure bicolour, divided by a sinusoid. In the center, it bears an orange six-pointed star circumscribed by an azure and white circle.
+
+The white field represents peace, which Oltilip could facilitate, while the azure represents knowledge, which Oltilip could proliferate. The boundary between them is a sinusoid instead of the traditional straight line to represent the fluidity of Oltilip's grammar, and its free word order in particular.
+
+The circle represents the Earth–blue, white, and circular. The star both separates it into six sections, for the six continents, and bridges the gap between them. It represents both natural languages, which divide us, and Oltilip, which can link us together.
 
 # Appendices
 
@@ -1209,9 +1217,6 @@ African; from Africa
 
 - <a name="'aflika'yewlasia">**'aflika'yewlasia**</a> _n._ (['aflika](#'aflika)+['yewlasia](#'yewlasia))  
 Afro-Eurasia; the Old World
-
-- <a name="'aflika'yewlasiatulsetupel">**'aflika'yewlasiatulsetupel**</a> _n._ (['aflika'yewlasia](#'aflika'yewlasia)+[tulsetupel](#tulsetupel))  
-yam
 
 - <a name="'afhan">**'afhan**</a> _n._ (Prs. ⟨افغانستان‬⟩ \[avɣɒn\])  
 Afghan; the Afgan people
@@ -2579,6 +2584,9 @@ Eurasian; from Eurasia
 
 - <a name="'yewlasiasutaestelawt">**'yewlasiasutaestelawt**</a> _n._ (['yewlasia](#'yewlasia)+[sutaeste](#sutaeste)+[lawt](#lawt))  
 South China Sea
+
+- <a name="'yewlasiatulsetupel">**'yewlasiatulsetupel**</a> _n._ (['yewlasia](#'yewlasia)+[tulsetupel](#tulsetupel))  
+yam
 
 - <a name="yeh">**yeh**</a> _n._ (Cmn. ⟨叶⟩ \[jɛ˥˩\])  
 leaf; blade of grass; photosynthetic structure of a plant

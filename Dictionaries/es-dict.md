@@ -815,9 +815,6 @@ alga
 - <a name="'aflika'yewlasia">**'aflika'yewlasia**</a> _n._ (['aflika](#'aflika)+['yewlasia](#'yewlasia))  
 
 
-- <a name="'aflika'yewlasiatulsetupel">**'aflika'yewlasiatulsetupel**</a> _n._ (['aflika'yewlasia](#'aflika'yewlasia)+[tulsetupel](#tulsetupel))  
-
-
 - <a name="'afhan">**'afhan**</a> _n._ (Prs. ⟨افغانستان‬⟩ \[avɣɒn\])  
 
 
@@ -1404,7 +1401,7 @@ posición; índice; numero
 - <a name="iawokilwel">**iawokilwel**</a> _n._ ([iawoki](#iawoki)+[lwel](#lwel))  
 
 
-- <a name="'ilawankapatay">**'ilawankapatay**</a> _n._ (Tam. ⟨இலவங்கப்பட்டை⟩ \[ilʌʋʌŋˈɡʌpːʌʈːʌj\])  
+- <a name="'ilawankappattay">**'ilawankappattay**</a> _n._ (Tam. ⟨இலவங்கப்பட்டை⟩ \[ilʌʋʌŋˈɡʌpːʌʈːʌj\])  
 
 
 - <a name="'ilan">**'ilan**</a> _n._ (Fas. ⟨ایران‎⟩ \[ʔiːɾɒːn\])  
@@ -2183,6 +2180,9 @@ inspiración
 
 
 - <a name="'yewlasiasutaestelawt">**'yewlasiasutaestelawt**</a> _n._ (['yewlasia](#'yewlasia)+[sutaeste](#sutaeste)+[lawt](#lawt))  
+
+
+- <a name="'yewlasiatulsetupel">**'yewlasiatulsetupel**</a> _n._ (['yewlasia](#'yewlasia)+[tulsetupel](#tulsetupel))  
 
 
 - <a name="yeh">**yeh**</a> _n._ (Cmn. ⟨叶⟩ \[jɛ˥˩\])  
@@ -4420,16 +4420,16 @@ locutorio
 - <a name="nituki">**nituki**</a> _v._ ([nitu](#nitu)+[ki](#ki))  
 
 
-- <a name="'nipon">**'nipon**</a> _n._ (Jpn. ⟨日本⟩ \[ɲipːoɴ\])  
+- <a name="'nippon">**'nippon**</a> _n._ (Jpn. ⟨日本⟩ \[ɲipːoɴ\])  
 
 
-- <a name="'niponak">**'niponak**</a> _n._ (['nipon](#'nipon)+[ak](#ak))  
+- <a name="'nipponak">**'nipponak**</a> _n._ (['nippon](#'nippon)+[ak](#ak))  
 
 
-- <a name="'niponwon">**'niponwon**</a> _n._ (['nipon](#'nipon)+[won](#won))  
+- <a name="'nipponwon">**'nipponwon**</a> _n._ (['nippon](#'nippon)+[won](#won))  
 
 
-- <a name="'nipontilip">**'nipontilip**</a> _n._ (['nipon](#'nipon)+[tilip](#tilip))  
+- <a name="'nippontilip">**'nippontilip**</a> _n._ (['nippon](#'nippon)+[tilip](#tilip))  
 
 
 - <a name="nu">**nu**</a> _v._ ([~~ki~~](#ki))  
