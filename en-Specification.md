@@ -10,11 +10,13 @@ With that out of the way, let's get onto the language!
 
 ## Phonology and orthography
 
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Oltilip's phonology is minimal, though still larger than those of some natural languages. It emphasises universal learnability over root recogniseability.
+
 ### Alphabet
 
-Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Oltilip uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pace", "base", and "Bess" sound different to most English speakers, all are acceptable pronunciations for Oltilip "pes", which means "fish". Approximately half of all humans can distinguish between all of these sounds in their native phonology, and only 5% need to learn three or more new sounds. The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days.
+Oltilip uses only the seventeen sounds that are most common globally, each of which comes with a considerable amount of allowable variation. For example, while "pace", "base", and "Bess" sound different to most English speakers, all are acceptable pronunciations for Oltilip "pes", which means "fish". Approximately half of all humans can distinguish between all of these sounds in their native phonology, and only 5% need to learn three or more new sounds. The writing system is a simple Latin-derived alphabet with one letter for every sound. It's so simple that a wise man can acquaint himself with it before the hour is over; even a stupid man can learn it in the space of two days.
 
-| Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)| Inverse | Class |
+| Name | Symbol | Alt. Symbols | Sound (English) | Sound ([IPA](1)) | Alt. Sounds ([IPA](1)) | Inverse | Class |
 |------|--------|--------------|-----------------|------------|-------------|---------|----------
 |   e  |   e    |    Є         |   **e**gg, fr**ay**  |     e     |  ɛ\~e\~ej   |    o    | V |
 |   a  |   a    |    Ƌ, ɑ, α   |  t**a**co, h**a**ck  |     a     |    a\~ɑ     |    a    | V |
@@ -26,8 +28,8 @@ Before you read any further, you'll need to know how to read, say, and write the
 |  we  |   w    |    W, ɯ      |  cho**w**, **w**eep  |     w     | u, ʷ, w\~ʋ  |    yo   | G |
 |  na  |   n    |    Λ         | **n**ectar, pai**n** |     n     |   n, ŋ\~ɴ   |    ko   | C |
 |  me  |   m    |    M         | **m**elon, screa**m**|     m     |      m      |    pe   | C |
-|  ho  |   h    |    Һ         |  **h**oney, **h**ide |     h     |   x\~h, ɦ   |    co   | C |
-|  co  |   c    |    C         |**ch**eese, **sh**riek|   t͡ʃ     |t͡ʃ\~t͡ʂ, ʃ\~ʂ |    ho   | C |
+|  ho  |   h    |    H, Һ      |  **h**oney, **h**ide |     h     |   x\~h, ɦ   |    co   | C |
+|  co  |   c    |    C         |**ch**eese, **sh**riek|    t͡ʃ     |t͡ʃ\~t͡ʂ, ʃ\~ʂ |    ho   | C |
 |  sa  |   s    |    S         |  **s**alt, hi**ss**  |     s     |      s      |    fe   | C |
 |  fe  |   f    |    F         |  **f**ish, cou**gh** |     f     |    ɸ\~f     |    sa   | C |
 |  ko  |   k    |    K         |  **c**ake, **g**rab  |     k     |  k, kʰ, ɡ   |    na   | C |
@@ -51,7 +53,7 @@ If you're a linguist, the following [IPA](1) table may prove easier to read:
 |**Mid**  |   e   |  o   |
 |**Open** |   a   |      |
 
-Most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which to be careful are ⟨j⟩, ⟨c⟩, and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
+Most of the letters match their IPA transcriptions as well as their English counterparts. The only things of which to be careful are ⟨c⟩ and the vowels. There's a handy alphabet song in the main repository to help you remember them all if you like.
 
 Note that while all of these symbols come from the Latin alphabet, the Latin alphabet is _not_ the Oltilip alphabet. The basic Oltilip alphabet does not include ⟨b⟩, ⟨d⟩, ⟨g⟩, ⟨q⟩, ⟨r⟩, ⟨v⟩, ⟨x⟩, ⟨y⟩, ⟨z⟩, or any capital letters. _Some_ capital Latin letters are acceptable substitutes for their lowercase forms, as indicated by the alternate symbols column, but these are merely to allow stylistic variation, and carry no meaning different from their lowercase counterparts. Furthermore, note that unlisted capital letters are too different to be easily readable by Oltilip-speakers who are unfamiliar with the entire Latin alphabet, and thus should not ever be used.
 
@@ -93,20 +95,20 @@ In addition to this subset of Latin letters, a subset of other Latin symbols may
 
 ### Extensions
 
-Finally, there are twenty-seven more letters that may be used for transcribing foreign names in Oltilip, though it is recommended that foreign names be Oltilipised into the seventeen basic letters when possible. The extensions here are only for cases where two related foreign words would be normally indistinguishable, or where the person named prefers that their name be pronounced with a particular phone. When these extensions are used, all Oltilip phonotactic restrictions are dropped. They fill out the simplified IPA tables below.
+Finally, there are twenty-nine more letters that may be used for transcribing foreign names in Oltilip, though it is recommended that foreign names be Oltilipised into the seventeen basic letters when possible. The extensions here are only for cases where two related foreign words would be normally indistinguishable, or where the person named prefers that their name be pronounced with a particular phone. When these extensions are used, all Oltilip phonotactic restrictions are dropped. They fill out the simplified IPA tables below.
 
-|                          | Labial | Alveolar | P.-alv.\~Retro. | Palatal | Velar\~Uvular | Phar.\~Glottal |
-|--------------------------|--------|----------|--------------|---------|-------|---------|
-|**Nasal**                 | m      | n        | n     | ŋy      | ŋ     |        |
-|**Plosive/Implosive**     | p b    | t d      | t d   | ky gy   | k g   | ʔ      |
-|**Affricate**             | pf bv  | ts dz    | tʃ dʒ | kxy gʀy | kx gʀ | ʔh     |
-|**Fricative**             | f v    | s z      | ʃ ʒ   | xy ʀy   | x ʀ   | h ʕ    |
-|**Lateral fricative**     | lf lv  | lh lʒ    | lh lʒ | lx lʀ   | lx lʀ |        |
-|**Approximant**           | w      | ɹ        | ɹ     | y       | ɯ     | ʕ      |
-|**Lateral approximant**   | lw     | l        | l     | ly      | lɯ    |        |
-|**Tap/Trill**             | ʙ      | r        | r     |         | ʀ     |        |
-|**Click**                 | !      | !        | !     | !       | !     |        |
-|**Secondary articulation**| tw     | tɹ       | tɹ    | ty      | tʀ    | tʔ     |
+|                          | Labial | Dental | Alveolar | P.-alv.\~Retro. | Palatal | Velar\~Uvular | Phar.\~Glottal |
+|--------------------------|--------|--------|----------|-----------------|---------|---------------|---------|
+|**Nasal**                 | m      | n      | n        | n     | ŋy      | ŋ     |        |
+|**Plosive/Implosive**     | p b    | t d    | t d      | t d   | ky gy   | k g   | ʔ      |
+|**Affricate**             | pf bv  | tθ dð  | ts dz    | tʃ dʒ | kxy gʀy | kx gʀ | ʔh     |
+|**Fricative**             | f v    | θ ð    | s z      | ʃ ʒ   | xy ʀy   | x ʀ   | h ʕ    |
+|**Lateral fricative**     | lf lv  | lh lʒ  | lh lʒ    | lh lʒ | lx lʀ   | lx lʀ |        |
+|**Approximant**           | w      | ɹ      | ɹ        | ɹ     | y       | ɯ     | ʕ      |
+|**Lateral approximant**   | lw     | l      | l        | l     | ly      | lɯ    |        |
+|**Tap/Trill**             | ʙ      | r      | r        | r     |         | ʀ     |        |
+|**Click**                 | !      | !      | !        | !     | !       | !     |        |
+|**Secondary articulation**| tw     |        |          |       | ty      | tʀ    | tʔ     |
 
 |             | Front | Central | Back |
 |-------------|-------|---------|------|
@@ -134,14 +136,14 @@ Stress always falls on the penultimate vowel of a word, unless the IPA extension
 
 ## Grammar
 
-The grammar of Oltilip can be characterised as an analytic, active-stative, head-final system with free word order. In a nutshell, it can be described as:  
+The grammar of Oltilip can be characterised as an analytic, active-stative, head-final system with free word order. In a nutshell, it can be described as:
 
             sentence ::= \[sentence-particle\] postposit-phrase\* \[verb-phrase postposit-phrase\*\]
     postposit-phrase ::= noun-phrase postposition
            predicate ::= verb+
          noun-phrase ::= \[specifier\] (noun \| pronoun \| numeral \| relative-clause \| sentence \| noun-phrase)\*
      relative-clause ::= postposit-phrase\* \[verb-phrase postpos-phrase\*\] \["l" postposition\]
-             numeral ::= \[numeral "imal"\] \{\["men"\] digit+\] \["lyon" numeral\]
+             numeral ::= \[numeral "imal"\] \[\["men"\] digit+\] \["lyon" numeral\]
 
 Don't know what any of that means? Don't worry. Let's jump into it now.
 
@@ -152,7 +154,7 @@ A _sentence particle_, when included, is the first thing in a sentence or clause
 - **"cu"** marks an interrogative sentence, or indicates confusion when used alone;
 - **"na"** marks an imperative sentence, or indicates an implied command when used alone;
 - **"pana"** marks a polite imperative sentence, or indicates an implied request when used alone;
-- **"wa"** marks an exclamatory sentence, or indicates surprise when used alone; and
+- **"wa"** marks an exclamatory sentence, indicates surprise at the following noun phrase, or indicates general surprise when used alone; and
 - **"ke"** marks a subordinate clause.
 
 When these are used to mark sentences and clauses, the rest of the phrase comprises a series of _postpositional phrases_, optionally with a _predicate_ included.
@@ -168,13 +170,13 @@ _Adjunctive postpositions_ have complements with predictable and general meaning
 - **"ial"** marks the cause or purpose of the action;
 - **"uat"** marks the tool or medium of the action;
 - **"ayf"** marks the hypothetical conditions surrounding the action (like "if" in English);
-- **"ip"** marks the manner or method of the action, usually as a suborditate clause; and
+- **"ip"** marks the manner or method of the action, usually as a subordinate clause; and
 - **"ak"** marks something that is related to the action in some other way.
 
 _Argumentative postpositions_ have complements with meanings specific to their predicate, and can only be used once per clause. The definition of each Oltilip verb describes which argumentative postpositions are applicable and what roles they mark, but they can generally be qualified as three classes of semantic role.
 - **"es"** marks the agent, the entity that initialises and carries out the action;
 - **"on"** marks the patient or experiencer, the entity whose state is changed or described by the action; and
-- **"um"** marks the theme or stimulus, an entitty that is not directly involved in the action but is essential to it nonetheless.
+- **"um"** marks the theme or stimulus, an entity that is not directly involved in the action but is essential to it nonetheless.
 
 When adjunctive postpositional phrases are included or omitted, it often appears to change the meaning of a sentence's English translation. This is because Oltilip uses the same word for what English treats as transitive and intransitive pairs of verbs. For example, the verbs for "enter" and "insert" are both "neki" in Oltilip; "it enters" is "et on neki", and "I insert it" is "min es et on neki".
 
@@ -196,6 +198,9 @@ Anywhere a noun can be used, one can also opt for a _pronoun_. Like nouns, Oltil
 - **"min"**, "me", is the first person pronoun;
 - **"puk"**, "you", is the second person pronoun;
 - **"et"**, "it" or "that", is the third person, distal, and definite pronoun;
+- **"minet"**, "us", is the plural first person pronoun;
+- **"minpuk"**, "us", is the plural first person inclusive pronoun, though "minet" can be used for both inclusive and exclusive;
+- **"puket"**, "y'all", is the plural second person pronoun, though "puk" can be used for both singular and plural;
 - **"ol"**, "this", is the proximal pronoun;
 - **"wan"**, "one", is the indefinite pronoun;
 - **"sif"**, "oneself", is the reflexive pronoun;
@@ -204,13 +209,13 @@ Anywhere a noun can be used, one can also opt for a _pronoun_. Like nouns, Oltil
 - **"kon"** stands in for missing information in interrogative sentences; and
 - **"l"** stands for the referenced noun in relative clauses.
 
-_Relative clauses_ are another kind of noun phrase, and the most versatile. A relative clause is simply any clause, optionally using "ke" as its particle, with "l" optionally inserted as a noun as late as possible in it. It describes anything that could go where "l" is in a full sentence. This is commonly used with stative verbs such as "luci", which means "be red". Since "luci et on" means "it is red", "ke luci l on" or "luci l on" means "one that is red", or "red thing". It is also frequently used with the vague postposition "ak". Since "ciuh ak on et" describes some state of "it" generally related to plants, "ke ciuh ak l on" or "ciuh ak" means "one that is of or related to plants" or "botanical".
+_Relative clauses_ are another kind of noun phrase, and the most versatile. A relative clause is simply any clause, optionally using "ke" as its particle, with "l" optionally inserted as a noun as late as possible in it. It describes anything that could go where "l" is in a full sentence. This is commonly used with stative verbs such as "luci", which means "be red". Since "sa luci et on" means "it is red", "ke luci l on" or "luci l on" means "one that is red", or "red thing". It is also frequently used with the vague postposition "ak". Since "ciuh ak et on" describes some state of "it" generally related to plants, "ke ciuh ak l on" or "ciuh ak" means "one that is of or related to plants" or "botanical".
 
-A similar but distinct kind of noun phrase is the _content clause_. A content clause is syntactically equivalent to a sentence, except that when it takes a patricle, it always take "ke". Semantically, it references the action or state described by that sentence as a noun. This structure is especially useful for verbs like "calu", "continue", which almost always take content clauses as arguments. The sentence "puk es nyama", "you eat", can be converted into a content clause and used as such as in "puk es nyama on calu": "you eating continues". This can equivalently be phrased as "puk es nyama calu", "you continue to eat".
+A similar but distinct kind of noun phrase is the _content clause_. A content clause is syntactically equivalent to a sentence, except that when it takes a particle, it always take "ke". Semantically, it references the action or state described by that sentence as a noun. This structure is especially useful for verbs like "calu", "continue", which almost always take content clauses as arguments. The sentence "puk es nyama", "you eat", can be converted into a content clause and used as such as in "puk es nyama on calu": "you eating continues". This can equivalently be phrased as "puk es nyama calu", "you continue to eat".
 
 Similar to pronouns are _numerals_, which specifically indicate the number of a noun phrase. They have special derivation rules and are therefore described in the next subsection.
 
-Any noun phrase can also be preceeded by a specifier. Specifiers manipulate the meanings of noun phrases that describe sets, and each works in a pretty distinct way.
+Any noun phrase can also be preceded by a specifier. Specifiers manipulate the meanings of noun phrases that describe sets, and each works in a pretty distinct way.
 - **"en"**, "any", indicates that the sentence is true for one element of the noun phrase, regardless of which one is picked;
 - **"ok"**, "each", indicates that the sentence is true for every element of the noun phrase individually;
 - **"alkun"**, "some", specifies that the sentence is true for some subset of the noun phrase;
@@ -225,7 +230,7 @@ Finally, noun phrases of all kinds can also be concatenated to form more specifi
 
 ### Numerals
 
-The last Oltilip part of speech is the numeral. Oltilip contains many mechanisms for describing numbers in precise mathematical ways. However, for the non-mathemetician, most of this is unnecessary. Luckily, basic numbers are also extremely easy to construct. The ten basic numerals are the digits from zero to nine.
+The last Oltilip part of speech is the numeral. Oltilip contains many mechanisms for describing numbers in precise mathematical ways. However, for the non-mathematician, most of this is unnecessary. Luckily, basic numbers are also extremely easy to construct. The ten basic numerals are the digits from zero to nine.
 
 | Symbol | Word |
 |-----|-----|
@@ -252,7 +257,7 @@ Numbers larger than nine are described in positional notation, either with or wi
 | 100 | kannulnul |
 | 1 000 | kan nulnulnul |
 
-This can quickly become unweildly for large orders of magnitude. For that reason, the prefix "lyon" exists. Appending to an existing numeral "lyon" plus another numeral raises its order of magnitude by the second amount. Thus, "lyon" can be translated as "times ten to the power" or "×10^". So where "kan lim" means "fifteen" and "tos" means "two", "kan lim lyon tos" means "fifteen times ten to the power two", "fifteen hundred", or "1 500". "lyontos" can also be used on its own to simply mean "one hundred".
+This can quickly become unwieldy for large orders of magnitude. For that reason, the prefix "lyon" exists. Appending to an existing numeral "lyon" plus another numeral raises its order of magnitude by the second amount. Thus, "lyon" can be translated as "times ten to the power" or "×10^". So where "kan lim" means "fifteen" and "tos" means "two", "kan lim lyon tos" means "fifteen times ten to the power two", "fifteen hundred", or "1 500". "lyontos" can also be used on its own to simply mean "one hundred".
 
 For numbers smaller or more precise than one, the particle "tyen" serves as the radix point. "tyen lim" means "point five", "cah tyen tos hat" means "six point two eight", and "fol tyen nul" means "four point zero".
 
@@ -270,7 +275,7 @@ While it can usually be assumed that this is all in base ten, the system itself 
 
 Thus, while "kan nul" usually means "tesimal kan nul", the atomic number of neon, it can also be made to mean "cahimal kan nul", the atomic number of carbon, "hesimal kan nul", the atomic number of sulfur, or even "tesimalcahnulimal kan nul", the atomic number of neodymium.
 
-Negative numbers are formed by simply prepending "men" to their opposite, as in "men san". These can also be used with "lyon", as in "hat tyen mes lyon men kan tos". When it is useful to emphasize the sign of a positive number, this can be done with the otherwise meaningless prefix "pok", as in "pok kan aw men kan".
+Negative numbers are formed by simply prepending "men" to their opposite, as in "men san". These can also be used with "lyon", as in "hat tyen mes lyon men kan tos". When it is useful to emphasise the sign of a positive number, this can be done with the otherwise meaningless prefix "pok", as in "pok kan aw men kan".
 
 Fractions are formed with the separator "pel", which simply divides the numeral before it by the numeral after it. For example, "tostos pel pit". If no number precedes the "pel", then the numerator can be assumed to be one.
 
@@ -288,7 +293,7 @@ The most important rule in Oltilip is that there are no rules. While the grammar
 
 ### Tips and tricks
 
-That's all of the official grammar. You may find it rather short. "Where are the tenses, the participles, the directionals?" you ask. While these do not exist explicitly in Oltilip, they can be expressed using preexisting structures. Therefore, while their inclusion here is not strictly necessary, I will explain them so that everyone understands best practices for such situations without needing ccome up with them themselves.
+That's all of the official grammar. You may find it rather short. "Where are the tenses, the participles, the directionals?" you ask. While these do not exist explicitly in Oltilip, they can be expressed using preexisting structures. Therefore, while their inclusion here is not strictly necessary, I will explain them so that everyone understands best practices for such situations without needing come up with them themselves.
 
 Tenses are simple. If it is important to a sentence whether it happened in the past, present, or future, the dative postposition "wel" can be used with the appropriate word. For generic past and future tense, "citu wel" and "huli wel" are the recommended forms.
 
@@ -308,7 +313,7 @@ Dates and times in Oltilip can be expressed several ways. For maximal unambiguit
 
 ## Vocabulary
 
-Oltilip has 426 basic roots, drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomotopoetic lexicons. The source languages were selected and weighted in order to give the most mnemonic value to the greatest number of people. While these root words cover many concepts, with only 426, there are inevitably many lexical gaps and ambiguities. These are filled with Oltilip's morphological derivation system. New words are derived in three main ways: _inversion_, _compounds_, _affixes_, and _loans_.
+Oltilip has 426 basic roots, drawn from Chinese, Italic, Germanic, Indo-Iranian, Atlantic-Congo, Malayo-Polynesian, Esperanto, and onomatopoetic lexicons. The source languages were selected and weighted in order to give the most mnemonic value to the greatest number of people while remaining neutral. While these root words cover many concepts, with only 426, there are inevitably many lexical gaps and ambiguities. These are filled with Oltilip's morphological derivation system. New words are derived in three main ways: _inversion_, _compounds_, _affixes_, and _loans_.
 
 ### Inversion
 
@@ -345,11 +350,11 @@ Finally, there is one suffix that turns nouns into other nouns:
 
 ### Loanwords
 
-For words that describe deeply technical concepts like "deoxyribonucleic acid", cultural concepts like "ahupua&#8216;a", or a combination of the two like "oriental ladyfern", a class of word that is neither root nor compound is needed. This is the _loanword_, a word taken directly from a specific language. The word should be taken from a language that has regional or historical ties to the concept. For example, the word for "persimmon", "'kaki", comes from the Japanese "柿" /kaki/, due to the persimmon's historical and economic ties to Eastern Asia.
+For words that describe deeply technical concepts like "deoxyribonucleic acid", cultural concepts like "ahupuaʻa", or a combination of the two like "oriental ladyfern", a class of word that is neither root nor compound is needed. This is the _loanword_, a word taken directly from a specific language. The word should be taken from a language that has regional or historical ties to the concept. For example, the word for "persimmon", "'kaki", comes from the Japanese "柿" /kaki/, due to the persimmon's historical and economic ties to Eastern Asia.
 
 Because these words have fewer phonotactic restrictions than base words, they may be marked with an apostrophe to distinguish them, much as italics are commonly used in English. Even with the looser restrictions, Oltilip's small phonology often forces loanwords to differ from their sources substantially, as "'fahanse" does from "France" /fʀɑns/. This is a worthwhile trade-off for the learnability of the phonology.
 
-Loanwords are especially common as toponyms. The word for "Japan", "'nipon", comes directly from the Japnese word "日本" /nipːoɴ/. These are commonly compounded to form related words, such as "'niponwon" for "Japanese person", "'nipontilip" for "the Japanese language", and "'niponkwelyot" for "the Japanese archipelago". While it is less common, an ethnonym can also serve as the root off of which the toponym is derived, depending on the etymology of the endonym. For example, from "'alap" for "Arab", we get "'alaptec" for "Saudi Arabia", "'alaptilip" for "Arabic", and "'alapkwelyot" for "the Arabian peninsula".
+Loanwords are especially common as toponyms. The word for "Japan", "'nippon", comes directly from the Japnese word "日本" /nipːoɴ/. These are commonly compounded to form related words, such as "'nipponwon" for "Japanese person", "'nippontilip" for "the Japanese language", and "'nipponkwelyot" for "the Japanese archipelago". While it is less common, an ethnonym can also serve as the root off of which the toponym is derived, depending on the etymology of the endonym. For example, from "'alap" for "Arab", we get "'alaptec" for "Saudi Arabia", "'alaptilip" for "Arabic", and "'alapkwelyot" for "the Arabian peninsula".
 
 ## Common phrases
 
@@ -382,7 +387,7 @@ Here are some useful expressions in Oltilip.
 
 ## Flag
 
-[The flag of Oltilip](https://github.com/jkunimune15/Djastiz/blob/international-djastiz/Flag.svg) is a white and azure bicolour, divided by a sinusoid. In the center, it bears an orange six-pointed star circumscribed by an azure and white circle. The white field represents peace, which Oltilip could facilitate, while the azure represents knowledge, which Oltilip could proliferate. The boundary between them is a sinusoid instead of the traditional straight line to represent the fluidity of Oltilip's grammar, and its free word order in particular. The circle represents the Earth---blue, white, and circular. The star both separates it into six sections, for the six continents, and bridges the gap between them. It represents both natural languages, which divide us, and Oltilip, which can link us together.
+[The flag of Oltilip](https://github.com/jkunimune15/Djastiz/blob/international-djastiz/Flag.svg) is a white and azure bicolour, divided by a sinusoid. In the center, it bears an orange six-pointed star circumscribed by an azure and white circle. The white field represents peace, which Oltilip could facilitate, while the azure represents knowledge, which Oltilip could proliferate. The boundary between them is a sinusoid instead of the traditional straight line to represent the fluidity of Oltilip's grammar, and its free word order in particular. The circle represents the Earth–blue, white, and circular. The star both separates it into six sections, for the six continents, and bridges the gap between them. It represents both natural languages, which divide us, and Oltilip, which can link us together.
 
 # Appendices
 
@@ -552,7 +557,7 @@ be glass; [ʟᴏᴧ](#emanapatolon) is made of glass
 - <a name="emanapatolon">**emanapatolon**</a> _n._ ([emanapato](#emanapato)+[lon](#lon))  
 glass
 
-- <a name="'emoci">**'emoci**</a> _n._ (Jap. ⟨絵文字⟩ \[emod͡ʑi\])  
+- <a name="'emoci">**'emoci**</a> _n._ (Jpn. ⟨絵文字⟩ \[emod͡ʑi\])  
 emoji
 
 - <a name="'empanata">**'empanata**</a> _n._ (Spa. ⟨empanada⟩ \[empaˈnaða\])  
@@ -1794,7 +1799,7 @@ marry; wed; ʟєꜱ marries ʟᴏᴧ to ʟᴜᴍ
 - <a name="iawokilwel">**iawokilwel**</a> _n._ ([iawoki](#iawoki)+[lwel](#lwel))  
 wedding
 
-- <a name="'ilawankapatay">**'ilawankapatay**</a> _n._ (Tam. ⟨இலவங்கப்பட்டை⟩ \[ilʌʋʌŋˈɡʌpːʌʈːʌj\])  
+- <a name="'ilawankappattay">**'ilawankappattay**</a> _n._ (Tam. ⟨இலவங்கப்பட்டை⟩ \[ilʌʋʌŋˈɡʌpːʌʈːʌj\])  
 cinnamon; Cinnamomum
 
 - <a name="'ilan">**'ilan**</a> _n._ (Fas. ⟨ایران‎ ⟩ \[ʔiːɾɒːn\])  
@@ -2197,7 +2202,7 @@ Muslim; followers of Islam
 Istanbul
 
 - <a name="ifen">**ifen**</a> _spec._ (Eng. ⟨even⟩ \[ˈiːvn̩\])  
-even; so; too; neither; _emphasizes something surprising_
+even; so; too; neither; _emphasises something surprising_
 
 - <a name="ifenaw">**ifenaw**</a> _spec._ ([ifen](#ifen)+[aw](#aw))  
 but; and even
@@ -2735,10 +2740,10 @@ forget; erase memory; [ʟєꜱ](#yatapowinules) makes ʟᴏᴧ forget ʟᴜᴍ
 mind-eraser
 
 - <a name="yatapowiki">**yatapowiki**</a> _v._ ([yatapowi](#yatapowi)+[ki](#ki))  
-memorize; drill; remind; [ʟєꜱ](#yatapowikiles) makes ʟᴏᴧ memorize ʟᴜᴍ
+memorise; drill; remind; [ʟєꜱ](#yatapowikiles) makes ʟᴏᴧ memorise ʟᴜᴍ
 
 - <a name="yatapowikiles">**yatapowikiles**</a> _n._ ([yatapowiki](#yatapowiki)+[les](#les))  
-driller; crammer; memorizer
+driller; crammer; memoriser
 
 - <a name="yato">**yato**</a> _v._ (Yor. ⟨yàtọ̀⟩ \[jàtɔ̀\])  
 differ; be different; be distinct; [ʟᴏᴧ](#yatolon) is different from ʟᴜᴍ
@@ -3343,7 +3348,7 @@ be disgusted; [ʟᴏᴧ](#lotihalon) is disgusted by ʟᴜᴍ
 disgusted
 
 - <a name="lotihaki">**lotihaki**</a> _v._ ([lotiha](#lotiha)+[ki](#ki))  
-disgust; make disgusted; ʟєꜱ makes ʟᴏᴧ disgusted by ʟᴜᴍ"
+disgust; make disgusted; ʟєꜱ makes ʟᴏᴧ disgusted by ʟᴜᴍ
 
 - <a name="'lietuwa">**'lietuwa**</a> _n._ (Lit. ⟨Lietuva⟩ \[lʲɪɛtʊˈvɐ\])  
 Lithuania
@@ -4447,7 +4452,7 @@ Novial; in Novial
 - <a name="'nowialwon">**'nowialwon**</a> _n._ (['nowial](#'nowial)+[won](#won))  
 Novialist; Novial speakers
 
-- <a name="non">**non**</a> _n._ (Nya. ⟨ng&#39;ona⟩ \[ŋona\])  
+- <a name="non">**non**</a> _n._ (Nya. ⟨ng’ona⟩ \[ŋona\])  
 crocodilian; crocodile; alligator; Crocodilia
 
 - <a name="nonu">**nonu**</a> _v._ ([no](#no)+[nu](#nu))  
@@ -4810,16 +4815,16 @@ unsavoury
 - <a name="nituki">**nituki**</a> _v._ ([nitu](#nitu)+[ki](#ki))  
 desavoury; ʟєꜱ makes ʟᴏᴧ become less savoury
 
-- <a name="'nipon">**'nipon**</a> _n._ (Jap. ⟨日本⟩ \[ɲipːoɴ\])  
+- <a name="'nippon">**'nippon**</a> _n._ (Jpn. ⟨日本⟩ \[ɲipːoɴ\])  
 Japan
 
-- <a name="'niponak">**'niponak**</a> _n._ (['nipon](#'nipon)+[ak](#ak))  
+- <a name="'nipponak">**'nipponak**</a> _n._ (['nippon](#'nippon)+[ak](#ak))  
 Japanese; from Japan
 
-- <a name="'niponwon">**'niponwon**</a> _n._ (['nipon](#'nipon)+[won](#won))  
+- <a name="'nipponwon">**'nipponwon**</a> _n._ (['nippon](#'nippon)+[won](#won))  
 Japanese person; the Japanese people
 
-- <a name="'nipontilip">**'nipontilip**</a> _n._ (['nipon](#'nipon)+[tilip](#tilip))  
+- <a name="'nippontilip">**'nippontilip**</a> _n._ (['nippon](#'nippon)+[tilip](#tilip))  
 Japanese; the Japanese language
 
 - <a name="nu">**nu**</a> _v._ ([~~ki~~](#ki))  
@@ -7468,7 +7473,7 @@ train of thought
 - <a name="cintaluat">**cintaluat**</a> _n._ ([cinta](#cinta)+[luat](#luat))  
 mind; imaaagination
 
-- <a name="'cinto">**'cinto**</a> _n._ (Jap. ⟨神道⟩ \[ɕintoː\])  
+- <a name="'cinto">**'cinto**</a> _n._ (Jpn. ⟨神道⟩ \[ɕintoː\])  
 Shintoism
 
 - <a name="'cintoak">**'cintoak**</a> _n._ (['cinto](#'cinto)+[ak](#ak))  
@@ -10294,7 +10299,7 @@ Castillian; the Castillian language
 - <a name="'kaka">**'kaka**</a> _n._ (Non. ⟨kaka⟩ \[kaka\])  
 cake
 
-- <a name="'kaki">**'kaki**</a> _n._ (Jap. ⟨柿⟩ \[kakʲi\])  
+- <a name="'kaki">**'kaki**</a> _n._ (Jpn. ⟨柿⟩ \[kakʲi\])  
 persimmon; persimon; Diospyros
 
 - <a name="kaktus">**kaktus**</a> _n._ (Spa. ⟨cactus⟩ \[ˈkaktus\])  
@@ -11428,7 +11433,7 @@ excited; interested; hype
 exciting
 
 - <a name="telucaki">**telucaki**</a> _v._ ([teluca](#teluca)+[ki](#ki))  
-excite; interest; ʟєꜱ gets ʟᴏᴧ excited about ʟᴜᴍ"
+excite; interest; ʟєꜱ gets ʟᴏᴧ excited about ʟᴜᴍ
 
 - <a name="'teluku">**'teluku**</a> _n._ (Tel. ⟨తెలుగు⟩ \[t̪el̪uɡu\])  
 Telugu; Telugu vaaru; the Telugu people
