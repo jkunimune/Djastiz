@@ -162,7 +162,7 @@
 - <a name="emanapatolon">**emanapatolon**</a> _n._ ([emanapato](#emanapato)+[lon](#lon))  
 
 
-- <a name="'emoci">**'emoci**</a> _n._ (Jap. ⟨絵文字⟩ \[emod͡ʑi\])  
+- <a name="'emoci">**'emoci**</a> _n._ (Jpn. ⟨絵文字⟩ \[emod͡ʑi\])  
 
 
 - <a name="'empanata">**'empanata**</a> _n._ (Spa. ⟨empanada⟩ \[empaˈnaða\])  
@@ -509,7 +509,7 @@ alga
 - <a name="ano">**ano**</a> _v._ ([~~ake~~](#ake))  
 
 
-- <a name="'anol">**'anol**</a> _n._ (Far. ⟨انار⟩ \[æˈnɒːɾ\])  
+- <a name="'anol">**'anol**</a> _n._ (Fas. ⟨انار⟩ \[æˈnɒːɾ\])  
 
 
 - <a name="anolon">**anolon**</a> _n._ ([ano](#ano)+[lon](#lon))  
@@ -1407,7 +1407,7 @@ posición; índice; numero
 - <a name="'ilawankapatay">**'ilawankapatay**</a> _n._ (Tam. ⟨இலவங்கப்பட்டை⟩ \[ilʌʋʌŋˈɡʌpːʌʈːʌj\])  
 
 
-- <a name="'ilan">**'ilan**</a> _n._ (Fas. ⟨ایران‎ ⟩ \[ʔiːɾɒːn\])  
+- <a name="'ilan">**'ilan**</a> _n._ (Fas. ⟨ایران‎⟩ \[ʔiːɾɒːn\])  
 
 
 - <a name="'ilanak">**'ilanak**</a> _n._ (['ilan](#'ilan)+[ak](#ak))  
@@ -2700,7 +2700,7 @@ inspiración
 - <a name="lamakiles">**lamakiles**</a> _n._ ([lamaki](#lamaki)+[les](#les))  
 
 
-- <a name="'lahol">**'lahol**</a> _n._ (Pan. ⟨لہور⟩ \[ləˈhɔːɾ\])  
+- <a name="'lahol">**'lahol**</a> _n._ (Pan. ⟨ਲਾਹੌਰ⟩ \[ləˈhɔːɾ\])  
 
 
 - <a name="'lasapuac">**'lasapuac**</a> _n._ (Ltz. ⟨Lëtzebuerg⟩ \[lət͡səbuːəɕ\])  
@@ -4420,7 +4420,7 @@ locutorio
 - <a name="nituki">**nituki**</a> _v._ ([nitu](#nitu)+[ki](#ki))  
 
 
-- <a name="'nipon">**'nipon**</a> _n._ (Jap. ⟨日本⟩ \[ɲipːoɴ\])  
+- <a name="'nipon">**'nipon**</a> _n._ (Jpn. ⟨日本⟩ \[ɲipːoɴ\])  
 
 
 - <a name="'niponak">**'niponak**</a> _n._ (['nipon](#'nipon)+[ak](#ak))  
@@ -6574,7 +6574,7 @@ ocho
 - <a name="calupowinyolon">**calupowinyolon**</a> _n._ ([calupowinyo](#calupowinyo)+[lon](#lon))  
 
 
-- <a name="'cawa">**'cawa**</a> _n._ (Jav. ⟨ꦗꦮ⟩ \[d͡ʒɔwɔ\])  
+- <a name="'cawa">**'cawa**</a> _n._ (Jav. ⟨Jawa⟩ \[d͡ʒɔwɔ\])  
 
 
 - <a name="'cawaak">**'cawaak**</a> _n._ (['cawa](#'cawa)+[ak](#ak))  
@@ -7078,7 +7078,7 @@ sexto
 - <a name="cintaluat">**cintaluat**</a> _n._ ([cinta](#cinta)+[luat](#luat))  
 
 
-- <a name="'cinto">**'cinto**</a> _n._ (Jap. ⟨神道⟩ \[ɕintoː\])  
+- <a name="'cinto">**'cinto**</a> _n._ (Jpn. ⟨神道⟩ \[ɕintoː\])  
 
 
 - <a name="'cintoak">**'cintoak**</a> _n._ (['cinto](#'cinto)+[ak](#ak))  
@@ -9904,7 +9904,7 @@ unir; combinar; juncar; ʟєꜱ une ʟᴏᴧ a uno
 - <a name="'kaka">**'kaka**</a> _n._ (Non. ⟨kaka⟩ \[kaka\])  
 
 
-- <a name="'kaki">**'kaki**</a> _n._ (Jap. ⟨柿⟩ \[kakʲi\])  
+- <a name="'kaki">**'kaki**</a> _n._ (Jpn. ⟨柿⟩ \[kakʲi\])  
 
 
 - <a name="kaktus">**kaktus**</a> _n._ (Spa. ⟨cactus⟩ \[ˈkaktus\])  
@@ -12773,7 +12773,7 @@ mitad; medio; 1/2; .5
 - <a name="pamapoltekiles">**pamapoltekiles**</a> _n._ ([pamapolteki](#pamapolteki)+[les](#les))  
 
 
-- <a name="'pahai">**'pahai**</a> _n._ (Far. ⟨بهائی‎⟩ \[ba˨ˈha˦ʔi˦\])  
+- <a name="'pahai">**'pahai**</a> _n._ (Fas. ⟨بهائی‎⟩ \[ba˨ˈha˦ʔi˦\])  
 
 
 - <a name="'pahaiak">**'pahaiak**</a> _n._ (['pahai](#'pahai)+[ak](#ak))  
@@ -12872,7 +12872,7 @@ mitad; medio; 1/2; .5
 - <a name="pasak">**pasak**</a> _n._ ([pas](#pas)+[ak](#ak))  
 
 
-- <a name="'pakistan">**'pakistan**</a> _n._ (Pan. ⟨پاکِستان‎⟩ \[pɑːkɪstɑːn\])  
+- <a name="'pakistan">**'pakistan**</a> _n._ (Pan. ⟨ਪਾਕਿਸਤਾਨ‎⟩ \[pɑːkɪstɑːn\])  
 
 
 - <a name="'pakistanak">**'pakistanak**</a> _n._ (['pakistan](#'pakistan)+[ak](#ak))  

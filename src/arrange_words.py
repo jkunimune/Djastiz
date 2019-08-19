@@ -113,11 +113,13 @@ MARKDOWN_ENTRY = """\
 
 """
 LATEX_ENTRY = """\
-\\textbf{{{otp}}} \\textit{{{pos}.}} ({source_str_tex})
-{definitions_tex} \\label{{{otp}}} \\\\
+\\textbf{{\\hypertarget{{{otp}}}{{{otp}}}}} \\textit{{{pos}.}} ({source_str_tex})
+{definitions_tex}
+
 """
 LATEX_REVERSE = """\
-\\textbf{{{gloss}}} {translations} \\\\
+\\textbf{{{gloss}}} {translations}
+
 """
 
 
@@ -152,15 +154,15 @@ def latexify(md):
 			tex.pop()
 			enclosing.pop()
 		elif enclosing[-1] == '[' and token == ']': # if it's closing an earlier bracket
-			tex[-2] += '\\url{{{}}}'.format(tex[-1]) # add a hyperref
+			tex[-2] += '\\url{{{}}}'.format(tex[-1]) # add a url hyperref
 			tex.pop()
 			enclosing.pop()
 		elif enclosing[-1] == '[' and token == '](': # if it's closing an earlier bracket and opening a parenthesis
-			tex[-2] += '\\hyperref[{{:}}]{{{}}}'.format(tex[-1]) # add a hyperref with a space for the ref
+			tex[-2] += '\\hyperlink{{[:]}}{{{}}}'.format(tex[-1]) # add a hyperref with a space for the ref
 			tex[-1] = ""
 			enclosing[-1] = '('
 		elif enclosing[-1] == '(' and token == ')': # if it's closing an earlier parenthesis
-			tex[-2] = tex[-2].replace('{:}', tex[-1].replace(r'\#','')) # fill out the hyperref
+			tex[-2] = tex[-2].replace('[:]', tex[-1].replace(r'\#','')) # fill out the hyperref
 			tex.pop()
 			enclosing.pop()
 		elif token[0] == '\\': # if a backslash
@@ -169,6 +171,8 @@ def latexify(md):
 			tex[-1] += '\\'+token # add a backslash
 		elif token == "^": # use the escape sequence
 			tex[-1] += '\\textasciicircum{}'
+		elif token == "+": # insert optional line breaks here
+			tex[-1] += '+\\allowbreak '
 		elif token in ['[','~~','_']: # if it's an opening enclosure
 			enclosing.append(token) # note it
 			tex.append("")
@@ -177,6 +181,7 @@ def latexify(md):
 		i += 1
 
 	assert len(enclosing) == 1, "{!r} was never closed in {!r}".format(enclosing, md)
+	tex[0] = tex[0].replace('0 0','0~0').replace('1 0','1~0')
 	return tex[0]
 
 
@@ -776,7 +781,7 @@ def format_dictionary(dictionary, directory):
 			initial = entry['otp'].replace("'",'')[0]
 			if initial != previous_initial:
 				markdown += "### {}\n\n".format(initial)
-				latex = latex[:-3] + "\n\n\\section{{{}}}\n\n".format(CAPITAL[initial])
+				latex += "\\section{{{}}}\n\n".format(CAPITAL[initial])
 				previous_initial = initial
 
 			while 'compound ' in entry['partos']:
@@ -830,12 +835,13 @@ def format_dictionary(dictionary, directory):
 			latex += LATEX_ENTRY.format(**entry)	
 
 		for script, langs in [
-				('arabics',['ara','far','prs']), ('armenian',['hye']), ('avestan',['ave']), ('bengali',['ben']),
-				('chinese',['cmn','nan','yue']), ('cuneiform',['akk']), ('devanagari',['hin','mar','nep','san']),
-				('ethiopic',['tir']), ('gurmukhi',['pan']), ('hebrew',['heb']), ('japanese',['jap']),
-				('javanese',['jav']), ('georgian',['kat']), ('korean',['kor']), ('myanmar',['mya'])]:
+				('arabics',['ara','fas','prs','urd','kur','kxd']), ('armenian',['hye']), ('avestan',['ave']), ('bengali',['ben']),
+				('chinese',['cmn','nan','wuu','yue']), ('cuneiform',['akk']), ('devanagari',['hin','mar','nep','san']),
+				('ethiopic',['amh','tir']), ('gurmukhi',['pan']), ('hebrew',['heb']), ('japanese',['jpn']),
+				('georgian',['kat']), ('khmer',['khm']), ('korean',['kor']), ('lao',['lao']), ('mongolian',['mon']),
+				('myanmar',['mya']), ('tamil',['tam']), ('telugu',['tel']), ('thaana',['div']), ('thai',['tha']), ('tibetan',['dzo']), ('sinhala',['sin'])]:
 			for lang in langs:
-				latex = re.sub(r"{}\. ⟨([^⟩]+)⟩".format(lang.capitalize()), r"{{\\{}{{}}\1}}".format(script), latex)
+				latex = re.sub(r"{}\. ⟨([^⟩]+)⟩".format(lang.capitalize()), r"{}. ⟨{{\\{}{{}}\1}}⟩".format(lang.capitalize(), script), latex)
 
 		with open(path.join(directory, '{}-dict.md'.format(lang2)), 'w', encoding='utf-8') as f:
 			f.write(markdown)

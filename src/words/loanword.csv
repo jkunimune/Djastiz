@@ -114,15 +114,15 @@ India; South Asia; the Hind; the Indian sub-continent {GENITIVE:Indian; from Ind
 Indonesia (archipelago) {GENITIVE:Indonesian; from Indonesia|PEOPLE:Indonesian; the Indonesian people|COUNTRY:Indonesia; the Republic of Indonesia|LANGUAGE:Indonesian; the Indonesian language},,ind <Indonesia> [ɪndonesia],'intonesia
 Interlingua {GENITIVE:Interlingua; in Interlingua|PEOPLE:Interlinguist; Interlingua speakers},,ina <Interlingua> [inteɾˈliŋɡwa],'intelinkwa
 Interlingue; Occidental {GENITIVE:Interlingue; in Interlingue|PEOPLE:Occidentallist; Interlingue speakers},,ile <Interlingue> [interlingwe],'intelinkwe
-Iran {GENITIVE:Iranian; from Iran|PEOPLE:Iranian; Persian; the Iranian people|LANGUAGE:Persian; Farsi; the Persian language},,fas <ایران‎ > [ʔiːɾɒːn],'ilan
+Iran {GENITIVE:Iranian; from Iran|PEOPLE:Iranian; Persian; the Iranian people|LANGUAGE:Persian; Farsi; the Persian language},,fas <ایران‎> [ʔiːɾɒːn],'ilan
 Iraq {GENITIVE:Iraqi; from Iraq|LANGUAGE:Iraqi; the Iraqi people},,ara <عراق> [ʕiraːq],'ilak
 Ireland (landmass) {GENITIVE:Irish; from Ireland|PEOPLE:Irishman; the Irish people|COUNTRY:Ireland; the Republic of Ireland|LANGUAGE:Irish; Gaelic; the Irish language},,gle <Éire> [ˈeːɾʲə],'elya
 Israel {GENITIVE:Israeli; from Israel|PEOPLE:Israelite; the Israeli people|LANGUAGE:Hebrew; the Hebrew language},,heb <ישראל> [jisʁael],'yishael
 Italy {GENITIVE:Italian; Italic; from Italy|PEOPLE:Italian; the Italian people|LANGUAGE:Italian; the Italian language},,ita <Italia> [itaːlja],'italya
 Ivory Coast; Côte d’Ivoire {GENITIVE:Ivorian; from Ivory Coast|PEOPLE:Ivorian; the Ivorian people},,fra <Côte d’Ivoire> [kot divwaʁ],'kotifwah
-Japan {GENITIVE:Japanese; from Japan|PEOPLE:Japanese person; the Japanese people|LANGUAGE:Japanese; the Japanese language},,jap <日本> [ɲipːoɴ],'nipon
+Japan {GENITIVE:Japanese; from Japan|PEOPLE:Japanese person; the Japanese people|LANGUAGE:Japanese; the Japanese language},,jpn <日本> [ɲipːoɴ],'nippon
 Jamaica (landmass) {GENITIVE:Jamaican; from Jamaica|PEOPLE:Jamaican; the Jamaican people|COUNTRY:Jamaica (country)|LANGUAGE:Jamaican Patois; Patwa; Jamaican Creole},,jam <Jamaica> [d͡ʒʊmiɛka],'cumieka
-Java (island) {GENITIVE:Javanese; from Java|PEOPLE:Javanese; the Javanese people|LANGUAGE:Javanese; the Javanese language},,jav <ꦗꦮ> [d͡ʒɔwɔ],'cawa
+Java (island) {GENITIVE:Javanese; from Java|PEOPLE:Javanese; the Javanese people|LANGUAGE:Javanese; the Javanese language},,jav <Jawa> [d͡ʒɔwɔ],'cawa
 Jew; the Jewish people {GENITIVE:Jewish; of the Jews|COUNTRY:Judah; the Kingdom of Judah},,heb <יְהוּדִים> [jehuˈdim],'yehutim
 Jordan river {GENITIVE:Jordanian; from Jordan|PEOPLE:Jordanian; the Jordanian people|COUNTRY:Jordan; the Hashemite Kingdom of Jordan},,ara <ْأردن> [ʔurdunn],'ultun
 Kazakh; Kazakhstani; the Kazakhstani people {GENITIVE:Kazakhstani; from Kazakhstan|COUNTRY:Kazakhstan|LANGUAGE:Kazakh; Kazak; the Kazakh language},,kaz <Kazak> [qɑzɑq],'kasak
@@ -182,7 +182,7 @@ Norway {GENITIVE:Norwegian; from Norway|PEOPLE:Norwegian; the Norwegian people|L
 Novial {GENITIVE:Novial; in Novial|PEOPLE:Novialist; Novial speakers},,nov <novial> [novial],'nowial
 Oman {GENITIVE:Omani; from Oman|PEOPLE:Omani; the Omani people},,ara <عمان‎> [ʕʊˈmaːn],'uman
 Ossetian; Ossete; the Ossetian people {GENITIVE:Ossetian; of the Ossetians|LANGUAGE:Ossetian; Ossete; Ossetic; the Ossetian language},,oss <Аллон> [alon],'alon
-Pakistan {GENITIVE:Pakistani; from Pakistan|PEOPLE:Pakistani; the Pakistani people|LANGUAGE:Urdu; the Urdu language},,pan <پاکِستان‎> [pɑːkɪstɑːn],'pakistan
+Pakistan {GENITIVE:Pakistani; from Pakistan|PEOPLE:Pakistani; the Pakistani people|LANGUAGE:Urdu; the Urdu language},,pan <ਪਾਕਿਸਤਾਨ‎> [pɑːkɪstɑːn],'pakistan
 Palau; Belau; Palaos; Pelew (landmass) {GENITIVE:Palauan; from Palau|PEOPLE:Palauan; the Palauan people|COUNTRY:Palau; the Republic of Palau|LANGUAGE:Palauan; the Palauan language},,pau <Belau> [bɛlaw],'pelaw
 Palestine {GENITIVE:Palestinian; Palestine; from Palestine|PEOPLE:Palestinian; the Palestinian people|REGION:Palestine (region)},,ara <فلسطين> [filastˁiːn],'filastin
 Panama {GENITIVE:Panamanian; from Panama|PEOPLE:Panamanian; the Panamanian people},,spa <Panamá> [panaˈma],'panama
@@ -285,7 +285,7 @@ Jerusalem,,heb <יְרוּשָׁלַיִם> [jeʁuʃaˈlajim],'yelucalayim
 Karachi,,urd <کراچی‎> [kəˈɾaːt͡ʃi],'kalaci
 Kinshasa,,fra <Kinshasa> [kinʃasa],'kincasa
 Lagos,,eng <Lagos> [ˈleɪ̯ɡɒs],'leykos
-Lahore,,pan <لہور> [ləˈhɔːɾ],'lahol
+Lahore,,pan <ਲਾਹੌਰ> [ləˈhɔːɾ],'lahol
 London,,eng <London> [ˈlʌndən],'lontan
 Macau; Macao,,yue <澳門> [ōu˧muːn˧˥],'owmun
 Moscow,,rus <Москва́> [mɐˈskva],'maskwa
@@ -308,7 +308,7 @@ Sigma Octantis; Polaris Australis; the South Star,,lat <Polaris Australis> [pɔl
 Sirius,,lat <Sīrius> [sirɪʊs],'silius
 Vega,,ara <واقع‎> [wɑːqeʔ],'wake
 Andromeda (galaxy) {GENITIVE:Andromedan},,grc <Ἀνδρομέδα> [an˦dro˧me˦da˧],'antometa
-Bahá’í; the Bahá’í Faith; Bahaism {GENITIVE:Bahá’í; of the Bahá’í Faith|PEOPLE:Bahá’í; followers of Bahá’u’lláh},,far <بهائی‎> [ba˨ˈha˦ʔi˦],'pahai
+Bahá’í; the Bahá’í Faith; Bahaism {GENITIVE:Bahá’í; of the Bahá’í Faith|PEOPLE:Bahá’í; followers of Bahá’u’lláh},,fas <بهائی‎> [ba˨ˈha˦ʔi˦],'pahai
 Buddha (title),,san <बुद्ध> [bud̚˨dʱɐ˦],'puta
 Cao Đài; Cao Đài Tiên Ông Đại Bồ Tát Ma Ha Tát,,vie <Cao Đài> [kaːw˧ ɗaːj˦˨],'kawtay
 Catholicism; the Catholic Church; the Roman Catholic Church {GENITIVE:Catholic; Roman Catholic; of the Catholic Church|PEOPLE:Catholic; followers of the Catholic Church},,lat <Catholicismo> [kaˈtɔlɪt͡ʃismɔ],'katolicismo
@@ -320,7 +320,7 @@ Protestantism {GENITIVE:Protestant; of Protestantism|PEOPLE:Protestant; follower
 Shiva,,san <शिव> [ɕiʋɐ́],'ciwa
 Shakti,,hin <शक्ति> [ʃəkti],'cakti
 Shia Islam; Shia {GENITIVE:Shia; of Shia Islam|PEOPLE:Shia of Ali; Shia; followers of Shia Islam},,ara <شيعة‎> [ʃiːʔah],'ciah
-Shintoism {GENITIVE:Shinto; of Shintoism|PEOPLE:Shintoist; followers of Shintoism},,jap <神道> [ɕintoː],'cinto
+Shintoism {GENITIVE:Shinto; of Shintoism|PEOPLE:Shintoist; followers of Shintoism},,jpn <神道> [ɕintoː],'cinto
 Sikh; followers of Sikhism {GENITIVE:Sikh; of Sikhism},,pan <ਸਿੱਖ> [ˈsɪkkʰ],'sik
 Smriti,,san <स्मृति> [smr̩ti],'samliti
 spirit (Spiritualism),,eng <spirit> [ˈspɪɹʷɪt],'sipiwit
@@ -347,7 +347,7 @@ Christmas,,lat <nātīvitās> [naːˈtiːwɪtaːs],'natiwitas
 Makahiki; the Makahiki season,,haw <makahiki> [makɐˈhiki],'makahiki
 fox; dog; vixen; Vulpes,,lat <vulpes> [ˈwʊɫpɛs],'wulpes
 reef triggerfish; rectangular triggerfish,,haw <humuhumunukunukuapuaʻa> [ˈhumuˈhumuˈnukuˈnukuˈwaːpuˈwɐʔə],'humuhumunukunukuapua
-cinnamon; Cinnamomum,,tam <இலவங்கப்பட்டை> [ilʌʋʌŋˈɡʌpːʌʈːʌj],'ilawankapatay
+cinnamon; Cinnamomum,,tam <இலவங்கப்பட்டை> [ilʌʋʌŋˈɡʌpːʌʈːʌj],'ilawankappattay
 date; date palm; Phoenix dactylifera,,ara <بلح> [balɑħ],'palah
 ginger; Zingiber,,pan <ਸੁੰਢ> [suɖə],'suta
 jasmine; Jasminum,,hin <चमेली> [t͡ʃəmeːliː],'cameli
@@ -356,8 +356,8 @@ leek,,lat <Porrum> [pɔrːʊ̃],'polum
 mango; Mangifera,,tam <மாம்பழம்> [maːmpɐɻɐm],'mampalam
 nutmeg; Myristica fragrans,,ind <pala> [pala],'pala
 olive; Olea europaea,,lat <oliva> [ɔˈliwa],'oliwa
-persimmon; persimon; Diospyros,,jap <柿> [kakʲi],'kaki
-pomegranate; Punica,,far <انار> [æˈnɒːɾ],'anol
+persimmon; persimon; Diospyros,,jpn <柿> [kakʲi],'kaki
+pomegranate; Punica,,fas <انار> [æˈnɒːɾ],'anol
 cake,,non <kaka> [kaka],'kaka
 calzone,,ita <calzone> [kalˈt͡soːne],'kalsone
 chowder,,eng <chowder> [ˈt͡ʃaʊ̯dɚ],'cawta
@@ -453,4 +453,4 @@ YHWH; Yahweh; Jehovah; God; Allah; Abrahamic God,,heb <יהוה‬> [jahwe],'yah
 amen,,heb <אָמֵן> [ɔˈmeɪ̯n],'omeyn
 email,,eng <email> [ˈiːmeɪ̯l],'imeyl
 Unicode,,eng <Unicode> [ˈjunɪkoʊ̯d],'yunikowt
-emoji,,jap <絵文字> [emod͡ʑi],'emoci
+emoji,,jpn <絵文字> [emod͡ʑi],'emoci
