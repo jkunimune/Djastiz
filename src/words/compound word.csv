@@ -136,7 +136,7 @@ next year,,next year,kulanpumkwelwel
 bathroom; restroom,,be-clean indoors,pulanelon
 layer,,be-below surface,nicelumah
 dream; OBJ {dreamer} dreams IND {dream},,sleep perceive,tolmicua
-daydream; hallucinate; OBJ {daydreamer} hallucinates IND {daydream},,day dream,sunkwelweltolmicua
+daydream; hallucinate; OBJ {daydreamer} hallucinates IND {daydream},,daytime dream,fuhalweltolmicua
 be comatose; OBJ is in a coma,,be-finite be-dead,osiminyouhu
 map,,layout image,leyawthulum
 map projection,,map transformation,leyawthulumpatililip
@@ -338,7 +338,7 @@ mamary gland,,parent gland,mamaec
 breast; bussom; boob; nipple,,parent nub,mamatapalon
 bladder,,urine gland,pilacwelonec
 rectum,,feces gland,nalkaskutilonec
-anus; asshole,,feces hole,nalkaskutilonkokilyot
+anus; asshole,,buttocks hole,nalkaskokilyot
 lick; SBJ {licker} licks OBJ {licked},,tongue rub,utoecsapu
 suck; SBJ {sucker} sucks on OBJ {sucked},,mouth rub,nyamaecsapu
 sand; SBJ {sander} sands OBJ {sanded},,powder rub,ufalonsapu
@@ -437,7 +437,7 @@ do psychology; SBJ {psychologist} studies the human mind to learn about OBJ {psy
 do sociology; SBJ {sociologist} studies societies to learn about OBJ {sociology},,society study,sosialumsoma
 do economics; SBJ {economist} studies economies to learn about OBJ {economics},,economy study,mailetsoma
 do history; SBJ {historian} studies the past to test and update OBJ {history},,past study,citulonsoma
-do linguistics; SBJ {linguist} studies languages to learn about OBJ {linguist},,language study,tilipsoma
+do linguistics; SBJ {linguist} studies languages to learn about OBJ {linguistics},,language study,tilipsoma
 do pedagogy; SBJ {pedagologist} studies pedagogy to learn about OBJ {pedagogy},,teach study,nokisoma
 do computer science; SBJ {computer scientist} studies computers to learn about OBJ {computer science},,computer study,komputsoma
 do theology; SBJ {theologist} studies religion to learn about OBJ {theology},,god study,kotsoma
@@ -505,8 +505,8 @@ sophomore year of college,,14 teach year,kanfolnokipumkwelwel
 junior year of college,,15 teach year,kanlimnokipumkwelwel
 senior year of college,,16 teach year,kancahnokipumkwelwel
 be undead; OBJ is undead {TIME:afterlife},,live repeat,icipeta
-mine; quarry,,stone source,patolonmwonilum
-well,,water source,icicwelonmwonilum
+mine; quarry,,stone source,patolontuekilyot
+well,,be-liquid source,cwetuekilyot
 explode; blow up; detonate; SBJ {exploder} makes OBJ {exploded} explode,,break spread-out,lotokihepuki
 implode; SBJ {imploder} makes OBJ {imploded} implode,,break gather,lotokicomiki
 be timely; be on time; OBJ is at the correct time,,must be-early,tewicitu
@@ -524,7 +524,7 @@ tsunami; tidal wave; OBJ is struck by a tsunami from SBJ {oceanic earthquake},,b
 thunderstorm,,be-charged storm,inatupan
 hurricane; typhoon,,spin storm,kumnatupan
 volcano,,be-hot mountain,okupil
-umbrella,,rain shield,mipkaesilakipowinules
+umbrella,,sky shield,mipsilakipowinules
 address,,location number,kwelyotestalyan
 be legally required; be mandated by law; OBJ is required by law to make IND {law} happen,,govern must,tuncitewi
 legislate; mandate; pass law; SBJ {legislator; legislature; parliament; congress} legally declares that OBJ must make IND {new law} happen,,govern assign,tuncitewiki
@@ -542,13 +542,13 @@ nondominant hand,,be-inept hand,tifecoh
 be ambidextrous; OBJ is ambidextrous,,2 hand be-skillful,toscohluso
 employ; contract; work for; OBJ {employee} works on IND {job; work} for SBJ {employer; boss} in exchange for money {TIME:employment; career},,work sell,icemai
 buy service; serve; OBJ {server} performs IND {service} for SBJ {customer} in exchange for money {TIME:service},,do sell,kwekimai
-buy good; produce; OBJ {producer; vendor} gives IND {good} to SBJ {consumer} in exchange for money {TIME:sale},,object sell,amapowilummai
+buy good; produce; OBJ {producer; vendor} gives IND {good} to SBJ {consumer} in exchange for money {TIME:sale},,can-feel sell,amamai
 team,,help group,ayutapaltolum
 conduct; be conductive; OBJ {conductor} conducts electricity {AMOUNT:conductivity},,be-charged be-easy,inaisi
 insulate; resist; be resistive; OBJ {insulator; resistor} resists electrical current {AMOUNT:resistance},,be-charged be-difficult,inaufu
 mooch; leech; have parasitic relation; OBJ {parasite; leech; freeloader} benefits from hindering IND {host},,hinder live,awilaici
 synergise; have mutualistic relation; OBJ {symbiote} benefits from helping IND {host},,help live,ayutaici
-graph; plot {GENITIVE:graphical},,number image,estalyanhulum
+graph; plot,,number image,estalyanhulum
 asphalt,,path stone,pucolonpatolon
 mail; send letter; SBJ {sender of a letter} sends IND {letter} to OBJ {recipient of a letter} as a letter,,paper say,tehwokti
 text; message; instant-message SBJ {sender of a text} sends IND {text message} to OBJ {recipient of a text},,be-fast say,yalati
@@ -588,7 +588,7 @@ weave; SBJ {weaver} weaves OBJ,,INCOHATIVE OF be woven,netacotoki
 unweave; SBJ unweaves OBJ,,CESSATIVE OF be woven,netacotonu
 basket,,be-tangled cup,cotomeklelon
 comment; commentary; SBJ {commenter} comments OBJ {metadata; comment; commentary} on IND,,be-outside say,koti
-light; light source,,light source,kwanmwonilum
+light; light source,,light factory,kwanestakilyot
 differentiate; take derivative; SBJ {differentiater} takes the nth derivative of OBJ {antiderivative; differentiation function} with respect to IND {differentiation variable} {AMOUNT:derivative order},,be-fast deduce,yalaiti
 integrate; take integral; SBJ {integrator} takes the n-dimensional integral of OBJ {derivative; integration function} over IND {integration variable} {AMOUNT:integral dimensionality|LOCATION:integration bounds},,all deduce,kititi
 reach; extend; SBJ reaches OBJ toward IND,,touch try,tokaci
@@ -650,8 +650,8 @@ darken; dim; SBJ darkens OBJ,,light dampen,kwansicaki
 tradition; ritual; ceremony,,repeat event,petalwelkwekilon
 think big picture; think grandly; OBJ tends to think of the big picture,,group deduce,paltolumiti
 be detail-oriented; OBJ tends to focus on small details,,piece deduce,paltoloniti
-rebel; SBJ rebels against OBJ,,government fight,tuncilumlwa
-protest; SBJ protests IND to OBJ,,government complain,tuncilumwahauti
+rebel; SBJ rebels against OBJ,,govern fight,tuncilwa
+protest; SBJ {protester} protests IND to OBJ,,govern dissent,tuncihauti
 bury; SBJ buries OBJ,,be-soil lower,anipahoki
 exhume; uncover; SBJ exhumes OBJ,,be-soil lift,animaceki
 code; program; SBJ {programmer} codes OBJ with IND {code; program},,computer tell,komputnati

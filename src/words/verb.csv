@@ -75,7 +75,7 @@ write; record; type; mark; save; transcribe; SBJ {writer} encodes IND {text; wri
 erase; overwrite; obscure; SBJ {one who erases; eraser} removes traces of OBJ {erased} from IND {blank slate} {INSTRUMENT:eraser},,REVERSAL OF write,lo
 speak; voice; say out loud; SBJ {speaker} says IND {quote; words; phrase; utterance; speech} to OBJ out loud {INSTRUMENT:voice|GENITIVE:vocal; locutory|METHOD:accent; manner of speech|GENITIVE:phonetic},,ben <বলা> [bɔl̪a],pola
 own; have; possess; belong; OBJ {owner} owns IND {property},,jav <duwé> [tṳwe],tue
-give; receive; obtain; get; transfer ownership; SBJ {giver} gives IND {gift; given} to OBJ {receiver; obtainer},,INCOHATIVE OF own,tueki
+give; receive; obtain; get; transfer ownership; SBJ {giver} gives IND {gift; given} to OBJ {receiver; obtainer} {LOCATION:source; dealership},,INCOHATIVE OF own,tueki
 take; lose; give away; renounce ownership; SBJ {taker} takes IND {theft; prize; taken} from OBJ {loser},,CESSATIVE OF own,tuenu
 keep; retain ownership; SBJ lets OBJ {keeper; hoarder} keep IND {kept},,PROGRESSIVE OF own,tuecalu
 beI obtainable; beI common; IND is obtainable to OBJ,,POSSIBILITY OF own,tuepowi

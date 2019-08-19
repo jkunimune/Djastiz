@@ -225,9 +225,6 @@ number; count; amount
 - <a name="estalyanhulum">**estalyanhulum**</a> _n._ ([estalyan](#estalyan)+[hulum](#hulum))  
 graph; plot
 
-- <a name="estalyanhulumak">**estalyanhulumak**</a> _n._ ([estalyanhulum](#estalyanhulum)+[ak](#ak))  
-graphical
-
 - <a name="estanu">**estanu**</a> _v._ ([esta](#esta)+[nu](#nu))  
 delete; destroy; take; disappear; ruin; end; [ʟєꜱ](#estanules) deletes [ʟᴏᴧ](#estanulon)
 
@@ -662,6 +659,21 @@ tactile; tactual
 - <a name="amanu">**amanu**</a> _v._ ([ama](#ama)+[nu](#nu))  
 hide tactually; ʟєꜱ makes ʟᴏᴧ stop feeling ʟᴜᴍ
 
+- <a name="amamai">**amamai**</a> _v._ ([ama](#ama)+[mai](#mai))  
+buy good; produce; [ʟᴏᴧ](#amamailon) gives [ʟᴜᴍ](#amamailum) to [ʟєꜱ](#amamailes) in exchange for money
+
+- <a name="amamailes">**amamailes**</a> _n._ ([amamai](#amamai)+[les](#les))  
+consumer
+
+- <a name="amamailon">**amamailon**</a> _n._ ([amamai](#amamai)+[lon](#lon))  
+producer; vendor
+
+- <a name="amamailum">**amamailum**</a> _n._ ([amamai](#amamai)+[lum](#lum))  
+good
+
+- <a name="amamailwel">**amamailwel**</a> _n._ ([amamai](#amamai)+[lwel](#lwel))  
+sale
+
 - <a name="amak">**amak**</a> _n._ ([am](#am)+[ak](#ak))  
 brachial; appendicular
 
@@ -676,21 +688,6 @@ tangible; physical; objective
 
 - <a name="amapowilum">**amapowilum**</a> _n._ ([amapowi](#amapowi)+[lum](#lum))  
 object; thing
-
-- <a name="amapowilummai">**amapowilummai**</a> _v._ ([amapowilum](#amapowilum)+[mai](#mai))  
-buy good; produce; [ʟᴏᴧ](#amapowilummailon) gives [ʟᴜᴍ](#amapowilummailum) to [ʟєꜱ](#amapowilummailes) in exchange for money
-
-- <a name="amapowilummailwel">**amapowilummailwel**</a> _n._ ([amapowilummai](#amapowilummai)+[lwel](#lwel))  
-sale
-
-- <a name="amapowilummailes">**amapowilummailes**</a> _n._ ([amapowilummai](#amapowilummai)+[les](#les))  
-consumer
-
-- <a name="amapowilummailum">**amapowilummailum**</a> _n._ ([amapowilummai](#amapowilummai)+[lum](#lum))  
-good
-
-- <a name="amapowilummailon">**amapowilummailon**</a> _n._ ([amapowilummai](#amapowilummai)+[lon](#lon))  
-producer; vendor
 
 - <a name="amapowinu">**amapowinu**</a> _v._ ([amapowi](#amapowi)+[nu](#nu))  
 scan; abstract; intangiblise; [ʟєꜱ](#amapowinules) takes ʟᴏᴧ out of the physical realm
@@ -1694,9 +1691,6 @@ carbon; coal
 
 - <a name="icicwelon">**icicwelon**</a> _n._ ([ici](#ici)+[cwelon](#cwelon))  
 water; dihydrogen monoxide
-
-- <a name="icicwelonmwonilum">**icicwelonmwonilum**</a> _n._ ([icicwelon](#icicwelon)+[mwonilum](#mwonilum))  
-well
 
 - <a name="icisoma">**icisoma**</a> _v._ ([ici](#ici)+[soma](#soma))  
 do biology; [ʟєꜱ](#icisomales) studies lifeforms to learn about [ʟᴏᴧ](#icisomalon)
@@ -3934,6 +3928,9 @@ buttocks; butt; bum; soft region between the back of an animal’s legs and tors
 - <a name="nalkasak">**nalkasak**</a> _n._ ([nalkas](#nalkas)+[ak](#ak))  
 gluteal; posterial
 
+- <a name="nalkaskokilyot">**nalkaskokilyot**</a> _n._ ([nalkas](#nalkas)+[kokilyot](#kokilyot))  
+anus; asshole
+
 - <a name="nalkaskutilon">**nalkaskutilon**</a> _n._ ([nalkas](#nalkas)+[kutilon](#kutilon))  
 feces; excrement; poop; manure; guano
 
@@ -3942,9 +3939,6 @@ rectum
 
 - <a name="nalkaskutilonkoki">**nalkaskutilonkoki**</a> _v._ ([nalkaskutilon](#nalkaskutilon)+[koki](#koki))  
 defecate; poop; ʟєꜱ defecates out ʟᴏᴧ
-
-- <a name="nalkaskutilonkokilyot">**nalkaskutilonkokilyot**</a> _n._ ([nalkaskutilon](#nalkaskutilon)+[kokilyot](#kokilyot))  
-anus; asshole
 
 - <a name="'nawatla">**'nawatla**</a> _n._ (Nah. ⟨Nahuatl⟩ \[ˈnaːwat͡ɬ\])  
 Nahuatl; the Nahuatl language
@@ -5493,14 +5487,14 @@ comet
 - <a name="mipcakalum">**mipcakalum**</a> _n._ ([mip](#mip)+[cakalum](#cakalum))  
 nitrogen
 
+- <a name="mipsilakipowinules">**mipsilakipowinules**</a> _n._ ([mip](#mip)+[silakipowinules](#silakipowinules))  
+umbrella
+
 - <a name="mipkae">**mipkae**</a> _v._ ([mip](#mip)+[kae](#kae))  
 rain; precipitate; [ʟᴏᴧ](#mipkaelon) falls from the sky
 
 - <a name="mipkaelon">**mipkaelon**</a> _n._ ([mipkae](#mipkae)+[lon](#lon))  
 rain; precipitation
-
-- <a name="mipkaesilakipowinules">**mipkaesilakipowinules**</a> _n._ ([mipkae](#mipkae)+[silakipowinules](#silakipowinules))  
-umbrella
 
 - <a name="mippes">**mippes**</a> _n._ ([mip](#mip)+[pes](#pes))  
 lungfish
@@ -7594,6 +7588,9 @@ be mercury; be quicksilver; [ʟᴏᴧ](#cwetatulon) is made of mercury
 - <a name="cwetatulon">**cwetatulon**</a> _n._ ([cwetatu](#cwetatu)+[lon](#lon))  
 mercury; quicksilver
 
+- <a name="cwetuekilyot">**cwetuekilyot**</a> _n._ ([cwe](#cwe)+[tuekilyot](#tuekilyot))  
+well
+
 - <a name="cwetyen">**cwetyen**</a> _num._ ([cwe](#cwe)+[tyen](#tyen))  
 oasis; watering hole
 
@@ -8583,15 +8580,6 @@ breakfast time
 - <a name="sunkwelwel">**sunkwelwel**</a> _n._ ([sun](#sun)+[kwelwel](#kwelwel))  
 day; date
 
-- <a name="sunkwelweltolmicua">**sunkwelweltolmicua**</a> _v._ ([sunkwelwel](#sunkwelwel)+[tolmicua](#tolmicua))  
-daydream; hallucinate; [ʟᴏᴧ](#sunkwelweltolmicualon) hallucinates [ʟᴜᴍ](#sunkwelweltolmicualum)
-
-- <a name="sunkwelweltolmicualum">**sunkwelweltolmicualum**</a> _n._ ([sunkwelweltolmicua](#sunkwelweltolmicua)+[lum](#lum))  
-daydream
-
-- <a name="sunkwelweltolmicualon">**sunkwelweltolmicualon**</a> _n._ ([sunkwelweltolmicua](#sunkwelweltolmicua)+[lon](#lon))  
-daydreamer
-
 - <a name="suntaykunpatolon">**suntaykunpatolon**</a> _n._ ([sun](#sun)+[taykun](#taykun)+[patolon](#patolon))  
 asteroid
 
@@ -9343,6 +9331,15 @@ volume; amplitude; brightness
 
 - <a name="fuhalwel">**fuhalwel**</a> _n._ ([fuha](#fuha)+[lwel](#lwel))  
 daytime; day
+
+- <a name="fuhalweltolmicua">**fuhalweltolmicua**</a> _v._ ([fuhalwel](#fuhalwel)+[tolmicua](#tolmicua))  
+daydream; hallucinate; [ʟᴏᴧ](#fuhalweltolmicualon) hallucinates [ʟᴜᴍ](#fuhalweltolmicualum)
+
+- <a name="fuhalweltolmicualum">**fuhalweltolmicualum**</a> _n._ ([fuhalweltolmicua](#fuhalweltolmicua)+[lum](#lum))  
+daydream
+
+- <a name="fuhalweltolmicualon">**fuhalweltolmicualon**</a> _n._ ([fuhalweltolmicua](#fuhalweltolmicua)+[lon](#lon))  
+daydreamer
 
 - <a name="fuhaki">**fuhaki**</a> _v._ ([fuha](#fuha)+[ki](#ki))  
 amplify; louden; brighten; strengthen; crescendo; [ʟєꜱ](#fuhakiles) amplifies ʟᴏᴧ
@@ -10933,6 +10930,9 @@ Grenadan; the Grenadan people
 - <a name="'kwaneytatec">**'kwaneytatec**</a> _n._ (['kwaneyta](#'kwaneyta)+[tec](#tec))  
 Grenada (country)
 
+- <a name="kwanestakilyot">**kwanestakilyot**</a> _n._ ([kwan](#kwan)+[estakilyot](#estakilyot))  
+light; light source
+
 - <a name="kwanak">**kwanak**</a> _n._ ([kwan](#kwan)+[ak](#ak))  
 photic; optic; luminescient
 
@@ -10941,9 +10941,6 @@ lens
 
 - <a name="kwanlamanoluat">**kwanlamanoluat**</a> _n._ ([kwan](#kwan)+[lama](#lama)+[noluat](#noluat))  
 spectrometer
-
-- <a name="kwanmwonilum">**kwanmwonilum**</a> _n._ ([kwan](#kwan)+[mwonilum](#mwonilum))  
-light; light source
 
 - <a name="kwansica">**kwansica**</a> _v._ ([kwan](#kwan)+[sica](#sica))  
 be dim; be dark; [ʟᴏᴧ](#kwansicalon) is dimly lit
@@ -11749,7 +11746,7 @@ do linguistics; [ʟєꜱ](#tilipsomales) studies languages to learn about [ʟᴏ
 linguist
 
 - <a name="tilipsomalon">**tilipsomalon**</a> _n._ ([tilipsoma](#tilipsoma)+[lon](#lon))  
-linguist
+linguistics
 
 - <a name="tiluat">**tiluat**</a> _n._ ([ti](#ti)+[luat](#luat))  
 phone; cell phone; communicator; communication device
@@ -11979,6 +11976,9 @@ receiver; obtainer
 - <a name="tuekilum">**tuekilum**</a> _n._ ([tueki](#tueki)+[lum](#lum))  
 gift; given
 
+- <a name="tuekilyot">**tuekilyot**</a> _n._ ([tueki](#tueki)+[lyot](#lyot))  
+source; dealership
+
 - <a name="tuepowi">**tuepowi**</a> _v._ ([tue](#tue)+[powi](#powi))  
 be obtainable; be common; [ʟᴜᴍ](#tuepowilum) is obtainable to ʟᴏᴧ
 
@@ -12075,11 +12075,8 @@ government
 - <a name="tuncilumak">**tuncilumak**</a> _n._ ([tuncilum](#tuncilum)+[ak](#ak))  
 public
 
-- <a name="tuncilumlwa">**tuncilumlwa**</a> _v._ ([tuncilum](#tuncilum)+[lwa](#lwa))  
+- <a name="tuncilwa">**tuncilwa**</a> _v._ ([tunci](#tunci)+[lwa](#lwa))  
 rebel; ʟєꜱ rebels against ʟᴏᴧ
-
-- <a name="tuncilumwahauti">**tuncilumwahauti**</a> _v._ ([tuncilum](#tuncilum)+[wahauti](#wahauti))  
-protest; ʟєꜱ protests ʟᴜᴍ to ʟᴏᴧ
 
 - <a name="tuncinu">**tuncinu**</a> _v._ ([tunci](#tunci)+[nu](#nu))  
 secede; collapse; impeach; ʟєꜱ makes ʟᴜᴍ stop governing ʟᴏᴧ
@@ -12095,6 +12092,12 @@ crime; felony; misdemeanor
 
 - <a name="tuncinyotewiki">**tuncinyotewiki**</a> _v._ ([tunci](#tunci)+[nyotewiki](#nyotewiki))  
 prohibit; ban; pass law against; ʟєꜱ legally declares that ʟᴏᴧ may not make ʟᴜᴍ happen
+
+- <a name="tuncihauti">**tuncihauti**</a> _v._ ([tunci](#tunci)+[hauti](#hauti))  
+protest; [ʟєꜱ](#tuncihautiles) protests ʟᴜᴍ to ʟᴏᴧ
+
+- <a name="tuncihautiles">**tuncihautiles**</a> _n._ ([tuncihauti](#tuncihauti)+[les](#les))  
+protester
 
 - <a name="tunciki">**tunciki**</a> _v._ ([tunci](#tunci)+[ki](#ki))  
 take over; elect; come to power; conquer; annex; ʟєꜱ makes ʟᴜᴍ become the government of ʟᴏᴧ
@@ -12929,7 +12932,7 @@ desert
 - <a name="patolon">**patolon**</a> _n._ ([pato](#pato)+[lon](#lon))  
 stone; rock; earthen
 
-- <a name="patolonmwonilum">**patolonmwonilum**</a> _n._ ([patolon](#patolon)+[mwonilum](#mwonilum))  
+- <a name="patolontuekilyot">**patolontuekilyot**</a> _n._ ([patolon](#patolon)+[tuekilyot](#tuekilyot))  
 mine; quarry
 
 - <a name="patocwelon">**patocwelon**</a> _n._ ([pato](#pato)+[cwelon](#cwelon))  

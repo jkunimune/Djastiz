@@ -225,9 +225,6 @@
 - <a name="estalyanhulum">**estalyanhulum**</a> _n._ ([estalyan](#estalyan)+[hulum](#hulum))  
 
 
-- <a name="estalyanhulumak">**estalyanhulumak**</a> _n._ ([estalyanhulum](#estalyanhulum)+[ak](#ak))  
-
-
 - <a name="estanu">**estanu**</a> _v._ ([esta](#esta)+[nu](#nu))  
 
 
@@ -662,6 +659,21 @@ alga
 - <a name="amanu">**amanu**</a> _v._ ([ama](#ama)+[nu](#nu))  
 
 
+- <a name="amamai">**amamai**</a> _v._ ([ama](#ama)+[mai](#mai))  
+
+
+- <a name="amamailes">**amamailes**</a> _n._ ([amamai](#amamai)+[les](#les))  
+
+
+- <a name="amamailon">**amamailon**</a> _n._ ([amamai](#amamai)+[lon](#lon))  
+
+
+- <a name="amamailum">**amamailum**</a> _n._ ([amamai](#amamai)+[lum](#lum))  
+
+
+- <a name="amamailwel">**amamailwel**</a> _n._ ([amamai](#amamai)+[lwel](#lwel))  
+
+
 - <a name="amak">**amak**</a> _n._ ([am](#am)+[ak](#ak))  
 
 
@@ -675,21 +687,6 @@ alga
 
 
 - <a name="amapowilum">**amapowilum**</a> _n._ ([amapowi](#amapowi)+[lum](#lum))  
-
-
-- <a name="amapowilummai">**amapowilummai**</a> _v._ ([amapowilum](#amapowilum)+[mai](#mai))  
-
-
-- <a name="amapowilummailwel">**amapowilummailwel**</a> _n._ ([amapowilummai](#amapowilummai)+[lwel](#lwel))  
-
-
-- <a name="amapowilummailes">**amapowilummailes**</a> _n._ ([amapowilummai](#amapowilummai)+[les](#les))  
-
-
-- <a name="amapowilummailum">**amapowilummailum**</a> _n._ ([amapowilummai](#amapowilummai)+[lum](#lum))  
-
-
-- <a name="amapowilummailon">**amapowilummailon**</a> _n._ ([amapowilummai](#amapowilummai)+[lon](#lon))  
 
 
 - <a name="amapowinu">**amapowinu**</a> _v._ ([amapowi](#amapowi)+[nu](#nu))  
@@ -1693,9 +1690,6 @@ mosca; Muscidae
 
 
 - <a name="icicwelon">**icicwelon**</a> _n._ ([ici](#ici)+[cwelon](#cwelon))  
-
-
-- <a name="icicwelonmwonilum">**icicwelonmwonilum**</a> _n._ ([icicwelon](#icicwelon)+[mwonilum](#mwonilum))  
 
 
 - <a name="icisoma">**icisoma**</a> _v._ ([ici](#ici)+[soma](#soma))  
@@ -3934,6 +3928,9 @@ quinto
 - <a name="nalkasak">**nalkasak**</a> _n._ ([nalkas](#nalkas)+[ak](#ak))  
 
 
+- <a name="nalkaskokilyot">**nalkaskokilyot**</a> _n._ ([nalkas](#nalkas)+[kokilyot](#kokilyot))  
+
+
 - <a name="nalkaskutilon">**nalkaskutilon**</a> _n._ ([nalkas](#nalkas)+[kutilon](#kutilon))  
 
 
@@ -3941,9 +3938,6 @@ quinto
 
 
 - <a name="nalkaskutilonkoki">**nalkaskutilonkoki**</a> _v._ ([nalkaskutilon](#nalkaskutilon)+[koki](#koki))  
-
-
-- <a name="nalkaskutilonkokilyot">**nalkaskutilonkokilyot**</a> _n._ ([nalkaskutilon](#nalkaskutilon)+[kokilyot](#kokilyot))  
 
 
 - <a name="'nawatla">**'nawatla**</a> _n._ (Nah. ⟨Nahuatl⟩ \[ˈnaːwat͡ɬ\])  
@@ -5493,13 +5487,13 @@ ser ligero; [ʟᴏᴧ](#matulon) es ligero
 - <a name="mipcakalum">**mipcakalum**</a> _n._ ([mip](#mip)+[cakalum](#cakalum))  
 
 
+- <a name="mipsilakipowinules">**mipsilakipowinules**</a> _n._ ([mip](#mip)+[silakipowinules](#silakipowinules))  
+
+
 - <a name="mipkae">**mipkae**</a> _v._ ([mip](#mip)+[kae](#kae))  
 
 
 - <a name="mipkaelon">**mipkaelon**</a> _n._ ([mipkae](#mipkae)+[lon](#lon))  
-
-
-- <a name="mipkaesilakipowinules">**mipkaesilakipowinules**</a> _n._ ([mipkae](#mipkae)+[silakipowinules](#silakipowinules))  
 
 
 - <a name="mippes">**mippes**</a> _n._ ([mip](#mip)+[pes](#pes))  
@@ -7594,6 +7588,9 @@ ducha
 - <a name="cwetatulon">**cwetatulon**</a> _n._ ([cwetatu](#cwetatu)+[lon](#lon))  
 
 
+- <a name="cwetuekilyot">**cwetuekilyot**</a> _n._ ([cwe](#cwe)+[tuekilyot](#tuekilyot))  
+
+
 - <a name="cwetyen">**cwetyen**</a> _num._ ([cwe](#cwe)+[tyen](#tyen))  
 
 
@@ -8583,15 +8580,6 @@ línea; plano
 - <a name="sunkwelwel">**sunkwelwel**</a> _n._ ([sun](#sun)+[kwelwel](#kwelwel))  
 
 
-- <a name="sunkwelweltolmicua">**sunkwelweltolmicua**</a> _v._ ([sunkwelwel](#sunkwelwel)+[tolmicua](#tolmicua))  
-
-
-- <a name="sunkwelweltolmicualum">**sunkwelweltolmicualum**</a> _n._ ([sunkwelweltolmicua](#sunkwelweltolmicua)+[lum](#lum))  
-
-
-- <a name="sunkwelweltolmicualon">**sunkwelweltolmicualon**</a> _n._ ([sunkwelweltolmicua](#sunkwelweltolmicua)+[lon](#lon))  
-
-
 - <a name="suntaykunpatolon">**suntaykunpatolon**</a> _n._ ([sun](#sun)+[taykun](#taykun)+[patolon](#patolon))  
 
 
@@ -9342,6 +9330,15 @@ cuarto
 
 
 - <a name="fuhalwel">**fuhalwel**</a> _n._ ([fuha](#fuha)+[lwel](#lwel))  
+
+
+- <a name="fuhalweltolmicua">**fuhalweltolmicua**</a> _v._ ([fuhalwel](#fuhalwel)+[tolmicua](#tolmicua))  
+
+
+- <a name="fuhalweltolmicualum">**fuhalweltolmicualum**</a> _n._ ([fuhalweltolmicua](#fuhalweltolmicua)+[lum](#lum))  
+
+
+- <a name="fuhalweltolmicualon">**fuhalweltolmicualon**</a> _n._ ([fuhalweltolmicua](#fuhalweltolmicua)+[lon](#lon))  
 
 
 - <a name="fuhaki">**fuhaki**</a> _v._ ([fuha](#fuha)+[ki](#ki))  
@@ -10933,6 +10930,9 @@ luz
 - <a name="'kwaneytatec">**'kwaneytatec**</a> _n._ (['kwaneyta](#'kwaneyta)+[tec](#tec))  
 
 
+- <a name="kwanestakilyot">**kwanestakilyot**</a> _n._ ([kwan](#kwan)+[estakilyot](#estakilyot))  
+
+
 - <a name="kwanak">**kwanak**</a> _n._ ([kwan](#kwan)+[ak](#ak))  
 
 
@@ -10940,9 +10940,6 @@ luz
 
 
 - <a name="kwanlamanoluat">**kwanlamanoluat**</a> _n._ ([kwan](#kwan)+[lama](#lama)+[noluat](#noluat))  
-
-
-- <a name="kwanmwonilum">**kwanmwonilum**</a> _n._ ([kwan](#kwan)+[mwonilum](#mwonilum))  
 
 
 - <a name="kwansica">**kwansica**</a> _v._ ([kwan](#kwan)+[sica](#sica))  
@@ -11979,6 +11976,9 @@ dos tercios; 2/3; .̅6
 - <a name="tuekilum">**tuekilum**</a> _n._ ([tueki](#tueki)+[lum](#lum))  
 
 
+- <a name="tuekilyot">**tuekilyot**</a> _n._ ([tueki](#tueki)+[lyot](#lyot))  
+
+
 - <a name="tuepowi">**tuepowi**</a> _v._ ([tue](#tue)+[powi](#powi))  
 
 
@@ -12075,10 +12075,7 @@ dos tercios; 2/3; .̅6
 - <a name="tuncilumak">**tuncilumak**</a> _n._ ([tuncilum](#tuncilum)+[ak](#ak))  
 
 
-- <a name="tuncilumlwa">**tuncilumlwa**</a> _v._ ([tuncilum](#tuncilum)+[lwa](#lwa))  
-
-
-- <a name="tuncilumwahauti">**tuncilumwahauti**</a> _v._ ([tuncilum](#tuncilum)+[wahauti](#wahauti))  
+- <a name="tuncilwa">**tuncilwa**</a> _v._ ([tunci](#tunci)+[lwa](#lwa))  
 
 
 - <a name="tuncinu">**tuncinu**</a> _v._ ([tunci](#tunci)+[nu](#nu))  
@@ -12094,6 +12091,12 @@ dos tercios; 2/3; .̅6
 
 
 - <a name="tuncinyotewiki">**tuncinyotewiki**</a> _v._ ([tunci](#tunci)+[nyotewiki](#nyotewiki))  
+
+
+- <a name="tuncihauti">**tuncihauti**</a> _v._ ([tunci](#tunci)+[hauti](#hauti))  
+
+
+- <a name="tuncihautiles">**tuncihautiles**</a> _n._ ([tuncihauti](#tuncihauti)+[les](#les))  
 
 
 - <a name="tunciki">**tunciki**</a> _v._ ([tunci](#tunci)+[ki](#ki))  
@@ -12929,7 +12932,7 @@ mitad; medio; 1/2; .5
 - <a name="patolon">**patolon**</a> _n._ ([pato](#pato)+[lon](#lon))  
 
 
-- <a name="patolonmwonilum">**patolonmwonilum**</a> _n._ ([patolon](#patolon)+[mwonilum](#mwonilum))  
+- <a name="patolontuekilyot">**patolontuekilyot**</a> _n._ ([patolon](#patolon)+[tuekilyot](#tuekilyot))  
 
 
 - <a name="patocwelon">**patocwelon**</a> _n._ ([pato](#pato)+[cwelon](#cwelon))  
