@@ -162,7 +162,7 @@ be glass; [ʟᴏᴧ](#emanapatolon) is made of glass
 - <a name="emanapatolon">**emanapatolon**</a> _n._ ([emanapato](#emanapato)+[lon](#lon))  
 glass
 
-- <a name="'emoci">**'emoci**</a> _n._ (Jap. ⟨絵文字⟩ \[emod͡ʑi\])  
+- <a name="'emoci">**'emoci**</a> _n._ (Jpn. ⟨絵文字⟩ \[emod͡ʑi\])  
 emoji
 
 - <a name="'empanata">**'empanata**</a> _n._ (Spa. ⟨empanada⟩ \[empaˈnaða\])  
@@ -509,7 +509,7 @@ sea anemone; Actiniaria
 - <a name="ano">**ano**</a> _v._ ([~~ake~~](#ake))  
 be behind; be backward; lag; [ʟᴏᴧ](#anolon) has a negative _y_ coordinate from ʟᴜᴍ’s point of view
 
-- <a name="'anol">**'anol**</a> _n._ (Far. ⟨انار⟩ \[æˈnɒːɾ\])  
+- <a name="'anol">**'anol**</a> _n._ (Fas. ⟨انار⟩ \[æˈnɒːɾ\])  
 pomegranate; Punica
 
 - <a name="anolon">**anolon**</a> _n._ ([ano](#ano)+[lon](#lon))  
@@ -1407,7 +1407,7 @@ wedding
 - <a name="'ilawankapatay">**'ilawankapatay**</a> _n._ (Tam. ⟨இலவங்கப்பட்டை⟩ \[ilʌʋʌŋˈɡʌpːʌʈːʌj\])  
 cinnamon; Cinnamomum
 
-- <a name="'ilan">**'ilan**</a> _n._ (Fas. ⟨ایران‎ ⟩ \[ʔiːɾɒːn\])  
+- <a name="'ilan">**'ilan**</a> _n._ (Fas. ⟨ایران‎⟩ \[ʔiːɾɒːn\])  
 Iran
 
 - <a name="'ilanak">**'ilanak**</a> _n._ (['ilan](#'ilan)+[ak](#ak))  
@@ -2700,7 +2700,7 @@ lengthen; grow; [ʟєꜱ](#lamakiles) lengthens ʟᴏᴧ
 - <a name="lamakiles">**lamakiles**</a> _n._ ([lamaki](#lamaki)+[les](#les))  
 lengthener
 
-- <a name="'lahol">**'lahol**</a> _n._ (Pan. ⟨لہور⟩ \[ləˈhɔːɾ\])  
+- <a name="'lahol">**'lahol**</a> _n._ (Pan. ⟨ਲਾਹੌਰ⟩ \[ləˈhɔːɾ\])  
 Lahore
 
 - <a name="'lasapuac">**'lasapuac**</a> _n._ (Ltz. ⟨Lëtzebuerg⟩ \[lət͡səbuːəɕ\])  
@@ -4420,7 +4420,7 @@ unsavoury
 - <a name="nituki">**nituki**</a> _v._ ([nitu](#nitu)+[ki](#ki))  
 desavoury; ʟєꜱ makes ʟᴏᴧ become less savoury
 
-- <a name="'nipon">**'nipon**</a> _n._ (Jap. ⟨日本⟩ \[ɲipːoɴ\])  
+- <a name="'nipon">**'nipon**</a> _n._ (Jpn. ⟨日本⟩ \[ɲipːoɴ\])  
 Japan
 
 - <a name="'niponak">**'niponak**</a> _n._ (['nipon](#'nipon)+[ak](#ak))  
@@ -6574,7 +6574,7 @@ be unstable; be unsustainable; [ʟᴏᴧ](#calupowinyolon) cannot continue forev
 - <a name="calupowinyolon">**calupowinyolon**</a> _n._ ([calupowinyo](#calupowinyo)+[lon](#lon))  
 unstable; unsustainable
 
-- <a name="'cawa">**'cawa**</a> _n._ (Jav. ⟨ꦗꦮ⟩ \[d͡ʒɔwɔ\])  
+- <a name="'cawa">**'cawa**</a> _n._ (Jav. ⟨Jawa⟩ \[d͡ʒɔwɔ\])  
 Java (island)
 
 - <a name="'cawaak">**'cawaak**</a> _n._ (['cawa](#'cawa)+[ak](#ak))  
@@ -7078,7 +7078,7 @@ train of thought
 - <a name="cintaluat">**cintaluat**</a> _n._ ([cinta](#cinta)+[luat](#luat))  
 mind; imaaagination
 
-- <a name="'cinto">**'cinto**</a> _n._ (Jap. ⟨神道⟩ \[ɕintoː\])  
+- <a name="'cinto">**'cinto**</a> _n._ (Jpn. ⟨神道⟩ \[ɕintoː\])  
 Shintoism
 
 - <a name="'cintoak">**'cintoak**</a> _n._ (['cinto](#'cinto)+[ak](#ak))  
@@ -9904,7 +9904,7 @@ Castillian; the Castillian language
 - <a name="'kaka">**'kaka**</a> _n._ (Non. ⟨kaka⟩ \[kaka\])  
 cake
 
-- <a name="'kaki">**'kaki**</a> _n._ (Jap. ⟨柿⟩ \[kakʲi\])  
+- <a name="'kaki">**'kaki**</a> _n._ (Jpn. ⟨柿⟩ \[kakʲi\])  
 persimmon; persimon; Diospyros
 
 - <a name="kaktus">**kaktus**</a> _n._ (Spa. ⟨cactus⟩ \[ˈkaktus\])  
@@ -12773,7 +12773,7 @@ rotate counterclockwise; [ʟєꜱ](#pamapoltekiles) turns ʟᴏᴧ counterclockw
 - <a name="pamapoltekiles">**pamapoltekiles**</a> _n._ ([pamapolteki](#pamapolteki)+[les](#les))  
 counterclockwise turner
 
-- <a name="'pahai">**'pahai**</a> _n._ (Far. ⟨بهائی‎⟩ \[ba˨ˈha˦ʔi˦\])  
+- <a name="'pahai">**'pahai**</a> _n._ (Fas. ⟨بهائی‎⟩ \[ba˨ˈha˦ʔi˦\])  
 Bahá’í; the Bahá’í Faith; Bahaism
 
 - <a name="'pahaiak">**'pahaiak**</a> _n._ (['pahai](#'pahai)+[ak](#ak))  
@@ -12872,7 +12872,7 @@ path; line; curve; one-dimensional locus
 - <a name="pasak">**pasak**</a> _n._ ([pas](#pas)+[ak](#ak))  
 linear; curvilinear
 
-- <a name="'pakistan">**'pakistan**</a> _n._ (Pan. ⟨پاکِستان‎⟩ \[pɑːkɪstɑːn\])  
+- <a name="'pakistan">**'pakistan**</a> _n._ (Pan. ⟨ਪਾਕਿਸਤਾਨ‎⟩ \[pɑːkɪstɑːn\])  
 Pakistan
 
 - <a name="'pakistanak">**'pakistanak**</a> _n._ (['pakistan](#'pakistan)+[ak](#ak))  
