@@ -84,13 +84,13 @@ for lang_code, inventory in inventories.items():
 		phonemes[phoneme] = phonemes.get(phoneme,0) + population
 	total_pop += population
 
-num_who_must_learn = [0]*(len(CHATISUN)+1) #find the number of humans who must learn _x_ new phonemes to speak Djastiz
+num_who_must_learn = [0]*(len(OLTILIP)+1) #find the number of humans who must learn _x_ new phonemes to speak Djastiz
 avg_num_to_learn = 0
 specific_needs = {}
 for lang_code, inventory in inventories.items():
 	population = POPULATIONS.get(lang_code, (0,0))[1]
 	num_to_learn = 0
-	for phoneme in CHATISUN:
+	for phoneme in OLTILIP:
 		if phoneme+':' not in inventory:
 			num_to_learn += 1
 			if population:
@@ -102,8 +102,9 @@ for i, num in enumerate(num_who_must_learn):
 	if num == 0:
 		break
 	elif i == 0:
-		print('{:.2%} of humans can pronounce Djastiz words natively.'.format(num/total_pop))
+		print('{:.2%} of humans can pronounce Oltilip words natively.'.format(num/total_pop))
 	else:
+		print('{:.2%} of humans must learn {} new phonem{} to pronounce Oltilip words.'.format(num/total_pop, i, 'es' if i>1 else 'e'))
 print('The average human must learn {:.2f}/{} phonemes to pronounce Oltilip words.'.format(avg_num_to_learn, len(OLTILIP)))
 
 print()
@@ -117,6 +118,6 @@ print()
 for phoneme in sorted(phonemes.keys(), key=lambda p:-phonemes[p]):
 	print("{}\t{:.2f}%".format(phoneme, 100*phonemes[phoneme]/total_pop))
 
-plt.pie(num_who_must_learn, labels=["Native"]+["{} phn.".format(i) for i in range(1,len(CHATISUN)+1)], startangle=-90)
+plt.pie(num_who_must_learn, labels=["Native"]+["{} phn.".format(i) for i in range(1,len(OLTILIP)+1)], startangle=-90)
 plt.axis('equal')
 plt.show()
