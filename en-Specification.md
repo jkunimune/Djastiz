@@ -10,7 +10,7 @@ With that out of the way, let's get onto the language!
 
 ## Phonology and orthography
 
-Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Oltilip's phonology is minimal, though still larger than those of some natural languages. It emphasises universal learnability over root recogniseability.
+Before you read any further, you'll need to know how to read, say, and write these words. Luckily, this is extremely easy. Oltilip's phonology is minimal, though still larger than those of some natural languages. It emphasises universal learnability over root recognisability.
 
 ### Alphabet
 
