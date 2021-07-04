@@ -33,14 +33,14 @@ OLTILIP = {'/p/', '/t/', '/k/', '/ʈʂ/', '/f/', '/s/', '/h/', '[m]', '[n]', '/w
 with open('..\\data\\ethnologue.pkl', 'rb') as f:
 	POPULATIONS = pickle.load(f)
 
-with open('..\\data\\phoible-phonemes.tsv', 'r', encoding='utf-8') as f:
-	reader = csv.reader(f, delimiter='\t')
+with open('..\\data\\phoible.tsv', 'r', encoding='utf-8') as f:
+	reader = csv.reader(f, delimiter=',')
 	header = None
 	data_sets = {}
 	inventories = {}
 	language_names = {}
 	for row in reader:
-		data_idx, lang_code, lang_name, phoneme, clazz = row[0], row[2], row[3], row[7], row[8]
+		data_idx, lang_code, lang_name, phoneme, clazz = row[0], row[2], row[3], row[6], row[9]
 
 		if header is None:
 			header = row
@@ -83,6 +83,7 @@ for lang_code, inventory in inventories.items():
 	for phoneme in inventory:
 		phonemes[phoneme] = phonemes.get(phoneme,0) + population
 	total_pop += population
+	print(population)
 
 num_who_must_learn = [0]*(len(OLTILIP)+1) #find the number of humans who must learn _x_ new phonemes to speak Djastiz
 avg_num_to_learn = 0
