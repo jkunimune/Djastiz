@@ -3400,7 +3400,7 @@ _noun_
 
 ### tudoij
 _noun_  
-	*downstreamness*; combine it with `tius` to get 'flowing'
+	*downstreamness*; combine it with `dou` to get 'flowing'
 
 ### tugag
 _noun_  

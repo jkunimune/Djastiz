@@ -160,7 +160,7 @@ While the existing nouns can describe a great many concepts and contexts given t
 - `tius` changes a word to mean a more extreme version of its original meaning.
 - `peig` changes a word to encompass a range of meanings similar to its original meaning.
 - `zoj` changes a word to refer to the maximum possible state of its original meaning.
-- `dou` changes a word to denote the action or concept associated with its original meaning becoming true. For example, since `ozi` means "altitude", `tiusozi` means "rising".
+- `dou` changes a word to denote the action or concept associated with its original meaning becoming true. For example, since `ozi` means "altitude", `douozi` means "rising".
 
 Note that applying a prefix to a word creates a new word, not a phrase, and prefixes may not modify other prefixes. Therefore, any chain of prefixes should be evaluated last-first.
 
