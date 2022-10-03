@@ -46,10 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Data files
-data/*.pkl
-data/*.tsv
-
 # Python classes
 *.pyc
 
